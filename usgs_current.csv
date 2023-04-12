@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-12T04:44:50.010Z,38.7976685,-122.7498322,1.38,1.05,md,12,97,0.008265,0.01,nc,nc73871160,2023-04-12T04:46:24.677Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.49,0.26,11,automatic,nc,nc
+2023-04-12T04:54:49.450Z,33.1598333,-115.635,3.56,1.45,ml,22,66,0.02394,0.17,ci,ci40439936,2023-04-12T04:58:20.094Z,"12km WNW of Calipatria, CA",earthquake,0.43,0.4,0.185,27,automatic,ci,ci
+2023-04-12T04:44:50.010Z,38.7976685,-122.7498322,1.38,1.05,md,12,97,0.008265,0.01,nc,nc73871160,2023-04-12T04:57:10.736Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.49,0.26,11,automatic,nc,nc
 2023-04-12T04:33:38.221Z,60.4773,-143.0638,16.6,1.1,ml,,,,0.58,ak,ak0234oreada,2023-04-12T04:35:51.132Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-12T04:32:49.261Z,56.9288,-155.5352,0,1.8,ml,,,,0.43,ak,ak0234ore3i6,2023-04-12T04:34:32.721Z,"83 km W of Akhiok, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-12T04:20:59.940Z,64.8364,-148.9451,17.4,1.1,ml,,,,0.36,ak,ak0234orbjqi,2023-04-12T04:22:46.007Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -65,6 +66,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T23:32:07.905Z,35.64171982,-97.99421692,5.45675087,1.96,ml,12,79.12122267,0.149960354,0.7801715193,ok,ok2023hcmx,2023-04-11T23:34:34.220Z,"9 km S of Okarche, Oklahoma",earthquake,3.28625211,4.891688856,0.2,9,automatic,ok,ok
 2023-04-11T23:20:45.620Z,35.0405,-117.6731667,-0.82,1.41,ml,12,73,0.1076,0.13,ci,ci40439800,2023-04-12T00:11:57.840Z,"5km NNW of Boron, CA",quarry blast,0.49,31.61,0.161,17,reviewed,ci,ci
 2023-04-11T23:13:18.520Z,33.7081667,-116.7546667,16.1,0.72,ml,24,81,0.03389,0.1,ci,ci40439792,2023-04-12T00:04:26.266Z,"5km SW of Idyllwild, CA",earthquake,0.29,0.26,0.141,13,reviewed,ci,ci
+2023-04-11T23:09:14.390Z,49.360166666666665,-120.52816666666666,-0.51,1.82,ml,5,216,0.5917,0.16,uw,uw61917306,2023-04-12T04:57:36.650Z,"10 km S of Princeton, Canada",explosion,0.88,31.61,0.08043648554928962,3,reviewed,uw,uw
+2023-04-11T23:06:18.880Z,46.2135,-122.18783333333333,7.31,0.34,ml,13,121,0.001216,0.14,uw,uw61917301,2023-04-12T04:53:00.460Z,"38 km S of Morton, Washington",earthquake,0.87,0.55,0.11282758257701309,7,reviewed,uw,uw
 2023-04-11T23:05:57.810Z,39.3031667,-122.8476667,6.84,2.48,md,48,40,0.1765,0.15,nc,nc73870940,2023-04-12T01:56:14.624Z,"15km SE of Lake Pillsbury, CA",earthquake,0.19,0.77,0.177,49,reviewed,nc,nc
 2023-04-11T23:01:33.620Z,58.2063333333333,-155.222833333333,4.76,-0.52,ml,8,118,,0.09,av,av91844816,2023-04-12T01:54:48.190Z,"84 km NNW of Karluk, Alaska",earthquake,0.26,0.53,0.307443921740191,8,reviewed,av,av
 2023-04-11T22:54:47.380Z,46.831833333333336,-121.952,7.83,0.56,ml,13,202,0.01013,0.08,uw,uw61917296,2023-04-12T00:07:52.810Z,"10 km NE of Ashford, Washington",earthquake,0.4,0.44,0.11397222365291934,6,reviewed,uw,uw
@@ -281,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T05:15:23.361Z,60.1054,-153.1458,123,1.5,ml,,,,0.3,ak,ak0234n4chg0,2023-04-11T05:18:29.505Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T05:08:51.292Z,64.5624,-149.2179,11.3,1.6,ml,,,,0.3,ak,ak0234n4b1l5,2023-04-11T05:10:17.879Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T05:00:31.935Z,37.0889,-116.2663,4.3,-0.4,ml,8,59.66,0.018,0.2574,nn,nn00858092,2023-04-11T19:36:06.488Z,"48 km ENE of Beatty, Nevada",earthquake,,1.8,1.34,6,reviewed,nn,nn
-2023-04-11T04:55:46.080Z,33.5835,-116.8048333,7.97,0.16,ml,18,96,0.03549,0.07,ci,ci40439520,2023-04-11T16:56:34.390Z,"13km WNW of Anza, CA",earthquake,0.2,0.39,0.085,7,reviewed,ci,ci
-2023-04-11T04:52:33.222Z,36.2622,69.3423,24.479,4.5,mb,41,74,1.735,0.72,us,us6000k3f6,2023-04-11T23:08:37.040Z,"28 km NE of Nahrīn, Afghanistan",earthquake,7.28,5.079,0.071,59,reviewed,us,us
