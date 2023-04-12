@@ -280,7 +280,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T05:43:15.020Z,17.9078333333333,-66.9543333333333,15.12,2.24,md,5,240,0.09786,0.07,pr,pr71404408,2023-04-12T06:23:28.790Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.84,0.61,0.0198144268642371,4,reviewed,pr,pr
 2023-04-12T05:42:55.020Z,38.8521652,-122.8008347,1.79,1.56,md,10,127,0.003943,0.01,nc,nc73871240,2023-04-12T05:44:30.663Z,"8km WNW of Cobb, CA",earthquake,0.59,1.08,0.48,5,automatic,nc,nc
 2023-04-12T05:42:41.250Z,38.8305016,-122.8141632,2.27,1.12,md,13,79,0.01789,0.01,nc,nc73871230,2023-04-12T06:25:14.341Z,"8km NW of The Geysers, CA",earthquake,0.32,0.9,0.2,12,automatic,nc,nc
-2023-04-12T05:42:33.130Z,38.8279991,-122.8144989,0.03,2.11,md,17,45,0.01676,0.02,nc,nc73871225,2023-04-12T09:49:14.648Z,"8km NW of The Geysers, CA",earthquake,0.15,0.78,0.09,16,automatic,nc,nc
+2023-04-12T05:42:33.110Z,38.8285,-122.814,0.64,2.09,md,29,43,0.005949,0.02,nc,nc73871225,2023-04-12T21:00:56.543Z,"8km NW of The Geysers, CA",earthquake,0.15,0.28,0.341,27,reviewed,nc,nc
 2023-04-12T05:42:25.740Z,38.8476667,-122.8063333,0.6,2.22,md,44,52,0.01015,0.03,nc,nc73871260,2023-04-12T20:59:11.674Z,"8km WNW of Cobb, CA",earthquake,0.11,0.19,0.405,31,reviewed,nc,nc
 2023-04-12T05:41:51.070Z,38.8351667,-122.8096667,1.95,1.79,md,31,52,0.01176,0.02,nc,nc73871220,2023-04-12T20:50:15.624Z,"8km W of Cobb, CA",earthquake,0.18,0.36,0.209,25,reviewed,nc,nc
 2023-04-12T05:41:26.620Z,38.851,-122.8038333,1.89,2.2,md,49,61,0.006491,0.05,nc,nc73871210,2023-04-12T20:16:14.429Z,"8km WNW of Cobb, CA",earthquake,0.12,0.19,0.321,39,reviewed,nc,nc
@@ -395,7 +395,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T22:33:03.270Z,38.6341667,-122.7143326,9.7,1,md,6,181,0.05422,0.07,nc,nc73870915,2023-04-11T22:49:15.435Z,"13km NE of Windsor, CA",earthquake,3.82,8.34,0.13,6,automatic,nc,nc
 2023-04-11T22:29:34.540Z,57.5734,-154.7703,30.6,1.7,ml,,,,0.79,ak,ak0234nejvm6,2023-04-11T22:31:58.081Z,"18 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T22:28:21.690Z,17.9595,-66.9621666666667,6.44,2.21,md,5,200,0.07873,0.05,pr,pr71404243,2023-04-11T22:39:28.620Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.76,0.39,0.0538929178762662,4,reviewed,pr,pr
-2023-04-11T22:19:21.810Z,60.4546666666667,-152.868166666667,2.08,-0.68,ml,6,218,,0.13,av,av91844766,2023-04-12T01:37:01.170Z,"80 km WNW of Ninilchik, Alaska",earthquake,0.76,31.61,0.173552825993278,6,reviewed,av,av
+2023-04-11T22:19:21.600Z,60.4503333333333,-152.861,5.14,-0.63,ml,6,219,,0.12,av,av91844766,2023-04-12T21:00:31.710Z,"79 km WNW of Ninilchik, Alaska",earthquake,0.78,0.86,0.170848534338747,6,reviewed,av,av
 2023-04-11T22:14:05.597Z,61.3455,-150.1133,34.7,1.9,ml,,,,0.31,ak,ak0234negln3,2023-04-11T22:15:48.256Z,"7 km WSW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-11T22:14:00.070Z,36.5768318,-121.2545013,10.86,1.49,md,5,118,0.05586,0.01,nc,nc73870900,2023-04-12T00:29:21.066Z,"11km WNW of Pinnacles, CA",earthquake,0.68,1.16,0.25,5,automatic,nc,nc
 2023-04-11T21:51:25.401Z,59.6162,-152.4522,71.1,1.7,ml,,,,0.48,ak,ak0234ne3524,2023-04-11T21:53:12.714Z,"39 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -412,4 +412,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T21:09:41.930Z,36.6246681,-121.2588348,6.45,1.82,md,22,84,0.04698,0.24,nc,nc73870865,2023-04-11T22:38:14.378Z,"15km NW of Pinnacles, CA",earthquake,0.51,1.4,0.17,21,automatic,nc,nc
 2023-04-11T21:02:37.050Z,38.9501666666667,-87.7645,19.99,2.41,md,17,111,0.3391,0.25,nm,nm60500608,2023-04-12T12:53:07.386Z,"6 km SSW of Robinson, Illinois",earthquake,0.62,0.79,0.0245128929033616,6,reviewed,nm,nm
 2023-04-11T21:02:18.997Z,28.7864,142.5564,23.442,4.6,mb,40,141,4.916,0.55,us,us6000k3mb,2023-04-11T21:44:56.040Z,"Bonin Islands, Japan region",earthquake,9.02,5.266,0.08,47,reviewed,us,us
-2023-04-11T21:01:07.970Z,38.824501,-122.8036652,2.48,0.78,md,10,104,0.01775,0.01,nc,nc73870860,2023-04-11T22:11:19.218Z,"7km NW of The Geysers, CA",earthquake,0.41,1.01,0.13,13,automatic,nc,nc
