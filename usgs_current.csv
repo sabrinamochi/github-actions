@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-13T16:33:59.250Z,35.9688339,-120.5161667,1.4,0.56,md,9,151,0.02047,0.03,nc,nc73873215,2023-04-13T16:35:31.510Z,"11km NW of Parkfield, CA",earthquake,0.38,0.53,,1,automatic,nc,nc
+2023-04-13T16:33:59.250Z,35.9688339,-120.5161667,1.4,0.56,md,9,151,0.02047,0.03,nc,nc73873215,2023-04-13T16:35:33.632Z,"11km NW of Parkfield, CA",earthquake,0.38,0.53,,1,automatic,nc,nc
+2023-04-13T16:33:14.647Z,60.9655,-152.2944,106.4,1.5,ml,,,,0.36,ak,ak0234qm2nq9,2023-04-13T16:35:48.260Z,"62 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-13T16:22:42.803Z,63.1749,-150.3781,113.8,1.7,ml,,,,0.07,ak,ak0234qm0hlk,2023-04-13T16:26:21.482Z,"75 km WSW of Cantwell, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-04-13T16:21:02.250Z,38.8045006,-122.7720032,9.51,0.72,md,8,209,0.02598,0.06,nc,nc73873210,2023-04-13T16:22:39.223Z,"3km NNW of The Geysers, CA",earthquake,1.78,2.13,0.11,9,automatic,nc,nc
 2023-04-13T16:20:17.960Z,38.8014984,-122.8119965,0.58,1.08,md,16,69,0.01456,0.02,nc,nc73873205,2023-04-13T16:25:37.651Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.56,0.17,16,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T16:05:24.297Z,58.9367,-151.2255,37.4,2.5,ml,,,,0.91,ak,ak0234qlwszx,2023-04-13T16:07:52.342Z,"57 km SE of Port Graham, Alaska",earthquake,,5.2,,,automatic,ak,ak
 2023-04-13T16:04:27.125Z,9.2961,125.5895,16.476,5.1,mww,64,74,2.212,1.35,us,us6000k43z,2023-04-13T16:31:46.710Z,"4 km ESE of Bangonay, Philippines",earthquake,9,4.597,0.065,23,reviewed,us,us
 2023-04-13T16:00:45.990Z,19.1808338165283,-155.551498413086,-1.04999995231628,1.80999994,md,33,103,,0.270000011,hv,hv73362732,2023-04-13T16:04:01.790Z,"8 km WSW of Pāhala, Hawaii",earthquake,0.52,0.25,0.889999986,16,automatic,hv,hv
-2023-04-13T15:54:54.448Z,49.2288,-129.5606,8.215,6,mww,145,102,1.687,1.44,us,us6000k42y,2023-04-13T16:32:09.618Z,"233 km SW of Port McNeill, Canada",earthquake,4.78,3.072,0.032,96,reviewed,us,us
+2023-04-13T15:54:54.448Z,49.2288,-129.5606,8.215,6,mww,145,102,1.687,1.44,us,us6000k42y,2023-04-13T16:37:47.359Z,"233 km SW of Port McNeill, Canada",earthquake,4.78,3.072,0.032,96,reviewed,us,us
 2023-04-13T15:48:16.700Z,38.8289986,-122.8544998,2.44,0.86,md,16,110,0.002354,0.02,nc,nc73873190,2023-04-13T16:05:17.682Z,"10km NW of The Geysers, CA",earthquake,0.29,0.66,0.22,16,automatic,nc,nc
 2023-04-13T15:48:14.710Z,33.7665,-116.9276667,11.64,0.87,ml,18,59,0.07928,0.24,ci,ci40440456,2023-04-13T15:51:43.633Z,"4km SE of San Jacinto, CA",earthquake,0.47,0.91,0.156,19,automatic,ci,ci
 2023-04-13T15:46:49.700Z,46.27949905395508,-122.69666290283203,21.2700004577637,1.872384786605835,ml,30,105,0.1305,0.119999997,uw,uw61917531,2023-04-13T16:34:07.290Z,"16 km E of Castle Rock, Washington",earthquake,0.38,1.28999996,0.3501587212085724,16,reviewed,uw,uw
@@ -273,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T17:06:50.840Z,58.2951666666667,-154.8495,18.13,0.17,ml,10,165,,0.21,av,av91845716,2023-04-12T18:59:11.040Z,"84 km NNW of Karluk, Alaska",earthquake,0.95,1.17,0.169887125512698,10,reviewed,av,av
 2023-04-12T16:59:50.250Z,38.7878342,-122.767334,2.57,0.75,md,16,79,0.01409,0.02,nc,nc73872490,2023-04-12T17:16:10.292Z,"2km NW of The Geysers, CA",earthquake,0.26,0.52,0.14,16,automatic,nc,nc
 2023-04-12T16:47:29.660Z,38.8296661,-122.7978363,1.17,1.08,md,23,35,0.01051,0.02,nc,nc73872475,2023-04-12T16:49:05.236Z,"6km W of Cobb, CA",earthquake,0.17,0.38,0.15,23,automatic,nc,nc
-2023-04-12T16:36:46.430Z,58.1891666666667,-155.293166666667,2.15,-0.2,ml,8,148,,0.07,av,av91845671,2023-04-12T18:49:07.720Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.52,0.30526158562647,8,reviewed,av,av
