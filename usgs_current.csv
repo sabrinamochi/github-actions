@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-15T10:23:12.240Z,38.8163338,-122.8051682,1.61,1.11,md,22,39,0.008025,0.02,nc,nc73873895,2023-04-15T10:24:47.717Z,"6km NW of The Geysers, CA",earthquake,0.18,0.38,0.17,24,automatic,nc,nc
+2023-04-15T10:23:12.240Z,38.8163338,-122.8051682,1.61,1.11,md,22,39,0.008025,0.02,nc,nc73873895,2023-04-15T10:34:11.318Z,"6km NW of The Geysers, CA",earthquake,0.18,0.38,0.17,24,automatic,nc,nc
 2023-04-15T10:20:31.210Z,38.8151665,-122.8071671,1.27,2.13,md,43,41,0.008525,0.06,nc,nc73873890,2023-04-15T10:27:11.274Z,"6km NW of The Geysers, CA",earthquake,0.14,0.22,0.14,44,automatic,nc,nc
 2023-04-15T10:19:55.130Z,38.8208351,-122.8151703,7.59,0.78,md,11,64,0.004731,0.06,nc,nc73873885,2023-04-15T10:21:32.881Z,"7km NW of The Geysers, CA",earthquake,0.73,0.88,0.14,13,automatic,nc,nc
 2023-04-15T10:14:27.780Z,33.5295,-116.7281667,4.6,0.53,ml,26,56,0.03661,0.13,ci,ci40441024,2023-04-15T10:18:04.255Z,"6km WSW of Anza, CA",earthquake,0.19,0.28,0.134,16,automatic,ci,ci
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T00:08:18.930Z,60.038,-153.100333333333,3.09,-0.59,ml,5,116,,0.09,av,av91848976,2023-04-15T00:19:13.800Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.11,0.191399040006682,5,reviewed,av,av
 2023-04-15T00:07:56.410Z,36.0099983,-120.5691681,0.61,0.67,md,8,146,0.0264,0.05,nc,nc73873755,2023-04-15T00:28:17.686Z,"18km NW of Parkfield, CA",earthquake,0.31,0.75,0.19,3,automatic,nc,nc
 2023-04-14T23:58:34.990Z,51.8501666666667,-178.088,3.23,0.55,ml,5,214,,0.21,av,av91848956,2023-04-15T00:15:17.690Z,"100 km W of Adak, Alaska",earthquake,0.72,0.62,0.284049580239346,5,reviewed,av,av
-2023-04-14T23:58:24.845Z,27.4041,34.0154,10,4.3,mb,47,128,4.114,0.77,us,us6000k4nd,2023-04-15T10:30:43.040Z,"Red Sea",earthquake,9.9,1.9,0.102,27,reviewed,us,us
+2023-04-14T23:58:24.845Z,27.4041,34.0154,10,4.3,mb,47,128,4.114,0.77,us,us6000k4nd,2023-04-15T10:31:53.928Z,"Red Sea",earthquake,9.9,1.9,0.102,27,reviewed,us,us
 2023-04-14T23:57:23.290Z,51.8528333333333,-178.084666666667,3.34,0.73,ml,5,210,,0.17,av,av91848951,2023-04-15T00:15:16.720Z,"99 km W of Adak, Alaska",earthquake,0.59,0.53,0.217605588074254,5,reviewed,av,av
 2023-04-14T23:44:36.919Z,-5.3088,34.8928,10,4.9,mb,74,129,4.297,0.43,us,us6000k4kz,2023-04-15T00:59:31.040Z,"Tanzania",earthquake,11.86,1.904,0.065,76,reviewed,us,us
 2023-04-14T23:41:51.824Z,61.5539,-149.7621,33.9,1.6,ml,,,,0.41,ak,ak0234sdtymm,2023-04-14T23:43:57.399Z,"9 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T10:48:07.530Z,19.2439994812012,-155.395004272461,30.7099990844727,2.15,ml,37,136,,0.140000001,hv,hv73363592,2023-04-14T10:53:37.860Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.959999979,0.23,4,automatic,hv,hv
 2023-04-14T10:47:56.372Z,59.3068,-151.7452,48.3,1.8,ml,,,,0.44,ak,ak0234s64met,2023-04-14T10:49:38.989Z,"6 km SE of Port Graham, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-14T10:40:23.287Z,58.1927,-155.3234,1.1,1.2,ml,,,,0.63,ak,ak0234s631ug,2023-04-14T19:46:03.480Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-14T10:37:55.453Z,-6.047,112.9683,592.369,5.4,mb,121,35,2.679,0.76,us,us6000k4bs,2023-04-14T14:57:51.016Z,"112 km NE of Paciran, Indonesia",earthquake,9.19,6.257,0.036,260,reviewed,us,us
