@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-17T14:50:31.580Z,38.8103333,-122.7925034,2.63,1.07,md,19,44,0.003219,0.01,nc,nc73874725,2023-04-17T14:52:10.536Z,"5km NW of The Geysers, CA",earthquake,0.25,0.62,0.09,19,automatic,nc,nc
 2023-04-17T14:28:48.759Z,60.4383,-142.963,14.9,1.2,ml,,,,0.11,ak,ak0234x70b4b,2023-04-17T14:31:26.125Z,"110 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-17T14:19:13.917Z,31.66236579,-104.3587298,2.455322266,2.6,ml,8,70,0.06280171428,0.1,tx,tx2023hmtr,2023-04-17T14:40:40.101Z,"56 km S of Whites City, New Mexico",earthquake,1.058173853,1.940105784,0.2,11,reviewed,tx,tx
 2023-04-17T14:12:04.992Z,38.1208,-117.9905,1.8,1.4,ml,8,125.23,0.078,0.2138,nn,nn00858300,2023-04-17T14:14:52.164Z,"31 km SSE of Mina, Nevada",earthquake,,2.4,0.28,4,automatic,nn,nn
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T13:51:08.770Z,38.8136673,-122.8136673,3.04,0.26,md,8,157,0.01011,0.01,nc,nc73874715,2023-04-17T14:21:15.690Z,"6km NW of The Geysers, CA",earthquake,0.61,1.29,0.16,8,automatic,nc,nc
 2023-04-17T13:30:25.510Z,38.7599983,-122.7044983,1.07,1,md,6,195,0.009129,0.04,nc,nc73874710,2023-04-17T14:11:17.620Z,"2km SSW of Anderson Springs, CA",earthquake,0.85,0.61,0.17,7,automatic,nc,nc
 2023-04-17T13:26:33.187Z,-31.8579,-178.82,10,5.2,mb,65,71,2.701,1.18,us,us6000k51u,2023-04-17T13:56:28.040Z,"Kermadec Islands region",earthquake,5.3,1.661,0.086,44,reviewed,us,us
-2023-04-17T13:26:23.420Z,38.7823334,-122.7245026,1.4,1.48,md,17,80,0.02426,0.02,nc,nc73874700,2023-04-17T14:01:11.551Z,"3km ENE of The Geysers, CA",earthquake,0.23,0.59,0.19,19,automatic,nc,nc
+2023-04-17T13:26:23.420Z,38.7823334,-122.7245026,1.4,1.48,md,17,80,0.02426,0.02,nc,nc73874700,2023-04-17T14:54:15.921Z,"3km ENE of The Geysers, CA",earthquake,0.23,0.59,0.19,19,automatic,nc,nc
 2023-04-17T13:22:00.470Z,38.8318329,-122.8164978,1.71,0.36,md,8,83,0.009806,0.01,nc,nc73874695,2023-04-17T14:21:16.689Z,"8km NW of The Geysers, CA",earthquake,0.45,1.41,0.27,10,automatic,nc,nc
 2023-04-17T13:08:18.702Z,59.9278,-152.606,76.1,2,ml,,,,0.51,ak,ak0234x6aivi,2023-04-17T13:09:58.102Z,"46 km WNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-17T13:07:40.350Z,19.2678337097168,-155.404327392578,31.7700004577637,2.88,ml,44,121,,0.119999997,hv,hv73366972,2023-04-17T13:14:32.003Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.88,23,automatic,hv,hv
@@ -116,6 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T01:34:08.120Z,38.8186684,-122.822998,2.14,0.76,md,11,116,0.0104,0.02,nc,nc73874500,2023-04-17T02:46:14.438Z,"7km NW of The Geysers, CA",earthquake,0.42,0.81,0.32,12,automatic,nc,nc
 2023-04-17T01:27:33.420Z,19.38450050354,-155.278503417969,1.21000003814697,1.80999994,md,12,72,,0.109999999,hv,hv73366117,2023-04-17T01:30:30.440Z,"7 km SW of Volcano, Hawaii",earthquake,0.36,0.209999993,1.62,11,automatic,hv,hv
 2023-04-17T01:15:40.270Z,17.9476666666667,-66.9613333333333,15.45,2.98,md,7,216,0.08182,0.06,pr,pr71405433,2023-04-17T01:40:58.120Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.56,0.14347499659658,5,reviewed,pr,pr
+2023-04-17T01:15:09.340Z,33.8546667,-116.891,11.3,0.63,ml,33,114,0.08071,0.14,ci,ci40441680,2023-04-17T14:58:38.604Z,"8km S of Banning, CA",earthquake,0.24,0.56,0.079,11,reviewed,ci,ci
 2023-04-17T01:11:50.820Z,38.8118324,-122.7711639,0.9,0.29,md,7,138,0.007574,0.02,nc,nc73874490,2023-04-17T01:53:20.104Z,"4km NNW of The Geysers, CA",earthquake,0.42,0.97,0.09,7,automatic,nc,nc
 2023-04-17T01:06:35.240Z,19.1428337097168,-155.488006591797,34.2099990844727,1.95000005,md,24,226,,0.100000001,hv,hv73366092,2023-04-17T01:09:46.660Z,"6 km S of Pāhala, Hawaii",earthquake,0.91,0.889999986,0.970000029,3,automatic,hv,hv
 2023-04-17T00:49:37.920Z,17.9855,-66.835,16.58,2.02,md,6,188,0.04339,0.05,pr,pr71405428,2023-04-17T01:10:42.900Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.37,0.57,0.00192733778409337,3,reviewed,pr,pr
