@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-19T18:35:47.670Z,19.1536674499512,-155.358993530273,32.0499992370605,2.06999993,md,35,182,,0.100000001,hv,hv73369452,2023-04-19T18:38:46.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.81,1.02999997,1.05999994,22,automatic,hv,hv
+2023-04-19T18:33:09.500Z,38.8366661,-122.7819977,2.06,0.86,md,10,86,0.006747,0.02,nc,nc73875530,2023-04-19T18:34:46.652Z,"5km WNW of Cobb, CA",earthquake,0.61,1.06,0.27,11,automatic,nc,nc
 2023-04-19T18:26:08.400Z,38.8233337,-122.8000031,1.2,0.28,md,10,60,0.007867,0.02,nc,nc73875525,2023-04-19T18:27:46.739Z,"6km NW of The Geysers, CA",earthquake,0.33,0.83,0.11,10,automatic,nc,nc
 2023-04-19T18:26:03.761Z,62.821,-150.3911,15.1,1.2,ml,,,,0.5,ak,ak02350kg7mg,2023-04-19T18:28:40.820Z,"40 km NNE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-19T18:22:35.258Z,60.38,-152.4371,96.1,2,ml,,,,0.43,ak,ak02350kff6t,2023-04-19T18:23:58.286Z,"56 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -67,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T10:23:51.700Z,38.7941666,-122.8089981,0.89,1.47,md,23,76,0.0165,0.03,nc,nc73875390,2023-04-19T11:58:15.666Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.39,0.25,23,automatic,nc,nc
 2023-04-19T10:21:53.080Z,62.9433,-144.0651,7.6,1.5,ml,,,,0.66,ak,ak02350fns0c,2023-04-19T10:23:32.272Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-19T10:16:58.825Z,58.1775,-155.3505,1.2,0.3,ml,,,,0.26,ak,ak02350fmpve,2023-04-19T10:18:55.841Z,"86 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-04-19T10:11:02.328Z,37.002,-116.1603,1.5,0.2,ml,14,41.02,0.014,0.1505,nn,nn00858414,2023-04-19T18:29:31.166Z,"54 km E of Beatty, Nevada",earthquake,,2.7,0.31,8,reviewed,nn,nn
+2023-04-19T10:11:02.311Z,37.0021,-116.1611,1.6,0.3,ml,17,41.1,0.013,0.1474,nn,nn00858414,2023-04-19T18:32:41.388Z,"54 km E of Beatty, Nevada",earthquake,,2.4,0.94,11,reviewed,nn,nn
 2023-04-19T10:09:44.250Z,19.404,-155.265333333333,0.46,1.58,ml,19,75,,0.11,hv,hv73369097,2023-04-19T11:25:15.150Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.21,0.167276931420548,7,reviewed,hv,hv
 2023-04-19T10:08:41.960Z,61.1074,-151.1354,16.2,1,ml,,,,0.78,ak,ak02350fkyuc,2023-04-19T10:11:29.214Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-19T10:04:58.460Z,19.3996666666667,-155.262666666667,0.88,1.96,ml,14,92,,0.13,hv,hv73369087,2023-04-19T10:50:16.100Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.23,0.182353851315144,9,reviewed,hv,hv
@@ -228,7 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T19:02:53.480Z,19.1988333333333,-155.378,31.95,1.74,md,31,186,,0.11,hv,hv73368537,2023-04-19T05:01:55.160Z,"10 km E of Pāhala, Hawaii",earthquake,0.52,0.77,0.180301631951254,14,reviewed,hv,hv
 2023-04-18T18:51:21.377Z,6.9339,-73.1301,147.87,4.2,mb,19,116,1.036,0.7,us,us6000k5cn,2023-04-18T19:29:28.040Z,"10 km SW of Piedecuesta, Colombia",earthquake,4.06,8.855,0.159,11,reviewed,us,us
 2023-04-18T18:50:11.620Z,33.5328333,-117.3346667,15.44,1.06,ml,21,102,0.1124,0.11,ci,ci40442424,2023-04-18T19:05:18.549Z,"9km SW of Wildomar, CA",earthquake,0.2,0.62,0.199,15,reviewed,ci,ci
-2023-04-18T18:37:42.320Z,33.6468333,-116.7101667,13.45,0.61,ml,17,73,0.03748,0.07,ci,ci40442416,2023-04-18T19:44:30.588Z,"10km S of Idyllwild, CA",earthquake,0.21,0.34,0.111,8,reviewed,ci,ci
-2023-04-18T18:37:36.081Z,61.8573,-150.9714,69.2,1.8,ml,,,,0.18,ak,ak0234ywzai0,2023-04-18T18:39:02.189Z,"26 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-18T18:37:15.490Z,38.8318329,-122.8153305,1.74,0.92,md,19,67,0.009373,0.02,nc,nc73875185,2023-04-18T18:38:50.200Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,0.21,19,automatic,nc,nc
-2023-04-18T18:36:05.140Z,46.3113333333333,-111.6055,-2,1.18,ml,6,199,0.3194,0.04,mb,mb90010858,2023-04-18T22:59:09.860Z,"6 km W of Townsend, Montana",quarry blast,0.97,31.61,0.160105140349651,4,reviewed,mb,mb
