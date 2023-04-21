@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T22:50:46.520Z,38.8143349,-122.8251648,2.29,0.75,md,8,109,0.006295,0.02,nc,nc73876415,2023-04-21T23:11:18.439Z,"7km NW of The Geysers, CA",earthquake,0.53,1.11,0.09,8,automatic,nc,nc
 2023-04-21T22:33:57.740Z,19.5331666666667,-65.416,67.98,3.41,md,8,284,1.226,0.23,pr,pr71406128,2023-04-21T22:46:47.960Z,"130 km NNE of Vieques, Puerto Rico",earthquake,5.08,12.02,0.163146620509382,6,reviewed,pr,pr
 2023-04-21T22:20:49.560Z,44.1313,-125.9833,10,3.2,ml,38,233,1.448,0.77,us,us6000k67x,2023-04-21T23:09:26.040Z,"off the coast of Oregon",earthquake,6.64,2.013,0.033,124,reviewed,us,us
-2023-04-21T22:19:48.329Z,35.0198,15.215,11.786,5.5,mww,116,50,0.992,0.64,us,us6000k67y,2023-04-21T23:10:33.434Z,"109 km SE of Birżebbuġa, Malta",earthquake,4.7,3.037,0.036,74,reviewed,us,us
+2023-04-21T22:19:48.329Z,35.0198,15.215,11.786,5.5,mww,116,50,0.992,0.64,us,us6000k67y,2023-04-21T23:13:04.586Z,"109 km SE of Birżebbuġa, Malta",earthquake,4.7,3.037,0.036,74,reviewed,us,us
 2023-04-21T21:56:07.890Z,35.7050018,-121.1486664,8.77,1.52,md,8,139,0.02303,0.09,nc,nc73876405,2023-04-21T22:31:15.149Z,"8km NNE of San Simeon, CA",earthquake,0.6,0.85,0.14,6,automatic,nc,nc
 2023-04-21T21:54:09.170Z,38.7958336,-122.7821655,3.76,0.76,md,9,98,0.01744,0.03,nc,nc73876400,2023-04-21T22:19:15.076Z,"3km NW of The Geysers, CA",earthquake,0.49,1.43,0.38,10,automatic,nc,nc
 2023-04-21T21:49:27.313Z,40.1021,-121.0788,5.7,1.7,ml,5,283.14,0.599,0.194,nn,nn00858521,2023-04-21T22:38:36.741Z,"7 km S of Canyondam, California",earthquake,,5.2,0.16,5,reviewed,nn,nn
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T16:13:20.730Z,61.2602,-146.654,8.4,1.5,ml,,,,1.12,ak,ak02353u9aeh,2023-04-21T16:15:21.906Z,"21 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-21T16:10:31.191Z,31.56852238,-104.1630057,8.702368164,2.4,ml,23,67,0.03320665756,0.3,tx,tx2023hufj,2023-04-21T19:24:21.758Z,"45 km NW of Toyah, Texas",earthquake,1.248236942,1.01047754,0.2,19,reviewed,tx,tx
 2023-04-21T16:09:55.455Z,24.9789,123.4754,110.883,4.5,mb,44,70,0.662,0.71,us,us6000k658,2023-04-21T16:28:37.040Z,"74 km NE of Yonakuni, Japan",earthquake,7.25,4.594,0.05,119,reviewed,us,us
+2023-04-21T16:09:07.530Z,58.1778333333333,-155.363666666667,1.57,-0.69,ml,4,247,,0.04,av,av91857021,2023-04-21T23:12:37.470Z,"86 km NW of Karluk, Alaska",earthquake,0.79,0.78,0.114677151456489,4,reviewed,av,av
 2023-04-21T16:03:44.029Z,31.5657924,-104.1570735,8.805200195,2.2,ml,21,69,0.02944914478,0.2,tx,tx2023hufd,2023-04-21T19:08:56.600Z,"44 km NW of Toyah, Texas",earthquake,0.8775448018,0.8446478956,0.2,30,reviewed,tx,tx
 2023-04-21T16:01:31.112Z,60.2107,-151.0879,51.3,1.2,ml,,,,0.52,ak,ak02353u6qlz,2023-04-21T16:04:18.188Z,"17 km E of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-21T15:57:15.854Z,58.3012,-151.4213,6.4,2.1,ml,,,,0.84,ak,ak02353tx9xd,2023-04-21T16:00:03.368Z,"76 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -289,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T23:25:26.310Z,38.8183327,-122.767334,1.5,1.74,md,27,53,0.0116,0.03,nc,nc73876005,2023-04-21T03:25:11.032Z,"4km W of Cobb, CA",earthquake,0.19,0.32,0.16,29,automatic,nc,nc
 2023-04-20T23:25:04.750Z,38.8181648,-122.7643356,1.79,1.06,md,17,112,0.01304,0.03,nc,nc73876000,2023-04-21T00:18:13.814Z,"4km W of Cobb, CA",earthquake,0.28,0.47,0.1,18,automatic,nc,nc
 2023-04-20T23:24:22.410Z,38.8359985,-122.774498,5.41,0.62,md,10,158,0.006579,0.06,nc,nc73875995,2023-04-21T01:42:18.382Z,"5km WNW of Cobb, CA",earthquake,0.97,0.68,0.41,10,automatic,nc,nc
-2023-04-20T23:14:12.750Z,38.8455009,-122.8180008,1.5,0.22,md,10,86,0.01005,0.01,nc,nc73875990,2023-04-21T01:59:12.501Z,"9km WNW of Cobb, CA",earthquake,0.35,0.84,0.13,11,automatic,nc,nc
