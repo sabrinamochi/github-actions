@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T06:56:27.474Z,58.1763,-155.322,28.9,0,ml,,,,0.64,ak,ak02355c3jf7,2023-04-22T06:59:06.009Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-04-22T06:46:11.270Z,38.8383331,-122.8363342,1.83,1.15,md,26,82,0.0007093,0.02,nc,nc73876510,2023-04-22T07:42:17.419Z,"10km NW of The Geysers, CA",earthquake,0.19,0.34,0.18,25,automatic,nc,nc
 2023-04-22T06:37:38.522Z,59.8132,-152.4196,129,1.8,ml,,,,1.29,ak,ak02355bzhh5,2023-04-22T06:40:41.346Z,"33 km W of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-04-22T06:25:20.510Z,40.8813333,-121.8921667,15.76,1.8,md,25,57,0.1411,0.07,nc,nc73876505,2023-04-22T09:51:13.183Z,"5km NNE of Montgomery Creek, CA",earthquake,0.22,0.62,0.229,27,reviewed,nc,nc
+2023-04-22T06:25:20.510Z,40.8813333,-121.8921667,15.76,1.8,md,25,57,0.1411,0.07,nc,nc73876505,2023-04-22T10:09:11.266Z,"5km NNE of Montgomery Creek, CA",earthquake,0.22,0.62,0.229,27,reviewed,nc,nc
 2023-04-22T06:23:43.860Z,35.7103333,-117.5123333,2.61,0.54,ml,8,81,0.08509,0.17,ci,ci40444056,2023-04-22T06:27:17.150Z,"12km WSW of Searles Valley, CA",earthquake,0.52,0.54,0.061,6,automatic,ci,ci
 2023-04-22T06:23:11.540Z,19.1919994354248,-155.425003051758,32.5800018310547,1.83000004,md,35,153,,0.109999999,hv,hv73372147,2023-04-22T06:26:16.900Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.57,0.939999998,0.910000026,8,automatic,hv,hv
 2023-04-22T06:21:33.280Z,35.54,-117.4446667,5.8,1.18,ml,16,83,0.06706,0.17,ci,ci40444048,2023-04-22T06:25:13.115Z,"23km ESE of Ridgecrest, CA",earthquake,0.33,1.08,0.141,13,automatic,ci,ci
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T02:22:02.476Z,62.0466,-144.4814,9.5,1.3,ml,,,,0.8,ak,ak023559iggn,2023-04-22T02:24:12.664Z,"43 km NE of Kenny Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-22T02:20:24.598Z,62.0185,-144.3881,15.6,1.5,ml,,,,0.49,ak,ak023559i2qj,2023-04-22T02:21:42.843Z,"44 km NE of Kenny Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-22T02:19:17.630Z,35.658,-117.4416667,5.23,0.82,ml,10,101,0.01625,0.15,ci,ci40443984,2023-04-22T02:22:55.710Z,"13km SSW of Searles Valley, CA",earthquake,0.48,0.53,0.096,6,automatic,ci,ci
+2023-04-22T02:18:01.580Z,38.8145,-125.2418333,26.61,3.38,ml,25,286,1.233,0.19,nc,nc73876475,2023-04-22T10:11:02.407Z,"134km W of Point Arena, CA",earthquake,1,31.61,0.277,83,reviewed,nc,nc
 2023-04-22T02:04:33.780Z,36.6595,-121.2931667,7.47,2.93,md,77,54,0.05153,0.14,nc,nc73876470,2023-04-22T07:52:12.615Z,"15km S of Tres Pinos, CA",earthquake,0.14,0.35,0.121,129,reviewed,nc,nc
 2023-04-22T01:51:36.520Z,57.1699,-156.0861,68.8,1.8,ml,,,,0.38,ak,ak0235593b7y,2023-04-22T01:54:24.870Z,"87 km ESE of Ugashik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-22T01:44:40.330Z,19.275333404541,-155.394165039062,33.439998626709,1.92999995,md,37,165,,0.119999997,hv,hv73371927,2023-04-22T01:47:51.810Z,"11 km NE of Pāhala, Hawaii",earthquake,0.61,0.839999974,0.460000008,20,automatic,hv,hv
@@ -266,6 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T10:18:43.710Z,60.4568333333333,-152.737666666667,2.47,0.14,ml,7,172,,0.09,av,av91856686,2023-04-21T21:14:19.040Z,"74 km NW of Ninilchik, Alaska",earthquake,0.44,0.65,0.183268919074876,7,reviewed,av,av
 2023-04-21T10:14:56.390Z,51.8406666666667,-178.019666666667,-1.77,1.22,ml,4,119,,0.4,av,av91856681,2023-04-21T21:21:28.870Z,"95 km W of Adak, Alaska",earthquake,1.01,3.47,0.416600820434534,4,reviewed,av,av
 2023-04-21T10:14:35.310Z,19.1645,-67.2883,22,3.69,md,14,234,0.7192,0.31,pr,pr2023111000,2023-04-21T13:32:13.040Z,"77 km NNW of San Antonio, Puerto Rico",earthquake,1.31,23.75,0.08,8,reviewed,pr,pr
-2023-04-21T10:07:51.520Z,58.18,-155.2805,2.13,-0.22,ml,7,154,,0.08,av,av91856676,2023-04-21T21:16:46.110Z,"83 km NW of Karluk, Alaska",earthquake,0.28,0.68,0.222551922545104,7,reviewed,av,av
-2023-04-21T10:06:58.016Z,40.1863,-119.8111,5.4,0.3,ml,3,232.12,0.063,0.0794,nn,nn00858505,2023-04-21T18:18:42.192Z,"27 km E of Herlong, California",earthquake,,8,0.18,2,reviewed,nn,nn
-2023-04-21T10:04:18.510Z,51.8553333333333,-178.079,2.86,1.16,ml,5,205,,0.12,av,av91856671,2023-04-21T21:19:18.110Z,"99 km W of Adak, Alaska",earthquake,0.55,0.86,0.168791670464045,5,reviewed,av,av
