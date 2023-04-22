@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-22T15:43:51.530Z,19.2280006408691,-155.398330688477,30.6299991607666,1.97000003,md,35,143,,0.119999997,hv,hv73372597,2023-04-22T15:47:00.130Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.720000029,0.579999983,14,automatic,hv,hv
 2023-04-22T15:32:29.257Z,62.8939,-149.3639,57.3,1.5,ml,,,,0.55,ak,ak02355hbajx,2023-04-22T15:34:15.720Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-22T15:23:55.990Z,19.2476673126221,-155.388168334961,30.7900009155273,2.47,ml,44,137,,0.150000006,hv,hv73372572,2023-04-22T15:29:26.050Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.649999976,2.16,16,automatic,hv,hv
 2023-04-22T15:07:31.260Z,38.8148346,-122.8046646,1.77,0.76,md,10,87,0.009535,0.01,nc,nc73876595,2023-04-22T15:25:15.174Z,"6km NW of The Geysers, CA",earthquake,0.28,1.07,0.07,11,automatic,nc,nc
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T13:19:02.200Z,33.6641667,-116.7456667,13.79,1.41,ml,50,36,0.05373,0.17,ci,ci40444128,2023-04-22T13:29:50.450Z,"9km SSW of Idyllwild, CA",earthquake,0.18,0.34,0.302,26,automatic,ci,ci
 2023-04-22T13:18:05.739Z,62.501,-149.2834,12.1,1,ml,,,,0.39,ak,ak02355g1di5,2023-04-22T13:21:12.271Z,"42 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-22T13:14:12.420Z,58.2458,-155.0806,3.8,0.4,ml,,,,0.12,ak,ak02355g0j5m,2023-04-22T13:15:36.057Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-22T13:05:10.220Z,38.7963333,-122.8143311,2.48,0.69,md,7,100,0.02088,0.02,nc,nc73876565,2023-04-22T13:36:16.499Z,"5km WNW of The Geysers, CA",earthquake,0.41,1.8,0.45,7,automatic,nc,nc
+2023-04-22T13:05:10.220Z,38.7963333,-122.8143311,2.48,0.69,md,7,100,0.02088,0.02,nc,nc73876565,2023-04-22T15:42:11.277Z,"5km WNW of The Geysers, CA",earthquake,0.41,1.8,0.45,7,automatic,nc,nc
 2023-04-22T12:54:50.596Z,50.7106,-174.4896,10,4.6,mb,77,86,1.699,0.77,us,us6000k6d7,2023-04-22T13:15:02.040Z,"166 km S of Atka, Alaska",earthquake,6.88,1.874,0.034,252,reviewed,us,us
 2023-04-22T12:46:30.020Z,38.8008347,-122.7819977,-0.26,0.76,md,8,73,0.008935,0.03,nc,nc73876560,2023-04-22T15:18:15.132Z,"3km NW of The Geysers, CA",earthquake,0.31,0.92,0.05,8,automatic,nc,nc
 2023-04-22T12:38:28.841Z,61.8543,-148.78,1.2,2,ml,,,,0.84,ak,ak02355fka0f,2023-04-22T12:40:31.705Z,"8 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -238,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T15:57:15.854Z,58.3012,-151.4213,6.4,2.1,ml,,,,0.84,ak,ak02353tx9xd,2023-04-21T16:00:03.368Z,"76 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-21T15:56:27.694Z,60.643,-142.7075,19,1,ml,,,,0.48,ak,ak02353tx34h,2023-04-21T15:58:06.388Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-04-21T15:53:52.440Z,58.1815,-155.325333333333,1.3,-0.1,ml,6,163,,0.04,av,av91856996,2023-04-21T23:02:55.310Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.64,0.324462547649137,6,reviewed,av,av
-2023-04-21T15:46:39.650Z,38.7833328,-122.7708359,-0.12,0.85,md,8,95,0.01321,0.01,nc,nc73876285,2023-04-21T17:40:12.273Z,"1km WNW of The Geysers, CA",earthquake,0.23,0.78,0.13,11,automatic,nc,nc
-2023-04-21T15:43:01.120Z,58.323,-154.943833333333,3.33,-0.34,ml,7,148,,0.13,av,av91856986,2023-04-21T22:59:52.520Z,"Alaska Peninsula",earthquake,0.55,1.29,0.237196091485339,7,reviewed,av,av
-2023-04-21T15:41:47.790Z,38.7840004,-122.769165,0.19,1.08,md,11,84,0.01353,0.03,nc,nc73876280,2023-04-21T17:14:14.110Z,"1km NW of The Geysers, CA",earthquake,0.26,0.63,0.13,11,automatic,nc,nc
