@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T16:57:57.530Z,34.1916667,-117.2771667,8.31,0.91,ml,22,88,0.05335,0.26,ci,ci40444560,2023-04-23T17:01:32.737Z,"6km S of Crestline, CA",earthquake,0.48,1.01,0.141,14,automatic,ci,ci
 2023-04-23T16:51:25.684Z,-29.8821,-177.5298,10,5,mb,19,214,0.705,1.12,us,us6000k6km,2023-04-23T17:09:30.040Z,"Kermadec Islands, New Zealand",earthquake,6.87,1.958,0.1,32,reviewed,us,us
 2023-04-23T16:31:58.216Z,64.5273,-146.5899,0,1.1,ml,,,,0.8,ak,ak023575fx65,2023-04-23T16:33:38.788Z,"14 km E of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-23T16:27:53.084Z,30.3602,70.907,39.643,4.8,mb,16,163,4.456,0.56,us,us6000k6kk,2023-04-23T18:06:39.741Z,"13 km SSW of Kot Addu, Pakistan",earthquake,15.53,10.959,0.109,26,reviewed,us,us
+2023-04-23T16:27:53.084Z,30.3602,70.907,39.643,4.8,mb,16,163,4.456,0.56,us,us6000k6kk,2023-04-23T18:21:54.950Z,"13 km SSW of Kot Addu, Pakistan",earthquake,15.53,10.959,0.109,26,reviewed,us,us
 2023-04-23T16:24:06.674Z,-29.5597,-176.9304,10,4.9,mb,18,166,0.913,1.2,us,us6000k6ki,2023-04-23T16:47:34.040Z,"Kermadec Islands region",earthquake,9.95,1.916,0.093,36,reviewed,us,us
 2023-04-23T16:23:18.717Z,14.2596,118.9423,10,5.2,mww,43,62,9.185,0.66,us,us6000k6kf,2023-04-23T16:59:39.972Z,"126 km WNW of Cabra, Philippines",earthquake,10.04,1.912,0.089,12,reviewed,us,us
 2023-04-23T16:21:03.953Z,61.2243,-151.9256,104.5,0.6,ml,,,,0.05,ak,ak023575dnt4,2023-04-23T16:23:40.192Z,"45 km WNW of Tyonek, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T02:03:30.160Z,34.035,-117.7295,6.83,1.11,ml,25,53,0.08579,0.23,ci,ci40444328,2023-04-23T02:07:23.867Z,"4km SE of Pomona, CA",earthquake,0.35,1,0.248,31,automatic,ci,ci
 2023-04-23T02:03:25.036Z,36.6962,-116.3557,4.2,-0.1,ml,13,168.85,0.018,0.0785,nn,nn00858566,2023-04-23T16:30:04.363Z,"43 km ESE of Beatty, Nevada",earthquake,,1.5,1.57,5,reviewed,nn,nn
 2023-04-23T02:03:02.020Z,19.4215,-155.232666666667,1.81,1.37,md,16,143,,0.1,hv,hv73373137,2023-04-23T02:26:09.430Z,"2 km S of Volcano, Hawaii",earthquake,0.27,0.26,0.0421607056143567,3,reviewed,hv,hv
-2023-04-23T01:57:58.020Z,34.5125,-118.8403333,7.62,1.36,ml,17,56,0.07128,0.28,ci,ci40444320,2023-04-23T02:02:20.218Z,"12km NNW of Piru, CA",earthquake,0.51,1.85,0.293,29,automatic,ci,ci
+2023-04-23T01:57:57.800Z,34.5113333,-118.8373333,11.34,1.15,ml,33,42,0.07297,0.24,ci,ci40444320,2023-04-23T18:22:12.726Z,"11km NNW of Piru, CA",earthquake,0.3,0.57,0.079,10,reviewed,ci,ci
 2023-04-23T01:35:07.229Z,61.3317,-147.271,14.4,2,ml,,,,0.68,ak,ak02356wj60y,2023-04-23T01:37:21.762Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-23T01:33:40.690Z,19.4046666666667,-155.291166666667,1.39,0.25,md,11,101,,0.06,hv,hv73373072,2023-04-23T01:53:01.250Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.28,0.0541888301510607,2,reviewed,hv,hv
 2023-04-23T01:31:45.240Z,17.9621666666667,-66.9351666666667,11.33,3.3,md,23,207,0.02715,0.13,pr,pr71406368,2023-04-23T01:50:38.280Z,"Puerto Rico region",earthquake,0.37,0.27,0.120545917498872,4,reviewed,pr,pr
@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T18:39:44.155Z,65.0977,-145.9942,13.7,2.6,ml,,,,0.21,ak,ak02355j54j3,2023-04-22T18:41:24.725Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-22T18:35:23.790Z,34.0046667,-116.8353333,20,0.88,ml,28,79,0.03806,0.15,ci,ci40444240,2023-04-23T17:45:07.752Z,"10km NNE of Banning, CA",earthquake,0.26,0.52,0.134,9,reviewed,ci,ci
 2023-04-22T18:29:50.130Z,34.5803333,-118.0326667,10.28,0.67,ml,15,71,0.05319,0.1,ci,ci40444232,2023-04-23T17:39:06.845Z,"6km E of Palmdale, CA",earthquake,0.19,0.43,0.207,8,reviewed,ci,ci
-2023-04-22T18:18:41.496Z,60.8456,-152.2765,101.4,1.6,ml,,,,0.5,ak,ak02355j0mad,2023-04-22T18:20:40.280Z,"56 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
