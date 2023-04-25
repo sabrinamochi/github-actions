@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-25T12:32:37.730Z,33.4866667,-116.4691667,13.54,0.7,ml,20,102,0.05159,0.22,ci,ci40445296,2023-04-25T12:36:12.951Z,"20km ESE of Anza, CA",earthquake,0.49,0.8,0.101,17,automatic,ci,ci
 2023-04-25T12:18:35.369Z,60.9013,-147.4494,21.6,1.9,ml,,,,0.64,ak,ak0235ae21o0,2023-04-25T12:20:46.691Z,"42 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-25T12:01:53.420Z,33.375,-116.403,10.22,0.98,ml,32,88,0.1072,0.22,ci,ci40445280,2023-04-25T12:05:39.229Z,"14km N of Borrego Springs, CA",earthquake,0.36,0.66,0.119,26,automatic,ci,ci
 2023-04-25T12:01:17.990Z,33.3693333,-116.3895,11.47,0.61,ml,17,160,0.1035,0.17,ci,ci40445272,2023-04-25T12:04:56.279Z,"13km N of Borrego Springs, CA",earthquake,0.45,1.1,0.082,11,automatic,ci,ci
@@ -45,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T05:40:51.879Z,64.7374,-148.9654,10.1,1.1,ml,,,,0.89,ak,ak0235aa0rag,2023-04-25T05:42:47.099Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T05:35:59.850Z,-2.8165,-79.8398,60.464,5.3,mww,86,83,0.761,1.28,us,us7000jvqd,2023-04-25T12:16:18.621Z,"10 km NNW of Baláo, Ecuador",earthquake,5.73,6.862,0.089,12,reviewed,us,us
 2023-04-25T05:15:59.940Z,19.1821670532227,-155.488494873047,33.6300010681152,1.85000002,md,33,129,,0.119999997,hv,hv73375512,2023-04-25T05:19:01.240Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.889999986,0.920000017,8,automatic,hv,hv
-2023-04-25T05:14:41.399Z,61.838,-149.9219,40,1.3,ml,,,,0.44,ak,ak0235a9v617,2023-04-25T05:16:42.108Z,"11 km NNE of Willow, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-04-25T05:14:41.399Z,61.838,-149.9219,40,1.3,ml,,,,0.44,ak,ak0235a9v617,2023-04-25T05:16:42.108Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-04-25T05:07:15.952Z,62.2062,-150.0029,27.4,1.1,ml,,,,0.37,ak,ak0235a9tm23,2023-04-25T05:09:05.512Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T05:01:55.430Z,19.19700050354,-155.378997802734,32.2700004577637,2.24,ml,42,163,,0.119999997,hv,hv73375487,2023-04-25T05:07:29.370Z,"10 km E of Pāhala, Hawaii",earthquake,0.52,0.660000026,3.01,13,automatic,hv,hv
 2023-04-25T04:44:34.420Z,19.3293342590332,-155.139663696289,3.41000008583069,1.92,ml,35,96,,0.180000007,hv,hv73375477,2023-04-25T04:50:04.880Z,"15 km S of Fern Forest, Hawaii",earthquake,0.4,1.10000002,0.27,6,automatic,hv,hv
@@ -118,8 +119,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T20:10:04.190Z,19.1728324890137,-155.484832763672,30.2600002288818,2.04,ml,31,93,,0.140000001,hv,hv73375042,2023-04-24T20:15:35.830Z,"3 km S of Pāhala, Hawaii",earthquake,0.77,0.959999979,3.76,8,automatic,hv,hv
 2023-04-24T20:09:26.720Z,19.5238342285156,-155.329833984375,1.71000003814697,1.91,ml,7,280,,0.25,hv,hv73375037,2023-04-24T20:14:57.660Z,"13 km NW of Volcano, Hawaii",earthquake,3.83,19.9300003,3.72,5,automatic,hv,hv
 2023-04-24T20:04:59.810Z,35.0505,-118.3493333,-0.75,0.93,ml,13,62,0.0601,0.14,ci,ci40445048,2023-04-24T21:44:23.416Z,"13km SE of Tehachapi, CA",quarry blast,0.43,31.61,0.14,7,reviewed,ci,ci
-2023-04-24T20:03:14.400Z,19.179666519165,-155.49333190918,30.7299995422363,1.89999998,md,32,159,,0.209999993,hv,hv73375032,2023-04-24T20:06:27.370Z,"Island of Hawaii, Hawaii",earthquake,0.94,1.25999999,1.89999998,4,automatic,hv,hv
-2023-04-24T20:00:55.086Z,-0.781,98.5339,15.462,7.1,mww,70,58,2.282,0.91,us,us7000jvl3,2023-04-25T11:41:12.245Z,"Kepulauan Batu, Indonesia",earthquake,7.35,3.944,0.06,27,reviewed,us,us
+2023-04-24T20:03:14.400Z,19.179666519165,-155.49333190918,30.7299995422363,1.89999998,md,32,159,,0.209999993,hv,hv73375032,2023-04-24T20:06:27.370Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.94,1.25999999,1.89999998,4,automatic,hv,hv
+2023-04-24T20:00:55.086Z,-0.781,98.5339,15.462,7.1,mww,70,58,2.282,0.91,us,us7000jvl3,2023-04-25T11:41:12.245Z,"170 km SSE of Teluk Dalam, Indonesia",earthquake,7.35,3.944,0.06,27,reviewed,us,us
 2023-04-24T19:53:06.080Z,59.7856,-151.1918,56,1.8,ml,,,,0.49,ak,ak02358uw66k,2023-04-24T19:55:52.659Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-24T19:39:54.370Z,17.9785,-66.9833333333333,7.76,1.98,md,3,171,0.05865,0.02,pr,pr71406623,2023-04-24T20:22:03.150Z,"6 km E of La Parguera, Puerto Rico",earthquake,1.6,0.83,0.0880266815120878,3,reviewed,pr,pr
 2023-04-24T19:39:24.280Z,17.5505,-64.8405,27.26,2.82,md,4,312,0.2132,0.51,pr,pr71406618,2023-04-24T20:11:25.780Z,"21 km SSW of Saint Croix, U.S. Virgin Islands",earthquake,4.17,4.73,0.00651866211206831,2,reviewed,pr,pr
@@ -202,7 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T12:46:37.630Z,38.5226,-119.5202,7.6,1.4,ml,16,74.52,0.063,0.1648,nn,nn00858623,2023-04-25T02:05:49.776Z,"3 km WNW of Walker, California",earthquake,,0.9,0.99,6,reviewed,nn,nn
 2023-04-24T12:46:10.540Z,33.2166667,-116.5953333,16,0.39,ml,21,115,0.04692,0.17,ci,ci40444848,2023-04-24T23:28:51.358Z,"8km SSE of Warner Springs, CA",earthquake,0.38,0.7,0.128,12,reviewed,ci,ci
 2023-04-24T12:40:07.100Z,58.1818333333333,-155.3655,2.08,-0.18,ml,7,171,,0.08,av,av91861936,2023-04-24T21:43:51.210Z,"87 km NW of Karluk, Alaska",earthquake,0.29,0.49,0.156312533503729,7,reviewed,av,av
-2023-04-24T12:39:06.640Z,62.6637,-149.6845,16.8,1.2,ml,,,,0.39,ak,ak02358qn4zs,2023-04-24T12:41:21.926Z,"32 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-24T12:33:42.880Z,58.1528333333333,-155.349333333333,-1.14,-0.12,ml,4,201,,0.22,av,av91098163,2023-04-24T21:50:45.520Z,"83 km NW of Karluk, Alaska",earthquake,0.68,31.61,0.0711094690992763,4,reviewed,av,av
-2023-04-24T12:33:37.320Z,58.1618333333333,-155.360833333333,-0.9,-0.02,ml,9,193,,0.06,av,av91861931,2023-04-24T21:47:54.660Z,"Alaska Peninsula",earthquake,0.28,31.61,0.19760771279507,9,reviewed,av,av
-2023-04-24T12:33:23.925Z,61.329,-148.1245,19.9,1.3,ml,,,,0.21,ak,ak02358qlw14,2023-04-24T12:34:42.900Z,"44 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
