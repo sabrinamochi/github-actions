@@ -2,8 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T16:52:38.870Z,19.3929996490479,-155.273666381836,1.46000003814697,2.31,ml,27,44,,0.200000003,hv,hv73376202,2023-04-25T16:58:08.940Z,"6 km SW of Volcano, Hawaii",earthquake,0.32,0.170000002,0.15,7,automatic,hv,hv
 2023-04-25T16:51:07.462Z,61.8384,-148.8232,20.2,0.6,ml,,,,0.46,ak,ak0235agmska,2023-04-25T16:53:38.264Z,"7 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T16:31:01.825Z,61.1521,-149.6408,35.5,1.6,ml,,,,0.35,ak,ak0235agiht2,2023-04-25T16:32:18.366Z,"11 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-25T16:26:47.417Z,60.3302,-147.2958,24.9,1.7,ml,,,,0.79,ak,ak0235aghiqt,2023-04-25T16:29:01.767Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-25T16:13:48.588Z,65.4386,-144.7756,0,1.5,ml,,,,1.07,ak,ak0235ageqiy,2023-04-25T16:16:03.089Z,"14 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-25T16:26:47.417Z,60.3302,-147.2958,24.9,1.7,ml,,,,0.79,ak,ak0235aghiqt,2023-04-25T16:29:01.767Z,"49 km NE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-25T16:13:48.588Z,65.4386,-144.7756,0,1.5,ml,,,,1.07,ak,ak0235ageqiy,2023-04-25T16:16:03.089Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-25T16:07:10.090Z,33.3825,-116.4003333,6.28,0.37,ml,18,78,0.1149,0.29,ci,ci40445424,2023-04-25T16:10:45.171Z,"14km N of Borrego Springs, CA",earthquake,0.72,2.32,0.079,5,automatic,ci,ci
 2023-04-25T15:53:57.109Z,61.5051,-150.018,62.7,1.1,ml,,,,0.26,ak,ak0235ag1w7y,2023-04-25T15:55:48.010Z,"3 km WSW of Big Lake, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-25T15:34:31.168Z,34.5379,122.567,10,4.7,mb,89,55,4.324,1.02,us,us7000jvsv,2023-04-25T16:05:58.040Z,"228 km ENE of Hede, China",earthquake,8,1.836,0.062,79,reviewed,us,us
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T04:54:41.350Z,44.4763333,-110.5851667,2.92,1.22,ml,13,88,0.03938,0.17,uu,uu60538221,2023-04-25T15:33:24.360Z,"Wyoming",earthquake,0.52,1.76,0.415,2,reviewed,uu,uu
 2023-04-25T04:46:20.755Z,36.83,-116.2172,9.7,-0.3,ml,10,118.69,0.072,0.1017,nn,nn00858645,2023-04-25T15:31:24.533Z,"49 km E of Beatty, Nevada",earthquake,,1.8,1.05,3,reviewed,nn,nn
 2023-04-25T04:44:34.420Z,19.3293342590332,-155.139663696289,3.41000008583069,1.92,ml,35,96,,0.180000007,hv,hv73375477,2023-04-25T04:50:04.880Z,"15 km S of Fern Forest, Hawaii",earthquake,0.4,1.10000002,0.27,6,automatic,hv,hv
-2023-04-25T04:33:20.211Z,39.3874,-119.878,7.7,1.8,ml,3,141.25,0.093,0.0472,nn,nn00858666,2023-04-25T16:51:51.023Z,"Nevada",earthquake,,8.5,0,1,reviewed,nn,nn
+2023-04-25T04:33:20.211Z,39.3874,-119.878,7.7,1.8,ml,3,141.25,0.093,0.0472,nn,nn00858666,2023-04-25T16:51:51.023Z,"12 km E of Floriston, California",earthquake,,8.5,0,1,reviewed,nn,nn
 2023-04-25T04:30:09.802Z,36.7013,-116.0607,0,-0.5,ml,8,193.79,0.031,0.0706,nn,nn00858644,2023-04-25T14:41:40.177Z,"37 km WNW of Indian Springs, Nevada",earthquake,,0,0.17,4,reviewed,nn,nn
 2023-04-25T04:13:32.490Z,33.3623333,-116.8506667,12.73,1.75,ml,69,26,0.01328,0.22,ci,ci37533100,2023-04-25T15:35:09.924Z,"1km ENE of Palomar Observatory, CA",earthquake,0.17,0.51,0.198,37,reviewed,ci,ci
 2023-04-25T04:12:15.150Z,35.7639999,-121.2365036,9.17,3.23,ml,51,169,0.1058,0.1,nc,nc73877500,2023-04-25T14:03:28.581Z,"14km NNW of San Simeon, CA",earthquake,0.29,0.73,0.239,20,automatic,nc,nc
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T17:33:32.241Z,61.4795,-146.6612,30.5,1.6,ml,,,,0.8,ak,ak02358tl2p4,2023-04-24T17:35:31.114Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-24T17:31:25.730Z,19.1855,-155.455833333333,32.92,1.45,md,16,141,,0.09,hv,hv73374882,2023-04-25T00:53:00.530Z,"3 km SE of Pāhala, Hawaii",earthquake,0.7,0.95,0.0409426015678676,9,reviewed,hv,hv
 2023-04-24T17:26:46.114Z,63.2635,-144.7326,6.7,1.6,ml,,,,1.1,ak,ak02358tjlr7,2023-04-24T17:29:33.162Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-24T17:22:31.200Z,51.919,-178.1765,11.8,1.46,ml,6,201,,0.08,av,av91862196,2023-04-24T19:05:25.140Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.83,0.47,0.145543362708603,6,reviewed,av,av
-2023-04-24T17:22:22.660Z,36.5656666666667,-89.5676666666667,5.9,1.64,md,18,50,0.01624,0.1,nm,nm60521926,2023-04-25T15:01:45.520Z,"2 km E of Howardville, Missouri",earthquake,0.33,0.51,0.129853554698276,14,reviewed,nm,nm
