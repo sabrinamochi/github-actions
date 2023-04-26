@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T17:18:50.154Z,61.4042,-151.9261,41.8,-0.1,ml,,,,0.14,ak,ak0235c4klbr,2023-04-26T17:20:26.587Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-26T17:13:17.370Z,19.1578330993652,-155.484161376953,35.2099990844727,1.88,md,34,129,,0.0900000036,hv,hv73377667,2023-04-26T17:16:42.290Z,"5 km S of Pāhala, Hawaii",earthquake,0.58,0.829999983,0.720000029,12,automatic,hv,hv
 2023-04-26T17:06:25.899Z,61.7922,-151.0288,240.1,1.2,ml,,,,0.63,ak,ak0235c4hys7,2023-04-26T17:09:48.674Z,"29 km SE of Skwentna, Alaska",earthquake,,4.9,,,automatic,ak,ak
-2023-04-26T17:05:33.470Z,36.5576668,-121.0904999,1.28,1.52,md,14,116,0.04597,0.16,nc,nc73880626,2023-04-26T17:20:11.289Z,"6km ENE of Pinnacles, CA",earthquake,1.06,2.87,0.2,10,automatic,nc,nc
+2023-04-26T17:05:33.470Z,36.5576668,-121.0904999,1.28,1.52,md,14,116,0.04597,0.16,nc,nc73880626,2023-04-26T17:22:15.298Z,"6km ENE of Pinnacles, CA",earthquake,1.06,2.87,0.2,10,automatic,nc,nc
 2023-04-26T16:54:46.804Z,58.092,-155.5704,21.2,0.8,ml,,,,0.48,ak,ak0235c46v8o,2023-04-26T16:56:15.384Z,"88 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-26T16:47:10.210Z,19.4011669158936,-155.325332641602,2.52999997138977,1.92,ml,27,71,,0.180000007,hv,hv73377627,2023-04-26T16:52:39.940Z,"10 km WSW of Volcano, Hawaii",earthquake,0.36,0.360000014,0.23,4,automatic,hv,hv
 2023-04-26T16:41:58.650Z,33.0413333,-116.3988333,3.34,1.03,ml,25,74,0.07004,0.19,ci,ci40445936,2023-04-26T16:52:48.890Z,"19km ESE of Julian, CA",earthquake,0.31,0.59,0.135,20,automatic,ci,ci
@@ -67,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T09:53:17.530Z,33.9783333,-116.7038333,16.84,0.69,ml,18,149,0.07589,0.15,ci,ci40445816,2023-04-26T09:56:46.534Z,"10km NE of Cabazon, CA",earthquake,0.45,0.7,0.196,16,automatic,ci,ci
 2023-04-26T09:47:39.780Z,33.3573333,-116.3475,11.55,0.82,ml,33,81,0.1063,0.19,ci,ci40445808,2023-04-26T09:51:10.249Z,"12km NNE of Borrego Springs, CA",earthquake,0.33,0.81,0.184,17,automatic,ci,ci
 2023-04-26T09:42:27.224Z,62.1584,-149.5973,41.2,1.7,ml,,,,0.27,ak,ak0235bzy7wi,2023-04-26T09:44:58.572Z,"13 km E of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-26T09:40:40.911Z,39.2477,-119.6201,6.7,0.8,ml,3,200.3,0.053,0.0373,nn,nn00858719,2023-04-26T17:22:10.746Z,"Nevada",earthquake,,4.9,1.06,2,reviewed,nn,nn
 2023-04-26T09:34:52.400Z,33.7933333,-116.9945,15.64,0.37,ml,10,161,0.0852,0.24,ci,ci40445800,2023-04-26T09:38:23.303Z,"4km WNW of San Jacinto, CA",earthquake,1.24,1.12,0.107,4,automatic,ci,ci
 2023-04-26T09:31:51.988Z,38.1763,-117.7971,10.4,1.5,ml,6,105.17,0.122,0.128,nn,nn00858712,2023-04-26T15:42:58.820Z,"Nevada",earthquake,,2.9,0.22,4,reviewed,nn,nn
 2023-04-26T09:28:19.380Z,19.2508335113525,-155.401504516602,32.0400009155273,1.99000001,md,36,148,,0.100000001,hv,hv73377082,2023-04-26T09:31:39.390Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.709999979,0.5,5,automatic,hv,hv
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T08:36:09.230Z,38.8395004,-122.8243332,2.6,0.72,md,8,87,0.008758,0.02,nc,nc73877915,2023-04-26T10:39:17.934Z,"9km WNW of Cobb, CA",earthquake,0.43,0.88,0.09,9,automatic,nc,nc
 2023-04-26T08:34:34.200Z,19.4104995727539,-155.261993408203,1.30999994277954,1.83,ml,24,51,,0.189999998,hv,hv73377012,2023-04-26T08:40:05.010Z,"4 km SW of Volcano, Hawaii",earthquake,0.28,0.319999993,0.19,8,automatic,hv,hv
 2023-04-26T08:15:08.180Z,33.1703333,-115.6933333,0.81,1.96,ml,7,214,0.0607,0.22,ci,ci37533564,2023-04-26T17:21:03.395Z,"16km NNW of Westmorland, CA",earthquake,1.31,2.93,0.019,1,reviewed,ci,ci
-2023-04-26T08:14:51.500Z,33.1883333,-115.6048333,1.8,1.34,ml,25,86,0.01412,0.16,ci,ci40445760,2023-04-26T17:19:12.698Z,"10km SW of Niland, CA",earthquake,0.24,0.17,0.163,13,reviewed,ci,ci
+2023-04-26T08:14:51.500Z,33.1883333,-115.6048333,1.8,1.34,ml,25,86,0.01412,0.16,ci,ci40445760,2023-04-26T17:22:03.173Z,"10km SW of Niland, CA",earthquake,0.24,0.17,0.163,13,reviewed,ci,ci
 2023-04-26T08:09:03.679Z,62.2733,-149.7986,18.7,1.4,ml,,,,0.49,ak,ak0235bz5nun,2023-04-26T08:11:31.436Z,"12 km NNE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T07:34:33.370Z,37.2868333,-121.6576667,6.26,3.1,ml,146,31,0.03041,0.11,nc,nc73877910,2023-04-26T17:21:43.236Z,"16km E of Seven Trees, CA",earthquake,0.08,0.18,0.152,109,reviewed,nc,nc
 2023-04-26T07:34:00.785Z,31.68417943,-104.3976805,6.979931641,2.5,ml,45,56,0.02436649539,0.3,tx,tx2023icrv,2023-04-26T17:19:09.465Z,"54 km S of Whites City, New Mexico",earthquake,0.8255680969,0.7701963245,0.1,23,reviewed,tx,tx
@@ -144,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T01:48:45.460Z,33.7113333,-116.7618333,16.61,0.58,ml,16,176,0.03973,0.08,ci,ci40445672,2023-04-26T17:09:01.883Z,"5km SW of Idyllwild, CA",earthquake,0.29,0.25,0.09,7,reviewed,ci,ci
 2023-04-26T01:44:17.170Z,62.4671,-149.1268,15.2,1.3,ml,,,,0.39,ak,ak0235bv75px,2023-04-26T01:46:30.855Z,"50 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T01:44:04.180Z,33.7691667,-116.9321667,14.48,0.66,ml,22,199,0.08217,0.12,ci,ci40445664,2023-04-26T16:47:07.693Z,"3km SE of San Jacinto, CA",earthquake,0.42,0.49,0.077,12,reviewed,ci,ci
-2023-04-26T01:42:06.940Z,38.8336667,-122.8075,2.46,1.35,md,35,49,0.01045,0.02,nc,nc73877800,2023-04-26T17:20:11.409Z,"7km W of Cobb, CA",earthquake,0.14,0.29,0.145,31,reviewed,nc,nc
+2023-04-26T01:42:06.940Z,38.8336667,-122.8075,2.46,1.35,md,35,49,0.01045,0.02,nc,nc73877800,2023-04-26T17:22:14.297Z,"7km W of Cobb, CA",earthquake,0.14,0.29,0.145,31,reviewed,nc,nc
 2023-04-26T01:41:02.150Z,38.8283333,-122.8541667,3.48,0.43,md,18,62,0.002256,0.04,nc,nc73877795,2023-04-26T16:55:15.166Z,"10km NW of The Geysers, CA",earthquake,0.25,0.44,0.184,18,reviewed,nc,nc
 2023-04-26T01:29:17.818Z,57.6512,-155.5286,90.7,1.8,ml,,,,0.17,ak,ak0235bv3y11,2023-04-26T01:31:03.045Z,"64 km W of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-26T01:18:53.004Z,-6.6486,155.5569,109.646,5,mb,38,66,4.168,0.86,us,us7000jvxc,2023-04-26T01:36:06.040Z,"Bougainville region, Papua New Guinea",earthquake,9.22,8.055,0.103,30,reviewed,us,us
