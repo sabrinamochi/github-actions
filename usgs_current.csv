@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-27T08:09:20.500Z,19.3361663818359,-155.123168945312,4.8600001335144,3.01999998,md,37,116,,0.140000001,hv,hv73378487,2023-04-27T08:12:28.020Z,"Island of Hawaii, Hawaii",earthquake,0.45,0.620000005,0.579999983,33,automatic,hv,hv
+2023-04-27T08:09:20.500Z,19.3361663818359,-155.123168945312,4.8600001335144,2.96,ml,37,116,,0.140000001,hv,hv73378487,2023-04-27T08:14:50.840Z,"14 km S of Fern Forest, Hawaii",earthquake,0.45,0.620000005,1.87,25,automatic,hv,hv
 2023-04-27T08:01:19.641Z,61.4897,-146.5419,27.9,1.7,ml,,,,0.96,ak,ak0235dmnbuk,2023-04-27T08:04:08.268Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-27T07:58:36.482Z,39.5093,-119.1533,10.3,1.9,ml,16,103.84,0.425,0.1853,nn,nn00858754,2023-04-27T08:00:47.378Z,"12 km NNE of Silver Springs, Nevada",earthquake,,1.4,0.23,8,automatic,nn,nn
 2023-04-27T07:45:10.451Z,61.141,-151.5945,72.2,2,ml,,,,0.25,ak,ak0235dmbb1h,2023-04-27T07:47:08.928Z,"25 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-27T07:43:38.176Z,26.0762,128.5545,10,5.3,mww,105,48,0.798,1.01,us,us7000jw7e,2023-04-27T08:02:45.040Z,"73 km SE of Ginoza, Japan",earthquake,5.65,1.835,0.066,22,reviewed,us,us
+2023-04-27T07:43:38.176Z,26.0762,128.5545,10,5.3,mww,105,48,0.798,1.01,us,us7000jw7e,2023-04-27T08:14:45.908Z,"73 km SE of Ginoza, Japan",earthquake,5.65,1.835,0.066,22,reviewed,us,us
 2023-04-27T07:28:39.354Z,59.6207,-152.3025,66.6,1.4,ml,,,,0.42,ak,ak0235dm7q3j,2023-04-27T07:30:40.409Z,"31 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-27T07:27:11.821Z,62.8097,-150.7089,113.5,1.4,ml,,,,0.87,ak,ak0235dm7g9a,2023-04-27T07:29:14.985Z,"35 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-27T07:14:16.580Z,17.9883333333333,-66.8238333333333,12.58,2.39,md,6,188,0.05438,0.1,pr,pr71406848,2023-04-27T07:30:42.820Z,"0 km SW of Indios, Puerto Rico",earthquake,0.81,0.77,0.0788077116280643,3,reviewed,pr,pr
@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T08:31:40.446Z,31.68527495,-104.4733347,5.925903319999999,1.9,ml,32,77,0.02874021855,0.2,tx,tx2023icts,2023-04-26T20:12:42.887Z,"55 km S of Whites City, New Mexico",earthquake,1.07778434,0.6082643583,0.1,7,reviewed,tx,tx
 2023-04-26T08:20:27.740Z,33.1871667,-115.6103333,2.2,1.49,ml,22,85,0.01065,0.16,ci,ci40445768,2023-04-26T17:58:08.642Z,"10km SW of Niland, CA",earthquake,0.28,0.19,0.193,37,reviewed,ci,ci
 2023-04-26T08:15:08.180Z,33.1703333,-115.6933333,0.81,1.96,ml,7,214,0.0607,0.22,ci,ci37533564,2023-04-26T17:21:03.395Z,"16km NNW of Westmorland, CA",earthquake,1.31,2.93,0.019,1,reviewed,ci,ci
-2023-04-26T08:14:51.500Z,33.1883333,-115.6048333,1.8,1.34,ml,25,86,0.01412,0.16,ci,ci40445760,2023-04-26T17:22:03.173Z,"10km SW of Niland, CA",earthquake,0.24,0.17,0.163,13,reviewed,ci,ci
-2023-04-26T08:13:02.960Z,51.853,-178.091666666667,4.2,2,ml,5,214,,0.15,av,av91863951,2023-04-26T20:04:34.580Z,"100 km W of Adak, Alaska",earthquake,0.74,0.95,0.147266864658969,5,reviewed,av,av
