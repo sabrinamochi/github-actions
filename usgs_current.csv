@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T21:56:56.150Z,19.3951663970947,-155.273498535156,1.08000004291534,2.11,ml,22,60,,0.230000004,hv,hv73379532,2023-04-27T22:02:44.730Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25999999,0.24,8,automatic,hv,hv
 2023-04-27T21:55:45.756Z,32.86560059,-100.93488,5.428955078000001,2.639135115,mlv,21,64,0.02004905179,0.2,tx,tx2023ifpt,2023-04-27T22:37:38.312Z,"16 km N of Snyder, Texas",earthquake,0.6944420994,0.9298439367999999,0.1810921935,12,reviewed,tx,tx
 2023-04-27T21:55:34.164Z,11.6165,141.8171,10,4.5,mb,42,112,22.723,0.44,us,us7000jwex,2023-04-27T22:19:06.040Z,"249 km NE of Fais, Micronesia",earthquake,11.21,1.814,0.074,54,reviewed,us,us
-2023-04-27T21:48:04.182Z,61.3082,-150.6593,58.9,1.1,ml,,,,0.44,ak,ak0235dunw7r,2023-04-28T01:03:26.131Z,"Southern Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-04-27T21:48:04.182Z,61.3082,-150.6593,58.9,1.1,ml,,,,0.44,ak,ak0235dunw7r,2023-04-28T01:03:26.131Z,"27 km SSW of Susitna, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-04-27T21:31:22.980Z,38.4293333,-122.6366667,8.84,1.7,md,62,37,0.0267,0.11,nc,nc73881156,2023-04-28T06:09:19.712Z,"6km ESE of Santa Rosa, CA",earthquake,0.13,0.25,0.276,63,reviewed,nc,nc
 2023-04-27T21:29:16.776Z,66.5067,-157.1995,1.5,3.4,ml,,,,0.71,ak,ak0235dujyl0,2023-04-27T21:40:12.040Z,"42 km S of Shungnak, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-27T21:29:14.709Z,58.1808,-155.3829,0,1.3,ml,,,,0.63,ak,ak0235dujydq,2023-04-27T23:10:26.690Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T20:22:55.010Z,38.8376656,-122.8105011,1.71,1.09,md,24,48,0.01425,0.02,nc,nc73881126,2023-04-27T20:57:11.454Z,"8km WNW of Cobb, CA",earthquake,0.2,0.4,0.16,25,automatic,nc,nc
 2023-04-27T20:20:34.430Z,38.8311653,-122.8563309,2.09,0.62,md,12,96,0.00364,0.01,nc,nc73881121,2023-04-27T20:52:11.434Z,"10km NW of The Geysers, CA",earthquake,0.4,0.51,0.35,13,automatic,nc,nc
 2023-04-27T20:15:41.720Z,38.7659988,-122.7073364,0.77,0.96,md,8,145,0.006663,0.02,nc,nc73881116,2023-04-27T20:46:13.398Z,"2km SW of Anderson Springs, CA",earthquake,1.22,1.02,0.21,6,automatic,nc,nc
-2023-04-27T20:04:47.250Z,36.5976677,-121.0933304,8.22,1.36,md,6,174,0.04732,0.12,nc,nc73881111,2023-04-27T21:39:13.687Z,"9km NNE of Pinnacles, CA",earthquake,1.14,2.43,0.26,6,automatic,nc,nc
+2023-04-27T20:04:47.960Z,36.5831667,-121.1623333,8.99,1.41,md,25,122,0.02181,0.05,nc,nc73881111,2023-04-28T06:24:12.252Z,"6km NNW of Pinnacles, CA",earthquake,0.31,0.2,0.277,23,reviewed,nc,nc
 2023-04-27T20:00:57.284Z,-29.696,-177.317,38.924,4.4,mb,13,228,0.681,1.39,us,us7000jwdw,2023-04-27T20:44:41.040Z,"Kermadec Islands, New Zealand",earthquake,14.43,15.43,0.17,12,reviewed,us,us
 2023-04-27T19:45:53.634Z,29.5974,81.5673,10,5.2,mb,58,64,3.72,0.99,us,us7000jwdq,2023-04-28T04:48:55.829Z,"69 km WNW of Jumla, Nepal",earthquake,8.89,1.86,0.038,224,reviewed,us,us
 2023-04-27T19:45:23.770Z,51.8526666666667,-178.074666666667,2.82,1.27,ml,5,204,,0.13,av,av91865711,2023-04-27T20:06:19.070Z,"99 km W of Adak, Alaska",earthquake,0.54,0.83,0.228712117233822,5,reviewed,av,av
@@ -326,5 +326,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T06:36:21.568Z,62.0067,-148.9288,0,1.1,ml,,,,0.52,ak,ak0235dlnyuk,2023-04-27T06:38:05.426Z,"26 km NNW of Sutton-Alpine, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-27T06:34:34.930Z,37.7398333,-113.9475,1.32,1.25,ml,12,115,0.2867,0.15,uu,uu60538431,2023-04-27T20:54:05.488Z,"25 km W of Beryl Junction, Utah",earthquake,0.53,10.2,0.215,2,reviewed,uu,uu
 2023-04-27T06:33:56.530Z,37.04,-121.475,7.11,0.9,md,30,70,0.01647,0.17,nc,nc73880811,2023-04-27T19:55:13.083Z,"9km ENE of Gilroy, CA",earthquake,0.35,0.56,0.233,22,reviewed,nc,nc
-2023-04-27T06:25:22.330Z,33.0978333,-116.0413333,9.72,0.73,ml,33,52,0.09241,0.16,ci,ci40446120,2023-04-27T14:48:44.266Z,"10km ESE of Ocotillo Wells, CA",earthquake,0.21,0.6,0.087,19,reviewed,ci,ci
-2023-04-27T06:24:37.426Z,39.9705,-120.8138,0,0.6,ml,3,332.93,0.364,0.0663,nn,nn00858769,2023-04-27T20:20:10.088Z,"8 km ENE of East Quincy, California",earthquake,,0,0.19,3,reviewed,nn,nn
