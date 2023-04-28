@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T05:47:02.800Z,33.715,-116.7481667,16.33,0.56,ml,22,86,0.0286,0.15,ci,ci40212383,2023-04-28T05:50:42.067Z,"4km SW of Idyllwild, CA",earthquake,0.4,0.48,0.073,10,automatic,ci,ci
 2023-04-28T05:41:00.253Z,36.1253,-115.4854,1.6,1.1,ml,17,334.28,0.66,0.3144,nn,nn00858823,2023-04-28T05:43:21.946Z,"11 km NW of Blue Diamond, Nevada",earthquake,,42.4,0.15,8,automatic,nn,nn
 2023-04-28T05:28:17.050Z,38.8326683,-122.7926636,1.83,1.07,md,11,79,0.006012,0.01,nc,nc73881276,2023-04-28T05:44:10.555Z,"6km W of Cobb, CA",earthquake,0.35,0.55,0.22,14,automatic,nc,nc
 2023-04-28T05:18:14.673Z,32.0462,140.8637,58.273,4.4,mb,43,131,1.386,0.66,us,us7000jwk9,2023-04-28T05:34:46.040Z,"Izu Islands, Japan region",earthquake,10.82,7.916,0.102,28,reviewed,us,us
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T23:13:53.060Z,37.4948333,-118.7898333,8.84,0.55,md,13,187,0.1,0.04,nc,nc73881191,2023-04-28T05:27:15.451Z,"12km SW of Toms Place, CA",earthquake,0.78,1.11,0.24,12,reviewed,nc,nc
 2023-04-27T23:10:52.560Z,33.0293333,-116.0031667,9.96,3.16,ml,92,20,0.145,0.24,ci,ci40212119,2023-04-28T04:06:31.304Z,"17km SE of Ocotillo Wells, CA",earthquake,0.16,0.57,0.152,199,reviewed,ci,ci
 2023-04-27T23:01:41.140Z,38.8166656,-122.7858353,1.17,0.72,md,12,88,0.005269,0.02,nc,nc73881181,2023-04-27T23:22:15.361Z,"5km NNW of The Geysers, CA",earthquake,0.38,0.55,0.19,12,automatic,nc,nc
+2023-04-27T22:58:16.510Z,38.7783333,-122.7145,1.79,0.53,md,18,54,0.009632,0.04,nc,nc73881196,2023-04-28T05:50:12.356Z,"2km W of Anderson Springs, CA",earthquake,0.22,0.32,0.345,11,reviewed,nc,nc
 2023-04-27T22:57:47.390Z,58.387,-154.6555,6.42,-0.33,ml,5,199,,0.16,av,av91865876,2023-04-27T23:27:57.440Z,"91 km N of Karluk, Alaska",earthquake,1.02,1.53,0.248703671749674,5,reviewed,av,av
 2023-04-27T22:40:17.250Z,33.524,-116.5301667,12.17,0.57,ml,20,58,0.03342,0.12,ci,ci40212071,2023-04-28T00:15:18.024Z,"14km ESE of Anza, CA",earthquake,0.26,0.38,0.134,10,reviewed,ci,ci
 2023-04-27T22:39:01.967Z,36.0032,59.3175,10,4.9,mb,96,77,7.779,0.71,us,us7000jwf5,2023-04-28T04:30:19.566Z,"41 km SW of Mashhad, Iran",earthquake,7.63,1.868,0.046,151,reviewed,us,us
@@ -83,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T21:56:56.150Z,19.3951663970947,-155.273498535156,1.08000004291534,2.11,ml,22,60,,0.230000004,hv,hv73379532,2023-04-27T22:02:44.730Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25999999,0.24,8,automatic,hv,hv
 2023-04-27T21:55:45.756Z,32.86560059,-100.93488,5.428955078000001,2.639135115,mlv,21,64,0.02004905179,0.2,tx,tx2023ifpt,2023-04-27T22:37:38.312Z,"16 km N of Snyder, Texas",earthquake,0.6944420994,0.9298439367999999,0.1810921935,12,reviewed,tx,tx
 2023-04-27T21:55:34.164Z,11.6165,141.8171,10,4.5,mb,42,112,22.723,0.44,us,us7000jwex,2023-04-27T22:19:06.040Z,"249 km NE of Fais, Micronesia",earthquake,11.21,1.814,0.074,54,reviewed,us,us
-2023-04-27T21:48:04.182Z,61.3082,-150.6593,58.9,1.1,ml,,,,0.44,ak,ak0235dunw7r,2023-04-28T01:03:26.131Z,"27 km SSW of Susitna, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-04-27T21:48:04.182Z,61.3082,-150.6593,58.9,1.1,ml,,,,0.44,ak,ak0235dunw7r,2023-04-28T01:03:26.131Z,"Southern Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-04-27T21:31:22.980Z,38.4293333,-122.6366667,8.84,1.7,md,62,37,0.0267,0.11,nc,nc73881156,2023-04-28T05:47:00.170Z,"6km ESE of Santa Rosa, CA",earthquake,0.13,0.25,0.276,63,reviewed,nc,nc
 2023-04-27T21:29:16.776Z,66.5067,-157.1995,1.5,3.4,ml,,,,0.71,ak,ak0235dujyl0,2023-04-27T21:40:12.040Z,"42 km S of Shungnak, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-27T21:29:14.709Z,58.1808,-155.3829,0,1.3,ml,,,,0.63,ak,ak0235dujydq,2023-04-27T23:10:26.690Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -324,4 +326,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T06:07:27.560Z,44.6865,-110.4115,4.92,0.83,md,9,117,0.07608,0.13,uu,uu60538421,2023-04-27T15:43:17.970Z,"39 km SE of Mammoth, Wyoming",earthquake,0.45,0.72,0.52,6,reviewed,uu,uu
 2023-04-27T06:07:14.046Z,-35.6158,-71.4544,91.509,5,mww,77,95,0.149,0.95,us,us7000jw73,2023-04-28T04:41:26.152Z,"9 km SSE of San Clemente, Chile",earthquake,6.61,4.821,0.08,15,reviewed,us,us
 2023-04-27T05:59:00.990Z,58.167,-155.382166666667,1.76,0.11,ml,9,194,,0.08,av,av91864991,2023-04-27T21:47:36.410Z,"86 km NW of Karluk, Alaska",earthquake,0.31,0.48,0.185158251960862,9,reviewed,av,av
-2023-04-27T05:50:41.960Z,38.8031667,-122.805,1.29,0.86,md,34,50,0.008966,0.06,nc,nc73880791,2023-04-27T17:20:12.135Z,"5km NW of The Geysers, CA",earthquake,0.15,0.26,0.4,28,reviewed,nc,nc
