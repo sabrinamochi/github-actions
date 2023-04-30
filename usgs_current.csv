@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:28:30.510Z,39.3821678,-122.8993301,0.28,1.59,md,10,115,0.1774,0.15,nc,nc73882306,2023-04-30T17:46:10.243Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.59,12.03,0.09,4,automatic,nc,nc
 2023-04-30T16:23:41.320Z,17.9611666666667,-66.9605,7.05,2.32,md,11,197,0.05056,0.12,pr,pr71407318,2023-04-30T16:53:24.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.27,0.0468957589521872,4,reviewed,pr,pr
 2023-04-30T16:20:44.220Z,39.2903328,-123.2838364,-0.09,1.39,md,7,135,0.08553,0.05,nc,nc73882301,2023-04-30T17:20:11.067Z,"7km WNW of Redwood Valley, CA",earthquake,0.5,2.98,0.03,5,automatic,nc,nc
-2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"31 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T16:01:54.230Z,19.4038333892822,-155.259170532227,0.159999996423721,2.17000008,md,13,75,,0.219999999,hv,hv73384632,2023-04-30T16:04:47.990Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.540000021,2.07999992,6,automatic,hv,hv
 2023-04-30T15:58:29.830Z,17.9366666666667,-66.9651666666667,6.83,1.73,md,5,230,0.06437,0.03,pr,pr71407308,2023-04-30T16:11:42.140Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.31,0.171972009439333,3,reviewed,pr,pr
 2023-04-30T15:50:39.259Z,61.4036,-149.8548,33.9,2,ml,,,,0.17,ak,ak0235ippy5x,2023-04-30T15:51:57.200Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -152,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:50:11.200Z,19.1585006713867,-155.477661132812,32.9000015258789,2.00999999,md,35,168,,0.129999995,hv,hv73384142,2023-04-30T07:53:27.630Z,"4 km S of Pāhala, Hawaii",earthquake,0.63,1.10000002,0.25,9,automatic,hv,hv
 2023-04-30T07:46:35.370Z,33.1955,-115.6006667,2.67,1.33,ml,16,88,0.02193,0.2,ci,ci37535180,2023-04-30T20:45:20.833Z,"9km WSW of Niland, CA",earthquake,0.29,0.33,0.254,9,reviewed,ci,ci
 2023-04-30T07:46:28.930Z,33.1943333,-115.5981667,3.19,1.19,ml,16,88,0.02231,0.16,ci,ci40215703,2023-04-30T20:40:29.139Z,"9km SW of Niland, CA",earthquake,0.24,0.27,0.336,6,reviewed,ci,ci
+2023-04-30T07:38:50.850Z,60.0103333333333,-153.121666666667,-1.42,-0.86,ml,5,148,,0.13,av,av91868951,2023-04-30T22:30:07.380Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.62,10.55,0.223368538788443,5,reviewed,av,av
 2023-04-30T07:37:28.850Z,33.195,-115.6021667,1.98,1.47,ml,15,120,0.02081,0.18,ci,ci40215695,2023-04-30T07:41:04.030Z,"9km WSW of Niland, CA",earthquake,0.41,0.39,0.174,14,automatic,ci,ci
 2023-04-30T07:32:12.670Z,33.206,-115.5861667,1.29,3.09,ml,40,90,0.03769,0.25,ci,ci40215687,2023-04-30T07:56:12.040Z,"7km WSW of Niland, CA",earthquake,0.36,0.67,0.171,29,automatic,ci,ci
 2023-04-30T07:30:12.700Z,33.1865,-115.5906667,3.02,1.9,ml,27,111,0.0228,0.16,ci,ci40215679,2023-04-30T07:41:12.780Z,"9km SW of Niland, CA",earthquake,0.29,0.25,0.181,29,automatic,ci,ci
@@ -309,4 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T22:34:10.500Z,32.6971667,-115.5316667,6.78,1.7,ml,14,73,0.09826,0.27,ci,ci40215175,2023-04-29T22:37:52.602Z,"4km WNW of Calexico, CA",earthquake,0.54,1.93,0.27,23,automatic,ci,ci
 2023-04-29T22:34:02.630Z,19.3941666666667,-155.278166666667,1.45,1.68,ml,17,58,,0.11,hv,hv73383642,2023-04-29T22:52:39.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.15,0.201511207554229,8,reviewed,hv,hv
 2023-04-29T22:31:14.260Z,36.9278336,-121.5233307,7.85,1.65,md,6,198,0.1022,0.05,nc,nc73882021,2023-04-30T01:43:11.323Z,"9km N of San Juan Bautista, CA",earthquake,0.85,2.3,0.16,8,automatic,nc,nc
-2023-04-29T22:30:11.270Z,37.3515,-118.8053333,15.04,1.67,md,23,89,0.1929,0.04,nc,nc73882016,2023-04-30T07:07:16.344Z,"20km WSW of Round Valley, CA",earthquake,0.36,1.36,0.266,25,reviewed,nc,nc
