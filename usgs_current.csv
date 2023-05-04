@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T17:27:40.060Z,19.1646671295166,-155.345840454102,29.3799991607666,2.05,ml,17,216,,0.0900000036,hv,hv73388107,2023-05-03T17:33:10.260Z,"14 km ESE of Pāhala, Hawaii",earthquake,2.05,1.13999999,3.67,6,automatic,hv,hv
 2023-05-03T17:27:07.810Z,58.1875,-155.298666666667,2.49,-0.21,ml,6,234,,0.08,av,av91872771,2023-05-03T23:59:26.250Z,"85 km NW of Karluk, Alaska",earthquake,0.61,0.54,0.237225959913113,6,reviewed,av,av
 2023-05-03T17:17:19.970Z,38.838501,-122.8371658,1.12,0.7,md,15,111,0.001314,0.02,nc,nc73883501,2023-05-03T18:40:14.050Z,"10km NW of The Geysers, CA",earthquake,0.23,0.46,0.29,15,automatic,nc,nc
-2023-05-03T17:16:38.636Z,38.0816,36.5226,10.473,4.9,mb,110,26,0.335,0.94,us,us7000jxsv,2023-05-03T20:36:21.344Z,"7 km NNE of Göksun, Turkey",earthquake,5.3,2.531,0.037,230,reviewed,us,us
+2023-05-03T17:16:38.636Z,38.0816,36.5226,10.473,4.9,mb,110,26,0.335,0.94,us,us7000jxsv,2023-05-04T05:21:19.131Z,"7 km NNE of Göksun, Turkey",earthquake,5.3,2.531,0.037,230,reviewed,us,us
 2023-05-03T17:15:46.970Z,17.9295,-66.8468333333333,13.27,2.44,md,10,219,0.05482,0.2,pr,pr71407703,2023-05-03T17:44:54.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,1.14,0.52,0.151179566061082,8,reviewed,pr,pr
 2023-05-03T17:13:59.762Z,59.941,-152.8966,101.4,1.6,ml,,,,0.13,ak,ak0235npayy0,2023-05-03T17:15:19.382Z,"62 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T17:00:57.200Z,33.189,-115.5965,2.4,1.51,ml,21,92,0.01974,0.19,ci,ci40218199,2023-05-03T17:04:43.374Z,"9km SW of Niland, CA",earthquake,0.32,0.28,0.201,27,automatic,ci,ci
@@ -179,6 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T12:55:15.730Z,58.2621666666667,-155.086666666667,4.7,-0.59,ml,6,101,,0.13,av,av91098898,2023-05-03T22:42:42.840Z,"85 km NNW of Karluk, Alaska",earthquake,0.33,0.68,0.235692159097277,6,reviewed,av,av
 2023-05-03T12:54:37.734Z,37.3751,-117.0995,7.8,0.4,ml,5,206.52,0.379,0.1024,nn,nn00859034,2023-05-03T20:39:07.761Z,"38 km SSE of Goldfield, Nevada",earthquake,,10.8,1.11,4,reviewed,nn,nn
 2023-05-03T12:52:55.620Z,33.7788333,-116.924,13.24,0.64,ml,12,204,0.09152,0.14,ci,ci40218007,2023-05-03T12:58:50.005Z,"3km E of San Jacinto, CA",earthquake,0.54,0.62,0.066,8,reviewed,ci,ci
+2023-05-03T12:48:21.120Z,38.819,-122.7656667,1.76,0.4,md,11,134,0.01192,0.01,nc,nc73883396,2023-05-04T05:21:48.204Z,"4km W of Cobb, CA",earthquake,0.83,0.5,0.181,9,reviewed,nc,nc
 2023-05-03T12:41:09.225Z,62.9045,-150.8656,95.9,1.3,ml,,,,0.38,ak,ak0235nmhp2i,2023-05-03T12:43:04.899Z,"45 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-03T12:24:24.700Z,34.5068333,-118.6965,16.46,1.89,ml,53,27,0.08729,0.29,ci,ci40217999,2023-05-03T12:34:56.790Z,"7km WNW of Castaic, CA",earthquake,0.33,0.86,0.148,26,automatic,ci,ci
 2023-05-03T12:23:47.690Z,33.4718333,-116.4891667,13.83,0.61,ml,21,99,0.09231,0.15,ci,ci40217991,2023-05-03T12:27:21.009Z,"19km ESE of Anza, CA",earthquake,0.29,0.67,0.14,14,automatic,ci,ci
@@ -277,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T05:57:58.380Z,51.852,-178.074833333333,3.25,1.87,ml,5,204,,0.14,av,av91872236,2023-05-03T20:02:27.020Z,"99 km W of Adak, Alaska",earthquake,0.56,0.79,0.297540204672163,5,reviewed,av,av
 2023-05-03T05:31:42.800Z,38.8063333,-122.8081667,1.41,0.44,md,13,77,0.01018,0.02,nc,nc73883266,2023-05-03T20:10:16.845Z,"6km NW of The Geysers, CA",earthquake,0.26,0.45,0.1,13,reviewed,nc,nc
 2023-05-03T05:30:07.560Z,19.4166660308838,-155.262496948242,1.5,1.81,ml,22,108,,0.0799999982,hv,hv73387557,2023-05-03T05:35:38.940Z,"4 km SW of Volcano, Hawaii",earthquake,0.22,0.349999994,0.13,5,automatic,hv,hv
-2023-05-03T05:21:46.363Z,59.8506,-153.0503,123.1,1.1,ml,,,,0.11,ak,ak0235ni7gdo,2023-05-03T05:23:17.023Z,"59 km E of Pedro Bay, Alaska",earthquake,,4,,,automatic,ak,ak
