@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-04T09:28:40.091Z,35.79576874,-96.97784424,4.080122948,1.56,ml,20,61.5075531,0.1791478246,0.1254218712,ok,ok2023irlq,2023-05-04T09:30:27.351Z,"3 km ESE of Carney, Oklahoma",earthquake,2.841018696,2.265157088,0.17,5,automatic,ok,ok
+2023-05-04T09:34:11.645Z,63.8777,-148.8799,103.4,1.7,ml,,,,0.82,ak,ak0235p878x8,2023-05-04T09:37:16.966Z,"4 km ENE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-04T09:28:40.091Z,35.79576874,-96.97784424,4.080122948,1.56,ml,20,61.5075531,0.1791478246,0.1254218712,ok,ok2023irlq,2023-05-04T09:31:40.144Z,"3 km ESE of Carney, Oklahoma",earthquake,2.841018696,2.265157088,0.17,5,automatic,ok,ok
 2023-05-04T09:22:05.850Z,33.6815,-116.7713333,17.57,0.87,ml,31,98,0.0561,0.15,ci,ci40218815,2023-05-04T09:25:41.138Z,"8km SW of Idyllwild, CA",earthquake,0.28,0.4,0.142,20,automatic,ci,ci
 2023-05-04T09:17:41.269Z,34.51089478,-97.20472717,2.218463659,2.14,ml,25,115.8791428,0.1372131854,0.6266462488,ok,ok2023irlh,2023-05-04T09:20:37.680Z,"7 km W of Davis, Oklahoma",earthquake,2.984034441,1.871463719,0.23,13,automatic,ok,ok
 2023-05-04T09:09:59.840Z,36.1428333,-117.8571667,1.64,1.55,ml,15,183,0.02527,0.16,ci,ci40218807,2023-05-04T09:13:42.023Z,"14km NE of Coso Junction, CA",earthquake,0.58,0.4,0.199,16,automatic,ci,ci
@@ -224,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T12:05:36.356Z,26.95,143.7497,12.883,4.8,mb,88,124,7.027,0.59,us,us7000jxqx,2023-05-03T12:22:49.040Z,"Bonin Islands, Japan region",earthquake,11.13,4.43,0.069,65,reviewed,us,us
 2023-05-03T12:02:01.970Z,48.666,-120.291,16.81,0.43,md,5,252,0.2345,0.07,uw,uw61912212,2023-05-03T19:57:12.240Z,"22 km NNW of Winthrop, Washington",earthquake,1.81,1.2,,1,reviewed,uw,uw
 2023-05-03T11:56:40.650Z,35.8718333,-117.7143333,9.87,1.37,ml,15,115,0.07532,0.15,ci,ci40217967,2023-05-03T12:00:21.702Z,"19km ESE of Little Lake, CA",earthquake,0.32,0.64,0.143,13,automatic,ci,ci
-2023-05-03T11:52:19.230Z,38.8171667,-122.822,2.24,1.51,md,44,48,0.01001,0.04,nc,nc73883376,2023-05-04T09:10:10.582Z,"7km NW of The Geysers, CA",earthquake,0.15,0.24,0.163,35,reviewed,nc,nc
+2023-05-03T11:52:19.230Z,38.8171667,-122.822,2.24,1.51,md,44,48,0.01001,0.04,nc,nc73883376,2023-05-04T09:37:15.734Z,"7km NW of The Geysers, CA",earthquake,0.15,0.24,0.163,35,reviewed,nc,nc
 2023-05-03T11:43:38.350Z,35.8708333,-117.7168333,9.27,3.09,ml,32,55,0.07339,0.16,ci,ci40217951,2023-05-03T13:32:07.289Z,"19km ESE of Little Lake, CA",earthquake,0.18,0.43,0.144,187,reviewed,ci,ci
 2023-05-03T11:40:26.750Z,38.814167,-122.8231659,2.2,1.07,md,24,49,0.007075,0.02,nc,nc73883361,2023-05-03T12:08:12.708Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,25,automatic,nc,nc
 2023-05-03T11:31:26.240Z,34.2338333,-117.4833333,10.04,0.99,ml,19,72,0.02936,0.29,ci,ci40217943,2023-05-03T11:34:58.375Z,"3km SSE of Lytle Creek, CA",earthquake,0.63,0.75,0.231,13,automatic,ci,ci
@@ -259,6 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T09:50:29.626Z,61.6883,-151.8422,105.5,1.4,ml,,,,0.36,ak,ak0235nkrd9u,2023-05-03T09:52:29.754Z,"40 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-03T09:42:16.730Z,58.1916666666667,-155.255333333333,4.12,-0.28,ml,6,210,,0.06,av,av91098878,2023-05-03T21:41:52.770Z,"84 km NW of Karluk, Alaska",earthquake,0.35,0.94,0.41016196099869,7,reviewed,av,av
 2023-05-03T09:41:33.740Z,59.998,-153.095833333333,1.31,-1.16,ml,5,103,,0.09,av,av91872381,2023-05-03T21:38:00.760Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.29,1.06,0.133743254250261,5,reviewed,av,av
-2023-05-03T09:33:24.360Z,38.8368333,-122.8063333,1.59,0.4,md,7,112,0.01373,0.03,nc,nc73883331,2023-05-03T20:35:19.845Z,"7km WNW of Cobb, CA",earthquake,0.44,0.54,0.064,6,reviewed,nc,nc
-2023-05-03T09:33:07.930Z,38.8363342,-122.8061676,1.93,0.67,md,9,110,0.01253,0.02,nc,nc73883326,2023-05-03T12:16:11.760Z,"7km WNW of Cobb, CA",earthquake,0.46,0.93,0.16,9,automatic,nc,nc
-2023-05-03T09:31:40.410Z,38.7901649,-122.7786636,0.91,1.05,md,9,98,0.007833,0.02,nc,nc73883321,2023-05-03T11:47:15.578Z,"2km NW of The Geysers, CA",earthquake,0.36,0.73,0.13,11,automatic,nc,nc
