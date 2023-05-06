@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-06T17:27:05.280Z,38.7818336,-122.7328339,1.79,0.78,md,7,165,0.003349,0.02,nc,nc73884576,2023-05-06T17:28:41.384Z,"2km ENE of The Geysers, CA",earthquake,0.69,1.37,0.13,7,automatic,nc,nc
-2023-05-06T17:26:35.130Z,35.207,-118.6743333,5.94,1.76,ml,36,51,0.02677,0.18,ci,ci40220007,2023-05-06T17:30:23.640Z,"14km E of Arvin, CA",earthquake,0.26,0.75,0.131,25,automatic,ci,ci
-2023-05-06T17:24:53.910Z,33.986,-117.3195,3.6,1.21,ml,10,98,0.1066,0.21,ci,ci40219999,2023-05-06T17:28:25.628Z,"5km S of Grand Terrace, CA",earthquake,0.68,3.21,0.336,9,automatic,ci,ci
+2023-05-06T17:35:25.450Z,33.4751667,-116.4241667,12.67,0.53,ml,20,81,0.04812,0.27,ci,ci40220015,2023-05-06T17:38:57.687Z,"24km SSW of La Quinta, CA",earthquake,0.52,1.06,0.085,12,automatic,ci,ci
+2023-05-06T17:34:57.820Z,60.2599,-152.4387,80.3,0.7,ml,,,,0.25,ak,ak0235so1iba,2023-05-06T17:36:25.279Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-05-06T17:32:41.853Z,61.0021,-146.4524,39.4,1.3,ml,,,,1.06,ak,ak0235so11nd,2023-05-06T17:34:06.408Z,"15 km SSW of Valdez, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-05-06T17:30:17.508Z,61.4423,-150.0722,30.1,1.4,ml,,,,0.48,ak,ak0235so0kc6,2023-05-06T17:32:07.686Z,"10 km NNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-06T17:27:05.280Z,38.7818336,-122.7328339,1.79,0.78,md,7,165,0.003349,0.02,nc,nc73884576,2023-05-06T17:39:11.328Z,"2km ENE of The Geysers, CA",earthquake,0.69,1.37,0.13,7,automatic,nc,nc
+2023-05-06T17:26:35.130Z,35.207,-118.6743333,5.94,1.76,ml,36,51,0.02677,0.18,ci,ci40220007,2023-05-06T17:37:44.990Z,"14km E of Arvin, CA",earthquake,0.26,0.75,0.131,25,automatic,ci,ci
 2023-05-06T17:19:04.770Z,32.6953333,-115.5368333,4.66,1.64,ml,12,99,0.09942,0.29,ci,ci40219991,2023-05-06T17:22:47.601Z,"4km WNW of Calexico, CA",earthquake,0.89,2.06,0.169,24,automatic,ci,ci
 2023-05-06T17:16:42.364Z,38.1549,-117.7884,5.2,1.5,ml,12,134.16,0.1,0.3195,nn,nn00859147,2023-05-06T17:19:29.822Z,"38 km SE of Mina, Nevada",earthquake,,0.6,0.86,7,automatic,nn,nn
 2023-05-06T17:13:53.820Z,35.505,-118.3848333,9.1,1.64,ml,28,38,0.1734,0.11,ci,ci40219975,2023-05-06T17:24:24.170Z,"13km SE of Bodfish, CA",earthquake,0.15,0.75,0.206,23,automatic,ci,ci
@@ -30,13 +33,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T14:43:24.930Z,34.9916,23.5073,53.135,4.5,mb,48,62,1.171,0.85,us,us6000ka1h,2023-05-06T16:27:24.040Z,"30 km SSW of Palaióchora, Greece",earthquake,5.7,7.584,0.068,63,reviewed,us,us
 2023-05-06T14:42:35.760Z,32.6818333,-115.5286667,3.39,2.26,ml,19,72,0.1139,0.27,ci,ci40219855,2023-05-06T14:55:24.324Z,"3km W of Calexico, CA",earthquake,0.61,1.08,0.168,28,automatic,ci,ci
 2023-05-06T14:41:30.850Z,32.7041667,-115.5388333,7.08,2.55,ml,30,61,0.09218,0.29,ci,ci40219847,2023-05-06T14:52:08.250Z,"3km SSW of Heber, CA",earthquake,0.53,1.36,0.217,26,automatic,ci,ci
-2023-05-06T14:37:37.596Z,61.0437,-146.6283,51.6,1.4,ml,,,,0.84,ak,ak0235sm9t33,2023-05-06T14:40:08.003Z,"17 km WSW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-06T14:33:06.140Z,19.8023338317871,-156.035003662109,8.85000038146973,2.04999995,md,26,254,,0.289999992,hv,hv73390872,2023-05-06T15:54:37.040Z,"9 km NW of Kalaoa, Hawaii",earthquake,1.42,0.939999998,1.46000004,6,automatic,hv,hv
 2023-05-06T14:30:20.479Z,-4.6896,151.0645,81.157,4.5,mb,30,125,6.079,0.71,us,us6000ka19,2023-05-06T15:45:01.040Z,"133 km WSW of Rabaul, Papua New Guinea",earthquake,13.05,7.968,0.076,51,reviewed,us,us
 2023-05-06T14:28:51.080Z,32.7183333,-115.5523333,6.42,1.62,ml,15,101,0.07436,0.27,ci,ci40219831,2023-05-06T14:49:07.902Z,"2km WSW of Heber, CA",earthquake,0.72,2.3,0.16,21,automatic,ci,ci
 2023-05-06T14:22:43.550Z,36.0668333,-117.9063333,-0.33,1.31,ml,11,104,0.06559,0.15,ci,ci40219823,2023-05-06T14:26:11.829Z,"4km ENE of Coso Junction, CA",earthquake,0.41,31.61,0.129,13,automatic,ci,ci
 2023-05-06T14:22:02.850Z,32.7071667,-115.5435,5.51,1.74,ml,13,87,0.08725,0.25,ci,ci40219815,2023-05-06T14:37:51.899Z,"3km SSW of Heber, CA",earthquake,0.68,1.3,0.21,21,automatic,ci,ci
-2023-05-06T14:16:02.610Z,32.715168,-115.5465012,6.8,3.55,mw,68,48,0.05487,0.3,ci,ci40219807,2023-05-06T16:31:56.834Z,"2km SW of Heber, CA",earthquake,0.25,0.61,,4,automatic,ci,ci
+2023-05-06T14:16:02.610Z,32.715168,-115.5465012,6.8,3.55,mw,68,48,0.05487,0.3,ci,ci40219807,2023-05-06T17:35:24.098Z,"2km SW of Heber, CA",earthquake,0.25,0.61,,4,automatic,ci,ci
 2023-05-06T14:15:11.770Z,32.7118333,-115.5458333,5.38,2.09,ml,23,59,0.08271,0.23,ci,ci40219799,2023-05-06T14:30:39.873Z,"3km SW of Heber, CA",earthquake,0.52,1.05,0.21,26,automatic,ci,ci
 2023-05-06T14:14:49.689Z,64.7888,-147.2722,23.7,0.4,ml,,,,1.33,ak,ak0235sm4wjs,2023-05-06T14:16:38.647Z,"5 km NE of North Pole, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-06T13:58:27.924Z,39.4169,-119.8348,7.9,0.6,ml,7,115.6,0.061,0.0894,nn,nn00859146,2023-05-06T16:22:52.503Z,"12 km S of Reno, Nevada",earthquake,,2,0.33,3,reviewed,nn,nn
@@ -229,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T17:54:16.400Z,58.1671666666667,-155.3875,1.58,-0.28,ml,7,195,,0.06,av,av91875256,2023-05-06T03:02:09.370Z,"Alaska Peninsula",earthquake,0.34,0.69,0.163698176126416,7,reviewed,av,av
 2023-05-05T17:47:16.549Z,41.5046,141.9956,62.297,5.9,mww,258,30,1.002,0.66,us,us6000k9ue,2023-05-06T15:38:09.637Z,"Hokkaido, Japan region",earthquake,5.71,3.329,0.048,41,reviewed,us,us
 2023-05-05T17:42:24.760Z,41.0691667,-122.179,10.81,2.49,md,33,32,0.05954,0.11,nc,nc73884261,2023-05-06T00:25:10.877Z,"17km SSE of Dunsmuir, CA",earthquake,0.21,0.48,0.133,36,reviewed,nc,nc
-2023-05-05T17:38:15.757Z,62.701,-152.5487,0,1.2,ml,,,,0.74,ak,ak0235r0ixfr,2023-05-05T17:40:13.844Z,"94 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-05T17:36:47.350Z,32.7051667,-115.5408333,9.23,1.54,ml,18,92,0.06521,0.16,ci,ci40219503,2023-05-05T19:28:30.369Z,"3km SSW of Heber, CA",earthquake,0.29,0.59,0.285,13,reviewed,ci,ci
-2023-05-05T17:35:36.650Z,34.8481667,-118.7856667,-1.36,1.23,ml,19,69,0.07177,0.21,ci,ci40219487,2023-05-05T18:39:44.054Z,"7km E of Lebec, CA",quarry blast,0.38,31.61,0.079,12,reviewed,ci,ci
