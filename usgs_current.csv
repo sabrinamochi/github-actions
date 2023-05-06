@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T05:59:31.115Z,60.3878,-141.4125,8.6,1.2,ml,,,,0.17,ak,ak0235sh1lw7,2023-05-06T06:01:19.173Z,"132 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T05:23:20.620Z,19.2358341217041,-155.399337768555,32.1399993896484,2.26,ml,40,139,,0.109999999,hv,hv73390522,2023-05-06T05:30:42.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.769999981,3.94,5,automatic,hv,hv
 2023-05-06T05:02:01.448Z,29.1791,105.4207,35.975,4.4,mb,60,59,3.708,0.33,us,us6000k9z1,2023-05-06T05:52:54.040Z,"5 km NE of Fuji, China",earthquake,9.51,8.078,0.079,46,reviewed,us,us
 2023-05-06T04:58:28.129Z,62.5299,-148.9983,33,1.4,ml,,,,0.46,ak,ak0235sgfycc,2023-05-06T04:59:58.060Z,"57 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T03:34:53.504Z,-19.6517,-177.9602,561.312,4.3,mb,32,112,2.994,1.24,us,us6000k9yk,2023-05-06T03:50:51.040Z,"Fiji region",earthquake,17.64,11.565,0.069,60,reviewed,us,us
 2023-05-06T03:32:41.195Z,58.266,-155.1723,0,0.5,ml,,,,0.63,ak,ak0235sfoz3o,2023-05-06T03:37:27.607Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-05-06T03:29:44.120Z,38.8126678,-122.8288345,0.77,1.04,md,9,88,0.0115,0.02,nc,nc73884416,2023-05-06T03:47:21.126Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.81,0.1,7,automatic,nc,nc
-2023-05-06T03:24:07.745Z,60.7274,-152.1556,87.8,1,ml,,,,0.24,ak,ak0235sfn26z,2023-05-06T04:19:44.109Z,"47 km WNW of Salamatof, Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2023-05-06T03:24:07.745Z,60.7274,-152.1556,87.8,1,ml,,,,0.24,ak,ak0235sfn26z,2023-05-06T04:19:44.109Z,"Southern Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2023-05-06T03:16:15.310Z,35.6878333,-117.5311667,10.13,1.43,ml,15,108,0.09038,0.26,ci,ci40219703,2023-05-06T03:19:47.648Z,"14km SW of Searles Valley, CA",earthquake,0.73,1.52,0.13,14,automatic,ci,ci
 2023-05-06T03:15:30.090Z,38.8055,-122.8040009,0.55,1.47,md,28,46,0.007229,0.06,nc,nc73884411,2023-05-06T03:37:14.060Z,"5km NW of The Geysers, CA",earthquake,0.2,0.34,0.18,27,automatic,nc,nc
 2023-05-06T03:11:18.030Z,19.2308330535889,-155.453170776367,30.8099994659424,1.84000003,md,31,155,,0.150000006,hv,hv73390442,2023-05-06T03:14:24.520Z,"4 km NE of Pāhala, Hawaii",earthquake,0.8,0.879999995,1.10000002,9,automatic,hv,hv
@@ -186,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T13:11:10.601Z,61.1581,-150.6615,22.5,1.8,ml,,,,0.24,ak,ak0235qxzeac,2023-05-05T13:12:51.379Z,"22 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-05T13:09:10.775Z,53.3958,-163.601,13.743,3.8,ml,50,207,1.284,0.77,us,us6000k9tx,2023-05-06T05:51:52.040Z,"162 km S of False Pass, Alaska",earthquake,3.98,11.144,0.074,24,reviewed,us,us
 2023-05-05T13:05:41.261Z,61.7647,-150.5046,57,1.2,ml,,,,0.42,ak,ak0235qxy6cu,2023-05-05T13:07:04.049Z,"24 km N of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-05T12:58:03.633Z,37.4932,137.2783,8.222,5.6,mwb,134,46,1.201,0.74,us,us6000k9rh,2023-05-05T15:04:46.323Z,"44 km NE of Anamizu, Japan",earthquake,4.86,2.807,0.029,115,reviewed,us,us
+2023-05-05T12:58:03.633Z,37.4932,137.2783,8.222,5.6,mwb,134,46,1.201,0.74,us,us6000k9rh,2023-05-06T06:01:22.406Z,"44 km NE of Anamizu, Japan",earthquake,4.86,2.807,0.029,115,reviewed,us,us
 2023-05-05T12:55:29.020Z,19.267,-155.409166666667,30.9,2.58,ml,48,74,,0.13,hv,hv73389982,2023-05-05T21:53:27.140Z,"10 km NE of Pāhala, Hawaii",earthquake,0.41,0.52,0.127200061911918,23,reviewed,hv,hv
 2023-05-05T12:47:28.856Z,35.8323,-116.7983,4.4,0,ml,6,130.35,0.369,0.1684,nn,nn00859106,2023-05-05T19:33:00.643Z,"50 km WSW of Shoshone, California",earthquake,,5.2,0.77,2,reviewed,nn,nn
 2023-05-05T12:43:34.860Z,39.3101667,-122.8458333,9.87,1.68,md,16,132,0.1833,0.09,nc,nc73884171,2023-05-06T00:10:11.776Z,"15km SE of Lake Pillsbury, CA",earthquake,0.26,1.07,0.127,18,reviewed,nc,nc
