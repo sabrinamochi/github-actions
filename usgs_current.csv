@@ -43,10 +43,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T00:38:33.417Z,57.3313,-155.4923,77.6,1.8,ml,,,,0.29,ak,ak0235sdxy0d,2023-05-06T00:40:32.070Z,"67 km WSW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-06T00:30:11.970Z,19.4035,-155.288,0.96,2.09,ml,20,64,,0.09,hv,hv73390347,2023-05-06T02:49:14.890Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.12,0.208012003760416,12,reviewed,hv,hv
 2023-05-06T00:30:04.639Z,56.295,-157.6685,41.2,2.3,ml,,,,0.45,ak,ak0235sdw627,2023-05-06T00:32:54.300Z,"45 km E of Chignik, Alaska",earthquake,,6.4,,,automatic,ak,ak
-2023-05-06T00:18:21.800Z,19.1860008239746,-155.478500366211,31.5,2.1400001,md,35,92,,0.100000001,hv,hv73390337,2023-05-06T00:21:37.300Z,"Hawaii region, Hawaii",earthquake,0.59,0.860000014,1.41999996,23,automatic,hv,hv
-2023-05-06T00:14:26.977Z,60.6772,-147.4471,21.6,1.5,ml,,,,0.45,ak,ak0235sdssbt,2023-05-06T00:15:57.937Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-06T00:18:21.800Z,19.1860008239746,-155.478500366211,31.5,2.1400001,md,35,92,,0.100000001,hv,hv73390337,2023-05-06T00:21:37.300Z,"1 km S of Pāhala, Hawaii",earthquake,0.59,0.860000014,1.41999996,23,automatic,hv,hv
+2023-05-06T00:14:26.977Z,60.6772,-147.4471,21.6,1.5,ml,,,,0.45,ak,ak0235sdssbt,2023-05-06T00:15:57.937Z,"46 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T00:11:16.050Z,48.71383333333333,-122.1755,12.68,1.36,ml,10,99,0.03208,0.06,uw,uw61921986,2023-05-06T02:20:17.680Z,"Washington",earthquake,0.36,0.33,0.13614022772686785,9,reviewed,uw,uw
-2023-05-05T23:58:52.730Z,18.0153333333333,-66.7286666666667,13.68,2.95,md,17,161,0.06,0.13,pr,pr71408288,2023-05-06T00:19:52.100Z,"Puerto Rico region",earthquake,0.34,0.23,0.158941820526344,7,reviewed,pr,pr
+2023-05-05T23:58:52.730Z,18.0153333333333,-66.7286666666667,13.68,2.95,md,17,161,0.06,0.13,pr,pr71408288,2023-05-06T00:19:52.100Z,"2 km NNW of Tallaboa, Puerto Rico",earthquake,0.34,0.23,0.158941820526344,7,reviewed,pr,pr
 2023-05-05T23:51:11.490Z,38.7963333,-122.7584991,3.11,1.31,md,23,84,0.004389,0.02,nc,nc73884366,2023-05-06T02:21:10.601Z,"2km N of The Geysers, CA",earthquake,0.26,0.56,0.19,23,automatic,nc,nc
 2023-05-05T23:45:46.420Z,57.766,-156.348333333333,17.65,-0.24,ml,4,177,,0.19,av,av91875621,2023-05-06T05:49:58.130Z,"Alaska Peninsula",earthquake,2.59,1.2,0.283354212380965,4,reviewed,av,av
 2023-05-05T23:40:06.440Z,38.7879982,-122.7740021,1.38,1.7,md,29,78,0.01204,0.05,nc,nc73884351,2023-05-06T01:52:11.436Z,"2km NW of The Geysers, CA",earthquake,0.21,0.35,0.17,31,automatic,nc,nc
@@ -251,7 +251,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T08:43:55.678Z,61.704,-151.4313,0,2.6,ml,,,,0.83,ak,ak0235qv76mo,2023-05-05T10:10:07.040Z,"31 km S of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-05T08:38:01.170Z,37.4766,137.396,10,4.6,mb,69,92,1.132,0.72,us,us6000k9na,2023-05-05T10:07:27.040Z,"51 km ENE of Anamizu, Japan",earthquake,2.57,1.88,0.082,44,reviewed,us,us
 2023-05-05T08:36:13.738Z,39.8107,-120.6929,12.7,0.8,ml,5,189.72,0.262,0.1698,nn,nn00859092,2023-05-05T17:17:10.523Z,"4 km WNW of Plumas Eureka, California",earthquake,,6.6,0.36,2,reviewed,nn,nn
-2023-05-05T08:34:30.717Z,51.507,-175.4029,35,3.3,ml,22,238,0.58,0.35,us,us6000k9u7,2023-05-06T04:16:48.040Z,"94 km ESE of Adak, Alaska",earthquake,5.16,2.023,0.085,18,reviewed,us,us
+2023-05-05T08:34:30.717Z,51.507,-175.4029,35,3.3,ml,22,238,0.58,0.35,us,us6000k9u7,2023-05-06T04:16:48.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.16,2.023,0.085,18,reviewed,us,us
 2023-05-05T08:15:58.710Z,37.8005,-121.9105,16.29,1.26,md,28,82,0.08594,0.07,nc,nc73884066,2023-05-05T20:40:16.516Z,"2km S of Blackhawk, CA",earthquake,0.32,0.45,0.171,21,reviewed,nc,nc
 2023-05-05T08:14:53.130Z,37.8018333,-121.9106667,16.21,1.31,md,24,83,0.08593,0.06,nc,nc73884061,2023-05-05T21:46:15.909Z,"2km S of Blackhawk, CA",earthquake,0.34,0.48,0.198,18,reviewed,nc,nc
 2023-05-05T08:13:23.229Z,39.4084,-119.8356,8.4,0.1,ml,5,134.46,0.058,0.0869,nn,nn00859091,2023-05-05T16:37:04.253Z,"13 km S of Reno, Nevada",earthquake,,2.3,0.46,4,reviewed,nn,nn
