@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T16:30:14.072Z,62.121,-150.751,59.4,1,ml,,,,0.17,ak,ak0235snf4gv,2023-05-06T16:31:55.426Z,"34 km SW of Trapper Creek, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-05-06T16:29:10.930Z,19.2466659545898,-155.411499023438,29.6200008392334,2,md,19,192,,0.150000006,hv,hv73390972,2023-05-06T16:32:08.790Z,"8 km NE of Pāhala, Hawaii",earthquake,1.64,1.02999997,1,3,automatic,hv,hv
 2023-05-06T16:19:42.410Z,38.8256683,-122.8539963,2.66,0.31,md,13,93,0.002926,0.02,nc,nc73884556,2023-05-06T16:21:16.354Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.62,0.19,13,automatic,nc,nc
 2023-05-06T16:05:29.173Z,17.7473,-68.4212,10.883,3.1,ml,13,282,0.764,0.3,us,us6000ka1v,2023-05-06T16:30:43.040Z,"72 km SSE of Boca de Yuma, Dominican Republic",earthquake,7.68,9.85,0.071,26,reviewed,us,us
 2023-05-06T15:58:32.759Z,52.2806,159.5375,60.605,5.2,mb,54,130,0.92,0.81,us,us6000ka1t,2023-05-06T16:17:44.040Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,8.11,3.929,0.023,653,reviewed,us,us
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T14:28:51.080Z,32.7183333,-115.5523333,6.42,1.62,ml,15,101,0.07436,0.27,ci,ci40219831,2023-05-06T14:49:07.902Z,"2km WSW of Heber, CA",earthquake,0.72,2.3,0.16,21,automatic,ci,ci
 2023-05-06T14:22:43.550Z,36.0668333,-117.9063333,-0.33,1.31,ml,11,104,0.06559,0.15,ci,ci40219823,2023-05-06T14:26:11.829Z,"4km ENE of Coso Junction, CA",earthquake,0.41,31.61,0.129,13,automatic,ci,ci
 2023-05-06T14:22:02.850Z,32.7071667,-115.5435,5.51,1.74,ml,13,87,0.08725,0.25,ci,ci40219815,2023-05-06T14:37:51.899Z,"3km SSW of Heber, CA",earthquake,0.68,1.3,0.21,21,automatic,ci,ci
-2023-05-06T14:16:02.610Z,32.715168,-115.5465012,6.8,3.55,mw,68,48,0.05487,0.3,ci,ci40219807,2023-05-06T15:26:54.181Z,"2km SW of Heber, CA",earthquake,0.25,0.61,,4,automatic,ci,ci
+2023-05-06T14:16:02.610Z,32.715168,-115.5465012,6.8,3.55,mw,68,48,0.05487,0.3,ci,ci40219807,2023-05-06T16:31:56.834Z,"2km SW of Heber, CA",earthquake,0.25,0.61,,4,automatic,ci,ci
 2023-05-06T14:15:11.770Z,32.7118333,-115.5458333,5.38,2.09,ml,23,59,0.08271,0.23,ci,ci40219799,2023-05-06T14:30:39.873Z,"3km SW of Heber, CA",earthquake,0.52,1.05,0.21,26,automatic,ci,ci
 2023-05-06T14:14:49.689Z,64.7888,-147.2722,23.7,0.4,ml,,,,1.33,ak,ak0235sm4wjs,2023-05-06T14:16:38.647Z,"5 km NE of North Pole, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-06T13:58:27.924Z,39.4169,-119.8348,7.9,0.6,ml,7,115.6,0.061,0.0894,nn,nn00859146,2023-05-06T16:22:52.503Z,"12 km S of Reno, Nevada",earthquake,,2,0.33,3,reviewed,nn,nn
@@ -230,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T16:59:35.181Z,6.8338,126.8444,35,4.5,mb,25,121,1.278,1.06,us,us6000k9u8,2023-05-05T17:17:49.040Z,"49 km ESE of Jovellar, Philippines",earthquake,8.66,1.935,0.128,18,reviewed,us,us
 2023-05-05T16:45:38.859Z,34.52266667,-97.71216667,13.56,2.14,ml,89,41,0.1268751028,0.42,ok,ok2023itvo,2023-05-05T16:54:58.441Z,"7 km NNW of Velma, Oklahoma",earthquake,,1.4,0.26,28,reviewed,ok,ok
 2023-05-05T16:40:56.280Z,38.8009987,-122.8125,2.62,1.63,md,32,66,0.01464,0.03,nc,nc73884231,2023-05-05T19:00:10.894Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.36,0.21,30,automatic,nc,nc
-2023-05-05T16:32:49.860Z,38.814,-122.8231667,2.43,0.44,md,23,53,0.006951,0.02,nc,nc73884226,2023-05-05T21:14:13.724Z,"7km NW of The Geysers, CA",earthquake,0.19,0.31,0.14,22,reviewed,nc,nc
