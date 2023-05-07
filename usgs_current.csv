@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-07T14:17:30.215Z,36.7650528,-98.06030273,3.448472977,2.43,ml,36,88.51743698,0.09321549535,0.4725668056,ok,ok2023ixhr,2023-05-07T14:19:13.956Z,"8 km E of Nescatunga, Oklahoma",earthquake,2.093893512,1.687028266,0.16,20,automatic,ok,ok
+2023-05-07T14:26:58.610Z,35.8041649,-117.6191635,6.44,1.21,ml,15,133,0.1185,0.15,ci,ci40220399,2023-05-07T14:29:12.154Z,"20km WNW of Searles Valley, CA",earthquake,0.57,1.49,0.212,2,automatic,ci,ci
+2023-05-07T14:23:54.670Z,19.3836669921875,-155.27799987793,1.45000004768372,1.82000005,md,17,67,,0.150000006,hv,hv73391627,2023-05-07T14:27:00.230Z,"8 km SW of Volcano, Hawaii",earthquake,0.33,0.159999996,1.63,10,automatic,hv,hv
+2023-05-07T14:17:30.530Z,36.77427673,-98.06201935,1.249400496,2.38,ml,47,83.12036085,0.09299033135,0.6672361197,ok,ok2023ixhr,2023-05-07T14:21:38.890Z,"8 km ENE of Nescatunga, Oklahoma",earthquake,1.862613075,1.397431324,0.15,33,automatic,ok,ok
 2023-05-07T14:13:37.550Z,58.266,-155.0576,0,1.6,ml,,,,0.55,ak,ak0235u9o0e3,2023-05-07T14:15:42.037Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-07T14:13:20.768Z,58.4663,-155.2513,1.2,1.7,ml,,,,1.11,ak,ak0235u9nyuw,2023-05-07T14:16:20.778Z,"85 km ESE of King Salmon, Alaska",earthquake,,16.3,,,automatic,ak,ak
 2023-05-07T14:08:51.159Z,58.2511,-155.0926,1.4,0.7,ml,,,,0.39,ak,ak0235u9myuz,2023-05-07T14:09:53.170Z,"84 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T14:00:16.819Z,58.2566,-155.0812,4.5,0.7,ml,,,,0.15,ak,ak0235u9l6hd,2023-05-07T14:01:49.382Z,"85 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-07T13:57:34.400Z,58.2603,-155.0911,0,1.4,ml,,,,0.58,ak,ak0235u9c01s,2023-05-07T13:59:30.545Z,"85 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-07T13:57:09.484Z,58.2273,-155.2401,2,0.7,ml,,,,1.1,ak,ak0235u9by4k,2023-05-07T13:58:17.707Z,"86 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-05-07T13:56:16.230Z,38.8058319,-122.8221664,2.48,1.39,md,20,69,0.006261,0.02,nc,nc73884956,2023-05-07T14:14:10.866Z,"6km WNW of The Geysers, CA",earthquake,0.24,0.59,0.15,20,automatic,nc,nc
+2023-05-07T13:56:16.230Z,38.8058319,-122.8221664,2.48,1.39,md,20,69,0.006261,0.02,nc,nc73884956,2023-05-07T14:23:18.917Z,"6km WNW of The Geysers, CA",earthquake,0.24,0.59,0.15,20,automatic,nc,nc
 2023-05-07T13:50:28.037Z,58.2212,-154.652,34.8,0.9,ml,,,,0.54,ak,ak0235u9ahzw,2023-05-07T13:53:41.641Z,"73 km N of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-07T13:43:58.395Z,59.5363,-152.1702,28.1,2,ml,,,,0.9,ak,ak0235u991vj,2023-05-07T13:46:32.314Z,"Southern Alaska",earthquake,,4.9,,,automatic,ak,ak
 2023-05-07T13:40:30.110Z,19.1646671295166,-155.462005615234,28.5599994659424,1.96000004,md,35,169,,0.129999995,hv,hv73391602,2023-05-07T13:43:49.720Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.73,0.959999979,1.79999995,10,automatic,hv,hv
@@ -229,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T14:41:30.850Z,32.7041667,-115.5388333,7.08,2.55,ml,30,61,0.09218,0.29,ci,ci40219847,2023-05-07T04:21:36.377Z,"3km SSW of Heber, CA",earthquake,0.53,1.36,0.217,26,automatic,ci,ci
 2023-05-06T14:33:06.140Z,19.8023338317871,-156.035003662109,8.85000038146973,2.04999995,md,26,254,,0.289999992,hv,hv73390872,2023-05-06T20:49:19.519Z,"9 km NW of Kalaoa, Hawaii",earthquake,1.42,0.939999998,1.46000004,6,automatic,hv,hv
 2023-05-06T14:30:20.479Z,-4.6896,151.0645,81.157,4.5,mb,30,125,6.079,0.71,us,us6000ka19,2023-05-06T15:45:01.040Z,"133 km WSW of Rabaul, Papua New Guinea",earthquake,13.05,7.968,0.076,51,reviewed,us,us
-2023-05-06T14:28:51.080Z,32.7183333,-115.5523333,6.42,1.62,ml,15,101,0.07436,0.27,ci,ci40219831,2023-05-06T14:49:07.902Z,"2km WSW of Heber, CA",earthquake,0.72,2.3,0.16,21,automatic,ci,ci
-2023-05-06T14:22:43.550Z,36.0668333,-117.9063333,-0.33,1.31,ml,11,104,0.06559,0.15,ci,ci40219823,2023-05-07T13:38:16.136Z,"4km ENE of Coso Junction, CA",earthquake,0.41,31.61,0.129,13,reviewed,ci,ci
-2023-05-06T14:22:02.850Z,32.7071667,-115.5435,5.51,1.74,ml,13,87,0.08725,0.25,ci,ci40219815,2023-05-06T14:37:51.899Z,"3km SSW of Heber, CA",earthquake,0.68,1.3,0.21,21,automatic,ci,ci
