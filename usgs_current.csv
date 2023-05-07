@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T18:45:39.001Z,58.2665,-155.0595,0,2,ml,,,,0.55,ak,ak0235uc8lu4,2023-05-07T18:48:11.503Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-07T18:39:36.240Z,33.1755,-116.4093333,10.38,0.93,ml,24,72,0.09268,0.27,ci,ci40220519,2023-05-07T18:43:15.996Z,"10km SSW of Borrego Springs, CA",earthquake,0.46,1.03,0.166,18,automatic,ci,ci
 2023-05-07T18:34:55.200Z,35.5578333,-118.8876667,11.23,1.62,ml,22,78,0.09276,0.26,ci,ci40220511,2023-05-07T18:38:44.281Z,"20km NE of Oildale, CA",earthquake,0.42,0.8,0.278,20,automatic,ci,ci
 2023-05-07T18:34:42.188Z,62.7727,-149.686,75.3,1,ml,,,,0.37,ak,ak0235uc697e,2023-05-07T18:36:47.427Z,"41 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-07T18:28:31.490Z,60.9736,-151.7988,108.6,0.9,ml,,,,0.64,ak,ak0235uc4y31,2023-05-07T18:31:15.863Z,"37 km WSW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T16:57:58.140Z,37.4571648,-121.7941666,1.91,1.59,md,8,63,0.008406,0.03,nc,nc73885001,2023-05-07T17:14:11.932Z,"10km ENE of Milpitas, CA",earthquake,0.32,0.43,0.09,5,automatic,nc,nc
 2023-05-07T16:31:05.990Z,33.8178333,-116.7205,11.94,0.51,ml,17,77,0.1037,0.14,ci,ci40220455,2023-05-07T16:34:38.742Z,"9km N of Idyllwild, CA",earthquake,0.37,0.71,0.154,11,automatic,ci,ci
 2023-05-07T16:22:32.225Z,58.2558,-155.1156,1.1,0.8,ml,,,,0.56,ak,ak0235uawsmu,2023-05-07T16:24:28.331Z,"85 km NNW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-05-07T16:19:14.160Z,38.7991676,-122.8075027,1.77,0.83,md,21,64,0.01137,0.03,nc,nc73884991,2023-05-07T18:40:10.451Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.43,0.25,21,automatic,nc,nc
+2023-05-07T16:19:14.160Z,38.7991676,-122.8075027,1.77,0.83,md,21,64,0.01137,0.03,nc,nc73884991,2023-05-07T18:45:14.494Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.43,0.25,21,automatic,nc,nc
 2023-05-07T16:18:02.220Z,38.7806664,-122.7565002,1.01,1.08,md,18,112,0.01228,0.05,nc,nc73884986,2023-05-07T18:15:16.325Z,"0km N of The Geysers, CA",earthquake,0.28,0.47,0.24,17,automatic,nc,nc
 2023-05-07T16:04:05.038Z,62.7934,-143.3173,14.8,1,ml,,,,1.05,ak,ak0235uasvnm,2023-05-07T16:06:49.088Z,"27 km ESE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T15:59:41.790Z,33.885,-117.5413333,6.73,0.91,ml,11,90,0.07406,0.23,ci,ci40220439,2023-05-07T16:03:20.693Z,"2km WNW of Home Gardens, CA",earthquake,0.58,1.92,0.292,19,automatic,ci,ci
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T19:11:29.800Z,38.7971649,-122.7606659,2.18,0.7,md,7,219,0.003535,0.02,nc,nc73884631,2023-05-06T19:53:20.074Z,"2km N of The Geysers, CA",earthquake,1.6,1.05,0.1,7,automatic,nc,nc
 2023-05-06T19:08:58.430Z,32.7026667,-115.5508333,4.05,1.88,ml,20,55,0.08593,0.29,ci,ci40220047,2023-05-06T19:16:21.012Z,"4km SSW of Heber, CA",earthquake,0.65,1.9,0.149,27,automatic,ci,ci
 2023-05-06T18:52:23.550Z,34.1773333,-118.3773333,10.23,0.99,ml,18,91,0.01467,0.14,ci,ci40220039,2023-05-07T15:08:30.070Z,"1km N of North Hollywood, CA",earthquake,0.31,0.46,0.068,4,reviewed,ci,ci
-2023-05-06T18:48:17.189Z,50.676,156.5187,105.485,4.2,mb,48,153,2.543,0.72,us,us6000ka2q,2023-05-06T21:09:22.040Z,"Kuril Islands",earthquake,8.73,7.762,0.085,38,reviewed,us,us
