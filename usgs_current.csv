@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T05:11:14.040Z,36.095,-117.8593333,0.89,1.9,ml,20,80,0.02282,0.16,ci,ci40220687,2023-05-08T05:14:58.454Z,"10km NE of Coso Junction, CA",earthquake,0.36,0.53,0.155,21,automatic,ci,ci
 2023-05-08T04:53:14.474Z,37.6113,20.0234,45.374,4.4,mb,54,103,1.575,0.65,us,us6000kabj,2023-05-08T06:00:24.109Z,"69 km WSW of Katastárion, Greece",earthquake,6.56,11.256,0.099,29,reviewed,us,us
 2023-05-08T04:34:41.270Z,60.0503,-141.2704,1.6,1.3,ml,,,,0.67,ak,ak0235vrdj5r,2023-05-08T04:36:49.990Z,"103 km WNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-08T04:34:25.158Z,48.4655,-123.698,9.535,1.8,ml,38,75,0.115,0.38,us,us6000kabe,2023-05-08T05:57:30.624Z,"Washington-British Columbia border region",earthquake,1.02,1.483,0.059,38,reviewed,us,us
+2023-05-08T04:34:25.158Z,48.4655,-123.698,9.535,1.8,ml,38,75,0.115,0.38,us,us6000kabe,2023-05-08T06:07:27.520Z,"Washington-British Columbia border region",earthquake,1.02,1.483,0.059,38,reviewed,us,us
 2023-05-08T04:10:47.330Z,38.8313332,-122.8178329,1.73,0.77,md,13,67,0.009978,0.02,nc,nc73885261,2023-05-08T04:27:15.257Z,"8km NW of The Geysers, CA",earthquake,0.32,0.69,0.17,13,automatic,nc,nc
 2023-05-08T04:06:03.300Z,19.1728324890137,-155.498336791992,35.2900009155273,2.09,ml,40,103,,0.109999999,hv,hv73392192,2023-05-08T04:11:35.510Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.57,0.810000002,5.35,3,automatic,hv,hv
 2023-05-08T04:03:24.899Z,12.9959,57.9456,10,4.7,mb,79,117,12,0.54,us,us6000kabb,2023-05-08T04:23:38.040Z,"Owen Fracture Zone region",earthquake,9.6,1.833,0.067,68,reviewed,us,us
@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T23:15:02.450Z,38.7858315,-122.7441635,2.32,0.73,md,9,138,0.006365,0.05,nc,nc73885156,2023-05-07T23:39:12.331Z,"1km NE of The Geysers, CA",earthquake,0.49,0.88,0.06,8,automatic,nc,nc
 2023-05-07T23:01:42.614Z,61.0567,-151.4157,63.6,1.6,ml,,,,0.33,ak,ak0235ueyayt,2023-05-07T23:03:22.050Z,"15 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-07T23:00:54.530Z,35.9973333,-117.351,2.87,1.6,ml,13,105,0.1195,0.18,ci,ci40220615,2023-05-07T23:04:32.643Z,"26km N of Searles Valley, CA",earthquake,0.64,2.38,0.126,14,automatic,ci,ci
-2023-05-07T22:59:01.760Z,38.5185,-122.603,7.97,2.17,md,89,37,0.07634,0.14,nc,nc73885146,2023-05-08T06:01:44.199Z,"7km SSW of Calistoga, CA",earthquake,0.16,0.42,0.176,89,reviewed,nc,nc
+2023-05-07T22:59:01.760Z,38.5185,-122.603,7.97,2.17,md,89,37,0.07634,0.14,nc,nc73885146,2023-05-08T06:04:14.875Z,"7km SSW of Calistoga, CA",earthquake,0.16,0.42,0.176,89,reviewed,nc,nc
 2023-05-07T22:58:41.352Z,59.7319,-153.0535,107.8,2.1,ml,,,,0.26,ak,ak0235uep4oz,2023-05-07T23:00:04.222Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-07T22:33:12.747Z,63.2025,-150.5379,123.1,1.5,ml,,,,0.3,ak,ak0235uejpmy,2023-05-07T22:35:38.714Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-07T22:29:40.690Z,38.7960014,-122.7301636,1.74,1.14,md,11,176,0.01374,0.02,nc,nc73885141,2023-05-08T01:05:14.869Z,"3km SSW of Cobb, CA",earthquake,0.42,0.8,0.12,12,automatic,nc,nc
@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T06:29:00.792Z,-25.3571,-70.5066,40.047,5.2,mww,102,74,0.734,1.05,us,us6000ka60,2023-05-07T13:48:26.040Z,"5 km NNW of Taltal, Chile",earthquake,4.29,4.422,0.073,18,reviewed,us,us
 2023-05-07T06:19:26.930Z,38.8136673,-122.7958298,1.39,1.21,md,23,60,0.005706,0.02,nc,nc73884856,2023-05-07T09:10:10.980Z,"5km NW of The Geysers, CA",earthquake,0.19,0.34,0.22,24,automatic,nc,nc
 2023-05-07T06:18:37.500Z,38.8139992,-122.7961655,1.22,0.76,md,11,100,0.00606,0.01,nc,nc73884851,2023-05-07T08:44:10.810Z,"5km NW of The Geysers, CA",earthquake,0.29,0.71,0.12,12,automatic,nc,nc
-2023-05-07T06:07:23.150Z,17.9408333333333,-66.9198333333333,8.18,2.35,md,12,213,0.03297,0.13,pr,pr71408373,2023-05-07T06:19:41.530Z,"3 km SSW of Guánica, Puerto Rico",earthquake,0.48,0.41,0.150447071981429,6,reviewed,pr,pr
