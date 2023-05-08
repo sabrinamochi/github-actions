@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-08T19:53:23.840Z,38.8183327,-122.8219986,2.15,1.09,md,21,58,0.0106,0.02,nc,nc73885451,2023-05-08T19:55:00.381Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.18,20,automatic,nc,nc
+2023-05-08T19:53:23.840Z,38.8183327,-122.8219986,2.15,1.09,md,21,58,0.0106,0.02,nc,nc73885451,2023-05-08T20:09:10.466Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.18,20,automatic,nc,nc
 2023-05-08T19:48:30.150Z,19.4248332977295,-155.273330688477,-0.660000026226044,1.8,ml,10,135,,0.129999995,hv,hv73393162,2023-05-08T19:54:01.830Z,"4 km WSW of Volcano, Hawaii",earthquake,0.19,0.409999996,0.7,4,automatic,hv,hv
 2023-05-08T19:40:52.520Z,34.9805,-97.33883333,2.53,1.4,ml,73,54,0.0413918775,0.44,ok,ok2023iznv,2023-05-08T19:54:56.113Z,"3 km S of Lexington, Oklahoma",earthquake,,1.1,0.23,29,reviewed,ok,ok
-2023-05-08T19:15:10.911Z,31.65379827,-104.2921877,8.188208008,2.5,ml,33,68,0.02931322478,0.2,tx,tx2023iznb,2023-05-08T19:37:45.018Z,"58 km S of Whites City, New Mexico",earthquake,0.8833793928,0.7452682151,0.2,18,reviewed,tx,tx
+2023-05-08T19:15:10.911Z,31.65379827,-104.2921877,8.188208008,2.5,ml,33,68,0.02931322478,0.2,tx,tx2023iznb,2023-05-08T20:09:46.614Z,"58 km S of Whites City, New Mexico",earthquake,0.8833793928,0.7452682151,0.2,18,reviewed,tx,tx
 2023-05-08T19:14:10.710Z,34.028,-116.8425,18.39,1.13,ml,28,70,0.0297,0.21,ci,ci40221119,2023-05-08T19:22:12.459Z,"12km NNE of Banning, CA",earthquake,0.35,0.68,0.216,26,automatic,ci,ci
 2023-05-08T19:11:38.690Z,19.1956672668457,-155.462829589844,30.2600002288818,1.82000005,md,20,144,,0.0900000036,hv,hv73393122,2023-05-08T19:14:45.830Z,"1 km ESE of Pāhala, Hawaii",earthquake,1.23,0.870000005,0.00999999978,5,automatic,hv,hv
 2023-05-08T19:10:17.800Z,19.2368335723877,-155.396667480469,29.3400001525879,1.82000005,md,27,139,,0.180000007,hv,hv73393117,2023-05-08T19:13:32.680Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,1.12,0.140000001,9,automatic,hv,hv
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T15:42:10.700Z,34.2076667,-117.497,4.76,1.27,ml,26,72,0.002212,0.22,ci,ci40220975,2023-05-08T15:45:41.504Z,"6km S of Lytle Creek, CA",earthquake,0.35,0.49,0.216,31,automatic,ci,ci
 2023-05-08T15:18:06.280Z,38.8040009,-122.8063354,1.73,0.99,md,11,75,0.009487,0.01,nc,nc73885416,2023-05-08T16:34:14.077Z,"5km NW of The Geysers, CA",earthquake,0.34,0.79,0.16,11,automatic,nc,nc
 2023-05-08T15:10:22.609Z,35.10683333,-95.54166667,7.14,2.05,ml,68,54,0.112477928,0.25,ok,ok2023izex,2023-05-08T15:21:31.958Z,"Oklahoma",earthquake,,0.6,0.27,15,reviewed,ok,ok
-2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-08T19:57:48.123Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
+2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-08T20:03:00.881Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
 2023-05-08T15:00:28.619Z,63.0726,-150.4433,97.7,1.8,ml,,,,0.47,ak,ak0235vxpzhp,2023-05-08T15:03:50.738Z,"66 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-08T14:54:09.258Z,51.5469,-175.5215,45.953,4.5,mb,119,119,0.507,0.65,us,us6000kadz,2023-05-08T15:54:38.040Z,"85 km ESE of Adak, Alaska",earthquake,4.9,5.943,0.045,146,reviewed,us,us
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"14 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T20:38:10.840Z,40.737,-112.0583333,8.29,1.09,md,10,81,0.0198,0.04,uu,uu60539391,2023-05-08T18:20:01.740Z,"4 km NE of Magna, Utah",earthquake,0.33,0.65,0.121,3,reviewed,uu,uu
 2023-05-07T20:36:57.560Z,38.8330002,-122.8136673,1.73,1.71,md,32,43,0.009993,0.03,nc,nc73885071,2023-05-07T23:13:10.175Z,"8km NW of The Geysers, CA",earthquake,0.17,0.29,0.17,34,automatic,nc,nc
 2023-05-07T20:19:32.830Z,35.4861667,-120.8048333,5.78,1.89,md,52,42,0.07383,0.06,nc,nc73885061,2023-05-08T09:53:18.455Z,"9km ENE of Cayucos, CA",earthquake,0.14,0.37,0.164,35,reviewed,nc,nc
-2023-05-07T20:02:27.635Z,32.74108887,-100.6604897,9.146077474,1.9,ml,20,80,0.08899618657,0.1,tx,tx2023ixtb,2023-05-08T18:40:08.934Z,"14 km NE of Hermleigh, Texas",earthquake,0.7683551086,1.1612103060000003,0.1,6,reviewed,tx,tx
