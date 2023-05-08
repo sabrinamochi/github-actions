@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T06:39:20.539Z,61.1822,-147.5436,15.4,1.4,ml,,,,0.52,ak,ak0235vslfcl,2023-05-08T06:42:46.865Z,"58 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-08T06:38:22.367Z,-4.345,143.2097,75.722,4.7,mb,48,79,6.375,0.55,us,us6000kabw,2023-05-08T07:01:04.040Z,"45 km ESE of Ambunti, Papua New Guinea",earthquake,10.13,7.763,0.093,36,reviewed,us,us
 2023-05-08T06:35:44.317Z,61.3676,-147.4437,2.3,1.5,ml,,,,0.89,ak,ak0235vskmbj,2023-05-08T06:38:11.693Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-08T06:29:55.523Z,33.2772,-83.0073,5.324,2.3,mb_lg,27,101,0.413,0.4,us,us6000kabs,2023-05-08T07:39:20.040Z,"Georgia, USA",earthquake,2.65,7.517,0.132,15,reviewed,us,us
 2023-05-08T06:24:37.220Z,38.796833,-122.754837,1.82,1.08,md,16,91,0.005371,0.02,nc,nc73885301,2023-05-08T06:41:19.139Z,"2km N of The Geysers, CA",earthquake,0.26,0.48,0.12,15,automatic,nc,nc
 2023-05-08T06:22:26.880Z,58.3913,-154.9491,150.6,0.4,ml,,,,0.14,ak,ak0235vshso0,2023-05-08T06:25:01.244Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-05-08T06:19:55.382Z,58.2236,-155.3075,30.4,0.1,ml,,,,0.64,ak,ak0235vsh7zv,2023-05-08T06:21:59.955Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
@@ -101,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T21:03:23.891Z,58.1784,-155.3299,0.4,-0.2,ml,,,,0.3,ak,ak0235udrvet,2023-05-07T21:06:00.837Z,"Alaska Peninsula",earthquake,,107.4,,,automatic,ak,ak
 2023-05-07T20:57:18.995Z,61.1177,-150.9636,54.6,1.4,ml,,,,0.42,ak,ak0235udi03f,2023-05-07T20:59:07.045Z,"6 km ESE of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-07T20:36:57.560Z,38.8330002,-122.8136673,1.73,1.71,md,32,43,0.009993,0.03,nc,nc73885071,2023-05-07T23:13:10.175Z,"8km NW of The Geysers, CA",earthquake,0.17,0.29,0.17,34,automatic,nc,nc
-2023-05-07T20:19:32.830Z,35.4861667,-120.8048333,5.78,1.89,md,52,42,0.07383,0.06,nc,nc73885061,2023-05-08T07:24:11.416Z,"9km ENE of Cayucos, CA",earthquake,0.14,0.37,0.164,35,reviewed,nc,nc
+2023-05-07T20:19:32.830Z,35.4861667,-120.8048333,5.78,1.89,md,52,42,0.07383,0.06,nc,nc73885061,2023-05-08T07:33:15.465Z,"9km ENE of Cayucos, CA",earthquake,0.14,0.37,0.164,35,reviewed,nc,nc
 2023-05-07T19:57:17.910Z,38.7895012,-122.767334,1.28,1.56,md,28,73,0.0126,0.03,nc,nc73885051,2023-05-07T22:04:10.732Z,"2km NW of The Geysers, CA",earthquake,0.2,0.32,0.23,28,automatic,nc,nc
 2023-05-07T19:53:15.990Z,32.7013333,-115.5265,1.1,2.31,ml,22,111,0.102,0.28,ci,ci40220559,2023-05-07T23:52:19.816Z,"3km S of Heber, CA",earthquake,0.58,31.61,0.145,27,automatic,ci,ci
 2023-05-07T19:43:18.210Z,19.4108333587646,-155.32600402832,2.44000005722046,1.9,ml,17,81,,0.140000001,hv,hv73391872,2023-05-07T19:48:49.670Z,"10 km WSW of Volcano, Hawaii",earthquake,0.35,0.449999988,0.2,3,automatic,hv,hv
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T08:05:33.184Z,3.0743,-74.7779,184.391,4.6,ml,13,174,1.818,0.29,us,us6000ka69,2023-05-07T08:37:52.040Z,"31 km ESE of Baraya, Colombia",earthquake,7.64,11.065,0.074,24,reviewed,us,us
 2023-05-07T07:54:43.108Z,58.1605,-153.0518,63.3,1.7,ml,,,,0.55,ak,ak0235u5qrxy,2023-05-07T08:03:22.071Z,"13 km NW of Aleneva, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-05-07T07:52:32.532Z,61.1761,-146.8828,8.8,1.2,ml,,,,0.12,ak,ak0235u5qbp1,2023-05-07T07:54:52.598Z,"29 km W of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-07T07:39:36.540Z,59.621,-152.3009,63.6,1.2,ml,,,,0.54,ak,ak0235u5njp2,2023-05-07T07:41:21.308Z,"31 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-07T07:37:50.630Z,35.5816667,-119.8125,0.34,1.25,ml,12,199,0.1869,0.22,ci,ci40220271,2023-05-07T07:41:23.390Z,"31km NNE of Simmler, CA",earthquake,1.85,31.61,0.22,14,automatic,ci,ci
