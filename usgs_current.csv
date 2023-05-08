@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-08T01:00:03.360Z,17.1125,-104.0048,18.044,4.4,mb,34,236,3.648,1.15,us,us6000kaaq,2023-05-08T01:30:35.833Z,"163 km SSW of La Placita de Morelos, Mexico",earthquake,13.22,7.919,0.071,57,reviewed,us,us
 2023-05-08T00:56:19.620Z,33.1933333,-116.1838333,4.14,1.25,ml,36,54,0.03985,0.23,ci,ci40220663,2023-05-08T00:59:54.473Z,"7km NW of Ocotillo Wells, CA",earthquake,0.31,0.79,0.166,26,automatic,ci,ci
-2023-05-08T00:51:56.696Z,-2.718,-78.9691,92.501,5.2,mww,101,56,1.22,0.96,us,us6000kaam,2023-05-08T01:14:41.040Z,"13 km W of Azogues, Ecuador",earthquake,5.8,4.306,0.08,15,reviewed,us,us
+2023-05-08T00:51:56.696Z,-2.718,-78.9691,92.501,5.2,mww,101,56,1.22,0.96,us,us6000kaam,2023-05-08T01:42:11.511Z,"13 km W of Azogues, Ecuador",earthquake,5.8,4.306,0.08,15,reviewed,us,us
 2023-05-08T00:47:45.343Z,66.4968,-150.2472,11.2,1.9,ml,,,,0.72,ak,ak0235vp2ld2,2023-05-08T00:50:04.514Z,"73 km SE of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-08T00:45:26.390Z,65.171,-145.2909,13.9,1.2,ml,,,,1.36,ak,ak0235vp24gv,2023-05-08T00:47:24.330Z,"50 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-08T00:38:11.320Z,37.2891655,-121.6616669,5.35,1.57,md,21,53,0.03148,0.05,nc,nc73885176,2023-05-08T01:00:11.840Z,"16km E of Seven Trees, CA",earthquake,0.19,0.41,0.08,15,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T23:15:02.450Z,38.7858315,-122.7441635,2.32,0.73,md,9,138,0.006365,0.05,nc,nc73885156,2023-05-07T23:39:12.331Z,"1km NE of The Geysers, CA",earthquake,0.49,0.88,0.06,8,automatic,nc,nc
 2023-05-07T23:01:42.614Z,61.0567,-151.4157,63.6,1.6,ml,,,,0.33,ak,ak0235ueyayt,2023-05-07T23:03:22.050Z,"15 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-07T23:00:54.530Z,35.9973333,-117.351,2.87,1.6,ml,13,105,0.1195,0.18,ci,ci40220615,2023-05-07T23:04:32.643Z,"26km N of Searles Valley, CA",earthquake,0.64,2.38,0.126,14,automatic,ci,ci
-2023-05-07T22:59:01.770Z,38.5178337,-122.6036682,7.34,2.18,md,43,58,0.09938,0.11,nc,nc73885146,2023-05-07T23:05:15.127Z,"7km SSW of Calistoga, CA",earthquake,0.28,0.87,0.14,46,automatic,nc,nc
+2023-05-07T22:59:01.770Z,38.5178337,-122.6036682,7.34,2.18,md,43,58,0.09938,0.11,nc,nc73885146,2023-05-08T01:20:12.960Z,"7km SSW of Calistoga, CA",earthquake,0.28,0.87,0.14,46,automatic,nc,nc
 2023-05-07T22:58:41.352Z,59.7319,-153.0535,107.8,2.1,ml,,,,0.26,ak,ak0235uep4oz,2023-05-07T23:00:04.222Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-07T22:33:12.747Z,63.2025,-150.5379,123.1,1.5,ml,,,,0.3,ak,ak0235uejpmy,2023-05-07T22:35:38.714Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-07T22:29:40.690Z,38.7960014,-122.7301636,1.74,1.14,md,11,176,0.01374,0.02,nc,nc73885141,2023-05-08T01:05:14.869Z,"3km SSW of Cobb, CA",earthquake,0.42,0.8,0.12,12,automatic,nc,nc
@@ -219,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T02:01:27.557Z,64.7505,-149.2422,20.4,0.3,ml,,,,0.37,ak,ak0235u2g7rn,2023-05-07T02:08:48.520Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-07T02:00:07.720Z,19.3834991455078,-155.281829833984,0.419999986886978,1.95,ml,15,120,,0.119999997,hv,hv73391187,2023-05-07T02:05:40.390Z,"8 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.19,6,automatic,hv,hv
 2023-05-07T01:47:58.970Z,35.9703331,-120.5253296,7.28,1.69,md,25,35,0.02171,0.05,nc,nc73884736,2023-05-07T03:09:12.754Z,"12km NW of Parkfield, CA",earthquake,0.23,0.3,0.15,16,automatic,nc,nc
-2023-05-07T01:41:30.895Z,-15.5297,-70.7804,198.662,4.2,mb,24,143,2.398,1.05,us,us6000ka4m,2023-05-07T02:08:28.040Z,"26 km NW of Santa Lucía, Peru",earthquake,11.84,8.502,0.159,11,reviewed,us,us
-2023-05-07T01:28:23.520Z,38.8235016,-122.8125,1.45,0.74,md,8,170,0.001898,0.03,nc,nc73884731,2023-05-07T02:43:12.776Z,"7km NW of The Geysers, CA",earthquake,0.55,0.8,0.19,8,automatic,nc,nc
