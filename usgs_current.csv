@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-09T03:56:41.330Z,33.480835,-116.449501,11.4,1.01,ml,24,109,0.04688,0.16,ci,ci40221367,2023-05-09T03:58:46.395Z,"22km ESE of Anza, CA",earthquake,0.45,1.02,0.165,4,automatic,ci,ci
+2023-05-09T03:56:41.340Z,33.4823333,-116.4473333,11.61,0.75,ml,21,110,0.04477,0.2,ci,ci40221367,2023-05-09T04:00:23.888Z,"22km ESE of Anza, CA",earthquake,0.37,0.77,0.181,7,automatic,ci,ci
 2023-05-09T03:41:40.010Z,38.8191681,-122.8051682,2.07,0.91,md,12,76,0.005701,0.01,nc,nc73885546,2023-05-09T03:58:16.422Z,"6km NW of The Geysers, CA",earthquake,0.35,0.85,0.2,12,automatic,nc,nc
 2023-05-09T03:40:56.162Z,63.6546,-149.617,120.7,3.7,ml,,,,0.36,ak,ak0235xecrhs,2023-05-09T03:53:58.691Z,"35 km WSW of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-09T03:31:47.361Z,35.23772812,-98.0361557,7.269184113,1.68,ml,11,118.7461853,0.03777759895,0.3283840317,ok,ok2023jadj,2023-05-09T03:35:11.796Z,"9 km WNW of Pocasset, Oklahoma",earthquake,4.520878276,5.086387232,0.3,8,automatic,ok,ok
@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T20:20:35.074Z,37.9808,38.3955,13.819,4.5,mb,81,74,0.636,0.85,us,us6000kagp,2023-05-08T22:06:34.939Z,"eastern Turkey",earthquake,6.27,5.381,0.079,47,reviewed,us,us
 2023-05-08T20:20:26.506Z,62.8622,-150.4975,86.5,1.3,ml,,,,0.42,ak,ak0235w0tfoa,2023-05-08T20:22:26.671Z,"43 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"52 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-08T20:14:18.123Z,37.4546,137.3632,8.798,4.9,mb,70,88,1.13,0.93,us,us6000kagl,2023-05-08T20:48:00.040Z,"47 km ENE of Anamizu, Japan",earthquake,6.22,4.615,0.033,285,reviewed,us,us
+2023-05-08T20:14:18.123Z,37.4546,137.3632,8.798,4.9,mb,70,88,1.13,0.93,us,us6000kagl,2023-05-09T04:00:14.099Z,"47 km ENE of Anamizu, Japan",earthquake,6.22,4.615,0.033,285,reviewed,us,us
 2023-05-08T20:12:23.643Z,64.0015,-149.28,11.6,1.4,ml,,,,0.51,ak,ak0235w0rpq4,2023-05-08T20:14:10.995Z,"8 km WSW of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T20:05:04.850Z,47.24666666666667,-121.75633333333333,-0.86,1.12,ml,14,177,0.05065,0.08,uw,uw61922706,2023-05-08T22:30:00.910Z,"12 km NW of Greenwater, Washington",explosion,0.69,31.61,0.2439500512033308,13,reviewed,uw,uw
 2023-05-08T19:53:23.840Z,38.8183327,-122.8219986,2.15,1.09,md,21,58,0.0106,0.02,nc,nc73885451,2023-05-08T20:46:14.710Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.18,20,automatic,nc,nc
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T15:42:10.650Z,34.2031667,-117.504,5.16,1.16,ml,38,34,0.00579,0.17,ci,ci40220975,2023-05-08T23:17:48.295Z,"6km S of Lytle Creek, CA",earthquake,0.19,0.33,0.116,24,reviewed,ci,ci
 2023-05-08T15:18:06.280Z,38.8040009,-122.8063354,1.73,0.99,md,11,75,0.009487,0.01,nc,nc73885416,2023-05-08T16:34:14.077Z,"5km NW of The Geysers, CA",earthquake,0.34,0.79,0.16,11,automatic,nc,nc
 2023-05-08T15:10:22.609Z,35.10683333,-95.54166667,7.14,2.05,ml,68,54,0.112477928,0.25,ok,ok2023izex,2023-05-08T15:21:31.958Z,"Oklahoma",earthquake,,0.6,0.27,15,reviewed,ok,ok
-2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-09T03:54:25.874Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
+2023-05-08T15:05:24.100Z,34.0453333,-118.6536667,7.22,3.32,ml,113,48,0.0153,0.27,ci,ci40220951,2023-05-09T03:59:49.900Z,"2km WNW of Las Flores, CA",earthquake,0.21,0.41,0.183,180,reviewed,ci,ci
 2023-05-08T15:00:28.619Z,63.0726,-150.4433,97.7,1.8,ml,,,,0.47,ak,ak0235vxpzhp,2023-05-08T15:03:50.738Z,"66 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-08T14:54:09.258Z,51.5469,-175.5215,45.953,4.5,mb,119,119,0.507,0.65,us,us6000kadz,2023-05-08T15:54:38.040Z,"85 km ESE of Adak, Alaska",earthquake,4.9,5.943,0.045,146,reviewed,us,us
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"14 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T04:10:47.330Z,38.8313332,-122.8178329,1.73,0.77,md,13,67,0.009978,0.02,nc,nc73885261,2023-05-08T04:27:15.257Z,"8km NW of The Geysers, CA",earthquake,0.32,0.69,0.17,13,automatic,nc,nc
 2023-05-08T04:06:03.300Z,19.1728324890137,-155.498336791992,35.2900009155273,2.09,ml,40,103,,0.109999999,hv,hv73392192,2023-05-08T04:11:35.510Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.57,0.810000002,5.35,3,automatic,hv,hv
 2023-05-08T04:03:24.899Z,12.9959,57.9456,10,4.7,mb,79,117,12,0.54,us,us6000kabb,2023-05-08T04:23:38.040Z,"Owen Fracture Zone region",earthquake,9.6,1.833,0.067,68,reviewed,us,us
-2023-05-08T03:59:51.270Z,38.8134995,-122.824501,2.33,0.77,md,10,88,0.005894,0.02,nc,nc73885256,2023-05-08T06:46:13.173Z,"7km NW of The Geysers, CA",earthquake,0.49,0.62,0.15,12,automatic,nc,nc
