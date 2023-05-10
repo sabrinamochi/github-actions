@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-10T00:40:34.930Z,19.2226657867432,-155.382995605469,31.1200008392334,1.98000002,md,24,170,,0.100000001,hv,hv73394387,2023-05-10T00:43:53.460Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.76,0.970000029,1.37,6,automatic,hv,hv
 2023-05-10T00:29:21.541Z,64.773,-152.7384,0,1.4,ml,,,,0.59,ak,ak0235z01dmi,2023-05-10T00:31:26.742Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-10T00:06:06.770Z,19.2113342285156,-155.382171630859,32.439998626709,1.74000001,md,20,176,,0.100000001,hv,hv73394362,2023-05-10T00:10:51.100Z,"Island of Hawaii, Hawaii",earthquake,0.99,1.05999994,0.870000005,3,automatic,hv,hv
 2023-05-10T00:01:32.978Z,39.5818,-120.7042,9.6,1.6,ml,17,135.12,0.258,0.1868,nn,nn00859265,2023-05-10T00:41:06.784Z,"6 km WNW of Sierra City, California",earthquake,,3.8,0.16,7,reviewed,nn,nn
@@ -72,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T18:09:47.720Z,44.6658333,-110.005,15.16,1,md,7,169,0.08866,0.07,uu,uu60539491,2023-05-09T19:20:56.870Z,"37 km S of Silver Gate, Montana",earthquake,0.8,1.03,0.395,4,reviewed,uu,uu
 2023-05-09T18:08:01.370Z,46.21233333333333,-122.20483333333334,7.92,0.01,ml,9,123,0.01099,0.08,uw,uw61923061,2023-05-09T20:33:45.790Z,"38 km NNE of Amboy, Washington",earthquake,1.04,0.45,0.12160825271884024,6,reviewed,uw,uw
 2023-05-09T18:02:54.951Z,39.969,142.144,53.826,4.4,mb,55,131,1.163,0.55,us,us6000kap2,2023-05-09T19:00:02.040Z,"31 km ESE of Noda, Japan",earthquake,6.68,7.512,0.091,40,reviewed,us,us
+2023-05-09T17:48:42.624Z,40.1636,-119.7927,3.8,0.6,ml,3,206.16,0.047,0.08,nn,nn00859267,2023-05-10T00:44:13.321Z,"28 km NW of Sutcliffe, Nevada",earthquake,,10.6,0.51,3,reviewed,nn,nn
 2023-05-09T17:43:29.750Z,19.2296657562256,-155.397994995117,30,1.82000005,md,30,159,,0.129999995,hv,hv73394077,2023-05-09T17:46:32.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.68,0.75,0.980000019,7,automatic,hv,hv
 2023-05-09T17:39:53.832Z,40.8059,-117.1681,3.4,2.4,ml,8,110.69,0.631,0.1982,nn,nn00859250,2023-05-09T21:45:02.853Z,"3 km WNW of Valmy, Nevada",earthquake,,5.2,0.19,6,reviewed,nn,nn
 2023-05-09T17:28:49.800Z,65.3685,-145.0218,0,1.5,ml,,,,0.87,ak,ak0235xmm8vo,2023-05-09T17:30:55.126Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -239,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T00:56:17.052Z,-21.0683,-66.744,236.151,4.4,mb,43,68,2.299,0.71,us,us6000kai5,2023-05-09T01:20:41.040Z,"56 km WSW of Atocha, Bolivia",earthquake,6.7,6.832,0.074,53,reviewed,us,us
 2023-05-09T00:51:58.130Z,33.5841667,-116.8045,7.84,0.12,ml,17,87,0.03504,0.09,ci,ci40221311,2023-05-09T14:52:44.766Z,"13km WNW of Anza, CA",earthquake,0.19,0.38,0.014,2,reviewed,ci,ci
 2023-05-09T00:48:08.900Z,44.5925,-114.5725,6.7,1.57,ml,12,55,0.4358,0.1,mb,mb90012973,2023-05-09T16:08:38.150Z,"28 km WNW of Challis, Idaho",earthquake,0.37,0.99,0.148647649743994,14,reviewed,mb,mb
-2023-05-09T00:45:34.790Z,38.7936668,-122.7656631,3.53,1.05,md,22,68,0.008361,0.02,nc,nc73885501,2023-05-09T01:10:12.374Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.54,0.17,21,automatic,nc,nc
