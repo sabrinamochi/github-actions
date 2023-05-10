@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-10T16:31:11.780Z,19.1975002288818,-155.369659423828,28.8299999237061,2.30999994,md,42,177,,0.119999997,hv,hv73395202,2023-05-10T16:34:35.420Z,"11 km E of Pāhala, Hawaii",earthquake,0.54,0.819999993,2.11999989,26,automatic,hv,hv
+2023-05-10T16:31:11.780Z,19.1975002288818,-155.369659423828,28.8299999237061,2.3,ml,42,177,,0.119999997,hv,hv73395202,2023-05-10T16:36:42.320Z,"11 km E of Pāhala, Hawaii",earthquake,0.54,0.819999993,3.6,6,automatic,hv,hv
 2023-05-10T16:22:40.590Z,19.220666885376,-155.380172729492,33.9900016784668,2.17000008,md,39,155,,0.129999995,hv,hv73395187,2023-05-10T16:26:11.400Z,"10 km E of Pāhala, Hawaii",earthquake,0.61,0.939999998,0.949999988,24,automatic,hv,hv
 2023-05-10T16:06:07.530Z,38.8293343,-122.7979965,0.65,0.33,md,8,85,0.01086,0.01,nc,nc73886171,2023-05-10T16:22:12.968Z,"6km W of Cobb, CA",earthquake,0.32,1.04,0.2,8,automatic,nc,nc
 2023-05-10T16:05:36.830Z,33.4656667,-116.5611667,8.83,0.82,ml,29,80,0.04488,0.22,ci,ci40222287,2023-05-10T16:09:10.777Z,"14km SE of Anza, CA",earthquake,0.32,0.66,0.178,19,automatic,ci,ci
-2023-05-10T16:02:00.451Z,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-10T16:34:52.270Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
+2023-05-10T16:02:00.451Z,-15.6002,-174.6077,210.097,7.6,mww,111,17,3.631,0.81,us,us6000kawn,2023-05-10T16:37:29.446Z,"95 km WNW of Hihifo, Tonga",earthquake,7.68,0.986,0.055,32,reviewed,us,us
 2023-05-10T15:55:20.429Z,34.67516667,-96.1315,17.33,1.68,ml,39,260,0.2159576217,0.28,ok,ok2023jcxi,2023-05-10T16:05:46.199Z,"9 km WNW of Wardville, Oklahoma",earthquake,,1.8,0.23,15,reviewed,ok,ok
 2023-05-10T15:51:03.890Z,33.5865,-116.75,13.15,0.94,ml,33,30,0.01378,0.2,ci,ci40222271,2023-05-10T16:07:55.346Z,"8km WNW of Anza, CA",earthquake,0.28,0.46,0.142,24,reviewed,ci,ci
 2023-05-10T15:48:16.760Z,38.8409996,-122.8251648,1.79,0.69,md,11,97,0.01371,0.02,nc,nc73886161,2023-05-10T16:05:14.870Z,"9km WNW of Cobb, CA",earthquake,0.29,0.91,0.41,11,automatic,nc,nc
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T14:33:01.470Z,38.7643318,-122.7200012,3.8,1.18,md,6,159,0.004681,0.06,nc,nc73886141,2023-05-10T15:02:12.461Z,"3km WSW of Anderson Springs, CA",earthquake,4.75,4.8,0.35,6,automatic,nc,nc
 2023-05-10T14:23:20.700Z,38.8224983,-122.7653351,2.2,1.06,md,15,120,0.008727,0.03,nc,nc73886136,2023-05-10T14:52:12.412Z,"4km W of Cobb, CA",earthquake,0.33,0.57,0.14,16,automatic,nc,nc
 2023-05-10T14:22:55.867Z,63.3546,-145.1221,9.7,1.4,ml,,,,0.33,ak,ak0235z8c0qa,2023-05-10T14:24:26.282Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-10T14:14:22.260Z,38.8255005,-122.8058319,1.62,0.79,md,12,70,0.003924,0.02,nc,nc73886131,2023-05-10T14:41:15.352Z,"7km NW of The Geysers, CA",earthquake,0.32,0.8,0.22,13,automatic,nc,nc
+2023-05-10T14:14:22.260Z,38.8255005,-122.8058319,1.62,0.79,md,12,70,0.003924,0.02,nc,nc73886131,2023-05-10T16:36:11.046Z,"7km NW of The Geysers, CA",earthquake,0.32,0.8,0.22,13,automatic,nc,nc
 2023-05-10T14:14:09.920Z,38.8251648,-122.8066635,1.55,0.86,md,8,76,0.003197,0.02,nc,nc73886126,2023-05-10T16:16:11.929Z,"7km NW of The Geysers, CA",earthquake,0.36,0.98,0.24,8,automatic,nc,nc
 2023-05-10T13:37:06.291Z,61.873,-149.4493,20,1.4,ml,,,,0.72,ak,ak0235z7tp1h,2023-05-10T13:39:44.548Z,"18 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-10T13:13:54.020Z,33.896,-116.8683333,11.96,1.2,ml,43,34,0.0858,0.2,ci,ci40222183,2023-05-10T13:24:20.040Z,"3km SSE of Banning, CA",earthquake,0.25,0.7,0.118,26,automatic,ci,ci
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T16:48:28.900Z,19.40016746521,-155.289169311523,0.560000002384186,1.86,ml,15,88,,0.200000003,hv,hv73394057,2023-05-09T17:06:38.018Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.280000001,0.25,7,automatic,hv,hv
 2023-05-09T16:43:11.690Z,38.8393326,-122.8223343,2.01,1.28,md,22,83,0.01533,0.02,nc,nc73885736,2023-05-09T19:29:14.348Z,"9km WNW of Cobb, CA",earthquake,0.22,0.39,0.13,24,automatic,nc,nc
 2023-05-09T16:40:01.210Z,38.8185005,-122.8241653,2.02,0.71,md,5,175,0.009658,0.01,nc,nc73885731,2023-05-09T17:02:48.271Z,"7km NW of The Geysers, CA",earthquake,0.86,1.82,0.16,8,automatic,nc,nc
-2023-05-09T16:36:00.200Z,38.758667,-122.7013321,1.55,1.06,md,8,214,0.009631,0.06,nc,nc73885726,2023-05-09T16:52:13.197Z,"2km SSW of Anderson Springs, CA",earthquake,0.99,0.7,0.09,8,automatic,nc,nc
