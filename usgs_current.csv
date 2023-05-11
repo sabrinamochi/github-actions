@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-11T00:43:22.830Z,38.8320007,-122.7938309,1.62,0.43,md,6,89,0.006954,0.01,nc,nc73886356,2023-05-11T00:44:57.112Z,"6km W of Cobb, CA",earthquake,1.01,1.34,0.27,8,automatic,nc,nc
-2023-05-11T00:42:43.560Z,32.6861667,-115.522,1.09,1.74,ml,10,76,0.1148,0.22,ci,ci40222519,2023-05-11T00:46:23.920Z,"2km WNW of Calexico, CA",earthquake,0.6,31.61,0.272,19,automatic,ci,ci
+2023-05-11T01:06:17.230Z,38.841835,-122.8781662,2.45,0.61,md,7,92,0.005482,0.01,nc,nc73886366,2023-05-11T01:07:52.730Z,"13km ENE of Cloverdale, CA",earthquake,0.43,0.75,0.29,9,automatic,nc,nc
+2023-05-11T01:03:53.120Z,38.7224998,-122.9160004,5.73,0.99,md,6,119,0.07133,0.01,nc,nc73886361,2023-05-11T01:05:27.774Z,"13km SE of Cloverdale, CA",earthquake,1.16,1.99,0.15,7,automatic,nc,nc
+2023-05-11T00:43:22.830Z,38.8320007,-122.7938309,1.62,0.43,md,6,89,0.006954,0.01,nc,nc73886356,2023-05-11T01:00:18.091Z,"6km W of Cobb, CA",earthquake,1.01,1.34,0.27,8,automatic,nc,nc
+2023-05-11T00:42:43.560Z,32.6861667,-115.522,1.09,1.74,ml,10,76,0.1148,0.22,ci,ci40222519,2023-05-11T00:53:27.685Z,"2km WNW of Calexico, CA",earthquake,0.6,31.61,0.272,19,automatic,ci,ci
 2023-05-11T00:12:52.340Z,33.9996667,-118.3798333,11.79,1.5,ml,20,83,0.001706,0.15,ci,ci40222511,2023-05-11T00:38:04.625Z,"1km WSW of Baldwin Hills, CA",earthquake,0.34,0.39,0.311,15,reviewed,ci,ci
 2023-05-11T00:03:25.880Z,38.8348351,-122.8051682,2.04,1.12,md,20,53,0.01205,0.02,nc,nc73886346,2023-05-11T00:30:20.923Z,"7km WNW of Cobb, CA",earthquake,0.21,0.47,0.18,20,automatic,nc,nc
 2023-05-11T00:00:57.230Z,17.9698333333333,-66.8533333333333,18.21,2.21,md,8,207,0.02522,0.08,pr,pr71408778,2023-05-11T00:11:47.230Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.44,0.67,0.0633755580888931,5,reviewed,pr,pr
@@ -25,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T21:37:45.180Z,38.7574997,-122.7294998,0.54,0.74,md,6,140,0.005464,0.05,nc,nc73886311,2023-05-10T22:46:13.279Z,"3km SE of The Geysers, CA",earthquake,0.71,0.71,0.31,7,automatic,nc,nc
 2023-05-10T21:25:37.814Z,65.2673,-145.2974,0.6,1.4,ml,,,,0.47,ak,ak0235zcinpx,2023-05-10T21:28:03.389Z,"41 km SW of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-10T21:22:59.450Z,37.2589989,-121.6378326,3.8,1.89,md,29,54,0.0958,0.07,nc,nc73886306,2023-05-11T00:30:19.923Z,"14km N of Morgan Hill, CA",earthquake,0.18,0.69,0.15,25,automatic,nc,nc
-2023-05-10T21:20:23.659Z,44.2259,-128.863,10,3.1,ml,28,274,3.506,0.6,us,us6000kazh,2023-05-10T22:40:27.782Z,"off the coast of Oregon",earthquake,5.37,2.025,0.053,46,reviewed,us,us
+2023-05-10T21:20:23.659Z,44.2259,-128.863,10,3.1,ml,28,274,3.506,0.6,us,us6000kazh,2023-05-11T01:07:15.962Z,"off the coast of Oregon",earthquake,5.37,2.025,0.053,46,reviewed,us,us
 2023-05-10T21:13:35.720Z,38.8213348,-122.8248367,2.44,0.76,md,7,136,0.008159,0.02,nc,nc73886301,2023-05-10T22:04:12.026Z,"8km NW of The Geysers, CA",earthquake,0.67,0.99,0.1,8,automatic,nc,nc
 2023-05-10T21:12:51.998Z,38.2006,-117.8028,5.5,1.7,ml,7,89.96,0.143,0.1212,nn,nn00859318,2023-05-10T22:44:31.884Z,"34 km SE of Mina, Nevada",earthquake,,2.4,0.19,4,reviewed,nn,nn
 2023-05-10T21:09:35.323Z,38.4073,-96.8522,5,2.7,mb_lg,35,60,0.718,0.38,us,us6000kazc,2023-05-10T21:37:19.910Z,"13 km SE of Lincolnville, Kansas",earthquake,1.98,2.003,0.071,51,reviewed,us,us
@@ -54,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T18:47:28.570Z,38.7798347,-122.723999,1.68,0.73,md,7,90,0.01051,0.01,nc,nc73886236,2023-05-10T19:02:12.881Z,"3km E of The Geysers, CA",earthquake,0.33,0.87,0.19,8,automatic,nc,nc
 2023-05-10T18:33:05.195Z,64.6578,-146.904,4.7,1.1,ml,,,,0.6,ak,ak0235zas047,2023-05-10T18:36:03.338Z,"7 km E of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-10T18:26:34.280Z,38.8036652,-122.8188324,2.79,0.61,md,17,71,0.009609,0.02,nc,nc73886231,2023-05-10T18:47:15.784Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.59,0.33,17,automatic,nc,nc
-2023-05-10T18:21:16.324Z,35.7904,-111.5594,0,3.2,ml,7,279.38,1.593,0.1499,nn,nn00859307,2023-05-10T20:57:30.079Z,"16 km SW of Cameron, Arizona",earthquake,,0,0.4,5,reviewed,nn,nn
+2023-05-10T18:21:16.324Z,35.7904,-111.5594,0,3.2,ml,7,279.38,1.593,0.1499,nn,nn00859307,2023-05-11T00:52:27.031Z,"16 km SW of Cameron, Arizona",earthquake,,0,0.4,5,reviewed,nn,nn
 2023-05-10T18:09:49.863Z,59.9021,-151.71,48.4,2.8,ml,,,,0.39,ak,ak0235zamydm,2023-05-10T18:15:08.557Z,"5 km SSE of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-10T17:46:10.447Z,63.854,-148.7179,13.5,1.5,ml,,,,0.41,ak,ak0235za9d84,2023-05-10T17:47:48.156Z,"12 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-10T17:43:32.577Z,12.0634,143.873,10,4.9,mb,55,101,1.801,0.67,us,us6000kaxq,2023-05-10T18:23:12.040Z,"158 km SSW of Merizo Village, Guam",earthquake,10.98,1.895,0.056,99,reviewed,us,us
@@ -228,15 +230,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T01:50:37.490Z,58.2665,-155.106833333333,0.51,-0.64,ml,4,126,,0.12,av,av91880826,2023-05-11T00:03:39.020Z,"86 km NNW of Karluk, Alaska",earthquake,0.47,3.56,0.263128547322478,4,reviewed,av,av
 2023-05-10T01:49:22.760Z,58.1671666666667,-155.383,1.33,-0.55,ml,5,194,,0.05,av,av91880821,2023-05-11T00:17:26.040Z,"Alaska Peninsula",earthquake,0.3,1.23,0.292192736625193,5,reviewed,av,av
 2023-05-10T01:44:39.640Z,65.189,-146.7673,0,1.9,ml,,,,0.47,ak,ak0235z0q2d8,2023-05-10T01:46:56.820Z,"34 km N of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-10T01:44:01.272Z,37.1057,-116.9044,8.9,1,ml,14,153.36,0.151,0.1984,nn,nn00859309,2023-05-10T20:22:22.016Z,"25 km NNW of Beatty, Nevada",earthquake,,4,0.8,10,reviewed,nn,nn
+2023-05-10T01:44:01.272Z,37.1057,-116.9044,8.9,1,ml,14,153.36,0.151,0.1984,nn,nn00859309,2023-05-10T20:22:22.016Z,"Nevada",earthquake,,4,0.8,10,reviewed,nn,nn
 2023-05-10T01:41:58.860Z,33.8681667,-116.819,14.17,0.84,ml,29,81,0.149,0.15,ci,ci40221951,2023-05-10T15:32:55.551Z,"6km SSW of Cabazon, CA",earthquake,0.23,0.54,0.091,12,reviewed,ci,ci
 2023-05-10T01:39:33.248Z,62.2064,-150.0194,18.5,1.7,ml,,,,0.47,ak,ak0235z0ozak,2023-05-10T01:42:02.790Z,"10 km WNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-10T01:16:32.800Z,58.2576666666667,-155.097166666667,3.53,-0.15,ml,6,122,,0.27,av,av91880796,2023-05-11T00:10:22.500Z,"85 km NNW of Karluk, Alaska",earthquake,0.73,2.47,0.195657656863181,6,reviewed,av,av
-2023-05-10T01:11:20.370Z,58.1945,-155.271666666667,1.66,-0.15,ml,5,226,,0.05,av,av91880791,2023-05-11T00:12:28.410Z,"84 km NW of Karluk, Alaska",earthquake,0.56,1.01,0.433794529210834,5,reviewed,av,av
-2023-05-10T00:57:52.870Z,37.8408333,-122.0365,8.2,0.94,md,9,131,0.03213,0.04,nc,nc73885856,2023-05-10T23:39:13.610Z,"1km SSW of Alamo, CA",earthquake,0.36,0.61,0.257,9,reviewed,nc,nc
-2023-05-10T00:57:31.500Z,58.2583333333333,-155.086,4.28,-0.22,ml,8,101,,0.22,av,av91880776,2023-05-10T23:36:58.020Z,"85 km NNW of Karluk, Alaska",earthquake,0.41,1.06,0.16593093070044,8,reviewed,av,av
-2023-05-10T00:54:57.230Z,53.7011666666667,-166.970666666667,4.88,0.32,ml,4,319,,0.03,av,av91099478,2023-05-11T00:45:11.800Z,"34 km SW of Unalaska, Alaska",earthquake,1.13,2.76,0.227226805953777,4,reviewed,av,av
-2023-05-10T00:53:29.170Z,56.2508333333333,-159.357,5.71,0.34,ml,5,287,,0.3,av,av91880771,2023-05-10T23:39:17.850Z,"36 km W of Chignik Lake, Alaska",earthquake,1.53,2.65,0.130501599654,5,reviewed,av,av
-2023-05-10T00:50:25.750Z,58.2711666666667,-155.095833333333,4.81,-0.3,ml,5,120,,0.06,av,av91880766,2023-05-10T23:06:26.870Z,"Alaska Peninsula",earthquake,0.46,0.78,0.182231208331703,4,reviewed,av,av
-2023-05-10T00:49:15.087Z,58.1724,-155.2785,0,1.7,ml,,,,0.27,ak,ak0235z05ng4,2023-05-10T23:44:21.470Z,"83 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-05-10T00:47:26.050Z,46.19166666666667,-122.19833333333334,0.59,0.05,mh,5,131,0.009635,0.11,uw,uw61923181,2023-05-10T18:19:28.940Z,"36 km NNE of Amboy, Washington",earthquake,0.72,1.56,,0,reviewed,uw,uw
