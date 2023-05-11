@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-11T22:17:07.140Z,35.4921667,-118.284,0.45,1.25,ml,19,76,0.1253,0.2,ci,ci40223143,2023-05-11T22:20:44.713Z,"22km ESE of Bodfish, CA",earthquake,0.39,0.8,0.246,14,automatic,ci,ci
+2023-05-11T22:31:08.513Z,58.2293,-155.1535,0,1.7,ml,,,,0.39,ak,ak023610onur,2023-05-11T22:33:57.591Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-11T22:17:07.340Z,35.4903333,-118.2958333,3.31,1.21,ml,16,63,0.135,0.12,ci,ci40223143,2023-05-11T22:36:15.287Z,"21km ESE of Bodfish, CA",earthquake,0.26,0.72,0.184,12,reviewed,ci,ci
 2023-05-11T22:12:30.301Z,62.5567,-149.6392,0,1.6,ml,,,,0.78,ak,ak023610kmxi,2023-05-11T22:14:52.462Z,"26 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-11T22:07:44.688Z,64.6572,-149.1565,18.3,1.1,ml,,,,0.43,ak,ak023610jlgk,2023-05-11T22:09:11.170Z,"6 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-11T22:07:21.187Z,29.5234,102.1419,15.931,4.3,mb,51,58,6.547,0.71,us,us6000kb8y,2023-05-11T22:33:46.040Z,"Western Sichuan, China",earthquake,8.12,3.388,0.09,35,reviewed,us,us
 2023-05-11T22:01:32.520Z,38.8198318,-122.8231659,2.32,0.61,md,11,81,0.009831,0.02,nc,nc73886701,2023-05-11T22:27:14.801Z,"8km NW of The Geysers, CA",earthquake,0.34,0.88,0.23,12,automatic,nc,nc
 2023-05-11T22:00:36.521Z,39.3564,-120.0361,3.1,1.2,ml,9,128.94,0.064,0.0969,nn,nn00859372,2023-05-11T22:03:10.725Z,"4 km SSW of Floriston, California",earthquake,,0.9,0.51,6,automatic,nn,nn
 2023-05-11T21:53:29.220Z,19.2498340606689,-155.400161743164,31.5699996948242,2.35,ml,35,131,,0.25,hv,hv73397087,2023-05-11T21:58:59.490Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.85,1.02999997,3.3,7,automatic,hv,hv
@@ -213,6 +215,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T03:01:39.360Z,38.8196678,-122.803833,2.53,1.07,md,22,39,0.006133,0.02,nc,nc73886401,2023-05-11T03:15:10.929Z,"6km NW of The Geysers, CA",earthquake,0.22,0.45,0.15,22,automatic,nc,nc
 2023-05-11T02:59:48.074Z,61.6121,-150.5258,18.1,1.8,ml,,,,0.37,ak,ak02360oy2uv,2023-05-11T03:01:44.775Z,"7 km N of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-11T02:48:08.400Z,37.7851677,-122.197998,12.84,1.24,md,8,89,0.01728,0.04,nc,nc73886396,2023-05-11T05:29:17.769Z,"3km ESE of Oakland, CA",earthquake,0.47,1.42,0.52,6,automatic,nc,nc
+2023-05-11T02:45:18.960Z,38.7451667,-122.8281667,3.9,0.56,md,25,197,0.02758,0.04,nc,nc73886391,2023-05-11T22:37:24.676Z,"7km WSW of The Geysers, CA",earthquake,0.39,0.61,0.204,20,reviewed,nc,nc
 2023-05-11T02:41:50.390Z,19.2331657409668,-155.398666381836,29.8799991607666,2.13,ml,42,140,,0.129999995,hv,hv73395862,2023-05-11T02:47:19.570Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.74000001,3.12,8,automatic,hv,hv
 2023-05-11T02:38:46.640Z,19.105,-67.7443,47,4.3,md,17,251,0.7678,0.7,pr,pr2023131000,2023-05-11T03:56:14.934Z,"90 km NE of Punta Cana, Dominican Republic",earthquake,3.96,13.49,0.15,8,reviewed,pr,pr
 2023-05-11T02:35:33.554Z,38.1849,-117.8759,7.2,1.9,ml,12,86.07,0.087,0.1907,nn,nn00859330,2023-05-11T16:07:10.380Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.2,9,reviewed,nn,nn
@@ -249,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T22:55:39.151Z,61.0739,-147.5842,0,1.8,ml,,,,0.82,ak,ak0235zdaiwr,2023-05-10T22:57:34.362Z,"54 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-10T22:49:35.250Z,33.6783333,-116.7066667,16.15,0.64,ml,20,102,0.02898,0.09,ci,ci40222487,2023-05-10T22:57:58.485Z,"7km S of Idyllwild, CA",earthquake,0.24,0.37,0.093,9,reviewed,ci,ci
 2023-05-10T22:42:24.307Z,35.0362,22.3898,47.659,4.3,mb,15,224,2.064,0.31,us,us6000kazy,2023-05-10T23:31:15.654Z,"central Mediterranean Sea",earthquake,8,14.792,0.307,3,reviewed,us,us
-2023-05-10T22:32:18.850Z,33.142,-116.055,8.52,1.73,ml,51,43,0.07201,0.19,ci,ci40222479,2023-05-10T23:05:43.770Z,"7km E of Ocotillo Wells, CA",earthquake,0.21,0.67,0.1,23,reviewed,ci,ci
