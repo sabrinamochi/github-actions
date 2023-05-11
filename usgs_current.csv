@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-11T00:43:22.830Z,38.8320007,-122.7938309,1.62,0.43,md,6,89,0.006954,0.01,nc,nc73886356,2023-05-11T00:44:57.112Z,"6km W of Cobb, CA",earthquake,1.01,1.34,0.27,8,automatic,nc,nc
+2023-05-11T00:42:43.560Z,32.6861667,-115.522,1.09,1.74,ml,10,76,0.1148,0.22,ci,ci40222519,2023-05-11T00:46:23.920Z,"2km WNW of Calexico, CA",earthquake,0.6,31.61,0.272,19,automatic,ci,ci
 2023-05-11T00:12:52.340Z,33.9996667,-118.3798333,11.79,1.5,ml,20,83,0.001706,0.15,ci,ci40222511,2023-05-11T00:38:04.625Z,"1km WSW of Baldwin Hills, CA",earthquake,0.34,0.39,0.311,15,reviewed,ci,ci
 2023-05-11T00:03:25.880Z,38.8348351,-122.8051682,2.04,1.12,md,20,53,0.01205,0.02,nc,nc73886346,2023-05-11T00:30:20.923Z,"7km WNW of Cobb, CA",earthquake,0.21,0.47,0.18,20,automatic,nc,nc
 2023-05-11T00:00:57.230Z,17.9698333333333,-66.8533333333333,18.21,2.21,md,8,207,0.02522,0.08,pr,pr71408778,2023-05-11T00:11:47.230Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.44,0.67,0.0633755580888931,5,reviewed,pr,pr
@@ -233,6 +235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T01:11:20.370Z,58.1945,-155.271666666667,1.66,-0.15,ml,5,226,,0.05,av,av91880791,2023-05-11T00:12:28.410Z,"84 km NW of Karluk, Alaska",earthquake,0.56,1.01,0.433794529210834,5,reviewed,av,av
 2023-05-10T00:57:52.870Z,37.8408333,-122.0365,8.2,0.94,md,9,131,0.03213,0.04,nc,nc73885856,2023-05-10T23:39:13.610Z,"1km SSW of Alamo, CA",earthquake,0.36,0.61,0.257,9,reviewed,nc,nc
 2023-05-10T00:57:31.500Z,58.2583333333333,-155.086,4.28,-0.22,ml,8,101,,0.22,av,av91880776,2023-05-10T23:36:58.020Z,"85 km NNW of Karluk, Alaska",earthquake,0.41,1.06,0.16593093070044,8,reviewed,av,av
+2023-05-10T00:54:57.230Z,53.7011666666667,-166.970666666667,4.88,0.32,ml,4,319,,0.03,av,av91099478,2023-05-11T00:45:11.800Z,"34 km SW of Unalaska, Alaska",earthquake,1.13,2.76,0.227226805953777,4,reviewed,av,av
 2023-05-10T00:53:29.170Z,56.2508333333333,-159.357,5.71,0.34,ml,5,287,,0.3,av,av91880771,2023-05-10T23:39:17.850Z,"36 km W of Chignik Lake, Alaska",earthquake,1.53,2.65,0.130501599654,5,reviewed,av,av
 2023-05-10T00:50:25.750Z,58.2711666666667,-155.095833333333,4.81,-0.3,ml,5,120,,0.06,av,av91880766,2023-05-10T23:06:26.870Z,"Alaska Peninsula",earthquake,0.46,0.78,0.182231208331703,4,reviewed,av,av
 2023-05-10T00:49:15.087Z,58.1724,-155.2785,0,1.7,ml,,,,0.27,ak,ak0235z05ng4,2023-05-10T23:44:21.470Z,"83 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
