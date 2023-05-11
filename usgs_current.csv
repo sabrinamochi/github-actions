@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T04:28:52.820Z,19.3731670379639,-155.288330078125,1.82000005245209,1.91,ml,15,100,,0.129999995,hv,hv73395977,2023-05-11T04:34:24.710Z,"9 km SW of Volcano, Hawaii",earthquake,0.28,0.379999995,0.08,3,automatic,hv,hv
 2023-05-11T04:28:40.090Z,37.8701667,-122.6558333,6.78,1.25,md,23,171,0.07102,0.11,nc,nc73886416,2023-05-11T06:09:14.024Z,"4km SSW of Stinson Beach, CA",earthquake,0.33,0.47,0.241,18,reviewed,nc,nc
 2023-05-11T04:23:40.920Z,19.1566,-67.8515,87,3.64,md,15,257,0.833,0.56,pr,pr2023131002,2023-05-11T05:19:34.588Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,5.12,6.99,0.05,5,reviewed,pr,pr
-2023-05-11T04:20:18.020Z,19.3428,-99.1602,5.907,3.1,ml,4,204,0.021,0.54,us,us6000kb13,2023-05-11T06:14:22.453Z,"0 km SSE of Coyoacán, Mexico",earthquake,5.59,4.075,0.128,8,reviewed,us,us
+2023-05-11T04:20:18.020Z,19.3428,-99.1602,5.907,3.1,ml,4,204,0.021,0.54,us,us6000kb13,2023-05-11T06:19:31.240Z,"0 km SSE of Coyoacán, Mexico",earthquake,5.59,4.075,0.128,8,reviewed,us,us
 2023-05-11T04:16:37.300Z,19.0618,-67.7545,44,3.77,md,18,247,0.8326,0.61,pr,pr2023131001,2023-05-11T05:05:01.450Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.24,11.47,0.04,10,reviewed,pr,pr
 2023-05-11T04:09:47.710Z,33.606,-116.6825,3.18,1.03,ml,9,81,0.06109,0.21,ci,ci40222575,2023-05-11T04:13:15.540Z,"6km N of Anza, CA",earthquake,0.72,2.22,0.257,6,automatic,ci,ci
 2023-05-11T04:04:56.105Z,63.3016,-150.4687,111.3,1.8,ml,,,,0.41,ak,ak02360pt9ox,2023-05-11T04:07:36.809Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -207,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T08:29:33.810Z,58.2918333333333,-154.915833333333,5.59,0.22,ml,9,169,,0.21,av,av91881146,2023-05-11T03:13:40.980Z,"Alaska Peninsula",earthquake,0.56,1.32,0.223774524882839,9,reviewed,av,av
 2023-05-10T08:29:02.220Z,38.8428345,-122.8755035,1.96,1.36,md,23,123,0.006076,0.03,nc,nc73886036,2023-05-10T10:48:09.882Z,"13km NW of The Geysers, CA",earthquake,0.26,0.35,0.12,24,automatic,nc,nc
 2023-05-10T08:26:15.490Z,44.8111667,-110.8213333,5.43,0.12,md,9,214,0.03086,0.07,uu,uu60539556,2023-05-10T13:11:02.030Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.75,0.55,0.132,5,reviewed,uu,uu
-2023-05-10T08:16:41.990Z,34.0245,-117.4983333,18.07,2.8,ml,148,17,0.03659,0.22,ci,ci40222087,2023-05-11T06:07:12.524Z,"2km NW of Glen Avon, CA",earthquake,0.12,0.25,0.159,151,reviewed,ci,ci
+2023-05-10T08:16:41.990Z,34.0245,-117.4983333,18.07,2.8,ml,148,17,0.03659,0.22,ci,ci40222087,2023-05-11T06:23:27.420Z,"2km NW of Glen Avon, CA",earthquake,0.12,0.25,0.159,151,reviewed,ci,ci
 2023-05-10T08:06:09.751Z,37.2038,-104.7596,2.811,2.3,ml,11,112,0.084,0.4,us,us6000kat7,2023-05-10T08:21:07.040Z,"8 km N of Segundo, Colorado",earthquake,1.51,3.49,0.105,12,reviewed,us,us
 2023-05-10T08:05:07.440Z,48.433,-122.23433333333334,9.94,1.18,ml,16,49,0.05249,0.14,uw,uw61923221,2023-05-10T17:54:22.980Z,"3 km N of Big Lake, Washington",earthquake,0.39,0.99,0.09682758007304948,8,reviewed,uw,uw
 2023-05-10T07:49:23.770Z,58.378,-154.912833333333,3.27,0.3,ml,9,140,,0.2,av,av91881126,2023-05-11T03:06:59.110Z,"94 km NNW of Karluk, Alaska",earthquake,0.67,1.86,0.3452910199652,9,reviewed,av,av
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T06:32:17.670Z,58.2591666666667,-155.1065,4.94,-0.1,ml,7,104,,0.18,av,av91881056,2023-05-11T02:42:18.530Z,"86 km NNW of Karluk, Alaska",earthquake,0.55,0.81,0.164721061432175,7,reviewed,av,av
 2023-05-10T06:25:09.350Z,58.2576666666667,-155.1025,2.48,-0.05,ml,5,117,,0.17,av,av91099388,2023-05-10T18:11:36.470Z,"85 km NNW of Karluk, Alaska",earthquake,0.4,1.97,0.198906687460405,5,reviewed,av,av
 2023-05-10T06:25:09.280Z,58.26,-155.098333333333,3.22,-0.13,ml,6,120,,0.12,av,av91881051,2023-05-11T02:39:00.450Z,"Alaska Peninsula",earthquake,0.49,1.49,0.17711677340826,6,reviewed,av,av
-2023-05-10T06:20:09.767Z,65.0601,-150.1052,0,2.3,ml,,,,0.36,ak,ak0235z3k0wg,2023-05-10T06:21:42.002Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
