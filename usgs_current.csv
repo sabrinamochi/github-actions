@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-11T02:48:08.400Z,37.7851677,-122.197998,12.84,1.24,md,8,89,0.01728,0.04,nc,nc73886396,2023-05-11T02:49:43.702Z,"3km ESE of Oakland, CA",earthquake,0.47,1.42,0.52,6,automatic,nc,nc
 2023-05-11T02:41:50.390Z,19.2331657409668,-155.398666381836,29.8799991607666,2.13,ml,42,140,,0.129999995,hv,hv73395862,2023-05-11T02:47:19.570Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.74000001,3.12,8,automatic,hv,hv
-2023-05-11T02:38:48.052Z,18.8395,-67.6174,27.35,4.4,mb,34,132,0.606,0.63,us,us6000kb0n,2023-05-11T02:49:06.040Z,"Puerto Rico region",earthquake,2.93,8.085,0.117,21,reviewed,us,us
+2023-05-11T02:38:48.052Z,18.8395,-67.6174,27.35,4.4,mb,34,132,0.606,0.63,us,us6000kb0n,2023-05-11T02:59:27.716Z,"Puerto Rico region",earthquake,2.93,8.085,0.117,21,reviewed,us,us
 2023-05-11T02:16:05.100Z,34.203,-117.3595,10.22,0.86,ml,16,133,0.05726,0.19,ci,ci40222543,2023-05-11T02:19:34.068Z,"4km ESE of Devore, CA",earthquake,0.6,0.86,0.155,7,automatic,ci,ci
 2023-05-11T02:07:21.080Z,38.8363342,-122.7825012,2.05,1.11,md,15,83,0.006466,0.02,nc,nc73886381,2023-05-11T02:23:22.596Z,"5km WNW of Cobb, CA",earthquake,0.41,0.6,0.26,16,automatic,nc,nc
 2023-05-11T01:36:04.040Z,19.4064998626709,-155.276000976562,1.07000005245209,2.09,ml,22,91,,0.119999997,hv,hv73395812,2023-05-11T01:41:34.580Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.189999998,0.27,7,automatic,hv,hv
@@ -178,6 +178,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T07:05:34.670Z,38.8163333,-122.8128333,3.16,0.48,md,12,104,0.007373,0.02,nc,nc73886016,2023-05-10T14:41:15.470Z,"6km NW of The Geysers, CA",earthquake,0.43,0.3,0.272,12,reviewed,nc,nc
 2023-05-10T07:05:24.341Z,25.541,-109.8329,10,4.9,mb,60,135,1.85,1.2,us,us6000kasv,2023-05-10T16:19:13.976Z,"57 km WSW of Campo Pesquero el Colorado, Mexico",earthquake,6.92,1.894,0.034,272,reviewed,us,us
 2023-05-10T06:53:40.890Z,38.7519989,-122.720665,0.55,0.87,md,8,170,0.01013,0.03,nc,nc73886011,2023-05-10T07:33:14.699Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.52,0.26,7,automatic,nc,nc
+2023-05-10T06:51:08.540Z,58.306,-155.1265,1.31,-0.6,ml,4,219,,0.13,av,av91881091,2023-05-11T02:59:04.420Z,"Alaska Peninsula",earthquake,0.75,1.4,0.173315050880435,3,reviewed,av,av
+2023-05-10T06:48:41.790Z,58.269,-155.1055,3.4,-0.32,ml,4,122,,0.04,av,av91881086,2023-05-11T02:53:47.810Z,"86 km NNW of Karluk, Alaska",earthquake,0.41,0.92,0.189293041628669,3,reviewed,av,av
 2023-05-10T06:48:14.570Z,38.7529984,-122.7229996,0.57,0.99,md,8,163,0.008704,0.02,nc,nc73886006,2023-05-10T07:23:17.646Z,"4km SW of Anderson Springs, CA",earthquake,0.9,0.55,0.16,8,automatic,nc,nc
 2023-05-10T06:46:34.808Z,59.7014,-152.5651,78,2,ml,,,,0.31,ak,ak0235z3png8,2023-05-10T06:49:04.392Z,"42 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-10T06:42:01.940Z,38.7781677,-122.7581635,0.96,1.08,md,9,84,0.009509,0.02,nc,nc73886001,2023-05-10T07:11:18.581Z,"0km WNW of The Geysers, CA",earthquake,0.27,0.64,0.17,8,automatic,nc,nc
@@ -240,10 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T03:16:50.330Z,19.2333335876465,-155.390838623047,30.4899997711182,2.01,ml,29,144,,0.119999997,hv,hv73394482,2023-05-10T03:22:21.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.709999979,1.02,3,automatic,hv,hv
 2023-05-10T03:11:25.960Z,53.417,-168.3585,0.79,1.49,ml,5,317,,0.06,av,av91099498,2023-05-11T01:53:10.800Z,"62 km NNE of Nikolski, Alaska",earthquake,4.3,4.84,0.239456508862071,4,reviewed,av,av
 2023-05-10T03:01:49.220Z,19.1811676025391,-155.491836547852,35.7099990844727,1.96,ml,36,88,,0.100000001,hv,hv73394472,2023-05-10T03:07:18.370Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.839999974,5.06,3,automatic,hv,hv
-2023-05-10T02:59:06.890Z,44.873,-123.76816666666667,18.01,2.1,ml,29,74,0.08257,0.13,uw,uw61923196,2023-05-10T18:15:22.840Z,"Oregon",earthquake,0.24,0.63,0.1536922368483774,20,reviewed,uw,uw
-2023-05-10T02:57:01.351Z,65.4101,-150.038,15.8,1.1,ml,,,,0.41,ak,ak0235z1e7br,2023-05-10T03:08:33.731Z,"12 km SSE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-10T02:54:51.120Z,60.3953333333333,-152.797,7.91,0.37,ml,9,149,,0.1,av,av91099493,2023-05-11T01:31:20.600Z,"73 km WNW of Ninilchik, Alaska",earthquake,0.46,0.5,0.155453924071725,9,reviewed,av,av
-2023-05-10T02:54:39.620Z,58.1821666666667,-155.285,1.74,-0.26,ml,5,195,,0.06,av,av91099488,2023-05-11T01:24:02.510Z,"84 km NW of Karluk, Alaska",earthquake,0.33,0.41,0.164091996457757,5,reviewed,av,av
-2023-05-10T02:54:24.110Z,58.2671666666667,-155.100333333333,5.13,-0.21,ml,5,116,,0.09,av,av91880876,2023-05-11T01:21:54.940Z,"86 km NNW of Karluk, Alaska",earthquake,0.43,1.16,0.18389300462179,5,reviewed,av,av
-2023-05-10T02:53:17.582Z,65.2675,-157.9782,5.5,2.4,ml,,,,0.83,ak,ak0235z1ddpq,2023-05-10T02:55:53.452Z,"45 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-10T02:53:02.700Z,33.0288333,-116.0091667,6.72,1.84,ml,53,29,0.1456,0.17,ci,ci40221975,2023-05-10T15:42:56.770Z,"17km SE of Ocotillo Wells, CA",earthquake,0.16,0.94,0.116,33,reviewed,ci,ci
