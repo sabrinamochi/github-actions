@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-11T21:16:05.570Z,19.2401676177979,-155.394165039062,30.6200008392334,2.18000007,md,36,156,,0.119999997,hv,hv73397027,2023-05-11T21:19:16.650Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.629999995,0.99000001,19,automatic,hv,hv
 2023-05-11T20:48:14.962Z,64.6173,-147.9421,11.6,0.8,ml,,,,0.92,ak,ak02360zlgbc,2023-05-11T20:51:17.368Z,"22 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-11T20:34:54.850Z,19.3926658630371,-156.036834716797,26.2800006866455,2.01999998,md,23,270,,0.180000007,hv,hv73396977,2023-05-11T20:38:14.070Z,"Hawaii region, Hawaii",earthquake,0.95,2.29999995,1,3,automatic,hv,hv
+2023-05-11T20:33:50.770Z,60.056,-153.051,1.57,-0.72,ml,5,234,,0.09,av,av91883081,2023-05-11T21:16:54.600Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.22,0.57,0.0773546150442374,5,reviewed,av,av
 2023-05-11T20:12:50.124Z,37.3364,-117.1525,3.7,1.1,ml,13,149.71,0.393,0.4243,nn,nn00859368,2023-05-11T20:15:49.063Z,"41 km S of Goldfield, Nevada",earthquake,,12.5,1.01,10,automatic,nn,nn
 2023-05-11T20:05:38.820Z,44.7641667,-110.9691667,5.06,0.53,md,9,134,0.02679,0.17,uu,uu60539666,2023-05-11T20:23:57.520Z,"Yellowstone National Park, Wyoming",earthquake,0.45,0.79,0.299,7,reviewed,uu,uu
 2023-05-11T20:01:59.286Z,37.3148,-117.1609,2.3,1.2,ml,12,145.35,0.389,0.2533,nn,nn00859364,2023-05-11T20:04:29.113Z,"44 km S of Goldfield, Nevada",earthquake,,8.9,0.9,9,automatic,nn,nn
@@ -63,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T15:18:01.420Z,38.831665,-122.8166656,1.48,0.77,md,17,54,0.009732,0.03,nc,nc73886556,2023-05-11T17:38:13.073Z,"8km NW of The Geysers, CA",earthquake,0.26,0.41,0.16,16,automatic,nc,nc
 2023-05-11T15:17:10.551Z,59.957,-149.1297,0.8,2.2,ml,,,,0.69,ak,ak02360wfmr3,2023-05-11T15:19:17.636Z,"21 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-11T15:16:05.840Z,38.8069992,-122.817337,2.74,1.09,md,23,58,0.009438,0.02,nc,nc73886551,2023-05-11T17:13:09.911Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.19,26,automatic,nc,nc
-2023-05-11T15:03:01.380Z,19.4061660766602,-155.279495239258,1.58000004291534,2.17,ml,22,55,,0.239999995,hv,hv73396667,2023-05-11T15:08:31.910Z,"6 km SW of Volcano, Hawaii",earthquake,0.44,0.330000013,0.25,8,automatic,hv,hv
+2023-05-11T15:03:01.270Z,19.4085,-155.284666666667,1.3,2.04,ml,24,82,,0.1,hv,hv73396667,2023-05-11T21:18:59.190Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.14,0.152241348874897,10,reviewed,hv,hv
 2023-05-11T14:55:33.950Z,33.5251667,-116.426,8.72,0.64,ml,19,97,0.00178,0.12,ci,ci40222863,2023-05-11T19:19:25.495Z,"19km SW of La Quinta, CA",earthquake,0.31,0.55,0.062,14,reviewed,ci,ci
 2023-05-11T14:50:42.270Z,19.2453327178955,-155.405670166016,32.060001373291,1.83000004,md,40,130,,0.140000001,hv,hv73396652,2023-05-11T14:53:50.860Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.67,0.810000002,1.38,18,automatic,hv,hv
 2023-05-11T14:39:22.600Z,44.7948333,-110.8358333,4.87,1.44,ml,17,110,0.0123,0.16,uu,uu60539651,2023-05-11T18:17:13.870Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.38,0.51,0.453,3,reviewed,uu,uu
@@ -145,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T07:01:58.660Z,19.2295,-67.8116,73,3.78,md,12,263,0.9147,0.51,pr,pr2023131004,2023-05-11T07:38:03.626Z,"95 km NE of Punta Cana, Dominican Republic",earthquake,4.47,8.37,0.05,4,reviewed,pr,pr
 2023-05-11T06:49:11.890Z,33.7033333,-116.8045,14.85,0.85,ml,37,44,0.07571,0.19,ci,ci40222647,2023-05-11T13:18:09.950Z,"9km WSW of Idyllwild, CA",earthquake,0.32,0.43,0.209,21,reviewed,ci,ci
 2023-05-11T06:47:24.440Z,-15.548,-174.6668,188.071,4.3,mb,35,86,3.149,0.46,us,us6000kb1l,2023-05-11T07:19:56.040Z,"103 km WNW of Hihifo, Tonga",earthquake,9.91,6.446,0.101,33,reviewed,us,us
+2023-05-11T06:47:22.740Z,42.544,-123.21733333333333,43.37,1.11,ml,11,207,0.1293,0.14,uw,uw61923471,2023-05-11T21:13:47.550Z,"5 km W of Wimer, Oregon",earthquake,0.93,0.71,0.2576732971943845,7,reviewed,uw,uw
 2023-05-11T06:30:06.370Z,56.1978333333333,-159.476166666667,20.29,0.23,ml,7,98,,0.27,av,av91099553,2023-05-11T19:19:08.770Z,"32 km N of Ivanof Bay, Alaska",earthquake,0.91,1.81,0.327590647224207,7,reviewed,av,av
 2023-05-11T06:22:29.808Z,-14.7852,172.2771,603.374,4.7,mb,55,59,6.279,0.76,us,us6000kb1h,2023-05-11T06:40:58.040Z,"Vanuatu region",earthquake,12.76,9.344,0.076,54,reviewed,us,us
 2023-05-11T06:01:04.810Z,19.16,-64.8723,27,3.61,md,13,286,0.946,0.4,pr,pr2023131003,2023-05-11T06:32:10.623Z,"90 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.1,28,0.07,8,reviewed,pr,pr
@@ -233,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T21:25:37.814Z,65.2673,-145.2974,0.6,1.4,ml,,,,0.47,ak,ak0235zcinpx,2023-05-10T21:28:03.389Z,"41 km SW of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-10T21:22:59.440Z,37.26,-121.636,5.43,1.95,md,62,43,0.02963,0.09,nc,nc73886306,2023-05-11T08:03:11.665Z,"14km N of Morgan Hill, CA",earthquake,0.11,0.23,0.206,56,reviewed,nc,nc
 2023-05-10T21:20:23.659Z,44.2259,-128.863,10,3.1,ml,28,274,3.506,0.6,us,us6000kazh,2023-05-11T20:27:29.308Z,"off the coast of Oregon",earthquake,5.37,2.025,0.053,46,reviewed,us,us
-2023-05-10T21:18:57.154Z,37.2946,-104.4788,6.88,2.5,mb_lg,10,65,0.165,0.16,us,us6000kaze,2023-05-11T17:21:15.149Z,"7 km N of El Moro, Colorado",earthquake,2.13,4.077,0.295,12,reviewed,us,us
-2023-05-10T21:13:35.720Z,38.8213348,-122.8248367,2.44,0.76,md,7,136,0.008159,0.02,nc,nc73886301,2023-05-10T22:04:12.026Z,"8km NW of The Geysers, CA",earthquake,0.67,0.99,0.1,8,automatic,nc,nc
