@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T17:04:28.035Z,52.4599,-172.0689,111.292,3.7,mb,46,182,1.22,0.64,us,us6000kbi9,2023-05-12T18:32:18.040Z,"148 km E of Atka, Alaska",earthquake,10.67,5.172,0.095,28,reviewed,us,us
 2023-05-12T17:00:24.150Z,60.0546666666667,-153.056833333333,3.27,-0.76,ml,5,204,,0.11,av,av91884046,2023-05-12T18:38:09.560Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.67,0.98,0.0749023664777057,5,reviewed,av,av
 2023-05-12T16:54:20.660Z,19.1421661376953,-155.470672607422,32.7799987792969,1.94,ml,40,164,,0.109999999,hv,hv73398472,2023-05-12T16:59:51.040Z,"6 km S of Pāhala, Hawaii",earthquake,0.56,0.879999995,5.09,3,automatic,hv,hv
-2023-05-12T16:51:25.470Z,40.1943333,-121.127,5.1,1.9,md,14,83,0.05514,0.12,nc,nc73887221,2023-05-12T19:53:56.278Z,"3km ESE of Prattville, CA",earthquake,0.38,0.71,0.198,13,reviewed,nc,nc
+2023-05-12T16:51:25.470Z,40.1943333,-121.127,5.1,1.9,md,14,83,0.05514,0.12,nc,nc73887221,2023-05-12T20:00:10.636Z,"3km ESE of Prattville, CA",earthquake,0.38,0.71,0.198,13,reviewed,nc,nc
 2023-05-12T16:44:45.970Z,38.8318329,-122.8198318,1.82,0.93,md,10,78,0.01136,0.01,nc,nc73887216,2023-05-12T17:05:19.681Z,"8km NW of The Geysers, CA",earthquake,0.38,0.93,0.33,11,automatic,nc,nc
 2023-05-12T16:40:23.510Z,38.8224983,-122.8526688,1.95,0.72,md,9,128,0.01379,0.01,nc,nc73887206,2023-05-12T16:57:15.624Z,"10km WNW of The Geysers, CA",earthquake,0.34,0.96,0.31,9,automatic,nc,nc
 2023-05-12T16:35:20.380Z,40.2281685,-121.1433334,0.09,2.52,md,11,77,0.3205,0.2,nc,nc73887201,2023-05-12T19:38:10.519Z,"2km NNE of Prattville, CA",earthquake,0.61,14.28,0.09,8,automatic,nc,nc
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T15:35:05.904Z,61.1959,-147.0821,20,1.3,ml,,,,0.48,ak,ak02362k2try,2023-05-12T15:37:31.028Z,"40 km W of Valdez, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-12T15:33:45.304Z,65.3657,-144.6974,7.3,1.1,ml,,,,0.52,ak,ak02362k2hdu,2023-05-12T15:37:29.088Z,"23 km SSE of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-12T15:31:29.870Z,58.193,-155.297666666667,2.24,0.1,ml,5,229,,0.08,av,av91883961,2023-05-12T17:22:10.600Z,"85 km NW of Karluk, Alaska",earthquake,0.65,1.17,0.232809982233463,5,reviewed,av,av
-2023-05-12T15:29:18.230Z,19.3859996795654,-155.23616027832,2.86999988555908,2.25,ml,19,88,,0.389999986,hv,hv73398352,2023-05-12T15:34:48.470Z,"6 km S of Volcano, Hawaii",earthquake,1.17,0.779999971,0.45,9,automatic,hv,hv
+2023-05-12T15:29:18.330Z,19.3835,-155.239666666667,2.39,2.21,ml,23,125,,0.13,hv,hv73398352,2023-05-12T20:01:53.090Z,"6 km S of Volcano, Hawaii",earthquake,0.37,0.23,0.118986712659155,6,reviewed,hv,hv
 2023-05-12T15:28:27.550Z,19.2158336639404,-155.397994995117,31.4799995422363,2.85,ml,19,205,,0.129999995,hv,hv73398347,2023-05-12T15:33:58.440Z,"8 km E of Pāhala, Hawaii",earthquake,1.59,1.16999996,0.48,9,automatic,hv,hv
 2023-05-12T15:27:58.270Z,58.1873333333333,-155.2735,2.95,0.29,ml,7,177,,0.06,av,av91099603,2023-05-12T17:19:50.800Z,"Alaska Peninsula",earthquake,0.55,1,0.339722790105942,7,reviewed,av,av
 2023-05-12T15:27:31.252Z,58.1618,-155.3516,6.7,0.6,ml,,,,0.99,ak,ak02362k1623,2023-05-12T17:16:52.440Z,"84 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -350,4 +350,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T20:18:31.609Z,34.92133333,-98.8485,0,1.57,ml,51,105,0.1916623893,0.93,ok,ok2023jfbp,2023-05-12T17:23:07.125Z,"6 km NNE of Cooperton, Oklahoma",quarry blast,,1.1,0.26,15,reviewed,ok,ok
 2023-05-11T20:12:50.124Z,37.3364,-117.1525,3.7,1.1,ml,13,149.71,0.393,0.4243,nn,nn00859368,2023-05-11T20:15:49.063Z,"41 km S of Goldfield, Nevada",earthquake,,12.5,1.01,10,automatic,nn,nn
 2023-05-11T20:05:38.820Z,44.7641667,-110.9691667,5.06,0.53,md,9,134,0.02679,0.17,uu,uu60539666,2023-05-11T20:23:57.520Z,"Yellowstone National Park, Wyoming",earthquake,0.45,0.79,0.299,7,reviewed,uu,uu
-2023-05-11T20:01:59.804Z,37.3195,-117.1544,6.5,1.3,ml,17,122.26,0.087,0.1737,nn,nn00859364,2023-05-12T02:04:24.785Z,"43 km S of Goldfield, Nevada",earthquake,,3.4,1,9,reviewed,nn,nn
