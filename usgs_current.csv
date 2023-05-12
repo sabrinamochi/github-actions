@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T14:48:51.700Z,38.8323326,-122.8111649,1.45,0.66,md,11,69,0.008965,0.01,nc,nc73887161,2023-05-12T15:05:15.867Z,"8km W of Cobb, CA",earthquake,0.31,0.83,0.31,12,automatic,nc,nc
 2023-05-12T14:41:52.913Z,62.7454,-148.8249,4.4,1.9,ml,,,,0.71,ak,ak02362jis3f,2023-05-12T14:44:16.775Z,"72 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-12T14:36:14.820Z,19.4018325805664,-155.261001586914,0.140000000596046,1.70000005,md,11,145,,0.319999993,hv,hv73398252,2023-05-12T14:39:07.370Z,"5 km SSW of Volcano, Hawaii",earthquake,0.44,0.769999981,0.709999979,6,automatic,hv,hv
-2023-05-12T14:35:09.390Z,40.2113342,-121.0940018,8.28,2.18,md,8,88,0.3023,0.16,nc,nc73887156,2023-05-12T14:53:15.188Z,"4km SSW of East Shore, CA",earthquake,0.95,2.04,0.2,5,automatic,nc,nc
+2023-05-12T14:35:09.390Z,40.2113342,-121.0940018,8.28,2.18,md,8,88,0.3023,0.16,nc,nc73887156,2023-05-12T16:50:14.584Z,"4km SSW of East Shore, CA",earthquake,0.95,2.04,0.2,5,automatic,nc,nc
 2023-05-12T14:31:17.260Z,19.2450008392334,-155.399002075195,29.9599990844727,2.13,ml,40,134,,0.129999995,hv,hv73398242,2023-05-12T14:36:49.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.850000024,3.65,6,automatic,hv,hv
 2023-05-12T14:26:27.310Z,19.2445,-155.392666666667,31.23,3.39,ml,52,134,,0.13,hv,hv73398237,2023-05-12T15:40:10.843Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.48,0.46,0.15642955960261,30,reviewed,hv,hv
 2023-05-12T14:16:33.390Z,40.2268333,-121.1364975,1.15,2.36,md,8,109,0.3171,0.16,nc,nc73887151,2023-05-12T16:37:09.500Z,"3km NE of Prattville, CA",earthquake,0.74,11.86,0.02,5,automatic,nc,nc
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T08:35:53.430Z,33.5885,-116.7483333,11.88,0.81,ml,30,51,0.01414,0.15,ci,ci40223391,2023-05-12T08:39:35.024Z,"8km WNW of Anza, CA",earthquake,0.24,0.45,0.133,20,automatic,ci,ci
 2023-05-12T08:33:21.998Z,37.8712,36.2276,4.527,4.5,mwr,57,57,0.305,0.74,us,us6000kbcq,2023-05-12T09:09:59.040Z,"17 km SE of Saimbeyli, Turkey",earthquake,2.89,4.758,0.071,19,reviewed,us,us
 2023-05-12T08:20:49.580Z,40.2353333,-121.1613333,5.91,2.55,md,27,65,0.01736,0.14,nc,nc73887011,2023-05-12T15:21:10.975Z,"2km NNE of Almanor, CA",earthquake,0.3,0.52,0.14,27,reviewed,nc,nc
-2023-05-12T08:02:31.722Z,12.4075,144.1926,10,5.4,mb,108,58,1.347,0.69,us,us6000kbcl,2023-05-12T15:19:55.331Z,"108 km SSW of Merizo Village, Guam",earthquake,8.49,1.856,0.041,203,reviewed,us,us
+2023-05-12T08:02:31.722Z,12.4075,144.1926,10,5.4,mb,108,58,1.347,0.69,us,us6000kbcl,2023-05-12T15:19:55.331Z,"Guam region",earthquake,8.49,1.856,0.041,203,reviewed,us,us
 2023-05-12T07:58:30.820Z,44.4386666666667,-115.195333333333,5.56,1.71,ml,11,61,0.707,0.12,mb,mb90013603,2023-05-12T15:15:08.710Z,"31 km NW of Stanley, Idaho",earthquake,0.34,1,0.222988380146757,8,reviewed,mb,mb
 2023-05-12T07:56:51.350Z,35.9578323,-120.5224991,7.98,0.37,md,9,105,0.02,0.04,nc,nc73887001,2023-05-12T08:13:12.320Z,"10km NW of Parkfield, CA",earthquake,0.63,1.6,0.09,4,automatic,nc,nc
 2023-05-12T07:44:44.630Z,33.5868333,-116.7528333,12.38,1.04,ml,42,50,0.01163,0.19,ci,ci40223375,2023-05-12T07:48:23.745Z,"8km WNW of Anza, CA",earthquake,0.24,0.44,0.23,27,automatic,ci,ci
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T05:41:06.370Z,40.208168,-121.1083298,0.15,2.39,md,13,66,0.3125,0.18,nc,nc73886961,2023-05-12T10:04:14.982Z,"4km E of Prattville, CA",earthquake,0.55,14.51,0.15,9,automatic,nc,nc
 2023-05-12T05:37:46.680Z,40.208168,-121.1015015,0.27,2.14,md,8,89,0.3086,0.18,nc,nc73886956,2023-05-12T09:49:11.878Z,"4km SSW of East Shore, CA",earthquake,1.27,12.86,0.14,4,automatic,nc,nc
 2023-05-12T05:30:01.391Z,58.2613,-155.6019,1.1,2.4,ml,,,,0.72,ak,ak02362e3esr,2023-05-12T16:13:02.950Z,"77 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-12T05:29:37.570Z,36.2784996032715,-89.456169128418,4.92999982833862,1.62,md,11,114,0.04968,0.129999995,nm,nm60524851,2023-05-12T12:17:16.510Z,"3 km ENE of Ridgely, Tennessee",earthquake,0.34,0.430000007,0.550000012,10,reviewed,nm,nm
+2023-05-12T05:29:37.570Z,36.2784996032715,-89.456169128418,4.92999982833862,1.62,md,11,114,0.04968,0.129999995,nm,nm60524851,2023-05-12T12:17:16.510Z,"Tennessee",earthquake,0.34,0.430000007,0.550000012,10,reviewed,nm,nm
 2023-05-12T05:28:40.490Z,38.7908325,-122.7360001,1.69,0.44,md,8,103,0.007605,0.01,nc,nc73886951,2023-05-12T05:42:10.668Z,"2km NE of The Geysers, CA",earthquake,0.32,1.21,0.27,8,automatic,nc,nc
 2023-05-12T05:24:38.621Z,58.1239,-155.5031,3.2,1.2,ml,,,,0.25,ak,ak02362e27di,2023-05-12T05:26:09.262Z,"Alaska Peninsula",earthquake,,3.5,,,automatic,ak,ak
 2023-05-12T05:21:28.990Z,38.7901649,-122.7368317,1.67,0.73,md,9,101,0.02071,0.01,nc,nc73886946,2023-05-12T05:57:16.528Z,"2km NE of The Geysers, CA",earthquake,0.35,1.18,0.06,9,automatic,nc,nc
@@ -325,4 +325,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T16:55:37.168Z,58.2898,-154.8929,15.7,0.8,ml,,,,0.58,ak,ak02360x99mc,2023-05-11T20:19:42.610Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-11T16:52:57.459Z,-19.2581,-69.7845,85.701,4,mb,19,131,0.691,0.79,us,us6000kb6d,2023-05-11T20:40:41.040Z,"38 km W of Camiña, Chile",earthquake,5.62,5.308,0.164,11,reviewed,us,us
 2023-05-11T16:52:35.013Z,60.1544,-153.0461,120.3,1.5,ml,,,,0.59,ak,ak02360x8mb1,2023-05-11T16:55:59.391Z,"70 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-11T16:50:58.470Z,38.7383347,-122.8280029,4.89,1.45,md,32,109,0.03365,0.05,nc,nc73886576,2023-05-11T19:52:12.873Z,"8km SW of The Geysers, CA",earthquake,0.29,0.62,0.19,30,automatic,nc,nc
