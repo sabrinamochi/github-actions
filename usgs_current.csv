@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-12T06:00:11.984Z,62.7838,-149.3758,57.8,1.6,ml,,,,0.76,ak,ak02362eifqm,2023-05-12T06:02:29.862Z,"52 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-12T05:59:45.599Z,63.3506,-149.3785,10.1,0.8,ml,,,,0.25,ak,ak02362e9pzd,2023-05-12T06:02:21.896Z,"21 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-12T05:56:53.332Z,59.6866,-153.2971,101.8,1.6,ml,,,,0.45,ak,ak02362e93f9,2023-05-12T05:58:44.684Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-12T05:46:23.290Z,36.8493347,-121.4008331,6.84,2.12,md,10,226,0.07953,0.08,nc,nc73886971,2023-05-12T05:57:20.530Z,"0km NW of Hollister, CA",earthquake,0.87,2.24,0.09,8,automatic,nc,nc
 2023-05-12T05:45:40.040Z,40.1976662,-121.1046677,-1.39,3,ml,42,46,0.3176,0.32,nc,nc73886966,2023-05-12T05:57:19.529Z,"4km NW of Canyondam, CA",earthquake,0.47,1.92,0.32,19,automatic,nc,nc
@@ -96,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T23:29:42.830Z,40.1953333,-121.1051667,-0.34,2.61,md,20,76,0.0607,0.14,nc,nc73886736,2023-05-12T04:03:15.818Z,"4km NW of Canyondam, CA",earthquake,0.36,2.13,0.131,35,reviewed,nc,nc
 2023-05-11T23:21:56.113Z,65.393,-144.7847,0,1.7,ml,,,,0.81,ak,ak02361181yz,2023-05-11T23:23:35.907Z,"20 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-11T23:21:29.462Z,61.4901,-152.2668,122.4,1.8,ml,,,,0.49,ak,ak0236117zvy,2023-05-11T23:23:56.576Z,"72 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-11T23:19:41.990Z,40.2041667,-121.1095,5.85,5.48,mw,54,46,0.05144,0.16,nc,nc73886731,2023-05-12T05:55:06.469Z,"4km E of Prattville, CA",earthquake,0.26,0.56,,4,reviewed,nc,nc
+2023-05-11T23:19:41.990Z,40.2041667,-121.1095,5.85,5.48,mw,54,46,0.05144,0.16,nc,nc73886731,2023-05-12T06:00:28.948Z,"4km E of Prattville, CA",earthquake,0.26,0.56,,4,reviewed,nc,nc
 2023-05-11T23:15:31.460Z,38.8305016,-122.8138351,1.72,1.4,md,27,42,0.00768,0.05,nc,nc73886726,2023-05-12T03:33:16.632Z,"8km NW of The Geysers, CA",earthquake,0.19,0.35,0.2,27,automatic,nc,nc
 2023-05-11T23:06:17.170Z,19.4098339080811,-155.27799987793,0.600000023841858,2.25,md,11,104,,0.140000001,hv,hv73397147,2023-05-11T23:09:07.220Z,"5 km SW of Volcano, Hawaii",earthquake,0.26,0.370000005,1.41999996,10,automatic,hv,hv
 2023-05-11T22:42:51.331Z,34.49517059,-97.21232605,1.242283702,2.68,ml,51,66.79034424,0.1360837966,0.798268859,ok,ok2023jfgj,2023-05-11T23:13:32.040Z,"8 km W of Davis, Oklahoma",earthquake,1.931907628,1.364795956,0.29,28,automatic,ok,ok
@@ -295,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T06:30:06.370Z,56.1978333333333,-159.476166666667,20.29,0.23,ml,7,98,,0.27,av,av91099553,2023-05-11T19:19:08.770Z,"32 km N of Ivanof Bay, Alaska",earthquake,0.91,1.81,0.327590647224207,7,reviewed,av,av
 2023-05-11T06:22:29.808Z,-14.7852,172.2771,603.374,4.7,mb,55,59,6.279,0.76,us,us6000kb1h,2023-05-11T06:40:58.040Z,"Vanuatu region",earthquake,12.76,9.344,0.076,54,reviewed,us,us
 2023-05-11T06:22:00.010Z,58.1768333333333,-155.305333333333,0.75,-0.29,ml,5,164,,0.03,av,av91882161,2023-05-12T02:04:11.060Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.08,0.168535939251583,5,reviewed,av,av
-2023-05-11T06:01:04.810Z,19.16,-64.8723,27,3.61,md,13,286,0.946,0.4,pr,pr2023131003,2023-05-11T06:32:10.623Z,"90 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.1,28,0.07,8,reviewed,pr,pr
