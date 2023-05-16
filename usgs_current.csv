@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-16T23:16:19.785Z,61.4201,-151.2163,76.4,1.3,ml,,,,0.98,ak,ak02369avn22,2023-05-16T23:19:57.492Z,"31 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-16T23:07:38.450Z,35.0126667,-118.4753333,6.94,1.16,ml,14,49,0.112,0.13,ci,ci40226351,2023-05-16T23:11:15.940Z,"14km S of Tehachapi, CA",earthquake,0.25,1.34,0.341,14,automatic,ci,ci
 2023-05-16T23:06:49.633Z,60.1365,-153.2562,143.5,1.7,ml,,,,0.25,ak,ak02369atk77,2023-05-16T23:08:37.105Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-16T22:54:08.459Z,60.5697,-151.8561,86,1.3,ml,,,,0.43,ak,ak02369aibsd,2023-05-16T22:56:08.362Z,"29 km W of Salamatof, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T11:33:49.110Z,19.1781673431396,-155.477828979492,34.2700004577637,1.97000003,md,37,157,,0.109999999,hv,hv73404722,2023-05-16T11:37:12.010Z,"2 km S of Pāhala, Hawaii",earthquake,0.55,0.930000007,1.17999995,8,automatic,hv,hv
 2023-05-16T11:31:27.190Z,33.2295,-116.0788333,10.64,1.31,ml,64,52,0.09283,0.18,ci,ci40225983,2023-05-16T20:13:04.760Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.15,0.38,0.092,34,reviewed,ci,ci
 2023-05-16T11:24:17.310Z,33.7096667,-116.7293333,17.79,0.37,ml,12,85,0.01273,0.15,ci,ci40225967,2023-05-16T13:15:05.421Z,"4km SSW of Idyllwild, CA",earthquake,0.56,0.71,0.08,4,reviewed,ci,ci
-2023-05-16T11:10:37.170Z,37.2936667,-121.6593333,6.98,1.17,md,36,41,0.03632,0.09,nc,nc73888736,2023-05-16T23:01:22.590Z,"16km E of Seven Trees, CA",earthquake,0.16,0.31,0.16,25,reviewed,nc,nc
+2023-05-16T11:10:37.170Z,37.2936667,-121.6593333,6.98,1.17,md,36,41,0.03632,0.09,nc,nc73888736,2023-05-16T23:16:10.173Z,"16km E of Seven Trees, CA",earthquake,0.16,0.31,0.16,25,reviewed,nc,nc
 2023-05-16T11:07:45.783Z,37.6986,71.6032,10,4.1,mwr,57,75,1.783,0.52,us,us6000kc99,2023-05-16T18:05:21.040Z,"23 km N of Khorugh, Tajikistan",earthquake,6.24,1.894,0.098,10,reviewed,us,us
 2023-05-16T11:05:48.670Z,38.7936668,-122.7281647,1.55,1.09,md,12,116,0.02561,0.02,nc,nc73888731,2023-05-16T11:25:09.805Z,"3km NE of The Geysers, CA",earthquake,0.29,0.96,0.2,12,automatic,nc,nc
 2023-05-16T11:04:49.832Z,33.4713,139.3643,10,4.3,mb,35,81,0.518,0.72,us,us6000kc9a,2023-05-16T12:13:04.040Z,"139 km SSE of Shimoda, Japan",earthquake,4.21,1.911,0.125,18,reviewed,us,us
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T23:32:06.042Z,58.1637,-155.328,10.9,2,ml,,,,0.28,ak,ak02367nfoyk,2023-05-15T23:33:30.242Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-05-15T23:23:19.650Z,19.6285,-65.7816666666667,64.98,3.41,md,16,284,1.343,0.51,pr,pr71409523,2023-05-15T23:59:09.360Z,"132 km N of Suárez, Puerto Rico",earthquake,4.52,13.89,0.0430839835295953,7,reviewed,pr,pr
 2023-05-15T23:22:52.687Z,55.8266,-159.0309,67.8,1.9,ml,,,,0.28,ak,ak02367ndnec,2023-05-15T23:24:07.436Z,"11 km SE of Perryville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-15T23:19:07.030Z,35.0223333,-117.6943333,0.26,1.76,ml,26,49,0.08775,0.27,ci,ci40225839,2023-05-15T23:22:53.849Z,"5km WNW of Boron, CA",quarry blast,0.48,31.61,0.183,31,automatic,ci,ci
