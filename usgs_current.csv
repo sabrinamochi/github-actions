@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T22:37:32.950Z,32.8648338,-115.5846634,13.88,1.56,ml,16,97,0.04173,0.28,ci,ci40226335,2023-05-16T22:39:50.670Z,"2km NW of Imperial, CA",earthquake,0.91,1.06,0.33,8,automatic,ci,ci
+2023-05-16T22:37:32.950Z,32.8648338,-115.5846634,13.88,1.56,ml,16,97,0.04173,0.28,ci,ci40226335,2023-05-16T22:40:05.672Z,"2km NW of Imperial, CA",earthquake,0.91,1.06,0.33,8,automatic,ci,ci
 2023-05-16T22:12:08.494Z,60.5287,-147.6446,16.2,1.5,ml,,,,0.48,ak,ak02369a9bpt,2023-05-16T22:14:52.012Z,"55 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-16T22:04:42.580Z,18.4183333333333,-67.3626666666667,6.81,2.66,md,12,186,0.1156,0.24,pr,pr71409663,2023-05-16T22:21:35.430Z,"14 km NW of Rincón, Puerto Rico",earthquake,0.92,1.29,0.0811876196062991,8,reviewed,pr,pr
 2023-05-16T21:56:23.236Z,42.8261,80.5725,10,4.7,mb,109,66,0.941,0.73,us,us6000kcee,2023-05-16T22:32:41.040Z,"112 km ESE of Kegen, Kazakhstan",earthquake,4.39,1.684,0.05,122,reviewed,us,us
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T17:18:07.350Z,38.8183327,-122.8238297,2.33,0.75,md,14,90,0.009968,0.02,nc,nc73888831,2023-05-16T17:35:15.036Z,"7km NW of The Geysers, CA",earthquake,0.31,0.88,0.13,15,automatic,nc,nc
 2023-05-16T17:15:11.970Z,19.4183333333333,-155.238,0.93,3.12,md,39,75,,0.1,hv,hv73405002,2023-05-16T19:09:54.622Z,"2 km S of Volcano, Hawaii",earthquake,0.15,0.29,0.172713976070057,10,reviewed,hv,hv
 2023-05-16T17:11:27.183Z,53.0285,-173.7693,242.84,4.3,mb,116,144,1.682,0.89,us,us6000kcbw,2023-05-16T18:00:16.617Z,"97 km NNE of Atka, Alaska",earthquake,8.84,8.729,0.043,155,reviewed,us,us
-2023-05-16T17:10:50.510Z,49.36816666666667,-120.51016666666666,-0.37,1.8,ml,8,181,0.5805,0.21,uw,uw61916177,2023-05-16T20:13:04.140Z,"9 km S of Princeton, Canada",explosion,1.07,31.61,0.05513288354393708,5,reviewed,uw,uw
+2023-05-16T17:10:50.510Z,49.36816666666667,-120.51016666666666,-0.37,1.8,ml,8,181,0.5805,0.21,uw,uw61916177,2023-05-16T20:13:04.140Z,"British Columbia, Canada",explosion,1.07,31.61,0.05513288354393708,5,reviewed,uw,uw
 2023-05-16T17:10:45.250Z,18.0318333333333,-66.7528333333333,13.65,2.17,md,4,169,0.1329,0.12,pr,pr71409613,2023-05-16T17:28:06.030Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,5.26,1.71,0.127900584664184,3,reviewed,pr,pr
 2023-05-16T17:04:07.782Z,62.331,-149.6082,44.1,3.8,ml,,,,0.61,ak,ak0236978fur,2023-05-16T22:02:56.776Z,"22 km NE of Susitna North, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-05-16T16:46:47.945Z,61.3868,-150.1307,65.6,1.2,ml,,,,0.15,ak,ak023696w3h6,2023-05-16T16:48:53.048Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -174,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T02:48:22.420Z,38.8196678,-122.8246689,2.43,0.49,md,8,124,0.008796,0.02,nc,nc73888626,2023-05-16T04:15:11.180Z,"8km NW of The Geysers, CA",earthquake,0.53,1.17,0.22,10,automatic,nc,nc
 2023-05-16T02:39:02.190Z,19.2403335571289,-155.373992919922,31.0300006866455,2.24000001,md,41,147,,0.119999997,hv,hv73404212,2023-05-16T02:59:34.277Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,0.600000024,0.389999986,17,automatic,hv,hv
 2023-05-16T02:36:23.752Z,70.393,-15.6295,10,4.4,mb,22,71,2.13,1.12,us,us6000kc7a,2023-05-16T03:00:14.040Z,"262 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.15,1.926,0.169,10,reviewed,us,us
-2023-05-16T02:28:50.534Z,51.1611,-178.1687,20,3.1,ml,,,,0.86,ak,ak02368yg68y,2023-05-16T10:29:10.157Z,"132 km SW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-05-16T02:28:51.437Z,51.1801,-178.1744,35,3.4,ml,30,213,0.548,0.61,us,us6000kc93,2023-05-16T22:40:22.040Z,"131 km SW of Adak, Alaska",earthquake,3.75,2.013,0.085,18,reviewed,us,us
 2023-05-16T02:16:33.030Z,19.2401676177979,-155.402496337891,30.75,2.00999999,md,38,135,,0.0900000036,hv,hv73404182,2023-05-16T02:19:46.930Z,"Hawaii region, Hawaii",earthquake,0.54,0.870000005,0.529999971,14,automatic,hv,hv
 2023-05-16T02:09:22.490Z,38.8118324,-122.8273315,1.74,1.33,md,26,48,0.003293,0.02,nc,nc73888616,2023-05-16T03:48:11.019Z,"7km WNW of The Geysers, CA",earthquake,0.18,0.32,0.13,28,automatic,nc,nc
 2023-05-16T02:08:48.600Z,37.4613333,-121.786,2.32,1.27,md,22,44,0.01584,0.09,nc,nc73888621,2023-05-16T07:29:19.356Z,"11km NNE of Alum Rock, CA",earthquake,0.26,0.4,0.279,19,reviewed,nc,nc
