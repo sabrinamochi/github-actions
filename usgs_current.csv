@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-17T11:46:29.070Z,38.7630005,-122.7089996,1.52,1.63,md,15,90,0.00919,0.05,nc,nc73889091,2023-05-17T11:48:03.187Z,"2km SW of Anderson Springs, CA",earthquake,0.27,0.38,0.13,19,automatic,nc,nc
+2023-05-17T12:11:25.154Z,60.1242,-152.002,59.7,1.2,ml,,,,0.47,ak,ak0236aru5qb,2023-05-17T12:12:53.370Z,"20 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-05-17T12:09:29.820Z,19.2353324890137,-155.397171020508,32.5400009155273,2.44000006,md,45,140,,0.150000006,hv,hv73406217,2023-05-17T12:12:37.610Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.589999974,0.970000029,32,automatic,hv,hv
+2023-05-17T12:07:06.170Z,33.3425,-116.9121667,7.38,1.64,ml,57,28,0.0429,0.24,ci,ci40226575,2023-05-17T12:10:49.871Z,"5km WSW of Palomar Observatory, CA",earthquake,0.22,1.51,0.102,26,automatic,ci,ci
+2023-05-17T12:04:26.313Z,61.1228,-152.3102,29.3,0.4,ml,,,,0.41,ak,ak0236arsnt3,2023-05-17T12:06:06.084Z,"63 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-17T11:46:29.070Z,38.7630005,-122.7089996,1.52,1.63,md,15,90,0.00919,0.05,nc,nc73889091,2023-05-17T12:12:15.061Z,"2km SW of Anderson Springs, CA",earthquake,0.27,0.38,0.13,19,automatic,nc,nc
 2023-05-17T11:46:11.740Z,38.7630005,-122.7088318,1.51,1.14,md,8,196,0.02973,0.02,nc,nc73889086,2023-05-17T12:02:13.999Z,"2km SW of Anderson Springs, CA",earthquake,0.46,0.94,0.13,9,automatic,nc,nc
 2023-05-17T11:39:09.037Z,64.951,-149.0376,17.8,1,ml,,,,0.66,ak,ak0236areoxj,2023-05-17T11:41:33.049Z,"26 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-17T11:13:16.490Z,19.2416667938232,-155.389663696289,31.6000003814697,1.83000004,md,28,164,,0.119999997,hv,hv73406162,2023-05-17T11:16:32.080Z,"Island of Hawaii, Hawaii",earthquake,0.63,1.11000001,0.75999999,6,automatic,hv,hv
@@ -22,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T08:20:35.700Z,38.7808342,-122.7268295,1.61,1.06,md,13,79,0.008098,0.02,nc,nc73889036,2023-05-17T10:09:17.323Z,"3km E of The Geysers, CA",earthquake,0.27,0.53,0.27,13,automatic,nc,nc
 2023-05-17T08:19:00.280Z,38.8241653,-122.7988358,2.71,1.08,md,25,31,0.008812,0.03,nc,nc73889031,2023-05-17T09:48:10.205Z,"6km NW of The Geysers, CA",earthquake,0.22,0.44,0.17,27,automatic,nc,nc
 2023-05-17T08:16:49.558Z,60.3497,-151.2888,54.1,1.4,ml,,,,0.32,ak,ak0236aphjrv,2023-05-17T08:19:11.788Z,"1 km NNW of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-17T07:59:32.455Z,36.70863342,-97.66845703,5,2.98,ml,88,55.08900642,0.2094768882,0.7378490589,ok,ok2023jpcg,2023-05-17T09:38:53.605Z,"10 km W of Lamont, Oklahoma",earthquake,1.451333202,,0.27,54,automatic,ok,ok
+2023-05-17T07:59:31.739Z,36.70133333,-97.6705,4,2.75,ml,95,51,0,0.13,ok,ok2023jpcg,2023-05-17T12:11:46.624Z,"10 km W of Lamont, Oklahoma",earthquake,,0.4,0.27,48,reviewed,ok,ok
 2023-05-17T07:56:59.210Z,19.2390003204346,-155.384170532227,31.8899993896484,2.47000003,md,26,197,,0.0900000036,hv,hv73405972,2023-05-17T08:00:05.830Z,"Island of Hawaii, Hawaii",earthquake,0.8,0.600000024,1.47000003,3,automatic,hv,hv
 2023-05-17T07:48:34.163Z,62.8575,-150.7522,83.3,1.9,ml,,,,0.52,ak,ak0236ap2xw8,2023-05-17T07:50:39.370Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-17T07:47:34.110Z,38.8426666,-122.8219986,1.22,0.66,md,8,107,0.01129,0.02,nc,nc73889026,2023-05-17T08:04:15.577Z,"9km WNW of Cobb, CA",earthquake,0.6,1.17,0.44,9,automatic,nc,nc
@@ -197,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T12:40:47.730Z,33.3798333,-116.8876667,16.44,0.8,ml,23,51,0.0335,0.19,ci,ci40226015,2023-05-16T13:14:37.074Z,"4km NW of Palomar Observatory, CA",earthquake,0.35,0.71,0.126,18,reviewed,ci,ci
 2023-05-16T12:29:58.370Z,36.9348335,-121.6673355,7.26,1.05,md,7,80,0.005883,0.04,nc,nc73888761,2023-05-16T12:46:13.305Z,"6km NNW of Aromas, CA",earthquake,0.41,1.14,0.19,7,automatic,nc,nc
 2023-05-16T12:17:26.489Z,36.70433333,-98.92116667,13.8,1.18,ml,40,83,0.07018622707,0.15,ok,ok2023jnpg,2023-05-16T12:38:09.771Z,"11 km W of Avard, Oklahoma",earthquake,,0.5,0.21,13,reviewed,ok,ok
-2023-05-16T12:12:05.816Z,64.6415,-149.1523,9.3,1.5,ml,,,,0.73,ak,ak023694azfg,2023-05-16T12:14:13.754Z,"4 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-16T12:03:06.230Z,19.2430000305176,-155.403503417969,30.9899997711182,1.80999994,md,39,133,,0.159999996,hv,hv73404747,2023-05-16T12:06:21.640Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.920000017,1.63,12,automatic,hv,hv
