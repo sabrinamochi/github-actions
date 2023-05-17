@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-17T12:44:45.822Z,62.5222,-150.6845,60.1,1.9,ml,,,,0.67,ak,ak0236as19xd,2023-05-17T12:46:24.952Z,"5 km NE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-17T12:17:16.310Z,19.2353324890137,-155.381164550781,32.5299987792969,1.84000003,md,36,164,,0.109999999,hv,hv73406227,2023-05-17T12:20:26.630Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.720000029,0.610000014,5,automatic,hv,hv
 2023-05-17T12:11:25.154Z,60.1242,-152.002,59.7,1.2,ml,,,,0.47,ak,ak0236aru5qb,2023-05-17T12:12:53.370Z,"20 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-17T12:09:29.820Z,19.2353324890137,-155.397171020508,32.5400009155273,2.2,ml,45,140,,0.150000006,hv,hv73406217,2023-05-17T12:24:45.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.589999974,2.45,13,automatic,hv,hv
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T07:47:34.110Z,38.8426666,-122.8219986,1.22,0.66,md,8,107,0.01129,0.02,nc,nc73889026,2023-05-17T08:04:15.577Z,"9km WNW of Cobb, CA",earthquake,0.6,1.17,0.44,9,automatic,nc,nc
 2023-05-17T07:42:41.360Z,34.0305,-116.7736667,14.61,1.02,ml,30,59,0.02871,0.19,ci,ci40226503,2023-05-17T07:51:03.741Z,"13km N of Cabazon, CA",earthquake,0.29,0.58,0.189,28,automatic,ci,ci
 2023-05-17T07:40:22.206Z,59.4293,-153.3826,110,1.8,ml,,,,0.3,ak,ak0236ap178s,2023-05-17T07:42:49.349Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-17T07:39:34.383Z,36.70919418,-97.66365814,0.9716957808,2.13,ml,45,55.63112259,0.2119395882,0.746764959,ok,ok2023jpbo,2023-05-17T07:56:50.759Z,"9 km WNW of Lamont, Oklahoma",earthquake,2.039872402,1.600394104,0.23,31,automatic,ok,ok
+2023-05-17T07:39:33.969Z,36.70383333,-97.66916667,7.1,1.83,ml,95,51,0,0.16,ok,ok2023jpbo,2023-05-17T12:44:18.457Z,"10 km W of Lamont, Oklahoma",earthquake,,0.4,0.27,49,reviewed,ok,ok
 2023-05-17T07:36:32.560Z,61.0923,-152.2366,1.1,0.6,ml,,,,0.25,ak,ak0236ap0d6g,2023-05-17T07:38:42.059Z,"Southern Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-05-17T07:27:52.860Z,34.1591667,-116.149,3.34,1.09,ml,22,55,0.0978,0.21,ci,ci40226495,2023-05-17T07:31:33.862Z,"7km WNW of Twentynine Palms, CA",earthquake,0.31,1.23,0.161,20,automatic,ci,ci
 2023-05-17T07:27:19.811Z,62.6152,-152.1467,0,1.7,ml,,,,0.59,ak,ak0236aoyer1,2023-05-17T07:29:35.349Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -198,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T13:24:20.280Z,38.8116684,-122.8301697,1.8,0.83,md,17,79,0.002902,0.03,nc,nc73888776,2023-05-16T13:41:15.629Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.53,0.24,17,automatic,nc,nc
 2023-05-16T13:16:21.980Z,19.2398338317871,-155.399337768555,31.1499996185303,1.99000001,md,46,137,,0.129999995,hv,hv73404787,2023-05-16T13:19:27.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.69,0.850000024,0.790000021,15,automatic,hv,hv
 2023-05-16T13:10:53.840Z,37.474,-121.7965,9.51,0.81,md,22,83,0.02381,0.06,nc,nc73888771,2023-05-16T18:36:13.430Z,"11km ENE of Milpitas, CA",earthquake,0.29,0.28,0.206,19,reviewed,nc,nc
-2023-05-16T12:46:07.020Z,37.4698334,-121.7958298,9.16,2.29,md,62,34,0.01978,0.09,nc,nc73888766,2023-05-16T14:50:13.051Z,"11km ENE of Milpitas, CA",earthquake,0.14,0.53,0.19,62,automatic,nc,nc
-2023-05-16T12:43:02.270Z,19.1391658782959,-155.360336303711,27.7399997711182,1.97000003,md,16,226,,0.0799999982,hv,hv73404772,2023-05-16T12:46:11.920Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.95,1.46000004,0.980000019,3,automatic,hv,hv
-2023-05-16T12:40:47.730Z,33.3798333,-116.8876667,16.44,0.8,ml,23,51,0.0335,0.19,ci,ci40226015,2023-05-16T13:14:37.074Z,"4km NW of Palomar Observatory, CA",earthquake,0.35,0.71,0.126,18,reviewed,ci,ci
