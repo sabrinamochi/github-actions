@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-18T15:26:28.270Z,19.4136657714844,-155.257659912109,0.589999973773956,2.44000006,md,26,56,,0.140000001,hv,hv73407777,2023-05-18T15:29:45.320Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.239999995,1.04999995,20,automatic,hv,hv
+2023-05-18T15:34:51.310Z,38.7926674,-122.746666,1.46,1.02,md,7,91,0.01221,0.02,nc,nc73889621,2023-05-18T15:36:25.990Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.96,0.13,8,automatic,nc,nc
+2023-05-18T15:26:28.270Z,19.4136657714844,-155.257659912109,0.589999973773956,2.22,ml,26,56,,0.140000001,hv,hv73407777,2023-05-18T15:31:59.620Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.239999995,0.37,10,automatic,hv,hv
 2023-05-18T15:24:31.671Z,58.8886,-153.0663,244.6,1.9,ml,,,,0.95,ak,ak0236ch8lun,2023-05-18T15:27:05.862Z,"Kodiak Island region, Alaska",earthquake,,17.2,,,automatic,ak,ak
 2023-05-18T15:10:00.970Z,36.4645004,-121.0319977,7.61,1.54,md,18,168,0.02287,0.09,nc,nc73889616,2023-05-18T15:29:14.593Z,"12km SE of Pinnacles, CA",earthquake,0.53,0.66,0.17,12,automatic,nc,nc
 2023-05-18T15:09:16.372Z,64.7669,-149.1149,0,1.4,ml,,,,0.56,ak,ak0236ch5cxh,2023-05-18T15:12:43.513Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T07:55:07.281Z,58.1949,-155.2664,0,0.9,ml,,,,0.67,ak,ak0236ccnqbs,2023-05-18T07:56:59.509Z,"84 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-18T07:52:37.010Z,37.069,-121.505,6.94,0.71,md,25,50,0.04642,0.11,nc,nc73889501,2023-05-18T09:58:13.280Z,"9km NE of Gilroy, CA",earthquake,0.22,0.46,0.074,15,reviewed,nc,nc
 2023-05-18T07:23:56.340Z,33.1926667,-116.7206667,11.33,0.97,ml,40,26,0.05372,0.2,ci,ci40227223,2023-05-18T12:51:14.029Z,"7km SE of Lake Henshaw, CA",earthquake,0.26,0.68,0.113,24,reviewed,ci,ci
-2023-05-18T07:23:31.930Z,34.0885,-117.3006667,10.19,1.01,ml,20,91,0.01413,0.22,ci,ci40227215,2023-05-18T07:27:15.279Z,"2km NE of Colton, CA",earthquake,0.36,0.93,0.19,27,automatic,ci,ci
+2023-05-18T07:23:31.870Z,34.0905,-117.3058333,9.92,0.97,ml,45,52,0.009452,0.12,ci,ci40227215,2023-05-18T15:33:45.771Z,"2km NNE of Colton, CA",earthquake,0.14,0.24,0.194,16,reviewed,ci,ci
 2023-05-18T07:22:43.120Z,38.8146667,-122.8219986,2.29,1.09,md,26,50,0.008061,0.02,nc,nc73889496,2023-05-18T09:00:12.943Z,"7km NW of The Geysers, CA",earthquake,0.2,0.35,0.14,26,automatic,nc,nc
 2023-05-18T07:15:23.990Z,34.0921667,-117.3086667,9.58,1.67,ml,90,24,0.006841,0.17,ci,ci40227207,2023-05-18T15:23:23.780Z,"2km NNE of Colton, CA",earthquake,0.12,0.26,0.167,71,reviewed,ci,ci
 2023-05-18T07:13:14.530Z,33.6813333,-116.6931667,16.51,0.45,ml,20,76,0.03452,0.18,ci,ci40227199,2023-05-18T12:51:50.029Z,"7km SSE of Idyllwild, CA",earthquake,0.44,0.56,0.154,11,reviewed,ci,ci
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T16:00:31.927Z,58.9067,-152.1493,58.4,1.6,ml,,,,0.45,ak,ak0236au5jso,2023-05-17T16:02:27.078Z,"51 km SSW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-17T15:44:42.920Z,38.8181648,-122.8218307,2.25,1.08,md,22,59,0.01056,0.02,nc,nc73889191,2023-05-17T16:05:19.528Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.11,23,automatic,nc,nc
 2023-05-17T15:42:25.900Z,46.8455,-121.80366666666667,-0.49,0.92,ml,3,312,0.009095,0.01,uw,uw61916402,2023-05-17T18:47:35.910Z,"19 km ENE of Ashford, Washington",earthquake,1.63,1.29,0.30391944068691523,3,reviewed,uw,uw
-2023-05-17T15:33:14.141Z,55.313,163.0385,41.75,4.2,mb,38,147,3.452,0.82,us,us6000kcip,2023-05-18T05:18:38.040Z,"107 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.82,9.463,0.09,34,reviewed,us,us
