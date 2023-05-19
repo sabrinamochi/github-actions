@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-19T05:44:54.330Z,38.8378334,-122.8040009,1.18,0.88,md,16,60,0.01068,0.02,nc,nc73889791,2023-05-19T05:46:27.980Z,"7km WNW of Cobb, CA",earthquake,0.2,0.7,0.15,17,automatic,nc,nc
+2023-05-19T05:52:50.210Z,38.8003349,-122.7593307,2.27,0.43,md,12,91,0.0004155,0.02,nc,nc73889796,2023-05-19T05:54:28.257Z,"3km N of The Geysers, CA",earthquake,0.33,0.83,0.21,13,automatic,nc,nc
+2023-05-19T05:49:10.326Z,58.1328,-155.376,18.8,0.5,ml,,,,1.25,ak,ak0236dyyxr1,2023-05-19T05:51:17.986Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-19T05:44:54.330Z,38.8378334,-122.8040009,1.18,0.88,md,16,60,0.01068,0.02,nc,nc73889791,2023-05-19T05:57:10.935Z,"7km WNW of Cobb, CA",earthquake,0.2,0.7,0.15,17,automatic,nc,nc
 2023-05-19T05:41:16.050Z,34.1231667,-117.4603333,6.26,1.29,ml,31,53,0.07444,0.21,ci,ci40227935,2023-05-19T05:44:58.033Z,"3km N of Fontana, CA",earthquake,0.3,0.96,0.159,27,automatic,ci,ci
+2023-05-19T05:36:49.120Z,-23.0754,170.6861,15.163,5.2,mb,63,66,3.024,0.89,us,us6000kd28,2023-05-19T05:54:33.040Z,"southeast of the Loyalty Islands",earthquake,8.61,4.819,0.081,50,reviewed,us,us
 2023-05-19T05:25:52.228Z,-23.279,171.2935,44.35,5.2,mb,65,86,3.607,0.54,us,us6000kd29,2023-05-19T05:49:32.040Z,"southeast of the Loyalty Islands",earthquake,8.59,6.049,0.062,86,reviewed,us,us
 2023-05-19T05:23:12.230Z,36.423999786377,-89.5256652832031,7.40999984741211,2.26999998,md,27,40,0.08651,0.140000001,nm,nm60526096,2023-05-19T05:29:15.090Z,"southeastern Missouri",earthquake,0.3,1.45000005,0.920000017,26,reviewed,nm,nm
 2023-05-19T05:21:17.940Z,38.7878342,-122.7666702,1.95,1.32,md,19,77,0.01388,0.03,nc,nc73889786,2023-05-19T05:37:12.816Z,"2km NW of The Geysers, CA",earthquake,0.27,0.44,0.17,21,automatic,nc,nc
@@ -8,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T04:55:12.266Z,62.5941,-149.4787,36.3,2,ml,,,,1.03,ak,ak0236dyese2,2023-05-19T04:57:27.893Z,"35 km ENE of Chase, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-05-19T04:54:51.020Z,34.0165,-117.1021667,14.58,1.23,ml,33,40,0.02075,0.22,ci,ci40227919,2023-05-19T05:28:12.543Z,"6km NW of Calimesa, CA",earthquake,0.3,0.54,0.176,27,automatic,ci,ci
 2023-05-19T04:54:04.210Z,-23.2418,170.4892,28.049,5.5,mb,44,98,2.874,0.88,us,us6000kd1z,2023-05-19T05:15:19.616Z,"southeast of the Loyalty Islands",earthquake,10.45,5.437,0.06,95,reviewed,us,us
+2023-05-19T04:51:43.126Z,-22.1278,-67.5483,209.454,4.5,mb,22,90,1.006,0.68,us,us6000kd1w,2023-05-19T05:54:58.040Z,"109 km NE of San Pedro de Atacama, Chile",earthquake,9.43,8.218,0.191,10,reviewed,us,us
 2023-05-19T04:50:14.569Z,-23.1193,170.7577,32.855,5.1,mb,30,126,3.095,0.81,us,us6000kd1x,2023-05-19T05:15:36.040Z,"southeast of the Loyalty Islands",earthquake,11.09,4.593,0.06,93,reviewed,us,us
 2023-05-19T04:44:25.600Z,19.2473335266113,-155.406997680664,30.7299995422363,2.25,ml,45,129,,0.140000001,hv,hv73408817,2023-05-19T04:55:30.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.680000007,3.32,7,automatic,hv,hv
 2023-05-19T04:33:07.202Z,-23.1922,170.6447,28.578,5.1,mb,19,111,3.005,0.82,us,us6000kd23,2023-05-19T05:41:34.040Z,"southeast of the Loyalty Islands",earthquake,10.99,6.603,0.147,16,reviewed,us,us
@@ -258,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T06:14:42.450Z,37.802,-122.1968333,9.46,1.37,md,53,48,0.02621,0.07,nc,nc73889481,2023-05-18T11:48:10.965Z,"3km ENE of Oakland, CA",earthquake,0.13,0.22,0.264,33,reviewed,nc,nc
 2023-05-18T06:13:09.773Z,60.2608,-151.1504,38.6,2.9,ml,,,,0.54,ak,ak0236cbtarr,2023-05-18T17:11:17.415Z,"10 km SE of Kasilof, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-05-18T06:02:30.961Z,65.8037,-147.8571,9.8,2,ml,,,,0.57,ak,ak0236cbqzlk,2023-05-18T06:04:45.384Z,"northern Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-05-18T05:54:21.560Z,17.9415,-66.957,15.06,2.71,md,10,216,0.08118,0.21,pr,pr71409813,2023-05-18T06:08:07.060Z,"Puerto Rico region",earthquake,0.74,0.76,0.0487459822807548,5,reviewed,pr,pr
