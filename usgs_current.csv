@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-20T03:01:44.490Z,19.4238338470459,-155.276992797852,-0.0399999991059303,2,ml,15,101,,0.0799999982,hv,hv73410647,2023-05-20T03:07:16.150Z,"4 km WSW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.34,6,automatic,hv,hv
-2023-05-20T02:56:57.630Z,38.8339996,-122.8358307,0.99,1.07,md,19,54,0.004591,0.02,nc,nc73890156,2023-05-20T03:10:10.834Z,"9km NW of The Geysers, CA",earthquake,0.18,0.37,0.3,21,automatic,nc,nc
+2023-05-20T02:56:57.630Z,38.8339996,-122.8358307,0.99,1.07,md,19,54,0.004591,0.02,nc,nc73890156,2023-05-20T03:13:19.852Z,"9km NW of The Geysers, CA",earthquake,0.18,0.37,0.3,21,automatic,nc,nc
+2023-05-20T02:56:26.803Z,-22.7357,170.7954,33.618,5.3,mb,38,109,3.096,0.84,us,us6000kddi,2023-05-20T03:13:12.040Z,"southeast of the Loyalty Islands",earthquake,11.33,6.52,0.099,34,reviewed,us,us
 2023-05-20T02:45:15.750Z,36.7418327,-121.4696655,4.69,1.33,md,8,151,0.02118,0.2,nc,nc73890151,2023-05-20T03:01:09.806Z,"12km SW of Ridgemark, CA",earthquake,1.12,1.16,0.22,6,automatic,nc,nc
 2023-05-20T02:36:12.958Z,59.7985,-152.5839,70.9,2.7,ml,,,,0.53,ak,ak0236fkn74f,2023-05-20T02:39:17.619Z,"42 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-20T02:30:53.369Z,55.7491,-158.9008,30.5,2.7,ml,,,,0.27,ak,ak0236fklzy0,2023-05-20T02:50:39.040Z,"23 km SE of Perryville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T21:28:59.875Z,60.7447,-151.7198,79.6,1.4,ml,,,,0.18,ak,ak0236e8dh0j,2023-05-19T21:30:00.493Z,"24 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-19T21:17:40.534Z,63.715,-146.9879,6.1,1.1,ml,,,,0.95,ak,ak0236e8b2n9,2023-05-19T21:20:20.890Z,"71 km WSW of Delta Junction, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-19T21:07:49.060Z,19.3993339538574,-155.411666870117,5.1399998664856,2.88,ml,45,44,,0.170000002,hv,hv73410132,2023-05-19T22:12:48.708Z,"19 km WSW of Volcano, Hawaii",earthquake,0.27,0.709999979,3.2,29,automatic,hv,hv
-2023-05-19T20:48:46.440Z,38.8348333,-122.7906667,1.92,1.29,md,38,51,0.003579,0.03,nc,nc73890041,2023-05-20T03:11:59.789Z,"6km WNW of Cobb, CA",earthquake,0.14,0.22,0.173,30,reviewed,nc,nc
+2023-05-19T20:48:46.440Z,38.8348333,-122.7906667,1.92,1.29,md,38,51,0.003579,0.03,nc,nc73890041,2023-05-20T03:13:02.279Z,"6km WNW of Cobb, CA",earthquake,0.14,0.22,0.173,30,reviewed,nc,nc
 2023-05-19T20:48:17.936Z,-23.0988,170.5235,10,4.9,mb,50,155,2.879,0.87,us,us6000kdab,2023-05-19T21:54:54.040Z,"southeast of the Loyalty Islands",earthquake,9.59,1.83,0.098,37,reviewed,us,us
 2023-05-19T20:47:51.084Z,65.6744,-154.8294,1.2,2,ml,,,,0.47,ak,ak0236e7w3c4,2023-05-19T20:50:24.635Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-19T20:42:53.560Z,19.7940006256104,-155.807159423828,13.0500001907349,2.26,ml,39,184,,0.360000014,hv,hv73410107,2023-05-19T20:48:25.420Z,"16 km S of Waikoloa, Hawaii",earthquake,1.14,1.48000002,4.01,5,automatic,hv,hv
@@ -303,4 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T03:58:12.920Z,35.9966667,-120.5561667,3.67,1.09,md,19,74,0.02033,0.06,nc,nc73889771,2023-05-19T05:46:09.867Z,"16km NW of Parkfield, CA",earthquake,0.22,0.29,0.145,11,reviewed,nc,nc
 2023-05-19T03:41:47.940Z,44.3666667,-110.3046667,7.26,1.17,md,6,211,0.02884,0.05,uu,uu60540321,2023-05-19T15:48:02.720Z,"71 km ESE of West Yellowstone, Montana",earthquake,0.75,0.61,0.213,4,reviewed,uu,uu
 2023-05-19T03:27:57.069Z,-23.2961,170.5547,33.757,5.4,mb,25,146,2.944,1.03,us,us6000kd1k,2023-05-19T05:32:13.918Z,"southeast of the Loyalty Islands",earthquake,13.31,5.514,0.238,6,reviewed,us,us
-2023-05-19T03:14:00.060Z,19.3861675262451,-155.279998779297,1.44000005722046,2.75999999,md,9,145,,0.0900000036,hv,hv73408737,2023-05-19T03:19:31.760Z,"7 km SW of Volcano, Hawaii",earthquake,0.46,0.379999995,1.76999998,5,automatic,hv,hv
