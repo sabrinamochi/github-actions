@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-20T17:56:21.380Z,19.433666229248,-155.3056640625,2.71000003814697,1.73,ml,24,80,,0.360000014,hv,hv73411937,2023-05-20T18:02:02.310Z,"7 km W of Volcano, Hawaii",earthquake,0.58,0.810000002,0.26,4,automatic,hv,hv
-2023-05-20T17:56:01.930Z,38.802166,-122.810997,1.17,0.88,md,13,74,0.01356,0.03,nc,nc73890431,2023-05-20T18:09:11.556Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.61,0.32,13,automatic,nc,nc
+2023-05-20T17:56:01.930Z,38.802166,-122.810997,1.17,0.88,md,13,74,0.01356,0.03,nc,nc73890431,2023-05-20T18:19:15.627Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.61,0.32,13,automatic,nc,nc
 2023-05-20T17:42:53.690Z,38.8376656,-122.7941666,1.87,0.75,md,11,77,0.003076,0.01,nc,nc73890426,2023-05-20T18:10:14.561Z,"6km WNW of Cobb, CA",earthquake,0.35,0.59,0.15,15,automatic,nc,nc
 2023-05-20T17:36:40.750Z,38.7944984,-122.7493362,2.25,0.27,md,7,161,0.01495,0.02,nc,nc73890421,2023-05-20T17:59:18.486Z,"2km NNE of The Geysers, CA",earthquake,0.84,2.47,0.12,8,automatic,nc,nc
 2023-05-20T17:32:37.450Z,38.8186684,-122.8231659,2.08,0.68,md,8,91,0.01028,0.01,nc,nc73890416,2023-05-20T17:49:14.434Z,"7km NW of The Geysers, CA",earthquake,0.48,1.02,0.24,10,automatic,nc,nc
@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T14:30:45.550Z,38.8223343,-122.7994995,2.89,0.83,md,8,99,0.008328,0.02,nc,nc73890361,2023-05-20T16:06:10.795Z,"6km NW of The Geysers, CA",earthquake,0.53,1.05,0.28,9,automatic,nc,nc
 2023-05-20T14:27:36.730Z,38.8030014,-122.8116684,0.96,0.74,md,11,69,0.01371,0.02,nc,nc73890351,2023-05-20T15:39:10.632Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.63,0.24,12,automatic,nc,nc
 2023-05-20T14:11:22.652Z,34.9139,140.1024,83.664,4.6,mb,32,136,1.597,0.63,us,us6000kdgi,2023-05-20T17:14:03.040Z,"15 km SSE of Wada, Japan",earthquake,7.98,8.824,0.109,25,reviewed,us,us
+2023-05-20T13:50:20.878Z,-23.1579,170.6373,10,4.7,mb,15,225,2.992,0.48,us,us6000kdgf,2023-05-20T18:16:57.040Z,"southeast of the Loyalty Islands",earthquake,7.78,1.976,0.174,10,reviewed,us,us
 2023-05-20T13:30:05.400Z,38.5584,-118.4523,0,1,ml,8,158.59,0.31,0.1845,nn,nn00859794,2023-05-20T15:37:22.230Z,"15 km ENE of Hawthorne, Nevada",earthquake,,0,0.28,3,reviewed,nn,nn
 2023-05-20T13:29:27.068Z,-23.0514,170.7303,38.459,5.2,mb,40,128,3.061,0.6,us,us6000kdgb,2023-05-20T13:54:00.040Z,"southeast of the Loyalty Islands",earthquake,7.79,6.178,0.076,57,reviewed,us,us
 2023-05-20T13:27:17.169Z,-23.0901,170.7324,29.59,5.1,mb,29,124,3.068,0.57,us,us6000kdg5,2023-05-20T13:45:35.040Z,"southeast of the Loyalty Islands",earthquake,10.25,6.158,0.054,111,reviewed,us,us
@@ -220,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T18:36:01.900Z,35.9535,-117.6903333,4.32,1.14,ml,18,86,0.1004,0.1,ci,ci40228519,2023-05-19T22:44:16.948Z,"20km E of Little Lake, CA",earthquake,0.18,0.44,0.086,8,reviewed,ci,ci
 2023-05-19T18:33:43.800Z,36.2733333,-120.2878333,8.81,0.82,md,7,229,0.08924,0.04,nc,nc73890021,2023-05-19T19:27:10.784Z,"16km NNE of Coalinga, CA",earthquake,2.11,2.11,0.075,4,reviewed,nc,nc
 2023-05-19T18:23:15.060Z,39.2836667,-123.4283333,4.11,1.2,md,12,105,0.1258,0.08,nc,nc73890016,2023-05-19T22:25:09.898Z,"15km SSW of Willits, CA",earthquake,0.27,2.68,0.247,13,reviewed,nc,nc
-2023-05-19T18:15:58.431Z,1.646,127.3669,133.834,4.6,mb,93,68,0.868,0.66,us,us6000kd8x,2023-05-19T21:33:10.040Z,"Halmahera, Indonesia",earthquake,7.78,5.63,0.06,83,reviewed,us,us
-2023-05-19T18:14:45.920Z,33.6675,-116.7143333,14.11,0.26,ml,13,108,0.03383,0.11,ci,ci37524525,2023-05-19T22:56:24.228Z,"8km S of Idyllwild, CA",earthquake,0.43,0.66,0.076,5,reviewed,ci,ci
-2023-05-19T18:14:08.670Z,32.7633333,-115.8723333,11.54,0.98,ml,14,78,0.1229,0.16,ci,ci40228479,2023-05-19T22:39:27.923Z,"12km ENE of Ocotillo, CA",earthquake,0.37,0.88,0.09,8,reviewed,ci,ci
