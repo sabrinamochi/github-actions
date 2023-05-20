@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-20T21:44:08.130Z,38.7993317,-122.7791672,2.68,0.66,md,9,146,0.009193,0.01,nc,nc73890516,2023-05-20T21:45:44.931Z,"3km NW of The Geysers, CA",earthquake,0.63,1.04,0.15,8,automatic,nc,nc
+2023-05-20T21:44:08.130Z,38.7993317,-122.7791672,2.68,0.66,md,9,146,0.009193,0.01,nc,nc73890516,2023-05-20T21:54:10.136Z,"3km NW of The Geysers, CA",earthquake,0.63,1.04,0.15,8,automatic,nc,nc
 2023-05-20T21:24:58.360Z,33.3626667,-116.918,24.75,0.75,ml,9,221,0.0472,0.28,ci,ci40229847,2023-05-20T21:28:34.097Z,"5km W of Palomar Observatory, CA",earthquake,1.9,2.16,0.167,10,automatic,ci,ci
 2023-05-20T21:14:13.890Z,19.4448337554932,-155.309661865234,1.79999995231628,1.74,ml,9,120,,0.150000006,hv,hv73412202,2023-05-20T21:19:44.200Z,"7 km W of Volcano, Hawaii",earthquake,0.34,0.529999971,0.18,3,automatic,hv,hv
 2023-05-20T21:07:31.340Z,19.4126663208008,-155.279495239258,1.07000005245209,1.70000005,md,9,114,,0.129999995,hv,hv73412192,2023-05-20T21:10:29.100Z,"5 km SW of Volcano, Hawaii",earthquake,0.49,0.660000026,0.970000029,5,automatic,hv,hv
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T15:35:21.724Z,-34.0031,56.1322,10,4.8,mb,22,97,12.014,0.57,us,us6000kdgp,2023-05-20T17:09:35.040Z,"South Indian Ocean",earthquake,6.79,1.901,0.127,19,reviewed,us,us
 2023-05-20T15:25:56.900Z,19.390832901001,-155.136840820312,2.5,1.81,ml,8,148,,0.280000001,hv,hv73411762,2023-05-20T15:31:34.100Z,"8 km S of Fern Forest, Hawaii",earthquake,1.56,2.1099999,3.43,7,automatic,hv,hv
 2023-05-20T15:25:54.300Z,19.3255004882812,-155.123992919922,2.20000004768372,1.91,ml,41,120,,0.170000002,hv,hv73411757,2023-05-20T15:31:28.200Z,"15 km S of Fern Forest, Hawaii",earthquake,0.33,0.589999974,2.72,11,automatic,hv,hv
-2023-05-20T15:22:46.234Z,36.7173,-116.2931,10.9,-0.3,ml,8,99.55,0.026,0.0491,nn,nn00859798,2023-05-20T20:17:55.448Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.25,2,reviewed,nn,nn
+2023-05-20T15:22:46.234Z,36.7173,-116.2931,10.9,-0.3,ml,8,99.55,0.026,0.0491,nn,nn00859798,2023-05-20T20:17:55.448Z,"California-Nevada border region",earthquake,,1.4,0.25,2,reviewed,nn,nn
 2023-05-20T15:16:53.720Z,38.8030014,-122.8108368,1.17,0.77,md,14,63,0.01311,0.02,nc,nc73890371,2023-05-20T17:00:14.135Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.58,0.12,16,automatic,nc,nc
 2023-05-20T14:30:45.550Z,38.8223343,-122.7994995,2.89,0.83,md,8,99,0.008328,0.02,nc,nc73890361,2023-05-20T16:06:10.795Z,"6km NW of The Geysers, CA",earthquake,0.53,1.05,0.28,9,automatic,nc,nc
 2023-05-20T14:27:36.730Z,38.8030014,-122.8116684,0.96,0.74,md,11,69,0.01371,0.02,nc,nc73890351,2023-05-20T15:39:10.632Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.63,0.24,12,automatic,nc,nc
@@ -213,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T22:18:04.586Z,26.8652,140.3368,486.407,4.1,mb,54,126,6.246,0.55,us,us6000kday,2023-05-19T22:31:37.040Z,"Bonin Islands, Japan region",earthquake,12.4,8.875,0.065,64,reviewed,us,us
 2023-05-19T22:03:59.771Z,-23.1621,170.6568,10,5.1,mb,68,112,3.01,0.5,us,us6000kdav,2023-05-19T22:22:10.040Z,"southeast of the Loyalty Islands",earthquake,5.46,1.869,0.078,53,reviewed,us,us
 2023-05-19T22:03:10.487Z,40.092,-119.7107,16.2,0.5,ml,3,222.56,0.08,0.0105,nn,nn00859766,2023-05-20T01:04:36.155Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,3.5,0.25,2,reviewed,nn,nn
-2023-05-19T21:55:57.420Z,38.8144989,-122.7754974,0.39,1.08,md,17,75,0.004238,0.04,nc,nc73890061,2023-05-19T22:25:12.899Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.42,0.09,17,automatic,nc,nc
-2023-05-19T21:54:32.585Z,-24.3372,-67.0236,172.304,4.4,mwr,27,70,1.739,0.72,us,us6000kdau,2023-05-19T22:25:32.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,10.82,9.27,,,reviewed,us,guc
-2023-05-19T21:54:25.570Z,38.8143349,-122.774498,-0.38,1.81,md,31,47,0.01651,0.07,nc,nc73890056,2023-05-20T00:25:10.751Z,"4km NNW of The Geysers, CA",earthquake,0.17,0.44,0.16,31,automatic,nc,nc
-2023-05-19T21:53:12.650Z,33.9921667,-116.7948333,13.51,1.29,ml,49,35,0.0442,0.23,ci,ci40228775,2023-05-19T22:03:58.930Z,"8km N of Cabazon, CA",earthquake,0.25,0.6,0.183,28,automatic,ci,ci
