@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-22T17:26:49.783Z,59.4799,-152.7731,80.7,1.7,ml,,,,0.43,ak,ak0236j4lbv6,2023-05-22T17:28:49.102Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-22T17:24:44.731Z,58.6305,-153.7291,74.2,1.8,ml,,,,0.29,ak,ak0236j4kw1l,2023-05-22T17:26:32.030Z,"79 km NW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-05-22T17:24:12.870Z,33.9246667,-116.7866667,14.94,0.72,ml,24,54,0.09128,0.2,ci,ci40231471,2023-05-22T17:27:45.304Z,"1km N of Cabazon, CA",earthquake,0.43,0.79,0.132,17,automatic,ci,ci
 2023-05-22T17:19:05.285Z,34.50161362,-97.68687439,5,2.06,ml,11,93.02072144,0.1558174193,1.015264811,ok,ok2023jyyf,2023-05-22T17:21:14.051Z,"4 km NNW of Velma, Oklahoma",earthquake,,0,0.35,4,automatic,ok,ok
 2023-05-22T16:57:45.987Z,35.14661026,-97.87020111,3.595003605,1.56,ml,8,117.7813416,0.05581286177,0.3807300895,ok,ok2023jyxn,2023-05-22T16:59:37.533Z,"1 km SSE of Amber, Oklahoma",earthquake,4.269625732,3.308616533,0.25,4,automatic,ok,ok
 2023-05-22T16:46:23.318Z,56.766,-158.0385,11.4,2.3,ml,,,,0.55,ak,ak0236j444jf,2023-05-22T16:48:14.027Z,"57 km NNE of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T14:38:44.546Z,31.70241475,-104.548623,4.511962890999999,3,ml,21,82,0.02358033187,0.3,tx,tx2023jysx,2023-05-22T15:22:31.591Z,"western Texas",earthquake,3.02272508,1.064165601,0.2,15,reviewed,tx,tx
 2023-05-22T14:27:59.137Z,62.8236,-150.849,102.4,1.3,ml,,,,0.46,ak,ak0236j2t9hl,2023-05-22T14:30:08.059Z,"36 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-22T14:22:51.130Z,19.2106666564941,-155.388000488281,28.9300003051758,2.11,ml,41,158,,0.200000003,hv,hv73415647,2023-05-22T14:28:20.590Z,"9 km E of Pāhala, Hawaii",earthquake,0.74,0.949999988,4.04,5,automatic,hv,hv
-2023-05-22T14:20:30.164Z,31.65408656,-104.3217915,6.851391602,3.123927164,mlv,19,69,0.05158027421,0.2,tx,tx2023jysi,2023-05-22T14:36:57.665Z,"58 km S of Whites City, New Mexico",earthquake,1.121746642,1.047288041,0.2797620385,14,reviewed,tx,tx
+2023-05-22T14:20:30.164Z,31.65408656,-104.3217915,6.851391602,3.1,ml,19,69,0.05158027421,0.2,tx,tx2023jysi,2023-05-22T17:29:09.962Z,"58 km S of Whites City, New Mexico",earthquake,1.121746642,1.047288041,0.2,12,reviewed,tx,tx
 2023-05-22T14:20:21.570Z,36.0061684,-120.5725021,4.12,0.98,md,10,137,0.03367,0.04,nc,nc73891281,2023-05-22T14:53:19.595Z,"17km NW of Parkfield, CA",earthquake,0.48,0.7,0.38,4,automatic,nc,nc
 2023-05-22T14:19:47.869Z,60.3073,-151.3277,64.7,1.2,ml,,,,0.69,ak,ak0236j2riw2,2023-05-22T14:21:16.225Z,"4 km SW of Kasilof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-22T14:04:37.870Z,37.2937,-117.5794,0.8,1.2,ml,10,131.48,0.081,0.2036,nn,nn00860082,2023-05-22T14:06:59.446Z,"51 km S of Silver Peak, Nevada",earthquake,,22.4,0.89,5,automatic,nn,nn
@@ -57,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T11:06:43.620Z,34.004,-116.764,11.05,0.74,ml,31,68,0.04783,0.19,ci,ci40231167,2023-05-22T11:10:20.419Z,"10km NNE of Cabazon, CA",earthquake,0.37,0.59,0.118,23,automatic,ci,ci
 2023-05-22T11:05:16.879Z,59.9307,-153.3749,115.3,1.3,ml,,,,0.82,ak,ak0236j0w5nr,2023-05-22T11:07:46.440Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-22T10:51:07.710Z,35.6655,-117.4696667,9.44,1.37,ml,18,57,0.03742,0.18,ci,ci40231151,2023-05-22T10:54:48.178Z,"13km SSW of Searles Valley, CA",earthquake,0.35,0.89,0.119,14,automatic,ci,ci
-2023-05-22T10:49:18.480Z,40.2006667,-121.1003333,6.67,2.29,md,35,46,0.05829,0.18,nc,nc73891196,2023-05-22T17:19:41.631Z,"4km NNW of Canyondam, CA",earthquake,0.26,0.5,0.113,42,reviewed,nc,nc
+2023-05-22T10:49:18.480Z,40.2006667,-121.1003333,6.67,2.29,md,35,46,0.05829,0.18,nc,nc73891196,2023-05-22T17:29:18.558Z,"4km NNW of Canyondam, CA",earthquake,0.26,0.5,0.113,42,reviewed,nc,nc
 2023-05-22T10:48:51.920Z,64.8352,-147.3148,8.5,0.7,ml,,,,0.65,ak,ak0236j0k0js,2023-05-22T10:50:37.750Z,"9 km N of North Pole, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-22T10:46:26.424Z,34.3494,139.2013,9.214,4.9,mb,47,102,0.902,1.14,us,us6000kdup,2023-05-22T11:09:34.040Z,"43 km SSE of Shimoda, Japan",earthquake,4.38,4.521,0.046,146,reviewed,us,us
 2023-05-22T10:38:11.401Z,37.2927,-117.5909,5.7,1,ml,11,137.02,0.074,0.1718,nn,nn00860072,2023-05-22T14:11:21.707Z,"51 km S of Silver Peak, Nevada",earthquake,,3.3,1.15,6,reviewed,nn,nn
@@ -156,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T01:46:38.140Z,19.404167175293,-155.288162231445,0.949999988079071,2.04999995,md,14,68,,0.0900000036,hv,hv73414852,2023-05-22T01:49:31.050Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.230000004,0.889999986,14,automatic,hv,hv
 2023-05-22T01:28:14.550Z,48.79983333333333,-123.86983333333333,18.37,1.08,ml,8,128,0.1738,0.34,uw,uw61926996,2023-05-22T04:43:47.880Z,"12 km W of Duncan, Canada",earthquake,1.17,2.36,0.10795088212887172,5,reviewed,uw,uw
 2023-05-22T01:19:33.152Z,57.9297,-155.0738,83.9,1.1,ml,,,,0.24,ak,ak0236iv0uw3,2023-05-22T01:22:16.214Z,"54 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-05-22T01:01:30.619Z,37.3057,-117.5754,0,0.9,ml,11,232.77,0.092,0.1405,nn,nn00860056,2023-05-22T16:15:40.898Z,"50 km S of Silver Peak, Nevada",earthquake,,3.8,1.15,6,reviewed,nn,nn
+2023-05-22T01:01:30.619Z,37.3057,-117.5754,0,0.9,ml,11,232.77,0.092,0.1405,nn,nn00860056,2023-05-22T16:15:40.898Z,"California-Nevada border region",earthquake,,3.8,1.15,6,reviewed,nn,nn
 2023-05-22T00:49:57.862Z,61.7283,-151.7355,91.6,0.9,ml,,,,0.53,ak,ak0236iulwoa,2023-05-22T00:52:15.803Z,"34 km SSW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-22T00:49:00.424Z,37.2727,-117.5882,6.7,1,ml,14,124.2,0.061,0.1566,nn,nn00860054,2023-05-22T16:03:11.622Z,"53 km S of Silver Peak, Nevada",earthquake,,2.1,0.99,10,reviewed,nn,nn
 2023-05-22T00:46:44.580Z,46.890166666666666,-121.762,0.45,0.52,ml,4,275,0.02809,0.05,uw,uw61926966,2023-05-22T04:28:59.370Z,"25 km NE of Ashford, Washington",earthquake,0.62,0.96,0.09990090897900139,3,reviewed,uw,uw
