@@ -1,11 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T02:18:30.480Z,33.1921667,-116.0188333,9.17,1.29,ml,33,58,0.03917,0.24,ci,ci40231927,2023-05-23T02:21:59.675Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.86,0.121,27,automatic,ci,ci
+2023-05-23T02:16:19.720Z,38.7929993,-122.7806702,3.08,0.88,md,10,78,0.01882,0.02,nc,nc73891486,2023-05-23T02:17:52.885Z,"3km NW of The Geysers, CA",earthquake,0.34,0.92,0.23,13,automatic,nc,nc
 2023-05-23T02:01:58.808Z,62.4162,-143.0257,0,1.6,ml,,,,1.15,ak,ak0236kj1u2w,2023-05-23T02:04:44.584Z,"5 km N of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-23T02:01:27.130Z,37.1893,-117.301,1,0.6,ml,12,313.79,0.299,0.2554,nn,nn00860138,2023-05-23T02:03:52.217Z,"57 km WNW of Beatty, Nevada",earthquake,,22.7,1.01,8,automatic,nn,nn
 2023-05-23T01:47:18.583Z,37.3327,-117.6348,0,1.5,ml,11,271.23,0.1,0.3757,nn,nn00860135,2023-05-23T01:49:42.497Z,"46 km S of Silver Peak, Nevada",earthquake,,45.8,0.59,8,automatic,nn,nn
+2023-05-23T01:37:42.540Z,17.9975,-66.8056666666667,17.27,2.13,md,5,183,0.07351,0.09,pr,pr71410558,2023-05-23T02:18:00.840Z,"1 km ENE of Indios, Puerto Rico",earthquake,0.55,0.88,0.0496305781282032,5,reviewed,pr,pr
 2023-05-23T01:32:53.330Z,38.8196678,-122.822998,2.18,1.04,md,15,69,0.01001,0.02,nc,nc73891481,2023-05-23T02:06:13.923Z,"8km NW of The Geysers, CA",earthquake,0.28,0.62,0.19,17,automatic,nc,nc
+2023-05-23T01:25:51.760Z,18.0253333333333,-66.8003333333333,14.38,2.41,md,12,115,0.009915,0.09,pr,pr71410543,2023-05-23T02:13:44.080Z,"1 km NW of Guayanilla, Puerto Rico",earthquake,0.36,0.87,0.167518360520256,9,reviewed,pr,pr
 2023-05-23T01:18:43.202Z,34.54024506,-97.69837189,4.277074814,2.27,ml,28,83.45489502,0.1262423545,0.8455816435,ok,ok2023jzoa,2023-05-23T01:22:05.886Z,"9 km NNW of Velma, Oklahoma",earthquake,2.46823474,1.570072744,0.23,14,automatic,ok,ok
 2023-05-23T01:08:40.640Z,38.8178329,-122.8238297,1.89,0.65,md,4,171,0.009879,0,nc,nc73891476,2023-05-23T01:55:13.865Z,"7km NW of The Geysers, CA",earthquake,1.07,2.84,0.17,8,automatic,nc,nc
-2023-05-23T00:56:36.260Z,19.192,-69.9519,15.176,4.4,mb,55,77,0.726,0.88,us,us7000k34q,2023-05-23T02:10:14.502Z,"Dominican Republic",earthquake,3.93,5.239,0.066,66,reviewed,us,us
+2023-05-23T00:56:36.260Z,19.192,-69.9519,15.176,4.4,mb,55,77,0.726,0.88,us,us7000k34q,2023-05-23T02:22:08.487Z,"Dominican Republic",earthquake,3.93,5.239,0.066,66,reviewed,us,us
 2023-05-23T00:52:43.524Z,-22.9954,170.9663,10,4.9,mb,46,87,3.27,0.85,us,us7000k34p,2023-05-23T01:21:01.040Z,"southeast of the Loyalty Islands",earthquake,5.59,1.762,0.081,48,reviewed,us,us
 2023-05-23T00:47:43.831Z,60.3525,-152.3388,82.3,1.3,ml,,,,0.33,ak,ak0236ki4snj,2023-05-23T00:49:01.519Z,"50 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-23T00:34:13.740Z,17.9156666666667,-66.7945,9.75,2.07,md,8,229,0.09999,0.11,pr,pr71410508,2023-05-23T00:48:33.070Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.6,1.02,0.123408343840179,5,reviewed,pr,pr
@@ -26,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T23:48:02.770Z,18.0868333333333,-66.9676666666667,5.9,1.78,md,3,262,0.1376,0.02,pr,pr71410503,2023-05-23T00:14:56.080Z,"1 km NW of Sabana Grande, Puerto Rico",earthquake,2.03,6.14,0.0128600819114395,3,reviewed,pr,pr
 2023-05-22T23:46:53.900Z,19.047,-65.7126666666667,6.91,3.42,md,6,253,0.9511,0.05,pr,pr71410498,2023-05-23T00:07:48.580Z,"69 km NNE of Suárez, Puerto Rico",earthquake,3.83,2.99,0.182758405905334,3,reviewed,pr,pr
 2023-05-22T23:43:23.698Z,37.2888,-117.5662,0,1.3,ml,11,97.43,0.085,0.1386,nn,nn00860124,2023-05-23T00:54:14.056Z,"52 km S of Silver Peak, Nevada",earthquake,,7.1,0.91,10,reviewed,nn,nn
-2023-05-22T23:37:48.810Z,38.7921677,-122.8014984,3.03,1.49,md,29,66,0.004028,0.02,nc,nc73891441,2023-05-23T02:10:10.946Z,"4km WNW of The Geysers, CA",earthquake,0.22,0.45,0.19,27,automatic,nc,nc
+2023-05-22T23:37:48.810Z,38.7921677,-122.8014984,3.03,1.49,md,29,66,0.004028,0.02,nc,nc73891441,2023-05-23T02:15:15.979Z,"4km WNW of The Geysers, CA",earthquake,0.22,0.45,0.19,27,automatic,nc,nc
 2023-05-22T23:36:03.580Z,17.9925,-66.8043333333333,17.58,1.99,md,5,188,0.07339,0.07,pr,pr71410488,2023-05-22T23:47:38.680Z,"1 km E of Indios, Puerto Rico",earthquake,0.48,0.78,0.0614216873678444,5,reviewed,pr,pr
 2023-05-22T23:29:46.030Z,17.9831666666667,-66.8031666666667,17.42,2.19,md,6,192,0.07287,0.08,pr,pr71410478,2023-05-22T23:42:52.660Z,"2 km SE of Indios, Puerto Rico",earthquake,1.21,0.62,0.101721519407831,5,reviewed,pr,pr
 2023-05-22T23:28:42.070Z,38.7698326,-122.7249985,7.44,0.45,md,6,207,0.008228,0.05,nc,nc73891436,2023-05-22T23:30:16.654Z,"3km ESE of The Geysers, CA",earthquake,2.31,6.6,0.32,6,automatic,nc,nc
@@ -295,6 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T02:45:36.132Z,26.8996,96.9828,10,5,mb,82,66,6.104,0.76,us,us6000kdsy,2023-05-22T03:01:23.040Z,"78 km NNE of Sarupathar, India",earthquake,9.55,1.853,0.053,113,reviewed,us,us
 2023-05-22T02:39:42.330Z,34.0498333,-117.1945,7.56,1.18,ml,64,29,0.06965,0.15,ci,ci40230935,2023-05-22T20:49:09.858Z,"1km WSW of Redlands, CA",earthquake,0.13,0.44,0.196,42,reviewed,ci,ci
 2023-05-22T02:32:17.032Z,58.5697,-151.0819,10.9,2.3,ml,,,,0.61,ak,ak0236ivp1k7,2023-05-22T02:35:22.435Z,"97 km SSE of Port Graham, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-05-22T02:20:13.630Z,35.106,-95.54483333,7.82,0.99,ml,31,111,0.1142775748,0.31,ok,ok2023jxuo,2023-05-22T15:56:08.704Z,"11 km E of Crowder, Oklahoma",earthquake,,1,0.14,8,reviewed,ok,ok
-2023-05-22T02:20:05.330Z,32.9231667,-115.8068333,8.33,0.83,ml,23,84,0.02262,0.19,ci,ci40230919,2023-05-22T20:39:55.446Z,"22km SW of Westmorland, CA",earthquake,0.31,0.56,0.124,7,reviewed,ci,ci
-2023-05-22T02:18:07.020Z,38.8334999,-122.8183365,1.27,1.09,md,25,59,0.01198,0.04,nc,nc73891081,2023-05-22T02:35:18.805Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.12,25,automatic,nc,nc
