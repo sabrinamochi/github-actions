@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T12:14:26.960Z,38.8443336,-122.8375015,1.74,0.5,md,14,94,0.01511,0.01,nc,nc73891666,2023-05-23T12:31:13.671Z,"10km WNW of Cobb, CA",earthquake,0.28,0.66,0.4,13,automatic,nc,nc
 2023-05-23T12:06:16.742Z,63.0853,-151.6572,10.5,1.7,ml,,,,1.11,ak,ak0236kp15gq,2023-05-23T12:08:25.150Z,"50 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-23T12:04:40.174Z,37.2779,-117.5877,1.7,1.1,ml,11,105.22,0.065,0.326,nn,nn00860178,2023-05-23T12:06:55.902Z,"53 km S of Silver Peak, Nevada",earthquake,,9.3,0.83,6,automatic,nn,nn
+2023-05-23T12:03:07.320Z,44.7821667,-110.8155,4.98,1.07,ml,11,100,0.02567,0.18,uu,uu60540701,2023-05-23T13:10:25.630Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.38,0.52,0.605,3,reviewed,uu,uu
 2023-05-23T11:54:09.339Z,37.3003,-117.6015,0.9,0.8,ml,8,246.98,0.076,0.175,nn,nn00860177,2023-05-23T11:56:55.749Z,"50 km S of Silver Peak, Nevada",earthquake,,116.3,0.88,5,automatic,nn,nn
 2023-05-23T11:50:53.991Z,37.3027,-117.6219,5,1,ml,11,259.4,0.072,0.3454,nn,nn00860174,2023-05-23T11:53:16.142Z,"50 km S of Silver Peak, Nevada",earthquake,,3,0.79,7,automatic,nn,nn
 2023-05-23T11:49:56.306Z,-22.6019,171.0622,43.354,4.8,mb,29,108,3.341,0.53,us,us7000k38m,2023-05-23T12:08:03.040Z,"southeast of the Loyalty Islands",earthquake,9.77,8.069,0.119,25,reviewed,us,us
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T11:17:51.540Z,60.8036,-152.2477,84.8,1,ml,,,,0.26,ak,ak0236koi5f6,2023-05-23T11:19:50.249Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-23T11:12:09.240Z,17.9395,-66.7575,9.92,2.23,md,8,223,0.08637,0.13,pr,pr71410643,2023-05-23T11:50:49.240Z,"Puerto Rico region",earthquake,1.09,0.59,0.0380857852332721,4,reviewed,pr,pr
 2023-05-23T11:04:32.040Z,17.9453333333333,-66.8433333333333,15.23,2.09,md,6,216,0.0452,0.08,pr,pr71410638,2023-05-23T11:46:19.320Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.82,0.56,0.145388375549195,2,reviewed,pr,pr
-2023-05-23T10:56:18.270Z,38.8035011,-122.7788315,1.28,1.1,md,9,148,0.009851,0.01,nc,nc73891651,2023-05-23T11:23:19.259Z,"4km NNW of The Geysers, CA",earthquake,0.42,0.79,0.25,11,automatic,nc,nc
+2023-05-23T10:56:18.270Z,38.8035011,-122.7788315,1.28,1.1,md,9,148,0.009851,0.01,nc,nc73891651,2023-05-23T13:07:10.901Z,"4km NNW of The Geysers, CA",earthquake,0.42,0.79,0.25,11,automatic,nc,nc
 2023-05-23T10:52:56.070Z,36.1015,-117.8883333,4.18,1.16,ml,12,177,0.0315,0.18,ci,ci40232143,2023-05-23T12:48:37.708Z,"8km NE of Coso Junction, CA",earthquake,0.69,0.55,0.236,12,reviewed,ci,ci
 2023-05-23T10:51:39.876Z,-20.1221,-176.2349,217.994,4.5,mb,42,80,1.421,0.55,us,us7000k38b,2023-05-23T11:12:22.040Z,"151 km NW of Houma, Tonga",earthquake,14.78,8.494,0.069,61,reviewed,us,us
 2023-05-23T10:47:11.610Z,17.9796666666667,-66.9501666666667,9.83,2.37,md,3,173,0.06765,0.09,pr,pr71410628,2023-05-23T11:07:46.210Z,"3 km WSW of Fuig, Puerto Rico",earthquake,3.39,1.22,0.0972286883360516,3,reviewed,pr,pr
@@ -297,7 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T13:33:48.040Z,44.7763333,-110.8126667,4.71,2.32,ml,20,88,0.02949,0.2,uu,uu60540601,2023-05-22T14:39:53.800Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.36,0.53,0.271,5,reviewed,uu,uu
 2023-05-22T13:30:38.774Z,-15.7375,-173.5745,38.998,5.1,mb,66,45,3.265,0.83,us,us6000kdvb,2023-05-22T14:54:38.857Z,"33 km NE of Hihifo, Tonga",earthquake,10.87,6.221,0.034,272,reviewed,us,us
 2023-05-22T13:25:53.930Z,38.837,-122.8361667,1.7,0.33,md,20,100,0.001673,0.02,nc,nc73891261,2023-05-23T01:45:15.811Z,"10km NW of The Geysers, CA",earthquake,0.19,0.29,0.216,19,reviewed,nc,nc
-2023-05-22T13:09:47.240Z,34.0388333,-117.226,15.53,1.32,ml,61,50,0.08146,0.14,ci,ci40231231,2023-05-22T20:28:10.079Z,"3km ESE of Loma Linda, CA",earthquake,0.15,0.23,0.13,34,reviewed,ci,ci
-2023-05-22T13:09:24.010Z,36.0083333,-120.566,4.08,0.51,md,12,109,0.02385,0.04,nc,nc73891256,2023-05-23T01:34:13.743Z,"17km NW of Parkfield, CA",earthquake,0.4,0.58,0.125,4,reviewed,nc,nc
-2023-05-22T13:07:58.000Z,36.0076667,-120.5676667,3.95,0.63,md,14,105,0.02524,0.05,nc,nc73891251,2023-05-23T01:22:15.787Z,"17km NW of Parkfield, CA",earthquake,0.35,0.47,0.065,3,reviewed,nc,nc
-2023-05-22T13:07:41.710Z,36.0065,-120.5706667,3.89,0.4,md,13,101,0.02776,0.05,nc,nc73891246,2023-05-23T01:12:14.590Z,"17km NW of Parkfield, CA",earthquake,0.35,0.43,0.236,5,reviewed,nc,nc
