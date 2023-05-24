@@ -7,12 +7,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T19:07:30.339Z,59.5483,-150.199,8.7,1.7,ml,,,,0.82,ak,ak0236mgqu46,2023-05-24T19:10:33.456Z,"54 km SE of Fox River, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-05-24T19:04:20.266Z,66.2952,-157.4664,0,2.3,ml,,,,0.88,ak,ak0236mgq416,2023-05-24T19:07:40.138Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-24T18:48:58.600Z,38.8463326,-122.8148346,1.24,1.08,md,20,54,0.01065,0.02,nc,nc73889500,2023-05-24T19:16:16.364Z,"8km WNW of Cobb, CA",earthquake,0.19,0.42,0.21,22,automatic,nc,nc
-2023-05-24T18:39:54.550Z,33.4755,-116.8716667,11.01,0.45,ml,17,60,0.0597,0.13,ci,ci40233015,2023-05-24T18:43:35.156Z,"4km N of Aguanga, CA",earthquake,0.28,0.64,0.045,9,automatic,ci,ci
-2023-05-24T18:37:16.670Z,34.8375,-118.7908333,-0.11,1.39,ml,19,49,0.0621,0.29,ci,ci40233007,2023-05-24T18:40:56.052Z,"7km E of Lebec, CA",earthquake,0.52,31.61,0.118,27,automatic,ci,ci
+2023-05-24T18:39:54.440Z,33.472,-116.8746667,11.65,0.47,ml,25,60,0.03222,0.11,ci,ci40233015,2023-05-24T20:10:14.110Z,"3km NNW of Aguanga, CA",earthquake,0.18,0.34,0.081,7,reviewed,ci,ci
+2023-05-24T18:37:16.250Z,34.852,-118.7815,-1.19,1.37,ml,31,53,0.07517,0.18,ci,ci40233007,2023-05-24T20:04:43.729Z,"8km E of Lebec, CA",quarry blast,0.28,31.61,0.098,20,reviewed,ci,ci
 2023-05-24T18:28:55.927Z,-38.3746,-75.4423,18.03,4.6,mb,42,165,2.173,0.84,us,us7000k3kk,2023-05-24T19:42:00.040Z,"Off the coast of Araucania, Chile",earthquake,9.67,5.255,0.157,12,reviewed,us,us
 2023-05-24T18:18:21.073Z,58.1873,-155.2674,1.2,0.9,ml,,,,0.48,ak,ak0236mg7oj7,2023-05-24T18:21:36.961Z,"84 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-24T18:12:08.585Z,63.5227,-151.3144,0,1.9,ml,,,,0.85,ak,ak0236mg6d96,2023-05-24T18:14:12.677Z,"20 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-24T18:07:01.090Z,38.9416656,-123.109169,6.53,1.47,md,8,120,0.06496,0.04,nc,nc73889495,2023-05-24T19:58:15.631Z,"17km NNW of Cloverdale, CA",earthquake,0.36,1.24,0.12,6,automatic,nc,nc
+2023-05-24T18:07:01.090Z,38.9416656,-123.109169,6.53,1.47,md,8,120,0.06496,0.04,nc,nc73889495,2023-05-24T20:10:10.705Z,"17km NNW of Cloverdale, CA",earthquake,0.36,1.24,0.12,6,automatic,nc,nc
 2023-05-24T17:59:51.643Z,64.0529,-147.564,1.9,1,ml,,,,0.19,ak,ak0236mfv3mk,2023-05-24T18:01:37.645Z,"58 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-24T17:59:48.058Z,61.6575,-151.4254,68.2,1.6,ml,,,,0.5,ak,ak0236mfv3cl,2023-05-24T18:01:42.470Z,"37 km S of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-24T17:56:46.935Z,65.3607,-144.7981,0,1.4,ml,,,,0.75,ak,ak0236mfug45,2023-05-24T17:59:26.524Z,"23 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -147,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T02:33:55.890Z,17.7905,-66.8956666666667,6.23,2.5,md,7,270,0.1842,0.1,pr,pr71410688,2023-05-24T02:43:40.160Z,"20 km S of Guánica, Puerto Rico",earthquake,0.61,0.62,0.0248254614835899,3,reviewed,pr,pr
 2023-05-24T02:33:10.970Z,38.8230019,-122.8431702,2.18,0.73,md,17,74,0.00636,0.01,nc,nc73889255,2023-05-24T02:50:14.217Z,"9km NW of The Geysers, CA",earthquake,0.24,0.44,0.17,17,automatic,nc,nc
 2023-05-24T02:18:46.210Z,33.9515,-116.7906667,10.16,1.97,ml,79,21,0.03805,0.14,ci,ci40232663,2023-05-24T15:32:34.650Z,"4km N of Cabazon, CA",earthquake,0.11,0.23,0.149,61,reviewed,ci,ci
-2023-05-24T02:15:43.010Z,40.236,-121.1653333,6.01,2.9,md,36,39,0.01922,0.15,nc,nc73889245,2023-05-24T18:54:17.362Z,"2km NNE of Almanor, CA",earthquake,0.3,0.41,0.151,63,reviewed,nc,nc
+2023-05-24T02:15:43.010Z,40.236,-121.1653333,6.01,2.9,md,36,39,0.01922,0.15,nc,nc73889245,2023-05-24T20:13:16.726Z,"2km NNE of Almanor, CA",earthquake,0.3,0.41,0.151,63,reviewed,nc,nc
 2023-05-24T01:49:06.270Z,38.8173332,-122.8221664,2.14,0.94,md,21,50,0.01007,0.02,nc,nc73889240,2023-05-24T02:05:17.964Z,"7km NW of The Geysers, CA",earthquake,0.2,0.56,0.23,21,automatic,nc,nc
 2023-05-24T01:48:26.501Z,-40.872,42.7236,10,4.7,mb,22,89,19.486,0.77,us,us7000k3ds,2023-05-24T02:03:42.040Z,"Southwest Indian Ridge",earthquake,8.89,1.842,0.13,18,reviewed,us,us
 2023-05-24T01:48:11.530Z,34.235,-117.6365,4.54,1.25,ml,40,74,0.01865,0.15,ci,ci40232639,2023-05-24T14:28:24.612Z,"13km WSW of Lytle Creek, CA",earthquake,0.21,0.28,0.127,24,reviewed,ci,ci
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T20:22:37.990Z,44.2241667,-110.778,1.9,0.89,md,11,91,0.05055,0.19,uu,uu60540761,2023-05-23T21:38:19.020Z,"45 km ENE of Warm River, Idaho",earthquake,0.63,4.19,0.224,5,reviewed,uu,uu
 2023-05-23T20:17:39.362Z,65.2587,-148.8855,9,1.5,ml,,,,0.55,ak,ak0236ktv0xc,2023-05-24T04:06:04.942Z,"24 km ENE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-23T20:14:12.837Z,31.62799362,-104.5136667,6.131567383,1.9,ml,18,76,0.04213659935,0.3,tx,tx2023kazn,2023-05-23T21:10:35.694Z,"62 km SSW of Whites City, New Mexico",earthquake,1.648886469,0.7241551719,0.2,12,reviewed,tx,tx
-2023-05-23T20:10:04.080Z,46.64066666666667,-121.878,4.1,0.85,ml,24,110,0.09075,0.13,uw,uw61918702,2023-05-24T18:43:42.020Z,"16 km WNW of Packwood, Washington",earthquake,0.26,31.61,0.18679435816156698,15,reviewed,uw,uw
