@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T21:20:10.440Z,38.8263321,-122.8069992,2.29,0.29,md,13,75,0.003791,0.01,nc,nc73889890,2023-05-25T21:21:46.731Z,"7km NW of The Geysers, CA",earthquake,0.31,0.82,0.13,13,automatic,nc,nc
 2023-05-25T21:16:52.020Z,38.8201675,-122.8041687,2.37,1.63,md,31,35,0.005627,0.03,nc,nc73889880,2023-05-25T21:19:43.480Z,"6km NW of The Geysers, CA",earthquake,0.19,0.34,0.15,32,automatic,nc,nc
 2023-05-25T21:09:35.388Z,60.4228,-147.4078,11.2,1.5,ml,,,,0.38,ak,ak0236o5hfhe,2023-05-25T21:11:09.658Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-25T21:08:09.320Z,19.4993324279785,-155.880661010742,9.97999954223633,1.85000002,md,24,120,,0.170000002,hv,hv73421587,2023-05-25T21:11:16.280Z,"4 km E of Captain Cook, Hawaii",earthquake,0.68,0.5,0.319999993,5,automatic,hv,hv
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T20:31:32.300Z,33.836,-117.1016667,18.29,1.3,ml,24,76,0.1319,0.36,ci,ci40233663,2023-05-25T20:35:17.732Z,"6km NE of Nuevo, CA",earthquake,1.22,31.61,0.249,28,automatic,ci,ci
 2023-05-25T20:29:32.130Z,35.7708333,-117.5756667,7.02,0.94,ml,10,148,0.0482,0.18,ci,ci40233655,2023-05-25T20:33:10.318Z,"16km W of Searles Valley, CA",earthquake,0.65,0.96,0.222,7,automatic,ci,ci
 2023-05-25T20:25:26.299Z,60.0434,-140.3705,0,1.9,ml,,,,0.65,ak,ak0236o4zemt,2023-05-25T20:27:22.513Z,"66 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-25T20:19:55.507Z,58.167,-155.2745,0,0.2,ml,,,,0.57,ak,ak0236o4y6la,2023-05-25T20:21:41.725Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
+2023-05-25T20:19:55.507Z,58.167,-155.2745,0,0.2,ml,,,,0.57,ak,ak0236o4y6la,2023-05-25T20:21:41.725Z,"82 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-25T20:18:32.058Z,58.018,-154.9145,54.6,1,ml,,,,1.49,ak,ak0236o4xv9q,2023-05-25T20:23:34.230Z,"56 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-25T20:02:04.161Z,64.8966,-149.0319,16.2,0.8,ml,,,,0.59,ak,ak0236o4ufgg,2023-05-25T20:04:40.589Z,"32 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T20:01:24.240Z,38.8344994,-122.8066635,2.21,0.87,md,18,51,0.0114,0.02,nc,nc73889845,2023-05-25T20:35:14.787Z,"7km W of Cobb, CA",earthquake,0.24,0.55,0.18,19,automatic,nc,nc
@@ -223,6 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T23:33:05.920Z,58.266,-155.095,4.73,-0.34,ml,6,109,,0.26,av,av91771312,2023-05-25T03:44:54.490Z,"86 km NNW of Karluk, Alaska",earthquake,1.14,0.92,0.207931759415547,6,reviewed,av,av
 2023-05-24T23:18:05.260Z,58.2446666666667,-155.1195,3.03,0.14,ml,5,237,,0.12,av,av91771307,2023-05-25T03:48:00.770Z,"84 km NNW of Karluk, Alaska",earthquake,1.47,1.43,0.216256634655486,5,reviewed,av,av
 2023-05-24T22:57:06.342Z,58.2567,-155.1217,1.7,1.4,ml,,,,0.35,ak,ak0236mitqq2,2023-05-25T03:31:40.770Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-24T22:44:43.900Z,45.85933333333333,-122.4295,-0.83,1.69,ml,9,197,0.07353,0.15,uw,uw61918932,2023-05-25T21:28:13.140Z,"1 km WSW of Yacolt, Washington",explosion,0.92,31.61,0.13035158721368179,8,reviewed,uw,uw
 2023-05-24T22:27:00.840Z,58.2488333333333,-155.136333333333,2.68,-0.02,ml,8,92,,0.09,av,av91771277,2023-05-25T03:26:58.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.3,0.45,0.15269327757572,8,reviewed,av,av
 2023-05-24T22:26:18.498Z,58.2513,-155.1526,1.1,1,ml,,,,1.13,ak,ak0236min4gp,2023-05-25T03:24:06.660Z,"86 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-24T22:25:14.852Z,58.2775,-155.0809,0.2,2,ml,,,,0.95,ak,ak0236mimwgt,2023-05-25T03:20:14.780Z,"87 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -237,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T21:39:56.150Z,40.1506667,-123.8453333,23.48,1.86,md,15,74,0.06185,0.1,nc,nc73889555,2023-05-25T01:19:12.578Z,"4km NNW of Redway, CA",earthquake,0.38,0.55,0.289,12,reviewed,nc,nc
 2023-05-24T21:37:36.110Z,38.8330002,-122.8031693,2,1.09,md,14,62,0.011,0.01,nc,nc73889550,2023-05-24T22:09:16.440Z,"7km W of Cobb, CA",earthquake,0.32,0.55,0.16,16,automatic,nc,nc
 2023-05-24T21:35:54.716Z,-4.7258,131.2995,59.485,4.4,mb,15,125,1.405,0.68,us,us7000k3lr,2023-05-24T22:04:30.040Z,"189 km WNW of Tual, Indonesia",earthquake,5.68,11.039,0.178,9,reviewed,us,us
-2023-05-24T21:28:32.340Z,38.8376656,-122.7990036,1.92,0.36,md,8,122,0.006804,0.02,nc,nc73889545,2023-05-24T21:46:15.308Z,"7km WNW of Cobb, CA",earthquake,0.5,1.31,0.19,9,automatic,nc,nc
-2023-05-24T21:25:54.473Z,62.0015,-148.2988,33.7,3,ml,,,,0.58,ak,ak0236mi1jwt,2023-05-24T21:41:15.040Z,"24 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-24T21:25:50.550Z,33.6391667,-116.7118333,14.08,1.91,ml,62,39,0.04343,0.14,ci,ci40233127,2023-05-24T23:47:09.720Z,"10km NNW of Anza, CA",earthquake,0.13,0.21,0.266,25,reviewed,ci,ci
-2023-05-24T21:24:25.980Z,58.2641666666667,-155.0855,4.24,-0.32,ml,7,102,,0.14,av,av91099908,2023-05-25T03:03:21.520Z,"85 km NNW of Karluk, Alaska",earthquake,0.39,0.74,0.154756216228305,7,reviewed,av,av
