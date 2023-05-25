@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T06:00:14.267Z,64.7257,-147.3961,20.3,0.5,ml,,,,0.85,ak,ak0236nwhyc2,2023-05-25T06:02:29.188Z,"3 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T05:54:34.070Z,32.4215,-115.1573333,10.62,1.95,ml,17,57,0.1249,0.3,ci,ci40233255,2023-05-25T05:58:09.948Z,"8km NNE of Delta, B.C., MX",earthquake,0.7,1.54,0.134,17,automatic,ci,ci
 2023-05-25T05:46:09.280Z,38.8146667,-122.7971649,1.84,1.1,md,24,37,0.006845,0.02,nc,nc73889655,2023-05-25T06:03:15.312Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.13,24,automatic,nc,nc
+2023-05-25T05:45:57.700Z,19.7483,-65.7618,47,3.83,md,13,287,1.5184,0.43,pr,pr2023145000,2023-05-25T06:29:49.293Z,"146 km N of Suárez, Puerto Rico",earthquake,4.82,27.07,0.08,5,reviewed,pr,pr
 2023-05-25T05:43:58.950Z,19.2560005187988,-155.412170410156,32.0099983215332,2.57,ml,49,123,,0.119999997,hv,hv73420467,2023-05-25T05:55:22.315Z,"9 km NE of Pāhala, Hawaii",earthquake,0.51,0.529999971,3.1,30,automatic,hv,hv
 2023-05-25T05:39:50.646Z,62.042,-148.2415,30,1.1,ml,,,,0.76,ak,ak0236nw4yf1,2023-05-25T05:42:34.829Z,"29 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-25T05:36:57.850Z,18.0148333333333,-66.7658333333333,15.08,2.48,md,11,171,0.02499,0.15,pr,pr71410908,2023-05-25T05:49:58.160Z,"0 km SE of Magas Arriba, Puerto Rico",earthquake,0.39,0.74,0.190276427603242,3,reviewed,pr,pr
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T05:18:13.530Z,19.3945007324219,-155.25016784668,0.709999978542328,2.49,ml,34,48,,0.280000001,hv,hv73420432,2023-05-25T05:32:20.098Z,"5 km SSW of Volcano, Hawaii",earthquake,0.25,0.289999992,0.77,15,automatic,hv,hv
 2023-05-25T05:13:27.150Z,34.5908333,-119.1306667,1.65,1.61,ml,18,59,0.1427,0.21,ci,ci40233247,2023-05-25T05:24:46.550Z,"19km NNE of Ojai, CA",earthquake,0.31,0.64,0.179,30,automatic,ci,ci
 2023-05-25T05:12:17.093Z,61.5041,-149.9604,33.6,1.3,ml,,,,0.52,ak,ak0236nvz3jh,2023-05-25T05:14:00.772Z,"1 km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-25T05:02:30.030Z,38.8380013,-122.7816696,9.29,0.89,md,12,87,0.006169,0.06,nc,nc73889650,2023-05-25T05:25:14.069Z,"5km WNW of Cobb, CA",earthquake,1.65,6.76,0.19,13,automatic,nc,nc
+2023-05-25T05:02:30.030Z,38.8380013,-122.7816696,9.29,0.89,md,12,87,0.006169,0.06,nc,nc73889650,2023-05-25T06:29:11.485Z,"5km WNW of Cobb, CA",earthquake,1.65,6.76,0.19,13,automatic,nc,nc
 2023-05-25T05:01:51.507Z,62.2176,-149.797,18.4,1.4,ml,,,,0.46,ak,ak0236nvwtbi,2023-05-25T05:04:06.298Z,"6 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T04:59:06.610Z,38.8301659,-122.7904968,0.9,1.09,md,18,47,0.008232,0.03,nc,nc73889645,2023-05-25T06:10:13.355Z,"6km W of Cobb, CA",earthquake,0.21,0.42,0.23,19,automatic,nc,nc
 2023-05-25T04:52:30.180Z,32.2835,-115.3226667,1.07,1.74,ml,15,64,0.1364,0.26,ci,ci40233239,2023-05-25T04:56:15.067Z,"14km WSW of Delta, B.C., MX",earthquake,0.45,31.61,0.141,14,automatic,ci,ci
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T06:44:09.347Z,57.9792,-156.3586,136.5,2.8,ml,,,,0.82,ak,ak0236m980z6,2023-05-24T07:16:40.040Z,"65 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T06:43:16.290Z,58.2536666666667,-155.117666666667,3.86,0.42,ml,11,86,,0.1,av,av91770662,2023-05-24T22:33:04.780Z,"Alaska Peninsula",earthquake,0.24,0.52,0.125987385491421,11,reviewed,av,av
 2023-05-24T06:37:21.387Z,60.8494,-138.0308,8.291,2.9,ml,28,103,0.257,0.59,us,us7000k3eq,2023-05-24T07:07:44.040Z,"162 km W of Whitehorse, Canada",earthquake,3.4,6.303,0.047,60,reviewed,us,us
-2023-05-24T06:30:23.507Z,61.8277,-147.9022,14.6,2.2,ml,,,,0.41,ak,ak0236m9521a,2023-05-24T15:22:16.404Z,"13 km W of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-24T06:29:56.100Z,58.187,-155.272166666667,2.35,0.67,ml,11,56,,0.05,av,av91770652,2023-05-24T22:37:47.100Z,"84 km NW of Karluk, Alaska",earthquake,0.16,0.4,0.363969641738904,11,reviewed,av,av
