@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T01:44:58.570Z,38.8271675,-122.8014984,1.61,1.6,md,25,53,0.007685,0.02,nc,nc73889605,2023-05-25T01:46:36.192Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,28,automatic,nc,nc
 2023-05-25T01:37:10.310Z,38.8235016,-122.8531647,2.18,0.6,md,8,128,0.004969,0.01,nc,nc73889595,2023-05-25T01:38:46.103Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.97,0.13,9,automatic,nc,nc
 2023-05-25T01:27:28.110Z,38.8325005,-122.8014984,2.43,0.69,md,10,93,0.01052,0.01,nc,nc73889590,2023-05-25T01:44:12.732Z,"7km W of Cobb, CA",earthquake,0.4,1.35,0.11,12,automatic,nc,nc
 2023-05-25T01:23:13.310Z,33.3291667,-115.8476667,9.98,1.36,ml,9,176,0.2383,0.15,ci,ci40233191,2023-05-25T01:26:55.144Z,"11km ENE of Salton City, CA",earthquake,1.72,31.61,0.253,27,automatic,ci,ci
@@ -64,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T17:53:09.738Z,67.3091,-156.17,1.1,2.2,ml,,,,0.66,ak,ak0236mftq3c,2023-05-24T17:56:28.682Z,"54 km NE of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-24T17:52:15.160Z,45.054833333333335,-124.09316666666666,18.13,2,ml,12,218,0.1706,0.17,uw,uw61918882,2023-05-24T22:47:45.110Z,"10 km SW of Neskowin, Oregon",earthquake,0.58,0.93,0.27167560502920063,7,reviewed,uw,uw
 2023-05-24T17:42:37.180Z,38.8078346,-122.8253326,2.19,0.75,md,13,71,0.003177,0.03,nc,nc73889485,2023-05-24T18:18:14.025Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.6,0.06,13,automatic,nc,nc
+2023-05-24T17:40:56.910Z,58.2468333333333,-154.946333333333,3.4,0.61,ml,16,148,,0.15,av,av91771112,2023-05-25T01:45:44.600Z,"80 km NNW of Karluk, Alaska",earthquake,0.45,0.8,0.33388921200852,17,reviewed,av,av
 2023-05-24T17:33:56.539Z,34.76916667,-97.52433333,5.38,1.72,ml,90,55,0.1151773983,0.33,ok,ok2023kcps,2023-05-24T17:42:49.899Z,"8 km ESE of Erin Springs, Oklahoma",earthquake,,0.6,0.22,34,reviewed,ok,ok
 2023-05-24T17:22:45.210Z,58.1866666666667,-155.290333333333,1.04,-0.22,ml,7,149,,0.04,av,av91771102,2023-05-25T01:40:36.690Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.88,0.296520606085165,7,reviewed,av,av
 2023-05-24T17:16:47.110Z,58.1858333333333,-155.289333333333,0.92,-0.22,ml,6,150,,0.03,av,av91771097,2023-05-25T01:38:44.070Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.95,0.313300790514184,6,reviewed,av,av
@@ -84,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T16:25:44.400Z,58.2376666666667,-155.161333333333,3.11,-0.3,ml,6,212,,0.07,av,av91099888,2023-05-25T01:28:03.790Z,"85 km NNW of Karluk, Alaska",earthquake,0.43,0.82,0.263520310173993,6,reviewed,av,av
 2023-05-24T16:25:19.590Z,58.1876666666667,-155.335833333333,1.68,-0.37,ml,5,226,,0.03,av,av91771032,2023-05-25T01:25:47.080Z,"Alaska Peninsula",earthquake,0.61,0.5,0.234148212877963,5,reviewed,av,av
 2023-05-24T16:17:36.350Z,58.1688333333333,-155.333666666667,1.55,0.04,ml,10,73,,0.07,av,av91771022,2023-05-25T01:09:30.270Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.67,0.313546103042961,10,reviewed,av,av
-2023-05-24T16:13:39.699Z,62.0302,-149.8455,40.9,1.7,ml,,,,0.54,ak,ak0236mezs5t,2023-05-24T16:16:18.785Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-05-24T16:13:39.699Z,62.0302,-149.8455,40.9,1.7,ml,,,,0.54,ak,ak0236mezs5t,2023-05-24T16:16:18.785Z,"14 km S of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-24T16:10:27.160Z,45.367,-121.80266666666667,4.4,1.22,ml,11,184,0.04342,0.12,uw,uw61918867,2023-05-24T17:44:51.290Z,"Washington-Oregon border region",earthquake,0.44,0.59,0.15307402919482138,9,reviewed,uw,uw
 2023-05-24T16:05:09.470Z,37.9850006,-122.1166687,16.04,1.64,md,9,205,0.209,0.18,nc,nc73889450,2023-05-24T18:10:12.974Z,"3km SW of Vine Hill, CA",earthquake,8.89,9.7,,1,automatic,nc,nc
 2023-05-24T16:03:06.550Z,37.6496667,-118.8966667,2.4,0.9,md,14,67,0.005265,0.04,nc,nc73889445,2023-05-24T19:04:16.444Z,"7km E of Mammoth Lakes, CA",earthquake,0.36,0.52,0.14,13,reviewed,nc,nc
@@ -234,7 +236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T03:21:55.180Z,58.2503333333333,-155.117166666667,3.72,0.05,ml,9,85,,0.15,av,av91770572,2023-05-24T22:10:44.440Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.75,0.157643936095534,9,reviewed,av,av
 2023-05-24T03:21:45.869Z,37.3029,-117.5707,3.1,1.6,ml,7,229.69,0.092,0.1299,nn,nn00860245,2023-05-24T16:32:43.467Z,"50 km S of Silver Peak, Nevada",earthquake,,11.3,1.11,5,reviewed,nn,nn
 2023-05-24T03:18:06.724Z,36.371,71.1921,147.678,4,mb,29,77,2.532,0.68,us,us7000k3e7,2023-05-25T00:31:12.040Z,"46 km SW of Ashkāsham, Afghanistan",earthquake,7.47,10.443,0.172,9,reviewed,us,us
-2023-05-24T03:17:06.499Z,37.2707,-117.5819,6.8,1.8,ml,13,92.42,0.064,0.1215,nn,nn00860241,2023-05-24T16:11:04.059Z,"California-Nevada border region",earthquake,,1.6,0.91,10,reviewed,nn,nn
+2023-05-24T03:17:06.499Z,37.2707,-117.5819,6.8,1.8,ml,13,92.42,0.064,0.1215,nn,nn00860241,2023-05-24T16:11:04.059Z,"53 km S of Silver Peak, Nevada",earthquake,,1.6,0.91,10,reviewed,nn,nn
 2023-05-24T03:14:28.636Z,-31.6488,-70.1446,113.646,4.2,mb,31,72,0.809,0.51,us,us7000k3e3,2023-05-24T23:40:23.040Z,"77 km WSW of Calingasta, Argentina",earthquake,3.6,5.48,0.235,5,reviewed,us,us
 2023-05-24T03:13:40.936Z,-6.7281,129.6574,151.942,4.4,mb,24,111,2.205,0.55,us,us7000k3e6,2023-05-24T23:31:20.040Z,"Banda Sea",earthquake,10.32,8.771,0.149,13,reviewed,us,us
 2023-05-24T03:11:18.590Z,58.2396666666667,-155.143833333333,2.74,0.19,ml,7,131,,0.11,av,av91099863,2023-05-24T22:02:35.190Z,"Alaska Peninsula",earthquake,0.29,0.42,0.189963414998179,7,reviewed,av,av
