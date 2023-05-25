@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-25T15:06:10.443Z,61.8033,-150.7444,50.9,1.3,ml,,,,0.34,ak,ak0236o1w4s4,2023-05-25T15:08:04.090Z,"31 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-05-25T14:40:31.580Z,19.6115,-65.8491666666667,19.45,3.3,md,6,307,1.299,0.27,pr,pr71410993,2023-05-25T15:02:58.090Z,"129 km NNE of San Juan, Puerto Rico",earthquake,7.57,14.96,0.109033089221827,4,reviewed,pr,pr
 2023-05-25T14:38:29.480Z,36.7854996,-120.8980026,3.7,2.1,md,22,134,0.2055,0.16,nc,nc73889750,2023-05-25T14:47:18.400Z,"30km SW of South Dos Palos, CA",earthquake,0.4,2.04,0.16,17,automatic,nc,nc
 2023-05-25T14:29:53.330Z,35.8875,-117.6951667,2.42,0.82,ml,13,160,0.09702,0.21,ci,ci40233351,2023-05-25T14:33:29.479Z,"20km ESE of Little Lake, CA",earthquake,0.38,0.49,0.076,8,automatic,ci,ci
 2023-05-25T14:19:10.710Z,38.8308334,-122.8116684,10.04,0.71,md,6,123,0.007531,0.03,nc,nc73889745,2023-05-25T14:47:17.399Z,"8km NW of The Geysers, CA",earthquake,2,8.06,0.05,7,automatic,nc,nc
-2023-05-25T14:12:11.710Z,38.8151665,-122.807663,1.31,1.11,md,17,42,0.00843,0.02,nc,nc73889740,2023-05-25T14:35:14.330Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.12,19,automatic,nc,nc
+2023-05-25T14:12:11.710Z,38.8151665,-122.807663,1.31,1.11,md,17,42,0.00843,0.02,nc,nc73889740,2023-05-25T15:08:14.541Z,"6km NW of The Geysers, CA",earthquake,0.21,0.54,0.12,19,automatic,nc,nc
 2023-05-25T13:54:03.890Z,35.98,-117.7248333,4.44,1.88,ml,23,56,0.06819,0.2,ci,ci40233335,2023-05-25T14:05:03.450Z,"17km ENE of Little Lake, CA",earthquake,0.29,0.83,0.229,21,automatic,ci,ci
 2023-05-25T13:48:28.834Z,21.1016,122.0658,10,5.2,mww,43,104,1.938,1.22,us,us7000k3wu,2023-05-25T14:08:22.040Z,"72 km N of Basco, Philippines",earthquake,7.57,1.903,0.065,23,reviewed,us,us
 2023-05-25T13:39:23.400Z,19.4068336486816,-155.276168823242,1.5,2.08999991,md,6,222,,0.150000006,hv,hv73421017,2023-05-25T13:42:11.560Z,"5 km SW of Volcano, Hawaii",earthquake,0.78,1.47000003,2.3599999,4,automatic,hv,hv
@@ -97,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T01:57:34.860Z,33.6381667,-116.6956667,13.56,0.27,ml,15,63,0.03567,0.07,ci,ci40233199,2023-05-25T14:42:33.176Z,"10km NNW of Anza, CA",earthquake,0.25,0.39,0.153,9,reviewed,ci,ci
 2023-05-25T01:56:14.480Z,38.7746658,-122.7181702,2.6,0.73,md,6,131,0.01406,0.02,nc,nc73889615,2023-05-25T02:36:13.053Z,"2km W of Anderson Springs, CA",earthquake,0.48,0.69,0.3,6,automatic,nc,nc
 2023-05-25T01:54:39.480Z,38.8283348,-122.8014984,1.55,0.49,md,9,81,0.008319,0.01,nc,nc73889610,2023-05-25T02:26:11.992Z,"7km W of Cobb, CA",earthquake,0.43,1.26,0.32,10,automatic,nc,nc
-2023-05-25T01:44:58.570Z,38.8271675,-122.8014984,1.61,1.6,md,25,53,0.007685,0.02,nc,nc73889605,2023-05-25T04:33:13.775Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,28,automatic,nc,nc
+2023-05-25T01:44:58.570Z,38.827,-122.8013333,1.55,1.57,md,45,31,0.007718,0.03,nc,nc73889605,2023-05-25T15:11:12.434Z,"7km NW of The Geysers, CA",earthquake,0.13,0.2,0.153,34,reviewed,nc,nc
 2023-05-25T01:37:10.310Z,38.8235016,-122.8531647,2.18,0.6,md,8,128,0.004969,0.01,nc,nc73889595,2023-05-25T01:54:14.789Z,"10km WNW of The Geysers, CA",earthquake,0.39,0.97,0.13,9,automatic,nc,nc
 2023-05-25T01:27:28.110Z,38.8325005,-122.8014984,2.43,0.69,md,10,93,0.01052,0.01,nc,nc73889590,2023-05-25T01:44:12.732Z,"7km W of Cobb, CA",earthquake,0.4,1.35,0.11,12,automatic,nc,nc
 2023-05-25T01:23:17.470Z,33.181,-115.6085,4.29,1.62,ml,27,47,0.006946,0.2,ci,ci40233191,2023-05-25T14:35:16.572Z,"11km SW of Niland, CA",earthquake,0.29,0.27,0.181,22,reviewed,ci,ci
@@ -111,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T00:37:49.618Z,62.3075,-148.6982,8.9,1,ml,,,,0.28,ak,ak0236nt5cxd,2023-05-25T00:39:43.694Z,"58 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T00:35:33.570Z,38.8333321,-122.8021698,2.25,0.94,md,15,98,0.01054,0.01,nc,nc73889575,2023-05-25T00:48:11.386Z,"7km W of Cobb, CA",earthquake,0.29,0.7,0.25,16,automatic,nc,nc
 2023-05-25T00:35:12.654Z,10.959,-62.5429,107.623,4.6,mb,43,84,1.456,0.94,us,us7000k3mi,2023-05-25T02:26:58.011Z,"49 km NNW of Güiria, Venezuela",earthquake,10.55,9.547,0.084,43,reviewed,us,us
+2023-05-25T00:17:46.490Z,58.2186666666667,-155.105166666667,2.48,0.12,ml,8,127,,0.13,av,av91771337,2023-05-25T15:09:15.720Z,"81 km NNW of Karluk, Alaska",earthquake,0.28,0.78,0.16779290644522,8,reviewed,av,av
 2023-05-25T00:15:31.618Z,42.0674,142.5773,69.328,4.5,mb,53,116,0.435,0.61,us,us7000k3mh,2023-05-25T00:29:28.040Z,"19 km WSW of Urakawa, Japan",earthquake,6.95,8.673,0.084,41,reviewed,us,us
 2023-05-25T00:09:00.530Z,37.2083333,-112.833,13.57,1.92,ml,14,90,0.1916,0.15,uu,uu60540846,2023-05-25T13:13:38.650Z,"14 km E of Springdale, Utah",earthquake,0.38,0.64,0.113,5,reviewed,uu,uu
 2023-05-25T00:06:37.155Z,64.9892,-147.3646,2,1.4,ml,,,,0.53,ak,ak0236nsyorb,2023-05-25T00:09:26.873Z,"12 km ENE of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -209,9 +212,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T16:25:44.400Z,58.2376666666667,-155.161333333333,3.11,-0.3,ml,6,212,,0.07,av,av91099888,2023-05-25T01:28:03.790Z,"85 km NNW of Karluk, Alaska",earthquake,0.43,0.82,0.263520310173993,6,reviewed,av,av
 2023-05-24T16:25:19.590Z,58.1876666666667,-155.335833333333,1.68,-0.37,ml,5,226,,0.03,av,av91771032,2023-05-25T01:25:47.080Z,"Alaska Peninsula",earthquake,0.61,0.5,0.234148212877963,5,reviewed,av,av
 2023-05-24T16:17:36.350Z,58.1688333333333,-155.333666666667,1.55,0.04,ml,10,73,,0.07,av,av91771022,2023-05-25T01:09:30.270Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.67,0.313546103042961,10,reviewed,av,av
-2023-05-24T16:13:39.699Z,62.0302,-149.8455,40.9,1.7,ml,,,,0.54,ak,ak0236mezs5t,2023-05-24T16:16:18.785Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-05-24T16:13:39.699Z,62.0302,-149.8455,40.9,1.7,ml,,,,0.54,ak,ak0236mezs5t,2023-05-24T16:16:18.785Z,"14 km S of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-24T16:10:27.160Z,45.367,-121.80266666666667,4.4,1.22,ml,11,184,0.04342,0.12,uw,uw61918867,2023-05-24T17:44:51.290Z,"Washington-Oregon border region",earthquake,0.44,0.59,0.15307402919482138,9,reviewed,uw,uw
-2023-05-24T16:05:27.100Z,38.8438333,-122.7643333,2.01,0.35,md,6,265,0.009501,0.02,nc,nc73889450,2023-05-25T15:02:10.496Z,"4km NW of Cobb, CA",earthquake,1.49,1.25,0.093,5,reviewed,nc,nc
+2023-05-24T16:05:27.100Z,38.8438333,-122.7643333,2.01,0.35,md,6,265,0.009501,0.02,nc,nc73889450,2023-05-25T15:08:13.540Z,"4km NW of Cobb, CA",earthquake,1.49,1.25,0.093,5,reviewed,nc,nc
 2023-05-24T16:03:06.550Z,37.6496667,-118.8966667,2.4,0.9,md,14,67,0.005265,0.04,nc,nc73889445,2023-05-24T19:04:16.444Z,"7km E of Mammoth Lakes, CA",earthquake,0.36,0.52,0.14,13,reviewed,nc,nc
 2023-05-24T16:02:08.639Z,61.6491,-149.7004,45.6,2.3,ml,,,,0.13,ak,ak0236mexcug,2023-05-24T17:47:12.922Z,"5 km WNW of Meadow Lakes, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-24T16:01:09.130Z,38.7515,-122.716,1.25,0.31,md,19,96,0.01131,0.04,nc,nc73889440,2023-05-24T18:31:14.101Z,"3km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.153,13,reviewed,nc,nc
@@ -221,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T15:33:55.510Z,33.256,-115.9995,4.74,2.57,ml,80,18,0.02662,0.17,ci,ci40232887,2023-05-25T03:40:37.980Z,"6km SW of Salton City, CA",earthquake,0.14,0.4,0.158,25,reviewed,ci,ci
 2023-05-24T15:17:48.531Z,-31.8567,-66.5564,131.999,4.6,mb,46,46,1.84,0.69,us,us7000k3gx,2023-05-25T04:43:50.104Z,"72 km WNW of Candelaria, Argentina",earthquake,8.06,7.829,0.107,26,reviewed,us,us
 2023-05-24T15:13:34.950Z,17.9455,-66.9696666666667,11.98,2.48,md,4,218,0.07485,0.09,pr,pr71410833,2023-05-24T16:18:30.630Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.56,1.36,0.0589081473802029,3,reviewed,pr,pr
-2023-05-24T15:07:42.490Z,36.8461685,-121.2949982,7.71,1.82,md,17,99,0.05625,0.07,nc,nc73889425,2023-05-24T16:07:15.177Z,"7km NNE of Tres Pinos, CA",earthquake,0.35,0.73,0.17,11,automatic,nc,nc
