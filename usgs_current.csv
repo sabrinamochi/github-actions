@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-26T19:45:32.960Z,34.0543333,-117.2563333,15.18,1.21,ml,35,63,0.1161,0.23,ci,ci40234415,2023-05-26T19:49:08.563Z,"1km NE of Loma Linda, CA",earthquake,0.36,0.6,0.204,30,automatic,ci,ci
+2023-05-26T19:43:54.920Z,19.2478332519531,-155.401840209961,32.2799987792969,1.88999999,md,42,131,,0.150000006,hv,hv73423137,2023-05-26T19:47:08.590Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,1.55999994,10,automatic,hv,hv
+2023-05-26T19:40:34.800Z,35.0358333,-118.9426667,19.03,1.28,ml,13,106,0.1134,0.25,ci,ci40234407,2023-05-26T19:44:10.869Z,"10km N of Grapevine, CA",earthquake,0.7,0.8,0.137,10,automatic,ci,ci
 2023-05-26T19:30:51.773Z,36.4064,-115.8104,6.7,0.7,ml,8,319.08,0.283,0.3997,nn,nn00860373,2023-05-26T19:33:30.070Z,"22 km SW of Indian Springs, Nevada",earthquake,,2.3,0.35,4,automatic,nn,nn
 2023-05-26T19:12:08.670Z,33.8048333,-116.3866667,14.3,0.89,ml,27,68,0.02015,0.26,ci,ci40234391,2023-05-26T19:15:37.740Z,"2km SSE of Thousand Palms, CA",earthquake,0.48,0.82,0.144,18,automatic,ci,ci
 2023-05-26T19:10:41.154Z,37.2658,-117.6038,3.8,0.3,ml,9,133.41,0.047,0.4029,nn,nn00860370,2023-05-26T19:13:09.613Z,"54 km S of Silver Peak, Nevada",earthquake,,2.4,0.78,5,automatic,nn,nn
@@ -188,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T01:15:57.380Z,19.1508331298828,-155.43766784668,31.3899993896484,1.98000002,md,35,218,,0.100000001,hv,hv73421952,2023-05-26T01:20:32.240Z,"Island of Hawaii, Hawaii",earthquake,0.77,1.12,1.5,6,automatic,hv,hv
 2023-05-26T01:13:48.013Z,59.6622,-151.5998,47.1,1.5,ml,,,,0.64,ak,ak0236ph4zpt,2023-05-26T01:15:53.535Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-26T01:02:22.418Z,59.002,-152.5583,74.7,2,ml,,,,0.23,ak,ak0236ph2kv5,2023-05-26T01:03:27.035Z,"53 km SW of Nanwalek, Alaska",earthquake,,3.4,,,automatic,ak,ak
-2023-05-26T00:58:33.952Z,37.291,-117.5809,0,0.1,ml,11,136.02,0.078,0.2197,nn,nn00860323,2023-05-26T01:01:02.784Z,"51 km S of Silver Peak, Nevada",earthquake,,7.4,0.75,7,automatic,nn,nn
+2023-05-26T00:58:34.668Z,37.2963,-117.5831,6.3,1.5,ml,8,104.66,0.081,0.1457,nn,nn00860323,2023-05-26T19:47:45.306Z,"51 km S of Silver Peak, Nevada",earthquake,,5.3,0.75,7,reviewed,nn,nn
 2023-05-26T00:57:01.240Z,60.657,-152.710166666667,5.97,-0.04,ml,9,149,,0.11,av,av91104973,2023-05-26T18:42:24.590Z,"76 km W of Salamatof, Alaska",earthquake,0.45,0.89,0.243418969717253,9,reviewed,av,av
 2023-05-26T00:55:47.770Z,64.8643,-149.003,19.7,0.8,ml,,,,0.37,ak,ak0236pgsk61,2023-05-26T00:57:37.038Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-26T00:54:30.810Z,58.1895,-155.307666666667,2.5,-0.15,ml,10,97,,0.09,av,av91772122,2023-05-26T17:48:55.190Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.34,0.263917203024676,10,reviewed,av,av
@@ -256,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T20:02:04.161Z,64.8966,-149.0319,16.2,0.8,ml,,,,0.59,ak,ak0236o4ufgg,2023-05-25T20:04:40.589Z,"32 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T20:01:24.240Z,38.8344994,-122.8066635,2.21,0.87,md,18,51,0.0114,0.02,nc,nc73889845,2023-05-25T20:35:14.787Z,"7km W of Cobb, CA",earthquake,0.24,0.55,0.18,19,automatic,nc,nc
 2023-05-25T19:50:22.520Z,38.7890015,-122.7669983,1.51,0.75,md,14,77,0.01293,0.02,nc,nc73889840,2023-05-25T20:13:13.652Z,"2km NW of The Geysers, CA",earthquake,0.24,0.47,0.04,14,automatic,nc,nc
-2023-05-25T19:48:41.824Z,31.72265998,-104.5456064,5.745947266,1.6,ml,19,84,0.01522501126,0.3,tx,tx2023kepq,2023-05-26T12:10:57.684Z,"western Texas",earthquake,1.342142961,0.8838115934,0.1,12,reviewed,tx,tx
