@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-27T05:57:52.240Z,34.0441666,-117.1506653,6.43,1.02,ml,22,86,0.07588,0.14,ci,ci40234871,2023-05-27T05:59:57.419Z,"3km ESE of Redlands, CA",earthquake,0.42,1,0.14,4,automatic,ci,ci
+2023-05-27T05:57:52.240Z,34.0496667,-117.1615,4.68,0.84,ml,20,120,0.04315,0.17,ci,ci40234871,2023-05-27T06:01:38.535Z,"2km ESE of Redlands, CA",earthquake,0.31,0.51,0.134,19,automatic,ci,ci
 2023-05-27T05:41:25.562Z,65.3533,-144.802,0.8,1.4,ml,,,,0.77,ak,ak0236r780y4,2023-05-27T05:43:40.862Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T05:24:45.138Z,19.5169,-66.2761,22.025,3.6,ml,23,126,1.062,0.71,us,us7000k4et,2023-05-27T05:34:56.040Z,"116 km N of Brenas, Puerto Rico",earthquake,4.17,10.736,0.062,34,reviewed,us,us
 2023-05-27T05:06:38.936Z,-24.1886,179.6882,534.868,4.4,mb,13,123,5.487,0.57,us,us7000k4es,2023-05-27T05:31:28.040Z,"south of the Fiji Islands",earthquake,19.14,14.592,0.169,10,reviewed,us,us
@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T16:08:17.900Z,38.835,-122.7935,2.46,0.42,md,14,45,0.004203,0.04,nc,nc73890240,2023-05-26T18:36:10.091Z,"6km WNW of Cobb, CA",earthquake,0.35,0.79,0.176,12,reviewed,nc,nc
 2023-05-26T16:05:03.832Z,58.2319,-155.088,0,0.3,ml,,,,0.19,ak,ak0236pq0onj,2023-05-27T00:29:29.490Z,"82 km NNW of Karluk, Alaska",earthquake,,11.1,,,automatic,ak,ak
 2023-05-26T16:04:40.710Z,58.2066666666667,-155.1995,3.5,-0.29,ml,9,78,,0.14,av,av91772752,2023-05-27T00:26:27.600Z,"83 km NNW of Karluk, Alaska",earthquake,0.27,1.12,0.223002526487033,9,reviewed,av,av
-2023-05-26T16:03:39.540Z,58.1721666666667,-155.326666666667,0.69,-0.33,ml,6,113,,0.07,av,av91772747,2023-05-27T00:22:50.170Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.58,0.243171577834413,6,reviewed,av,av
+2023-05-26T16:03:39.540Z,58.1721666666667,-155.326666666667,0.69,-0.33,ml,6,113,,0.07,av,av91772747,2023-05-27T00:22:50.170Z,"Alaska Peninsula",earthquake,0.24,1.58,0.243171577834413,6,reviewed,av,av
 2023-05-26T16:01:24.660Z,58.1731666666667,-155.3285,2.29,0.83,ml,11,73,,0.07,av,av91105083,2023-05-27T00:20:28.230Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.4,0.226752476573547,12,reviewed,av,av
 2023-05-26T16:01:10.820Z,58.1851666666667,-155.279166666667,1.54,-0.13,ml,5,148,,0.03,av,av91772742,2023-05-27T00:16:54.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,0.83,0.200653731918879,5,reviewed,av,av
 2023-05-26T15:43:06.990Z,36.467,-121.0506667,9.14,2.18,md,51,119,0.0131,0.09,nc,nc73890235,2023-05-26T19:36:10.474Z,"11km SE of Pinnacles, CA",earthquake,0.18,0.28,0.196,53,reviewed,nc,nc
@@ -258,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T06:05:09.870Z,37.2965,-117.5704,0.7,1.1,ml,10,128.67,0.088,0.1447,nn,nn00860335,2023-05-26T21:30:38.635Z,"California-Nevada border region",earthquake,,4.4,1.01,7,reviewed,nn,nn
 2023-05-26T06:04:46.332Z,60.8007,-149.6318,35.2,1.6,ml,,,,0.94,ak,ak0236pk2861,2023-05-26T06:07:10.352Z,"13 km S of Hope, Alaska",earthquake,,10.2,,,automatic,ak,ak
 2023-05-26T06:03:38.389Z,60.3381,-149.385,26.8,1.8,ml,,,,0.86,ak,ak0236pk1zu6,2023-05-26T06:07:11.248Z,"2 km WSW of Primrose, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-26T06:00:56.570Z,58.2,-155.3065,1.68,-0.2,ml,4,217,,0.03,av,av91772322,2023-05-26T21:06:19.300Z,"86 km NW of Karluk, Alaska",earthquake,0.63,0.39,0.425220219417771,4,reviewed,av,av
-2023-05-26T06:00:09.050Z,60.0476,-152.5854,98.6,1.7,ml,,,,0.17,ak,ak0236pk1afd,2023-05-26T06:01:40.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
