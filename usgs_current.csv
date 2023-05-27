@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T05:57:52.240Z,34.0441666,-117.1506653,6.43,1.02,ml,22,86,0.07588,0.14,ci,ci40234871,2023-05-27T05:59:57.419Z,"3km ESE of Redlands, CA",earthquake,0.42,1,0.14,4,automatic,ci,ci
 2023-05-27T05:41:25.562Z,65.3533,-144.802,0.8,1.4,ml,,,,0.77,ak,ak0236r780y4,2023-05-27T05:43:40.862Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T05:24:45.138Z,19.5169,-66.2761,22.025,3.6,ml,23,126,1.062,0.71,us,us7000k4et,2023-05-27T05:34:56.040Z,"116 km N of Brenas, Puerto Rico",earthquake,4.17,10.736,0.062,34,reviewed,us,us
 2023-05-27T05:06:38.936Z,-24.1886,179.6882,534.868,4.4,mb,13,123,5.487,0.57,us,us7000k4es,2023-05-27T05:31:28.040Z,"south of the Fiji Islands",earthquake,19.14,14.592,0.169,10,reviewed,us,us
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T04:48:54.061Z,60.6328,-151.9659,79.5,1.1,ml,,,,0.19,ak,ak0236r6o5jy,2023-05-27T04:50:39.197Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-27T04:39:31.615Z,65.3743,-144.7904,0,1.6,ml,,,,0.63,ak,ak0236r6m6dl,2023-05-27T04:41:46.577Z,"22 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-27T04:35:49.920Z,19.1888332366943,-155.50666809082,34.8300018310547,1.78,ml,49,140,,0.109999999,hv,hv73423702,2023-05-27T04:41:21.990Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.5,0.75999999,3.81,5,automatic,hv,hv
-2023-05-27T04:35:26.930Z,40.2303352,-121.1396637,1.14,2.33,md,7,158,0.3169,0.15,nc,nc73890480,2023-05-27T05:03:14.721Z,"3km NNE of Prattville, CA",earthquake,1.24,11.81,0.05,6,automatic,nc,nc
+2023-05-27T04:35:26.930Z,40.2303352,-121.1396637,1.14,2.33,md,7,158,0.3169,0.15,nc,nc73890480,2023-05-27T05:58:11.055Z,"3km NNE of Prattville, CA",earthquake,1.24,11.81,0.05,6,automatic,nc,nc
 2023-05-27T04:29:44.567Z,61.5226,-149.7794,29.1,1.2,ml,,,,0.35,ak,ak0236r6k27s,2023-05-27T04:31:20.395Z,"7 km NNW of Knik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-27T04:23:48.038Z,61.4746,-146.3247,31.8,1.4,ml,,,,0.87,ak,ak0236r6is6l,2023-05-27T04:26:04.913Z,"38 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-27T04:22:12.840Z,33.9193333,-116.8563333,13.31,0.69,ml,8,182,0.1033,0.14,ci,ci40234783,2023-05-27T04:25:48.667Z,"2km ESE of Banning, CA",earthquake,1.62,1.67,0.162,3,automatic,ci,ci
@@ -259,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T06:03:38.389Z,60.3381,-149.385,26.8,1.8,ml,,,,0.86,ak,ak0236pk1zu6,2023-05-26T06:07:11.248Z,"2 km WSW of Primrose, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-26T06:00:56.570Z,58.2,-155.3065,1.68,-0.2,ml,4,217,,0.03,av,av91772322,2023-05-26T21:06:19.300Z,"86 km NW of Karluk, Alaska",earthquake,0.63,0.39,0.425220219417771,4,reviewed,av,av
 2023-05-26T06:00:09.050Z,60.0476,-152.5854,98.6,1.7,ml,,,,0.17,ak,ak0236pk1afd,2023-05-26T06:01:40.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-26T05:51:06.056Z,37.3034,-117.5788,3.1,1.1,ml,9,135.32,0.089,0.1159,nn,nn00860333,2023-05-26T21:14:49.357Z,"50 km S of Silver Peak, Nevada",earthquake,,7,0.95,7,reviewed,nn,nn
-2023-05-26T05:51:02.480Z,45.6593333333333,-112.253166666667,4.99,0.4,ml,6,123,0.2138,0.07,mb,mb90015863,2023-05-26T20:58:12.250Z,"14 km NNE of Twin Bridges, Montana",earthquake,0.31,6.69,0.0924520715298163,2,reviewed,mb,mb
