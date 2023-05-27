@@ -1,14 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T06:04:40.760Z,33.9521667,-116.8305,18.5,1.3,ml,47,44,0.05438,0.18,ci,ci40234879,2023-05-27T06:08:18.693Z,"5km NE of Banning, CA",earthquake,0.21,0.4,0.132,26,automatic,ci,ci
 2023-05-27T05:57:52.240Z,34.0496667,-117.1615,4.68,0.84,ml,20,120,0.04315,0.17,ci,ci40234871,2023-05-27T06:01:38.535Z,"2km ESE of Redlands, CA",earthquake,0.31,0.51,0.134,19,automatic,ci,ci
+2023-05-27T05:52:47.559Z,8.4483,126.5777,79.752,4.5,mb,39,125,1.69,0.93,us,us7000k4ex,2023-05-27T06:10:13.040Z,"Mindanao, Philippines",earthquake,11.16,8.454,0.102,28,reviewed,us,us
 2023-05-27T05:41:25.562Z,65.3533,-144.802,0.8,1.4,ml,,,,0.77,ak,ak0236r780y4,2023-05-27T05:43:40.862Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-27T05:24:45.138Z,19.5169,-66.2761,22.025,3.6,ml,23,126,1.062,0.71,us,us7000k4et,2023-05-27T05:34:56.040Z,"116 km N of Brenas, Puerto Rico",earthquake,4.17,10.736,0.062,34,reviewed,us,us
+2023-05-27T05:24:48.460Z,19.536,-66.2878,28,3.89,md,20,245,1.0861,0.4,pr,pr2023147002,2023-05-27T06:12:49.223Z,"118 km N of Brenas, Puerto Rico",earthquake,1.62,25.23,0.06,9,reviewed,pr,pr
 2023-05-27T05:06:38.936Z,-24.1886,179.6882,534.868,4.4,mb,13,123,5.487,0.57,us,us7000k4es,2023-05-27T05:31:28.040Z,"south of the Fiji Islands",earthquake,19.14,14.592,0.169,10,reviewed,us,us
 2023-05-27T05:03:42.290Z,32.0978333,-115.1261667,4.39,2.31,ml,14,148,0.1392,0.2,ci,ci40234831,2023-05-27T05:07:25.621Z,"15km SSE of Alberto Oviedo Mota, B.C., MX",earthquake,0.56,1.63,0.278,17,automatic,ci,ci
 2023-05-27T04:53:40.740Z,33.9488333,-117.1238333,17.2,1.12,ml,39,57,0.04071,0.23,ci,ci40234791,2023-05-27T05:04:41.800Z,"8km SW of Calimesa, CA",earthquake,0.33,0.7,0.207,30,automatic,ci,ci
+2023-05-27T04:51:40.700Z,19.6198,-66.3206,30,3.69,md,15,276,1.1616,0.31,pr,pr2023147001,2023-05-27T06:12:29.870Z,"127 km N of Brenas, Puerto Rico",earthquake,1.65,19.96,0.03,7,reviewed,pr,pr
 2023-05-27T04:48:54.061Z,60.6328,-151.9659,79.5,1.1,ml,,,,0.19,ak,ak0236r6o5jy,2023-05-27T04:50:39.197Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-27T04:39:31.615Z,65.3743,-144.7904,0,1.6,ml,,,,0.63,ak,ak0236r6m6dl,2023-05-27T04:41:46.577Z,"22 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-27T04:35:49.920Z,19.1888332366943,-155.50666809082,34.8300018310547,1.78,ml,49,140,,0.109999999,hv,hv73423702,2023-05-27T04:41:21.990Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.5,0.75999999,3.81,5,automatic,hv,hv
-2023-05-27T04:35:26.930Z,40.2303352,-121.1396637,1.14,2.33,md,7,158,0.3169,0.15,nc,nc73890480,2023-05-27T05:58:11.055Z,"3km NNE of Prattville, CA",earthquake,1.24,11.81,0.05,6,automatic,nc,nc
+2023-05-27T04:35:26.930Z,40.2303352,-121.1396637,1.14,2.33,md,7,158,0.3169,0.15,nc,nc73890480,2023-05-27T06:03:15.086Z,"3km NNE of Prattville, CA",earthquake,1.24,11.81,0.05,6,automatic,nc,nc
 2023-05-27T04:29:44.567Z,61.5226,-149.7794,29.1,1.2,ml,,,,0.35,ak,ak0236r6k27s,2023-05-27T04:31:20.395Z,"7 km NNW of Knik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-27T04:23:48.038Z,61.4746,-146.3247,31.8,1.4,ml,,,,0.87,ak,ak0236r6is6l,2023-05-27T04:26:04.913Z,"38 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-27T04:22:12.840Z,33.9193333,-116.8563333,13.31,0.69,ml,8,182,0.1033,0.14,ci,ci40234783,2023-05-27T04:25:48.667Z,"2km ESE of Banning, CA",earthquake,1.62,1.67,0.162,3,automatic,ci,ci
@@ -133,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T16:08:17.900Z,38.835,-122.7935,2.46,0.42,md,14,45,0.004203,0.04,nc,nc73890240,2023-05-26T18:36:10.091Z,"6km WNW of Cobb, CA",earthquake,0.35,0.79,0.176,12,reviewed,nc,nc
 2023-05-26T16:05:03.832Z,58.2319,-155.088,0,0.3,ml,,,,0.19,ak,ak0236pq0onj,2023-05-27T00:29:29.490Z,"82 km NNW of Karluk, Alaska",earthquake,,11.1,,,automatic,ak,ak
 2023-05-26T16:04:40.710Z,58.2066666666667,-155.1995,3.5,-0.29,ml,9,78,,0.14,av,av91772752,2023-05-27T00:26:27.600Z,"83 km NNW of Karluk, Alaska",earthquake,0.27,1.12,0.223002526487033,9,reviewed,av,av
-2023-05-26T16:03:39.540Z,58.1721666666667,-155.326666666667,0.69,-0.33,ml,6,113,,0.07,av,av91772747,2023-05-27T00:22:50.170Z,"Alaska Peninsula",earthquake,0.24,1.58,0.243171577834413,6,reviewed,av,av
+2023-05-26T16:03:39.540Z,58.1721666666667,-155.326666666667,0.69,-0.33,ml,6,113,,0.07,av,av91772747,2023-05-27T00:22:50.170Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.58,0.243171577834413,6,reviewed,av,av
 2023-05-26T16:01:24.660Z,58.1731666666667,-155.3285,2.29,0.83,ml,11,73,,0.07,av,av91105083,2023-05-27T00:20:28.230Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.4,0.226752476573547,12,reviewed,av,av
 2023-05-26T16:01:10.820Z,58.1851666666667,-155.279166666667,1.54,-0.13,ml,5,148,,0.03,av,av91772742,2023-05-27T00:16:54.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,0.83,0.200653731918879,5,reviewed,av,av
 2023-05-26T15:43:06.990Z,36.467,-121.0506667,9.14,2.18,md,51,119,0.0131,0.09,nc,nc73890235,2023-05-26T19:36:10.474Z,"11km SE of Pinnacles, CA",earthquake,0.18,0.28,0.196,53,reviewed,nc,nc
@@ -254,7 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T06:22:03.060Z,34.4961667,-118.7011667,19.48,1.22,ml,26,57,0.07017,0.18,ci,ci40233895,2023-05-26T18:46:53.608Z,"7km W of Castaic, CA",earthquake,0.32,0.52,0.12,20,reviewed,ci,ci
 2023-05-26T06:21:11.390Z,38.8294983,-122.8604965,1.26,0.38,md,7,115,0.01225,0.1,nc,nc73890070,2023-05-26T06:35:19.701Z,"11km WNW of The Geysers, CA",earthquake,0.62,1.77,0.19,8,automatic,nc,nc
 2023-05-26T06:14:11.670Z,61.4045,-150.9306,63.5,1.7,ml,,,,0.29,ak,ak0236pk4anj,2023-05-26T06:15:34.279Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-26T06:08:10.190Z,37.2926,-117.5815,6.2,1.7,ml,16,96.85,0.079,0.145,nn,nn00860338,2023-05-26T19:07:18.997Z,"California-Nevada border region",earthquake,,1.5,0.81,9,reviewed,nn,nn
-2023-05-26T06:05:09.870Z,37.2965,-117.5704,0.7,1.1,ml,10,128.67,0.088,0.1447,nn,nn00860335,2023-05-26T21:30:38.635Z,"California-Nevada border region",earthquake,,4.4,1.01,7,reviewed,nn,nn
-2023-05-26T06:04:46.332Z,60.8007,-149.6318,35.2,1.6,ml,,,,0.94,ak,ak0236pk2861,2023-05-26T06:07:10.352Z,"13 km S of Hope, Alaska",earthquake,,10.2,,,automatic,ak,ak
-2023-05-26T06:03:38.389Z,60.3381,-149.385,26.8,1.8,ml,,,,0.86,ak,ak0236pk1zu6,2023-05-26T06:07:11.248Z,"2 km WSW of Primrose, Alaska",earthquake,,0.2,,,automatic,ak,ak
