@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-27T19:07:40.620Z,35.9883347,-117.560997,3.48,1.16,ml,16,155,0.2011,0.13,ci,ci40235407,2023-05-27T19:10:00.775Z,"28km NNW of Searles Valley, CA",earthquake,0.53,1.52,0.061,2,automatic,ci,ci
+2023-05-27T19:07:40.450Z,35.9896667,-117.569,0.09,1.05,ml,14,153,0.1947,0.18,ci,ci40235407,2023-05-27T19:11:11.967Z,"29km NNW of Searles Valley, CA",earthquake,0.45,0.83,0.112,7,automatic,ci,ci
 2023-05-27T19:03:13.680Z,19.4356670379639,-155.325164794922,4.34999990463257,1.75,ml,22,88,,0.150000006,hv,hv73424787,2023-05-27T19:08:43.770Z,"9 km W of Volcano, Hawaii",earthquake,0.36,1.07000005,0.24,4,automatic,hv,hv
-2023-05-27T18:59:23.730Z,38.7939987,-122.7578354,3.61,1.03,md,9,109,0.02352,0.01,nc,nc73890665,2023-05-27T19:01:00.717Z,"2km N of The Geysers, CA",earthquake,0.38,1.05,0.07,10,automatic,nc,nc
+2023-05-27T18:59:23.730Z,38.7939987,-122.7578354,3.61,1.03,md,9,109,0.02352,0.01,nc,nc73890665,2023-05-27T19:12:10.802Z,"2km N of The Geysers, CA",earthquake,0.38,1.05,0.07,10,automatic,nc,nc
 2023-05-27T18:44:45.690Z,33.0061667,-116.3181667,10.11,0.88,ml,17,95,0.05291,0.19,ci,ci40235375,2023-05-27T18:48:21.367Z,"23km SW of Ocotillo Wells, CA",earthquake,0.3,0.65,0.157,10,automatic,ci,ci
 2023-05-27T18:35:33.556Z,60.0075,-148.0076,8.1,2.4,ml,,,,0.91,ak,ak0236rexe4r,2023-05-27T18:37:53.946Z,"6 km S of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T18:30:10.430Z,38.8185005,-122.7606659,1.64,0.75,md,9,204,0.01397,0.02,nc,nc73890655,2023-05-27T18:49:12.665Z,"3km W of Cobb, CA",earthquake,0.49,0.86,0.38,10,automatic,nc,nc
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T19:30:09.940Z,58.1825,-155.32,1.17,-0.3,ml,7,105,,0.06,av,av91772837,2023-05-27T01:48:24.590Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.78,0.163211876909032,7,reviewed,av,av
 2023-05-26T19:27:55.190Z,59.4416666666667,-153.1785,11.82,1.79,ml,9,334,,0.06,av,av91772832,2023-05-27T02:18:39.020Z,"64 km SE of Pedro Bay, Alaska",earthquake,1.78,1.95,0.0448053865619955,2,reviewed,av,av
 2023-05-26T19:25:49.110Z,58.1888333333333,-155.2745,2.46,0.08,ml,9,88,,0.05,av,av91772827,2023-05-27T01:27:45.020Z,"Alaska Peninsula",earthquake,0.18,0.44,0.310089758955793,10,reviewed,av,av
-2023-05-26T19:12:08.700Z,33.8116667,-116.393,12.54,0.84,ml,23,79,0.02129,0.1,ci,ci40234391,2023-05-26T23:05:51.404Z,"1km SSW of Thousand Palms, CA",earthquake,0.19,0.5,0.127,16,reviewed,ci,ci
