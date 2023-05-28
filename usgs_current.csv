@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-28T09:13:26.468Z,57.3637,-156.3571,38.4,2.5,ml,,,,1.11,ak,ak0236swz3vn,2023-05-28T09:17:14.556Z,"64 km ESE of Ugashik, Alaska",earthquake,,6.4,,,automatic,ak,ak
+2023-05-28T09:12:51.480Z,38.8233337,-122.8523331,2.11,1.06,md,21,90,0.005501,0.03,nc,nc73890890,2023-05-28T09:14:26.690Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.46,0.15,23,automatic,nc,nc
 2023-05-28T09:09:07.820Z,37.5771675,-121.6738358,2.58,1.76,md,23,115,0.1008,0.14,nc,nc73890885,2023-05-28T09:10:46.875Z,"14km SE of Livermore, CA",earthquake,0.34,1.34,0.1,15,automatic,nc,nc
 2023-05-28T08:47:25.700Z,32.392,-115.2125,10.81,2.03,ml,24,51,0.08291,0.32,ci,ci40235919,2023-05-28T08:57:54.070Z,"4km NNW of Delta, B.C., MX",earthquake,0.62,1.37,0.283,21,automatic,ci,ci
 2023-05-28T08:46:03.880Z,38.8050003,-122.779335,2.45,1.02,md,8,146,0.01282,0.01,nc,nc73890880,2023-05-28T09:07:11.980Z,"4km NNW of The Geysers, CA",earthquake,0.57,0.74,0.26,12,automatic,nc,nc
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T05:53:21.540Z,19.5456,-65.6766,111,3.78,md,7,283,1.2993,0.26,pr,pr2023148002,2023-05-28T06:36:29.154Z,"124 km N of Suárez, Puerto Rico",earthquake,6.23,9.37,0.01,3,reviewed,pr,pr
 2023-05-28T05:51:10.899Z,60.2365,-150.9456,51,2.5,ml,,,,0.39,ak,ak0236suthgx,2023-05-28T06:50:22.040Z,"21 km ESE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-28T05:50:54.770Z,19.2455005645752,-155.391662597656,31.3799991607666,1.87,ml,49,137,,0.119999997,hv,hv73425852,2023-05-28T05:56:26.140Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.620000005,3.24,7,automatic,hv,hv
-2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T08:21:34.817Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
+2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T09:14:37.545Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
 2023-05-28T05:37:57.630Z,19.4046669006348,-155.26350402832,1.47000002861023,2.06,ml,22,59,,0.100000001,hv,hv73425837,2023-05-28T05:43:29.660Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.39,11,automatic,hv,hv
 2023-05-28T05:33:39.638Z,57.074,-156.2038,11.9,2.5,ml,,,,0.85,ak,ak0236suposr,2023-05-28T06:21:12.040Z,"87 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-28T05:33:05.790Z,19.555,-65.6766,93,3.64,md,10,279,1.3082,0.53,pr,pr2023148001,2023-05-28T06:05:39.852Z,"125 km N of Suárez, Puerto Rico",earthquake,9.14,17.11,0.17,5,reviewed,pr,pr
@@ -201,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T09:30:49.080Z,19.3875007629395,-155.272003173828,1.24000000953674,1.97000003,md,21,56,,0.219999999,hv,hv73424042,2023-05-27T09:33:56.530Z,"7 km SSW of Volcano, Hawaii",earthquake,0.28,0.200000003,0.959999979,13,automatic,hv,hv
 2023-05-27T09:25:45.577Z,37.2751,-117.5842,6.8,0.9,ml,7,123.71,0.065,0.1658,nn,nn00860409,2023-05-28T02:03:33.743Z,"53 km S of Silver Peak, Nevada",earthquake,,5.8,0.87,5,reviewed,nn,nn
 2023-05-27T09:25:07.480Z,19.3846664428711,-155.283996582031,1.11000001430511,1.87,md,13,158,,0.109999999,hv,hv73424032,2023-05-27T09:27:55.760Z,"Island of Hawaii, Hawaii",earthquake,0.38,0.230000004,0.980000019,9,automatic,hv,hv
-2023-05-27T09:19:51.040Z,19.652,-65.7881,29,3.76,md,12,246,1.4364,0.29,pr,pr2023147003,2023-05-27T10:17:07.221Z,"135 km N of Suárez, Puerto Rico",earthquake,1.33,22.16,0.06,7,reviewed,pr,pr
-2023-05-27T09:19:05.032Z,61.8265,-149.3486,31.8,1.7,ml,,,,0.55,ak,ak0236r9h013,2023-05-27T09:22:20.318Z,"10 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
