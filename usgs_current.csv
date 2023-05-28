@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-28T06:01:18.000Z,19.2478332519531,-155.398330688477,31.7900009155273,1.81,ml,43,133,,0.119999997,hv,hv73425872,2023-05-28T06:06:52.700Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.600000024,0.73,3,automatic,hv,hv
-2023-05-28T05:58:06.820Z,37.1036682,-121.5246658,4.51,1.47,md,12,150,0.06164,0.12,nc,nc73890850,2023-05-28T06:12:10.870Z,"8km ENE of San Martin, CA",earthquake,0.54,1.28,0.23,9,automatic,nc,nc
+2023-05-28T05:58:06.820Z,37.1036682,-121.5246658,4.51,1.47,md,12,150,0.06164,0.12,nc,nc73890850,2023-05-28T06:14:11.881Z,"8km ENE of San Martin, CA",earthquake,0.54,1.28,0.23,9,automatic,nc,nc
 2023-05-28T05:51:10.899Z,60.2365,-150.9456,51,2.5,ml,,,,0.39,ak,ak0236suthgx,2023-05-28T05:52:32.314Z,"21 km ESE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-28T05:50:54.770Z,19.2455005645752,-155.391662597656,31.3799991607666,1.87,ml,49,137,,0.119999997,hv,hv73425852,2023-05-28T05:56:26.140Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.620000005,3.24,7,automatic,hv,hv
-2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T06:10:09.040Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
+2023-05-28T05:49:56.136Z,36.6111,71.076,223.835,5.2,mww,106,45,2.621,0.65,us,us7000k4kr,2023-05-28T06:14:37.190Z,"35 km SE of Jurm, Afghanistan",earthquake,6.55,6.018,0.083,14,reviewed,us,us
 2023-05-28T05:37:57.630Z,19.4046669006348,-155.26350402832,1.47000002861023,2.06,ml,22,59,,0.100000001,hv,hv73425837,2023-05-28T05:43:29.660Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.39,11,automatic,hv,hv
 2023-05-28T05:33:39.638Z,57.074,-156.2038,11.9,2.5,ml,,,,0.85,ak,ak0236suposr,2023-05-28T05:35:42.560Z,"87 km SE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-28T05:33:05.790Z,19.555,-65.6766,93,3.64,md,10,279,1.3082,0.53,pr,pr2023148001,2023-05-28T06:05:39.852Z,"125 km N of Suárez, Puerto Rico",earthquake,9.14,17.11,0.17,5,reviewed,pr,pr
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T19:42:44.778Z,62.9694,-148.712,74.1,1.8,ml,,,,0.77,ak,ak0236rfkcm5,2023-05-27T19:44:50.420Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-27T19:41:01.780Z,38.8218346,-122.810997,-0.6,1.87,md,28,39,0.001717,0.37,nc,nc73890680,2023-05-27T21:00:15.471Z,"7km NW of The Geysers, CA",earthquake,0.42,0.91,0.16,27,automatic,nc,nc
 2023-05-27T19:36:36.021Z,-6.1168,130.4398,153.047,5.2,mb,75,88,1.671,0.67,us,us7000k4i5,2023-05-27T19:52:55.040Z,"Banda Sea",earthquake,5.57,5.359,0.064,81,reviewed,us,us
-2023-05-27T19:24:53.151Z,36.8279,71.3704,179.761,4.3,mb,39,71,2.616,0.57,us,us7000k4i4,2023-05-28T06:08:41.987Z,"21 km NW of Ashkāsham, Afghanistan",earthquake,7.05,7.72,0.113,22,reviewed,us,us
+2023-05-27T19:24:53.151Z,36.8279,71.3704,179.761,4.3,mb,39,71,2.616,0.57,us,us7000k4i4,2023-05-28T06:13:50.800Z,"21 km NW of Ashkāsham, Afghanistan",earthquake,7.05,7.72,0.113,22,reviewed,us,us
 2023-05-27T19:21:46.320Z,38.8121681,-122.8355026,12.14,0.82,md,12,87,0.005939,0.1,nc,nc73890675,2023-05-27T20:33:14.302Z,"8km WNW of The Geysers, CA",earthquake,1.19,1.49,0.08,13,automatic,nc,nc
 2023-05-27T19:16:12.030Z,38.831501,-122.819664,1.54,0.83,md,7,101,0.01103,0.02,nc,nc73890670,2023-05-27T20:31:10.288Z,"8km NW of The Geysers, CA",earthquake,0.39,0.95,0.24,7,automatic,nc,nc
 2023-05-27T19:07:40.450Z,35.9896667,-117.569,0.09,1.05,ml,14,153,0.1947,0.18,ci,ci40235407,2023-05-27T19:11:11.967Z,"29km NNW of Searles Valley, CA",earthquake,0.45,0.83,0.112,7,automatic,ci,ci
