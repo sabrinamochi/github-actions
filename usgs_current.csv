@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T02:49:42.940Z,37.4995,-87.3916666666667,14.55,2.4,md,8,172,0.1192,0.14,nm,nm60500763,2023-05-30T04:01:17.576Z,"7 km SSE of Onton, Kentucky",earthquake,1.82,1.55,0.141762344721973,6,reviewed,nm,nm
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
-2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T04:25:29.170Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
+2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T04:30:46.605Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-05-30T02:28:39.150Z,38.8051682,-122.8225021,2.31,1.09,md,21,71,0.006392,0.02,nc,nc73891510,2023-05-30T03:52:12.711Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.47,0.14,21,automatic,nc,nc
 2023-05-30T02:27:03.900Z,34.1603333,-116.4256667,9.12,1.45,ml,34,58,0.0399,0.18,ci,ci40237207,2023-05-30T02:30:41.274Z,"5km N of Yucca Valley, CA",earthquake,0.28,0.6,0.189,26,automatic,ci,ci
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T22:05:34.952Z,37.2786,-117.5794,1.8,0.7,ml,8,135.18,0.07,0.2222,nn,nn00860492,2023-05-29T22:08:19.891Z,"Central California",earthquake,,17.1,1.1,6,automatic,nn,nn
 2023-05-29T21:58:06.229Z,58.1797,-155.2665,1.1,1.6,ml,,,,0.58,ak,ak0236urx9am,2023-05-29T21:59:55.601Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-05-29T21:55:30.168Z,63.9891,-148.9914,131.4,1.1,ml,,,,0.15,ak,ak0236urwo46,2023-05-29T21:57:01.558Z,"6 km ESE of Ferry, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-29T21:52:04.854Z,-52.887,10.4709,10,5.7,mww,98,36,19.746,0.48,us,us7000k4ug,2023-05-30T04:27:57.040Z,"southwest of Africa",earthquake,7.34,1.792,0.093,11,reviewed,us,us
+2023-05-29T21:52:04.854Z,-52.887,10.4709,10,5.7,mww,98,36,19.746,0.48,us,us7000k4ug,2023-05-30T04:29:48.897Z,"southwest of Africa",earthquake,7.34,1.792,0.093,11,reviewed,us,us
 2023-05-29T21:17:37.000Z,38.8134995,-122.8271637,1.8,1.32,md,22,60,0.004885,0.02,nc,nc73891435,2023-05-29T22:36:13.759Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.36,0.13,26,automatic,nc,nc
 2023-05-29T21:16:21.560Z,33.8701667,-117.5033333,9.84,1.39,ml,52,29,0.07157,0.19,ci,ci40237111,2023-05-29T21:20:07.037Z,"2km ESE of Home Gardens, CA",quarry blast,0.23,0.49,0.194,28,automatic,ci,ci
 2023-05-29T21:11:11.504Z,63.4032,-149.1111,78.4,1.8,ml,,,,0.48,ak,ak0236urn71q,2023-05-29T21:13:11.059Z,"8 km W of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T04:53:31.730Z,32.9481667,-116.2233333,12.65,1.11,ml,27,63,0.06761,0.21,ci,ci40236567,2023-05-29T04:57:07.123Z,"23km SSW of Ocotillo Wells, CA",earthquake,0.3,0.8,0.146,19,automatic,ci,ci
 2023-05-29T04:41:37.849Z,61.5367,-149.8709,44.2,1.6,ml,,,,0.51,ak,ak0236uhpba0,2023-05-29T04:43:33.024Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-29T04:40:20.506Z,62.2003,-141.8745,0,2,ml,,,,0.52,ak,ak0236uhp282,2023-05-29T04:42:50.580Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-29T04:31:14.376Z,63.5479,-147.3495,0,2.3,ml,,,,0.67,ak,ak0236uhn4b1,2023-05-29T04:44:40.833Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
