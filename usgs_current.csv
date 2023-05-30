@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-30T16:44:37.399Z,58.1769,-155.4031,0.1,1.5,ml,,,,0.51,ak,ak0236wcei57,2023-05-30T16:46:12.253Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
+2023-05-30T16:41:09.823Z,63.4993,-149.2894,36.7,1.5,ml,,,,0.69,ak,ak0236wcdsva,2023-05-30T16:43:06.316Z,"20 km NW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-30T16:36:48.997Z,58.2509,-155.1296,1.4,0.1,ml,,,,0.12,ak,ak0236wcctb7,2023-05-30T16:38:12.244Z,"85 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-05-30T16:36:36.238Z,64.9648,-148.6808,15.1,2,ml,,,,0.51,ak,ak0236wccsbr,2023-05-30T16:38:20.243Z,"34 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-30T16:33:48.010Z,19.4069995880127,-155.253326416016,2.05999994277954,1.88,ml,26,81,,0.150000006,hv,hv73430417,2023-05-30T16:39:21.430Z,"4 km SSW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.24,11,automatic,hv,hv
 2023-05-30T16:33:12.910Z,34.3728333,-116.8761667,-0.62,1.4,ml,19,214,0.04729,0.4,ci,ci40237943,2023-05-30T16:36:53.766Z,"12km SE of Lucerne Valley, CA",earthquake,2.05,31.61,0.127,31,automatic,ci,ci
 2023-05-30T16:31:29.205Z,58.2526,-155.0799,1.3,1,ml,,,,0.56,ak,ak0236wcbp7a,2023-05-30T16:36:55.189Z,"84 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-05-30T16:21:46.936Z,58.2555,-155.0919,0.3,0.4,ml,,,,0.21,ak,ak0236wc9let,2023-05-30T16:24:02.180Z,"85 km NNW of Karluk, Alaska",earthquake,,76.7,,,automatic,ak,ak
+2023-05-30T16:21:46.936Z,58.2555,-155.0919,0.3,0.4,ml,,,,0.21,ak,ak0236wc9let,2023-05-30T16:24:02.180Z,"Alaska Peninsula",earthquake,,76.7,,,automatic,ak,ak
 2023-05-30T16:09:28.385Z,58.1682,-155.3843,1.1,0.7,ml,,,,0.62,ak,ak0236wc6zdy,2023-05-30T16:10:50.481Z,"86 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-05-30T16:08:28.760Z,33.2233333,-115.63,3.29,1.56,ml,28,67,0.04058,0.17,ci,ci40237903,2023-05-30T16:12:12.474Z,"10km W of Niland, CA",earthquake,0.29,0.4,0.123,27,automatic,ci,ci
 2023-05-30T16:04:37.786Z,58.1495,-155.5166,21.3,0.3,ml,,,,0.66,ak,ak0236wc5xj6,2023-05-30T16:06:22.420Z,"89 km SE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -122,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T02:49:43.600Z,37.5325,-87.3443333333333,0.69,2.51,md,17,103,0.1217,0.28,nm,nm60500763,2023-05-30T16:35:54.713Z,"7 km W of Calhoun, Kentucky",earthquake,0.92,1.65,0.184107851597688,13,reviewed,nm,nm
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
-2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T16:32:38.605Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
+2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T16:43:10.611Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
 2023-05-30T02:40:23.010Z,41.5016667,-112.1768333,8.05,1.36,ml,18,92,0.1044,0.1,uu,uu60541226,2023-05-30T14:50:20.150Z,"7 km SW of Corinne, Utah",earthquake,0.32,1.43,0.106,2,reviewed,uu,uu
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-05-30T02:28:39.150Z,38.8051682,-122.8225021,2.31,1.09,md,21,71,0.006392,0.02,nc,nc73891510,2023-05-30T03:52:12.711Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.47,0.14,21,automatic,nc,nc
@@ -189,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T18:20:48.860Z,38.7956657,-122.7624969,2.65,0.79,md,9,113,0.005409,0.01,nc,nc73891410,2023-05-29T18:42:14.179Z,"2km NNW of The Geysers, CA",earthquake,0.54,0.72,0.06,10,automatic,nc,nc
 2023-05-29T18:01:01.106Z,58.2555,-155.1472,0,0.6,ml,,,,0.24,ak,ak0236upsq9c,2023-05-29T18:04:16.763Z,"Alaska Peninsula",earthquake,,1.8,,,automatic,ak,ak
 2023-05-29T18:00:30.206Z,37.2799,-117.6068,7.9,1,ml,10,140.75,0.057,0.1464,nn,nn00860486,2023-05-29T18:22:14.133Z,"52 km S of Silver Peak, Nevada",earthquake,,1.9,0.92,6,reviewed,nn,nn
-2023-05-29T17:57:27.300Z,44.7896667,-110.805,3.73,0.63,md,6,221,0.03243,0.05,uu,uu60541141,2023-05-30T16:12:20.700Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.76,1.12,0.266,4,reviewed,uu,uu
+2023-05-29T17:57:27.300Z,44.7896667,-110.805,3.73,0.63,md,6,221,0.03243,0.05,uu,uu60541141,2023-05-30T16:12:20.700Z,"Wyoming",earthquake,0.76,1.12,0.266,4,reviewed,uu,uu
 2023-05-29T17:41:52.920Z,33.6988333,-116.7015,17.5,0.87,ml,41,55,0.01621,0.22,ci,ci40237023,2023-05-29T17:45:37.974Z,"5km SSE of Idyllwild, CA",earthquake,0.35,0.46,0.183,28,automatic,ci,ci
 2023-05-29T17:39:19.297Z,38.5181,-119.5081,6.2,1.3,ml,8,163.6,0.068,0.0857,nn,nn00860484,2023-05-29T17:42:39.809Z,"2 km W of Walker, California",earthquake,,0.8,0.31,5,automatic,nn,nn
 2023-05-29T17:29:27.590Z,32.8871667,-116.2788333,5.32,1.79,ml,50,68,0.07034,0.23,ci,ci40237007,2023-05-29T17:40:35.440Z,"24km ENE of Pine Valley, CA",earthquake,0.26,0.81,0.169,26,automatic,ci,ci
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T17:08:16.844Z,9.7704,125.1503,11.013,4.6,mb,76,84,2.717,0.69,us,us7000k4t6,2023-05-30T01:36:13.396Z,"Mindanao, Philippines",earthquake,6.67,4.29,0.068,70,reviewed,us,us
 2023-05-29T17:04:42.510Z,19.2438335418701,-155.399673461914,30.6900005340576,1.77999997,md,41,151,,0.140000001,hv,hv73428742,2023-05-29T17:08:09.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,0.670000017,7,automatic,hv,hv
 2023-05-29T17:03:40.902Z,61.6922,-151.9908,122.1,1.6,ml,,,,0.33,ak,ak0236up7t62,2023-05-29T17:05:25.429Z,"45 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-29T16:46:49.632Z,61.8013,-149.5587,50.2,1.2,ml,,,,0.4,ak,ak0236uovm0z,2023-05-29T16:48:36.376Z,"18 km WNW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
