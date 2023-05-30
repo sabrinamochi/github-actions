@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-30T19:47:46.040Z,38.7823334,-122.7243347,1.24,1.35,md,17,80,0.009726,0.03,nc,nc73891730,2023-05-30T19:49:21.325Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.57,0.15,17,automatic,nc,nc
+2023-05-30T19:45:32.750Z,33.4863333,-116.4423333,12.33,1.09,ml,33,75,0.03949,0.18,ci,ci40238175,2023-05-30T19:49:05.294Z,"23km ESE of Anza, CA",earthquake,0.23,0.55,0.178,29,automatic,ci,ci
 2023-05-30T19:36:59.704Z,58.0393,-154.6867,79.4,1.1,ml,,,,0.64,ak,ak0236we54ya,2023-05-30T19:39:16.026Z,"54 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-30T19:27:28.169Z,60.663,-151.1959,58.5,1.2,ml,,,,0.26,ak,ak0236we352o,2023-05-30T19:29:19.974Z,"5 km ESE of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-30T19:22:08.270Z,33.3951667,-116.9008333,14.66,0.87,ml,24,72,0.05233,0.19,ci,ci40238135,2023-05-30T19:25:43.639Z,"6km NW of Palomar Observatory, CA",earthquake,0.34,0.65,0.163,17,automatic,ci,ci
-2023-05-30T19:21:31.768Z,58.5269,-154.9654,250,1.2,ml,,,,0.83,ak,ak0236we1v20,2023-05-30T19:23:42.858Z,"100 km E of King Salmon, Alaska",earthquake,,10.8,,,automatic,ak,ak
 2023-05-30T19:15:17.140Z,37.6310005,-118.9589996,5.29,1.13,md,12,131,0.03225,0.02,nc,nc73891720,2023-05-30T19:34:10.505Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.58,1.84,0.18,12,automatic,nc,nc
 2023-05-30T19:13:50.211Z,61.4443,-151.4669,67.4,1.6,ml,,,,0.58,ak,ak0236we06r1,2023-05-30T19:15:49.854Z,"39 km NNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-30T19:02:14.360Z,37.6290016,-118.9608307,5.27,1.19,md,9,137,0.03334,0.02,nc,nc73891700,2023-05-30T19:14:10.376Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.8,1.92,0.11,9,automatic,nc,nc
@@ -194,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T22:29:41.060Z,44.4616667,-110.5891667,4.64,1.3,md,12,72,0.02468,0.07,uu,uu60541181,2023-05-30T15:49:10.390Z,"46 km ESE of West Yellowstone, Montana",earthquake,0.37,0.4,0.508,9,reviewed,uu,uu
 2023-05-29T22:29:23.380Z,19.2345008850098,-155.414505004883,31.7900009155273,2.07,ml,43,131,,0.119999997,hv,hv73429122,2023-05-29T22:34:53.770Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,0.16,4,automatic,hv,hv
 2023-05-29T22:27:45.550Z,44.4615,-110.602,5.09,1.49,md,11,130,0.02647,0.11,uu,uu60541176,2023-05-30T15:57:25.450Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.83,0.77,0.471,6,reviewed,uu,uu
+2023-05-29T22:22:36.480Z,44.4676667,-110.5675,3.28,1.74,md,4,188,0.034,0.13,uu,uu60541161,2023-05-30T19:46:28.080Z,"47 km ESE of West Yellowstone, Montana",earthquake,2.34,2.69,0.154,3,reviewed,uu,uu
 2023-05-29T22:19:24.990Z,19.4046669006348,-155.282669067383,1.57000005245209,1.73,ml,20,41,,0.150000006,hv,hv73429097,2023-05-29T22:24:55.980Z,"6 km SW of Volcano, Hawaii",earthquake,0.31,0.239999995,0.27,8,automatic,hv,hv
 2023-05-29T22:09:48.550Z,19.4153327941895,-155.271835327148,4.69000005722046,1.75,md,27,43,,0.100000001,hv,hv73429092,2023-05-29T22:12:54.080Z,"5 km SW of Volcano, Hawaii",earthquake,0.29,0.360000014,0.699999988,15,automatic,hv,hv
 2023-05-29T22:09:45.030Z,38.8318329,-122.8113327,2.07,0.63,md,10,90,0.008483,0.01,nc,nc73891445,2023-05-29T23:19:13.182Z,"8km NW of The Geysers, CA",earthquake,0.36,1.2,0.31,11,automatic,nc,nc
@@ -213,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T19:56:43.893Z,31.68658877,-104.4157386,5.823071289,2.2,ml,17,81,0.01071023289,0.2,tx,tx2023klxy,2023-05-30T18:35:30.992Z,"54 km S of Whites City, New Mexico",earthquake,0.7506988516,0.5303799397,0.1,9,reviewed,tx,tx
 2023-05-29T19:56:22.540Z,18.0008333333333,-67.1473333333333,15,2.3,md,14,227,0.03633,0.09,pr,pr71411703,2023-05-29T20:08:32.920Z,"3 km SE of Boquerón, Puerto Rico",earthquake,0.44,0.4,0.1118926567004,8,reviewed,pr,pr
 2023-05-29T19:53:30.270Z,33.6085,-115.9553333,5.49,1.34,ml,35,52,0.05342,0.23,ci,ci40237079,2023-05-29T19:56:59.210Z,"9km N of North Shore, CA",earthquake,0.32,0.58,0.169,27,automatic,ci,ci
-2023-05-29T19:48:37.440Z,38.3846664,-122.3531647,4.34,2.35,md,7,143,0.5032,0.23,nc,nc73891425,2023-05-29T21:16:12.258Z,"2km SSE of Yountville, CA",earthquake,7.8,15.2,,1,automatic,nc,nc
-2023-05-29T19:46:11.001Z,61.0472,-149.436,23.3,2.3,ml,,,,0.6,ak,ak0236uqntv0,2023-05-29T19:52:07.668Z,"17 km N of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
