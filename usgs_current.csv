@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T23:10:55.320Z,34.0270004,-116.8171692,9.08,1.01,ml,23,99,0.01126,0.26,ci,ci40239335,2023-05-31T23:13:00.939Z,"12km NNW of Cabazon, CA",earthquake,0.47,0.92,0.35,4,automatic,ci,ci
+2023-05-31T23:10:55.490Z,34.0226667,-116.818,10.48,0.94,ml,24,115,0.01507,0.29,ci,ci40239335,2023-05-31T23:14:33.002Z,"12km NNW of Cabazon, CA",earthquake,0.57,1.29,0.235,25,automatic,ci,ci
 2023-05-31T23:00:43.697Z,58.2457,-155.0936,3.1,0.5,ml,,,,1.22,ak,ak0236y3ugup,2023-05-31T23:02:34.680Z,"84 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-31T22:36:36.602Z,63.4255,-146.9787,26.8,0.9,ml,,,,0.43,ak,ak0236y3gqh8,2023-05-31T22:38:27.566Z,"78 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-31T22:31:07.360Z,33.5004997,-116.4039993,8.04,1,ml,18,87,0.1191,0.12,ci,ci40239303,2023-05-31T23:13:16.989Z,"20km SSW of La Quinta, CA",earthquake,0.34,1.56,0.197,6,automatic,ci,ci
+2023-05-31T22:31:07.050Z,33.505,-116.4016667,12.67,0.69,ml,19,72,0.1157,0.18,ci,ci40239303,2023-05-31T23:13:36.332Z,"20km SSW of La Quinta, CA",earthquake,0.34,0.64,0.113,13,automatic,ci,ci
+2023-05-31T22:29:02.060Z,33.4991667,-116.3988333,7.59,0.76,ml,19,89,0.122,0.15,ci,ci40239295,2023-05-31T23:13:32.323Z,"20km SSW of La Quinta, CA",earthquake,0.31,1.52,0.202,17,automatic,ci,ci
 2023-05-31T22:28:43.770Z,33.505,-116.4056667,7.67,0.63,ml,16,162,0.02484,0.18,ci,ci40239287,2023-05-31T23:13:24.167Z,"20km SSW of La Quinta, CA",earthquake,0.48,0.94,0.089,10,automatic,ci,ci
 2023-05-31T22:28:04.570Z,32.9678333,-117.527,13.02,1.36,ml,22,202,0.3093,0.2,ci,ci40239279,2023-05-31T23:13:19.129Z,"23km WSW of Encinitas, CA",earthquake,0.94,2.31,0.17,12,automatic,ci,ci
 2023-05-31T22:27:27.190Z,60.5916,-147.5254,17,1.1,ml,,,,0.59,ak,ak0236y3esas,2023-05-31T22:29:30.018Z,"55 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -268,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T23:32:54.240Z,37.6301667,-118.9578333,5.19,0.08,md,9,134,0.03343,0.02,nc,nc73891825,2023-05-31T06:08:11.344Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.66,1.31,0.091,10,reviewed,nc,nc
 2023-05-30T23:29:26.000Z,34.1206667,-117.4851667,18.44,1.01,ml,18,80,0.08766,0.24,ci,ci40238375,2023-05-30T23:33:05.550Z,"4km NW of Fontana, CA",earthquake,0.55,0.82,0.235,18,automatic,ci,ci
 2023-05-30T23:21:49.070Z,37.624,-118.9588333,3.91,0.09,md,6,148,0.03656,0.06,nc,nc73891820,2023-05-31T04:35:05.425Z,"2km SE of Mammoth Lakes, CA",earthquake,0.79,1.63,0.162,5,reviewed,nc,nc
-2023-05-30T23:20:56.580Z,35.0308333,-117.6806667,0.26,1.49,ml,19,70,0.09707,0.24,ci,ci40238367,2023-05-30T23:24:32.925Z,"4km NW of Boron, CA",quarry blast,0.58,31.61,0.164,17,automatic,ci,ci
-2023-05-30T23:19:52.350Z,38.8438339,-122.8241653,2.03,1.25,md,25,92,0.01028,0.02,nc,nc73891815,2023-05-31T02:16:12.924Z,"9km WNW of Cobb, CA",earthquake,0.21,0.39,0.18,24,automatic,nc,nc
