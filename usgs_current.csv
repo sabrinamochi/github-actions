@@ -167,8 +167,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T05:18:46.690Z,38.8078346,-122.8195038,1.99,1.63,md,32,56,0.007629,0.04,nc,nc73891555,2023-05-30T06:35:18.702Z,"6km WNW of The Geysers, CA",earthquake,0.17,0.29,0.14,32,automatic,nc,nc
 2023-05-30T05:13:01.550Z,38.7891655,-122.7679977,2.03,1.28,md,17,104,0.01315,0.03,nc,nc73891550,2023-05-30T06:07:14.536Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.21,16,automatic,nc,nc
 2023-05-30T05:05:56.482Z,63.2488,-150.5333,129.6,2.1,ml,,,,0.52,ak,ak0236w5mf0e,2023-05-30T05:18:35.040Z,"67 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-30T05:03:47.650Z,34.1653333,-116.4283333,10.32,0.81,ml,12,115,0.0365,0.12,ci,ci40237279,2023-05-30T05:07:09.986Z,"6km N of Yucca Valley, CA",earthquake,0.35,0.58,0.138,8,automatic,ci,ci
-2023-05-30T04:57:12.970Z,34.1588333,-116.4286667,8.35,1.81,ml,47,52,0.04232,0.2,ci,ci40237271,2023-05-30T05:08:06.670Z,"5km N of Yucca Valley, CA",earthquake,0.25,0.68,0.109,26,automatic,ci,ci
+2023-05-30T05:03:47.560Z,34.1645,-116.4321667,10.46,0.64,ml,18,63,0.03891,0.13,ci,ci40237279,2023-05-31T00:06:22.727Z,"6km N of Yucca Valley, CA",earthquake,0.3,0.45,0.101,11,reviewed,ci,ci
+2023-05-30T04:57:12.850Z,34.1576667,-116.4283333,8.64,1.81,ml,57,51,0.04324,0.15,ci,ci40237271,2023-05-31T00:03:30.520Z,"5km N of Yucca Valley, CA",earthquake,0.16,0.42,0.107,24,reviewed,ci,ci
 2023-05-30T04:50:40.890Z,44.7575,-111.499833333333,6.97,0.68,ml,4,137,0.08846,0.01,mb,mb90016283,2023-05-30T18:06:40.180Z,"24 km W of Hebgen Lake Estates, Montana",earthquake,0.58,1.14,0.0930391133812219,2,reviewed,mb,mb
 2023-05-30T04:50:39.780Z,61.8992,-149.3083,2.8,1.4,ml,,,,0.8,ak,ak0236w5ald6,2023-05-30T04:52:38.652Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T04:49:33.890Z,19.3686676025391,-155.229339599609,28.7600002288818,1.74000001,md,47,95,,0.140000001,hv,hv73429557,2023-05-30T04:55:04.280Z,"8 km S of Volcano, Hawaii",earthquake,0.59,0.469999999,0.930000007,12,automatic,hv,hv
@@ -186,6 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T03:26:50.450Z,44.789,-110.821,4.94,1.01,md,14,103,0.02102,0.12,uu,uu60541231,2023-05-30T13:29:45.770Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.34,0.53,0.38,7,reviewed,uu,uu
 2023-05-30T03:18:21.540Z,32.8166667,-118.4318333,4.45,2.25,ml,24,231,0.1894,0.32,ci,ci40237231,2023-05-30T23:54:49.558Z,"8km W of San Clemente Is. (SE tip), CA",earthquake,1.12,2,0.118,53,reviewed,ci,ci
 2023-05-30T03:10:06.120Z,34.3688333,-119.909,11.71,1.17,ml,12,135,0.1411,0.2,ci,ci40237223,2023-05-30T23:24:39.227Z,"7km SW of Isla Vista, CA",earthquake,0.86,1.46,0.181,8,reviewed,ci,ci
+2023-05-30T03:09:31.746Z,38.643,-119.7516,5.3,0.5,ml,5,227.16,0.056,0.0643,nn,nn00860534,2023-05-31T00:06:21.690Z,"6 km SSE of Markleeville, California",earthquake,,2.8,0.28,2,reviewed,nn,nn
 2023-05-30T03:00:39.250Z,19.4061660766602,-155.286163330078,0.699999988079071,1.83,ml,19,40,,0.180000007,hv,hv73429417,2023-05-30T03:06:09.750Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.209999993,0.29,9,automatic,hv,hv
 2023-05-30T02:59:05.136Z,58.2038,-155.0359,10,0.8,ml,,,,0.74,ak,ak0236w45kzs,2023-05-30T03:02:10.757Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T02:58:02.340Z,38.8213348,-122.8046646,2.96,1.08,md,22,38,0.0047,0.01,nc,nc73891520,2023-05-30T04:19:11.887Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.18,23,automatic,nc,nc
@@ -212,4 +213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T00:48:48.429Z,35.69083333,-98.0795,7.53,1.89,ml,91,35,0.1160772217,0.29,ok,ok2023kmho,2023-05-30T12:11:34.856Z,"10 km WSW of Okarche, Oklahoma",earthquake,,0.8,0.24,46,reviewed,ok,ok
 2023-05-30T00:43:33.750Z,35.8665,-117.6781667,10.69,1.14,ml,19,121,0.09114,0.16,ci,ci40237183,2023-05-30T22:35:52.527Z,"22km ESE of Little Lake, CA",earthquake,0.32,0.55,0.101,9,reviewed,ci,ci
 2023-05-30T00:42:41.643Z,31.61196013,-103.9889873,8.599536133,2,ml,32,40,0.01723309899,0.2,tx,tx2023kmhj,2023-05-30T16:04:24.355Z,"37 km NNW of Toyah, Texas",earthquake,0.5902457522999999,0.6048281646,0.2,16,reviewed,tx,tx
-2023-05-30T00:01:20.143Z,62.8427,-150.7218,87.9,1,ml,,,,0.27,ak,ak0236w2mbce,2023-05-30T00:04:17.047Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2023-05-30T00:21:32.786Z,38.8278,-119.7027,7.1,0.9,ml,5,166.06,0.098,0.0685,nn,nn00860533,2023-05-31T00:03:15.302Z,"6 km SW of Carter Springs, Nevada",earthquake,,3.5,0.12,2,reviewed,nn,nn
