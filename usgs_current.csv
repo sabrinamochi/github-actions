@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-31T20:12:26.130Z,33.0323333,-116.4183333,9.52,1.29,ml,44,41,0.0607,0.2,ci,ci40239191,2023-05-31T20:16:01.654Z,"18km ESE of Julian, CA",earthquake,0.27,0.75,0.196,25,automatic,ci,ci
+2023-05-31T20:12:26.130Z,33.0323333,-116.4183333,9.52,1.29,ml,44,41,0.0607,0.2,ci,ci40239191,2023-05-31T20:23:16.210Z,"18km ESE of Julian, CA",earthquake,0.27,0.75,0.196,25,automatic,ci,ci
 2023-05-31T20:04:11.739Z,63.141,-152.2091,9.1,1.3,ml,,,,1.14,ak,ak0236y22yfp,2023-05-31T20:08:29.421Z,"50 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-31T19:59:40.510Z,40.3606682,-125.4636688,2.2,4,mw,98,247,0.8674,0.53,nc,nc73894796,2023-05-31T20:20:10.369Z,"100km W of Petrolia, CA",earthquake,3.3,44.06,,3,reviewed,nc,nc
+2023-05-31T19:59:40.510Z,40.3606682,-125.4636688,2.2,4,mw,98,247,0.8674,0.53,nc,nc73894796,2023-05-31T20:29:24.442Z,"100km W of Petrolia, CA",earthquake,3.3,44.06,,3,reviewed,nc,nc
 2023-05-31T19:59:04.071Z,61.9417,-149.9199,19.7,1.6,ml,,,,0.65,ak,ak0236y1tana,2023-05-31T20:00:59.676Z,"22 km NNE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-31T19:38:30.190Z,18.0233333333333,-66.783,15.72,2.15,md,10,160,0.008768,0.1,pr,pr71411898,2023-05-31T20:04:57.300Z,"1 km ENE of Guayanilla, Puerto Rico",earthquake,0.41,0.79,0.0419972210485944,3,reviewed,pr,pr
 2023-05-31T19:34:28.909Z,58.1221,-155.5757,15,0.5,ml,,,,0.36,ak,ak0236y1nzmy,2023-05-31T19:35:26.831Z,"89 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -146,9 +146,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T09:05:49.440Z,19.6718,-65.7216,74,4.03,md,16,248,1.4332,0.67,pr,pr2023151000,2023-05-31T10:45:05.040Z,"138 km N of Suárez, Puerto Rico",earthquake,5.82,16.54,0.11,9,reviewed,pr,pr
 2023-05-31T09:04:18.771Z,58.2595,-155.1178,3.7,0.8,ml,,,,0.91,ak,ak0236xvj7c6,2023-05-31T09:07:04.013Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-31T09:01:11.170Z,33.3868333,-116.8601667,3.73,0.48,ml,17,80,0.1239,0.27,ci,ci40238623,2023-05-31T09:04:38.672Z,"4km N of Palomar Observatory, CA",earthquake,0.45,1.36,0.123,13,automatic,ci,ci
+2023-05-31T09:00:23.266Z,40.1121,-119.7271,15,0.7,ml,3,207.88,0.058,0.1061,nn,nn00860580,2023-05-31T20:25:58.158Z,"20 km NNW of Sutcliffe, Nevada",earthquake,,3.6,0.3,3,reviewed,nn,nn
 2023-05-31T08:54:04.320Z,33.8245,-118.1823333,4.62,2.03,ml,42,71,0.03673,0.33,ci,ci40238615,2023-05-31T19:38:02.388Z,"3km NNW of Signal Hill, CA",earthquake,0.46,0.94,0.205,27,automatic,ci,ci
 2023-05-31T08:49:53.990Z,38.688,-112.5008333,8.05,1.26,ml,11,227,0.08892,0.1,uu,uu60541296,2023-05-31T13:29:43.240Z,"13 km SSW of Kanosh, Utah",earthquake,1.87,1.33,0.157,4,reviewed,uu,uu
 2023-05-31T08:46:40.711Z,31.60623083,-104.2503938,7.314135742,2.1,ml,25,70,0.06663821662,0.3,tx,tx2023kosv,2023-05-31T13:32:32.075Z,"54 km NW of Toyah, Texas",earthquake,1.34224653,1.099679805,0.2,18,reviewed,tx,tx
+2023-05-31T08:42:19.431Z,40.1874,-119.7649,13,0.4,ml,3,249.62,0.031,0.0912,nn,nn00860579,2023-05-31T20:22:52.055Z,"29 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.23,3,reviewed,nn,nn
 2023-05-31T08:27:53.134Z,31.62878439,-104.2441039,4.897583008,2.1,ml,22,63,0.04640932995,0.3,tx,tx2023kosf,2023-05-31T12:52:26.031Z,"55 km NW of Toyah, Texas",earthquake,0.9046890344000001,1.253525947,0.1,14,reviewed,tx,tx
 2023-05-31T08:27:22.287Z,50.6827,176.7847,19.9,2.8,ml,,,,1.43,ak,ak0236xv2rgi,2023-05-31T15:25:06.065Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,28.6,,,reviewed,ak,ak
 2023-05-31T08:26:37.764Z,58.065,-155.5402,22.5,0.9,ml,,,,0.77,ak,ak0236xv2ixs,2023-05-31T08:28:20.190Z,"84 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -250,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T20:51:53.550Z,33.4418333,-116.4323333,6.78,0.9,ml,29,75,0.08154,0.22,ci,ci40238239,2023-05-30T21:05:14.949Z,"21km NNW of Borrego Springs, CA",earthquake,0.32,1.13,0.115,22,automatic,ci,ci
 2023-05-30T20:36:58.900Z,33.8631667,-117.5053333,0.55,1.1,ml,20,56,0.06784,0.3,ci,ci40238215,2023-05-30T20:40:34.798Z,"2km SE of Home Gardens, CA",quarry blast,0.49,31.61,0.169,22,automatic,ci,ci
 2023-05-30T20:34:46.510Z,37.6366667,-118.8911667,5.19,0.29,md,11,124,0.00893,0.02,nc,nc73891770,2023-05-31T04:30:04.354Z,"8km E of Mammoth Lakes, CA",earthquake,0.55,0.78,0.128,11,reviewed,nc,nc
-2023-05-30T20:27:24.410Z,37.628,-118.96,5.25,0.65,md,15,139,0.03453,0.03,nc,nc73891755,2023-05-31T05:44:50.650Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.42,1.15,0.232,14,reviewed,nc,nc
-2023-05-30T20:24:52.680Z,34.0218333,-119.1248333,13.56,3.56,ml,73,97,0.1353,0.29,ci,ci40238207,2023-05-31T19:43:58.412Z,"15km SSE of Port Hueneme, CA",earthquake,0.34,0.66,0.193,134,reviewed,ci,ci
