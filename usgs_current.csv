@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T13:14:30.564Z,61.5892,-148.2756,20.2,0.7,ml,,,,0.34,ak,ak0236zligb4,2023-06-01T13:16:42.629Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-01T13:11:53.366Z,64.9979,-147.3241,5.3,1.4,ml,,,,0.47,ak,ak0236zlhux4,2023-06-01T13:13:23.209Z,"14 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-01T13:10:15.333Z,61.7446,-149.7383,34.3,1.1,ml,,,,0.45,ak,ak0236zlhk9p,2023-06-01T13:12:14.552Z,"13 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-01T12:48:25.560Z,17.9388333333333,-64.9726666666667,11.46,2.88,md,5,161,0.2714,0.15,pr,pr71411958,2023-06-01T13:13:25.070Z,"33 km NW of Saint Croix, U.S. Virgin Islands",earthquake,0.55,1.16,0.0232826813389799,3,reviewed,pr,pr
 2023-06-01T12:42:53.725Z,39.6116,-119.9816,6.8,1.6,ml,15,88.31,0.016,0.1602,nn,nn00860601,2023-06-01T12:44:46.266Z,"7 km S of Cold Springs, Nevada",earthquake,,0.4,0.3,8,automatic,nn,nn
 2023-06-01T12:37:48.890Z,38.8376656,-122.8003311,1.84,0.26,md,8,90,0.007835,0.02,nc,nc73895056,2023-06-01T12:54:12.388Z,"7km WNW of Cobb, CA",earthquake,0.44,1.2,0.11,10,automatic,nc,nc
 2023-06-01T12:28:02.980Z,40.199501,-121.0664978,0.9,2.51,md,16,78,0.2959,0.11,nc,nc73895051,2023-06-01T12:42:12.306Z,"3km NNE of Canyondam, CA",earthquake,0.33,2.22,0.14,8,automatic,nc,nc
@@ -98,8 +101,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T02:40:58.861Z,61.5041,-146.6138,31.1,1.2,ml,,,,0.97,ak,ak0236zf4bge,2023-06-01T02:43:35.493Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T02:33:32.800Z,19.6315,-65.7171,58,3.96,md,14,282,1.3723,0.4,pr,pr2023152000,2023-06-01T02:55:21.444Z,"133 km N of Suárez, Puerto Rico",earthquake,4.01,13.7,0.1,11,reviewed,pr,pr
 2023-06-01T02:30:24.880Z,37.5706667,-118.8421667,4.46,0.99,md,17,151,0.02193,0.02,nc,nc73894896,2023-06-01T10:40:12.548Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.52,0.54,0.126,16,reviewed,nc,nc
-2023-06-01T02:19:22.654Z,35.70960236,-98.11399078,5.193984985,1.76,ml,10,69.5112648,0.09450898319,1.009346762,ok,ok2023kqbo,2023-06-01T02:21:50.168Z,"12 km N of Calumet, Oklahoma",earthquake,4.168595451,4.850867929,0.18,7,automatic,ok,ok
-2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T13:05:10.411Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
+2023-06-01T02:19:23.039Z,35.69916667,-98.09233333,6.6,1.33,ml,62,73,0.1079788109,0.48,ok,ok2023kqbo,2023-06-01T13:14:57.675Z,"10 km WSW of Okarche, Oklahoma",earthquake,,1.2,0.22,31,reviewed,ok,ok
+2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T13:16:10.319Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
 2023-06-01T02:10:48.918Z,64.6979,-148.1754,14.1,2.2,ml,,,,0.54,ak,ak0236zexv7f,2023-06-01T03:26:11.373Z,"18 km SSW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T01:51:47.310Z,17.9503333333333,-66.9303333333333,9.83,2.22,md,5,211,0.05448,0.09,pr,pr71411923,2023-06-01T02:01:13.270Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.68,0.55,0.224360398540097,5,reviewed,pr,pr
 2023-06-01T01:29:02.270Z,34.015,-116.8908333,0.12,1.46,ml,9,210,0.1195,0.25,ci,ci40239407,2023-06-01T01:32:54.029Z,"10km N of Banning, CA",earthquake,0.98,31.61,0.255,16,automatic,ci,ci
@@ -263,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T13:52:38.110Z,33.759,-116.926,13.64,1.01,ml,33,65,0.07176,0.25,ci,ci40238823,2023-05-31T13:56:18.223Z,"3km WNW of Valle Vista, CA",earthquake,0.35,0.66,0.156,28,automatic,ci,ci
 2023-05-31T13:49:46.090Z,19.4171666666667,-155.2625,1.53,0.46,md,14,82,,0.06,hv,hv73432122,2023-05-31T14:20:29.620Z,"Hawaii region, Hawaii",earthquake,0.24,0.28,0.0122434989167866,2,reviewed,hv,hv
 2023-05-31T13:37:47.096Z,31.59708221,-104.242258,6.799975586,1.9,ml,20,72,0.07710114092,0.2,tx,tx2023kpcl,2023-06-01T11:25:00.078Z,"52 km NW of Toyah, Texas",earthquake,0.9027926653000001,1.070608429,0.1,25,reviewed,tx,tx
-2023-05-31T13:16:40.635Z,60.2914,-140.2317,0,1.4,ml,,,,0.47,ak,ak0236xxzk0v,2023-05-31T13:18:54.383Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
-2023-05-31T13:16:33.960Z,33.4643333,-116.5705,10.13,0.57,ml,19,105,0.04024,0.13,ci,ci40238799,2023-05-31T13:20:11.197Z,"14km SE of Anza, CA",earthquake,0.32,0.63,0.14,15,automatic,ci,ci
-2023-05-31T13:16:24.790Z,31.58903822,-104.2424682,4.974707031,1.9,ml,14,74,0.08488557871,0.2,tx,tx2023kpbt,2023-06-01T12:35:13.132Z,"52 km NW of Toyah, Texas",earthquake,1.320387693,1.695581609,0.1,15,reviewed,tx,tx
