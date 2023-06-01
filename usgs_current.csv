@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T21:09:58.840Z,33.3946667,-116.3851667,2.31,1.01,ml,39,61,0.07096,0.27,ci,ci40475184,2023-06-01T21:13:29.134Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.75,0.144,26,automatic,ci,ci
 2023-06-01T20:51:39.050Z,38.8306656,-122.8146667,1.94,0.69,md,13,55,0.008098,0.01,nc,nc73895166,2023-06-01T21:06:10.444Z,"8km NW of The Geysers, CA",earthquake,0.32,0.9,0.17,13,automatic,nc,nc
 2023-06-01T20:40:01.450Z,33.1571667,-116.5511667,10.99,0.78,ml,15,114,0.09082,0.2,ci,ci40475168,2023-06-01T20:43:41.789Z,"10km NNE of Julian, CA",earthquake,0.51,0.74,0.119,9,automatic,ci,ci
 2023-06-01T20:32:52.830Z,38.7910004,-122.7360001,1.7,1.05,md,15,91,0.007773,0.02,nc,nc73895156,2023-06-01T20:49:10.355Z,"2km NE of The Geysers, CA",earthquake,0.27,0.63,0.08,16,automatic,nc,nc
@@ -187,6 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T02:07:37.885Z,36.7915,-116.0805,3.8,-0.1,ml,10,155.17,0.021,0.0834,nn,nn00860609,2023-06-01T15:32:54.359Z,"44 km NW of Indian Springs, Nevada",earthquake,,1.7,0.48,5,reviewed,nn,nn
 2023-06-01T01:56:54.060Z,60.0513333333333,-153.074833333333,1.2,-0.23,ml,5,119,,0.1,av,av91906226,2023-06-01T21:09:05.550Z,"Southern Alaska",earthquake,0.87,0.48,0.357073516294593,5,reviewed,av,av
 2023-06-01T01:51:47.310Z,17.9503333333333,-66.9303333333333,9.83,2.22,md,5,211,0.05448,0.09,pr,pr71411923,2023-06-01T02:01:13.270Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.68,0.55,0.224360398540097,5,reviewed,pr,pr
+2023-06-01T01:40:29.940Z,58.1865,-155.3075,0.97,-0.53,ml,6,154,,0.07,av,av91906211,2023-06-01T21:12:17.420Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.76,0.226641515355105,6,reviewed,av,av
 2023-06-01T01:29:10.130Z,34.2351667,-117.4951667,7.97,0.76,ml,19,88,0.01061,0.2,ci,ci40239407,2023-06-01T15:01:15.797Z,"3km S of Lytle Creek, CA",earthquake,0.32,0.53,0.153,7,reviewed,ci,ci
 2023-06-01T01:17:01.610Z,33.6808333,-116.725,14.97,1.5,mh,12,113,0.03157,0.07,ci,ci40239399,2023-06-01T19:22:40.313Z,"7km S of Idyllwild, CA",earthquake,0.31,0.36,,0,reviewed,ci,ci
 2023-06-01T01:16:25.280Z,38.831501,-122.8176651,1.88,0.78,md,10,80,0.01003,0.01,nc,nc73894886,2023-06-01T01:34:11.347Z,"8km NW of The Geysers, CA",earthquake,0.4,1.42,0.13,11,automatic,nc,nc
@@ -236,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T21:33:51.740Z,19.9783333333333,-155.628666666667,13.45,2.04,ml,10,140,,0.15,hv,hv72000543,2023-06-01T02:24:44.940Z,"6 km SE of Waimea, Hawaii",earthquake,0.71,0.42,0.147765673010184,4,reviewed,hv,hv
 2023-05-31T21:24:32.270Z,19.396,-155.305166666667,2.3,0.84,md,14,62,,0.09,hv,hv73432812,2023-06-01T01:03:36.020Z,"9 km SW of Volcano, Hawaii",earthquake,0.26,0.23,0.0821316465387077,3,reviewed,hv,hv
 2023-05-31T21:19:19.130Z,19.0345001220703,-155.401504516602,34.2200012207031,1.87,ml,43,209,,0.109999999,hv,hv73432802,2023-05-31T21:24:51.120Z,"19 km E of Naalehu, Hawaii",earthquake,0.68,0.910000026,4.64,6,automatic,hv,hv
-2023-05-31T21:12:22.050Z,31.7363338,-116.2340012,5.57,3.24,ml,34,90,0.3617,0.29,ci,ci40239231,2023-05-31T21:25:49.040Z,"32km E of Maneadero, B.C., MX",earthquake,0.34,2.01,0.172,26,automatic,ci,ci
-2023-05-31T21:12:20.770Z,38.794,-122.78,3.39,1.28,md,45,78,0.006242,0.04,nc,nc73894816,2023-06-01T00:36:13.892Z,"3km NW of The Geysers, CA",earthquake,0.14,0.2,0.135,35,reviewed,nc,nc
