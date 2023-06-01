@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T18:06:29.960Z,38.8219986,-122.8021698,2.6,1.08,md,26,32,0.00633,0.02,nc,nc73895126,2023-06-01T18:09:46.363Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.19,27,automatic,nc,nc
 2023-06-01T17:37:28.264Z,61.6677,-150.7936,48,1.7,ml,,,,0.44,ak,ak0236zo140q,2023-06-01T17:39:35.677Z,"20 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-01T17:06:36.490Z,33.0366667,-116.4163333,9.17,0.74,ml,21,70,0.06486,0.22,ci,ci40474960,2023-06-01T17:10:19.257Z,"18km ESE of Julian, CA",earthquake,0.38,1.01,0.17,7,automatic,ci,ci
 2023-06-01T16:58:11.630Z,35.6443333,-118.3206667,7.47,2.23,ml,32,64,0.05668,0.13,ci,ci40474936,2023-06-01T17:09:11.000Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.56,0.179,26,automatic,ci,ci
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T16:31:14.540Z,36.5410004,-120.8801651,5.63,2.05,md,16,167,0.1337,0.18,nc,nc73895106,2023-06-01T17:54:10.300Z,"23km NW of New Idria, CA",earthquake,0.52,3.39,0.17,12,automatic,nc,nc
 2023-06-01T16:30:11.030Z,33.9918333,-116.8928333,9.32,1.15,ml,35,53,0.08281,0.18,ci,ci40474856,2023-06-01T17:03:02.928Z,"8km NNW of Banning, CA",earthquake,0.24,0.7,0.187,27,reviewed,ci,ci
 2023-06-01T16:23:01.020Z,38.8308334,-122.8143311,1.74,1.09,md,22,48,0.008138,0.02,nc,nc73895101,2023-06-01T17:25:14.121Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.15,24,automatic,nc,nc
+2023-06-01T16:00:14.445Z,40.8784,79.3159,10,4.3,mb,43,122,0.331,0.76,us,us7000k5j5,2023-06-01T18:11:41.040Z,"69 km W of Aykol, China",earthquake,4.46,1.868,0.095,32,reviewed,us,us
 2023-06-01T15:54:09.730Z,33.4541667,-116.5796667,10.3,-0.01,ml,10,138,0.0446,0.06,ci,ci40474816,2023-06-01T16:34:08.414Z,"14km SE of Anza, CA",earthquake,0.27,0.54,0.174,7,reviewed,ci,ci
 2023-06-01T15:44:50.860Z,38.8364983,-122.7921677,2.11,0.75,md,10,84,0.002381,0.01,nc,nc73895091,2023-06-01T16:38:12.836Z,"6km WNW of Cobb, CA",earthquake,0.52,1.1,0.21,14,automatic,nc,nc
 2023-06-01T15:44:38.450Z,38.8363342,-122.7919998,2.16,0.71,md,13,75,0.002442,0.02,nc,nc73895086,2023-06-01T17:13:10.048Z,"6km WNW of Cobb, CA",earthquake,0.32,0.69,0.41,15,automatic,nc,nc
@@ -149,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T01:01:49.341Z,36.7088,-116.0721,5.6,-0.4,ml,8,164.43,0.025,0.0884,nn,nn00860607,2023-06-01T14:58:21.959Z,"39 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2023-06-01T00:55:48.433Z,60.7908,-151.6638,80.2,1.3,ml,,,,0.19,ak,ak0236ze0n6j,2023-06-01T00:57:30.403Z,"23 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-01T00:31:35.180Z,33.4651667,-116.578,8.93,0.33,ml,15,131,0.03573,0.09,ci,ci40239375,2023-06-01T14:49:01.003Z,"13km SE of Anza, CA",earthquake,0.23,0.4,0.104,3,reviewed,ci,ci
-2023-06-01T00:25:27.500Z,40.4889984,-124.8926697,1.63,2.21,md,15,287,0.6017,0.17,nc,nc73894866,2023-06-01T03:33:14.065Z,"54km W of Ferndale, CA",earthquake,5.76,6.79,,1,automatic,nc,nc
+2023-06-01T00:25:31.000Z,40.4675,-124.7641667,23.56,2.64,md,45,234,0.3256,0.16,nc,nc73894866,2023-06-01T18:13:31.379Z,"44km WNW of Petrolia, CA",earthquake,1.06,3.57,0.25,38,reviewed,nc,nc
 2023-06-01T00:13:55.580Z,19.3866666666667,-155.247833333333,1.64,0.69,md,14,95,,0.08,hv,hv73433027,2023-06-01T03:17:06.430Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.33,0.13641086200221,3,reviewed,hv,hv
 2023-06-01T00:08:21.292Z,60.3406,-140.1926,0,1.8,ml,,,,1.11,ak,ak0236zdqifl,2023-06-01T00:10:36.051Z,"92 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T00:05:17.507Z,-5.8099,151.9322,35,5.3,mb,62,65,5.927,0.87,us,us7000k5eb,2023-06-01T00:23:42.040Z,"166 km SSW of Kokopo, Papua New Guinea",earthquake,7.22,1.867,0.046,161,reviewed,us,us
