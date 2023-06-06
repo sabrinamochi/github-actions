@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:55:20.110Z,60.0465,-153.054166666667,4.51,0.94,ml,4,172,,0.17,av,av91913341,2023-06-06T01:37:01.580Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.99,1.19,0.154701219409749,4,reviewed,av,av
 2023-06-05T23:53:16.858Z,63.495,-150.9009,0,1.1,ml,,,,1.13,ak,ak02376dui7h,2023-06-05T23:55:44.254Z,"41 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-05T23:53:09.080Z,38.7576675,-122.7310028,1.92,1.28,md,13,137,0.006199,0.03,nc,nc73897491,2023-06-06T02:13:10.624Z,"3km SE of The Geysers, CA",earthquake,0.25,0.43,0.16,12,automatic,nc,nc
-2023-06-05T23:49:48.480Z,39.455,-123.1558333,3.1,1.69,md,18,80,0.08416,0.09,nc,nc73897486,2023-06-06T09:40:10.308Z,"18km WNW of Lake Pillsbury, CA",earthquake,0.29,1.14,0.113,17,reviewed,nc,nc
+2023-06-05T23:49:48.480Z,39.455,-123.1558333,3.1,1.69,md,18,80,0.08416,0.09,nc,nc73897486,2023-06-06T09:46:13.347Z,"18km WNW of Lake Pillsbury, CA",earthquake,0.29,1.14,0.113,17,reviewed,nc,nc
 2023-06-05T23:46:35.747Z,64.6303,-149.3811,19.1,1.1,ml,,,,0.44,ak,ak02376dt1na,2023-06-05T23:48:05.965Z,"12 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-05T23:29:14.200Z,35.0345,-117.6683333,0.28,1.74,ml,13,68,0.1025,0.18,ci,ci40479160,2023-06-05T23:33:01.129Z,"4km NNW of Boron, CA",quarry blast,0.47,31.61,0.123,29,automatic,ci,ci
 2023-06-05T23:24:33.144Z,59.9439,-151.7766,51.7,3.5,ml,,,,0.29,ak,ak02376doboy,2023-06-06T07:23:13.451Z,"2 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -205,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T13:08:48.458Z,-10.1278,118.6958,30.042,4.7,mb,36,106,1.579,0.69,us,us7000k6eg,2023-06-05T13:44:55.063Z,"97 km SW of Tambolaka, Indonesia",earthquake,6.99,5.124,0.11,25,reviewed,us,us
 2023-06-05T13:05:24.987Z,61.2517,-147.5256,12.5,1.2,ml,,,,0.47,ak,ak023767lweq,2023-06-05T13:07:01.433Z,"62 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-05T13:04:32.840Z,37.9073334,-122.0070038,14.1,2.23,md,50,108,0.04973,0.1,nc,nc73897256,2023-06-05T15:55:12.741Z,"5km E of Walnut Creek, CA",earthquake,0.2,0.36,0.15,46,automatic,nc,nc
-2023-06-05T12:57:29.310Z,37.9076653,-122.0098343,12.45,1.65,md,12,125,0.05061,0.1,nc,nc73897251,2023-06-05T15:38:12.655Z,"5km E of Walnut Creek, CA",earthquake,0.57,0.92,0.07,10,automatic,nc,nc
+2023-06-05T12:57:29.020Z,37.9105,-122.0056667,14.26,1.66,md,33,92,0.05259,0.13,nc,nc73897251,2023-06-06T09:46:36.107Z,"5km E of Walnut Creek, CA",earthquake,0.3,0.38,0.163,24,reviewed,nc,nc
 2023-06-05T12:56:14.480Z,38.8400002,-122.8775024,2.32,0.71,md,12,115,0.006935,0.02,nc,nc73897246,2023-06-05T15:15:12.532Z,"13km WNW of The Geysers, CA",earthquake,0.41,0.6,0.24,12,automatic,nc,nc
 2023-06-05T12:43:17.051Z,-14.7919,-73.4539,10.029,4.6,mb,18,132,4.317,0.47,us,us7000k6e9,2023-06-05T20:15:26.048Z,"13 km NNW of Upahuacho, Peru",earthquake,5.79,6.483,0.145,14,reviewed,us,us
 2023-06-05T12:33:30.320Z,39.7453,-120.1326,8.8,0.3,ml,4,168.69,0.191,0.0822,nn,nn00860877,2023-06-05T18:43:06.501Z,"Northern California",earthquake,,4.9,0.09,2,reviewed,nn,nn
@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T10:00:37.580Z,38.8440018,-122.8404999,3.28,0.23,md,8,133,0.006674,0.05,nc,nc73897206,2023-06-05T11:50:12.210Z,"10km NW of The Geysers, CA",earthquake,0.53,1.32,0.1,8,automatic,nc,nc
 2023-06-05T09:58:19.700Z,33.2476667,-116.288,11.57,1.18,ml,52,36,0.0618,0.17,ci,ci40478600,2023-06-05T23:48:29.650Z,"8km E of Borrego Springs, CA",earthquake,0.18,0.35,0.103,27,reviewed,ci,ci
 2023-06-05T09:56:57.097Z,65.4128,-144.7922,0,1.3,ml,,,,0.69,ak,ak023765j5zh,2023-06-05T09:59:31.984Z,"17 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-05T09:44:44.080Z,19.6218,-65.7411,94,3.75,md,7,246,1.3899,0.4,pr,pr2023156000,2023-06-05T10:43:55.364Z,"132 km N of Suárez, Puerto Rico",earthquake,5.26,10.34,0.09,5,reviewed,pr,pr
-2023-06-05T09:41:35.010Z,-15.1165,-173.5061,10,4.7,mb,42,109,2.975,0.36,us,us7000k6df,2023-06-05T10:07:07.040Z,"Tonga",earthquake,10.26,1.882,0.056,98,reviewed,us,us
