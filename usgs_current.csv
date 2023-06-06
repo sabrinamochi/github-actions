@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T10:50:56.970Z,37.4683342,-118.8363342,2.78,1.42,md,14,173,0.1216,0.02,nc,nc73897656,2023-06-06T11:36:10.091Z,"17km SW of Toms Place, CA",earthquake,1.29,1.97,0.09,12,automatic,nc,nc
 2023-06-06T10:31:28.845Z,60.2447,-152.245,19.2,1.2,ml,,,,0.57,ak,ak02377tij03,2023-06-06T10:35:43.738Z,"38 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-06T10:24:30.995Z,58.1254,-155.9885,42.3,1.7,ml,,,,1.17,ak,ak02377th15n,2023-06-06T10:26:30.489Z,"74 km SSE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-06-06T10:12:03.557Z,31.6762219,-104.3844197,6.645727539,2,ml,21,86,0.0355947793,0.2,tx,tx2023kzur,2023-06-06T12:27:26.053Z,"55 km S of Whites City, New Mexico",earthquake,0.7564094449,0.6489027864,0.2,14,reviewed,tx,tx
 2023-06-06T10:08:53.050Z,33.5893333,-116.749,11.78,0.37,ml,16,69,0.01333,0.13,ci,ci40479320,2023-06-06T10:12:20.142Z,"8km WNW of Anza, CA",earthquake,0.37,0.61,0.068,8,automatic,ci,ci
 2023-06-06T10:08:31.530Z,66.1152,-143.0966,60.4,1.6,ml,,,,1.34,ak,ak02377tdlqp,2023-06-06T10:11:20.742Z,"54 km NE of Circle, Alaska",earthquake,,5.8,,,automatic,ak,ak
 2023-06-06T10:03:26.860Z,33.531,-116.7275,3.38,0.59,ml,24,44,0.03527,0.13,ci,ci40479312,2023-06-06T10:06:55.869Z,"6km WSW of Anza, CA",earthquake,0.18,0.42,0.123,18,automatic,ci,ci
@@ -106,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:22:04.780Z,60.0451666666667,-153.079333333333,2.07,0.65,ml,4,184,,0.11,av,av91913201,2023-06-06T00:36:56.410Z,"Southern Alaska",earthquake,0.71,1.36,0.211481513401848,4,reviewed,av,av
 2023-06-05T23:19:53.730Z,60.0521666666667,-153.057833333333,5.21,0.58,ml,3,180,,0.06,av,av91106653,2023-06-06T00:29:06.550Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.67,0.8,0.203337728214426,3,reviewed,av,av
 2023-06-05T23:18:38.854Z,57.5687,-155.5792,19.4,2.7,ml,,,,0.87,ak,ak02376dn0ys,2023-06-05T23:44:44.040Z,"67 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"Southern Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
+2023-06-05T23:17:51.680Z,60.0268333333333,-153.076166666667,-1.37,0.52,ml,4,153,,0.16,av,av91106643,2023-06-06T00:13:00.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.97,11.84,0.208289246021429,4,reviewed,av,av
 2023-06-05T23:17:02.340Z,61.0123,-152.817,186.5,2,ml,,,,0.87,ak,ak02376dmray,2023-06-05T23:19:57.093Z,"90 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-05T23:16:55.140Z,60.0323333333333,-153.0835,0.37,0.66,ml,4,169,,0.17,av,av91913186,2023-06-06T00:09:40.850Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.55,2.18,0.152106300164628,4,reviewed,av,av
 2023-06-05T23:11:45.290Z,60.0375,-153.069166666667,2.67,0.53,ml,4,152,,0.17,av,av91913166,2023-06-05T23:42:34.500Z,"Southern Alaska",earthquake,0.73,1.68,0.254099753799252,4,reviewed,av,av
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T12:56:14.480Z,38.8400002,-122.8775024,2.32,0.71,md,12,115,0.006935,0.02,nc,nc73897246,2023-06-05T15:15:12.532Z,"13km WNW of The Geysers, CA",earthquake,0.41,0.6,0.24,12,automatic,nc,nc
 2023-06-05T12:43:17.051Z,-14.7919,-73.4539,10.029,4.6,mb,18,132,4.317,0.47,us,us7000k6e9,2023-06-05T20:15:26.048Z,"13 km NNW of Upahuacho, Peru",earthquake,5.79,6.483,0.145,14,reviewed,us,us
 2023-06-05T12:33:30.320Z,39.7453,-120.1326,8.8,0.3,ml,4,168.69,0.191,0.0822,nn,nn00860877,2023-06-05T18:43:06.501Z,"Northern California",earthquake,,4.9,0.09,2,reviewed,nn,nn
-2023-06-05T12:27:54.970Z,19.1354999542236,-155.487670898438,31.7700004577637,2.12,ml,23,171,,0.140000001,hv,hv73440662,2023-06-05T12:33:26.630Z,"7 km S of Pāhala, Hawaii",earthquake,0.78,0.959999979,0.25,6,automatic,hv,hv
