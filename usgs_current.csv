@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-07T17:09:43.140Z,38.8334999,-122.8115005,2.04,0.79,md,13,74,0.01015,0.02,nc,nc73898246,2023-06-07T17:11:19.305Z,"8km W of Cobb, CA",earthquake,0.29,0.69,0.14,18,automatic,nc,nc
+2023-06-07T17:05:58.390Z,40.2335014,-121.1343307,1.36,2.16,md,6,108,0.3118,0.14,nc,nc73898241,2023-06-07T17:07:34.351Z,"3km NNE of Prattville, CA",earthquake,0.82,13.06,0.08,2,automatic,nc,nc
+2023-06-07T17:01:10.410Z,38.8359985,-122.8075027,2.46,0.22,md,8,107,0.01274,0.01,nc,nc73898226,2023-06-07T17:02:44.424Z,"8km WNW of Cobb, CA",earthquake,0.6,1.91,0.14,8,automatic,nc,nc
 2023-06-07T16:52:00.460Z,34.4178333,-119.1578333,19.6,1.42,ml,25,82,0.0254,0.29,ci,ci40479992,2023-06-07T16:55:37.537Z,"8km ESE of Ojai, CA",earthquake,0.61,1.09,0.355,22,automatic,ci,ci
 2023-06-07T16:20:59.220Z,17.9126,-68.1575,63,3.93,md,24,222,0.2798,0.17,pr,pr2023158000,2023-06-07T17:00:29.040Z,"70 km SE of Boca de Yuma, Dominican Republic",earthquake,1.85,2.64,0.17,11,reviewed,pr,pr
 2023-06-07T15:54:40.096Z,37.5013,-117.997,2.1,1.7,ml,8,109.66,0.135,0.1991,nn,nn00860970,2023-06-07T16:25:15.880Z,"19 km SSE of Dyer, Nevada",earthquake,,2.4,0.71,5,reviewed,nn,nn
@@ -80,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T11:14:11.890Z,19.4061660766602,-155.274673461914,0.949999988079071,2.08,ml,22,38,,0.180000007,hv,hv73444342,2023-06-07T11:19:42.890Z,"5 km SW of Volcano, Hawaii",earthquake,0.17,0.200000003,0.23,8,automatic,hv,hv
 2023-06-07T11:10:37.000Z,19.4076666666667,-155.2845,1.09,2.77,ml,26,41,,0.1,hv,hv73444337,2023-06-07T12:35:59.040Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.16,0.137464111102241,18,reviewed,hv,hv
 2023-06-07T11:10:21.970Z,19.4091666666667,-155.284166666667,1.01,1.85,ml,25,46,,0.09,hv,hv73444332,2023-06-07T16:48:13.840Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.17,0.202762129872007,11,reviewed,hv,hv
-2023-06-07T11:09:58.950Z,37.5668333,-118.8046667,4.34,0.63,md,11,288,0.03022,0.02,nc,nc73898116,2023-06-07T16:22:29.653Z,"11km W of Toms Place, CA",earthquake,0.77,0.64,0.065,10,reviewed,nc,nc
+2023-06-07T11:09:58.950Z,37.5668333,-118.8046667,4.34,0.63,md,11,288,0.03022,0.02,nc,nc73898116,2023-06-07T17:05:18.640Z,"11km W of Toms Place, CA",earthquake,0.77,0.64,0.065,10,reviewed,nc,nc
 2023-06-07T11:06:05.350Z,32.2208333,-115.2938333,1.05,2.19,ml,22,65,0.08596,0.26,ci,ci40479856,2023-06-07T11:09:57.147Z,"12km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.43,31.61,0.222,23,automatic,ci,ci
 2023-06-07T11:01:17.730Z,32.1648333,-115.2615,12.5,2.56,ml,20,152,0.03548,0.28,ci,ci40479848,2023-06-07T11:12:29.330Z,"11km SW of Alberto Oviedo Mota, B.C., MX",earthquake,1.04,1.22,0.215,26,automatic,ci,ci
 2023-06-07T10:55:49.008Z,31.9271,-103.3667,2.165,2.5,ml,38,37,0.21,0.25,us,us7000k6ux,2023-06-07T11:34:26.040Z,"26 km SW of Jal, New Mexico",earthquake,1.57,8.086,0.071,26,reviewed,us,us
@@ -251,6 +254,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T22:52:38.989Z,59.8352,-140.9632,0,1.5,ml,,,,0.75,ak,ak023780s92y,2023-06-06T22:54:50.963Z,"76 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T22:48:51.050Z,19.2001667022705,-155.387329101562,30.8400001525879,2.09,ml,45,174,,0.129999995,hv,hv73443007,2023-06-06T22:54:22.070Z,"9 km E of Pāhala, Hawaii",earthquake,0.53,0.680000007,3.35,7,automatic,hv,hv
 2023-06-06T22:47:13.830Z,33.6656667,-116.7531667,13.39,1.05,ml,38,59,0.05583,0.19,ci,ci40479640,2023-06-07T13:42:01.020Z,"9km SSW of Idyllwild, CA",earthquake,0.27,0.39,0.227,29,reviewed,ci,ci
+2023-06-06T22:44:18.600Z,36.2313333333333,-89.4108333333333,6.9,1.55,md,19,64,0.007819,0.04,nm,nm60527926,2023-06-07T17:06:44.070Z,"7 km ESE of Ridgely, Tennessee",earthquake,0.4,0.36,0.0944403692973126,14,reviewed,nm,nm
 2023-06-06T22:13:48.709Z,64.8387,-152.0037,10.3,2.1,ml,,,,0.56,ak,ak023780jwwm,2023-06-06T22:15:46.141Z,"37 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-06T22:00:29.010Z,38.8294983,-122.8554993,2.33,1.1,md,26,63,0.002226,0.03,nc,nc73897866,2023-06-07T01:01:13.008Z,"10km NW of The Geysers, CA",earthquake,0.22,0.38,0.18,26,automatic,nc,nc
 2023-06-06T21:58:18.690Z,45.3685,-121.70266666666667,2.46,1.06,ml,10,72,0.01013,0.09,uw,uw61930986,2023-06-06T23:28:13.930Z,"Washington-Oregon border region",earthquake,0.3,0.42,0.2980415618066416,8,reviewed,uw,uw
@@ -311,6 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T17:21:02.890Z,38.8390007,-122.8393326,1.2,0.23,md,8,168,0.003031,0.01,nc,nc73897781,2023-06-06T17:22:39.435Z,"10km NW of The Geysers, CA",earthquake,0.5,0.92,0.11,8,automatic,nc,nc
 2023-06-06T17:20:55.040Z,45.921,-111.475,-2,1.08,ml,5,161,0.2935,0.05,mb,mb90016943,2023-06-06T23:14:40.730Z,"5 km NW of Logan, Montana",quarry blast,0.72,31.61,0.0907387872415704,7,reviewed,mb,mb
 2023-06-06T17:15:39.970Z,35.701,-121.043,9.22,1.06,md,19,74,0.092,0.09,nc,nc73897776,2023-06-06T19:29:56.652Z,"15km ENE of San Simeon, CA",earthquake,0.22,0.66,0.281,11,reviewed,nc,nc
-2023-06-06T17:11:36.980Z,38.8310013,-122.8170013,1.21,0.76,md,9,64,0.009325,0.02,nc,nc73897771,2023-06-06T18:17:20.655Z,"8km NW of The Geysers, CA",earthquake,0.3,1.12,0.48,11,automatic,nc,nc
-2023-06-06T17:08:03.890Z,36.314,141.8185,31.834,4.5,mb,64,123,2.92,0.59,us,us7000k6nv,2023-06-06T18:39:44.040Z,"108 km ESE of Takahagi, Japan",earthquake,8.11,5.582,0.078,54,reviewed,us,us
-2023-06-06T17:07:16.294Z,39.6227,-119.9713,8.4,1.4,ml,10,92.61,0.117,0.0928,nn,nn00860913,2023-06-07T02:04:00.096Z,"6 km S of Cold Springs, Nevada",earthquake,,2.7,0.21,2,reviewed,nn,nn
