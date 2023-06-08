@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-08T09:46:41.070Z,34.3066673,-119.390831,-0.57,1.87,ml,16,178,0.2254,0.25,ci,ci40480424,2023-06-08T09:49:05.406Z,"15km WNW of Ventura, CA",earthquake,1.16,1.2,0.568,3,automatic,ci,ci
+2023-06-08T09:46:41.480Z,34.3293333,-119.4,0.5,1.57,ml,16,223,0.1185,0.26,ci,ci40480424,2023-06-08T09:50:42.581Z,"13km SE of Carpinteria, CA",earthquake,1.25,31.61,0.136,23,automatic,ci,ci
 2023-06-08T09:28:48.880Z,34.1646667,-118.3233333,3.19,0.76,ml,14,85,0.03233,0.19,ci,ci40480416,2023-06-08T09:32:29.778Z,"2km SW of Burbank, CA",earthquake,0.52,0.58,0.239,19,automatic,ci,ci
 2023-06-08T09:22:23.309Z,64.9511,-152.2468,11.4,1.1,ml,,,,0.41,ak,ak0237b3xuii,2023-06-08T09:24:08.373Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-08T09:19:31.178Z,-22.347,170.259,36.102,5.6,mww,109,57,2.615,0.65,us,us7000k73m,2023-06-08T09:48:54.040Z,"261 km ESE of Tadine, New Caledonia",earthquake,6.66,4.275,0.08,15,reviewed,us,us
@@ -237,7 +237,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T11:10:21.970Z,19.4091666666667,-155.284166666667,1.01,1.85,ml,25,46,,0.09,hv,hv73444332,2023-06-07T16:48:13.840Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.17,0.202762129872007,11,reviewed,hv,hv
 2023-06-07T11:09:58.950Z,37.5668333,-118.8046667,4.34,0.63,md,11,288,0.03022,0.02,nc,nc73898116,2023-06-07T17:05:18.640Z,"11km W of Toms Place, CA",earthquake,0.77,0.64,0.065,10,reviewed,nc,nc
 2023-06-07T11:06:05.180Z,32.2263333,-115.2896667,1.55,2.16,ml,27,45,0.09118,0.27,ci,ci40479856,2023-06-07T23:33:28.960Z,"11km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.3,0.73,0.275,19,reviewed,ci,ci
-2023-06-07T11:05:32.860Z,58.1873333333333,-155.2935,2.37,-0.49,ml,5,194,,0.06,av,av91915551,2023-06-08T04:19:09.260Z,"Alaska Peninsula",earthquake,0.96,0.58,0.168560706295412,5,reviewed,av,av
+2023-06-07T11:05:32.860Z,58.1873333333333,-155.2935,2.37,-0.49,ml,5,194,,0.06,av,av91915551,2023-06-08T04:19:09.260Z,"84 km NW of Karluk, Alaska",earthquake,0.96,0.58,0.168560706295412,5,reviewed,av,av
 2023-06-07T11:01:18.100Z,32.2091667,-115.2643333,9.92,2.56,ml,25,59,0.07586,0.29,ci,ci40479848,2023-06-08T03:10:20.040Z,"9km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.42,0.91,0.224,26,reviewed,ci,ci
 2023-06-07T10:55:48.024Z,31.95073992,-103.3367116,6.902807617,2.7,ml,13,83,0.03978515698,0.1,tx,tx2023lbro,2023-06-07T22:18:04.412Z,"western Texas",earthquake,0.9224402647,0.7743648219,0.2,12,reviewed,tx,tx
 2023-06-07T10:44:08.850Z,58.175,-155.327666666667,0.56,-0.22,ml,4,245,,0.02,av,av91915546,2023-06-08T04:16:52.840Z,"85 km NW of Karluk, Alaska",earthquake,0.54,1.29,0.193291659782495,4,reviewed,av,av
@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T10:01:04.260Z,19.4015,-155.2735,1.03,0.56,md,19,39,,0.1,hv,hv73444182,2023-06-07T10:16:36.900Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.24,0.0222875405627397,3,reviewed,hv,hv
 2023-06-07T10:00:29.340Z,19.4093333333333,-155.2875,2.54,0.65,md,16,86,,0.1,hv,hv73444177,2023-06-07T10:40:56.030Z,"6 km WSW of Volcano, Hawaii",earthquake,0.27,0.41,0.0733749272207019,3,reviewed,hv,hv
 2023-06-07T09:53:50.668Z,16.8731,95.5532,10,4.8,mb,54,105,2.943,0.57,us,us7000k6tu,2023-06-08T01:41:19.677Z,"19 km NW of Maubin, Myanmar",earthquake,4,1.875,0.076,53,reviewed,us,us
-2023-06-07T09:50:31.150Z,33.3361667,-116.349,16.21,0.75,ml,14,117,0.08862,0.22,ci,ci40479824,2023-06-07T13:30:20.042Z,"9km NNE of Borrego Springs, CA",earthquake,0.53,1.02,0.162,14,reviewed,ci,ci
-2023-06-07T09:49:42.298Z,46.4836,152.6987,54.862,4.4,mb,36,140,6.849,0.61,us,us7000k6tq,2023-06-07T10:20:22.040Z,"Kuril Islands",earthquake,8.95,6.608,0.107,25,reviewed,us,us
