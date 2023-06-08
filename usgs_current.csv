@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-08T04:08:23.145Z,62.8225,-150.7172,85.5,1.4,ml,,,,0.59,ak,ak0237b0voga,2023-06-08T04:10:06.204Z,"36 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-08T03:47:20.512Z,36.5249,-116.326,16,0.6,ml,12,298.83,0.121,0.3366,nn,nn00861002,2023-06-08T03:49:06.027Z,"46 km NW of Pahrump, Nevada",earthquake,,1.7,0.2,8,automatic,nn,nn
 2023-06-08T03:38:43.029Z,37.766,36.3319,10,4.1,mb,28,46,0.186,0.91,us,us7000k71u,2023-06-08T03:47:54.040Z,"21 km N of Andırın, Turkey",earthquake,3.8,1.955,0.14,14,reviewed,us,us
 2023-06-08T03:37:57.331Z,65.6068,-147.9664,6.4,1.1,ml,,,,0.57,ak,ak0237b0gj91,2023-06-08T03:47:09.847Z,"28 km ENE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T02:53:20.980Z,19.1669998168945,-155.488494873047,31.4799995422363,2.25999999,md,39,103,,0.0900000036,hv,hv73445327,2023-06-08T02:56:37.960Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.46,0.899999976,1.16999996,19,automatic,hv,hv
 2023-06-08T02:51:36.558Z,39.618,-119.9648,6.5,2,ml,21,68.41,0.011,0.1191,nn,nn00860999,2023-06-08T03:04:52.058Z,"Nevada",earthquake,,0.9,0.41,6,reviewed,nn,nn
 2023-06-08T02:40:05.608Z,61.5677,-146.4186,20,1.7,ml,,,,0.76,ak,ak0237azvmsw,2023-06-08T02:42:01.348Z,"48 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-08T02:14:29.850Z,38.753,-122.7101667,1.36,0.4,md,9,121,0.0123,0.03,nc,nc73898481,2023-06-08T04:10:54.810Z,"3km SSW of Anderson Springs, CA",earthquake,0.36,0.82,0.24,4,reviewed,nc,nc
 2023-06-08T02:13:45.130Z,38.8134995,-122.822998,2.37,1.09,md,26,50,0.006686,0.04,nc,nc73898476,2023-06-08T03:08:13.481Z,"7km NW of The Geysers, CA",earthquake,0.2,0.36,0.13,26,automatic,nc,nc
 2023-06-08T02:12:00.610Z,37.5628319,-118.862999,3.01,1.78,md,16,222,0.03824,0.03,nc,nc73898471,2023-06-08T03:49:10.738Z,"13km SE of Mammoth Lakes, CA",earthquake,0.94,0.95,0.09,18,automatic,nc,nc
 2023-06-08T02:04:35.140Z,33.5886667,-116.8155,7.65,0.45,ml,14,101,0.04926,0.18,ci,ci40480304,2023-06-08T02:08:04.048Z,"14km WNW of Anza, CA",earthquake,0.41,0.77,0.172,10,automatic,ci,ci
@@ -94,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T16:47:14.970Z,19.4248333333333,-155.276166666667,0.95,1.27,md,15,95,,0.12,hv,hv73445077,2023-06-07T18:30:14.240Z,"4 km WSW of Volcano, Hawaii",earthquake,0.24,0.12,0.0221390140676916,3,reviewed,hv,hv
 2023-06-07T16:20:59.220Z,17.9126,-68.1575,63,3.93,md,24,222,0.2798,0.17,pr,pr2023158000,2023-06-07T17:00:29.040Z,"70 km SE of Boca de Yuma, Dominican Republic",earthquake,1.85,2.64,0.17,11,reviewed,pr,pr
 2023-06-07T16:05:21.110Z,36.8928333,-121.6178333,-0.12,1.44,md,24,73,0.02236,0.13,nc,nc73898211,2023-06-07T23:49:03.255Z,"2km ENE of Aromas, CA",quarry blast,0.21,31.61,0.295,23,reviewed,nc,nc
-2023-06-07T15:54:39.870Z,37.5,-117.9548333,1.37,1.86,md,8,189,0.3293,0.03,nc,nc73898201,2023-06-08T01:28:10.840Z,"14km N of Deep Springs, CA",earthquake,1.1,3.76,0.186,7,reviewed,nc,nc
+2023-06-07T15:54:39.870Z,37.5,-117.9548333,1.37,1.86,md,8,189,0.3293,0.03,nc,nc73898201,2023-06-08T04:06:15.849Z,"14km N of Deep Springs, CA",earthquake,1.1,3.76,0.186,7,reviewed,nc,nc
 2023-06-07T15:54:35.100Z,38.8378334,-122.7948303,2.06,0.74,md,8,123,0.003551,0.01,nc,nc73898196,2023-06-07T16:44:14.527Z,"6km WNW of Cobb, CA",earthquake,0.58,1.51,0.29,9,automatic,nc,nc
 2023-06-07T15:51:24.406Z,-56.0916,-27.3026,35,4.9,mb,30,124,5.565,0.49,us,us7000k6xd,2023-06-07T16:25:56.040Z,"South Sandwich Islands region",earthquake,12.53,1.921,0.125,21,reviewed,us,us
 2023-06-07T15:48:45.240Z,44.3698333,-110.7433333,2.05,0.54,md,6,122,0.105,0.29,uu,uu60541806,2023-06-07T19:00:58.890Z,"Wyoming",earthquake,0.62,5.41,0.161,4,reviewed,uu,uu
@@ -299,4 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T04:19:39.874Z,59.8733,-153.3026,124.9,2.3,ml,,,,0.35,ak,ak02379deq4j,2023-06-07T04:21:28.263Z,"46 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-07T04:17:47.445Z,62.2936,-149.765,23.8,1.4,ml,,,,0.37,ak,ak02379deba0,2023-06-07T04:19:18.408Z,"15 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-07T04:13:21.090Z,18.4131666666667,-67.3508333333333,10.84,2.88,md,9,180,0.1251,0.27,pr,pr71412553,2023-06-07T06:40:32.380Z,"13 km NW of Rincón, Puerto Rico",earthquake,1.33,1.42,0.130951472463032,8,reviewed,pr,pr
-2023-06-07T04:07:09.570Z,19.3848323822021,-155.278335571289,1.36000001430511,1.81,ml,17,65,,0.109999999,hv,hv73443402,2023-06-07T04:12:39.670Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.180000007,0.15,7,automatic,hv,hv
