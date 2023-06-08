@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-08T22:09:02.570Z,34.2019997,-118.0214996,17.58,2.55,ml,27,58,0.03737,0.18,ci,ci40481072,2023-06-08T22:11:16.649Z,"5km NNE of Sierra Madre, CA",earthquake,0.48,0.71,0.241,26,automatic,ci,ci
+2023-06-08T22:08:48.890Z,34.208168,-118.0151672,13.79,3.24,ml,106,21,0.03894,0.22,ci,ci40481064,2023-06-08T22:11:15.648Z,"6km NE of Sierra Madre, CA",earthquake,0.22,0.49,0.246,16,automatic,ci,ci
+2023-06-08T22:05:20.780Z,19.1726665496826,-155.346496582031,25.5599994659424,1.96,ml,42,177,,0.129999995,hv,hv73446207,2023-06-08T22:10:50.930Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.6,0.970000029,4.37,4,automatic,hv,hv
+2023-06-08T22:00:41.670Z,34.259,-119.7576667,1,2.1,ml,20,147,0.1847,0.2,ci,ci40481048,2023-06-08T22:04:26.487Z,"19km SSW of Santa Barbara, CA",earthquake,0.5,31.61,0.128,26,automatic,ci,ci
 2023-06-08T21:27:09.481Z,38.2986,-117.1883,14.4,1.3,ml,8,259.8,0.465,0.4941,nn,nn00861028,2023-06-08T21:29:41.484Z,"25 km N of Tonopah, Nevada",earthquake,,1.8,0.48,7,automatic,nn,nn
+2023-06-08T21:18:25.186Z,55.2564,163.0797,37.601,4.8,mb,64,135,3.434,0.63,us,us7000k78g,2023-06-08T22:10:24.040Z,"114 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.27,4.675,0.034,269,reviewed,us,us
 2023-06-08T21:12:43.760Z,38.845665,-122.8148346,1.43,0.79,md,8,131,0.01117,0.01,nc,nc73898831,2023-06-08T21:38:14.132Z,"8km WNW of Cobb, CA",earthquake,0.48,1.11,0.15,10,automatic,nc,nc
 2023-06-08T20:53:24.150Z,38.7999992,-122.7541656,4.03,0.73,md,10,96,0.02724,0.01,nc,nc73898821,2023-06-08T21:11:19.967Z,"2km N of The Geysers, CA",earthquake,0.46,1.42,0.27,11,automatic,nc,nc
 2023-06-08T20:37:53.986Z,51.8875,177.6045,12.548,4.2,ml,15,177,0.565,0.54,us,us7000k78i,2023-06-08T22:00:16.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.51,5.481,0.077,22,reviewed,us,us
@@ -95,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T10:37:14.060Z,33.8168333,-118.2766667,7.61,1.41,ml,26,76,0.06909,0.35,ci,ci40480448,2023-06-08T16:49:07.207Z,"2km SSE of Carson, CA",earthquake,0.65,1.26,0.304,30,automatic,ci,ci
 2023-06-08T10:35:24.262Z,36.7517,-115.9107,12.5,1.5,ml,31,92.73,0.054,0.1132,nn,nn00861013,2023-06-08T14:32:54.881Z,"29 km NW of Indian Springs, Nevada",earthquake,,0.9,0.32,15,reviewed,nn,nn
 2023-06-08T10:34:11.500Z,36.2836666666667,-89.513,7.94,1.62,md,18,86,0.02766,0.06,nm,nm60528071,2023-06-08T13:29:27.900Z,"Tennessee",earthquake,0.28,0.51,0.0865837978809545,15,reviewed,nm,nm
-2023-06-08T10:31:30.840Z,33.8193333,-118.253,11.19,2.54,ml,66,64,0.05362,0.31,ci,ci40480440,2023-06-08T21:59:56.453Z,"3km ESE of Carson, CA",earthquake,0.37,0.64,0.193,26,automatic,ci,ci
+2023-06-08T10:31:30.710Z,33.8231667,-118.2508333,11.58,2.54,ml,94,62,0.04515,0.25,ci,ci40480440,2023-06-08T22:11:38.550Z,"3km ESE of Carson, CA",earthquake,0.2,0.32,0.195,26,reviewed,ci,ci
 2023-06-08T10:27:15.630Z,38.8223343,-122.7843323,2.05,0.76,md,6,132,0.01389,0.02,nc,nc73898626,2023-06-08T12:42:13.763Z,"5km W of Cobb, CA",earthquake,0.8,1.76,0.46,9,automatic,nc,nc
 2023-06-08T10:21:45.400Z,61.5489,-150.0982,31.3,1.3,ml,,,,0.65,ak,ak0237b4j43w,2023-06-08T10:23:48.101Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-08T10:13:40.930Z,38.8301667,-122.8165,1.98,0.27,md,16,54,0.008421,0.04,nc,nc73898621,2023-06-08T18:08:30.238Z,"8km NW of The Geysers, CA",earthquake,0.28,0.52,0.163,5,reviewed,nc,nc
@@ -216,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T22:19:05.820Z,53.8558333333333,-166.922666666667,2.83,-0.03,ml,5,220,,0.08,av,av91106948,2023-06-08T14:05:20.140Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.5,1.45,0.132092930560411,5,reviewed,av,av
 2023-06-07T22:18:48.990Z,53.8546666666667,-166.923,2.94,0.46,ml,5,219,,0.09,av,av91916026,2023-06-08T13:53:12.810Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.52,1.45,0.149239894307728,5,reviewed,av,av
 2023-06-07T22:18:37.980Z,53.8523333333333,-166.923833333333,4.34,0.56,ml,5,219,,0.11,av,av91106943,2023-06-08T13:56:03.720Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.61,1.39,0.104836184599001,5,reviewed,av,av
-2023-06-07T22:03:44.830Z,38.8113333,-122.7723333,1.79,0.4,md,24,67,0.006802,0.02,nc,nc73898431,2023-06-08T20:18:15.766Z,"4km NNW of The Geysers, CA",earthquake,0.2,0.27,0.213,20,reviewed,nc,nc
