@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T11:07:55.150Z,33.6826667,-116.7136667,15.89,0.41,ml,13,106,0.02843,0.19,ci,ci40483760,2023-06-12T11:11:25.139Z,"6km S of Idyllwild, CA",earthquake,0.55,0.68,0.146,4,automatic,ci,ci
 2023-06-12T10:48:14.180Z,33.258,-116.2993333,9.85,0.85,ml,22,94,0.07541,0.19,ci,ci40483752,2023-06-12T10:51:42.032Z,"7km E of Borrego Springs, CA",earthquake,0.41,0.73,0.145,17,automatic,ci,ci
-2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T10:49:14.676Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
+2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T11:04:10.776Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
 2023-06-12T10:40:19.120Z,19.1700000762939,-155.490829467773,31.3299999237061,1.80999994,md,31,104,,0.129999995,hv,hv73449277,2023-06-12T10:43:34.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.980000019,0.569999993,7,automatic,hv,hv
 2023-06-12T10:40:13.291Z,59.3696,-152.7937,76.1,1.7,ml,,,,0.31,ak,ak0237hqsi7l,2023-06-12T10:42:31.626Z,"49 km W of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-06-12T10:35:35.060Z,33.1458333,-116.4953333,7.48,0.64,ml,21,74,0.1074,0.24,ci,ci40483744,2023-06-12T10:39:14.277Z,"12km NE of Julian, CA",earthquake,0.49,1.7,0.118,7,automatic,ci,ci
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T09:06:04.620Z,38.8226662,-122.8044968,3.22,0.75,md,9,71,0.01634,0.02,nc,nc73900296,2023-06-12T09:23:20.134Z,"6km NW of The Geysers, CA",earthquake,0.39,1.1,0.13,11,automatic,nc,nc
 2023-06-12T08:51:44.683Z,-19.9631,-69.2074,98.445,4,mb,22,97,0.293,0.52,us,us7000k7y3,2023-06-12T09:08:26.040Z,"59 km E of Huara, Chile",earthquake,5.92,5.242,0.259,4,reviewed,us,us
 2023-06-12T08:30:45.015Z,63.1064,-150.976,124.3,1.6,ml,,,,0.33,ak,ak0237hpjkad,2023-06-12T08:32:43.397Z,"Central Alaska",earthquake,,3.6,,,automatic,ak,ak
-2023-06-12T08:28:10.310Z,38.8101654,-122.8125,3.22,0.95,md,12,90,0.01309,0.02,nc,nc73900291,2023-06-12T08:53:20.918Z,"6km NW of The Geysers, CA",earthquake,0.36,0.73,0.14,12,automatic,nc,nc
+2023-06-12T08:28:10.310Z,38.8101654,-122.8125,3.22,0.95,md,12,90,0.01309,0.02,nc,nc73900291,2023-06-12T11:05:19.786Z,"6km NW of The Geysers, CA",earthquake,0.36,0.73,0.14,12,automatic,nc,nc
 2023-06-12T08:08:20.100Z,34.4613333,-117.9588333,8.87,0.87,ml,16,52,0.01268,0.14,ci,ci40483728,2023-06-12T08:11:49.912Z,"7km SW of Pearblossom, CA",earthquake,0.32,0.52,0.385,19,automatic,ci,ci
 2023-06-12T08:05:09.150Z,34.4546667,-117.9626667,11.38,0.39,ml,10,63,0.008282,0.18,ci,ci40483720,2023-06-12T08:08:41.126Z,"8km SW of Pearblossom, CA",earthquake,0.58,0.78,0.254,7,automatic,ci,ci
 2023-06-12T07:56:06.840Z,38.8354988,-122.8034973,1.82,0.72,md,9,96,0.01996,0.02,nc,nc73900281,2023-06-12T10:11:19.438Z,"7km WNW of Cobb, CA",earthquake,0.31,1.17,0.31,9,automatic,nc,nc
@@ -141,4 +142,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T11:34:53.294Z,-6.2008,150.6882,10,5.2,mb,44,67,4.728,0.61,us,us7000k7ti,2023-06-11T11:54:39.040Z,"94 km SE of Kimbe, Papua New Guinea",earthquake,7.78,1.732,0.043,180,reviewed,us,us
 2023-06-11T11:19:43.220Z,58.1921666666667,-155.276,4.53,0.87,ml,5,223,,0.05,av,av91921416,2023-06-11T15:46:56.900Z,"84 km NW of Karluk, Alaska",earthquake,0.59,0.83,0.1364184143129,5,reviewed,av,av
 2023-06-11T11:16:41.420Z,58.2303333333333,-155.12,1.66,0.41,ml,5,170,,0.11,av,av91921411,2023-06-11T15:44:24.980Z,"83 km NNW of Karluk, Alaska",earthquake,0.37,1.88,0.289588561797542,5,reviewed,av,av
-2023-06-11T11:06:35.730Z,19.3645000457764,-155.413330078125,7.42000007629395,2.03,ml,41,54,,0.170000002,hv,hv73448717,2023-06-11T11:12:07.100Z,"19 km NNE of Pāhala, Hawaii",earthquake,0.35,0.730000019,0.36,7,automatic,hv,hv
