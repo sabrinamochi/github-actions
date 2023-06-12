@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-12T11:37:03.240Z,34.0139999,-116.7705002,12.36,1.39,ml,35,84,0.1047,0.15,ci,ci40483776,2023-06-12T11:39:11.749Z,"11km N of Cabazon, CA",earthquake,0.3,1.05,0.352,6,automatic,ci,ci
+2023-06-12T11:37:03.310Z,34.01,-116.7608333,13.38,1.1,ml,28,75,0.09797,0.19,ci,ci40483776,2023-06-12T11:40:33.302Z,"11km NNE of Cabazon, CA",earthquake,0.28,0.86,0.244,29,automatic,ci,ci
 2023-06-12T11:12:17.420Z,38.7938347,-122.7288361,1.78,0.74,md,6,101,0.01225,0.01,nc,nc73900316,2023-06-12T11:32:14.960Z,"3km NE of The Geysers, CA",earthquake,0.59,4.57,0.17,7,automatic,nc,nc
 2023-06-12T11:07:55.150Z,33.6826667,-116.7136667,15.89,0.41,ml,13,106,0.02843,0.19,ci,ci40483760,2023-06-12T11:11:25.139Z,"6km S of Idyllwild, CA",earthquake,0.55,0.68,0.146,4,automatic,ci,ci
 2023-06-12T10:48:14.180Z,33.258,-116.2993333,9.85,0.85,ml,22,94,0.07541,0.19,ci,ci40483752,2023-06-12T10:51:42.032Z,"7km E of Borrego Springs, CA",earthquake,0.41,0.73,0.145,17,automatic,ci,ci
@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T04:24:39.770Z,37.6128349,-122.4608307,7.78,1.23,md,8,135,0.0421,0.01,nc,nc73900236,2023-06-12T05:32:10.639Z,"2km E of Pacifica, CA",earthquake,0.41,0.91,0.23,6,automatic,nc,nc
 2023-06-12T04:21:24.430Z,33.7033333,-116.8088333,15.59,1.06,ml,32,101,0.0793,0.16,ci,ci40483648,2023-06-12T04:25:00.293Z,"9km ESE of Valle Vista, CA",earthquake,0.34,0.45,0.308,26,automatic,ci,ci
 2023-06-12T04:14:26.598Z,60.227,-139.6543,0,2.5,ml,,,,0.84,ak,ak0237hn2czn,2023-06-12T04:17:04.807Z,"75 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-12T03:54:23.934Z,31.12328977,-103.7547688,8.419580078,1.9,ml,17,65,0.07224271007,0.2,tx,tx2023lkhf,2023-06-12T11:40:50.465Z,"15 km N of Balmorhea, Texas",earthquake,1.026184282,2.279632479,0.1,13,reviewed,tx,tx
 2023-06-12T03:52:45.580Z,38.7919998,-122.7638321,2.74,1.26,md,16,76,0.01886,0.02,nc,nc73900231,2023-06-12T06:41:15.081Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.71,0.27,16,automatic,nc,nc
 2023-06-12T03:48:31.880Z,38.7921677,-122.7643356,2.6,1.32,md,17,93,0.01846,0.03,nc,nc73900226,2023-06-12T06:14:11.912Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.62,0.17,18,automatic,nc,nc
 2023-06-12T03:34:32.020Z,35.771,-117.5866667,6.28,1.28,ml,19,126,0.1497,0.2,ci,ci40483640,2023-06-12T03:44:50.980Z,"16km W of Searles Valley, CA",earthquake,0.43,1.41,0.248,10,automatic,ci,ci
