@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T22:34:56.460Z,34.0043333,-116.3476667,2.94,0.88,ml,16,76,0.0737,0.15,ci,ci40484248,2023-06-12T22:38:28.371Z,"14km SSE of Yucca Valley, CA",earthquake,0.26,1.23,0.118,10,automatic,ci,ci
+2023-06-12T22:30:17.630Z,38.8375015,-122.7943344,2,0.82,md,12,76,0.003245,0.01,nc,nc73900466,2023-06-12T22:31:51.483Z,"6km WNW of Cobb, CA",earthquake,0.31,1.08,0.26,13,automatic,nc,nc
 2023-06-12T21:52:58.101Z,33.1987,86.8803,10,4.4,mb,39,81,5.223,0.72,us,us7000k82h,2023-06-12T22:17:53.280Z,"western Xizang",earthquake,9.48,1.917,0.102,28,reviewed,us,us
 2023-06-12T21:49:33.849Z,62.3794,-151.0365,15,1.6,ml,,,,0.73,ak,ak0237hxe8w8,2023-06-12T21:51:47.481Z,"19 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-12T21:44:33.040Z,44.2658333333333,-115.183166666667,18.78,2.12,ml,14,68,0.8298,0.17,mb,mb90017868,2023-06-12T21:58:56.290Z,"20 km WNW of Stanley, Idaho",earthquake,0.47,1.06,0.210885230303093,15,reviewed,mb,mb
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T15:35:33.007Z,61.3601,-151.678,90.7,2.8,ml,,,,0.48,ak,ak0237htqn6x,2023-06-12T16:15:16.040Z,"40 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-12T15:15:19.939Z,51.3249,-179.1377,24.1,1.6,ml,,,,0.61,ak,ak0237htmcea,2023-06-12T17:01:21.565Z,"183 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-12T15:13:15.642Z,36.3812294,-97.63763428,3.946743965,1.61,ml,15,67.98384094,0.1385554969,0.3414923274,ok,ok2023lldl,2023-06-12T15:16:13.004Z,"6 km ENE of Fairmont, Oklahoma",earthquake,2.925970392,2.597813897,0.23,5,automatic,ok,ok
-2023-06-12T15:12:58.600Z,19.3368339538574,-155.172836303711,1.3400000333786,2.26,ml,40,161,,0.239999995,hv,hv73449372,2023-06-12T15:18:28.430Z,"13 km SSE of Volcano, Hawaii",earthquake,0.37,0.5,0.24,11,automatic,hv,hv
+2023-06-12T15:12:58.810Z,19.3346666666667,-155.172666666667,3.17,2.38,ml,46,148,,0.14,hv,hv73449372,2023-06-12T22:37:53.100Z,"Hawaii region, Hawaii",earthquake,0.29,0.72,0.207245724506107,16,reviewed,hv,hv
 2023-06-12T15:12:50.470Z,19.3571662902832,-155.171661376953,4.28000020980835,2.26,ml,10,124,,0.119999997,hv,hv73449367,2023-06-12T15:18:20.880Z,"11 km SE of Volcano, Hawaii",earthquake,0.74,1.36000001,0.45,11,automatic,hv,hv
 2023-06-12T15:09:53.598Z,64.9907,-147.394,0.2,1.8,ml,,,,0.91,ak,ak0237htl45b,2023-06-12T15:12:13.495Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T15:00:52.789Z,61.7247,-150.0654,49.5,1.5,ml,,,,0.48,ak,ak0237htj6n2,2023-06-12T15:02:44.251Z,"2 km SSW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -159,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T23:13:23.441Z,65.5371,-144.3477,0,1.6,ml,,,,0.92,ak,ak0237gau114,2023-06-11T23:15:34.301Z,"21 km E of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-11T22:49:57.857Z,-6.6479,155.4774,255.188,4.5,mb,52,127,4.103,0.5,us,us7000k7ws,2023-06-12T20:57:24.040Z,"36 km S of Panguna, Papua New Guinea",earthquake,11.9,8.292,0.08,45,reviewed,us,us
 2023-06-11T22:40:53.862Z,62.756,-152.2114,0,1.6,ml,,,,0.82,ak,ak0237gaeg3u,2023-06-11T22:42:56.484Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-11T22:39:24.090Z,33.0321667,-116.419,9.88,1.13,ml,43,88,0.04781,0.18,ci,ci40483544,2023-06-12T15:44:09.370Z,"18km ESE of Julian, CA",earthquake,0.22,0.38,0.138,20,reviewed,ci,ci
