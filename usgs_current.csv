@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-13T22:48:41.240Z,33.4068336,-116.267334,9.86,1.12,ml,21,119,0.05672,0.38,ci,ci40485088,2023-06-13T22:50:46.674Z,"17km WSW of Oasis, CA",earthquake,0.76,1.21,0.398,6,automatic,ci,ci
-2023-06-13T22:45:43.940Z,36.5239983,-121.1476669,3.97,3.48,ml,59,61,,0.29,nc,nc73900831,2023-06-13T22:50:32.935Z,"1km SSW of Pinnacles, CA",earthquake,0.4,1.67,0.28,34,automatic,nc,nc
+2023-06-13T22:52:47.010Z,33.3428333,-116.3343333,10.11,1.41,ml,56,28,0.02843,0.18,ci,ci40485104,2023-06-13T22:56:16.838Z,"10km NNE of Borrego Springs, CA",earthquake,0.21,0.42,0.18,27,automatic,ci,ci
+2023-06-13T22:51:45.200Z,40.3428345,-124.2545013,13.4,1.99,md,8,296,0.07238,0.13,nc,nc73900836,2023-06-13T22:58:38.368Z,"3km NE of Petrolia, CA",earthquake,9.56,4.76,0.12,5,automatic,nc,nc
+2023-06-13T22:48:40.980Z,33.3635,-116.318,9.75,0.82,ml,19,50,0.00712,0.21,ci,ci40485088,2023-06-13T22:52:10.283Z,"13km NNE of Borrego Springs, CA",earthquake,0.51,0.77,0.103,12,automatic,ci,ci
+2023-06-13T22:45:43.940Z,36.5239983,-121.1476669,3.97,3.48,ml,59,61,,0.29,nc,nc73900831,2023-06-13T22:57:37.044Z,"1km SSW of Pinnacles, CA",earthquake,0.4,1.67,0.28,34,reviewed,nc,nc
 2023-06-13T22:42:16.430Z,19.263500213623,-155.372497558594,28.7299995422363,2.1099999,md,42,135,,0.129999995,hv,hv73450377,2023-06-13T22:46:18.850Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.71000004,22,automatic,hv,hv
 2023-06-13T22:33:42.107Z,36.6332,-116.0402,11,2.1,ml,30,75.48,0.069,0.2513,nn,nn00861193,2023-06-13T22:37:39.433Z,"33 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.75,19,automatic,nn,nn
 2023-06-13T22:22:30.557Z,63.0566,-150.8927,14.1,1.4,ml,,,,1.04,ak,ak0237jld8en,2023-06-13T22:24:50.066Z,"62 km N of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-13T22:21:39.150Z,39.6951,-119.754,0,1.1,ml,8,82.69,0.182,0.2512,nn,nn00861192,2023-06-13T22:23:43.480Z,"6 km NW of Spanish Springs, Nevada",earthquake,,14.2,0.29,5,automatic,nn,nn
-2023-06-13T22:18:02.160Z,38.7924995,-122.7488327,2.53,0.33,md,10,90,0.01175,0.02,nc,nc73900816,2023-06-13T22:19:39.186Z,"2km NNE of The Geysers, CA",earthquake,0.32,1.52,0.11,9,automatic,nc,nc
+2023-06-13T22:18:02.160Z,38.7924995,-122.7488327,2.53,0.33,md,10,90,0.01175,0.02,nc,nc73900816,2023-06-13T22:58:14.001Z,"2km NNE of The Geysers, CA",earthquake,0.32,1.52,0.11,9,automatic,nc,nc
 2023-06-13T22:11:04.870Z,44.8528333,-110.3575,5.37,0.86,md,8,138,0.1781,0.13,uu,uu60542146,2023-06-13T22:45:08.880Z,"30 km ESE of Mammoth, Wyoming",earthquake,0.66,9.63,0.36,5,reviewed,uu,uu
 2023-06-13T21:54:52.550Z,18.2933333333333,-66.457,47.15,2.69,md,13,94,0.09292,0.15,pr,pr71413293,2023-06-13T22:09:25.820Z,"Puerto Rico region",earthquake,0.59,0.75,0.0516652006836236,6,reviewed,pr,pr
 2023-06-13T21:46:17.030Z,44.7945,-110.9988333,6.26,0.79,md,11,159,0.03555,0.16,uu,uu60542141,2023-06-13T22:41:30.370Z,"Wyoming",earthquake,0.51,0.84,0.254,8,reviewed,uu,uu
@@ -209,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T23:22:13.980Z,36.5008316,-121.0684967,7.1,1.34,md,9,153,0.04624,0.04,nc,nc73900486,2023-06-13T02:34:14.084Z,"8km ESE of Pinnacles, CA",earthquake,0.55,0.97,0.11,6,automatic,nc,nc
 2023-06-12T23:17:26.080Z,19.1630001068115,-155.490173339844,29.8899993896484,1.98000002,md,29,159,,0.170000002,hv,hv73449647,2023-06-12T23:20:50.100Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.30999994,0.00999999978,9,automatic,hv,hv
 2023-06-12T23:08:48.270Z,35.042,-117.6656667,-0.82,1.9,ml,30,48,0.1103,0.18,ci,ci40484280,2023-06-13T15:49:10.455Z,"5km NNW of Boron, CA",quarry blast,0.41,31.61,0.174,32,reviewed,ci,ci
-2023-06-12T22:55:15.810Z,38.8101654,-122.8221664,2,1.09,md,18,74,0.005629,0.03,nc,nc73900476,2023-06-12T22:56:52.297Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.37,0.15,21,automatic,nc,nc
-2023-06-12T22:53:41.960Z,34.5021667,-118.7526667,13.46,0.94,ml,7,185,0.1146,0.08,ci,ci40484264,2023-06-13T15:42:10.410Z,"10km NNE of Piru, CA",earthquake,0.4,0.59,0.082,3,reviewed,ci,ci
-2023-06-12T22:52:37.629Z,66.1746,-149.3328,3.4,1,ml,,,,0.34,ak,ak0237hy0bxo,2023-06-12T22:55:00.161Z,"21 km NNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
