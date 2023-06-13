@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T16:38:55.050Z,37.5286674,-121.9154968,8.13,1.45,md,8,102,0.02532,0.05,nc,nc73900731,2023-06-13T17:42:10.809Z,"6km ESE of Fremont, CA",earthquake,0.6,0.89,0.04,7,automatic,nc,nc
 2023-06-13T16:16:55.400Z,35.6473333,-118.319,7.74,1.64,ml,29,67,0.05467,0.15,ci,ci40484752,2023-06-13T16:27:53.860Z,"14km ESE of Wofford Heights, CA",earthquake,0.2,0.59,0.214,23,automatic,ci,ci
 2023-06-13T16:16:02.390Z,51.4427,-178.4426,16.252,5.3,mww,113,141,0.257,0.77,us,us7000k86m,2023-06-13T17:16:14.365Z,"134 km WSW of Adak, Alaska",earthquake,4.35,4.113,0.043,51,reviewed,us,us
-2023-06-13T16:10:31.493Z,60.2282,-153.078,123.9,1.9,ml,,,,0.16,ak,ak0237jhq299,2023-06-13T16:21:30.040Z,"68 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-06-13T16:10:31.493Z,60.2282,-153.078,123.9,1.9,ml,,,,0.16,ak,ak0237jhq299,2023-06-13T16:21:30.040Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-06-13T15:58:02.675Z,59.4566,-152.6305,86.3,1.6,ml,,,,0.44,ak,ak0237jheusr,2023-06-13T16:00:26.474Z,"41 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-13T15:52:41.870Z,38.7866669,-122.7473297,1.31,0.95,md,11,83,0.008968,0.03,nc,nc73900711,2023-06-13T17:44:13.819Z,"1km NE of The Geysers, CA",earthquake,0.29,0.71,0.2,10,automatic,nc,nc
 2023-06-13T15:51:56.840Z,35.6455,-118.3176667,7.2,2.61,ml,36,67,0.0568,0.16,ci,ci40484736,2023-06-13T17:15:29.397Z,"14km ESE of Wofford Heights, CA",earthquake,0.21,0.68,0.238,26,automatic,ci,ci
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T11:00:12.580Z,17.9698333333333,-66.8491666666667,9.76,2.25,md,5,203,0.02911,0.1,pr,pr71413263,2023-06-13T14:35:37.210Z,"4 km SW of Indios, Puerto Rico",earthquake,0.7,0.51,0.262752857657956,5,reviewed,pr,pr
 2023-06-13T10:50:22.494Z,64.4155,-163.5968,19.4,3.8,ml,,,,0.75,ak,ak0237jee0j7,2023-06-13T14:59:18.232Z,"30 km WSW of Golovin, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-06-13T10:42:29.630Z,35.8956667,-117.736,6.82,0.93,ml,7,155,0.09003,0.12,ci,ci40484528,2023-06-13T10:45:55.639Z,"16km ESE of Little Lake, CA",earthquake,0.5,1.09,0.247,4,automatic,ci,ci
-2023-06-13T10:42:14.800Z,32.0771667,-117.1106667,22.98,1.84,ml,10,300,0.4461,0.07,ci,ci40484520,2023-06-13T10:45:46.659Z,"24km SW of Primo Tapia, B.C., MX",earthquake,2.9,1.53,0.166,8,automatic,ci,ci
+2023-06-13T10:42:14.800Z,32.0771667,-117.1106667,22.98,1.84,ml,10,300,0.4461,0.07,ci,ci40484520,2023-06-13T18:01:54.552Z,"24km SW of Primo Tapia, B.C., MX",earthquake,2.9,1.53,0.166,8,automatic,ci,ci
 2023-06-13T10:37:16.904Z,58.1794,-155.23,0,1.4,ml,,,,0.29,ak,ak0237jeb7u2,2023-06-13T10:57:28.875Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-06-13T10:35:42.830Z,38.8095016,-122.8239975,2.19,1.77,md,21,108,0.004097,0.02,nc,nc73900651,2023-06-13T13:17:16.029Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.39,0.09,26,automatic,nc,nc
 2023-06-13T10:21:56.210Z,32.7523333,-115.4216667,11.88,1.54,ml,21,121,0.05692,0.21,ci,ci40484512,2023-06-13T17:49:39.367Z,"8km SSW of Holtville, CA",earthquake,0.42,0.37,0.127,13,reviewed,ci,ci
@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T18:17:06.050Z,38.8334999,-122.7908325,1.86,0.76,md,10,86,0.01448,0.03,nc,nc73900406,2023-06-12T19:30:15.652Z,"6km WNW of Cobb, CA",earthquake,0.36,0.61,0.27,10,automatic,nc,nc
 2023-06-12T18:13:17.358Z,37.3214,-117.6285,7.1,1.6,ml,9,96.08,0.09,0.2364,nn,nn00861147,2023-06-12T18:44:27.825Z,"48 km S of Silver Peak, Nevada",earthquake,,7,0.86,5,reviewed,nn,nn
 2023-06-12T18:03:50.251Z,51.429,-178.7781,15.7,1.4,ml,,,,0.76,ak,ak0237hvc53w,2023-06-12T21:35:35.844Z,"156 km WSW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-06-12T18:01:35.630Z,18.1108333333333,-66.4735,11.93,2.29,md,14,121,0.03793,0.18,pr,pr71413148,2023-06-12T18:27:08.300Z,"2 km SE of Villalba, Puerto Rico",earthquake,0.37,0.65,0.0738447546512737,6,reviewed,pr,pr
