@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-13T03:15:30.944Z,62.8913,-150.932,86.8,1.9,ml,,,,0.44,ak,ak0237ja0hxi,2023-06-13T03:18:05.044Z,"44 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-13T03:11:04.700Z,33.9348333,-117.1286667,16.1,0.9,ml,32,78,0.09691,0.23,ci,ci40484392,2023-06-13T03:14:35.352Z,"9km SW of Calimesa, CA",earthquake,0.37,0.87,0.15,21,automatic,ci,ci
 2023-06-13T03:02:08.086Z,64.5963,-147.0658,4.6,1.1,ml,,,,0.23,ak,ak0237j9xnuw,2023-06-13T03:03:39.651Z,"7 km S of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-13T02:48:19.610Z,19.1911659240723,-155.491333007812,35.0200004577637,2.0999999,md,37,77,,0.109999999,hv,hv73449837,2023-06-13T02:51:45.550Z,"1 km SW of Pāhala, Hawaii",earthquake,0.48,0.720000029,0.980000019,15,automatic,hv,hv
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T01:14:50.428Z,62.8406,-149.349,69.2,1.6,ml,,,,0.52,ak,ak0237j8tgfy,2023-06-13T01:17:37.859Z,"58 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-13T01:09:16.103Z,36.53876114,-98.96320343,3.153856277,2,ml,23,75.06687927,0.04763789847,0.5187657291,ok,ok2023llxg,2023-06-13T01:12:38.987Z,"8 km WSW of Waynoka, Oklahoma",earthquake,3.081308905,1.744406719,0.22,17,automatic,ok,ok
 2023-06-13T01:08:29.305Z,61.8779,-147.2067,32.3,2.3,ml,,,,0.86,ak,ak0237j8s4jo,2023-06-13T01:27:59.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-13T01:04:46.080Z,36.5496674,-121.135498,7.06,2.08,md,26,116,0.0458,0.1,nc,nc73900531,2023-06-13T01:26:10.710Z,"2km NNE of Pinnacles, CA",earthquake,0.39,0.99,0.12,27,automatic,nc,nc
+2023-06-13T01:04:46.080Z,36.5496674,-121.135498,7.06,2.08,md,26,116,0.0458,0.1,nc,nc73900531,2023-06-13T03:19:14.327Z,"2km NNE of Pinnacles, CA",earthquake,0.39,0.99,0.12,27,automatic,nc,nc
 2023-06-13T00:50:05.260Z,38.8199997,-122.803833,2.63,0.77,md,8,86,0.005938,0.01,nc,nc73900526,2023-06-13T01:24:16.698Z,"6km NW of The Geysers, CA",earthquake,0.53,1.84,0.16,9,automatic,nc,nc
 2023-06-13T00:44:22.260Z,33.4403333,-116.637,2.71,0.51,ml,21,64,0.06153,0.22,ci,ci40484312,2023-06-13T00:47:51.559Z,"13km SSE of Anza, CA",earthquake,0.32,0.57,0.13,14,automatic,ci,ci
 2023-06-13T00:34:43.979Z,35.36266667,-98.079,8.76,2.75,ml,97,31,0,0.29,ok,ok2023llwd,2023-06-13T01:44:16.582Z,"12 km WSW of Union City, Oklahoma",earthquake,,1,0.23,47,reviewed,ok,ok
@@ -179,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T03:48:31.880Z,38.7921677,-122.7643356,2.6,1.32,md,17,93,0.01846,0.03,nc,nc73900226,2023-06-12T06:14:11.912Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.62,0.17,18,automatic,nc,nc
 2023-06-12T03:34:31.920Z,35.7751667,-117.5811667,6.49,1.34,ml,18,128,0.153,0.11,ci,ci40483640,2023-06-12T17:36:02.464Z,"16km W of Searles Valley, CA",earthquake,0.27,0.74,0.253,11,reviewed,ci,ci
 2023-06-12T03:34:31.660Z,37.5766667,-118.8363333,2.98,0.62,md,13,260,0.01452,0.07,nc,nc73900221,2023-06-12T21:46:01.468Z,"14km W of Toms Place, CA",earthquake,0.84,0.81,0.125,15,reviewed,nc,nc
-2023-06-12T03:17:20.190Z,33.9286667,-117.0936667,15.28,0.9,ml,29,63,0.06837,0.18,ci,ci40483632,2023-06-12T16:18:50.572Z,"8km SSW of Calimesa, CA",earthquake,0.26,0.53,0.068,6,reviewed,ci,ci
-2023-06-12T03:17:04.190Z,-7.315,130.1976,96.412,4.6,mb,28,129,2.79,0.64,us,us7000k7xe,2023-06-12T03:34:32.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,9.17,7.68,0.105,27,reviewed,us,us
