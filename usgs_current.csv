@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-14T14:26:22.900Z,33.2731667,-116.4303333,3.62,0.84,ml,26,85,0.0121,0.2,ci,ci40485592,2023-06-14T14:30:03.290Z,"6km WNW of Borrego Springs, CA",earthquake,0.31,0.47,0.143,21,automatic,ci,ci
+2023-06-14T14:26:22.900Z,33.2731667,-116.4303333,3.62,0.84,ml,26,85,0.0121,0.2,ci,ci40485592,2023-06-14T14:30:04.280Z,"6km WNW of Borrego Springs, CA",earthquake,0.31,0.47,0.143,21,automatic,ci,ci
 2023-06-14T14:25:22.640Z,59.2202,-151.7296,57.6,1.7,ml,,,,0.33,ak,ak0237l45qlk,2023-06-14T14:27:11.268Z,"15 km SSE of Port Graham, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-14T14:22:58.488Z,58.2199,-155.2052,0,1.9,ml,,,,0.78,ak,ak0237l4567s,2023-06-14T14:24:53.143Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T14:06:30.610Z,38.8413315,-122.8239975,1.73,0.65,md,12,95,0.009381,0.01,nc,nc73901076,2023-06-14T14:24:13.471Z,"9km WNW of Cobb, CA",earthquake,0.32,0.81,0.38,13,automatic,nc,nc
@@ -63,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:56:38.410Z,33.1468333,-116.4671667,2.23,0.57,ml,19,69,0.1276,0.15,ci,ci40485368,2023-06-14T07:00:21.268Z,"15km ENE of Julian, CA",earthquake,0.27,0.54,0.082,6,automatic,ci,ci
 2023-06-14T06:52:47.820Z,38.8366661,-122.7938309,1.97,1.34,md,26,67,0.003232,0.02,nc,nc73900981,2023-06-14T10:36:14.138Z,"6km WNW of Cobb, CA",earthquake,0.19,0.33,0.16,28,automatic,nc,nc
 2023-06-14T06:52:31.900Z,38.8375015,-122.8010025,1.62,0.71,md,12,65,0.008373,0.03,nc,nc73900976,2023-06-14T07:10:15.911Z,"7km WNW of Cobb, CA",earthquake,0.28,0.66,0.16,12,automatic,nc,nc
+2023-06-14T06:44:29.066Z,55.2638,-159.8007,4.9,1.9,ml,,,,0.66,ak,ak0237kzics5,2023-06-14T14:30:47.981Z,"45 km E of Sand Point, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-14T06:40:45.240Z,38.8346672,-122.7978363,2.04,1.08,md,18,57,0.006943,0.06,nc,nc73900971,2023-06-14T06:58:13.840Z,"7km WNW of Cobb, CA",earthquake,0.26,0.52,0.13,20,automatic,nc,nc
 2023-06-14T06:32:50.979Z,58.1682,-155.3062,0,0.5,ml,,,,0.3,ak,ak0237kzftyh,2023-06-14T06:34:48.068Z,"83 km NW of Karluk, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2023-06-14T06:28:15.720Z,19.6561,-65.8823,84,3.89,md,15,283,1.3449,0.51,pr,pr2023165006,2023-06-14T07:53:22.040Z,"133 km N of San Juan, Puerto Rico",earthquake,4.62,10.47,0.03,7,reviewed,pr,pr
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T14:37:52.860Z,19.9411666666667,-155.484,36.22,1.8,md,28,236,,0.13,hv,hv73450177,2023-06-14T05:00:05.200Z,"15 km S of Honoka‘a, Hawaii",earthquake,0.59,0.8,0.0562114551400447,12,reviewed,hv,hv
 2023-06-13T14:34:41.240Z,58.1856666666667,-155.282833333333,3.67,0.52,ml,8,188,,0.13,av,av91924651,2023-06-13T15:14:27.230Z,"84 km NW of Karluk, Alaska",earthquake,0.89,1.21,0.327381298122161,8,reviewed,av,av
 2023-06-13T14:33:28.500Z,38.8336678,-122.8056641,2.68,0.63,md,12,61,0.01082,0.02,nc,nc73900696,2023-06-13T16:25:14.271Z,"7km W of Cobb, CA",earthquake,0.38,0.94,0.42,13,automatic,nc,nc
-2023-06-13T14:30:29.000Z,38.796833,-122.7363358,0.69,0.81,md,9,101,0.01358,0.04,nc,nc73900691,2023-06-13T15:59:19.054Z,"3km NE of The Geysers, CA",earthquake,0.27,1.05,0.11,10,automatic,nc,nc
