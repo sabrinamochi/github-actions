@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-14T07:05:29.590Z,35.6523333,-117.5335,0.15,0.84,ml,7,136,0.1811,0.12,ci,ci40485376,2023-06-14T07:08:58.470Z,"13km ENE of Ridgecrest, CA",earthquake,0.45,31.61,0.166,8,automatic,ci,ci
-2023-06-14T06:57:43.240Z,36.958168,-121.4365005,7.7,1.48,md,23,53,0.07732,0.09,nc,nc73900986,2023-06-14T06:59:17.979Z,"13km NNW of Hollister, CA",earthquake,0.33,0.7,0.22,19,automatic,nc,nc
+2023-06-14T06:57:43.240Z,36.958168,-121.4365005,7.7,1.48,md,23,53,0.07732,0.09,nc,nc73900986,2023-06-14T07:12:47.726Z,"13km NNW of Hollister, CA",earthquake,0.33,0.7,0.22,19,automatic,nc,nc
 2023-06-14T06:56:38.410Z,33.1468333,-116.4671667,2.23,0.57,ml,19,69,0.1276,0.15,ci,ci40485368,2023-06-14T07:00:21.268Z,"15km ENE of Julian, CA",earthquake,0.27,0.54,0.082,6,automatic,ci,ci
 2023-06-14T06:52:47.820Z,38.8366661,-122.7938309,1.97,1.34,md,26,67,0.003232,0.02,nc,nc73900981,2023-06-14T07:03:10.866Z,"6km WNW of Cobb, CA",earthquake,0.19,0.33,0.16,28,automatic,nc,nc
 2023-06-14T06:52:31.900Z,38.8375015,-122.8010025,1.62,0.71,md,12,65,0.008373,0.03,nc,nc73900976,2023-06-14T07:10:15.911Z,"7km WNW of Cobb, CA",earthquake,0.28,0.66,0.16,12,automatic,nc,nc
@@ -195,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T11:00:12.580Z,17.9698333333333,-66.8491666666667,9.76,2.25,md,5,203,0.02911,0.1,pr,pr71413263,2023-06-13T14:35:37.210Z,"4 km SW of Indios, Puerto Rico",earthquake,0.7,0.51,0.262752857657956,5,reviewed,pr,pr
 2023-06-13T10:55:05.650Z,36.5405,-98.96033333,6.9,1.33,ml,28,74,0.04859046489,0.13,ok,ok2023lmqp,2023-06-13T21:15:27.235Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.25,5,reviewed,ok,ok
 2023-06-13T10:50:22.494Z,64.4155,-163.5968,19.4,3.8,ml,,,,0.75,ak,ak0237jee0j7,2023-06-13T14:59:18.232Z,"30 km WSW of Golovin, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-06-13T10:45:11.540Z,37.3881667,-119.9841667,15.57,2.05,md,20,83,0.1857,0.26,nc,nc73900656,2023-06-14T05:43:14.549Z,"11km S of Mariposa, CA",earthquake,0.47,0.7,0.312,26,reviewed,nc,nc
+2023-06-13T10:45:11.540Z,37.3881667,-119.9841667,15.57,2.05,md,20,83,0.1857,0.26,nc,nc73900656,2023-06-14T07:13:09.931Z,"11km S of Mariposa, CA",earthquake,0.47,0.7,0.312,26,reviewed,nc,nc
 2023-06-13T10:42:29.390Z,35.8985,-117.7401667,9.53,0.77,ml,15,115,0.09197,0.08,ci,ci40484528,2023-06-13T18:08:30.036Z,"16km ESE of Little Lake, CA",earthquake,0.22,0.46,0.156,7,reviewed,ci,ci
 2023-06-13T10:42:11.930Z,31.938,-117.1823333,5.59,1.98,ml,17,238,0.4357,0.24,ci,ci40484520,2023-06-13T18:02:05.566Z,"40km SW of Primo Tapia, B.C., MX",earthquake,0.97,31.61,0.184,8,reviewed,ci,ci
 2023-06-13T10:37:16.904Z,58.1794,-155.23,0,1.4,ml,,,,0.29,ak,ak0237jeb7u2,2023-06-13T10:57:28.875Z,"82 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T07:34:33.368Z,63.081,-150.657,98.6,2.1,ml,,,,0.45,ak,ak0237jcib54,2023-06-13T07:36:29.294Z,"65 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-13T07:25:43.120Z,18.2361,-67.7163,63,3.61,md,22,178,0.2797,0.23,pr,pr2023164001,2023-06-13T11:47:34.040Z,"50 km W of Stella, Puerto Rico",earthquake,1.07,0.89,0.05,13,reviewed,pr,pr
 2023-06-13T07:15:59.310Z,38.8144989,-122.7948303,1.76,0.77,md,13,116,0.006532,0.06,nc,nc73900601,2023-06-13T09:20:12.541Z,"5km NW of The Geysers, CA",earthquake,0.36,0.82,0.1,13,automatic,nc,nc
-2023-06-13T07:12:43.020Z,36.08283333,-97.64383333,6.4,1.51,ml,49,50,0.06478728652,0.21,ok,ok2023lmjh,2023-06-13T21:10:23.660Z,"8 km SSW of Marshall, Oklahoma",earthquake,,0.4,0.21,6,reviewed,ok,ok
