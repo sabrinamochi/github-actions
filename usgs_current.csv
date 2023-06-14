@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-14T18:33:31.090Z,34.0348333,-116.3206667,8.65,1.22,ml,27,45,0.06701,0.19,ci,ci40485832,2023-06-14T18:37:03.155Z,"11km S of Joshua Tree, CA",earthquake,0.32,0.71,0.129,28,automatic,ci,ci
 2023-06-14T18:30:46.205Z,65.2858,-152.3705,4.8,1.9,ml,,,,1.24,ak,ak0237l6klf0,2023-06-14T18:32:53.401Z,"18 km NW of Tanana, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-14T18:27:37.600Z,36.5466652,-121.1333313,2.36,1.57,md,9,133,0.04881,0.13,nc,nc73901161,2023-06-14T18:48:10.070Z,"2km NNE of Pinnacles, CA",earthquake,1.17,4.64,0.12,9,automatic,nc,nc
+2023-06-14T18:27:37.600Z,36.5466652,-121.1333313,2.36,1.57,md,9,133,0.04881,0.13,nc,nc73901161,2023-06-14T19:11:19.248Z,"2km NNE of Pinnacles, CA",earthquake,1.17,4.64,0.12,9,automatic,nc,nc
 2023-06-14T18:25:46.790Z,61.3638,-147.8832,18.5,0.9,ml,,,,0.17,ak,ak0237l6jivr,2023-06-14T18:27:51.347Z,"50 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T18:24:16.550Z,38.7801666,-122.7668304,1.3,1,md,9,113,0.00947,0.02,nc,nc73901151,2023-06-14T18:51:16.099Z,"1km WNW of The Geysers, CA",earthquake,0.37,0.8,0.13,10,automatic,nc,nc
 2023-06-14T18:06:51.060Z,36.8886681,-121.6123352,1.23,2.32,md,7,68,0.01686,0.03,nc,nc73901146,2023-06-14T18:26:14.873Z,"3km E of Aromas, CA",earthquake,0.32,0.61,0.06,6,automatic,nc,nc
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T14:06:30.610Z,38.8413315,-122.8239975,1.73,0.65,md,12,95,0.009381,0.01,nc,nc73901076,2023-06-14T16:11:19.067Z,"9km WNW of Cobb, CA",earthquake,0.32,0.81,0.38,13,automatic,nc,nc
 2023-06-14T13:55:29.350Z,37.1346664,-121.5656662,0.24,1.05,md,5,152,0.05643,0.08,nc,nc73901071,2023-06-14T15:47:25.947Z,"7km NE of San Martin, CA",earthquake,0.7,9.42,0.13,8,automatic,nc,nc
 2023-06-14T13:47:47.338Z,60.6413,-149.118,6,1.5,ml,,,,0.54,ak,ak0237l3p2nh,2023-06-14T13:49:38.100Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T13:37:40.670Z,33.151,-115.9775,4.49,0.99,ml,26,56,0.02243,0.27,ci,ci40485536,2023-06-14T13:41:16.307Z,"14km E of Ocotillo Wells, CA",earthquake,0.47,0.99,0.096,15,automatic,ci,ci
+2023-06-14T13:37:40.590Z,33.1541667,-115.9801667,7.37,0.97,ml,29,56,0.01938,0.16,ci,ci40485536,2023-06-14T19:05:07.570Z,"14km E of Ocotillo Wells, CA",earthquake,0.2,0.51,0.152,17,reviewed,ci,ci
 2023-06-14T13:29:14.173Z,62.3862,-149.0841,15,0.6,ml,,,,0.44,ak,ak0237l3l5l1,2023-06-14T14:58:13.887Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-06-14T13:08:56.520Z,33.8171667,-117.6488333,9.18,0.75,ml,13,59,0.03965,0.12,ci,ci40485512,2023-06-14T18:57:50.938Z,"10km SW of Corona, CA",earthquake,0.32,0.52,0.141,5,reviewed,ci,ci
 2023-06-14T12:49:51.978Z,63.3291,-151.0562,2.3,1.4,ml,,,,0.87,ak,ak0237l3430e,2023-06-14T12:52:25.999Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -222,7 +222,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T20:27:15.640Z,36.3985,-89.5856666666667,10.13,2.27,md,41,34,0.00498,0.12,nm,nm60529306,2023-06-14T14:35:26.134Z,"7 km E of Hayward, Missouri",earthquake,0.3,0.56,0.16068016140347,34,reviewed,nm,nm
 2023-06-13T20:21:19.498Z,61.3359,-147.8964,15.5,1.1,ml,,,,0.3,ak,ak0237jk64ml,2023-06-13T20:22:28.528Z,"54 km SSW of Glacier View, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-13T20:17:56.332Z,41.6723,80.826,10,4.7,mb,122,47,1.299,0.58,us,us7000k88z,2023-06-13T21:22:44.040Z,"70 km NE of Aksu, China",earthquake,5.79,1.845,0.052,116,reviewed,us,us
-2023-06-13T20:16:02.210Z,38.7793333,-122.7258333,1.49,1.04,md,33,54,0.009363,0.05,nc,nc73900791,2023-06-14T17:18:15.432Z,"3km E of The Geysers, CA",earthquake,0.16,0.24,0.289,25,reviewed,nc,nc
+2023-06-13T20:16:02.210Z,38.7793333,-122.7258333,1.49,1.04,md,33,54,0.009363,0.05,nc,nc73900791,2023-06-14T19:11:18.248Z,"3km E of The Geysers, CA",earthquake,0.16,0.24,0.289,25,reviewed,nc,nc
 2023-06-13T20:11:25.100Z,33.8745,-117.5036667,-0.53,1.15,ml,24,66,0.07499,0.23,ci,ci40484960,2023-06-13T20:36:59.502Z,"2km ESE of Home Gardens, CA",quarry blast,0.57,31.61,0.09,7,reviewed,ci,ci
 2023-06-13T20:10:48.460Z,38.8161659,-122.7764969,1.8,0.77,md,9,183,0.004374,0.01,nc,nc73900786,2023-06-13T20:33:18.052Z,"5km NNW of The Geysers, CA",earthquake,0.63,1.37,0.25,10,automatic,nc,nc
 2023-06-13T20:08:13.519Z,61.3905,-150.8825,56.5,3.9,ml,,,,0.88,ak,ak0237jk3bt8,2023-06-14T16:01:35.247Z,"26 km SW of Susitna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T19:34:26.110Z,58.2211666666667,-155.147333333333,7.32,-0.11,ml,8,119,,0.25,av,av91925026,2023-06-13T20:17:26.470Z,"83 km NNW of Karluk, Alaska",earthquake,0.72,1.24,0.297569521243918,8,reviewed,av,av
 2023-06-13T19:27:37.800Z,38.7903328,-122.746666,0.98,0.74,md,8,88,0.01448,0.09,nc,nc73900761,2023-06-13T21:51:16.686Z,"2km NNE of The Geysers, CA",earthquake,0.39,1.21,0.05,7,automatic,nc,nc
 2023-06-13T19:22:06.152Z,-29.3364,-176.9515,35,4.9,mb,99,98,0.849,0.62,us,us7000k88g,2023-06-14T16:33:10.040Z,"Kermadec Islands region",earthquake,9.39,1.798,0.057,96,reviewed,us,us
-2023-06-13T19:04:55.194Z,61.9114,-147.5235,37,1,ml,,,,1.08,ak,ak0237jjh4jq,2023-06-13T19:07:15.698Z,"13 km NNE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-13T19:02:53.350Z,46.0055,-112.464,-2,1.81,ml,13,112,0.0633,0.07,mb,mb90018073,2023-06-13T19:19:32.380Z,"western Montana",quarry blast,0.44,31.61,0.241646349364273,9,reviewed,mb,mb
