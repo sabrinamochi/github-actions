@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T19:34:31.376Z,61.5672,-151.6002,0,1.6,ml,,,,0.58,ak,ak0237l76uqp,2023-06-14T19:36:25.188Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-14T18:33:31.090Z,34.0348333,-116.3206667,8.65,1.22,ml,27,45,0.06701,0.19,ci,ci40485832,2023-06-14T18:37:03.155Z,"11km S of Joshua Tree, CA",earthquake,0.32,0.71,0.129,28,automatic,ci,ci
 2023-06-14T18:30:46.205Z,65.2858,-152.3705,4.8,1.9,ml,,,,1.24,ak,ak0237l6klf0,2023-06-14T18:32:53.401Z,"18 km NW of Tanana, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-14T18:27:37.580Z,36.5421667,-121.1298333,3.67,1.63,md,21,116,0.01599,0.07,nc,nc73901161,2023-06-14T19:41:11.438Z,"2km NE of Pinnacles, CA",earthquake,0.2,0.32,0.197,21,reviewed,nc,nc
+2023-06-14T18:27:37.580Z,36.5421667,-121.1298333,3.67,1.63,md,21,116,0.01599,0.07,nc,nc73901161,2023-06-14T19:55:15.518Z,"2km NE of Pinnacles, CA",earthquake,0.2,0.32,0.197,21,reviewed,nc,nc
 2023-06-14T18:25:46.790Z,61.3638,-147.8832,18.5,0.9,ml,,,,0.17,ak,ak0237l6jivr,2023-06-14T18:27:51.347Z,"50 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T18:24:16.550Z,38.7801666,-122.7668304,1.3,1,md,9,113,0.00947,0.02,nc,nc73901151,2023-06-14T18:51:16.099Z,"1km WNW of The Geysers, CA",earthquake,0.37,0.8,0.13,10,automatic,nc,nc
 2023-06-14T18:09:07.606Z,2.3127,127.4711,95.435,4.5,mb,18,146,1.534,1.13,us,us7000k8gx,2023-06-14T19:35:08.040Z,"Molucca Sea",earthquake,13.09,11.11,0.139,15,reviewed,us,us
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T07:48:54.870Z,38.4885,-112.8355,-0.47,0.88,ml,9,214,0.0154,0.08,uu,uu60542166,2023-06-14T13:35:46.060Z,"Utah",earthquake,0.36,0.12,0.182,2,reviewed,uu,uu
 2023-06-14T07:45:56.350Z,44.8518333333333,-112.881833333333,4.42,0.6,ml,7,140,0.03371,0.06,mb,mb90018243,2023-06-14T13:48:38.360Z,"Idaho-Montana border region",earthquake,0.75,0.47,0.162817635980544,8,reviewed,mb,mb
 2023-06-14T07:42:31.770Z,61.4877,-146.3936,29.8,1.1,ml,,,,0.63,ak,ak0237l03d8p,2023-06-14T07:43:57.250Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T07:28:15.590Z,36.5418333,-121.1368333,2.97,1.5,md,27,113,0.01217,0.11,nc,nc73900996,2023-06-14T19:45:37.681Z,"1km NNE of Pinnacles, CA",earthquake,0.18,0.2,0.176,23,reviewed,nc,nc
+2023-06-14T07:28:15.590Z,36.5418333,-121.1368333,2.97,1.5,md,27,113,0.01217,0.11,nc,nc73900996,2023-06-14T19:55:10.517Z,"1km NNE of Pinnacles, CA",earthquake,0.18,0.2,0.176,23,reviewed,nc,nc
 2023-06-14T07:24:26.740Z,46.9721666666667,-114.189333333333,12.11,0.66,ml,14,104,0.119,0.12,mb,mb90018238,2023-06-14T13:40:56.840Z,"5 km WNW of Wye, Montana",earthquake,0.4,1.27,0.284675694744851,4,reviewed,mb,mb
 2023-06-14T07:22:00.270Z,39.2031667,-123.1718333,1.55,1.25,md,12,82,0.1005,0.09,nc,nc73900991,2023-06-14T10:16:15.019Z,"7km NNE of Ukiah, CA",earthquake,0.29,1.33,0.149,11,reviewed,nc,nc
 2023-06-14T07:19:45.163Z,57.9099,-154.3634,48.4,1.9,ml,,,,0.2,ak,ak0237kzygt0,2023-06-14T07:21:19.596Z,"38 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -234,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T20:06:23.320Z,38.8196678,-122.8266678,1.79,0.76,md,8,75,0.007384,0.04,nc,nc73900776,2023-06-13T20:23:20.974Z,"8km NW of The Geysers, CA",earthquake,0.49,1.07,0.13,9,automatic,nc,nc
 2023-06-13T20:05:33.690Z,35.6751667,-120.989,1.86,1.35,md,19,90,0.1046,0.05,nc,nc73900781,2023-06-14T06:28:14.656Z,"12km WSW of Lake Nacimiento, CA",earthquake,0.19,0.9,0.365,9,reviewed,nc,nc
 2023-06-13T19:59:52.840Z,37.6093333,-122.462,7.11,0.64,md,8,152,0.03924,0.06,nc,nc73900771,2023-06-14T06:18:14.749Z,"2km ESE of Pacifica, CA",earthquake,0.34,0.88,0.203,5,reviewed,nc,nc
-2023-06-13T19:54:26.610Z,33.9251667,-117.1278333,15.23,1.12,ml,40,36,0.09037,0.23,ci,ci40484944,2023-06-13T20:30:49.930Z,"9km E of Moreno Valley, CA",earthquake,0.3,0.6,0.18,26,reviewed,ci,ci
-2023-06-13T19:53:39.410Z,38.8370018,-122.7779999,1.36,0.59,md,6,93,0.00573,0.01,nc,nc73900766,2023-06-13T20:12:14.896Z,"5km WNW of Cobb, CA",earthquake,0.78,0.94,0.13,8,automatic,nc,nc
-2023-06-13T19:51:52.211Z,-22.2997,-68.8288,132.481,4.2,mb,19,68,0.631,0.77,us,us7000k89a,2023-06-13T21:03:07.040Z,"Antofagasta, Chile",earthquake,5.86,6.179,0.263,5,reviewed,us,us
