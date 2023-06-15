@@ -21,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T11:21:22.880Z,33.6468333,-116.7163333,12.92,0.72,ml,22,88,0.06419,0.14,ci,ci40486488,2023-06-15T13:12:23.393Z,"10km S of Idyllwild, CA",earthquake,0.25,0.47,0.158,18,reviewed,ci,ci
 2023-06-15T11:21:07.526Z,61.2226,-147.5545,14.4,1.3,ml,,,,0.32,ak,ak0237mpvw8w,2023-06-15T11:23:04.354Z,"61 km NW of Tatitlek, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-06-15T11:07:35.240Z,33.6428333,-116.7183333,12.5,1.5,ml,56,30,0.06214,0.19,ci,ci40486480,2023-06-15T13:12:30.393Z,"11km NNW of Anza, CA",earthquake,0.19,0.36,0.208,27,reviewed,ci,ci
+2023-06-15T11:07:12.440Z,43.0326666666667,-110.8395,5.16,2.56,ml,23,96,0.3288,0.22,mb,mb90018358,2023-06-15T15:15:29.500Z,"11 km NE of Star Valley Ranch, Wyoming",earthquake,0.5,1.33,0.209565648048587,26,reviewed,mb,mb
 2023-06-15T11:07:06.920Z,33.6393333,-116.7195,12.3,1.93,ml,69,29,0.0588,0.2,ci,ci40486472,2023-06-15T13:13:46.220Z,"10km NNW of Anza, CA",earthquake,0.17,0.34,0.276,26,reviewed,ci,ci
 2023-06-15T11:05:41.080Z,33.6453333,-116.7143333,12.88,0.5,ml,13,89,0.06566,0.08,ci,ci40486464,2023-06-15T13:12:55.396Z,"10km S of Idyllwild, CA",earthquake,0.28,0.53,0.294,12,reviewed,ci,ci
 2023-06-15T10:39:34.430Z,33.4128333,-116.3416667,13.1,0.92,ml,33,102,0.1307,0.25,ci,ci40486448,2023-06-15T10:43:08.376Z,"18km N of Borrego Springs, CA",earthquake,0.39,1.15,0.111,21,automatic,ci,ci
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T10:00:26.090Z,36.8536682,-121.6111679,0.72,1.45,md,12,86,0.03437,0.34,nc,nc73901301,2023-06-15T10:50:15.697Z,"5km SE of Aromas, CA",earthquake,0.81,2.46,0.18,7,automatic,nc,nc
 2023-06-15T09:51:56.270Z,38.8196678,-122.8238297,1.75,0.41,md,6,114,0.01137,0.01,nc,nc73901296,2023-06-15T10:24:14.545Z,"8km NW of The Geysers, CA",earthquake,0.64,1.07,0.24,8,automatic,nc,nc
 2023-06-15T09:50:41.320Z,33.0341667,-116.0071667,4.34,1.23,ml,33,40,0.1411,0.21,ci,ci40486440,2023-06-15T10:01:05.510Z,"17km SE of Ocotillo Wells, CA",earthquake,0.27,1.08,0.12,25,automatic,ci,ci
-2023-06-15T09:49:07.165Z,36.4405,-115.2714,3.6,1.1,ml,21,216,0.112,0.1751,nn,nn00861243,2023-06-15T09:51:41.104Z,"Nevada",earthquake,,6.6,0.27,13,automatic,nn,nn
+2023-06-15T09:49:07.201Z,36.4036,-115.266,5.6,1.2,ml,26,232.75,0.134,0.1855,nn,nn00861243,2023-06-15T15:19:56.177Z,"25 km NW of Nellis Air Force Base, Nevada",earthquake,,4,0.15,13,reviewed,nn,nn
 2023-06-15T09:42:22.284Z,65.5471,-148.8463,5.4,1.6,ml,,,,0.89,ak,ak0237motk7o,2023-06-15T09:44:21.502Z,"14 km W of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T09:39:51.660Z,32.821,-115.5873333,10.21,1.17,ml,13,96,0.06234,0.23,ci,ci40486432,2023-06-15T09:43:21.985Z,"3km SSW of Imperial, CA",earthquake,0.57,1.03,0.252,9,automatic,ci,ci
 2023-06-15T09:09:03.670Z,33.646,-116.7121667,13.04,0.5,ml,21,89,0.06502,0.13,ci,ci40486416,2023-06-15T13:13:32.396Z,"10km S of Idyllwild, CA",earthquake,0.29,0.49,0.097,12,reviewed,ci,ci
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T03:03:43.080Z,37.2374992,-121.6171646,6.33,1.72,md,34,73,0.04953,0.09,nc,nc73901246,2023-06-15T05:42:12.904Z,"12km NNE of Morgan Hill, CA",earthquake,0.18,0.45,0.14,24,automatic,nc,nc
 2023-06-15T02:59:56.980Z,36.5313339,-121.1503296,2.52,1.5,md,5,169,0.0492,0.07,nc,nc73901241,2023-06-15T05:15:12.741Z,"1km W of Pinnacles, CA",earthquake,0.85,1.65,0.19,6,automatic,nc,nc
 2023-06-15T02:22:21.870Z,33.3365,-116.3535,7.72,0.72,ml,16,134,0.0865,0.18,ci,ci40486232,2023-06-15T02:25:55.889Z,"9km NNE of Borrego Springs, CA",earthquake,0.44,1.8,0.14,13,automatic,ci,ci
-2023-06-15T02:19:23.315Z,13.7437,120.7412,112,6.2,mww,128,24,9.031,0.61,us,us7000k8jz,2023-06-15T13:41:07.985Z,"Mindoro, Philippines",earthquake,5.47,1.831,0.034,84,reviewed,us,us
+2023-06-15T02:19:23.315Z,13.7437,120.7412,112,6.2,mww,128,24,9.031,0.61,us,us7000k8jz,2023-06-15T15:21:39.132Z,"Mindoro, Philippines",earthquake,5.47,1.831,0.034,84,reviewed,us,us
 2023-06-15T01:46:32.797Z,-29.2983,-176.9735,35,5.1,mb,47,121,0.828,0.86,us,us7000k8ju,2023-06-15T02:11:45.040Z,"Kermadec Islands region",earthquake,9.89,1.777,0.05,129,reviewed,us,us
 2023-06-15T01:42:58.430Z,33.5575,-116.4128333,9.11,0.56,ml,14,115,0.03567,0.18,ci,ci40486216,2023-06-15T01:46:29.448Z,"15km SW of La Quinta, CA",earthquake,0.51,0.89,0.193,11,automatic,ci,ci
 2023-06-15T01:29:34.796Z,59.4157,-153.9874,44,1.5,ml,,,,0.63,ak,ak0237mjzc13,2023-06-15T01:31:02.886Z,"32 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -155,6 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T15:30:44.664Z,61.0897,-148.727,25.8,1.2,ml,,,,0.53,ak,ak0237l4sahe,2023-06-14T15:32:14.276Z,"28 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-14T15:30:30.180Z,35.209,-118.6793333,7.57,0.79,ml,8,144,0.02334,0.11,ci,ci40485672,2023-06-14T22:42:08.407Z,"14km E of Arvin, CA",earthquake,0.44,0.65,0.195,2,reviewed,ci,ci
 2023-06-14T15:27:38.102Z,58.2033,-155.26,0,0.8,ml,,,,1.05,ak,ak0237l4rmnt,2023-06-14T15:29:46.372Z,"85 km NW of Karluk, Alaska",earthquake,,20.3,,,automatic,ak,ak
-2023-06-14T15:20:56.098Z,62.7942,-149.3018,66.7,1.2,ml,,,,0.5,ak,ak0237l4q67d,2023-06-14T15:23:06.131Z,"56 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-14T15:19:55.300Z,19.4111671447754,-155.331832885742,3.35999989509583,1.89,ml,38,77,,0.159999996,hv,hv73450922,2023-06-14T15:25:25.940Z,"10 km WSW of Volcano, Hawaii",earthquake,0.32,0.930000007,0.53,10,automatic,hv,hv
-2023-06-14T15:18:43.000Z,38.8335,-122.7901667,2.01,1.25,md,45,41,0.004904,0.03,nc,nc73901101,2023-06-14T23:06:15.583Z,"6km WNW of Cobb, CA",earthquake,0.12,0.19,0.136,37,reviewed,nc,nc
