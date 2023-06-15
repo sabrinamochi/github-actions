@@ -65,11 +65,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T12:28:55.960Z,36.821,-120.75,9.67,1.81,md,36,65,0.01457,0.18,nc,nc73901341,2023-06-15T19:53:12.075Z,"18km SSW of South Dos Palos, CA",earthquake,0.41,0.29,0.234,35,reviewed,nc,nc
 2023-06-15T12:18:26.189Z,66.3698,-142.0414,21.2,3.1,ml,,,,0.72,ak,ak0237mqgq0i,2023-06-15T14:00:38.402Z,"81 km ESE of Chalkyitsik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-06-15T12:01:55.600Z,32.9183333,-116.3448333,9.19,1.77,ml,51,61,0.05023,0.19,ci,ci40486512,2023-06-15T13:12:40.920Z,"20km ENE of Pine Valley, CA",earthquake,0.21,0.58,0.199,27,reviewed,ci,ci
-2023-06-15T11:51:53.770Z,40.2416667,-121.1515,5.89,2.87,md,41,28,0.007624,0.28,nc,nc73901331,2023-06-15T19:38:10.981Z,"4km NE of Almanor, CA",earthquake,0.41,0.66,0.18,86,reviewed,nc,nc
+2023-06-15T11:51:53.770Z,40.2416667,-121.1515,5.89,2.87,md,41,28,0.007624,0.28,nc,nc73901331,2023-06-15T20:41:19.338Z,"4km NE of Almanor, CA",earthquake,0.41,0.66,0.18,86,reviewed,nc,nc
 2023-06-15T11:45:30.150Z,36.5843333,-121.1913333,7.42,1.17,md,21,137,0.01348,0.09,nc,nc73901326,2023-06-15T19:53:18.076Z,"7km NW of Pinnacles, CA",earthquake,0.32,0.46,0.206,16,reviewed,nc,nc
 2023-06-15T11:43:41.220Z,36.5456667,-121.1296667,4.38,1.95,md,35,81,0.01863,0.12,nc,nc73901321,2023-06-15T19:32:15.947Z,"2km NE of Pinnacles, CA",earthquake,0.26,0.48,0.171,37,reviewed,nc,nc
 2023-06-15T11:37:12.292Z,61.695,-150.163,1.8,2.2,ml,,,,0.57,ak,ak0237mpzc0u,2023-06-15T14:09:28.540Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-06-15T11:31:37.350Z,38.969,-123.2598333,5.41,1.49,md,19,63,0.0598,0.08,nc,nc73901316,2023-06-15T19:28:10.927Z,"10km ESE of Boonville, CA",earthquake,0.19,0.52,0.162,21,reviewed,nc,nc
+2023-06-15T11:31:37.350Z,38.969,-123.2598333,5.41,1.49,md,19,63,0.0598,0.08,nc,nc73901316,2023-06-15T20:41:19.472Z,"10km ESE of Boonville, CA",earthquake,0.19,0.52,0.162,21,reviewed,nc,nc
 2023-06-15T11:28:57.557Z,61.6368,-150.17,11,1.6,ml,,,,0.4,ak,ak0237mpxi4b,2023-06-15T11:30:21.559Z,"14 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T11:25:32.598Z,58.8933,-152.4242,55.1,2,ml,,,,0.53,ak,ak0237mpwt1n,2023-06-15T11:27:49.594Z,"59 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-15T11:21:22.880Z,33.6468333,-116.7163333,12.92,0.72,ml,22,88,0.06419,0.14,ci,ci40486488,2023-06-15T13:12:23.393Z,"10km S of Idyllwild, CA",earthquake,0.25,0.47,0.158,18,reviewed,ci,ci
@@ -140,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T03:21:29.998Z,32.5853,94.4467,17.571,4.3,mb,15,127,9.254,0.48,us,us7000k8ky,2023-06-15T03:34:39.040Z,"256 km ENE of Nagqu, China",earthquake,13.03,6.684,0.16,11,reviewed,us,us
 2023-06-15T03:10:27.171Z,62.8097,-148.975,56.9,3,ml,,,,0.68,ak,ak0237ml2419,2023-06-15T03:12:14.060Z,"64 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-15T03:07:51.930Z,38.8236667,-122.8498333,2.8,1.88,md,52,32,0.006726,0.07,nc,nc73901251,2023-06-15T19:15:13.841Z,"10km WNW of The Geysers, CA",earthquake,0.16,0.24,0.161,48,reviewed,nc,nc
+2023-06-15T03:07:23.800Z,58.2478333333333,-155.146,33.52,0.35,ml,10,132,,0.17,av,av91107523,2023-06-15T20:40:47.720Z,"85 km NNW of Karluk, Alaska",earthquake,0.58,0.74,0.2655902731669,9,reviewed,av,av
 2023-06-15T03:06:56.910Z,58.2575,-155.147666666667,31.96,0.27,ml,9,129,,0.06,av,av91107508,2023-06-15T20:17:57.360Z,"86 km NNW of Karluk, Alaska",earthquake,0.36,0.54,0.27542764810162,8,reviewed,av,av
 2023-06-15T03:06:02.840Z,58.2518333333333,-155.149666666667,32.76,0.1,ml,9,130,,0.14,av,av91107503,2023-06-15T20:11:29.170Z,"86 km NNW of Karluk, Alaska",earthquake,0.87,0.98,0.359656422505936,8,reviewed,av,av
 2023-06-15T03:05:26.050Z,18.037,-66.7865,15.54,2.34,md,7,148,0.1076,0.18,pr,pr71413508,2023-06-15T03:20:06.150Z,"2 km NNE of Guayanilla, Puerto Rico",earthquake,0.59,1.61,0.06812959833427,5,reviewed,pr,pr
