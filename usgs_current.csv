@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T15:05:03.102Z,59.8932,-151.8704,91,1.9,ml,,,,0.37,ak,ak0237ms66va,2023-06-15T15:07:06.532Z,"9 km SW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-15T15:01:59.859Z,64.9347,-147.3001,0,1.7,ml,,,,0.97,ak,ak0237ms5gcw,2023-06-15T15:04:36.562Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-15T14:35:56.240Z,35.754,-117.5855,10.16,0.77,ml,12,123,0.1477,0.15,ci,ci40486632,2023-06-15T14:39:26.892Z,"16km W of Searles Valley, CA",earthquake,0.55,1.38,0.064,7,automatic,ci,ci
 2023-06-15T13:37:22.430Z,33.1886667,-116.2635,9.06,1.51,ml,55,28,0.008927,0.19,ci,ci40486584,2023-06-15T13:48:11.740Z,"13km SE of Borrego Springs, CA",earthquake,0.23,0.55,0.15,26,automatic,ci,ci
 2023-06-15T13:37:01.490Z,38.725666,-122.9198303,5.74,1.38,md,18,198,0.07169,0.03,nc,nc73901346,2023-06-15T14:09:17.898Z,"12km SE of Cloverdale, CA",earthquake,0.7,1.09,0.23,18,automatic,nc,nc
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T00:36:31.403Z,63.2206,-150.5906,126.2,1.9,ml,,,,0.27,ak,ak0237mjfe6c,2023-06-15T00:38:58.709Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-15T00:33:59.170Z,34.2106667,-118.014,13.47,2.17,ml,52,29,0.03893,0.22,ci,ci40486168,2023-06-15T00:44:54.000Z,"6km NNE of Sierra Madre, CA",earthquake,0.27,0.6,0.229,22,automatic,ci,ci
 2023-06-15T00:24:25.439Z,37.1466,-116.4937,10.3,0.6,ml,17,107.88,0.145,0.1976,nn,nn00861238,2023-06-15T14:58:13.715Z,"35 km NE of Beatty, Nevada",earthquake,,2.4,0.27,7,reviewed,nn,nn
-2023-06-15T00:08:25.430Z,33.8496667,-116.2881667,11.14,0.79,ml,7,169,0.1218,0.22,ci,ci40486152,2023-06-15T00:12:02.039Z,"10km ENE of Thousand Palms, CA",earthquake,0.73,1.53,0.177,14,automatic,ci,ci
+2023-06-15T00:08:26.220Z,33.8898333,-116.2705,7.01,0.9,ml,17,91,0.08822,0.19,ci,ci40486152,2023-06-15T15:04:38.429Z,"14km NE of Thousand Palms, CA",earthquake,0.36,1.13,0.065,5,reviewed,ci,ci
 2023-06-15T00:01:58.421Z,-29.2915,-177.1798,50.581,5,mb,50,121,0.648,0.67,us,us7000k8jh,2023-06-15T00:20:13.040Z,"Kermadec Islands, New Zealand",earthquake,8.96,6.467,0.076,55,reviewed,us,us
 2023-06-14T23:58:57.958Z,23.5519,121.5229,28.815,4.4,mb,37,85,0.261,0.75,us,us7000k8jg,2023-06-15T02:39:44.792Z,"Taiwan",earthquake,2.43,5.483,0.143,14,reviewed,us,us
 2023-06-14T23:54:10.330Z,33.1478333,-115.9775,7.66,1.81,ml,60,36,0.02559,0.18,ci,ci40486136,2023-06-15T14:58:04.300Z,"14km E of Ocotillo Wells, CA",earthquake,0.15,0.39,0.13,46,reviewed,ci,ci
@@ -156,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T15:20:56.098Z,62.7942,-149.3018,66.7,1.2,ml,,,,0.5,ak,ak0237l4q67d,2023-06-14T15:23:06.131Z,"56 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-14T15:19:55.300Z,19.4111671447754,-155.331832885742,3.35999989509583,1.89,ml,38,77,,0.159999996,hv,hv73450922,2023-06-14T15:25:25.940Z,"10 km WSW of Volcano, Hawaii",earthquake,0.32,0.930000007,0.53,10,automatic,hv,hv
 2023-06-14T15:18:43.000Z,38.8335,-122.7901667,2.01,1.25,md,45,41,0.004904,0.03,nc,nc73901101,2023-06-14T23:06:15.583Z,"6km WNW of Cobb, CA",earthquake,0.12,0.19,0.136,37,reviewed,nc,nc
-2023-06-14T15:06:05.271Z,64.964,-147.4947,0,0.9,ml,,,,0.65,ak,ak0237l4n281,2023-06-14T15:08:20.516Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
