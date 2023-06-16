@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-16T16:11:58.650Z,35.8703346,-117.6673355,5.46,0.98,ml,13,124,0.1004,0.14,ci,ci40487248,2023-06-16T16:14:19.759Z,"23km ESE of Little Lake, CA",earthquake,0.39,1.29,0.072,2,automatic,ci,ci
+2023-06-16T16:19:04.820Z,46.64966583251953,-122.3385009765625,16.3899993896484,2.028988003730774,ml,54,38,,0.129999995,uw,uw61933611,2023-06-16T16:22:02.920Z,"11 km NNW of Morton, Washington",earthquake,0.28,0.870000005,0.3701366186141968,55,automatic,uw,uw
+2023-06-16T16:15:27.172Z,64.5642,-148.1349,0,1.1,ml,,,,0.49,ak,ak0237ogd5zh,2023-06-16T16:17:00.308Z,"31 km SSW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-16T16:11:58.650Z,35.8711667,-117.6768333,7.48,0.89,ml,13,130,0.09498,0.14,ci,ci40487248,2023-06-16T16:15:44.046Z,"22km ESE of Little Lake, CA",earthquake,0.36,1.21,0.089,8,automatic,ci,ci
 2023-06-16T16:01:27.653Z,62.1035,-149.4691,34,1.7,ml,,,,0.65,ak,ak0237oga5zx,2023-06-16T16:03:19.461Z,"20 km ESE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-16T15:57:01.890Z,34.339,-116.9095,3.63,1.09,ml,10,126,0.07708,0.16,ci,ci40487240,2023-06-16T16:00:43.686Z,"10km NW of Big Bear City, CA",earthquake,0.66,1.02,0.252,17,automatic,ci,ci
 2023-06-16T15:55:15.180Z,33.5685,-116.4206667,13.41,0.58,ml,13,88,0.05228,0.18,ci,ci40487232,2023-06-16T15:58:56.282Z,"15km SW of La Quinta, CA",earthquake,0.53,0.77,0.225,7,automatic,ci,ci
@@ -35,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T11:10:07.309Z,62.2358,-151.1074,67.2,1.6,ml,,,,1.07,ak,ak0237odcvui,2023-06-16T11:12:16.869Z,"31 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-16T10:53:57.110Z,44.7006667,-110.6676667,7.56,0.56,md,10,111,0.01438,0.1,uu,uu60542311,2023-06-16T14:43:04.830Z,"Yellowstone National Park, Wyoming",earthquake,0.59,0.87,0.524,6,reviewed,uu,uu
 2023-06-16T10:53:24.875Z,62.5042,-148.8291,18,2.8,ml,,,,0.74,ak,ak0237od0phc,2023-06-16T13:06:51.040Z,"65 km NE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-16T10:51:03.390Z,58.2843333333333,-155.018166666667,5.22,-0.19,ml,6,227,,0.19,av,av91927281,2023-06-16T16:17:00.750Z,"86 km NNW of Karluk, Alaska",earthquake,1.27,0.75,0.178142674378259,6,reviewed,av,av
 2023-06-16T10:48:55.700Z,38.8163338,-122.824501,1.89,1.08,md,15,57,0.008302,0.07,nc,nc73901701,2023-06-16T12:33:16.183Z,"7km NW of The Geysers, CA",earthquake,0.3,0.59,0.15,16,automatic,nc,nc
 2023-06-16T10:45:24.145Z,-23.5827,-175.5291,10,5.7,mww,90,93,2.42,0.63,us,us7000k8we,2023-06-16T13:21:47.040Z,"255 km SSW of ‘Ohonua, Tonga",earthquake,8.44,1.855,0.065,23,reviewed,us,us
 2023-06-16T10:20:19.535Z,64.5076,-149.2552,5.4,1.5,ml,,,,0.63,ak,ak0237octmch,2023-06-16T10:23:01.575Z,"9 km SW of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -149,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T20:41:36.505Z,2.8577,122.5893,532.394,4.1,mb,44,121,3.878,0.71,us,us7000k8sj,2023-06-16T14:14:11.040Z,"Celebes Sea",earthquake,12.84,11.086,0.094,31,reviewed,us,us
 2023-06-15T20:34:17.410Z,36.887001,-121.6223297,0.52,1.74,md,16,75,0.02448,0.21,nc,nc73901511,2023-06-15T21:37:13.767Z,"2km E of Aromas, CA",earthquake,0.38,1.08,0.09,4,automatic,nc,nc
 2023-06-15T20:32:27.400Z,17.9538333333333,-66.9656666666667,14.95,2.49,md,4,216,0.08491,0.05,pr,pr71413548,2023-06-15T21:39:38.820Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.68,0.222469677803152,3,reviewed,pr,pr
-2023-06-15T20:28:52.515Z,36.9851,-116.4171,1.8,0.8,ml,13,100.11,0.018,0.1716,nn,nn00861274,2023-06-15T20:30:44.686Z,"31 km ENE of Beatty, Nevada",earthquake,,0.4,0.86,9,automatic,nn,nn
+2023-06-15T20:28:53.043Z,36.9991,-116.4089,3.6,0.6,ml,16,97.09,0.003,0.1197,nn,nn00861274,2023-06-16T16:22:32.891Z,"California-Nevada border region",earthquake,,1,0.27,7,reviewed,nn,nn
 2023-06-15T20:20:58.120Z,19.354,-63.9545,33,3.69,md,10,301,1.4167,0.27,pr,pr2023166001,2023-06-16T14:27:15.040Z,"Leeward Islands",earthquake,1.87,18.01,0.15,4,reviewed,pr,pr
 2023-06-15T20:17:50.630Z,46.90716666666667,-121.8755,10.98,0.38,ml,20,126,0.04192,0.1,uw,uw61933501,2023-06-15T22:18:38.000Z,"Washington",earthquake,0.29,0.59,0.18017228741839036,7,reviewed,uw,uw
 2023-06-15T20:17:19.112Z,61.9017,-148.4218,15,1.4,ml,,,,0.74,ak,ak0237mv7ypz,2023-06-15T20:19:55.258Z,"11 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -196,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T16:39:01.255Z,62.2669,-150.0599,32.6,1.2,ml,,,,0.65,ak,ak0237msywod,2023-06-15T16:41:01.901Z,"6 km SSE of Talkeetna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-15T16:38:31.840Z,45.9191666666667,-112.241,-2,1.54,ml,11,115,0.02479,0.14,mb,mb90018378,2023-06-15T19:56:53.010Z,"12 km WNW of Whitehall, Montana",quarry blast,0.57,31.61,0.131881841899655,13,reviewed,mb,mb
 2023-06-15T16:30:58.615Z,62.8593,-150.3677,92,1.1,ml,,,,0.35,ak,ak0237msx3np,2023-06-15T16:34:00.708Z,"45 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-15T16:23:20.090Z,35.3725,-118.5028333,2,1.23,ml,21,80,0.1052,0.16,ci,ci40486696,2023-06-15T18:26:56.822Z,"24km S of Bodfish, CA",earthquake,0.31,0.55,0.188,15,reviewed,ci,ci
-2023-06-15T16:21:54.210Z,32.9736667,-116.2565,11.45,0.55,ml,10,109,0.04376,0.17,ci,ci40486688,2023-06-15T19:20:16.301Z,"22km SSW of Ocotillo Wells, CA",earthquake,0.4,0.58,0.251,5,reviewed,ci,ci
