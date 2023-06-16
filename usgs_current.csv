@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T08:59:42.590Z,17.9771666666667,-66.9463333333333,11.91,2.95,md,9,190,0.06388,0.17,pr,pr71413623,2023-06-16T09:11:37.130Z,"3 km WSW of Fuig, Puerto Rico",earthquake,1.01,0.9,0.262860329036925,7,reviewed,pr,pr
 2023-06-16T08:52:03.930Z,19.1665000915527,-155.487503051758,34.5,1.87,md,37,103,,0.140000001,hv,hv73452567,2023-06-16T08:55:22.980Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.850000024,0.289999992,9,automatic,hv,hv
-2023-06-16T08:50:52.260Z,35.5620003,-120.7913361,4.76,1.82,md,25,51,,0.14,nc,nc73901691,2023-06-16T08:55:01.800Z,"8km W of Templeton, CA",earthquake,0.36,1.57,0.14,11,automatic,nc,nc
-2023-06-16T08:47:01.110Z,38.8138351,-122.8243332,2.04,1.13,md,22,55,0.006239,0.02,nc,nc73901686,2023-06-16T08:59:10.856Z,"7km NW of The Geysers, CA",earthquake,0.19,0.41,0.18,22,automatic,nc,nc
+2023-06-16T08:51:03.575Z,-23.5488,-175.8334,9.103,4.9,mb,34,120,2.438,0.58,us,us7000k8vy,2023-06-16T09:08:16.040Z,"260 km SSW of ‘Ohonua, Tonga",earthquake,5.96,4.866,0.122,21,reviewed,us,us
+2023-06-16T08:50:52.260Z,35.5620003,-120.7913361,4.76,1.82,md,25,51,,0.14,nc,nc73901691,2023-06-16T09:04:09.885Z,"8km W of Templeton, CA",earthquake,0.36,1.57,0.14,11,automatic,nc,nc
+2023-06-16T08:47:01.110Z,38.8138351,-122.8243332,2.04,1.13,md,22,55,0.006239,0.02,nc,nc73901686,2023-06-16T09:05:15.891Z,"7km NW of The Geysers, CA",earthquake,0.19,0.41,0.18,22,automatic,nc,nc
 2023-06-16T08:41:33.095Z,-23.4342,-175.9522,6.483,5.1,mb,57,120,2.358,0.6,us,us7000k8vx,2023-06-16T08:59:53.040Z,"253 km SSW of ‘Ohonua, Tonga",earthquake,10.33,4.213,0.083,47,reviewed,us,us
 2023-06-16T08:36:48.060Z,17.9806666666667,-66.8156666666667,11.35,2.43,md,7,193,0.06078,0.11,pr,pr71413613,2023-06-16T08:46:59.610Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.59,0.5,0.21631459425579,5,reviewed,pr,pr
 2023-06-16T08:33:13.800Z,19.0463333129883,-155.415328979492,34.0900001525879,2.25,ml,43,204,,0.170000002,hv,hv73452542,2023-06-16T08:38:43.460Z,"17 km E of Naalehu, Hawaii",earthquake,0.74,1.10000002,4.97,5,automatic,hv,hv
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T07:54:45.550Z,36.373333,-120.9328308,4.72,2.36,md,27,112,0.05569,0.09,nc,nc73901671,2023-06-16T08:18:10.636Z,"24km WSW of New Idria, CA",earthquake,0.26,0.74,0.14,25,automatic,nc,nc
 2023-06-16T07:47:38.092Z,65.1385,-165.348,9.2,3.1,ml,,,,0.92,ak,ak0237ob75ap,2023-06-16T08:09:13.040Z,"49 km ESE of Teller, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-16T07:27:18.320Z,34.4595,-117.9601667,8.43,1.56,ml,41,31,0.01124,0.19,ci,ci40487016,2023-06-16T07:38:08.300Z,"7km SW of Pearblossom, CA",earthquake,0.21,0.51,0.155,26,automatic,ci,ci
-2023-06-16T07:25:06.430Z,38.8391685,-122.8108368,2.14,0.27,md,8,122,0.01576,0.01,nc,nc73901666,2023-06-16T07:42:12.396Z,"8km WNW of Cobb, CA",earthquake,0.45,1.34,0.16,8,automatic,nc,nc
+2023-06-16T07:25:06.430Z,38.8391685,-122.8108368,2.14,0.27,md,8,122,0.01576,0.01,nc,nc73901666,2023-06-16T09:05:16.022Z,"8km WNW of Cobb, CA",earthquake,0.45,1.34,0.16,8,automatic,nc,nc
 2023-06-16T07:23:29.956Z,64.4203,-163.6382,14.2,4.2,ml,,,,0.56,ak,ak0237ob1zi0,2023-06-16T07:54:13.743Z,"31 km SSW of White Mountain, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-06-16T07:18:47.711Z,8.3821,-84.2025,10,4.1,mb,26,150,0.874,1.09,us,us7000k8vj,2023-06-16T07:42:45.040Z,"98 km SW of Puerto Cortés, Costa Rica",earthquake,6.79,1.977,0.262,4,reviewed,us,us
 2023-06-16T07:11:48.539Z,59.2901,-155.3586,4.5,1.8,ml,,,,0.59,ak,ak0237oazgbp,2023-06-16T07:14:45.226Z,"30 km E of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -108,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T18:27:33.651Z,35.8521,-115.2176,16,2.1,ml,13,281.43,1.008,0.4517,nn,nn00861259,2023-06-15T18:29:54.166Z,"19 km S of Enterprise, Nevada",earthquake,,1.6,1.16,9,automatic,nn,nn
 2023-06-15T18:25:12.200Z,38.8193321,-122.8223343,2.34,0.48,md,8,124,0.0104,0.01,nc,nc73901481,2023-06-15T18:26:46.667Z,"7km NW of The Geysers, CA",earthquake,0.44,1.12,0.36,8,automatic,nc,nc
 2023-06-15T18:14:46.060Z,33.3718333,-116.9648333,7.94,0.82,ml,25,42,0.05862,0.16,ci,ci40486768,2023-06-15T20:53:07.656Z,"10km W of Palomar Observatory, CA",earthquake,0.26,0.67,0.104,17,reviewed,ci,ci
-2023-06-15T18:06:27.791Z,-22.9824,-177.2075,167.404,7.2,mww,85,24,2.59,1.1,us,us7000k8qh,2023-06-16T01:30:35.149Z,"south of the Fiji Islands",earthquake,8.03,4.808,0.059,28,reviewed,us,us
+2023-06-15T18:06:27.791Z,-22.9824,-177.2075,167.404,7.2,mww,85,24,2.59,1.1,us,us7000k8qh,2023-06-16T09:06:18.809Z,"south of the Fiji Islands",earthquake,8.03,4.808,0.059,28,reviewed,us,us
 2023-06-15T18:06:10.734Z,58.8329,-152.2775,51.6,2.7,ml,,,,0.34,ak,ak0237mtypzl,2023-06-15T18:07:31.280Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-15T18:03:48.590Z,40.2885,-124.4766667,12.94,3.12,ml,34,244,0.1026,0.17,nc,nc73901451,2023-06-16T01:54:12.228Z,"17km WSW of Petrolia, CA",earthquake,0.72,0.37,0.299,36,reviewed,nc,nc
 2023-06-15T17:55:42.970Z,37.5426667,-118.8223333,-1.39,1.63,md,18,231,0.04758,0.05,nc,nc73901446,2023-06-16T02:53:13.593Z,"13km W of Toms Place, CA",earthquake,1,0.41,0.17,17,reviewed,nc,nc
@@ -185,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T09:47:28.050Z,43.0306666666667,-110.8265,5.47,2.6,ml,19,97,0.3329,0.17,mb,mb90018373,2023-06-15T17:05:08.850Z,"12 km ENE of Star Valley Ranch, Wyoming",earthquake,0.62,1.51,0.289552631039353,14,reviewed,mb,mb
 2023-06-15T09:42:22.284Z,65.5471,-148.8463,5.4,1.6,ml,,,,0.89,ak,ak0237motk7o,2023-06-15T09:44:21.502Z,"14 km W of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T09:39:51.570Z,32.819,-115.5855,11.35,1.39,ml,24,83,0.06131,0.25,ci,ci40486432,2023-06-15T18:30:59.173Z,"4km SSW of Imperial, CA",earthquake,0.38,0.57,0.248,10,reviewed,ci,ci
-2023-06-15T09:09:03.670Z,33.646,-116.7121667,13.04,0.5,ml,21,89,0.06502,0.13,ci,ci40486416,2023-06-15T13:13:32.396Z,"10km S of Idyllwild, CA",earthquake,0.29,0.49,0.097,12,reviewed,ci,ci
