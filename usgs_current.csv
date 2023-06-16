@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T16:11:58.650Z,35.8703346,-117.6673355,5.46,0.98,ml,13,124,0.1004,0.14,ci,ci40487248,2023-06-16T16:14:19.759Z,"23km ESE of Little Lake, CA",earthquake,0.39,1.29,0.072,2,automatic,ci,ci
 2023-06-16T16:01:27.653Z,62.1035,-149.4691,34,1.7,ml,,,,0.65,ak,ak0237oga5zx,2023-06-16T16:03:19.461Z,"20 km ESE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-16T15:57:01.890Z,34.339,-116.9095,3.63,1.09,ml,10,126,0.07708,0.16,ci,ci40487240,2023-06-16T16:00:43.686Z,"10km NW of Big Bear City, CA",earthquake,0.66,1.02,0.252,17,automatic,ci,ci
 2023-06-16T15:55:15.180Z,33.5685,-116.4206667,13.41,0.58,ml,13,88,0.05228,0.18,ci,ci40487232,2023-06-16T15:58:56.282Z,"15km SW of La Quinta, CA",earthquake,0.53,0.77,0.225,7,automatic,ci,ci
@@ -99,6 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T03:20:20.080Z,53.8805,-166.630333333333,6.77,1.39,ml,13,159,,0.22,av,av91927016,2023-06-16T06:42:32.860Z,"5 km W of Dutch Harbor, Alaska",earthquake,0.72,0.59,0.375464654870906,13,reviewed,av,av
 2023-06-16T02:56:05.970Z,38.8166656,-122.8144989,2.69,0.99,md,16,78,0.007557,0.05,nc,nc73901621,2023-06-16T03:36:11.877Z,"7km NW of The Geysers, CA",earthquake,0.32,0.71,0.22,17,automatic,nc,nc
 2023-06-16T02:47:49.000Z,38.8354988,-122.8123322,1.86,0.46,md,10,87,0.01221,0.06,nc,nc73901616,2023-06-16T05:25:13.609Z,"8km W of Cobb, CA",earthquake,0.47,1.64,0.33,10,automatic,nc,nc
+2023-06-16T02:38:29.580Z,35.8256667,-120.3748333,6.06,0.64,md,20,131,0.01774,0.04,nc,nc73901611,2023-06-16T16:14:11.333Z,"10km SSE of Parkfield, CA",earthquake,0.5,0.34,0.066,7,reviewed,nc,nc
 2023-06-16T02:35:58.200Z,38.8455009,-122.8171692,1.63,0.92,md,18,62,0.01034,0.02,nc,nc73901606,2023-06-16T04:59:17.462Z,"9km WNW of Cobb, CA",earthquake,0.22,0.56,0.2,17,automatic,nc,nc
 2023-06-16T02:30:53.110Z,38.8143333,-122.8143333,3.01,1.22,md,42,48,0.009641,0.05,nc,nc73901601,2023-06-16T16:12:11.478Z,"6km NW of The Geysers, CA",earthquake,0.16,0.29,0.16,35,reviewed,nc,nc
 2023-06-16T02:29:55.360Z,58.1683333333333,-155.396666666667,2.63,-0.06,ml,5,268,,0.05,av,av91926981,2023-06-16T06:36:25.020Z,"Alaska Peninsula",earthquake,0.69,0.49,0.256235995380843,5,reviewed,av,av
@@ -196,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T16:30:58.615Z,62.8593,-150.3677,92,1.1,ml,,,,0.35,ak,ak0237msx3np,2023-06-15T16:34:00.708Z,"45 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-15T16:23:20.090Z,35.3725,-118.5028333,2,1.23,ml,21,80,0.1052,0.16,ci,ci40486696,2023-06-15T18:26:56.822Z,"24km S of Bodfish, CA",earthquake,0.31,0.55,0.188,15,reviewed,ci,ci
 2023-06-15T16:21:54.210Z,32.9736667,-116.2565,11.45,0.55,ml,10,109,0.04376,0.17,ci,ci40486688,2023-06-15T19:20:16.301Z,"22km SSW of Ocotillo Wells, CA",earthquake,0.4,0.58,0.251,5,reviewed,ci,ci
-2023-06-15T16:14:35.000Z,35.47983333,-98.02116667,6.43,2.06,ml,51,65,0.05578905228,0.54,ok,ok2023lqsd,2023-06-15T16:58:32.511Z,"8 km SW of El Reno, Oklahoma",earthquake,,1.3,0.22,17,reviewed,ok,ok
-2023-06-15T16:14:32.240Z,38.8196667,-122.813,3.27,1.3,md,40,43,0.004369,0.03,nc,nc73901391,2023-06-15T20:29:19.270Z,"7km NW of The Geysers, CA",earthquake,0.17,0.28,0.115,29,reviewed,nc,nc
-2023-06-15T16:14:01.685Z,61.5768,-141.2199,5.9,1.2,ml,,,,0.53,ak,ak0237mstjt4,2023-06-15T16:15:47.675Z,"92 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
