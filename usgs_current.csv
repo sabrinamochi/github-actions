@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T00:04:43.902Z,60.7009,-141.7222,19.7,1.1,ml,,,,0.89,ak,ak0237rhulpi,2023-06-18T00:06:47.474Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-17T23:36:52.767Z,63.1038,-152.3029,5.2,1.7,ml,,,,0.62,ak,ak0237q873q4,2023-06-17T23:38:50.521Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-17T23:23:22.070Z,33.1803333,-116.0235,5.21,0.91,ml,18,60,0.03898,0.21,ci,ci40487944,2023-06-17T23:26:48.930Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.4,0.87,0.101,13,automatic,ci,ci
+2023-06-17T23:16:23.198Z,-23.8814,-175.6535,20.714,5.4,mww,82,89,2.731,0.57,us,us7000k99n,2023-06-18T00:08:17.040Z,"290 km SSW of ‘Ohonua, Tonga",earthquake,9.21,4.363,0.071,19,reviewed,us,us
 2023-06-17T23:14:40.400Z,34.07,-117.2833333,9.87,1.35,ml,41,50,0.108,0.22,ci,ci40487936,2023-06-17T23:18:20.761Z,"3km E of Colton, CA",earthquake,0.28,0.82,0.16,27,automatic,ci,ci
 2023-06-17T23:06:05.270Z,19.653,-65.7285,80,3.79,md,10,286,1.4175,0.51,pr,pr2023168001,2023-06-17T23:34:21.880Z,"135 km N of Suárez, Puerto Rico",earthquake,7.05,15.15,0.03,6,reviewed,pr,pr
 2023-06-17T23:04:20.560Z,38.8310013,-122.814003,1.47,0.76,md,11,69,0.008192,0.01,nc,nc73902271,2023-06-17T23:25:14.691Z,"8km NW of The Geysers, CA",earthquake,0.28,0.87,0.33,14,automatic,nc,nc
@@ -111,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T09:00:29.652Z,18.1581,-155.1349,10,3.1,ml,30,315,0.961,0.31,us,us7000k965,2023-06-17T09:17:03.040Z,"111 km SSE of Naalehu, Hawaii",earthquake,6.36,2.004,0.057,40,reviewed,us,us
 2023-06-17T08:45:25.000Z,35.4646666666667,-91.7458333333333,4.92,2.24,md,10,130,0.1244,0.11,nm,nm60500863,2023-06-17T13:50:19.540Z,"9 km ENE of Pangburn, Arkansas",earthquake,1.77,1.99,0.072829197746306,9,reviewed,nm,nm
 2023-06-17T08:19:17.980Z,47.733,-113.777833333333,7.83,1.16,ml,15,139,0.2045,0.2,mb,mb90018678,2023-06-17T15:00:53.820Z,"21 km E of Finley Point, Montana",earthquake,0.96,2.36,0.330756323941035,4,reviewed,mb,mb
+2023-06-17T08:09:40.810Z,46.950833333333335,-121.9115,6.9,0.84,ml,10,218,0.05163,0.05,uw,uw61933726,2023-06-18T00:04:00.310Z,"17 km SE of Carbonado, Washington",earthquake,0.63,0.74,0.21851947872428612,6,reviewed,uw,uw
 2023-06-17T08:08:52.580Z,46.8485,-121.76233333333333,0.71,0.26,ml,9,80,0.02115,0.07,uw,uw61933721,2023-06-17T23:56:50.990Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.55,0.09148394581287667,6,reviewed,uw,uw
 2023-06-17T08:06:50.380Z,38.8413315,-122.8225021,1.74,1.1,md,20,85,0.0105,0.05,nc,nc73901981,2023-06-17T10:06:12.853Z,"9km WNW of Cobb, CA",earthquake,0.23,0.51,0.11,20,automatic,nc,nc
 2023-06-17T08:01:36.215Z,63.3066,-151.0828,0,1.6,ml,,,,0.85,ak,ak0237pz22b9,2023-06-17T08:04:16.384Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -159,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T00:39:06.218Z,63.172,-150.9537,87,1.8,ml,,,,0.57,ak,ak0237puiod9,2023-06-17T00:41:33.454Z,"56 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-17T00:38:40.800Z,39.4295,-122.9713333,9.94,1.66,md,9,119,0.1336,0.07,nc,nc73901881,2023-06-17T03:44:14.655Z,"3km NNW of Lake Pillsbury, CA",earthquake,0.45,1.17,0.234,20,reviewed,nc,nc
 2023-06-17T00:26:16.600Z,41.1468,142.7383,49.455,5.6,mww,125,100,0.923,0.57,us,us7000k94b,2023-06-17T23:06:48.898Z,"Hokkaido, Japan region",earthquake,7.44,6.122,0.086,13,reviewed,us,us
-2023-06-17T00:07:57.699Z,62.8416,-150.9727,92.3,1.7,ml,,,,0.63,ak,ak0237pubxfd,2023-06-17T00:09:56.892Z,"39 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
