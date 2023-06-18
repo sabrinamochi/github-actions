@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T16:15:18.281Z,59.5049,-151.9156,53.4,1.9,ml,,,,0.5,ak,ak0237rrfuac,2023-06-18T16:17:14.867Z,"13 km WNW of Seldovia, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-18T15:53:56.046Z,-23.7135,-175.7205,10,4.6,mb,23,115,2.576,0.85,us,us7000k9dw,2023-06-18T16:17:32.040Z,"274 km SSW of ‘Ohonua, Tonga",earthquake,10.69,1.911,0.107,26,reviewed,us,us
+2023-06-18T15:36:29.521Z,38.1274,38.6026,10,4.5,mb,55,63,0.707,0.94,us,us7000k9dr,2023-06-18T16:24:14.040Z,"eastern Turkey",earthquake,2.55,1.847,0.075,52,reviewed,us,us
 2023-06-18T15:33:10.730Z,18.0741666666667,-67.0051666666667,22.51,2.38,md,15,107,0.03071,0.19,pr,pr71413898,2023-06-18T15:54:47.370Z,"Puerto Rico",earthquake,0.48,0.71,0.0652223328386961,8,reviewed,pr,pr
 2023-06-18T15:22:45.155Z,63.6655,-147.3434,250,1.5,ml,,,,0.92,ak,ak0237rqvyrn,2023-06-18T15:35:45.094Z,"78 km E of Denali Park, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T15:04:49.691Z,-23.7728,-175.7382,10,5.8,mww,39,121,2.638,0.94,us,us7000k9dk,2023-06-18T15:34:02.892Z,"280 km SSW of ‘Ohonua, Tonga",earthquake,9.5,1.862,0.093,11,reviewed,us,us
@@ -20,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T13:12:12.213Z,43.0238,-110.8351,5,2.7,ml,21,88,0.324,0.52,us,us7000k9cv,2023-06-18T14:42:04.200Z,"11 km ENE of Star Valley Ranch, Wyoming",earthquake,2.6,1.951,0.057,40,reviewed,us,us
 2023-06-18T13:02:34.408Z,59.8471,-152.6368,83.1,1.4,ml,,,,0.85,ak,ak0237rpkseo,2023-06-18T13:04:21.978Z,"45 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T12:51:19.136Z,61.1397,-151.7369,105.9,1.6,ml,,,,0.41,ak,ak0237rp9tca,2023-06-18T12:53:03.992Z,"33 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-18T12:47:18.690Z,34.0443333,-118.7468333,10.91,2.01,ml,58,76,0.02458,0.26,ci,ci40488152,2023-06-18T14:22:02.637Z,"6km WNW of Malibu Beach, CA",earthquake,0.44,0.63,0.117,26,automatic,ci,ci
+2023-06-18T12:47:18.690Z,34.0443333,-118.7468333,10.91,2.01,ml,58,76,0.02458,0.26,ci,ci40488152,2023-06-18T16:22:57.146Z,"6km WNW of Malibu Beach, CA",earthquake,0.44,0.63,0.117,26,automatic,ci,ci
 2023-06-18T12:43:23.840Z,34.4596667,-117.9606667,8.28,1.38,ml,45,30,0.01155,0.21,ci,ci40488144,2023-06-18T13:23:36.910Z,"7km SW of Pearblossom, CA",earthquake,0.23,0.54,0.155,27,reviewed,ci,ci
 2023-06-18T12:43:21.740Z,34.457,-117.9678333,9.66,0.13,ml,14,71,0.01304,0.16,ci,ci40488136,2023-06-18T12:47:08.665Z,"7km SSE of Littlerock, CA",earthquake,0.39,0.54,0.059,3,automatic,ci,ci
 2023-06-18T12:37:01.030Z,34.1005,-117.3163333,13.6,0.75,ml,16,187,0.1175,0.15,ci,ci40488128,2023-06-18T13:22:48.397Z,"3km N of Colton, CA",earthquake,0.66,0.83,0.171,13,reviewed,ci,ci
@@ -164,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T16:35:10.969Z,-8.2316,120.4929,184.393,4.4,mb,18,93,1.772,0.65,us,us7000k987,2023-06-17T16:56:48.040Z,"42 km N of Ruteng, Indonesia",earthquake,9.66,8.314,0.18,11,reviewed,us,us
 2023-06-17T16:32:57.780Z,51.8598333333333,-178.117,9.57,-0.62,ml,4,133,,0.23,av,av91107823,2023-06-18T05:32:51.730Z,"102 km W of Adak, Alaska",earthquake,1.16,1.47,0.0873994671117678,3,reviewed,av,av
 2023-06-17T16:25:36.018Z,33.2426,75.9306,27.086,4.3,mb,25,161,2.262,1.18,us,us7000k986,2023-06-17T20:55:51.391Z,"17 km ESE of Kishtwār, India",earthquake,9.5,6.712,0.137,15,reviewed,us,us
-2023-06-17T16:17:48.328Z,-4.4074,-81.9954,10,4.7,mb,44,154,9.094,0.8,us,us7000k984,2023-06-17T16:43:28.040Z,"82 km WNW of Talara, Peru",earthquake,11.98,1.881,0.08,47,reviewed,us,us
