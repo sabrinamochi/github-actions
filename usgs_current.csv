@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-19T13:08:29.239Z,60.0431,-152.9843,107.3,0.6,ml,,,,0.75,ak,ak0237td5f09,2023-06-19T13:10:59.365Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-19T13:05:54.248Z,61.6515,-146.9252,21.2,1.2,ml,,,,0.48,ak,ak0237td4tkw,2023-06-19T13:08:34.711Z,"34 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T13:01:31.230Z,38.8336678,-122.805336,2.19,0.69,md,11,67,0.0109,0.02,nc,nc73902896,2023-06-19T13:03:08.159Z,"7km W of Cobb, CA",earthquake,0.37,0.96,0.08,12,automatic,nc,nc
 2023-06-19T12:59:44.357Z,58.1736,-155.2726,0,1.2,ml,,,,0.32,ak,ak0237tcuxvn,2023-06-19T13:01:25.928Z,"83 km NW of Karluk, Alaska",earthquake,,6.4,,,automatic,ak,ak
 2023-06-19T12:53:30.066Z,63.7661,-150.6189,8.2,0.9,ml,,,,0.75,ak,ak0237tctmha,2023-06-19T12:55:29.192Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -51,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T06:31:09.570Z,19.2626667022705,-155.369659423828,31.6000003814697,2.25,ml,48,148,,0.129999995,hv,hv73455162,2023-06-19T06:36:46.020Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.58,0.709999979,0.67,7,automatic,hv,hv
 2023-06-19T06:20:11.867Z,37.6509,-115.1589,3.8,1.9,ml,17,228.43,0.259,0.3612,nn,nn00861386,2023-06-19T06:22:40.973Z,"8 km NE of Hiko, Nevada",earthquake,,2.4,0.75,11,automatic,nn,nn
 2023-06-19T06:07:18.408Z,64.9407,-150.8892,15.6,0.9,ml,,,,0.56,ak,ak0237t8z50g,2023-06-19T06:09:13.802Z,"13 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-19T06:07:06.227Z,51.5092,-177.8976,32.7,1.9,ml,,,,0.37,ak,ak0237t8z4ht,2023-06-19T13:11:58.517Z,"96 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-06-19T05:58:14.128Z,64.2094,-142.0639,10.1,1.3,ml,,,,0.46,ak,ak0237t8omlg,2023-06-19T06:01:34.182Z,"16 km NNW of Chicken, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-19T05:52:09.010Z,34.07,-116.4668333,9.65,0.88,ml,21,73,0.06384,0.16,ci,ci40488552,2023-06-19T05:56:01.223Z,"6km SSW of Yucca Valley, CA",earthquake,0.31,0.69,0.115,21,automatic,ci,ci
 2023-06-19T05:45:12.722Z,59.4791,-152.8087,77.5,1.5,ml,,,,0.25,ak,ak0237t8lu6g,2023-06-19T05:47:10.475Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -167,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T14:54:44.300Z,35.678,-117.5345,10.62,1.14,ml,12,109,0.09112,0.17,ci,ci40488224,2023-06-18T15:02:49.295Z,"14km ENE of Ridgecrest, CA",earthquake,0.42,0.94,0.136,9,reviewed,ci,ci
 2023-06-18T14:41:35.832Z,58.4632,-154.125,250,2.2,ml,,,,1.06,ak,ak0237rqel1r,2023-06-18T14:43:53.742Z,"Alaska Peninsula",earthquake,,6.7,,,automatic,ak,ak
 2023-06-18T14:33:38.197Z,37.2931,-117.603,1.9,0.6,ml,9,174.58,0.069,0.1583,nn,nn00861359,2023-06-18T14:35:56.284Z,"51 km S of Silver Peak, Nevada",earthquake,,11.4,0.97,6,automatic,nn,nn
-2023-06-18T14:29:39.184Z,-23.9721,-175.7954,28.456,5.7,mww,49,78,2.842,0.54,us,us7000k9d8,2023-06-18T16:34:04.013Z,"Tonga region",earthquake,10.07,4.774,0.071,19,reviewed,us,us
+2023-06-18T14:29:39.184Z,-23.9721,-175.7954,28.456,5.7,mww,49,78,2.842,0.54,us,us7000k9d8,2023-06-19T13:11:28.040Z,"Tonga region",earthquake,10.07,4.774,0.071,19,reviewed,us,us
 2023-06-18T14:28:45.429Z,-23.7584,-175.9331,10,5.1,mb,21,133,2.663,0.99,us,us7000k9d9,2023-06-18T14:47:10.040Z,"285 km SSW of ‘Ohonua, Tonga",earthquake,12.99,1.906,0.042,181,reviewed,us,us
 2023-06-18T14:25:38.915Z,-23.8868,-175.9281,10,5.1,mb,21,164,2.786,1.01,us,us7000k9d7,2023-06-18T14:43:13.040Z,"299 km SSW of ‘Ohonua, Tonga",earthquake,10.43,1.893,0.061,86,reviewed,us,us
 2023-06-18T14:07:45.550Z,45.664,-122.75333333333333,18.92,1.47,ml,12,115,0.05727,0.13,uw,uw61934036,2023-06-18T17:05:18.090Z,"5 km WSW of Lake Shore, Washington",earthquake,0.5,0.62,0.04948468811501261,7,reviewed,uw,uw
@@ -179,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T13:22:19.570Z,-23.8263,-175.5809,10,4.9,mb,32,115,2.667,0.8,us,us7000k9cz,2023-06-18T13:44:27.040Z,"282 km SSW of ‘Ohonua, Tonga",earthquake,11,1.844,0.058,94,reviewed,us,us
 2023-06-18T13:17:09.664Z,60.4219,-150.733,44.1,2.3,ml,,,,0.27,ak,ak0237rpny8m,2023-06-18T13:57:04.040Z,"9 km S of Funny River, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-18T13:14:20.658Z,61.7052,-151.6141,76.4,2.2,ml,,,,0.64,ak,ak0237rpnbxt,2023-06-18T13:54:06.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-18T13:12:12.213Z,43.0238,-110.8351,5,2.7,ml,21,88,0.324,0.52,us,us7000k9cv,2023-06-18T16:58:48.445Z,"11 km ENE of Star Valley Ranch, Wyoming",earthquake,2.6,1.951,0.057,40,reviewed,us,us
-2023-06-18T13:11:32.870Z,46.876,-121.76,-1.11,0.27,ml,14,100,0.01969,0.16,uw,uw61934016,2023-06-19T05:14:04.630Z,"Mount Rainier area, Washington",earthquake,0.29,1.19,0.25370379160569767,8,reviewed,uw,uw
