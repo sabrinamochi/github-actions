@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T19:13:31.990Z,37.4319992,-121.8353348,2.76,1.83,md,11,59,0.01705,0.04,nc,nc73903316,2023-06-20T19:30:16.798Z,"6km E of Milpitas, CA",earthquake,0.3,0.42,0.1,6,automatic,nc,nc
 2023-06-20T18:56:56.940Z,56.8655,-152.8767,0.1,2.1,ml,,,,0.63,ak,ak0237v3y9tq,2023-06-20T18:58:59.580Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-20T18:43:15.251Z,58.0332,-155.6838,17.5,1.2,ml,,,,2.05,ak,ak0237v3vebw,2023-06-20T18:46:37.600Z,"89 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-06-20T18:42:05.410Z,38.7999992,-122.8399963,2.08,1.2,md,17,177,0.004885,0.02,nc,nc73903306,2023-06-20T18:58:09.808Z,"8km WNW of The Geysers, CA",earthquake,0.39,0.46,0.21,20,automatic,nc,nc
+2023-06-20T18:42:05.410Z,38.7999992,-122.8399963,2.08,1.2,md,17,177,0.004885,0.02,nc,nc73903306,2023-06-20T20:06:15.200Z,"8km WNW of The Geysers, CA",earthquake,0.39,0.46,0.21,20,automatic,nc,nc
 2023-06-20T18:38:54.510Z,33.9478333,-117.1755,11.93,0.94,ml,19,92,0.002306,0.19,ci,ci40490104,2023-06-20T18:42:27.639Z,"5km ENE of Moreno Valley, CA",earthquake,0.34,0.79,0.277,20,automatic,ci,ci
 2023-06-20T18:33:28.850Z,37.9871674,-122.4505005,1.56,1.42,md,7,113,0.02415,0.05,nc,nc73903301,2023-06-20T19:43:16.063Z,"7km E of Santa Venetia, CA",earthquake,0.6,0.66,0.18,7,automatic,nc,nc
 2023-06-20T18:32:54.750Z,19.3843326568604,-155.221328735352,3.73000001907349,1.86,ml,16,116,,0.200000003,hv,hv73456592,2023-06-20T18:38:25.830Z,"6 km SSE of Volcano, Hawaii",earthquake,0.57,0.839999974,2.22,8,automatic,hv,hv
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T08:06:31.483Z,58.739,-153.99,15.2,1.2,ml,,,,0.31,ak,ak0237uxp60c,2023-06-20T08:08:28.911Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-20T07:55:45.000Z,19.4245,-65.7268,100,3.91,md,10,277,1.1711,0.48,pr,pr2023171001,2023-06-20T08:17:49.861Z,"Puerto Rico region",earthquake,7.02,10.23,0.03,3,reviewed,pr,pr
 2023-06-20T07:50:38.420Z,19.7715,-65.6571,48,3.84,md,9,290,1.5111,0.19,pr,pr2023171002,2023-06-20T08:20:26.581Z,"Puerto Rico region",earthquake,2.63,13.66,0.01,4,reviewed,pr,pr
-2023-06-20T07:50:11.560Z,37.5485,-118.8308333,0.88,1.71,md,17,221,0.04148,0.06,nc,nc73903156,2023-06-20T19:32:13.999Z,"13km W of Toms Place, CA",earthquake,0.49,1.26,0.262,17,reviewed,nc,nc
+2023-06-20T07:50:11.560Z,37.5485,-118.8308333,0.88,1.71,md,17,221,0.04148,0.06,nc,nc73903156,2023-06-20T20:07:11.207Z,"13km W of Toms Place, CA",earthquake,0.49,1.26,0.262,17,reviewed,nc,nc
 2023-06-20T07:44:51.740Z,-0.9813,98.4808,20.121,4.7,mb,29,179,2.444,0.59,us,us7000k9te,2023-06-20T08:04:51.040Z,"169 km NW of Tuapejat, Indonesia",earthquake,13.09,6.591,0.123,20,reviewed,us,us
 2023-06-20T07:40:25.386Z,38.5745,-119.435,5.7,1.3,ml,9,97.71,0.068,0.0996,nn,nn00861459,2023-06-20T17:49:05.235Z,"California-Nevada border region",earthquake,,1.8,0.18,3,reviewed,nn,nn
 2023-06-20T07:39:29.770Z,33.4408333,-116.6356667,4.58,1.07,ml,41,65,0.06057,0.16,ci,ci40489592,2023-06-20T13:14:50.470Z,"13km SSE of Anza, CA",earthquake,0.18,0.43,0.104,26,reviewed,ci,ci
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T20:22:56.203Z,59.6865,-152.1279,80.8,1.4,ml,,,,0.42,ak,ak0237thei50,2023-06-19T20:24:54.542Z,"19 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-19T20:18:50.898Z,58.196,-155.2548,0.1,0.9,ml,,,,0.44,ak,ak0237thdmv5,2023-06-19T20:19:54.185Z,"84 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-19T20:13:34.680Z,58.18,-155.2747,0,1.3,ml,,,,0.42,ak,ak0237thcj18,2023-06-19T20:15:16.429Z,"83 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-19T20:09:44.060Z,19.2679996490479,-155.38916015625,29.4200000762939,2.07,ml,43,127,,0.109999999,hv,hv73455617,2023-06-19T20:15:14.740Z,"11 km NE of Pāhala, Hawaii",earthquake,0.57,0.610000014,0.27,3,automatic,hv,hv
