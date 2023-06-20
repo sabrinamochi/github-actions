@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-20T23:09:52.076Z,60.4086,-150.6469,30.2,2.1,ml,,,,1.02,ak,ak0237v6nctj,2023-06-20T23:11:52.160Z,"12 km SSE of Funny River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-20T23:08:28.970Z,37.6486664,-119.0210037,-1.32,2.73,md,19,115,0.00863,0.06,nc,nc73903386,2023-06-20T23:11:11.565Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.3,0.15,0.17,17,automatic,nc,nc
+2023-06-20T23:08:28.970Z,37.6486664,-119.0210037,-1.32,2.73,md,19,115,0.00863,0.06,nc,nc73903386,2023-06-20T23:13:02.659Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.3,0.15,0.17,17,automatic,nc,nc
 2023-06-20T23:01:08.030Z,64.9903,-147.4597,0,1.1,ml,,,,0.58,ak,ak0237v6ljpv,2023-06-20T23:06:37.963Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-20T22:52:19.245Z,63.1422,-150.4308,111.6,3.3,ml,,,,0.66,ak,ak0237v6b2g4,2023-06-20T22:54:12.098Z,"73 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-20T22:38:26.330Z,33.0323333,-116.4361667,7.76,1.03,ml,37,56,0.06406,0.22,ci,ci40490336,2023-06-20T22:42:04.537Z,"16km ESE of Julian, CA",earthquake,0.3,0.91,0.171,24,automatic,ci,ci
@@ -127,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T09:04:30.487Z,-22.331,-67.7983,176.354,4.7,mb,24,84,0.711,0.62,us,us7000k9tr,2023-06-20T09:40:26.040Z,"76 km NNE of San Pedro de Atacama, Chile",earthquake,7.75,5.267,0.159,12,reviewed,us,us
 2023-06-20T08:56:40.210Z,-5.6286,131.0608,93.708,4.6,mb,15,111,1.592,0.6,us,us7000k9tq,2023-06-20T09:13:53.040Z,"Banda Sea",earthquake,10.23,10.368,0.165,11,reviewed,us,us
 2023-06-20T08:39:18.170Z,-0.9802,98.6091,22.438,5.5,mww,118,52,2.493,0.77,us,us7000k9ti,2023-06-20T10:42:40.030Z,"Kepulauan Batu, Indonesia",earthquake,8.02,4.627,0.093,11,reviewed,us,us
+2023-06-20T08:37:00.540Z,37.6328333,-119.048,-1.75,0.73,md,5,139,0.01805,0.01,nc,nc73903166,2023-06-20T23:12:22.768Z,"6km W of Mammoth Lakes, CA",earthquake,0.25,1.23,0.33,5,reviewed,nc,nc
 2023-06-20T08:36:04.230Z,33.0293333,-116.4331667,7.14,0.92,ml,33,67,0.06041,0.16,ci,ci40489608,2023-06-20T13:14:47.760Z,"17km ESE of Julian, CA",earthquake,0.22,0.77,0.153,17,reviewed,ci,ci
 2023-06-20T08:06:31.483Z,58.739,-153.99,15.2,1.2,ml,,,,0.31,ak,ak0237uxp60c,2023-06-20T08:08:28.911Z,"90 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-20T07:55:45.000Z,19.4245,-65.7268,100,3.91,md,10,277,1.1711,0.48,pr,pr2023171001,2023-06-20T08:17:49.861Z,"110 km N of Suárez, Puerto Rico",earthquake,7.02,10.23,0.03,3,reviewed,pr,pr
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T23:28:47.020Z,38.831501,-122.8141632,1.63,0.74,md,14,56,0.008702,0.01,nc,nc73903051,2023-06-19T23:56:14.892Z,"8km NW of The Geysers, CA",earthquake,0.24,0.6,0.07,15,automatic,nc,nc
 2023-06-19T23:26:16.751Z,36.32073212,-98.54366302,5,1.92,ml,8,170.3320694,0.1605796665,1.21006797,ok,ok2023lyok,2023-06-19T23:27:51.657Z,"Oklahoma",earthquake,8.317934073,,0.35,5,automatic,ok,ok
 2023-06-19T23:15:49.419Z,64.9817,-147.3676,3.9,1.2,ml,,,,1.14,ak,ak0237tj5af1,2023-06-19T23:17:18.333Z,"12 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-19T23:12:12.136Z,58.1503,-155.3572,7.6,0.9,ml,,,,0.32,ak,ak0237tj4ke5,2023-06-19T23:13:27.141Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
