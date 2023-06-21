@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T17:31:29.540Z,33.5065,-116.5056667,13.54,0.92,ml,35,42,0.0689,0.2,ci,ci40491136,2023-06-21T17:34:59.282Z,"16km ESE of Anza, CA",earthquake,0.28,0.51,0.199,27,automatic,ci,ci
 2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T16:37:57.770Z,38.8366661,-122.810997,1.79,1.09,md,20,84,0.01327,0.02,nc,nc73903666,2023-06-21T16:55:12.753Z,"8km WNW of Cobb, CA",earthquake,0.22,0.39,0.08,22,automatic,nc,nc
 2023-06-21T16:29:01.306Z,63.2383,-145.0751,4.5,1.2,ml,,,,0.97,ak,ak0237wq4uhe,2023-06-21T16:30:57.127Z,"31 km ENE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -194,9 +195,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T20:24:09.840Z,35.5178333,-118.4205,1.22,1.2,ml,21,69,0.1511,0.2,ci,ci40490216,2023-06-20T20:27:58.363Z,"10km SE of Bodfish, CA",earthquake,0.33,0.69,0.137,13,automatic,ci,ci
 2023-06-20T20:12:59.080Z,33.8635,-117.0701667,1.85,1.36,ml,31,92,0.09427,0.33,ci,ci40490200,2023-06-20T20:16:34.842Z,"10km NE of Nuevo, CA",earthquake,0.53,0.92,0.221,26,automatic,ci,ci
 2023-06-20T20:12:29.410Z,19.2408332824707,-155.400161743164,29.3299999237061,2.05,ml,36,135,,0.0900000036,hv,hv73456647,2023-06-20T20:18:00.880Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.699999988,0.63,3,automatic,hv,hv
+2023-06-20T20:10:21.590Z,58.2648333333333,-155.1375,31.49,0.01,ml,12,89,,0.26,av,av91108168,2023-06-21T17:37:18.970Z,"Alaska Peninsula",earthquake,0.81,1.38,0.306087167854478,11,reviewed,av,av
 2023-06-20T20:10:03.280Z,58.2761666666667,-155.094833333333,32.52,-0.07,ml,8,101,,0.16,av,av91108158,2023-06-21T06:14:06.300Z,"87 km NNW of Karluk, Alaska",earthquake,0.88,1.02,0.272129914184849,8,reviewed,av,av
 2023-06-20T20:09:38.870Z,58.2671666666667,-155.078166666667,33.86,-0.03,ml,10,107,,0.32,av,av91108153,2023-06-21T06:17:04.990Z,"86 km NNW of Karluk, Alaska",earthquake,1.27,1.9,0.25922140761754,8,reviewed,av,av
 2023-06-20T20:08:57.480Z,58.2575,-155.110666666667,32.32,-0.31,ml,9,98,,0.16,av,av91108148,2023-06-21T06:05:37.520Z,"Alaska Peninsula",earthquake,0.68,1.12,0.211400797531089,8,reviewed,av,av
+2023-06-20T20:03:22.700Z,45.097,-111.7235,-2,0.75,ml,5,172,0.2624,0.07,mb,mb90019263,2023-06-21T17:35:58.560Z,"27 km S of Ennis, Montana",quarry blast,0.69,31.61,0.0959254921945658,3,reviewed,mb,mb
 2023-06-20T19:59:16.082Z,-17.4401,-178.7693,553.354,5.7,mww,239,33,3.046,0.75,us,us7000k9xm,2023-06-21T13:57:28.697Z,"214 km ENE of Levuka, Fiji",earthquake,8.39,3.395,0.083,14,reviewed,us,us
 2023-06-20T19:54:48.000Z,53.3871666666667,-168.210166666667,4.01,-0.15,ml,6,257,,0.26,av,av91931816,2023-06-21T03:35:07.050Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.36,2.26,0.269831055778326,6,reviewed,av,av
 2023-06-20T19:50:08.380Z,38.8313332,-122.8160019,1.67,0.29,md,11,91,0.00918,0.02,nc,nc73903336,2023-06-20T21:01:14.598Z,"8km NW of The Geysers, CA",earthquake,0.32,0.82,0.17,12,automatic,nc,nc
@@ -223,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T18:02:22.720Z,46.828833333333336,-123.09383333333334,-0.31,1.47,ml,13,203,0.1238,0.45,uw,uw61934711,2023-06-20T19:50:46.180Z,"0 km NNE of Rochester, Washington",explosion,1.87,31.61,0.3391558937694725,11,reviewed,uw,uw
 2023-06-20T18:00:41.810Z,38.7913322,-122.7616653,1.91,1.09,md,18,63,0.009404,0.02,nc,nc73903266,2023-06-20T18:45:15.743Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.45,0.16,17,automatic,nc,nc
 2023-06-20T17:47:58.420Z,51.8581666666667,-177.828333333333,8.96,0.45,ml,5,236,,0.06,av,av91931691,2023-06-21T03:58:05.250Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,0.71,0.300076369830259,5,reviewed,av,av
-2023-06-20T17:31:45.090Z,34.523,-97.229,0,1.55,ml,77,64,0.1151773983,0.43,ok,ok2023lzyf,2023-06-20T17:43:28.461Z,"Oklahoma",quarry blast,,0.4,0.18,25,reviewed,ok,ok
-2023-06-20T17:31:24.800Z,18.2505,-66.2806666666667,19.29,2.36,md,9,120,0.1035,0.22,pr,pr71414163,2023-06-20T17:51:36.840Z,"Puerto Rico region",earthquake,0.79,0.52,0.0887391324769022,5,reviewed,pr,pr
