@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T17:57:02.700Z,38.8353348,-122.8059998,2.09,1.07,md,18,53,0.01234,0.02,nc,nc73903961,2023-06-22T17:59:47.160Z,"7km WNW of Cobb, CA",earthquake,0.25,0.48,0.29,19,automatic,nc,nc
+2023-06-22T17:55:52.670Z,33.0455,-114.9818333,2.39,1.39,ml,10,79,0.07315,0.24,ci,ci40492072,2023-06-22T17:59:23.132Z,"45km NNW of Los Algodones, B.C., MX",earthquake,0.62,1.25,0.124,8,automatic,ci,ci
 2023-06-22T17:46:17.782Z,60.1938,-140.095,0,1.6,ml,,,,0.94,ak,ak0237yedb0y,2023-06-22T17:48:53.727Z,"74 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-22T17:44:38.180Z,19.1464996337891,-155.454162597656,30.5,1.92999995,md,29,175,,0.0900000036,hv,hv73458632,2023-06-22T17:47:49.620Z,"Island of Hawaii, Hawaii",earthquake,0.81,1.26999998,1.60000002,6,automatic,hv,hv
 2023-06-22T17:37:27.590Z,33.8241667,-117.4866667,2.97,1.54,ml,26,62,0.03533,0.29,ci,ci40492048,2023-06-22T17:41:00.096Z,"7km SSE of Home Gardens, CA",quarry blast,0.38,0.52,0.22,34,automatic,ci,ci
@@ -33,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T12:58:46.566Z,39.623,-119.957,7.3,1.8,ml,19,69.1,0.016,0.109,nn,nn00861558,2023-06-22T16:07:31.706Z,"6 km SSE of Cold Springs, Nevada",earthquake,,0.9,0.23,5,reviewed,nn,nn
 2023-06-22T12:44:47.180Z,40.1731682,-124.1883316,8.1,2.31,md,8,271,0.01672,0.37,nc,nc73903916,2023-06-22T15:31:13.082Z,"19km NNW of Shelter Cove, CA",earthquake,4.41,3.44,0.05,5,automatic,nc,nc
 2023-06-22T12:40:04.238Z,39.6198,-119.9665,6.6,1.1,ml,18,68.66,0.013,0.1587,nn,nn00861556,2023-06-22T17:09:46.627Z,"6 km S of Cold Springs, Nevada",earthquake,,1.3,0.21,9,reviewed,nn,nn
+2023-06-22T12:34:23.862Z,31.53375684,-104.1770257,8.830908202999998,2.1,ml,21,73,0.0624058845,0.2,tx,tx2023mdfk,2023-06-22T17:51:42.756Z,"43 km WNW of Toyah, Texas",earthquake,1.079878984,1.630444657,0.2,17,reviewed,tx,tx
 2023-06-22T12:28:22.716Z,58.9818,-150.6731,44.8,1.9,ml,,,,0.38,ak,ak0237ybaahr,2023-06-22T12:30:37.581Z,"Gulf of Alaska",earthquake,,2,,,automatic,ak,ak
 2023-06-22T12:23:31.020Z,19.1889991760254,-155.401992797852,31.8700008392334,1.91999996,md,42,162,,0.119999997,hv,hv73458357,2023-06-22T12:26:32.620Z,"8 km E of Pāhala, Hawaii",earthquake,0.65,0.769999981,1.64999998,6,automatic,hv,hv
 2023-06-22T12:22:56.625Z,60.1486,-153.5753,1.2,1.7,ml,,,,1.16,ak,ak0237yb92r2,2023-06-22T16:38:26.947Z,"41 km E of Port Alsworth, Alaska",earthquake,,1.5,,,reviewed,ak,ak
@@ -49,12 +52,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T11:08:24.139Z,37.2719,-117.5919,7.1,0.8,ml,9,160.56,0.058,0.242,nn,nn00861547,2023-06-22T14:34:00.426Z,"53 km S of Silver Peak, Nevada",earthquake,,4,0.99,7,reviewed,nn,nn
 2023-06-22T11:02:33.890Z,19.1353340148926,-155.404663085938,30.6700000762939,1.76999998,md,47,179,,0.119999997,hv,hv73458267,2023-06-22T11:05:49.920Z,"10 km SE of Pāhala, Hawaii",earthquake,0.7,0.829999983,0.449999988,9,automatic,hv,hv
 2023-06-22T10:53:47.470Z,19.5331,-65.7678,96,3.81,md,7,282,1.3181,0.32,pr,pr2023173000,2023-06-22T12:15:43.611Z,"122 km N of Suárez, Puerto Rico",earthquake,6.23,10.67,0.06,4,reviewed,pr,pr
-2023-06-22T10:49:46.540Z,37.9121667,-122.2968333,3.88,1.27,md,52,58,0.02168,0.07,nc,nc73903886,2023-06-22T17:51:04.187Z,"1km ESE of El Cerrito, CA",earthquake,0.12,0.24,0.184,34,reviewed,nc,nc
+2023-06-22T10:49:46.540Z,37.9121667,-122.2968333,3.88,1.27,md,52,58,0.02168,0.07,nc,nc73903886,2023-06-22T18:00:09.938Z,"1km ESE of El Cerrito, CA",earthquake,0.12,0.24,0.184,34,reviewed,nc,nc
 2023-06-22T10:49:10.730Z,64.8743,-153.1253,8.4,0.8,ml,,,,1,ak,ak0237ya7we8,2023-06-22T10:52:25.587Z,"59 km SW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-22T10:38:09.780Z,59.7989,-152.379,76.9,1.2,ml,,,,0.62,ak,ak0237ya5jkz,2023-06-22T10:40:21.717Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-22T10:30:38.749Z,43.1229,141.8665,159.932,4.6,mb,85,83,1.127,0.73,us,us7000kaar,2023-06-22T11:07:55.498Z,"12 km NW of Yūbari, Japan",earthquake,3.01,6.676,0.034,254,reviewed,us,us
 2023-06-22T10:26:44.119Z,62.1947,-149.4246,39.8,1.2,ml,,,,0.82,ak,ak0237ya31i3,2023-06-22T10:28:40.296Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-06-22T10:20:40.590Z,38.8315,-122.7936667,1.82,0.37,md,18,38,0.007371,0.02,nc,nc73903881,2023-06-22T17:24:22.937Z,"6km W of Cobb, CA",earthquake,0.25,0.32,0.181,19,reviewed,nc,nc
+2023-06-22T10:20:40.590Z,38.8315,-122.7936667,1.82,0.37,md,18,38,0.007371,0.02,nc,nc73903881,2023-06-22T17:56:13.915Z,"6km W of Cobb, CA",earthquake,0.25,0.32,0.181,19,reviewed,nc,nc
 2023-06-22T10:11:30.220Z,34.1458333,-116.697,1.03,0.75,ml,13,117,0.1145,0.14,ci,ci40491744,2023-06-22T14:13:53.876Z,"15km NW of Morongo Valley, CA",earthquake,0.34,0.28,0.076,7,reviewed,ci,ci
 2023-06-22T10:04:14.306Z,36.7618,-115.8998,10.3,0.2,ml,23,217.37,0.051,0.1386,nn,nn00861545,2023-06-22T16:57:18.057Z,"29 km NW of Indian Springs, Nevada",earthquake,,1.2,0.36,11,reviewed,nn,nn
 2023-06-22T09:53:08.113Z,-6.3715,131.2502,53.7,4.6,mb,38,46,2.274,1.37,us,us7000kaai,2023-06-22T10:33:29.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,8.1,8.265,0.117,22,reviewed,us,us
@@ -62,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T09:17:49.600Z,38.8265,-122.7863333,0.5,1.24,md,42,40,0.0123,0.04,nc,nc73903871,2023-06-22T11:59:14.653Z,"6km W of Cobb, CA",earthquake,0.11,0.18,0.168,37,reviewed,nc,nc
 2023-06-22T09:12:07.080Z,38.8311653,-122.8154984,2.4,0.76,md,8,96,0.00884,0.01,nc,nc73903866,2023-06-22T09:35:14.617Z,"8km NW of The Geysers, CA",earthquake,0.52,1.37,0.21,8,automatic,nc,nc
 2023-06-22T08:38:31.855Z,58.1725,-155.371,2.2,0.9,ml,,,,0.14,ak,ak0237y8ypxt,2023-06-22T08:40:05.266Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-22T08:27:02.889Z,36.7628,-116.2541,8.6,-0.1,ml,19,69.33,0.028,0.0768,nn,nn00861544,2023-06-22T16:44:52.428Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.19,6,reviewed,nn,nn
+2023-06-22T08:27:02.889Z,36.7628,-116.2541,8.6,-0.1,ml,19,69.33,0.028,0.0768,nn,nn00861544,2023-06-22T16:44:52.428Z,"California-Nevada border region",earthquake,,0.9,0.19,6,reviewed,nn,nn
 2023-06-22T08:20:47.952Z,62.9244,-151.3366,100.5,1.4,ml,,,,0.43,ak,ak0237y8uwaj,2023-06-22T08:23:12.927Z,"55 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-22T08:17:09.510Z,18.2028333333333,-66.1403333333333,77.3,3.06,md,12,143,0.2382,0.25,pr,pr71414363,2023-06-22T08:43:32.740Z,"2 km SW of Santa Clara, Puerto Rico",earthquake,1.53,1.11,0.0322789026801711,4,reviewed,pr,pr
 2023-06-22T08:11:44.584Z,64.9492,-149.0426,12,0.9,ml,,,,0.45,ak,ak0237y8syl6,2023-06-22T08:13:25.102Z,"26 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -74,8 +77,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T07:39:46.255Z,41.5844,142.0708,21.365,4.3,mb,14,150,0.919,0.39,us,us7000ka9y,2023-06-22T09:15:52.876Z,"78 km ENE of Mutsu, Japan",earthquake,7.94,6.957,0.177,9,reviewed,us,us
 2023-06-22T07:36:54.419Z,-24.5005,-175.8477,10,5.2,mb,61,69,3.368,1.1,us,us7000ka9z,2023-06-22T07:59:34.040Z,"south of Tonga",earthquake,10.2,1.772,0.033,313,reviewed,us,us
 2023-06-22T07:32:41.020Z,61.5254,-149.9147,34.3,1.1,ml,,,,0.32,ak,ak0237y8c0qu,2023-06-22T07:34:06.728Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-22T07:29:11.220Z,36.5355,-121.126,4.81,1.34,md,10,144,0.0154,0.07,nc,nc71130734,2023-06-22T17:35:54.187Z,"2km ENE of Pinnacles, CA",earthquake,0.33,0.39,0.092,12,reviewed,nc,nc
-2023-06-22T07:28:54.670Z,36.5305,-121.1243333,4.48,1.56,md,25,138,0.01617,0.11,nc,nc73903851,2023-06-22T17:48:11.867Z,"2km E of Pinnacles, CA",earthquake,0.27,0.56,0.221,23,reviewed,nc,nc
+2023-06-22T07:29:11.220Z,36.5355,-121.126,4.81,1.34,md,10,144,0.0154,0.07,nc,nc71130734,2023-06-22T17:55:10.910Z,"2km ENE of Pinnacles, CA",earthquake,0.33,0.39,0.092,12,reviewed,nc,nc
+2023-06-22T07:28:54.670Z,36.5305,-121.1243333,4.48,1.56,md,25,138,0.01617,0.11,nc,nc73903851,2023-06-22T18:00:10.937Z,"2km E of Pinnacles, CA",earthquake,0.27,0.56,0.221,23,reviewed,nc,nc
 2023-06-22T07:04:19.690Z,33.3446667,-116.349,11.76,0.87,ml,47,85,0.02347,0.18,ci,ci40491720,2023-06-22T13:56:03.038Z,"10km NNE of Borrego Springs, CA",earthquake,0.26,0.55,0.112,16,reviewed,ci,ci
 2023-06-22T06:47:05.420Z,40.5216667,-124.336,20.3,1.62,md,20,209,0.04606,0.15,nc,nc73903841,2023-06-22T11:27:14.410Z,"9km SW of Ferndale, CA",earthquake,0.71,0.41,0.098,11,reviewed,nc,nc
 2023-06-22T06:43:23.610Z,44.758,-112.691333333333,7.02,0.58,ml,8,121,0.132,0.15,mb,mb90019378,2023-06-22T14:00:33.360Z,"15 km NNW of Lima, Montana",earthquake,0.6,1.7,0.243324912142788,5,reviewed,mb,mb
