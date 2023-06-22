@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T17:43:02.460Z,19.1765003204346,-155.491333007812,31.4300003051758,2.23,ml,45,149,,0.129999995,hv,hv73457497,2023-06-21T19:29:27.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.810000002,2.36,14,automatic,hv,hv
 2023-06-21T17:42:59.470Z,33.494,-116.4805,12.53,0.68,ml,28,63,0.05437,0.15,ci,ci40491152,2023-06-21T18:59:09.342Z,"19km ESE of Anza, CA",earthquake,0.21,0.53,0.095,11,reviewed,ci,ci
 2023-06-21T17:31:29.460Z,33.5038333,-116.5096667,13.74,0.92,ml,45,69,0.07281,0.17,ci,ci40491136,2023-06-21T18:36:32.360Z,"16km ESE of Anza, CA",earthquake,0.18,0.36,0.209,24,reviewed,ci,ci
-2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T17:07:54.310Z,35.613,-117.4413333,6.24,0.31,ml,7,86,0.03144,0.15,ci,ci40491088,2023-06-21T20:56:54.443Z,"18km S of Searles Valley, CA",earthquake,0.39,0.72,0.048,2,reviewed,ci,ci
 2023-06-21T16:37:57.770Z,38.8366661,-122.810997,1.79,1.09,md,20,84,0.01327,0.02,nc,nc73903666,2023-06-21T18:36:15.346Z,"8km WNW of Cobb, CA",earthquake,0.22,0.39,0.08,22,automatic,nc,nc
 2023-06-21T16:29:34.810Z,33.1778333,-116.3991667,7.04,0.19,ml,8,92,0.09138,0.12,ci,ci40491008,2023-06-21T18:09:59.555Z,"9km SSW of Borrego Springs, CA",earthquake,0.39,1.33,0.083,4,reviewed,ci,ci
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T14:42:25.440Z,19.437,-154.882166666667,4.37,2.33,ml,7,263,,0.1,hv,hv73457367,2023-06-21T23:08:09.020Z,"5 km SE of Leilani Estates, Hawaii",earthquake,1.06,1.83,0.0240655886262215,1,reviewed,hv,hv
 2023-06-21T14:26:08.512Z,62.4256,-150.5571,61.3,3.8,ml,,,,1.22,ak,ak0237woxclz,2023-06-22T01:59:52.779Z,"13 km SE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-21T14:20:44.770Z,38.8153333,-122.8248333,2.41,0.41,md,18,47,0.007294,0.02,nc,nc73903626,2023-06-21T17:20:14.891Z,"7km NW of The Geysers, CA",earthquake,0.21,0.28,0.419,18,reviewed,nc,nc
-2023-06-21T14:18:25.249Z,39.6242,-119.9699,6.8,2.8,ml,29,69.3,0.018,0.1336,nn,nn00861503,2023-06-22T07:28:57.081Z,"Nevada",earthquake,,0.8,0.18,7,reviewed,nn,nn
+2023-06-21T14:18:25.249Z,39.6242,-119.9699,6.8,2.8,ml,29,69.3,0.018,0.1336,nn,nn00861503,2023-06-22T07:31:10.908Z,"Nevada",earthquake,,0.8,0.18,7,reviewed,nn,nn
 2023-06-21T13:59:25.320Z,58.2543333333333,-155.122333333333,31.54,-0.53,ml,8,134,,0.18,av,av91108203,2023-06-22T03:38:43.860Z,"85 km NNW of Karluk, Alaska",earthquake,0.94,1.47,0.279778693335217,7,reviewed,av,av
 2023-06-21T13:58:59.970Z,35.6848333,-117.483,7.82,2.51,ml,33,74,0.05213,0.14,ci,ci40490864,2023-06-21T17:22:07.480Z,"12km SW of Searles Valley, CA",earthquake,0.18,0.53,0.129,62,reviewed,ci,ci
 2023-06-21T13:54:33.930Z,37.6311667,-119.0485,-1.19,0.34,md,5,139,0.01934,0.02,nc,nc73903611,2023-06-22T07:07:00.826Z,"6km W of Mammoth Lakes, CA",earthquake,0.51,2.82,0.373,5,reviewed,nc,nc
@@ -203,6 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T07:37:52.984Z,37.2938,-104.4766,6.174,2.1,ml,9,138,0.163,0.27,us,us7000ka1m,2023-06-21T08:01:16.040Z,"7 km N of El Moro, Colorado",earthquake,2.15,2.73,0.128,8,reviewed,us,us
 2023-06-21T07:34:31.270Z,58.2656666666667,-155.112166666667,31.1,-0.18,ml,6,122,,0.21,av,av91108198,2023-06-22T02:48:53.140Z,"86 km NNW of Karluk, Alaska",earthquake,0.8,1.27,0.214357290417425,6,reviewed,av,av
 2023-06-21T07:33:59.790Z,37.3213333,-122.212,8.78,2.09,md,93,60,0.03717,0.13,nc,nc73903526,2023-06-21T23:19:15.068Z,"7km SSE of Portola Valley, CA",earthquake,0.14,0.22,0.163,74,reviewed,nc,nc
-2023-06-21T07:31:37.240Z,32.2293333,-115.0793333,15.85,1.62,ml,14,64,0.07341,0.23,ci,ci40490680,2023-06-21T15:43:49.043Z,"7km SSE of Guadalupe Victoria, B.C., MX",earthquake,0.4,0.43,0.399,5,reviewed,ci,ci
-2023-06-21T07:31:09.840Z,33.9398333,-116.7805,16.18,0.6,ml,30,61,0.09774,0.15,ci,ci40490672,2023-06-21T15:38:20.745Z,"3km NNE of Cabazon, CA",earthquake,0.24,0.59,0.057,6,reviewed,ci,ci
-2023-06-21T07:30:18.880Z,35.7688333,-117.5811667,4.66,0.54,ml,13,135,0.1545,0.18,ci,ci40490664,2023-06-21T15:30:45.417Z,"16km W of Searles Valley, CA",earthquake,0.44,0.91,0.01,2,reviewed,ci,ci
