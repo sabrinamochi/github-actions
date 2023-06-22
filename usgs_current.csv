@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T03:24:27.650Z,19.3731666666667,-66.4136666666667,50.47,3.37,md,7,325,0.898,0.17,pr,pr71414348,2023-06-22T03:38:28.860Z,"100 km N of Brenas, Puerto Rico",earthquake,2.3,6.81,0.0443632528468378,5,reviewed,pr,pr
 2023-06-22T03:12:36.790Z,47.278333333333336,-123.59733333333334,16.41,1.31,ml,19,85,0.06342,0.25,uw,uw61934956,2023-06-22T03:47:04.580Z,"26 km SE of Neilton, Washington",earthquake,0.52,0.96,0.10437572550121321,14,reviewed,uw,uw
 2023-06-22T03:07:55.130Z,17.9406666666667,-66.9453333333333,10.35,2.27,md,15,215,0.04694,0.1,pr,pr71414333,2023-06-22T03:19:25.140Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.55,0.4,0.215758291396424,5,reviewed,pr,pr
-2023-06-22T02:42:25.813Z,44.0373,33.4084,9.69,4.7,mb,68,25,2.122,0.83,us,us7000ka91,2023-06-22T03:15:50.040Z,"49 km SW of Foros, Ukraine",earthquake,6.54,4.777,0.078,50,reviewed,us,us
+2023-06-22T02:42:25.813Z,44.0373,33.4084,9.69,4.7,mb,68,25,2.122,0.83,us,us7000ka91,2023-06-22T07:01:51.371Z,"49 km SW of Foros, Ukraine",earthquake,6.54,4.777,0.078,50,reviewed,us,us
 2023-06-22T02:37:34.870Z,33.6465,-116.7148333,15.96,1.99,ml,70,26,0.0645,0.19,ci,ci40491632,2023-06-22T02:48:00.490Z,"10km S of Idyllwild, CA",earthquake,0.17,0.33,0.152,25,automatic,ci,ci
 2023-06-22T02:33:26.900Z,37.5224991,-118.8771667,3.66,1.6,md,19,134,0.07748,0.04,nc,nc73903791,2023-06-22T03:22:13.379Z,"16km SE of Mammoth Lakes, CA",earthquake,0.69,1.32,0.14,15,automatic,nc,nc
 2023-06-22T02:13:30.677Z,-23.566,-175.9857,35,5,mb,42,121,2.492,0.71,us,us7000ka8y,2023-06-22T03:01:50.040Z,"268 km SSW of ‘Ohonua, Tonga",earthquake,12.92,1.892,0.055,104,reviewed,us,us
@@ -137,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T11:55:35.300Z,33.8301667,-117.6636667,2.81,2.12,ml,76,29,0.05416,0.2,ci,ci40490752,2023-06-21T18:38:19.143Z,"10km WSW of Corona, CA",earthquake,0.13,0.22,0.158,64,reviewed,ci,ci
 2023-06-21T11:53:14.530Z,60.8171,-151.1205,56.9,1.1,ml,,,,0.33,ak,ak0237wnaunx,2023-06-21T11:55:06.624Z,"16 km NNE of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-21T11:39:39.370Z,47.601166666666664,-122.3565,0.01,1.58,ml,33,37,0.01671,0.66,uw,uw61934816,2023-06-22T04:15:33.300Z,"1 km WSW of Seattle, Washington",earthquake,0.63,1.72,0.16148769017827957,23,reviewed,uw,uw
+2023-06-21T11:35:06.680Z,58.2465,-155.093,3.93,-0.23,ml,6,125,,0.07,av,av91932736,2023-06-22T07:00:49.610Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.92,0.376539626167005,6,reviewed,av,av
 2023-06-21T11:28:59.630Z,60.014,-153.07,0.24,-0.86,ml,4,134,,0.11,av,av91932726,2023-06-22T06:27:49.560Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.35,1.77,0.219828940070419,4,reviewed,av,av
 2023-06-21T11:24:35.519Z,59.8639,-152.5662,86,1,ml,,,,0.33,ak,ak0237wn4oin,2023-06-21T11:26:47.797Z,"42 km WNW of Anchor Point, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-21T11:20:54.620Z,33.4715,-116.559,9.71,1.09,ml,54,80,0.04288,0.15,ci,ci40490736,2023-06-21T16:14:58.310Z,"14km SE of Anza, CA",earthquake,0.17,0.28,0.195,24,reviewed,ci,ci
@@ -151,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T11:01:24.490Z,51.9055,179.6105,6.74,0.4,ml,5,171,,0.18,av,av91932676,2023-06-22T03:44:41.600Z,"258 km W of Adak, Alaska",earthquake,0.82,0.91,0.21448228437939,5,reviewed,av,av
 2023-06-21T10:59:12.500Z,64.2177,-150.4741,14.8,2,ml,,,,0.71,ak,ak0237wmqp76,2023-06-21T11:01:08.802Z,"62 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T10:58:53.990Z,19.037,-67.9611666666667,18.49,3.32,md,8,330,0.7937,0.36,pr,pr71414248,2023-06-21T13:38:54.934Z,"68 km NE of Punta Cana, Dominican Republic",earthquake,13.01,26.22,0.0407920044606154,6,reviewed,pr,pr
+2023-06-21T10:38:41.420Z,40.518,-124.4051667,18.8,1.89,md,25,234,0.06679,0.11,nc,nc73903576,2023-06-22T07:02:00.536Z,"14km WSW of Ferndale, CA",earthquake,0.52,0.35,0.07,15,reviewed,nc,nc
 2023-06-21T10:31:07.859Z,31.65954525,-104.4047254,6.131567383,2,ml,35,70,0.02352077058,0.2,tx,tx2023mbfw,2023-06-21T19:44:05.876Z,"western Texas",earthquake,0.6990019515,0.6225850341,0,6,reviewed,tx,tx
 2023-06-21T10:14:07.210Z,38.8375015,-122.7914963,1.55,0.27,md,6,79,0.001277,0.03,nc,nc73903571,2023-06-21T10:30:15.527Z,"6km WNW of Cobb, CA",earthquake,0.5,1.44,0.16,8,automatic,nc,nc
 2023-06-21T10:13:28.315Z,64.7331,-149.6189,16.3,0.9,ml,,,,0.54,ak,ak0237wmgvhb,2023-06-21T10:15:21.188Z,"27 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -162,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T09:47:55.472Z,60.6961,-151.0104,64.7,1.3,ml,,,,0.24,ak,ak0237wm2sbf,2023-06-21T09:49:10.874Z,"15 km E of Nikiski, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-06-21T09:38:19.230Z,38.7723333,-122.7156667,1.45,1.14,md,44,33,0.01082,0.06,nc,nc73903561,2023-06-21T20:52:16.139Z,"2km W of Anderson Springs, CA",earthquake,0.12,0.16,0.226,39,reviewed,nc,nc
 2023-06-21T09:36:30.937Z,59.8136,-154.2792,155.8,1.9,ml,,,,1.67,ak,ak0237wm0dq6,2023-06-21T15:48:43.337Z,"10 km WNW of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-06-21T09:32:36.460Z,37.5001667,-118.5095,8.35,1.17,md,20,88,0.09547,0.08,nc,nc73903556,2023-06-22T06:56:29.291Z,"12km NE of Round Valley, CA",earthquake,0.39,1.5,0.152,17,reviewed,nc,nc
+2023-06-21T09:32:36.460Z,37.5001667,-118.5095,8.35,1.17,md,20,88,0.09547,0.08,nc,nc73903556,2023-06-22T07:01:09.787Z,"12km NE of Round Valley, CA",earthquake,0.39,1.5,0.152,17,reviewed,nc,nc
 2023-06-21T09:29:52.590Z,60.1264,-152.7874,15.7,1.2,ml,,,,0.87,ak,ak0237wlyx7f,2023-06-21T09:32:05.546Z,"62 km WNW of Happy Valley, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T09:22:55.030Z,33.0483333,-116.3613333,14.39,0.69,ml,36,83,0.07072,0.18,ci,ci40490728,2023-06-21T16:05:34.553Z,"23km E of Julian, CA",earthquake,0.25,0.49,0.196,8,reviewed,ci,ci
 2023-06-21T09:18:22.160Z,58.1728333333333,-155.357666666667,2.16,0.53,ml,8,213,,0.12,av,av91932566,2023-06-22T03:15:51.260Z,"Alaska Peninsula",earthquake,0.42,0.57,0.429651718300654,8,reviewed,av,av
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T07:08:13.060Z,34.807,-120.3426667,1.8,2.05,ml,35,64,0.07139,0.22,ci,ci40490648,2023-06-21T15:25:34.920Z,"9km NW of Los Alamos, CA",earthquake,0.26,0.46,0.087,19,reviewed,ci,ci
 2023-06-21T07:02:15.888Z,61.871,-149.2852,14.7,1,ml,,,,0.73,ak,ak0237wkm6yj,2023-06-21T07:03:58.449Z,"14 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T07:02:07.111Z,63.4039,-147.6585,15.6,2.2,ml,,,,0.24,ak,ak0237wkm65j,2023-06-21T07:03:37.663Z,"64 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-21T07:02:03.120Z,58.2608333333333,-155.1615,23.78,0.28,ml,9,98,,0.31,av,av91932476,2023-06-22T01:59:45.900Z,"87 km NNW of Karluk, Alaska",earthquake,1.18,1.49,0.231224283649309,8,reviewed,av,av
