@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T21:21:02.135Z,37.2717,-117.5896,6.3,1.9,ml,13,94.9,0.059,0.1356,nn,nn00861529,2023-06-21T21:58:04.275Z,"53 km S of Silver Peak, Nevada",earthquake,,1.6,0.38,7,reviewed,nn,nn
 2023-06-21T21:18:13.420Z,40.7281667,-112.0706667,9.46,0.66,md,12,86,0.02647,0.11,uu,uu60542951,2023-06-21T21:53:05.530Z,"3 km NE of Magna, Utah",earthquake,0.33,0.6,0.072,5,reviewed,uu,uu
 2023-06-21T21:03:11.906Z,64.6393,-146.8724,1,1.5,ml,,,,0.57,ak,ak0237wsygpi,2023-06-21T21:04:58.618Z,"9 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-21T21:01:18.780Z,45.6715,-122.71283333333334,20.07,2.54,ml,23,36,0.03956,0.14,uw,uw61934921,2023-06-22T03:52:14.289Z,"2 km SW of Lake Shore, Washington",earthquake,0.29,0.52,0.15120455247181308,18,reviewed,uw,uw
+2023-06-21T21:01:18.780Z,45.6715,-122.71283333333334,20.07,2.54,ml,23,36,0.03956,0.14,uw,uw61934921,2023-06-22T04:01:59.406Z,"2 km SW of Lake Shore, Washington",earthquake,0.29,0.52,0.15120455247181308,18,reviewed,uw,uw
 2023-06-21T20:49:12.585Z,60.1788,-151.0361,68.6,1.5,ml,,,,0.27,ak,ak0237wsmw3e,2023-06-22T00:06:38.788Z,"20 km ESE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-21T20:45:20.594Z,62.8991,-148.9408,10.6,1.3,ml,,,,0.63,ak,ak0237wslvmk,2023-06-21T20:47:33.511Z,"54 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T20:45:10.326Z,54.7901,-156.7817,10,3.1,ml,,,,0.96,ak,ak0237wsm1g9,2023-06-21T22:50:02.445Z,"195 km SE of Perryville, Alaska",earthquake,,4.8,,,reviewed,ak,ak
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T16:25:35.460Z,33.3051667,-116.1796667,10.6,1.04,ml,46,43,0.1283,0.19,ci,ci40490992,2023-06-21T18:06:39.458Z,"18km NNW of Ocotillo Wells, CA",earthquake,0.22,0.54,0.121,18,reviewed,ci,ci
 2023-06-21T16:16:15.640Z,47.3726666666667,-114.576833333333,-2,0.5,ml,6,163,0.1105,0.11,mb,mb90019258,2023-06-21T17:29:04.700Z,"17 km E of Paradise, Montana",quarry blast,0.72,31.61,0.117118176517486,2,reviewed,mb,mb
 2023-06-21T16:13:28.260Z,40.727,-112.0618333,9.19,1.15,ml,24,50,0.01972,0.13,uu,uu60542916,2023-06-21T16:56:50.500Z,"3 km ENE of Magna, Utah",earthquake,0.27,0.57,0.405,2,reviewed,uu,uu
-2023-06-21T16:07:09.300Z,19.2188339233398,-155.475006103516,28.7099990844727,2.26,ml,49,91,,0.140000001,hv,hv73457442,2023-06-21T16:12:42.420Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.57,0.649999976,2.2,17,automatic,hv,hv
+2023-06-21T16:07:09.300Z,19.2188339233398,-155.475006103516,28.7099990844727,2.26,ml,49,91,,0.140000001,hv,hv73457442,2023-06-21T16:12:42.420Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.649999976,2.2,17,automatic,hv,hv
 2023-06-21T15:45:02.380Z,19.1831665039062,-155.492660522461,34.0200004577637,1.86000001,md,39,87,,0.109999999,hv,hv73457417,2023-06-21T15:48:11.190Z,"2 km SW of Pāhala, Hawaii",earthquake,0.57,0.889999986,0.920000017,8,automatic,hv,hv
 2023-06-21T15:44:26.500Z,34.087,-117.3098333,15.83,1.69,ml,78,25,0.08279,0.15,ci,ci40490968,2023-06-21T17:59:24.840Z,"2km NNE of Colton, CA",earthquake,0.12,0.29,0.169,51,reviewed,ci,ci
 2023-06-21T15:33:53.741Z,42.1244,15.6993,24.642,4.3,mb,36,40,0.371,0.86,us,us7000ka4t,2023-06-21T22:56:58.001Z,"16 km E of Isole Tremiti, Italy",earthquake,4.9,6.447,0.239,5,reviewed,us,us
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T04:03:21.460Z,58.2508333333333,-155.137666666667,33.51,0.73,ml,12,98,,0.3,av,av91932306,2023-06-22T00:48:33.260Z,"86 km NNW of Karluk, Alaska",earthquake,0.84,1.49,0.349305869276747,11,reviewed,av,av
 2023-06-21T04:03:04.030Z,19.1731662750244,-155.476501464844,33.5299987792969,2.36,ml,48,82,,0.100000001,hv,hv73457107,2023-06-21T04:08:35.010Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.629999995,3.3,19,automatic,hv,hv
 2023-06-21T04:02:53.915Z,-12.7679,-14.9907,10,4.7,mb,22,141,4.845,0.8,us,us7000ka0x,2023-06-21T04:52:08.040Z,"southern Mid-Atlantic Ridge",earthquake,14.45,1.921,0.134,17,reviewed,us,us
-2023-06-21T04:01:35.560Z,58.2474,-155.1076,27.4,0.7,ml,,,,0.34,ak,ak0237witptg,2023-06-22T00:29:36.710Z,"84 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
