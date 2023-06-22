@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-22T07:50:36.410Z,38.6981659,-122.7498322,7.54,1.19,md,17,191,0.01385,0.04,nc,nc73903856,2023-06-22T07:52:12.041Z,"9km S of The Geysers, CA",earthquake,0.55,0.99,0.21,13,automatic,nc,nc
+2023-06-22T07:50:36.410Z,38.6981659,-122.7498322,7.54,1.19,md,17,191,0.01385,0.04,nc,nc73903856,2023-06-22T08:01:10.080Z,"9km S of The Geysers, CA",earthquake,0.55,0.99,0.21,13,automatic,nc,nc
 2023-06-22T07:46:56.851Z,61.6019,-153.5246,81.4,2.3,ml,,,,1.27,ak,ak0237y8f1zp,2023-06-22T07:50:32.575Z,"Southern Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-06-22T07:36:54.419Z,-24.5005,-175.8477,10,5.2,mb,61,69,3.368,1.1,us,us7000ka9z,2023-06-22T07:59:34.040Z,"south of Tonga",earthquake,10.2,1.772,0.033,313,reviewed,us,us
 2023-06-22T07:32:41.020Z,61.5254,-149.9147,34.3,1.1,ml,,,,0.32,ak,ak0237y8c0qu,2023-06-22T07:34:06.728Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T04:42:23.050Z,38.8341675,-122.7908325,1.88,0.29,md,10,75,0.004252,0.01,nc,nc73903801,2023-06-22T05:20:12.045Z,"6km WNW of Cobb, CA",earthquake,0.35,1.11,0.22,12,automatic,nc,nc
 2023-06-22T04:38:56.972Z,64.784,-149.0436,18.3,1,ml,,,,0.54,ak,ak0237y6l1gh,2023-06-22T04:40:29.168Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-22T04:25:19.130Z,34.0561667,-117.1738333,12.69,0.87,ml,22,101,0.08035,0.2,ci,ci40491664,2023-06-22T04:28:49.214Z,"1km E of Redlands, CA",earthquake,0.36,0.85,0.148,19,automatic,ci,ci
-2023-06-22T04:07:16.440Z,19.216833114624,-155.376327514648,32.0299987792969,2,md,42,157,,0.109999999,hv,hv73458017,2023-06-22T04:10:25.790Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,1.01999998,0.850000024,17,automatic,hv,hv
+2023-06-22T04:07:16.440Z,19.216833114624,-155.376327514648,32.0299987792969,2,md,42,157,,0.109999999,hv,hv73458017,2023-06-22T04:10:25.790Z,"Island of Hawaii, Hawaii",earthquake,0.6,1.01999998,0.850000024,17,automatic,hv,hv
 2023-06-22T04:03:00.427Z,58.2284,-155.2651,1.9,0.9,ml,,,,1.57,ak,ak0237y6df16,2023-06-22T04:04:41.549Z,"87 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-22T03:45:07.947Z,36.10228348,-97.83260345,5.214579582,1.52,ml,19,90.02676392,0.1149994731,0.2913527479,ok,ok2023mcny,2023-06-22T03:48:13.814Z,"5 km E of Hennessey, Oklahoma",earthquake,2.96322345,4.119647828,0.2,6,automatic,ok,ok
 2023-06-22T03:35:42.080Z,35.7163333,-117.4985,11.1,0.84,ml,11,169,0.07949,0.18,ci,ci40491648,2023-06-22T03:39:19.540Z,"10km WSW of Searles Valley, CA",earthquake,0.83,1.22,0.13,5,automatic,ci,ci
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T16:25:35.460Z,33.3051667,-116.1796667,10.6,1.04,ml,46,43,0.1283,0.19,ci,ci40490992,2023-06-21T18:06:39.458Z,"18km NNW of Ocotillo Wells, CA",earthquake,0.22,0.54,0.121,18,reviewed,ci,ci
 2023-06-21T16:16:15.640Z,47.3726666666667,-114.576833333333,-2,0.5,ml,6,163,0.1105,0.11,mb,mb90019258,2023-06-21T17:29:04.700Z,"17 km E of Paradise, Montana",quarry blast,0.72,31.61,0.117118176517486,2,reviewed,mb,mb
 2023-06-21T16:13:28.260Z,40.727,-112.0618333,9.19,1.15,ml,24,50,0.01972,0.13,uu,uu60542916,2023-06-21T16:56:50.500Z,"3 km ENE of Magna, Utah",earthquake,0.27,0.57,0.405,2,reviewed,uu,uu
-2023-06-21T16:07:09.300Z,19.2188339233398,-155.475006103516,28.7099990844727,2.26,ml,49,91,,0.140000001,hv,hv73457442,2023-06-21T16:12:42.420Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.649999976,2.2,17,automatic,hv,hv
+2023-06-21T16:07:09.300Z,19.2188339233398,-155.475006103516,28.7099990844727,2.26,ml,49,91,,0.140000001,hv,hv73457442,2023-06-21T16:12:42.420Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.57,0.649999976,2.2,17,automatic,hv,hv
 2023-06-21T15:45:02.380Z,19.1831665039062,-155.492660522461,34.0200004577637,1.86000001,md,39,87,,0.109999999,hv,hv73457417,2023-06-21T15:48:11.190Z,"2 km SW of Pāhala, Hawaii",earthquake,0.57,0.889999986,0.920000017,8,automatic,hv,hv
 2023-06-21T15:44:26.500Z,34.087,-117.3098333,15.83,1.69,ml,78,25,0.08279,0.15,ci,ci40490968,2023-06-21T17:59:24.840Z,"2km NNE of Colton, CA",earthquake,0.12,0.29,0.169,51,reviewed,ci,ci
 2023-06-21T15:33:53.741Z,42.1244,15.6993,24.642,4.3,mb,36,40,0.371,0.86,us,us7000ka4t,2023-06-21T22:56:58.001Z,"16 km E of Isole Tremiti, Italy",earthquake,4.9,6.447,0.239,5,reviewed,us,us
