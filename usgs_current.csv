@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-23T03:22:10.350Z,38.8160019,-122.795166,2.17,1.08,md,16,50,0.008023,0.01,nc,nc73904131,2023-06-23T03:23:47.592Z,"6km NW of The Geysers, CA",earthquake,0.23,0.46,0.28,19,automatic,nc,nc
+2023-06-23T03:20:45.470Z,33.3866667,-116.7555,12.01,0.33,ml,16,83,0.09553,0.14,ci,ci40492512,2023-06-23T03:24:24.859Z,"11km ENE of Palomar Observatory, CA",earthquake,0.32,0.83,0.051,7,automatic,ci,ci
 2023-06-23T03:15:15.284Z,65.7877,-151.3227,0,1.1,ml,,,,0.78,ak,ak0237ztdxns,2023-06-23T03:17:06.833Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-23T02:50:02.430Z,40.534832,-124.3470001,18.45,2.04,md,11,233,0.2179,0.07,nc,nc73904121,2023-06-23T03:11:11.320Z,"8km WSW of Ferndale, CA",earthquake,1.7,1.18,0.08,4,automatic,nc,nc
 2023-06-23T02:48:02.301Z,35.49270248,-98.03237152,1.231217504,1.98,ml,10,99.82126236,0.06829605252,0.6357503282,ok,ok2023meho,2023-06-23T02:51:20.623Z,"8 km WSW of El Reno, Oklahoma",earthquake,3.777294983,3.062656632,0.29,8,automatic,ok,ok
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T00:58:08.960Z,-15.7645,-173.5235,41.367,4.5,mb,17,64,2.904,0.21,us,us7000kahb,2023-06-23T01:45:24.040Z,"35 km NE of Hihifo, Tonga",earthquake,6.21,7.446,0.171,10,reviewed,us,us
 2023-06-23T00:53:24.020Z,38.7806664,-122.7645035,1.4,1.08,md,14,85,0.02028,0.03,nc,nc73904101,2023-06-23T01:21:16.705Z,"1km WNW of The Geysers, CA",earthquake,0.28,0.62,0.15,14,automatic,nc,nc
 2023-06-23T00:41:56.400Z,38.8139992,-122.8246689,2.07,1.64,md,29,49,0.006218,0.04,nc,nc73904096,2023-06-23T01:11:19.647Z,"7km NW of The Geysers, CA",earthquake,0.19,0.31,0.14,31,automatic,nc,nc
-2023-06-23T00:33:40.130Z,36.0476685,-120.6128311,7.92,1.12,md,12,116,0.02504,0.07,nc,nc73904091,2023-06-23T01:17:11.682Z,"23km NW of Parkfield, CA",earthquake,0.67,0.89,0.24,5,automatic,nc,nc
+2023-06-23T00:33:40.130Z,36.0476685,-120.6128311,7.92,1.12,md,12,116,0.02504,0.07,nc,nc73904091,2023-06-23T03:26:17.406Z,"23km NW of Parkfield, CA",earthquake,0.67,0.89,0.24,5,automatic,nc,nc
 2023-06-23T00:30:25.357Z,62.1727,-149.4642,35.6,2,ml,,,,0.52,ak,ak0237zrovd3,2023-06-23T00:46:07.328Z,"20 km E of Susitna North, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-06-23T00:21:34.080Z,38.7719994,-122.7218323,1.82,1.03,md,8,91,0.01066,0.02,nc,nc73904081,2023-06-23T00:39:17.450Z,"3km W of Anderson Springs, CA",earthquake,0.5,0.8,0.18,7,automatic,nc,nc
 2023-06-22T23:58:21.480Z,38.8381653,-122.8746643,2.1,0.62,md,8,113,0.005061,0.03,nc,nc73904071,2023-06-23T00:17:19.293Z,"12km WNW of The Geysers, CA",earthquake,0.48,0.86,0.35,8,automatic,nc,nc
@@ -221,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T03:35:56.202Z,59.9996,-139.3924,0,1.4,ml,,,,1.01,ak,ak0237y5yyph,2023-06-22T20:49:40.597Z,"53 km NNE of Yakutat, Alaska",ice quake,,0,,,reviewed,ak,ak
 2023-06-22T03:35:42.140Z,35.7038333,-117.5101667,10.73,0.83,ml,19,124,0.08029,0.17,ci,ci40491648,2023-06-22T13:33:25.906Z,"12km SW of Searles Valley, CA",earthquake,0.38,0.62,0.11,5,reviewed,ci,ci
 2023-06-22T03:35:12.496Z,52.7083,-168.4442,50.5,2.7,ml,,,,0.52,ak,ak0237y5yve6,2023-06-22T20:49:40.383Z,"38 km SE of Nikolski, Alaska",earthquake,,1.5,,,reviewed,ak,ak
-2023-06-22T03:28:17.950Z,58.2391666666667,-155.164833333333,3.92,0.53,ml,9,118,,0.08,av,av91933596,2023-06-23T01:29:07.860Z,"85 km NNW of Karluk, Alaska",earthquake,0.28,0.47,0.213511787726088,9,reviewed,av,av
-2023-06-22T03:26:14.899Z,38.1955,-117.8139,5.5,1.6,ml,6,141.62,0.145,0.1276,nn,nn00861539,2023-06-22T16:35:33.497Z,"33 km SE of Mina, Nevada",earthquake,,3.4,0.34,5,reviewed,nn,nn
-2023-06-22T03:24:44.300Z,41.2996667,-111.7643333,11.85,1.1,ml,14,74,0.1329,0.09,uu,uu60542976,2023-06-22T13:35:59.980Z,"Utah",earthquake,0.31,1.1,0.032,2,reviewed,uu,uu
-2023-06-22T03:24:27.650Z,19.3731666666667,-66.4136666666667,50.47,3.37,md,7,325,0.898,0.17,pr,pr71414348,2023-06-22T03:38:28.860Z,"Puerto Rico region",earthquake,2.3,6.81,0.0443632528468378,5,reviewed,pr,pr
