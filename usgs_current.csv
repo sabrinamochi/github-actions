@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T19:54:06.864Z,63.3554,-145.5333,0,1.2,ml,,,,0.85,ak,ak02380357m6,2023-06-23T19:56:08.401Z,"29 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-23T19:38:31.536Z,58.2565,-155.0718,2.9,0.7,ml,,,,0.12,ak,ak0238031u29,2023-06-23T19:40:13.507Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-23T19:34:33.969Z,63.1569,-147.6692,9.2,1.7,ml,,,,0.63,ak,ak0238030zdw,2023-06-23T19:37:03.798Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-23T19:31:17.390Z,58.2641666666667,-155.072166666667,31.27,0.2,ml,6,151,,0.16,av,av91935651,2023-06-24T07:53:59.030Z,"85 km NNW of Karluk, Alaska",earthquake,0.89,1,0.181783292508723,6,reviewed,av,av
 2023-06-23T19:28:41.490Z,58.2486666666667,-155.133666666667,31.39,0.06,ml,9,98,,0.15,av,av91108478,2023-06-24T07:17:24.850Z,"85 km NNW of Karluk, Alaska",earthquake,0.76,0.88,0.125961238615508,8,reviewed,av,av
 2023-06-23T19:28:29.020Z,47.17,-119.21733333333333,-0.47,0.72,md,4,110,0.2061,0.15,uw,uw61926592,2023-06-24T05:11:43.370Z,"6 km NE of Moses Lake, Washington",explosion,0.57,31.61,0.23377338203447984,3,reviewed,uw,uw
 2023-06-23T19:28:06.467Z,61.0355,-146.0853,20.7,3.1,ml,,,,0.64,ak,ak023802zmy7,2023-06-23T20:25:28.040Z,"17 km SE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -153,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T16:41:44.520Z,38.8153333,-122.8241667,2.37,1.42,md,43,44,0.00755,0.04,nc,nc73904286,2023-06-23T23:37:15.659Z,"7km NW of The Geysers, CA",earthquake,0.14,0.18,0.151,40,reviewed,nc,nc
 2023-06-23T16:41:42.780Z,38.787,-122.7438333,1.94,0.67,md,11,193,0.006707,0.02,nc,nc71130744,2023-06-23T20:57:15.702Z,"2km NE of The Geysers, CA",earthquake,0.57,0.34,0.237,4,reviewed,nc,nc
 2023-06-23T16:38:18.320Z,58.2581666666667,-155.133833333333,6.02,0.25,ml,9,91,,0.22,av,av91935421,2023-06-24T04:16:16.190Z,"86 km NNW of Karluk, Alaska",earthquake,0.52,0.81,0.271810479521645,9,reviewed,av,av
-2023-06-23T16:37:36.080Z,51.8561666666667,-178.047666666667,-1.8,1.33,ml,6,102,,0.23,av,av91935426,2023-06-24T04:13:23.010Z,"97 km W of Adak, Alaska",earthquake,0.39,1.29,0.24515737717444,6,reviewed,av,av
+2023-06-23T16:37:36.080Z,51.8561666666667,-178.047666666667,-1.8,1.33,ml,6,102,,0.23,av,av91935426,2023-06-24T04:13:23.010Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1.29,0.24515737717444,6,reviewed,av,av
 2023-06-23T16:32:59.470Z,40.5768333,-124.2053333,16.62,1.49,md,17,164,0.1428,0.12,nc,nc73904281,2023-06-24T02:04:16.539Z,"5km WSW of Fortuna, CA",earthquake,0.49,0.85,0.081,10,reviewed,nc,nc
 2023-06-23T16:24:29.380Z,37.6326667,-119.0476667,-2.48,0.32,md,5,144,0.01793,0.02,nc,nc73904276,2023-06-23T23:01:14.467Z,"6km W of Mammoth Lakes, CA",earthquake,0.3,5.26,0.114,5,reviewed,nc,nc
 2023-06-23T16:19:35.120Z,51.8546666666667,-178.037666666667,-1.8,1.47,ml,6,86,,0.28,av,av91935416,2023-06-24T03:57:30.670Z,"96 km W of Adak, Alaska",earthquake,0.45,1.6,0.300539451200271,6,reviewed,av,av
@@ -263,5 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T08:17:13.680Z,47.970166666666664,-121.63566666666667,11.67,0.97,ml,11,86,0.1888,0.11,uw,uw61926487,2023-06-23T21:19:44.210Z,"Washington",earthquake,0.29,1.89,0.1541645515457557,3,reviewed,uw,uw
 2023-06-23T08:10:56.080Z,33.3881667,-116.8821667,6.11,1.11,ml,53,27,0.03814,0.17,ci,ci40492608,2023-06-23T20:52:11.030Z,"4km NNW of Palomar Observatory, CA",earthquake,0.15,0.45,0.159,28,reviewed,ci,ci
 2023-06-23T08:05:36.453Z,62.8531,-150.9149,96.1,1.1,ml,,,,0.22,ak,ak0237zwb05p,2023-06-23T08:07:47.600Z,"40 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-23T07:57:45.080Z,45.0055,-114.520666666667,7.46,1.22,ml,12,125,0.2537,0.12,mb,mb90019468,2023-06-23T19:36:56.550Z,"52 km WSW of Salmon, Idaho",earthquake,0.47,1.13,0.243752608600545,11,reviewed,mb,mb
-2023-06-23T07:51:50.630Z,38.8204994,-122.8193359,2.18,0.65,md,9,72,0.007791,0.1,nc,nc73904206,2023-06-23T08:11:19.118Z,"7km NW of The Geysers, CA",earthquake,0.64,1.27,0.21,11,automatic,nc,nc
