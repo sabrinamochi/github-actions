@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-24T22:55:13.130Z,33.0315,-116.2985,3.4,0.78,ml,27,52,0.0768,0.21,ci,ci40494496,2023-06-24T22:59:07.404Z,"20km SW of Ocotillo Wells, CA",earthquake,0.31,1.11,0.074,12,automatic,ci,ci
 2023-06-24T22:39:05.867Z,61.5654,-146.5163,24,1.2,ml,,,,0.92,ak,ak02381sdn3u,2023-06-24T22:42:16.374Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-24T22:19:44.189Z,62.5735,-148.9504,0,1.6,ml,,,,0.77,ak,ak02381s9fqq,2023-06-24T22:22:05.778Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-24T22:12:12.561Z,-23.0957,-66.5724,228.006,4.6,mb,45,80,1.487,0.83,us,us7000kawh,2023-06-24T22:36:27.040Z,"92 km W of El Aguilar, Argentina",earthquake,8.38,9.242,0.129,19,reviewed,us,us
@@ -78,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T14:10:01.430Z,38.7849998,-122.7561646,0.44,0.76,md,8,112,0.01585,0.01,nc,nc73904631,2023-06-24T15:45:14.057Z,"1km N of The Geysers, CA",earthquake,0.4,2.26,0.04,8,automatic,nc,nc
 2023-06-24T14:06:25.380Z,33.8388333,-116.8923333,10.76,0.66,ml,24,46,0.07922,0.25,ci,ci40494016,2023-06-24T14:09:57.766Z,"9km NE of San Jacinto, CA",earthquake,0.43,0.89,0.126,10,automatic,ci,ci
 2023-06-24T14:03:33.470Z,35.6679993,-117.5573349,4.06,2.81,ml,10,124,0.1088,0.11,ci,ci40494008,2023-06-24T14:25:35.309Z,"12km ENE of Ridgecrest, CA",earthquake,0.53,1.81,0.705,3,automatic,ci,ci
+2023-06-24T13:54:40.051Z,36.6936,-116.2754,4.7,-0.4,ml,6,132.62,0.045,0.0607,nn,nn00861686,2023-06-24T22:57:42.639Z,"49 km ESE of Beatty, Nevada",earthquake,,2.7,0.22,2,reviewed,nn,nn
 2023-06-24T13:47:55.040Z,19.1476669311523,-155.364166259766,26.7600002288818,1.77999997,md,39,182,,0.0900000036,hv,hv73460602,2023-06-24T13:51:08.020Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.62,0.99000001,0.939999998,10,automatic,hv,hv
 2023-06-24T13:43:17.520Z,19.2361660003662,-155.39616394043,31.4400005340576,1.98000002,md,30,162,,0.119999997,hv,hv73460597,2023-06-24T13:46:35.380Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.7,0.810000002,0.150000006,9,automatic,hv,hv
 2023-06-24T13:32:28.475Z,64.0169,-146.7427,11,2,ml,,,,0.48,ak,ak02381mzae7,2023-06-24T13:34:10.656Z,"40 km S of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T23:06:27.190Z,58.174,-155.315666666667,2.44,0.78,ml,10,204,,0.14,av,av91935841,2023-06-24T09:18:17.830Z,"84 km NW of Karluk, Alaska",earthquake,0.35,0.43,0.346600709845465,10,reviewed,av,av
 2023-06-23T23:05:54.634Z,-15.3674,-177.3345,25.361,5.6,mww,63,47,1.299,0.57,us,us7000kar4,2023-06-24T01:12:45.066Z,"143 km SE of Alo, Wallis and Futuna",earthquake,8.45,4.472,0.098,10,reviewed,us,us
 2023-06-23T23:03:53.950Z,51.8413333333333,-178.049166666667,3.64,1.07,ml,5,143,,0.12,av,av91935831,2023-06-24T09:12:08.650Z,"97 km W of Adak, Alaska",earthquake,0.35,0.5,0.201112622925789,5,reviewed,av,av
-2023-06-23T22:52:35.810Z,51.8501666666667,-178.045666666667,2.18,1.91,ml,6,109,,0.15,av,av91108503,2023-06-24T09:14:28.610Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.36,0.81,0.247853232052838,6,reviewed,av,av
-2023-06-23T22:52:09.940Z,51.8495,-178.045166666667,1.95,1.89,ml,6,108,,0.16,av,av91935826,2023-06-24T09:09:45.970Z,"97 km W of Adak, Alaska",earthquake,0.38,0.82,0.293954739354182,6,reviewed,av,av
