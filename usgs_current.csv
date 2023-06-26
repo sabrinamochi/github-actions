@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T08:10:39.933Z,35.10438538,-95.39322662,0.53834337,2.21,ml,22,133.5509987,0.1156723425,0.5805060535,ok,ok2023mkes,2023-06-26T08:14:55.583Z,"2 km SW of Quinton, Oklahoma",earthquake,3.507861556,2.240120817,0.25,12,automatic,ok,ok
+2023-06-26T08:01:30.821Z,66.3141,-154.8144,0,3.4,ml,,,,0.77,ak,ak02384uw6ca,2023-06-26T08:04:43.936Z,"38 km NW of Hughes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-26T07:40:15.310Z,33.4738333,-116.4921667,13.72,0.66,ml,24,97,0.09428,0.17,ci,ci40495504,2023-06-26T07:43:54.911Z,"19km ESE of Anza, CA",earthquake,0.29,0.69,0.092,19,automatic,ci,ci
 2023-06-26T07:39:35.680Z,33.476,-116.5006667,12.39,1.11,ml,43,76,0.07848,0.18,ci,ci40495496,2023-06-26T07:50:27.600Z,"18km ESE of Anza, CA",earthquake,0.23,0.53,0.147,27,automatic,ci,ci
 2023-06-26T07:21:36.266Z,64.8528,-149.0558,24.7,1.9,ml,,,,0.82,ak,ak02384uf1h6,2023-06-26T07:23:55.895Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T02:21:16.310Z,17.9456666666667,-66.9465,10.32,2.46,md,7,212,0.07036,0.07,pr,pr71414653,2023-06-26T02:37:18.950Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.57,0.41,0.0799355884987192,4,reviewed,pr,pr
 2023-06-26T02:00:21.750Z,18.065,-66.1791666666667,20.99,3,md,15,121,0.0519,0.17,pr,pr71414643,2023-06-26T03:01:37.807Z,"3 km NE of La Plena, Puerto Rico",earthquake,0.38,0.65,0.168961856698806,10,reviewed,pr,pr
 2023-06-26T01:56:02.515Z,39.6482,-119.6548,14,2,ml,18,72.88,0.198,0.3069,nn,nn00861731,2023-06-26T05:21:59.016Z,"4 km E of Spanish Springs, Nevada",earthquake,,0.6,0.21,9,automatic,nn,nn
-2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T07:38:43.889Z,"Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
+2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T08:08:54.384Z,"Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
 2023-06-26T01:46:54.360Z,36.2376671,-120.8059998,6.13,0.94,md,9,148,0.02205,0.04,nc,nc73905371,2023-06-26T03:38:16.724Z,"23km ENE of San Lucas, CA",earthquake,0.49,0.48,0.28,4,automatic,nc,nc
 2023-06-26T01:33:48.302Z,-4.4985,125.4362,433.237,4.1,mb,21,82,4.344,0.33,us,us7000kb2c,2023-06-26T01:51:21.040Z,"Banda Sea",earthquake,14.25,10.855,0.151,12,reviewed,us,us
 2023-06-26T01:32:34.640Z,32.8165,-115.5868333,11.36,1.11,ml,12,112,0.1185,0.14,ci,ci40495328,2023-06-26T01:36:13.170Z,"4km SSW of Imperial, CA",earthquake,0.65,1.13,0.215,10,automatic,ci,ci
@@ -178,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T08:36:53.370Z,38.836834,-122.7906647,2.12,0.7,md,12,78,0.001593,0.04,nc,nc73904966,2023-06-25T08:55:14.098Z,"6km WNW of Cobb, CA",earthquake,0.34,0.54,0.09,12,automatic,nc,nc
 2023-06-25T08:26:33.310Z,-24.0605,-175.7576,10,5.4,mww,49,37,2.922,0.98,us,us7000kayl,2023-06-25T10:30:54.620Z,"south of Tonga",earthquake,10.16,1.853,0.098,10,reviewed,us,us
 2023-06-25T08:25:41.739Z,36.6105,-116.344,4.2,-0.1,ml,12,185.18,0.035,0.1068,nn,nn00861713,2023-06-26T02:03:59.359Z,"49 km ENE of Furnace Creek, California",earthquake,,1.9,0.28,3,reviewed,nn,nn
-2023-06-25T08:17:48.270Z,40.1626663,-121.0761642,1.36,2.5,md,12,83,0.3287,0.16,nc,nc73904956,2023-06-25T10:05:15.522Z,"1km S of Canyondam, CA",earthquake,0.45,11.35,0.07,7,automatic,nc,nc
-2023-06-25T08:16:05.592Z,-20.8872,-68.9323,103.201,4.3,mb,34,59,0.541,0.66,us,us7000kayj,2023-06-25T08:59:20.040Z,"Chile-Bolivia border region",earthquake,4.21,6.129,0.122,23,reviewed,us,us
-2023-06-25T08:11:07.650Z,19.2398338317871,-155.399673461914,28.7299995422363,1.75,md,29,164,,0.119999997,hv,hv73461212,2023-06-25T08:14:14.680Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,0.769999981,1.75,4,automatic,hv,hv
