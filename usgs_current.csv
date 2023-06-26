@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T05:52:52.390Z,19.170166015625,-155.470504760742,31.8600006103516,1.99000001,md,31,93,,0.109999999,hv,hv73461962,2023-06-26T05:56:12.660Z,"Island of Hawaii, Hawaii",earthquake,0.66,1.08000004,0.119999997,9,automatic,hv,hv
 2023-06-26T05:46:35.900Z,32.2166667,-115.0625,13.81,1.85,ml,14,100,0.08674,0.27,ci,ci40495448,2023-06-26T05:50:10.038Z,"6km WNW of Estacion Coahuila, B.C., MX",earthquake,0.83,0.98,0.238,14,automatic,ci,ci
 2023-06-26T05:45:33.665Z,60.9497,-149.6868,37.8,1.5,ml,,,,0.21,ak,ak02384tdb92,2023-06-26T05:46:47.812Z,"4 km NW of Hope, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-26T05:42:21.630Z,36.5523338,-121.1391678,3.41,2.22,md,24,118,0.04194,0.06,nc,nc73905446,2023-06-26T05:50:10.463Z,"2km N of Pinnacles, CA",earthquake,0.28,0.86,0.16,20,automatic,nc,nc
-2023-06-26T05:27:59.610Z,38.8409996,-122.8799973,2.43,0.91,md,9,96,0.003869,0.04,nc,nc73905441,2023-06-26T05:29:35.802Z,"12km ENE of Cloverdale, CA",earthquake,0.46,0.56,0.22,10,automatic,nc,nc
+2023-06-26T05:42:21.630Z,36.5523338,-121.1391678,3.41,2.22,md,24,118,0.04194,0.06,nc,nc73905446,2023-06-26T05:51:16.470Z,"2km N of Pinnacles, CA",earthquake,0.28,0.86,0.16,20,automatic,nc,nc
+2023-06-26T05:27:59.610Z,38.8409996,-122.8799973,2.43,0.91,md,9,96,0.003869,0.04,nc,nc73905441,2023-06-26T05:51:15.469Z,"12km ENE of Cloverdale, CA",earthquake,0.46,0.56,0.22,10,automatic,nc,nc
 2023-06-26T05:27:55.719Z,58.2585,-155.073,1.7,1,ml,,,,0.31,ak,ak02384t9i2b,2023-06-26T05:29:30.992Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-06-26T05:06:12.143Z,62.2803,-151.1043,72.8,1.5,ml,,,,0.38,ak,ak02384t4wny,2023-06-26T05:08:06.221Z,"29 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-26T05:03:52.000Z,62.2773,-151.0771,76.5,1.6,ml,,,,0.38,ak,ak02384t4clc,2023-06-26T05:06:22.397Z,"29 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -103,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T15:58:38.143Z,-13.5872,168.1142,10,4.6,mb,15,252,7.832,0.98,us,us7000kb07,2023-06-25T17:00:41.040Z,"68 km ENE of Sola, Vanuatu",earthquake,15.62,2.01,0.146,14,reviewed,us,us
 2023-06-25T15:57:14.720Z,38.7606659,-122.7170029,1.33,1.47,md,12,81,0.006213,0.03,nc,nc73905136,2023-06-25T19:07:14.690Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.4,0.16,13,automatic,nc,nc
 2023-06-25T15:51:12.283Z,36.7612,-116.2529,9.6,0.2,ml,16,76.88,0.047,0.1293,nn,nn00861715,2023-06-25T15:53:08.528Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.24,10,automatic,nn,nn
-2023-06-25T15:50:03.566Z,34.6243,69.634,57.954,4.4,mb,32,176,3.167,0.82,us,us7000kb05,2023-06-25T17:05:49.040Z,"25 km S of Tagāb, Afghanistan",earthquake,9.6,10.498,0.095,32,reviewed,us,us
+2023-06-25T15:50:03.566Z,34.6243,69.634,57.954,4.4,mb,32,176,3.167,0.82,us,us7000kb05,2023-06-25T17:05:49.040Z,"central Afghanistan",earthquake,9.6,10.498,0.095,32,reviewed,us,us
 2023-06-25T15:49:29.990Z,38.5149994,-122.5849991,5.99,1.53,md,12,99,0.1127,0.08,nc,nc73905126,2023-06-25T18:40:14.533Z,"7km S of Calistoga, CA",earthquake,0.51,1.5,0.18,10,automatic,nc,nc
 2023-06-25T15:45:24.252Z,39.5031,-117.3763,0,1.7,ml,4,224.03,0.621,0.1394,nn,nn00861726,2023-06-26T02:04:11.291Z,"26 km W of Austin, Nevada",earthquake,,0,0.18,2,reviewed,nn,nn
 2023-06-25T15:44:27.090Z,19.1606674194336,-155.494995117188,29.3400001525879,1.71000004,md,29,124,,0.129999995,hv,hv73461437,2023-06-25T15:47:48.670Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.73,1.11000001,1.73000002,4,automatic,hv,hv
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T06:56:06.240Z,38.8138351,-122.7941666,1.52,0.99,md,9,77,0.005925,0.01,nc,nc73904941,2023-06-25T08:55:14.234Z,"5km NW of The Geysers, CA",earthquake,0.44,0.94,0.22,9,automatic,nc,nc
 2023-06-25T06:32:37.277Z,62.491,-149.1859,39.5,1.4,ml,,,,0.81,ak,ak023836cmbz,2023-06-25T06:34:22.741Z,"47 km E of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-25T06:00:59.880Z,35.7038333,-117.5651667,0.77,1.22,ml,16,137,0.1215,0.16,ci,ci40494656,2023-06-25T06:04:37.971Z,"14km NE of Ridgecrest, CA",earthquake,0.32,0.47,0.063,9,automatic,ci,ci
-2023-06-25T05:57:42.950Z,38.8166656,-122.8223343,2.13,0.9,md,19,55,0.009445,0.03,nc,nc73904936,2023-06-25T08:00:14.793Z,"7km NW of The Geysers, CA",earthquake,0.24,0.42,0.24,19,automatic,nc,nc
