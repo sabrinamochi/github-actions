@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-26T13:59:53.040Z,33.8810005,-116.2125015,3.82,1,ml,18,127,0.05498,0.18,ci,ci40495728,2023-06-26T14:01:57.200Z,"18km ENE of Thousand Palms, CA",earthquake,0.58,1.81,0.093,4,automatic,ci,ci
-2023-06-26T13:48:11.440Z,38.8125,-122.8296661,1.72,0.96,md,10,75,0.003647,0.01,nc,nc73905596,2023-06-26T13:50:55.133Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.63,0.22,9,automatic,nc,nc
+2023-06-26T13:59:52.800Z,33.8771667,-116.2146667,0.39,0.89,ml,18,92,0.1734,0.25,ci,ci40495728,2023-06-26T14:03:27.898Z,"17km N of Indio, CA",earthquake,0.42,31.61,0.13,21,automatic,ci,ci
+2023-06-26T13:48:11.440Z,38.8125,-122.8296661,1.72,0.96,md,10,75,0.003647,0.01,nc,nc73905596,2023-06-26T14:05:14.351Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.63,0.22,9,automatic,nc,nc
 2023-06-26T13:43:30.820Z,63.5457,-150.6872,1.9,1.4,ml,,,,0.59,ak,ak02384y4cfu,2023-06-26T13:45:21.236Z,"51 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-26T13:41:38.550Z,19.2150001525879,-155.381500244141,31.9699993133545,2.17,ml,36,172,,0.0900000036,hv,hv73462297,2023-06-26T13:47:09.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.569999993,3.73,6,automatic,hv,hv
 2023-06-26T13:41:11.909Z,61.8967,-149.5165,50.3,1.3,ml,,,,0.29,ak,ak02384y3vjq,2023-06-26T13:42:31.044Z,"22 km NW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T08:54:34.850Z,38.7765007,-122.7568359,1.17,0.89,md,10,106,0.0171,0.03,nc,nc73905496,2023-06-26T11:01:14.296Z,"0km SSW of The Geysers, CA",earthquake,0.32,0.62,0.2,9,automatic,nc,nc
 2023-06-26T08:51:10.540Z,36.8950005,-121.5224991,9.75,1.46,md,8,219,0.05668,0.06,nc,nc73905491,2023-06-26T10:29:19.100Z,"6km NNE of San Juan Bautista, CA",earthquake,1.66,0.92,0.19,5,automatic,nc,nc
 2023-06-26T08:43:31.890Z,32.2343333,-116.5776667,12.05,1.57,ml,14,205,0.1071,0.14,ci,ci40495520,2023-06-26T08:47:19.782Z,"32km E of Primo Tapia, B.C., MX",earthquake,0.7,0.88,0.089,12,automatic,ci,ci
-2023-06-26T08:43:11.007Z,39.6468,-119.6539,0,1.9,ml,17,79.27,0.197,0.259,nn,nn00861742,2023-06-26T10:30:52.142Z,"4 km E of Spanish Springs, Nevada",earthquake,,4.9,0.14,8,automatic,nn,nn
+2023-06-26T08:43:12.252Z,39.6435,-119.6524,8.7,2,ml,24,72.87,0.122,0.1728,nn,nn00861742,2023-06-26T14:10:25.576Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.5,0.22,7,reviewed,nn,nn
 2023-06-26T08:42:41.400Z,34.0461667,-117.2845,17.08,0.91,ml,24,116,0.09201,0.17,ci,ci40495512,2023-06-26T08:46:23.839Z,"2km W of Loma Linda, CA",earthquake,0.37,0.61,0.17,18,automatic,ci,ci
 2023-06-26T08:39:22.422Z,0.4805,126.3246,65.641,4.8,mb,54,81,3.861,0.52,us,us7000kb3n,2023-06-26T09:29:54.040Z,"122 km WSW of Ternate, Indonesia",earthquake,6.55,7.325,0.08,48,reviewed,us,us
 2023-06-26T08:38:00.810Z,38.8111649,-122.8578339,2.51,0.57,md,8,176,0.02144,0.03,nc,nc73905481,2023-06-26T09:47:18.853Z,"10km WNW of The Geysers, CA",earthquake,0.54,1.12,0.31,7,automatic,nc,nc
@@ -102,12 +102,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T02:43:58.850Z,38.7910004,-122.7580032,1.61,0.78,md,15,76,0.009703,0.02,nc,nc73905401,2023-06-26T03:01:13.523Z,"2km N of The Geysers, CA",earthquake,0.24,0.45,0.11,13,automatic,nc,nc
 2023-06-26T02:31:59.130Z,38.8096657,-122.8239975,2.59,0.72,md,11,84,0.004125,0.02,nc,nc73905396,2023-06-26T02:48:15.454Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.74,0.2,11,automatic,nc,nc
 2023-06-26T02:26:51.900Z,39.6464,-119.6463,9.3,3.1,ml,36,73.43,0.127,0.164,nn,nn00861737,2023-06-26T08:49:43.060Z,"Nevada",earthquake,,1.2,0.28,9,reviewed,nn,nn
+2023-06-26T02:22:09.521Z,39.6366,-119.6496,12.4,0.3,ml,5,106.04,0.217,0.0734,nn,nn00861753,2023-06-26T14:03:25.003Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,4,0.14,3,reviewed,nn,nn
 2023-06-26T02:21:43.546Z,39.6417,-119.6494,12.5,0.4,ml,5,104.82,0.215,0.0812,nn,nn00861752,2023-06-26T14:00:18.191Z,"Nevada",earthquake,,3.9,0.21,4,reviewed,nn,nn
 2023-06-26T02:21:16.310Z,17.9456666666667,-66.9465,10.32,2.46,md,7,212,0.07036,0.07,pr,pr71414653,2023-06-26T02:37:18.950Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.57,0.41,0.0799355884987192,4,reviewed,pr,pr
 2023-06-26T02:01:36.393Z,39.6396,-119.6496,11.9,0.9,ml,6,105.29,0.16,0.0993,nn,nn00861751,2023-06-26T13:57:10.771Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,3.6,0.27,5,reviewed,nn,nn
 2023-06-26T02:00:21.750Z,18.065,-66.1791666666667,20.99,3,md,15,121,0.0519,0.17,pr,pr71414643,2023-06-26T03:01:37.807Z,"3 km NE of La Plena, Puerto Rico",earthquake,0.38,0.65,0.168961856698806,10,reviewed,pr,pr
 2023-06-26T01:56:03.168Z,39.6407,-119.654,9.4,2.2,ml,22,72.64,0.126,0.1352,nn,nn00861731,2023-06-26T13:54:49.633Z,"4 km ESE of Spanish Springs, Nevada",earthquake,,1.3,0.2,7,reviewed,nn,nn
-2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T13:55:51.149Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
+2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T14:08:08.674Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
 2023-06-26T01:46:54.360Z,36.2376671,-120.8059998,6.13,0.94,md,9,148,0.02205,0.04,nc,nc73905371,2023-06-26T03:38:16.724Z,"23km ENE of San Lucas, CA",earthquake,0.49,0.48,0.28,4,automatic,nc,nc
 2023-06-26T01:33:48.302Z,-4.4985,125.4362,433.237,4.1,mb,21,82,4.344,0.33,us,us7000kb2c,2023-06-26T01:51:21.040Z,"276 km SSW of Sanana, Indonesia",earthquake,14.25,10.855,0.151,12,reviewed,us,us
 2023-06-26T01:32:34.640Z,32.8165,-115.5868333,11.36,1.11,ml,12,112,0.1185,0.14,ci,ci40495328,2023-06-26T01:36:13.170Z,"4km SSW of Imperial, CA",earthquake,0.65,1.13,0.215,10,automatic,ci,ci
@@ -121,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T00:15:15.660Z,18.866,-67.152,18.19,2.8,md,7,270,0.3983,0.07,pr,pr71414633,2023-06-26T00:26:37.980Z,"41 km N of San Antonio, Puerto Rico",earthquake,0.67,0.59,0.166347531871677,7,reviewed,pr,pr
 2023-06-26T00:03:58.020Z,33.7033333,-116.9536667,15.66,1.15,ml,38,54,0.0297,0.2,ci,ci40495280,2023-06-26T00:14:33.150Z,"5km SSE of Hemet, CA",earthquake,0.29,0.47,0.211,8,automatic,ci,ci
 2023-06-25T23:26:59.910Z,35.026,-117.6985,0.33,1.61,ml,24,69,0.09142,0.27,ci,ci40495264,2023-06-25T23:30:50.561Z,"5km WNW of Boron, CA",quarry blast,0.65,31.61,0.138,28,automatic,ci,ci
+2023-06-25T23:12:40.800Z,46.6365,-113.278833333333,5,1.62,ml,18,49,0.2302,0.15,mb,mb90019668,2023-06-26T14:07:05.780Z,"10 km WSW of Drummond, Montana",earthquake,0.31,31.61,0.0688169886879959,7,reviewed,mb,mb
 2023-06-25T23:01:00.170Z,18.9305,-63.5591,19,3.76,md,13,242,1.0045,0.5,pr,pr2023176001,2023-06-25T23:55:26.458Z,"Leeward Islands",earthquake,4.71,8.14,0.17,4,reviewed,pr,pr
 2023-06-25T22:53:57.313Z,61.9577,-150.4214,15.8,1.9,ml,,,,0.41,ak,ak02383g03lf,2023-06-25T22:56:29.659Z,"30 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-25T22:45:51.220Z,38.8479996,-122.7994995,1.3,0.22,md,9,92,0.007092,0.02,nc,nc73905316,2023-06-25T23:23:14.260Z,"7km WNW of Cobb, CA",earthquake,0.37,0.78,0.13,9,automatic,nc,nc
@@ -197,8 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T14:33:43.020Z,40.1695,-117.8419,3,1.2,ml,3,304.73,0.411,0.1237,nn,nn00861719,2023-06-26T02:04:06.821Z,"53 km E of Lovelock, Nevada",earthquake,,4.3,0.08,2,reviewed,nn,nn
 2023-06-25T14:31:45.255Z,40.0849,-119.6664,14.8,0.4,ml,5,180.47,0.099,0.1234,nn,nn00861718,2023-06-26T02:04:05.283Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.5,0.14,3,reviewed,nn,nn
 2023-06-25T14:31:00.470Z,58.2676666666667,-155.077,30.02,0.6,ml,11,107,,0.33,av,av91937921,2023-06-25T19:38:24.480Z,"86 km NNW of Karluk, Alaska",earthquake,1.2,1.51,0.213341703636587,10,reviewed,av,av
-2023-06-25T14:30:30.977Z,31.4797634,-103.9357361,9.987768555,2.3,ml,17,124,0.1242318375,0.4,tx,tx2023mivt,2023-06-26T12:33:21.264Z,"22 km NW of Toyah, Texas",earthquake,1.273591443,1.511481335,0.2,10,reviewed,tx,tx
+2023-06-25T14:30:31.295Z,31.47833018,-103.9539948,5.617407227000001,2.2,ml,28,60,0.1025295162,0.2,tx,tx2023mivt,2023-06-26T14:11:29.937Z,"23 km NW of Toyah, Texas",earthquake,0.7039485256,1.400449432,0.2,17,reviewed,tx,tx
 2023-06-25T14:27:08.080Z,36.2696666666667,-83.529,7.39,2.5,md,26,88,0.07146,0.44,se,se60530996,2023-06-25T23:24:23.325Z,"1 km SW of Rutledge, Tennessee",earthquake,0.67,1.66,0.0731366724152389,13,reviewed,se,se
 2023-06-25T14:14:48.750Z,34.007,-117.2148333,6.51,0.89,ml,14,142,0.1341,0.21,ci,ci40494872,2023-06-25T14:18:14.296Z,"6km SSW of Redlands, CA",earthquake,0.57,2.31,0.194,10,automatic,ci,ci
 2023-06-25T14:14:11.840Z,46.784666666666666,-121.9685,7.89,0.26,ml,17,232,0.03838,0.13,uw,uw61927117,2023-06-25T22:13:53.760Z,"5 km ENE of Ashford, Washington",earthquake,0.43,0.59,0.16118854281677544,6,reviewed,uw,uw
-2023-06-25T14:04:38.770Z,32.7543333,-115.422,9.8,1.59,ml,13,120,0.05497,0.27,ci,ci40494864,2023-06-25T14:08:16.231Z,"7km SSW of Holtville, CA",earthquake,0.89,1.62,0.178,18,automatic,ci,ci
