@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T03:27:08.640Z,17.8863333333333,-66.7516666666667,3.8,2.43,md,8,246,0.1501,0.15,pr,pr71414698,2023-06-26T03:48:36.360Z,"12 km SSW of Tallaboa, Puerto Rico",earthquake,0.84,0.57,0.180131338803417,6,reviewed,pr,pr
 2023-06-26T03:21:31.470Z,18.0558333333333,-66.1925,20.67,2,md,7,184,0.06664,0.08,pr,pr71414678,2023-06-26T03:38:01.220Z,"1 km NE of La Plena, Puerto Rico",earthquake,0.74,0.47,0.218538864878287,4,reviewed,pr,pr
 2023-06-26T03:19:27.660Z,35.7238333,-117.5485,10.81,1.34,ml,14,151,0.1173,0.18,ci,ci40495400,2023-06-26T03:23:08.220Z,"14km WSW of Searles Valley, CA",earthquake,0.7,1.04,0.234,12,automatic,ci,ci
 2023-06-26T03:17:04.390Z,33.4535,-116.6353333,10.68,1,ml,42,65,0.04955,0.17,ci,ci40495384,2023-06-26T03:20:34.393Z,"12km SSE of Anza, CA",earthquake,0.19,0.34,0.15,27,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T02:21:16.310Z,17.9456666666667,-66.9465,10.32,2.46,md,7,212,0.07036,0.07,pr,pr71414653,2023-06-26T02:37:18.950Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.57,0.41,0.0799355884987192,4,reviewed,pr,pr
 2023-06-26T02:00:21.750Z,18.065,-66.1791666666667,20.99,3,md,15,121,0.0519,0.17,pr,pr71414643,2023-06-26T03:01:37.807Z,"3 km NE of La Plena, Puerto Rico",earthquake,0.38,0.65,0.168961856698806,10,reviewed,pr,pr
 2023-06-26T01:56:02.515Z,39.6482,-119.6548,14,2,ml,18,72.88,0.198,0.3069,nn,nn00861731,2023-06-26T03:22:51.658Z,"4 km E of Spanish Springs, Nevada",earthquake,,0.6,0.21,9,automatic,nn,nn
-2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T03:38:51.022Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
+2023-06-26T01:50:47.821Z,39.6486,-119.6521,10.3,3.4,ml,34,68.53,0.133,0.1645,nn,nn00861727,2023-06-26T03:49:01.234Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.39,9,reviewed,nn,nn
 2023-06-26T01:46:54.360Z,36.2376671,-120.8059998,6.13,0.94,md,9,148,0.02205,0.04,nc,nc73905371,2023-06-26T03:38:16.724Z,"23km ENE of San Lucas, CA",earthquake,0.49,0.48,0.28,4,automatic,nc,nc
 2023-06-26T01:33:48.302Z,-4.4985,125.4362,433.237,4.1,mb,21,82,4.344,0.33,us,us7000kb2c,2023-06-26T01:51:21.040Z,"276 km SSW of Sanana, Indonesia",earthquake,14.25,10.855,0.151,12,reviewed,us,us
 2023-06-26T01:32:34.640Z,32.8165,-115.5868333,11.36,1.11,ml,12,112,0.1185,0.14,ci,ci40495328,2023-06-26T01:36:13.170Z,"4km SSW of Imperial, CA",earthquake,0.65,1.13,0.215,10,automatic,ci,ci
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T04:38:51.060Z,33.3315,-116.267,3.49,0.68,ml,24,107,0.1407,0.3,ci,ci40494608,2023-06-25T04:42:25.100Z,"13km NE of Borrego Springs, CA",earthquake,0.6,1.58,0.107,15,automatic,ci,ci
 2023-06-25T04:31:00.910Z,-4.7506,144.8121,97.069,4.5,mb,30,128,4.664,1.04,us,us7000kaxu,2023-06-25T22:53:24.835Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,9.85,7.682,0.121,22,reviewed,us,us
 2023-06-25T04:01:05.713Z,-24.0855,-175.8586,10,4.7,mb,22,121,2.964,0.85,us,us7000kaxs,2023-06-25T04:23:10.040Z,"south of Tonga",earthquake,8.18,1.841,0.076,52,reviewed,us,us
-2023-06-25T03:50:45.990Z,33.9416667,-117.2503333,28.42,1.25,ml,14,83,0.1161,0.27,ci,ci40494576,2023-06-25T03:54:21.996Z,"3km NW of Moreno Valley, CA",earthquake,0.87,0.77,0.329,27,automatic,ci,ci
