@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T21:24:10.150Z,19.2143325805664,-155.382171630859,31.4699993133545,2.03999996,md,24,175,,0.0900000036,hv,hv73462607,2023-06-26T21:27:07.470Z,"10 km E of Pāhala, Hawaii",earthquake,0.79,0.920000017,2.03999996,4,automatic,hv,hv
 2023-06-26T20:59:35.420Z,37.1558342,-121.534668,7.94,1.22,md,12,153,0.09164,0.12,nc,nc73905726,2023-06-26T21:11:10.859Z,"10km NE of San Martin, CA",earthquake,0.59,1.53,0.18,7,automatic,nc,nc
 2023-06-26T20:16:50.350Z,37.3246651,-122.2080002,8.39,2.03,md,26,58,0.04045,0.11,nc,nc73905706,2023-06-26T20:29:11.726Z,"7km SSE of Portola Valley, CA",earthquake,0.25,0.49,0.17,20,automatic,nc,nc
 2023-06-26T20:09:00.449Z,64.8117,-150.5348,13.8,1,ml,,,,0.78,ak,ak02385230zg,2023-06-26T20:11:27.855Z,"21 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -114,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T09:48:55.730Z,19.2569999694824,-155.415664672852,31.9799995422363,2.38,ml,42,121,,0.119999997,hv,hv73462142,2023-06-26T09:54:27.180Z,"8 km NE of Pāhala, Hawaii",earthquake,0.63,1.03999996,2.68,12,automatic,hv,hv
 2023-06-26T09:47:18.440Z,38.8073349,-122.8195038,3.08,0.57,md,7,135,0.007712,0.01,nc,nc73905511,2023-06-26T10:02:16.055Z,"6km WNW of The Geysers, CA",earthquake,1.01,1.67,0.31,9,automatic,nc,nc
 2023-06-26T09:33:00.204Z,39.3526,-119.9884,7.4,0.9,ml,13,114.68,0.071,0.1377,nn,nn00861745,2023-06-26T14:12:55.621Z,"5 km SSE of Floriston, California",earthquake,,1.7,0.44,4,reviewed,nn,nn
-2023-06-26T09:29:19.840Z,35.7473333,-117.5773333,1.97,1.77,ml,20,65,0.1512,0.15,ci,ci40495536,2023-06-26T09:33:08.049Z,"16km W of Searles Valley, CA",earthquake,0.26,0.63,0.097,19,automatic,ci,ci
+2023-06-26T09:29:19.930Z,35.7435,-117.5736667,6.61,1.78,ml,28,65,0.1185,0.16,ci,ci40495536,2023-06-26T21:28:00.880Z,"16km W of Searles Valley, CA",earthquake,0.24,0.77,0.103,19,reviewed,ci,ci
 2023-06-26T09:18:24.960Z,18.0053333333333,-66.868,11.67,2.38,md,7,119,0.03197,0.08,pr,pr71414713,2023-06-26T09:40:13.480Z,"Puerto Rico region",earthquake,0.55,0.51,0.15373430860552,5,reviewed,pr,pr
 2023-06-26T09:09:20.667Z,39.6396,-119.6478,12.6,0.2,ml,7,105.57,0.214,0.1398,nn,nn00861771,2023-06-26T16:44:34.705Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,3.8,0.29,3,reviewed,nn,nn
 2023-06-26T08:58:36.570Z,37.3688316,-122.2174988,7.08,2.02,md,27,53,0.0387,0.07,nc,nc73905501,2023-06-26T20:05:26.029Z,"2km SE of Portola Valley, CA",earthquake,0.21,0.39,0.17,9,automatic,nc,nc
@@ -217,6 +218,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T22:10:36.060Z,17.9111666666667,-66.7716666666667,7.01,2.65,md,6,233,0.1205,0.09,pr,pr71414598,2023-06-25T22:43:48.840Z,"Puerto Rico region",earthquake,0.69,0.44,0.00684487878040119,4,reviewed,pr,pr
 2023-06-25T21:55:33.060Z,18.5975,-68.2321,148,3.91,md,20,172,0.1711,0.52,pr,pr2023176000,2023-06-25T23:50:45.370Z,"18 km E of Punta Cana, Dominican Republic",earthquake,4.78,1.93,0.18,9,reviewed,pr,pr
 2023-06-25T21:55:18.710Z,38.8121681,-122.8236694,2.61,0.95,md,14,73,0.00542,0.07,nc,nc73905291,2023-06-26T00:06:15.483Z,"7km WNW of The Geysers, CA",earthquake,0.37,0.78,0.19,14,automatic,nc,nc
-2023-06-25T21:40:27.887Z,-21.6407,-68.5109,147.95,4.3,mb,19,62,1.087,0.7,us,us7000kb1c,2023-06-25T21:59:57.040Z,"53 km SSW of Ollagüe, Chile",earthquake,7.78,7.184,0.237,5,reviewed,us,us
+2023-06-25T21:40:28.174Z,-21.6087,-68.5089,143.37,4.3,mb,21,70,0.707,0.65,us,us7000kb1c,2023-06-26T21:26:04.040Z,"Chile-Bolivia border region",earthquake,4.24,6.957,0.2,7,reviewed,us,us
 2023-06-25T21:33:38.710Z,38.7809982,-122.7666702,1.33,0.53,md,8,110,0.01029,0.02,nc,nc73905286,2023-06-25T23:33:13.437Z,"1km WNW of The Geysers, CA",earthquake,0.42,1,0.23,8,automatic,nc,nc
-2023-06-25T21:25:14.467Z,37.4951,72.227,198.136,4.2,mb,18,129,2.008,0.36,us,us7000kb1b,2023-06-26T20:53:45.040Z,"59 km E of Khorugh, Tajikistan",earthquake,7.72,11.799,0.373,2,reviewed,us,us
