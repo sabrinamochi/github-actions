@@ -1,15 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T09:47:18.440Z,38.8073349,-122.8195038,3.08,0.57,md,7,135,0.007712,0.01,nc,nc73905511,2023-06-26T09:48:52.045Z,"6km WNW of The Geysers, CA",earthquake,1.01,1.67,0.31,9,automatic,nc,nc
 2023-06-26T09:32:59.578Z,39.35,-120.0017,6.8,0.9,ml,12,117.91,0.063,0.1159,nn,nn00861745,2023-06-26T09:35:01.798Z,"Northern California",earthquake,,0.6,0.34,8,automatic,nn,nn
 2023-06-26T09:29:19.840Z,35.7473333,-117.5773333,1.97,1.77,ml,20,65,0.1512,0.15,ci,ci40495536,2023-06-26T09:33:08.049Z,"16km W of Searles Valley, CA",earthquake,0.26,0.63,0.097,19,automatic,ci,ci
 2023-06-26T09:18:24.960Z,18.0053333333333,-66.868,11.67,2.38,md,7,119,0.03197,0.08,pr,pr71414713,2023-06-26T09:40:13.480Z,"Puerto Rico region",earthquake,0.55,0.51,0.15373430860552,5,reviewed,pr,pr
-2023-06-26T08:58:36.570Z,37.3688316,-122.2174988,7.08,2.02,md,27,53,0.0387,0.07,nc,nc73905501,2023-06-26T09:19:15.656Z,"2km SE of Portola Valley, CA",earthquake,0.21,0.39,0.17,9,automatic,nc,nc
+2023-06-26T08:58:36.570Z,37.3688316,-122.2174988,7.08,2.02,md,27,53,0.0387,0.07,nc,nc73905501,2023-06-26T09:46:10.845Z,"2km SE of Portola Valley, CA",earthquake,0.21,0.39,0.17,9,automatic,nc,nc
 2023-06-26T08:54:34.850Z,38.7765007,-122.7568359,1.17,0.89,md,10,106,0.0171,0.03,nc,nc73905496,2023-06-26T09:19:14.655Z,"0km SSW of The Geysers, CA",earthquake,0.32,0.62,0.2,9,automatic,nc,nc
 2023-06-26T08:51:10.540Z,36.8950005,-121.5224991,9.75,1.46,md,8,219,0.05668,0.06,nc,nc73905491,2023-06-26T09:31:10.738Z,"6km NNE of San Juan Bautista, CA",earthquake,1.66,0.92,0.19,5,automatic,nc,nc
 2023-06-26T08:43:31.890Z,32.2343333,-116.5776667,12.05,1.57,ml,14,205,0.1071,0.14,ci,ci40495520,2023-06-26T08:47:19.782Z,"32km E of Primo Tapia, B.C., MX",earthquake,0.7,0.88,0.089,12,automatic,ci,ci
 2023-06-26T08:43:11.007Z,39.6468,-119.6539,0,1.9,ml,17,79.27,0.197,0.259,nn,nn00861742,2023-06-26T09:20:52.170Z,"4 km E of Spanish Springs, Nevada",earthquake,,4.9,0.14,8,automatic,nn,nn
 2023-06-26T08:42:41.400Z,34.0461667,-117.2845,17.08,0.91,ml,24,116,0.09201,0.17,ci,ci40495512,2023-06-26T08:46:23.839Z,"2km W of Loma Linda, CA",earthquake,0.37,0.61,0.17,18,automatic,ci,ci
 2023-06-26T08:39:22.422Z,0.4805,126.3246,65.641,4.8,mb,54,81,3.861,0.52,us,us7000kb3n,2023-06-26T09:29:54.040Z,"122 km WSW of Ternate, Indonesia",earthquake,6.55,7.325,0.08,48,reviewed,us,us
-2023-06-26T08:38:00.810Z,38.8111649,-122.8578339,2.51,0.57,md,8,176,0.02144,0.03,nc,nc73905481,2023-06-26T08:56:13.497Z,"10km WNW of The Geysers, CA",earthquake,0.54,1.12,0.31,7,automatic,nc,nc
+2023-06-26T08:38:00.810Z,38.8111649,-122.8578339,2.51,0.57,md,8,176,0.02144,0.03,nc,nc73905481,2023-06-26T09:47:18.853Z,"10km WNW of The Geysers, CA",earthquake,0.54,1.12,0.31,7,automatic,nc,nc
 2023-06-26T08:10:39.933Z,35.10438538,-95.39322662,0.53834337,2.21,ml,22,133.5509987,0.1156723425,0.5805060535,ok,ok2023mkes,2023-06-26T08:14:55.583Z,"2 km SW of Quinton, Oklahoma",earthquake,3.507861556,2.240120817,0.25,12,automatic,ok,ok
 2023-06-26T08:01:30.821Z,66.3141,-154.8144,0,3.4,ml,,,,0.77,ak,ak02384uw6ca,2023-06-26T08:04:43.936Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-26T07:40:15.310Z,33.4738333,-116.4921667,13.72,0.66,ml,24,97,0.09428,0.17,ci,ci40495504,2023-06-26T07:43:54.911Z,"19km ESE of Anza, CA",earthquake,0.29,0.69,0.092,19,automatic,ci,ci
@@ -178,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T10:01:54.690Z,37.5685,-118.8546667,-0.39,1.02,md,12,244,0.02957,0.04,nc,nc73904996,2023-06-26T05:38:13.401Z,"13km SE of Mammoth Lakes, CA",earthquake,0.95,0.92,0.183,13,reviewed,nc,nc
 2023-06-25T10:01:42.390Z,38.8359985,-122.8006668,1.81,0.62,md,6,106,0.008414,0.01,nc,nc73904991,2023-06-25T11:31:14.037Z,"7km WNW of Cobb, CA",earthquake,0.55,1.69,0.3,7,automatic,nc,nc
 2023-06-25T09:50:02.440Z,33.3965,-116.4321667,12.46,1.33,ml,55,49,0.1171,0.21,ci,ci40494736,2023-06-25T10:01:05.810Z,"16km NNW of Borrego Springs, CA",earthquake,0.23,0.64,0.167,27,automatic,ci,ci
-2023-06-25T09:41:49.860Z,32.7655,-116.0305,9.84,1.2,ml,22,52,0.06201,0.29,ci,ci40494728,2023-06-25T09:45:25.647Z,"5km NW of Ocotillo, CA",earthquake,0.53,0.87,0.198,16,automatic,ci,ci
