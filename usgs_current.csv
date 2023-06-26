@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T15:22:18.440Z,33.8826675,-116.2158356,3.07,1.05,ml,24,76,0.05538,0.16,ci,ci40495800,2023-06-26T15:24:23.570Z,"18km ENE of Thousand Palms, CA",earthquake,0.46,1.67,0.063,5,automatic,ci,ci
 2023-06-26T15:13:59.930Z,64.9161,-148.6373,18.8,0.4,ml,,,,0.44,ak,ak02384z4uex,2023-06-26T15:21:09.614Z,"30 km WNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-26T15:07:24.142Z,62.0173,-149.8445,36.2,1.6,ml,,,,0.63,ak,ak02384z3hcu,2023-06-26T15:09:09.443Z,"16 km S of Susitna North, Alaska",earthquake,,5.2,,,automatic,ak,ak
 2023-06-26T15:06:33.877Z,61.6415,-149.9472,31.3,1.3,ml,,,,0.4,ak,ak02384z3ae3,2023-06-26T15:08:01.027Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T08:01:30.821Z,66.3141,-154.8144,0,3.4,ml,,,,0.77,ak,ak02384uw6ca,2023-06-26T14:33:34.040Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-26T07:40:15.310Z,33.4738333,-116.4921667,13.72,0.66,ml,24,97,0.09428,0.17,ci,ci40495504,2023-06-26T07:43:54.911Z,"19km ESE of Anza, CA",earthquake,0.29,0.69,0.092,19,automatic,ci,ci
 2023-06-26T07:39:35.680Z,33.476,-116.5006667,12.39,1.11,ml,43,76,0.07848,0.18,ci,ci40495496,2023-06-26T07:50:27.600Z,"18km ESE of Anza, CA",earthquake,0.23,0.53,0.147,27,automatic,ci,ci
-2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126,175,0.286,0.6,us,us7000kb3f,2023-06-26T15:18:35.109Z,"35 km SSW of Adak, Alaska",earthquake,4.75,6.456,0.034,263,reviewed,us,us
+2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126,175,0.286,0.6,us,us7000kb3f,2023-06-26T15:21:15.396Z,"35 km SSW of Adak, Alaska",earthquake,4.75,6.456,0.034,263,reviewed,us,us
 2023-06-26T07:21:36.266Z,64.8528,-149.0558,24.7,1.9,ml,,,,0.82,ak,ak02384uf1h6,2023-06-26T07:23:55.895Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-26T07:00:16.250Z,38.8078346,-122.8213348,2.96,1.06,md,14,64,0.006214,0.02,nc,nc73905471,2023-06-26T07:17:19.960Z,"7km WNW of The Geysers, CA",earthquake,0.33,0.84,0.22,14,automatic,nc,nc
 2023-06-26T06:57:36.720Z,34.0506667,-116.998,14.36,0.81,ml,15,72,0.067,0.17,ci,ci40495472,2023-06-26T12:55:54.673Z,"5km ENE of Yucaipa, CA",earthquake,0.34,0.73,0.132,14,reviewed,ci,ci
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T15:37:57.930Z,38.7803345,-122.7213364,1.32,0.96,md,11,84,0.01237,0.04,nc,nc73905111,2023-06-25T17:57:15.312Z,"3km WNW of Anderson Springs, CA",earthquake,0.29,0.73,0.21,10,automatic,nc,nc
 2023-06-25T15:35:45.770Z,33.526,-116.7621667,7.2,0.17,ml,21,94,0.03467,0.24,ci,ci40494936,2023-06-25T15:39:15.986Z,"9km WSW of Anza, CA",earthquake,0.51,0.81,0.056,3,automatic,ci,ci
 2023-06-25T15:30:07.924Z,-11.6507,166.2631,87.329,5,mb,34,75,6.587,0.96,us,us7000kazy,2023-06-25T15:46:57.040Z,"114 km SSE of Lata, Solomon Islands",earthquake,11.52,7.768,0.072,62,reviewed,us,us
-2023-06-25T15:23:50.030Z,38.7833328,-122.7828369,3.47,0.43,md,9,153,0.0106,0.01,nc,nc73905101,2023-06-25T15:26:37.784Z,"2km WNW of The Geysers, CA",earthquake,0.62,1.27,0.28,11,automatic,nc,nc
