@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-27T11:50:24.461Z,65.3964,-150.7945,0.8,1.6,ml,,,,0.66,ak,ak02386kib8u,2023-06-27T11:52:25.062Z,"31 km WSW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-27T11:38:48.720Z,33.5056667,-116.7858333,6.51,0.62,ml,24,59,0.01385,0.13,ci,ci40496784,2023-06-27T11:42:17.125Z,"10km NE of Aguanga, CA",earthquake,0.21,0.44,0.177,15,automatic,ci,ci
 2023-06-27T11:00:35.898Z,64.9793,-147.48,0.4,0.8,ml,,,,0.75,ak,ak02386k7mcd,2023-06-27T11:03:21.373Z,"6 km ENE of Fox, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-27T10:55:56.469Z,6.8378,-73.1563,152.065,4.5,mb,79,74,0.942,0.53,us,us6000kndk,2023-06-27T11:40:54.040Z,"northern Colombia",earthquake,7.13,8.673,0.04,182,reviewed,us,us
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T10:26:53.250Z,37.4091682,-119.9844971,21.76,2.35,md,5,112,0.1919,0.13,nc,nc73905926,2023-06-27T11:35:11.223Z,"9km S of Mariposa, CA",earthquake,0.88,1.31,0.08,5,automatic,nc,nc
 2023-06-27T10:09:48.160Z,33.9948333,-116.791,17.98,1.57,ml,54,52,0.04256,0.19,ci,ci40496776,2023-06-27T10:13:23.174Z,"9km N of Cabazon, CA",earthquake,0.2,0.43,0.194,26,automatic,ci,ci
 2023-06-27T10:05:51.995Z,22.7763,143.139,94.433,4.5,mb,46,75,7.903,0.74,us,us6000kndi,2023-06-27T11:01:26.040Z,"Volcano Islands, Japan region",earthquake,10.55,7.937,0.088,38,reviewed,us,us
-2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"Near the coast of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
+2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"19 km S of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
 2023-06-27T10:01:42.730Z,33.378,-116.3741667,11.09,0.51,ml,13,167,0.1153,0.18,ci,ci40496768,2023-06-27T10:05:31.005Z,"14km N of Borrego Springs, CA",earthquake,0.55,1.15,0.141,6,automatic,ci,ci
 2023-06-27T10:00:20.370Z,36.5751648,-121.0934982,12.37,1.93,md,13,163,0.04354,0.05,nc,nc73905916,2023-06-27T10:47:11.825Z,"7km NE of Pinnacles, CA",earthquake,1.8,2.51,0.13,8,automatic,nc,nc
 2023-06-27T09:59:57.310Z,33.3851667,-116.386,11,0.63,ml,20,148,0.1195,0.15,ci,ci40496760,2023-06-27T10:03:39.443Z,"14km N of Borrego Springs, CA",earthquake,0.36,0.71,0.173,12,automatic,ci,ci
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T12:13:47.570Z,17.951,-66.9441666666667,10.39,2.26,md,5,211,0.06625,0.08,pr,pr71414728,2023-06-26T12:40:53.820Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.74,0.119856235430109,5,reviewed,pr,pr
 2023-06-26T12:03:15.605Z,36.8556,-115.9581,9.1,0,ml,8,192.21,0.059,0.0705,nn,nn00861766,2023-06-27T02:04:20.985Z,"Nevada",earthquake,,1.9,0.36,4,reviewed,nn,nn
 2023-06-26T12:00:35.520Z,38.4896667,-112.8421667,0.35,-0.07,md,11,98,0.0101,0.05,uu,uu60544012,2023-06-26T15:50:59.820Z,"17 km NE of Milford, Utah",earthquake,0.28,0.83,0.458,4,reviewed,uu,uu
-2023-06-26T11:58:53.190Z,33.383,-116.9681667,5.88,1.39,ml,52,34,0.0536,0.2,ci,ci40495576,2023-06-26T21:46:18.950Z,"10km WNW of Palomar Observatory, CA",earthquake,0.18,0.61,0.094,26,reviewed,ci,ci
-2023-06-26T11:57:57.990Z,19.4829998016357,-155.502502441406,-0.579999983310699,2.31,ml,32,74,,0.170000002,hv,hv73462222,2023-06-26T12:03:29.040Z,"28 km W of Volcano, Hawaii",earthquake,0.4,0.889999986,0.34,4,automatic,hv,hv
-2023-06-26T11:57:21.417Z,32.83905029,-100.9745379,4.377400716,2.2,ml,16,78,0.05912098857,0.2,tx,tx2023mkmf,2023-06-27T10:46:59.692Z,"14 km NNW of Snyder, Texas",earthquake,0.9041195819999999,1.748956577,0.1,12,reviewed,tx,tx
