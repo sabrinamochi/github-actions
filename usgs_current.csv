@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-27T02:18:00.850Z,38.7809982,-122.7653351,1.95,0.81,md,12,78,0.01027,0.02,nc,nc73905821,2023-06-27T02:19:36.257Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.54,0.46,12,automatic,nc,nc
-2023-06-27T01:43:07.510Z,38.8064995,-122.7823334,3.24,0.79,md,8,103,0.01024,0.01,nc,nc73905816,2023-06-27T01:45:46.952Z,"4km NW of The Geysers, CA",earthquake,0.53,1.53,0.11,9,automatic,nc,nc
+2023-06-27T02:31:16.772Z,39.6303,-119.6501,12.1,1.5,ml,12,75.02,0.188,0.1792,nn,nn00861797,2023-06-27T02:33:15.318Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1,0.23,7,automatic,nn,nn
+2023-06-27T02:25:33.740Z,59.4385,-152.4999,96.6,1.2,ml,,,,0.86,ak,ak02386f02m6,2023-06-27T02:27:38.303Z,"34 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-27T02:18:00.850Z,38.7809982,-122.7653351,1.95,0.81,md,12,78,0.01027,0.02,nc,nc73905821,2023-06-27T02:34:15.820Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.54,0.46,12,automatic,nc,nc
+2023-06-27T01:43:07.510Z,38.8064995,-122.7823334,3.24,0.79,md,8,103,0.01024,0.01,nc,nc73905816,2023-06-27T02:21:17.738Z,"4km NW of The Geysers, CA",earthquake,0.53,1.53,0.11,9,automatic,nc,nc
 2023-06-27T01:42:36.280Z,38.7901649,-122.7600021,1.64,1.1,md,16,67,0.01045,0.03,nc,nc73905811,2023-06-27T02:11:22.672Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.48,0.17,18,automatic,nc,nc
 2023-06-27T01:23:25.420Z,38.824501,-122.8014984,2.26,1.52,md,28,51,0.006789,0.04,nc,nc73905806,2023-06-27T02:00:24.602Z,"6km NW of The Geysers, CA",earthquake,0.22,0.38,0.15,29,automatic,nc,nc
 2023-06-27T01:17:23.734Z,62.5,-152.0596,106.3,1.8,ml,,,,0.35,ak,ak02386ecwid,2023-06-27T01:19:58.192Z,"66 km NNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -16,14 +18,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T23:48:48.825Z,39.635,-119.652,10.1,1.3,ml,8,130.5,0.123,0.1125,nn,nn00861796,2023-06-27T02:04:32.869Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,2.3,0.27,4,reviewed,nn,nn
 2023-06-26T23:44:28.991Z,-24.045,-175.211,10,4.9,mb,57,59,2.862,0.47,us,us6000knbk,2023-06-27T00:32:17.040Z,"south of Tonga",earthquake,4.13,1.858,0.064,77,reviewed,us,us
 2023-06-26T23:41:25.363Z,39.6441,-119.652,9.5,2.3,ml,22,72.91,0.13,0.1896,nn,nn00861785,2023-06-27T02:04:31.997Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.3,0.27,9,reviewed,nn,nn
-2023-06-26T23:37:52.887Z,39.6438,-119.653,9.3,2.6,ml,27,72.83,0.129,0.1522,nn,nn00861783,2023-06-27T02:04:30.195Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.27,9,reviewed,nn,nn
+2023-06-26T23:37:52.887Z,39.6438,-119.653,9.3,2.6,ml,27,72.83,0.129,0.1522,nn,nn00861783,2023-06-27T02:38:29.746Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.27,9,reviewed,nn,nn
 2023-06-26T23:26:15.350Z,17.9575,-66.9858333333333,12.3,1.61,md,4,203,0.05683,0.04,pr,pr71414783,2023-06-26T23:49:27.310Z,"Puerto Rico region",earthquake,1.62,0.63,0.100911467031295,3,reviewed,pr,pr
 2023-06-26T23:25:07.470Z,17.9523333333333,-66.9726666666667,10.39,2.23,md,3,214,0.0702,0.07,pr,pr71414773,2023-06-26T23:44:59.130Z,"Puerto Rico",earthquake,2.07,1.07,0.000151614990201221,3,reviewed,pr,pr
 2023-06-26T23:22:40.830Z,35.0345,-117.68,0.16,1.64,ml,26,45,0.1008,0.16,ci,ci40496536,2023-06-26T23:55:50.340Z,"5km NW of Boron, CA",quarry blast,0.38,31.61,0.097,26,reviewed,ci,ci
 2023-06-26T23:19:31.250Z,37.8774986,-122.2539978,8.83,1.74,md,28,51,0.01463,0.04,nc,nc73905761,2023-06-27T00:26:14.040Z,"2km ENE of Berkeley, CA",earthquake,0.18,0.38,0.13,16,automatic,nc,nc
 2023-06-26T23:06:16.160Z,62.0822,-151.4247,84,1.7,ml,,,,0.39,ak,ak023853upv4,2023-06-26T23:09:40.938Z,"10 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-26T23:02:36.990Z,19.149,-155.471666666667,32.26,2.72,ml,54,161,,0.11,hv,hv73462707,2023-06-26T23:57:16.808Z,"6 km S of Pāhala, Hawaii",earthquake,0.5,0.54,0.17407156487373,33,reviewed,hv,hv
-2023-06-26T22:47:05.470Z,19.2835,-155.403333333333,31.22,2.85,ml,50,84,,0.12,hv,hv73462697,2023-06-27T00:09:37.160Z,"Hawaii region, Hawaii",earthquake,0.48,0.41,0.203137671277169,37,reviewed,hv,hv
+2023-06-26T22:47:05.470Z,19.2835,-155.403333333333,31.22,2.85,ml,50,84,,0.12,hv,hv73462697,2023-06-27T00:09:37.160Z,"11 km NE of Pāhala, Hawaii",earthquake,0.48,0.41,0.203137671277169,37,reviewed,hv,hv
 2023-06-26T22:21:23.380Z,38.840168,-122.8779984,2.52,0.75,md,11,137,0.007325,0.02,nc,nc73905751,2023-06-26T22:39:14.404Z,"13km WNW of The Geysers, CA",earthquake,0.44,0.74,0.15,14,automatic,nc,nc
 2023-06-26T22:13:11.161Z,57.5931,-153.3073,10,2.4,ml,,,,0.91,ak,ak023853arvw,2023-06-26T22:28:53.040Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-26T22:05:49.610Z,32.8343333,-116.0393333,10.01,1.15,ml,22,66,0.06456,0.13,ci,ci40496464,2023-06-27T01:21:45.435Z,"12km NNW of Ocotillo, CA",earthquake,0.22,0.38,0.106,11,reviewed,ci,ci
@@ -213,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T02:50:45.450Z,38.8333321,-122.8191681,1.74,0.76,md,8,175,0.0122,0.02,nc,nc73905406,2023-06-26T03:11:18.722Z,"8km NW of The Geysers, CA",earthquake,0.59,1.19,0.41,7,automatic,nc,nc
 2023-06-26T02:45:32.980Z,33.487,-117.0686667,11.79,0.81,ml,23,47,0.09023,0.3,ci,ci40495360,2023-06-26T02:49:07.878Z,"7km E of Temecula, CA",earthquake,0.43,1.16,0.114,17,automatic,ci,ci
 2023-06-26T02:43:58.850Z,38.7910004,-122.7580032,1.61,0.78,md,15,76,0.009703,0.02,nc,nc73905401,2023-06-26T03:01:13.523Z,"2km N of The Geysers, CA",earthquake,0.24,0.45,0.11,13,automatic,nc,nc
-2023-06-26T02:31:59.130Z,38.8096657,-122.8239975,2.59,0.72,md,11,84,0.004125,0.02,nc,nc73905396,2023-06-26T02:48:15.454Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.74,0.2,11,automatic,nc,nc
-2023-06-26T02:26:51.900Z,39.6464,-119.6463,9.3,3.1,ml,36,73.43,0.127,0.164,nn,nn00861737,2023-06-27T02:04:05.521Z,"5 km E of Spanish Springs, Nevada",earthquake,,1.2,0.28,9,reviewed,nn,nn
-2023-06-26T02:22:09.521Z,39.6366,-119.6496,12.4,0.3,ml,5,106.04,0.217,0.0734,nn,nn00861753,2023-06-27T02:04:10.900Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,4,0.14,3,reviewed,nn,nn
-2023-06-26T02:21:43.546Z,39.6417,-119.6494,12.5,0.4,ml,5,104.82,0.215,0.0812,nn,nn00861752,2023-06-27T02:04:10.092Z,"5 km E of Spanish Springs, Nevada",earthquake,,3.9,0.21,4,reviewed,nn,nn
-2023-06-26T02:21:16.310Z,17.9456666666667,-66.9465,10.32,2.46,md,7,212,0.07036,0.07,pr,pr71414653,2023-06-26T02:37:18.950Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.57,0.41,0.0799355884987192,4,reviewed,pr,pr
