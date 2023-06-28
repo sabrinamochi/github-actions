@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-28T00:10:26.240Z,38.7941666,-122.762001,3.13,0.65,md,9,73,0.006692,0.02,nc,nc73906131,2023-06-28T00:13:16.499Z,"2km NNW of The Geysers, CA",earthquake,0.58,2.24,0.29,10,automatic,nc,nc
 2023-06-27T23:58:55.953Z,58.9974,-152.852,69.4,1.8,ml,,,,0.54,ak,ak02386rpanv,2023-06-28T00:02:23.213Z,"66 km SW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-27T23:46:57.395Z,32.8427124,-100.9466702,4.279581706,3.3,ml,28,66,0.03702861484,0.2,tx,tx2023mnfc,2023-06-28T00:26:09.021Z,"14 km N of Snyder, Texas",earthquake,0.7152902465,1.159433657,0.1,14,reviewed,tx,tx
+2023-06-27T23:46:57.395Z,32.8427124,-100.9466702,4.279581706,3.3,ml,28,66,0.03702861484,0.2,tx,tx2023mnfc,2023-06-28T00:31:21.608Z,"14 km N of Snyder, Texas",earthquake,0.7152902465,1.159433657,0.1,14,reviewed,tx,tx
 2023-06-27T23:38:21.454Z,42.0873,134.0548,442.589,5.8,mww,118,19,2.597,1.03,us,us6000knj0,2023-06-28T00:27:07.040Z,"Primor'ye, Russia",earthquake,7.56,4.735,0.047,44,reviewed,us,us
 2023-06-27T23:29:45.586Z,64.0269,-148.7973,0,1.6,ml,,,,1.04,ak,ak02386rj23i,2023-06-27T23:32:11.230Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T23:12:05.693Z,59.5269,-152.4551,78.7,1.6,ml,,,,0.39,ak,ak02386rfbrx,2023-06-27T23:14:39.929Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T10:01:42.710Z,33.383,-116.3883333,11.56,0.51,ml,23,157,0.117,0.16,ci,ci40496768,2023-06-27T15:53:32.394Z,"14km N of Borrego Springs, CA",earthquake,0.32,0.94,0.126,6,reviewed,ci,ci
 2023-06-27T10:00:21.080Z,36.5485,-121.1345,2.33,1.81,md,31,114,0.01895,0.21,nc,nc71130754,2023-06-27T22:12:13.896Z,"2km NNE of Pinnacles, CA",earthquake,0.27,0.33,0.238,26,reviewed,nc,nc
 2023-06-27T09:59:57.230Z,33.383,-116.39,11.63,0.65,ml,30,126,0.05929,0.15,ci,ci40496760,2023-06-27T15:48:57.138Z,"14km N of Borrego Springs, CA",earthquake,0.24,0.59,0.185,10,reviewed,ci,ci
-2023-06-27T09:59:52.420Z,36.544,-121.1283333,2.99,2.19,md,48,88,0.01813,0.11,nc,nc73905911,2023-06-27T23:00:10.179Z,"2km NE of Pinnacles, CA",earthquake,0.16,0.32,0.193,44,reviewed,nc,nc
+2023-06-27T09:59:52.420Z,36.544,-121.1283333,2.99,2.19,md,48,88,0.01813,0.11,nc,nc73905911,2023-06-28T00:30:12.777Z,"2km NE of Pinnacles, CA",earthquake,0.16,0.32,0.193,44,reviewed,nc,nc
 2023-06-27T09:54:57.960Z,19.248,-67.576,25,3.61,md,16,271,0.869,0.42,pr,pr2023178001,2023-06-27T12:39:34.384Z,"97 km NNW of San Antonio, Puerto Rico",earthquake,1.73,27.8,0.04,11,reviewed,pr,pr
 2023-06-27T09:38:40.090Z,33.8765,-116.4965,12.61,0.98,ml,31,64,0.06893,0.15,ci,ci40496752,2023-06-27T13:20:40.160Z,"5km ESE of Garnet, CA",earthquake,0.21,0.52,0.166,25,reviewed,ci,ci
 2023-06-27T09:38:15.210Z,19.1976666666667,-67.494,12.88,3.41,md,11,248,0.809,0.48,pr,pr71414833,2023-06-27T10:03:38.730Z,"88 km NNW of San Antonio, Puerto Rico",earthquake,3.41,5.15,0.0268434491462313,9,reviewed,pr,pr
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T01:04:09.280Z,38.4905,-112.8363333,0.07,-0.3,md,7,213,0.02809,0.06,uu,uu60544092,2023-06-27T14:21:51.090Z,"18 km NE of Milford, Utah",earthquake,0.68,31.61,0.402,3,reviewed,uu,uu
 2023-06-27T00:59:20.949Z,31.56134874,-103.9331066,3.997802734,2.1,ml,11,73,0.05808119126,0.2,tx,tx2023mllz,2023-06-27T15:48:34.108Z,"30 km NNW of Toyah, Texas",earthquake,3.88269226,2.564850095,0.2,6,reviewed,tx,tx
 2023-06-27T00:54:28.620Z,32.764,-115.4328333,8.2,1.3,ml,9,153,0.04285,0.23,ci,ci40496600,2023-06-27T00:57:56.978Z,"7km SW of Holtville, CA",earthquake,1.32,1.84,0.127,11,automatic,ci,ci
-2023-06-27T00:31:54.830Z,32.761,-115.4313333,14.23,1.9,ml,35,62,0.04607,0.32,ci,ci40496560,2023-06-27T14:01:43.748Z,"7km SW of Holtville, CA",earthquake,0.41,0.68,0.16,27,reviewed,ci,ci
