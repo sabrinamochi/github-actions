@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T16:16:12.280Z,38.8166656,-122.8533325,0.51,0.76,md,7,224,0.01121,0.01,nc,nc73906736,2023-06-29T16:17:45.565Z,"10km WNW of The Geysers, CA",earthquake,0.67,1.15,0.15,8,automatic,nc,nc
 2023-06-29T16:15:18.904Z,-23.8378,-176.8331,104.271,4.6,mb,47,69,3.053,1.08,us,us6000knwm,2023-06-29T16:43:27.040Z,"south of the Fiji Islands",earthquake,11.03,7.393,0.065,71,reviewed,us,us
 2023-06-29T16:14:37.098Z,58.2831,-156.0457,144.7,1.2,ml,,,,0.23,ak,ak02389ychgd,2023-06-29T16:16:49.636Z,"57 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-29T16:11:42.200Z,63.585,-150.7061,10.4,1.1,ml,,,,0.68,ak,ak02389ybup8,2023-06-29T16:14:03.275Z,"50 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-29T16:11:42.200Z,63.585,-150.7061,10.4,1.1,ml,,,,0.68,ak,ak02389ybup8,2023-06-29T16:14:03.275Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T16:06:38.740Z,38.8106651,-122.8228302,2.32,1.32,md,24,52,0.005274,0.02,nc,nc73906726,2023-06-29T17:46:14.788Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.39,0.16,24,automatic,nc,nc
 2023-06-29T15:53:01.070Z,34.0221667,-116.7526667,16.14,1.3,ml,50,34,0.04757,0.17,ci,ci40499160,2023-06-29T17:28:19.223Z,"12km NNE of Cabazon, CA",earthquake,0.17,0.42,0.11,31,reviewed,ci,ci
 2023-06-29T15:50:59.750Z,47.80533333333333,-122.87166666666667,23.75,1.74,ml,14,89,0.02747,0.15,uw,uw61937291,2023-06-29T18:37:04.700Z,"1 km S of Quilcene, Washington",earthquake,0.55,0.41,0.13411995834199264,12,reviewed,uw,uw
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T09:27:15.590Z,37.6271667,-118.8573333,4.37,0.41,md,14,69,0.009301,0.08,nc,nc73906626,2023-06-29T20:37:12.190Z,"11km E of Mammoth Lakes, CA",earthquake,0.34,0.58,0.217,14,reviewed,nc,nc
 2023-06-29T09:20:09.841Z,58.1774,-155.235,0,0.4,ml,,,,0.47,ak,ak02389u7oew,2023-06-29T09:22:26.267Z,"Alaska Peninsula",earthquake,,3.8,,,automatic,ak,ak
 2023-06-29T09:15:39.310Z,38.8193321,-122.8031693,2.42,0.81,md,17,51,0.006749,0.02,nc,nc73906621,2023-06-29T10:36:12.212Z,"6km NW of The Geysers, CA",earthquake,0.29,0.48,0.2,17,automatic,nc,nc
-2023-06-29T09:10:15.180Z,37.9128333,-122.2945,4.75,2.09,md,84,34,0.02129,0.09,nc,nc73906616,2023-06-29T20:59:40.915Z,"1km WNW of Kensington, CA",earthquake,0.11,0.22,0.125,31,reviewed,nc,nc
+2023-06-29T09:10:15.180Z,37.9128333,-122.2945,4.75,2.09,md,84,34,0.02129,0.09,nc,nc73906616,2023-06-29T21:00:01.386Z,"1km WNW of Kensington, CA",earthquake,0.11,0.22,0.125,31,reviewed,nc,nc
 2023-06-29T09:00:57.270Z,33.463,-116.5621667,12.58,0.5,ml,15,157,0.04603,0.1,ci,ci40498792,2023-06-29T13:44:46.095Z,"14km SE of Anza, CA",earthquake,0.31,0.48,0.094,8,reviewed,ci,ci
 2023-06-29T08:47:13.202Z,58.1933,-155.2819,0,0.1,ml,,,,0.58,ak,ak02389ts1eg,2023-06-29T08:48:16.671Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T08:38:32.760Z,57.0937,-156.2035,11.9,3.1,ml,,,,0.63,ak,ak02389tq5gs,2023-06-29T08:53:01.040Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
@@ -255,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T21:20:43.480Z,38.8310013,-122.8099976,1.5,0.92,md,8,114,0.007595,0.02,nc,nc73906436,2023-06-28T21:22:18.825Z,"8km NW of The Geysers, CA",earthquake,0.41,1.17,0.25,11,automatic,nc,nc
 2023-06-28T21:10:20.320Z,58.236,-155.175166666667,3.96,-0.08,ml,8,132,,0.13,av,av91941946,2023-06-28T23:32:52.260Z,"85 km NNW of Karluk, Alaska",earthquake,0.42,0.69,0.208734199710632,8,reviewed,av,av
 2023-06-28T21:07:51.580Z,37.4773333,-118.8176667,11.51,0.66,md,10,270,0.1129,0.03,nc,nc73906431,2023-06-29T01:08:15.808Z,"15km SW of Toms Place, CA",earthquake,1.54,2.29,0.26,9,reviewed,nc,nc
-2023-06-28T21:01:18.790Z,38.831501,-122.8170013,1.72,0.76,md,11,82,0.009736,0.02,nc,nc73906426,2023-06-28T21:02:53.797Z,"8km NW of The Geysers, CA",earthquake,0.3,0.77,0.22,13,automatic,nc,nc
