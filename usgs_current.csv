@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-29T09:10:15.190Z,37.9121666,-122.2948303,4.59,2.1,md,46,34,0.04677,0.08,nc,nc73906616,2023-06-29T09:14:20.195Z,"1km W of Kensington, CA",earthquake,0.15,0.35,0.14,32,automatic,nc,nc
+2023-06-29T09:20:09.841Z,58.1774,-155.235,0,0.4,ml,,,,0.47,ak,ak02389u7oew,2023-06-29T09:22:26.267Z,"Alaska Peninsula",earthquake,,3.8,,,automatic,ak,ak
+2023-06-29T09:15:40.792Z,58.3743,-155.1626,12,0.3,ml,,,,1.68,ak,ak02389u6o3k,2023-06-29T09:17:40.771Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
+2023-06-29T09:15:39.310Z,38.8193321,-122.8031693,2.42,0.81,md,17,51,0.006749,0.02,nc,nc73906621,2023-06-29T09:18:19.857Z,"6km NW of The Geysers, CA",earthquake,0.29,0.48,0.2,17,automatic,nc,nc
+2023-06-29T09:10:15.190Z,37.9121666,-122.2948303,4.59,2.1,md,46,34,0.04677,0.08,nc,nc73906616,2023-06-29T09:20:25.155Z,"1km W of Kensington, CA",earthquake,0.15,0.35,0.14,32,automatic,nc,nc
 2023-06-29T09:00:57.270Z,33.463,-116.5621667,12.58,0.5,ml,15,157,0.04603,0.1,ci,ci40498792,2023-06-29T09:04:29.574Z,"14km SE of Anza, CA",earthquake,0.31,0.48,0.094,8,automatic,ci,ci
 2023-06-29T08:47:13.202Z,58.1933,-155.2819,0,0.1,ml,,,,0.58,ak,ak02389ts1eg,2023-06-29T08:48:16.671Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T08:38:32.760Z,57.0937,-156.2035,11.9,3.1,ml,,,,0.63,ak,ak02389tq5gs,2023-06-29T08:53:01.040Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
@@ -45,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T05:16:10.770Z,17.9681666666667,-67.0771666666667,7.96,2.75,md,14,234,0.03138,0.14,pr,pr71415053,2023-06-29T05:32:47.960Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.54,0.51,0.140520313576305,6,reviewed,pr,pr
 2023-06-29T05:15:50.136Z,-20.4377,-178.0806,528.441,4.9,mb,71,31,2.788,0.79,us,us6000kntf,2023-06-29T05:32:05.040Z,"Fiji region",earthquake,9.72,7.418,0.026,476,reviewed,us,us
 2023-06-29T04:59:31.800Z,19.1940002441406,-155.384506225586,31.3400001525879,2.38,ml,44,163,,0.129999995,hv,hv73464847,2023-06-29T05:05:01.510Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.74000001,3.62,16,automatic,hv,hv
-2023-06-29T04:57:59.357Z,37.2304,71.7896,128.212,5,mww,67,59,2.244,0.89,us,us6000kntb,2023-06-29T06:17:52.160Z,"Afghanistan-Tajikistan border region",earthquake,3.42,6.95,0.089,12,reviewed,us,us
+2023-06-29T04:57:59.357Z,37.2304,71.7896,128.212,5,mww,67,59,2.244,0.89,us,us6000kntb,2023-06-29T09:19:53.679Z,"Afghanistan-Tajikistan border region",earthquake,3.42,6.95,0.089,12,reviewed,us,us
 2023-06-29T04:46:02.350Z,38.7961655,-122.7811661,3.83,0.28,md,6,145,0.006061,0.01,nc,nc73906566,2023-06-29T05:02:15.178Z,"3km NW of The Geysers, CA",earthquake,1.12,3.04,0.04,8,automatic,nc,nc
 2023-06-29T04:45:40.370Z,33.6591667,-116.7321667,12.4,0.39,ml,17,54,0.05399,0.11,ci,ci40498704,2023-06-29T04:49:10.599Z,"9km S of Idyllwild, CA",earthquake,0.24,0.38,0.133,11,automatic,ci,ci
 2023-06-29T04:31:32.180Z,38.885,-123.673,1.43,1.51,md,14,239,0.1226,0.13,nc,nc73906561,2023-06-29T09:11:17.637Z,"4km SSE of Point Arena, CA",earthquake,0.6,1.58,0.438,15,reviewed,nc,nc
@@ -232,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T09:41:54.120Z,33.8301667,-117.6638333,3.62,1.25,ml,48,53,0.05406,0.18,ci,ci40497856,2023-06-28T18:37:24.560Z,"10km WSW of Corona, CA",earthquake,0.19,0.48,0.097,34,reviewed,ci,ci
 2023-06-28T09:37:22.001Z,61.6073,-150.0781,32.2,1.3,ml,,,,0.33,ak,ak023886s014,2023-06-28T09:39:34.548Z,"11 km NW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T09:32:04.500Z,32.9101667,-116.2418333,7.37,1.21,ml,48,39,0.06814,0.2,ci,ci40497848,2023-06-28T18:29:06.990Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.2,0.64,0.144,13,reviewed,ci,ci
-2023-06-28T09:20:34.890Z,33.9695,-117.2163333,13.6,1.03,ml,25,81,0.04239,0.18,ci,ci40497840,2023-06-28T13:00:47.366Z,"5km NNE of Moreno Valley, CA",earthquake,0.26,0.61,0.219,23,reviewed,ci,ci
-2023-06-28T09:17:44.273Z,60.1498,-153.1614,124.4,1.8,ml,,,,0.42,ak,ak023886nrff,2023-06-28T09:19:50.518Z,"64 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
