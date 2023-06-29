@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T21:53:08.020Z,33.9985,-116.974,19.87,1.02,ml,24,60,0.09995,0.25,ci,ci40499904,2023-06-29T21:56:40.445Z,"7km E of Calimesa, CA",earthquake,0.44,1.12,0.12,19,automatic,ci,ci
 2023-06-29T21:39:06.920Z,38.8156662,-122.8533325,1.3,0.76,md,9,112,0.01218,0.01,nc,nc73906871,2023-06-29T21:42:01.801Z,"9km WNW of The Geysers, CA",earthquake,0.38,1.28,0.46,9,automatic,nc,nc
 2023-06-29T21:36:07.850Z,38.8146667,-122.8306656,1.49,1.08,md,19,50,0.005906,0.02,nc,nc73906866,2023-06-29T21:38:51.558Z,"8km WNW of The Geysers, CA",earthquake,0.22,0.37,0.14,18,automatic,nc,nc
 2023-06-29T21:26:35.480Z,34.6771667,-116.3095,2.06,1.61,ml,18,71,0.1304,0.18,ci,ci40499824,2023-06-29T21:37:39.940Z,"14km WSW of Ludlow, CA",earthquake,0.28,0.75,0.135,24,automatic,ci,ci
@@ -200,6 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T02:52:46.290Z,37.8678333,-121.7915,11.27,1.78,md,23,215,0.058,0.08,nc,nc73906541,2023-06-29T06:55:13.980Z,"9km SW of Brentwood, CA",earthquake,0.32,0.38,0.152,27,reviewed,nc,nc
 2023-06-29T02:45:07.240Z,19.5683333333333,-156.150333333333,32.53,3.06,ml,50,238,,0.16,hv,hv73464762,2023-06-29T05:21:43.040Z,"17 km WSW of Kailua-Kona, Hawaii",earthquake,0.54,0.89,0.166564874696323,23,reviewed,hv,hv
 2023-06-29T02:44:33.380Z,33.497,-116.7418333,11.13,0.49,ml,29,42,0.05124,0.16,ci,ci40498632,2023-06-29T17:02:27.579Z,"9km SW of Anza, CA",earthquake,0.21,0.54,0.085,14,reviewed,ci,ci
+2023-06-29T02:42:50.360Z,51.8338333333333,-178.015,0.16,1.65,ml,8,127,,0.25,av,av91942231,2023-06-29T21:55:35.760Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,1.22,0.283327611969803,8,reviewed,av,av
 2023-06-29T02:39:04.222Z,59.9348,-153.5322,126.5,1.6,ml,,,,0.49,ak,ak02389q5pcm,2023-06-29T02:41:00.296Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-29T02:38:58.270Z,35.8065,-120.3495,3.83,0.91,md,23,104,0.02443,0.04,nc,nc73906536,2023-06-29T20:05:38.678Z,"11km NNW of Cholame, CA",earthquake,0.23,0.31,0.203,10,reviewed,nc,nc
 2023-06-29T02:13:32.970Z,33.0535,-115.6011667,8.24,1.42,ml,25,81,0.02219,0.24,ci,ci40498624,2023-06-29T16:20:47.595Z,"3km NE of Westmorland, CA",earthquake,0.38,0.58,0.247,20,reviewed,ci,ci
@@ -258,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T22:02:27.143Z,58.1736,-155.2673,0,0.6,ml,,,,0.88,ak,ak02388eb58a,2023-06-28T23:54:31.980Z,"82 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-28T22:01:51.740Z,58.1838,-155.2702,1.2,0.5,ml,,,,0.35,ak,ak02388eazeu,2023-06-28T23:49:28.420Z,"83 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-28T22:00:58.080Z,38.8395004,-122.8103333,1.99,0.7,md,12,59,0.01565,0.01,nc,nc73906441,2023-06-28T22:47:15.930Z,"8km WNW of Cobb, CA",earthquake,0.31,0.87,0.15,12,automatic,nc,nc
-2023-06-28T21:59:36.754Z,58.1972,-155.302,1.4,1.6,ml,,,,0.36,ak,ak02388e1y6j,2023-06-28T23:20:23.530Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-28T21:51:07.050Z,47.658833333333334,-120.167,2.95,0.26,ml,4,111,0.04072,0.05,uw,uw61937066,2023-06-29T17:23:33.980Z,"3 km ESE of Entiat, Washington",earthquake,0.32,0.85,0.10065784796228236,4,reviewed,uw,uw
