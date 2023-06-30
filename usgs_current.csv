@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T02:24:57.440Z,33.6735,-116.7218333,17.54,0.36,ml,17,94,0.03811,0.23,ci,ci40500104,2023-06-30T02:28:28.980Z,"7km S of Idyllwild, CA",earthquake,0.62,0.89,0.073,5,automatic,ci,ci
 2023-06-30T02:24:00.271Z,54.6589,-159.8045,35,3.4,ml,23,211,0.793,1.16,us,us6000kp0r,2023-06-30T02:35:05.040Z,"87 km SSE of Sand Point, Alaska",earthquake,3.86,2.019,0.085,18,reviewed,us,us
 2023-06-30T02:21:10.140Z,19.7258,-64.2373,37,3.82,md,15,314,1.5503,0.41,pr,pr2023181000,2023-06-30T02:51:55.799Z,"165 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,25.69,0.06,8,reviewed,pr,pr
-2023-06-30T02:18:28.610Z,38.7815018,-122.76017,0.86,1.72,md,28,60,0.01161,0.06,nc,nc73906966,2023-06-30T02:30:10.867Z,"1km NW of The Geysers, CA",earthquake,0.22,0.33,0.16,26,automatic,nc,nc
+2023-06-30T02:18:28.610Z,38.7815018,-122.76017,0.86,1.72,md,28,60,0.01161,0.06,nc,nc73906966,2023-06-30T03:08:11.069Z,"1km NW of The Geysers, CA",earthquake,0.22,0.33,0.16,26,automatic,nc,nc
 2023-06-30T02:05:36.136Z,35.86791992,-98.04396057,4.370327473,1.89,ml,26,63.57522583,0.09739731997,0.2747952723,ok,ok2023mrar,2023-06-30T02:09:18.912Z,"10 km W of Kingfisher, Oklahoma",earthquake,2.650656025,2.200392987,0.21,20,automatic,ok,ok
 2023-06-30T01:52:28.502Z,2.982,-73.6257,10,4.7,mb,40,61,1.976,1.36,us,us6000kp0m,2023-06-30T03:04:19.829Z,"21 km SE of Vistahermosa, Colombia",earthquake,7.73,1.845,0.052,115,reviewed,us,us
 2023-06-30T01:51:35.199Z,61.4954,-150.0265,33,1,ml,,,,0.6,ak,ak0238bd697z,2023-06-30T01:53:28.769Z,"4 km SW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -157,7 +157,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T11:43:44.290Z,36.5903333,-121.1966667,7.6,0.89,md,20,150,0.02069,0.12,nc,nc73906661,2023-06-29T20:40:12.671Z,"8km NW of Pinnacles, CA",earthquake,0.37,0.42,0.255,15,reviewed,nc,nc
 2023-06-29T11:35:08.531Z,64.6489,-149.7078,19.2,0.8,ml,,,,0.26,ak,ak02389vhr9h,2023-06-29T11:37:43.126Z,"28 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-29T11:31:17.553Z,59.9914,-140.3016,0,2.4,ml,,,,0.55,ak,ak02389vgx3f,2023-06-29T11:33:08.012Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-29T11:30:48.030Z,58.1828333333333,-155.3045,0.66,-0.29,ml,8,101,,0.05,av,av91108943,2023-06-30T03:13:08.180Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.9,0.267176978562626,8,reviewed,av,av
+2023-06-29T11:30:23.620Z,58.1835,-155.301833333333,1.1,-0.51,ml,6,98,,0.02,av,av91108938,2023-06-30T03:10:40.590Z,"Alaska Peninsula",earthquake,0.22,0.78,0.27246642083593,6,reviewed,av,av
 2023-06-29T11:30:20.661Z,10.2224,126.9149,37.914,5.2,mww,63,89,3.4,1.11,us,us6000knv0,2023-06-29T11:45:39.040Z,"97 km ENE of Pilar, Philippines",earthquake,8.24,7.563,0.093,11,reviewed,us,us
+2023-06-29T11:30:04.800Z,58.1848333333333,-155.3085,1.45,-0.38,ml,5,156,,0.06,av,av91942636,2023-06-30T03:06:03.890Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.78,0.209054855948287,5,reviewed,av,av
 2023-06-29T11:29:03.340Z,58.1841666666667,-155.302333333333,1.92,0.26,ml,10,98,,0.08,av,av91942631,2023-06-30T03:03:48.160Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.42,0.227731300708939,10,reviewed,av,av
 2023-06-29T11:27:03.490Z,58.1908333333333,-155.314,3.58,0.58,ml,14,52,,0.13,av,av91108928,2023-06-30T03:00:16.140Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.44,0.266415727896265,14,reviewed,av,av
 2023-06-29T11:26:45.030Z,58.1856666666667,-155.3055,2.22,-0.02,ml,8,99,,0.08,av,av91942626,2023-06-30T02:56:13.870Z,"Alaska Peninsula",earthquake,0.23,0.41,0.34241586870196,8,reviewed,av,av
@@ -287,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T03:26:25.620Z,35.8725,-98.05616667,7.06,1.5,ml,84,66,0.09808075321,0.3,ok,ok2023mphw,2023-06-29T13:05:34.141Z,"11 km W of Kingfisher, Oklahoma",earthquake,,0.7,0.26,39,reviewed,ok,ok
 2023-06-29T03:25:13.440Z,58.1895,-155.3025,2.69,-0.02,ml,10,95,,0.08,av,av91942261,2023-06-29T22:27:23.570Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.38,0.297031876515407,10,reviewed,av,av
 2023-06-29T03:15:34.265Z,64.922,-147.2873,0,1.4,ml,,,,1.28,ak,ak02389qm204,2023-06-29T03:18:26.293Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-29T03:07:47.347Z,61.1377,-150.7175,17,1.2,ml,,,,0.21,ak,ak02389qkdda,2023-06-29T03:09:43.165Z,"19 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
