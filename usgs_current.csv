@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-30T15:15:40.650Z,33.3936667,-116.3646667,3.23,0.71,ml,26,123,0.1326,0.22,ci,ci40500552,2023-06-30T15:19:29.446Z,"15km N of Borrego Springs, CA",earthquake,0.45,1.46,0.101,15,automatic,ci,ci
 2023-06-30T14:55:06.900Z,32.9291667,-116.343,8.6,0.63,ml,15,76,0.04187,0.11,ci,ci40500536,2023-06-30T14:58:50.361Z,"21km NE of Pine Valley, CA",earthquake,0.21,0.41,0.097,5,automatic,ci,ci
 2023-06-30T14:49:44.110Z,33.4926667,-116.5276667,7.04,0.56,ml,25,86,0.06232,0.24,ci,ci40500528,2023-06-30T14:53:11.109Z,"15km ESE of Anza, CA",earthquake,0.36,0.78,0.208,14,automatic,ci,ci
 2023-06-30T14:42:37.280Z,40.4023323,-125.0263367,0.12,2.99,ml,43,290,0.5308,0.34,nc,nc73907131,2023-06-30T15:12:18.887Z,"63km W of Petrolia, CA",earthquake,5.47,11.28,0.411,4,automatic,nc,nc
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T13:06:53.350Z,57.2321,-156.8915,90.2,1.5,ml,,,,0.18,ak,ak0238bk1unr,2023-06-30T13:08:39.229Z,"43 km SE of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T13:04:55.050Z,38.7928352,-122.7708359,3.89,1.05,md,16,76,0.01335,0.03,nc,nc73907096,2023-06-30T13:07:35.940Z,"2km NW of The Geysers, CA",earthquake,0.3,0.75,0.27,17,automatic,nc,nc
 2023-06-30T12:59:23.477Z,31.73140658,-104.5734403,6.131567383,2.1,ml,36,153,0.0404779158,0.2,tx,tx2023mrwg,2023-06-30T14:33:58.997Z,"52 km SSW of Whites City, New Mexico",earthquake,0.9449165933,0.6044944917,0,7,reviewed,tx,tx
-2023-06-30T12:57:42.173Z,-8.6741,110.0406,85.747,5.8,mww,82,81,1.662,0.77,us,us6000kp2e,2023-06-30T15:10:43.372Z,"84 km SSW of Bambanglipuro, Indonesia",earthquake,6.15,5.432,0.057,30,reviewed,us,us
+2023-06-30T12:57:42.173Z,-8.6741,110.0406,85.747,5.8,mww,82,81,1.662,0.77,us,us6000kp2e,2023-06-30T15:21:32.198Z,"84 km SSW of Bambanglipuro, Indonesia",earthquake,6.15,5.432,0.057,30,reviewed,us,us
 2023-06-30T12:52:17.285Z,63.2518,-151.3352,0,1.2,ml,,,,0.83,ak,ak0238bjq77k,2023-06-30T12:54:02.596Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-30T12:46:31.830Z,34.0663333,-118.1776667,12.72,1.2,ml,24,115,0.0507,0.25,ci,ci40500424,2023-06-30T12:50:14.906Z,"4km NNW of East Los Angeles, CA",earthquake,0.5,0.81,0.205,24,automatic,ci,ci
 2023-06-30T12:33:09.230Z,38.8294983,-122.8121643,2.14,1.01,md,11,81,0.006309,0.02,nc,nc73907086,2023-06-30T14:42:14.032Z,"8km NW of The Geysers, CA",earthquake,0.35,1.02,0.23,14,automatic,nc,nc
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T01:00:48.840Z,36.681,-121.2066667,11.57,1.19,md,20,135,0.04856,0.09,nc,nc73906946,2023-06-30T09:06:12.164Z,"16km SE of Tres Pinos, CA",earthquake,0.37,0.62,0.268,13,reviewed,nc,nc
 2023-06-30T00:59:53.600Z,38.8438339,-122.8318329,2.59,0.78,md,9,128,0.005964,0.02,nc,nc73906941,2023-06-30T01:01:26.765Z,"10km WNW of Cobb, CA",earthquake,0.71,1.37,0.15,10,automatic,nc,nc
 2023-06-30T00:53:24.010Z,34.4626667,-117.9568333,8.69,1.23,ml,27,39,0.01374,0.19,ci,ci40500064,2023-06-30T14:20:59.387Z,"7km SW of Pearblossom, CA",earthquake,0.28,0.53,0.318,28,reviewed,ci,ci
-2023-06-30T00:37:24.420Z,35.6713333,-117.5331667,5.57,1.79,ml,22,104,0.08934,0.18,ci,ci40500040,2023-06-30T00:41:14.190Z,"14km ENE of Ridgecrest, CA",earthquake,0.35,1.48,0.146,23,automatic,ci,ci
+2023-06-30T00:37:24.370Z,35.6705,-117.5303333,7.31,1.8,ml,31,65,0.08699,0.17,ci,ci40500040,2023-06-30T15:18:15.854Z,"14km ENE of Ridgecrest, CA",earthquake,0.22,0.47,0.144,17,reviewed,ci,ci
 2023-06-30T00:36:39.900Z,40.3925,-123.5716667,27.34,1.7,md,24,65,0.07588,0.15,nc,nc73906936,2023-06-30T08:23:14.905Z,"37km NE of Redway, CA",earthquake,0.48,0.62,0.218,19,reviewed,nc,nc
 2023-06-30T00:35:12.340Z,38.7801666,-122.7566681,1.16,0.44,md,8,85,0.0118,0.01,nc,nc73906926,2023-06-30T00:36:48.236Z,"0km N of The Geysers, CA",earthquake,0.41,0.99,0.27,7,automatic,nc,nc
 2023-06-30T00:30:21.770Z,38.8289986,-122.7898331,1.47,1.09,md,16,54,0.009405,0.02,nc,nc73906921,2023-06-30T00:33:02.654Z,"6km W of Cobb, CA",earthquake,0.25,0.52,0.17,16,automatic,nc,nc
