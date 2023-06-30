@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-30T02:05:36.136Z,35.86791992,-98.04396057,4.370327473,1.89,ml,26,63.57522583,0.09739731997,0.2747952723,ok,ok2023mrar,2023-06-30T02:08:32.763Z,"Oklahoma",earthquake,2.650656025,2.200392987,0.21,20,automatic,ok,ok
 2023-06-30T01:51:35.199Z,61.4954,-150.0265,33,1,ml,,,,0.6,ak,ak0238bd697z,2023-06-30T01:53:28.769Z,"4 km SW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-30T01:51:34.310Z,17.9415,-66.8208333333333,11.03,1.82,md,7,215,0.06486,0.05,pr,pr71415173,2023-06-30T02:06:40.720Z,"5 km S of Indios, Puerto Rico",earthquake,1.07,0.52,0.247069483854203,4,reviewed,pr,pr
 2023-06-30T01:36:51.072Z,65.4215,-144.552,0,1.2,ml,,,,1.29,ak,ak0238bd32mu,2023-06-30T01:40:10.049Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T01:18:49.759Z,58.2708,-150.6531,0,1.9,ml,,,,0.53,ak,ak0238bcz7pr,2023-06-30T01:20:54.702Z,"115 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T01:03:15.900Z,38.7905006,-122.7123337,0.75,1.28,md,15,106,0.0204,0.06,nc,nc73906956,2023-06-30T01:21:10.430Z,"2km NW of Anderson Springs, CA",earthquake,0.28,0.5,0.2,14,automatic,nc,nc
@@ -156,6 +158,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T11:22:01.276Z,58.1891,-155.3104,1.6,0.8,ml,,,,0.24,ak,ak02389veye7,2023-06-29T11:23:53.688Z,"85 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-06-29T11:09:02.550Z,38.8213348,-122.8111649,1.22,0.28,md,10,109,0.002227,0.1,nc,nc73906641,2023-06-29T11:36:13.649Z,"7km NW of The Geysers, CA",earthquake,0.44,1.01,0.08,10,automatic,nc,nc
 2023-06-29T10:58:45.090Z,37.7361667,-112.64,9.49,2.13,ml,22,57,0.3481,0.26,uu,uu60544247,2023-06-29T14:07:37.160Z,"19 km ENE of Brian Head, Utah",earthquake,0.47,1.09,0.136,14,reviewed,uu,uu
+2023-06-29T10:58:37.780Z,58.1805,-155.304833333333,0.54,-0.68,ml,5,160,,0.04,av,av91108898,2023-06-30T02:08:57.760Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.16,0.307200763094828,5,reviewed,av,av
+2023-06-29T10:58:23.530Z,58.182,-155.306833333333,0.91,-0.49,ml,5,158,,0.04,av,av91108893,2023-06-30T02:06:20.820Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.91,0.260143140781918,5,reviewed,av,av
+2023-06-29T10:58:01.600Z,58.185,-155.310833333333,2.36,-0.2,ml,9,101,,0.1,av,av91942581,2023-06-30T02:04:23.310Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.39,0.251873042189549,9,reviewed,av,av
+2023-06-29T10:54:52.390Z,58.184,-155.305333333333,1.39,0.82,ml,6,116,,0.04,av,av91108888,2023-06-30T02:01:27.240Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.68,0.304311408903874,7,reviewed,av,av
 2023-06-29T10:54:46.350Z,58.1865,-155.307,2.53,0.66,ml,14,55,,0.12,av,av91108883,2023-06-30T01:57:57.160Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.36,0.325866938932426,15,reviewed,av,av
 2023-06-29T10:54:16.580Z,58.1838333333333,-155.303333333333,1.14,0.93,ml,5,156,,0.03,av,av91942571,2023-06-30T01:54:29.750Z,"Alaska Peninsula",earthquake,0.23,0.77,0.284947447312334,11,reviewed,av,av
 2023-06-29T10:53:56.080Z,58.1855,-155.309,1.36,-0.06,ml,6,100,,0.06,av,av91108878,2023-06-30T01:51:01.910Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.74,0.2444457255116,6,reviewed,av,av
@@ -273,9 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T02:39:04.222Z,59.9348,-153.5322,126.5,1.6,ml,,,,0.49,ak,ak02389q5pcm,2023-06-29T02:41:00.296Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-29T02:38:58.270Z,35.8065,-120.3495,3.83,0.91,md,23,104,0.02443,0.04,nc,nc73906536,2023-06-29T20:05:38.678Z,"11km NNW of Cholame, CA",earthquake,0.23,0.31,0.203,10,reviewed,nc,nc
 2023-06-29T02:13:32.970Z,33.0535,-115.6011667,8.24,1.42,ml,25,81,0.02219,0.24,ci,ci40498624,2023-06-29T16:20:47.595Z,"3km NE of Westmorland, CA",earthquake,0.38,0.58,0.247,20,reviewed,ci,ci
-2023-06-29T02:09:25.919Z,61.348,-150.6522,48.1,1.1,ml,,,,0.41,ak,ak02389pzbjj,2023-06-29T02:11:44.405Z,"23 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-29T02:08:30.870Z,38.8908333,-123.2583333,3.75,1.52,md,19,82,0.07135,0.07,nc,nc73906526,2023-06-29T23:14:14.712Z,"16km SE of Boonville, CA",earthquake,0.16,0.69,0.094,18,reviewed,nc,nc
-2023-06-29T02:08:27.580Z,38.7783333,-122.7138333,1.63,-0.24,md,7,188,0.009129,0.02,nc,nc71130774,2023-06-29T19:33:36.108Z,"2km W of Anderson Springs, CA",earthquake,0.73,1.3,0.155,3,reviewed,nc,nc
-2023-06-29T02:04:47.620Z,38.8356667,-122.7973333,1.81,1.71,md,44,33,0.006107,0.06,nc,nc73906521,2023-06-29T22:47:18.563Z,"7km WNW of Cobb, CA",earthquake,0.14,0.21,0.177,44,reviewed,nc,nc
-2023-06-29T02:02:43.980Z,40.6090012,-124.2961655,19.19,2.04,md,8,191,0.2869,0.09,nc,nc73906516,2023-06-29T05:02:16.179Z,"5km NW of Ferndale, CA",earthquake,1.11,1.64,,1,automatic,nc,nc
-2023-06-29T02:01:58.119Z,59.7902,-153.0903,95.7,1.4,ml,,,,0.45,ak,ak02389pxoar,2023-06-29T02:03:53.470Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
