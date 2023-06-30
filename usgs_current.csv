@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T11:02:33.911Z,54.3541,-162.4467,35,3.4,ml,23,207,0.757,0.47,us,us6000kp20,2023-06-30T11:13:22.040Z,"Alaska Peninsula",earthquake,4.58,2.013,0.081,20,reviewed,us,us
 2023-06-30T10:50:40.188Z,38.6667,73.3087,86.388,4.1,mb,22,231,1.427,0.78,us,us6000kp1z,2023-06-30T13:09:07.040Z,"79 km NW of Murghob, Tajikistan",earthquake,8.98,10.338,0.146,13,reviewed,us,us
 2023-06-30T10:49:40.231Z,56.8609,-156.9349,78.8,1.8,ml,,,,0.35,ak,ak0238biiqmf,2023-06-30T10:52:03.332Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
-2023-06-30T10:37:31.041Z,-0.5657,122.4889,10,4.9,mb,51,63,2.385,0.6,us,us6000kp1y,2023-06-30T13:14:23.388Z,"Sulawesi, Indonesia",earthquake,4.72,1.89,0.091,38,reviewed,us,us
+2023-06-30T10:37:31.041Z,-0.5657,122.4889,10,4.9,mb,51,63,2.385,0.6,us,us6000kp1y,2023-06-30T13:27:18.712Z,"Sulawesi, Indonesia",earthquake,4.72,1.89,0.091,38,reviewed,us,us
 2023-06-30T10:29:49.396Z,3.4152,127.9313,107.724,4.6,mb,59,87,4.32,0.79,us,us6000kp1x,2023-06-30T10:49:54.040Z,"186 km N of Tobelo, Indonesia",earthquake,6.55,7.452,0.053,106,reviewed,us,us
 2023-06-30T10:25:15.990Z,34.5548333,-118.0271667,7.13,0.77,ml,10,139,0.0278,0.29,ci,ci40500320,2023-06-30T10:28:50.308Z,"6km NW of Littlerock, CA",earthquake,1.23,0.95,0.177,14,automatic,ci,ci
 2023-06-30T10:25:04.560Z,38.7816658,-122.7666702,2.02,0.3,md,11,109,0.01095,0.03,nc,nc73907056,2023-06-30T10:26:39.348Z,"1km WNW of The Geysers, CA",earthquake,0.33,0.73,0.13,11,automatic,nc,nc
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T04:11:42.850Z,38.8153333,-122.817,3.42,0.43,md,22,50,0.009699,0.03,nc,nc73906986,2023-06-30T07:09:05.067Z,"7km NW of The Geysers, CA",earthquake,0.23,0.36,0.472,22,reviewed,nc,nc
 2023-06-30T04:03:35.552Z,66.0313,-151.4753,7.2,1.9,ml,,,,0.78,ak,ak0238beo9ol,2023-06-30T04:05:28.945Z,"77 km SE of New Allakaket, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T03:59:30.928Z,60.9792,-138.5784,1.652,2.9,ml,18,95,0.545,1.08,us,us6000kp0w,2023-06-30T04:23:44.040Z,"171 km NNE of Yakutat, Alaska",earthquake,2.74,7.789,0.045,64,reviewed,us,us
-2023-06-30T03:54:20.423Z,42.6248,18.1631,10,4.1,mb,39,34,0.835,1,us,us6000kp0v,2023-06-30T10:40:14.220Z,"0 km SW of Čibača, Croatia",earthquake,4.07,1.845,0.212,6,reviewed,us,us
+2023-06-30T03:54:20.423Z,42.6248,18.1631,10,4.1,mb,39,34,0.835,1,us,us6000kp0v,2023-06-30T10:40:14.220Z,"Croatia-Bosnia-Montenegro border region",earthquake,4.07,1.845,0.212,6,reviewed,us,us
 2023-06-30T03:45:52.480Z,38.8171654,-122.8258362,2.26,0.67,md,9,105,0.008687,0.01,nc,nc73906981,2023-06-30T06:02:12.026Z,"8km NW of The Geysers, CA",earthquake,0.47,0.99,0.16,10,automatic,nc,nc
 2023-06-30T03:42:20.130Z,34.289,-118.4991667,12.24,1.46,ml,27,54,0.01792,0.28,ci,ci40500152,2023-06-30T03:46:25.049Z,"2km N of Granada Hills, CA",earthquake,0.5,0.8,0.198,29,automatic,ci,ci
 2023-06-30T03:41:24.300Z,35.7041667,-117.5648333,7.36,0.57,ml,13,121,0.1145,0.13,ci,ci40500144,2023-06-30T03:45:06.287Z,"14km NE of Ridgecrest, CA",earthquake,0.37,1.26,0.133,6,automatic,ci,ci
@@ -195,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T16:15:18.904Z,-23.8378,-176.8331,104.271,4.6,mb,47,69,3.053,1.08,us,us6000knwm,2023-06-29T16:43:27.040Z,"south of the Fiji Islands",earthquake,11.03,7.393,0.065,71,reviewed,us,us
 2023-06-29T16:14:37.098Z,58.2831,-156.0457,144.7,1.2,ml,,,,0.23,ak,ak02389ychgd,2023-06-29T16:16:49.636Z,"57 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T16:13:32.380Z,48.866,-121.91016666666667,3.78,1.46,ml,7,134,0.1546,0.14,uw,uw61937306,2023-06-29T22:11:10.120Z,"3 km SE of Glacier, Washington",earthquake,0.37,13.68,0.07360257462027997,6,reviewed,uw,uw
-2023-06-29T16:11:42.200Z,63.585,-150.7061,10.4,1.1,ml,,,,0.68,ak,ak02389ybup8,2023-06-29T16:14:03.275Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-29T16:11:42.200Z,63.585,-150.7061,10.4,1.1,ml,,,,0.68,ak,ak02389ybup8,2023-06-29T16:14:03.275Z,"50 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T16:06:38.730Z,38.8106667,-122.8223333,2.37,1.26,md,36,52,0.005641,0.03,nc,nc73906726,2023-06-30T03:21:15.143Z,"7km WNW of The Geysers, CA",earthquake,0.17,0.27,0.148,30,reviewed,nc,nc
 2023-06-29T15:53:01.070Z,34.0221667,-116.7526667,16.14,1.3,ml,50,34,0.04757,0.17,ci,ci40499160,2023-06-29T17:28:19.223Z,"12km NNE of Cabazon, CA",earthquake,0.17,0.42,0.11,31,reviewed,ci,ci
 2023-06-29T15:50:59.750Z,47.80533333333333,-122.87166666666667,23.75,1.74,ml,14,89,0.02747,0.15,uw,uw61937291,2023-06-29T18:37:04.700Z,"1 km S of Quilcene, Washington",earthquake,0.55,0.41,0.13411995834199264,12,reviewed,uw,uw
