@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-30T13:22:52.560Z,33.9406667,-116.0178333,8.45,1.55,ml,32,58,0.06197,0.16,ci,ci40500472,2023-06-30T13:26:34.193Z,"22km SSE of Twentynine Palms, CA",earthquake,0.25,0.67,0.114,27,automatic,ci,ci
+2023-06-30T13:22:52.560Z,33.9406667,-116.0178333,8.45,1.55,ml,32,58,0.06197,0.16,ci,ci40500472,2023-06-30T13:33:24.110Z,"22km SSE of Twentynine Palms, CA",earthquake,0.25,0.67,0.114,27,automatic,ci,ci
 2023-06-30T13:21:33.580Z,38.8440018,-122.8264999,1.98,0.46,md,12,137,0.008858,0.02,nc,nc73907111,2023-06-30T13:23:10.474Z,"9km WNW of Cobb, CA",earthquake,0.35,0.91,0.31,13,automatic,nc,nc
 2023-06-30T13:17:31.480Z,33.4856667,-116.4828333,15.5,0.84,ml,18,98,0.06079,0.21,ci,ci40500448,2023-06-30T13:21:12.414Z,"19km ESE of Anza, CA",earthquake,0.45,0.85,0.161,12,automatic,ci,ci
 2023-06-30T13:11:06.822Z,61.0949,-145.9607,249.9,2,ml,,,,0.85,ak,ak0238bk2tpt,2023-06-30T13:20:12.512Z,"21 km E of Valdez, Alaska",earthquake,,5.5,,,automatic,ak,ak
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T05:40:55.570Z,33.5473333,-116.6913333,11.41,0.44,ml,23,55,0.0424,0.18,ci,ci40500232,2023-06-30T05:44:26.473Z,"2km WSW of Anza, CA",earthquake,0.36,0.56,0.118,11,automatic,ci,ci
 2023-06-30T05:23:39.718Z,36.5992,140.879,55.991,4.3,mb,39,145,2.15,0.65,us,us6000kp15,2023-06-30T06:55:57.040Z,"19 km SE of Takahagi, Japan",earthquake,8.41,8.204,0.092,35,reviewed,us,us
 2023-06-30T05:10:38.219Z,58.2331,-154.6821,6.1,1,ml,,,,0.61,ak,ak0238bfb7il,2023-06-30T05:12:41.561Z,"75 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T12:21:13.583Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
+2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T13:33:23.102Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
 2023-06-30T05:09:54.600Z,34.4971667,-118.6898333,16.64,1.59,ml,44,37,0.0764,0.26,ci,ci40500208,2023-06-30T05:20:50.190Z,"6km W of Castaic, CA",earthquake,0.32,0.88,0.164,27,automatic,ci,ci
 2023-06-30T05:04:59.540Z,33.2511667,-116.0788333,7.76,1.04,ml,34,63,0.08308,0.26,ci,ci40500200,2023-06-30T05:08:37.039Z,"13km WSW of Salton City, CA",earthquake,0.35,1.09,0.105,23,automatic,ci,ci
 2023-06-30T05:02:50.430Z,19.1808338165283,-155.485168457031,29.6399993896484,1.82000005,md,28,82,,0.0799999982,hv,hv73465712,2023-06-30T05:05:58.550Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.65,0.870000005,1.26999998,9,automatic,hv,hv
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T13:46:33.350Z,33.8283333,-117.664,3.97,1.55,ml,57,57,0.05529,0.18,ci,ci40498888,2023-06-29T16:53:41.700Z,"10km WSW of Corona, CA",earthquake,0.17,0.37,0.131,46,reviewed,ci,ci
 2023-06-29T13:45:47.560Z,39.013,-123.5746667,5.49,2.19,md,34,76,0.04088,0.12,nc,nc73906686,2023-06-29T23:29:20.796Z,"15km NE of Point Arena, CA",earthquake,0.18,0.37,0.183,38,reviewed,nc,nc
 2023-06-29T13:42:30.440Z,58.1875,-155.3499,1.2,0.1,ml,,,,0.33,ak,ak02389wq66c,2023-06-29T13:44:17.728Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-06-29T13:34:44.317Z,38.013,37.3229,10,4.1,mb,21,70,0.605,1.09,us,us6000knvh,2023-06-29T15:43:47.040Z,"11 km WNW of Nurhak, Turkey",earthquake,2.83,1.96,0.302,3,reviewed,us,us
