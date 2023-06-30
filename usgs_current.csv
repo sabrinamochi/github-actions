@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-30T05:36:58.523Z,58.2033,-155.0733,0,0.5,ml,,,,0.69,ak,ak0238bfgtp8,2023-06-30T05:38:29.790Z,"79 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T05:10:38.219Z,58.2331,-154.6821,6.1,1,ml,,,,0.61,ak,ak0238bfb7il,2023-06-30T05:12:41.561Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T05:35:44.450Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
+2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T05:40:20.898Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
 2023-06-30T05:09:54.600Z,34.4971667,-118.6898333,16.64,1.59,ml,44,37,0.0764,0.26,ci,ci40500208,2023-06-30T05:20:50.190Z,"6km W of Castaic, CA",earthquake,0.32,0.88,0.164,27,automatic,ci,ci
 2023-06-30T05:05:21.229Z,58.1586,-155.6072,93.7,0.4,ml,,,,0.98,ak,ak0238bfa3mi,2023-06-30T05:07:31.040Z,"85 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-30T05:04:59.540Z,33.2511667,-116.0788333,7.76,1.04,ml,34,63,0.08308,0.26,ci,ci40500200,2023-06-30T05:08:37.039Z,"13km WSW of Salton City, CA",earthquake,0.35,1.09,0.105,23,automatic,ci,ci
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T01:51:34.310Z,17.9415,-66.8208333333333,11.03,1.82,md,7,215,0.06486,0.05,pr,pr71415173,2023-06-30T02:06:40.720Z,"5 km S of Indios, Puerto Rico",earthquake,1.07,0.52,0.247069483854203,4,reviewed,pr,pr
 2023-06-30T01:36:51.072Z,65.4215,-144.552,0,1.2,ml,,,,1.29,ak,ak0238bd32mu,2023-06-30T01:40:10.049Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T01:18:49.759Z,58.2708,-150.6531,0,1.9,ml,,,,0.53,ak,ak0238bcz7pr,2023-06-30T01:20:54.702Z,"115 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-30T01:03:15.900Z,38.7905006,-122.7123337,0.75,1.28,md,15,106,0.0204,0.06,nc,nc73906956,2023-06-30T02:41:11.935Z,"2km NW of Anderson Springs, CA",earthquake,0.28,0.5,0.2,14,automatic,nc,nc
+2023-06-30T01:03:15.800Z,38.788,-122.7068333,2.11,1.1,md,37,86,0.008619,0.05,nc,nc73906956,2023-06-30T05:40:26.725Z,"2km NW of Anderson Springs, CA",earthquake,0.17,0.24,0.204,30,reviewed,nc,nc
 2023-06-30T01:02:37.880Z,38.788166,-122.7096634,1.96,1.11,md,10,120,0.02155,0.02,nc,nc73906951,2023-06-30T04:59:17.675Z,"2km NW of Anderson Springs, CA",earthquake,0.44,1.19,0.17,11,automatic,nc,nc
 2023-06-30T00:59:53.600Z,38.8438339,-122.8318329,2.59,0.78,md,9,128,0.005964,0.02,nc,nc73906941,2023-06-30T01:01:26.765Z,"10km WNW of Cobb, CA",earthquake,0.71,1.37,0.15,10,automatic,nc,nc
 2023-06-30T00:53:24.010Z,34.4626667,-117.9568333,8.69,1.23,ml,27,39,0.01374,0.19,ci,ci40500064,2023-06-30T00:57:02.307Z,"7km SW of Pearblossom, CA",earthquake,0.28,0.53,0.318,28,automatic,ci,ci
@@ -291,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T06:03:36.720Z,38.7883333,-122.7468333,0.99,1.12,md,36,55,0.009397,0.04,nc,nc73906586,2023-06-29T20:48:10.788Z,"2km NE of The Geysers, CA",earthquake,0.15,0.29,0.175,29,reviewed,nc,nc
 2023-06-29T05:50:42.260Z,38.8380013,-122.8361664,1.44,0.93,md,16,110,0.01489,0.01,nc,nc73906581,2023-06-29T07:49:14.170Z,"10km NW of The Geysers, CA",earthquake,0.25,0.48,0.21,14,automatic,nc,nc
 2023-06-29T05:43:10.570Z,37.0546667,-121.4948333,9.11,0.72,md,16,92,0.05522,0.13,nc,nc73906576,2023-06-29T12:41:15.042Z,"8km NE of Gilroy, CA",earthquake,0.41,1.18,0.102,14,reviewed,nc,nc
-2023-06-29T05:40:56.950Z,33.4751667,-116.8908333,9.92,0.9,ml,35,47,0.07438,0.17,ci,ci40498720,2023-06-29T13:46:28.590Z,"4km NNW of Aguanga, CA",earthquake,0.23,0.69,0.155,24,reviewed,ci,ci
