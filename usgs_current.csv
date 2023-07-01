@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-01T06:56:49.560Z,34.0423317,-117.1648331,10.28,1.06,ml,18,107,0.08456,0.22,ci,ci40501208,2023-07-01T06:59:09.116Z,"2km SE of Redlands, CA",earthquake,0.45,1.11,0.224,4,automatic,ci,ci
+2023-07-01T06:56:49.670Z,34.0476667,-117.1686667,8.33,0.71,ml,25,59,0.04827,0.21,ci,ci40501208,2023-07-01T07:00:21.652Z,"2km SE of Redlands, CA",earthquake,0.37,0.8,0.175,13,automatic,ci,ci
 2023-07-01T06:39:09.317Z,58.3394,-133.2865,0,3.1,ml,,,,1.03,ak,ak0238d3m55f,2023-07-01T06:45:53.040Z,"66 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-01T06:18:45.130Z,32.9705,-115.5535,5.64,1.09,ml,10,125,0.06911,0.22,ci,ci40501192,2023-07-01T06:22:16.253Z,"2km WSW of Brawley, CA",earthquake,0.56,1.03,0.174,7,automatic,ci,ci
 2023-07-01T06:12:08.950Z,38.848999,-122.8151703,-0.78,0.74,md,7,153,0.01524,0.04,nc,nc73907341,2023-07-01T06:14:49.845Z,"8km WNW of Cobb, CA",earthquake,0.31,3.42,0.52,7,automatic,nc,nc
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T19:45:44.461Z,58.1725,-155.368,0,0,ml,,,,0.4,ak,ak0238bnusj2,2023-06-30T19:47:37.254Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T19:44:38.677Z,63.0442,-150.6523,118.2,1.1,ml,,,,0.13,ak,ak0238bnukd7,2023-06-30T19:47:34.783Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-30T19:34:59.651Z,58.1741,-155.2853,0,1.8,ml,,,,0.49,ak,ak0238bnsgtv,2023-06-30T19:37:31.807Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"135 km NNE of San Juan, Puerto Rico",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
+2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"Puerto Rico region",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
 2023-06-30T19:28:09.950Z,38.2385,-122.9748333,11.17,1.77,md,36,150,0.07555,0.09,nc,nc73907216,2023-07-01T01:38:12.916Z,"1km W of Dillon Beach, CA",earthquake,0.26,0.39,0.218,39,reviewed,nc,nc
 2023-06-30T19:26:36.320Z,33.8738333,-117.5008333,-0.53,1.03,ml,19,70,0.07296,0.23,ci,ci40500808,2023-06-30T21:50:22.277Z,"2km ESE of Home Gardens, CA",quarry blast,0.54,31.61,0.122,12,reviewed,ci,ci
 2023-06-30T19:16:27.800Z,46.89033333333333,-121.924,12.76,0.31,ml,17,101,0.01891,0.11,uw,uw61937556,2023-06-30T20:13:30.510Z,"16 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.21024528403430495,11,reviewed,uw,uw
