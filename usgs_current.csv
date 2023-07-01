@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T05:35:19.810Z,34.2488333,-118.948,12.56,1.41,ml,20,54,0.0481,0.25,ci,ci40501160,2023-07-01T05:38:57.379Z,"7km SW of Moorpark, CA",earthquake,0.57,0.97,0.174,29,automatic,ci,ci
 2023-07-01T05:26:32.883Z,60.4931,-147.6628,15.9,1.2,ml,,,,0.74,ak,ak0238d2xz20,2023-07-01T05:28:12.877Z,"51 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-01T05:22:49.513Z,58.0532,-155.777,82.1,1.1,ml,,,,0.93,ak,ak0238d2x5h3,2023-07-01T05:25:34.571Z,"87 km SE of King Salmon, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-07-01T05:19:04.290Z,36.0138333,-120.5786667,0.67,1.12,md,26,77,0.03438,0.11,nc,nc73907331,2023-07-01T05:31:10.228Z,"18km NW of Parkfield, CA",earthquake,0.2,0.69,0.305,13,reviewed,nc,nc
+2023-07-01T05:19:04.290Z,36.0138333,-120.5786667,0.67,1.12,md,26,77,0.03438,0.11,nc,nc73907331,2023-07-01T05:38:10.263Z,"18km NW of Parkfield, CA",earthquake,0.2,0.69,0.305,13,reviewed,nc,nc
 2023-07-01T05:09:23.223Z,40.1755,-98.3173,5,2.9,mb_lg,22,52,1.238,0.4,us,us6000kpdc,2023-07-01T05:16:19.040Z,"10 km E of Cowles, Nebraska",earthquake,2.71,1.989,0.044,133,reviewed,us,us
 2023-07-01T04:59:41.930Z,17.9178333333333,-66.8585,15.45,2.55,md,8,225,0.06024,0.07,pr,pr71415438,2023-07-01T05:09:25.090Z,"Puerto Rico region",earthquake,0.45,0.54,0.0918562030436489,5,reviewed,pr,pr
 2023-07-01T04:59:22.880Z,33.2693333,-116.4313333,2.87,1.07,ml,34,58,0.01193,0.24,ci,ci40501136,2023-07-01T05:10:14.090Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.47,0.155,26,automatic,ci,ci
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T01:18:09.273Z,63.2671,-151.9888,0.1,2.1,ml,,,,0.72,ak,ak0238d0ih33,2023-07-01T01:20:25.146Z,"33 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-01T01:01:34.370Z,19.548,-65.7233,91,3.83,md,12,279,1.3165,0.18,pr,pr2023182000,2023-07-01T01:29:45.210Z,"Puerto Rico region",earthquake,2.77,5.22,0.04,6,reviewed,pr,pr
 2023-07-01T00:50:44.561Z,62.6166,-149.984,5.7,1.2,ml,,,,0.37,ak,ak0238d03z48,2023-07-01T00:52:36.260Z,"19 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-01T00:23:07.580Z,19.8988333333333,-155.386166666667,18.79,3.35,ml,25,120,,0.12,hv,hv73466617,2023-07-01T04:32:32.190Z,"15 km S of Pa‘auilo, Hawaii",earthquake,0.43,0.9,0.189920873637949,38,reviewed,hv,hv
+2023-07-01T00:23:07.580Z,19.8988333333333,-155.386166666667,18.79,3.35,ml,25,120,,0.12,hv,hv73466617,2023-07-01T05:36:08.861Z,"15 km S of Pa‘auilo, Hawaii",earthquake,0.43,0.9,0.189920873637949,38,reviewed,hv,hv
 2023-06-30T23:59:08.831Z,59.21,-138.2346,0,2.9,ml,,,,0.77,ak,ak0238bqbg81,2023-07-01T00:10:42.040Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-30T23:36:51.370Z,38.8193321,-122.7648315,2.43,0.7,md,7,113,0.01181,0.01,nc,nc73907291,2023-06-30T23:39:42.853Z,"4km W of Cobb, CA",earthquake,0.59,1.2,0.16,7,automatic,nc,nc
 2023-06-30T23:34:46.124Z,58.5821,-154.5781,5.9,1.3,ml,,,,0.62,ak,ak0238bq6678,2023-06-30T23:36:58.294Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T05:46:44.910Z,58.1895,-155.282166666667,2.09,0.4,ml,12,54,,0.06,av,av91943661,2023-07-01T01:05:08.810Z,"84 km NW of Karluk, Alaska",earthquake,0.15,0.3,0.310306285583873,12,reviewed,av,av
 2023-06-30T05:44:01.543Z,27.0155,96.6818,10,4.4,mb,31,111,5.579,0.41,us,us6000kp19,2023-06-30T07:09:42.040Z,"90 km N of Sarupathar, India",earthquake,10.8,1.924,0.13,18,reviewed,us,us
 2023-06-30T05:40:55.570Z,33.5473333,-116.6913333,11.41,0.44,ml,23,55,0.0424,0.18,ci,ci40500232,2023-06-30T14:27:43.454Z,"2km WSW of Anza, CA",earthquake,0.36,0.56,0.118,11,reviewed,ci,ci
-2023-06-30T05:36:58.050Z,58.224,-155.088333333333,3.29,0.21,ml,13,81,,0.1,av,av91943656,2023-07-01T01:01:02.140Z,"82 km NNW of Karluk, Alaska",earthquake,0.22,0.58,0.317361461454042,15,reviewed,av,av
