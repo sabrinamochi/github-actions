@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T06:09:10.820Z,19.1469993591309,-155.503326416016,32.5,1.94000006,md,38,146,,0.109999999,hv,hv73466857,2023-07-01T06:12:15.390Z,"Hawaii region, Hawaii",earthquake,0.55,0.970000029,0.889999986,15,automatic,hv,hv
 2023-07-01T05:38:13.469Z,39.6182,-119.9632,7,2.2,ml,18,84.08,0.011,0.2708,nn,nn00862023,2023-07-01T05:40:49.707Z,"6 km S of Cold Springs, Nevada",earthquake,,0.4,0.29,9,automatic,nn,nn
 2023-07-01T05:35:19.810Z,34.2488333,-118.948,12.56,1.41,ml,20,54,0.0481,0.25,ci,ci40501160,2023-07-01T05:38:57.379Z,"7km SW of Moorpark, CA",earthquake,0.57,0.97,0.174,29,automatic,ci,ci
 2023-07-01T05:26:32.883Z,60.4931,-147.6628,15.9,1.2,ml,,,,0.74,ak,ak0238d2xz20,2023-07-01T05:28:12.877Z,"51 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T18:37:48.124Z,39.6356,-120.001,0.1,0.5,ml,3,177.53,0.042,0.1893,nn,nn00862006,2023-06-30T21:35:39.602Z,"5 km SSW of Cold Springs, Nevada",earthquake,,33,0.08,2,reviewed,nn,nn
 2023-06-30T18:30:56.320Z,38.8331667,-122.8155,1.87,0.38,md,17,54,0.01064,0.02,nc,nc73907186,2023-07-01T04:29:49.131Z,"8km NW of The Geysers, CA",earthquake,0.22,0.35,0.17,16,reviewed,nc,nc
 2023-06-30T18:29:08.780Z,58.2625,-155.122833333333,35.45,0.22,ml,15,86,,0.31,av,av91944256,2023-07-01T01:25:13.550Z,"86 km NNW of Karluk, Alaska",earthquake,0.83,1.14,0.220859310256962,14,reviewed,av,av
-2023-06-30T18:24:12.290Z,38.8321667,-122.8136667,1.36,0.39,md,18,51,0.009197,0.04,nc,nc73907176,2023-07-01T04:24:48.644Z,"8km NW of The Geysers, CA",earthquake,0.21,0.54,0.235,18,reviewed,nc,nc
+2023-06-30T18:24:12.290Z,38.8321667,-122.8136667,1.36,0.39,md,18,51,0.009197,0.04,nc,nc73907176,2023-07-01T06:08:14.429Z,"8km NW of The Geysers, CA",earthquake,0.21,0.54,0.235,18,reviewed,nc,nc
 2023-06-30T18:22:35.120Z,44.3338333333333,-115.1785,12.89,1.77,ml,7,109,0.8026,0.18,mb,mb90020243,2023-06-30T19:35:21.550Z,"23 km NW of Stanley, Idaho",earthquake,0.92,2.46,0.215788707488075,13,reviewed,mb,mb
 2023-06-30T18:18:28.890Z,38.49,-112.8436667,-0.65,-0.53,md,8,196,0.02302,0.08,uu,uu60544362,2023-06-30T19:03:38.050Z,"17 km NE of Milford, Utah",earthquake,0.29,0.3,0.424,2,reviewed,uu,uu
 2023-06-30T18:16:57.346Z,59.0638,-137.1017,0,3,ml,,,,0.87,ak,ak0238bn365i,2023-06-30T18:48:13.040Z,"72 km WSW of Covenant Life, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T06:21:06.189Z,39.6486,-119.9703,6.3,0.3,ml,4,135.73,0.042,0.0929,nn,nn00861987,2023-06-30T17:53:03.736Z,"3 km S of Cold Springs, Nevada",earthquake,,5.7,0.39,3,reviewed,nn,nn
 2023-06-30T06:17:34.770Z,38.493,-112.8393333,-0.35,1.09,ml,15,102,0.01264,0.12,uu,uu60544337,2023-06-30T15:25:49.720Z,"18 km NE of Milford, Utah",earthquake,0.29,0.2,0.045,2,reviewed,uu,uu
 2023-06-30T06:15:12.490Z,34.998,-118.5181667,9.76,1.22,ml,33,54,0.1452,0.12,ci,ci40500248,2023-06-30T18:13:30.050Z,"16km SSW of Tehachapi, CA",earthquake,0.16,0.44,0.138,21,reviewed,ci,ci
-2023-06-30T06:05:23.547Z,39.6063,-119.9697,7.1,0.6,ml,4,231.44,0.007,0.1491,nn,nn00861986,2023-06-30T17:43:46.972Z,"8 km S of Cold Springs, Nevada",earthquake,,3.5,0.1,2,reviewed,nn,nn
-2023-06-30T06:04:15.540Z,58.189,-155.282833333333,1.91,-0.17,ml,7,145,,0.06,av,av91943666,2023-07-01T02:55:27.940Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.43,0.276167967145337,7,reviewed,av,av
