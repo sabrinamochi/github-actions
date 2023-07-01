@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T13:06:29.190Z,32.8300018,-116.0413361,8.46,1.23,ml,34,38,0.0605,0.17,ci,ci40501400,2023-07-01T13:08:33.928Z,"12km NNW of Ocotillo, CA",earthquake,0.32,0.75,0.121,6,automatic,ci,ci
 2023-07-01T12:47:34.640Z,33.7223333,-116.7413333,20.57,0.4,ml,10,163,0.02523,0.19,ci,ci40501384,2023-07-01T12:51:04.166Z,"3km SW of Idyllwild, CA",earthquake,1.33,0.79,0.233,5,automatic,ci,ci
 2023-07-01T12:45:29.690Z,33.2498333,-116.2533333,8.36,1.09,ml,35,53,0.05699,0.2,ci,ci40501376,2023-07-01T12:49:00.897Z,"11km E of Borrego Springs, CA",earthquake,0.34,0.9,0.103,26,automatic,ci,ci
 2023-07-01T12:35:18.571Z,38.1528,-119.1748,0,1.4,ml,10,90.78,0.286,0.287,nn,nn00862029,2023-07-01T12:37:50.506Z,"12 km SSE of Bridgeport, California",earthquake,,7.2,0.46,9,automatic,nn,nn
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T12:11:40.890Z,37.6534996,-121.9528351,9.83,1.35,md,13,120,0.04642,0.1,nc,nc73907416,2023-07-01T12:25:10.597Z,"6km SSW of Dublin, CA",earthquake,0.59,0.72,0.14,8,automatic,nc,nc
 2023-07-01T12:11:13.419Z,61.7518,-149.5158,35,1.4,ml,,,,0.44,ak,ak0238d70r1p,2023-07-01T12:12:38.109Z,"14 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-01T11:51:09.830Z,38.7811661,-122.7570038,0.93,1.05,md,17,66,0.01247,0.03,nc,nc73907406,2023-07-01T11:53:52.690Z,"0km N of The Geysers, CA",earthquake,0.24,0.44,0.31,18,automatic,nc,nc
-2023-07-01T11:45:06.250Z,40.7233333,-124.2208333,19.36,2.01,md,23,200,0.01539,0.13,nc,nc73907401,2023-07-01T12:14:10.535Z,"3km W of Humboldt Hill, CA",earthquake,0.55,0.2,0.165,21,reviewed,nc,nc
+2023-07-01T11:45:06.250Z,40.7233333,-124.2208333,19.36,2.01,md,23,200,0.01539,0.13,nc,nc73907401,2023-07-01T13:04:09.811Z,"3km W of Humboldt Hill, CA",earthquake,0.55,0.2,0.165,21,reviewed,nc,nc
 2023-07-01T11:44:37.480Z,62.2439,-148.3206,28.3,1.6,ml,,,,0.52,ak,ak0238d6mfxg,2023-07-01T11:46:29.094Z,"50 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-01T11:26:04.350Z,37.1921,-117.4492,2.8,1,ml,15,170.64,0.393,0.3553,nn,nn00862026,2023-07-01T11:28:30.540Z,"Nevada",earthquake,,12.2,1.02,10,automatic,nn,nn
 2023-07-01T11:16:20.417Z,61.9932,-150.3755,24,1.1,ml,,,,0.24,ak,ak0238d6gdh6,2023-07-01T11:29:12.327Z,"32 km NNW of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -225,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T13:22:52.460Z,33.9411667,-116.0165,8.7,1.56,ml,40,54,0.0612,0.12,ci,ci40500472,2023-06-30T22:51:24.330Z,"22km SSE of Twentynine Palms, CA",earthquake,0.15,0.39,0.116,26,reviewed,ci,ci
 2023-06-30T13:21:33.580Z,38.8440018,-122.8264999,1.98,0.46,md,12,137,0.008858,0.02,nc,nc73907111,2023-06-30T15:35:18.320Z,"9km WNW of Cobb, CA",earthquake,0.35,0.91,0.31,13,automatic,nc,nc
 2023-06-30T13:17:31.600Z,33.4915,-116.485,14.14,0.73,ml,15,108,0.05888,0.13,ci,ci40500448,2023-06-30T22:45:34.305Z,"19km ESE of Anza, CA",earthquake,0.31,0.58,0.151,6,reviewed,ci,ci
-2023-06-30T13:06:53.350Z,57.2321,-156.8915,90.2,1.5,ml,,,,0.18,ak,ak0238bk1unr,2023-06-30T13:08:39.229Z,"43 km SE of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-30T13:05:28.900Z,37.6423333,-118.8783333,5.2,-0.14,md,12,103,0.01483,0.03,nc,nc73907101,2023-06-30T17:14:21.794Z,"9km E of Mammoth Lakes, CA",earthquake,0.46,0.59,0.153,11,reviewed,nc,nc
-2023-06-30T13:04:55.050Z,38.7928352,-122.7708359,3.89,1.05,md,16,76,0.01335,0.03,nc,nc73907096,2023-06-30T13:07:35.940Z,"2km NW of The Geysers, CA",earthquake,0.3,0.75,0.27,17,automatic,nc,nc
