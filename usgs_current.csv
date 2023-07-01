@@ -45,8 +45,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T19:45:44.461Z,58.1725,-155.368,0,0,ml,,,,0.4,ak,ak0238bnusj2,2023-06-30T19:47:37.254Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T19:44:38.677Z,63.0442,-150.6523,118.2,1.1,ml,,,,0.13,ak,ak0238bnukd7,2023-06-30T19:47:34.783Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-30T19:34:59.651Z,58.1741,-155.2853,0,1.8,ml,,,,0.49,ak,ak0238bnsgtv,2023-06-30T19:37:31.807Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"Puerto Rico region",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
-2023-06-30T19:28:09.950Z,38.2385,-122.9748333,11.17,1.77,md,36,150,0.07555,0.09,nc,nc73907216,2023-06-30T23:42:27.045Z,"1km W of Dillon Beach, CA",earthquake,0.26,0.39,0.218,39,reviewed,nc,nc
+2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"135 km NNE of San Juan, Puerto Rico",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
+2023-06-30T19:28:09.950Z,38.2385,-122.9748333,11.17,1.77,md,36,150,0.07555,0.09,nc,nc73907216,2023-06-30T23:52:11.225Z,"1km W of Dillon Beach, CA",earthquake,0.26,0.39,0.218,39,reviewed,nc,nc
 2023-06-30T19:26:36.320Z,33.8738333,-117.5008333,-0.53,1.03,ml,19,70,0.07296,0.23,ci,ci40500808,2023-06-30T21:50:22.277Z,"2km ESE of Home Gardens, CA",quarry blast,0.54,31.61,0.122,12,reviewed,ci,ci
 2023-06-30T19:16:27.800Z,46.89033333333333,-121.924,12.76,0.31,ml,17,101,0.01891,0.11,uw,uw61937556,2023-06-30T20:13:30.510Z,"16 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.21024528403430495,11,reviewed,uw,uw
 2023-06-30T19:15:13.740Z,36.019,-96.534,0,1.21,ml,51,132,0.1781650379,0.35,ok,ok2023msir,2023-06-30T21:10:46.116Z,"6 km ENE of Drumright, Oklahoma",quarry blast,,0.3,0.18,22,reviewed,ok,ok
@@ -213,6 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T03:42:20.120Z,34.285,-118.4963333,12.87,1.37,ml,30,66,0.01447,0.24,ci,ci40500152,2023-06-30T15:54:43.430Z,"2km NNE of Granada Hills, CA",earthquake,0.4,0.55,0.195,20,reviewed,ci,ci
 2023-06-30T03:41:24.300Z,35.7041667,-117.5648333,7.36,0.57,ml,13,121,0.1145,0.13,ci,ci40500144,2023-06-30T14:24:08.422Z,"14km NE of Ridgecrest, CA",earthquake,0.37,1.26,0.133,6,reviewed,ci,ci
 2023-06-30T03:40:50.470Z,33.1903333,-116.4035,11.15,0.8,ml,27,78,0.0785,0.18,ci,ci40500136,2023-06-30T14:22:15.300Z,"8km SSW of Borrego Springs, CA",earthquake,0.3,0.45,0.174,15,reviewed,ci,ci
+2023-06-30T03:39:23.150Z,58.1933333333333,-155.315166666667,2.02,-0.23,ml,9,97,,0.08,av,av91943581,2023-06-30T23:52:46.860Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.39,0.255077588559595,9,reviewed,av,av
 2023-06-30T03:38:25.350Z,58.1936666666667,-155.314333333333,1.98,-0.23,ml,10,97,,0.09,av,av91943566,2023-06-30T23:47:49.280Z,"86 km NW of Karluk, Alaska",earthquake,0.22,0.35,0.268886159210708,10,reviewed,av,av
 2023-06-30T03:36:35.070Z,58.1933333333333,-155.312166666667,1.9,-0.28,ml,9,96,,0.08,av,av91943576,2023-06-30T23:44:27.720Z,"86 km NW of Karluk, Alaska",earthquake,0.21,0.35,0.260455608592566,9,reviewed,av,av
 2023-06-30T03:19:14.449Z,58.2017,-155.3764,0,1,ml,,,,0.67,ak,ak0238be67x0,2023-06-30T23:39:05.330Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T00:29:12.330Z,38.8003349,-122.7516632,1.82,0.77,md,11,99,0.006296,0.02,nc,nc73906916,2023-06-30T00:31:52.285Z,"3km N of The Geysers, CA",earthquake,0.29,1.51,0.24,11,automatic,nc,nc
 2023-06-30T00:17:19.560Z,18.7673333333333,-64.9833333333333,9.8,3.27,md,18,255,0.4135,0.14,pr,pr71415158,2023-06-30T00:38:04.130Z,"47 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.91,1.1,0.0209270912806825,5,reviewed,pr,pr
 2023-06-30T00:11:56.982Z,58.9912,-137.0373,8.4,2.6,ml,,,,0.44,ak,ak0238bccanm,2023-06-30T00:28:35.040Z,"74 km SW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-29T23:57:23.300Z,35.7046667,-117.5433333,7.38,0.91,ml,18,115,0.1051,0.12,ci,ci40500016,2023-06-30T00:29:01.200Z,"14km WSW of Searles Valley, CA",earthquake,0.25,0.89,0.16,7,reviewed,ci,ci
-2023-06-29T23:55:25.050Z,62.8706,-151.0572,102.4,1.4,ml,,,,0.41,ak,ak0238a2ra49,2023-06-29T23:57:18.377Z,"44 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
