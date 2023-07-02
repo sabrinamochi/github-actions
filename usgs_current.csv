@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T12:11:33.330Z,33.5383333,-117.7276667,12.75,0.98,ml,18,163,0.04526,0.21,ci,ci40502024,2023-07-02T12:15:11.908Z,"3km NW of Laguna Niguel, CA",earthquake,0.57,0.61,0.352,15,automatic,ci,ci
 2023-07-02T12:03:19.972Z,19.0778,-65.3125,35,2.9,ml,17,224,0.797,0.37,us,us6000kpmv,2023-07-02T12:38:50.040Z,"Puerto Rico region",earthquake,5.27,2.017,0.062,34,reviewed,us,us
 2023-07-02T11:45:37.240Z,19.2266666666667,-64.5658333333333,25.14,3.43,md,17,304,0.9115,0.37,pr,pr71415748,2023-07-02T12:31:10.040Z,"101 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.03,28.71,0.17079414668636,13,reviewed,pr,pr
-2023-07-02T11:41:04.890Z,19.0436666666667,-65.3895,53.11,3.37,md,12,257,0.7393,0.26,pr,pr71415743,2023-07-02T12:20:10.170Z,"81 km NNE of Luquillo, Puerto Rico",earthquake,2.3,5.36,0.0528461723467606,9,reviewed,pr,pr
+2023-07-02T11:41:04.890Z,19.0436666666667,-65.3895,53.11,3.37,md,12,257,0.7393,0.26,pr,pr71415743,2023-07-02T12:20:10.170Z,"Puerto Rico region",earthquake,2.3,5.36,0.0528461723467606,9,reviewed,pr,pr
 2023-07-02T11:17:13.060Z,46.888333333333335,-121.92933333333333,13.57,0.47000000000000003,ml,21,72,0.01799,0.11,uw,uw61929052,2023-07-02T14:30:15.810Z,"16 km NNE of Ashford, Washington",earthquake,0.63,0.47,0.26434836312445087,11,reviewed,uw,uw
 2023-07-02T11:08:04.780Z,33.4866667,-116.5096667,13.39,0.9,ml,34,51,0.07774,0.19,ci,ci40502016,2023-07-02T11:18:32.970Z,"17km ESE of Anza, CA",earthquake,0.25,0.58,0.202,26,automatic,ci,ci
 2023-07-02T11:06:29.890Z,38.8266678,-122.8133316,1.15,0.76,md,11,71,0.004142,0.08,nc,nc73907786,2023-07-02T12:45:15.306Z,"7km NW of The Geysers, CA",earthquake,0.36,0.87,0.17,13,automatic,nc,nc
@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T08:30:49.960Z,38.7961655,-122.7446671,1.46,0.76,md,12,98,0.01257,0.02,nc,nc73907736,2023-07-02T09:48:23.310Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.7,0.15,10,automatic,nc,nc
 2023-07-02T08:29:45.020Z,38.7885017,-122.7446671,0.3,1.12,md,15,85,0.008134,0.05,nc,nc73907731,2023-07-02T09:19:14.142Z,"2km NE of The Geysers, CA",earthquake,0.25,0.46,0.15,12,automatic,nc,nc
 2023-07-02T08:24:53.560Z,35.1115,-119.0396667,16.96,1.32,ml,13,82,0.2061,0.27,ci,ci40501928,2023-07-02T08:28:24.544Z,"20km SW of Lamont, CA",earthquake,0.61,2.47,0.115,19,automatic,ci,ci
-2023-07-02T08:08:58.974Z,58.3066,-133.554,0.8,3,ml,,,,0.72,ak,ak0238es5thl,2023-07-02T08:51:40.040Z,"50 km E of Juneau, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-02T08:08:58.974Z,58.3066,-133.554,0.8,3,ml,,,,0.72,ak,ak0238es5thl,2023-07-02T08:51:40.040Z,"Southeastern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-02T08:07:49.844Z,63.3149,-145.4696,0,1.1,ml,,,,0.9,ak,ak0238es5l24,2023-07-02T08:10:12.022Z,"26 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-02T08:03:18.793Z,58.0847,-154.6053,84.9,2.1,ml,,,,0.31,ak,ak0238es4nt3,2023-07-02T08:23:54.675Z,"58 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-02T08:03:08.200Z,31.8911667,-116.5573333,13.69,2.8,ml,10,88,0.2066,0.22,ci,ci40501920,2023-07-02T09:22:50.364Z,"6km ENE of Ensenada, B.C., MX",earthquake,0.59,1.96,0.136,26,automatic,ci,ci
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T19:44:07.160Z,36.9458351,-121.4263306,5.17,1.31,md,10,118,0.1107,0.03,nc,nc73907566,2023-07-01T19:58:10.305Z,"11km NNW of Hollister, CA",earthquake,0.29,1.7,0.12,5,automatic,nc,nc
 2023-07-01T19:38:40.230Z,17.9936666666667,-67.0808333333333,11.25,2.29,md,7,171,0.03016,0.05,pr,pr71415578,2023-07-01T19:57:17.630Z,"4 km WNW of La Parguera, Puerto Rico",earthquake,0.51,0.44,0.00830955802571332,3,reviewed,pr,pr
 2023-07-01T19:37:41.005Z,60.3929,-151.0122,47.1,1,ml,,,,0.48,ak,ak0238dbcf7t,2023-07-02T03:29:37.583Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,reviewed,ak,ak
-2023-07-01T19:30:55.650Z,17.9498333333333,-66.9661666666667,15.37,2.16,md,4,212,0.07681,0.04,pr,pr71415568,2023-07-01T20:10:45.380Z,"6 km WSW of Guánica, Puerto Rico",earthquake,1.97,0.77,0.00965398825668751,4,reviewed,pr,pr
+2023-07-01T19:30:55.650Z,17.9498333333333,-66.9661666666667,15.37,2.16,md,4,212,0.07681,0.04,pr,pr71415568,2023-07-01T20:10:45.380Z,"Puerto Rico region",earthquake,1.97,0.77,0.00965398825668751,4,reviewed,pr,pr
 2023-07-01T19:26:42.610Z,33.95,-116.9075,18.61,1.87,ml,63,20,0.06713,0.2,ci,ci40501744,2023-07-02T14:34:13.540Z,"4km NW of Banning, CA",earthquake,0.19,0.32,0.173,26,reviewed,ci,ci
 2023-07-01T19:23:42.540Z,38.7775002,-122.7223358,1.72,1,md,9,77,0.01262,0.03,nc,nc73907546,2023-07-01T19:25:16.548Z,"3km W of Anderson Springs, CA",earthquake,0.93,1.89,0.27,11,automatic,nc,nc
 2023-07-01T19:22:40.601Z,63.8556,-148.773,13.8,1,ml,,,,0.67,ak,ak0238db9798,2023-07-01T19:27:50.619Z,"9 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
