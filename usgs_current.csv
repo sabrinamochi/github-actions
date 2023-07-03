@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-03T23:08:33.480Z,33.2611667,-116.2646667,8.28,0.81,ml,28,88,0.1077,0.21,ci,ci40502960,2023-07-03T23:12:08.577Z,"10km E of Borrego Springs, CA",earthquake,0.48,1.19,0.076,17,automatic,ci,ci
-2023-07-03T23:03:57.340Z,33.31,-116.7955,8.31,1.07,ml,36,54,0.07108,0.22,ci,ci40502952,2023-07-03T23:07:31.995Z,"8km SE of Palomar Observatory, CA",earthquake,0.28,0.84,0.129,26,automatic,ci,ci
+2023-07-03T23:03:57.340Z,33.31,-116.7955,8.31,1.07,ml,36,54,0.07108,0.22,ci,ci40502952,2023-07-03T23:14:13.520Z,"8km SE of Palomar Observatory, CA",earthquake,0.28,0.84,0.129,26,automatic,ci,ci
 2023-07-03T22:24:54.818Z,59.7423,-152.7114,83.6,1.5,ml,,,,0.42,ak,ak0238go4nl5,2023-07-03T22:27:07.060Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-03T22:21:27.369Z,63.0993,-151.5499,0,2,ml,,,,0.77,ak,ak0238go3ybk,2023-07-03T22:23:50.167Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-03T22:13:31.850Z,31.86309814,-101.7977087,9.072713216,3,ml,26,61,0.08318696916,0.1,tx,tx2023mybc,2023-07-03T22:28:54.642Z,"29 km S of Stanton, Texas",earthquake,0.7303934095,0.9374625076,0.1,13,reviewed,tx,tx
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T06:04:30.356Z,57.7857,-155.9381,8.3,2.4,ml,,,,0.33,ak,ak0238gehdp7,2023-07-03T07:26:04.040Z,"91 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-03T06:03:18.510Z,33.96,-116.7436667,18.34,1,ml,31,67,0.09196,0.19,ci,ci40502424,2023-07-03T06:06:59.598Z,"6km NE of Cabazon, CA",earthquake,0.29,0.56,0.138,26,automatic,ci,ci
 2023-07-03T05:58:52.250Z,38.6346667,-122.861,4.55,1.34,md,41,50,0.02047,0.08,nc,nc73908146,2023-07-03T10:31:13.051Z,"3km NNE of Healdsburg, CA",earthquake,0.16,0.28,0.193,38,reviewed,nc,nc
-2023-07-03T05:51:33.810Z,38.8305,-122.815,2.03,1.58,md,50,35,0.008071,0.04,nc,nc73908141,2023-07-03T22:44:10.521Z,"8km NW of The Geysers, CA",earthquake,0.11,0.19,0.17,44,reviewed,nc,nc
+2023-07-03T05:51:33.810Z,38.8305,-122.815,2.03,1.58,md,50,35,0.008071,0.04,nc,nc73908141,2023-07-03T23:13:13.705Z,"8km NW of The Geysers, CA",earthquake,0.11,0.19,0.17,44,reviewed,nc,nc
 2023-07-03T05:51:17.110Z,38.8195,-122.8219986,2.17,1.09,md,20,61,0.01009,0.02,nc,nc73908136,2023-07-03T05:53:56.700Z,"7km NW of The Geysers, CA",earthquake,0.21,0.44,0.15,19,automatic,nc,nc
 2023-07-03T05:35:59.010Z,17.999,-66.8735,11.6,2.61,md,7,119,0.02444,0.12,pr,pr71415998,2023-07-03T06:14:18.250Z,"1 km S of Palomas, Puerto Rico",earthquake,0.47,0.49,0.124649314471766,5,reviewed,pr,pr
 2023-07-03T05:34:35.030Z,35.4855,-118.3468333,0.3,1.2,ml,14,91,0.203,0.21,ci,ci40502416,2023-07-03T05:38:10.364Z,"17km SE of Bodfish, CA",earthquake,0.32,0.7,0.229,11,automatic,ci,ci
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T23:21:04.226Z,57.7379,-155.9503,14.8,2,ml,,,,0.44,ak,ak0238f15zna,2023-07-03T03:16:35.060Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-07-02T23:18:44.870Z,39.8051667,-111.9583333,9.73,1,md,5,177,0.1533,0.06,uu,uu60544582,2023-07-03T18:19:02.890Z,"8 km W of Mona, Utah",earthquake,1.07,1.67,0.218,4,reviewed,uu,uu
 2023-07-02T23:17:11.445Z,-17.9979,-69.4962,146.714,4.6,mb,20,117,0.406,0.66,us,us6000kpqw,2023-07-02T23:31:30.040Z,"55 km ESE of Palca, Peru",earthquake,7.34,7.434,0.223,6,reviewed,us,us
-2023-07-02T23:13:18.975Z,60.7645,-147.8049,12.8,1.8,ml,,,,0.49,ak,ak0238f14b21,2023-07-02T23:14:57.922Z,"48 km E of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
