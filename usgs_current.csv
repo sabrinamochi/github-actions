@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-03T10:02:58.670Z,38.8236656,-122.7981644,0.7,0.77,md,10,83,0.009307,0.07,nc,nc73908211,2023-07-03T10:04:35.165Z,"6km NW of The Geysers, CA",earthquake,0.32,1.23,0.27,14,automatic,nc,nc
 2023-07-03T09:57:13.920Z,35.6235,-117.4823333,5.85,0.89,ml,8,94,0.06328,0.15,ci,ci40502504,2023-07-03T10:00:51.502Z,"18km E of Ridgecrest, CA",earthquake,0.49,1.3,0.125,5,automatic,ci,ci
 2023-07-03T09:57:09.760Z,38.8214989,-122.8010025,1.79,0.76,md,10,96,0.007335,0.02,nc,nc73908206,2023-07-03T09:58:43.292Z,"6km NW of The Geysers, CA",earthquake,0.36,0.74,0.15,12,automatic,nc,nc
 2023-07-03T09:52:46.495Z,61.5828,-148.2684,17.7,1.1,ml,,,,0.3,ak,ak0238ggk04p,2023-07-03T09:54:16.929Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T09:05:39.630Z,19.1378326416016,-155.413833618164,31.3400001525879,2.02,ml,40,178,,0.150000006,hv,hv73468987,2023-07-03T09:11:10.230Z,"9 km SE of Pāhala, Hawaii",earthquake,0.67,0.860000014,0.2,7,automatic,hv,hv
 2023-07-03T09:04:32.470Z,40.6285019,-122.1916656,17.95,2.5,md,11,104,0.01492,0.07,nc,nc73908196,2023-07-03T09:38:26.343Z,"4km ESE of Bella Vista, CA",earthquake,0.43,0.6,0.07,10,automatic,nc,nc
 2023-07-03T08:32:28.961Z,61.9372,-150.0838,29.4,1.2,ml,,,,0.43,ak,ak0238gfu8uo,2023-07-03T08:34:38.174Z,"21 km N of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-03T08:27:04.250Z,38.8283348,-122.8143311,2.21,1.13,md,21,44,0.005949,0.03,nc,nc73908191,2023-07-03T08:38:10.306Z,"8km NW of The Geysers, CA",earthquake,0.23,0.42,0.12,21,automatic,nc,nc
+2023-07-03T08:27:04.250Z,38.8283348,-122.8143311,2.21,1.13,md,21,44,0.005949,0.03,nc,nc73908191,2023-07-03T10:03:11.869Z,"8km NW of The Geysers, CA",earthquake,0.23,0.42,0.12,21,automatic,nc,nc
 2023-07-03T08:26:42.220Z,38.8286667,-122.8143311,2.14,0.99,md,15,60,0.006226,0.01,nc,nc73908186,2023-07-03T08:29:24.499Z,"8km NW of The Geysers, CA",earthquake,0.26,0.59,0.24,16,automatic,nc,nc
 2023-07-03T08:20:43.760Z,33.8786667,-116.7543333,16.04,0.8,ml,23,63,0.05748,0.13,ci,ci40502472,2023-07-03T08:24:22.972Z,"5km SE of Cabazon, CA",earthquake,0.26,0.52,0.251,22,automatic,ci,ci
 2023-07-03T08:12:36.852Z,59.8187,-153.4133,131.2,2.2,ml,,,,0.31,ak,ak0238gfpz51,2023-07-03T09:52:24.040Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -254,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T10:27:01.050Z,32.8513333,-115.6505,9.79,1,ml,10,139,0.06558,0.17,ci,ci40501992,2023-07-02T10:30:49.831Z,"8km W of Imperial, CA",earthquake,0.62,1.1,0.342,10,automatic,ci,ci
 2023-07-02T10:26:47.670Z,38.8241653,-122.8125,1.93,2.11,md,47,38,0.002045,0.05,nc,nc73907766,2023-07-02T11:19:14.824Z,"7km NW of The Geysers, CA",earthquake,0.14,0.21,0.15,39,automatic,nc,nc
 2023-07-02T10:20:07.412Z,31.65448334,-104.2512891,6.131567383,2.8,ml,26,59,0.02070334667,0.2,tx,tx2023mvia,2023-07-02T10:42:07.801Z,"57 km NW of Toyah, Texas",earthquake,0.685138614,0.7221750681,0.1,14,reviewed,tx,tx
-2023-07-02T10:05:05.450Z,19.7741666666667,-155.563833333333,16.55,2.24,ml,50,80,,0.09,hv,hv73468052,2023-07-02T21:27:56.910Z,"29 km SSE of Waimea, Hawaii",earthquake,0.36,0.65,0.0846390141301574,8,reviewed,hv,hv
-2023-07-02T10:03:13.572Z,31.5055,-104.4997,5,2.7,mb_lg,26,80,0.163,0.44,us,us6000kplf,2023-07-02T10:24:11.040Z,"60 km NNE of Van Horn, Texas",earthquake,2.07,1.969,0.067,74,reviewed,us,us
