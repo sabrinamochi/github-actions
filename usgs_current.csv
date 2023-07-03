@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-03T09:57:13.910Z,35.6230011,-117.479332,6.81,1,ml,12,55,0.06179,0.13,ci,ci40502504,2023-07-03T09:59:19.760Z,"17km SSW of Searles Valley, CA",earthquake,0.5,1.79,0.126,2,automatic,ci,ci
+2023-07-03T09:57:13.920Z,35.6235,-117.4823333,5.85,0.89,ml,8,94,0.06328,0.15,ci,ci40502504,2023-07-03T10:00:51.502Z,"18km E of Ridgecrest, CA",earthquake,0.49,1.3,0.125,5,automatic,ci,ci
 2023-07-03T09:57:09.760Z,38.8214989,-122.8010025,1.79,0.76,md,10,96,0.007335,0.02,nc,nc73908206,2023-07-03T09:58:43.292Z,"6km NW of The Geysers, CA",earthquake,0.36,0.74,0.15,12,automatic,nc,nc
 2023-07-03T09:52:46.495Z,61.5828,-148.2684,17.7,1.1,ml,,,,0.3,ak,ak0238ggk04p,2023-07-03T09:54:16.929Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-03T09:47:24.800Z,33.515,-116.4858333,15.98,0.68,ml,21,82,0.05093,0.14,ci,ci40502496,2023-07-03T09:51:00.809Z,"18km ESE of Anza, CA",earthquake,0.29,0.53,0.096,17,automatic,ci,ci
@@ -248,7 +248,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T10:46:56.221Z,-12.6481,-76.0348,80.924,4.4,mb,31,137,1.027,0.43,us,us6000kpm5,2023-07-03T00:41:13.241Z,"near the coast of central Peru",earthquake,9.52,9.672,0.12,20,reviewed,us,us
 2023-07-02T10:38:41.966Z,59.9965,-151.9442,65.4,2.6,ml,,,,0.34,ak,ak0238etj0yl,2023-07-02T12:55:32.040Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2023-07-02T10:35:59.000Z,33.2741667,-116.4175,4.71,0.43,ml,13,172,0.005957,0.08,ci,ci40502000,2023-07-02T14:20:29.220Z,"4km WNW of Borrego Springs, CA",earthquake,0.26,0.32,0.164,8,reviewed,ci,ci
-2023-07-02T10:34:29.120Z,40.5121667,-124.4803333,16.67,2.09,md,36,218,0.1149,0.15,nc,nc73907771,2023-07-03T09:45:14.760Z,"20km WSW of Ferndale, CA",earthquake,0.54,0.27,0.336,24,reviewed,nc,nc
+2023-07-02T10:34:29.120Z,40.5121667,-124.4803333,16.67,2.09,md,36,218,0.1149,0.15,nc,nc73907771,2023-07-03T10:00:11.852Z,"20km WSW of Ferndale, CA",earthquake,0.54,0.27,0.336,24,reviewed,nc,nc
 2023-07-02T10:33:20.170Z,58.185,-155.319833333333,1.99,0.2,ml,6,158,,0.06,av,av91946076,2023-07-03T05:09:44.240Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.42,0.342093218466249,6,reviewed,av,av
 2023-07-02T10:27:43.750Z,-17.8785,-174.9429,229,6.9,mww,136,23,1.179,0.98,us,us6000kpls,2023-07-03T05:35:40.918Z,"Tonga",earthquake,7.16,1.84,0.041,58,reviewed,us,us
 2023-07-02T10:27:01.050Z,32.8513333,-115.6505,9.79,1,ml,10,139,0.06558,0.17,ci,ci40501992,2023-07-02T10:30:49.831Z,"8km W of Imperial, CA",earthquake,0.62,1.1,0.342,10,automatic,ci,ci
@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T10:20:07.412Z,31.65448334,-104.2512891,6.131567383,2.8,ml,26,59,0.02070334667,0.2,tx,tx2023mvia,2023-07-02T10:42:07.801Z,"57 km NW of Toyah, Texas",earthquake,0.685138614,0.7221750681,0.1,14,reviewed,tx,tx
 2023-07-02T10:05:05.450Z,19.7741666666667,-155.563833333333,16.55,2.24,ml,50,80,,0.09,hv,hv73468052,2023-07-02T21:27:56.910Z,"29 km SSE of Waimea, Hawaii",earthquake,0.36,0.65,0.0846390141301574,8,reviewed,hv,hv
 2023-07-02T10:03:13.572Z,31.5055,-104.4997,5,2.7,mb_lg,26,80,0.163,0.44,us,us6000kplf,2023-07-02T10:24:11.040Z,"60 km NNE of Van Horn, Texas",earthquake,2.07,1.969,0.067,74,reviewed,us,us
-2023-07-02T10:01:55.910Z,58.345,-133.2782,0,2.5,ml,,,,0.68,ak,ak0238etb6g7,2023-07-03T05:46:02.040Z,"67 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
