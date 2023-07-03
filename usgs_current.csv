@@ -8,13 +8,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T12:58:47.530Z,17.9675,-67.0661666666667,7.12,2.39,md,7,226,0.02097,0.2,pr,pr71416043,2023-07-03T13:16:01.550Z,"Puerto Rico region",earthquake,0.96,0.38,0.160445152030516,5,reviewed,pr,pr
 2023-07-03T12:57:14.098Z,61.994,-150.2692,46.9,1.8,ml,,,,0.31,ak,ak0238gidb0x,2023-07-03T12:58:45.458Z,"28 km SW of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-03T12:52:56.948Z,58.253,-155.2143,0.1,0.8,ml,,,,0.51,ak,ak0238gicbr2,2023-07-03T12:54:36.216Z,"88 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-03T12:44:34.790Z,17.9478,-67.0815,7,4.18,md,22,199,0.0431,0.1,pr,pr2023184002,2023-07-03T13:35:27.381Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.7,0.23,0.11,12,reviewed,pr,pr
+2023-07-03T12:44:34.790Z,17.9478,-67.0815,7,4.18,md,22,199,0.0431,0.1,pr,pr2023184002,2023-07-03T13:35:55.938Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.7,0.23,0.11,12,reviewed,pr,pr
 2023-07-03T12:40:05.167Z,-3.7258,140.1678,10,4.7,mb,26,102,1.316,0.65,us,us6000kpts,2023-07-03T12:59:41.040Z,"135 km SSW of Abepura, Indonesia",earthquake,7.76,1.909,0.104,28,reviewed,us,us
-2023-07-03T12:37:06.300Z,38.762001,-122.7074966,1.58,1.34,md,14,173,0.008905,0.04,nc,nc73908246,2023-07-03T12:49:10.918Z,"2km SW of Anderson Springs, CA",earthquake,0.44,0.4,0.18,10,automatic,nc,nc
+2023-07-03T12:37:06.300Z,38.762001,-122.7074966,1.58,1.34,md,14,173,0.008905,0.04,nc,nc73908246,2023-07-03T13:38:10.233Z,"2km SW of Anderson Springs, CA",earthquake,0.44,0.4,0.18,10,automatic,nc,nc
 2023-07-03T12:19:11.800Z,38.8041649,-122.8176651,2.83,1.12,md,19,70,0.01015,0.02,nc,nc73908241,2023-07-03T13:11:12.048Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.56,0.34,21,automatic,nc,nc
 2023-07-03T12:12:47.030Z,35.7401667,-117.5428333,10.35,1.56,ml,19,71,0.1225,0.19,ci,ci40502552,2023-07-03T12:23:42.680Z,"13km WSW of Searles Valley, CA",earthquake,0.43,0.87,0.154,15,automatic,ci,ci
 2023-07-03T11:39:06.352Z,60.0827,-152.8486,111.9,3.4,ml,,,,0.46,ak,ak0238ghnzxp,2023-07-03T11:53:04.040Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-03T11:26:36.320Z,-21.5128,169.6425,21.677,5.3,mww,53,127,2.313,0.86,us,us6000kpth,2023-07-03T11:44:30.040Z,"182 km E of Tadine, New Caledonia",earthquake,7.26,5.504,0.062,25,reviewed,us,us
+2023-07-03T11:26:36.320Z,-21.5128,169.6425,21.677,5.3,mww,53,127,2.313,0.86,us,us6000kpth,2023-07-03T11:44:30.040Z,"southeast of the Loyalty Islands",earthquake,7.26,5.504,0.062,25,reviewed,us,us
 2023-07-03T11:20:48.370Z,31.8761667,-116.5923333,22.77,2.43,ml,11,128,0.1755,0.11,ci,ci40502536,2023-07-03T11:58:36.738Z,"3km ENE of Ensenada, B.C., MX",earthquake,0.56,1.33,0.15,23,automatic,ci,ci
 2023-07-03T11:19:24.282Z,63.0972,-150.8821,117.4,3.4,ml,,,,0.49,ak,ak0238ghjqxs,2023-07-03T11:34:55.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-03T11:15:55.040Z,35.6334991,-120.7456665,5.5,0.71,md,7,179,0.1012,0.08,nc,nc73908226,2023-07-03T11:18:43.102Z,"6km W of Paso Robles, CA",earthquake,3.22,5.49,,1,automatic,nc,nc
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T13:47:35.919Z,35.85951614,-98.05778503,6.188313007,1.7,ml,14,157.5273438,0.1102063581,0.3157730224,ok,ok2023mvow,2023-07-02T13:51:12.630Z,"11 km W of Kingfisher, Oklahoma",earthquake,3.985800187,4.711869391,0.16,10,automatic,ok,ok
 2023-07-02T13:45:37.122Z,60.9298,-150.829,22.2,1.2,ml,,,,0.29,ak,ak0238evcvbk,2023-07-02T13:47:44.602Z,"7 km W of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-02T13:41:36.490Z,19.216667175293,-155.401168823242,32.7700004577637,2,md,44,153,,0.129999995,hv,hv73468132,2023-07-02T13:44:39.780Z,"8 km E of Pāhala, Hawaii",earthquake,0.51,1.13999999,0.779999971,16,automatic,hv,hv
-2023-07-02T13:40:16.730Z,35.8731667,-117.3646667,9.44,0.73,ml,11,98,0.0684,0.13,ci,ci40502056,2023-07-02T13:43:47.245Z,"12km N of Trona, CA",earthquake,0.6,1.32,0.174,5,automatic,ci,ci
