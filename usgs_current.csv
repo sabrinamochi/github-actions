@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-04T04:21:54.180Z,38.8266678,-122.8026657,2.65,0.6,md,7,91,0.006646,0.01,nc,nc73908596,2023-07-04T04:23:29.293Z,"7km NW of The Geysers, CA",earthquake,0.48,1.74,0.28,8,automatic,nc,nc
 2023-07-04T04:14:31.540Z,38.793499,-122.7623367,2.52,0.75,md,13,79,0.01999,0.04,nc,nc73908591,2023-07-04T04:17:13.429Z,"2km NNW of The Geysers, CA",earthquake,0.38,1.2,0.07,12,automatic,nc,nc
-2023-07-04T04:08:46.690Z,38.8274994,-122.8536682,2.1,0.84,md,16,91,0.002504,0.06,nc,nc73908586,2023-07-04T04:11:29.289Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.58,0.2,17,automatic,nc,nc
+2023-07-04T04:08:46.690Z,38.8274994,-122.8536682,2.1,0.84,md,16,91,0.002504,0.06,nc,nc73908586,2023-07-04T04:26:13.708Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.58,0.2,17,automatic,nc,nc
 2023-07-04T03:59:06.106Z,60.4599,-152.1861,73.6,1.6,ml,,,,0.62,ak,ak0238i0k5w2,2023-07-04T04:05:57.587Z,"49 km WNW of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-04T03:46:19.500Z,38.833168,-122.815834,1.54,0.72,md,13,55,0.01075,0.01,nc,nc73908576,2023-07-04T04:06:14.593Z,"8km NW of The Geysers, CA",earthquake,0.29,0.69,0.11,15,automatic,nc,nc
 2023-07-04T03:31:44.971Z,36.0026,-116.32,3.6,1.2,ml,9,208.33,0.451,0.2569,nn,nn00862110,2023-07-04T03:35:25.075Z,"5 km NW of Shoshone, California",earthquake,,16.6,0.94,7,automatic,nn,nn
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T00:06:48.910Z,39.0084991,-123.5818329,3.42,2.17,md,13,151,0.1467,0.08,nc,nc73908546,2023-07-04T03:46:14.466Z,"14km NE of Point Arena, CA",earthquake,0.38,1.98,0.15,5,automatic,nc,nc
 2023-07-04T00:06:36.150Z,38.7799988,-122.7570038,1.06,1.08,md,8,123,0.01618,0.03,nc,nc73908541,2023-07-04T00:09:18.316Z,"0km N of The Geysers, CA",earthquake,0.36,0.76,0.1,6,automatic,nc,nc
 2023-07-03T23:50:08.633Z,57.4823,-149.5297,6.4,2.8,ml,,,,0.61,ak,ak0238govk5s,2023-07-04T03:23:47.189Z,"Gulf of Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-07-03T23:48:44.669Z,43.6478,89.8093,10,4.1,mb,21,276,5.157,0.61,us,us6000kpyl,2023-07-04T00:09:19.040Z,"northern Xinjiang, China",earthquake,12.79,2.016,0.197,7,reviewed,us,us
+2023-07-03T23:48:44.669Z,43.6478,89.8093,10,4.1,mb,21,276,5.157,0.61,us,us6000kpyl,2023-07-04T00:09:19.040Z,"93 km NNE of Turpan, China",earthquake,12.79,2.016,0.197,7,reviewed,us,us
 2023-07-03T23:45:17.250Z,38.8308334,-122.8000031,2.04,1.1,md,19,64,0.01068,0.05,nc,nc73908536,2023-07-04T00:59:19.388Z,"7km W of Cobb, CA",earthquake,0.26,0.49,0.21,19,automatic,nc,nc
 2023-07-03T23:43:09.979Z,58.1907,-155.265,1.1,2.8,ml,,,,0.49,ak,ak0238gou2c5,2023-07-04T00:01:29.040Z,"84 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-03T23:34:13.010Z,38.8305016,-122.8146667,1.86,1.24,md,22,48,0.007951,0.05,nc,nc73908516,2023-07-04T00:49:15.323Z,"8km NW of The Geysers, CA",earthquake,0.22,0.4,0.19,24,automatic,nc,nc
@@ -176,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T08:26:42.220Z,38.8286667,-122.8143311,2.14,0.99,md,15,60,0.006226,0.01,nc,nc73908186,2023-07-03T08:29:24.499Z,"8km NW of The Geysers, CA",earthquake,0.26,0.59,0.24,16,automatic,nc,nc
 2023-07-03T08:20:43.760Z,33.8786667,-116.7543333,16.04,0.8,ml,23,63,0.05748,0.13,ci,ci40502472,2023-07-03T08:24:22.972Z,"5km SE of Cabazon, CA",earthquake,0.26,0.52,0.251,22,automatic,ci,ci
 2023-07-03T08:12:36.852Z,59.8187,-153.4133,131.2,2.2,ml,,,,0.31,ak,ak0238gfpz51,2023-07-03T09:52:24.040Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-03T08:11:10.650Z,19.336,-155.108666666667,0.32,1.65,md,44,132,,0.17,hv,hv73468967,2023-07-03T20:14:48.080Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.18,0.198942845326267,17,reviewed,hv,hv
+2023-07-03T08:11:10.650Z,19.336,-155.108666666667,0.32,1.65,md,44,132,,0.17,hv,hv73468967,2023-07-03T20:14:48.080Z,"14 km S of Fern Forest, Hawaii",earthquake,0.3,0.18,0.198942845326267,17,reviewed,hv,hv
 2023-07-03T08:02:58.644Z,-23.7992,-175.7307,35.786,4.9,mb,60,121,2.662,0.43,us,us6000kpsu,2023-07-03T09:03:03.040Z,"283 km SSW of ‘Ohonua, Tonga",earthquake,10.75,5.857,0.045,156,reviewed,us,us
 2023-07-03T07:57:59.499Z,57.7486,-155.917,7.2,1.6,ml,,,,0.22,ak,ak0238gfe8i5,2023-07-03T07:59:24.685Z,"Alaska Peninsula",earthquake,,2.4,,,automatic,ak,ak
 2023-07-03T07:43:43.173Z,64.3931,-146.977,11.6,0.3,ml,,,,0.57,ak,ak0238gfb797,2023-07-03T07:46:10.864Z,"15 km SSW of Salcha, Alaska",earthquake,,0.9,,,automatic,ak,ak
