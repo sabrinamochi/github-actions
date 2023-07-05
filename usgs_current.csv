@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-05T17:40:49.630Z,33.8831667,-116.1975,10.77,0.69,ml,14,73,0.0467,0.2,ci,ci40503992,2023-07-05T17:44:18.638Z,"18km N of Indio, CA",earthquake,0.42,1.07,0.191,7,automatic,ci,ci
 2023-07-05T17:26:37.866Z,62.961,-143.1965,158.8,1.3,ml,,,,0.9,ak,ak0238jw8l16,2023-07-05T17:34:35.472Z,"29 km E of Mentasta Lake, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2023-07-05T17:19:29.820Z,33.0325,-115.9911667,14.36,1.12,ml,9,184,0.1464,0.24,ci,ci40503944,2023-07-05T17:22:58.885Z,"18km SE of Ocotillo Wells, CA",earthquake,1.23,2.31,0.131,19,automatic,ci,ci
 2023-07-05T17:16:01.160Z,32.8501667,-115.6018333,11.77,1.32,ml,8,99,0.1065,0.23,ci,ci40503928,2023-07-05T17:19:40.318Z,"3km W of Imperial, CA",earthquake,0.72,2.53,0.409,15,automatic,ci,ci
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T14:13:24.155Z,61.8371,-151.736,107.4,1.6,ml,,,,0.51,ak,ak0238judghr,2023-07-05T14:16:39.451Z,"24 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-05T14:02:18.960Z,38.7913322,-122.7631683,1.19,0.73,md,9,79,0.009664,0.01,nc,nc73909141,2023-07-05T16:15:12.738Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.62,0.08,9,automatic,nc,nc
 2023-07-05T13:51:16.060Z,19.2013339996338,-155.378173828125,30.6599998474121,2.07,ml,41,175,,0.109999999,hv,hv73471487,2023-07-05T13:56:47.650Z,"10 km E of Pāhala, Hawaii",earthquake,0.62,0.670000017,1.07,3,automatic,hv,hv
+2023-07-05T13:38:40.224Z,31.66787688,-104.3213659,6.131567383,2,ml,32,67,0.04828280695,0.2,tx,tx2023nbbc,2023-07-05T17:43:00.849Z,"56 km S of Whites City, New Mexico",earthquake,0.6578481085,0.7381970489,0,6,reviewed,tx,tx
 2023-07-05T13:08:58.470Z,40.5228348,-124.4459991,17.93,2.1,md,8,276,0.09527,0.15,nc,nc73909136,2023-07-05T15:48:15.570Z,"16km WSW of Ferndale, CA",earthquake,3.97,1.01,0.2,3,automatic,nc,nc
 2023-07-05T13:05:45.350Z,38.7821655,-122.7229996,-0.7,1.07,md,10,83,0.01078,0.08,nc,nc73909131,2023-07-05T13:39:12.966Z,"3km WNW of Anderson Springs, CA",earthquake,0.28,1.5,0.14,9,automatic,nc,nc
 2023-07-05T13:05:34.480Z,38.8376656,-122.8061676,1.29,0.28,md,7,83,0.01238,0.01,nc,nc73909126,2023-07-05T15:33:13.476Z,"7km WNW of Cobb, CA",earthquake,0.56,1.68,0.16,9,automatic,nc,nc
@@ -57,11 +59,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T09:37:37.770Z,38.8288345,-122.7985001,2,1.11,md,20,35,0.01055,0.05,nc,nc73909076,2023-07-05T12:45:13.456Z,"7km W of Cobb, CA",earthquake,0.24,0.46,0.15,19,automatic,nc,nc
 2023-07-05T09:28:34.850Z,37.3761673,-122.1719971,0.06,1.41,md,8,129,0.02768,0.07,nc,nc73909071,2023-07-05T12:18:15.296Z,"3km W of Los Altos Hills, CA",earthquake,0.4,2,0.14,8,automatic,nc,nc
 2023-07-05T09:24:27.837Z,63.5449,-147.961,10.4,1.8,ml,,,,0.29,ak,ak0238jrgnmn,2023-07-05T09:26:08.593Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.43,ml,48,28,0.01852,0.26,nc,nc73909066,2023-07-05T16:43:08.270Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,0.142,120,reviewed,nc,nc
+2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.5,mw,48,28,0.01852,0.26,nc,nc73909066,2023-07-05T17:48:48.518Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,,5,reviewed,nc,nc
 2023-07-05T09:18:57.378Z,58.5788,-153.5126,88.1,2,ml,,,,0.34,ak,ak0238jrfexf,2023-07-05T09:21:50.473Z,"67 km NNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-05T09:17:05.850Z,38.8546677,-122.7888336,1.6,0.7,md,14,151,0.00649,0.04,nc,nc73909061,2023-07-05T09:33:14.288Z,"7km WNW of Cobb, CA",earthquake,0.35,0.59,0.12,13,automatic,nc,nc
 2023-07-05T09:16:33.137Z,61.2303,-147.5544,15.9,1.3,ml,,,,0.54,ak,ak0238jreyb5,2023-07-05T09:18:02.266Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-05T09:10:11.480Z,39.3961667,-111.4963333,4.38,1.69,ml,21,39,0.0832,0.17,uu,uu60544697,2023-07-05T14:43:09.920Z,"Utah",earthquake,0.3,1.35,0.175,8,reviewed,uu,uu
+2023-07-05T09:09:27.270Z,48.062,-122.88466666666666,22.47,1.34,ml,32,68,0.06241,0.25,uw,uw61938401,2023-07-05T17:44:50.080Z,"Washington",earthquake,0.39,0.75,0.1350503615853138,20,reviewed,uw,uw
 2023-07-05T09:06:50.091Z,58.5524,-152.059,35.2,2,ml,,,,0.48,ak,ak0238jrcugh,2023-07-05T09:09:02.821Z,"74 km NE of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-05T09:00:07.320Z,38.769165,-122.6996689,4.62,0.88,md,7,152,0.001032,0.02,nc,nc73909056,2023-07-05T11:35:15.045Z,"1km SW of Anderson Springs, CA",earthquake,3.74,5.71,0.26,8,automatic,nc,nc
 2023-07-05T08:47:16.640Z,34.0335,-117.2358333,18.42,0.98,ml,27,42,0.08961,0.22,ci,ci40503712,2023-07-05T13:42:45.849Z,"3km SE of Loma Linda, CA",earthquake,0.34,0.71,0.216,18,reviewed,ci,ci
