@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T13:23:21.320Z,38.8300018,-122.8141632,2.15,1.1,md,26,46,0.00733,0.05,nc,nc73909541,2023-07-06T13:26:05.670Z,"8km NW of The Geysers, CA",earthquake,0.21,0.39,0.15,26,automatic,nc,nc
 2023-07-06T13:19:35.559Z,61.8812,-149.2375,15.6,1.7,ml,,,,1.18,ak,ak0238lhcok3,2023-07-06T13:21:49.563Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-06T12:35:11.684Z,64.4177,-148.3695,12.6,0.9,ml,,,,0.14,ak,ak0238lgumkg,2023-07-06T12:36:32.443Z,"38 km ESE of Nenana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-06T12:17:32.110Z,32.7213333,-115.5338333,10.95,1.49,ml,12,72,0.08546,0.23,ci,ci40504536,2023-07-06T12:21:16.480Z,"1km SSW of Heber, CA",earthquake,0.7,1.49,0.24,14,automatic,ci,ci
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T10:09:45.975Z,-21.5162,-68.7137,140.183,4.7,mb,25,56,0.862,1.06,us,us6000kqey,2023-07-06T10:37:54.040Z,"57 km SW of Ollagüe, Chile",earthquake,6.72,8.876,0.208,7,reviewed,us,us
 2023-07-06T10:05:15.470Z,34.3611667,-116.7156667,2.07,1.04,ml,17,151,0.08536,0.2,ci,ci40504496,2023-07-06T10:08:57.498Z,"16km NE of Big Bear City, CA",earthquake,0.7,0.77,0.144,14,automatic,ci,ci
 2023-07-06T09:58:32.910Z,38.7885017,-122.7666702,1.31,0.79,md,19,76,0.01327,0.05,nc,nc73909491,2023-07-06T10:16:15.181Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.12,15,automatic,nc,nc
-2023-07-06T09:50:51.940Z,36.7195,-80.733,0.41,2.71,md,18,98,0.4664,0.33,se,se60533036,2023-07-06T13:19:54.114Z,"4 km S of Hillsville, Virginia",earthquake,0.55,3.43,0.182232646549031,17,reviewed,se,se
+2023-07-06T09:50:51.940Z,36.7195,-80.733,0.41,2.71,md,18,98,0.4664,0.33,se,se60533036,2023-07-06T13:28:54.435Z,"4 km S of Hillsville, Virginia",earthquake,0.55,3.43,0.182232646549031,17,reviewed,se,se
 2023-07-06T09:44:06.362Z,60.3177,-147.2718,19.2,1.3,ml,,,,0.16,ak,ak0238lf48sc,2023-07-06T09:45:40.207Z,"49 km NE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-06T09:25:04.600Z,17.9806666666667,-66.8446666666667,17.28,2.38,md,6,187,0.03339,0.06,pr,pr71416503,2023-07-06T11:00:02.160Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.58,0.58,0.196911835118768,5,reviewed,pr,pr
 2023-07-06T09:23:39.025Z,62.9678,-150.6431,104.7,1.3,ml,,,,0.16,ak,ak0238lezt9q,2023-07-06T09:25:52.021Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -70,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T05:20:08.170Z,36.6083,-115.9357,6.3,0.5,ml,10,280.45,0.058,0.2282,nn,nn00862217,2023-07-06T05:21:57.495Z,"24 km W of Indian Springs, Nevada",earthquake,,0.9,0.18,8,automatic,nn,nn
 2023-07-06T05:19:31.390Z,-13.4366,166.2135,10,4.6,mb,26,136,7.311,0.46,us,us6000kqds,2023-07-06T06:08:56.040Z,"Vanuatu",earthquake,7.56,1.9,0.117,22,reviewed,us,us
 2023-07-06T05:10:24.950Z,17.9391666666667,-66.9721666666667,7.06,2.47,md,16,224,0.06882,0.12,pr,pr71416443,2023-07-06T05:21:51.090Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.43,0.22,0.103960124493707,6,reviewed,pr,pr
+2023-07-06T04:57:58.440Z,44.6616666666667,-114.374,6.86,2.03,ml,20,95,0.3676,0.19,mb,mb90020823,2023-07-06T13:27:04.060Z,"20 km NNW of Challis, Idaho",earthquake,0.47,1.01,0.295980257606415,23,reviewed,mb,mb
 2023-07-06T04:57:12.070Z,34.3651667,-116.713,3.65,1.37,ml,32,109,0.08301,0.2,ci,ci40504408,2023-07-06T13:06:37.120Z,"17km NE of Big Bear City, CA",earthquake,0.38,0.92,0.134,27,reviewed,ci,ci
 2023-07-06T04:53:42.300Z,41.5121667,-112.8563333,7.28,1.61,ml,24,179,0.2742,0.13,uu,uu60544737,2023-07-06T12:30:31.550Z,"Utah",earthquake,0.54,0.84,0.17,4,reviewed,uu,uu
 2023-07-06T04:47:51.940Z,56.9271666666667,-158.016333333333,1.57,1.12,ml,5,286,,0.18,av,av91950371,2023-07-06T07:56:09.850Z,"74 km NNE of Chignik, Alaska",earthquake,1.29,4.48,0.264205106162417,4,reviewed,av,av
