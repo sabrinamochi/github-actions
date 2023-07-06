@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T04:13:26.770Z,36.9743347,-121.6256638,4.79,1.36,md,9,114,0.05217,0.11,nc,nc73909391,2023-07-06T04:26:11.073Z,"6km SW of Gilroy, CA",earthquake,0.49,1.11,0.14,6,automatic,nc,nc
 2023-07-06T04:10:53.210Z,38.833168,-122.8141632,1.11,0.77,md,15,53,0.01027,0.04,nc,nc73909386,2023-07-06T04:13:35.146Z,"8km NW of The Geysers, CA",earthquake,0.25,0.77,0.2,15,automatic,nc,nc
 2023-07-06T04:02:55.272Z,63.1006,-151.3895,0.1,1.3,ml,,,,0.84,ak,ak0238lbw6gn,2023-07-06T04:05:17.839Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-06T03:33:58.250Z,38.8199997,-122.8105011,2.74,0.74,md,17,47,0.003407,0.06,nc,nc73909381,2023-07-06T03:50:11.865Z,"7km NW of The Geysers, CA",earthquake,0.31,0.89,0.3,18,automatic,nc,nc
@@ -15,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T02:22:33.000Z,35.6816667,-118.1025,8.3,0.96,ml,10,102,0.1148,0.14,ci,ci40504360,2023-07-06T02:26:01.314Z,"26km W of Inyokern, CA",earthquake,0.42,1.08,0.167,8,automatic,ci,ci
 2023-07-06T02:15:09.640Z,38.8093338,-122.791832,2.64,1.09,md,26,34,0.003035,0.05,nc,nc73909346,2023-07-06T02:46:12.469Z,"5km NW of The Geysers, CA",earthquake,0.23,0.47,0.14,22,automatic,nc,nc
 2023-07-06T02:07:52.370Z,38.8154984,-122.8184967,3.04,1.12,md,23,51,0.01027,0.05,nc,nc73909336,2023-07-06T02:42:10.444Z,"7km NW of The Geysers, CA",earthquake,0.26,0.45,0.17,25,automatic,nc,nc
+2023-07-06T02:06:39.717Z,-32.685,-68.6934,45.779,4.6,mwr,55,81,1.136,1.01,us,us6000kqcr,2023-07-06T04:24:13.040Z,"26 km NNE of Mendoza, Argentina",earthquake,6.11,5.986,0.046,46,reviewed,us,us
 2023-07-06T01:59:27.430Z,34.2265,-117.4391667,11.52,1.35,ml,42,36,0.04619,0.22,ci,ci40504352,2023-07-06T02:09:58.840Z,"4km W of Devore, CA",earthquake,0.32,0.74,0.228,29,automatic,ci,ci
 2023-07-06T01:57:32.620Z,38.8326683,-122.8261642,8.62,0.71,md,8,123,0.009379,0.02,nc,nc73909331,2023-07-06T02:15:15.293Z,"9km NW of The Geysers, CA",earthquake,1.63,7.87,0.05,3,automatic,nc,nc
 2023-07-06T01:50:01.730Z,17.894,-66.877,14.98,2.35,md,5,239,0.08064,0.06,pr,pr71416428,2023-07-06T01:59:30.720Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.74,0.62,0.00239112082826987,5,reviewed,pr,pr
@@ -142,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T09:37:37.770Z,38.8288345,-122.7985001,2,1.11,md,20,35,0.01055,0.05,nc,nc73909076,2023-07-05T12:45:13.456Z,"7km W of Cobb, CA",earthquake,0.24,0.46,0.15,19,automatic,nc,nc
 2023-07-05T09:28:34.950Z,37.3861667,-122.1686667,4.45,1.48,md,45,35,0.01846,0.15,nc,nc73909071,2023-07-06T01:31:15.037Z,"3km WNW of Los Altos Hills, CA",earthquake,0.18,0.23,0.272,35,reviewed,nc,nc
 2023-07-05T09:24:27.837Z,63.5449,-147.961,10.4,1.8,ml,,,,0.29,ak,ak0238jrgnmn,2023-07-05T09:26:08.593Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.5,mw,48,28,0.01852,0.26,nc,nc73909066,2023-07-06T03:52:00.900Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,,5,reviewed,nc,nc
+2023-07-05T09:21:20.940Z,40.2315,-121.1571667,5.25,3.5,mw,48,28,0.01852,0.26,nc,nc73909066,2023-07-06T04:20:40.478Z,"2km NE of Almanor, CA",earthquake,0.37,0.79,,5,reviewed,nc,nc
 2023-07-05T09:18:57.378Z,58.5788,-153.5126,88.1,2,ml,,,,0.34,ak,ak0238jrfexf,2023-07-05T09:21:50.473Z,"67 km NNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-05T09:17:59.233Z,38.5543,-118.1553,3.9,0.6,ml,4,138.72,0.409,0.0915,nn,nn00862202,2023-07-06T00:47:01.592Z,"California-Nevada border region",earthquake,,2.4,0.09,3,reviewed,nn,nn
 2023-07-05T09:17:05.850Z,38.8546677,-122.7888336,1.6,0.7,md,14,151,0.00649,0.04,nc,nc73909061,2023-07-05T09:33:14.288Z,"7km WNW of Cobb, CA",earthquake,0.35,0.59,0.12,13,automatic,nc,nc
@@ -192,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T04:41:04.194Z,44.533,-73.8864,8.128,2,ml,15,61,0.505,0.23,us,us6000kq5h,2023-07-06T01:43:39.671Z,"10 km SW of Redford, New York",earthquake,1.98,5.646,0.115,10,reviewed,us,us
 2023-07-05T04:40:23.880Z,38.8274994,-122.8079987,8.57,0.78,md,6,218,0.004407,0.02,nc,nc73908996,2023-07-05T05:09:15.596Z,"7km NW of The Geysers, CA",earthquake,1.85,7.48,0.02,6,automatic,nc,nc
 2023-07-05T04:31:32.536Z,63.116,-150.7998,86.2,1.5,ml,,,,2.81,ak,ak0238joizz9,2023-07-05T04:33:30.870Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-05T04:25:34.830Z,37.0493333,-121.5008333,9.19,0.84,md,28,90,0.02712,0.17,nc,nc73908981,2023-07-05T22:12:17.909Z,"8km NE of Gilroy, CA",earthquake,0.37,0.66,0.197,20,reviewed,nc,nc
-2023-07-05T04:22:06.577Z,36.9521,-116.0994,4.8,-0.2,ml,13,93.19,0.018,0.1121,nn,nn00862166,2023-07-05T16:50:28.895Z,"57 km NW of Indian Springs, Nevada",earthquake,,1.1,0.4,5,reviewed,nn,nn
