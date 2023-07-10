@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-10T04:47:20.980Z,38.8481674,-122.8201675,0.38,0.32,md,8,108,0.006943,0.03,nc,nc73911001,2023-07-10T04:48:56.919Z,"9km WNW of Cobb, CA",earthquake,0.38,0.92,0.15,9,automatic,nc,nc
+2023-07-10T04:47:20.980Z,38.8481674,-122.8201675,0.38,0.32,md,8,108,0.006943,0.03,nc,nc73911001,2023-07-10T05:19:13.384Z,"9km WNW of Cobb, CA",earthquake,0.38,0.92,0.15,9,automatic,nc,nc
 2023-07-10T04:14:37.435Z,63.8169,-153.3345,0,1.1,ml,,,,0.82,ak,ak0238ry43nj,2023-07-10T04:16:43.680Z,"50 km W of Lake Minchumina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-10T04:10:25.259Z,59.9881,-153.5145,157,2.2,ml,,,,0.44,ak,ak0238ry37vw,2023-07-10T04:12:23.772Z,"39 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-10T03:59:11.590Z,38.8013344,-122.8191681,2.73,0.84,md,7,101,0.01085,0.01,nc,nc73910996,2023-07-10T04:46:12.170Z,"6km WNW of The Geysers, CA",earthquake,0.51,1.78,0.14,6,automatic,nc,nc
 2023-07-10T03:58:31.982Z,62.1322,-150.3814,53.1,2.3,ml,,,,0.33,ak,ak0238rxs34u,2023-07-10T04:00:10.827Z,"21 km SSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-10T03:54:09.950Z,38.8476677,-122.8171692,1.12,0.84,md,12,108,0.0229,0.05,nc,nc73910991,2023-07-10T04:36:14.117Z,"9km WNW of Cobb, CA",earthquake,0.3,0.92,0.19,12,automatic,nc,nc
 2023-07-10T03:45:00.948Z,63.5296,-150.7146,3.8,1.7,ml,,,,0.68,ak,ak0238rxp8fi,2023-07-10T03:47:27.802Z,"50 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-10T03:41:52.720Z,38.7851677,-122.7591629,2.86,1.49,md,29,64,0.01532,0.05,nc,nc73910986,2023-07-10T04:15:13.001Z,"1km NNW of The Geysers, CA",earthquake,0.26,0.45,0.17,27,automatic,nc,nc
+2023-07-10T03:41:52.720Z,38.7851677,-122.7591629,2.86,1.49,md,29,64,0.01532,0.05,nc,nc73910986,2023-07-10T05:14:11.358Z,"1km NNW of The Geysers, CA",earthquake,0.26,0.45,0.17,27,automatic,nc,nc
 2023-07-10T03:30:38.210Z,33.7528333,-116.1005,5.45,0.63,ml,15,93,0.134,0.11,ci,ci39608466,2023-07-10T03:34:13.593Z,"10km NE of Coachella, CA",earthquake,0.24,8.4,0.077,9,automatic,ci,ci
 2023-07-10T03:27:17.270Z,17.9363333333333,-66.9556666666667,15.44,2.86,md,31,215,0.05724,0.17,pr,pr71417083,2023-07-10T03:48:26.090Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.4,0.3,0.0748263292620979,9,reviewed,pr,pr
 2023-07-10T03:20:47.280Z,38.814167,-122.8075027,1.86,1.35,md,27,42,0.009431,0.02,nc,nc73910981,2023-07-10T04:20:11.057Z,"6km NW of The Geysers, CA",earthquake,0.19,0.31,0.14,26,automatic,nc,nc
@@ -233,7 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T05:25:43.510Z,58.1666666666667,-155.390833333333,2.11,0.12,ml,6,143,,0.07,av,av91954676,2023-07-09T14:56:53.520Z,"86 km NW of Karluk, Alaska",earthquake,0.27,0.75,0.207293550761922,6,reviewed,av,av
 2023-07-09T05:25:28.460Z,38.8546677,-122.8410034,0.13,0.79,md,10,170,0.01378,0.06,nc,nc73910521,2023-07-09T05:27:05.423Z,"11km WNW of Cobb, CA",earthquake,0.4,0.99,0.15,11,automatic,nc,nc
 2023-07-09T05:24:29.518Z,59.5564,-153.0385,85.1,1.5,ml,,,,0.32,ak,ak0238qb8bbb,2023-07-09T05:26:32.569Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-09T05:22:31.180Z,58.2716666666667,-154.928666666667,3.83,0.32,ml,6,150,,0.24,av,av91109758,2023-07-09T14:52:35.770Z,"Alaska Peninsula",earthquake,1.14,2.8,0.187254443575648,6,reviewed,av,av
-2023-07-09T05:21:01.666Z,58.28,-154.9453,4.9,0.7,ml,,,,0.21,ak,ak0238qb7m0m,2023-07-09T14:48:03.430Z,"84 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-09T05:19:07.489Z,58.2826,-154.9322,3.4,1.6,ml,,,,0.72,ak,ak0238qb7718,2023-07-09T14:43:35.040Z,"84 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-09T05:18:21.620Z,38.7495003,-122.7333298,1,1.07,md,9,152,0.00933,0.03,nc,nc73910511,2023-07-09T05:19:56.642Z,"4km SSE of The Geysers, CA",earthquake,0.32,0.52,0.12,10,automatic,nc,nc
