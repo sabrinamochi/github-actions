@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-10T12:14:19.468Z,60.4796,-150.914,31.5,1.4,ml,,,,0.65,ak,ak0238s2vj3u,2023-07-10T12:16:08.552Z,"7 km E of Soldotna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T12:07:47.720Z,33.0024986,-116.3203354,6.09,0.94,ml,22,120,0.04985,0.21,ci,ci39608642,2023-07-10T12:11:19.315Z,"24km SW of Ocotillo Wells, CA",earthquake,0.43,1.19,0.062,3,automatic,ci,ci
 2023-07-10T11:46:48.390Z,33.6376667,-116.6758333,12.99,0.36,ml,13,119,0.07738,0.08,ci,ci39608634,2023-07-10T11:50:16.171Z,"9km N of Anza, CA",earthquake,0.29,0.47,0.138,8,automatic,ci,ci
 2023-07-10T11:45:15.700Z,17.9703333333333,-66.8515,17.35,2.54,md,6,198,0.02683,0.08,pr,pr71417173,2023-07-10T11:57:11.830Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.54,0.62,0.0732562340245102,5,reviewed,pr,pr
@@ -34,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T07:58:34.230Z,33.6826667,-117.4551667,14.5,1.09,ml,15,203,0.04139,0.19,ci,ci39608554,2023-07-10T08:02:13.830Z,"11km WNW of Lakeland Village, CA",earthquake,1.4,1.03,0.247,19,automatic,ci,ci
 2023-07-10T07:54:42.890Z,35.6906667,-117.5105,10.01,1.11,ml,16,115,0.07512,0.19,ci,ci39608546,2023-07-10T07:58:11.819Z,"13km SW of Searles Valley, CA",earthquake,0.59,1.19,0.103,8,automatic,ci,ci
 2023-07-10T07:51:04.760Z,33.7055,-116.8163333,13.75,0.88,ml,38,69,0.07975,0.16,ci,ci39608538,2023-07-10T07:54:36.799Z,"8km ESE of Valle Vista, CA",earthquake,0.23,0.42,0.15,27,automatic,ci,ci
+2023-07-10T07:33:11.800Z,34.8291666666667,-91.2531666666667,0.81,1.67,md,18,205,0.7733,0.28,nm,nm60533936,2023-07-10T12:23:05.840Z,"8 km SW of Brinkley, Arkansas",earthquake,1,2.08,0.0926326545830092,12,reviewed,nm,nm
 2023-07-10T07:19:27.660Z,39.2425003,-123.1766663,2.32,1.42,md,7,100,0.1034,0.09,nc,nc73911026,2023-07-10T10:23:18.212Z,"4km SE of Redwood Valley, CA",earthquake,0.42,11.31,0.25,2,automatic,nc,nc
 2023-07-10T07:13:49.810Z,32.7871667,-115.4535,13.25,1.67,ml,18,112,0.01896,0.31,ci,ci39608522,2023-07-10T07:17:25.589Z,"7km WSW of Holtville, CA",earthquake,0.76,1.09,0.495,5,automatic,ci,ci
 2023-07-10T07:05:47.270Z,33.3973333,-116.3621667,3.46,0.77,ml,18,168,0.1368,0.17,ci,ci39608514,2023-07-10T07:09:18.535Z,"16km N of Borrego Springs, CA",earthquake,0.35,1.12,0.174,12,automatic,ci,ci
@@ -205,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T12:42:14.810Z,47.5131666666667,-114.9085,9.01,1.76,ml,17,64,0.1113,0.09,mb,mb90021023,2023-07-09T21:22:02.990Z,"6 km NNW of Plains, Montana",earthquake,0.28,1.12,0.147357947870385,9,reviewed,mb,mb
 2023-07-09T12:28:16.250Z,52.0933333333333,-176.256333333333,14.9,0.61,ml,6,304,,0.31,av,av91955096,2023-07-09T17:46:19.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,3.03,1.39,0.316433572068845,6,reviewed,av,av
 2023-07-09T12:28:11.885Z,63.3464,-145.454,5.8,1.5,ml,,,,0.72,ak,ak0238qff61w,2023-07-09T12:30:08.125Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-09T12:21:10.510Z,33.4648333,-116.4176667,8.41,0.84,ml,29,48,0.1499,0.22,ci,ci39608234,2023-07-09T13:12:02.088Z,"24km N of Borrego Springs, CA",earthquake,0.3,1.25,0.086,26,reviewed,ci,ci
-2023-07-09T12:18:21.330Z,46.50733184814453,-122.46833038330078,20.4400005340576,1.6781294345855713,ml,53,36,0.08425,0.0900000036,uw,uw61939116,2023-07-09T14:25:46.360Z,"2 km SSE of Mossyrock, Washington",earthquake,0.19,0.610000014,0.3109090328216553,39,reviewed,uw,uw
-2023-07-09T12:17:53.724Z,39.6148,-119.9685,6.4,0.7,ml,9,120.79,0.009,0.1145,nn,nn00862353,2023-07-09T14:57:38.620Z,"7 km S of Cold Springs, Nevada",earthquake,,1.2,0.17,4,reviewed,nn,nn
