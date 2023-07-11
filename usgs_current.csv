@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-11T17:19:39.402Z,39.3964,-120.1989,13.5,1.6,ml,8,181.98,0.163,0.0807,nn,nn00862438,2023-07-11T17:21:37.009Z,"7 km N of Truckee, California",earthquake,,1.5,0.39,6,automatic,nn,nn
 2023-07-11T17:14:33.830Z,38.8186684,-122.8248367,2.37,0.82,md,13,63,0.009117,0.01,nc,nc73911476,2023-07-11T17:16:09.022Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.72,0.2,14,automatic,nc,nc
-2023-07-11T17:10:28.700Z,38.5631676,-122.5501633,9.45,1.31,md,6,139,0.1059,0.02,nc,nc73911471,2023-07-11T17:13:12.211Z,"3 km SE of Calistoga, CA",earthquake,0.72,2.17,0.28,4,automatic,nc,nc
+2023-07-11T17:10:28.700Z,38.5631676,-122.5501633,9.45,1.31,md,6,139,0.1059,0.02,nc,nc73911471,2023-07-11T17:23:11.983Z,"3 km SE of Calistoga, CA",earthquake,0.72,2.17,0.28,4,automatic,nc,nc
 2023-07-11T17:09:11.900Z,38.8233337,-122.7874985,1.68,1.09,md,19,40,0.01138,0.01,nc,nc73911466,2023-07-11T17:11:57.340Z,"6 km W of Cobb, CA",earthquake,0.21,0.35,0.15,20,automatic,nc,nc
 2023-07-11T16:51:29.767Z,58.1793,-155.3602,1.2,1.9,ml,,,,0.36,ak,ak0238tt0kb4,2023-07-11T16:53:02.104Z,"86 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-07-11T16:42:12.154Z,62.1865,-149.6178,36,1.7,ml,,,,0.57,ak,ak0238tsyli7,2023-07-11T16:44:16.950Z,"12 km ENE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -169,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T00:22:00.450Z,58.1761666666667,-155.381833333333,1.15,-0.06,ml,7,130,,0.07,av,av91957606,2023-07-11T12:02:04.640Z,"87 km NW of Karluk, Alaska",earthquake,0.23,1.17,0.130628099566378,7,reviewed,av,av
 2023-07-11T00:11:33.430Z,58.189,-155.275833333333,2.7,0.2,ml,9,88,,0.08,av,av91957591,2023-07-11T11:58:07.510Z,"Alaska Peninsula",earthquake,0.24,0.5,0.277768904941714,9,reviewed,av,av
 2023-07-11T00:10:05.900Z,51.8076666666667,-178.783333333333,7.76,0.96,ml,5,125,,0.07,av,av91957596,2023-07-11T11:54:25.510Z,"148 km W of Adak, Alaska",earthquake,1.01,0.67,0.122162940763738,5,reviewed,av,av
+2023-07-11T00:00:43.350Z,44.7158333333333,-111.833166666667,10.71,1.27,ml,12,98,0.1202,0.2,mb,mb90021108,2023-07-11T17:23:02.500Z,"48 km NE of Spencer, Idaho",earthquake,0.61,0.87,0.287565168098511,9,reviewed,mb,mb
 2023-07-10T23:51:44.930Z,43.1703333333333,-110.64,5.04,0.99,ml,7,218,0.3012,0.18,mb,mb90021103,2023-07-11T17:15:39.470Z,"17 km SE of Hoback, Wyoming",earthquake,1.27,12.38,0.156158489896677,6,reviewed,mb,mb
 2023-07-10T23:46:35.730Z,-4.8824,-80.7017,52.302,4.6,mb,124,65,1.469,0.62,us,us7000kerd,2023-07-11T03:02:29.730Z,"0 km SE of Marcavelica, Peru",earthquake,8.41,8.132,0.042,166,reviewed,us,us
 2023-07-10T23:45:48.206Z,61.4728,-146.5416,18.4,1.6,ml,,,,0.6,ak,ak0238s9m06c,2023-07-10T23:47:52.512Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
