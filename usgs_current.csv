@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T17:19:39.402Z,39.3964,-120.1989,13.5,1.6,ml,8,181.98,0.163,0.0807,nn,nn00862438,2023-07-11T17:21:37.009Z,"7 km N of Truckee, California",earthquake,,1.5,0.39,6,automatic,nn,nn
+2023-07-11T17:14:33.830Z,38.8186684,-122.8248367,2.37,0.82,md,13,63,0.009117,0.01,nc,nc73911476,2023-07-11T17:16:09.022Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.72,0.2,14,automatic,nc,nc
 2023-07-11T17:10:28.700Z,38.5631676,-122.5501633,9.45,1.31,md,6,139,0.1059,0.02,nc,nc73911471,2023-07-11T17:13:12.211Z,"3 km SE of Calistoga, CA",earthquake,0.72,2.17,0.28,4,automatic,nc,nc
 2023-07-11T17:09:11.900Z,38.8233337,-122.7874985,1.68,1.09,md,19,40,0.01138,0.01,nc,nc73911466,2023-07-11T17:11:57.340Z,"6 km W of Cobb, CA",earthquake,0.21,0.35,0.15,20,automatic,nc,nc
 2023-07-11T16:51:29.767Z,58.1793,-155.3602,1.2,1.9,ml,,,,0.36,ak,ak0238tt0kb4,2023-07-11T16:53:02.104Z,"86 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-07-11T16:42:12.154Z,62.1865,-149.6178,36,1.7,ml,,,,0.57,ak,ak0238tsyli7,2023-07-11T16:44:16.950Z,"12 km ENE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-11T16:31:22.920Z,38.8406677,-122.8215027,1.94,1.15,md,20,62,0.01112,0.04,nc,nc73911456,2023-07-11T17:05:12.542Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.52,0.19,19,automatic,nc,nc
+2023-07-11T16:28:04.223Z,43.2962,17.3651,10,4.5,mb,51,25,1.458,0.86,us,us7000kewy,2023-07-11T17:18:16.040Z,"7 km SSE of Drinovci, Bosnia and Herzegovina",earthquake,3.9,1.908,0.119,21,reviewed,us,us
 2023-07-11T16:07:19.070Z,33.1361667,-115.6373333,6.86,1.91,ml,35,73,0.04503,0.19,ci,ci39609898,2023-07-11T16:17:46.850Z,"11km N of Westmorland, CA",earthquake,0.29,0.66,0.203,26,automatic,ci,ci
 2023-07-11T16:06:37.128Z,60.5739,-141.7177,10,1.4,ml,,,,0.28,ak,ak0238tsqxnk,2023-07-11T16:08:39.259Z,"115 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T15:53:14.740Z,35.5616667,-117.3846667,0.69,1.65,ml,16,83,0.04015,0.24,ci,ci39609882,2023-07-11T15:56:59.288Z,"22km S of Trona, CA",earthquake,0.43,0.78,0.145,22,automatic,ci,ci
@@ -166,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T00:22:00.450Z,58.1761666666667,-155.381833333333,1.15,-0.06,ml,7,130,,0.07,av,av91957606,2023-07-11T12:02:04.640Z,"87 km NW of Karluk, Alaska",earthquake,0.23,1.17,0.130628099566378,7,reviewed,av,av
 2023-07-11T00:11:33.430Z,58.189,-155.275833333333,2.7,0.2,ml,9,88,,0.08,av,av91957591,2023-07-11T11:58:07.510Z,"Alaska Peninsula",earthquake,0.24,0.5,0.277768904941714,9,reviewed,av,av
 2023-07-11T00:10:05.900Z,51.8076666666667,-178.783333333333,7.76,0.96,ml,5,125,,0.07,av,av91957596,2023-07-11T11:54:25.510Z,"148 km W of Adak, Alaska",earthquake,1.01,0.67,0.122162940763738,5,reviewed,av,av
+2023-07-10T23:51:44.930Z,43.1703333333333,-110.64,5.04,0.99,ml,7,218,0.3012,0.18,mb,mb90021103,2023-07-11T17:15:39.470Z,"17 km SE of Hoback, Wyoming",earthquake,1.27,12.38,0.156158489896677,6,reviewed,mb,mb
 2023-07-10T23:46:35.730Z,-4.8824,-80.7017,52.302,4.6,mb,124,65,1.469,0.62,us,us7000kerd,2023-07-11T03:02:29.730Z,"0 km SE of Marcavelica, Peru",earthquake,8.41,8.132,0.042,166,reviewed,us,us
 2023-07-10T23:45:48.206Z,61.4728,-146.5416,18.4,1.6,ml,,,,0.6,ak,ak0238s9m06c,2023-07-10T23:47:52.512Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-10T23:09:15.640Z,58.178,-155.309666666667,0.58,-0.02,ml,7,105,,0.04,av,av91957541,2023-07-11T12:50:15.750Z,"Alaska Peninsula",earthquake,0.23,2.05,0.347777444161874,7,reviewed,av,av
@@ -202,6 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T20:35:52.715Z,63.2553,-150.4523,47.8,1.1,ml,,,,0.83,ak,ak0238s7rkjr,2023-07-10T20:37:40.954Z,"Central Alaska",earthquake,,3,,,automatic,ak,ak
 2023-07-10T20:28:25.740Z,20.0437,-61.0833,10,6.6,mww,95,37,2.454,0.81,us,us7000keq3,2023-07-11T17:02:00.040Z,"277 km NNE of Codrington, Antigua and Barbuda",earthquake,7.63,1.809,0.057,30,reviewed,us,us
 2023-07-10T20:23:00.360Z,37.6155,-122.4635,7.7,1.35,md,24,111,0.02345,0.06,nc,nc73911196,2023-07-11T02:55:13.327Z,"2 km E of Pacifica, CA",earthquake,0.19,0.3,0.104,16,reviewed,nc,nc
+2023-07-10T20:20:24.660Z,33.474,-116.872,11.31,0.11,ml,15,62,0.03384,0.09,ci,ci39609098,2023-07-11T17:19:01.105Z,"4km N of Aguanga, CA",earthquake,0.22,0.37,0.058,1,reviewed,ci,ci
 2023-07-10T20:06:05.880Z,38.7561667,-122.7435,1.25,1.62,md,45,53,0.003531,0.04,nc,nc73911191,2023-07-11T03:22:13.501Z,"3 km SSE of The Geysers, CA",earthquake,0.11,0.16,0.145,42,reviewed,nc,nc
 2023-07-10T19:59:18.710Z,37.6071667,-118.8233333,2.97,0.85,md,16,121,0.01771,0.04,nc,nc73911186,2023-07-11T00:26:15.426Z,"14 km WNW of Toms Place, CA",earthquake,0.3,0.36,0.131,15,reviewed,nc,nc
 2023-07-10T19:57:28.077Z,62.0827,-150.2946,17.9,0.8,ml,,,,0.33,ak,ak0238s7assd,2023-07-10T19:59:40.560Z,"24 km WSW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
