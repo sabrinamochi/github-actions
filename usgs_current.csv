@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T13:43:52.030Z,35.86621475,-98.05736542,3.150644064,1.58,ml,13,88.07678986,0.1043386608,0.2538009743,ok,ok2023nmag,2023-07-11T13:46:51.059Z,"Oklahoma",earthquake,4.085648659,4.227247852,0.1,6,automatic,ok,ok
 2023-07-11T13:30:39.970Z,35.5291667,-117.3866667,10.11,2.04,ml,25,49,0.01854,0.2,ci,ci39609722,2023-07-11T13:34:17.094Z,"26km S of Trona, CA",earthquake,0.34,0.55,0.153,25,automatic,ci,ci
 2023-07-11T13:24:09.230Z,32.7396667,-115.5646667,13.67,1.26,ml,14,109,0.05382,0.3,ci,ci39609714,2023-07-11T13:27:40.179Z,"3km WNW of Heber, CA",earthquake,0.91,1.12,0.359,13,automatic,ci,ci
 2023-07-11T13:16:13.224Z,62.2101,-150.26,16.4,1.6,ml,,,,0.31,ak,ak0238tr0q5m,2023-07-11T13:17:37.059Z,"11 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -167,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T20:53:22.990Z,33.6865,-116.7546667,14.3,0.63,ml,19,64,0.09597,0.27,ci,ci39609114,2023-07-10T22:12:32.289Z,"7km SSW of Idyllwild, CA",earthquake,0.65,1.11,0.167,4,automatic,ci,ci
 2023-07-10T20:49:54.924Z,61.472,-146.5253,35.7,1.6,ml,,,,0.66,ak,ak0238s7ukqm,2023-07-10T20:52:43.714Z,"39 km NNW of Valdez, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-10T20:35:52.715Z,63.2553,-150.4523,47.8,1.1,ml,,,,0.83,ak,ak0238s7rkjr,2023-07-10T20:37:40.954Z,"71 km ESE of Denali National Park, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-07-10T20:28:25.740Z,20.0437,-61.0833,10,6.6,mww,95,37,2.454,0.81,us,us7000keq3,2023-07-11T13:28:43.136Z,"277 km NNE of Codrington, Antigua and Barbuda",earthquake,7.63,1.809,0.057,30,reviewed,us,us
+2023-07-10T20:28:25.740Z,20.0437,-61.0833,10,6.6,mww,95,37,2.454,0.81,us,us7000keq3,2023-07-11T13:47:10.545Z,"277 km NNE of Codrington, Antigua and Barbuda",earthquake,7.63,1.809,0.057,30,reviewed,us,us
 2023-07-10T20:23:00.360Z,37.6155,-122.4635,7.7,1.35,md,24,111,0.02345,0.06,nc,nc73911196,2023-07-11T02:55:13.327Z,"2 km E of Pacifica, CA",earthquake,0.19,0.3,0.104,16,reviewed,nc,nc
 2023-07-10T20:06:05.880Z,38.7561667,-122.7435,1.25,1.62,md,45,53,0.003531,0.04,nc,nc73911191,2023-07-11T03:22:13.501Z,"3 km SSE of The Geysers, CA",earthquake,0.11,0.16,0.145,42,reviewed,nc,nc
 2023-07-10T19:59:18.710Z,37.6071667,-118.8233333,2.97,0.85,md,16,121,0.01771,0.04,nc,nc73911186,2023-07-11T00:26:15.426Z,"14 km WNW of Toms Place, CA",earthquake,0.3,0.36,0.131,15,reviewed,nc,nc
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T14:23:53.940Z,33.4888333,-116.4683333,15.24,0.53,ml,19,102,0.112,0.21,ci,ci39608730,2023-07-10T14:27:21.101Z,"20km ESE of Anza, CA",earthquake,0.48,1.35,0.157,13,automatic,ci,ci
 2023-07-10T14:19:58.168Z,-32.6091,179.8145,340.196,4,mb,15,190,5.094,1.13,us,us7000kelf,2023-07-10T16:38:28.040Z,"south of the Kermadec Islands",earthquake,11.67,10.558,0.156,11,reviewed,us,us
 2023-07-10T13:58:06.590Z,38.8701,-119.6403,2.4,0,ml,4,256.39,0.034,0.1391,nn,nn00862419,2023-07-10T23:39:24.315Z,"Nevada",earthquake,,5.4,0,1,reviewed,nn,nn
-2023-07-10T13:49:50.407Z,-6.3609,149.2983,39.135,4.7,mb,55,93,3.576,0.71,us,us7000keld,2023-07-10T16:05:31.040Z,"32 km WSW of Kandrian, Papua New Guinea",earthquake,9.78,7.51,0.073,57,reviewed,us,us
-2023-07-10T13:43:32.625Z,59.6268,-152.8591,100.5,2.1,ml,,,,0.52,ak,ak0238s3n7he,2023-07-10T16:00:52.040Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
