@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-12T20:49:36.893Z,56.6493,-155.9475,51.6,3,ml,,,,0.8,ak,ak0238vix8c9,2023-07-12T20:51:30.444Z,"113 km WSW of Akhiok, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-07-12T20:48:10.891Z,60.5426,-151.7087,73.3,1.1,ml,,,,0.46,ak,ak0238viwym9,2023-07-12T20:49:48.284Z,"22 km WSW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-12T20:47:08.100Z,38.8248329,-122.7656631,2.09,1.09,md,15,124,0.006536,0.03,nc,nc73912011,2023-07-12T20:49:49.252Z,"4 km W of Cobb, CA",earthquake,0.32,0.57,0.14,15,automatic,nc,nc
 2023-07-12T20:25:36.193Z,59.4036,-151.2804,18.3,1.3,ml,,,,1,ak,ak0238vis33n,2023-07-12T20:27:45.488Z,"21 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -58,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T14:36:34.360Z,38.8349991,-122.8156662,3.65,1.1,md,21,60,0.01238,0.07,nc,nc73911901,2023-07-12T16:48:12.280Z,"8 km W of Cobb, CA",earthquake,0.32,0.75,0.15,20,automatic,nc,nc
 2023-07-12T14:25:32.670Z,38.8148333,-122.8085,3.21,0.47,md,26,43,0.008637,0.02,nc,nc73911896,2023-07-12T19:53:28.710Z,"6 km NW of The Geysers, CA",earthquake,0.18,0.39,0.168,26,reviewed,nc,nc
 2023-07-12T14:24:49.850Z,44.6175,-112.585666666667,7.89,1.07,ml,9,99,0.04165,0.05,mb,mb90021288,2023-07-12T16:40:24.750Z,"2 km SSE of Lima, Montana",earthquake,0.3,0.44,0.255668151949198,9,reviewed,mb,mb
+2023-07-12T14:14:15.060Z,52.7415,-169.904833333333,9.43,0.98,ml,5,269,,0.2,av,av91110073,2023-07-12T20:51:24.060Z,"73 km WSW of Nikolski, Alaska",earthquake,2.41,2.25,0.419854794976629,5,reviewed,av,av
 2023-07-12T14:02:13.518Z,59.1098,-151.4878,26.8,2.4,ml,,,,0.44,ak,ak0238vf2i93,2023-07-12T14:03:50.594Z,"33 km SE of Port Graham, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-12T14:00:04.400Z,38.9088333,-122.9883333,5.21,0.88,md,28,72,0.07168,0.07,nc,nc73911891,2023-07-12T20:06:15.543Z,"12 km NNE of Cloverdale, CA",earthquake,0.27,0.63,0.146,27,reviewed,nc,nc
 2023-07-12T13:46:35.640Z,33.9698333,-116.676,20.69,0.84,ml,26,66,0.07237,0.3,ci,ci39610602,2023-07-12T13:50:10.017Z,"12km ENE of Cabazon, CA",earthquake,0.54,1.12,0.173,19,automatic,ci,ci
@@ -108,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T09:14:29.510Z,35.924,-120.476,4.95,0.17,md,12,149,0.03627,0.05,nc,nc73911816,2023-07-12T19:33:55.878Z,"5 km NW of Parkfield, CA",earthquake,0.4,0.68,0.235,6,reviewed,nc,nc
 2023-07-12T09:06:02.190Z,37.9428333,-122.0358333,10.03,1.43,md,31,96,0.02987,0.1,nc,nc73911811,2023-07-12T20:38:13.735Z,"2 km ESE of Pleasant Hill, CA",earthquake,0.19,0.34,0.165,22,reviewed,nc,nc
 2023-07-12T08:59:20.620Z,33.7145,-116.8188333,16.36,0.79,ml,24,155,0.08731,0.16,ci,ci39610546,2023-07-12T13:33:13.722Z,"8km ESE of Valle Vista, CA",earthquake,0.39,0.46,0.119,17,reviewed,ci,ci
-2023-07-12T08:43:12.637Z,37.4117,-114.3311,5,1.5,ml,14,87.37,0.38,0.1298,nn,nn00862466,2023-07-12T16:11:40.365Z,"27 km SE of Caliente, Nevada",earthquake,,1.9,0.58,9,reviewed,nn,nn
+2023-07-12T08:43:12.637Z,37.4117,-114.3311,5,1.5,ml,14,87.37,0.38,0.1298,nn,nn00862466,2023-07-12T16:11:40.365Z,"Nevada",earthquake,,1.9,0.58,9,reviewed,nn,nn
 2023-07-12T08:43:08.219Z,58.4433,-154.2671,2,0.9,ml,,,,0.32,ak,ak0238vbqoog,2023-07-12T08:45:22.332Z,"Alaska Peninsula",earthquake,,5.2,,,automatic,ak,ak
 2023-07-12T08:39:35.016Z,-10.2421,118.7994,49.253,5,mww,59,84,1.73,0.73,us,us7000kf1p,2023-07-12T08:56:06.040Z,"102 km SSW of Tambolaka, Indonesia",earthquake,7.16,7.68,0.093,11,reviewed,us,us
 2023-07-12T08:35:00.930Z,34.055,-118.9315,11.76,1.41,ml,20,166,0.0351,0.31,ci,ci39610538,2023-07-12T08:38:41.589Z,"12km WNW of Malibu, CA",earthquake,0.78,0.79,0.209,29,automatic,ci,ci
@@ -203,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T01:12:39.910Z,38.8128333,-122.8265,2.36,1.07,md,36,47,0.004478,0.05,nc,nc73911646,2023-07-12T16:42:14.249Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.28,0.124,31,reviewed,nc,nc
 2023-07-12T01:05:59.300Z,38.7875,-122.7565,3.69,0.13,md,20,91,0.01334,0.03,nc,nc73911636,2023-07-12T16:21:14.125Z,"1 km N of The Geysers, CA",earthquake,0.28,0.34,0.228,13,reviewed,nc,nc
 2023-07-12T01:02:49.850Z,38.8093338,-122.8128357,2.27,0.96,md,10,59,0.01278,0.02,nc,nc73911631,2023-07-12T01:46:13.056Z,"6 km NW of The Geysers, CA",earthquake,0.41,0.91,0.2,11,automatic,nc,nc
-2023-07-12T01:02:49.714Z,39.7468,-120.1384,9.4,0.1,ml,4,169.71,0.195,0.0607,nn,nn00862474,2023-07-12T16:14:46.967Z,"6 km S of Chilcoot-Vinton, California",earthquake,,6,0.09,3,reviewed,nn,nn
+2023-07-12T01:02:49.714Z,39.7468,-120.1384,9.4,0.1,ml,4,169.71,0.195,0.0607,nn,nn00862474,2023-07-12T16:14:46.967Z,"Northern California",earthquake,,6,0.09,3,reviewed,nn,nn
 2023-07-12T00:59:57.550Z,44.614,-112.586,7.36,1.12,ml,11,66,0.04154,0.04,mb,mb90021223,2023-07-12T16:59:01.800Z,"2 km S of Lima, Montana",earthquake,0.24,0.41,0.118961448347638,12,reviewed,mb,mb
 2023-07-12T00:54:22.090Z,37.5108333,-118.8555,5.77,0.71,md,15,291,0.08179,0.04,nc,nc73911621,2023-07-12T18:11:15.780Z,"16 km WSW of Toms Place, CA",earthquake,0.93,1.23,0.145,14,reviewed,nc,nc
 2023-07-12T00:54:04.730Z,39.3875,-123.2986667,5,1.16,md,9,86,0.03474,0.08,nc,nc73911616,2023-07-12T12:35:18.846Z,"6 km ESE of Willits, CA",earthquake,0.28,1.02,0.137,8,reviewed,nc,nc
@@ -257,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T21:38:25.652Z,62.9114,-151.1427,65.6,1.8,ml,,,,1.28,ak,ak0238tvwxph,2023-07-11T21:40:26.978Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-11T21:29:26.530Z,37.7741667,-122.0498333,3.1,0.76,md,11,118,0.03815,0.13,nc,nc73911536,2023-07-12T17:15:12.590Z,"6 km W of San Ramon, CA",earthquake,0.41,0.83,0.498,7,reviewed,nc,nc
 2023-07-11T21:25:40.097Z,58.7975,-154.296,85.6,1.7,ml,,,,0.34,ak,ak0238tvu6ih,2023-07-11T21:27:24.662Z,"76 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-11T20:50:29.010Z,45.354166666666664,-123.22616666666667,0.42,0.92,ml,6,113,0.1212,0.09,uw,uw61939801,2023-07-11T23:33:07.680Z,"3 km WNW of Yamhill, Oregon",earthquake,0.24,0.33,0.21741351986768143,4,reviewed,uw,uw
