@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-12T22:19:33.222Z,58.8765,-153.5496,54.2,1.7,ml,,,,0.88,ak,ak0238vjxnsa,2023-07-12T22:21:43.315Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-12T22:19:17.788Z,59.9571,-153.0936,128,1.8,ml,,,,0.12,ak,ak0238vjxmle,2023-07-12T22:20:43.930Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-07-12T22:18:15.363Z,62.9,-151.1259,31.9,1.4,ml,,,,1.56,ak,ak0238vjxeow,2023-07-12T22:20:07.775Z,"48 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-12T22:15:29.480Z,33.6436667,-116.714,13.38,1.53,ml,51,36,0.06506,0.19,ci,ci39611170,2023-07-12T22:19:09.232Z,"10km NNW of Anza, CA",earthquake,0.2,0.38,0.209,25,automatic,ci,ci
+2023-07-12T22:13:31.780Z,33.6391667,-116.707,13.22,1.12,ml,38,53,0.06579,0.22,ci,ci39611162,2023-07-12T22:17:00.222Z,"10km NNW of Anza, CA",earthquake,0.29,0.53,0.181,28,automatic,ci,ci
 2023-07-12T22:08:45.710Z,33.6476667,-116.6975,11.27,0.62,ml,22,99,0.06484,0.2,ci,ci39611154,2023-07-12T22:12:25.567Z,"10km S of Idyllwild, CA",earthquake,0.38,0.7,0.277,6,automatic,ci,ci
 2023-07-12T21:59:21.890Z,19.3371658325195,-155.200836181641,4.21999979019165,1.74000001,md,33,123,,0.230000004,hv,hv73479847,2023-07-12T22:02:33.480Z,"12 km SSE of Volcano, Hawaii",earthquake,0.55,1.22000003,1.05999994,17,automatic,hv,hv
 2023-07-12T21:28:13.956Z,62.4236,-150.9139,62.8,1.1,ml,,,,0.88,ak,ak0238vje44z,2023-07-12T21:30:17.126Z,"11 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -13,9 +18,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T20:25:36.193Z,59.4036,-151.2804,18.3,1.3,ml,,,,1,ak,ak0238vis33n,2023-07-12T20:27:45.488Z,"21 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-12T20:21:57.360Z,19.1898326873779,-155.496002197266,29.7999992370605,1.73000002,md,23,128,,0.109999999,hv,hv73479742,2023-07-12T20:25:02.360Z,"2 km SW of Pāhala, Hawaii",earthquake,1.19,0.819999993,0.629999995,7,automatic,hv,hv
 2023-07-12T20:17:12.710Z,38.7946663,-122.7296677,2.1,0.83,md,10,102,0.01268,0.02,nc,nc73912006,2023-07-12T20:18:49.167Z,"3 km NE of The Geysers, CA",earthquake,0.34,1.36,0.15,10,automatic,nc,nc
+2023-07-12T20:12:33.950Z,46.20033333333333,-123.03983333333333,-0.41,1.87,ml,9,88,0.09316,0.35,uw,uw61940061,2023-07-12T22:15:25.100Z,"4 km NW of West Longview, Washington",explosion,1.16,31.61,0.1098686635406172,4,reviewed,uw,uw
 2023-07-12T20:02:29.710Z,33.5678333,-117.5126667,2.16,1.11,ml,13,143,0.03891,0.19,ci,ci39611042,2023-07-12T20:06:11.109Z,"8km ESE of Coto De Caza, CA",earthquake,0.65,0.73,0.153,18,automatic,ci,ci
 2023-07-12T20:00:52.567Z,60.9378,-152.3631,94.6,1.4,ml,,,,1.46,ak,ak0238vimrfz,2023-07-12T20:03:52.564Z,"64 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-12T19:45:38.458Z,61.5306,-149.8562,34.5,3.1,ml,,,,0.28,ak,ak0238viaxzp,2023-07-12T20:49:45.649Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-12T19:36:47.820Z,45.412333333333336,-123.7365,-0.24,1.51,ml,9,83,0.04226,0.21,uw,uw61940046,2023-07-12T22:21:39.030Z,"9 km ESE of Tillamook, Oregon",explosion,0.3,31.61,0.18699673685225715,6,reviewed,uw,uw
 2023-07-12T19:35:40.557Z,60.0397,-147.7985,20.5,1.4,ml,,,,0.35,ak,ak0238vi8szr,2023-07-12T19:54:50.017Z,"12 km ESE of Chenega, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-12T19:32:36.330Z,37.2876667,-121.6603333,4.18,1.13,md,20,45,0.03039,0.1,nc,nc73912001,2023-07-12T21:09:17.944Z,"16 km E of Seven Trees, CA",earthquake,0.2,0.37,0.153,19,reviewed,nc,nc
 2023-07-12T19:32:18.917Z,36.6559,-116.2642,6.7,0.5,ml,23,95.47,0.061,0.0995,nn,nn00862483,2023-07-12T20:34:18.322Z,"52 km ESE of Beatty, Nevada",earthquake,,0.8,0.39,8,reviewed,nn,nn
