@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-12T13:46:35.640Z,33.9698333,-116.676,20.69,0.84,ml,26,66,0.07237,0.3,ci,ci39610602,2023-07-12T13:50:10.017Z,"12km ENE of Cabazon, CA",earthquake,0.54,1.12,0.173,19,automatic,ci,ci
-2023-07-12T13:45:06.330Z,35.9889984,-119.9406662,24.25,2.12,md,16,92,0.2878,0.15,nc,nc73911886,2023-07-12T13:48:03.810Z,"3 km SE of Kettleman City, CA",earthquake,1.33,0.8,0.11,8,automatic,nc,nc
+2023-07-12T13:45:06.330Z,35.9889984,-119.9406662,24.25,2.12,md,16,92,0.2878,0.15,nc,nc73911886,2023-07-12T13:53:14.279Z,"3 km SE of Kettleman City, CA",earthquake,1.33,0.8,0.11,8,automatic,nc,nc
 2023-07-12T13:26:55.820Z,19.2533340454102,-155.410995483398,35.1199989318848,2.23,ml,46,136,,0.129999995,hv,hv73479542,2023-07-12T13:32:26.240Z,"9 km NE of Pāhala, Hawaii",earthquake,0.6,0.730000019,2.68,11,automatic,hv,hv
 2023-07-12T13:26:30.718Z,57.364,-150.6944,0,3,ml,,,,1.07,ak,ak0238vem8un,2023-07-12T13:29:00.884Z,"99 km ESE of Chiniak, Alaska",earthquake,,479.8,,,automatic,ak,ak
 2023-07-12T13:24:55.040Z,38.8163338,-122.8199997,2.38,1.09,md,18,53,0.01034,0.02,nc,nc73911881,2023-07-12T13:43:12.225Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.5,0.15,19,automatic,nc,nc
+2023-07-12T13:22:31.750Z,44.6136666666667,-112.584666666667,7.89,2.67,ml,12,79,0.04252,0.05,mb,mb90021243,2023-07-12T13:55:48.870Z,"Idaho-Montana border region",earthquake,0.26,0.45,0.207377151070644,37,reviewed,mb,mb
 2023-07-12T13:18:33.969Z,58.2968,-152.914,250,0.5,ml,,,,0.82,ak,ak0238vekph9,2023-07-12T13:21:45.550Z,"26 km N of Aleneva, Alaska",earthquake,,12.8,,,automatic,ak,ak
 2023-07-12T13:09:21.275Z,63.2759,-150.5217,132,1.1,ml,,,,0.04,ak,ak0238veil9b,2023-07-12T13:11:15.015Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-07-12T12:59:57.869Z,58.1861,-155.2454,0,1.2,ml,,,,0.87,ak,ak0238ve7ya2,2023-07-12T13:03:03.790Z,"83 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T12:10:28.270Z,38.8336678,-122.8138351,1.75,1.11,md,24,54,0.01067,0.05,nc,nc73911876,2023-07-12T12:43:10.884Z,"8 km W of Cobb, CA",earthquake,0.2,0.4,0.14,24,automatic,nc,nc
 2023-07-12T12:09:29.180Z,60.5562,-145.2558,16.1,1.1,ml,,,,1.01,ak,ak0238vdx69i,2023-07-12T12:11:26.158Z,"27 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-12T12:05:57.400Z,-5.0705,150.8895,220.633,4.7,mb,62,100,5.678,0.53,us,us7000kf2k,2023-07-12T12:23:33.040Z,"98 km ENE of Kimbe, Papua New Guinea",earthquake,4.25,7.565,0.074,55,reviewed,us,us
-2023-07-12T11:28:14.390Z,38.8348351,-122.8268356,4.8,0.25,md,13,90,0.007727,0.05,nc,nc73911866,2023-07-12T11:45:14.575Z,"9 km NW of The Geysers, CA",earthquake,0.67,1.19,0.15,13,automatic,nc,nc
+2023-07-12T11:28:14.390Z,38.8348351,-122.8268356,4.8,0.25,md,13,90,0.007727,0.05,nc,nc73911866,2023-07-12T13:57:15.303Z,"9 km NW of The Geysers, CA",earthquake,0.67,1.19,0.15,13,automatic,nc,nc
 2023-07-12T11:16:14.169Z,35.66966667,-98.10716667,4.9,1.71,ml,90,46,0.09268181267,0.54,ok,ok2023nnqx,2023-07-12T12:00:19.990Z,"Oklahoma",earthquake,,1.2,0.25,40,reviewed,ok,ok
 2023-07-12T11:05:26.090Z,38.8400002,-122.8233337,1.81,0.93,md,14,86,0.009595,0.03,nc,nc73911861,2023-07-12T11:28:14.487Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.65,0.2,14,automatic,nc,nc
 2023-07-12T11:03:34.642Z,61.302,-150.2774,33.6,1,ml,,,,1.09,ak,ak0238vdags9,2023-07-12T11:14:10.697Z,"17 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T14:05:59.998Z,23.1111,93.9972,77.884,4.3,mb,57,153,3.658,0.69,us,us7000keva,2023-07-11T14:43:18.040Z,"39 km ENE of Falam, Myanmar",earthquake,4.65,8.207,0.082,42,reviewed,us,us
 2023-07-11T14:04:11.080Z,46.889833333333335,-121.93916666666667,8.15,0.38,ml,13,145,0.01371,0.1,uw,uw61939731,2023-07-11T23:03:08.420Z,"16 km NNE of Ashford, Washington",earthquake,0.57,0.43,0.15122854283214737,8,reviewed,uw,uw
 2023-07-11T14:03:45.590Z,36.02633333,-97.91483333,7.44,2.16,ml,92,38,0.09358163609,0.21,ok,ok2023nmax,2023-07-11T14:26:36.301Z,"4 km N of Dover, Oklahoma",earthquake,,0.6,0.25,56,reviewed,ok,ok
-2023-07-11T13:58:14.400Z,48.0423333333333,-114.1965,1.76,0.37,ml,6,186,0.1017,0.02,mb,mb90021178,2023-07-11T21:48:57.890Z,"3 km NE of Lakeside, Montana",earthquake,1.05,1.58,0.0859540113893964,2,reviewed,mb,mb
-2023-07-11T13:54:04.637Z,45.3896,-66.4779,5.018,1.4,ml,9,114,0.374,0.43,us,us7000kf0x,2023-07-12T05:07:42.040Z,"35 km WNW of Saint John, Canada",earthquake,1.81,5.156,0.128,8,reviewed,us,us
