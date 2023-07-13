@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T01:51:05.020Z,31.7571667,-115.9266667,10.95,2.62,ml,11,56,0.2476,0.23,ci,ci39611410,2023-07-13T01:54:49.485Z,"61km E of Maneadero, B.C., MX",earthquake,0.62,1.66,0.118,26,automatic,ci,ci
 2023-07-13T01:50:07.614Z,61.0434,-152.4444,105.7,1.3,ml,,,,0.37,ak,ak0238wv5hsp,2023-07-13T01:52:47.644Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-13T01:46:44.420Z,33.2505,-116.1885,7.75,0.91,ml,20,82,0.09612,0.25,ci,ci39611402,2023-07-13T01:50:28.889Z,"13km NNW of Ocotillo Wells, CA",earthquake,0.52,2.54,0.18,10,automatic,ci,ci
-2023-07-13T01:42:53.270Z,31.7583332,-115.9223328,11.11,4.05,mlr,41,56,0.2467,0.24,ci,ci39611306,2023-07-13T03:29:55.613Z,"61km E of Maneadero, B.C., MX",earthquake,0.25,0.73,0.185,18,reviewed,ci,ci
+2023-07-13T01:42:53.270Z,31.7583332,-115.9223328,11.11,4.05,mlr,41,56,0.2467,0.24,ci,ci39611306,2023-07-13T03:38:53.812Z,"61km E of Maneadero, B.C., MX",earthquake,0.25,0.73,0.185,18,reviewed,ci,ci
 2023-07-13T01:37:10.280Z,38.8040009,-122.8199997,7.44,0.78,md,15,61,0.008663,0.11,nc,nc73912091,2023-07-13T01:56:12.820Z,"6 km WNW of The Geysers, CA",earthquake,0.72,0.94,0.17,14,automatic,nc,nc
 2023-07-13T01:35:12.533Z,60.8906,-152.5152,107.1,1.2,ml,,,,0.28,ak,ak0238wv2afp,2023-07-13T01:37:20.703Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-13T01:32:34.330Z,33.6541667,-116.7831667,10.09,0.6,ml,14,80,0.06238,0.13,ci,ci39611298,2023-07-13T01:36:02.393Z,"11km SSW of Idyllwild, CA",earthquake,0.31,0.52,0.118,12,automatic,ci,ci
@@ -189,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T09:14:29.510Z,35.924,-120.476,4.95,0.17,md,12,149,0.03627,0.05,nc,nc73911816,2023-07-12T19:33:55.878Z,"5 km NW of Parkfield, CA",earthquake,0.4,0.68,0.235,6,reviewed,nc,nc
 2023-07-12T09:06:02.190Z,37.9428333,-122.0358333,10.03,1.43,md,31,96,0.02987,0.1,nc,nc73911811,2023-07-12T23:54:13.995Z,"2 km ESE of Pleasant Hill, CA",earthquake,0.19,0.34,0.165,22,reviewed,nc,nc
 2023-07-12T08:59:20.620Z,33.7145,-116.8188333,16.36,0.79,ml,24,155,0.08731,0.16,ci,ci39610546,2023-07-12T13:33:13.722Z,"8km ESE of Valle Vista, CA",earthquake,0.39,0.46,0.119,17,reviewed,ci,ci
-2023-07-12T08:43:12.637Z,37.4117,-114.3311,5,1.5,ml,14,87.37,0.38,0.1298,nn,nn00862466,2023-07-12T16:11:40.365Z,"27 km SE of Caliente, Nevada",earthquake,,1.9,0.58,9,reviewed,nn,nn
+2023-07-12T08:43:12.637Z,37.4117,-114.3311,5,1.5,ml,14,87.37,0.38,0.1298,nn,nn00862466,2023-07-12T16:11:40.365Z,"Nevada",earthquake,,1.9,0.58,9,reviewed,nn,nn
 2023-07-12T08:43:08.219Z,58.4433,-154.2671,2,0.9,ml,,,,0.32,ak,ak0238vbqoog,2023-07-12T08:45:22.332Z,"Alaska Peninsula",earthquake,,5.2,,,automatic,ak,ak
 2023-07-12T08:39:35.016Z,-10.2421,118.7994,49.253,5,mww,59,84,1.73,0.73,us,us7000kf1p,2023-07-12T08:56:06.040Z,"102 km SSW of Tambolaka, Indonesia",earthquake,7.16,7.68,0.093,11,reviewed,us,us
 2023-07-12T08:35:00.700Z,34.0496667,-118.9361667,13.27,1.39,ml,30,155,0.03389,0.26,ci,ci39610538,2023-07-12T22:30:22.307Z,"13km WNW of Malibu, CA",earthquake,0.52,0.62,0.116,21,reviewed,ci,ci
@@ -250,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T03:46:52.540Z,58.1703333333333,-155.290333333333,1.21,0.16,ml,5,216,,0.08,av,av91959841,2023-07-12T05:01:12.620Z,"83 km NW of Karluk, Alaska",earthquake,0.7,1.54,0.299903389130773,5,reviewed,av,av
 2023-07-12T03:46:49.860Z,44.6193333333333,-112.592833333333,8.63,0.64,ml,8,141,0.03659,0.06,mb,mb90021268,2023-07-12T17:19:24.470Z,"1 km S of Lima, Montana",earthquake,0.31,0.57,0.160497535561082,6,reviewed,mb,mb
 2023-07-12T03:45:56.050Z,58.1756666666667,-155.282333333333,1.32,0.1,ml,7,96,,0.09,av,av91959836,2023-07-12T04:55:54.260Z,"83 km NW of Karluk, Alaska",earthquake,0.36,2.14,0.316182159464335,7,reviewed,av,av
-2023-07-12T03:39:20.320Z,34.0331667,-119.0071667,13.54,1.41,ml,18,211,0.04517,0.21,ci,ci39610466,2023-07-12T20:58:45.697Z,"18km W of Malibu, CA",earthquake,0.84,0.56,0.13,9,reviewed,ci,ci
