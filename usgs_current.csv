@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-13T08:15:30.120Z,33.4018333,-116.379,4.88,0.7,ml,17,117,0.1371,0.17,ci,ci39611570,2023-07-13T08:19:02.700Z,"16km N of Borrego Springs, CA",earthquake,0.36,0.93,0.178,14,automatic,ci,ci
-2023-07-13T08:14:58.340Z,38.7874985,-122.7633362,1.79,1,md,9,118,0.01341,0.02,nc,nc73912166,2023-07-13T08:17:37.641Z,"1 km NNW of The Geysers, CA",earthquake,0.4,0.69,0.37,9,automatic,nc,nc
+2023-07-13T08:14:58.340Z,38.7874985,-122.7633362,1.79,1,md,9,118,0.01341,0.02,nc,nc73912166,2023-07-13T08:32:12.241Z,"1 km NNW of The Geysers, CA",earthquake,0.4,0.69,0.37,9,automatic,nc,nc
 2023-07-13T08:14:39.995Z,61.343,-151.9955,8.3,0.9,ml,,,,0.31,ak,ak0238wz3vr3,2023-07-13T08:15:56.235Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-13T08:05:29.460Z,33.4225,-116.8601667,12.55,0.32,ml,16,68,0.06874,0.21,ci,ci39611562,2023-07-13T08:09:03.739Z,"2km S of Aguanga, CA",earthquake,0.4,0.97,0.117,10,automatic,ci,ci
 2023-07-13T07:57:28.520Z,19.2195,-64.606,54,3.57,md,10,298,0.9352,0.57,pr,pr2023194007,2023-07-13T08:24:59.530Z,"100 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.31,15.17,0.07,6,reviewed,pr,pr
@@ -216,7 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T12:09:29.180Z,60.5562,-145.2558,16.1,1.1,ml,,,,1.01,ak,ak0238vdx69i,2023-07-12T12:11:26.158Z,"27 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-12T12:05:57.400Z,-5.0705,150.8895,220.633,4.7,mb,62,100,5.678,0.53,us,us7000kf2k,2023-07-12T12:23:33.040Z,"98 km ENE of Kimbe, Papua New Guinea",earthquake,4.25,7.565,0.074,55,reviewed,us,us
 2023-07-12T12:04:00.960Z,44.6121666666667,-112.5865,6.77,0.77,ml,7,137,0.04137,0.01,mb,mb90021278,2023-07-12T16:28:00.370Z,"2 km S of Lima, Montana",earthquake,0.34,0.61,0.17282304329034,8,reviewed,mb,mb
-2023-07-12T11:45:49.580Z,48.779333333333334,-121.8085,3.88,1.47,ml,7,101,0.1139,0.41,uw,uw61939941,2023-07-13T04:20:34.490Z,"15 km SE of Glacier, Washington",earthquake,1.79,30.28,0.09975792638505454,6,reviewed,uw,uw
+2023-07-12T11:45:49.580Z,48.779333333333334,-121.8085,3.88,1.47,ml,7,101,0.1139,0.41,uw,uw61939941,2023-07-13T04:20:34.490Z,"Washington",earthquake,1.79,30.28,0.09975792638505454,6,reviewed,uw,uw
 2023-07-12T11:37:12.819Z,32.43530273,-102.0774581,9.29280599,2.6,ml,17,58,0.08549172173,0.2,tx,tx2023nnrp,2023-07-13T02:58:30.040Z,"34 km SSW of Los Ybanez, Texas",earthquake,1.844168523,2.16581922,0.1,7,reviewed,tx,tx
 2023-07-12T11:32:08.340Z,35.5565,-120.7766667,4.83,1.04,md,32,52,0.04441,0.08,nc,nc73911871,2023-07-12T19:28:55.378Z,"6 km W of Templeton, CA",earthquake,0.15,0.34,0.239,16,reviewed,nc,nc
 2023-07-12T11:28:14.390Z,38.8348351,-122.8268356,4.8,0.25,md,13,90,0.007727,0.05,nc,nc73911866,2023-07-12T13:57:15.303Z,"9 km NW of The Geysers, CA",earthquake,0.67,1.19,0.15,13,automatic,nc,nc
@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T08:43:08.219Z,58.4433,-154.2671,2,0.9,ml,,,,0.32,ak,ak0238vbqoog,2023-07-12T08:45:22.332Z,"Alaska Peninsula",earthquake,,5.2,,,automatic,ak,ak
 2023-07-12T08:39:35.016Z,-10.2421,118.7994,49.253,5,mww,59,84,1.73,0.73,us,us7000kf1p,2023-07-12T08:56:06.040Z,"102 km SSW of Tambolaka, Indonesia",earthquake,7.16,7.68,0.093,11,reviewed,us,us
 2023-07-12T08:35:00.700Z,34.0496667,-118.9361667,13.27,1.39,ml,30,155,0.03389,0.26,ci,ci39610538,2023-07-12T22:30:22.307Z,"13km WNW of Malibu, CA",earthquake,0.52,0.62,0.116,21,reviewed,ci,ci
-2023-07-12T08:27:33.620Z,44.7966667,-110.9918333,5.96,0.19,ml,10,162,0.0387,0.18,uu,uu60545102,2023-07-12T15:42:11.730Z,"Wyoming",earthquake,0.64,0.98,0.304,2,reviewed,uu,uu
