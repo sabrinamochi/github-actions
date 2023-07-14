@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-14T10:07:51.656Z,58.2009,-155.3849,0,0.3,ml,,,,0.39,ak,ak0238ynsmcd,2023-07-14T10:09:11.057Z,"89 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-14T09:53:39.375Z,58.2381,-155.2112,0,0,ml,,,,0.52,ak,ak0238ynh0q9,2023-07-14T09:57:15.001Z,"Alaska Peninsula",earthquake,,62.1,,,automatic,ak,ak
 2023-07-14T09:49:57.200Z,38.7830009,-122.7228317,1.06,1.48,md,21,83,0.01086,0.05,nc,nc73912846,2023-07-14T09:58:09.826Z,"3 km WNW of Anderson Springs, CA",earthquake,0.25,0.53,0.17,22,automatic,nc,nc
-2023-07-14T09:29:01.360Z,15.0337,-93.8771,35,6.3,mww,116,75,2.086,0.94,us,us7000kfnc,2023-07-14T10:01:50.037Z,"87 km SW of El Palmarcito, Mexico",earthquake,6.72,1.882,0.032,94,reviewed,us,us
+2023-07-14T09:29:01.360Z,15.0337,-93.8771,35,6.3,mww,116,75,2.086,0.94,us,us7000kfnc,2023-07-14T10:12:10.369Z,"87 km SW of El Palmarcito, Mexico",earthquake,6.72,1.882,0.032,94,reviewed,us,us
 2023-07-14T09:20:44.420Z,34.0256667,-118.207,4.99,1.44,ml,35,41,0.06619,0.28,ci,ci39612498,2023-07-14T09:24:26.888Z,"4km W of East Los Angeles, CA",earthquake,0.33,0.77,0.207,27,automatic,ci,ci
 2023-07-14T08:46:26.058Z,65.7531,-155.3717,0,2.1,ml,,,,0.78,ak,ak0238ymu233,2023-07-14T08:49:01.578Z,"47 km E of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-14T08:23:16.140Z,17.9445,-67.1156666666667,12.46,2.15,md,4,283,0.06183,0.04,pr,pr71417778,2023-07-14T09:54:39.600Z,"8 km WSW of La Parguera, Puerto Rico",earthquake,0.98,0.38,0.0127276237437304,3,reviewed,pr,pr
@@ -66,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T02:48:09.230Z,38.7688332,-122.722168,-0.82,0.3,md,8,105,0.00753,0.28,nc,nc73912566,2023-07-14T02:50:52.339Z,"3 km WSW of Anderson Springs, CA",earthquake,0.79,2.8,0.05,4,automatic,nc,nc
 2023-07-14T02:47:48.220Z,38.784832,-122.7259979,-0.56,0.94,md,8,108,0.008534,0.01,nc,nc73912551,2023-07-14T03:24:14.262Z,"3 km ENE of The Geysers, CA",earthquake,0.41,1.56,0.14,8,automatic,nc,nc
 2023-07-14T02:47:28.970Z,38.7813333,-122.7241667,1.38,1.45,md,42,42,0.009998,0.05,nc,nc73912556,2023-07-14T08:03:11.020Z,"3 km E of The Geysers, CA",earthquake,0.14,0.25,0.162,33,reviewed,nc,nc
-2023-07-14T02:47:11.090Z,38.7611667,-122.7241667,2.21,1.44,md,41,54,0.0006898,0.06,nc,nc73912541,2023-07-14T07:38:10.880Z,"3 km WSW of Anderson Springs, CA",earthquake,0.18,0.25,0.201,33,reviewed,nc,nc
+2023-07-14T02:47:11.090Z,38.7611667,-122.7241667,2.21,1.44,md,41,54,0.0006898,0.06,nc,nc73912541,2023-07-14T10:12:15.760Z,"3 km WSW of Anderson Springs, CA",earthquake,0.18,0.25,0.201,33,reviewed,nc,nc
 2023-07-14T02:46:44.130Z,38.7781667,-122.7248333,1.75,1.23,md,31,65,0.01058,0.05,nc,nc73912536,2023-07-14T09:18:14.448Z,"3 km E of The Geysers, CA",earthquake,0.2,0.29,0.322,25,reviewed,nc,nc
 2023-07-14T02:46:17.240Z,38.7788333,-122.7205,2.53,1.3,md,9,89,0.01342,0.03,nc,nc71130919,2023-07-14T09:45:13.609Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.37,0.192,3,reviewed,nc,nc
 2023-07-14T02:45:58.010Z,38.7691667,-122.7266667,1.39,3.18,ml,100,26,0.007693,0.08,nc,nc73912546,2023-07-14T08:48:14.281Z,"3 km ESE of The Geysers, CA",earthquake,0.11,0.15,0.149,103,reviewed,nc,nc
@@ -234,7 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T10:19:44.880Z,38.8171667,-122.8211667,2.67,0.16,md,17,59,0.01038,0.04,nc,nc73912196,2023-07-13T17:24:17.520Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.51,0.336,18,reviewed,nc,nc
 2023-07-13T10:19:37.176Z,38.6202,-119.4019,0,0.7,ml,3,267.77,0.099,0.0449,nn,nn00862545,2023-07-13T17:18:01.588Z,"10 km E of Topaz, California",earthquake,,0,0,1,reviewed,nn,nn
 2023-07-13T10:17:09.260Z,37.6156667,-122.4678333,7.56,0.57,md,11,122,0.02219,0.05,nc,nc73912191,2023-07-13T19:45:15.506Z,"2 km E of Pacifica, CA",earthquake,0.49,0.74,0.113,6,reviewed,nc,nc
-2023-07-13T10:10:18.740Z,33.2736667,-116.4246667,3.5,0.72,ml,21,91,0.008323,0.2,ci,ci39611594,2023-07-13T13:19:57.383Z,"5km WNW of Borrego Springs, CA",earthquake,0.32,0.46,0.132,13,reviewed,ci,ci
-2023-07-13T10:07:43.646Z,25.1828,123.2937,157.61,4.4,mb,47,64,0.757,1.11,us,us7000kfdj,2023-07-13T11:02:00.040Z,"84 km NNE of Yonakuni, Japan",earthquake,7.45,6.751,0.097,31,reviewed,us,us
-2023-07-13T10:04:53.490Z,44.829,-110.8301667,2.75,0.57,md,12,127,0.04317,0.15,uu,uu60545227,2023-07-13T13:24:01.870Z,"19 km SSW of Mammoth, Wyoming",earthquake,0.54,1.64,0.167,8,reviewed,uu,uu
-2023-07-13T10:02:31.811Z,38.6211,-119.4618,7,0.9,ml,4,245.11,0.058,0.1674,nn,nn00862531,2023-07-13T14:52:33.056Z,"California-Nevada border region",earthquake,,3.6,0.08,2,reviewed,nn,nn
