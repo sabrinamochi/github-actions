@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T19:52:17.850Z,34.295,-116.8365,5.44,1.04,ml,23,47,0.05342,0.23,ci,ci39613802,2023-07-15T19:55:51.944Z,"4km NNE of Big Bear City, CA",earthquake,0.41,1.19,0.112,18,automatic,ci,ci
 2023-07-15T19:49:18.450Z,38.8338318,-122.8125,1.8,0.27,md,12,52,0.01059,0.01,nc,nc73913391,2023-07-15T20:12:16.932Z,"8 km W of Cobb, CA",earthquake,0.31,0.9,0.16,13,automatic,nc,nc
 2023-07-15T19:45:38.250Z,33.9165,-116.7106667,15.09,1.35,ml,47,37,0.06112,0.2,ci,ci39613794,2023-07-15T19:56:41.450Z,"7km E of Cabazon, CA",earthquake,0.23,0.55,0.134,27,automatic,ci,ci
+2023-07-15T19:42:54.165Z,38.6903,88.9088,10,4.5,mb,45,121,7.857,0.94,us,us7000kg0f,2023-07-15T21:55:58.040Z,"61 km S of Bingtuan Sanshiliu Tuan, China",earthquake,10.71,1.929,0.096,32,reviewed,us,us
 2023-07-15T19:31:50.500Z,34.2918333,-116.8315,5.86,1.08,ml,14,100,0.07956,0.23,ci,ci39613786,2023-07-15T19:46:05.812Z,"4km NNE of Big Bear City, CA",earthquake,0.44,1.11,0.145,24,automatic,ci,ci
 2023-07-15T19:28:48.179Z,57.928,-154.7402,58.1,0.9,ml,,,,0.21,ak,ak02390gtd1t,2023-07-15T19:30:21.908Z,"43 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T19:28:25.749Z,62.6607,-150.5693,7,1.2,ml,,,,0.44,ak,ak02390gtbbi,2023-07-15T19:30:23.777Z,"20 km NNE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -157,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T04:21:32.572Z,60.9449,-150.1977,50.4,1.2,ml,,,,0.28,ak,ak023907ubrd,2023-07-15T04:24:00.405Z,"26 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T04:19:17.602Z,55.8747,-148.9536,10,2.7,ml,,,,1.04,ak,ak023907txk9,2023-07-15T18:13:06.877Z,"280 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-07-15T04:14:25.766Z,63.1036,-151.349,0,1.1,ml,,,,1.12,ak,ak023907st80,2023-07-15T04:16:23.808Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T04:13:00.250Z,58.2366666666667,-155.077,11.28,0.01,ml,13,106,,0.16,av,av91963666,2023-07-15T21:55:30.520Z,"83 km NNW of Karluk, Alaska",earthquake,0.44,0.78,0.27090026433876,13,reviewed,av,av
 2023-07-15T04:11:57.420Z,19.1609992980957,-155.483505249023,32.3699989318848,1.99,ml,32,166,,0.129999995,hv,hv73482202,2023-07-15T04:17:27.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.72,0.930000007,4.21,7,automatic,hv,hv
 2023-07-15T04:08:57.405Z,61.415,-146.6551,29.6,1.2,ml,,,,0.41,ak,ak023907rld8,2023-07-15T04:10:23.658Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-15T04:03:34.670Z,32.5446667,-117.0305,8.84,1.53,ml,23,100,0.03984,0.14,ci,ci39613410,2023-07-15T04:07:14.821Z,"1km ESE of San Ysidro, CA",earthquake,0.28,0.51,0.199,18,automatic,ci,ci
@@ -220,7 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T22:05:49.760Z,34.2935,-116.839,4.88,2.26,ml,63,22,0.05522,0.17,ci,ci39613258,2023-07-14T22:16:55.510Z,"4km N of Big Bear City, CA",earthquake,0.17,0.77,0.167,24,automatic,ci,ci
 2023-07-14T22:05:17.454Z,34.92082596,-95.95417023,6.832975864,1.77,ml,12,170.5840759,0.3803751767,0.7872464424,ok,ok2023nsdi,2023-07-14T22:08:43.476Z,"Oklahoma",earthquake,5.155875008,5.394391805,0.27,10,automatic,ok,ok
 2023-07-14T22:01:04.120Z,45.7175,-119.19083333333333,7.71,1.6400000000000001,ml,16,152,0.3671,0.2,uw,uw61931787,2023-07-14T23:19:02.300Z,"2 km S of Echo, Oregon",earthquake,0.51,1.57,0.16392124803745556,11,reviewed,uw,uw
-2023-07-14T21:55:00.699Z,39.6332,-119.6416,9.6,1.1,ml,9,95.1,0.212,0.1788,nn,nn00862655,2023-07-15T03:00:16.550Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,2.5,0.54,6,reviewed,nn,nn
-2023-07-14T21:54:05.430Z,19.1534996032715,-155.466171264648,30.8199996948242,1.97,ml,33,171,,0.109999999,hv,hv73481737,2023-07-14T21:59:46.040Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.64,0.899999976,4.67,6,automatic,hv,hv
-2023-07-14T21:51:56.376Z,36.7628,-116.2567,8.8,-0.3,ml,13,125.04,0.027,0.0912,nn,nn00862654,2023-07-15T02:57:10.334Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.01,2,reviewed,nn,nn
-2023-07-14T21:51:04.580Z,37.4241667,-119.0596667,8.53,1.05,md,21,77,0.1868,0.13,nc,nc73913031,2023-07-14T23:25:15.459Z,"25 km SSW of Mammoth Lakes, CA",earthquake,0.65,3.53,0.101,14,reviewed,nc,nc
