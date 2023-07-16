@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T22:17:57.570Z,40.1523323,-123.8458328,22.07,2.19,md,19,77,0.08739,0.13,nc,nc73913736,2023-07-16T22:20:56.600Z,"4 km NNW of Redway, CA",earthquake,0.67,0.59,0.15,6,automatic,nc,nc
+2023-07-16T22:13:49.680Z,33.4315,-116.436,14.29,0.5,ml,18,116,0.09206,0.16,ci,ci39614442,2023-07-16T22:17:17.242Z,"20km NNW of Borrego Springs, CA",earthquake,0.37,0.74,0.146,7,automatic,ci,ci
 2023-07-16T22:11:33.682Z,61.0468,-151.5538,41.7,1.6,ml,,,,0.82,ak,ak0239261c2g,2023-07-16T22:13:15.696Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-16T22:11:20.751Z,61.0172,-151.3618,65.9,1.6,ml,,,,0.69,ak,ak0239261b2j,2023-07-16T22:12:59.335Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-16T22:02:29.799Z,35.53592682,-96.77282715,4.266318798,1.5,ml,20,77.49117231,0.1172270328,0.2601786658,ok,ok2023nvuf,2023-07-16T22:05:02.114Z,"Oklahoma",earthquake,2.755434518,2.374972888,0.24,9,automatic,ok,ok
@@ -243,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-16T01:16:13.794Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T22:40:26.450Z,46.2075,-122.1895,6.61,0.39,ml,12,111,0.03433,0.1,uw,uw61931982,2023-07-16T05:06:43.430Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.46,0.11662859648933283,7,reviewed,uw,uw
 2023-07-15T22:35:36.690Z,38.7874985,-122.7251663,1.81,0.75,md,7,120,0.009986,0.01,nc,nc73913451,2023-07-16T00:49:16.623Z,"3 km ENE of The Geysers, CA",earthquake,0.4,0.79,0.13,7,automatic,nc,nc
-2023-07-15T22:21:52.632Z,61.6642,-151.5636,87.7,0.9,ml,,,,0.39,ak,ak02390ik669,2023-07-15T22:24:20.714Z,"37 km SSW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-07-15T22:14:01.067Z,59.7257,-154.1053,24.2,1.7,ml,,,,0.85,ak,ak02390iik7e,2023-07-15T22:16:04.935Z,"6 km S of Pedro Bay, Alaska",earthquake,,3.9,,,automatic,ak,ak
