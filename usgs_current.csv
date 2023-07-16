@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T15:21:17.678Z,58.1759,-155.3733,1.2,0.3,ml,,,,0.28,ak,ak023921xesr,2023-07-16T15:31:18.885Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-07-16T15:19:33.950Z,36.0326667,-117.7138333,2.05,1.3,ml,14,119,0.1183,0.14,ci,ci39614210,2023-07-16T15:23:04.725Z,"20km ENE of Little Lake, CA",earthquake,0.33,0.67,0.119,6,automatic,ci,ci
 2023-07-16T15:19:03.700Z,58.2472,-155.1327,1.1,0.6,ml,,,,0.1,ak,ak023921wy8y,2023-07-16T15:20:36.268Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-07-16T15:15:21.566Z,63.2445,-151.5978,2.7,1.2,ml,,,,0.25,ak,ak023921w4rg,2023-07-16T15:17:06.932Z,"33 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-16T15:12:53.340Z,17.8113333333333,-66.9471666666667,5.97,2.21,md,7,268,0.1752,0.07,pr,pr71418193,2023-07-16T15:22:10.710Z,"18 km SSW of Guánica, Puerto Rico",earthquake,0.59,0.37,0.110975380401791,6,reviewed,pr,pr
+2023-07-16T15:01:35.909Z,39.3968,-119.7165,4.7,0.4,ml,5,124.54,0.038,0.1035,nn,nn00862777,2023-07-16T15:32:33.052Z,"11 km NNW of Virginia City, Nevada",earthquake,,2.3,0.15,3,reviewed,nn,nn
 2023-07-16T14:52:34.274Z,61.6476,-148.0322,14,0.6,ml,,,,0.22,ak,ak023921inmr,2023-07-16T14:53:52.922Z,"26 km SW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-16T14:43:57.206Z,39.3998,-119.7192,5,0.3,ml,6,123.86,0.037,0.1241,nn,nn00862776,2023-07-16T15:29:25.699Z,"Nevada",earthquake,,2,0.06,3,reviewed,nn,nn
 2023-07-16T14:37:07.264Z,58.1865,-155.3603,0,1,ml,,,,0.69,ak,ak023921fdt2,2023-07-16T14:38:43.892Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
@@ -21,9 +23,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T13:47:03.848Z,73.9844,8.2782,10,4.6,mb,31,74,4.643,0.87,us,us7000kg5p,2023-07-16T14:08:45.040Z,"Greenland Sea",earthquake,4.77,1.91,0.126,19,reviewed,us,us
 2023-07-16T13:45:06.790Z,34.0426667,-118.351,9.5,0.91,ml,18,174,0.08629,0.29,ci,ci39614170,2023-07-16T13:48:35.357Z,"5km NNE of Baldwin Hills, CA",earthquake,0.77,1.36,0.25,18,automatic,ci,ci
 2023-07-16T13:44:53.476Z,39.3962,-119.7179,5.2,0.3,ml,6,124.29,0.037,0.1013,nn,nn00862769,2023-07-16T14:39:29.836Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.08,2,reviewed,nn,nn
-2023-07-16T13:44:35.575Z,18.4397,-100.8293,75.43,5.1,mww,84,121,1.797,0.8,us,us7000kg5l,2023-07-16T15:27:40.256Z,"10 km N of Santa Teresa, Mexico",earthquake,9.14,6.49,0.098,10,reviewed,us,us
+2023-07-16T13:44:35.575Z,18.4397,-100.8293,75.43,5.1,mww,84,121,1.797,0.8,us,us7000kg5l,2023-07-16T15:34:37.153Z,"10 km N of Santa Teresa, Mexico",earthquake,9.14,6.49,0.098,10,reviewed,us,us
 2023-07-16T13:42:35.246Z,39.3962,-119.7199,4.8,0.2,ml,5,123.85,0.035,0.1093,nn,nn00862768,2023-07-16T14:39:28.507Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.14,3,reviewed,nn,nn
-2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T15:26:34.556Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
+2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T15:39:41.666Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
 2023-07-16T13:33:22.614Z,39.3944,-119.7186,6.6,0.8,ml,10,124.2,0.036,0.146,nn,nn00862767,2023-07-16T14:36:21.339Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.2,0.16,4,reviewed,nn,nn
 2023-07-16T13:32:24.780Z,33.039,-116.427,8.55,0.7,ml,13,85,0.0684,0.19,ci,ci39614162,2023-07-16T13:51:17.167Z,"17km ESE of Julian, CA",earthquake,0.39,1.25,0.198,6,reviewed,ci,ci
 2023-07-16T13:31:37.560Z,38.8096657,-122.8235016,2.15,0.74,md,7,111,0.004506,0.01,nc,nc73913646,2023-07-16T13:49:13.406Z,"7 km WNW of The Geysers, CA",earthquake,0.54,1.1,0.23,7,automatic,nc,nc
@@ -62,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T11:10:37.888Z,36.7694,-115.7959,0,0.8,ml,13,114.06,0.122,0.1562,nn,nn00862745,2023-07-16T14:23:45.293Z,"24 km NNW of Indian Springs, Nevada",earthquake,,0,0.1,4,reviewed,nn,nn
 2023-07-16T10:56:39.330Z,19.2584991455078,-155.408004760742,30.8999996185303,2.95,ml,51,123,,0.159999996,hv,hv73483582,2023-07-16T11:07:49.951Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.579999983,3.62,29,automatic,hv,hv
 2023-07-16T10:56:06.280Z,33.461,-116.869,3.55,0.55,ml,21,82,0.06591,0.22,ci,ci39614114,2023-07-16T13:51:40.090Z,"2km N of Aguanga, CA",earthquake,0.36,1.13,0.088,14,reviewed,ci,ci
-2023-07-16T10:49:37.380Z,31.541,-115.6775,4.86,3.35,ml,16,66,0.1747,0.28,ci,ci39614106,2023-07-16T15:28:07.751Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.41,1.84,0.157,147,reviewed,ci,ci
+2023-07-16T10:49:37.380Z,31.541,-115.6775,4.86,3.35,ml,16,66,0.1747,0.28,ci,ci39614106,2023-07-16T15:31:04.974Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.41,1.84,0.157,147,reviewed,ci,ci
 2023-07-16T10:47:02.480Z,19.1336669921875,-155.403167724609,30.0200004577637,1.83000004,md,43,181,,0.129999995,hv,hv73483567,2023-07-16T11:01:52.527Z,"11 km SE of Pāhala, Hawaii",earthquake,0.57,0.800000012,0.119999997,9,automatic,hv,hv
 2023-07-16T10:41:08.880Z,35.582,-118.3471667,7.07,0.79,ml,11,86,0.1129,0.16,ci,ci39614098,2023-07-16T13:52:01.476Z,"12km ESE of Lake Isabella, CA",earthquake,0.39,1.67,0.145,4,reviewed,ci,ci
 2023-07-16T10:37:34.290Z,31.5368333,-115.667,8.84,3.73,ml,13,66,0.1761,0.27,ci,ci37557572,2023-07-16T15:30:02.531Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.43,1.92,0.137,8,reviewed,ci,ci
@@ -97,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
 2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-16T08:59:59.764Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T15:05:44.814Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T15:31:35.683Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-16T06:28:21.268Z,57.8003,-155.9341,5.4,2.5,ml,,,,0.33,ak,ak02391wm0lq,2023-07-16T06:47:33.040Z,"91 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
