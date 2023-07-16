@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-16T08:44:57.878Z,65.8152,-147.8387,0.1,1.9,ml,,,,0.61,ak,ak02391xwe3f,2023-07-16T08:47:01.631Z,"45 km NE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-16T09:07:40.700Z,33.967,-116.5716667,7.79,1.28,ml,46,66,0.03139,0.19,ci,ci39614058,2023-07-16T09:11:25.359Z,"6km W of Desert Hot Springs, CA",earthquake,0.22,0.7,0.125,25,automatic,ci,ci
+2023-07-16T09:07:13.031Z,59.244,-138.7832,9.9,2.3,ml,,,,0.68,ak,ak02391y9sqv,2023-07-16T09:09:52.473Z,"63 km ESE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-16T08:44:57.965Z,65.8019,-147.7956,1.7,1.4,ml,,,,0.96,ak,ak02391xwe3f,2023-07-16T09:05:08.772Z,"46 km NE of Livengood, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-07-16T08:43:47.446Z,58.1947,-155.3772,3.8,1.6,ml,,,,0.51,ak,ak02391xvxpm,2023-07-16T09:05:14.906Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-07-16T08:43:05.137Z,54.7026,-160.9814,15.2,3.3,ml,,,,0.71,ak,ak02391xw2o1,2023-07-16T09:05:00.749Z,"76 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T08:37:46.875Z,38.5462,-118.1155,7,2.3,ml,18,94.48,0.362,0.3332,nn,nn00862740,2023-07-16T08:40:55.474Z,"17 km N of Mina, Nevada",earthquake,,0.8,0.15,11,automatic,nn,nn
 2023-07-16T08:36:11.800Z,17.9508333333333,-66.9611666666667,15.24,2.78,md,12,210,0.05432,0.1,pr,pr71418103,2023-07-16T08:48:35.390Z,"Puerto Rico region",earthquake,0.43,0.41,0.0423139802713641,7,reviewed,pr,pr
 2023-07-16T08:25:21.427Z,35.53820419,-96.76011658,4.460471153,1.8,ml,31,73.53315163,0.1163520217,0.3969028553,ok,ok2023nuth,2023-07-16T08:28:54.807Z,"Oklahoma",earthquake,2.352671082,1.856182432,0.25,16,automatic,ok,ok
@@ -17,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
 2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-16T08:59:59.764Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T08:59:23.917Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T09:07:13.308Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-16T06:28:21.268Z,57.8003,-155.9341,5.4,2.5,ml,,,,0.33,ak,ak02391wm0lq,2023-07-16T06:47:33.040Z,"91 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -196,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T09:19:33.412Z,38.5401,-119.5318,5.9,0.7,ml,6,167.01,0.047,0.0664,nn,nn00862670,2023-07-15T15:57:56.819Z,"3 km SW of Coleville, California",earthquake,,2.5,0.26,2,reviewed,nn,nn
 2023-07-15T09:18:00.830Z,58.1833333333333,-155.328,1.96,-0.04,ml,11,106,,0.1,av,av91964006,2023-07-16T04:55:31.230Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.4,0.223156253757877,11,reviewed,av,av
 2023-07-15T09:16:47.670Z,58.1838333333333,-155.329166666667,1.74,-0.4,ml,9,106,,0.08,av,av91964001,2023-07-16T04:50:37.070Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.38,0.249839280153044,8,reviewed,av,av
-2023-07-15T09:11:33.980Z,61.8288,-149.6186,39.3,1.6,ml,,,,0.24,ak,ak02390arcqe,2023-07-15T09:13:03.442Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-15T09:08:14.320Z,38.8226662,-122.7965012,2.91,1.33,md,28,31,0.01063,0.04,nc,nc73913166,2023-07-15T10:46:14.501Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.18,28,automatic,nc,nc
