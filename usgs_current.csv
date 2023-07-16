@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T18:09:44.890Z,46.2245,-119.60133333333333,7,0.29,ml,9,208,0.06055,0.06,uw,uw61932117,2023-07-16T18:50:09.700Z,"9 km WSW of Benton City, Washington",earthquake,0.52,0.25,0.07951562116839256,5,reviewed,uw,uw
 2023-07-16T18:03:13.190Z,66.3115,-154.718,0,1.8,ml,,,,1,ak,ak023923luc3,2023-07-16T18:06:50.346Z,"35 km NW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
+2023-07-16T17:47:39.150Z,48.64633333333333,-121.02266666666667,8.71,1.53,ml,9,170,0.3908,0.32,uw,uw61932112,2023-07-16T19:00:02.790Z,"Washington",earthquake,0.9,28.07,0.18015179202361453,8,reviewed,uw,uw
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"55 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:08:52.719Z,58.1798,-155.3706,2.7,0.6,ml,,,,0.18,ak,ak0239231kd3,2023-07-16T17:10:41.367Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:54:52.380Z,36.2369995,-121.5213318,13.07,1.67,md,18,115,,0.09,nc,nc73913691,2023-07-16T17:40:12.709Z,"24 km N of Lopez Point, CA",earthquake,0.43,0.81,0.15,17,automatic,nc,nc
@@ -40,7 +41,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T14:02:17.110Z,38.8311653,-122.8138351,1.78,0.7,md,11,56,0.0184,0.02,nc,nc73913661,2023-07-16T14:18:11.564Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.98,0.08,11,automatic,nc,nc
 2023-07-16T14:02:05.956Z,61.5134,-148.7944,26.5,2.4,ml,,,,0.53,ak,ak0239217vn7,2023-07-16T16:05:42.040Z,"8 km NE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T13:58:24.209Z,39.3946,-119.7165,6.2,0.7,ml,10,124.64,0.038,0.1675,nn,nn00862772,2023-07-16T15:16:46.604Z,"Nevada",earthquake,,1.4,0.09,3,reviewed,nn,nn
-2023-07-16T13:50:34.385Z,58.1746,-155.4155,1.2,0.2,ml,,,,0.17,ak,ak023920wslq,2023-07-16T13:53:38.709Z,"88 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-07-16T13:48:28.568Z,37.3715,-115.5657,4.7,1.1,ml,15,188.49,0.41,0.2551,nn,nn00862759,2023-07-16T13:50:38.142Z,"34 km SSE of Rachel, Nevada",earthquake,,2.3,0.33,9,automatic,nn,nn
 2023-07-16T13:47:33.739Z,35.53484344,-96.7664566,6.187792778,1.66,ml,21,73.05316734,0.1188694537,0.2113571377,ok,ok2023nvdx,2023-07-16T13:51:59.877Z,"9 km NW of Prague, Oklahoma",earthquake,3.504881083,3.904617818,0.23,12,automatic,ok,ok
 2023-07-16T13:47:03.848Z,73.9844,8.2782,10,4.6,mb,31,74,4.643,0.87,us,us7000kg5p,2023-07-16T14:08:45.040Z,"Greenland Sea",earthquake,4.77,1.91,0.126,19,reviewed,us,us
@@ -49,14 +49,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T13:44:35.575Z,18.4397,-100.8293,75.43,5.1,mww,84,121,1.797,0.8,us,us7000kg5l,2023-07-16T16:39:14.149Z,"10 km N of Santa Teresa, Mexico",earthquake,9.14,6.49,0.098,10,reviewed,us,us
 2023-07-16T13:42:35.246Z,39.3962,-119.7199,4.8,0.2,ml,5,123.85,0.035,0.1093,nn,nn00862768,2023-07-16T14:39:28.507Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.14,3,reviewed,nn,nn
 2023-07-16T13:40:18.103Z,55.0132,-157.5961,36.05,3.3,ml,22,217,1.4,0.47,us,us7000kg5i,2023-07-16T16:00:55.040Z,"139 km SE of Perryville, Alaska",earthquake,9.37,24.067,0.085,18,reviewed,us,us
-2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T18:46:47.010Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
+2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T19:00:35.719Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
 2023-07-16T13:33:22.614Z,39.3944,-119.7186,6.6,0.8,ml,10,124.2,0.036,0.146,nn,nn00862767,2023-07-16T14:36:21.339Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.2,0.16,4,reviewed,nn,nn
 2023-07-16T13:32:24.780Z,33.039,-116.427,8.55,0.7,ml,13,85,0.0684,0.19,ci,ci39614162,2023-07-16T13:51:17.167Z,"17km ESE of Julian, CA",earthquake,0.39,1.25,0.198,6,reviewed,ci,ci
 2023-07-16T13:31:37.560Z,38.8096657,-122.8235016,2.15,0.74,md,7,111,0.004506,0.01,nc,nc73913646,2023-07-16T13:49:13.406Z,"7 km WNW of The Geysers, CA",earthquake,0.54,1.1,0.23,7,automatic,nc,nc
 2023-07-16T13:29:03.740Z,17.946,-66.9588333333333,15.31,2.1,md,6,217,0.08107,0.05,pr,pr71418168,2023-07-16T13:46:55.820Z,"Puerto Rico region",earthquake,0.59,0.57,0.150359554835662,5,reviewed,pr,pr
 2023-07-16T13:24:08.803Z,39.3964,-119.7118,4.4,0.2,ml,6,125.59,0.042,0.0978,nn,nn00862766,2023-07-16T14:33:12.125Z,"11 km NNW of Virginia City, Nevada",earthquake,,2.1,0,1,reviewed,nn,nn
 2023-07-16T13:21:47.396Z,39.3966,-119.7143,4.9,1,ml,10,125.05,0.04,0.1179,nn,nn00862763,2023-07-16T14:30:04.981Z,"Nevada",earthquake,,1.7,0.13,3,reviewed,nn,nn
-2023-07-16T13:20:52.680Z,58.172,-155.3542,1.1,0.9,ml,,,,0.76,ak,ak023920qejk,2023-07-16T13:23:27.398Z,"85 km NW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-07-16T13:19:51.787Z,39.3944,-119.7185,7,2.4,ml,22,45.7,0.036,0.1185,nn,nn00862750,2023-07-16T14:53:43.544Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.8,0.29,5,reviewed,nn,nn
 2023-07-16T13:12:55.214Z,54.6769,-161.0559,40.239,3.9,mb,15,204,0.752,0.84,us,us7000kg59,2023-07-16T13:47:31.040Z,"81 km SSW of Sand Point, Alaska",earthquake,4.35,29.392,0.229,6,reviewed,us,us
 2023-07-16T13:11:23.390Z,46.21833419799805,-119.60966491699219,6.92999982833862,2.253460168838501,ml,32,88,,0.119999997,uw,uw61932042,2023-07-16T13:14:43.630Z,"10 km WSW of Benton City, Washington",earthquake,0.38,0.270000011,0.27587610483169556,38,automatic,uw,uw
@@ -71,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T12:33:16.939Z,59.4746,-152.8165,74.5,0.9,ml,,,,0.66,ak,ak0239207nlj,2023-07-16T12:35:50.891Z,"52 km WNW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-16T12:24:44.266Z,57.1237,-156.4141,16.8,1.6,ml,,,,0.46,ak,ak0239205t56,2023-07-16T12:27:07.952Z,"73 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-16T12:10:19.750Z,38.793499,-122.7279968,1.6,1.03,md,8,100,0.01231,0.01,nc,nc73913621,2023-07-16T14:09:13.512Z,"3 km NE of The Geysers, CA",earthquake,0.31,1.23,0.13,9,automatic,nc,nc
-2023-07-16T12:05:16.499Z,54.3081,-160.6037,35,4,mb,38,165,1.046,0.78,us,us7000kg4r,2023-07-16T18:55:49.272Z,"114 km S of Sand Point, Alaska",earthquake,5.18,1.997,0.13,16,reviewed,us,us
+2023-07-16T12:05:16.499Z,54.3081,-160.6037,35,4,mb,38,165,1.046,0.78,us,us7000kg4r,2023-07-16T18:58:39.763Z,"114 km S of Sand Point, Alaska",earthquake,5.18,1.997,0.13,16,reviewed,us,us
 2023-07-16T12:02:29.940Z,35.9766666666667,-91.2336666666667,18.58,1.59,md,5,185,0.1133,0.13,nm,nm60500923,2023-07-16T12:49:35.170Z,"3 km SSE of Lynn, Arkansas",earthquake,0.82,0.49,0.0145886864526577,4,reviewed,nm,nm
 2023-07-16T12:00:03.773Z,32.2575,142.5001,10,4.8,mb,65,127,2.421,0.47,us,us7000kg4p,2023-07-16T12:16:08.040Z,"Izu Islands, Japan region",earthquake,10.34,1.89,0.039,199,reviewed,us,us
 2023-07-16T11:56:31.690Z,18.0133333333333,-66.789,15.54,2.49,md,7,167,0.09396,0.07,pr,pr71418133,2023-07-16T12:11:30.500Z,"0 km SSE of Guayanilla, Puerto Rico",earthquake,0.47,1.04,0.221229696928837,7,reviewed,pr,pr
