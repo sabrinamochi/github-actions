@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T19:16:07.029Z,31.8017,-114.307,8,4.3,mw,12,,,,ew,ew1689534990,2023-07-16T19:16:56.757Z,"22 km NE of Golfo de Santa Clara, Mexico",earthquake,8.046,5,0.2,12,automatic,ew,ew
+2023-07-16T19:14:43.490Z,38.8359985,-122.7699966,1.96,1.04,md,14,143,0.00552,0.03,nc,nc73913711,2023-07-16T19:17:27.401Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.46,0.07,14,automatic,nc,nc
+2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T19:14:37.347Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
 2023-07-16T18:54:40.714Z,60.2062,-152.7405,22.7,0.5,ml,,,,0.3,ak,ak023923wtzb,2023-07-16T18:56:44.668Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-16T18:34:22.520Z,19.1389999389648,-155.386840820312,31.9899997711182,2.4,ml,46,181,,0.109999999,hv,hv73483992,2023-07-16T18:39:54.000Z,"11 km SE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.16,22,automatic,hv,hv
 2023-07-16T18:24:59.127Z,65.5987,-149.1239,8.5,1.1,ml,,,,0.77,ak,ak023923qfx4,2023-07-16T18:26:37.335Z,"28 km WNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -111,8 +114,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T08:07:22.800Z,38.8195,-122.7610016,1.67,1.07,md,11,121,0.01298,0.03,nc,nc73913561,2023-07-16T09:43:13.928Z,"3 km W of Cobb, CA",earthquake,0.3,0.6,0.3,11,automatic,nc,nc
 2023-07-16T08:03:57.798Z,-3.9917,145.5856,45.384,4.3,mb,14,237,5.091,1.04,us,us7000kg3h,2023-07-16T08:30:37.040Z,"137 km N of Madang, Papua New Guinea",earthquake,11.32,18.882,0.153,14,reviewed,us,us
 2023-07-16T07:51:40.138Z,54.3026,-160.7863,38.005,4.6,mb,65,160,1.064,0.66,us,us7000kg3d,2023-07-16T08:53:38.861Z,"116 km S of Sand Point, Alaska",earthquake,5.91,7.916,0.093,34,reviewed,us,us
+2023-07-16T07:47:56.077Z,38.5376,-118.1474,7.9,1.8,ml,5,139.08,0.401,0.0923,nn,nn00862797,2023-07-16T19:19:32.498Z,"16 km NNW of Mina, Nevada",earthquake,,1.6,0.16,2,reviewed,nn,nn
 2023-07-16T07:45:37.792Z,31.61381093,-103.9852301,7.416967772999999,3,ml,17,59,0.02838929556,0.1,tx,tx2023nurz,2023-07-16T08:22:13.712Z,"37 km NNW of Toyah, Texas",earthquake,0.4390399366,0.493195385,0.2,14,reviewed,tx,tx
-2023-07-16T07:42:32.362Z,38.5368,-118.1689,9.422,2.5,ml,17,135,0.104,0.49,us,us7000kg38,2023-07-16T16:35:33.982Z,"California-Nevada border region",earthquake,1.74,5.099,0.046,63,reviewed,us,us
+2023-07-16T07:42:32.842Z,38.5391,-118.1663,9.4,2.5,ml,12,41.43,0.369,0.2063,nn,nn00862736,2023-07-16T19:18:12.482Z,"17 km NNW of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-07-16T07:36:00.000Z,44.6475,-114.373833333333,9.55,2.17,ml,14,110,0.357,0.16,mb,mb90021628,2023-07-16T13:40:05.570Z,"southern Idaho",earthquake,0.51,0.93,0.224857235180616,13,reviewed,mb,mb
 2023-07-16T07:34:09.410Z,44.6556666666667,-114.3685,9.1,2.06,ml,17,109,0.3605,0.16,mb,mb90021623,2023-07-16T13:30:21.980Z,"19 km NNW of Challis, Idaho",earthquake,0.52,1.08,0.141535346975046,12,reviewed,mb,mb
 2023-07-16T07:30:46.311Z,54.533,-160.893,12.616,3.5,ml,38,203,0.853,0.48,us,us7000kg3f,2023-07-16T08:05:50.040Z,"92 km SSW of Sand Point, Alaska",earthquake,7.1,11.557,0.083,19,reviewed,us,us
@@ -125,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
 2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-16T08:59:59.764Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T18:58:33.415Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T19:19:46.816Z,"Alaska Peninsula",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:44:37.973Z,38.5333,-118.1584,6.2,1,ml,7,73.98,0.392,0.1657,nn,nn00862795,2023-07-16T19:10:01.251Z,"California-Nevada border region",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
