@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T17:45:15.570Z,36.5834999,-121.1748352,5.78,1.76,md,16,140,0.01453,0.04,nc,nc73914021,2023-07-17T17:48:02.416Z,"6 km NNW of Pinnacles, CA",earthquake,0.31,0.55,0.1,10,automatic,nc,nc
+2023-07-17T17:43:57.090Z,40.232666,-121.1600037,-1.2,2.87,md,27,51,0.3282,0.29,nc,nc73914016,2023-07-17T17:47:07.318Z,"2 km NE of Almanor, CA",earthquake,0.51,2.58,0.09,21,automatic,nc,nc
+2023-07-17T17:42:31.790Z,58.2133,-155.5526,32.6,0.3,ml,,,,0.59,ak,ak02393qs5l7,2023-07-17T17:44:27.276Z,"83 km SE of King Salmon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-17T17:27:27.824Z,63.2426,-151.1204,0,0.9,ml,,,,0.44,ak,ak02393qoxji,2023-07-17T17:29:41.548Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-17T17:20:10.380Z,36.5938339,-121.1763306,4.9,1.34,md,9,147,0.02326,0.08,nc,nc73914011,2023-07-17T17:34:10.423Z,"8 km NNW of Pinnacles, CA",earthquake,0.59,0.78,0.5,2,automatic,nc,nc
-2023-07-17T17:19:06.420Z,36.5806656,-121.1768341,5.87,2.48,md,33,113,,0.08,nc,nc73914006,2023-07-17T17:27:10.377Z,"6 km NNW of Pinnacles, CA",earthquake,0.26,0.6,0.15,34,automatic,nc,nc
+2023-07-17T17:19:06.420Z,36.5806656,-121.1768341,5.87,2.48,md,33,113,,0.08,nc,nc73914006,2023-07-17T17:46:11.529Z,"6 km NNW of Pinnacles, CA",earthquake,0.26,0.6,0.15,34,automatic,nc,nc
 2023-07-17T17:14:47.877Z,62.7641,-150.6309,85.2,0.9,ml,,,,0.45,ak,ak02393qm6s3,2023-07-17T17:16:17.252Z,"30 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:11:16.640Z,34.0021667,-117.0505,24.38,1.15,ml,19,62,0.1318,0.25,ci,ci39614858,2023-07-17T17:15:03.315Z,"2km N of Calimesa, CA",earthquake,0.76,1.72,0.354,22,automatic,ci,ci
 2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"45 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T11:32:33.056Z,32.8697,-100.9608,4.031,2.1,mb_lg,15,52,0.228,0.41,us,us7000kgbt,2023-07-17T14:45:26.988Z,"17 km NNW of Snyder, Texas",earthquake,1.14,6.951,0.114,21,reviewed,us,us
 2023-07-17T11:32:28.560Z,35.8843333,-117.6926667,1.91,0.98,ml,14,120,0.0957,0.15,ci,ci39614658,2023-07-17T11:35:57.852Z,"20km ESE of Little Lake, CA",earthquake,0.28,0.45,0.134,6,automatic,ci,ci
 2023-07-17T11:31:47.765Z,63.1261,-151.3582,0,1.4,ml,,,,0.67,ak,ak02393n58bc,2023-07-17T11:33:46.216Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-17T11:24:41.390Z,38.6531,-118.2672,6.9,1.9,ml,13,101.59,0.416,0.1798,nn,nn00862855,2023-07-17T11:27:18.410Z,"32 km NNW of Mina, Nevada",earthquake,,1.3,0.31,8,automatic,nn,nn
+2023-07-17T11:24:40.096Z,38.5485,-118.1698,7.3,2,ml,9,48.46,0.379,0.1277,nn,nn00862855,2023-07-17T17:45:39.878Z,"18 km NNW of Mina, Nevada",earthquake,,3,0.29,6,reviewed,nn,nn
 2023-07-17T11:17:40.570Z,33.9488333,-117.7308333,11.61,1.39,ml,32,34,0.05453,0.2,ci,ci39614642,2023-07-17T11:28:47.300Z,"6km SSE of Chino Hills, CA",earthquake,0.3,0.46,0.277,29,automatic,ci,ci
 2023-07-17T11:10:09.246Z,61.1688,-147.0597,27.3,1.3,ml,,,,0.73,ak,ak02393n0nb0,2023-07-17T11:12:18.473Z,"38 km W of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-17T11:09:47.220Z,33.4753333,-116.4931667,13.16,0.83,ml,31,97,0.074,0.22,ci,ci39614634,2023-07-17T11:13:24.484Z,"19km ESE of Anza, CA",earthquake,0.34,0.63,0.12,21,automatic,ci,ci
@@ -112,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T03:23:00.555Z,60.76,-155.0982,250,2.1,ml,,,,1.09,ak,ak02393iby3r,2023-07-17T03:52:27.302Z,"68 km SSE of Lime Village, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2023-07-17T03:15:52.710Z,31.5405,-115.6813333,5.33,3.49,ml,14,93,0.1726,0.2,ci,ci39614506,2023-07-17T13:24:32.908Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.34,2.13,0.133,64,reviewed,ci,ci
 2023-07-17T03:08:26.680Z,44.5893333,-110.3721667,4.19,0.4,md,7,130,0.03589,0.1,uu,uu60545512,2023-07-17T15:12:24.230Z,"Yellowstone National Park, Wyoming",earthquake,0.57,0.72,0.218,3,reviewed,uu,uu
-2023-07-17T03:05:10.917Z,-38.1911,-70.3731,171.371,6.6,mww,70,28,1.634,1.1,us,us7000kg9g,2023-07-17T16:34:30.823Z,"25 km ESE of Loncopué, Argentina",earthquake,7.36,6.156,0.065,23,reviewed,us,us
+2023-07-17T03:05:10.917Z,-38.1911,-70.3731,171.371,6.6,mww,70,28,1.634,1.1,us,us7000kg9g,2023-07-17T17:44:08.802Z,"25 km ESE of Loncopué, Argentina",earthquake,7.36,6.156,0.065,23,reviewed,us,us
 2023-07-17T03:01:17.860Z,57.1383,-155.0841,31.5,2,ml,,,,0.29,ak,ak02393i79oq,2023-07-17T04:41:23.065Z,"Alaska Peninsula",earthquake,,5.9,,,automatic,ak,ak
 2023-07-17T02:29:02.680Z,17.8868333333333,-66.9588333333333,8.99,2.56,md,15,245,0.09743,0.11,pr,pr71418233,2023-07-17T02:50:06.080Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.71,0.67,0.132745004195082,7,reviewed,pr,pr
 2023-07-17T02:27:22.160Z,19.2598323822021,-155.375671386719,30.9099998474121,2.24,ml,49,136,,0.150000006,hv,hv73484517,2023-07-17T02:32:53.810Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,2.64,21,automatic,hv,hv
@@ -207,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T18:01:04.230Z,33.6493333,-116.7186667,15.14,1,ml,33,56,0.04221,0.12,ci,ci39614298,2023-07-17T15:42:21.508Z,"10km S of Idyllwild, CA",earthquake,0.17,0.28,0.105,21,reviewed,ci,ci
 2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
 2023-07-16T17:52:05.320Z,35.5848333,-117.4301667,8.19,0.12,ml,5,133,0.02616,0.13,ci,ci39614274,2023-07-17T16:03:21.822Z,"20km S of Searles Valley, CA",earthquake,0.64,0.85,,1,reviewed,ci,ci
-2023-07-16T17:47:39.150Z,48.64633333333333,-121.02266666666667,8.71,1.53,ml,9,170,0.3908,0.32,uw,uw61932112,2023-07-16T19:00:02.790Z,"Washington",earthquake,0.9,28.07,0.18015179202361453,8,reviewed,uw,uw
-2023-07-16T17:46:24.421Z,39.6391,-119.7305,10.5,-0.3,ml,4,185.18,0.181,0.0594,nn,nn00862813,2023-07-16T19:44:32.119Z,"Nevada",earthquake,,4.9,0,1,reviewed,nn,nn
