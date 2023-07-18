@@ -70,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T12:57:39.880Z,38.8465004,-122.8141632,1.08,0.82,md,9,104,0.01086,0.03,nc,nc73914271,2023-07-18T15:06:14.015Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.79,0.16,9,automatic,nc,nc
 2023-07-18T12:48:17.937Z,61.4139,-147.8806,20.1,2.3,ml,,,,0.67,ak,ak02395bdkte,2023-07-18T13:01:22.801Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T12:46:21.570Z,19.1611671447754,-155.454833984375,40.4900016784668,2.70000005,md,23,183,,0.119999997,hv,hv73486712,2023-07-18T12:49:41.250Z,"Island of Hawaii, Hawaii",earthquake,0.81,0.930000007,2.70000005,4,automatic,hv,hv
+2023-07-18T12:44:40.210Z,19.8368333333333,-155.554666666667,21.55,1.81,md,18,157,,0.11,hv,hv73486707,2023-07-18T23:01:30.870Z,"Island of Hawaii, Hawaii",earthquake,0.91,0.78,0.112220902905449,8,reviewed,hv,hv
 2023-07-18T12:39:44.350Z,19.5478333333333,-155.682666666667,6.18,1.92,md,34,80,,0.17,hv,hv73486697,2023-07-18T20:46:57.160Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.53,0.12821898013106,15,reviewed,hv,hv
 2023-07-18T12:26:24.560Z,33.2586667,-115.9831667,3.05,0.73,ml,16,113,0.02149,0.21,ci,ci39615402,2023-07-18T12:30:01.319Z,"5km SSW of Salton City, CA",earthquake,0.58,0.4,0.074,6,automatic,ci,ci
 2023-07-18T12:20:15.900Z,38.7863333,-122.749,0.56,0.89,md,24,73,0.01008,0.04,nc,nc73914266,2023-07-18T22:17:19.665Z,"1 km NNE of The Geysers, CA",earthquake,0.14,0.41,0.17,17,reviewed,nc,nc
@@ -79,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T11:23:13.730Z,38.8223333,-122.8001667,3.28,0.45,md,23,50,0.01484,0.03,nc,nc73914261,2023-07-18T22:06:15.588Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.28,0.154,18,reviewed,nc,nc
 2023-07-18T11:06:32.887Z,54.6246,-160.7377,35,4.4,mb,79,148,0.742,1.06,us,us7000kgjj,2023-07-18T19:43:42.892Z,"Alaska Peninsula",earthquake,6.59,1.918,0.066,66,reviewed,us,us
 2023-07-18T10:59:09.447Z,61.0681,-152.4666,24.3,0.7,ml,,,,0.88,ak,ak02395a92ao,2023-07-18T11:01:11.879Z,"71 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-18T10:53:53.546Z,37.0734,-116.1866,2,0.6,ml,11,128.78,0.134,0.0943,nn,nn00862912,2023-07-18T10:55:42.966Z,"Nevada",earthquake,,0.9,0.77,7,automatic,nn,nn
+2023-07-18T10:53:54.274Z,37.071,-116.1968,5.1,0.6,ml,32,48.95,0.071,0.139,nn,nn00862912,2023-07-18T23:02:03.851Z,"53 km ENE of Beatty, Nevada",earthquake,,1.4,0.25,21,reviewed,nn,nn
 2023-07-18T10:44:56.865Z,61.7813,-154.3255,5.4,1,ml,,,,0.41,ak,ak02395a5y5u,2023-07-18T10:47:10.230Z,"75 km NE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-18T10:32:46.200Z,38.8185005,-122.8021698,3.33,0.72,md,14,59,0.01181,0.01,nc,nc73914256,2023-07-18T10:50:18.182Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.84,0.26,15,automatic,nc,nc
 2023-07-18T10:32:14.860Z,57.0265,-157.7688,98.2,2.3,ml,,,,0.36,ak,ak02395a3adq,2023-07-18T10:34:42.213Z,"58 km SSW of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -167,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T23:13:03.687Z,31.65076327,-104.2593344,6.645727539,2.9,ml,16,59,0.02140461543,0.2,tx,tx2023nxsb,2023-07-17T23:23:02.635Z,"western Texas",earthquake,0.9115479330000001,0.9328779525,0.1,8,reviewed,tx,tx
 2023-07-17T23:05:37.600Z,33.772,-116.9011667,9.18,1.18,ml,38,37,0.08678,0.21,ci,ci39615138,2023-07-18T13:41:35.480Z,"3km NNW of Valle Vista, CA",earthquake,0.24,0.73,0.191,27,reviewed,ci,ci
 2023-07-17T23:05:20.460Z,38.7813339,-122.7561646,0.95,0.46,md,8,102,0.01298,0.02,nc,nc73914116,2023-07-17T23:06:54.266Z,"0 km N of The Geysers, CA",earthquake,0.26,0.64,0.21,8,automatic,nc,nc
-2023-07-17T23:01:54.587Z,63.3508,-145.5452,10.2,0.7,ml,,,,0.16,ak,ak02393u40ma,2023-07-17T23:08:53.032Z,"29 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-17T23:01:14.790Z,34.5223333,-119.7506667,6.84,1.03,ml,14,79,0.07352,0.23,ci,ci39615130,2023-07-18T18:22:45.937Z,"12km NE of Goleta, CA",earthquake,0.51,0.84,0.245,9,reviewed,ci,ci
