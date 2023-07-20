@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-20T09:54:49.160Z,38.840168,-122.8233337,2.22,1.1,md,21,87,0.009621,0.02,nc,nc73914896,2023-07-20T09:56:23.778Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.54,0.16,25,automatic,nc,nc
+2023-07-20T10:08:59.370Z,38.8400002,-122.8241653,1.88,0.72,md,14,67,0.008953,0.01,nc,nc73914901,2023-07-20T10:10:34.185Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.69,0.11,16,automatic,nc,nc
+2023-07-20T09:54:49.160Z,38.840168,-122.8233337,2.22,1.1,md,21,87,0.009621,0.02,nc,nc73914896,2023-07-20T10:11:18.486Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.54,0.16,25,automatic,nc,nc
 2023-07-20T09:51:42.760Z,19.1921672821045,-155.462997436523,30.6000003814697,1.89999998,md,29,117,,0.100000001,hv,hv73489527,2023-07-20T09:54:51.460Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.850000024,0.949999988,3,automatic,hv,hv
 2023-07-20T09:33:42.630Z,33.4891667,-116.7686667,7.67,1.53,ml,63,39,0.03516,0.21,ci,ci39617274,2023-07-20T09:44:33.680Z,"10km ENE of Aguanga, CA",earthquake,0.18,0.59,0.117,26,automatic,ci,ci
 2023-07-20T09:24:55.130Z,33.4535,-116.5771667,9.36,0.44,ml,17,91,0.04611,0.13,ci,ci39617266,2023-07-20T09:28:22.851Z,"14km SE of Anza, CA",earthquake,0.38,0.7,0.143,11,automatic,ci,ci
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T00:19:12.160Z,38.8145,-122.8205,3.29,0.51,md,29,50,0.008809,0.04,nc,nc73914736,2023-07-20T06:02:14.010Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.48,0.117,27,reviewed,nc,nc
 2023-07-20T00:10:38.850Z,19.2391666666667,-155.388166666667,30.53,1.63,md,31,159,,0.11,hv,hv73488937,2023-07-20T00:38:35.660Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.68,0.6,0.258029882867195,14,reviewed,hv,hv
 2023-07-20T00:04:37.270Z,38.8105011,-122.7381668,2.15,0.81,md,7,126,0.02725,0.02,nc,nc73914726,2023-07-20T01:03:13.052Z,"2 km SW of Cobb, CA",earthquake,0.37,2.35,0.15,8,automatic,nc,nc
-2023-07-19T23:56:57.780Z,19.2573333333333,-155.399,33.28,2.22,ml,57,93,,0.12,hv,hv73488932,2023-07-20T00:15:28.750Z,"10 km NE of Pāhala, Hawaii",earthquake,0.4,0.48,0.253423712193046,14,reviewed,hv,hv
+2023-07-19T23:56:57.780Z,19.2573333333333,-155.399,33.28,2.22,ml,57,93,,0.12,hv,hv73488932,2023-07-20T00:15:28.750Z,"Island of Hawaii, Hawaii",earthquake,0.4,0.48,0.253423712193046,14,reviewed,hv,hv
 2023-07-19T23:56:06.827Z,51.9258,178.4211,117.715,5,mb,128,109,0.098,0.69,us,us7000kgzy,2023-07-20T06:06:09.476Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.67,4.83,0.023,607,reviewed,us,us
 2023-07-19T23:54:28.710Z,33.7093333,-116.7685,14.85,1.07,ml,41,27,0.04533,0.16,ci,ci39617106,2023-07-20T01:36:51.585Z,"6km SW of Idyllwild, CA",earthquake,0.23,0.37,0.179,27,reviewed,ci,ci
 2023-07-19T23:49:06.990Z,35.79,-121.3848333,5.39,1.86,md,35,188,0.131,0.08,nc,nc73914721,2023-07-20T03:56:14.210Z,"24 km NW of San Simeon, CA",earthquake,0.35,0.58,0.102,39,reviewed,nc,nc
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T10:45:34.440Z,19.8536666666667,-155.347666666667,26.52,1.72,md,29,100,,0.16,hv,hv73488462,2023-07-20T01:17:15.180Z,"Island of Hawaii, Hawaii",earthquake,0.42,1.1,0.121713059224707,10,reviewed,hv,hv
 2023-07-19T10:16:25.620Z,47.587666666666664,-122.83633333333333,22.18,1.23,ml,21,79,0.02477,0.17,uw,uw61933152,2023-07-20T04:42:26.630Z,"5 km S of Seabeck, Washington",earthquake,0.39,0.49,0.06291483544670617,10,reviewed,uw,uw
 2023-07-19T10:12:28.587Z,-7.9671,-74.3087,137.583,5,mb,68,95,4.71,0.48,us,us7000kgth,2023-07-19T10:27:17.040Z,"52 km NNE of Pucallpa, Peru",earthquake,10.56,7.346,0.049,134,reviewed,us,us
-2023-07-19T10:11:37.005Z,12.8349,-88.1827,79.6,4.7,mb,122,167,0.645,0.74,us,us7000kgtg,2023-07-19T13:17:35.759Z,"42 km SSW of Intipucá, El Salvador",earthquake,9.7,9.946,0.041,178,reviewed,us,us
-2023-07-19T10:06:30.665Z,58.284,-155.1742,29,0.7,ml,,,,0.52,ak,ak02396xh3h6,2023-07-19T10:08:34.161Z,"90 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
