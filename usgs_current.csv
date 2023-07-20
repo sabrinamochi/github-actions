@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T00:19:12.160Z,38.8145,-122.8205,3.29,0.51,md,29,50,0.008809,0.04,nc,nc73914736,2023-07-20T06:02:14.010Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.48,0.117,27,reviewed,nc,nc
 2023-07-20T00:10:38.850Z,19.2391666666667,-155.388166666667,30.53,1.63,md,31,159,,0.11,hv,hv73488937,2023-07-20T00:38:35.660Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.68,0.6,0.258029882867195,14,reviewed,hv,hv
 2023-07-20T00:04:37.270Z,38.8105011,-122.7381668,2.15,0.81,md,7,126,0.02725,0.02,nc,nc73914726,2023-07-20T01:03:13.052Z,"2 km SW of Cobb, CA",earthquake,0.37,2.35,0.15,8,automatic,nc,nc
-2023-07-19T23:56:57.780Z,19.2573333333333,-155.399,33.28,2.22,ml,57,93,,0.12,hv,hv73488932,2023-07-20T00:15:28.750Z,"Island of Hawaii, Hawaii",earthquake,0.4,0.48,0.253423712193046,14,reviewed,hv,hv
+2023-07-19T23:56:57.780Z,19.2573333333333,-155.399,33.28,2.22,ml,57,93,,0.12,hv,hv73488932,2023-07-20T00:15:28.750Z,"10 km NE of Pāhala, Hawaii",earthquake,0.4,0.48,0.253423712193046,14,reviewed,hv,hv
 2023-07-19T23:56:06.827Z,51.9258,178.4211,117.715,5,mb,128,109,0.098,0.69,us,us7000kgzy,2023-07-20T12:06:18.108Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.67,4.83,0.023,607,reviewed,us,us
 2023-07-19T23:54:28.710Z,33.7093333,-116.7685,14.85,1.07,ml,41,27,0.04533,0.16,ci,ci39617106,2023-07-20T01:36:51.585Z,"6km SW of Idyllwild, CA",earthquake,0.23,0.37,0.179,27,reviewed,ci,ci
 2023-07-19T23:49:06.990Z,35.79,-121.3848333,5.39,1.86,md,35,188,0.131,0.08,nc,nc73914721,2023-07-20T03:56:14.210Z,"24 km NW of San Simeon, CA",earthquake,0.35,0.58,0.102,39,reviewed,nc,nc
@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T23:39:29.160Z,38.8203316,-122.8096695,2.95,1,md,19,44,0.003075,0.01,nc,nc73914711,2023-07-19T23:41:03.369Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.62,0.24,20,automatic,nc,nc
 2023-07-19T23:34:10.120Z,35.6184998,-117.4414978,5.85,1.56,ml,19,77,0.03611,0.13,ci,ci39617098,2023-07-19T23:37:35.299Z,"17km SSW of Searles Valley, CA",earthquake,0.37,0.83,0.219,7,automatic,ci,ci
 2023-07-19T23:28:37.769Z,61.4552,-151.5471,84.1,1.2,ml,,,,0.54,ak,ak023975cgn4,2023-07-19T23:30:41.157Z,"42 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-19T23:27:49.740Z,34.0158333,-116.7531667,10.39,1.78,ml,51,33,0.04928,0.2,ci,ci39617090,2023-07-19T23:40:44.788Z,"11km NNE of Cabazon, CA",earthquake,0.22,0.4,0.22,25,automatic,ci,ci
+2023-07-19T23:27:49.640Z,34.0143333,-116.7561667,11.74,1.78,ml,68,34,0.04763,0.15,ci,ci39617090,2023-07-20T14:22:00.422Z,"11km NNE of Cabazon, CA",earthquake,0.13,0.3,0.18,60,reviewed,ci,ci
 2023-07-19T23:08:06.522Z,3.0812,128.4609,203.142,5,mb,88,79,4.893,0.77,us,us7000kgzn,2023-07-19T23:23:57.040Z,"157 km NNE of Tobelo, Indonesia",earthquake,8.53,5.408,0.061,86,reviewed,us,us
 2023-07-19T23:05:27.780Z,38.7823334,-122.7555008,1.46,1.23,md,12,78,0.0147,0.02,nc,nc73914701,2023-07-20T01:55:13.393Z,"1 km N of The Geysers, CA",earthquake,0.27,0.6,0.15,12,automatic,nc,nc
 2023-07-19T23:04:50.530Z,17.9446666666667,-66.8966666666667,5.57,2.03,md,7,214,0.02967,0.1,pr,pr71418493,2023-07-19T23:17:57.350Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.81,0.32,0.114977539285384,4,reviewed,pr,pr
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T14:44:33.620Z,38.7818333,-122.7628333,0.84,1.08,md,38,59,0.01133,0.05,nc,nc73914581,2023-07-19T23:01:12.336Z,"1 km NW of The Geysers, CA",earthquake,0.16,0.26,0.192,34,reviewed,nc,nc
 2023-07-19T14:29:14.941Z,-5.3645,146.0603,104.045,4.7,mb,67,79,6.048,0.53,us,us7000kgwb,2023-07-20T13:02:56.895Z,"34 km ESE of Madang, Papua New Guinea",earthquake,10.55,7.307,0.065,73,reviewed,us,us
 2023-07-19T14:25:40.390Z,33.4783333,-116.887,12.07,0.71,ml,29,59,0.02068,0.17,ci,ci39616210,2023-07-19T18:23:24.640Z,"4km NNW of Aguanga, CA",earthquake,0.21,0.5,0.169,15,reviewed,ci,ci
-2023-07-19T14:15:32.400Z,36.9228333,-121.4198333,8.82,1.1,md,21,50,0.06899,0.05,nc,nc73914576,2023-07-20T01:13:13.220Z,"9 km NNW of Hollister, CA",earthquake,0.27,0.68,0.122,16,reviewed,nc,nc
-2023-07-19T14:14:47.038Z,36.4116,53.9089,10,4.3,mb,68,50,3.687,0.68,us,us7000kgw7,2023-07-19T20:19:41.040Z,"44 km SE of Behshahr, Iran",earthquake,7.13,1.894,0.085,39,reviewed,us,us
