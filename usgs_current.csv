@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-22T05:40:40.410Z,59.6669,-152.018,61.2,2.1,ml,,,,0.15,ak,ak0239btba15,2023-07-22T05:41:52.054Z,"16 km SW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-22T05:15:10.019Z,63.0096,-150.7511,117.6,2.5,ml,,,,0.56,ak,ak0239bt5uwg,2023-07-22T05:28:26.040Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T05:06:33.300Z,38.8391685,-122.8791656,2.03,0.74,md,8,150,0.02093,0.01,nc,nc73915426,2023-07-22T05:08:08.619Z,"12 km ENE of Cloverdale, CA",earthquake,0.43,1.47,0.07,8,automatic,nc,nc
 2023-07-22T05:03:26.740Z,36.005,-117.9858333,1.56,1.68,ml,23,97,0.1452,0.15,ci,ci39619058,2023-07-22T05:07:06.458Z,"6km SW of Coso Junction, CA",earthquake,0.27,0.42,0.109,12,automatic,ci,ci
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T04:42:21.760Z,38.7986679,-122.7541656,1.72,1.8,md,29,51,0.02057,0.03,nc,nc73915416,2023-07-22T05:28:14.603Z,"2 km N of The Geysers, CA",earthquake,0.17,0.35,0.19,18,automatic,nc,nc
 2023-07-22T04:40:29.983Z,61.3635,-151.8108,89.4,1.4,ml,,,,0.34,ak,ak0239bsptme,2023-07-22T04:42:21.843Z,"46 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T04:34:04.240Z,33.71,-116.8205,16.47,1.1,ml,44,26,0.08298,0.18,ci,ci39619042,2023-07-22T04:44:40.110Z,"8km ESE of Valle Vista, CA",earthquake,0.24,0.42,0.264,27,automatic,ci,ci
-2023-07-22T04:15:44.940Z,38.7688333,-122.7306667,1.84,0.28,md,17,57,0.008536,0.02,nc,nc73915406,2023-07-22T05:05:17.297Z,"2 km ESE of The Geysers, CA",earthquake,0.26,0.36,0.17,9,reviewed,nc,nc
+2023-07-22T04:15:44.940Z,38.7688333,-122.7306667,1.84,0.28,md,17,57,0.008536,0.02,nc,nc73915406,2023-07-22T05:44:13.519Z,"2 km ESE of The Geysers, CA",earthquake,0.26,0.36,0.17,9,reviewed,nc,nc
 2023-07-22T04:14:44.556Z,31.6492,-104.4397,10,2.6,ml,19,107,0.056,0.45,us,us7000khjp,2023-07-22T04:22:25.040Z,"58 km S of Whites City, New Mexico",earthquake,2.62,2.008,0.105,26,reviewed,us,us
 2023-07-22T04:14:02.040Z,18.302,-67.7321666666667,141.9,3.36,md,21,172,0.2539,0.47,pr,pr71418833,2023-07-22T05:01:32.040Z,"51 km W of Rincón, Puerto Rico",earthquake,3.38,1.79,0.0580305990577703,10,reviewed,pr,pr
 2023-07-22T04:13:52.793Z,65.3832,-153.4255,0,1.4,ml,,,,0.52,ak,ak0239bsk31r,2023-07-22T04:16:23.633Z,"67 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -107,8 +108,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T18:00:35.806Z,61.6932,-148.1977,24.3,1.2,ml,,,,0.92,ak,ak0239ad9zei,2023-07-21T18:13:22.556Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-21T18:00:19.410Z,33.847,-117.4966667,2.4,1.51,ml,36,46,0.05214,0.16,ci,ci39618626,2023-07-21T18:27:08.847Z,"4km SSE of Home Gardens, CA",quarry blast,0.24,0.39,0.191,32,reviewed,ci,ci
 2023-07-21T17:39:03.540Z,47.60583333333334,-122.99716666666667,46.56,2.42,ml,38,70,0.05799,0.25,uw,uw61942721,2023-07-21T20:54:45.040Z,"11 km SW of Brinnon, Washington",earthquake,0.63,0.74,0.21969570109197867,29,reviewed,uw,uw
+2023-07-21T17:37:03.770Z,46.30416666666667,-119.48733333333334,9.18,0.23,ml,8,235,0.0241,0.09,uw,uw61942716,2023-07-22T05:42:27.470Z,"4 km N of Benton City, Washington",earthquake,0.58,0.85,0.11549504224220955,5,reviewed,uw,uw
 2023-07-21T17:33:45.010Z,33.1668333,-115.6321667,2.28,1.24,ml,22,73,0.01745,0.13,ci,ci39618602,2023-07-21T17:54:26.819Z,"12km WNW of Calipatria, CA",earthquake,0.22,0.26,0.217,16,reviewed,ci,ci
 2023-07-21T17:25:10.070Z,37.0011667,-119.8186667,-0.62,2.07,md,11,192,0.08929,0.25,nc,nc73915276,2023-07-21T18:23:53.952Z,"5 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,1.2,31.61,0.072,14,reviewed,nc,nc
+2023-07-21T17:25:07.930Z,46.867333333333335,-121.92783333333334,5.54,0.2,ml,15,77,0.01741,0.11,uw,uw61942706,2023-07-22T05:48:59.110Z,"14 km NNE of Ashford, Washington",earthquake,0.33,0.5,0.08397508820608643,7,reviewed,uw,uw
 2023-07-21T17:23:14.500Z,36.4830017,-121.0541687,7.54,1.82,md,14,180,0.02784,0.06,nc,nc73915271,2023-07-21T19:38:13.774Z,"10 km SE of Pinnacles, CA",earthquake,0.56,0.88,0.26,10,automatic,nc,nc
 2023-07-21T17:18:42.914Z,66.4326,-154.4846,0,1.6,ml,,,,0.96,ak,ak0239acsf8j,2023-07-21T17:21:06.521Z,"44 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-21T17:10:37.179Z,36.0345,-97.90866667,5.67,1.48,ml,88,30,0.1025798703,0.21,ok,ok2023oeoc,2023-07-21T17:23:56.466Z,"5 km N of Dover, Oklahoma",earthquake,,0.4,0.23,40,reviewed,ok,ok
@@ -142,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T14:01:31.758Z,58.7583,-153.7292,1.5,1,ml,,,,0.36,ak,ak0239aawgdz,2023-07-21T14:03:06.809Z,"91 km NNW of Aleneva, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-07-21T13:44:04.070Z,34.0041667,-117.5738333,3.49,1.22,ml,48,50,0.01016,0.17,ci,ci39618418,2023-07-21T19:49:43.822Z,"6km WNW of Mira Loma, CA",earthquake,0.15,0.19,0.197,20,reviewed,ci,ci
 2023-07-21T13:41:47.070Z,38.7798347,-122.7549973,0.8,0.8,md,14,67,0.01239,0.02,nc,nc73915181,2023-07-21T14:31:14.859Z,"0 km NNE of The Geysers, CA",earthquake,0.22,0.55,0.09,13,automatic,nc,nc
-2023-07-21T13:31:22.600Z,19.1771666666667,-155.490333333333,32.81,1.68,md,35,139,,0.12,hv,hv73491172,2023-07-21T20:20:52.480Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.55,0.62,0.179027254300352,15,reviewed,hv,hv
+2023-07-21T13:31:22.600Z,19.1771666666667,-155.490333333333,32.81,1.68,md,35,139,,0.12,hv,hv73491172,2023-07-21T20:20:52.480Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.62,0.179027254300352,15,reviewed,hv,hv
 2023-07-21T13:25:13.455Z,59.115,-155.823,249.9,1.9,ml,,,,0.79,ak,ak0239aag4k1,2023-07-21T13:28:04.571Z,"23 km S of Igiugig, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2023-07-21T13:24:43.365Z,58.2128,-155.2672,0,0.7,ml,,,,1.47,ak,ak0239aafz5c,2023-07-21T13:26:25.224Z,"86 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-21T13:13:25.725Z,0.5219,126.5052,52.739,4.7,mb,41,46,0.897,0.63,us,us7000khej,2023-07-21T13:30:24.040Z,"102 km WSW of Ternate, Indonesia",earthquake,7.1,7.802,0.07,61,reviewed,us,us
