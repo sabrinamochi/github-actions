@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-23T01:55:24.640Z,69.6163,-145.5581,0.4,3.9,ml,,,,0.9,ak,ak0239dek2ki,2023-07-23T01:59:38.930Z,"93 km SW of Kaktovik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-07-23T02:04:32.270Z,33.6831667,-116.7145,16.19,0.91,ml,34,58,0.02793,0.21,ci,ci39619626,2023-07-23T02:08:08.750Z,"6km S of Idyllwild, CA",earthquake,0.33,0.53,0.188,24,automatic,ci,ci
+2023-07-23T01:55:24.640Z,69.6163,-145.5581,0.4,3.9,ml,,,,0.9,ak,ak0239dek2ki,2023-07-23T02:08:40.040Z,"93 km SW of Kaktovik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-23T01:52:42.020Z,33.4566667,-116.4578333,13.55,0.67,ml,22,86,0.07177,0.21,ci,ci39619610,2023-07-23T01:56:20.061Z,"23km ESE of Anza, CA",earthquake,0.39,0.71,0.159,17,automatic,ci,ci
 2023-07-23T01:46:43.170Z,37.3862,-117.1044,1.1,1.9,ml,22,196.92,0.389,0.3111,nn,nn00863146,2023-07-23T01:49:09.225Z,"37 km SSE of Goldfield, Nevada",earthquake,,16.9,1,16,automatic,nn,nn
 2023-07-23T01:35:30.820Z,34.3181667,-116.4471667,6.73,1.6,ml,40,51,0.05974,0.18,ci,ci39619586,2023-07-23T01:46:00.150Z,"23km N of Yucca Valley, CA",earthquake,0.22,0.6,0.129,28,automatic,ci,ci
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T09:54:14.440Z,33.4818333,-116.5346667,13.46,0.62,ml,21,85,0.05788,0.14,ci,ci39619162,2023-07-22T09:57:47.533Z,"15km ESE of Anza, CA",earthquake,0.31,0.48,0.08,17,automatic,ci,ci
 2023-07-22T09:45:59.605Z,38.4474,-119.4038,6.4,1,ml,6,127.68,0.063,0.1794,nn,nn00863113,2023-07-22T14:21:51.519Z,"9 km SE of Walker, California",earthquake,,4.5,0.2,3,reviewed,nn,nn
 2023-07-22T09:38:54.345Z,31.6504,-104.347,5,2.5,mb_lg,16,114,0.132,0.36,us,us7000khl1,2023-07-22T09:51:45.115Z,"58 km S of Whites City, New Mexico",earthquake,1.37,1.914,0.089,45,reviewed,us,us
-2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-22T22:33:48.149Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
+2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-23T02:06:24.489Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
 2023-07-22T09:17:45.432Z,64.674,-147.4794,24.4,0.1,ml,,,,0.74,ak,ak0239bvk3db,2023-07-22T09:23:38.917Z,"10 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T09:17:10.976Z,38.4427,-119.3795,5.9,1.1,ml,6,337.35,0.077,0.1743,nn,nn00863112,2023-07-22T14:18:43.989Z,"11 km SE of Walker, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
 2023-07-22T09:12:27.530Z,37.5786667,-118.792,0.85,0.72,md,14,290,0.03159,0.03,nc,nc73915466,2023-07-22T20:41:17.148Z,"10 km W of Toms Place, CA",earthquake,2.04,0.87,0.237,15,reviewed,nc,nc
@@ -205,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T02:52:28.630Z,38.8339996,-122.788002,1.7,1.45,md,19,65,0.01249,0.04,nc,nc73915391,2023-07-22T03:26:11.656Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.39,0.19,19,automatic,nc,nc
 2023-07-22T02:50:15.677Z,60.0354,-152.2674,68,1.6,ml,,,,0.42,ak,ak0239brl2gv,2023-07-22T02:52:07.142Z,"31 km WNW of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-22T02:43:37.318Z,38.2157,38.0169,10,3.5,ml,16,75,1.002,0.71,us,us7000khja,2023-07-22T04:10:45.040Z,"14 km SSE of Akçadağ, Turkey",earthquake,4.82,1.277,0.091,16,reviewed,us,us
-2023-07-22T02:18:51.643Z,29.2246,-97.4014,5,2.5,mb_lg,13,162,0.34,0.82,us,us7000khj8,2023-07-22T02:54:09.040Z,"18 km NW of Cuero, Texas",earthquake,2.8,2.01,0.109,22,reviewed,us,us
-2023-07-22T02:13:29.330Z,38.8349991,-122.8085022,1.63,0.72,md,9,82,0.02138,0.02,nc,nc73915386,2023-07-22T02:45:15.414Z,"8 km W of Cobb, CA",earthquake,0.37,0.75,0.2,12,automatic,nc,nc
