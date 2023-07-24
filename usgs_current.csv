@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T20:40:00.892Z,57.202,-157.7562,169,2.1,ml,,,,0.98,ak,ak0239fdbe1l,2023-07-24T20:43:16.950Z,"40 km SSW of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T20:38:39.060Z,33.895,-116.6895,14.2,2.62,ml,78,20,0.08086,0.18,ci,ci39621018,2023-07-24T22:40:41.461Z,"9km ESE of Cabazon, CA",earthquake,0.15,0.35,0.228,26,automatic,ci,ci
 2023-07-24T20:37:47.624Z,58.195,-155.2555,1.1,0.1,ml,,,,0.14,ak,ak0239fdaui2,2023-07-24T20:40:00.741Z,"Alaska Peninsula",earthquake,,2.2,,,automatic,ak,ak
-2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"21 km NE of Perryville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-07-24T20:14:30.392Z,22.7759,94.4871,105.736,4.4,mb,26,165,3.098,0.87,us,us7000ki2c,2023-07-24T20:43:33.040Z,"84 km E of Falam, Myanmar",earthquake,13.48,5.144,0.117,21,reviewed,us,us
 2023-07-24T20:09:27.560Z,37.5695,-118.8493333,-0.4,1.02,md,10,273,0.02604,0.03,nc,nc73916281,2023-07-24T21:13:11.886Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.28,0.47,0.136,9,reviewed,nc,nc
 2023-07-24T20:05:09.100Z,36.8896667,-121.612,1.81,1.8,md,33,71,0.01688,0.08,nc,nc73916276,2023-07-24T22:30:53.673Z,"3 km E of Aromas, CA",earthquake,0.16,0.28,0.121,33,reviewed,nc,nc
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T03:15:16.010Z,36.1923332,-120.2983322,10.39,1.9,md,18,199,0.06764,0.08,nc,nc73915986,2023-07-24T05:41:18.231Z,"8 km NE of Coalinga, CA",earthquake,0.77,0.59,0.09,9,automatic,nc,nc
 2023-07-24T02:56:28.755Z,-24.0668,178.76,553.996,4.7,mb,30,76,5.966,0.89,us,us7000khx3,2023-07-24T22:23:20.040Z,"south of the Fiji Islands",earthquake,9.92,9.809,0.118,22,reviewed,us,us
 2023-07-24T02:52:07.591Z,61.4195,-148.5926,28.5,1,ml,,,,0.31,ak,ak0239f2o69j,2023-07-24T02:53:59.973Z,"17 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-24T02:51:00.920Z,36.196,-120.3406667,10.32,1.14,md,22,112,0.061,0.08,nc,nc73915971,2023-07-24T22:54:10.524Z,"6 km NNE of Coalinga, CA",earthquake,0.31,0.3,0.108,11,reviewed,nc,nc
+2023-07-24T02:51:00.920Z,36.196,-120.3406667,10.32,1.14,md,22,112,0.061,0.08,nc,nc73915971,2023-07-24T23:01:12.563Z,"6 km NNE of Coalinga, CA",earthquake,0.31,0.3,0.108,11,reviewed,nc,nc
 2023-07-24T02:49:57.893Z,-24.1376,178.7628,546,6,mww,94,36,5.903,0.52,us,us7000khw8,2023-07-24T22:28:30.075Z,"south of the Fiji Islands",earthquake,8.17,1.879,0.051,37,reviewed,us,us
 2023-07-24T02:47:31.100Z,58.1997,-155.2446,0,1.5,ml,,,,0.49,ak,ak0239f2n5hy,2023-07-24T02:49:11.744Z,"84 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-24T02:47:29.790Z,36.1963333,-120.3226667,10.3,2.29,md,46,89,0.06708,0.09,nc,nc73915966,2023-07-24T22:39:15.433Z,"7 km NNE of Coalinga, CA",earthquake,0.22,0.24,0.164,58,reviewed,nc,nc
@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T23:20:40.110Z,34.1393333,-116.8173333,5.42,0.84,ml,26,65,0.1042,0.13,ci,ci39620034,2023-07-24T20:51:56.915Z,"14km S of Big Bear City, CA",earthquake,0.17,0.55,0.092,14,reviewed,ci,ci
 2023-07-23T23:15:07.350Z,38.7890015,-122.7286682,1.31,1.27,md,8,88,0.008531,0.02,nc,nc73915916,2023-07-24T01:44:13.808Z,"3 km ENE of The Geysers, CA",earthquake,0.37,1.4,0.04,8,automatic,nc,nc
 2023-07-23T23:11:04.117Z,62.2544,-150.3861,20.7,1,ml,,,,0.36,ak,ak0239dre4uj,2023-07-23T23:12:54.310Z,"10 km SW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-23T23:00:42.606Z,64.9863,-147.4769,0,1.3,ml,,,,1.09,ak,ak0239drbuy1,2023-07-23T23:03:31.603Z,"7 km ENE of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
