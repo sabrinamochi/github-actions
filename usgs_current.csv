@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T23:49:07.320Z,64.6708,-149.1444,11.6,0.7,ml,,,,0.53,ak,ak0239drmaa5,2023-07-23T23:51:49.983Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-23T23:43:58.133Z,61.7127,-149.8208,44.2,1.1,ml,,,,0.36,ak,ak0239drl3xh,2023-07-23T23:45:49.584Z,"9 km N of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-23T23:30:09.060Z,39.5048332,-122.956665,24.95,2.66,ml,5,203,0.557,0.13,nc,nc73915921,2023-07-23T23:50:12.189Z,"11 km N of Lake Pillsbury, CA",earthquake,9.07,8.25,0.674,4,automatic,nc,nc
 2023-07-23T23:20:40.130Z,34.1463333,-116.8163333,2.33,0.85,ml,19,132,0.1111,0.24,ci,ci39620034,2023-07-23T23:24:22.439Z,"13km SSE of Big Bear City, CA",earthquake,0.4,0.63,0.149,19,automatic,ci,ci
-2023-07-23T23:15:07.350Z,38.7890015,-122.7286682,1.31,1.27,md,8,88,0.008531,0.02,nc,nc73915916,2023-07-23T23:50:11.071Z,"3 km ENE of The Geysers, CA",earthquake,0.37,1.4,0.04,8,automatic,nc,nc
+2023-07-23T23:15:07.350Z,38.7890015,-122.7286682,1.31,1.27,md,8,88,0.008531,0.02,nc,nc73915916,2023-07-23T23:51:10.077Z,"3 km ENE of The Geysers, CA",earthquake,0.37,1.4,0.04,8,automatic,nc,nc
 2023-07-23T23:11:04.117Z,62.2544,-150.3861,20.7,1,ml,,,,0.36,ak,ak0239dre4uj,2023-07-23T23:12:54.310Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-23T23:00:42.606Z,64.9863,-147.4769,0,1.3,ml,,,,1.09,ak,ak0239drbuy1,2023-07-23T23:03:31.603Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-23T22:48:39.540Z,38.845665,-122.81633,0.73,1.01,md,12,59,0.01052,0.04,nc,nc73915911,2023-07-23T23:38:13.997Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.46,0.24,13,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T22:00:06.504Z,64.5398,-148.9692,13.4,0.8,ml,,,,0.56,ak,ak0239dqqcju,2023-07-23T22:01:48.524Z,"6 km ESE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T20:56:00.566Z,57.4603,-154.9478,71.1,2.7,ml,,,,0.49,ak,ak0239dpvgzc,2023-07-23T21:52:10.040Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-23T20:53:07.786Z,36.4399,-115.8847,14.4,1.4,ml,12,288.03,0.3,0.351,nn,nn00863159,2023-07-23T20:55:22.873Z,"23 km SW of Indian Springs, Nevada",earthquake,,1.9,0.85,10,automatic,nn,nn
-2023-07-23T20:52:06.480Z,34.7508,-112.4326,5,3.8,ml,26,41,0.38,0.9,us,us7000khv5,2023-07-23T23:50:46.119Z,"Arizona",earthquake,1.96,1.933,0.028,171,reviewed,us,us
+2023-07-23T20:52:06.480Z,34.7508,-112.4326,5,3.8,ml,26,41,0.38,0.9,us,us7000khv5,2023-07-23T23:55:56.708Z,"Arizona",earthquake,1.96,1.933,0.028,171,reviewed,us,us
 2023-07-23T20:38:24.482Z,59.4818,-152.1598,63.7,1.5,ml,,,,0.47,ak,ak0239dprnxs,2023-07-23T20:40:28.596Z,"19 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-23T20:33:34.850Z,38.8398323,-122.8773346,2.17,0.63,md,8,137,0.02015,0.01,nc,nc73915841,2023-07-23T21:05:15.076Z,"13 km WNW of The Geysers, CA",earthquake,0.32,0.9,0.38,8,automatic,nc,nc
 2023-07-23T20:30:56.290Z,19.3846666666667,-155.2785,1.56,2.39,ml,39,66,,0.11,hv,hv73494512,2023-07-23T20:54:05.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.14,0.220859335335292,18,reviewed,hv,hv
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T00:25:15.120Z,33.8686667,-116.8205,14.54,1.57,ml,52,24,0.03993,0.21,ci,ci39619546,2023-07-23T00:28:47.585Z,"6km SSW of Cabazon, CA",earthquake,0.23,0.38,0.141,26,automatic,ci,ci
 2023-07-23T00:04:45.225Z,58.2659,-155.1158,1.7,1.7,ml,,,,0.34,ak,ak0239ddnr3e,2023-07-23T00:06:27.785Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T00:02:48.310Z,45.04483333333334,-122.40083333333334,10.65,1.69,ml,21,90,0.1284,0.29,uw,uw61943041,2023-07-23T04:55:05.820Z,"Oregon",earthquake,0.37,2.21,0.1380573235257272,16,reviewed,uw,uw
-2023-07-22T23:51:08.680Z,19.2560005187988,-155.402496337891,30.8999996185303,1.96,ml,36,145,,0.109999999,hv,hv73493327,2023-07-22T23:56:39.510Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.819999993,4.07,5,automatic,hv,hv
