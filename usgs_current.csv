@@ -70,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T18:02:34.650Z,19.3796672821045,-155.030334472656,0.879999995231628,1.84000003,md,25,143,,0.289999992,hv,hv73499372,2023-07-27T18:05:52.790Z,"14 km SSE of Eden Roc, Hawaii",earthquake,0.71,0.519999981,0.720000029,13,automatic,hv,hv
 2023-07-27T17:59:32.430Z,33.044,-114.9693333,-0.23,0.83,ml,12,59,0.07196,0.27,ci,ci39623754,2023-07-27T18:30:11.092Z,"44km NNW of Los Algodones, B.C., MX",quarry blast,0.61,31.61,0.069,2,reviewed,ci,ci
 2023-07-27T17:59:26.970Z,40.2148333,-121.1673333,2.8,2.9,md,52,37,0.03687,0.17,nc,nc73917366,2023-07-28T02:43:15.155Z,"1 km ESE of Almanor, CA",earthquake,0.26,0.42,0.133,70,reviewed,nc,nc
+2023-07-27T17:58:44.770Z,56.9063333333333,-158.075333333333,5.57,-0.03,ml,4,241,,0.15,av,av91979641,2023-07-28T03:12:15.550Z,"71 km NNE of Chignik, Alaska",earthquake,0.82,1.29,0.308012865548389,4,reviewed,av,av
 2023-07-27T17:57:00.070Z,35.0593333,-118.3498333,-0.93,1.16,ml,14,54,0.06891,0.19,ci,ci39623746,2023-07-27T19:50:36.391Z,"12km SE of Tehachapi, CA",quarry blast,0.43,31.61,0.09,20,reviewed,ci,ci
 2023-07-27T17:50:31.193Z,56.899,-158.1682,0,2.7,ml,,,,0.78,ak,ak0239ka7c7j,2023-07-27T17:52:28.391Z,"68 km NNE of Chignik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T17:47:59.360Z,38.7784996,-122.7666702,1.14,1.01,md,10,89,0.02215,0.02,nc,nc73917356,2023-07-27T18:34:12.925Z,"1 km W of The Geysers, CA",earthquake,0.3,0.59,0.23,11,automatic,nc,nc
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T07:56:52.823Z,61.5761,-149.8365,32.7,2,ml,,,,0.5,ak,ak0239k4ac4i,2023-07-27T07:58:36.500Z,"6 km S of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-27T07:53:57.508Z,62.8421,-150.3147,76.5,1.1,ml,,,,1.37,ak,ak0239k49pc6,2023-07-27T07:56:29.113Z,"44 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-27T07:42:07.430Z,31.56759707,-104.0565342,7.468383789,2.5,ml,32,54,0.01941537205,0.3,tx,tx2023oouk,2023-07-27T12:58:24.719Z,"western Texas",earthquake,0.7456616087,0.7067497273,0.2,23,reviewed,tx,tx
-2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-28T02:58:43.183Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
+2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-28T03:12:50.680Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
 2023-07-27T07:32:31.554Z,-14.6718,168.0724,10,4.6,mb,40,54,6.871,0.75,us,us6000kvuz,2023-07-27T08:09:11.040Z,"104 km SSE of Sola, Vanuatu",earthquake,9.54,1.865,0.112,33,reviewed,us,us
 2023-07-27T07:24:05.150Z,38.8161659,-122.8284988,2.12,0.61,md,8,98,0.007307,0.01,nc,nc73917231,2023-07-27T07:42:15.495Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.25,0.2,8,automatic,nc,nc
 2023-07-27T07:21:27.921Z,58.784,-154.2997,112.8,1.4,ml,,,,0.4,ak,ak0239k42s54,2023-07-27T07:25:08.471Z,"77 km SSE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -213,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T03:38:24.720Z,38.7903328,-122.7253342,1.52,0.73,md,8,94,0.01138,0.01,nc,nc73917196,2023-07-27T04:12:14.970Z,"3 km ENE of The Geysers, CA",earthquake,0.57,2.83,0.31,8,automatic,nc,nc
 2023-07-27T03:34:58.305Z,63.5776,-147.8275,7.5,2.6,ml,,,,0.88,ak,ak0239k1rwbb,2023-07-27T03:52:57.040Z,"56 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T03:25:11.235Z,59.1318,-152.779,60,1.5,ml,,,,0.39,ak,ak0239k1pvar,2023-07-27T03:27:12.583Z,"54 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-27T03:12:59.080Z,65.3985,-144.797,0,1.1,ml,,,,0.64,ak,ak0239k1n6m2,2023-07-27T03:15:21.749Z,"19 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-27T03:12:35.820Z,36.0281667,-121.5401667,8.06,1.41,md,31,193,0.1089,0.12,nc,nc73917191,2023-07-27T04:39:15.157Z,"3 km ENE of Lopez Point, CA",earthquake,0.38,0.58,0.178,28,reviewed,nc,nc
