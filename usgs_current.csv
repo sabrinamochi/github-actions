@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T17:37:05.020Z,35.7613335,-121.2948303,0.25,1.22,md,4,232,0.1393,0.02,nc,nc73917961,2023-07-29T17:38:42.132Z,"16 km NW of San Simeon, CA",earthquake,1.31,6.99,0.13,4,automatic,nc,nc
+2023-07-29T17:33:38.104Z,69.0408,-144.3659,0,2,ml,,,,0.53,ak,ak0239nl6ek2,2023-07-29T17:35:56.642Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-29T17:04:05.100Z,38.8074989,-122.8154984,3.27,1.33,md,28,59,0.01077,0.03,nc,nc73917956,2023-07-29T17:14:09.866Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.42,0.14,29,automatic,nc,nc
-2023-07-29T17:00:11.650Z,39.425499,-122.2490005,15.46,2.95,md,6,205,0.5168,0.29,nc,nc73917951,2023-07-29T17:04:11.810Z,"12 km SSW of Willows, CA",earthquake,6.07,18.33,0.34,4,automatic,nc,nc
-2023-07-29T16:55:50.210Z,38.8214989,-122.8121643,5.59,0.62,md,11,95,0.0025,0.05,nc,nc73917946,2023-07-29T16:57:27.517Z,"7 km NW of The Geysers, CA",earthquake,0.72,1.63,0.22,11,automatic,nc,nc
+2023-07-29T17:00:11.650Z,39.425499,-122.2490005,15.46,2.95,md,6,205,0.5168,0.29,nc,nc73917951,2023-07-29T17:33:14.974Z,"12 km SSW of Willows, CA",earthquake,6.07,18.33,0.34,4,automatic,nc,nc
+2023-07-29T16:55:50.210Z,38.8214989,-122.8121643,5.59,0.62,md,11,95,0.0025,0.05,nc,nc73917946,2023-07-29T17:33:13.974Z,"7 km NW of The Geysers, CA",earthquake,0.72,1.63,0.22,11,automatic,nc,nc
 2023-07-29T16:55:19.991Z,61.3729,-150.5069,19.5,1.1,ml,,,,0.45,ak,ak0239nkpnb3,2023-07-29T16:57:36.855Z,"19 km S of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T16:53:09.930Z,38.8076668,-122.8166656,3.28,1.99,md,43,54,0.009849,0.04,nc,nc73917936,2023-07-29T17:27:15.942Z,"6 km WNW of The Geysers, CA",earthquake,0.17,0.27,0.2,43,automatic,nc,nc
 2023-07-29T16:33:45.190Z,18.0093333333333,-66.976,14.73,2.77,md,24,120,0.07398,0.14,pr,pr71419643,2023-07-29T16:54:02.310Z,"5 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.28,0.42,0.213742492275483,12,reviewed,pr,pr
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T11:08:57.884Z,57.5648,-155.051,250,0.9,ml,,,,0.75,ak,ak0239nhgmpf,2023-07-29T11:11:23.276Z,"35 km W of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-07-29T10:57:08.650Z,40.1655,-121.2666667,4.65,2.12,md,25,64,0.124,0.26,nc,nc73917886,2023-07-29T14:21:13.855Z,"10 km SW of Almanor, CA",earthquake,0.45,1.98,0.188,29,reviewed,nc,nc
 2023-07-29T10:55:46.040Z,38.8274994,-122.800499,1.72,1.03,md,16,50,0.008528,0.01,nc,nc73917881,2023-07-29T13:39:13.772Z,"7 km W of Cobb, CA",earthquake,0.24,0.53,0.18,15,automatic,nc,nc
-2023-07-29T10:51:50.659Z,38.5286,-119.4901,7.6,0.8,ml,7,194.53,0.048,0.0529,nn,nn00863698,2023-07-29T16:12:11.400Z,"1 km NW of Walker, California",earthquake,,1.3,0.02,2,reviewed,nn,nn
+2023-07-29T10:51:50.659Z,38.5286,-119.4901,7.6,0.8,ml,7,194.53,0.048,0.0529,nn,nn00863698,2023-07-29T16:12:11.400Z,"California-Nevada border region",earthquake,,1.3,0.02,2,reviewed,nn,nn
 2023-07-29T10:47:32.799Z,53.4356,-165.2317,35,3.7,mb,46,171,1.044,0.75,us,us6000kwhk,2023-07-29T11:27:49.040Z,"85 km SSE of Akutan, Alaska",earthquake,7.16,1.991,0.122,17,reviewed,us,us
 2023-07-29T10:40:15.940Z,32.2331667,-115.2968333,1.77,2.42,ml,16,70,0.09846,0.26,ci,ci39625050,2023-07-29T10:43:55.156Z,"12 km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.49,1.04,0.288,25,automatic,ci,ci
 2023-07-29T10:36:15.715Z,57.7901,-153.7299,24.4,1.7,ml,,,,0.37,ak,ak0239nh0yqr,2023-07-29T10:38:31.504Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T17:50:40.958Z,36.653,-116.2729,6.5,0.5,ml,22,94.17,0.054,0.0994,nn,nn00863663,2023-07-28T19:32:32.675Z,"51 km ESE of Beatty, Nevada",earthquake,,0.9,0.83,6,reviewed,nn,nn
 2023-07-28T17:49:00.852Z,31.64138609,-103.9853557,5.823071289,1.6,ml,13,77,0.03381178025,0.1,tx,tx2023orjx,2023-07-28T19:15:37.425Z,"37 km W of Mentone, Texas",earthquake,2.060810341,1.7081369120000003,0.2,7,reviewed,tx,tx
 2023-07-28T17:45:24.530Z,33.2586667,-116.2021667,11,0.88,ml,18,117,0.07884,0.13,ci,ci39624450,2023-07-28T20:14:51.853Z,"14 km NNW of Ocotillo Wells, CA",earthquake,0.28,0.53,0.072,8,reviewed,ci,ci
-2023-07-28T17:38:01.236Z,-18.011,-178.4386,598.592,5,mb,195,39,3.352,0.83,us,us6000kw9k,2023-07-29T15:24:01.040Z,"237 km E of Levuka, Fiji",earthquake,10.48,5.832,0.024,581,reviewed,us,us
