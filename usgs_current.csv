@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-31T09:57:24.120Z,38.8231659,-122.8288345,1.82,0.75,md,12,56,0.00484,0.02,nc,nc73918661,2023-07-31T09:58:56.973Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.76,0.35,13,automatic,nc,nc
-2023-07-31T09:56:09.100Z,38.8208351,-122.8268356,2.01,2.06,md,41,36,0.006794,0.05,nc,nc73918656,2023-07-31T09:59:24.579Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.25,0.15,43,automatic,nc,nc
+2023-07-31T09:56:09.100Z,38.8208351,-122.8268356,2.01,2.06,md,41,36,0.006794,0.05,nc,nc73918656,2023-07-31T10:02:13.233Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.25,0.15,43,automatic,nc,nc
 2023-07-31T09:41:17.470Z,37.4908333,-121.841835,7.54,1.28,md,9,96,0.04216,0.03,nc,nc73918651,2023-07-31T09:57:16.212Z,"9 km NE of Milpitas, CA",earthquake,0.52,1.05,0.11,8,automatic,nc,nc
 2023-07-31T09:38:25.570Z,35.6556667,-117.4843333,4.74,0.69,ml,11,121,0.05026,0.1,ci,ci39625962,2023-07-31T09:42:07.523Z,"14 km SSW of Searles Valley, CA",earthquake,0.54,1.06,0.043,3,automatic,ci,ci
 2023-07-31T09:32:54.906Z,31.6456,-104.3837,5,3,mb_lg,24,71,0.102,0.38,us,us6000kwtw,2023-07-31T09:53:22.040Z,"58 km S of Whites City, New Mexico",earthquake,3.13,1.963,0.051,101,reviewed,us,us
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T04:17:19.710Z,38.795166,-122.8284988,8.48,0.29,md,10,141,0.00542,0.02,nc,nc73918581,2023-07-31T04:37:15.379Z,"7 km WNW of The Geysers, CA",earthquake,1.4,5.94,0.14,11,automatic,nc,nc
 2023-07-31T04:15:00.490Z,32.921,-116.3441667,8.75,0.82,ml,20,87,0.04795,0.2,ci,ci39625914,2023-07-31T04:18:36.523Z,"20 km ENE of Pine Valley, CA",earthquake,0.35,0.84,0.149,10,automatic,ci,ci
 2023-07-31T04:08:38.490Z,38.8014984,-122.8160019,2.83,0.62,md,14,75,0.01265,0.02,nc,nc73918576,2023-07-31T06:14:15.069Z,"6 km WNW of The Geysers, CA",earthquake,0.38,0.75,0.28,14,automatic,nc,nc
-2023-07-31T04:08:22.152Z,58.1668,-155.3931,1.2,0.5,ml,,,,0.82,ak,ak0239qod2jr,2023-07-31T04:09:20.104Z,"86 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-07-31T04:08:22.152Z,58.1668,-155.3931,1.2,0.5,ml,,,,0.82,ak,ak0239qod2jr,2023-07-31T04:09:20.104Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-07-31T04:07:59.206Z,-48.2872,-76.0652,10,4.8,mb,42,166,2.562,0.73,us,us6000kwsq,2023-07-31T04:24:39.040Z,"285 km WSW of Cochrane, Chile",earthquake,9.21,1.925,0.079,49,reviewed,us,us
 2023-07-31T03:51:13.440Z,17.9471666666667,-66.9166666666667,12.47,2.63,md,10,209,0.04513,0.08,pr,pr71419843,2023-07-31T04:09:57.220Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.51,0.3,0.190880210766698,7,reviewed,pr,pr
 2023-07-31T03:47:04.700Z,45.59283333333333,-124.65,8.08,1.7,ml,7,307,0.5592,0.19,uw,uw61936427,2023-07-31T06:56:31.840Z,"55 km WNW of Cape Meares, Oregon",earthquake,4.27,15.95,0.2016631081734317,5,reviewed,uw,uw
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T10:14:37.484Z,58.1358,-155.5908,21.9,0.7,ml,,,,0.5,ak,ak0239p4fn5w,2023-07-30T10:17:04.655Z,"87 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-30T10:13:26.179Z,41.988,-119.6462,0,1.4,ml,3,201.44,0.496,0.1447,nn,nn00863743,2023-07-31T02:03:37.249Z,"44 km ENE of Fort Bidwell, California",earthquake,,0,0.76,3,reviewed,nn,nn
 2023-07-30T10:12:28.490Z,38.8166656,-122.7748337,1.48,0.62,md,8,123,0.005698,0.01,nc,nc73918226,2023-07-30T11:23:14.357Z,"4 km W of Cobb, CA",earthquake,0.58,0.77,0.2,9,automatic,nc,nc
-2023-07-30T10:02:09.341Z,56.8768,-155.9229,13,2.4,ml,,,,0.72,ak,ak0239p4d0ee,2023-07-30T10:45:17.040Z,"106 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
