@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-01T06:31:49.400Z,33.9425011,-118.3413315,20.98,1.65,ml,52,74,0.02384,0.27,ci,ci39626626,2023-08-01T06:33:54.849Z,"1 km ENE of Lennox, CA",earthquake,0.42,0.57,0.196,25,automatic,ci,ci
+2023-08-01T06:31:49.400Z,33.9485,-118.341,21.03,1.67,ml,40,84,0.04532,0.28,ci,ci39626626,2023-08-01T06:35:33.628Z,"1 km SSE of Inglewood, CA",earthquake,0.45,0.65,0.159,28,automatic,ci,ci
 2023-08-01T06:23:20.990Z,33.6876667,-116.7348333,15.86,0.78,ml,31,64,0.03257,0.16,ci,ci39626618,2023-08-01T06:26:51.492Z,"6 km SSW of Idyllwild, CA",earthquake,0.31,0.47,0.154,22,automatic,ci,ci
 2023-08-01T06:19:59.780Z,34.096,-117.2886667,4.51,0.79,ml,9,199,0.04414,0.31,ci,ci39626610,2023-08-01T06:23:31.169Z,"3 km NE of Colton, CA",earthquake,1.27,1.73,0.141,14,automatic,ci,ci
 2023-08-01T05:53:20.410Z,33.89,-116.2066667,10.55,0.72,ml,13,77,0.0449,0.16,ci,ci39626594,2023-08-01T05:56:54.214Z,"19 km ENE of Thousand Palms, CA",earthquake,0.33,0.74,0.175,11,automatic,ci,ci
@@ -240,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T06:54:50.435Z,51.4151,-177.1788,38.873,3.8,mb,48,195,0.439,1.01,us,us6000kwta,2023-07-31T17:14:56.791Z,"63 km SW of Adak, Alaska",earthquake,9.99,5.929,0.069,55,reviewed,us,us
 2023-07-31T06:45:13.668Z,31.65825149,-104.4601521,6.080151367,2.3,ml,15,79,0.02406582878,0.2,tx,tx2023owan,2023-07-31T13:39:03.506Z,"57 km S of Whites City, New Mexico",earthquake,1.72762221,0.9787074767,0.1,9,reviewed,tx,tx
 2023-07-31T06:44:54.130Z,46.9425,-121.93783333333333,11.95,0.17,ml,16,135,0.03928,0.11,uw,uw61936447,2023-07-31T07:06:44.280Z,"17 km SSE of Carbonado, Washington",earthquake,0.56,0.54,0.12114878650966049,10,reviewed,uw,uw
-2023-07-31T06:39:41.896Z,60.0792,-152.4024,87.2,1.4,ml,,,,0.38,ak,ak0239qpqmh9,2023-07-31T06:41:25.789Z,"40 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-31T06:38:49.578Z,58.3026,-155.0185,0,0.3,ml,,,,0.53,ak,ak0239qpqfce,2023-07-31T06:41:00.340Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-31T06:34:14.940Z,46.64216666666667,-122.24,18.14,0.59,ml,24,89,0.1884,0.14,uw,uw61936442,2023-07-31T07:38:23.800Z,"9 km SSW of Mineral, Washington",earthquake,0.41,1.02,0.13254474800182886,12,reviewed,uw,uw
