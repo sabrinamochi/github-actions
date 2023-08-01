@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-01T21:19:49.180Z,36.588501,-121.4104996,1.32,1.35,md,7,134,0.01124,0,nc,nc73919181,2023-08-01T21:21:22.820Z,"10 km NNE of Gonzales, CA",earthquake,1.32,0.31,0.08,6,automatic,nc,nc
+2023-08-01T21:19:49.180Z,36.588501,-121.4104996,1.32,1.35,md,7,134,0.01124,0,nc,nc73919181,2023-08-01T21:21:24.528Z,"10 km NNE of Gonzales, CA",earthquake,1.32,0.31,0.08,6,automatic,nc,nc
 2023-08-01T21:05:07.840Z,38.8186684,-122.7948303,3.12,0.77,md,10,68,0.01069,0.02,nc,nc73919171,2023-08-01T21:06:44.423Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.63,0.12,10,automatic,nc,nc
 2023-08-01T20:53:46.918Z,58.1733,-155.3844,1.1,0,ml,,,,0.22,ak,ak0239slp1ur,2023-08-01T20:54:54.220Z,"87 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-08-01T20:48:14.384Z,60.4498,-152.5891,101.1,1.1,ml,,,,0.14,ak,ak0239slnwri,2023-08-01T20:51:15.094Z,"67 km NW of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T18:58:26.970Z,38.8348351,-122.8068314,2.28,1.09,md,17,53,0.0117,0.02,nc,nc73919096,2023-08-01T19:00:03.761Z,"7 km W of Cobb, CA",earthquake,0.27,0.55,0.15,19,automatic,nc,nc
 2023-08-01T18:54:55.236Z,61.6338,-149.9668,25.6,1.5,ml,,,,0.59,ak,ak0239skif03,2023-08-01T18:56:39.829Z,"7 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-01T18:48:46.750Z,35.0526667,-118.3525,-0.93,1.5,ml,27,34,0.06257,0.17,ci,ci39627026,2023-08-01T20:28:35.557Z,"12 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.135,17,reviewed,ci,ci
+2023-08-01T18:37:05.656Z,40.4176,42.2239,10,4.1,mb,45,54,1.24,0.81,us,us6000kx47,2023-08-01T21:21:32.040Z,"18 km SSW of Şenkaya, Turkey",earthquake,3.35,1.885,0.114,24,reviewed,us,us
 2023-08-01T18:28:44.024Z,60.971,-148.1384,16.2,1.1,ml,,,,1.13,ak,ak0239skctiq,2023-08-01T18:30:15.958Z,"36 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-01T18:18:29.464Z,61.3099,-152.5193,9.9,0.8,ml,,,,0.17,ak,ak0239skan8i,2023-08-01T18:19:48.282Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-01T18:07:50.093Z,61.4469,-146.588,20,1.4,ml,,,,0.95,ak,ak0239sk8byh,2023-08-01T18:10:09.042Z,"37 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -277,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T21:36:25.410Z,35.8541667,-117.6848333,9.21,1.5,mh,16,116,0.07939,0.11,ci,ci39626466,2023-07-31T23:54:41.693Z,"22 km ESE of Little Lake, CA",earthquake,0.25,0.53,,0,reviewed,ci,ci
 2023-07-31T21:35:24.528Z,58.2102,-155.2528,0,-0.2,ml,,,,1.33,ak,ak0239qyn8bw,2023-07-31T21:37:31.356Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-31T21:34:08.510Z,45.0808333333333,-111.711666666667,-2,0.9,ml,7,121,0.2782,0.07,mb,mb90023073,2023-08-01T15:17:57.740Z,"29 km S of Ennis, Montana",quarry blast,0.76,31.61,0.137727264830764,4,reviewed,mb,mb
-2023-07-31T21:29:07.933Z,32.83538818,-100.9445265,5.25777181,3.1,ml,23,65,0.0404942445,0.2,tx,tx2023oxdt,2023-08-01T15:56:09.003Z,"western Texas",earthquake,0.6550395879,1.246719888,0,7,reviewed,tx,tx
