@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T12:33:33.590Z,19.1643333435059,-155.490325927734,36.7599983215332,2.19000006,md,42,115,,0.129999995,hv,hv73507112,2023-08-02T12:36:36.350Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.959999979,0.129999995,9,automatic,hv,hv
 2023-08-02T12:27:06.610Z,60.7287,-151.5672,84.6,1.1,ml,,,,0.12,ak,ak0239u4b9s5,2023-08-02T12:28:23.400Z,"15 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-02T12:25:45.067Z,39.2115,-120.4576,0,0.8,ml,6,206.85,0.173,0.225,nn,nn00863833,2023-08-02T14:26:32.223Z,"12 km SSW of Kingvale, California",earthquake,,0,0,1,reviewed,nn,nn
-2023-08-02T12:20:10.230Z,36.0315,-120.6083333,-0.73,1.11,md,28,57,0.03851,0.12,nc,nc73919391,2023-08-02T20:55:03.625Z,"22 km NW of Parkfield, CA",earthquake,0.26,0.57,0.207,14,reviewed,nc,nc
+2023-08-02T12:20:10.230Z,36.0315,-120.6083333,-0.73,1.11,md,28,57,0.03851,0.12,nc,nc73919391,2023-08-02T21:01:10.780Z,"22 km NW of Parkfield, CA",earthquake,0.26,0.57,0.207,14,reviewed,nc,nc
 2023-08-02T12:19:58.237Z,40.0731,-119.71,15.8,0.4,ml,4,155.28,0.099,0.0812,nn,nn00863836,2023-08-02T17:01:15.375Z,"16 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.05,2,reviewed,nn,nn
 2023-08-02T12:14:57.900Z,38.8311653,-122.8161697,1.66,1.09,md,19,65,0.009103,0.02,nc,nc73919386,2023-08-02T12:48:14.009Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,19,automatic,nc,nc
 2023-08-02T12:12:54.719Z,65.814,-151.009,5.6,1.4,ml,,,,0.33,ak,ak0239u485r3,2023-08-02T12:15:09.138Z,"51 km NW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -153,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T08:04:10.300Z,36.5838318,-121.1811676,4.94,2.21,md,26,139,0.01258,0.11,nc,nc73919346,2023-08-02T09:31:12.015Z,"7 km NNW of Pinnacles, CA",earthquake,0.37,0.71,0.15,26,automatic,nc,nc
 2023-08-02T07:42:56.199Z,61.5231,-151.223,67.2,1.4,ml,,,,0.72,ak,ak0239u1ffbn,2023-08-02T07:45:13.922Z,"37 km W of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T07:40:18.103Z,39.1698,-119.6058,5.7,0.9,ml,13,159.24,0.081,0.1501,nn,nn00863831,2023-08-02T14:20:19.220Z,"7 km S of Dayton, Nevada",earthquake,,2.1,0.17,5,reviewed,nn,nn
+2023-08-02T07:38:28.829Z,39.1681,-119.6071,4.6,0.6,ml,7,158.37,0.079,0.1411,nn,nn00863855,2023-08-02T21:00:25.148Z,"7 km S of Dayton, Nevada",earthquake,,4.6,0.06,2,reviewed,nn,nn
 2023-08-02T07:33:47.000Z,33.1866667,-115.5831667,3.63,1.6,ml,29,88,0.02874,0.17,ci,ci39627498,2023-08-02T15:22:45.153Z,"8 km SW of Niland, CA",earthquake,0.23,0.15,0.257,29,reviewed,ci,ci
 2023-08-02T07:33:43.293Z,57.1171,-157.9802,2.2,1.8,ml,,,,0.7,ak,ak0239u1dgvt,2023-08-02T07:46:22.660Z,"55 km SSW of Pilot Point, Alaska",earthquake,,42.7,,,automatic,ak,ak
 2023-08-02T07:29:55.670Z,35.358,-118.075,2.79,1.01,ml,24,46,0.07115,0.12,ci,ci39627490,2023-08-02T15:17:23.111Z,"27 km NNW of California City, CA",earthquake,0.17,0.4,0.133,10,reviewed,ci,ci
@@ -279,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T21:09:12.700Z,38.836,-122.7973333,2.58,0.42,md,18,66,0.005965,0.03,nc,nc73919176,2023-08-02T18:31:13.927Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.58,0.1,16,reviewed,nc,nc
 2023-08-01T21:05:07.840Z,38.8186684,-122.7948303,3.12,0.77,md,10,68,0.01069,0.02,nc,nc73919171,2023-08-01T21:40:14.692Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.63,0.12,10,automatic,nc,nc
 2023-08-01T21:05:03.920Z,46.901,-112.5965,10.94,0.69,ml,9,107,0.0466,0.05,mb,mb90023148,2023-08-01T21:43:56.910Z,"8 km SE of Lincoln, Montana",earthquake,0.29,0.45,0.18000749082965,5,reviewed,mb,mb
-2023-08-01T21:01:33.820Z,39.1648333,-123.5123333,8.4,0.47,md,4,201,0.04685,0.02,nc,nc71131074,2023-08-01T23:52:14.441Z,"21 km NW of Boonville, CA",earthquake,0.49,1.08,0.219,4,reviewed,nc,nc
-2023-08-01T21:00:58.480Z,37.6071667,-118.8431667,6.16,0.69,md,14,125,0.01965,0.05,nc,nc71131069,2023-08-01T23:41:19.371Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.53,0.6,0.18,15,reviewed,nc,nc
