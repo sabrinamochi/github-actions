@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T00:14:02.270Z,38.8188324,-122.8213348,2.3,0.91,md,21,58,0.009906,0.02,nc,nc73919251,2023-08-02T00:15:39.171Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.19,22,automatic,nc,nc
+2023-08-02T00:12:08.063Z,62.8953,-151.1057,109.1,1.4,ml,,,,0.44,ak,ak0239tx2uw6,2023-08-02T00:14:23.129Z,"47 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-02T00:01:48.570Z,19.404167175293,-155.282333374023,7.61999988555908,1.77999997,md,15,81,,0.239999995,hv,hv73506582,2023-08-02T00:07:20.230Z,"6 km SW of Volcano, Hawaii",earthquake,0.81,0.980000019,0.910000026,7,automatic,hv,hv
 2023-08-02T00:01:19.666Z,62.1076,-151.445,79,1.2,ml,,,,0.85,ak,ak0239tx0j52,2023-08-02T00:03:46.570Z,"13 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T00:01:10.669Z,60.7954,-152.9237,11.2,0.8,ml,,,,0.15,ak,ak0239tx0i7u,2023-08-02T00:02:56.918Z,"89 km WNW of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -30,9 +32,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T22:18:29.330Z,38.7960014,-122.8105011,3.21,0.83,md,17,85,0.009616,0.02,nc,nc73919186,2023-08-01T22:35:18.007Z,"5 km WNW of The Geysers, CA",earthquake,0.35,0.78,0.12,16,automatic,nc,nc
 2023-08-01T21:56:29.370Z,35.6973333,-117.5543333,8.07,0.87,ml,10,141,0.1111,0.17,ci,ci39627242,2023-08-01T22:00:02.235Z,"14 km NE of Ridgecrest, CA",earthquake,0.82,1.8,0.116,5,automatic,ci,ci
 2023-08-01T21:52:46.360Z,34.8386,26.2428,39.458,4.2,mb,22,200,1.197,0.87,us,us6000kx6d,2023-08-01T22:17:52.040Z,"39 km S of Palekastro, Greece",earthquake,7.19,12.118,0.125,18,reviewed,us,us
-2023-08-01T21:35:21.230Z,33.6488333,-116.7323333,15.61,0.67,ml,22,85,0.06105,0.26,ci,ci39627218,2023-08-01T21:38:53.142Z,"10 km S of Idyllwild, CA",earthquake,0.78,0.94,0.204,14,automatic,ci,ci
-2023-08-01T21:27:34.290Z,35.7756667,-117.6221667,11.28,0.96,ml,11,152,0.1206,0.22,ci,ci39627210,2023-08-01T21:31:01.035Z,"18 km NNE of Ridgecrest, CA",earthquake,0.71,1.45,0.096,6,automatic,ci,ci
+2023-08-01T21:35:21.180Z,33.6726667,-116.7236667,14.27,0.38,ml,18,98,0.04176,0.09,ci,ci39627218,2023-08-02T00:23:47.198Z,"8 km S of Idyllwild, CA",earthquake,0.27,0.41,0.145,8,reviewed,ci,ci
+2023-08-01T21:27:39.600Z,35.7778333,-117.6226667,13.54,1.09,ml,11,129,0.1196,0.17,ci,ci37528077,2023-08-02T00:19:22.175Z,"18 km NNE of Ridgecrest, CA",earthquake,0.49,1.38,0.147,8,reviewed,ci,ci
+2023-08-01T21:27:34.140Z,35.7716667,-117.6248333,11.91,0.92,ml,13,126,0.1197,0.13,ci,ci39627210,2023-08-02T00:18:48.575Z,"17 km NNE of Ridgecrest, CA",earthquake,0.36,0.95,0.022,3,reviewed,ci,ci
 2023-08-01T21:19:49.180Z,36.588501,-121.4104996,1.32,1.35,md,7,134,0.01124,0,nc,nc73919181,2023-08-02T00:02:14.511Z,"10 km NNE of Gonzales, CA",earthquake,1.32,0.31,0.08,6,automatic,nc,nc
+2023-08-01T21:11:51.340Z,32.496,-117.9126667,5.86,2.22,ml,19,214,0.5675,0.29,ci,ci39627194,2023-08-02T00:08:41.518Z,"54 km SE of San Clemente Is. (SE tip), CA",earthquake,1.42,31.61,0.111,46,reviewed,ci,ci
 2023-08-01T21:05:07.840Z,38.8186684,-122.7948303,3.12,0.77,md,10,68,0.01069,0.02,nc,nc73919171,2023-08-01T21:40:14.692Z,"6 km NW of The Geysers, CA",earthquake,0.54,1.63,0.12,10,automatic,nc,nc
 2023-08-01T21:05:03.920Z,46.901,-112.5965,10.94,0.69,ml,9,107,0.0466,0.05,mb,mb90023148,2023-08-01T21:43:56.910Z,"8 km SE of Lincoln, Montana",earthquake,0.29,0.45,0.18000749082965,5,reviewed,mb,mb
 2023-08-01T21:01:33.820Z,39.1648333,-123.5123333,8.4,0.47,md,4,201,0.04685,0.02,nc,nc71131074,2023-08-01T23:52:14.441Z,"21 km NW of Boonville, CA",earthquake,0.49,1.08,0.219,4,reviewed,nc,nc
@@ -46,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T20:29:47.980Z,37.4786667,-121.8255,6.82,1.07,md,22,93,0.03034,0.07,nc,nc73919146,2023-08-01T23:39:41.129Z,"9 km NE of Milpitas, CA",earthquake,0.25,0.3,0.23,19,reviewed,nc,nc
 2023-08-01T20:26:39.380Z,38.8146667,-122.824501,2.14,1.31,md,25,48,0.006847,0.02,nc,nc73919141,2023-08-01T23:34:14.335Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.34,0.18,26,automatic,nc,nc
 2023-08-01T20:19:47.010Z,38.8238333,-122.8055,2.33,0.44,md,21,42,0.0036,0.03,nc,nc71131079,2023-08-01T23:35:40.608Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.46,0.149,20,reviewed,nc,nc
-2023-08-01T20:19:16.250Z,39.8188333,-122.9436667,7.04,1.4,md,7,158,0.207,0.05,nc,nc73919136,2023-08-01T23:50:10.425Z,"26 km E of Covelo, CA",earthquake,0.43,2,0.227,8,reviewed,nc,nc
+2023-08-01T20:19:16.250Z,39.8188333,-122.9436667,7.04,1.4,md,7,158,0.207,0.05,nc,nc73919136,2023-08-02T00:14:14.581Z,"26 km E of Covelo, CA",earthquake,0.43,2,0.227,8,reviewed,nc,nc
 2023-08-01T20:12:35.421Z,57.7723,-155.9671,9.6,1,ml,,,,0.6,ak,ak0239slg8ly,2023-08-01T20:19:13.659Z,"90 km ENE of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-01T20:06:05.809Z,61.6895,-151.7444,97.9,1.9,ml,,,,0.43,ak,ak0239slew29,2023-08-01T20:07:57.901Z,"38 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-01T20:05:28.120Z,46.899,-112.592333333333,11.39,0.82,ml,8,108,0.04982,0.08,mb,mb90023138,2023-08-01T20:52:41.980Z,"9 km SE of Lincoln, Montana",earthquake,0.38,0.75,0.0915618325510662,5,reviewed,mb,mb
@@ -63,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T19:22:44.550Z,42.891333333333336,-123.51733333333334,-0.8,1.6,ml,16,57,0.04895,0.29,uw,uw61937077,2023-08-01T20:27:00.850Z,"14 km WSW of Riddle, Oregon",explosion,0.53,31.61,0.10622587636605985,7,reviewed,uw,uw
 2023-08-01T19:20:06.290Z,37.2513351,-121.6364975,5.71,1.11,md,9,102,0.0302,0.05,nc,nc73919111,2023-08-01T19:36:13.992Z,"14 km N of Morgan Hill, CA",earthquake,0.48,1.02,0.17,6,automatic,nc,nc
 2023-08-01T19:16:22.410Z,33.873,-117.5016667,2.41,1.03,ml,21,55,0.07277,0.13,ci,ci39627066,2023-08-01T20:42:31.655Z,"2 km ESE of Home Gardens, CA",quarry blast,0.31,0.37,0.13,4,reviewed,ci,ci
-2023-08-01T19:15:27.250Z,37.2518333,-121.6321667,4.88,2.48,md,82,42,0.03345,0.08,nc,nc73919106,2023-08-01T23:35:04.689Z,"14 km N of Morgan Hill, CA",earthquake,0.11,0.22,0.175,72,reviewed,nc,nc
+2023-08-01T19:15:27.250Z,37.2518333,-121.6321667,4.88,2.48,md,82,42,0.03345,0.08,nc,nc73919106,2023-08-02T00:17:20.598Z,"14 km N of Morgan Hill, CA",earthquake,0.11,0.22,0.175,72,reviewed,nc,nc
 2023-08-01T19:14:07.710Z,46.9041666666667,-112.599333333333,10.55,0.84,ml,10,109,0.04412,0.13,mb,mb90023128,2023-08-01T20:57:58.310Z,"8 km SE of Lincoln, Montana",earthquake,0.44,0.67,0.0592484156510887,5,reviewed,mb,mb
 2023-08-01T19:13:31.590Z,46.22233333333333,-119.5995,7.25,0.29,ml,8,211,0.06141,0.04,uw,uw61937067,2023-08-01T20:36:23.100Z,"9 km WSW of Benton City, Washington",earthquake,0.67,0.24,0.13252499617151825,6,reviewed,uw,uw
 2023-08-01T19:12:38.915Z,58.1137,-155.5715,27.2,0.3,ml,,,,0.81,ak,ak0239skut9v,2023-08-01T19:14:13.891Z,"89 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -290,6 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T00:42:41.690Z,19.0375003814697,-155.330673217773,31.4799995422363,2.03999996,md,33,217,,0.140000001,hv,hv73505357,2023-08-01T00:45:50.130Z,"24 km SE of Pāhala, Hawaii",earthquake,0.66,1.30999994,0.850000024,9,automatic,hv,hv
 2023-08-01T00:42:17.661Z,58.2195,-155.017,6.3,0,ml,,,,0.88,ak,ak0239s9pyme,2023-08-01T00:44:12.367Z,"79 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T00:38:14.215Z,61.7913,-150.7042,57.5,1.1,ml,,,,0.51,ak,ak0239s9p3hp,2023-08-01T00:40:42.444Z,"29 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-01T00:20:35.285Z,58.1732,-155.3262,1,-0.1,ml,,,,0.24,ak,ak0239s9l7xt,2023-08-01T16:56:16.972Z,"84 km NW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
-2023-08-01T00:16:46.635Z,65.8137,-147.9883,8.8,0.8,ml,,,,0.73,ak,ak0239s9kg8n,2023-08-01T00:18:57.165Z,"41 km NE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-01T00:11:17.820Z,35.90733333,-97.8845,5.24,1.97,ml,97,26,0.09628110636,0.24,ok,ok2023oxja,2023-08-01T12:00:16.002Z,"6 km NE of Kingfisher, Oklahoma",earthquake,,0.6,0.23,53,reviewed,ok,ok
