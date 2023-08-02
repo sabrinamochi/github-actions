@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-02T00:14:02.270Z,38.8188324,-122.8213348,2.3,0.91,md,21,58,0.009906,0.02,nc,nc73919251,2023-08-02T00:15:39.171Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.19,22,automatic,nc,nc
 2023-08-02T00:12:08.063Z,62.8953,-151.1057,109.1,1.4,ml,,,,0.44,ak,ak0239tx2uw6,2023-08-02T00:14:23.129Z,"47 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-02T00:10:11.662Z,9.3869,93.9173,10,5.2,mb,78,45,5.108,1.13,us,us6000kx7b,2023-08-02T00:27:48.040Z,"282 km SSE of Port Blair, India",earthquake,8.11,1.842,0.057,101,reviewed,us,us
 2023-08-02T00:01:48.570Z,19.404167175293,-155.282333374023,7.61999988555908,1.77999997,md,15,81,,0.239999995,hv,hv73506582,2023-08-02T00:07:20.230Z,"6 km SW of Volcano, Hawaii",earthquake,0.81,0.980000019,0.910000026,7,automatic,hv,hv
 2023-08-02T00:01:19.666Z,62.1076,-151.445,79,1.2,ml,,,,0.85,ak,ak0239tx0j52,2023-08-02T00:03:46.570Z,"13 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T00:01:10.669Z,60.7954,-152.9237,11.2,0.8,ml,,,,0.15,ak,ak0239tx0i7u,2023-08-02T00:02:56.918Z,"89 km WNW of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -26,11 +27,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T22:50:33.477Z,61.3341,-150.0765,38.8,1.1,ml,,,,0.61,ak,ak0239smv8vn,2023-08-01T22:52:25.163Z,"5 km WSW of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-01T22:45:20.420Z,39.0233345,-123.0751648,6.61,2.11,md,22,57,0.1065,0.09,nc,nc73919196,2023-08-01T23:18:11.251Z,"14 km W of Lakeport, CA",earthquake,0.28,2.06,0.15,23,automatic,nc,nc
 2023-08-01T22:29:43.291Z,58.4802,-154.2094,83.8,1.8,ml,,,,0.27,ak,ak0239smqrll,2023-08-01T22:31:31.519Z,"89 km WNW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-01T22:28:53.220Z,38.839,-122.835,1.83,0.36,md,22,83,0.0005595,0.03,nc,nc73919191,2023-08-02T00:30:46.125Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.31,0.158,20,reviewed,nc,nc
 2023-08-01T22:26:27.313Z,65.8594,-149.649,10.9,1.1,ml,,,,0.3,ak,ak0239smq37v,2023-08-01T22:28:00.377Z,"30 km WSW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-01T22:26:07.340Z,45.2948333333333,-112.606833333333,7.37,2.04,ml,19,149,0.06807,0.14,mb,mb90023178,2023-08-01T23:21:11.120Z,"Western Montana",earthquake,0.53,0.87,0.1439940240256,22,reviewed,mb,mb
 2023-08-01T22:19:12.160Z,34.1353333,-117.3855,4.58,0.97,ml,21,98,0.06688,0.28,ci,ci39627258,2023-08-01T22:22:46.371Z,"4 km NNW of Rialto, CA",earthquake,0.62,1.21,0.186,21,automatic,ci,ci
 2023-08-01T22:18:29.330Z,38.7960014,-122.8105011,3.21,0.83,md,17,85,0.009616,0.02,nc,nc73919186,2023-08-01T22:35:18.007Z,"5 km WNW of The Geysers, CA",earthquake,0.35,0.78,0.12,16,automatic,nc,nc
-2023-08-01T21:56:29.370Z,35.6973333,-117.5543333,8.07,0.87,ml,10,141,0.1111,0.17,ci,ci39627242,2023-08-01T22:00:02.235Z,"14 km NE of Ridgecrest, CA",earthquake,0.82,1.8,0.116,5,automatic,ci,ci
+2023-08-01T21:56:29.270Z,35.696,-117.5613333,9.24,0.81,ml,16,64,0.1162,0.14,ci,ci39627242,2023-08-02T00:26:54.217Z,"13 km NE of Ridgecrest, CA",earthquake,0.43,1.18,0.133,6,reviewed,ci,ci
 2023-08-01T21:52:46.360Z,34.8386,26.2428,39.458,4.2,mb,22,200,1.197,0.87,us,us6000kx6d,2023-08-01T22:17:52.040Z,"39 km S of Palekastro, Greece",earthquake,7.19,12.118,0.125,18,reviewed,us,us
 2023-08-01T21:35:21.180Z,33.6726667,-116.7236667,14.27,0.38,ml,18,98,0.04176,0.09,ci,ci39627218,2023-08-02T00:23:47.198Z,"8 km S of Idyllwild, CA",earthquake,0.27,0.41,0.145,8,reviewed,ci,ci
 2023-08-01T21:27:39.600Z,35.7778333,-117.6226667,13.54,1.09,ml,11,129,0.1196,0.17,ci,ci37528077,2023-08-02T00:19:22.175Z,"18 km NNE of Ridgecrest, CA",earthquake,0.49,1.38,0.147,8,reviewed,ci,ci
