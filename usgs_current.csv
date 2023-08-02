@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-02T17:47:32.312Z,60.1247,-152.6242,85.4,1.6,ml,,,,0.36,ak,ak0239u7es3z,2023-08-02T17:50:01.441Z,"53 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-02T17:24:32.370Z,19.2998332977295,-155.405838012695,29.3400001525879,2.12,ml,36,109,,0.129999995,hv,hv73507372,2023-08-02T17:30:03.030Z,"13 km NE of Pāhala, Hawaii",earthquake,0.49,0.639999986,0.42,7,automatic,hv,hv
-2023-08-02T17:24:21.460Z,38.836834,-122.8031693,1.73,0.7,md,9,73,0.01014,0.01,nc,nc73919441,2023-08-02T17:25:58.607Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.72,0.17,9,automatic,nc,nc
+2023-08-02T17:24:21.460Z,38.836834,-122.8031693,1.73,0.7,md,9,73,0.01014,0.01,nc,nc73919441,2023-08-02T18:11:18.812Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.72,0.17,9,automatic,nc,nc
 2023-08-02T17:23:10.200Z,44.6556667,-110.0225,13.4,0.83,md,7,109,0.1046,0.06,uu,uu60546882,2023-08-02T17:36:22.490Z,"39 km S of Silver Gate, Montana",earthquake,0.49,0.89,0.1,5,reviewed,uu,uu
 2023-08-02T16:47:43.480Z,44.7185,-111.021,9.4,0.68,ml,14,78,0.04217,0.16,uu,uu60546862,2023-08-02T17:11:11.340Z,"9 km NE of West Yellowstone, Montana",earthquake,0.46,0.94,0.082,2,reviewed,uu,uu
 2023-08-02T16:40:39.210Z,46.9056666666667,-112.596666666667,10.79,0.72,ml,9,111,0.04575,0.08,mb,mb90023318,2023-08-02T17:39:20.990Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.48,0.123845898969488,5,reviewed,mb,mb
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T12:55:56.028Z,61.4216,-151.99,103.4,1.1,ml,,,,0.4,ak,ak0239u4hdn6,2023-08-02T13:07:00.270Z,"57 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-02T12:55:05.310Z,19.3693333333333,-155.341333333333,27.66,2.24,ml,23,52,,0.1,hv,hv73507142,2023-08-02T17:33:10.370Z,"13 km SW of Volcano, Hawaii",earthquake,0.77,0.53,0.220125325770923,12,reviewed,hv,hv
 2023-08-02T12:51:41.770Z,33.8743333,-117.0611667,14.17,1.02,ml,22,52,0.1206,0.18,ci,ci39627642,2023-08-02T13:34:31.457Z,"10 km SW of Beaumont, CA",earthquake,0.29,1.03,0.249,25,reviewed,ci,ci
-2023-08-02T12:42:57.610Z,39.1855011,-120.4284973,9.66,1.85,md,6,209,0.1737,0.21,nc,nc73919396,2023-08-02T13:42:14.292Z,"23 km W of Sunnyside-Tahoe City, CA",earthquake,2.57,4.95,0.12,3,automatic,nc,nc
+2023-08-02T12:42:57.610Z,39.1855011,-120.4284973,9.66,1.85,md,6,209,0.1737,0.21,nc,nc73919396,2023-08-02T18:03:14.242Z,"23 km W of Sunnyside-Tahoe City, CA",earthquake,2.57,4.95,0.12,3,automatic,nc,nc
 2023-08-02T12:37:28.010Z,33.6903333,-116.8006667,14.59,0.37,ml,11,74,0.07188,0.13,ci,ci39627626,2023-08-02T12:40:56.119Z,"9 km SW of Idyllwild, CA",earthquake,0.47,0.58,0.139,9,automatic,ci,ci
 2023-08-02T12:36:14.682Z,62.3616,-150.9327,75.3,0.9,ml,,,,0.5,ak,ak0239u4d7uk,2023-08-02T12:48:05.382Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-02T12:33:33.590Z,19.1643333435059,-155.490325927734,36.7599983215332,2.19000006,md,42,115,,0.129999995,hv,hv73507112,2023-08-02T12:36:36.350Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.959999979,0.129999995,9,automatic,hv,hv
@@ -295,5 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T18:19:32.560Z,34.383,-96.864,0,1.63,ml,30,104,0.2708468506,0.43,ok,ok2023oysx,2023-08-02T14:16:47.155Z,"4 km SW of Mill Creek, Oklahoma",quarry blast,,0.7,0.22,8,reviewed,ok,ok
 2023-08-01T18:18:29.464Z,61.3099,-152.5193,9.9,0.8,ml,,,,0.17,ak,ak0239skan8i,2023-08-01T18:19:48.282Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-01T18:14:23.590Z,45.56783333333333,-123.6015,8.74,1.28,ml,5,171,0.06847,0.48,uw,uw61937037,2023-08-02T11:23:09.543Z,"Oregon",earthquake,8.12,3.2,0.2158225701812333,3,reviewed,uw,uw
-2023-08-01T18:09:53.820Z,33.7118333,-117.3298333,-0.63,1.13,ml,11,138,0.06057,0.21,ci,ci39627010,2023-08-01T23:51:45.821Z,"5 km N of Lake Elsinore, CA",quarry blast,1.12,31.61,0.105,3,reviewed,ci,ci
-2023-08-01T18:07:50.093Z,61.4469,-146.588,20,1.4,ml,,,,0.95,ak,ak0239sk8byh,2023-08-01T18:10:09.042Z,"37 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
