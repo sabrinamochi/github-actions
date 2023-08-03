@@ -8,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T03:21:36.613Z,62.9283,-150.642,82.4,1.4,ml,,,,0.58,ak,ak0239vmghul,2023-08-03T03:23:49.244Z,"48 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-03T03:02:32.720Z,38.8076668,-122.7961655,3.47,0.62,md,8,96,0.0007379,0.02,nc,nc73919591,2023-08-03T03:20:13.947Z,"5 km NW of The Geysers, CA",earthquake,0.64,1.56,0.18,10,automatic,nc,nc
 2023-08-03T02:33:27.309Z,60.9661,-150.1665,41.1,1.6,ml,,,,0.52,ak,ak0239vlxm4a,2023-08-03T02:35:35.143Z,"28 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-03T02:31:00.190Z,40.4171677,-124.6760025,27.12,2.63,md,18,265,0.2756,0.11,nc,nc73919586,2023-08-03T02:52:10.782Z,"35 km WNW of Petrolia, CA",earthquake,2.23,2.39,0.2,8,automatic,nc,nc
-2023-08-03T02:25:13.790Z,60.1017,-153.5687,166.3,1.8,ml,,,,0.35,ak,ak0239vlvvei,2023-08-03T02:27:34.063Z,"43 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-03T02:31:00.190Z,40.4171677,-124.6760025,27.12,2.63,md,18,265,0.2756,0.11,nc,nc73919586,2023-08-03T04:19:14.330Z,"35 km WNW of Petrolia, CA",earthquake,2.23,2.39,0.2,8,automatic,nc,nc
+2023-08-03T02:25:13.790Z,60.1017,-153.5687,166.3,1.8,ml,,,,0.35,ak,ak0239vlvvei,2023-08-03T04:18:48.040Z,"43 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T02:18:48.550Z,34.7165,26.2814,53.428,4.7,mb,63,102,1.277,0.67,us,us6000kxfq,2023-08-03T02:39:10.040Z,"Crete, Greece",earthquake,6.27,7.434,0.044,158,reviewed,us,us
 2023-08-03T02:18:28.383Z,65.6555,-147.8011,7.2,1,ml,,,,0.47,ak,ak0239vluegm,2023-08-03T02:20:23.932Z,"37 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T02:17:01.720Z,38.7941666,-122.8041687,3.13,0.76,md,13,63,0.005895,0.02,nc,nc73919581,2023-08-03T04:04:13.232Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.79,0.17,15,automatic,nc,nc
@@ -42,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T22:02:39.440Z,37.559,-118.9071667,-1.57,0.53,md,5,291,0.05341,0.05,nc,nc73919531,2023-08-02T23:36:12.889Z,"11 km SE of Mammoth Lakes, CA",earthquake,3.98,0.89,0.21,5,reviewed,nc,nc
 2023-08-02T22:00:08.497Z,-4.2282,35.2761,10,4.5,mb,34,144,3.328,0.38,us,us6000kxea,2023-08-02T22:21:48.040Z,"15 km W of Bashanet, Tanzania",earthquake,5.83,1.937,0.111,24,reviewed,us,us
 2023-08-02T21:33:35.300Z,38.8366661,-122.8281631,1.76,0.7,md,9,95,0.006033,0.01,nc,nc73919516,2023-08-02T21:51:13.047Z,"9 km NW of The Geysers, CA",earthquake,0.39,0.96,0.27,12,automatic,nc,nc
+2023-08-02T21:19:52.170Z,49.33733333333333,-120.52366666666667,-0.51,2.17,ml,9,213,0.5878,0.24,uw,uw61937472,2023-08-03T04:21:30.650Z,"13 km S of Princeton, Canada",explosion,1.92,31.61,0.11480345216871468,8,reviewed,uw,uw
 2023-08-02T21:12:59.710Z,33.7148333,-116.7766667,15.24,0.72,ml,17,192,0.05399,0.12,ci,ci39628234,2023-08-03T00:26:09.639Z,"6 km WSW of Idyllwild, CA",earthquake,0.42,0.66,0.17,11,reviewed,ci,ci
 2023-08-02T21:06:44.998Z,61.078,-150.7916,2.8,1.8,ml,,,,0.57,ak,ak0239u9jr5f,2023-08-02T21:08:29.230Z,"17 km ESE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T21:06:24.375Z,46.9162,144.5935,381.763,4.3,mb,64,125,1.257,0.68,us,us6000kxe5,2023-08-02T21:20:56.040Z,"141 km E of Yuzhno-Sakhalinsk, Russia",earthquake,10.07,6.982,0.058,86,reviewed,us,us
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T04:30:18.290Z,17.9555,-67.0985,11.84,2.71,md,7,270,0.05171,0.12,pr,pr71420113,2023-08-02T04:40:18.870Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.95,0.39,0.012615391057166,4,reviewed,pr,pr
 2023-08-02T04:28:34.917Z,39.6091,-119.9719,7.4,0.1,ml,4,209.6,0.009,0.1062,nn,nn00863854,2023-08-03T02:03:57.503Z,"7 km S of Cold Springs, Nevada",earthquake,,4.8,0,1,reviewed,nn,nn
 2023-08-02T04:28:22.250Z,59.944,-150.1957,53.1,1.8,ml,,,,0.63,ak,ak0239tzk1v5,2023-08-02T04:30:11.225Z,"43 km ENE of Fox River, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-02T04:22:33.230Z,17.9411666666667,-67.1068333333333,11.07,2.42,md,4,277,0.06493,0.09,pr,pr71420108,2023-08-02T04:34:36.620Z,"Puerto Rico region",earthquake,1.62,0.5,0.0541202759394266,3,reviewed,pr,pr
