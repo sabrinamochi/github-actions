@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-03T03:02:32.720Z,38.8076668,-122.7961655,3.47,0.62,md,8,96,0.0007379,0.02,nc,nc73919591,2023-08-03T03:04:07.899Z,"5 km NW of The Geysers, CA",earthquake,0.64,1.56,0.18,10,automatic,nc,nc
 2023-08-03T02:33:27.309Z,60.9661,-150.1665,41.1,1.6,ml,,,,0.52,ak,ak0239vlxm4a,2023-08-03T02:35:35.143Z,"28 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-03T02:31:00.190Z,40.4171677,-124.6760025,27.12,2.63,md,18,265,0.2756,0.11,nc,nc73919586,2023-08-03T02:52:10.782Z,"35 km WNW of Petrolia, CA",earthquake,2.23,2.39,0.2,8,automatic,nc,nc
 2023-08-03T02:25:13.790Z,60.1017,-153.5687,166.3,1.8,ml,,,,0.35,ak,ak0239vlvvei,2023-08-03T02:27:34.063Z,"43 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -154,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T11:24:16.620Z,44.5911667,-110.7445,8.18,1.11,ml,17,68,0.07376,0.2,uu,uu60546797,2023-08-02T13:34:39.610Z,"Wyoming",earthquake,0.58,1.06,0.204,4,reviewed,uu,uu
 2023-08-02T11:22:55.823Z,38.4959,-118.1549,10.3,0.6,ml,5,137.55,0.368,0.1902,nn,nn00863857,2023-08-03T02:04:00.161Z,"12 km NNW of Mina, Nevada",earthquake,,6.8,0,1,reviewed,nn,nn
 2023-08-02T11:22:16.650Z,44.5906667,-110.7461667,8.08,1.78,ml,21,55,0.07503,0.18,uu,uu60546792,2023-08-02T13:15:39.110Z,"Wyoming",earthquake,0.4,0.8,0.162,5,reviewed,uu,uu
-2023-08-02T11:14:43.250Z,38.87,-83.2476666666667,21.36,2.43,md,12,84,0.1735,0.36,se,se60500983,2023-08-02T22:19:38.561Z,"5 km W of Otway, Ohio",earthquake,1,1.48,0.10587791208499,8,reviewed,se,se
+2023-08-02T11:14:43.250Z,38.87,-83.2476666666667,21.36,2.43,md,12,84,0.1735,0.36,se,se60500983,2023-08-03T03:07:32.659Z,"5 km W of Otway, Ohio",earthquake,1,1.48,0.10587791208499,8,reviewed,se,se
 2023-08-02T11:11:27.940Z,18.5158333333333,-66.907,6.3,3.01,md,10,199,0.1996,0.3,pr,pr71420158,2023-08-02T11:41:21.200Z,"5 km NE of Quebradillas, Puerto Rico",earthquake,1.91,2.61,0.0279683984067267,4,reviewed,pr,pr
 2023-08-02T11:11:26.450Z,34.3123333,-116.8651667,4.96,1.69,ml,51,38,0.04734,0.14,ci,ci39627562,2023-08-02T13:35:58.250Z,"6 km NNW of Big Bear City, CA",earthquake,0.17,0.56,0.154,26,reviewed,ci,ci
 2023-08-02T11:09:19.630Z,34.0153333,-116.614,10.45,1.37,ml,63,31,0.03647,0.14,ci,ci39627554,2023-08-02T15:58:04.480Z,"5 km SW of Morongo Valley, CA",earthquake,0.11,0.24,0.103,39,reviewed,ci,ci
@@ -246,6 +247,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T03:45:54.150Z,17.9491666666667,-67.0973333333333,11.68,3.17,md,19,240,0.05442,0.12,pr,pr71420078,2023-08-02T04:11:22.960Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.56,0.29,0.129934417597533,14,reviewed,pr,pr
 2023-08-02T03:45:40.300Z,46.1945,-122.195,1.06,0.13,ml,9,107,0.006014,0.12,uw,uw61937257,2023-08-02T05:18:14.870Z,"Washington",earthquake,0.33,0.43,0.36106119161109446,5,reviewed,uw,uw
 2023-08-02T03:42:31.567Z,62.9761,-150.3282,11.8,1.1,ml,,,,0.45,ak,ak0239tz1n04,2023-08-02T03:44:27.512Z,"57 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-02T03:36:22.613Z,15.1442,39.3556,10,4.8,mb,57,79,4.944,0.55,us,us6000kx8b,2023-08-03T03:03:51.040Z,"33 km N of Adi Keyh, Eritrea",earthquake,11.79,1.899,0.07,62,reviewed,us,us
 2023-08-02T03:31:18.550Z,46.9036666666667,-112.602,12.63,1.63,ml,13,107,0.04239,0.09,mb,mb90023253,2023-08-02T14:11:11.450Z,"8 km SE of Lincoln, Montana",earthquake,0.41,0.66,0.118445535150524,8,reviewed,mb,mb
 2023-08-02T03:22:34.485Z,-19.0483,-67.1741,252.654,4.4,mb,48,54,2.005,0.74,us,us6000kx87,2023-08-03T02:56:33.040Z,"45 km WSW of Challapata, Bolivia",earthquake,7.26,9.275,0.061,78,reviewed,us,us
 2023-08-02T03:15:40.030Z,38.8223343,-122.8099976,2.83,1.01,md,16,68,0.001061,0.02,nc,nc73919286,2023-08-02T04:22:15.052Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.63,0.24,18,automatic,nc,nc
