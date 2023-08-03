@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-03T09:08:20.890Z,64.9514,-148.9501,15.5,0.8,ml,,,,0.88,ak,ak0239vpy9yh,2023-08-03T09:09:50.869Z,"29 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-03T08:50:00.730Z,38.7788315,-122.7128296,1.73,1.07,md,14,172,0.01501,0.04,nc,nc73919701,2023-08-03T08:51:37.619Z,"2 km WNW of Anderson Springs, CA",earthquake,0.57,0.77,0.2,13,automatic,nc,nc
+2023-08-03T08:50:00.730Z,38.7788315,-122.7128296,1.73,1.07,md,14,172,0.01501,0.04,nc,nc73919701,2023-08-03T09:19:14.141Z,"2 km WNW of Anderson Springs, CA",earthquake,0.57,0.77,0.2,13,automatic,nc,nc
 2023-08-03T08:49:20.200Z,61.2285,-150.2791,38.4,1.2,ml,,,,0.49,ak,ak0239vplmno,2023-08-03T08:51:43.214Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-03T08:45:33.200Z,38.8354988,-122.7973328,2.1,1.05,md,7,154,0.006184,0.02,nc,nc73919696,2023-08-03T09:09:15.094Z,"7 km WNW of Cobb, CA",earthquake,0.84,1.45,0.33,8,automatic,nc,nc
 2023-08-03T08:44:31.405Z,64.3347,-148.5221,4.4,0.6,ml,,,,0.13,ak,ak0239vpkkxw,2023-08-03T08:46:49.286Z,"32 km E of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T16:40:48.340Z,36.2313333,-120.7968333,7.22,0.87,md,19,141,0.01581,0.09,nc,nc73919431,2023-08-02T20:49:11.713Z,"23 km ENE of San Lucas, CA",earthquake,0.46,0.29,0.245,12,reviewed,nc,nc
 2023-08-02T16:40:39.210Z,46.9056666666667,-112.596666666667,10.79,0.72,ml,9,111,0.04575,0.08,mb,mb90023318,2023-08-02T17:39:20.990Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.48,0.123845898969488,5,reviewed,mb,mb
 2023-08-02T16:32:12.450Z,48.80833333333333,-121.82966666666667,23.44,1.4000000000000001,ml,4,185,0.1103,0.01,uw,uw61937357,2023-08-03T04:09:11.710Z,"12 km SE of Glacier, Washington",earthquake,0.93,2.01,0.12453423399210273,4,reviewed,uw,uw
-2023-08-02T16:29:28.340Z,19.859,-155.842833333333,13.8,1.58,md,31,132,,0.19,hv,hv73507292,2023-08-02T20:23:47.430Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.54,0.148529398694597,13,reviewed,hv,hv
+2023-08-02T16:29:28.340Z,19.859,-155.842833333333,13.8,1.58,md,31,132,,0.19,hv,hv73507292,2023-08-02T20:23:47.430Z,"10 km SSW of Waikoloa, Hawaii",earthquake,0.56,0.54,0.148529398694597,13,reviewed,hv,hv
 2023-08-02T16:24:09.264Z,58.8741,-153.9339,16.2,2,ml,,,,0.25,ak,ak0239u6od9a,2023-08-02T16:25:31.043Z,"79 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T16:20:28.501Z,61.6695,-151.5669,85.4,1.3,ml,,,,0.68,ak,ak0239u6njvm,2023-08-02T16:22:38.940Z,"36 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T16:18:57.702Z,61.0068,-148.483,0,1.3,ml,,,,1.1,ak,ak0239u6n6p6,2023-08-02T16:20:55.123Z,"28 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -240,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T09:36:19.510Z,32.6585,-115.7176667,6.03,1.1,ml,19,61,0.01173,0.19,ci,ci39627530,2023-08-02T15:32:17.368Z,"15 km NW of Progreso, B.C., MX",earthquake,0.3,0.43,0.285,7,reviewed,ci,ci
 2023-08-02T09:35:27.706Z,58.2503,-155.1051,27.5,0.8,ml,,,,0.56,ak,ak0239u2kqau,2023-08-02T16:28:20.755Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-02T09:30:20.645Z,62.4209,-148.2334,38.7,0.9,ml,,,,0.34,ak,ak0239u2jn74,2023-08-02T09:33:07.091Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-02T09:20:18.196Z,63.224,-150.4979,130.1,3.1,ml,,,,0.48,ak,ak0239u2hhso,2023-08-02T09:42:18.040Z,"70 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-02T09:17:40.710Z,46.9008333333333,-112.603166666667,11.21,1.33,ml,13,105,0.04217,0.15,mb,mb90023268,2023-08-02T13:47:52.750Z,"8 km SE of Lincoln, Montana",earthquake,0.49,0.69,0.0882189970306844,7,reviewed,mb,mb
-2023-08-02T09:16:19.786Z,60.7807,-151.6341,75.5,1.1,ml,,,,0.34,ak,ak0239u2gn3u,2023-08-02T09:19:06.922Z,"21 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-02T09:16:01.890Z,38.8325005,-122.8156662,1.84,0.7,md,14,53,0.01009,0.02,nc,nc73919361,2023-08-02T10:23:18.144Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.65,0.19,15,automatic,nc,nc
