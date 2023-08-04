@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-04T22:26:54.690Z,19.3379993438721,-155.136672973633,1.27999997138977,1.73000002,md,36,99,,0.170000002,hv,hv73510177,2023-08-04T22:30:00.730Z,"14 km S of Fern Forest, Hawaii",earthquake,0.27,0.400000006,0.730000019,19,automatic,hv,hv
+2023-08-04T22:32:52.032Z,64.8813,-148.2427,10.2,0.1,ml,,,,1.07,ak,ak0239xldgwa,2023-08-04T22:35:22.113Z,"11 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-04T22:26:54.690Z,19.3379993438721,-155.136672973633,1.27999997138977,2.02,ml,36,99,,0.170000002,hv,hv73510177,2023-08-04T22:32:25.020Z,"14 km S of Fern Forest, Hawaii",earthquake,0.27,0.400000006,0.29,4,automatic,hv,hv
+2023-08-04T22:26:21.240Z,19.1229991912842,-155.373336791992,29.5300006866455,2.35,ml,17,228,,0.109999999,hv,hv73510172,2023-08-04T22:31:52.460Z,"14 km SE of Pāhala, Hawaii",earthquake,1.02,2.13000011,0.09,4,automatic,hv,hv
 2023-08-04T22:06:16.223Z,-5.1035,29.6403,10,4.9,mb,61,49,4.604,0.42,us,us6000kxz5,2023-08-04T22:24:32.040Z,"25 km S of Kigoma, Tanzania",earthquake,9.51,1.88,0.069,65,reviewed,us,us
 2023-08-04T22:04:18.196Z,59.7325,-153.1112,99.6,1.4,ml,,,,0.56,ak,ak0239xl7e8r,2023-08-04T22:06:38.322Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-04T21:58:22.427Z,32.26226807,-101.9113234,6.040323893,3,ml,19,65,0.02342993694,0.1,tx,tx2023pemq,2023-08-04T22:27:19.943Z,"18 km NW of Stanton, Texas",earthquake,0.527151033,0.9343786213,0.2,11,reviewed,tx,tx
@@ -56,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T17:31:26.090Z,37.5328333,-118.8566667,5.54,0.87,md,18,173,0.06115,0.03,nc,nc73920226,2023-08-04T20:27:14.041Z,"16 km SE of Mammoth Lakes, CA",earthquake,0.47,0.71,0.157,17,reviewed,nc,nc
 2023-08-04T17:27:44.140Z,43.720333333333336,-121.25333333333333,-1.05,0.38,ml,5,184,0.0147,0.11,uw,uw61938002,2023-08-04T19:17:24.000Z,"Newberry Caldera area, Oregon",earthquake,0.29,0.18,0.15388088412602863,3,reviewed,uw,uw
 2023-08-04T17:12:46.710Z,46.85433333333334,-123.24516666666666,-0.35,1.4000000000000001,ml,15,128,0.02943,0.4,uw,uw61937992,2023-08-04T18:19:18.660Z,"1 km NNW of Oakville, Washington",explosion,1.23,31.61,0.24537315764051382,10,reviewed,uw,uw
-2023-08-04T17:08:25.485Z,57.202,-155.1845,10,1.7,ml,,,,0.45,ak,ak0239xi93n8,2023-08-04T17:10:12.174Z,"59 km SW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-04T17:08:25.485Z,57.202,-155.1845,10,1.7,ml,,,,0.45,ak,ak0239xi93n8,2023-08-04T17:10:12.174Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T17:00:36.480Z,35.7116667,-117.5596667,4.71,0.41,ml,13,91,0.12,0.11,ci,ci40529608,2023-08-04T17:20:57.290Z,"15 km NE of Ridgecrest, CA",earthquake,0.37,0.73,0.031,2,reviewed,ci,ci
 2023-08-04T16:54:40.070Z,35.6771667,-117.5225,6.21,1.04,ml,16,62,0.08133,0.16,ci,ci40529600,2023-08-04T17:30:56.408Z,"15 km SW of Searles Valley, CA",earthquake,0.37,1.13,0.116,8,reviewed,ci,ci
 2023-08-04T16:51:46.870Z,33.5096667,-116.7618333,6.2,0.65,ml,22,66,0.03229,0.12,ci,ci40529592,2023-08-04T17:26:17.738Z,"10 km WSW of Anza, CA",earthquake,0.21,0.41,0.154,13,reviewed,ci,ci
@@ -92,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T14:07:52.190Z,38.8068352,-122.7583313,0.22,1.08,md,13,102,0.006294,0.03,nc,nc73920121,2023-08-04T15:10:12.253Z,"3 km N of The Geysers, CA",earthquake,0.24,0.51,0.18,12,automatic,nc,nc
 2023-08-04T14:07:25.750Z,35.9526667,-117.4936667,1.19,0.7,ml,11,139,0.1815,0.17,ci,ci40529416,2023-08-04T15:26:38.548Z,"22 km NNW of Searles Valley, CA",earthquake,0.51,1.19,0.216,4,reviewed,ci,ci
 2023-08-04T14:02:48.710Z,46.218833333333336,-119.601,7.07,1,ml,13,215,0.05992,0.08,uw,uw61937947,2023-08-04T16:41:17.870Z,"10 km WSW of Benton City, Washington",earthquake,0.49,0.2,0.13650085055236327,9,reviewed,uw,uw
-2023-08-04T13:55:10.460Z,36.357,-121.4118333,6.75,2.39,md,66,42,,0.13,nc,nc73920116,2023-08-04T20:57:11.222Z,"11 km SW of Soledad, CA",earthquake,0.13,0.3,0.161,73,reviewed,nc,nc
+2023-08-04T13:55:10.460Z,36.357,-121.4118333,6.75,2.39,md,66,42,,0.13,nc,nc73920116,2023-08-04T22:37:12.764Z,"11 km SW of Soledad, CA",earthquake,0.13,0.3,0.161,73,reviewed,nc,nc
 2023-08-04T13:34:18.566Z,59.7779,-148.5785,24.2,1.5,ml,,,,0.31,ak,ak0239xg0xb4,2023-08-04T13:35:48.725Z,"45 km SW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-04T13:33:10.947Z,35.30914307,-101.7108624,5.453409831,2.3,ml,9,81,0.1388294012,0.3,tx,tx2023pdvz,2023-08-04T21:55:27.241Z,"14 km NE of Amarillo, Texas",earthquake,2.516627861,2.162143477,0.2,6,reviewed,tx,tx
 2023-08-04T13:24:47.055Z,65.375,-150.0294,6.6,0.8,ml,,,,0.25,ak,ak0239xfyuch,2023-08-04T13:26:20.922Z,"15 km SSE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -167,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T04:24:49.017Z,39.6362,-119.6452,12,1,ml,7,106.81,0.214,0.0836,nn,nn00863962,2023-08-04T19:17:50.794Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,4.7,0.27,6,reviewed,nn,nn
 2023-08-04T04:09:02.470Z,36.4428333,-121.0113333,6.37,1.35,md,32,123,0.03961,0.17,nc,nc73920001,2023-08-04T20:22:12.009Z,"15 km SE of Pinnacles, CA",earthquake,0.36,0.71,0.156,18,reviewed,nc,nc
 2023-08-04T03:58:09.220Z,40.2117,-119.8271,5.7,0.5,ml,3,249.86,0.084,0.1001,nn,nn00863961,2023-08-04T19:08:31.305Z,"27 km ENE of Herlong, California",earthquake,,9.9,0.28,2,reviewed,nn,nn
-2023-08-04T03:53:57.509Z,40.1952,-119.806,6.8,2.1,ml,9,233.63,0.062,0.1341,nn,nn00863939,2023-08-04T16:17:58.072Z,"28 km ENE of Herlong, California",earthquake,,1.5,0.17,7,reviewed,nn,nn
+2023-08-04T03:53:57.509Z,40.1952,-119.806,6.8,2.1,ml,9,233.63,0.062,0.1341,nn,nn00863939,2023-08-04T16:17:58.072Z,"Nevada",earthquake,,1.5,0.17,7,reviewed,nn,nn
 2023-08-04T03:48:01.500Z,46.186,-122.22716666666666,4.95,-0.02,ml,6,192,0.03224,0.07,uw,uw61937862,2023-08-04T04:55:44.830Z,"Mount St. Helens area, Washington",earthquake,0.64,0.62,0.11187873484526512,4,reviewed,uw,uw
 2023-08-04T03:45:41.420Z,38.8371658,-122.7996674,1.91,0.38,md,7,119,0.007386,0.02,nc,nc73919996,2023-08-04T05:40:15.993Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.61,0.3,8,automatic,nc,nc
 2023-08-04T03:32:21.655Z,61.7737,-150.7061,41.9,1.1,ml,,,,0.94,ak,ak0239xa261w,2023-08-04T03:34:49.571Z,"27 km NNW of Susitna, Alaska",earthquake,,3,,,automatic,ak,ak
