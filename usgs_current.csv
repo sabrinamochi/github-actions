@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-05T10:01:49.020Z,35.7595,-117.5885,1.81,2.57,ml,25,91,0.1479,0.18,ci,ci40530200,2023-08-05T10:05:30.545Z,"17 km W of Searles Valley, CA",earthquake,0.3,0.54,0.175,25,automatic,ci,ci
 2023-08-05T09:47:12.204Z,62.8795,-150.696,109.9,2.4,ml,,,,0.34,ak,ak0239z19b74,2023-08-05T09:49:21.736Z,"42 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-05T09:43:43.707Z,63.2187,-150.4183,108,2.2,ml,,,,0.49,ak,ak0239z18is1,2023-08-05T09:45:44.820Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-05T09:43:43.707Z,63.2187,-150.4183,108,2.2,ml,,,,0.49,ak,ak0239z18is1,2023-08-05T10:15:15.040Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-05T09:35:10.800Z,17.9335,-67.1103333333333,12.07,2.36,md,13,245,0.07237,0.09,pr,pr71420578,2023-08-05T10:00:03.720Z,"8 km SW of La Parguera, Puerto Rico",earthquake,0.49,0.26,0.0750443231221798,7,reviewed,pr,pr
 2023-08-05T09:27:26.664Z,63.3061,-145.2762,8.3,1.2,ml,,,,1.19,ak,ak0239z151zu,2023-08-05T09:30:00.199Z,"29 km NE of Paxson, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-05T09:13:08.503Z,64.7171,-146.704,13.1,1,ml,,,,0.33,ak,ak0239z120ki,2023-08-05T09:14:52.146Z,"17 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -225,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T10:29:36.256Z,35.29632568,-101.6635367,5.551228841,1.9,ml,7,93,0.1100625513,0.3,tx,tx2023pdpy,2023-08-04T12:33:44.450Z,"17 km ENE of Amarillo, Texas",earthquake,3.820081599,2.743422164,0.1,6,reviewed,tx,tx
 2023-08-04T10:28:26.117Z,58.8754,-153.9519,12.8,1.5,ml,,,,0.41,ak,ak0239xe7cs3,2023-08-04T10:30:05.190Z,"78 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T10:24:33.690Z,35.29815674,-101.7536809,7.165242513,1.8,ml,11,88,0.1828588899,0.2,tx,tx2023pdpu,2023-08-04T11:39:31.705Z,"11 km NE of Amarillo, Texas",earthquake,2.616537772,2.495205817,0.2,6,reviewed,tx,tx
-2023-08-04T10:21:44.430Z,33.1655,-116.0971667,10.07,1.19,ml,58,43,0.06013,0.2,ci,ci40529368,2023-08-04T15:04:52.040Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.18,0.45,0.175,22,reviewed,ci,ci
-2023-08-04T10:18:18.903Z,36.7447,-115.9733,4.3,0,ml,22,149.7,0.019,0.117,nn,nn00863945,2023-08-05T02:04:15.983Z,"33 km NW of Indian Springs, Nevada",earthquake,,1.1,0.12,11,reviewed,nn,nn
-2023-08-04T10:16:46.560Z,46.187666666666665,-122.1935,4.85,0.81,ml,27,63,0.01225,0.17,uw,uw61937907,2023-08-04T16:59:18.230Z,"36 km NNE of Amboy, Washington",earthquake,0.32,0.44,0.14730351164956101,17,reviewed,uw,uw
