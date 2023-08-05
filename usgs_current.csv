@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T15:42:21.141Z,58.1921,-155.3636,0.3,1.4,ml,,,,0.31,ak,ak0239xh9ig2,2023-08-04T15:44:01.498Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-04T15:42:21.000Z,19.2016666666667,-155.373,29.48,2.02,md,38,178,,0.11,hv,hv73509677,2023-08-04T22:51:10.470Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.7,0.103241328241049,14,reviewed,hv,hv
 2023-08-04T15:38:17.937Z,63.9742,-151.3307,0,1.3,ml,,,,0.78,ak,ak0239xh8nc1,2023-08-04T15:40:17.877Z,"49 km ENE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-04T15:37:47.390Z,38.793499,-122.7801666,3.35,1.51,md,30,78,0.006066,0.03,nc,nc73920161,2023-08-04T16:57:15.856Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.45,0.19,30,automatic,nc,nc
+2023-08-04T15:37:47.280Z,38.7906667,-122.7805,4.11,1.41,md,46,80,0.006317,0.06,nc,nc73920161,2023-08-05T06:07:04.737Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.33,0.162,38,reviewed,nc,nc
 2023-08-04T15:36:17.330Z,48.76233333333333,-121.83116666666666,4.33,1.04,ml,4,157,0.1364,0.15,uw,uw61937972,2023-08-04T17:19:08.130Z,"Washington",earthquake,1.14,13.72,0.05593856703471245,5,reviewed,uw,uw
 2023-08-04T15:27:38.859Z,61.5643,-147.787,25.4,1.9,ml,,,,0.6,ak,ak0239xh6c2l,2023-08-04T15:29:07.174Z,"28 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-04T15:24:10.230Z,19.8911666666667,-156.620333333333,43.09,3.85,ml,62,206,,0.14,hv,hv73509652,2023-08-04T16:37:20.990Z,"69 km WNW of Kalaoa, Hawaii",earthquake,0.61,0.99,0.166160246938592,45,reviewed,hv,hv
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T14:26:53.945Z,51.7835,178.2245,113.768,4,mb,88,161,0.243,0.47,us,us6000kxun,2023-08-04T17:03:20.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.52,4.561,0.056,85,reviewed,us,us
 2023-08-04T14:12:37.680Z,32.4338333,-116.2873333,17.33,1.56,ml,25,105,0.2489,0.19,ci,ci40529432,2023-08-04T15:35:49.780Z,"26 km SE of Campo, CA",earthquake,0.34,0.86,0.204,6,reviewed,ci,ci
 2023-08-04T14:11:34.155Z,58.2454,-155.032,66.2,0.9,ml,,,,0.75,ak,ak0239xghgnb,2023-08-04T14:14:05.389Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-08-04T14:08:52.800Z,36.3546667,-121.4093333,7.34,1.64,md,29,42,0.03897,0.12,nc,nc73920126,2023-08-05T05:49:13.164Z,"11 km SW of Soledad, CA",earthquake,0.28,0.44,0.214,26,reviewed,nc,nc
+2023-08-04T14:08:52.800Z,36.3546667,-121.4093333,7.34,1.64,md,29,42,0.03897,0.12,nc,nc73920126,2023-08-05T06:07:10.274Z,"11 km SW of Soledad, CA",earthquake,0.28,0.44,0.214,26,reviewed,nc,nc
 2023-08-04T14:07:52.190Z,38.8068352,-122.7583313,0.22,1.08,md,13,102,0.006294,0.03,nc,nc73920121,2023-08-04T15:10:12.253Z,"3 km N of The Geysers, CA",earthquake,0.24,0.51,0.18,12,automatic,nc,nc
 2023-08-04T14:07:25.750Z,35.9526667,-117.4936667,1.19,0.7,ml,11,139,0.1815,0.17,ci,ci40529416,2023-08-04T15:26:38.548Z,"22 km NNW of Searles Valley, CA",earthquake,0.51,1.19,0.216,4,reviewed,ci,ci
 2023-08-04T14:02:48.710Z,46.218833333333336,-119.601,7.07,1,ml,13,215,0.05992,0.08,uw,uw61937947,2023-08-04T16:41:17.870Z,"10 km WSW of Benton City, Washington",earthquake,0.49,0.2,0.13650085055236327,9,reviewed,uw,uw
@@ -231,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T06:23:35.464Z,58.1981,-155.3218,1.4,1.8,ml,,,,0.44,ak,ak0239xbski2,2023-08-05T05:49:26.280Z,"86 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-04T06:23:04.070Z,38.8161659,-122.8156662,2.76,0.95,md,5,155,0.008437,0,nc,nc73920036,2023-08-04T06:52:13.381Z,"7 km NW of The Geysers, CA",earthquake,1.11,2.23,0.28,8,automatic,nc,nc
 2023-08-04T06:15:41.690Z,19.3913326263428,-155.281494140625,1.83000004291534,1.98000002,md,21,81,,0.239999995,hv,hv73509247,2023-08-04T06:18:37.080Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.25,0.720000029,11,automatic,hv,hv
-2023-08-04T06:11:44.211Z,56.1724,-149.9726,5.9,2.5,ml,,,,0.63,ak,ak0239xbq6v6,2023-08-04T16:36:47.090Z,"213 km SE of Chiniak, Alaska",earthquake,,6.4,,,reviewed,ak,ak
-2023-08-04T06:10:34.130Z,36.5776667,-121.1701667,2.79,1.13,md,24,136,0.01363,0.09,nc,nc73920031,2023-08-04T09:17:18.176Z,"6 km NNW of Pinnacles, CA",earthquake,0.26,0.22,0.215,18,reviewed,nc,nc
-2023-08-04T06:07:43.847Z,-29.3471,-68.5997,98.616,4.5,mwr,89,40,1.444,0.87,us,us6000kxr7,2023-08-04T06:46:32.040Z,"75 km SSW of Vinchina, Argentina",earthquake,3.84,5.936,0.048,41,reviewed,us,us
