@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T22:58:32.905Z,64.7019,-148.5305,12.7,1.2,ml,,,,1.06,ak,ak0239xlj01m,2023-08-04T23:00:08.064Z,"29 km WSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T22:57:41.630Z,33.339,-116.3593333,15.36,0.7,ml,18,155,0.04771,0.26,ci,ci40529920,2023-08-04T23:01:47.365Z,"9 km N of Borrego Springs, CA",earthquake,0.65,0.78,0.097,14,automatic,ci,ci
 2023-08-04T22:50:29.890Z,44.8016667,-110.4103333,4.02,1.93,ml,14,138,0.06347,0.14,uu,uu60547007,2023-08-04T22:59:39.000Z,"30 km SE of Mammoth, Wyoming",earthquake,0.6,0.84,0.435,4,reviewed,uu,uu
+2023-08-04T22:39:32.256Z,38.5392,-118.1603,7.8,1.6,ml,9,73.8,0.367,0.167,nn,nn00863991,2023-08-04T23:57:13.720Z,"17 km NNW of Mina, Nevada",earthquake,,2,0.19,5,reviewed,nn,nn
 2023-08-04T22:32:52.032Z,64.8813,-148.2427,10.2,0.1,ml,,,,1.07,ak,ak0239xldgwa,2023-08-04T22:35:22.113Z,"11 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T22:26:54.690Z,19.3283333333333,-155.131333333333,6.54,1.82,ml,11,142,,0.07,hv,hv73510177,2023-08-04T23:06:56.950Z,"Island of Hawaii, Hawaii",earthquake,0.64,1.42,0.0801304051098246,9,reviewed,hv,hv
 2023-08-04T22:26:21.240Z,19.1229991912842,-155.373336791992,29.5300006866455,2.35,ml,17,228,,0.109999999,hv,hv73510172,2023-08-04T22:31:52.460Z,"14 km SE of Pāhala, Hawaii",earthquake,1.02,2.13000011,0.09,4,automatic,hv,hv
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T22:04:18.196Z,59.7325,-153.1112,99.6,1.4,ml,,,,0.56,ak,ak0239xl7e8r,2023-08-04T22:06:38.322Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-04T21:58:22.427Z,32.26226807,-101.9113234,6.040323893,3,ml,19,65,0.02342993694,0.1,tx,tx2023pemq,2023-08-04T22:27:19.943Z,"18 km NW of Stanton, Texas",earthquake,0.527151033,0.9343786213,0.2,11,reviewed,tx,tx
 2023-08-04T21:47:23.067Z,57.7645,-155.9436,0,1.8,ml,,,,0.71,ak,ak0239xkv6sy,2023-08-04T21:49:18.407Z,"91 km ENE of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-08-04T21:42:57.670Z,38.8246651,-122.803833,2.2,1.1,md,23,32,0.005037,0.03,nc,nc73920366,2023-08-04T22:16:10.643Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.2,23,automatic,nc,nc
+2023-08-04T21:42:57.670Z,38.8246651,-122.803833,2.2,1.1,md,23,32,0.005037,0.03,nc,nc73920366,2023-08-04T23:59:13.242Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.2,23,automatic,nc,nc
 2023-08-04T21:39:45.290Z,34.4233333,-118.3971667,10.88,1.64,ml,42,38,0.03574,0.21,ci,ci40529888,2023-08-04T21:43:18.910Z,"10 km E of Santa Clarita, CA",earthquake,0.29,0.53,0.19,30,automatic,ci,ci
 2023-08-04T21:38:09.830Z,38.8413315,-122.8056641,-0.82,0.2,md,6,124,0.01506,0.16,nc,nc73920361,2023-08-04T23:31:13.092Z,"8 km WNW of Cobb, CA",earthquake,0.48,2.62,0.08,6,automatic,nc,nc
 2023-08-04T21:25:05.860Z,19.3266666666667,-155.2545,4.2,1.75,md,38,162,,0.13,hv,hv73510087,2023-08-04T23:42:22.380Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.79,0.101597275681354,14,reviewed,hv,hv
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T00:09:54.870Z,39.483,-123.1035,4.38,1.58,md,16,150,0.1013,0.07,nc,nc73919941,2023-08-04T09:57:15.517Z,"15 km WNW of Lake Pillsbury, CA",earthquake,0.31,0.8,0.255,17,reviewed,nc,nc
 2023-08-04T00:04:47.891Z,57.1267,-154.2248,18.3,1.7,ml,,,,0.27,ak,ak0239x83y3o,2023-08-04T01:17:25.047Z,"20 km N of Akhiok, Alaska",earthquake,,2.5,,,reviewed,ak,ak
 2023-08-04T00:01:23.450Z,38.8160019,-122.8171692,2.57,1.52,md,30,48,0.009231,0.02,nc,nc73919936,2023-08-04T01:42:11.659Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.35,0.13,28,automatic,nc,nc
-2023-08-03T23:59:46.740Z,57.1291,-153.8862,10.7,1.9,ml,,,,0.27,ak,ak0239vylcuz,2023-08-04T01:14:30.769Z,"26 km NE of Akhiok, Alaska",earthquake,,3.9,,,reviewed,ak,ak
