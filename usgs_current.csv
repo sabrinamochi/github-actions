@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T15:19:08.800Z,33.8064995,-116.9838333,11.19,1.6,ml,73,25,0.01336,0.2,ci,ci40530864,2023-08-06T15:21:24.575Z,"3 km NW of San Jacinto, CA",earthquake,0.21,0.39,0.233,26,automatic,ci,ci
+2023-08-06T15:19:08.800Z,33.8051667,-116.9838333,11.99,1.6,ml,58,34,0.01357,0.23,ci,ci40530864,2023-08-06T15:22:48.055Z,"3 km NW of San Jacinto, CA",earthquake,0.21,0.55,0.145,27,automatic,ci,ci
 2023-08-06T15:15:58.658Z,61.9794,-149.8048,32.8,1.5,ml,,,,0.88,ak,ak023a0s6hzt,2023-08-06T15:18:04.544Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T15:03:17.180Z,33.0483333,-116.0656667,18.47,1.16,ml,10,162,0.1372,0.41,ci,ci40530856,2023-08-06T15:06:52.236Z,"12 km SSE of Ocotillo Wells, CA",earthquake,1.68,2.63,0.263,17,automatic,ci,ci
 2023-08-06T14:42:28.580Z,19.2276668548584,-155.396835327148,31.0499992370605,1.99000001,md,41,144,,0.129999995,hv,hv73512447,2023-08-06T14:47:58.640Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.699999988,0.920000017,19,automatic,hv,hv
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T14:17:52.981Z,-55.7194,-27.0998,29.729,5.7,mww,78,67,5.592,0.77,us,us6000kya4,2023-08-06T14:41:34.022Z,"South Sandwich Islands region",earthquake,10.93,5.369,0.098,10,reviewed,us,us
 2023-08-06T14:11:33.820Z,38.8511658,-122.7838364,0.94,0.68,md,8,183,0.01034,0.03,nc,nc73921051,2023-08-06T14:52:14.606Z,"6 km WNW of Cobb, CA",earthquake,0.52,0.8,0.28,8,automatic,nc,nc
 2023-08-06T14:10:55.450Z,38.8440018,-122.8324966,1.99,0.89,md,8,155,0.005888,0.02,nc,nc73921046,2023-08-06T14:41:17.532Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.97,0.21,9,automatic,nc,nc
-2023-08-06T14:10:29.400Z,38.7955017,-122.7676697,3.9,0.75,md,8,80,0.008052,0.01,nc,nc73921041,2023-08-06T14:29:18.610Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.62,0.04,9,automatic,nc,nc
+2023-08-06T14:10:29.400Z,38.7955017,-122.7676697,3.9,0.75,md,8,80,0.008052,0.01,nc,nc73921041,2023-08-06T15:25:14.799Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.62,0.04,9,automatic,nc,nc
 2023-08-06T14:01:14.682Z,14.0282,144.832,164.025,4.4,mb,50,103,0.438,0.53,us,us6000kya1,2023-08-06T14:23:52.040Z,"Rota region, Northern Mariana Islands",earthquake,10.73,5.877,0.079,46,reviewed,us,us
 2023-08-06T13:55:33.767Z,61.3589,-151.3748,72.9,1.4,ml,,,,0.75,ak,ak023a0r85i8,2023-08-06T13:57:49.223Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-06T13:43:37.530Z,36.0308333,-117.8086667,0.43,1.01,ml,7,104,0.04824,0.15,ci,ci40530808,2023-08-06T13:47:04.641Z,"13 km E of Coso Junction, CA",earthquake,0.55,0.61,0.059,5,automatic,ci,ci
@@ -145,6 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T18:16:56.890Z,37.563,-118.8183333,1.03,0.09,md,4,338,0.02831,0.01,nc,nc73920726,2023-08-05T21:01:11.456Z,"12 km W of Toms Place, CA",earthquake,3.59,1.42,0.32,4,reviewed,nc,nc
 2023-08-05T18:10:32.440Z,60.0923,-139.9988,3.8,2.7,ml,,,,0.41,ak,ak0239z6ebpo,2023-08-05T21:29:50.040Z,"62 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-05T18:09:14.630Z,-23.4297,-69.7046,68.304,4.8,mwr,91,110,1.352,0.99,us,us6000ky58,2023-08-05T18:38:15.040Z,"74 km ENE of Antofagasta, Chile",earthquake,5.79,6.049,0.06,27,reviewed,us,us
+2023-08-05T17:59:48.180Z,33.577,-116.2668333,10.34,0.44,ml,9,144,0.03427,0.09,ci,ci40530440,2023-08-06T15:22:13.890Z,"10 km SSE of La Quinta, CA",earthquake,0.35,0.62,0.087,3,reviewed,ci,ci
 2023-08-05T17:55:42.061Z,52.4143,-31.7579,10,4.5,mb,138,88,11.504,0.88,us,us6000ky65,2023-08-05T21:19:14.040Z,"northern Mid-Atlantic Ridge",earthquake,8.64,1.848,0.049,127,reviewed,us,us
 2023-08-05T17:38:39.401Z,-19.6232,-69.1441,97.864,5.1,mww,151,82,0.065,0.99,us,us6000ky52,2023-08-06T07:50:03.583Z,"45 km SE of Camiña, Chile",earthquake,5.13,4.66,0.065,23,reviewed,us,us
 2023-08-05T17:19:47.520Z,61.2731,-146.8366,25.2,1.1,ml,,,,0.5,ak,ak0239z5uups,2023-08-05T17:22:11.600Z,"30 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
