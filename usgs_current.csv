@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T07:15:11.420Z,33.5083333,-116.4815,14.56,0.61,ml,19,95,0.06414,0.13,ci,ci40531664,2023-08-08T07:18:43.991Z,"18 km ESE of Anza, CA",earthquake,0.3,0.54,0.132,13,automatic,ci,ci
+2023-08-08T07:13:59.150Z,38.8251648,-122.8013306,2.58,0.78,md,9,171,0.007055,0.01,nc,nc73921686,2023-08-08T07:15:35.435Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.36,0.05,10,automatic,nc,nc
 2023-08-08T07:06:24.910Z,61.2868,-152.4462,0.2,1.6,ml,,,,0.69,ak,ak023a3yfq3f,2023-08-08T07:08:17.653Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T07:04:39.425Z,61.2982,-152.5014,4.7,1.9,ml,,,,0.37,ak,ak023a3yfbs6,2023-08-08T07:06:16.405Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T06:53:47.400Z,36.6293335,-121.2781677,5.46,1.6,md,16,116,,0.18,nc,nc73921676,2023-08-08T07:10:13.775Z,"16 km NW of Pinnacles, CA",earthquake,0.51,1.29,0.22,14,automatic,nc,nc
@@ -75,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T20:23:43.520Z,17.9216666666667,-66.9576666666667,16.41,2.23,md,13,234,0.06859,0.09,pr,pr71420773,2023-08-07T20:35:18.710Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.55,0.47,0.107046904683026,7,reviewed,pr,pr
 2023-08-07T20:22:06.720Z,46.06333333333333,-123.26866666666666,-0.3,1.82,ml,10,65,0.009668,0.33,uw,uw61939257,2023-08-08T06:28:20.130Z,"6 km SW of Clatskanie, Oregon",explosion,1.14,31.61,0.10699314482122069,6,reviewed,uw,uw
 2023-08-07T20:09:04.201Z,40.2469,-119.491,13.5,0.5,ml,3,283.96,0.2,0.1093,nn,nn00864111,2023-08-08T00:48:48.344Z,"34 km NNE of Sutcliffe, Nevada",earthquake,,11.4,0.33,3,reviewed,nn,nn
-2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"3 km WNW of Palmarejo, Puerto Rico",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
+2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"Mona Passage",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
 2023-08-07T19:55:09.730Z,48.86683333333333,-121.68316666666666,1.7,1.94,ml,2,357,0.01459,0.02,uw,uw61939242,2023-08-07T21:10:15.090Z,"19 km E of Glacier, Washington",earthquake,8.43,0.43,0.07242501123032452,1,reviewed,uw,uw
 2023-08-07T19:50:29.527Z,61.825,-150.9813,70,1.8,ml,,,,0.41,ak,ak023a2ib0q0,2023-08-07T19:52:34.452Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T19:33:49.750Z,48.838,-121.8025,21.84,1.45,ml,6,202,0.08426,0.43,uw,uw61939222,2023-08-08T06:37:03.250Z,"11 km ESE of Glacier, Washington",earthquake,2,3.63,0.1532705836713435,5,reviewed,uw,uw
@@ -179,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T07:30:12.610Z,47.18233333333333,-122.203,15.04,1.48,ml,48,36,0.0546,0.21,uw,uw61938812,2023-08-07T18:58:03.040Z,"1 km WNW of Bonney Lake, Washington",earthquake,0.29,0.56,0.2261905866062064,27,reviewed,uw,uw
 2023-08-07T07:24:17.940Z,44.7843333,-110.8153333,3.19,0.51,ml,7,205,0.02536,0.1,uu,uu60547132,2023-08-07T17:23:36.730Z,"Wyoming",earthquake,0.69,0.9,0.476,2,reviewed,uu,uu
 2023-08-07T07:23:27.487Z,8.8732,93.8368,68.129,5.1,mww,49,98,4.758,0.82,us,us6000kye0,2023-08-07T07:43:05.040Z,"Nicobar Islands, India region",earthquake,12.51,7.488,0.098,10,reviewed,us,us
-2023-08-07T07:19:38.280Z,38.8154984,-122.8151703,2.78,1.02,md,27,48,0.008833,0.02,nc,nc73921351,2023-08-07T07:38:11.656Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.41,0.26,26,automatic,nc,nc
-2023-08-07T07:15:40.541Z,38.2824,-117.9218,11.9,1.5,ml,7,81.3,0.097,0.1758,nn,nn00864066,2023-08-07T15:57:51.940Z,"Nevada",earthquake,,1.8,0.27,5,reviewed,nn,nn
