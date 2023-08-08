@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-08T07:48:05.820Z,33.1645012,-115.6433334,2.81,1.53,ml,13,65,0.02546,0.07,ci,ci40531672,2023-08-08T07:50:22.545Z,"13 km WNW of Calipatria, CA",earthquake,0.35,0.56,0.331,9,automatic,ci,ci
+2023-08-08T07:56:39.539Z,58.8178,-158.0571,0,1.9,ml,,,,0.76,ak,ak023a3yqh0x,2023-08-08T07:58:27.716Z,"21 km WSW of Portage Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-08T07:48:05.860Z,33.1656667,-115.6498333,2.17,1.38,ml,13,50,0.02874,0.14,ci,ci40531672,2023-08-08T07:51:36.998Z,"13 km WNW of Calipatria, CA",earthquake,0.32,0.43,0.228,29,automatic,ci,ci
 2023-08-08T07:47:39.560Z,38.8348351,-122.8156662,2.04,0.77,md,9,151,0.01223,0.01,nc,nc73921696,2023-08-08T07:49:14.576Z,"8 km W of Cobb, CA",earthquake,0.52,1.22,0.3,10,automatic,nc,nc
 2023-08-08T07:47:23.430Z,62.9986,-150.6782,107.1,1.2,ml,,,,0.2,ak,ak023a3yoic7,2023-08-08T07:49:54.457Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-08T07:44:31.245Z,60.2167,-153.2177,136.1,2,ml,,,,0.36,ak,ak023a3ynvsk,2023-08-08T07:46:33.458Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-08T07:36:13.280Z,19.1643333333333,-66.506,19.98,3.34,md,14,256,0.6839,0.1,pr,pr71420823,2023-08-08T07:51:49.510Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.58,11.55,0.0267917665898949,5,reviewed,pr,pr
 2023-08-08T07:26:03.480Z,38.7960014,-122.7541656,2.24,0.77,md,14,90,0.006332,0.02,nc,nc73921691,2023-08-08T07:43:12.954Z,"2 km N of The Geysers, CA",earthquake,0.34,0.6,0.16,15,automatic,nc,nc
 2023-08-08T07:15:11.420Z,33.5083333,-116.4815,14.56,0.61,ml,19,95,0.06414,0.13,ci,ci40531664,2023-08-08T07:18:43.991Z,"18 km ESE of Anza, CA",earthquake,0.3,0.54,0.132,13,automatic,ci,ci
 2023-08-08T07:13:59.150Z,38.8251648,-122.8013306,2.58,0.78,md,9,171,0.007055,0.01,nc,nc73921686,2023-08-08T07:30:16.882Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.36,0.05,10,automatic,nc,nc
@@ -82,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T20:23:43.520Z,17.9216666666667,-66.9576666666667,16.41,2.23,md,13,234,0.06859,0.09,pr,pr71420773,2023-08-07T20:35:18.710Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.55,0.47,0.107046904683026,7,reviewed,pr,pr
 2023-08-07T20:22:06.720Z,46.06333333333333,-123.26866666666666,-0.3,1.82,ml,10,65,0.009668,0.33,uw,uw61939257,2023-08-08T06:28:20.130Z,"6 km SW of Clatskanie, Oregon",explosion,1.14,31.61,0.10699314482122069,6,reviewed,uw,uw
 2023-08-07T20:09:04.201Z,40.2469,-119.491,13.5,0.5,ml,3,283.96,0.2,0.1093,nn,nn00864111,2023-08-08T00:48:48.344Z,"34 km NNE of Sutcliffe, Nevada",earthquake,,11.4,0.33,3,reviewed,nn,nn
-2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"3 km WNW of Palmarejo, Puerto Rico",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
+2023-08-07T19:58:52.510Z,18.0538333333333,-67.1041666666667,20.08,2.54,md,15,127,0.04746,0.13,pr,pr71420763,2023-08-07T20:13:29.350Z,"Mona Passage",earthquake,0.39,0.41,0.0925987981898602,9,reviewed,pr,pr
 2023-08-07T19:55:09.730Z,48.86683333333333,-121.68316666666666,1.7,1.94,ml,2,357,0.01459,0.02,uw,uw61939242,2023-08-07T21:10:15.090Z,"19 km E of Glacier, Washington",earthquake,8.43,0.43,0.07242501123032452,1,reviewed,uw,uw
 2023-08-07T19:50:29.527Z,61.825,-150.9813,70,1.8,ml,,,,0.41,ak,ak023a2ib0q0,2023-08-07T19:52:34.452Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T19:33:49.750Z,48.838,-121.8025,21.84,1.45,ml,6,202,0.08426,0.43,uw,uw61939222,2023-08-08T06:37:03.250Z,"11 km ESE of Glacier, Washington",earthquake,2,3.63,0.1532705836713435,5,reviewed,uw,uw
