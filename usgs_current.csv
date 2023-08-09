@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T01:16:39.800Z,19.1925,-66.5223333333333,22.34,3.34,md,14,250,0.7116,0.22,pr,pr71420933,2023-08-09T01:54:52.350Z,"80 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.01,17.82,0.129615552731825,13,reviewed,pr,pr
 2023-08-09T00:57:17.627Z,6.4822,126.4009,58.234,5.3,mww,69,52,1.003,1.02,us,us6000kys0,2023-08-09T01:46:31.707Z,"28 km ENE of Pondaguitan, Philippines",earthquake,8.52,6.286,0.089,12,reviewed,us,us
 2023-08-09T00:29:17.660Z,-25.3423,179.7734,528.906,4.6,mb,31,114,13.443,0.75,us,us6000kyrv,2023-08-09T00:48:15.040Z,"south of the Fiji Islands",earthquake,12.64,9.511,0.043,164,reviewed,us,us
-2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"53 km WNW of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T00:09:41.200Z,33.8753333,-116.2708333,2.69,1.11,ml,26,62,0.09522,0.19,ci,ci40532200,2023-08-09T00:23:31.009Z,"13 km ENE of Thousand Palms, CA",earthquake,0.36,0.91,0.126,26,automatic,ci,ci
 2023-08-08T23:49:19.598Z,60.2927,-151.7963,54.4,1.1,ml,,,,0.37,ak,ak023a487vdr,2023-08-08T23:50:56.506Z,"23 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-08T23:34:59.697Z,39.1856,-120.469,9,1.4,ml,14,128.56,0.153,0.1441,nn,nn00864189,2023-08-09T00:48:29.713Z,"15 km SSW of Kingvale, California",earthquake,,3.2,0.16,7,reviewed,nn,nn
@@ -214,7 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T06:38:08.330Z,37.5168333,-118.8883333,1.37,0.88,md,10,278,0.08691,0.12,nc,nc73921666,2023-08-08T10:01:13.791Z,"16 km SSE of Mammoth Lakes, CA",earthquake,1.02,6.02,0.125,10,reviewed,nc,nc
 2023-08-08T06:27:01.077Z,58.2547,-154.9995,11.5,0.8,ml,,,,0.48,ak,ak023a3xyqor,2023-08-09T01:50:06.410Z,"82 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-08T06:22:07.460Z,33.4761667,-116.8893333,12.44,0.85,ml,35,58,0.01928,0.17,ci,ci40531648,2023-08-08T15:14:26.280Z,"4 km NNW of Aguanga, CA",earthquake,0.19,0.51,0.138,18,reviewed,ci,ci
-2023-08-08T06:18:13.840Z,46.17883333333333,-122.218,5.47,0.23,ml,12,144,0.01891,0.19,uw,uw61939427,2023-08-08T17:18:34.790Z,"Washington",earthquake,0.85,0.58,0.20710528593019664,9,reviewed,uw,uw
+2023-08-08T06:18:13.840Z,46.17883333333333,-122.218,5.47,0.23,ml,12,144,0.01891,0.19,uw,uw61939427,2023-08-08T17:18:34.790Z,"34 km NNE of Amboy, Washington",earthquake,0.85,0.58,0.20710528593019664,9,reviewed,uw,uw
 2023-08-08T05:57:56.500Z,58.1776666666667,-155.3185,0.41,0.1,ml,8,107,,0.09,av,av91994566,2023-08-09T01:26:31.400Z,"Alaska Peninsula",earthquake,0.21,1.41,0.366006238607963,9,reviewed,av,av
 2023-08-08T05:39:23.370Z,44.7735,-114.408333333333,9.06,1.42,ml,10,136,0.455,0.11,mb,mb90023948,2023-08-08T18:17:17.270Z,"32 km NNW of Challis, Idaho",earthquake,0.46,0.82,0.185250393251869,10,reviewed,mb,mb
 2023-08-08T05:37:02.410Z,52.0815,-176.134666666667,-1.8,0.46,ml,6,144,,0.24,av,av91994556,2023-08-09T01:23:18.690Z,"41 km ENE of Adak, Alaska",earthquake,0.5,0.89,0.108651127880032,6,reviewed,av,av
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T03:59:39.177Z,60.0455,-147.9032,17.7,1.8,ml,,,,0.57,ak,ak023a3wddq5,2023-08-08T04:01:46.568Z,"6 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-08T03:47:00.690Z,51.8588333333333,-178.1485,6.09,0.28,ml,5,216,,0.13,av,av91994486,2023-08-09T00:50:32.190Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.52,0.68,0.308388147115179,5,reviewed,av,av
 2023-08-08T03:46:26.340Z,34.1378333,-116.8556667,3.55,0.98,ml,37,45,0.07987,0.13,ci,ci40531640,2023-08-08T14:52:26.500Z,"13 km SSE of Big Bear Lake, CA",earthquake,0.16,0.37,0.137,14,reviewed,ci,ci
-2023-08-08T03:40:50.490Z,58.1825,-155.302666666667,2.64,0.29,ml,12,59,,0.1,av,av91994481,2023-08-09T00:48:14.510Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.34,0.255363214363854,12,reviewed,av,av
