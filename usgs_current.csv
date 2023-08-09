@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-09T15:24:23.805Z,64.9141,-149.0886,3.1,0.8,ml,,,,0.99,ak,ak023a5que8c,2023-08-09T15:26:22.599Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-09T15:13:57.530Z,38.8458328,-122.7876663,1.09,0.32,md,7,148,0.007702,0.02,nc,nc73922211,2023-08-09T15:15:34.482Z,"6 km WNW of Cobb, CA",earthquake,0.69,1.04,0.24,8,automatic,nc,nc
+2023-08-09T15:13:57.530Z,38.8458328,-122.7876663,1.09,0.32,md,7,148,0.007702,0.02,nc,nc73922211,2023-08-09T15:32:13.998Z,"6 km WNW of Cobb, CA",earthquake,0.69,1.04,0.24,8,automatic,nc,nc
 2023-08-09T15:08:26.880Z,61.5246,-150.5129,50.4,1.2,ml,,,,0.61,ak,ak023a5qqz0g,2023-08-09T15:10:25.351Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-09T15:08:25.316Z,57.4422,-155.4204,72.6,1.6,ml,,,,0.2,ak,ak023a5qqyw3,2023-08-09T15:10:27.342Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-08-09T14:44:38.289Z,58.735,-152.2794,65,1.8,ml,,,,0.69,ak,ak023a5qda2c,2023-08-09T14:47:56.290Z,"72 km SSW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -99,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T04:24:03.012Z,65.5214,-144.7569,0,2,ml,,,,0.89,ak,ak023a5kakz1,2023-08-09T04:27:28.552Z,"6 km SSE of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T04:12:12.870Z,48.1055,-114.198833333333,9.22,1.6,ml,13,184,0.06694,0.05,mb,mb90024053,2023-08-09T14:58:18.230Z,"3 km NNE of Somers, Montana",earthquake,0.55,0.72,0.336051451459435,5,reviewed,mb,mb
 2023-08-09T04:12:05.550Z,48.1031666666667,-114.2185,10.71,1.47,ml,14,170,0.05468,0.14,mb,mb90024013,2023-08-09T14:43:08.310Z,"2 km N of Somers, Montana",earthquake,0.53,0.59,0.414989984417564,9,reviewed,mb,mb
+2023-08-09T03:41:01.740Z,44.6525,-114.3745,9.43,3.1,ml,56,67,0.361,0.19,mb,mb90024003,2023-08-09T15:39:08.140Z,"19 km NW of Challis, Idaho",earthquake,0.29,0.52,0.256200132393299,53,reviewed,mb,mb
 2023-08-09T03:33:31.440Z,32.9961667,-116.2363333,3.38,1.98,ml,50,49,0.06996,0.24,ci,ci40532264,2023-08-09T03:44:04.760Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.27,1.06,0.093,27,automatic,ci,ci
 2023-08-09T03:27:14.960Z,33.3075,-116.3565,9.14,0.6,ml,20,88,0.06417,0.21,ci,ci40532256,2023-08-09T03:30:47.379Z,"6 km NNE of Borrego Springs, CA",earthquake,0.44,0.9,0.16,11,automatic,ci,ci
 2023-08-09T03:15:04.550Z,19.3843333333333,-155.28,1.42,1.76,ml,18,74,,0.08,hv,hv73516397,2023-08-09T03:35:00.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.18,0.0610624084643268,7,reviewed,hv,hv
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T15:44:56.470Z,53.8558333333333,-166.802666666667,4.99,-0.38,ml,5,128,,0.06,av,av91995006,2023-08-09T03:38:05.200Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.32,0.92,0.24914153112718,5,reviewed,av,av
 2023-08-08T15:42:09.802Z,31.67284797,-104.4086142,5.925903319999999,2.9,ml,13,77,0.01651815146,0.1,tx,tx2023plig,2023-08-09T09:22:57.880Z,"55 km S of Whites City, New Mexico",earthquake,0.9031126358,0.6874617423,0.1,31,reviewed,tx,tx
 2023-08-08T15:41:25.277Z,62.9896,-150.4599,4.9,1.3,ml,,,,1.18,ak,ak023a43ep3i,2023-08-08T15:49:14.931Z,"57 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-08T15:38:39.960Z,17.9665,-67.0675,7.6,2.53,md,11,228,0.02235,0.16,pr,pr71420848,2023-08-08T15:52:17.580Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,0.67,0.24,0.160482607382108,5,reviewed,pr,pr
