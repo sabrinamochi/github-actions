@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T20:06:42.550Z,46.1835,-123.42983333333333,-0.5,1.8900000000000001,ml,13,55,0.1331,0.29,uw,uw61948696,2023-08-09T21:11:35.690Z,"4 km WSW of Cathlamet, Washington",explosion,0.91,31.61,0.10543760014455938,7,reviewed,uw,uw
 2023-08-09T20:02:01.882Z,64.6096,-146.8943,0.1,0.8,ml,,,,0.84,ak,ak023a5tost8,2023-08-09T20:03:46.254Z,"9 km N of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T19:58:10.060Z,36.685,-121.3673333,-0.47,1.11,md,9,91,0.02798,0.02,nc,nc73922266,2023-08-09T21:29:58.217Z,"12 km SSW of Tres Pinos, CA",quarry blast,0.29,31.61,0.254,12,reviewed,nc,nc
-2023-08-09T19:48:22.450Z,19.5028324127197,-155.45866394043,1.87000000476837,2.21,ml,17,90,,0.150000006,hv,hv73517602,2023-08-09T19:53:52.790Z,"24 km WNW of Volcano, Hawaii",earthquake,0.38,1.41999996,0.17,3,automatic,hv,hv
+2023-08-09T19:48:22.440Z,19.5036666666667,-155.455166666667,2.92,2.4,ml,24,101,,0.11,hv,hv73517602,2023-08-09T22:00:40.410Z,"24 km WNW of Volcano, Hawaii",earthquake,0.28,0.86,0.081342761391086,4,reviewed,hv,hv
 2023-08-09T19:38:18.780Z,62.522,-147.0757,4.7,1.4,ml,,,,0.56,ak,ak023a5tb4ae,2023-08-09T19:40:46.979Z,"38 km NW of Lake Louise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T19:34:02.034Z,61.6988,-146.9567,27.2,1.4,ml,,,,0.98,ak,ak023a5ta84r,2023-08-09T19:36:47.704Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T19:16:33.590Z,35.6935,-117.5086667,11.09,1.14,ml,15,126,0.07474,0.21,ci,ci40532672,2023-08-09T19:20:11.680Z,"12 km SW of Searles Valley, CA",earthquake,0.66,0.9,0.11,7,automatic,ci,ci
@@ -41,9 +41,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T17:03:14.420Z,33.1093333,-115.6135,10.81,1.42,ml,30,54,0.03035,0.18,ci,ci40532608,2023-08-09T17:53:19.804Z,"8 km N of Westmorland, CA",earthquake,0.26,0.41,0.201,22,reviewed,ci,ci
 2023-08-09T17:01:47.255Z,38.1467,38.4051,12.284,4.2,mb,58,44,0.778,0.77,us,us6000kywd,2023-08-09T18:23:33.069Z,"eastern Turkey",earthquake,1.32,5.282,0.108,24,reviewed,us,us
 2023-08-09T16:31:45.320Z,48.622166666666665,-121.97866666666667,10.34,0.43,md,5,94,0.1038,0.03,uw,uw61948641,2023-08-09T17:47:12.310Z,"11 km N of Hamilton, Washington",earthquake,0.34,1.27,0.254575052253029,5,reviewed,uw,uw
-2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"16 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T16:10:33.900Z,35.6276667,-117.4006667,12.76,1.17,ml,8,164,0.1003,0.13,ci,ci40532560,2023-08-09T16:14:06.544Z,"15 km S of Trona, CA",earthquake,0.71,1.37,0.185,6,automatic,ci,ci
-2023-08-09T16:07:22.623Z,60.0588,-151.6991,52.4,1.7,ml,,,,0.39,ak,ak023a5rc6km,2023-08-09T16:09:59.868Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-09T16:07:22.623Z,60.0588,-151.6991,52.4,1.7,ml,,,,0.39,ak,ak023a5rc6km,2023-08-09T16:09:59.868Z,"1 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-09T16:03:58.959Z,56.254,-149.0253,6,2.5,ml,,,,0.86,ak,ak023a5rbjmt,2023-08-09T16:37:30.312Z,"249 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-08-09T16:01:07.250Z,36.22783333,-95.84683333,0,1.55,ml,33,118,0.3203371389,0.37,ok,ok2023pnej,2023-08-09T17:52:58.494Z,"4 km S of Owasso, Oklahoma",quarry blast,,0.5,0.21,4,reviewed,ok,ok
 2023-08-09T15:58:14.659Z,60.3117,-151.0071,50.8,2.5,ml,,,,0.22,ak,ak023a5r1nvd,2023-08-09T15:59:28.314Z,"Kenai Peninsula, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T13:18:27.280Z,33.8696667,-118.2685,15.38,1.68,ml,37,60,0.05237,0.27,ci,ci40532392,2023-08-09T17:41:59.926Z,"4 km ESE of Gardena, CA",earthquake,0.47,0.56,0.251,22,reviewed,ci,ci
 2023-08-09T13:05:04.900Z,35.8145,-121.3375,6.33,1.61,md,24,190,0.1094,0.11,nc,nc73922201,2023-08-09T21:23:19.113Z,"23 km NW of San Simeon, CA",earthquake,0.37,0.58,0.173,22,reviewed,nc,nc
 2023-08-09T13:01:02.270Z,33.1045,-116.04,11.89,1.47,ml,32,80,0.08638,0.18,ci,ci40532360,2023-08-09T13:04:46.524Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.26,0.53,0.165,26,automatic,ci,ci
-2023-08-09T12:55:07.890Z,37.6185,-122.3743333,11.57,2.25,md,94,27,0.05049,0.07,nc,nc73922196,2023-08-09T21:58:09.203Z,"2 km NNE of Millbrae, CA",earthquake,0.1,0.23,0.159,88,reviewed,nc,nc
+2023-08-09T12:55:07.890Z,37.6185,-122.3743333,11.57,2.25,md,94,27,0.05049,0.07,nc,nc73922196,2023-08-09T22:01:13.335Z,"2 km NNE of Millbrae, CA",earthquake,0.1,0.23,0.159,88,reviewed,nc,nc
 2023-08-09T12:51:58.881Z,58.2326,-155.0887,33.6,1,ml,,,,0.38,ak,ak023a5p7ygg,2023-08-09T12:54:15.525Z,"82 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-09T12:47:03.613Z,58.6181,-153.8857,83.1,1.3,ml,,,,0.42,ak,ak023a5p6zbt,2023-08-09T12:49:42.110Z,"84 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T12:46:10.791Z,63.6061,-147.1263,0,1.2,ml,,,,1.11,ak,ak023a5p6s5z,2023-08-09T12:47:58.517Z,"83 km SW of Delta Junction, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T22:09:05.010Z,44.3571666666667,-114.008833333333,5.17,1.49,ml,13,97,0.03357,0.21,mb,mb90024073,2023-08-09T16:56:55.400Z,"24 km SE of Challis, Idaho",earthquake,0.72,1.28,0.212890140516187,14,reviewed,mb,mb
 2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T19:54:32.960Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
 2023-08-08T22:02:36.140Z,58.1603333333333,-155.3155,2.04,-0.24,ml,7,117,,0.12,av,av91995326,2023-08-09T18:44:49.540Z,"83 km NW of Karluk, Alaska",earthquake,0.33,1.05,0.24404509411918,7,reviewed,av,av
-2023-08-08T22:00:25.823Z,58.1578,-155.3039,0,0.9,ml,,,,0.26,ak,ak023a47bxxy,2023-08-09T18:41:17.230Z,"82 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
