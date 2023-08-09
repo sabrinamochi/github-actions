@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-09T12:55:07.940Z,37.6189995,-122.3731689,11.59,2.19,md,54,35,0.05006,0.07,nc,nc73922196,2023-08-09T13:02:34.272Z,"3 km NNE of Millbrae, CA",earthquake,0.16,0.35,0.16,47,automatic,nc,nc
+2023-08-09T13:01:02.270Z,33.1045,-116.04,11.89,1.47,ml,32,80,0.08638,0.18,ci,ci40532360,2023-08-09T13:04:46.524Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.26,0.53,0.165,26,automatic,ci,ci
+2023-08-09T12:55:07.940Z,37.6189995,-122.3731689,11.59,2.19,md,54,35,0.05006,0.07,nc,nc73922196,2023-08-09T13:07:40.494Z,"3 km NNE of Millbrae, CA",earthquake,0.16,0.35,0.16,47,automatic,nc,nc
 2023-08-09T12:51:58.881Z,58.2326,-155.0887,33.6,1,ml,,,,0.38,ak,ak023a5p7ygg,2023-08-09T12:54:15.525Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-08-09T12:47:03.613Z,58.6181,-153.8857,83.1,1.3,ml,,,,0.42,ak,ak023a5p6zbt,2023-08-09T12:49:42.110Z,"84 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T12:46:10.791Z,63.6061,-147.1263,0,1.2,ml,,,,1.11,ak,ak023a5p6s5z,2023-08-09T12:47:58.517Z,"83 km SW of Delta Junction, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -99,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T01:16:39.800Z,19.1925,-66.5223333333333,22.34,3.34,md,14,250,0.7116,0.22,pr,pr71420933,2023-08-09T01:54:52.350Z,"80 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.01,17.82,0.129615552731825,13,reviewed,pr,pr
 2023-08-09T00:57:17.627Z,6.4822,126.4009,58.234,5.3,mww,69,52,1.003,1.02,us,us6000kys0,2023-08-09T11:25:17.724Z,"28 km ENE of Pondaguitan, Philippines",earthquake,8.52,6.286,0.089,12,reviewed,us,us
 2023-08-09T00:29:17.660Z,-25.3423,179.7734,528.906,4.6,mb,31,114,13.443,0.75,us,us6000kyrv,2023-08-09T00:48:15.040Z,"south of the Fiji Islands",earthquake,12.64,9.511,0.043,164,reviewed,us,us
-2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"53 km WNW of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T00:09:41.200Z,33.8753333,-116.2708333,2.69,1.11,ml,26,62,0.09522,0.19,ci,ci40532200,2023-08-09T00:23:31.009Z,"13 km ENE of Thousand Palms, CA",earthquake,0.36,0.91,0.126,26,automatic,ci,ci
 2023-08-08T23:55:53.160Z,45.85016666666667,-122.44916666666667,-0.79,2.05,ml,15,99,0.08495,0.17,uw,uw61948516,2023-08-09T05:49:07.670Z,"3 km WSW of Yacolt, Washington",explosion,0.6,31.61,0.2564864343536164,10,reviewed,uw,uw
 2023-08-08T23:49:19.598Z,60.2927,-151.7963,54.4,1.1,ml,,,,0.37,ak,ak023a487vdr,2023-08-08T23:50:56.506Z,"23 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -210,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T13:21:15.829Z,60.3574,-152.0775,80.5,1.6,ml,,,,0.43,ak,ak023a423iri,2023-08-08T13:23:29.434Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-08T13:17:24.388Z,64.9699,-151.2822,15.3,1.1,ml,,,,0.58,ak,ak023a422ok6,2023-08-08T13:27:02.137Z,"30 km W of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-08T13:14:45.040Z,58.1748333333333,-155.334333333333,1.72,-0.16,ml,9,79,,0.05,av,av91994941,2023-08-09T03:18:42.110Z,"Alaska Peninsula",earthquake,0.21,0.41,0.232937575270169,9,reviewed,av,av
-2023-08-08T13:06:43.892Z,61.4539,-147.3836,29.6,1.3,ml,,,,0.5,ak,ak023a420d6t,2023-08-08T13:08:28.093Z,"41 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
