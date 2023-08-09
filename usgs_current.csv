@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-09T23:10:56.652Z,60.0323,-153.3554,140.2,1.4,ml,,,,0.47,ak,ak023a5vixkx,2023-08-09T23:13:10.866Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-09T23:10:51.209Z,63.2355,-151.3578,0,1.2,ml,,,,1.21,ak,ak023a5vix5s,2023-08-09T23:13:06.026Z,"38 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-09T23:06:14.330Z,37.5024986,-118.8553314,5.93,1.28,md,15,183,0.08983,0.04,nc,nc73922301,2023-08-09T23:07:50.756Z,"17 km WSW of Toms Place, CA",earthquake,0.91,1.01,0.09,14,automatic,nc,nc
+2023-08-09T23:06:14.330Z,37.5024986,-118.8553314,5.93,1.28,md,15,183,0.08983,0.04,nc,nc73922301,2023-08-09T23:14:09.763Z,"17 km WSW of Toms Place, CA",earthquake,0.91,1.01,0.09,14,automatic,nc,nc
 2023-08-09T22:36:39.785Z,36.2739,-115.3133,1.6,1.9,ml,8,182.14,0.263,0.2211,nn,nn00864233,2023-08-09T22:40:24.503Z,"17 km N of Summerlin South, Nevada",earthquake,,35.1,0.43,4,automatic,nn,nn
 2023-08-09T22:28:16.520Z,19.3928333333333,-155.277166666667,1.62,1.95,ml,16,66,,0.11,hv,hv73517772,2023-08-09T22:46:50.110Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.2,0.168018790721746,9,reviewed,hv,hv
 2023-08-09T22:26:36.110Z,33.579,-116.7531667,12.18,0.5,ml,13,77,0.01726,0.09,ci,ci40532816,2023-08-09T22:30:20.980Z,"8 km WNW of Anza, CA",earthquake,0.32,0.45,0.142,8,automatic,ci,ci
@@ -102,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T11:53:51.362Z,58.8544,-153.726,17.1,1.2,ml,,,,0.29,ak,ak023a5omxpc,2023-08-09T11:55:17.216Z,"88 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T11:51:32.826Z,43.9422,-129.1479,10,4.1,mb,62,191,2.082,0.87,us,us6000kyuw,2023-08-09T20:35:26.147Z,"off the coast of Oregon",earthquake,9.62,1.991,0.092,32,reviewed,us,us
 2023-08-09T11:50:44.560Z,36.3986664,-120.5141678,10.09,0.52,md,8,217,0.2029,0.37,nc,nc73922171,2023-08-09T13:24:13.257Z,"14 km E of New Idria, CA",earthquake,10.94,12.53,,1,automatic,nc,nc
+2023-08-09T11:49:40.970Z,61.3236666666667,-152.496166666667,3.23,-0.08,ml,11,126,,0.17,av,av91996021,2023-08-09T23:14:40.020Z,"78 km WNW of Tyonek, Alaska",earthquake,0.72,0.79,0.316987370199927,11,reviewed,av,av
 2023-08-09T11:31:10.030Z,63.4834,-151.1874,5,1.6,ml,,,,0.56,ak,ak023a5oi4rf,2023-08-09T11:32:57.874Z,"27 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T11:30:26.436Z,39.6118,-119.9692,6.6,0.4,ml,5,158.34,0.008,0.1512,nn,nn00864215,2023-08-09T15:44:32.770Z,"7 km S of Cold Springs, Nevada",earthquake,,1.4,0.14,2,reviewed,nn,nn
 2023-08-09T11:30:20.680Z,37.6166667,-122.3755,10.84,1.17,md,31,33,0.04933,0.09,nc,nc73922166,2023-08-09T23:03:14.680Z,"2 km NNE of Millbrae, CA",earthquake,0.22,0.32,0.317,21,reviewed,nc,nc
@@ -254,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T23:28:36.120Z,53.8508333333333,-166.796666666667,5.42,0.43,ml,6,86,,0.11,av,av91995411,2023-08-09T19:21:27.510Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.32,1.09,0.351489456343015,7,reviewed,av,av
 2023-08-08T23:28:32.690Z,44.6486666666667,-114.377833333333,9.18,2.6,ml,36,95,0.3597,0.17,mb,mb90023988,2023-08-09T14:20:36.970Z,"19 km NW of Challis, Idaho",earthquake,0.32,0.52,0.258276476280239,36,reviewed,mb,mb
 2023-08-08T23:21:54.381Z,63.1756,-149.3205,76.2,1.2,ml,,,,0.77,ak,ak023a481xnx,2023-08-08T23:24:28.948Z,"30 km SW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-08T23:19:57.914Z,64.9776,-147.4113,2,1.5,ml,,,,1.11,ak,ak023a481ikd,2023-08-08T23:22:06.553Z,"10 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-08T23:18:51.780Z,52.0853333333333,-176.119333333333,8.73,0.47,ml,5,156,,0.33,av,av91995396,2023-08-09T19:39:10.960Z,"42 km ENE of Adak, Alaska",earthquake,1.57,2.06,0.273233836263186,5,reviewed,av,av
