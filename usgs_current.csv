@@ -38,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T13:33:19.862Z,64.6256,-149.2128,2.2,1.3,ml,,,,0.73,ak,ak023a5ppg6r,2023-08-09T13:36:37.135Z,"5 km WNW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-09T13:19:21.240Z,19.1638336181641,-155.659332275391,-0.100000001490116,2.00999999,md,23,88,,0.219999999,hv,hv73516952,2023-08-09T13:22:17.550Z,"11 km NNW of Wai‘ōhinu, Hawaii",earthquake,0.47,0.289999992,0.529999971,9,automatic,hv,hv
 2023-08-09T13:18:27.280Z,33.8696667,-118.2685,15.38,1.68,ml,37,60,0.05237,0.27,ci,ci40532392,2023-08-09T17:41:59.926Z,"4 km ESE of Gardena, CA",earthquake,0.47,0.56,0.251,22,reviewed,ci,ci
-2023-08-09T13:05:04.900Z,35.8145,-121.3375,6.33,1.61,md,24,190,0.1094,0.11,nc,nc73922201,2023-08-09T17:52:09.835Z,"23 km NW of San Simeon, CA",earthquake,0.37,0.58,0.173,22,reviewed,nc,nc
+2023-08-09T13:05:04.900Z,35.8145,-121.3375,6.33,1.61,md,24,190,0.1094,0.11,nc,nc73922201,2023-08-09T18:39:17.128Z,"23 km NW of San Simeon, CA",earthquake,0.37,0.58,0.173,22,reviewed,nc,nc
 2023-08-09T13:01:02.270Z,33.1045,-116.04,11.89,1.47,ml,32,80,0.08638,0.18,ci,ci40532360,2023-08-09T13:04:46.524Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.26,0.53,0.165,26,automatic,ci,ci
 2023-08-09T12:55:07.940Z,37.6189995,-122.3731689,11.59,2.19,md,54,35,0.05006,0.07,nc,nc73922196,2023-08-09T15:04:12.993Z,"3 km NNE of Millbrae, CA",earthquake,0.16,0.35,0.16,47,automatic,nc,nc
 2023-08-09T12:51:58.881Z,58.2326,-155.0887,33.6,1,ml,,,,0.38,ak,ak023a5p7ygg,2023-08-09T12:54:15.525Z,"82 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T04:12:05.550Z,48.1031666666667,-114.2185,10.71,1.47,ml,14,170,0.05468,0.14,mb,mb90024013,2023-08-09T14:43:08.310Z,"2 km N of Somers, Montana",earthquake,0.53,0.59,0.414989984417564,9,reviewed,mb,mb
 2023-08-09T03:41:01.740Z,44.6525,-114.3745,9.43,3.1,ml,56,67,0.361,0.19,mb,mb90024003,2023-08-09T15:39:08.140Z,"19 km NW of Challis, Idaho",earthquake,0.29,0.52,0.256200132393299,53,reviewed,mb,mb
 2023-08-09T03:33:31.440Z,32.9961667,-116.2363333,3.38,1.98,ml,50,49,0.06996,0.24,ci,ci40532264,2023-08-09T03:44:04.760Z,"19 km SSW of Ocotillo Wells, CA",earthquake,0.27,1.06,0.093,27,automatic,ci,ci
-2023-08-09T03:27:14.960Z,33.3075,-116.3565,9.14,0.6,ml,20,88,0.06417,0.21,ci,ci40532256,2023-08-09T03:30:47.379Z,"6 km NNE of Borrego Springs, CA",earthquake,0.44,0.9,0.16,11,automatic,ci,ci
+2023-08-09T03:27:14.940Z,33.3085,-116.3598333,9.67,0.61,ml,30,87,0.01918,0.22,ci,ci40532256,2023-08-09T18:37:15.246Z,"6 km NNE of Borrego Springs, CA",earthquake,0.36,0.63,0.131,16,reviewed,ci,ci
 2023-08-09T03:15:04.550Z,19.3843333333333,-155.28,1.42,1.76,ml,18,74,,0.08,hv,hv73516397,2023-08-09T03:35:00.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.18,0.0610624084643268,7,reviewed,hv,hv
 2023-08-09T03:11:37.973Z,61.2647,-146.8539,19.9,1.2,ml,,,,0.25,ak,ak023a5jmfr9,2023-08-09T03:13:58.384Z,"31 km WNW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-09T03:11:02.400Z,36.8501663,-121.1383362,10.65,1.23,md,6,230,,0.03,nc,nc73922006,2023-08-09T06:12:14.801Z,"18 km ENE of Tres Pinos, CA",earthquake,0.94,4.57,0.13,4,automatic,nc,nc
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T18:52:33.550Z,38.7848333,-122.7315,1.71,-0.07,md,15,85,0.004384,0.01,nc,nc71131134,2023-08-09T17:12:33.617Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.58,0.216,8,reviewed,nc,nc
 2023-08-08T18:48:51.775Z,31.61175964,-104.3669041,6.774267578,2.5,ml,20,84,0.07117974095,0.2,tx,tx2023plok,2023-08-09T13:24:00.856Z,"62 km S of Whites City, New Mexico",earthquake,1.551448325,1.924202717,0.1,26,reviewed,tx,tx
 2023-08-08T18:45:58.190Z,18.5288333892822,-156.015670776367,91.6999969482422,3.44000006,md,30,318,,0.270000011,hv,hv73516042,2023-08-08T18:49:02.940Z,"65 km SSW of Hawaiian Ocean View, Hawaii",earthquake,15.33,2.70000005,3.52999997,6,automatic,hv,hv
-2023-08-08T18:38:55.584Z,-15.2513,-173.1714,58.024,5.9,mww,193,43,2.713,1.48,us,us6000kyph,2023-08-09T07:06:27.048Z,"Tonga",earthquake,6.02,4.725,0.098,10,reviewed,us,us
-2023-08-08T18:35:42.340Z,39.1328333,-111.8643333,11.7,1.57,ml,12,79,0.2126,0.16,uu,uu60547187,2023-08-08T19:22:46.430Z,"Utah",earthquake,0.52,2.37,0.221,4,reviewed,uu,uu
