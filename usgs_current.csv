@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T13:33:19.862Z,64.6256,-149.2128,2.2,1.3,ml,,,,0.73,ak,ak023a5ppg6r,2023-08-09T13:36:37.135Z,"5 km WNW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-09T13:19:21.240Z,19.1638336181641,-155.659332275391,-0.100000001490116,2.00999999,md,23,88,,0.219999999,hv,hv73516952,2023-08-09T13:22:17.550Z,"11 km NNW of Wai‘ōhinu, Hawaii",earthquake,0.47,0.289999992,0.529999971,9,automatic,hv,hv
 2023-08-09T13:18:29.130Z,33.968,-118.2551667,14.41,1.58,ml,20,88,0.01928,0.32,ci,ci40532392,2023-08-09T13:22:18.692Z,"1 km W of Florence-Graham, CA",earthquake,1.07,1.37,0.199,31,automatic,ci,ci
 2023-08-09T13:01:02.270Z,33.1045,-116.04,11.89,1.47,ml,32,80,0.08638,0.18,ci,ci40532360,2023-08-09T13:04:46.524Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.26,0.53,0.165,26,automatic,ci,ci
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T22:34:51.000Z,31.67562656,-104.4054095,6.954223633,3.5,ml,39,66,0.0298963161,0.3,tx,tx2023plvw,2023-08-09T05:00:48.575Z,"55 km S of Whites City, New Mexico",earthquake,0.8119695128999999,0.9530765692,0.1,21,reviewed,tx,tx
 2023-08-08T22:28:58.430Z,38.8363342,-122.8011703,2.52,0.76,md,12,73,0.008705,0.01,nc,nc73921926,2023-08-08T22:45:15.291Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.06,0.32,13,automatic,nc,nc
 2023-08-08T22:11:52.350Z,41.767,-112.37,7.69,0.99,md,13,98,0.1152,0.11,uu,uu60547207,2023-08-08T22:51:34.910Z,"Utah",earthquake,0.35,1.26,0.038,5,reviewed,uu,uu
-2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T13:29:29.392Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
+2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T13:39:51.260Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
 2023-08-08T22:00:25.823Z,58.1578,-155.3039,0,0.9,ml,,,,0.26,ak,ak023a47bxxy,2023-08-08T22:01:38.248Z,"82 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-08T21:58:49.850Z,61.0278,-152.2608,12.9,1.6,ml,,,,0.46,ak,ak023a472zq1,2023-08-08T22:00:30.043Z,"60 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T21:54:23.180Z,17.938,-66.8596666666667,11.84,2.08,md,10,215,0.0413,0.12,pr,pr71420923,2023-08-08T22:11:53.160Z,"Puerto Rico region",earthquake,0.67,0.39,0.11036656511379,7,reviewed,pr,pr
@@ -205,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T13:58:21.096Z,62.3677,-149.1901,0,1.2,ml,,,,1.03,ak,ak023a42bgnx,2023-08-08T14:00:37.107Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-08T13:43:52.670Z,38.7721672,-122.7388306,0.36,0.79,md,7,102,0.01118,0.01,nc,nc73921811,2023-08-08T15:23:14.892Z,"2 km ESE of The Geysers, CA",earthquake,0.3,0.86,0.17,7,automatic,nc,nc
 2023-08-08T13:42:50.040Z,18.5375,-67.2641666666667,28.2,2.68,md,10,230,0.1259,0.1,pr,pr71420838,2023-08-08T13:50:13.990Z,"16 km NW of Aguadilla, Puerto Rico",earthquake,0.53,0.47,0.27116898253254,5,reviewed,pr,pr
-2023-08-08T13:39:24.626Z,31.67653511,-104.4070328,6.131567383,2.5,ml,35,69,0.01651937909,0.2,tx,tx2023plef,2023-08-08T18:27:01.619Z,"55 km S of Whites City, New Mexico",earthquake,0.9977788776,0.8354296793,0,6,reviewed,tx,tx
-2023-08-08T13:36:56.093Z,31.68160093,-104.4054637,5.771655273,2.4,ml,31,68,0.01746900149,0.2,tx,tx2023pled,2023-08-08T17:44:58.702Z,"54 km S of Whites City, New Mexico",earthquake,0.7348887486,0.6855696099,0.1,7,reviewed,tx,tx
-2023-08-08T13:35:35.711Z,36.555,-116.2166,6.3,0.2,ml,17,144.81,0.115,0.1035,nn,nn00864138,2023-08-08T18:55:03.458Z,"43 km NNW of Pahrump, Nevada",earthquake,,2,0.86,6,reviewed,nn,nn
