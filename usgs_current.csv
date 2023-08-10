@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-10T23:00:56.930Z,34.1618333,-117.4606667,10.84,1.09,ml,19,95,0.04124,0.12,ci,ci40533760,2023-08-10T23:09:44.137Z,"7 km N of Fontana, CA",earthquake,0.28,0.4,0.148,13,reviewed,ci,ci
+2023-08-10T22:49:04.081Z,0.1276,97.3338,10,4.5,mb,27,180,1.193,0.51,us,us6000kz5i,2023-08-10T23:14:44.040Z,"Nias region, Indonesia",earthquake,8.85,1.959,0.136,16,reviewed,us,us
 2023-08-10T22:44:38.740Z,33.6791667,-116.7611667,13.31,0.82,ml,26,110,0.05386,0.14,ci,ci40533744,2023-08-10T23:05:39.687Z,"8 km SSW of Idyllwild, CA",earthquake,0.29,0.45,0.14,16,reviewed,ci,ci
 2023-08-10T22:41:54.050Z,37.470665,-118.8281631,5.54,1.8,md,19,118,0.1192,0.02,nc,nc73922706,2023-08-10T23:12:16.052Z,"16 km SW of Toms Place, CA",earthquake,0.5,1.79,0.14,18,automatic,nc,nc
 2023-08-10T22:39:24.771Z,36.4338,-115.0306,0.1,1.7,ml,8,282.73,0.124,0.34,nn,nn00864291,2023-08-10T22:41:51.501Z,"20 km N of Nellis Air Force Base, Nevada",earthquake,,14.4,0.47,6,automatic,nn,nn
@@ -33,8 +34,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:52:28.330Z,19.4333324432373,-155.352005004883,3.63000011444092,1.73000002,md,10,122,,0.370000005,hv,hv73518847,2023-08-10T19:55:36.350Z,"12 km W of Volcano, Hawaii",earthquake,1.23,9.68999958,0.980000019,6,automatic,hv,hv
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
-2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-10T23:08:12.393Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-10T23:19:16.480Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-10T19:00:40.310Z,34.8553333,-118.7865,-1.16,1.13,ml,20,54,0.07894,0.26,ci,ci40533520,2023-08-10T22:43:40.432Z,"7 km ENE of Lebec, CA",quarry blast,0.52,31.61,0.108,14,reviewed,ci,ci
@@ -81,6 +82,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T14:16:13.430Z,33.6691667,-116.7166667,15.29,0.77,ml,14,85,0.03575,0.08,ci,ci37528293,2023-08-10T21:55:38.959Z,"8 km S of Idyllwild, CA",earthquake,0.32,0.47,0.107,14,reviewed,ci,ci
 2023-08-10T14:16:12.560Z,33.6675,-116.7156667,15.21,0.66,ml,18,84,0.03495,0.07,ci,ci40533208,2023-08-10T21:55:39.453Z,"8 km S of Idyllwild, CA",earthquake,0.24,0.33,0.052,5,reviewed,ci,ci
 2023-08-10T13:44:09.386Z,62.5102,-148.3598,45.9,1.1,ml,,,,0.69,ak,ak023a7db4q2,2023-08-10T13:46:16.232Z,"79 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-10T13:32:52.000Z,53.8543333333333,-166.802,5.31,-0.36,ml,5,126,,0.07,av,av91112898,2023-08-10T23:18:03.840Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.33,0.92,0.231640750343833,5,reviewed,av,av
+2023-08-10T13:32:08.870Z,53.855,-166.8025,5.76,-0.61,ml,5,127,,0.06,av,av91112893,2023-08-10T23:15:07.320Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.38,1.04,0.301177712483154,6,reviewed,av,av
 2023-08-10T13:30:31.820Z,35.47183333,-98.038,6.33,2.15,ml,97,66,0.04859046489,0.32,ok,ok2023poux,2023-08-10T14:19:34.203Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.5,0.19,20,reviewed,ok,ok
 2023-08-10T13:20:36.410Z,38.7654991,-122.7405014,1.89,0.7,md,7,130,0.01283,0.03,nc,nc73922506,2023-08-10T14:39:16.138Z,"2 km SE of The Geysers, CA",earthquake,1.18,1.45,0.11,8,automatic,nc,nc
 2023-08-10T13:16:08.579Z,35.7835,31.3918,55.436,4.7,mb,83,53,1.516,0.7,us,us6000kz22,2023-08-10T18:54:52.084Z,"98 km SSW of Türkler, Turkey",earthquake,5.48,5.388,0.045,152,reviewed,us,us
@@ -234,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T23:22:09.530Z,38.8361664,-122.8058319,1.96,0.7,md,11,61,0.0123,0.01,nc,nc73922316,2023-08-09T23:23:45.613Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.22,0.22,12,automatic,nc,nc
 2023-08-09T23:21:53.620Z,38.7816658,-122.757164,1.23,0.76,md,8,70,0.01282,0.01,nc,nc73922311,2023-08-09T23:23:30.495Z,"0 km N of The Geysers, CA",earthquake,0.29,0.7,0.05,8,automatic,nc,nc
 2023-08-09T23:21:20.760Z,38.7873344,-122.7468338,1.39,0.75,md,10,83,0.008897,0.02,nc,nc73922306,2023-08-10T00:14:14.107Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.91,0.13,11,automatic,nc,nc
-2023-08-09T23:18:35.319Z,-2.4582,101.092,70.011,4.5,mb,46,46,2.652,0.76,us,us6000kyyq,2023-08-09T23:36:35.040Z,"southern Sumatra, Indonesia",earthquake,8.14,7.253,0.084,42,reviewed,us,us
-2023-08-09T23:18:19.010Z,45.40083333333333,-121.68883333333333,6.16,0.51,ml,5,231,0.01382,0.04,uw,uw61948786,2023-08-10T04:58:09.850Z,"Mount Hood area, Oregon",earthquake,0.87,0.69,0.165143052064529,4,reviewed,uw,uw
