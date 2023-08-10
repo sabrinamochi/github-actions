@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T10:15:22.940Z,33.3393333,-116.3033333,11.19,0.71,ml,21,62,0.1188,0.21,ci,ci40533056,2023-08-10T10:19:00.566Z,"11 km NE of Borrego Springs, CA",earthquake,0.36,0.84,0.205,13,automatic,ci,ci
 2023-08-10T10:13:31.990Z,33.1458333,-115.9771667,5.11,2.06,ml,52,35,0.02759,0.22,ci,ci40533048,2023-08-10T10:24:32.170Z,"14 km E of Ocotillo Wells, CA",earthquake,0.24,0.79,0.201,25,automatic,ci,ci
 2023-08-10T09:58:46.000Z,38.7948341,-122.8115005,3.47,0.72,md,8,99,0.009254,0.01,nc,nc73922466,2023-08-10T11:14:13.958Z,"5 km WNW of The Geysers, CA",earthquake,0.57,1.57,0.08,9,automatic,nc,nc
-2023-08-10T09:56:46.500Z,44.5185,-115.218666666667,5.48,2.66,ml,44,94,0.6392,0.27,mb,mb90024168,2023-08-10T17:10:26.870Z,"40 km NW of Stanley, Idaho",earthquake,0.41,0.82,0.184719462293854,38,reviewed,mb,mb
+2023-08-10T09:56:46.500Z,44.5185,-115.218666666667,5.48,2.66,ml,44,94,0.6392,0.27,mb,mb90024168,2023-08-10T17:10:26.870Z,"southern Idaho",earthquake,0.41,0.82,0.184719462293854,38,reviewed,mb,mb
 2023-08-10T09:50:51.859Z,35.44433333,-98.05566667,6.8,1.38,ml,34,68,0.02969417299,0.34,ok,ok2023ponr,2023-08-10T18:01:37.145Z,"11 km WNW of Union City, Oklahoma",earthquake,,0.7,0.07,3,reviewed,ok,ok
 2023-08-10T09:40:25.060Z,60.5298,-141.235,28.1,1.2,ml,,,,0.59,ak,ak023a7awkne,2023-08-10T09:41:50.949Z,"135 km SE of McCarthy, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-08-10T09:39:10.529Z,35.46533333,-98.03083333,5.62,1.73,ml,37,62,0.0413918775,0.3,ok,ok2023ponh,2023-08-10T18:14:49.956Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.9,0.26,6,reviewed,ok,ok
@@ -139,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T01:29:27.277Z,4.2738,126.0738,137.466,4.5,mb,40,93,2.821,0.49,us,us6000kyzh,2023-08-10T01:49:09.040Z,"142 km SSE of Sarangani, Philippines",earthquake,9.35,7.659,0.098,30,reviewed,us,us
 2023-08-10T01:27:28.101Z,65.0538,-148.972,5.9,1.1,ml,,,,0.57,ak,ak023a762bqi,2023-08-10T01:29:17.023Z,"20 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-10T01:23:12.510Z,39.1860008,-120.4633331,-1.22,1.91,md,7,165,0.1619,0.07,nc,nc73922371,2023-08-10T16:03:50.284Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.51,8.03,0.36,5,automatic,nc,nc
-2023-08-10T01:19:26.160Z,44.7591667,-111.0276667,3.71,0.67,md,9,132,0.01532,0.1,uu,uu60547297,2023-08-10T16:12:50.890Z,"12 km NNE of West Yellowstone, Montana",earthquake,0.32,0.63,0.184,7,reviewed,uu,uu
+2023-08-10T01:19:26.160Z,44.7591667,-111.0276667,3.71,0.67,md,9,132,0.01532,0.1,uu,uu60547297,2023-08-10T16:12:50.890Z,"Yellowstone National Park, Wyoming",earthquake,0.32,0.63,0.184,7,reviewed,uu,uu
 2023-08-10T01:06:30.719Z,58.2858,-155.2435,21.8,0.5,ml,,,,0.91,ak,ak023a75xtwf,2023-08-10T01:09:24.821Z,"92 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-10T01:06:22.490Z,37.5275002,-118.8258362,9.1,1.51,md,20,176,0.06247,0.03,nc,nc73922366,2023-08-10T04:25:12.508Z,"13 km WSW of Toms Place, CA",earthquake,0.78,0.74,0.1,17,automatic,nc,nc
 2023-08-10T01:01:48.256Z,59.7292,-152.842,81.7,1.2,ml,,,,0.42,ak,ak023a75wso9,2023-08-10T01:09:06.302Z,"57 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T18:30:56.130Z,53.855,-166.802166666667,6.04,-0.65,ml,5,126,,0.07,av,av91112728,2023-08-10T01:53:01.040Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.35,0.92,0.223558255282257,5,reviewed,av,av
 2023-08-09T18:30:32.420Z,53.8556666666667,-166.803,5.37,-0.07,ml,5,128,,0.07,av,av91996401,2023-08-10T01:50:44.080Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.35,0.98,0.333546038530692,5,reviewed,av,av
 2023-08-09T18:26:29.241Z,58.1698,-155.3865,0.1,0.1,ml,,,,0.27,ak,ak023a5sn4wc,2023-08-10T02:29:32.870Z,"86 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-09T18:23:55.120Z,52.0876666666667,-176.1005,11.36,0.51,ml,5,162,,0.29,av,av91996386,2023-08-10T01:59:59.660Z,"43 km ENE of Adak, Alaska",earthquake,1.87,2.02,0.1915752430734,5,reviewed,av,av
