@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-10T21:25:10.870Z,38.8235016,-122.7584991,0.29,1.35,md,22,117,0.01131,0.05,nc,nc73922661,2023-08-10T21:49:13.587Z,"3 km W of Cobb, CA",earthquake,0.23,0.46,0.14,22,automatic,nc,nc
-2023-08-10T21:24:04.758Z,17.8445,-66.9477,22.539,3.3,ml,17,193,0.154,0.75,us,us6000kz52,2023-08-10T21:49:13.309Z,"14 km SSW of Guánica, Puerto Rico",earthquake,3.48,4.522,0.069,28,reviewed,us,us
+2023-08-10T21:24:06.750Z,17.9271,-66.9471,11,3.39,md,21,219,0.0832,0.1,pr,pr2023222002,2023-08-10T21:50:10.408Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.75,0.41,0.19,17,reviewed,pr,pr
 2023-08-10T21:21:05.160Z,41.6116667,-112.2025,3.72,1.24,md,13,52,0.03892,0.21,uu,uu60033604,2023-08-10T21:44:28.780Z,"6 km W of Bear River City, Utah",earthquake,0.47,1.62,0.434,3,reviewed,uu,uu
 2023-08-10T21:20:41.080Z,41.6061667,-112.1976667,4.68,1.23,md,13,51,0.03979,0.14,uu,uu60547367,2023-08-10T21:45:01.970Z,"5 km W of Bear River City, Utah",earthquake,0.39,1.56,0.166,6,reviewed,uu,uu
 2023-08-10T21:10:37.164Z,58.2039,-155.5527,34.8,0.8,ml,,,,0.78,ak,ak023a7hvdd0,2023-08-10T21:12:26.668Z,"84 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:52:28.330Z,19.4333324432373,-155.352005004883,3.63000011444092,1.73000002,md,10,122,,0.370000005,hv,hv73518847,2023-08-10T19:55:36.350Z,"12 km W of Volcano, Hawaii",earthquake,1.23,9.68999958,0.980000019,6,automatic,hv,hv
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-10T21:42:53.085Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T14:23:28.040Z,33.662,-116.7125,12.87,0.49,ml,23,92,0.05197,0.19,ci,ci40533224,2023-08-10T14:27:06.099Z,"9 km S of Idyllwild, CA",earthquake,0.37,0.58,0.054,11,automatic,ci,ci
 2023-08-10T14:23:22.040Z,37.5613333,-118.817,4.56,0.64,md,11,298,0.03022,0.02,nc,nc73922516,2023-08-10T21:19:15.430Z,"12 km W of Toms Place, CA",earthquake,2.2,1.63,0.074,10,reviewed,nc,nc
 2023-08-10T14:18:47.660Z,60.1522,-152.8303,113.6,1.2,ml,,,,0.51,ak,ak023a7dr2ny,2023-08-10T14:21:00.672Z,"65 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-10T14:16:13.540Z,33.6543333,-116.724,8.46,0.66,ml,15,111,0.06046,0.28,ci,ci40533208,2023-08-10T14:19:45.135Z,"10 km S of Idyllwild, CA",earthquake,0.73,1.45,0.115,15,automatic,ci,ci
+2023-08-10T14:16:13.540Z,33.6543333,-116.724,8.46,0.66,ml,15,111,0.06046,0.28,ci,ci40533208,2023-08-10T21:50:57.927Z,"10 km S of Idyllwild, CA",earthquake,0.73,1.45,0.115,15,automatic,ci,ci
 2023-08-10T13:44:09.386Z,62.5102,-148.3598,45.9,1.1,ml,,,,0.69,ak,ak023a7db4q2,2023-08-10T13:46:16.232Z,"79 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-10T13:30:31.820Z,35.47183333,-98.038,6.33,2.15,ml,97,66,0.04859046489,0.32,ok,ok2023poux,2023-08-10T14:19:34.203Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.5,0.19,20,reviewed,ok,ok
 2023-08-10T13:20:36.410Z,38.7654991,-122.7405014,1.89,0.7,md,7,130,0.01283,0.03,nc,nc73922506,2023-08-10T14:39:16.138Z,"2 km SE of The Geysers, CA",earthquake,1.18,1.45,0.11,8,automatic,nc,nc
