@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T00:35:38.150Z,44.8426666666667,-111.483666666667,8.89,0.81,ml,6,156,0.214,0.16,mb,mb90024313,2023-08-11T14:09:15.140Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,1.29,5.52,0.127508410260379,4,reviewed,mb,mb
 2023-08-11T00:34:13.840Z,41.2696,142.7288,40.411,4.5,mb,52,140,0.811,0.41,us,us6000kz67,2023-08-11T01:39:22.040Z,"Hokkaido, Japan region",earthquake,7.24,6.044,0.086,40,reviewed,us,us
 2023-08-11T00:33:48.170Z,35.3178333,-118.5688333,4.86,1.44,ml,28,43,0.1239,0.18,ci,ci40533856,2023-08-11T14:38:52.388Z,"23 km NNW of Tehachapi, CA",earthquake,0.24,0.9,0.165,21,reviewed,ci,ci
-2023-08-11T00:31:15.440Z,33.7865,-116.9433333,12.61,0.93,ml,30,61,0.092,0.22,ci,ci40533848,2023-08-11T00:34:54.896Z,"1 km ENE of San Jacinto, CA",earthquake,0.31,0.71,0.181,25,automatic,ci,ci
+2023-08-11T00:31:15.310Z,33.7855,-116.9358333,13.77,0.95,ml,39,60,0.09462,0.15,ci,ci40533848,2023-08-11T15:36:24.591Z,"2 km E of San Jacinto, CA",earthquake,0.18,0.42,0.184,22,reviewed,ci,ci
 2023-08-11T00:27:20.315Z,59.3956,-153.7154,105.8,1.9,ml,,,,0.35,ak,ak023a8t080v,2023-08-11T00:41:11.040Z,"47 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-11T00:21:16.332Z,58.244,-155.1038,34.3,0.3,ml,,,,0.23,ak,ak023a8syxf5,2023-08-11T00:23:19.874Z,"84 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-11T00:17:55.895Z,54.5957,-162.1434,12.9,1.7,ml,,,,0.31,ak,ak023a8sy325,2023-08-11T01:24:37.100Z,"52 km SSE of King Cove, Alaska",earthquake,,0.9,,,reviewed,ak,ak
@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:47:53.880Z,46.203,-122.18816666666666,5.44,0.05,ml,12,91,0.003358,0.17,uw,uw61949026,2023-08-11T00:17:51.600Z,"38 km NNE of Amboy, Washington",earthquake,0.52,0.85,0.10241233328329387,6,reviewed,uw,uw
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-11T12:58:10.389Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -237,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T15:43:10.140Z,58.252,-155.116333333333,31.89,0,ml,12,97,,0.09,av,av91112943,2023-08-11T00:38:11.070Z,"Alaska Peninsula",earthquake,0.53,0.6,0.201082972476503,11,reviewed,av,av
 2023-08-10T15:42:08.703Z,65.813,-147.852,7.1,1,ml,,,,0.69,ak,ak023a7ehkg6,2023-08-10T15:43:53.201Z,"45 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-10T15:41:35.510Z,58.2491666666667,-155.114333333333,30.8,-0.38,ml,10,109,,0.17,av,av91112938,2023-08-11T00:28:12.310Z,"85 km NNW of Karluk, Alaska",earthquake,0.89,1.18,0.257279427736937,9,reviewed,av,av
-2023-08-10T15:33:15.980Z,58.2675,-155.1455,33.86,0.31,ml,12,89,,0.16,av,av91112933,2023-08-11T00:20:38.580Z,"87 km NNW of Karluk, Alaska",earthquake,0.7,0.8,0.36404964276708,11,reviewed,av,av
-2023-08-10T15:32:45.590Z,19.9624996185303,-155.613327026367,18.7000007629395,2.72000003,md,28,164,,0.209999993,hv,hv73518522,2023-08-10T16:41:48.896Z,"9 km SE of Waimea, Hawaii",earthquake,0.79,2.03999996,2.79999995,4,automatic,hv,hv
