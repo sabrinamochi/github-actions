@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-13T23:36:28.000Z,19.468,-155.285,28,4.4,Ml,56,,,,pt,pt23225050,2023-08-13T23:40:52.792Z,"Island of Hawaii, Hawaii",earthquake,,,,32,reviewed,pt,pt
+2023-08-13T23:36:28.080Z,19.4756660461426,-155.28450012207,24.5499992370605,3.79,ml,45,75,,0.189999998,hv,hv73524062,2023-08-13T23:50:34.709Z,"Hawaii region, Hawaii",earthquake,0.38,0.610000014,4.12,39,automatic,hv,hv
 2023-08-13T23:13:30.290Z,34.6288333,-118.6938333,1.67,1.49,ml,28,68,0.02834,0.29,ci,ci40536152,2023-08-13T23:24:14.380Z,"17 km NNW of Castaic, CA",earthquake,0.35,0.53,0.187,28,automatic,ci,ci
 2023-08-13T23:01:22.140Z,35.8291667,-119.259,19.14,2.16,ml,15,89,0.1421,0.27,ci,ci40536144,2023-08-13T23:12:07.890Z,"7 km N of Delano, CA",earthquake,0.73,1.29,0.181,22,automatic,ci,ci
 2023-08-13T22:49:32.190Z,33.715,-116.7703333,12.06,0.53,ml,13,108,0.1066,0.29,ci,ci40536128,2023-08-13T22:53:04.514Z,"6 km WSW of Idyllwild, CA",earthquake,0.96,1.86,0.063,12,automatic,ci,ci
-2023-08-13T22:47:41.890Z,19.378833770752,-155.278167724609,1.61000001430511,2.59,ml,31,82,,0.230000004,hv,hv73523932,2023-08-13T23:39:53.211Z,"8 km SSW of Volcano, Hawaii",earthquake,0.37,0.330000013,0.34,18,automatic,hv,hv
+2023-08-13T22:47:41.890Z,19.378833770752,-155.278167724609,1.61000001430511,2.59,ml,31,82,,0.230000004,hv,hv73523932,2023-08-13T23:50:24.296Z,"8 km SSW of Volcano, Hawaii",earthquake,0.37,0.330000013,0.34,18,automatic,hv,hv
 2023-08-13T22:30:12.200Z,38.824501,-122.8123322,1.48,0.92,md,19,43,0.002081,0.01,nc,nc73923816,2023-08-13T23:04:13.906Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.47,0.21,19,automatic,nc,nc
 2023-08-13T22:28:58.832Z,61.8355,-150.7069,45.1,1.6,ml,,,,0.3,ak,ak023ach6r0b,2023-08-13T22:30:30.524Z,"34 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-13T22:24:49.500Z,19.4039993286133,-155.275665283203,1.29999995231628,1.82,ml,16,45,,0.280000001,hv,hv73523857,2023-08-13T22:30:19.930Z,"6 km SW of Volcano, Hawaii",earthquake,0.37,0.400000006,0.19,5,automatic,hv,hv
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T14:37:56.800Z,58.1678333333333,-155.386833333333,2.12,-0.39,ml,6,140,,0.06,av,av91999976,2023-08-13T20:23:59.040Z,"86 km NW of Karluk, Alaska",earthquake,0.29,0.96,0.134965516133366,6,reviewed,av,av
 2023-08-13T14:21:43.643Z,60.2156,-150.5822,40.3,1.9,ml,,,,0.41,ak,ak023accdqzg,2023-08-13T14:23:31.562Z,"33 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-13T14:18:39.720Z,33.329,-116.3471667,10.51,0.84,ml,27,122,0.08434,0.22,ci,ci40535856,2023-08-13T14:22:19.222Z,"8 km NNE of Borrego Springs, CA",earthquake,0.4,0.75,0.167,17,automatic,ci,ci
-2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
+2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
 2023-08-13T14:11:27.920Z,53.8538333333333,-166.801166666667,4.32,-0.42,ml,6,89,,0.12,av,av91999926,2023-08-13T20:17:20.210Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.63,2.24,0.268345997517758,6,reviewed,av,av
 2023-08-13T14:06:50.440Z,19.3705005645752,-155.081329345703,3.42000007629395,1.81,ml,42,128,,0.340000004,hv,hv73523142,2023-08-13T14:12:19.210Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.72,0.800000012,3.74,6,automatic,hv,hv
 2023-08-13T14:01:12.520Z,59.6361,-153.9847,19.5,1.9,ml,,,,0.32,ak,ak023acc9e9g,2023-08-13T14:02:33.765Z,"18 km SSE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -216,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T23:56:04.670Z,33.3143333,-116.387,8.23,0.66,ml,21,83,0.05249,0.19,ci,ci40535592,2023-08-13T20:08:13.257Z,"7 km N of Borrego Springs, CA",earthquake,0.33,0.75,0.132,11,reviewed,ci,ci
 2023-08-12T23:55:31.240Z,38.8313332,-122.8181686,1.48,0.89,md,17,64,0.01014,0.01,nc,nc73923461,2023-08-13T00:29:18.876Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.45,0.19,16,automatic,nc,nc
 2023-08-12T23:52:59.895Z,-17.2425,-68.8545,183.826,4.8,mb,53,74,0.69,0.8,us,us6000kzm9,2023-08-13T00:14:11.040Z,"77 km SSE of Desaguadero, Peru",earthquake,7.9,5.864,0.028,389,reviewed,us,us
-2023-08-12T23:46:23.186Z,63.0633,-148.1142,66.7,1.8,ml,,,,0.61,ak,ak023aaucm9a,2023-08-12T23:48:23.961Z,"55 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-12T23:44:07.615Z,62.566,-149.9619,18.5,1.6,ml,,,,0.68,ak,ak023aauc5mg,2023-08-12T23:46:58.761Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-12T23:43:24.298Z,-30.0388,-176.3347,10,4.9,mb,33,77,1.583,0.88,us,us6000kzm7,2023-08-13T00:05:42.040Z,"Kermadec Islands region",earthquake,7.71,1.769,0.101,31,reviewed,us,us
