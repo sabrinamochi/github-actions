@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-14T16:01:56.300Z,33.5741667,-116.8171667,14.18,0.57,ml,15,113,0.04839,0.26,ci,ci40536520,2023-08-14T16:05:32.469Z,"14 km W of Anza, CA",earthquake,0.86,1.06,0.194,7,automatic,ci,ci
 2023-08-14T15:47:36.609Z,63.2037,-150.5916,114.3,1.7,ml,,,,0.46,ak,ak023ae0o35o,2023-08-14T15:49:33.733Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-14T15:33:57.670Z,33.255,-116.288,8.85,0.65,ml,18,98,0.06837,0.2,ci,ci40536496,2023-08-14T15:37:39.075Z,"8 km E of Borrego Springs, CA",earthquake,0.44,0.95,0.078,10,automatic,ci,ci
 2023-08-14T15:29:21.213Z,58.0986,-155.2963,56.5,0.8,ml,,,,0.77,ak,ak023ae0k72x,2023-08-14T15:31:38.528Z,"77 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-14T15:15:34.670Z,33.1443333,-116.3853333,7.35,1.04,ml,29,59,0.1203,0.28,ci,ci40536480,2023-08-14T15:19:07.622Z,"12 km S of Borrego Springs, CA",earthquake,0.37,1.04,0.168,23,automatic,ci,ci
 2023-08-14T14:54:03.074Z,61.5096,-141.4941,0,1.7,ml,,,,0.43,ak,ak023ae042z7,2023-08-14T14:56:25.457Z,"76 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-14T14:49:48.477Z,24.9261,92.2276,35.062,5.3,mww,142,21,4.858,0.64,us,us6000kzvl,2023-08-14T16:01:35.675Z,"14 km WNW of Karīmganj, India",earthquake,4.92,4.333,0.08,15,reviewed,us,us
+2023-08-14T14:49:48.477Z,24.9261,92.2276,35.062,5.3,mww,142,21,4.858,0.64,us,us6000kzvl,2023-08-14T16:11:59.464Z,"14 km WNW of Karīmganj, India",earthquake,4.92,4.333,0.08,15,reviewed,us,us
 2023-08-14T14:48:52.416Z,61.2934,-152.4969,3.1,2.2,ml,,,,0.89,ak,ak023ae02vp0,2023-08-14T14:50:56.655Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T14:42:16.631Z,58.195,-155.2507,1.3,0.1,ml,,,,0.19,ak,ak023ae01jfj,2023-08-14T14:44:11.730Z,"84 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-08-14T14:22:20.900Z,38.8186684,-122.8228302,2.2,1.07,md,23,61,0.01051,0.02,nc,nc73924051,2023-08-14T15:42:14.617Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.17,25,automatic,nc,nc
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T07:09:15.270Z,19.4015,-155.276,0.96,0.57,md,18,46,,0.08,hv,hv73524632,2023-08-14T09:37:47.340Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.22,0.0660326891024144,4,reviewed,hv,hv
 2023-08-14T07:05:39.120Z,19.4031666666667,-155.2785,0.65,0.67,md,18,37,,0.11,hv,hv73524627,2023-08-14T09:32:35.860Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.21,0.0390353983014467,2,reviewed,hv,hv
 2023-08-14T06:59:05.310Z,19.4008333333333,-155.278,0.87,0.86,md,13,51,,0.06,hv,hv73524612,2023-08-14T07:16:00.960Z,"Island of Hawaii, Hawaii",earthquake,0.14,0.3,0.289990569058825,2,reviewed,hv,hv
-2023-08-14T06:56:37.180Z,19.3988333333333,-155.270333333333,1.76,0.54,md,15,54,,0.16,hv,hv73524607,2023-08-14T08:24:18.820Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.38,0.167775951278295,3,reviewed,hv,hv
+2023-08-14T06:56:37.180Z,19.3988333333333,-155.270333333333,1.76,0.54,md,15,54,,0.16,hv,hv73524607,2023-08-14T08:24:18.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.38,0.167775951278295,3,reviewed,hv,hv
 2023-08-14T06:53:07.763Z,61.3327,-152.5346,14.6,1,ml,,,,0.48,ak,ak023advces8,2023-08-14T06:54:36.988Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T06:49:11.980Z,38.7755013,-122.7148361,2.24,0.91,md,7,94,0.01419,0.02,nc,nc73923921,2023-08-14T07:48:11.866Z,"2 km W of Anderson Springs, CA",earthquake,1.43,2.32,0.21,7,automatic,nc,nc
 2023-08-14T06:48:41.450Z,19.3983333333333,-155.272166666667,0.84,0.56,md,19,39,,0.11,hv,hv73524592,2023-08-14T07:02:22.660Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.2,0.0459519779355473,3,reviewed,hv,hv
@@ -201,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T16:58:31.790Z,17.9478333333333,-67.0901666666667,12.3,2.48,md,11,239,0.04872,0.17,pr,pr71421428,2023-08-13T17:10:19.440Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.72,0.46,0.053127117040094,4,reviewed,pr,pr
 2023-08-13T16:22:50.130Z,33.9755,-116.72,17.68,0.71,ml,21,62,0.0868,0.22,ci,ci40535960,2023-08-13T16:26:33.932Z,"9 km NE of Cabazon, CA",earthquake,0.46,1,0.134,17,automatic,ci,ci
 2023-08-13T16:14:34.380Z,38.8178329,-122.8233337,2.16,1.03,md,24,60,0.01005,0.02,nc,nc73923686,2023-08-13T16:46:11.625Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.37,0.25,26,automatic,nc,nc
-2023-08-13T16:10:09.520Z,34.146,-117.4246667,6.1,2.01,ml,85,19,0.04654,0.22,ci,ci40535944,2023-08-13T16:21:06.690Z,"6 km NNE of Fontana, CA",earthquake,0.2,0.61,0.129,25,automatic,ci,ci
-2023-08-13T16:04:49.080Z,33.3516667,-116.343,11.12,0.75,ml,21,95,0.1039,0.25,ci,ci40535936,2023-08-13T16:08:23.731Z,"11 km NNE of Borrego Springs, CA",earthquake,0.52,0.88,0.141,13,automatic,ci,ci
