@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T00:08:40.650Z,34.0451667,-118.9051667,5.56,1.56,ml,23,101,0.05903,0.32,ci,ci40536176,2023-08-14T00:12:24.427Z,"10 km WNW of Malibu, CA",earthquake,0.59,0.97,0.186,27,automatic,ci,ci
 2023-08-13T23:50:30.690Z,32.9431667,-115.5238333,9,1.57,ml,15,93,0.1067,0.28,ci,ci40536160,2023-08-13T23:54:14.925Z,"4 km S of Brawley, CA",earthquake,0.62,2.82,0.236,26,automatic,ci,ci
 2023-08-13T23:47:32.230Z,19.3425006866455,-155.332336425781,25.3799991607666,1.93,ml,36,62,,0.150000006,hv,hv73524082,2023-08-14T03:48:53.312Z,"15 km SW of Volcano, Hawaii",earthquake,0.46,0.579999983,0.21,9,automatic,hv,hv
-2023-08-13T23:36:28.120Z,19.4731666666667,-155.284333333333,25.01,4.3,ml,60,38,,0.12,hv,hv73524062,2023-08-14T05:05:54.047Z,"6 km WNW of Volcano, Hawaii",earthquake,0.31,0.47,0.242128187671351,38,reviewed,hv,hv
+2023-08-13T23:36:28.120Z,19.4731666666667,-155.284333333333,25.01,4.3,ml,60,38,,0.12,hv,hv73524062,2023-08-14T05:21:47.889Z,"6 km WNW of Volcano, Hawaii",earthquake,0.31,0.47,0.242128187671351,38,reviewed,hv,hv
 2023-08-13T23:13:30.290Z,34.6288333,-118.6938333,1.67,1.49,ml,28,68,0.02834,0.29,ci,ci40536152,2023-08-13T23:24:14.380Z,"17 km NNW of Castaic, CA",earthquake,0.35,0.53,0.187,28,automatic,ci,ci
 2023-08-13T23:04:59.870Z,53.8486666666667,-166.795166666667,5.24,0.88,ml,7,86,,0.11,av,av92000426,2023-08-14T02:18:28.560Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.31,1.11,0.255312111665008,7,reviewed,av,av
 2023-08-13T23:01:22.140Z,35.8291667,-119.259,19.14,2.16,ml,15,89,0.1421,0.27,ci,ci40536144,2023-08-13T23:12:07.890Z,"7 km N of Delano, CA",earthquake,0.73,1.29,0.181,22,automatic,ci,ci
@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T13:54:43.719Z,37.132,-116.2376,4.4,0,ml,8,148.03,0.108,0.1319,nn,nn00864393,2023-08-13T13:56:32.878Z,"52 km ENE of Beatty, Nevada",earthquake,,12.4,0.78,5,automatic,nn,nn
 2023-08-13T13:52:05.710Z,53.851,-166.79,-0.83,-0.54,ml,4,138,,0.12,av,av91999906,2023-08-13T20:14:28.750Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.5,10.75,0.19233892564623,5,reviewed,av,av
 2023-08-13T13:47:19.961Z,58.1742,-155.3824,1.1,0.5,ml,,,,0.17,ak,ak023acbxu64,2023-08-13T20:11:30.410Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-08-13T13:39:56.760Z,53.8546666666667,-166.801,5.44,-0.46,ml,5,126,,0.07,av,av91113183,2023-08-13T20:09:04.220Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.37,1.01,0.179668924466823,5,reviewed,av,av
+2023-08-13T13:39:56.760Z,53.8546666666667,-166.801,5.44,-0.46,ml,5,126,,0.07,av,av91113183,2023-08-13T20:09:04.220Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.37,1.01,0.179668924466823,5,reviewed,av,av
 2023-08-13T13:39:30.880Z,53.854,-166.801166666667,4.71,-0.31,ml,6,125,,0.09,av,av91999891,2023-08-13T20:06:57.350Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.9,0.288322870397285,6,reviewed,av,av
 2023-08-13T13:37:06.134Z,-57.984,-25.6997,51.871,4.8,mb,23,69,16.64,0.84,us,us6000kzpw,2023-08-13T14:58:36.040Z,"South Sandwich Islands region",earthquake,11.07,8.065,0.124,20,reviewed,us,us
 2023-08-13T13:33:59.659Z,36.8521,-116.1993,4,-0.3,ml,11,134.32,0.066,0.1138,nn,nn00864408,2023-08-14T02:04:03.802Z,"50 km E of Beatty, Nevada",earthquake,,3,0.42,5,reviewed,nn,nn
@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T11:26:41.186Z,38.7829,-119.6548,7.2,0.3,ml,8,146.03,0.106,0.1256,nn,nn00864407,2023-08-14T02:04:01.967Z,"8 km S of Carter Springs, Nevada",earthquake,,4.3,0,1,reviewed,nn,nn
 2023-08-13T11:19:00.490Z,35.7551667,-117.5741667,1.12,1.84,ml,22,157,0.1519,0.16,ci,ci40535816,2023-08-13T11:22:36.423Z,"15 km W of Searles Valley, CA",earthquake,0.39,0.56,0.127,22,automatic,ci,ci
 2023-08-13T11:04:37.453Z,36.7006,-116.1036,2.5,-0.5,ml,8,113.62,0.006,0.0755,nn,nn00864406,2023-08-14T02:04:00.233Z,"41 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.15,4,reviewed,nn,nn
-2023-08-13T10:48:01.921Z,51.7879,176.1832,19.3,2.9,ml,,,,0.89,ak,ak023aca5r6i,2023-08-13T20:18:17.579Z,"235 km ESE of Attu Station, Alaska",earthquake,,5.8,,,reviewed,ak,ak
+2023-08-13T10:48:04.348Z,51.5858,176.5077,35,3.2,ml,18,212,1.297,0.44,us,us6000kzr6,2023-08-14T05:19:02.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.85,2.014,0.074,24,reviewed,us,us
 2023-08-13T10:34:57.970Z,58.1815,-155.298333333333,2.22,1.22,ml,12,59,,0.08,av,av91999716,2023-08-13T13:06:07.430Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.5,0.336552194064496,13,reviewed,av,av
 2023-08-13T10:30:42.937Z,35.51791763,-98.02841949,1.797125697,1.78,ml,13,69.38877201,0.09341225028,0.7656996188,ok,ok2023pubm,2023-08-13T10:33:54.447Z,"6 km WSW of El Reno, Oklahoma",earthquake,4.101106332,3.128135798,0.43,11,automatic,ok,ok
 2023-08-13T10:14:21.450Z,58.1918333333333,-155.3085,1.41,0.38,ml,6,148,,0.04,av,av91999711,2023-08-13T13:01:07.530Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.63,0.272186523109453,6,reviewed,av,av
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T05:46:42.423Z,31.6564,-104.3916,5,2.5,ml,18,115,0.094,0.12,us,us6000kznb,2023-08-13T07:10:21.040Z,"western Texas",earthquake,1.87,1.696,0.077,27,reviewed,us,us
 2023-08-13T05:36:37.560Z,33.1756667,-116.4243333,11.02,1.39,ml,49,31,0.09248,0.22,ci,ci40535736,2023-08-13T05:47:29.230Z,"10 km SSW of Borrego Springs, CA",earthquake,0.25,0.52,0.19,26,automatic,ci,ci
 2023-08-13T05:28:28.056Z,60.7364,-151.0911,50.2,3,ml,,,,0.71,ak,ak023ac72bah,2023-08-13T19:54:22.190Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-08-13T05:20:45.073Z,21.5903,143.0003,325.92,4.3,mb,66,101,6.847,0.54,us,us6000kzn9,2023-08-13T06:26:06.040Z,"Mariana Islands region",earthquake,12.03,7.603,0.054,97,reviewed,us,us
-2023-08-13T05:16:51.140Z,34.3996667,-120.0003333,0.9,1.62,ml,18,205,0.1291,0.22,ci,ci40535720,2023-08-13T05:20:24.296Z,"13 km W of Isla Vista, CA",earthquake,0.72,0.56,0.136,17,automatic,ci,ci
