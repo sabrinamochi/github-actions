@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T15:33:57.670Z,33.255,-116.288,8.85,0.65,ml,18,98,0.06837,0.2,ci,ci40536496,2023-08-14T15:37:39.075Z,"8 km E of Borrego Springs, CA",earthquake,0.44,0.95,0.078,10,automatic,ci,ci
 2023-08-14T15:15:34.670Z,33.1443333,-116.3853333,7.35,1.04,ml,29,59,0.1203,0.28,ci,ci40536480,2023-08-14T15:19:07.622Z,"12 km S of Borrego Springs, CA",earthquake,0.37,1.04,0.168,23,automatic,ci,ci
 2023-08-14T14:54:03.074Z,61.5096,-141.4941,0,1.7,ml,,,,0.43,ak,ak023ae042z7,2023-08-14T14:56:25.457Z,"76 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-14T14:49:48.477Z,24.9261,92.2276,35.062,5.3,mww,142,21,4.858,0.64,us,us6000kzvl,2023-08-14T17:52:36.362Z,"14 km WNW of Karīmganj, India",earthquake,4.92,4.333,0.08,15,reviewed,us,us
+2023-08-14T14:49:48.477Z,24.9261,92.2276,35.062,5.3,mww,142,21,4.858,0.64,us,us6000kzvl,2023-08-14T19:13:38.461Z,"14 km WNW of Karīmganj, India",earthquake,4.92,4.333,0.08,15,reviewed,us,us
 2023-08-14T14:48:52.416Z,61.2934,-152.4969,3.1,2.2,ml,,,,0.89,ak,ak023ae02vp0,2023-08-14T14:50:56.655Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T14:42:16.631Z,58.195,-155.2507,1.3,0.1,ml,,,,0.19,ak,ak023ae01jfj,2023-08-14T14:44:11.730Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-08-14T14:22:20.900Z,38.8186684,-122.8228302,2.2,1.07,md,23,61,0.01051,0.02,nc,nc73924051,2023-08-14T15:42:14.617Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.17,25,automatic,nc,nc
@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T22:12:21.833Z,35.50917053,-96.80200958,2.585897207,2.1,ml,38,69.90261555,0.1440995634,0.5461551175,ok,ok2023puyq,2023-08-13T22:16:57.526Z,"9 km E of Meeker, Oklahoma",earthquake,1.904237452,1.622155383,0.19,25,automatic,ok,ok
 2023-08-13T22:09:46.251Z,31.67676313,-104.407304,5.643115234,2.3,ml,19,56,0.01624299274,0.1,tx,tx2023puyp,2023-08-14T14:39:08.221Z,"55 km S of Whites City, New Mexico",earthquake,0.9038351369,0.7272996052000001,0.1,25,reviewed,tx,tx
 2023-08-13T22:08:48.600Z,36.550499,-121.126503,5.05,1.93,md,16,133,0.05193,0.11,nc,nc73923806,2023-08-14T00:23:17.333Z,"3 km NE of Pinnacles, CA",earthquake,0.49,1.6,0.11,15,automatic,nc,nc
+2023-08-13T22:08:42.905Z,31.68256571,-104.3984736,6.080151367,2,ml,39,68,0.02348867627,0.2,tx,tx2023puyo,2023-08-14T19:19:01.993Z,"54 km S of Whites City, New Mexico",earthquake,0.6597537179000001,0.5653786093,0,7,reviewed,tx,tx
 2023-08-13T22:08:15.230Z,58.181,-155.367666666667,2.63,0.88,ml,10,64,,0.11,av,av92000356,2023-08-14T02:04:48.020Z,"87 km NW of Karluk, Alaska",earthquake,0.34,0.39,0.163711926905092,10,reviewed,av,av
 2023-08-13T22:05:04.860Z,38.7966652,-122.7539978,2.11,0.72,md,9,92,0.005964,0.02,nc,nc73923791,2023-08-13T23:14:13.959Z,"2 km N of The Geysers, CA",earthquake,0.32,1.69,0.08,10,automatic,nc,nc
 2023-08-13T22:01:25.580Z,61.306,-152.5105,3.62,0.4,ml,8,161,,0.05,av,av92000336,2023-08-14T04:55:59.450Z,"78 km WNW of Tyonek, Alaska",earthquake,0.68,0.28,0.148883324515546,8,reviewed,av,av
@@ -196,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T19:24:43.080Z,33.6801667,-116.6875,17.33,0.46,ml,18,127,0.01603,0.11,ci,ci40536072,2023-08-14T19:07:28.595Z,"7 km SSE of Idyllwild, CA",earthquake,0.3,0.45,0.112,11,reviewed,ci,ci
 2023-08-13T19:23:57.950Z,33.674,-116.691,16.92,1.1,ml,42,30,0.04363,0.22,ci,ci40536064,2023-08-13T20:07:11.780Z,"8 km SSE of Idyllwild, CA",earthquake,0.27,0.51,0.193,26,reviewed,ci,ci
 2023-08-13T19:21:15.330Z,35.0025,-118.9196667,18.16,0.97,ml,22,128,0.08172,0.26,ci,ci40536056,2023-08-14T18:58:02.432Z,"7 km N of Grapevine, CA",earthquake,0.52,0.74,0.189,7,reviewed,ci,ci
-2023-08-13T19:15:43.290Z,35.8011667,-117.6183333,8.78,1.24,ml,21,76,0.1194,0.18,ci,ci40536048,2023-08-14T18:51:06.820Z,"20 km W of Searles Valley, CA",earthquake,0.29,1.07,0.123,8,reviewed,ci,ci
-2023-08-13T19:15:18.329Z,64.7268,-149.0552,12.8,1.4,ml,,,,0.47,ak,ak023acfbkrc,2023-08-13T19:17:02.276Z,"14 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
