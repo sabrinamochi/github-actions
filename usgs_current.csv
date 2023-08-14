@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-14T19:17:49.490Z,33.864666,-117.4974976,0.75,1.33,ml,29,61,0.06425,0.23,ci,ci40536744,2023-08-14T19:19:53.679Z,"3 km SE of Home Gardens, CA",earthquake,0.37,0.64,0.284,5,automatic,ci,ci
 2023-08-14T19:03:33.670Z,34.8251667,-118.7781667,3.21,1.35,ml,14,60,0.04827,0.26,ci,ci40536720,2023-08-14T19:07:05.077Z,"8 km ENE of Gorman, CA",earthquake,0.63,1.3,0.156,24,automatic,ci,ci
 2023-08-14T18:46:54.353Z,36.7646,-116.2521,9.9,-0.2,ml,8,119.17,0.047,0.0518,nn,nn00864435,2023-08-14T18:48:40.171Z,"47 km ESE of Beatty, Nevada",earthquake,,1.3,0.09,4,automatic,nn,nn
 2023-08-14T18:31:56.910Z,19.1728324890137,-155.49983215332,32.0200004577637,2.05,ml,38,138,,0.150000006,hv,hv73525442,2023-08-14T18:37:27.930Z,"4 km SW of Pāhala, Hawaii",earthquake,0.5,0.810000002,3.97,9,automatic,hv,hv
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-14T16:32:42.579Z,62.1053,-151.1839,76.4,1.5,ml,,,,0.5,ak,ak023ae16bhd,2023-08-14T16:34:37.464Z,"17 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-14T16:14:24.610Z,19.4083333333333,-155.285333333333,1.06,2.04,ml,19,48,,0.09,hv,hv73525272,2023-08-14T18:50:26.360Z,"6 km SW of Volcano, Hawaii",earthquake,0.13,0.13,0.146559931241178,15,reviewed,hv,hv
 2023-08-14T16:01:56.300Z,33.5741667,-116.8171667,14.18,0.57,ml,15,113,0.04839,0.26,ci,ci40536520,2023-08-14T16:05:32.469Z,"14 km W of Anza, CA",earthquake,0.86,1.06,0.194,7,automatic,ci,ci
-2023-08-14T15:55:10.597Z,7.3477,-75.5221,48.084,4.9,mb,158,83,1.149,0.8,us,us6000kzwn,2023-08-14T17:02:57.249Z,"15 km WNW of Valdivia, Colombia",earthquake,4.94,6.511,0.026,450,reviewed,us,us
+2023-08-14T15:55:10.597Z,7.3477,-75.5221,48.084,4.9,mb,158,83,1.149,0.8,us,us6000kzwn,2023-08-14T19:20:24.110Z,"15 km WNW of Valdivia, Colombia",earthquake,4.94,6.511,0.026,450,reviewed,us,us
 2023-08-14T15:47:36.609Z,63.2037,-150.5916,114.3,1.7,ml,,,,0.46,ak,ak023ae0o35o,2023-08-14T15:49:33.733Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-14T15:43:48.550Z,36.7163333333333,-89.507,9.79,1.7,md,26,49,0.02813,0.08,nm,nm60545001,2023-08-14T18:07:59.680Z,"8 km SE of Matthews, Missouri",earthquake,0.16,0.35,0.163479036963958,15,reviewed,nm,nm
 2023-08-14T15:33:57.670Z,33.255,-116.288,8.85,0.65,ml,18,98,0.06837,0.2,ci,ci40536496,2023-08-14T15:37:39.075Z,"8 km E of Borrego Springs, CA",earthquake,0.44,0.95,0.078,10,automatic,ci,ci
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T20:33:53.820Z,44.0561667,-110.3075,12.75,1.37,md,12,134,0.1703,0.12,uu,uu60547547,2023-08-14T13:17:06.380Z,"Wyoming",earthquake,0.53,2.39,0.392,6,reviewed,uu,uu
 2023-08-13T20:29:30.224Z,64.4792,-149.4265,15.2,2.4,ml,,,,0.53,ak,ak023acg01b2,2023-08-13T20:49:31.040Z,"18 km WSW of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-13T20:29:07.003Z,63.8649,-22.902,10,4.5,mb,30,112,1.121,0.87,us,us6000kzr9,2023-08-13T21:29:05.760Z,"Iceland region",earthquake,5.39,1.75,0.106,26,reviewed,us,us
-2023-08-13T20:04:33.800Z,33.4648333,-116.8928333,11.31,2.16,ml,80,28,0.08031,0.24,ci,ci40536080,2023-08-13T20:15:20.310Z,"4 km NW of Aguanga, CA",earthquake,0.21,0.69,0.2,26,automatic,ci,ci
+2023-08-13T20:04:33.700Z,33.466,-116.8926667,12.58,2.19,ml,72,27,0.02221,0.21,ci,ci40536080,2023-08-14T19:20:26.946Z,"4 km NW of Aguanga, CA",earthquake,0.18,0.46,0.188,25,reviewed,ci,ci
 2023-08-13T19:59:44.300Z,-60.5466,-19.43,10,4.8,mb,20,85,11.113,0.51,us,us6000kzr5,2023-08-13T21:37:15.040Z,"east of the South Sandwich Islands",earthquake,7.23,1.909,0.127,19,reviewed,us,us
 2023-08-13T19:46:02.150Z,61.587,-146.3141,30.3,1.7,ml,,,,0.43,ak,ak023acfi6pj,2023-08-13T19:47:40.219Z,"50 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-13T19:42:37.890Z,53.8505,-166.795,4.35,-0.16,ml,7,86,,0.11,av,av92000236,2023-08-14T09:09:08.100Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.3,1.07,0.247286801340028,7,reviewed,av,av
