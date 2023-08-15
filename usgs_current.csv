@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-15T16:07:53.970Z,38.8068352,-122.8596649,6.65,0.4,md,9,173,0.006999,0.06,nc,nc73924421,2023-08-15T16:09:29.542Z,"10 km WNW of The Geysers, CA",earthquake,0.88,0.75,0.27,10,automatic,nc,nc
-2023-08-15T16:06:49.420Z,36.40483333,-96.95416667,4.57,1.01,ml,50,49,0.02069593875,0.3,ok,ok2023pydp,2023-08-15T16:21:54.597Z,"Oklahoma",earthquake,,0.6,0.24,22,reviewed,ok,ok
+2023-08-15T16:07:53.970Z,38.8068352,-122.8596649,6.65,0.4,md,9,173,0.006999,0.06,nc,nc73924421,2023-08-15T16:24:12.563Z,"10 km WNW of The Geysers, CA",earthquake,0.88,0.75,0.27,10,automatic,nc,nc
+2023-08-15T16:06:49.420Z,36.40483333,-96.95416667,4.57,1.01,ml,50,49,0.02069593875,0.3,ok,ok2023pydp,2023-08-15T16:22:40.833Z,"Oklahoma",earthquake,,0.6,0.24,22,reviewed,ok,ok
 2023-08-15T16:06:23.380Z,34.3413333,-116.4528333,4.25,1.65,ml,38,51,0.07653,0.21,ci,ci40537376,2023-08-15T16:10:28.726Z,"25 km N of Yucca Valley, CA",earthquake,0.31,0.7,0.141,28,automatic,ci,ci
 2023-08-15T15:59:21.960Z,33.1398333,-116.0618333,11.52,0.83,ml,18,70,0.07812,0.2,ci,ci40537368,2023-08-15T16:02:52.682Z,"6 km E of Ocotillo Wells, CA",earthquake,0.4,0.79,0.047,5,automatic,ci,ci
 2023-08-15T15:36:41.080Z,33.7656667,-116.141,5.43,0.73,ml,18,175,0.0739,0.14,ci,ci40537352,2023-08-15T15:56:05.446Z,"8 km NE of Indio, CA",earthquake,0.44,1.16,0.094,7,reviewed,ci,ci
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T10:43:51.860Z,19.3945,-155.281666666667,1.05,0.61,md,15,60,,0.08,hv,hv73527037,2023-08-15T10:56:34.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.21,0.155167514603455,4,reviewed,hv,hv
 2023-08-15T10:43:45.424Z,59.8737,-153.9139,48.7,2.4,ml,,,,1.19,ak,ak023afl7ffy,2023-08-15T10:46:03.235Z,"Southern Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-08-15T10:43:25.530Z,19.3901666666667,-155.280833333333,1.13,0.28,md,13,70,,0.07,hv,hv73527032,2023-08-15T11:00:06.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.21,0.0377601201851256,2,reviewed,hv,hv
+2023-08-15T10:38:32.794Z,39.7601,-119.5908,5.5,-0.1,ml,3,151.56,0.166,0.0541,nn,nn00864478,2023-08-15T16:24:52.700Z,"15 km NE of Spanish Springs, Nevada",earthquake,,19.7,0.3,2,reviewed,nn,nn
 2023-08-15T10:37:07.530Z,19.3923333333333,-155.28,1.05,0.75,md,15,61,,0.07,hv,hv73527022,2023-08-15T11:04:13.110Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.22,0.297023005170497,4,reviewed,hv,hv
 2023-08-15T10:33:58.430Z,33.4725,-116.4281667,13.83,0.5,ml,25,119,0.05081,0.12,ci,ci40537136,2023-08-15T14:30:00.707Z,"24 km SSW of La Quinta, CA",earthquake,0.24,0.48,0.108,11,reviewed,ci,ci
 2023-08-15T10:18:44.880Z,38.7693329,-122.7333298,-0.85,0.97,md,12,131,0.01018,0.06,nc,nc73924336,2023-08-15T11:35:18.450Z,"2 km ESE of The Geysers, CA",earthquake,0.33,0.97,0.21,11,automatic,nc,nc
