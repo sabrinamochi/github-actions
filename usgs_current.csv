@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-15T15:17:36.411Z,59.8567,-152.9005,97.8,1.9,ml,,,,0.23,ak,ak023afo1046,2023-08-15T15:19:12.812Z,"60 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-15T15:16:26.100Z,19.388500213623,-155.272003173828,2.08999991416931,2.21000004,md,25,47,,0.170000002,hv,hv73527512,2023-08-15T15:19:38.010Z,"7 km SSW of Volcano, Hawaii",earthquake,0.29,0.239999995,0.239999995,17,automatic,hv,hv
+2023-08-15T15:16:26.100Z,19.388500213623,-155.272003173828,2.08999991416931,2.22,ml,25,47,,0.170000002,hv,hv73527512,2023-08-15T15:21:57.110Z,"7 km SSW of Volcano, Hawaii",earthquake,0.29,0.239999995,0.34,12,automatic,hv,hv
 2023-08-15T15:15:34.519Z,58.2342,-155.1109,1.1,0.6,ml,,,,0.12,ak,ak023afo0kkr,2023-08-15T15:17:23.327Z,"83 km NNW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-15T15:10:22.369Z,58.0639,-155.7942,96,1.3,ml,,,,0.97,ak,ak023afnzggw,2023-08-15T15:13:57.854Z,"86 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-15T14:53:11.140Z,19.3913326263428,-155.273330688477,1.35000002384186,2.55,ml,33,59,,0.189999998,hv,hv73527452,2023-08-15T14:58:41.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,2.13,21,automatic,hv,hv
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T12:54:10.436Z,54.3063,-153.6701,0,3.4,ml,,,,0.72,ak,ak023afmgl3r,2023-08-15T13:08:35.295Z,"295 km S of Akhiok, Alaska",earthquake,,766.3,,,automatic,ak,ak
 2023-08-15T12:41:05.510Z,38.8266678,-122.8444977,1.46,0.33,md,8,161,0.008202,0.01,nc,nc73924371,2023-08-15T14:19:12.386Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.86,0.21,9,automatic,nc,nc
 2023-08-15T12:37:20.585Z,62.9682,-149.5665,72.1,1.2,ml,,,,0.85,ak,ak023afmcyfu,2023-08-15T12:40:30.151Z,"56 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-15T12:35:05.540Z,33.7895,-116.0561667,5.14,1.02,ml,27,114,0.1379,0.17,ci,ci40537192,2023-08-15T12:38:35.855Z,"16 km NE of Coachella, CA",earthquake,0.28,2.13,0.167,22,automatic,ci,ci
+2023-08-15T12:35:05.440Z,33.7876667,-116.056,5.25,1.07,ml,43,51,0.1381,0.15,ci,ci40537192,2023-08-15T15:21:02.779Z,"16 km NE of Coachella, CA",earthquake,0.14,0.94,0.137,20,reviewed,ci,ci
 2023-08-15T12:28:38.333Z,58.1635,-155.3705,1.1,0.3,ml,,,,0.28,ak,ak023afmb2d5,2023-08-15T12:30:31.950Z,"85 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-08-15T12:27:16.188Z,58.1903,-155.3579,1.2,0.2,ml,,,,0.15,ak,ak023afmasxu,2023-08-15T12:29:03.241Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-15T12:17:34.441Z,61.6204,-145.6498,174.6,2.6,ml,,,,1.05,ak,ak023afm8p6s,2023-08-15T12:22:06.158Z,"25 km W of Tonsina, Alaska",earthquake,,3.7,,,automatic,ak,ak
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T10:04:07.430Z,19.4108333333333,-155.275333333333,0.86,0.52,md,17,47,,0.1,hv,hv73526942,2023-08-15T10:15:18.340Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.35,0.0736046414376351,4,reviewed,hv,hv
 2023-08-15T10:03:00.980Z,19.4123333333333,-155.275333333333,0.8,0.57,md,14,73,,0.08,hv,hv73526937,2023-08-15T10:19:20.230Z,"Island of Hawaii, Hawaii",earthquake,0.19,0.38,0.0382388510749473,3,reviewed,hv,hv
 2023-08-15T09:59:49.380Z,19.3853333333333,-155.281333333333,0.82,0.54,md,16,114,,0.06,hv,hv73526932,2023-08-15T10:11:11.980Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.19,0.0474279130835244,3,reviewed,hv,hv
-2023-08-15T09:56:56.609Z,35.78966667,-98.58366667,11.28,1.86,ml,84,146,0.1925622127,0.19,ok,ok2023pxrk,2023-08-15T12:09:26.049Z,"15 km ENE of Thomas, Oklahoma",earthquake,,1.4,0.18,39,reviewed,ok,ok
+2023-08-15T09:56:56.609Z,35.78966667,-98.58366667,11.28,1.86,ml,84,146,0.1925622127,0.19,ok,ok2023pxrk,2023-08-15T12:09:26.049Z,"Oklahoma",earthquake,,1.4,0.18,39,reviewed,ok,ok
 2023-08-15T09:53:30.350Z,40.2319984,-121.1553345,-0.68,2.96,ml,39,46,0.2395,0.37,nc,nc73924331,2023-08-15T15:12:07.625Z,"2 km NE of Almanor, CA",earthquake,0.53,7.29,0.268,15,automatic,nc,nc
 2023-08-15T09:52:26.200Z,19.3976666666667,-155.281666666667,1.13,0.56,md,15,56,,0.09,hv,hv73526917,2023-08-15T10:07:40.060Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.27,0.00453781681690102,2,reviewed,hv,hv
 2023-08-15T09:49:31.300Z,19.3968333333333,-155.278,1.4,0.56,md,15,48,,0.11,hv,hv73526912,2023-08-15T10:00:16.610Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.26,0.0151868918708981,3,reviewed,hv,hv
