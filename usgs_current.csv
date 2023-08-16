@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T13:24:47.290Z,33.6683333,-116.831,-0.12,1.1,ml,11,99,0.1239,0.26,ci,ci40538024,2023-08-16T13:28:28.592Z,"11 km SSE of Valle Vista, CA",earthquake,0.96,31.61,0.176,8,automatic,ci,ci
 2023-08-16T13:20:43.387Z,39.7553,-119.5959,6.4,1.2,ml,9,101.3,0.168,0.0683,nn,nn00864536,2023-08-16T13:23:17.676Z,"15 km NE of Spanish Springs, Nevada",earthquake,,1.3,0.19,6,automatic,nn,nn
 2023-08-16T13:04:19.230Z,37.0531654,-121.5031662,6.91,2.6,md,57,58,,0.12,nc,nc73924731,2023-08-16T14:36:49.036Z,"8 km NE of Gilroy, CA",earthquake,0.22,0.64,0.11,65,automatic,nc,nc
-2023-08-16T12:51:42.946Z,60.4693,-150.8419,55,3.7,ml,,,,0.72,ak,ak023ah9zcn5,2023-08-16T14:54:28.437Z,"5 km SW of Funny River, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-08-16T12:51:42.946Z,60.4693,-150.8419,55,3.7,ml,,,,0.72,ak,ak023ah9zcn5,2023-08-16T15:08:21.235Z,"5 km SW of Funny River, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-16T12:47:40.512Z,-13.8814,167.1582,192.955,6.5,mww,114,25,7.177,0.68,us,us7000knq0,2023-08-16T14:54:29.149Z,"42 km W of Sola, Vanuatu",earthquake,7.44,6.217,0.068,21,reviewed,us,us
 2023-08-16T12:32:13.886Z,62.5229,-149.4656,37.7,1.3,ml,,,,1.17,ak,ak023ah9v7u4,2023-08-16T12:34:21.298Z,"33 km ENE of Chase, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-08-16T12:22:20.905Z,61.2393,-151.3537,70.2,1,ml,,,,0.17,ak,ak023ah9t2f9,2023-08-16T13:31:47.232Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:05:02.660Z,19.4038333892822,-155.285003662109,0.610000014305115,1.84000003,md,18,46,,0.119999997,hv,hv73528997,2023-08-16T07:07:56.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.189999998,1.38,14,automatic,hv,hv
 2023-08-16T07:04:39.779Z,60.5513,-153.1136,141.4,1.4,ml,,,,0.66,ak,ak023ah6q3rd,2023-08-16T07:07:24.115Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-16T06:54:19.480Z,38.2439995,-122.3361664,6.25,1.51,md,22,77,0.03143,0.12,nc,nc73924636,2023-08-16T08:40:12.456Z,"7 km SW of Napa, CA",earthquake,0.34,0.68,0.21,14,automatic,nc,nc
-2023-08-16T06:52:59.870Z,34.4981667,-118.1298333,14.35,1.38,ml,25,70,0.0175,0.19,ci,ci40537880,2023-08-16T07:03:50.920Z,"1 km WSW of Vincent, CA",earthquake,0.3,0.46,0.289,31,automatic,ci,ci
+2023-08-16T06:52:59.790Z,34.4945,-118.1301667,14.62,1.16,ml,29,67,0.01483,0.13,ci,ci40537880,2023-08-16T15:09:47.520Z,"1 km WSW of Vincent, CA",earthquake,0.18,0.31,0.196,21,reviewed,ci,ci
 2023-08-16T06:45:24.760Z,38.243,-122.3389969,7.75,2.36,md,57,49,0.02942,0.1,nc,nc73924631,2023-08-16T14:02:39.527Z,"8 km SW of Napa, CA",earthquake,0.17,0.45,0.1,59,automatic,nc,nc
 2023-08-16T06:04:21.760Z,33.7683333,-116.142,4.84,1.99,ml,48,71,0.07205,0.15,ci,ci40537872,2023-08-16T12:48:55.010Z,"9 km NE of Indio, CA",earthquake,0.2,0.56,0.147,27,reviewed,ci,ci
 2023-08-16T06:02:09.490Z,44.7643333,-110.9591667,6.25,0.75,ml,11,133,0.03385,0.12,uu,uu60547732,2023-08-16T13:19:13.390Z,"16 km NE of West Yellowstone, Montana",earthquake,0.42,0.84,0.153,3,reviewed,uu,uu
@@ -96,10 +96,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T02:18:23.230Z,38.824501,-122.7946701,2.71,1.1,md,26,41,0.01208,0.02,nc,nc73924561,2023-08-16T04:15:13.680Z,"6 km W of Cobb, CA",earthquake,0.21,0.43,0.13,27,automatic,nc,nc
 2023-08-16T02:16:24.446Z,59.9251,-152.5866,69.2,1.6,ml,,,,0.72,ak,ak023ah3th58,2023-08-16T02:35:06.638Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-16T02:09:12.140Z,35.7053333,-117.5845,3.78,1.02,ml,13,113,0.1357,0.21,ci,ci40537832,2023-08-16T02:12:37.981Z,"12 km NE of Ridgecrest, CA",earthquake,0.49,1.23,0.134,8,automatic,ci,ci
-2023-08-16T02:04:09.780Z,33.7695,-116.1436667,5.72,1.15,ml,46,59,0.07032,0.15,ci,ci40537824,2023-08-16T15:01:27.166Z,"9 km NE of Indio, CA",earthquake,0.16,0.58,0.086,25,reviewed,ci,ci
+2023-08-16T02:04:09.780Z,33.7695,-116.1436667,5.72,1.15,ml,46,59,0.07032,0.15,ci,ci40537824,2023-08-16T15:02:41.700Z,"9 km NE of Indio, CA",earthquake,0.16,0.58,0.086,25,reviewed,ci,ci
 2023-08-16T01:50:36.130Z,33.7666667,-116.1421667,5.19,0.95,ml,30,104,0.0726,0.13,ci,ci40537808,2023-08-16T14:49:18.683Z,"8 km NE of Indio, CA",earthquake,0.24,0.56,0.068,12,reviewed,ci,ci
 2023-08-16T01:43:32.830Z,33.6995,-116.8115,16.17,0.99,ml,41,44,0.07564,0.16,ci,ci40537800,2023-08-16T14:14:34.633Z,"9 km SE of Valle Vista, CA",earthquake,0.19,0.38,0.235,23,reviewed,ci,ci
-2023-08-16T01:37:31.691Z,40.2719,53.115,44.813,5.2,mww,94,65,3.144,0.68,us,us7000knkw,2023-08-16T02:39:09.451Z,"30 km NNE of Türkmenbaşy, Turkmenistan",earthquake,5.96,6.13,0.063,24,reviewed,us,us
+2023-08-16T01:37:31.691Z,40.2719,53.115,44.813,5.2,mww,94,65,3.144,0.68,us,us7000knkw,2023-08-16T15:10:21.592Z,"30 km NNE of Türkmenbaşy, Turkmenistan",earthquake,5.96,6.13,0.063,24,reviewed,us,us
 2023-08-16T01:35:27.330Z,38.8375015,-122.7943344,1.96,0.73,md,7,86,0.003245,0.02,nc,nc73924556,2023-08-16T01:54:15.835Z,"6 km WNW of Cobb, CA",earthquake,0.51,1.65,0.57,8,automatic,nc,nc
 2023-08-16T01:35:03.830Z,45.30116666666667,-121.746,6.3,0.79,ml,10,166,0.03397,0.08,uw,uw61941557,2023-08-16T03:49:27.420Z,"0 km ESE of Government Camp, Oregon",earthquake,0.31,0.56,0.08129637494023245,6,reviewed,uw,uw
 2023-08-16T01:23:47.730Z,33.7695,-116.1448333,4.44,2.62,ml,75,71,0.06942,0.15,ci,ci40537792,2023-08-16T14:05:33.400Z,"8 km NE of Indio, CA",earthquake,0.11,0.35,0.165,94,reviewed,ci,ci
@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T15:16:26.110Z,19.3883333333333,-155.278666666667,1.58,2.06,ml,19,58,,0.1,hv,hv73527512,2023-08-15T17:36:34.570Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.14,0.260508700644005,18,reviewed,hv,hv
 2023-08-15T15:15:34.519Z,58.2342,-155.1109,1.1,0.6,ml,,,,0.12,ak,ak023afo0kkr,2023-08-15T15:17:23.327Z,"83 km NNW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-15T15:13:49.435Z,36.6799,-115.8669,4,0.2,ml,8,268.91,0.079,0.1393,nn,nn00864501,2023-08-16T02:03:53.474Z,"21 km NW of Indian Springs, Nevada",earthquake,,4,0,1,reviewed,nn,nn
-2023-08-15T15:10:37.640Z,39.4868333,-123.3035,8.36,1.6,md,20,77,0.03174,0.07,nc,nc73924416,2023-08-16T00:21:14.306Z,"8 km NE of Brooktrails, CA",earthquake,0.18,0.31,0.12,22,reviewed,nc,nc
-2023-08-15T15:10:22.369Z,58.0639,-155.7942,96,1.3,ml,,,,0.97,ak,ak023afnzggw,2023-08-15T15:13:57.854Z,"86 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
