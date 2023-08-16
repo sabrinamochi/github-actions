@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T16:00:20.522Z,-24.4031,-175.9453,16.018,5.4,mww,74,65,3.29,1.12,us,us7000knsr,2023-08-16T18:03:53.167Z,"south of Tonga",earthquake,10.39,3.536,0.093,11,reviewed,us,us
 2023-08-16T15:58:41.929Z,36.21616667,-95.86966667,0,1.38,ml,69,131,0.3122387281,0.49,ok,ok2023pzyv,2023-08-16T16:09:50.668Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.5,0.2,26,reviewed,ok,ok
 2023-08-16T15:56:27.060Z,37.5429993,-118.8526688,-1.66,2.09,md,16,232,0.05054,0.05,nc,nc73924771,2023-08-16T16:18:13.097Z,"15 km SE of Mammoth Lakes, CA",earthquake,1.52,0.53,0.13,16,automatic,nc,nc
+2023-08-16T15:46:45.926Z,39.6302,-119.4916,9.3,0.3,ml,4,171.49,0.115,0.1538,nn,nn00864562,2023-08-16T22:07:00.606Z,"17 km W of Wadsworth, Nevada",earthquake,,17.2,0.19,3,reviewed,nn,nn
 2023-08-16T15:44:11.191Z,52.1372,-169.3835,25.2,2.2,ml,,,,0.22,ak,ak023ahbq3g5,2023-08-16T16:46:48.531Z,"95 km SSW of Nikolski, Alaska",earthquake,,14.3,,,reviewed,ak,ak
 2023-08-16T15:33:40.881Z,61.4808,-146.477,30.5,1.5,ml,,,,1.13,ak,ak023ahbnsg8,2023-08-16T15:35:32.029Z,"39 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-16T15:22:23.010Z,38.5538333,-112.561,2.68,0.84,ml,8,182,0.1051,0.06,uu,uu60547757,2023-08-16T15:57:35.990Z,"29 km SSW of Kanosh, Utah",earthquake,1.62,31.61,0.174,2,reviewed,uu,uu
@@ -106,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:08:40.093Z,64.493,-148.5567,15.9,0.4,ml,,,,0.41,ak,ak023ah6qyni,2023-08-16T07:11:09.709Z,"27 km ESE of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T07:05:02.660Z,19.4038333892822,-155.285003662109,0.610000014305115,1.84000003,md,18,46,,0.119999997,hv,hv73528997,2023-08-16T07:07:56.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.189999998,1.38,14,automatic,hv,hv
 2023-08-16T07:04:39.779Z,60.5513,-153.1136,141.4,1.4,ml,,,,0.66,ak,ak023ah6q3rd,2023-08-16T07:07:24.115Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-16T06:54:19.480Z,38.2439995,-122.3361664,6.25,1.51,md,22,77,0.03143,0.12,nc,nc73924636,2023-08-16T08:40:12.456Z,"7 km SW of Napa, CA",earthquake,0.34,0.68,0.21,14,automatic,nc,nc
+2023-08-16T06:54:19.430Z,38.2418333,-122.3358333,6.97,1.56,md,47,57,0.02978,0.11,nc,nc73924636,2023-08-16T22:06:51.661Z,"8 km SW of Napa, CA",earthquake,0.19,0.38,0.206,38,reviewed,nc,nc
 2023-08-16T06:52:59.790Z,34.4945,-118.1301667,14.62,1.16,ml,29,67,0.01483,0.13,ci,ci40537880,2023-08-16T15:09:47.520Z,"1 km WSW of Vincent, CA",earthquake,0.18,0.31,0.196,21,reviewed,ci,ci
 2023-08-16T06:45:24.630Z,38.249,-122.3383333,9.76,2.32,md,115,42,0.03496,0.11,nc,nc73924631,2023-08-16T22:00:16.289Z,"7 km SW of Napa, CA",earthquake,0.12,0.22,0.133,103,reviewed,nc,nc
 2023-08-16T06:37:09.817Z,31.67007169,-104.2995826,6.877099609,2.3,ml,10,66,0.02960702795,0.1,tx,tx2023pzgi,2023-08-16T17:57:43.544Z,"56 km S of Whites City, New Mexico",earthquake,1.9642257,1.225351395,0.1,6,reviewed,tx,tx
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T22:30:38.308Z,61.5844,-150.026,31.2,1.6,ml,,,,0.18,ak,ak023afs9tue,2023-08-15T22:31:59.824Z,"7 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-15T22:26:37.560Z,35.7825,-98.58916667,5.16,1.4,ml,37,100,0.2006606235,0.3,ok,ok2023pyqd,2023-08-16T14:00:40.007Z,"14 km ENE of Thomas, Oklahoma",earthquake,,0.9,0.29,5,reviewed,ok,ok
 2023-08-15T22:12:57.995Z,61.0814,-149.5741,40.5,1.6,ml,,,,0.38,ak,ak023afs60h3,2023-08-15T22:14:51.501Z,"18 km N of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-15T22:03:44.310Z,19.392,-155.276666666667,1.82,2.48,ml,42,50,,0.11,hv,hv73528247,2023-08-15T22:23:00.320Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.14,0.198931792009275,24,reviewed,hv,hv
