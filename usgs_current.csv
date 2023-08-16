@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-16T02:56:55.620Z,19.4071674346924,-155.288162231445,0.540000021457672,2.04999995,md,16,48,,0.0799999982,hv,hv73528752,2023-08-16T02:59:48.660Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.189999998,0.939999998,15,automatic,hv,hv
+2023-08-16T02:56:55.620Z,19.4071674346924,-155.288162231445,0.540000021457672,1.79,ml,16,48,,0.0799999982,hv,hv73528752,2023-08-16T03:02:25.510Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.189999998,0.67,9,automatic,hv,hv
 2023-08-16T02:53:29.979Z,62.2558,-150.0688,11.1,2.1,ml,,,,0.54,ak,ak023ah41f2d,2023-08-16T02:55:21.560Z,"7 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-16T02:49:24.869Z,57.4501,-155.2398,25.5,1.5,ml,,,,0.47,ak,ak023ah40jt2,2023-08-16T02:51:24.305Z,"48 km WSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-16T02:41:36.204Z,62.6841,-149.908,70.1,1.6,ml,,,,1.04,ak,ak023ah3yuyc,2023-08-16T02:43:47.656Z,"28 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T15:10:22.369Z,58.0639,-155.7942,96,1.3,ml,,,,0.97,ak,ak023afnzggw,2023-08-15T15:13:57.854Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-15T15:00:44.889Z,49.3688,155.788,40.267,4.7,mb,48,112,3.932,0.89,us,us6000l04n,2023-08-15T15:39:17.040Z,"147 km S of Severo-Kuril’sk, Russia",earthquake,11.33,7.974,0.079,48,reviewed,us,us
 2023-08-15T14:53:11.140Z,19.3913326263428,-155.273330688477,1.35000002384186,2.55,ml,33,59,,0.189999998,hv,hv73527452,2023-08-15T21:47:19.033Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,2.13,21,automatic,hv,hv
-2023-08-15T14:44:24.220Z,37.8656667,-122.0476667,9.8,3.04,ml,120,43,0.04408,0.11,nc,nc73924411,2023-08-16T02:50:19.850Z,"2 km NW of Alamo, CA",earthquake,0.11,0.19,0.219,136,reviewed,nc,nc
+2023-08-15T14:44:24.220Z,37.8656667,-122.0476667,9.8,3.04,ml,120,43,0.04408,0.11,nc,nc73924411,2023-08-16T03:06:03.671Z,"2 km NW of Alamo, CA",earthquake,0.11,0.19,0.219,136,reviewed,nc,nc
 2023-08-15T14:41:13.510Z,33.7698333,-116.1485,2.74,1.01,ml,33,70,0.06649,0.18,ci,ci40537280,2023-08-15T16:35:38.872Z,"8 km NE of Indio, CA",earthquake,0.21,0.71,0.124,18,reviewed,ci,ci
 2023-08-15T14:41:11.000Z,33.7671667,-116.1411667,3.35,0.58,ml,11,104,0.1601,0.11,ci,ci37564924,2023-08-15T16:35:38.784Z,"9 km NE of Indio, CA",earthquake,0.36,1.56,0.024,2,reviewed,ci,ci
 2023-08-15T14:39:09.030Z,38.8308333,-122.8061667,1.66,0.23,md,15,45,0.00803,0.03,nc,nc73924401,2023-08-15T21:53:18.443Z,"7 km W of Cobb, CA",earthquake,0.25,0.53,0.281,15,reviewed,nc,nc
@@ -296,6 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T03:30:58.140Z,19.3936666666667,-155.289666666667,1.49,0.55,md,12,97,,0.12,hv,hv73526177,2023-08-16T00:02:55.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.37,0.23,0.319711144606227,5,reviewed,hv,hv
 2023-08-15T03:24:37.340Z,19.3991666666667,-155.277166666667,0.93,0.48,md,10,119,,0.06,hv,hv73526167,2023-08-15T23:57:48.340Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.21,0.178771555440446,2,reviewed,hv,hv
 2023-08-15T03:16:17.220Z,19.3883333333333,-155.280333333333,1.12,0.86,md,10,79,,0.05,hv,hv73526147,2023-08-15T23:51:10.890Z,"7 km SW of Volcano, Hawaii",earthquake,0.33,0.24,0.0588712952757063,5,reviewed,hv,hv
-2023-08-15T03:06:21.070Z,19.4168333333333,-155.255,1.73,1.69,ml,25,119,,0.09,hv,hv73526132,2023-08-15T06:07:49.040Z,"3 km SW of Volcano, Hawaii",earthquake,0.17,0.19,0.0748343561224082,11,reviewed,hv,hv
-2023-08-15T03:04:48.610Z,19.388,-155.28,1.24,1.75,md,11,139,,0.12,hv,hv73526127,2023-08-15T23:45:06.420Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.29,0.137501932234876,2,reviewed,hv,hv
-2023-08-15T03:03:23.970Z,35.6798333,-121.1198333,5.89,1.29,md,21,113,0.02766,0.06,nc,nc73924261,2023-08-15T05:18:15.275Z,"8 km ENE of San Simeon, CA",earthquake,0.52,0.57,0.229,9,reviewed,nc,nc
