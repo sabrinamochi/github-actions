@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-17T07:16:09.918Z,36.5863,-115.775,1.6,0.8,ml,8,337.43,0.168,0.0988,nn,nn00864576,2023-08-17T07:18:49.925Z,"9 km W of Indian Springs, Nevada",earthquake,,31.7,0.27,6,automatic,nn,nn
 2023-08-17T06:45:06.950Z,58.1933,-155.1135,1.1,1.2,ml,,,,0.42,ak,ak023aitwqh3,2023-08-17T06:46:54.816Z,"79 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-08-17T06:22:18.623Z,36.6415,-116.2601,4.3,0.2,ml,8,205.14,0.063,0.1541,nn,nn00864574,2023-08-17T06:24:09.729Z,"Nevada",earthquake,,6.1,0.34,6,automatic,nn,nn
 2023-08-17T06:19:39.970Z,35.4976667,-118.3956667,7.95,1.43,ml,22,65,0.1767,0.11,ci,ci40538624,2023-08-17T06:30:11.690Z,"13 km SE of Bodfish, CA",earthquake,0.17,1,0.245,15,automatic,ci,ci
@@ -96,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
 2023-08-16T16:40:33.649Z,63.107,-151.3602,0,1.1,ml,,,,1,ak,ak023ahcapic,2023-08-16T16:42:21.344Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T16:39:59.675Z,-24.3781,-176.0386,26.179,4.9,mb,30,111,3.285,1.06,us,us7000knt7,2023-08-16T18:53:25.040Z,"south of the Fiji Islands",earthquake,10.76,4.558,0.068,69,reviewed,us,us
-2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"47 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-16T16:23:22.550Z,19.2343330383301,-155.393173217773,30.9699993133545,1.83000004,md,30,168,,0.0900000036,hv,hv73529912,2023-08-16T16:26:31.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.36000001,8,automatic,hv,hv
 2023-08-16T16:16:17.940Z,36.0828333,-117.8925,3.8,0.37,ml,7,185,0.04617,0.04,ci,ci40538136,2023-08-16T17:51:12.166Z,"6 km NE of Coso Junction, CA",earthquake,0.24,0.3,0.071,1,reviewed,ci,ci
 2023-08-16T16:13:06.590Z,19.4018325805664,-155.274505615234,0.300000011920929,2.11,ml,17,37,,0.109999999,hv,hv73529882,2023-08-16T16:18:36.920Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.239999995,0.22,8,automatic,hv,hv
@@ -175,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:22:34.900Z,19.222,-155.371166666667,31.29,1.48,md,18,199,,0.1,hv,hv73529032,2023-08-16T09:16:33.240Z,"11 km E of Pāhala, Hawaii",earthquake,0.59,0.76,0.0202299170557427,9,reviewed,hv,hv
 2023-08-16T07:22:11.403Z,39.7828,-119.852,13.7,0.6,ml,8,87.93,0.163,0.1192,nn,nn00864559,2023-08-16T21:17:21.906Z,"15 km NE of Cold Springs, Nevada",earthquake,,3.2,0.47,6,reviewed,nn,nn
 2023-08-16T07:20:42.720Z,38.8431664,-122.8306656,1.93,0.7,md,10,89,0.005922,0.03,nc,nc73924656,2023-08-16T07:40:11.966Z,"10 km WNW of Cobb, CA",earthquake,0.33,0.55,0.41,13,automatic,nc,nc
-2023-08-16T07:19:12.445Z,39.6741,-120.3464,0.8,0,ml,3,221.41,0.118,0.1772,nn,nn00864558,2023-08-16T21:07:58.425Z,"Northern California",earthquake,,159,0.22,2,reviewed,nn,nn
-2023-08-16T07:17:19.975Z,61.2997,-152.5213,5.8,1.8,ml,,,,0.15,ak,ak023ah6sujh,2023-08-16T07:18:34.397Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
