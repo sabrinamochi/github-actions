@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-17T23:09:30.890Z,40.3098335,-124.2350006,26.27,1.65,md,9,126,0.03636,0.04,nc,nc73925366,2023-08-17T23:11:07.610Z,"5 km ESE of Petrolia, CA",earthquake,1.35,2.43,0.05,5,automatic,nc,nc
+2023-08-17T23:17:07.820Z,39.4193344,-122.4856644,2.12,2.35,md,7,171,0.3965,0.3,nc,nc73925371,2023-08-17T23:18:47.893Z,"19 km SSE of Stony Gorge Reservoir, CA",earthquake,2.27,25.62,0.1,3,automatic,nc,nc
+2023-08-17T23:09:30.890Z,40.3098335,-124.2350006,26.27,1.65,md,9,126,0.03636,0.04,nc,nc73925366,2023-08-17T23:18:10.911Z,"5 km ESE of Petrolia, CA",earthquake,1.35,2.43,0.05,5,automatic,nc,nc
 2023-08-17T23:08:40.430Z,64.9849,-147.4184,5.5,1.7,ml,,,,0.4,ak,ak023aj3t8uj,2023-08-17T23:10:17.764Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-17T22:48:27.290Z,38.8028336,-122.7813339,2.9,0.84,md,12,79,0.01042,0.02,nc,nc73925356,2023-08-17T22:50:04.215Z,"4 km NW of The Geysers, CA",earthquake,0.55,0.91,0.2,14,automatic,nc,nc
 2023-08-17T22:40:51.480Z,38.8186684,-122.8143311,2.93,0.75,md,8,125,0.005774,0.01,nc,nc73925341,2023-08-17T23:08:19.860Z,"7 km NW of The Geysers, CA",earthquake,0.62,1.44,0.09,11,automatic,nc,nc
@@ -10,8 +11,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T21:50:05.740Z,38.7953339,-122.7365036,1.63,0.75,md,6,158,0.01208,0.01,nc,nc73925306,2023-08-17T22:26:13.638Z,"3 km NE of The Geysers, CA",earthquake,0.64,1.12,0.05,8,automatic,nc,nc
 2023-08-17T21:47:55.130Z,38.8325005,-122.7994995,2.07,0.92,md,8,107,0.00927,0.02,nc,nc73925301,2023-08-17T22:13:13.559Z,"7 km W of Cobb, CA",earthquake,0.4,1.46,0.35,8,automatic,nc,nc
 2023-08-17T21:20:04.924Z,7.3439,94.8697,114.035,4.4,mb,24,113,2.946,0.35,us,us7000kp4l,2023-08-17T23:00:51.040Z,"168 km NNW of Sabang, Indonesia",earthquake,11.34,5.184,0.143,14,reviewed,us,us
-2023-08-17T21:11:32.376Z,16.9755,-85.4634,10,4.8,mb,96,43,3.386,0.81,us,us7000kp4e,2023-08-17T21:30:12.040Z,"north of Honduras",earthquake,7.35,1.927,0.042,175,reviewed,us,us
+2023-08-17T21:11:32.104Z,16.9818,-85.4797,10,4.8,mb,102,43,3.383,0.56,us,us7000kp4e,2023-08-17T23:16:46.040Z,"70 km NE of Savannah Bight, Honduras",earthquake,7.58,1.924,0.041,183,reviewed,us,us
 2023-08-17T21:08:00.860Z,40.3183333,-124.2343333,31.93,4.06,mw,42,49,0.03838,0.13,nc,nc73925281,2023-08-17T23:13:06.016Z,"4 km E of Petrolia, CA",earthquake,0.36,0.46,,4,reviewed,nc,nc
+2023-08-17T21:07:02.200Z,39.296,-123.0373333,6.5,1.34,md,12,129,0.1046,0.07,nc,nc73925286,2023-08-17T23:14:18.764Z,"14 km SSW of Lake Pillsbury, CA",earthquake,0.33,1.04,0.257,12,reviewed,nc,nc
 2023-08-17T20:53:14.630Z,19.2563333333333,-66.6055,18.38,3.32,md,13,274,0.7784,0.13,pr,pr71421688,2023-08-17T21:16:45.000Z,"87 km N of Arecibo, Puerto Rico",earthquake,1.75,3.72,0.0414976421508024,9,reviewed,pr,pr
 2023-08-17T20:46:40.100Z,33.0568333,-116.079,10.7,1.11,ml,24,79,0.1236,0.15,ci,ci39643234,2023-08-17T21:09:46.380Z,"11 km SSE of Ocotillo Wells, CA",earthquake,0.26,0.74,0.132,18,reviewed,ci,ci
 2023-08-17T20:38:19.090Z,34.878,-119.0365,13.35,1.22,ml,15,95,0.09136,0.14,ci,ci39643218,2023-08-17T20:58:55.316Z,"10 km NW of Frazier Park, CA",earthquake,0.31,0.57,0.273,10,reviewed,ci,ci
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T17:17:18.031Z,4.2142,-73.6065,7.942,5.7,mww,79,77,0.949,0.98,us,us7000kp2j,2023-08-17T20:26:45.605Z,"6 km SW of Restrepo, Colombia",earthquake,5.61,4.311,0.089,12,reviewed,us,us
 2023-08-17T17:07:25.560Z,40.0985,-123.7536667,21.67,1.62,md,24,83,0.02894,0.11,nc,nc73925176,2023-08-17T21:29:18.307Z,"6 km ESE of Redway, CA",earthquake,0.28,0.32,0.215,17,reviewed,nc,nc
 2023-08-17T17:05:44.870Z,38.8043333,-122.7821667,2.89,0.47,md,22,81,0.008988,0.02,nc,nc73925171,2023-08-17T20:57:16.124Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.38,0.121,19,reviewed,nc,nc
-2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T23:09:46.825Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
+2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T23:14:56.130Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
 2023-08-17T16:51:26.509Z,37.2041,-104.7543,2.869,3.2,ml,30,58,0.085,0.74,us,us7000kp2h,2023-08-17T19:01:04.555Z,"Colorado",earthquake,3.24,6.064,0.069,36,reviewed,us,us
 2023-08-17T16:47:48.470Z,35.494,-118.3916667,10.86,1.28,ml,27,66,0.1813,0.17,ci,ci39642890,2023-08-17T18:20:09.610Z,"14 km SE of Bodfish, CA",earthquake,0.27,0.55,0.191,11,reviewed,ci,ci
 2023-08-17T16:46:33.240Z,19.4221668243408,-155.350662231445,4.6100001335144,2.01,ml,26,73,,0.0900000036,hv,hv73531432,2023-08-17T16:52:04.510Z,"12 km W of Volcano, Hawaii",earthquake,0.37,1.15999997,0.29,5,automatic,hv,hv
@@ -148,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T08:21:51.536Z,31.48930664,-103.971233,4.280590819999999,2.3,ml,43,62,0.04496202165,0.2,tx,tx2023qbfi,2023-08-17T16:00:49.396Z,"25 km NW of Toyah, Texas",earthquake,0.6283746292,1.498353104,0,6,reviewed,tx,tx
 2023-08-17T08:21:03.690Z,34.4155,-119.9963333,1.7,1.94,ml,33,90,0.113,0.19,ci,ci40538648,2023-08-17T15:04:52.110Z,"12 km W of Isla Vista, CA",earthquake,0.28,0.37,0.197,18,reviewed,ci,ci
 2023-08-17T08:18:33.190Z,52.8203333333333,-169.944333333333,15.49,0.31,ml,4,240,,0.1,av,av91113553,2023-08-17T20:08:06.110Z,"74 km W of Nikolski, Alaska",earthquake,4.31,0.97,0.591813452433695,4,reviewed,av,av
-2023-08-17T08:13:42.990Z,36.0375,-120.5961667,4.1,1.05,md,28,48,0.03124,0.06,nc,nc73925036,2023-08-17T22:48:13.164Z,"21 km NW of Parkfield, CA",earthquake,0.21,0.35,0.219,16,reviewed,nc,nc
+2023-08-17T08:13:42.990Z,36.0375,-120.5961667,4.1,1.05,md,28,48,0.03124,0.06,nc,nc73925036,2023-08-17T23:18:23.912Z,"21 km NW of Parkfield, CA",earthquake,0.21,0.35,0.219,16,reviewed,nc,nc
 2023-08-17T08:12:29.480Z,52.7265,-169.949166666667,3.02,1.45,ml,5,281,,0.25,av,av91113488,2023-08-17T17:43:23.690Z,"77 km WSW of Nikolski, Alaska",earthquake,1.35,1.44,0.227511424525697,5,reviewed,av,av
 2023-08-17T08:09:52.290Z,53.6881,-165.4308,22.6,1.2,ml,,,,0.2,ak,ak023aiuw3co,2023-08-17T14:13:12.332Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,2.3,,,reviewed,ak,ak
 2023-08-17T08:04:39.379Z,-18.1267,-178.4096,583.264,4.5,mb,36,46,4.196,0.84,us,us7000kny5,2023-08-17T08:41:17.040Z,"240 km E of Levuka, Fiji",earthquake,13.97,4.221,0.106,28,reviewed,us,us
