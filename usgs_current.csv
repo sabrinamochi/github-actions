@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T21:50:05.740Z,38.7953339,-122.7365036,1.63,0.75,md,6,158,0.01208,0.01,nc,nc73925306,2023-08-17T21:51:42.861Z,"3 km NE of The Geysers, CA",earthquake,0.64,1.12,0.05,8,automatic,nc,nc
 2023-08-17T21:47:55.130Z,38.8325005,-122.7994995,2.07,0.92,md,8,107,0.00927,0.02,nc,nc73925301,2023-08-17T21:49:32.930Z,"7 km W of Cobb, CA",earthquake,0.4,1.46,0.35,8,automatic,nc,nc
 2023-08-17T21:11:32.376Z,16.9755,-85.4634,10,4.8,mb,96,43,3.386,0.81,us,us7000kp4e,2023-08-17T21:30:12.040Z,"71 km NE of Savannah Bight, Honduras",earthquake,7.35,1.927,0.042,175,reviewed,us,us
-2023-08-17T21:08:00.930Z,40.3311653,-124.2383347,31.1,4.06,mw,26,91,,0.09,nc,nc73925281,2023-08-17T21:53:41.289Z,"4 km E of Petrolia, CA",earthquake,0.7,1.08,,4,reviewed,nc,nc
+2023-08-17T21:08:00.860Z,40.3183333,-124.2343333,31.93,4.06,mw,42,49,0.03838,0.13,nc,nc73925281,2023-08-17T22:12:30.041Z,"4 km E of Petrolia, CA",earthquake,0.36,0.46,,4,reviewed,nc,nc
 2023-08-17T20:53:14.630Z,19.2563333333333,-66.6055,18.38,3.32,md,13,274,0.7784,0.13,pr,pr71421688,2023-08-17T21:16:45.000Z,"87 km N of Arecibo, Puerto Rico",earthquake,1.75,3.72,0.0414976421508024,9,reviewed,pr,pr
 2023-08-17T20:46:40.100Z,33.0568333,-116.079,10.7,1.11,ml,24,79,0.1236,0.15,ci,ci39643234,2023-08-17T21:09:46.380Z,"11 km SSE of Ocotillo Wells, CA",earthquake,0.26,0.74,0.132,18,reviewed,ci,ci
 2023-08-17T20:38:19.090Z,34.878,-119.0365,13.35,1.22,ml,15,95,0.09136,0.14,ci,ci39643218,2023-08-17T20:58:55.316Z,"10 km NW of Frazier Park, CA",earthquake,0.31,0.57,0.273,10,reviewed,ci,ci
@@ -183,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T04:10:07.290Z,38.8370018,-122.7996674,2.07,0.8,md,11,84,0.007416,0.01,nc,nc73924971,2023-08-17T05:16:11.742Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.67,0.19,11,automatic,nc,nc
 2023-08-17T03:53:58.093Z,61.9502,-148.659,22.9,1,ml,,,,0.42,ak,ak023ais69d3,2023-08-17T03:56:05.467Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-17T03:44:05.140Z,33.3676667,-116.9543333,9.74,0.37,ml,19,54,0.06825,0.18,ci,ci40538600,2023-08-17T14:37:03.033Z,"8 km W of Palomar Observatory, CA",earthquake,0.28,0.68,0.035,7,reviewed,ci,ci
-2023-08-17T03:42:11.077Z,37.4833,-114.4207,16,1.8,ml,6,83.71,0.448,0.2403,nn,nn00864569,2023-08-17T16:36:28.845Z,"16 km SSE of Caliente, Nevada",earthquake,,0,0.43,4,reviewed,nn,nn
+2023-08-17T03:42:11.077Z,37.4833,-114.4207,16,1.8,ml,6,83.71,0.448,0.2403,nn,nn00864569,2023-08-17T16:36:28.845Z,"Nevada",earthquake,,0,0.43,4,reviewed,nn,nn
 2023-08-17T03:39:51.200Z,33.468,-116.5621667,10.21,0.68,ml,30,79,0.04276,0.14,ci,ci40538592,2023-08-17T13:56:49.813Z,"14 km SE of Anza, CA",earthquake,0.18,0.39,0.121,11,reviewed,ci,ci
 2023-08-17T03:37:22.130Z,48.367333333333335,-122.28383333333333,17.76,1.98,ml,44,62,0.0362,0.22,uw,uw61941782,2023-08-17T05:04:55.930Z,"5 km SW of Big Lake, Washington",earthquake,0.36,0.53,0.1492709880628531,48,reviewed,uw,uw
 2023-08-17T03:31:36.271Z,61.5145,-141.2725,0,1.5,ml,,,,0.51,ak,ak023ais1hwb,2023-08-17T03:33:26.240Z,"88 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -226,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T22:31:40.120Z,37.6453333,-118.9438333,4.43,0.23,md,7,123,0.02092,0.01,nc,nc73924891,2023-08-17T17:01:36.683Z,"3 km ENE of Mammoth Lakes, CA",earthquake,0.86,0.87,0.254,7,reviewed,nc,nc
 2023-08-16T22:19:36.477Z,52.1763,-179.9395,216.448,4,mb,35,114,0.332,0.45,us,us7000knwc,2023-08-17T00:41:48.040Z,"229 km W of Adak, Alaska",earthquake,14.19,11.373,0.173,9,reviewed,us,us
 2023-08-16T22:16:01.720Z,47.459,-121.59766666666667,14.77,1.1,ml,11,154,0.1147,0.16,uw,uw61941712,2023-08-17T04:01:46.720Z,"11 km E of Tanner, Washington",earthquake,0.69,1.32,0.16458640626205723,8,reviewed,uw,uw
-2023-08-16T22:12:48.390Z,33.5131667,-116.8923333,12.78,0.6,ml,23,82,0.03511,0.2,ci,ci40538496,2023-08-16T23:06:07.588Z,"8 km NNW of Aguanga, CA",earthquake,0.3,0.7,0.133,13,reviewed,ci,ci
-2023-08-16T22:11:45.649Z,67.2762,-156.6759,6.2,2.7,ml,,,,0.58,ak,ak023ahfp4at,2023-08-16T22:21:34.040Z,"42 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-16T22:11:45.061Z,61.3881,-150.6754,59.9,1.8,ml,,,,0.43,ak,ak023ahfp496,2023-08-16T22:13:29.026Z,"19 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
