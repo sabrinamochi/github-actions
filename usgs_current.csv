@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T11:22:39.269Z,51.8727,178.0084,137.728,4.2,mb,37,159,0.359,0.4,us,us7000kp7b,2023-08-18T11:39:27.727Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.09,6.296,0.065,66,reviewed,us,us
 2023-08-18T11:19:54.113Z,31.61848698,-104.0880086,5.823071289,1.9,ml,16,62,0.02434825716,0.1,tx,tx2023qdgq,2023-08-18T13:21:46.695Z,"43 km NW of Toyah, Texas",earthquake,0.599534136,0.4818309469,0.1,18,reviewed,tx,tx
 2023-08-18T11:04:08.110Z,38.8110008,-122.8296661,1.29,0.75,md,9,66,0.002164,0.03,nc,nc73925631,2023-08-18T12:30:16.334Z,"7 km WNW of The Geysers, CA",earthquake,0.34,0.76,0.23,10,automatic,nc,nc
+2023-08-18T10:54:12.490Z,44.8446666666667,-111.4805,7.63,1.18,ml,17,99,0.03856,0.15,mb,mb90024663,2023-08-18T15:21:15.110Z,"Idaho-Montana border region",earthquake,0.69,0.54,0.200654898160508,13,reviewed,mb,mb
 2023-08-18T10:46:10.430Z,32.3901672,-115.12117,10.69,3.67,mw,32,64,0.05868,0.37,ci,ci39643754,2023-08-18T14:09:15.369Z,"8 km ENE of Delta, B.C., MX",earthquake,0.48,1.05,,4,reviewed,ci,ci
 2023-08-18T10:42:30.510Z,19.4039993286133,-155.299835205078,2.0699999332428,1.83,ml,21,46,,0.150000006,hv,hv73532417,2023-08-18T10:48:01.580Z,"8 km WSW of Volcano, Hawaii",earthquake,0.28,0.330000013,0.16,7,automatic,hv,hv
 2023-08-18T10:27:55.040Z,-16.1071,-75.0833,18.068,5.4,mww,50,120,4.437,1.13,us,us7000kp73,2023-08-18T12:31:26.779Z,"off the coast of southern Peru",earthquake,9.24,5.358,0.066,22,reviewed,us,us
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-18T04:55:20.461Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T15:40:56.670Z,34.1421667,-117.4211667,6.55,1.11,ml,37,49,0.04493,0.19,ci,ci40538904,2023-08-17T17:10:13.965Z,"6 km NE of Fontana, CA",earthquake,0.26,0.51,0.166,11,reviewed,ci,ci
 2023-08-17T15:31:03.300Z,46.189166666666665,-122.22716666666666,1.66,0.32,ml,4,299,0.02736,0.06,uw,uw61941867,2023-08-17T17:25:27.010Z,"35 km NNE of Amboy, Washington",earthquake,0.83,1.32,0.07174104506431048,3,reviewed,uw,uw
 2023-08-17T15:22:31.880Z,37.0756667,-121.4878333,9.46,1.08,md,24,42,0.03734,0.13,nc,nc73925116,2023-08-17T22:57:22.806Z,"11 km NE of Gilroy, CA",earthquake,0.31,0.76,0.143,20,reviewed,nc,nc
-2023-08-17T15:21:29.764Z,62.2549,-151.8441,81.9,1.3,ml,,,,0.46,ak,ak023aiz4jhs,2023-08-17T15:23:36.393Z,"37 km NW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
