@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T17:09:54.996Z,57.8972,-155.9829,207.7,1.3,ml,,,,0.9,ak,ak023akns8jv,2023-08-18T17:12:34.743Z,"89 km ESE of Egegik, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-08-18T17:03:12.220Z,33.3078333,-118.1075,12.74,2.21,ml,26,168,0.1925,0.3,ci,ci39644002,2023-08-18T17:06:47.990Z,"21 km E of Avalon, CA",earthquake,1.02,2.6,0.167,30,automatic,ci,ci
 2023-08-18T16:53:18.650Z,32.3499985,-115.1258316,10.41,3.09,ml,22,116,0.06313,0.29,ci,ci39643994,2023-08-18T17:04:25.680Z,"6 km E of Delta, B.C., MX",earthquake,0.68,0.93,0.205,25,automatic,ci,ci
 2023-08-18T16:35:05.670Z,33.9561667,-116.7838333,2.24,0.85,ml,19,70,0.08126,0.22,ci,ci39643970,2023-08-18T16:38:34.832Z,"4 km N of Cabazon, CA",earthquake,0.41,0.99,0.257,20,automatic,ci,ci
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T13:55:34.620Z,34.142,-117.4205,6.53,2.23,ml,84,22,0.0508,0.21,ci,ci39643810,2023-08-18T16:33:36.585Z,"6 km NE of Fontana, CA",earthquake,0.18,0.62,0.212,24,automatic,ci,ci
 2023-08-18T13:46:15.510Z,38.5546667,-122.6598333,-0.66,2.1,mh,11,192,0.042,0.06,nc,nc73925686,2023-08-18T16:49:20.827Z,"8 km WSW of Calistoga, CA",quarry blast,0.51,31.61,,0,reviewed,nc,nc
 2023-08-18T13:45:35.200Z,38.8251648,-122.7956696,2.41,1.25,md,25,34,0.01139,0.02,nc,nc73925681,2023-08-18T15:16:13.245Z,"6 km W of Cobb, CA",earthquake,0.22,0.45,0.21,25,automatic,nc,nc
-2023-08-18T13:32:03.823Z,38.541,-118.4342,10.5,2.6,ml,17,45.94,0.295,0.1652,nn,nn00864616,2023-08-18T16:15:18.924Z,"16 km E of Hawthorne, Nevada",earthquake,,1.4,0.19,9,reviewed,nn,nn
+2023-08-18T13:32:03.823Z,38.541,-118.4342,10.5,2.6,ml,17,45.94,0.295,0.1652,nn,nn00864616,2023-08-18T16:15:18.924Z,"Nevada",earthquake,,1.4,0.19,9,reviewed,nn,nn
 2023-08-18T13:13:11.964Z,60.5109,-150.9085,38.3,1.2,ml,,,,0.54,ak,ak023aklf9oc,2023-08-18T13:15:16.412Z,"8 km W of Funny River, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-08-18T13:09:22.272Z,-17.8545,-174.3642,59.497,4.9,mb,42,105,0.862,0.77,us,us7000kp7p,2023-08-18T13:28:36.040Z,"96 km NNW of Neiafu, Tonga",earthquake,8.84,7.17,0.043,166,reviewed,us,us
 2023-08-18T12:54:15.820Z,33.2423333,-116.0936667,2.07,0.69,ml,8,85,0.09787,0.17,ci,ci39643794,2023-08-18T12:57:47.592Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.38,0.69,0.056,4,automatic,ci,ci
@@ -169,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-18T04:55:20.461Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
