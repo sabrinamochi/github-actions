@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T08:12:06.110Z,33.4066667,-116.3351667,11.01,0.73,ml,15,92,0.1542,0.18,ci,ci39643722,2023-08-18T08:15:32.076Z,"17 km NNE of Borrego Springs, CA",earthquake,0.43,0.95,0.083,16,automatic,ci,ci
 2023-08-18T08:01:20.500Z,38.8161659,-122.8143311,2.88,0.77,md,20,76,0.007948,0.02,nc,nc73925566,2023-08-18T08:32:14.018Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.56,0.14,21,automatic,nc,nc
 2023-08-18T07:57:57.592Z,-0.4523,-19.7097,10,5.7,mww,133,41,15.801,0.51,us,us7000kp6m,2023-08-18T10:01:01.803Z,"central Mid-Atlantic Ridge",earthquake,9.49,1.851,0.098,10,reviewed,us,us
+2023-08-18T07:55:22.030Z,44.8495,-111.478166666667,7.72,1.37,ml,16,118,0.0391,0.12,mb,mb90024653,2023-08-18T15:32:10.550Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.43,0.55,0.167157897911938,7,reviewed,mb,mb
 2023-08-18T07:52:32.020Z,44.7565,-110.9188333,9.59,0.83,ml,12,119,0.05815,0.15,uu,uu60547907,2023-08-18T14:13:37.280Z,"18 km NE of West Yellowstone, Montana",earthquake,0.42,0.91,0.119,3,reviewed,uu,uu
 2023-08-18T07:43:51.580Z,38.8095016,-122.8130035,1.74,0.82,md,7,139,0.01391,0.02,nc,nc73925561,2023-08-18T08:09:12.890Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.08,0.15,10,automatic,nc,nc
 2023-08-18T07:38:41.830Z,19.1736660003662,-155.484832763672,35.6500015258789,1.99,ml,42,86,,0.150000006,hv,hv73532287,2023-08-18T07:44:11.650Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.790000021,5.16,3,automatic,hv,hv
@@ -55,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T07:22:10.830Z,38.8071671,-122.8180008,2.77,1.04,md,22,58,0.008896,0.02,nc,nc73925551,2023-08-18T07:46:11.764Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.52,0.28,22,automatic,nc,nc
 2023-08-18T06:41:43.780Z,38.8170013,-122.7965012,3.03,0.81,md,7,115,0.009069,0.01,nc,nc73925536,2023-08-18T07:05:13.548Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.99,0.07,9,automatic,nc,nc
 2023-08-18T06:40:54.147Z,9.2651,93.9048,10,4.7,mb,33,136,6.603,0.51,us,us7000kp6j,2023-08-18T07:48:15.040Z,"294 km SSE of Port Blair, India",earthquake,10.97,1.927,0.112,24,reviewed,us,us
-2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"258 km SSE of Port Blair, India",earthquake,10.29,1.877,0.091,36,reviewed,us,us
+2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"Nicobar Islands, India region",earthquake,10.29,1.877,0.091,36,reviewed,us,us
 2023-08-18T06:35:02.580Z,34.0633333,-117.1365,10.81,1.26,ml,47,42,0.03424,0.18,ci,ci39643594,2023-08-18T06:45:34.420Z,"1 km SSW of Mentone, CA",earthquake,0.21,0.34,0.243,28,automatic,ci,ci
 2023-08-18T06:26:44.970Z,32.4173333,-115.1538333,1.67,2.29,ml,16,73,0.04877,0.3,ci,ci39643586,2023-08-18T06:30:19.214Z,"8 km NNE of Delta, B.C., MX",earthquake,0.65,1.18,0.048,8,automatic,ci,ci
 2023-08-18T06:25:17.490Z,32.404,-115.1261667,7.36,2.43,ml,16,72,0.04631,0.27,ci,ci39643578,2023-08-18T06:28:45.550Z,"8 km NE of Delta, B.C., MX",earthquake,0.71,1.11,0.157,27,automatic,ci,ci
@@ -162,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T18:33:44.150Z,40.745,-122.3053333,-0.58,1.54,md,16,86,0.1371,0.06,nc,nc73925196,2023-08-17T20:22:28.356Z,"9 km NE of Shasta Lake, CA",quarry blast,0.28,31.61,0.157,14,reviewed,nc,nc
 2023-08-17T18:33:13.530Z,40.7435,-122.3053333,-0.58,1.27,md,8,113,0.136,0.09,nc,nc71131234,2023-08-17T20:26:32.828Z,"9 km NE of Shasta Lake, CA",quarry blast,0.51,31.61,0.11,8,reviewed,nc,nc
 2023-08-17T18:15:51.837Z,61.3902,-146.7538,15,2.4,ml,,,,0.93,ak,ak023aj0vlpp,2023-08-17T18:17:34.650Z,"36 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-17T18:08:32.079Z,34.37933333,-96.79983333,0,1.47,ml,21,76,0.1925622127,0.36,ok,ok2023qbyp,2023-08-18T15:31:09.971Z,"3 km SE of Mill Creek, Oklahoma",quarry blast,,0.8,0.33,3,reviewed,ok,ok
+2023-08-17T18:08:32.079Z,34.37933333,-96.79983333,0,1.47,ml,21,76,0.1925622127,0.36,ok,ok2023qbyp,2023-08-18T15:31:32.817Z,"3 km SE of Mill Creek, Oklahoma",quarry blast,,0.8,0.33,3,reviewed,ok,ok
 2023-08-17T18:04:16.512Z,62.3913,-150.3462,63.1,1.4,ml,,,,0.54,ak,ak023aj0t643,2023-08-17T18:06:54.312Z,"10 km NW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-17T18:00:02.940Z,33.0468333,-114.9786667,-0.23,1.57,ml,13,59,0.07441,0.33,ci,ci39642978,2023-08-17T20:42:55.224Z,"45 km NNW of Los Algodones, B.C., MX",quarry blast,0.81,31.61,0.191,15,reviewed,ci,ci
 2023-08-17T17:54:47.750Z,35.788,-98.559,7,1.49,ml,29,165,0.1808645082,0.3,ok,ok2023qbye,2023-08-18T14:16:53.682Z,"14 km WSW of Watonga, Oklahoma",earthquake,,1.1,0.39,3,reviewed,ok,ok
