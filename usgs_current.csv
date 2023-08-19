@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T15:27:38.896Z,63.4779,-151.1523,10,1.1,ml,,,,0.46,ak,ak023ama8jhd,2023-08-19T15:29:59.102Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-19T15:23:09.275Z,38.172,-117.8484,8.5,1.5,ml,9,134.51,0.111,0.1239,nn,nn00864665,2023-08-19T15:25:52.921Z,"33 km SE of Mina, Nevada",earthquake,,0.4,0.94,6,automatic,nn,nn
 2023-08-19T15:16:14.236Z,63.2945,-152.2101,0,2.1,ml,,,,0.81,ak,ak023ama64pb,2023-08-19T15:18:20.262Z,"36 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T15:06:06.867Z,36.7673,-116.122,4.2,0.5,ml,14,78.22,0.015,0.1268,nn,nn00864659,2023-08-19T15:07:54.347Z,"45 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.41,9,automatic,nn,nn
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T14:46:08.480Z,30.3389,94.7567,10,5,mb,52,47,8.671,0.97,us,us7000kpgp,2023-08-19T15:05:11.040Z,"eastern Xizang",earthquake,4.3,1.869,0.046,151,reviewed,us,us
 2023-08-19T14:40:33.910Z,19.386999130249,-155.277328491211,1.08000004291534,1.75,md,13,104,,0.119999997,hv,hv73533652,2023-08-19T14:43:44.530Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.25999999,0.779999971,12,automatic,hv,hv
 2023-08-19T14:24:17.700Z,35.6735,-117.5611667,0.67,1.03,ml,10,103,0.1122,0.19,ci,ci39644698,2023-08-19T14:27:49.582Z,"12 km ENE of Ridgecrest, CA",earthquake,0.61,0.86,0.161,6,automatic,ci,ci
+2023-08-19T14:21:12.564Z,43.6356,145.9812,91.282,4.6,mb,50,95,2.497,0.63,us,us7000kpgl,2023-08-19T15:30:45.040Z,"44 km SSE of Yuzhno-Kurilsk, Russia",earthquake,9.35,7.255,0.045,145,reviewed,us,us
 2023-08-19T14:21:03.900Z,36.6476669,-121.2935028,2.51,2.25,md,24,110,,0.1,nc,nc73925871,2023-08-19T14:42:11.314Z,"16 km S of Tres Pinos, CA",earthquake,0.35,0.69,0.16,25,automatic,nc,nc
 2023-08-19T14:10:16.100Z,58.2631,-155.0827,5.4,0.5,ml,,,,0.51,ak,ak023am9jexe,2023-08-19T14:12:53.833Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T13:45:22.876Z,57.8902,-156.0907,8.6,1.1,ml,,,,0.53,ak,ak023am95hxb,2023-08-19T13:47:22.505Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
@@ -196,7 +198,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T16:13:56.081Z,61.4979,-151.9693,7,1.4,ml,,,,0.48,ak,ak023akn7nw8,2023-08-19T02:23:44.760Z,"61 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T16:13:48.800Z,35.6685,-117.5321667,11.74,0.88,ml,16,103,0.08838,0.15,ci,ci39643938,2023-08-18T23:08:06.217Z,"14 km ENE of Ridgecrest, CA",earthquake,0.42,0.97,0.135,8,reviewed,ci,ci
 2023-08-18T16:10:03.542Z,27.8841,53.9515,10,4.8,mb,57,63,3.556,0.8,us,us7000kp9x,2023-08-19T14:01:46.684Z,"29 km NW of Gerāsh, Iran",earthquake,9.43,1.879,0.052,116,reviewed,us,us
-2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"25 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:56:03.780Z,33.5968333,-116.6975,16.3,0.47,ml,15,84,0.04568,0.08,ci,ci39643922,2023-08-18T23:04:59.279Z,"5 km NNW of Anza, CA",earthquake,0.3,0.42,0.07,8,reviewed,ci,ci
 2023-08-18T15:35:14.483Z,52.5978,-170.9124,10,3.7,ml,20,185,0.611,0.82,us,us7000kp9v,2023-08-18T16:48:04.040Z,"143 km WSW of Nikolski, Alaska",earthquake,6.3,1.975,0.097,20,reviewed,us,us
-2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
