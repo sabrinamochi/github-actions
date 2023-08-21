@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-21T14:56:52.680Z,19.1924991607666,-155.382171630859,28.9699993133545,1.97000003,md,41,164,,0.119999997,hv,hv73536237,2023-08-21T14:59:59.480Z,"10 km E of Pāhala, Hawaii",earthquake,0.66,1.09000003,0.730000019,21,automatic,hv,hv
 2023-08-21T14:47:32.160Z,65.1007,-148.6844,18.8,0.8,ml,,,,0.3,ak,ak023apku2o0,2023-08-21T14:48:51.771Z,"31 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-21T14:45:28.740Z,38.8358345,-122.8051682,1.86,1.67,md,19,55,0.01186,0.01,nc,nc73926776,2023-08-21T14:57:11.280Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.59,0.14,19,automatic,nc,nc
 2023-08-21T14:36:48.810Z,34.3388333,-116.8676667,1.61,1.16,ml,17,101,0.03451,0.25,ci,ci39646490,2023-08-21T14:48:34.079Z,"9 km NNW of Big Bear City, CA",earthquake,0.44,0.57,0.135,25,automatic,ci,ci
@@ -96,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T05:29:11.090Z,34.4041672,-119.2098312,2.32,2.45,ml,22,96,0.06814,0.27,ci,ci39646130,2023-08-21T06:37:15.932Z,"6 km SSE of Ojai, CA",earthquake,0.45,0.7,0.31,17,automatic,ci,ci
 2023-08-21T05:28:45.076Z,-24.3356,179.973,503.262,4.9,mb,40,75,5.255,0.61,us,us7000kptc,2023-08-21T05:44:18.040Z,"south of the Fiji Islands",earthquake,12,8.89,0.084,44,reviewed,us,us
 2023-08-21T05:28:00.440Z,34.4233333,-119.175,1.91,2.03,ml,34,66,0.03383,0.34,ci,ci39646122,2023-08-21T06:36:40.892Z,"7 km ESE of Ojai, CA",earthquake,0.43,0.71,0.127,28,automatic,ci,ci
-2023-08-21T05:26:37.230Z,34.4103333,-119.195,1.96,2.71,ml,75,50,0.05443,0.31,ci,ci39646114,2023-08-21T14:59:18.502Z,"6 km SE of Ojai, CA",earthquake,0.21,0.42,0.206,11,reviewed,ci,ci
+2023-08-21T05:26:37.230Z,34.4103333,-119.195,1.96,2.71,ml,75,50,0.05443,0.31,ci,ci39646114,2023-08-21T15:00:07.690Z,"6 km SE of Ojai, CA",earthquake,0.21,0.42,0.206,11,reviewed,ci,ci
 2023-08-21T05:25:16.970Z,34.4096667,-119.1915,1.83,3.94,mw,105,27,0.05227,0.36,ci,ci39646098,2023-08-21T14:37:53.532Z,"6 km SE of Ojai, CA",earthquake,0.22,0.46,,4,reviewed,ci,ci
 2023-08-21T05:25:08.140Z,38.8296661,-122.8133316,1.12,1.09,md,21,45,0.006759,0.02,nc,nc73926651,2023-08-21T05:46:22.152Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.37,0.16,22,automatic,nc,nc
 2023-08-21T05:24:12.970Z,-3.2512,-79.8994,60.475,5.5,mww,71,103,2.026,0.82,us,us7000kpt4,2023-08-21T14:33:55.337Z,"6 km E of Machala, Ecuador",earthquake,8.64,6.015,0.098,10,reviewed,us,us
@@ -285,6 +286,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T17:46:27.440Z,51.9383333333333,-177.627166666667,4.95,1.12,ml,4,317,,0.13,av,av92011066,2023-08-20T23:57:46.830Z,"68 km W of Adak, Alaska",earthquake,1.02,13.65,0.362271931339944,6,reviewed,av,av
 2023-08-20T17:44:21.555Z,31.61650558,-104.1218906,6.902807617,2.2,ml,17,57,0.03851435452,0.1,tx,tx2023qhki,2023-08-21T14:04:35.347Z,"45 km NW of Toyah, Texas",earthquake,0.7456011943,1.10588514,0.1,29,reviewed,tx,tx
 2023-08-20T17:37:58.300Z,36.7763329,-121.3359985,4.36,1.81,md,16,85,,0.11,nc,nc73926296,2023-08-20T18:11:18.849Z,"2 km SW of Tres Pinos, CA",earthquake,0.32,0.7,0.17,15,automatic,nc,nc
+2023-08-20T17:35:48.500Z,45.8741666666667,-111.493333333333,2.93,1.33,ml,18,78,0.2713,0.1,mb,mb90024848,2023-08-21T15:00:31.720Z,"4 km ESE of Three Forks, Montana",earthquake,0.27,6.29,0.177635794823574,8,reviewed,mb,mb
 2023-08-20T17:19:30.441Z,31.72429039,-104.6013714,6.697143555000001,2.390583698,mlv,45,156,0.06242805051,0.3,tx,tx2023qhjn,2023-08-21T14:54:27.365Z,"54 km SSW of Whites City, New Mexico",earthquake,1.435659405,0.9836018211,0.2774853071,14,reviewed,tx,tx
 2023-08-20T17:09:07.766Z,64.87,-147.2378,14.7,0.9,ml,,,,0.27,ak,ak023anyutqw,2023-08-20T17:11:30.379Z,"9 km W of Two Rivers, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-20T17:05:58.769Z,56.4092,-159.1871,132.6,1,ml,,,,0.5,ak,ak023anyu2ys,2023-08-20T17:08:05.486Z,"31 km WNW of Chignik Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
