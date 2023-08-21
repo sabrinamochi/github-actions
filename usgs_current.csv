@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-21T23:08:00.530Z,40.7374992,-122.520668,15.95,2.07,md,10,110,0.07928,0.28,nc,nc73926851,2023-08-21T23:10:44.757Z,"10 km ENE of French Gulch, CA",earthquake,0.99,1.92,0.08,7,automatic,nc,nc
 2023-08-21T23:03:22.630Z,35.6905,-117.5325,10.26,0.79,ml,9,146,0.09212,0.16,ci,ci39646858,2023-08-21T23:06:54.288Z,"14 km SW of Searles Valley, CA",earthquake,0.7,1.5,0.116,4,automatic,ci,ci
+2023-08-21T22:55:34.384Z,-1.5578,126.4374,10,4.6,mb,49,81,2.494,0.66,us,us7000kpzi,2023-08-21T23:13:03.040Z,"75 km NE of Sanana, Indonesia",earthquake,8.59,1.891,0.085,41,reviewed,us,us
 2023-08-21T22:50:57.720Z,38.8348351,-122.7931671,1.79,1.05,md,13,52,0.004195,0.01,nc,nc73926846,2023-08-21T23:07:15.086Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.79,0.1,14,automatic,nc,nc
 2023-08-21T22:34:59.190Z,40.5151672,-124.3884964,18.31,2.34,md,14,290,0.1603,0.07,nc,nc73926841,2023-08-21T22:56:11.017Z,"12 km WSW of Ferndale, CA",earthquake,2.38,0.44,0.08,8,automatic,nc,nc
 2023-08-21T22:19:29.157Z,58.1827,-155.308,0.5,0.8,ml,,,,0.47,ak,ak023appfj83,2023-08-21T22:21:17.137Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -147,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T06:35:10.370Z,34.4175,-119.2113333,3.01,1.55,ml,21,86,0.06403,0.22,ci,ci39646218,2023-08-21T06:47:30.354Z,"4 km SE of Ojai, CA",earthquake,0.34,0.47,0.139,20,automatic,ci,ci
 2023-08-21T06:30:06.860Z,33.3093333,-116.2771667,7.91,1.36,ml,33,87,0.1179,0.21,ci,ci39646210,2023-08-21T06:42:16.440Z,"11 km ENE of Borrego Springs, CA",earthquake,0.31,1.41,0.186,29,automatic,ci,ci
 2023-08-21T06:28:06.170Z,34.4186667,-119.2008333,0.82,1.59,ml,24,71,0.05543,0.33,ci,ci39646202,2023-08-21T06:45:17.048Z,"5 km SE of Ojai, CA",earthquake,0.44,31.61,0.178,32,automatic,ci,ci
-2023-08-21T06:27:37.710Z,19.4323333333333,-155.865833333333,8.42,2.06,md,37,137,,0.21,hv,hv73535832,2023-08-21T16:09:36.500Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.37,0.118960617389789,15,reviewed,hv,hv
+2023-08-21T06:27:37.710Z,19.4323333333333,-155.865833333333,8.42,2.06,md,37,137,,0.21,hv,hv73535832,2023-08-21T16:09:36.500Z,"2 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.37,0.118960617389789,15,reviewed,hv,hv
 2023-08-21T06:19:31.410Z,34.4125,-119.1896667,0.7,1.99,ml,39,53,0.04953,0.36,ci,ci39646194,2023-08-21T06:30:35.530Z,"6 km SE of Ojai, CA",earthquake,0.41,31.61,0.128,26,automatic,ci,ci
 2023-08-21T06:17:32.327Z,54.3553,-165.0868,81.7,1.7,ml,,,,0.51,ak,ak023apfw72g,2023-08-21T14:09:11.378Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-08-21T06:14:53.970Z,36.3103333333333,-89.5255,9.43,2.05,md,36,32,0.03615,0.1,nm,nm60545876,2023-08-21T14:44:46.533Z,"6 km NNW of Ridgely, Tennessee",earthquake,0.15,0.32,0.12047238273607,33,reviewed,nm,nm
@@ -262,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T23:22:13.730Z,34.4248333,-119.165,1.35,1.69,ml,19,124,0.02573,0.31,ci,ci39645786,2023-08-20T23:25:49.044Z,"8 km ESE of Ojai, CA",earthquake,0.54,0.78,0.19,29,automatic,ci,ci
 2023-08-20T23:21:02.030Z,58.1716666666667,-155.341333333333,1.98,0,ml,10,119,,0.09,av,av92011356,2023-08-21T01:33:48.900Z,"Alaska Peninsula",earthquake,0.23,0.43,0.178617183040846,10,reviewed,av,av
 2023-08-20T23:14:10.520Z,34.4308333,-119.211,1.48,1.7,ml,18,107,0.06105,0.28,ci,ci39645770,2023-08-21T02:30:45.584Z,"4 km ESE of Ojai, CA",earthquake,0.51,0.85,0.157,29,automatic,ci,ci
-2023-08-20T23:13:11.150Z,34.0286667,-118.3201667,9.91,1.46,ml,26,113,0.02967,0.27,ci,ci39645762,2023-08-20T23:17:03.289Z,"4 km NE of View Park-Windsor Hills, CA",earthquake,0.59,0.93,0.112,31,automatic,ci,ci
