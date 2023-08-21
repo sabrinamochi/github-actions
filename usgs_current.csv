@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-21T06:11:41.460Z,34.4044991,-119.2164993,9.73,1.96,ml,18,57,0.06842,0.37,ci,ci39646186,2023-08-21T06:15:25.308Z,"5 km SSE of Ojai, CA",earthquake,0.74,1.83,0.375,14,automatic,ci,ci
+2023-08-21T06:11:25.180Z,34.3938333,-119.2076667,1.66,1.38,ml,13,149,0.0722,0.23,ci,ci39646178,2023-08-21T06:14:57.308Z,"7 km SSE of Ojai, CA",earthquake,0.6,0.77,0.175,11,automatic,ci,ci
 2023-08-21T06:08:32.875Z,63.0978,-150.8866,24,1.5,ml,,,,1.2,ak,ak023apfu8yf,2023-08-21T06:10:51.190Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-21T06:04:11.780Z,34.4181667,-119.2225,1.82,1.63,ml,16,171,0.07271,0.34,ci,ci39646170,2023-08-21T06:07:49.266Z,"4 km SSE of Ojai, CA",earthquake,0.67,0.85,0.284,10,automatic,ci,ci
 2023-08-21T06:01:29.644Z,35.65631104,-98.10792542,5.678892136,1.72,ml,10,83.1746788,0.09297762066,0.9457967222,ok,ok2023qiiq,2023-08-21T06:04:26.692Z,"6 km N of Calumet, Oklahoma",earthquake,4.924992924,5.972875057,0.19,8,automatic,ok,ok
@@ -151,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T21:43:06.750Z,34.4245,-119.1943333,2.12,3.04,ml,35,41,0.04858,0.35,ci,ci39645394,2023-08-21T04:55:23.537Z,"5 km ESE of Ojai, CA",earthquake,0.4,0.7,0.136,7,reviewed,ci,ci
 2023-08-20T21:42:46.530Z,34.443,-119.1996667,0.81,2.73,ml,14,77,0.05174,0.27,ci,ci37565916,2023-08-21T05:00:07.641Z,"4 km E of Ojai, CA",earthquake,0.41,0.97,0.12,3,reviewed,ci,ci
 2023-08-20T21:41:41.780Z,19.1846675872803,-155.492828369141,33.189998626709,2.00999999,md,38,75,,0.100000001,hv,hv73535157,2023-08-20T21:44:57.990Z,"2 km SW of Pāhala, Hawaii",earthquake,0.56,0.589999974,0.25999999,17,automatic,hv,hv
-2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T06:08:10.280Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
+2023-08-20T21:41:00.970Z,34.4085,-119.1883333,4.84,5.08,mw,115,27,0.05069,0.35,ci,ci39645386,2023-08-21T06:14:06.858Z,"7 km SE of Ojai, CA",earthquake,0.25,0.69,,6,reviewed,ci,ci
 2023-08-20T21:39:27.861Z,45.0774,23.1933,9.25,4.2,mb,45,67,1.222,1,us,us7000kpq7,2023-08-21T05:04:17.440Z,"2 km SSW of Leleşti, Romania",earthquake,4.88,5.157,0.103,26,reviewed,us,us
 2023-08-20T21:38:03.220Z,34.2161667,-116.5648333,0.22,1.65,ml,30,67,0.1332,0.19,ci,ci39645378,2023-08-21T00:48:20.685Z,"17 km NW of Yucca Valley, CA",earthquake,0.26,0.6,0.125,27,automatic,ci,ci
 2023-08-20T21:32:56.970Z,61.2891,-152.5013,4,1.4,ml,,,,0.37,ak,ak023ao1dlkx,2023-08-21T01:45:26.740Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -300,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T06:24:56.147Z,60.2017,-152.825,92.7,1.2,ml,,,,0.52,ak,ak023ansedpq,2023-08-20T06:26:49.053Z,"66 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-20T06:24:26.520Z,32.2823333,-115.109,20.61,2.91,ml,30,90,0.1653,0.28,ci,ci39645170,2023-08-20T14:47:36.300Z,"1 km SW of Guadalupe Victoria, B.C., MX",earthquake,0.41,0.91,0.222,53,reviewed,ci,ci
 2023-08-20T06:16:07.960Z,58.229,-155.127333333333,3.5,-0.22,ml,9,114,,0.11,av,av92010431,2023-08-20T22:00:41.220Z,"83 km NNW of Karluk, Alaska",earthquake,0.31,1.22,0.179528104913403,9,reviewed,av,av
-2023-08-20T06:14:25.715Z,55.2763,-162.4968,126.2,1.5,ml,,,,0.44,ak,ak023ansc6r3,2023-08-20T15:30:48.256Z,"17 km NE of Cold Bay, Alaska",earthquake,,1,,,reviewed,ak,ak
