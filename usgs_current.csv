@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-22T15:57:53.255Z,58.2069,-155.035,16.4,0.2,ml,,,,1.29,ak,ak023ar911jx,2023-08-22T15:59:55.292Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T15:51:38.530Z,19.2171669006348,-155.368667602539,31.0900001525879,2.2,ml,26,204,,0.129999995,hv,hv73537867,2023-08-22T15:57:12.540Z,"11 km E of Pāhala, Hawaii",earthquake,0.79,0.970000029,0.08,3,automatic,hv,hv
+2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
 2023-08-22T15:32:11.496Z,60.4216,-147.757,16,1.3,ml,,,,0.84,ak,ak023ar8vlfh,2023-08-22T15:34:55.650Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T15:30:41.540Z,19.3778324127197,-155.283004760742,1.5,1.92999995,md,15,95,,0.0900000036,hv,hv73537842,2023-08-22T15:36:11.550Z,"8 km SW of Volcano, Hawaii",earthquake,0.3,0.389999986,0.25999999,11,automatic,hv,hv
 2023-08-22T15:28:57.300Z,56.2966,-159.3618,145.1,2.3,ml,,,,0.26,ak,ak023ar8uu3m,2023-08-22T15:38:49.040Z,"37 km W of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T11:44:46.800Z,34.427,-119.171,1.36,2.12,ml,44,65,0.02941,0.27,ci,ci39647218,2023-08-22T12:54:53.908Z,"7 km ESE of Ojai, CA",earthquake,0.33,0.51,0.118,26,automatic,ci,ci
 2023-08-22T11:44:18.659Z,63.0041,-150.6913,105.7,1.2,ml,,,,0.35,ak,ak023ar6kg5l,2023-08-22T11:46:27.925Z,"56 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T11:41:19.580Z,19.3799991607666,-155.281494140625,1.12000000476837,1.7,ml,15,81,,0.0900000036,hv,hv73537692,2023-08-22T11:46:51.120Z,"8 km SW of Volcano, Hawaii",earthquake,0.22,0.25,0.24,7,automatic,hv,hv
-2023-08-22T11:39:19.080Z,34.4191667,-119.1645,4.89,3.89,mw,117,23,0.02849,0.36,ci,ci39647202,2023-08-22T16:08:28.600Z,"8 km ESE of Ojai, CA",earthquake,0.23,0.53,,6,reviewed,ci,ci
+2023-08-22T11:39:19.080Z,34.4191667,-119.1645,4.89,3.89,mw,117,23,0.02849,0.36,ci,ci39647202,2023-08-22T16:13:47.520Z,"8 km ESE of Ojai, CA",earthquake,0.23,0.53,,6,reviewed,ci,ci
 2023-08-22T11:37:42.380Z,33.7626667,-116.908,8.94,0.75,ml,23,83,0.07654,0.18,ci,ci39647194,2023-08-22T13:08:42.129Z,"2 km NW of Valle Vista, CA",earthquake,0.29,0.69,0.07,18,reviewed,ci,ci
 2023-08-22T11:34:00.330Z,35.9258333,-117.684,2.37,1.4,ml,18,133,0.111,0.17,ci,ci39647186,2023-08-22T11:44:58.090Z,"20 km E of Little Lake, CA",earthquake,0.37,0.53,0.15,11,automatic,ci,ci
 2023-08-22T11:22:36.657Z,62.3247,-149.5307,52,1,ml,,,,0.39,ak,ak023ar6frsh,2023-08-22T11:23:59.470Z,"24 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T04:25:11.460Z,44.5853333,-110.3671667,3.73,1.6,ml,13,101,0.03512,0.11,uu,uu60548087,2023-08-22T13:39:58.130Z,"50 km SSE of Mammoth, Wyoming",earthquake,0.26,0.62,0.336,3,reviewed,uu,uu
 2023-08-22T04:19:02.430Z,19.3698333333333,-155.2905,1.82,0.91,md,22,107,,0.1,hv,hv73537207,2023-08-22T04:34:51.120Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.28,0.0625882039776184,4,reviewed,hv,hv
 2023-08-22T04:18:58.830Z,19.3861666666667,-155.280833333333,1.23,0.64,md,11,147,,0.08,hv,hv73537202,2023-08-22T04:36:06.600Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.21,0.0190333108168049,2,reviewed,hv,hv
-2023-08-22T04:18:27.560Z,19.2240009307861,-155.410003662109,10.4499998092651,2.58,ml,8,218,,0.109999999,hv,hv73537197,2023-08-22T04:23:59.300Z,"7 km ENE of Pāhala, Hawaii",earthquake,1.9,1.03999996,0.36,4,automatic,hv,hv
+2023-08-22T04:18:21.750Z,19.2408333333333,-155.4165,31.65,1.52,md,17,157,,0.11,hv,hv73537197,2023-08-22T16:14:43.220Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.7,0.95,0.0750731423002761,10,reviewed,hv,hv
 2023-08-22T04:17:43.905Z,62.6056,-151.2927,93.2,1.1,ml,,,,0.66,ak,ak023ar28oja,2023-08-22T04:19:36.008Z,"29 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-22T04:16:16.470Z,19.3898333333333,-155.279,1.42,0.42,md,10,76,,0.08,hv,hv73537192,2023-08-22T04:30:44.130Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.24,0.263052503625167,2,reviewed,hv,hv
 2023-08-22T04:16:07.471Z,36.8214,-116.2431,1,0,ml,11,112.8,0.081,0.1923,nn,nn00864788,2023-08-22T04:18:04.727Z,"47 km ESE of Beatty, Nevada",earthquake,,3.6,0.19,8,automatic,nn,nn
