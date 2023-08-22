@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-22T22:34:15.510Z,35.9661674,-120.5193329,9.79,0.94,md,16,59,0.02124,0.05,nc,nc73927206,2023-08-22T22:35:54.234Z,"11 km NW of Parkfield, CA",earthquake,0.35,0.65,0.11,6,automatic,nc,nc
+2023-08-22T22:34:15.510Z,35.9661674,-120.5193329,9.79,0.94,md,16,59,0.02124,0.05,nc,nc73927206,2023-08-22T22:58:14.220Z,"11 km NW of Parkfield, CA",earthquake,0.35,0.65,0.11,6,automatic,nc,nc
 2023-08-22T22:20:20.440Z,38.7746658,-122.7158356,1.28,1.64,md,18,70,0.01447,0.05,nc,nc73927201,2023-08-22T22:37:17.102Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.35,0.18,20,automatic,nc,nc
-2023-08-22T22:20:10.090Z,33.4771667,-116.778,1.96,1.01,ml,37,35,0.03638,0.22,ci,ci39647978,2023-08-22T22:30:22.773Z,"9 km ENE of Aguanga, CA",earthquake,0.24,0.38,0.129,27,automatic,ci,ci
+2023-08-22T22:20:10.080Z,33.4775,-116.7786667,2.46,1.02,ml,29,42,0.03575,0.15,ci,ci39647970,2023-08-22T22:54:32.880Z,"9 km ENE of Aguanga, CA",earthquake,0.17,0.25,0.127,21,reviewed,ci,ci
 2023-08-22T22:08:18.280Z,34.4168333,-119.1811667,2.42,1.27,ml,11,86,0.04128,0.27,ci,ci39647962,2023-08-22T22:11:56.808Z,"7 km ESE of Ojai, CA",earthquake,0.51,0.66,0.182,18,automatic,ci,ci
 2023-08-22T22:06:53.890Z,38.8246651,-122.7993317,2.6,1.6,md,31,38,0.008486,0.02,nc,nc73927196,2023-08-22T22:49:11.161Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.36,0.19,30,automatic,nc,nc
 2023-08-22T21:59:42.450Z,19.4053333333333,-155.295166666667,2.19,1.76,ml,28,55,,0.1,hv,hv73538197,2023-08-22T22:19:36.530Z,"7 km WSW of Volcano, Hawaii",earthquake,0.18,0.17,0.0604528585995536,11,reviewed,hv,hv
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T20:21:37.337Z,59.9152,-151.4334,57.8,0.9,ml,,,,0.45,ak,ak023arbsgkl,2023-08-22T20:23:59.618Z,"15 km NE of Nikolaevsk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-22T20:18:12.388Z,63.4969,-151.7531,0,1.3,ml,,,,1.62,ak,ak023arbrrhy,2023-08-22T20:22:39.806Z,"5 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-22T20:05:10.947Z,-23.8116,-179.469,467.399,4.4,mb,68,102,4.74,0.97,us,us7000kq6l,2023-08-22T20:52:10.040Z,"south of the Fiji Islands",earthquake,12.3,7.303,0.073,59,reviewed,us,us
-2023-08-22T20:03:31.840Z,46.3275,-122.38666666666667,1.24,1.1400000000000001,ml,32,66,0.0379,0.17,uw,uw61943322,2023-08-22T22:14:49.410Z,"23 km SSE of Mossyrock, Washington",earthquake,0.4,0.67,0.1171452792363421,14,reviewed,uw,uw
+2023-08-22T20:03:31.380Z,46.343333333333334,-122.39516666666667,-1,1.26,ml,14,115,0.05264,0.19,uw,uw61943322,2023-08-22T22:57:25.180Z,"21 km SSE of Mossyrock, Washington",explosion,0.76,31.61,0.10941488467725291,8,reviewed,uw,uw
 2023-08-22T19:43:21.880Z,38.6769981,-122.5846634,9.29,1.14,md,6,188,0.031,0.24,nc,nc73927161,2023-08-22T20:01:13.182Z,"9 km SSE of Middletown, CA",earthquake,8.45,14.97,0.27,2,automatic,nc,nc
 2023-08-22T19:39:42.775Z,61.8623,-148.8733,37.5,0.8,ml,,,,0.35,ak,ak023arbaw9x,2023-08-22T19:41:03.972Z,"11 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-22T19:32:58.310Z,44.7448333,-111.129,12.68,1.16,md,13,94,0.04826,0.16,uu,uu60548142,2023-08-22T20:02:03.060Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.56,1.19,0.349,10,reviewed,uu,uu
@@ -305,5 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T23:12:44.801Z,39.3951,-119.7133,6.5,1.9,ml,22,42.36,0.04,0.1631,nn,nn00864768,2023-08-22T00:28:33.252Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.25,8,reviewed,nn,nn
 2023-08-21T23:08:00.180Z,40.7365,-122.533,15.64,2.05,md,23,60,0.07857,0.22,nc,nc73926851,2023-08-22T18:58:14.835Z,"9 km ENE of French Gulch, CA",earthquake,0.45,0.75,0.176,20,reviewed,nc,nc
 2023-08-21T23:03:22.630Z,35.6905,-117.5325,10.26,0.79,ml,9,146,0.09212,0.16,ci,ci39646858,2023-08-21T23:06:54.288Z,"14 km SW of Searles Valley, CA",earthquake,0.7,1.5,0.116,4,automatic,ci,ci
-2023-08-21T22:55:34.384Z,-1.5578,126.4374,10,4.6,mb,49,81,2.494,0.66,us,us7000kpzi,2023-08-21T23:13:03.040Z,"75 km NE of Sanana, Indonesia",earthquake,8.59,1.891,0.085,41,reviewed,us,us
-2023-08-21T22:54:59.940Z,45.858,-122.41316666666667,-0.68,1.68,ml,6,220,0.1038,0.36,uw,uw61943117,2023-08-22T00:59:48.890Z,"Washington-Oregon border region",explosion,1.51,31.61,0.1984029994634371,5,reviewed,uw,uw
