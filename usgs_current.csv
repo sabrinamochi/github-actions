@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-23T19:20:24.390Z,19.3696670532227,-155.289840698242,1.92999994754791,1.9,ml,20,107,,0.129999995,hv,hv73540397,2023-08-23T19:25:55.920Z,"9 km SW of Volcano, Hawaii",earthquake,0.26,0.370000005,0.22,7,automatic,hv,hv
+2023-08-23T19:20:24.480Z,19.3733333333333,-155.2885,2.05,0.96,md,30,100,,0.13,hv,hv73540397,2023-08-23T19:32:37.670Z,"Hawaii region, Hawaii",earthquake,0.2,0.23,0.0387810707251739,7,reviewed,hv,hv
 2023-08-23T19:12:34.870Z,19.3836666666667,-155.278333333333,1.21,0.96,md,27,68,,0.11,hv,hv73540382,2023-08-23T19:27:53.940Z,"8 km SW of Volcano, Hawaii",earthquake,0.16,0.11,0.178677550893577,7,reviewed,hv,hv
 2023-08-23T19:07:46.500Z,19.3886666666667,-155.278666666667,1.28,0.46,md,15,63,,0.06,hv,hv73540372,2023-08-23T19:22:44.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.21,0.0774518749029793,2,reviewed,hv,hv
 2023-08-23T19:06:15.339Z,61.7162,-149.8758,33.3,1.4,ml,,,,0.57,ak,ak023asyn40t,2023-08-23T19:08:19.998Z,"9 km ESE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-23T19:05:32.210Z,19.3803333333333,-155.282333333333,0.82,0.57,md,11,170,,0.08,hv,hv73540367,2023-08-23T19:35:22.620Z,"8 km SW of Volcano, Hawaii",earthquake,0.39,0.26,0.342729455299098,2,reviewed,hv,hv
 2023-08-23T18:57:43.450Z,34.9845,-118.1791667,0.15,1.24,ml,13,76,0.113,0.22,ci,ci39648602,2023-08-23T19:01:14.516Z,"8 km S of Mojave, CA",earthquake,0.5,31.61,0.169,17,automatic,ci,ci
 2023-08-23T18:54:09.490Z,38.7986679,-122.7331696,1.85,0.73,md,8,105,0.01566,0.03,nc,nc73927536,2023-08-23T19:20:13.126Z,"3 km SSW of Cobb, CA",earthquake,0.29,0.81,0.03,8,automatic,nc,nc
-2023-08-23T18:51:50.603Z,59.9265,-153.5421,160.6,3.2,ml,,,,0.43,ak,ak023asybefb,2023-08-23T18:53:55.088Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-23T18:51:50.603Z,59.9265,-153.5421,160.6,3.2,ml,,,,0.43,ak,ak023asybefb,2023-08-23T19:34:23.040Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T18:47:49.540Z,19.3945,-155.279666666667,1.19,1.56,ml,15,48,,0.09,hv,hv73540337,2023-08-23T19:16:13.220Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.21,0.0680650784633313,6,reviewed,hv,hv
+2023-08-23T18:45:47.140Z,19.3825,-155.281166666667,1.24,0.74,md,18,80,,0.07,hv,hv73540332,2023-08-23T19:39:29.810Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.17,0.143156024968964,3,reviewed,hv,hv
 2023-08-23T18:42:59.020Z,38.8391685,-122.8106689,1.3,0.7,md,12,65,0.01576,0.03,nc,nc73927521,2023-08-23T19:10:14.073Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.85,0.18,11,automatic,nc,nc
 2023-08-23T18:41:24.300Z,36.0911667,-117.9013333,4.27,2,ml,23,117,0.04595,0.19,ci,ci39648578,2023-08-23T18:52:59.596Z,"7 km NE of Coso Junction, CA",earthquake,0.37,0.68,0.122,21,automatic,ci,ci
 2023-08-23T18:35:14.950Z,19.2226657867432,-155.363998413086,30.3999996185303,2.32,ml,16,220,,0.129999995,hv,hv73540297,2023-08-23T18:40:45.690Z,"12 km E of Pāhala, Hawaii",earthquake,0.85,1.34000003,0.24,4,automatic,hv,hv
@@ -320,6 +322,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T20:03:31.380Z,46.343333333333334,-122.39516666666667,-1,1.26,ml,14,115,0.05264,0.19,uw,uw61943322,2023-08-22T22:57:25.180Z,"21 km SSE of Mossyrock, Washington",explosion,0.76,31.61,0.10941488467725291,8,reviewed,uw,uw
 2023-08-22T19:51:05.383Z,36.7429,-116.2735,7,-0.3,ml,14,68.07,0.004,0.071,nn,nn00864831,2023-08-23T00:30:11.654Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.21,5,reviewed,nn,nn
 2023-08-22T19:43:26.020Z,38.8265,-122.8076667,2.14,0.43,md,15,70,0.003626,0.02,nc,nc73927161,2023-08-22T23:52:14.534Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.58,0.179,15,reviewed,nc,nc
-2023-08-22T19:39:42.775Z,61.8623,-148.8733,37.5,0.8,ml,,,,0.35,ak,ak023arbaw9x,2023-08-22T19:41:03.972Z,"11 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-22T19:32:58.310Z,44.7448333,-111.129,12.68,1.16,md,13,94,0.04826,0.16,uu,uu60548142,2023-08-22T20:02:03.060Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.56,1.19,0.349,10,reviewed,uu,uu
-2023-08-22T19:31:16.520Z,32.7598333,-116.9096667,4.64,1.15,ml,19,91,0.03667,0.25,ci,ci39647834,2023-08-22T19:34:51.771Z,"3 km ENE of Rancho San Diego, CA",quarry blast,0.63,1.25,0.103,10,automatic,ci,ci
