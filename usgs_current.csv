@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T13:18:47.740Z,33.5611667,-116.6498333,3.25,0.45,ml,9,99,0.017,0.13,ci,ci39648274,2023-08-23T13:22:21.028Z,"2 km ENE of Anza, CA",earthquake,0.41,0.69,0.177,6,automatic,ci,ci
 2023-08-23T13:07:28.380Z,33.561,-116.6496667,2.31,0.85,ml,31,66,0.01693,0.14,ci,ci39648266,2023-08-23T13:10:56.465Z,"2 km ENE of Anza, CA",earthquake,0.17,0.19,0.177,26,automatic,ci,ci
 2023-08-23T13:03:44.210Z,33.548,-116.6021667,9.54,0.62,ml,13,75,0.009771,0.22,ci,ci39648258,2023-08-23T13:07:09.646Z,"7 km E of Anza, CA",earthquake,0.72,0.71,0.233,10,automatic,ci,ci
 2023-08-23T12:59:52.710Z,33.5678333,-116.6543333,2.61,0.47,ml,15,76,0.01988,0.19,ci,ci39648242,2023-08-23T13:03:24.628Z,"2 km NE of Anza, CA",earthquake,0.46,0.32,0.117,8,automatic,ci,ci
@@ -116,12 +117,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T04:45:50.481Z,61.7697,-142.8726,78.3,1.5,ml,,,,0.52,ak,ak023aspy1l4,2023-08-23T04:47:50.419Z,"37 km N of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-23T04:42:38.918Z,59.6597,-153.4211,0,2.1,ml,,,,1.1,ak,ak023aspxdjz,2023-08-23T04:46:34.467Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T04:42:09.894Z,61.2971,-152.6136,0.1,1.9,ml,,,,1.13,ak,ak023aspxb90,2023-08-23T04:44:01.303Z,"83 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-23T04:38:58.670Z,33.49,-116.7595,6.93,0.59,ml,22,40,0.04295,0.18,ci,ci39648098,2023-08-23T04:42:33.064Z,"11 km SW of Anza, CA",earthquake,0.26,0.65,0.123,19,automatic,ci,ci
+2023-08-23T04:38:58.670Z,33.49,-116.7595,6.93,0.59,ml,22,40,0.04295,0.18,ci,ci39648098,2023-08-23T13:22:17.788Z,"11 km SW of Anza, CA",earthquake,0.26,0.65,0.123,19,reviewed,ci,ci
 2023-08-23T04:30:15.880Z,34.3433333,-116.8691667,1.74,1.4,ml,42,93,0.03482,0.22,ci,ci39648090,2023-08-23T04:41:15.770Z,"9 km NNW of Big Bear City, CA",earthquake,0.3,0.5,0.207,28,automatic,ci,ci
 2023-08-23T04:26:41.110Z,38.8163338,-122.8191681,2.46,1.1,md,19,85,0.01001,0.01,nc,nc73927311,2023-08-23T06:22:13.669Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.42,0.11,20,automatic,nc,nc
 2023-08-23T04:14:10.936Z,57.2038,-156.27,81.3,1.4,ml,,,,0.38,ak,ak023asprbc5,2023-08-23T04:16:33.401Z,"76 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-23T04:08:58.460Z,38.7944984,-122.7494965,2.09,0.79,md,18,92,0.01006,0.03,nc,nc73927301,2023-08-23T05:54:13.522Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.5,0.14,17,automatic,nc,nc
-2023-08-23T04:01:40.420Z,33.2511667,-116.2905,8.14,0.7,ml,16,160,0.06586,0.15,ci,ci39648082,2023-08-23T04:05:14.402Z,"8 km E of Borrego Springs, CA",earthquake,0.45,0.87,0.132,10,automatic,ci,ci
+2023-08-23T04:01:40.420Z,33.2511667,-116.2905,8.14,0.7,ml,16,160,0.06586,0.15,ci,ci39648082,2023-08-23T13:22:32.545Z,"8 km E of Borrego Springs, CA",earthquake,0.45,0.87,0.132,10,reviewed,ci,ci
 2023-08-23T04:00:00.931Z,58.9174,-151.3497,25.2,1.8,ml,,,,0.48,ak,ak023aspoakw,2023-08-23T04:03:04.061Z,"55 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-23T03:55:15.820Z,19.376,-155.2845,1.64,2.03,ml,26,94,,0.09,hv,hv73538532,2023-08-23T04:47:23.890Z,"9 km SW of Volcano, Hawaii",earthquake,0.16,0.18,0.244780119295656,14,reviewed,hv,hv
 2023-08-23T03:50:25.974Z,59.9055,-152.7143,109.1,1.5,ml,,,,0.19,ak,ak023aspdmmx,2023-08-23T03:52:11.039Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -252,7 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T15:58:32.220Z,37.0353333,-119.6743333,23.07,1.95,md,11,153,0.04753,0.15,nc,nc73927116,2023-08-22T20:44:14.442Z,"7 km NNE of Friant, CA",earthquake,1.32,0.66,0.159,9,reviewed,nc,nc
 2023-08-22T15:57:53.255Z,58.2069,-155.035,16.4,0.2,ml,,,,1.29,ak,ak023ar911jx,2023-08-22T15:59:55.292Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T15:51:38.530Z,19.2171669006348,-155.368667602539,31.0900001525879,2.2,ml,26,204,,0.129999995,hv,hv73537867,2023-08-22T15:57:12.540Z,"11 km E of Pāhala, Hawaii",earthquake,0.79,0.970000029,0.08,3,automatic,hv,hv
-2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
+2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"Puerto Rico region",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
 2023-08-22T15:32:11.496Z,60.4216,-147.757,16,1.3,ml,,,,0.84,ak,ak023ar8vlfh,2023-08-22T15:34:55.650Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T15:30:41.540Z,19.378,-155.283666666667,1.4,1.78,md,17,94,,0.07,hv,hv73537842,2023-08-23T04:33:56.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.0282047101677299,2,reviewed,hv,hv
 2023-08-22T15:29:29.440Z,37.4951667,-118.8018333,9,0.86,md,13,305,0.09714,0.03,nc,nc73927111,2023-08-22T17:31:13.310Z,"13 km SW of Toms Place, CA",earthquake,1.17,1.21,0.128,13,reviewed,nc,nc
