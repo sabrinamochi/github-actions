@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T03:27:07.415Z,63.314,-149.5983,13.1,1.2,ml,,,,0.58,ak,ak023aucs09h,2023-08-24T03:29:02.181Z,"33 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T03:17:37.300Z,35.7863333,-117.5801667,7.02,1.21,ml,13,178,0.1518,0.2,ci,ci39649154,2023-08-24T03:21:11.802Z,"16 km W of Searles Valley, CA",earthquake,0.65,1.2,0.154,8,automatic,ci,ci
-2023-08-24T03:04:28.360Z,38.8193321,-122.7988358,3.2,1.1,md,24,37,0.009671,0.02,nc,nc73927796,2023-08-24T03:15:10.864Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.46,0.12,23,automatic,nc,nc
+2023-08-24T03:04:28.360Z,38.8193321,-122.7988358,3.2,1.1,md,24,37,0.009671,0.02,nc,nc73927796,2023-08-24T03:29:18.951Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.46,0.12,23,automatic,nc,nc
 2023-08-24T03:02:35.300Z,33.484,-116.7618333,6.22,0.41,ml,17,76,0.0434,0.19,ci,ci39649146,2023-08-24T03:06:04.302Z,"11 km ENE of Aguanga, CA",earthquake,0.36,0.82,0.057,11,automatic,ci,ci
 2023-08-24T02:44:27.076Z,58.2034,-147.1838,112.6,2.2,ml,,,,0.83,ak,ak023auca9cj,2023-08-24T02:47:30.897Z,"212 km SSE of Chenega, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-08-24T02:44:00.224Z,56.5039,-148.642,10,2.6,ml,25,255,2.502,0.34,us,us7000kqk7,2023-08-24T02:52:42.040Z,"252 km ESE of Chiniak, Alaska",earthquake,11.78,2.022,0.066,30,reviewed,us,us
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T20:58:31.570Z,19.4051666666667,-155.241666666667,1.92,0.52,md,10,93,,0.1,hv,hv73540507,2023-08-23T21:25:07.940Z,"4 km S of Volcano, Hawaii",earthquake,0.28,0.42,0.233777822508442,2,reviewed,hv,hv
 2023-08-23T20:44:32.900Z,38.8358345,-122.807663,2.28,0.79,md,14,51,0.01256,0.01,nc,nc73927576,2023-08-23T22:08:12.071Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.84,0.11,15,automatic,nc,nc
 2023-08-23T20:33:49.338Z,59.0604,-154.0019,120.6,1.4,ml,,,,0.3,ak,ak023aszeel1,2023-08-23T20:36:50.378Z,"61 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-23T20:21:49.536Z,31.69379941,-104.2892715,9.21652832,3.3,ml,59,103,0.03043093483,0.3,tx,tx2023qnca,2023-08-23T20:40:22.441Z,"54 km S of Whites City, New Mexico",earthquake,0.6353161034,0.7876231846000001,0.2,42,reviewed,tx,tx
+2023-08-23T20:21:49.536Z,31.69379941,-104.2892715,9.21652832,3.3,ml,59,103,0.03043093483,0.3,tx,tx2023qnca,2023-08-23T20:40:22.441Z,"western Texas",earthquake,0.6353161034,0.7876231846000001,0.2,42,reviewed,tx,tx
 2023-08-23T20:18:10.330Z,19.3903333333333,-155.281333333333,1.25,0.62,md,13,56,,0.08,hv,hv73540462,2023-08-23T20:33:38.250Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.24,0.00234278435546365,3,reviewed,hv,hv
 2023-08-23T20:05:21.270Z,63.1291,-151.543,0,1.6,ml,,,,0.83,ak,ak023asz8cdb,2023-08-23T20:07:27.085Z,"46 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-23T20:04:58.820Z,19.391,-155.282333333333,1.15,0.26,md,12,94,,0.06,hv,hv73540447,2023-08-23T20:23:31.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.21,0.103280605452682,2,reviewed,hv,hv
@@ -349,7 +350,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T05:32:53.720Z,59.9047,-151.4871,69.1,1,ml,,,,0.58,ak,ak023asqgp4s,2023-08-23T05:34:40.390Z,"12 km NE of Nikolaevsk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-23T05:32:44.380Z,38.8260002,-122.809166,1.66,0.68,md,16,63,0.002696,0.02,nc,nc73927321,2023-08-23T05:54:12.521Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.62,0.34,16,automatic,nc,nc
 2023-08-23T05:12:22.740Z,19.1948337554932,-155.414672851562,32.6399993896484,1.84000003,md,27,183,,0.0900000036,hv,hv73538672,2023-08-23T05:15:32.870Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.819999993,0.920000017,3,automatic,hv,hv
-2023-08-23T05:07:30.020Z,36.94,-89.1865,6.05,2.59,md,30,115,0.1659,0.15,nm,nm60546071,2023-08-23T22:17:17.430Z,"3 km ENE of Wilson City, Missouri",earthquake,0.29,3.15,0.0739800523618168,22,reviewed,nm,nm
+2023-08-23T05:07:30.020Z,36.94,-89.1865,6.05,2.59,md,30,115,0.1659,0.15,nm,nm60546071,2023-08-24T03:25:33.725Z,"3 km ENE of Wilson City, Missouri",earthquake,0.29,3.15,0.0739800523618168,22,reviewed,nm,nm
 2023-08-23T04:54:09.250Z,19.8316666666667,-155.360666666667,29.7,3.19,ml,60,73,,0.14,hv,hv73538632,2023-08-23T23:14:18.254Z,"21 km SW of Laupāhoehoe, Hawaii",earthquake,0.34,0.7,0.181938518128729,40,reviewed,hv,hv
 2023-08-23T04:53:20.990Z,19.1474990844727,-155.496170043945,29.7600002288818,2.23,ml,24,199,,0.119999997,hv,hv73538627,2023-08-23T04:58:52.020Z,"6 km SSW of Pāhala, Hawaii",earthquake,1.08,1.15999997,3.41,15,automatic,hv,hv
 2023-08-23T04:50:19.190Z,44.6111666666667,-112.599666666667,8.42,0.87,ml,7,96,0.03223,0.09,mb,mb90025388,2023-08-23T16:53:48.400Z,"2 km SSW of Lima, Montana",earthquake,0.33,0.54,0.175789769957953,6,reviewed,mb,mb
@@ -369,5 +370,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T03:50:14.200Z,46.9048333333333,-112.525,12.39,1.33,ml,12,70,0.06527,0.11,mb,mb90025228,2023-08-23T18:13:33.910Z,"13 km ESE of Lincoln, Montana",earthquake,0.49,0.81,0.175922799065035,8,reviewed,mb,mb
 2023-08-23T03:35:36.880Z,38.8224983,-122.8118362,1.28,1.07,md,25,39,0.001642,0.03,nc,nc73927296,2023-08-23T04:00:12.875Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.35,0.12,25,automatic,nc,nc
 2023-08-23T03:33:30.300Z,38.8144989,-122.8223343,2.7,0.4,md,7,88,0.007759,0.01,nc,nc73927291,2023-08-23T03:49:12.813Z,"7 km NW of The Geysers, CA",earthquake,0.61,2.38,0.17,8,automatic,nc,nc
-2023-08-23T03:27:53.228Z,-21.4381,-178.2344,407.021,4.9,mb,87,50,2.839,0.54,us,us7000kq8q,2023-08-23T04:07:09.040Z,"Fiji region",earthquake,10.36,5.611,0.031,334,reviewed,us,us
-2023-08-23T03:25:54.757Z,61.0136,-152.3526,14.7,1.6,ml,,,,0.68,ak,ak023asp8bzn,2023-08-23T03:27:32.398Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
