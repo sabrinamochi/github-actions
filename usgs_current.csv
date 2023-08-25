@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T00:20:08.520Z,38.7958336,-122.8071671,3.68,0.38,md,7,108,0.008152,0.01,nc,nc73928191,2023-08-25T00:21:44.585Z,"5 km WNW of The Geysers, CA",earthquake,0.7,1.84,0.14,8,automatic,nc,nc
 2023-08-25T00:18:44.520Z,33.765667,-116.1405029,4.88,0.97,ml,19,105,0.07427,0.14,ci,ci39650162,2023-08-25T00:20:49.397Z,"9 km NE of Indio, CA",earthquake,0.32,0.76,0.242,4,automatic,ci,ci
 2023-08-25T00:14:06.781Z,61.575,-141.4554,0,1.6,ml,,,,0.55,ak,ak023avyg9l2,2023-08-25T00:16:15.415Z,"79 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T00:07:36.580Z,33.7686667,-116.1426667,3.02,1.63,ml,42,71,0.07141,0.2,ci,ci39650138,2023-08-25T00:18:35.200Z,"9 km NE of Indio, CA",earthquake,0.26,0.58,0.181,26,automatic,ci,ci
 2023-08-25T00:05:53.500Z,33.762,-116.1345,4.89,0.88,ml,16,106,0.08035,0.17,ci,ci39650130,2023-08-25T00:09:22.992Z,"9 km ENE of Indio, CA",earthquake,0.37,0.73,0.161,16,automatic,ci,ci
 2023-08-25T00:05:23.300Z,38.8383331,-122.836998,1.97,0.76,md,10,119,0.01527,0.02,nc,nc73928186,2023-08-25T00:06:59.179Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.93,0.22,9,automatic,nc,nc
 2023-08-24T23:56:46.400Z,19.3904991149902,-155.279006958008,0.589999973773956,1.9,ml,14,99,,0.100000001,hv,hv73542857,2023-08-25T00:02:17.970Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.140000001,0.59,9,automatic,hv,hv
+2023-08-24T23:43:27.584Z,38.5941,-118.5151,2,1.1,ml,9,111.03,0.343,0.1686,nn,nn00864995,2023-08-25T00:21:58.287Z,"12 km NE of Hawthorne, Nevada",earthquake,,2.7,0.25,5,reviewed,nn,nn
 2023-08-24T23:41:07.430Z,19.9115009307861,-155.518661499023,31.5799999237061,2.52,ml,33,165,,0.129999995,hv,hv73542842,2023-08-24T23:55:14.238Z,"19 km SSW of Honoka‘a, Hawaii",earthquake,0.6,0.779999971,3.4,13,automatic,hv,hv
 2023-08-24T23:38:26.250Z,38.8370018,-122.8324966,0.96,0.69,md,8,194,0.01401,0.01,nc,nc73928171,2023-08-24T23:59:18.231Z,"9 km NW of The Geysers, CA",earthquake,0.58,1.27,0.5,8,automatic,nc,nc
 2023-08-24T23:28:54.817Z,-33.9845,-73.2788,10,4.6,mb,46,150,1.424,0.73,us,us7000kqu7,2023-08-24T23:47:54.040Z,"Off the coast of Valparaiso, Chile",earthquake,4.9,1.43,0.129,18,reviewed,us,us
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T18:18:08.870Z,38.8186684,-122.7996674,3.18,0.27,md,8,90,0.01122,0.01,nc,nc73928066,2023-08-24T18:34:13.294Z,"6 km NW of The Geysers, CA",earthquake,0.62,1.09,0.08,8,automatic,nc,nc
 2023-08-24T18:16:16.200Z,33.7666667,-116.1391667,5.35,0.67,ml,16,105,0.07488,0.11,ci,ci39649754,2023-08-24T23:06:42.001Z,"9 km NE of Indio, CA",earthquake,0.23,0.64,0.111,12,reviewed,ci,ci
 2023-08-24T18:08:44.742Z,60.9451,-151.6916,102.6,0.9,ml,,,,0.92,ak,ak023aulliks,2023-08-24T18:11:28.997Z,"32 km WSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-24T18:08:21.140Z,33.9728333,-118.3053333,8,2.66,ml,76,41,0.048,0.25,ci,ci39649738,2023-08-25T00:08:17.353Z,"4 km ENE of Inglewood, CA",earthquake,0.18,0.43,0.177,90,reviewed,ci,ci
+2023-08-24T18:08:21.140Z,33.9728333,-118.3053333,8,2.66,ml,76,41,0.048,0.25,ci,ci39649738,2023-08-25T00:21:19.885Z,"4 km ENE of Inglewood, CA",earthquake,0.18,0.43,0.177,90,reviewed,ci,ci
 2023-08-24T18:04:52.989Z,-32.2769,179.8894,283.864,4.6,mb,36,133,3.547,1.3,us,us7000kqpg,2023-08-24T18:43:53.040Z,"south of the Kermadec Islands",earthquake,10.65,8.928,0.086,40,reviewed,us,us
 2023-08-24T18:01:13.810Z,40.2713333,-121.2493333,2.04,2.4,md,23,75,0.08297,0.15,nc,nc73928061,2023-08-24T22:31:13.715Z,"4 km SSW of Chester, CA",earthquake,0.37,1.22,0.148,37,reviewed,nc,nc
 2023-08-24T18:00:42.590Z,19.2493324279785,-155.40299987793,28.7900009155273,1.72000003,md,32,130,,0.109999999,hv,hv73542407,2023-08-24T18:03:59.000Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.910000026,0.730000019,3,automatic,hv,hv
