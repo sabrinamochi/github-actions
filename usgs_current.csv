@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-25T21:45:44.380Z,34.1076667,-116.9428333,12.51,1.26,ml,31,88,0.01522,0.18,ci,ci39651290,2023-08-25T21:49:17.190Z,"12 km NE of Yucaipa, CA",earthquake,0.28,0.74,0.184,27,automatic,ci,ci
+2023-08-25T21:56:59.900Z,38.8173332,-122.814003,2.95,0.78,md,10,72,0.006787,0.01,nc,nc73929111,2023-08-25T21:58:33.832Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.99,0.26,12,automatic,nc,nc
+2023-08-25T21:53:11.580Z,38.7971649,-122.7368317,1.9,1.09,md,11,101,0.01391,0.02,nc,nc73929106,2023-08-25T21:54:49.010Z,"3 km NE of The Geysers, CA",earthquake,0.36,1.07,0.21,11,automatic,nc,nc
+2023-08-25T21:45:44.380Z,34.1076667,-116.9428333,12.51,1.26,ml,31,88,0.01522,0.18,ci,ci39651290,2023-08-25T21:56:35.510Z,"12 km NE of Yucaipa, CA",earthquake,0.28,0.74,0.184,27,automatic,ci,ci
 2023-08-25T21:43:58.870Z,38.8139992,-122.7965012,1.56,0.78,md,12,57,0.006095,0.02,nc,nc73929091,2023-08-25T21:45:33.015Z,"5 km NW of The Geysers, CA",earthquake,0.33,0.6,0.13,14,automatic,nc,nc
 2023-08-25T21:32:19.345Z,64.9067,-148.6464,12.6,1,ml,,,,0.38,ak,ak023awb295a,2023-08-25T21:33:49.387Z,"30 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T21:29:12.310Z,33.8978333,-116.9103333,11.23,0.7,ml,16,109,0.1138,0.21,ci,ci39651258,2023-08-25T21:32:45.933Z,"4 km SW of Banning, CA",earthquake,0.5,1.4,0.221,11,automatic,ci,ci
@@ -13,8 +15,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T20:40:39.399Z,64.8187,-147.3733,7.9,1.4,ml,,,,0.57,ak,ak023awaiktf,2023-08-25T20:43:45.483Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-25T20:38:55.490Z,32.6243333,-117.3181667,17.81,1.54,ml,19,204,0.2166,0.17,ci,ci39651186,2023-08-25T20:42:32.148Z,"14 km WSW of Coronado, CA",earthquake,0.6,1.39,0.178,11,automatic,ci,ci
 2023-08-25T20:25:02.880Z,38.8231659,-122.8098297,3.02,0.76,md,8,84,0.0002979,0.01,nc,nc73929051,2023-08-25T20:26:39.008Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.97,0.23,10,automatic,nc,nc
+2023-08-25T20:19:55.775Z,36.6682,-116.363,8.6,0.1,ml,14,197.38,0.011,0.1405,nn,nn00865046,2023-08-25T21:56:27.992Z,"44 km SE of Beatty, Nevada",earthquake,,1.2,0.07,3,reviewed,nn,nn
 2023-08-25T20:19:43.670Z,19.4926662445068,-155.564498901367,15.0500001907349,2.03,ml,32,88,,0.129999995,hv,hv73544492,2023-08-25T20:25:19.660Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.75999999,0.97,4,automatic,hv,hv
 2023-08-25T20:15:07.050Z,33.0715,-116.2103333,2.36,0.85,ml,17,76,0.0912,0.23,ci,ci39651154,2023-08-25T20:18:35.066Z,"11 km SW of Ocotillo Wells, CA",earthquake,0.34,0.74,0.168,12,automatic,ci,ci
+2023-08-25T20:12:34.406Z,36.6704,-116.3565,8.2,-0.3,ml,11,215.48,0.029,0.0959,nn,nn00865047,2023-08-25T21:59:43.643Z,"44 km SE of Beatty, Nevada",earthquake,,1.4,0.27,3,reviewed,nn,nn
 2023-08-25T20:04:50.640Z,33.8696667,-117.5213333,0.71,0.93,ml,20,79,0.08216,0.28,ci,ci39651138,2023-08-25T20:08:28.626Z,"1 km S of Home Gardens, CA",quarry blast,0.67,31.61,0.186,15,automatic,ci,ci
 2023-08-25T19:50:28.490Z,61.6946,-149.8878,29.3,1.6,ml,,,,0.5,ak,ak023aw9z9j5,2023-08-25T19:52:26.525Z,"8 km NNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T19:41:04.109Z,60.1752,-150.8536,58.4,1.4,ml,,,,0.3,ak,ak023aw9xa7e,2023-08-25T19:43:24.652Z,"29 km SE of Kasilof, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -29,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T19:06:22.670Z,38.8226662,-122.8161697,3.65,0.27,md,8,119,0.01474,0.02,nc,nc73928976,2023-08-25T19:07:57.563Z,"7 km NW of The Geysers, CA",earthquake,0.56,1.69,0.15,10,automatic,nc,nc
 2023-08-25T18:58:09.010Z,34.9911667,-118.1871667,-0.93,1.12,ml,16,57,0.1171,0.2,ci,ci39650994,2023-08-25T20:35:29.502Z,"7 km S of Mojave, CA",quarry blast,0.42,31.61,0.109,10,reviewed,ci,ci
 2023-08-25T18:53:29.460Z,38.8261667,-122.813,3.27,0.47,md,22,44,0.003589,0.02,nc,nc73928961,2023-08-25T21:39:15.754Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.61,0.089,19,reviewed,nc,nc
-2023-08-25T18:49:31.900Z,34.3455,-119.1765,9.79,1.68,ml,28,74,0.09673,0.31,ci,ci39650970,2023-08-25T18:53:03.281Z,"9 km NNE of Ventura, CA",earthquake,0.71,1.17,0.133,31,automatic,ci,ci
+2023-08-25T18:49:31.900Z,34.3455,-119.1765,9.79,1.68,ml,28,74,0.09673,0.31,ci,ci39650970,2023-08-25T21:54:10.828Z,"9 km NNE of Ventura, CA",earthquake,0.71,1.17,0.133,31,automatic,ci,ci
 2023-08-25T18:22:55.230Z,17.6355,-67.7725,17.13,2.87,md,7,265,0.4643,0.09,pr,pr71422143,2023-08-25T18:36:11.540Z,"72 km WSW of Pole Ojea, Puerto Rico",earthquake,1.91,2.7,0.00746436786366433,4,reviewed,pr,pr
 2023-08-25T18:12:48.870Z,38.8256683,-122.7976685,2.75,0.78,md,14,127,0.009953,0.02,nc,nc73928936,2023-08-25T18:14:23.141Z,"6 km NNW of The Geysers, CA",earthquake,0.35,0.61,0.08,14,automatic,nc,nc
 2023-08-25T18:02:29.730Z,34.0241667,-117.4768333,0.53,1,ml,26,57,0.0194,0.31,ci,ci39650930,2023-08-25T18:05:59.477Z,"2 km NNE of Glen Avon, CA",earthquake,0.61,31.61,0.239,31,automatic,ci,ci
@@ -312,4 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T22:09:40.886Z,-4.3045,149.8072,10,4.5,mb,19,122,5.708,0.86,us,us7000kqt7,2023-08-24T22:42:27.040Z,"142 km NNW of Kimbe, Papua New Guinea",earthquake,7.49,1.936,0.15,13,reviewed,us,us
 2023-08-24T22:01:58.630Z,44.782,-110.8843333,6.38,0.78,md,12,81,0.02491,0.16,uu,uu60548277,2023-08-24T22:24:06.040Z,"21 km NE of West Yellowstone, Montana",earthquake,0.45,0.9,0.386,7,reviewed,uu,uu
 2023-08-24T22:01:02.642Z,-0.6593,29.5098,10,4.6,mb,30,103,1.23,0.83,us,us7000kqt1,2023-08-25T00:12:08.214Z,"29 km NNW of Ntungamo, Uganda",earthquake,13.25,1.956,0.114,23,reviewed,us,us
-2023-08-24T21:55:53.546Z,59.3841,-152.1791,76.9,1.6,ml,,,,0.49,ak,ak023aunnwre,2023-08-24T22:06:42.896Z,"15 km WNW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
