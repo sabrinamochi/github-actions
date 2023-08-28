@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T05:58:01.034Z,61.5396,-150.0818,45.2,1,ml,,,,0.36,ak,ak023b10aw5j,2023-08-28T05:59:20.653Z,"7 km WNW of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-28T05:55:01.290Z,34.2373333,-116.5931667,8.43,1.09,ml,26,79,0.1296,0.2,ci,ci39652866,2023-08-28T05:58:33.353Z,"20 km NW of Yucca Valley, CA",earthquake,0.3,1.37,0.161,21,automatic,ci,ci
 2023-08-28T05:47:56.960Z,19.3934993743896,-155.276672363281,0.589999973773956,2.01,ml,23,90,,0.300000012,hv,hv73549077,2023-08-28T05:53:28.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.379999995,0.3,10,automatic,hv,hv
-2023-08-28T05:47:45.627Z,-7.0325,127.038,368.914,4.2,mb,26,87,3.851,0.71,us,us7000krfc,2023-08-28T08:19:14.040Z,"164 km N of Lospalos, Timor Leste",earthquake,11.83,6.49,0.136,15,reviewed,us,us
+2023-08-28T05:47:45.627Z,-7.0325,127.038,368.914,4.2,mb,26,87,3.851,0.71,us,us7000krfc,2023-08-28T08:19:14.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,11.83,6.49,0.136,15,reviewed,us,us
 2023-08-28T05:38:05.539Z,-18.3217,-71.4951,31.23,4.3,mb,16,172,1.096,1.17,us,us7000krf9,2023-08-28T08:58:59.040Z,"76 km SSW of Pacocha, Peru",earthquake,7.56,8.588,0.178,9,reviewed,us,us
 2023-08-28T05:23:51.199Z,-7.1859,126.1261,447.744,4.6,mb,52,42,3.146,0.53,us,us7000krf8,2023-08-28T05:37:54.040Z,"147 km N of Manatutu, Timor Leste",earthquake,7.7,8.032,0.067,66,reviewed,us,us
 2023-08-28T05:00:43.336Z,62.6038,-151.178,90.8,1.2,ml,,,,0.61,ak,ak023b0zyjvx,2023-08-28T05:02:39.466Z,"24 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -147,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T16:42:35.902Z,65.1159,-146.6351,10.9,1.2,ml,,,,1.31,ak,ak023azj7ysb,2023-08-27T16:45:52.652Z,"28 km NNE of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-27T16:41:51.720Z,36.2363319,-120.8805008,2.48,1.55,md,6,182,0.3589,0.04,nc,nc73929961,2023-08-27T17:37:12.545Z,"17 km NE of San Lucas, CA",earthquake,4.67,6.62,,1,automatic,nc,nc
 2023-08-27T16:41:50.714Z,36.5322,142.6425,10,4.6,mb,32,135,3.57,0.65,us,us7000krd4,2023-08-27T18:52:03.040Z,"167 km ESE of Iwaki, Japan",earthquake,10.18,1.918,0.081,45,reviewed,us,us
-2023-08-27T16:39:57.723Z,58.8178,-153.3983,30,1.6,ml,,,,1.17,ak,ak023azj7czu,2023-08-27T16:42:22.646Z,"89 km NNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-27T16:39:57.723Z,58.8178,-153.3983,30,1.6,ml,,,,1.17,ak,ak023azj7czu,2023-08-27T16:42:22.646Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-27T16:39:55.486Z,43.2165,-126.9086,10,2.5,ml,17,284,2.123,0.54,us,us7000krd2,2023-08-28T11:23:11.823Z,"off the coast of Oregon",earthquake,10.44,2.026,0.048,58,reviewed,us,us
 2023-08-27T16:37:00.980Z,36.0111656,-120.5771637,2.99,1.48,md,19,172,0.03292,0.12,nc,nc73929956,2023-08-27T17:10:11.392Z,"18 km NW of Parkfield, CA",earthquake,0.57,0.71,0.16,8,automatic,nc,nc
 2023-08-27T16:11:21.795Z,60.725,-148.7309,13.6,1.8,ml,,,,0.66,ak,ak023azj1a9f,2023-08-27T16:13:31.180Z,"6 km SSW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T12:00:20.617Z,63.5731,-147.6041,5.5,1.2,ml,,,,0.93,ak,ak023azgl6vh,2023-08-27T12:02:18.663Z,"67 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-27T12:00:01.430Z,19.3845,-155.2785,1.36,0.94,md,31,66,,0.09,hv,hv73547427,2023-08-27T12:22:54.290Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.16,0.088942928108841,7,reviewed,hv,hv
 2023-08-27T11:54:39.230Z,19.1746673583984,-155.50666809082,32.1100006103516,1.75999999,md,40,92,,0.0799999982,hv,hv73547422,2023-08-27T11:57:43.930Z,"4 km SW of Pāhala, Hawaii",earthquake,0.61,0.709999979,1.19000006,8,automatic,hv,hv
-2023-08-27T11:50:19.787Z,38.5336,-118.1601,7.6,0.7,ml,6,81.8,0.391,0.1651,nn,nn00865105,2023-08-27T14:26:47.138Z,"Nevada",earthquake,,2.3,0.24,4,reviewed,nn,nn
