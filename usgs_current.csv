@@ -57,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T05:58:01.034Z,61.5396,-150.0818,45.2,1,ml,,,,0.36,ak,ak023b10aw5j,2023-08-28T05:59:20.653Z,"7 km WNW of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-28T05:55:01.290Z,34.2373333,-116.5931667,8.43,1.09,ml,26,79,0.1296,0.2,ci,ci39652866,2023-08-28T05:58:33.353Z,"20 km NW of Yucca Valley, CA",earthquake,0.3,1.37,0.161,21,automatic,ci,ci
 2023-08-28T05:47:56.960Z,19.3934993743896,-155.276672363281,0.589999973773956,2.01,ml,23,90,,0.300000012,hv,hv73549077,2023-08-28T05:53:28.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.379999995,0.3,10,automatic,hv,hv
-2023-08-28T05:47:45.627Z,-7.0325,127.038,368.914,4.2,mb,26,87,3.851,0.71,us,us7000krfc,2023-08-28T08:19:14.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,11.83,6.49,0.136,15,reviewed,us,us
+2023-08-28T05:47:45.627Z,-7.0325,127.038,368.914,4.2,mb,26,87,3.851,0.71,us,us7000krfc,2023-08-28T08:19:14.040Z,"164 km N of Lospalos, Timor Leste",earthquake,11.83,6.49,0.136,15,reviewed,us,us
 2023-08-28T05:38:05.539Z,-18.3217,-71.4951,31.23,4.3,mb,16,172,1.096,1.17,us,us7000krf9,2023-08-28T08:58:59.040Z,"76 km SSW of Pacocha, Peru",earthquake,7.56,8.588,0.178,9,reviewed,us,us
 2023-08-28T05:23:51.199Z,-7.1859,126.1261,447.744,4.6,mb,52,42,3.146,0.53,us,us7000krf8,2023-08-28T05:37:54.040Z,"147 km N of Manatutu, Timor Leste",earthquake,7.7,8.032,0.067,66,reviewed,us,us
 2023-08-28T05:00:43.336Z,62.6038,-151.178,90.8,1.2,ml,,,,0.61,ak,ak023b0zyjvx,2023-08-28T05:02:39.466Z,"24 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T03:04:31.984Z,61.1745,-151.1679,50.9,1.3,ml,,,,0.51,ak,ak023b0ysiny,2023-08-28T03:06:10.118Z,"5 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-28T03:02:12.514Z,41.7589,-80.9982,5,2.3,mb_lg,20,152,0.834,0.27,us,us7000kres,2023-08-28T10:31:58.178Z,"Ohio",earthquake,1.61,1.984,0.114,20,reviewed,us,us
 2023-08-28T02:55:05.650Z,38.7854996,-122.7088318,0.08,1.84,md,8,84,0.03532,0.05,nc,nc73930051,2023-08-28T05:47:19.671Z,"2 km NW of Anderson Springs, CA",earthquake,0.29,1.04,0.14,10,automatic,nc,nc
-2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T11:13:05.382Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
+2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T11:18:12.677Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
 2023-08-28T02:43:18.880Z,35.68,-117.5425,2.49,1.49,ml,20,74,0.09785,0.19,ci,ci39652834,2023-08-28T02:46:55.454Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.7,0.125,15,automatic,ci,ci
 2023-08-28T02:42:55.780Z,19.3646659851074,-155.298004150391,2.13000011444092,1.8,ml,14,103,,0.200000003,hv,hv73548772,2023-08-28T02:48:27.220Z,"10 km SW of Volcano, Hawaii",earthquake,0.39,0.569999993,0.19,3,automatic,hv,hv
 2023-08-28T02:33:50.700Z,33.0708333,-116.4248333,14.8,0.99,ml,24,66,0.09947,0.18,ci,ci39652826,2023-08-28T02:37:19.735Z,"16 km E of Julian, CA",earthquake,0.29,0.62,0.185,15,automatic,ci,ci
@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T11:27:00.008Z,61.4432,-150.6973,46.3,3.7,ml,,,,0.55,ak,ak023azg5evm,2023-08-28T02:45:30.873Z,"14 km SW of Susitna, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-08-27T11:24:16.090Z,19.3861666666667,-155.2795,1.36,0.52,md,19,64,,0.08,hv,hv73547402,2023-08-27T11:41:29.020Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.17,0.0264129924303748,3,reviewed,hv,hv
 2023-08-27T11:20:52.970Z,37.8258324,-122.0354996,4.84,1.16,md,8,120,0.02371,0.04,nc,nc73929901,2023-08-27T12:11:14.730Z,"3 km S of Alamo, CA",earthquake,0.36,0.65,0.05,6,automatic,nc,nc
-2023-08-27T11:17:42.405Z,61.0101,-151.59,77.8,2,ml,,,,0.26,ak,ak023azg3g4g,2023-08-27T11:38:14.429Z,"25 km WSW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-27T11:16:55.000Z,19.3668333333333,-155.299,1.17,0.53,md,15,100,,0.09,hv,hv73547392,2023-08-27T11:34:57.400Z,"10 km SW of Volcano, Hawaii",earthquake,0.23,0.41,0.132919577082802,4,reviewed,hv,hv
-2023-08-27T11:16:32.620Z,46.771,-121.97216666666667,9.15,2.19,ml,17,201,0.04597,0.12,uw,uw61953736,2023-08-27T16:47:30.590Z,"4 km ENE of Ashford, Washington",earthquake,0.52,0.54,0.22156383765585308,11,reviewed,uw,uw
