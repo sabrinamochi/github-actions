@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-29T08:08:53.410Z,33.0295,-117.8636667,21.24,1.63,ml,8,239,0.5468,0.2,ci,ci39653914,2023-08-29T08:12:41.362Z,"50 km WSW of Carlsbad, CA",earthquake,2.44,12.58,0.066,16,automatic,ci,ci
-2023-08-29T08:05:33.560Z,32.9995003,-117.9225006,17.94,3.96,mlr,123,134,0.4803,0.31,ci,ci39653906,2023-08-29T08:09:04.706Z,"44 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.03,0.275,15,automatic,ci,ci
+2023-08-29T08:08:53.410Z,33.0295,-117.8636667,21.24,1.63,ml,8,239,0.5468,0.2,ci,ci39653914,2023-08-29T08:13:38.638Z,"50 km WSW of Carlsbad, CA",earthquake,2.44,12.58,0.066,16,automatic,ci,ci
+2023-08-29T08:05:33.560Z,32.9995003,-117.9225006,17.94,3.68,mw,123,134,0.4803,0.31,ci,ci39653906,2023-08-29T08:13:23.946Z,"44 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.03,,4,automatic,ci,ci
 2023-08-29T07:53:27.420Z,33.5195,-116.5048333,14.19,0.4,ml,14,91,0.04375,0.14,ci,ci39653898,2023-08-29T07:57:04.947Z,"16 km ESE of Anza, CA",earthquake,0.46,0.61,0.07,4,automatic,ci,ci
 2023-08-29T07:38:01.860Z,33.5221667,-116.7546667,3.96,0.25,ml,17,62,0.0394,0.15,ci,ci39653890,2023-08-29T07:41:34.183Z,"8 km WSW of Anza, CA",earthquake,0.3,0.65,0.069,6,automatic,ci,ci
 2023-08-29T07:15:03.171Z,61.5666,-146.7379,23.8,1.6,ml,,,,0.56,ak,ak023b2orw8d,2023-08-29T07:16:56.657Z,"47 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -221,9 +221,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T08:33:42.770Z,35.344,-97.94866667,5.98,1.17,ml,79,59,0.05308958201,0.26,ok,ok2023qvie,2023-08-28T12:51:16.247Z,"3 km N of Minco, Oklahoma",earthquake,,0.4,0.09,4,reviewed,ok,ok
 2023-08-28T08:31:58.560Z,35.5143333,-118.3863333,5.3,2.23,ml,40,27,0.1645,0.2,ci,ci39652906,2023-08-28T08:35:40.218Z,"13 km SE of Bodfish, CA",earthquake,0.23,1.74,0.194,25,automatic,ci,ci
 2023-08-28T08:31:44.630Z,19.3928333333333,-155.279,1.28,0.52,md,18,51,,0.07,hv,hv73549307,2023-08-28T08:49:33.360Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.22,0.0231857708176,3,reviewed,hv,hv
+2023-08-28T08:31:43.725Z,67.5468,-169.329,10,3.1,ml,41,219,2.492,0.54,us,us7000krfv,2023-08-29T08:13:35.040Z,"140 km SW of Point Hope, Alaska",earthquake,3.95,2.001,0.077,22,reviewed,us,us
 2023-08-28T08:30:29.950Z,19.3916666666667,-155.28,1.32,0.54,md,17,54,,0.08,hv,hv73549302,2023-08-28T09:04:31.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.21,0.151530709355377,5,reviewed,hv,hv
 2023-08-28T08:26:56.223Z,38.6166,-119.3018,0,0.9,ml,3,285.91,0.173,0.1411,nn,nn00865182,2023-08-29T02:04:30.621Z,"18 km ENE of Coleville, California",earthquake,,0,0.01,2,reviewed,nn,nn
 2023-08-28T08:25:28.250Z,19.3653333333333,-155.297166666667,2.28,1.31,md,18,105,,0.09,hv,hv73549287,2023-08-28T08:36:49.950Z,"Hawaii region, Hawaii",earthquake,0.3,0.45,0.063128209248059,3,reviewed,hv,hv
 2023-08-28T08:23:50.350Z,37.3323333,-121.6923333,7.85,1.01,md,37,39,0.04074,0.07,nc,nc73930086,2023-08-28T17:55:16.662Z,"12 km ESE of Alum Rock, CA",earthquake,0.13,0.31,0.213,28,reviewed,nc,nc
 2023-08-28T08:21:45.690Z,19.3733333333333,-155.293166666667,1.73,0.46,md,16,110,,0.1,hv,hv73549282,2023-08-28T08:40:55.280Z,"9 km SW of Volcano, Hawaii",earthquake,0.3,0.25,0.218917661083639,2,reviewed,hv,hv
-2023-08-28T08:14:42.960Z,46.772333333333336,-121.9635,9.41,1.26,ml,37,69,0.04019,0.15,uw,uw61954106,2023-08-28T18:18:48.760Z,"5 km ENE of Ashford, Washington",earthquake,0.23,0.35,0.30390338793182003,22,reviewed,uw,uw
