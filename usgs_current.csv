@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-29T04:20:30.590Z,34.232,-117.508,9,1.08,ml,22,55,0.07945,0.21,ci,ci39653850,2023-08-29T04:24:04.819Z,"3 km SSW of Lytle Creek, CA",earthquake,0.36,0.86,0.287,30,automatic,ci,ci
-2023-08-29T04:14:51.240Z,38.7896652,-122.7685013,1.46,0.79,md,12,95,0.01292,0.02,nc,nc73930396,2023-08-29T04:16:26.061Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.71,0.15,12,automatic,nc,nc
+2023-08-29T04:14:51.240Z,38.7896652,-122.7685013,1.46,0.79,md,12,95,0.01292,0.02,nc,nc73930396,2023-08-29T04:31:14.283Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.71,0.15,12,automatic,nc,nc
 2023-08-29T04:06:14.281Z,7.06,-77.2338,35,4.4,mb,13,123,1.901,0.66,us,us7000krqy,2023-08-29T04:23:32.040Z,"44 km SSW of Riosucio, Colombia",earthquake,3.87,1.97,0.154,12,reviewed,us,us
 2023-08-29T04:03:30.670Z,33.9935,-116.5656667,9.33,1.54,ml,51,31,0.05828,0.17,ci,ci39653842,2023-08-29T04:16:27.875Z,"6 km SSE of Morongo Valley, CA",earthquake,0.18,0.52,0.142,26,automatic,ci,ci
 2023-08-29T03:54:22.280Z,33.902,-116.0606667,7.54,0.54,ml,9,176,0.09662,0.14,ci,ci39653834,2023-08-29T03:57:52.634Z,"25 km NE of Indio, CA",earthquake,0.6,1.22,0.058,5,automatic,ci,ci
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T12:51:14.900Z,19.3835,-155.281333333333,1.15,2.13,ml,41,71,,0.11,hv,hv73549657,2023-08-28T16:30:46.770Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.1,0.155608541339015,12,reviewed,hv,hv
 2023-08-28T12:49:26.250Z,33.774,-116.1576667,1.65,0.55,ml,14,146,0.05783,0.13,ci,ci39653074,2023-08-28T12:52:57.703Z,"8 km NE of Indio, CA",earthquake,0.46,0.72,0.12,5,automatic,ci,ci
 2023-08-28T12:42:29.479Z,62.175,-145.4674,31.4,1.1,ml,,,,0.19,ak,ak023b14dk4j,2023-08-28T12:44:23.889Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-28T12:40:20.990Z,31.0731667,-116.0911667,13.83,3.67,ml,9,231,0.2942,0.15,ci,ci39653058,2023-08-28T15:16:33.979Z,"85 km SSE of Maneadero, B.C., MX",earthquake,0.57,0.8,0.15,153,reviewed,ci,ci
+2023-08-28T12:40:16.919Z,30.9296,-116.0586,10,3.4,ml,24,241,0.437,0.78,us,us7000krgs,2023-08-29T04:31:30.040Z,"9 km N of Camalú, Mexico",earthquake,2.28,1.992,0.047,60,reviewed,us,us
 2023-08-28T12:36:23.756Z,64.6472,-147.5535,4.5,0.7,ml,,,,1.32,ak,ak023b14c9dz,2023-08-28T12:38:12.185Z,"15 km SW of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-28T12:33:51.030Z,33.7651667,-116.116,5.03,0.88,ml,27,114,0.09337,0.16,ci,ci39653050,2023-08-28T12:37:27.652Z,"10 km ENE of Indio, CA",earthquake,0.3,0.7,0.186,19,automatic,ci,ci
 2023-08-28T12:33:12.380Z,51.609,-178.535833333333,21.22,1.7,ml,10,184,,0.18,av,av92023301,2023-08-29T00:28:37.410Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.2,3.65,0.310522970819273,10,reviewed,av,av
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T11:06:04.000Z,34.4305,-119.1515,0.98,1.37,ml,16,116,0.01323,0.25,ci,ci39652986,2023-08-28T11:09:42.733Z,"9 km ESE of Ojai, CA",earthquake,0.56,0.7,0.214,19,automatic,ci,ci
 2023-08-28T11:01:47.399Z,60.1891,-152.6453,88,1.3,ml,,,,0.3,ak,ak023b13jdjn,2023-08-28T11:03:30.235Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-28T11:01:00.585Z,64.8605,-148.9465,0,0.7,ml,,,,0.58,ak,ak023b13j9xm,2023-08-28T11:02:58.929Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-28T11:00:34.200Z,19.465,-155.36,4.72,1.23,md,29,106,,0.13,hv,hv73549517,2023-08-28T16:34:58.500Z,"13 km W of Volcano, Hawaii",earthquake,0.32,0.82,0.202401491323154,8,reviewed,hv,hv
+2023-08-28T11:00:34.200Z,19.465,-155.36,4.72,1.23,md,29,106,,0.13,hv,hv73549517,2023-08-28T16:34:58.500Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.82,0.202401491323154,8,reviewed,hv,hv
 2023-08-28T10:46:13.561Z,38.5449,-119.531,5,1,ml,9,119.94,0.042,0.134,nn,nn00865185,2023-08-29T02:04:36.288Z,"3 km SW of Coleville, California",earthquake,,1.9,0.22,3,reviewed,nn,nn
 2023-08-28T10:41:51.979Z,61.3032,-152.4613,0,1.9,ml,,,,0.73,ak,ak023b136ixp,2023-08-29T00:22:04.240Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-28T10:27:34.770Z,33.4593333,-116.5718333,9.11,2.23,ml,82,21,0.04346,0.21,ci,ci39652970,2023-08-28T10:38:40.560Z,"14 km SE of Anza, CA",earthquake,0.18,0.42,0.247,26,automatic,ci,ci
