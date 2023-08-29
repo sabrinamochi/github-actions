@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-29T03:54:22.280Z,33.902,-116.0606667,7.54,0.54,ml,9,176,0.09662,0.14,ci,ci39653834,2023-08-29T03:57:52.634Z,"25 km NE of Indio, CA",earthquake,0.6,1.22,0.058,5,automatic,ci,ci
 2023-08-29T03:44:33.110Z,38.8176651,-122.8206635,1.96,0.76,md,12,67,0.01006,0.04,nc,nc73930381,2023-08-29T03:46:09.887Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.78,0.11,14,automatic,nc,nc
 2023-08-29T03:43:54.190Z,34.2728333,-116.9628333,26.77,1.37,ml,7,216,0.3441,0.24,ci,ci39653826,2023-08-29T03:47:30.000Z,"6 km NW of Big Bear Lake, CA",earthquake,2.4,31.61,0.373,10,automatic,ci,ci
 2023-08-29T03:40:35.960Z,19.111499786377,-155.408004760742,31.6100006103516,1.80999994,md,36,211,,0.100000001,hv,hv73550902,2023-08-29T03:43:53.820Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.670000017,0.560000002,7,automatic,hv,hv
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T03:01:17.720Z,33.9563333,-116.9495,11.2,0.5,ml,13,69,0.1373,0.24,ci,ci39653786,2023-08-29T03:04:53.487Z,"4 km NE of Beaumont, CA",earthquake,0.56,2.18,0.143,9,automatic,ci,ci
 2023-08-29T02:58:25.136Z,36.9435,-114.7469,5.5,1.1,ml,8,336.14,0.989,0.2808,nn,nn00865194,2023-08-29T03:00:57.021Z,"Nevada",earthquake,,8.8,0.07,4,automatic,nn,nn
 2023-08-29T02:48:45.590Z,38.7573318,-122.7214966,2.75,1.01,md,7,155,0.005002,0.02,nc,nc73930371,2023-08-29T03:18:14.870Z,"3 km SW of Anderson Springs, CA",earthquake,0.72,1.04,0.21,9,automatic,nc,nc
-2023-08-29T02:41:48.185Z,56.3108,-156.6363,2.2,3,ml,,,,0.61,ak,ak023b2lyigc,2023-08-29T02:43:37.516Z,"109 km E of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-29T02:41:50.136Z,56.3755,-156.7094,13.1,3.6,ml,,,,0.54,ak,ak023b2lyigc,2023-08-29T03:58:57.754Z,"105 km E of Chignik, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-08-29T02:38:11.890Z,33.668,-116.7398333,13.71,0.89,ml,34,48,0.05154,0.13,ci,ci39653778,2023-08-29T02:41:44.202Z,"8 km SSW of Idyllwild, CA",earthquake,0.22,0.34,0.154,23,automatic,ci,ci
 2023-08-29T02:35:40.810Z,19.2943325042725,-155.268493652344,5.86999988555908,1.8,ml,38,140,,0.150000006,hv,hv73550837,2023-08-29T02:41:10.810Z,"16 km SSW of Volcano, Hawaii",earthquake,0.42,0.610000014,0.28,5,automatic,hv,hv
 2023-08-29T02:31:45.524Z,14.6567,-59.1147,35,4.4,mb,35,191,1.565,0.69,us,us7000krqj,2023-08-29T02:44:43.040Z,"162 km NNE of Greenland, Barbados",earthquake,4.22,1.981,0.085,40,reviewed,us,us
@@ -156,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T11:06:04.000Z,34.4305,-119.1515,0.98,1.37,ml,16,116,0.01323,0.25,ci,ci39652986,2023-08-28T11:09:42.733Z,"9 km ESE of Ojai, CA",earthquake,0.56,0.7,0.214,19,automatic,ci,ci
 2023-08-28T11:01:47.399Z,60.1891,-152.6453,88,1.3,ml,,,,0.3,ak,ak023b13jdjn,2023-08-28T11:03:30.235Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-28T11:01:00.585Z,64.8605,-148.9465,0,0.7,ml,,,,0.58,ak,ak023b13j9xm,2023-08-28T11:02:58.929Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-28T11:00:34.200Z,19.465,-155.36,4.72,1.23,md,29,106,,0.13,hv,hv73549517,2023-08-28T16:34:58.500Z,"13 km W of Volcano, Hawaii",earthquake,0.32,0.82,0.202401491323154,8,reviewed,hv,hv
+2023-08-28T11:00:34.200Z,19.465,-155.36,4.72,1.23,md,29,106,,0.13,hv,hv73549517,2023-08-28T16:34:58.500Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.82,0.202401491323154,8,reviewed,hv,hv
 2023-08-28T10:46:13.561Z,38.5449,-119.531,5,1,ml,9,119.94,0.042,0.134,nn,nn00865185,2023-08-29T02:04:36.288Z,"3 km SW of Coleville, California",earthquake,,1.9,0.22,3,reviewed,nn,nn
 2023-08-28T10:41:51.979Z,61.3032,-152.4613,0,1.9,ml,,,,0.73,ak,ak023b136ixp,2023-08-29T00:22:04.240Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-28T10:27:34.770Z,33.4593333,-116.5718333,9.11,2.23,ml,82,21,0.04346,0.21,ci,ci39652970,2023-08-28T10:38:40.560Z,"14 km SE of Anza, CA",earthquake,0.18,0.42,0.247,26,automatic,ci,ci
