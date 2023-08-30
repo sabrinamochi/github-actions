@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T14:26:06.654Z,62.2397,-151.6162,78.6,1.4,ml,,,,0.7,ak,ak023b4gjn3t,2023-08-30T14:28:17.860Z,"30 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-30T14:19:21.540Z,38.8391685,-122.8251648,8.69,1.21,md,7,98,0.008082,0.04,nc,nc73930911,2023-08-30T14:55:13.081Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.96,0.19,2,automatic,nc,nc
 2023-08-30T14:17:38.018Z,58.6363,-154.017,82.7,1.5,ml,,,,0.29,ak,ak023b4ghs2x,2023-08-30T14:20:08.717Z,"91 km NW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-08-30T14:17:08.299Z,-29.4465,-71.3102,44.842,5.3,mww,125,129,0.475,0.92,us,us7000ks3e,2023-08-30T14:56:03.543Z,"51 km N of La Serena, Chile",earthquake,5.5,4.18,0.057,30,reviewed,us,us
+2023-08-30T14:17:08.299Z,-29.4465,-71.3102,44.842,5.3,mww,125,129,0.475,0.92,us,us7000ks3e,2023-08-30T16:22:41.756Z,"51 km N of La Serena, Chile",earthquake,5.5,4.18,0.057,30,reviewed,us,us
 2023-08-30T14:10:17.460Z,38.7718315,-122.7346649,0.9,1.39,md,18,100,0.0115,0.06,nc,nc73930906,2023-08-30T14:36:14.945Z,"2 km ESE of The Geysers, CA",earthquake,0.29,0.51,0.16,19,automatic,nc,nc
 2023-08-30T14:03:08.140Z,34.478,-116.5365,10.55,1.22,ml,19,107,0.1281,0.29,ci,ci39654898,2023-08-30T14:06:42.540Z,"37 km NE of Big Bear City, CA",earthquake,0.46,1.07,0.23,22,automatic,ci,ci
 2023-08-30T13:55:55.008Z,-14.7416,167.9815,8.865,5.3,mww,101,45,6.766,0.66,us,us7000ks3c,2023-08-30T14:15:33.040Z,"103 km ENE of Port-Olry, Vanuatu",earthquake,7.85,4.188,0.086,13,reviewed,us,us
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T01:34:55.983Z,62.1055,-150.2567,35.6,1.8,ml,,,,0.52,ak,ak023b48utry,2023-08-30T01:37:18.202Z,"Central Alaska",earthquake,,6.2,,,automatic,ak,ak
 2023-08-30T01:28:36.850Z,33.8241667,-117.0026667,11.93,0.86,ml,19,91,0.1158,0.21,ci,ci39654658,2023-08-30T01:32:15.340Z,"6 km NW of San Jacinto, CA",earthquake,0.35,1.17,0.135,23,automatic,ci,ci
 2023-08-30T01:18:40.675Z,63.5016,-151.0958,0,1.1,ml,,,,0.86,ak,ak023b48rd50,2023-08-30T01:21:01.421Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-30T00:53:04.781Z,36.758,-116.2592,11.7,0.2,ml,8,123.33,0.048,0.046,nn,nn00865258,2023-08-30T00:54:40.200Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,0.25,5,automatic,nn,nn
+2023-08-30T00:53:05.451Z,36.7613,-116.2582,9.2,0.2,ml,24,44.85,0.025,0.1056,nn,nn00865258,2023-08-30T16:19:50.616Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.27,9,reviewed,nn,nn
 2023-08-30T00:51:48.290Z,38.8363342,-122.8024979,2.18,0.28,md,8,101,0.009715,0.01,nc,nc73930696,2023-08-30T00:59:15.250Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.21,0.15,8,automatic,nc,nc
 2023-08-30T00:07:24.380Z,18.0923333333333,-66.8445,5.98,2.35,md,6,171,0.1212,0.08,pr,pr71422578,2023-08-30T00:24:42.500Z,"6 km N of Yauco, Puerto Rico",earthquake,0.68,0.57,0.110271437769391,4,reviewed,pr,pr
 2023-08-29T23:55:12.370Z,33.3153333,-116.2531667,2.08,0.96,ml,27,83,0.1223,0.26,ci,ci39654634,2023-08-29T23:58:43.956Z,"13 km ENE of Borrego Springs, CA",earthquake,0.4,0.77,0.117,21,automatic,ci,ci
@@ -191,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T16:43:18.110Z,35.5105,-118.3971667,6.65,0.83,ml,11,74,0.1644,0.13,ci,ci39654210,2023-08-29T22:24:11.000Z,"12 km SE of Bodfish, CA",earthquake,0.31,1.09,0.124,5,reviewed,ci,ci
 2023-08-29T16:31:07.030Z,19.6393,-65.6536,33,3.66,md,9,301,1.4553,0.22,pr,pr2023241000,2023-08-29T16:57:42.512Z,"135 km N of Suárez, Puerto Rico",earthquake,1.56,17.4,0.09,6,reviewed,pr,pr
 2023-08-29T16:29:35.880Z,35.3425,-97.95316667,6.07,0.99,ml,32,60,0.05668887571,0.27,ok,ok2023qxtj,2023-08-30T14:38:03.194Z,"3 km NNW of Minco, Oklahoma",earthquake,,0.6,0.13,3,reviewed,ok,ok
-2023-08-29T16:23:06.910Z,52.881,-169.502,-1.73,1.77,ml,7,159,,0.21,av,av92024336,2023-08-30T00:04:59.220Z,"43 km W of Nikolski, Alaska",earthquake,1.6,0.41,0.23268320088189,7,reviewed,av,av
-2023-08-29T16:22:49.850Z,18.0001666666667,-66.9253333333333,16.76,2.21,md,5,164,0.05047,0.09,pr,pr71422523,2023-08-29T16:31:01.010Z,"1 km NW of Fuig, Puerto Rico",earthquake,2.61,1.21,0.00145238163512307,4,reviewed,pr,pr
-2023-08-29T16:17:20.540Z,54.545,-163.3015,7.86,2.58,ml,17,212,,0.29,av,av92024331,2023-08-29T23:46:09.370Z,"35 km SSE of False Pass, Alaska",earthquake,0.82,0.82,0.280741712486917,18,reviewed,av,av
