@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-30T14:10:17.460Z,38.7718315,-122.7346649,0.9,1.39,md,18,100,0.0115,0.06,nc,nc73930906,2023-08-30T14:11:52.147Z,"2 km ESE of The Geysers, CA",earthquake,0.29,0.51,0.16,19,automatic,nc,nc
+2023-08-30T14:03:08.140Z,34.478,-116.5365,10.55,1.22,ml,19,107,0.1281,0.29,ci,ci39654898,2023-08-30T14:06:42.540Z,"37 km NE of Big Bear City, CA",earthquake,0.46,1.07,0.23,22,automatic,ci,ci
 2023-08-30T13:44:15.170Z,33.0396667,-116.4736667,14.11,0.72,ml,20,70,0.08593,0.19,ci,ci39654874,2023-08-30T13:47:41.958Z,"13 km ESE of Julian, CA",earthquake,0.34,0.67,0.139,7,automatic,ci,ci
 2023-08-30T13:42:16.123Z,61.5942,-141.1507,0,1.6,ml,,,,0.77,ak,ak023b4g1nos,2023-08-30T13:43:58.969Z,"95 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-30T13:42:15.269Z,36.94,-97.68466667,4.7,2.1,ml,93,80,0.16556751,0.25,ok,ok2023qzjj,2023-08-30T13:52:48.247Z,"3 km WNW of Renfrow, Oklahoma",earthquake,,0.6,0.23,38,reviewed,ok,ok
 2023-08-30T13:37:27.384Z,59.3522,-152.7286,74.2,1.5,ml,,,,0.22,ak,ak023b4g0lz6,2023-08-30T13:39:10.603Z,"45 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-30T13:37:08.200Z,38.8406677,-122.8274994,1.63,0.93,md,17,77,0.01434,0.02,nc,nc73930901,2023-08-30T13:44:14.627Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.46,0.2,17,automatic,nc,nc
 2023-08-30T13:36:44.290Z,38.8253326,-122.8034973,2.17,0.29,md,10,84,0.005489,0.02,nc,nc73930896,2023-08-30T13:59:18.721Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.03,0.13,11,automatic,nc,nc
+2023-08-30T13:35:40.370Z,18.0206666666667,-66.9405,13.73,2.54,md,4,176,0.07386,0.05,pr,pr71422658,2023-08-30T14:09:27.300Z,"2 km S of Liborio Negron Torres, Puerto Rico",earthquake,2.73,1.24,0.041977895774518,4,reviewed,pr,pr
 2023-08-30T13:34:15.965Z,61.6284,-141.0411,0,2.1,ml,,,,0.82,ak,ak023b4fzxy4,2023-08-30T13:36:22.083Z,"102 km ENE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T13:32:41.226Z,59.7235,-152.8953,98.3,1.4,ml,,,,0.49,ak,ak023b4fzkgq,2023-08-30T13:34:45.869Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T13:28:13.751Z,61.6216,-141.0291,0,2.1,ml,,,,0.87,ak,ak023b4fynhb,2023-08-30T13:29:57.040Z,"102 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -100,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T23:53:16.623Z,63.1323,-151.4524,2.1,1.6,ml,,,,0.41,ak,ak023b2yj05q,2023-08-29T23:54:57.582Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-29T23:37:06.380Z,38.8248329,-122.8111649,1.45,0.8,md,11,78,0.00167,0.03,nc,nc73930681,2023-08-29T23:38:44.491Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.82,0.35,12,automatic,nc,nc
 2023-08-29T23:30:50.040Z,35.0283333,-117.681,0.25,1.69,ml,24,108,0.09456,0.28,ci,ci39654626,2023-08-29T23:34:37.825Z,"4 km NW of Boron, CA",quarry blast,0.8,31.61,0.125,28,automatic,ci,ci
+2023-08-29T23:27:05.180Z,44.6308333,-110.137,6.39,1.49,md,5,163,0.04318,0.13,uu,uu60548732,2023-08-30T14:02:31.290Z,"43 km SSW of Silver Gate, Montana",earthquake,1.64,1.87,0.194,5,reviewed,uu,uu
 2023-08-29T23:07:10.560Z,44.616,-110.1178333,2.06,1.24,md,5,177,0.06218,0.18,uu,uu60548727,2023-08-30T13:59:23.870Z,"44 km SSW of Silver Gate, Montana",earthquake,1.08,12.93,0.373,3,reviewed,uu,uu
 2023-08-29T23:01:36.610Z,17.936,-66.9318333333333,16.84,2.48,md,17,217,0.04223,0.11,pr,pr71422573,2023-08-29T23:21:12.660Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.51,0.31,0.140210801904833,7,reviewed,pr,pr
 2023-08-29T22:57:26.578Z,56.8232,-155.5855,65.1,2.6,ml,,,,0.22,ak,ak023b2xyg6p,2023-08-29T22:58:46.289Z,"Alaska Peninsula",earthquake,,3.3,,,automatic,ak,ak
@@ -145,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T18:11:14.368Z,57.8594,-159.6475,0,2.3,ml,,,,0.74,ak,ak023b2vau70,2023-08-29T18:14:01.652Z,"Bristol Bay",earthquake,,0.4,,,automatic,ak,ak
 2023-08-29T18:08:08.952Z,37.153,-115.5262,15.1,1.7,ml,41,75.6,0.342,0.1643,nn,nn00865239,2023-08-29T22:24:49.185Z,"39 km SW of Alamo, Nevada",earthquake,,2.2,0.33,24,reviewed,nn,nn
 2023-08-29T18:02:34.560Z,52.1048333333333,-176.232333333333,12.38,0.78,ml,6,301,,0.31,av,av92024386,2023-08-30T00:44:07.400Z,"37 km NE of Adak, Alaska",earthquake,2.75,1.56,0.328009640723061,6,reviewed,av,av
-2023-08-29T17:55:03.860Z,53.9251666666667,-166.6395,7.56,-0.06,ml,5,238,,0.21,av,av92024381,2023-08-30T00:13:13.470Z,"7 km WNW of Dutch Harbor, Alaska",earthquake,0.96,1.34,0.400442757213609,5,reviewed,av,av
+2023-08-29T17:55:03.860Z,53.9251666666667,-166.6395,7.56,-0.06,ml,5,238,,0.21,av,av92024381,2023-08-30T00:13:13.470Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.96,1.34,0.400442757213609,5,reviewed,av,av
 2023-08-29T17:50:33.223Z,37.1434,-115.5228,0,1.1,ml,25,161.43,0.343,0.1493,nn,nn00865238,2023-08-29T21:23:57.715Z,"40 km SW of Alamo, Nevada",earthquake,,0,0.16,14,reviewed,nn,nn
 2023-08-29T17:46:03.680Z,37.5658333,-118.9206667,8.97,0.39,md,13,227,0.04639,0.01,nc,nc73930591,2023-08-29T20:07:18.623Z,"9 km SSE of Mammoth Lakes, CA",earthquake,0.8,0.96,0.197,14,reviewed,nc,nc
 2023-08-29T17:43:33.233Z,37.1518,-115.5235,10.8,1.2,ml,25,165.48,0.344,0.1449,nn,nn00865236,2023-08-29T20:58:54.275Z,"39 km SW of Alamo, Nevada",earthquake,,4.7,0.21,15,reviewed,nn,nn
@@ -170,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T14:26:09.653Z,61.3599,-150.0003,40.4,1.6,ml,,,,0.73,ak,ak023b2t0aud,2023-08-29T14:27:56.058Z,"1 km W of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-29T14:21:16.280Z,19.2105,-67.1701666666667,32.41,3.41,md,8,301,0.7412,0.23,pr,pr71422508,2023-08-29T14:55:24.840Z,"Mona Passage",earthquake,1.35,8.09,0.0509853592182727,4,reviewed,pr,pr
 2023-08-29T14:12:54.392Z,61.3178,-146.7954,17.8,2.6,ml,,,,0.62,ak,ak023b2sxe9o,2023-08-29T15:04:29.040Z,"31 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-29T14:04:16.620Z,35.4766667,-120.7818333,6.19,1.88,md,45,58,0.08621,0.07,nc,nc73930546,2023-08-29T18:53:19.216Z,"10 km W of Atascadero, CA",earthquake,0.17,0.54,0.167,29,reviewed,nc,nc
