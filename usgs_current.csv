@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T08:08:21.022Z,64.7305,-149.0333,13.6,0.8,ml,,,,0.47,ak,ak023b60ek6p,2023-08-31T08:10:33.952Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-31T08:00:37.110Z,19.3875007629395,-155.277496337891,1.08000004291534,1.73,ml,14,103,,0.100000001,hv,hv73554462,2023-08-31T08:06:08.980Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.230000004,0.26,8,automatic,hv,hv
 2023-08-31T07:59:59.150Z,38.786499,-122.7645035,3.3,0.76,md,9,114,0.01578,0.02,nc,nc73931276,2023-08-31T08:01:33.368Z,"1 km NW of The Geysers, CA",earthquake,0.63,1.25,0.14,10,automatic,nc,nc
 2023-08-31T07:57:11.569Z,37.0302,-116.7236,4,0.9,ml,22,81.97,0.114,0.23,nn,nn00865299,2023-08-31T08:00:18.600Z,"Nevada",earthquake,,6.6,0.87,16,automatic,nn,nn
 2023-08-31T07:48:39.625Z,63.1982,-151.3317,0,1,ml,,,,0.64,ak,ak023b601qnu,2023-08-31T07:51:16.571Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -103,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T19:37:52.089Z,61.1036,-148.7791,26.5,1.2,ml,,,,1.17,ak,ak023b4jl9hz,2023-08-30T19:49:50.040Z,"27 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T19:35:23.410Z,34.189,-116.8646667,8.75,1.17,ml,37,39,0.08664,0.13,ci,ci39655266,2023-08-30T22:03:56.010Z,"8 km SE of Big Bear Lake, CA",earthquake,0.2,0.43,0.175,24,reviewed,ci,ci
 2023-08-30T19:33:58.717Z,39.6903,-119.899,6.2,0.7,ml,6,86.54,0.096,0.0826,nn,nn00865289,2023-08-30T22:44:09.804Z,"6 km E of Cold Springs, Nevada",earthquake,,3.2,0.5,4,reviewed,nn,nn
-2023-08-30T19:24:50.908Z,-26.2674,27.7464,5,3.5,mb_lg,10,133,2.307,0.61,us,us7000ks6b,2023-08-31T05:18:48.367Z,"South Africa",earthquake,6.58,2.003,0.17,9,reviewed,us,us
+2023-08-30T19:24:50.908Z,-26.2674,27.7464,5,3.5,mb_lg,10,133,2.307,0.61,us,us7000ks6b,2023-08-31T08:07:47.722Z,"South Africa",earthquake,6.58,2.003,0.17,9,reviewed,us,us
 2023-08-30T19:14:40.100Z,35.1445,-97.54333333,6.33,1.97,ml,94,45,0.07378552076,0.29,ok,ok2023qzui,2023-08-31T03:40:44.988Z,"5 km NNE of Cole, Oklahoma",earthquake,,0.5,0.19,40,reviewed,ok,ok
 2023-08-30T19:10:52.900Z,37.6741676,-121.9083328,16.59,1.4,md,6,169,0.07621,0.01,nc,nc73931031,2023-08-30T19:28:12.665Z,"3 km WNW of Pleasanton, CA",earthquake,1.96,0.82,0.15,5,automatic,nc,nc
 2023-08-30T18:59:25.717Z,54.9345,-161.3526,51.282,5.1,mww,88,153,0.653,0.77,us,us7000ks64,2023-08-31T00:38:44.412Z,"63 km ESE of King Cove, Alaska",earthquake,8.04,5.493,0.05,38,reviewed,us,us
@@ -243,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T08:31:23.620Z,33.9951667,-116.7236667,11.35,0.73,ml,35,68,0.07632,0.12,ci,ci39654754,2023-08-30T20:35:38.779Z,"10 km NE of Cabazon, CA",earthquake,0.19,0.47,0.069,20,reviewed,ci,ci
 2023-08-30T08:17:31.570Z,33.6781667,-116.7896667,15.75,0.86,ml,36,73,0.06826,0.13,ci,ci39654746,2023-08-30T20:23:16.715Z,"10 km SW of Idyllwild, CA",earthquake,0.21,0.36,0.163,22,reviewed,ci,ci
 2023-08-30T08:15:24.508Z,61.92,-149.2331,19.3,1.1,ml,,,,0.55,ak,ak023b4cwpz6,2023-08-30T08:17:16.095Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-30T08:12:11.911Z,38.543,-119.4986,5.8,0.8,ml,6,157.43,0.046,0.0429,nn,nn00865280,2023-08-30T19:44:45.514Z,"California-Nevada border region",earthquake,,2.1,0,1,reviewed,nn,nn
-2023-08-30T08:10:18.372Z,38.1807,-117.8732,11,1.4,ml,8,134.23,0.09,0.1746,nn,nn00865266,2023-08-30T17:43:53.312Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.5,4,reviewed,nn,nn
