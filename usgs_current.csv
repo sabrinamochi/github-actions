@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-02T15:07:30.830Z,38.8279991,-122.8065033,2.34,1.12,md,26,41,0.005377,0.03,nc,nc73932211,2023-09-02T15:24:15.100Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.17,27,automatic,nc,nc
+2023-09-02T15:07:30.830Z,38.8279991,-122.8065033,2.34,1.12,md,26,41,0.005377,0.03,nc,nc73932211,2023-09-02T15:50:13.241Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.17,27,automatic,nc,nc
 2023-09-02T14:46:47.680Z,38.8373337,-122.8130035,2.37,0.79,md,8,111,0.01411,0.02,nc,nc73932206,2023-09-02T14:48:24.490Z,"8 km WNW of Cobb, CA",earthquake,0.52,1.65,0.38,8,automatic,nc,nc
 2023-09-02T14:45:59.960Z,37.3001671,-122.1751633,6.08,1.52,md,10,135,0.02544,0.1,nc,nc73932201,2023-09-02T15:19:13.076Z,"9 km SW of Loyola, CA",earthquake,0.4,0.59,0.17,9,automatic,nc,nc
 2023-09-02T14:39:07.300Z,19.363000869751,-155.294998168945,0.600000023841858,1.85,ml,22,110,,0.239999995,hv,hv73558292,2023-09-02T14:44:37.560Z,"10 km SW of Volcano, Hawaii",earthquake,0.29,0.409999996,0.14,8,automatic,hv,hv
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T12:25:01.646Z,36.7233,-116.1989,4.7,-0.1,ml,15,117.5,0.012,0.0782,nn,nn00865375,2023-09-02T14:28:36.252Z,"50 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.31,5,reviewed,nn,nn
 2023-09-02T12:18:49.820Z,38.8305016,-122.856163,2.09,0.93,md,20,91,0.003004,0.04,nc,nc73932171,2023-09-02T12:35:14.196Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.41,0.17,22,automatic,nc,nc
 2023-09-02T12:18:30.080Z,58.2502,-155.0974,3.5,0.9,ml,,,,0.23,ak,ak023b9dx5gg,2023-09-02T12:20:39.834Z,"84 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-09-02T12:08:47.076Z,36.7700386,-98.06597137,1.564280272,2.32,ml,41,82.85186791,0.09673291445,0.7964497534,ok,ok2023resu,2023-09-02T13:00:41.493Z,"Oklahoma",earthquake,2.059208191,1.584089881,0.15,29,automatic,ok,ok
+2023-09-02T12:08:47.076Z,36.7700386,-98.06597137,1.564280272,2.32,ml,41,82.85186791,0.09673291445,0.7964497534,ok,ok2023resu,2023-09-02T13:00:41.493Z,"7 km ENE of Nescatunga, Oklahoma",earthquake,2.059208191,1.584089881,0.15,29,automatic,ok,ok
 2023-09-02T11:57:07.580Z,38.8074989,-122.8121643,3.15,1.06,md,21,56,0.01318,0.03,nc,nc73932166,2023-09-02T12:25:14.139Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.58,0.19,22,automatic,nc,nc
 2023-09-02T11:53:23.190Z,38.8264999,-122.8026657,1.79,0.76,md,13,54,0.006565,0.01,nc,nc73932156,2023-09-02T12:11:16.052Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.77,0.17,15,automatic,nc,nc
 2023-09-02T11:48:49.970Z,33.7708333,-116.1488333,3.04,1.22,ml,31,103,0.06584,0.19,ci,ci39657338,2023-09-02T11:52:23.533Z,"8 km NE of Indio, CA",earthquake,0.34,0.52,0.177,27,automatic,ci,ci
@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T20:55:53.650Z,33.8371667,-116.7683333,16.64,1.07,ml,29,82,0.02443,0.11,ci,ci39657090,2023-09-01T22:33:01.981Z,"9 km S of Cabazon, CA",earthquake,0.18,0.4,0.173,20,reviewed,ci,ci
 2023-09-01T20:49:55.390Z,50.7116,156.2711,145.997,6.1,mww,286,18,2.558,0.53,us,us7000ksrl,2023-09-01T22:57:41.656Z,"Kuril Islands",earthquake,8.34,3.224,0.035,77,reviewed,us,us
 2023-09-01T20:43:46.528Z,60.7127,-152.5196,12,2.1,ml,,,,0.22,ak,ak023b7vanz0,2023-09-01T23:46:16.330Z,"66 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-01T20:43:01.300Z,36.26766667,-97.26883333,5.56,2.65,ml,98,27,0,0.21,ok,ok2023rdog,2023-09-01T21:57:46.295Z,"2 km SE of Perry, Oklahoma",earthquake,,0.3,0.23,37,reviewed,ok,ok
+2023-09-01T20:43:01.300Z,36.26766667,-97.26883333,5.56,2.65,ml,98,27,0,0.21,ok,ok2023rdog,2023-09-02T15:42:51.758Z,"2 km SE of Perry, Oklahoma",earthquake,,0.3,0.23,37,reviewed,ok,ok
 2023-09-01T20:27:50.970Z,33.5106667,-116.451,10.78,0.7,ml,16,103,0.02466,0.09,ci,ci39657082,2023-09-01T22:29:24.109Z,"21 km ESE of Anza, CA",earthquake,0.26,0.52,0.186,12,reviewed,ci,ci
 2023-09-01T20:06:33.780Z,33.8388333,-117.49,3.48,1.69,ml,31,48,0.04311,0.12,ci,ci39657066,2023-09-01T22:27:35.782Z,"5 km SSE of Home Gardens, CA",quarry blast,0.2,0.54,0.198,29,reviewed,ci,ci
 2023-09-01T19:42:22.640Z,38.8373337,-122.8389969,0.83,0.43,md,8,189,0.003014,0.03,nc,nc73931816,2023-09-01T20:06:13.277Z,"10 km NW of The Geysers, CA",earthquake,0.49,0.81,0.27,10,automatic,nc,nc
