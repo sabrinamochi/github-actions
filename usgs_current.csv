@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T20:02:59.500Z,34.4068333,-119.2045,1.69,1.6,ml,26,92,0.063,0.31,ci,ci39657922,2023-09-03T20:06:48.222Z,"6 km SE of Ojai, CA",earthquake,0.48,0.73,0.176,34,automatic,ci,ci
+2023-09-03T20:02:10.340Z,35.8931656,-121.4003296,0.27,1.6,md,19,216,0.209,0.33,nc,nc73932696,2023-09-03T20:03:44.508Z,"21 km SE of Lopez Point, CA",earthquake,2.26,9.37,0.1,9,automatic,nc,nc
 2023-09-03T19:11:00.040Z,38.8458328,-122.8134995,1.47,1.1,md,10,233,0.03848,0.07,nc,nc73932681,2023-09-03T19:40:11.975Z,"8 km WNW of Cobb, CA",earthquake,0.84,2.08,0.14,11,automatic,nc,nc
 2023-09-03T19:10:56.710Z,38.8351669,-122.8168335,1.78,1.6,md,16,62,0.01289,0.02,nc,nc73932676,2023-09-03T19:29:14.916Z,"8 km W of Cobb, CA",earthquake,0.22,0.55,0.12,17,automatic,nc,nc
 2023-09-03T18:58:33.250Z,35.7716675,-120.3239975,7.79,1.53,md,24,106,0.01303,0.07,nc,nc73932666,2023-09-03T19:29:15.064Z,"6 km NNW of Cholame, CA",earthquake,0.31,0.36,0.2,10,automatic,nc,nc
@@ -6,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T18:48:05.690Z,38.8338318,-122.8141632,1.08,0.22,md,8,74,0.01732,0.01,nc,nc73932661,2023-09-03T18:49:38.291Z,"8 km W of Cobb, CA",earthquake,0.36,1.1,0.14,9,automatic,nc,nc
 2023-09-03T18:25:34.979Z,62.4101,-149.0918,15.4,1.8,ml,,,,0.11,ak,ak023bb52lyx,2023-09-03T18:26:47.134Z,"48 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-03T18:20:11.788Z,59.2763,-153.7291,92.2,1.7,ml,,,,0.66,ak,ak023bb51hlm,2023-09-03T18:22:42.478Z,"53 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-09-03T18:15:09.402Z,4.9368,125.6642,111.988,4.7,mb,78,64,2.121,0.96,us,us7000kt1v,2023-09-03T20:06:01.040Z,"56 km SSE of Sarangani, Philippines",earthquake,8.28,6.097,0.066,70,reviewed,us,us
 2023-09-03T18:12:59.390Z,33.979,-116.933,13.11,1.1,ml,37,44,0.06976,0.16,ci,ci39657874,2023-09-03T18:16:30.223Z,"7 km NE of Beaumont, CA",earthquake,0.22,0.54,0.151,27,automatic,ci,ci
 2023-09-03T18:02:13.570Z,33.3968333,-116.3815,2.45,1.24,ml,42,38,0.1315,0.25,ci,ci39657866,2023-09-03T18:12:43.930Z,"16 km N of Borrego Springs, CA",earthquake,0.32,1.47,0.161,26,automatic,ci,ci
 2023-09-03T17:54:38.130Z,33.763,-117.5476667,5.36,1.06,ml,27,36,0.05912,0.24,ci,ci39657850,2023-09-03T17:58:16.286Z,"12 km NNE of Trabuco Canyon, CA",earthquake,0.3,0.58,0.331,22,automatic,ci,ci
@@ -190,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T20:22:03.410Z,38.822834,-122.8178329,3,0.76,md,14,75,0.006087,0.01,nc,nc73932336,2023-09-02T20:39:14.912Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.73,0.16,15,automatic,nc,nc
 2023-09-02T20:21:54.350Z,31.9875,-103.8243,5,2.6,ml,23,88,0.106,0.34,us,us7000kswp,2023-09-02T21:21:56.040Z,"35 km SE of Malaga, New Mexico",earthquake,0.88,1.956,0.071,26,reviewed,us,us
 2023-09-02T20:14:31.450Z,60.4757,-151.6008,31.8,1.2,ml,,,,1.81,ak,ak023b9inrjd,2023-09-02T20:15:52.533Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-02T20:04:29.920Z,19.3886661529541,-155.276672363281,0.360000014305115,1.84,ml,12,122,,0.159999996,hv,hv73558737,2023-09-02T20:10:01.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.25,6,automatic,hv,hv
-2023-09-02T20:03:08.675Z,-3.1435,137.9069,58.105,4.3,mb,18,107,2.862,0.46,us,us7000kswm,2023-09-02T21:11:45.040Z,"266 km N of Agats, Indonesia",earthquake,9.55,11.435,0.169,10,reviewed,us,us
-2023-09-02T20:02:22.137Z,62.3387,-149.6013,43.9,2.2,ml,,,,0.56,ak,ak023b9il685,2023-09-02T20:04:28.260Z,"23 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
