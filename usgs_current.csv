@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T16:34:19.990Z,19.0653,-64.6136,24,3.53,md,6,318,0.7911,0.27,pr,pr2023246003,2023-09-03T16:53:46.536Z,"83 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.13,22.81,0.03,3,reviewed,pr,pr
 2023-09-03T16:31:58.830Z,38.8429985,-122.8806686,2.47,0.25,md,9,101,0.005241,0.03,nc,nc73932626,2023-09-03T16:48:16.112Z,"12 km ENE of Cloverdale, CA",earthquake,0.39,0.69,0.14,11,automatic,nc,nc
 2023-09-03T16:28:17.800Z,18.5993333333333,-66.751,7.38,2.55,md,13,223,0.2428,0.15,pr,pr71423458,2023-09-03T16:50:13.410Z,"13 km NNE of Carrizales, Puerto Rico",earthquake,0.5,0.76,0.232381001459128,7,reviewed,pr,pr
+2023-09-03T16:25:44.270Z,46.19716666666667,-122.18366666666667,3.1,0.21,ml,16,80,0.003291,0.13,uw,uw61956846,2023-09-03T19:48:55.440Z,"Washington",earthquake,0.45,0.57,0.1850874325816075,13,reviewed,uw,uw
 2023-09-03T16:24:13.070Z,33.3466667,-115.7526667,1.79,1.44,ml,29,45,0.0173,0.18,ci,ci39657818,2023-09-03T16:27:39.583Z,"2 km WSW of Bombay Beach, CA",earthquake,0.26,0.37,0.114,25,automatic,ci,ci
 2023-09-03T16:17:48.480Z,33.4145,-115.997,5.4,1,ml,9,152,0.2291,0.29,ci,ci39657802,2023-09-03T16:21:23.547Z,"11 km ESE of Oasis, CA",earthquake,1.57,31.61,0.049,3,automatic,ci,ci
 2023-09-03T16:16:18.440Z,-9.3909,121.871,73.588,4.6,mb,17,127,2.391,0.72,us,us7000kt1g,2023-09-03T16:57:09.040Z,"64 km SSE of Ende, Indonesia",earthquake,11,10.065,0.172,10,reviewed,us,us
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:16:18.758Z,43.5496,-128.5598,10,3,ml,23,283,3.28,0.54,us,us7000kt03,2023-09-03T10:29:56.040Z,"off the coast of Oregon",earthquake,5.03,2.026,0.044,68,reviewed,us,us
 2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T09:59:03.114Z,9.2036,93.8861,10,4.7,mb,54,136,6.649,0.48,us,us7000kt05,2023-09-03T10:38:13.040Z,"299 km SSE of Port Blair, India",earthquake,10.12,1.913,0.085,42,reviewed,us,us
-2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"2 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T11:11:55.718Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
 2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
 2023-09-03T09:22:56.900Z,18.109,-65.746,19.73,2.27,md,8,143,0.08968,0.14,pr,pr71423383,2023-09-03T10:00:06.410Z,"Puerto Rico region",earthquake,0.72,0.39,0.00390427148370698,5,reviewed,pr,pr
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T20:03:08.675Z,-3.1435,137.9069,58.105,4.3,mb,18,107,2.862,0.46,us,us7000kswm,2023-09-02T21:11:45.040Z,"Papua, Indonesia",earthquake,9.55,11.435,0.169,10,reviewed,us,us
 2023-09-02T20:02:22.137Z,62.3387,-149.6013,43.9,2.2,ml,,,,0.56,ak,ak023b9il685,2023-09-02T20:04:28.260Z,"23 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-02T19:53:42.100Z,38.8411674,-122.824501,1.59,0.61,md,11,94,0.008958,0.01,nc,nc73932321,2023-09-02T20:10:13.723Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.77,0.16,11,automatic,nc,nc
-2023-09-02T19:49:45.810Z,17.9976666666667,-66.9266666666667,13.4,2.43,md,4,163,0.05042,0.09,pr,pr71423258,2023-09-02T20:01:33.570Z,"1 km NW of Fuig, Puerto Rico",earthquake,3.17,1.08,0.0890105483639014,3,reviewed,pr,pr
-2023-09-02T19:47:51.263Z,63.7708,-148.7661,26.8,1.5,ml,,,,1.26,ak,ak023b9i9g3a,2023-09-02T19:50:00.336Z,"8 km ENE of Denali Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
