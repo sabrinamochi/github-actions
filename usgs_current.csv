@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T11:55:46.131Z,66.3251,-153.2489,0,1.4,ml,,,,0.87,ak,ak023bcomdj6,2023-09-04T11:58:21.667Z,"35 km SW of Alatna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-04T11:41:28.768Z,37.0392,-104.9512,7.42,2.7,ml,14,64,0.157,0.39,us,us7000kt5s,2023-09-04T11:47:56.040Z,"Colorado",earthquake,3,3.3,0.058,39,reviewed,us,us
 2023-09-04T11:07:26.779Z,61.0285,-151.4336,61.1,1.6,ml,,,,0.49,ak,ak023bcoc1ph,2023-09-04T11:09:43.206Z,"16 km WSW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-04T11:04:28.670Z,34.4268333,-119.2113333,1.54,1.28,ml,13,87,0.06185,0.28,ci,ci39658130,2023-09-04T11:08:01.913Z,"4 km SE of Ojai, CA",earthquake,0.51,0.82,0.138,10,automatic,ci,ci
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T05:40:23.470Z,33.8143333,-118.2565,8,1.32,ml,25,82,0.0537,0.33,ci,ci39658026,2023-09-04T05:57:57.899Z,"3 km SE of Carson, CA",earthquake,0.63,1.27,0.141,27,automatic,ci,ci
 2023-09-04T05:39:26.449Z,57.807,-155.9133,128.2,1.8,ml,,,,0.88,ak,ak023bckyays,2023-09-04T05:41:58.888Z,"90 km WNW of Karluk, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2023-09-04T05:35:49.370Z,38.8380013,-122.8078308,1.84,0.75,md,10,70,0.01366,0.03,nc,nc73932841,2023-09-04T05:37:26.774Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.21,0.32,11,automatic,nc,nc
-2023-09-04T05:26:08.839Z,37.9198,27.0744,10,4.8,mb,32,55,0.688,0.84,us,us7000kt4d,2023-09-04T11:36:56.577Z,"11 km SSW of Özdere, Turkey",earthquake,4.5,1.697,0.249,5,reviewed,us,us
+2023-09-04T05:26:08.839Z,37.9198,27.0744,10,4.8,mb,32,55,0.688,0.84,us,us7000kt4d,2023-09-04T11:53:49.496Z,"11 km SSW of Özdere, Turkey",earthquake,4.5,1.697,0.249,5,reviewed,us,us
 2023-09-04T05:19:38.318Z,64.6128,-146.8819,20.6,0.7,ml,,,,0.6,ak,ak023bcku1k7,2023-09-04T05:21:20.679Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-04T04:57:07.480Z,37.7216682,-122.117836,6.88,1.36,md,10,108,0.002742,0.08,nc,nc73932836,2023-09-04T06:17:18.595Z,"3 km E of San Leandro, CA",earthquake,0.37,0.62,0.19,7,automatic,nc,nc
 2023-09-04T04:49:08.350Z,17.9663333333333,-66.8678333333333,17.52,2.16,md,6,200,0.01391,0.08,pr,pr71423578,2023-09-04T05:08:12.790Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.75,0.52,0.085936516703675,4,reviewed,pr,pr
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T12:12:51.900Z,38.8321648,-122.8016663,2.54,0.7,md,8,100,0.01095,0.01,nc,nc73932541,2023-09-03T12:29:19.506Z,"7 km W of Cobb, CA",earthquake,0.46,1.8,0.49,8,automatic,nc,nc
 2023-09-03T12:09:25.750Z,44.7111664,-110.015831,18.18,1.53,md,8,87,0.07005,0.09,uu,uu60549097,2023-09-03T12:39:14.550Z,"32 km S of Silver Gate, Montana",earthquake,1.14,2.17,0.18,7,reviewed,uu,uu
 2023-09-03T12:07:00.090Z,44.6728325,-109.9986649,13.96,2.17,ml,23,116,0.08044,0.22,uu,uu60549092,2023-09-03T12:41:21.230Z,"Wyoming",earthquake,0.8,0.77,0.96,14,reviewed,uu,uu
-2023-09-03T11:56:09.830Z,19.1826667785645,-155.490173339844,31.3799991607666,2.1500001,md,45,76,,0.119999997,hv,hv73559722,2023-09-03T12:01:41.200Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.45,0.639999986,0.209999993,21,automatic,hv,hv
-2023-09-03T11:54:52.400Z,33.8835,-116.8245,2.18,0.33,ml,9,207,0.1932,0.21,ci,ci39657722,2023-09-03T11:58:27.999Z,"5 km SW of Cabazon, CA",earthquake,0.77,2.95,0.233,6,automatic,ci,ci
