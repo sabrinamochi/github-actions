@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-06T14:25:04.700Z,19.3343334197998,-155.19450378418,-0.639999985694885,1.98000002,md,41,123,,0.209999993,hv,hv73565842,2023-09-06T14:28:10.130Z,"Hawaii region, Hawaii",earthquake,0.39,0.150000006,1.10000002,27,automatic,hv,hv
+2023-09-06T14:25:04.700Z,19.3343334197998,-155.19450378418,-0.639999985694885,1.93,ml,41,123,,0.209999993,hv,hv73565842,2023-09-06T14:30:34.490Z,"12 km SSE of Volcano, Hawaii",earthquake,0.39,0.150000006,2.25,16,automatic,hv,hv
 2023-09-06T14:18:34.387Z,63.5997,-147.2798,0.1,1.6,ml,,,,1.03,ak,ak023bg19ez2,2023-09-06T14:20:28.794Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T14:16:00.451Z,61.4164,-150.2386,23.6,1.4,ml,,,,0.53,ak,ak023bg18wx9,2023-09-06T14:18:00.622Z,"15 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T13:56:18.250Z,32.9206667,-116.2233333,8.73,0.88,ml,22,103,0.07534,0.25,ci,ci39659442,2023-09-06T13:59:59.967Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.55,1.15,0.069,12,automatic,ci,ci
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T14:51:19.230Z,32.9864998,-116.3146667,8.9,1.16,ml,13,97,0.0332,0.1,ci,ci39658682,2023-09-05T14:53:28.054Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.38,0.72,0.331,8,automatic,ci,ci
 2023-09-05T14:43:12.060Z,33.7431667,-120.0468333,11.17,3.18,ml,28,245,0.2365,0.2,ci,ci39658674,2023-09-06T02:47:54.132Z,"23 km SSE of Santa Rosa Is., CA",earthquake,0.5,0.69,0.161,48,reviewed,ci,ci
 2023-09-05T14:35:52.662Z,-8.502,108.8089,63.769,4.3,mb,23,67,1.544,0.57,us,us7000kteb,2023-09-05T15:46:17.040Z,"88 km SSW of Cilacap, Indonesia",earthquake,4.97,7.322,0.188,8,reviewed,us,us
-2023-09-05T14:30:53.794Z,-24.8558,-69.1579,102.857,4,mb,21,67,0.497,0.67,us,us7000ktea,2023-09-05T15:35:28.040Z,"147 km ENE of Taltal, Chile",earthquake,7.32,7.44,0.365,2,reviewed,us,us
