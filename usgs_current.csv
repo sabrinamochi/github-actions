@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-06T18:59:53.370Z,33.9785004,-116.5596695,9.2,1.17,ml,33,107,0.04506,0.14,ci,ci39659762,2023-09-06T19:01:58.350Z,"6 km WNW of Desert Hot Springs, CA",earthquake,0.38,0.67,0.311,6,automatic,ci,ci
+2023-09-06T18:59:53.330Z,33.9836667,-116.562,9.37,0.99,ml,32,111,0.04939,0.17,ci,ci39659762,2023-09-06T19:03:33.180Z,"6 km WNW of Desert Hot Springs, CA",earthquake,0.36,0.54,0.166,24,automatic,ci,ci
 2023-09-06T18:56:32.720Z,33.3155,-116.2795,0.73,0.62,ml,12,89,0.1243,0.19,ci,ci39659754,2023-09-06T18:59:58.519Z,"11 km NE of Borrego Springs, CA",earthquake,0.52,31.61,0.123,8,automatic,ci,ci
 2023-09-06T18:53:40.830Z,38.847332,-122.8136673,0.79,0.76,md,13,119,0.01493,0.06,nc,nc73933796,2023-09-06T18:56:13.369Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.52,0.32,12,automatic,nc,nc
 2023-09-06T18:16:04.493Z,31.61277333,-104.2727679,5.797363281,2,ml,15,71,0.05930741632,0.1,tx,tx2023rmmx,2023-09-06T18:40:26.129Z,"56 km NW of Toyah, Texas",earthquake,1.141789356,1.60617413,0.1,7,reviewed,tx,tx
@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T06:46:05.940Z,38.7971649,-122.7503357,2.53,0.85,md,13,96,0.0081,0.02,nc,nc73933606,2023-09-06T07:02:15.290Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.86,0.21,13,automatic,nc,nc
 2023-09-06T06:44:55.438Z,38.1725,-117.893,12.6,1.6,ml,11,49.74,0.077,0.1644,nn,nn00865459,2023-09-06T16:21:01.807Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.42,7,reviewed,nn,nn
 2023-09-06T06:38:46.869Z,35.33016667,-97.9435,7.17,1.82,ml,88,51,0.0638874631,0.23,ok,ok2023rlpx,2023-09-06T12:42:18.558Z,"Oklahoma",earthquake,,0.3,0.26,42,reviewed,ok,ok
+2023-09-06T06:34:43.880Z,43.3175,-110.6245,4.6,1.38,ml,11,211,0.1708,0.14,mb,mb90026448,2023-09-06T19:10:49.500Z,"13 km ENE of Hoback, Wyoming",earthquake,0.9,1.76,0.265997305769119,10,reviewed,mb,mb
 2023-09-06T06:13:08.100Z,38.8328323,-122.817337,1.72,0.59,md,9,87,0.011,0.02,nc,nc73933601,2023-09-06T06:14:41.697Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.79,0.38,9,automatic,nc,nc
 2023-09-06T06:02:57.810Z,33.1778333,-116.4065,11.88,0.62,ml,13,81,0.09056,0.27,ci,ci39659282,2023-09-06T06:06:30.885Z,"9 km SSW of Borrego Springs, CA",earthquake,0.65,1.65,0.154,8,automatic,ci,ci
 2023-09-06T05:47:17.770Z,38.8326683,-122.8171692,1.57,0.8,md,8,70,0.01548,0.01,nc,nc73933596,2023-09-06T05:48:52.385Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.49,0.22,8,automatic,nc,nc
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T19:30:21.330Z,32.5911667,-117.008,-0.43,0.83,ml,18,210,0.06772,0.25,ci,ci39658962,2023-09-06T18:40:14.027Z,"6 km NE of San Ysidro, CA",quarry blast,1.24,31.61,0.04,4,reviewed,ci,ci
 2023-09-05T19:30:06.583Z,43.9,-115.2669,13.861,2.3,ml,37,60,0.704,0.47,us,us7000kti0,2023-09-06T16:20:09.040Z,"34 km SE of Lowman, Idaho",earthquake,1.89,7.524,0.047,60,reviewed,us,us
 2023-09-05T19:22:24.700Z,37.3008333,-121.6153333,6.74,0.85,md,14,68,0.04616,0.1,nc,nc73933456,2023-09-05T20:39:14.716Z,"19 km N of Morgan Hill, CA",earthquake,0.26,0.57,0.125,13,reviewed,nc,nc
-2023-09-05T19:03:39.160Z,46.0001666666667,-112.471666666667,-2,2.03,ml,15,111,0.05892,0.06,mb,mb90026408,2023-09-05T22:01:16.800Z,"4 km E of Butte, Montana",quarry blast,0.35,31.61,0.252108495262893,15,reviewed,mb,mb
-2023-09-05T19:02:06.370Z,19.1821670532227,-155.491500854492,31.5799999237061,1.85000002,md,36,87,,0.109999999,hv,hv73564137,2023-09-05T19:05:22.490Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.58,0.860000014,1.60000002,6,automatic,hv,hv
