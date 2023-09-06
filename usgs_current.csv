@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T20:09:21.386Z,62.8822,-143.6559,4.9,1.6,ml,,,,0.61,ak,ak023bg4s25m,2023-09-06T20:11:17.447Z,"7 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-06T20:06:02.772Z,39.3388,-120.1,2.8,1.2,ml,8,150.59,0.067,0.1019,nn,nn00865481,2023-09-06T20:08:01.655Z,"7 km E of Truckee, California",earthquake,,1.1,0.2,7,automatic,nn,nn
+2023-09-06T20:04:22.117Z,61.7764,-150.1213,41.5,1.1,ml,,,,0.39,ak,ak023bg4qzmq,2023-09-06T20:07:43.774Z,"5 km NW of Willow, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-09-06T19:56:22.540Z,36.2116661,-118.3011703,0.04,1.77,ml,18,155,0.3732,0.19,ci,ci39659850,2023-09-06T20:00:01.869Z,"28 km WSW of Olancha, CA",earthquake,0.56,2.08,0.186,8,automatic,ci,ci
 2023-09-06T19:49:51.810Z,19.1846675872803,-155.488006591797,35.2400016784668,2.11,ml,46,73,,0.109999999,hv,hv73566437,2023-09-06T19:55:22.030Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.51,0.730000019,3.89,13,automatic,hv,hv
 2023-09-06T19:48:19.983Z,61.6758,-149.8619,33.9,1.9,ml,,,,0.62,ak,ak023bg4ezda,2023-09-06T19:49:47.006Z,"5 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -45,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T14:18:34.387Z,63.5997,-147.2798,0.1,1.6,ml,,,,1.03,ak,ak023bg19ez2,2023-09-06T14:20:28.794Z,"82 km E of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T14:16:00.451Z,61.4164,-150.2386,23.6,1.4,ml,,,,0.53,ak,ak023bg18wx9,2023-09-06T14:18:00.622Z,"15 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T13:56:18.240Z,32.9208333,-116.238,8.96,0.88,ml,21,100,0.06447,0.15,ci,ci39659442,2023-09-06T19:58:12.297Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.6,0.032,8,reviewed,ci,ci
-2023-09-06T13:15:51.620Z,33.5325,-116.4998333,14.95,0.43,ml,24,60,0.03604,0.29,ci,ci39659418,2023-09-06T13:19:28.152Z,"16 km E of Anza, CA",earthquake,0.75,0.65,0.11,8,automatic,ci,ci
+2023-09-06T13:15:51.530Z,33.5125,-116.504,14.65,0.42,ml,26,61,0.05023,0.12,ci,ci39659418,2023-09-06T20:02:49.452Z,"16 km ESE of Anza, CA",earthquake,0.23,0.32,0.032,6,reviewed,ci,ci
 2023-09-06T13:05:14.357Z,63.407,-149.8105,4.1,1.4,ml,,,,0.65,ak,ak023bg0l5ij,2023-09-06T13:07:11.009Z,"42 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T13:01:31.290Z,38.8241653,-122.8065033,2.93,0.96,md,14,75,0.002893,0.01,nc,nc73933721,2023-09-06T13:19:15.473Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.82,0.2,15,automatic,nc,nc
 2023-09-06T12:49:31.920Z,18.0151666666667,-66.793,15.44,2.85,md,25,151,0.005006,0.25,pr,pr71423973,2023-09-06T13:22:54.562Z,"0 km SSW of Guayanilla, Puerto Rico",earthquake,0.58,0.86,0.275527779082821,8,reviewed,pr,pr
@@ -206,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T20:36:11.655Z,31.66145556,-104.3191604,6.902807617,2,ml,21,86,0.04736301873,0.1,tx,tx2023rkvx,2023-09-06T14:34:19.524Z,"57 km S of Whites City, New Mexico",earthquake,0.9572416027,0.990292315,0.1,7,reviewed,tx,tx
 2023-09-05T20:27:18.320Z,40.2316667,-121.1555,1.28,2.59,md,58,33,0.2397,0.16,nc,nc73933496,2023-09-06T00:02:13.840Z,"2 km NE of Almanor, CA",earthquake,0.18,1.5,0.172,68,reviewed,nc,nc
 2023-09-05T20:17:31.070Z,38.8089981,-122.814003,3.39,1.24,md,28,56,0.01186,0.04,nc,nc73933491,2023-09-05T22:31:16.329Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.45,0.18,28,automatic,nc,nc
-2023-09-05T20:10:21.837Z,62.6267,-149.7198,56.3,1.9,ml,,,,0.45,ak,ak023beh8xev,2023-09-05T20:12:23.745Z,"27 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-05T20:08:21.777Z,61.7263,-150.9406,50.6,1.6,ml,,,,0.7,ak,ak023beh8hz5,2023-09-05T20:10:26.926Z,"30 km NW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
