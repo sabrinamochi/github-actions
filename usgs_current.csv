@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T12:33:52.260Z,38.8353348,-122.7998352,2.13,0.78,md,12,70,0.008023,0.01,nc,nc73933716,2023-09-06T12:35:29.579Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.8,0.12,14,automatic,nc,nc
 2023-09-06T12:23:34.800Z,19.2708339691162,-155.40283203125,30.7700004577637,1.98000002,md,46,121,,0.159999996,hv,hv73565677,2023-09-06T12:29:05.650Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.600000024,0.810000002,23,automatic,hv,hv
 2023-09-06T12:23:29.765Z,66.285,-147.5808,0,1.5,ml,,,,1.23,ak,ak023bg03ly7,2023-09-06T12:25:52.896Z,"11 km SW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-06T12:16:38.340Z,38.7956657,-122.7291641,0.81,0.79,md,10,104,0.01375,0.06,nc,nc73933706,2023-09-06T12:18:13.663Z,"3 km S of Cobb, CA",earthquake,0.36,1,0.09,11,automatic,nc,nc
+2023-09-06T12:16:38.340Z,38.7956657,-122.7291641,0.81,0.79,md,10,104,0.01375,0.06,nc,nc73933706,2023-09-06T12:34:14.212Z,"3 km S of Cobb, CA",earthquake,0.36,1,0.09,11,automatic,nc,nc
 2023-09-06T12:04:34.260Z,37.1914,-117.4567,0,-0.6,ml,11,288.73,0.208,0.2919,nn,nn00865461,2023-09-06T12:06:51.134Z,"60 km SSW of Goldfield, Nevada",earthquake,,89.8,1.01,5,automatic,nn,nn
 2023-09-06T12:04:15.950Z,37.3611679,-118.8041687,10.9,2.04,md,20,196,0.2293,0.08,nc,nc73933701,2023-09-06T12:25:13.166Z,"19 km WSW of Round Valley, CA",earthquake,0.72,3.35,0.16,20,automatic,nc,nc
 2023-09-06T12:04:06.778Z,60.0472,-151.3078,59.6,2.4,ml,,,,0.54,ak,ak023bfzzhne,2023-09-06T12:19:04.040Z,"20 km E of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T10:05:38.640Z,38.8291664,-122.8043365,2.58,0.75,md,16,53,0.0073,0.06,nc,nc73933666,2023-09-06T10:23:17.590Z,"7 km W of Cobb, CA",earthquake,0.31,0.67,0.28,17,automatic,nc,nc
 2023-09-06T09:54:17.840Z,19.1515,-64.476,81,3.87,md,7,306,0.9324,0.27,pr,pr2023249004,2023-09-06T12:01:01.981Z,"96 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.39,12,0.09,6,reviewed,pr,pr
 2023-09-06T09:48:57.239Z,63.5253,-151.1034,4.4,1.7,ml,,,,0.44,ak,ak023bfygq6z,2023-09-06T09:50:44.774Z,"30 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-06T09:45:12.032Z,51.3801,-179.2202,22.2,1.7,ml,,,,0.43,ak,ak023bfyg088,2023-09-06T12:31:33.836Z,"187 km WSW of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-09-06T09:41:28.770Z,19.2598323822021,-155.401672363281,29.7199993133545,2.24,ml,48,125,,0.170000002,hv,hv73565402,2023-09-06T11:35:48.040Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.670000017,2.74,27,automatic,hv,hv
 2023-09-06T09:41:13.390Z,19.1256675720215,-155.455169677734,30.7399997711182,2.41,ml,24,181,,0.100000001,hv,hv73565397,2023-09-06T09:46:45.290Z,"8 km SSE of Pāhala, Hawaii",earthquake,0.85,0.879999995,2.53,25,automatic,hv,hv
 2023-09-06T09:32:05.570Z,38.7989998,-122.7781677,2.81,0.77,md,10,73,0.009583,0.01,nc,nc73933661,2023-09-06T09:59:18.348Z,"3 km NW of The Geysers, CA",earthquake,0.48,1.53,0.05,11,automatic,nc,nc
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T13:00:57.127Z,60.1853,-152.8764,116.4,1.7,ml,,,,0.22,ak,ak023bed0tqo,2023-09-05T13:02:35.688Z,"68 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-05T12:55:50.940Z,61.1862,-149.722,37.8,1.2,ml,,,,0.87,ak,ak023becr61i,2023-09-05T12:57:39.647Z,"9 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-05T12:42:27.580Z,33.5873333,-116.5966667,14.75,0.5,ml,16,106,0.01083,0.18,ci,ci39658610,2023-09-05T13:16:58.070Z,"8 km ENE of Anza, CA",earthquake,0.57,0.65,0.179,11,reviewed,ci,ci
-2023-09-05T12:33:44.734Z,56.4753,-149.2064,10,3.8,ml,125,187,2.26,0.56,us,us7000ktdw,2023-09-05T15:59:55.269Z,"Gulf of Alaska",earthquake,8.72,2.007,0.042,76,reviewed,us,us
