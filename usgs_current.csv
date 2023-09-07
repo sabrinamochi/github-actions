@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T14:25:05.410Z,38.5055008,-119.5224991,4.3,2.85,md,11,106,,0.06,nc,nc73934201,2023-09-07T14:27:27.391Z,"4 km WSW of Walker, CA",earthquake,0.34,0.88,0.16,16,automatic,nc,nc
 2023-09-07T14:22:32.090Z,38.5873337,-122.7925034,6.13,1.3,md,9,152,0.07134,0.06,nc,nc73934196,2023-09-07T14:24:05.494Z,"5 km NNE of Windsor, CA",earthquake,0.48,0.99,0.12,7,automatic,nc,nc
 2023-09-07T14:17:09.276Z,61.4959,-146.5828,40.2,1.2,ml,,,,1.13,ak,ak023bhoshsm,2023-09-07T14:19:14.991Z,"42 km NNW of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-07T14:16:45.710Z,33.838,-117.6643333,4.97,1.73,ml,15,137,0.0627,0.23,ci,ci39660354,2023-09-07T14:20:26.554Z,"10 km WSW of Corona, CA",earthquake,0.56,0.85,0.485,20,automatic,ci,ci
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T07:37:29.280Z,38.8289986,-122.8036652,1.46,0.27,md,8,78,0.007508,0.02,nc,nc73934061,2023-09-07T07:54:11.780Z,"7 km W of Cobb, CA",earthquake,0.38,1.12,0.16,7,automatic,nc,nc
 2023-09-07T07:37:26.440Z,19.3619995117188,-155.304168701172,-0.189999997615814,1.89,ml,13,92,,0.239999995,hv,hv73567332,2023-09-07T07:42:57.300Z,"11 km SW of Volcano, Hawaii",earthquake,0.36,0.370000005,0.29,9,automatic,hv,hv
 2023-09-07T07:24:35.400Z,38.8383331,-122.8048325,0.85,0.21,md,9,106,0.01132,0.05,nc,nc73934056,2023-09-07T07:42:11.703Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.99,0.07,10,automatic,nc,nc
-2023-09-07T07:21:53.640Z,33.9318333,-116.8096667,17.98,1.36,ml,47,44,0.09852,0.18,ci,ci39660162,2023-09-07T07:32:41.820Z,"3 km NW of Cabazon, CA",earthquake,0.22,0.47,0.155,27,automatic,ci,ci
+2023-09-07T07:21:53.600Z,33.931,-116.81,17.35,1.29,ml,65,26,0.09773,0.15,ci,ci39660162,2023-09-07T14:30:23.327Z,"3 km NW of Cabazon, CA",earthquake,0.13,0.32,0.169,41,reviewed,ci,ci
 2023-09-07T07:17:59.032Z,36.5776,-116.2552,3.6,0.5,ml,16,125.59,0.095,0.1375,nn,nn00865515,2023-09-07T07:19:43.730Z,"47 km NNW of Pahrump, Nevada",earthquake,,1.1,0.88,12,automatic,nn,nn
 2023-09-07T06:58:31.330Z,38.8318329,-122.8148346,2.38,0.33,md,9,86,0.00921,0.03,nc,nc73934051,2023-09-07T07:00:05.653Z,"8 km NW of The Geysers, CA",earthquake,0.43,1.67,0.22,10,automatic,nc,nc
 2023-09-07T06:54:05.762Z,39.3435,-120.1067,0.9,1.3,ml,10,181.36,0.074,0.181,nn,nn00865513,2023-09-07T06:56:42.467Z,"6 km ENE of Truckee, California",earthquake,,2.4,0.44,6,automatic,nn,nn
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T14:46:11.360Z,53.3205,-168.203666666667,3.61,0.73,ml,4,334,,0.25,av,av92032411,2023-09-07T03:45:38.920Z,"61 km NE of Nikolski, Alaska",earthquake,2.56,1.28,0.479961906738737,4,reviewed,av,av
 2023-09-06T14:36:43.570Z,48.667,-122.02666666666667,5.67,1.25,ml,7,136,0.09042,0.2,uw,uw61957606,2023-09-06T15:54:48.680Z,"14 km ESE of Acme, Washington",earthquake,0.76,3.32,0.08455897341638519,3,reviewed,uw,uw
 2023-09-06T14:34:24.990Z,36.5113335,-121.090332,7.15,2.05,md,22,91,,0.08,nc,nc73933736,2023-09-06T15:06:15.086Z,"5 km ESE of Pinnacles, CA",earthquake,0.35,0.93,0.16,19,automatic,nc,nc
-2023-09-06T14:27:03.290Z,51.8695,-177.8625,7.79,-0.01,ml,4,219,,0.06,av,av92032376,2023-09-07T03:36:31.870Z,"84 km W of Adak, Alaska",earthquake,0.54,0.85,0.184494055996371,4,reviewed,av,av
-2023-09-06T14:25:04.700Z,19.3343334197998,-155.19450378418,-0.639999985694885,1.93,ml,41,123,,0.209999993,hv,hv73565842,2023-09-06T14:30:34.490Z,"12 km SSE of Volcano, Hawaii",earthquake,0.39,0.150000006,2.25,16,automatic,hv,hv
