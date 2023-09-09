@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-09T15:27:01.690Z,17.936,-66.9331666666667,17.21,2.39,md,12,217,0.04291,0.12,pr,pr71424308,2023-09-09T15:38:34.070Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.65,0.44,0.0713019957792136,6,reviewed,pr,pr
 2023-09-09T15:25:05.375Z,66.0817,-148.9518,0,1.4,ml,,,,1.13,ak,ak023bl0ibu1,2023-09-09T15:27:11.187Z,"10 km NE of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-09T15:21:05.930Z,19.3843326568604,-155.268829345703,1.78999996185303,2.17,ml,31,46,,0.230000004,hv,hv73571887,2023-09-09T15:26:36.110Z,"7 km SSW of Volcano, Hawaii",earthquake,0.35,0.319999993,0.47,12,automatic,hv,hv
 2023-09-09T15:19:53.560Z,19.3994998931885,-155.279327392578,0.109999999403954,1.83000004,md,13,110,,0.140000001,hv,hv73571882,2023-09-09T15:22:55.650Z,"6 km SW of Volcano, Hawaii",earthquake,0.23,0.25999999,0.910000026,8,automatic,hv,hv
@@ -154,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"86 km NW of Karluk, Alaska",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T15:22:33.297Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
+2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T15:39:51.230Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"northeast of Taiwan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
 2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T15:49:14.060Z,19.0535,-65.7603,25,3.58,md,13,246,0.9156,0.41,pr,pr2023251000,2023-09-08T16:40:31.040Z,"69 km N of Suárez, Puerto Rico",earthquake,2.04,28.44,0.13,5,reviewed,pr,pr
 2023-09-08T15:48:06.870Z,34.4195,-119.1755,4.64,1.42,ml,17,65,0.0359,0.21,ci,ci39661346,2023-09-08T21:44:56.115Z,"7 km ESE of Ojai, CA",earthquake,0.31,0.58,0.124,14,reviewed,ci,ci
 2023-09-08T15:46:07.970Z,45.1645,-112.422833333333,-2,0.97,ml,4,122,0.2329,0.14,mb,mb90026888,2023-09-08T22:25:14.770Z,"17 km ESE of Dillon, Montana",quarry blast,0.84,31.61,0.339278586122978,7,reviewed,mb,mb
-2023-09-08T15:33:56.900Z,57.7305,-155.884333333333,5.45,0.54,ml,13,200,,0.29,av,av92035736,2023-09-09T00:37:52.200Z,"87 km WNW of Karluk, Alaska",earthquake,2.49,1.98,0.260078736968439,13,reviewed,av,av
