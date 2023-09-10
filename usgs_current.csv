@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T14:47:55.040Z,35.8925018,-120.4410019,9.73,1.24,md,12,100,0.01517,0.09,nc,nc73935401,2023-09-10T15:12:15.150Z,"1 km SW of Parkfield, CA",earthquake,1.17,1.37,0.18,5,automatic,nc,nc
 2023-09-10T14:44:14.407Z,64.151,-147.3288,3.9,1.2,ml,,,,0.48,ak,ak023bmnkc0w,2023-09-10T14:46:04.719Z,"43 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-10T14:42:54.160Z,40.7915001,-121.8860016,8.61,1.8,md,11,148,0.1162,0.1,nc,nc73935391,2023-09-10T15:30:15.250Z,"5 km E of Round Mountain, CA",earthquake,0.86,1.82,0.24,5,automatic,nc,nc
-2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-10T15:30:24.869Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
+2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-10T15:35:47.143Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
 2023-09-10T14:26:46.030Z,40.7915001,-121.8833313,5.71,2.17,md,17,82,0.1182,0.09,nc,nc73935381,2023-09-10T14:48:10.031Z,"5 km E of Round Mountain, CA",earthquake,0.31,2.12,0.14,7,automatic,nc,nc
 2023-09-10T14:21:45.861Z,61.1157,-151.9187,92.2,1.1,ml,,,,0.34,ak,ak023bmnfgze,2023-09-10T14:23:47.309Z,"42 km W of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-10T14:20:43.089Z,60.8706,-152.6422,129.7,1.8,ml,,,,0.33,ak,ak023bmnf91w,2023-09-10T14:23:27.955Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T08:12:05.420Z,19.3861675262451,-155.276000976562,1.0900000333786,1.96,ml,16,71,,0.0799999982,hv,hv73573862,2023-09-10T08:17:36.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.180000007,0.22,9,automatic,hv,hv
 2023-09-10T08:10:38.040Z,19.3636665344238,-155.285171508789,2.61999988555908,1.76999998,md,16,122,,0.109999999,hv,hv73573857,2023-09-10T08:13:39.700Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.49000001,0.529999971,13,automatic,hv,hv
 2023-09-10T08:02:04.360Z,33.4325,-116.909,5.67,0.35,ml,11,95,0.08772,0.14,ci,ci39662210,2023-09-10T08:05:36.690Z,"4 km WSW of Aguanga, CA",earthquake,0.38,2.1,0.128,9,automatic,ci,ci
-2023-09-10T07:59:59.949Z,30.9857,-8.438,9.976,3.9,mb,23,114,2.464,0.56,us,us7000kus7,2023-09-10T14:22:56.515Z,"Morocco",earthquake,9.9,4.745,0.182,8,reviewed,us,us
+2023-09-10T08:00:00.787Z,31.0451,-8.4611,10,4.2,mb,22,114,2.416,0.63,us,us7000kus7,2023-09-10T15:39:32.040Z,"Morocco",earthquake,7.11,1.85,0.176,9,reviewed,us,us
 2023-09-10T07:57:10.280Z,33.6705,-116.679,16.9,0.6,ml,18,91,0.05142,0.1,ci,ci39662202,2023-09-10T13:59:19.276Z,"9 km SSE of Idyllwild, CA",earthquake,0.24,0.43,0.098,17,reviewed,ci,ci
 2023-09-10T07:46:02.108Z,2.0153,-102.1044,10,4.6,mb,81,199,12.115,0.53,us,us7000kus5,2023-09-10T09:08:36.040Z,"Galapagos Triple Junction region",earthquake,13.64,1.956,0.037,220,reviewed,us,us
 2023-09-10T07:44:14.520Z,29.04693604,-97.83467371,5.942504883,2.8,ml,19,72,0.0841410546,0.3,tx,tx2023rtac,2023-09-10T08:07:45.878Z,"19 km NNE of Karnes City, Texas",earthquake,1.2338635419999997,2.163235469,0.1,10,reviewed,tx,tx
@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T16:02:51.239Z,36.7311,-115.9922,11,-0.1,ml,10,86.66,0.006,0.0753,nn,nn00865662,2023-09-09T18:56:36.050Z,"33 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.11,4,reviewed,nn,nn
 2023-09-09T15:48:49.430Z,19.4044990539551,-155.261337280273,-0.439999997615814,1.78999996,md,10,62,,0.119999997,hv,hv73571952,2023-09-09T15:54:20.600Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.460000008,0.109999999,5,automatic,hv,hv
 2023-09-09T15:45:12.340Z,38.8043327,-122.7903366,3.07,0.74,md,14,54,0.005314,0.01,nc,nc73935081,2023-09-09T15:46:47.558Z,"4 km NW of The Geysers, CA",earthquake,0.3,0.58,0.15,16,automatic,nc,nc
-2023-09-09T15:38:27.140Z,38.1893,-117.7407,11.9,1.5,ml,10,114.77,0.116,0.2159,nn,nn00865644,2023-09-09T17:08:13.082Z,"39 km SE of Mina, Nevada",earthquake,,1.5,0.31,8,reviewed,nn,nn
-2023-09-09T15:32:57.870Z,40.9543333,-121.5606667,12.87,1.95,md,26,45,0.1054,0.11,nc,nc73935076,2023-09-09T19:45:12.762Z,"12 km WSW of Fall River Mills, CA",earthquake,0.25,0.91,0.179,26,reviewed,nc,nc
