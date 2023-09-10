@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T20:17:06.310Z,38.7983322,-122.7463303,1.25,1.29,md,14,99,0.0107,0.07,nc,nc73935476,2023-09-10T20:18:42.465Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.72,0.2,16,automatic,nc,nc
+2023-09-10T20:16:13.350Z,34.1918333,-117.3941667,11.95,0.98,ml,25,72,0.02759,0.18,ci,ci39662314,2023-09-10T20:19:46.299Z,"3 km SSE of Devore, CA",earthquake,0.34,0.69,0.219,18,automatic,ci,ci
 2023-09-10T19:53:51.850Z,38.8363342,-122.8116684,1.95,1.31,md,25,56,0.01298,0.01,nc,nc73935466,2023-09-10T20:11:13.890Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.36,0.19,27,automatic,nc,nc
 2023-09-10T19:30:29.130Z,19.417667388916,-155.278671264648,-0.509999990463257,2.08,ml,21,63,,0.230000004,hv,hv73574792,2023-09-10T19:36:00.360Z,"5 km WSW of Volcano, Hawaii",earthquake,0.25,0.230000004,0.33,9,automatic,hv,hv
 2023-09-10T19:19:35.272Z,61.1933,-150.8099,44.8,1.3,ml,,,,0.46,ak,ak023bmqe6rb,2023-09-10T19:22:12.147Z,"15 km ENE of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -21,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T17:14:37.845Z,60.6301,-152.2215,87.3,1.4,ml,,,,0.35,ak,ak023bmp6960,2023-09-10T17:16:12.820Z,"49 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-10T16:47:59.364Z,64.9402,-148.6083,17.5,1.2,ml,,,,0.47,ak,ak023bmorxuo,2023-09-10T16:49:44.025Z,"29 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-10T16:30:21.062Z,-32.6221,-177.56,32.274,4.7,mb,22,213,3.365,1.16,us,us7000kuut,2023-09-10T16:55:42.040Z,"south of the Kermadec Islands",earthquake,15.11,9.693,0.08,47,reviewed,us,us
+2023-09-10T16:27:24.742Z,58.0998,-151.7944,9.6,1.9,ml,,,,0.44,ak,ak023bmonksh,2023-09-10T20:19:20.412Z,"46 km ENE of Ouzinkie, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-09-10T16:09:43.160Z,38.8339996,-122.8156662,1.24,0.37,md,13,57,0.01145,0.02,nc,nc73935411,2023-09-10T16:11:19.972Z,"8 km W of Cobb, CA",earthquake,0.26,0.79,0.27,13,automatic,nc,nc
 2023-09-10T16:09:18.420Z,38.8333321,-122.8150024,1.21,0.33,md,13,55,0.01064,0.01,nc,nc73935406,2023-09-10T16:10:55.330Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.66,0.24,14,automatic,nc,nc
 2023-09-10T16:05:20.940Z,19.1358337402344,-155.377838134766,30.7999992370605,1.89999998,md,36,218,,0.109999999,hv,hv73574422,2023-09-10T16:08:48.040Z,"12 km SE of Pāhala, Hawaii",earthquake,0.82,1.05999994,1.89999998,4,automatic,hv,hv
@@ -178,8 +181,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T21:02:49.850Z,38.8214989,-122.814003,3.26,0.92,md,11,91,0.003606,0.02,nc,nc73935166,2023-09-09T21:04:23.183Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.33,0.32,13,automatic,nc,nc
 2023-09-09T20:58:16.070Z,19.404333114624,-155.266998291016,-0.930000007152557,2.25,ml,16,73,,0.200000003,hv,hv73572557,2023-09-09T21:03:46.840Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.360000014,0.44,18,automatic,hv,hv
 2023-09-09T20:43:53.790Z,19.404333114624,-155.264663696289,0.259999990463257,2.06,ml,16,46,,0.140000001,hv,hv73572527,2023-09-09T20:49:23.530Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.360000014,0.25,10,automatic,hv,hv
-2023-09-09T20:40:35.680Z,36.0221667,-117.844,-0.13,1.38,ml,11,138,0.04879,0.11,ci,ci39662042,2023-09-09T20:44:14.417Z,"10 km ESE of Coso Junction, CA",earthquake,0.3,31.61,0.18,9,automatic,ci,ci
+2023-09-09T20:40:35.680Z,36.0268333,-117.831,1.58,1.43,ml,20,103,0.04776,0.14,ci,ci39662042,2023-09-10T20:20:31.830Z,"11 km E of Coso Junction, CA",earthquake,0.22,0.22,0.168,9,reviewed,ci,ci
 2023-09-09T20:34:46.370Z,19.3911666870117,-155.274505615234,1.58000004291534,2.17,ml,23,59,,0.159999996,hv,hv73572507,2023-09-09T20:40:19.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.3,10,automatic,hv,hv
 2023-09-09T20:24:13.860Z,19.3336658477783,-155.191665649414,1.70000004768372,1.91,ml,41,108,,0.159999996,hv,hv73572482,2023-09-09T20:29:44.890Z,"12 km SSE of Volcano, Hawaii",earthquake,0.32,0.49000001,2.12,18,automatic,hv,hv
-2023-09-09T20:16:04.740Z,17.9758333333333,-66.8478333333333,13.14,2.5,md,8,194,0.05799,0.14,pr,pr71424313,2023-09-09T20:26:57.570Z,"3 km SW of Indios, Puerto Rico",earthquake,0.78,0.56,0.0293251225645985,5,reviewed,pr,pr
-2023-09-09T20:14:07.625Z,57.9351,-154.8575,16.3,0.9,ml,,,,0.24,ak,ak023bl3f55m,2023-09-09T20:21:02.657Z,"47 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
