@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-10T10:28:30.110Z,44.7550011,-110.9420013,11.25,2.55,ml,21,68,0.04591,0.23,uu,uu60549792,2023-09-10T10:31:08.490Z,"16 km NE of West Yellowstone, Montana",earthquake,0.48,0.72,0.42,13,automatic,uu,uu
+2023-09-10T10:32:20.882Z,60.6067,-150.4464,44.8,1.6,ml,,,,0.35,ak,ak023bml41ig,2023-09-10T10:33:49.123Z,"19 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-10T10:28:30.110Z,44.7550011,-110.9420013,11.25,2.55,ml,21,68,0.04591,0.23,uu,uu60549792,2023-09-10T10:37:48.750Z,"16 km NE of West Yellowstone, Montana",earthquake,0.48,0.72,0.42,13,reviewed,uu,uu
+2023-09-10T10:21:01.760Z,1.618,127.0058,117.248,4.9,mb,71,97,0.915,0.58,us,us7000kusu,2023-09-10T10:37:58.040Z,"100 km NNW of Ternate, Indonesia",earthquake,4.73,5.756,0.049,130,reviewed,us,us
 2023-09-10T10:17:55.260Z,19.4006671905518,-155.277160644531,1.12999999523163,2.23,ml,33,44,,0.189999998,hv,hv73573992,2023-09-10T10:23:25.720Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.25,12,automatic,hv,hv
 2023-09-10T10:17:37.403Z,58.1983,-155.2481,1.1,0.8,ml,,,,0.26,ak,ak023bml0v1o,2023-09-10T10:19:37.601Z,"84 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-09-10T10:06:58.383Z,58.1817,-155.3811,1.2,0.8,ml,,,,0.29,ak,ak023bmkyjse,2023-09-10T10:08:14.295Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -184,11 +186,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T11:51:38.470Z,18.9388333333333,-64.9776666666667,21.18,3.19,md,11,284,0.5837,0.17,pr,pr71424273,2023-09-09T12:17:15.540Z,"66 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1,14.73,0.0910554035071827,5,reviewed,pr,pr
 2023-09-09T11:51:21.532Z,37.545,-115.5774,2.2,1.4,ml,15,221.63,0.44,0.3105,nn,nn00865636,2023-09-09T11:53:45.451Z,"18 km SE of Rachel, Nevada",earthquake,,13.4,0.79,10,automatic,nn,nn
 2023-09-09T11:47:50.950Z,19.3626670837402,-155.281661987305,2.1800000667572,1.79999995,md,26,120,,0.170000002,hv,hv73571522,2023-09-09T11:51:06.530Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.400000006,0.449999988,15,automatic,hv,hv
-2023-09-09T11:31:17.815Z,43.6101,-70.771,2.982,1.5,ml,15,144,0.487,0.25,us,us7000kure,2023-09-10T05:42:18.148Z,"6 km SSW of Lake Arrowhead, Maine",earthquake,1.5,3.93,0.091,16,reviewed,us,us
+2023-09-09T11:31:17.815Z,43.6101,-70.771,2.982,1.5,ml,15,144,0.487,0.25,us,us7000kure,2023-09-10T10:37:18.040Z,"Maine",earthquake,1.5,3.93,0.091,16,reviewed,us,us
 2023-09-09T11:27:53.000Z,18.9861666666667,-65.0753333333333,19.26,3.41,md,10,280,0.6404,0.28,pr,pr71424268,2023-09-09T12:32:17.650Z,"72 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.1,7.36,0.189020425122349,9,reviewed,pr,pr
 2023-09-09T11:18:53.390Z,38.8321648,-122.8161697,1.29,0.59,md,10,73,0.009968,0.01,nc,nc73935021,2023-09-09T11:20:27.294Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.86,0.36,10,automatic,nc,nc
 2023-09-09T11:16:23.100Z,35.9318352,-120.4843369,3.65,0.5,md,9,100,0.02637,0.07,nc,nc73935011,2023-09-09T11:17:57.269Z,"6 km NW of Parkfield, CA",earthquake,0.47,1.22,0.41,3,automatic,nc,nc
 2023-09-09T11:04:15.433Z,61.632,-151.1989,0,1.5,ml,,,,0.92,ak,ak023bky045j,2023-09-09T11:06:12.761Z,"37 km WNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-09T10:53:43.810Z,61.0221,-150.8212,31.5,1.6,ml,,,,0.33,ak,ak023bkxp8tp,2023-09-09T10:55:23.610Z,"13 km NNW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-09T10:46:30.480Z,19.390832901001,-155.275833129883,1.58000004291534,2.01,ml,27,50,,0.180000007,hv,hv73571437,2023-09-09T10:52:01.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.25,0.29,10,automatic,hv,hv
-2023-09-09T10:32:40.150Z,38.8310013,-122.8161697,1.71,1.63,md,19,50,0.008964,0.02,nc,nc73934996,2023-09-09T11:03:13.867Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.11,21,automatic,nc,nc
