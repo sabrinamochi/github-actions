@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T07:56:04.760Z,38.8068352,-122.7876663,1.04,0.31,md,10,68,0.006073,0.04,nc,nc73935666,2023-09-11T07:57:38.268Z,"4 km NW of The Geysers, CA",earthquake,0.4,0.52,0.09,9,automatic,nc,nc
 2023-09-11T07:46:23.680Z,38.8371658,-122.8036652,1.92,0.71,md,8,116,0.01048,0.01,nc,nc73935661,2023-09-11T07:47:57.817Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.08,0.19,8,automatic,nc,nc
 2023-09-11T07:21:42.710Z,33.4895,-116.5816667,10,0.5,ml,17,75,0.01793,0.18,ci,ci39662498,2023-09-11T07:25:10.079Z,"11 km SE of Anza, CA",earthquake,0.35,0.64,0.155,10,automatic,ci,ci
 2023-09-11T07:17:49.880Z,39.8709984,-121.0019989,-1.11,2.57,md,19,61,0.3801,0.31,nc,nc73935651,2023-09-11T07:41:55.165Z,"9 km SSW of Quincy, CA",earthquake,0.71,5.22,0.15,12,automatic,nc,nc
@@ -79,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T00:09:52.210Z,57.6309,-152.9392,0,2.2,ml,,,,0.44,ak,ak023bo2k6wl,2023-09-11T00:12:51.427Z,"17 km WSW of Womens Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-11T00:04:27.820Z,19.1825008392334,-155.475494384766,32,1.85000002,md,23,207,,0.109999999,hv,hv73575177,2023-09-11T00:07:41.670Z,"2 km S of Pāhala, Hawaii",earthquake,1.02,1.13,0.920000017,8,automatic,hv,hv
 2023-09-10T23:50:48.636Z,61.3392,-154.2879,0,1.5,ml,,,,0.87,ak,ak023bmsylen,2023-09-10T23:53:01.871Z,"61 km E of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-10T23:46:13.291Z,37.1833,-104.7717,5.851,3.6,mb,26,59,0.062,0.6,us,us7000kuwn,2023-09-11T04:52:46.463Z,"6 km NNW of Segundo, Colorado",earthquake,3.2,5.546,0.177,8,reviewed,us,us
+2023-09-10T23:46:13.291Z,37.1833,-104.7717,5.851,3.6,mb,26,59,0.062,0.6,us,us7000kuwn,2023-09-11T07:54:52.534Z,"6 km NNW of Segundo, Colorado",earthquake,3.2,5.546,0.177,8,reviewed,us,us
 2023-09-10T23:42:16.596Z,60.3566,-152.987,124.4,1.6,ml,,,,0.51,ak,ak023bmswt8w,2023-09-11T03:32:15.052Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-09-10T23:31:14.880Z,33.9971667,-116.7576667,14.32,0.46,ml,14,83,0.1,0.23,ci,ci39662394,2023-09-10T23:35:01.129Z,"9 km NNE of Cabazon, CA",earthquake,0.57,1.16,0.062,9,automatic,ci,ci
 2023-09-10T23:22:12.510Z,35.6586667,-117.4426667,8.02,0.65,ml,10,109,0.01672,0.21,ci,ci39662386,2023-09-10T23:34:35.189Z,"13 km SSW of Searles Valley, CA",earthquake,0.93,0.69,0.06,4,automatic,ci,ci
@@ -201,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T08:12:05.420Z,19.3861675262451,-155.276000976562,1.0900000333786,1.96,ml,16,71,,0.0799999982,hv,hv73573862,2023-09-10T08:17:36.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.180000007,0.22,9,automatic,hv,hv
 2023-09-10T08:10:38.040Z,19.3636665344238,-155.285171508789,2.61999988555908,1.76999998,md,16,122,,0.109999999,hv,hv73573857,2023-09-10T08:13:39.700Z,"10 km SSW of Volcano, Hawaii",earthquake,0.27,0.49000001,0.529999971,13,automatic,hv,hv
 2023-09-10T08:02:04.360Z,33.4325,-116.909,5.67,0.35,ml,11,95,0.08772,0.14,ci,ci39662210,2023-09-10T08:05:36.690Z,"4 km WSW of Aguanga, CA",earthquake,0.38,2.1,0.128,9,automatic,ci,ci
-2023-09-10T08:00:00.787Z,31.0451,-8.4611,10,4.2,mb,22,114,2.416,0.63,us,us7000kus7,2023-09-10T23:33:59.213Z,"Morocco",earthquake,7.11,1.85,0.176,9,reviewed,us,us
-2023-09-10T07:57:10.280Z,33.6705,-116.679,16.9,0.6,ml,18,91,0.05142,0.1,ci,ci39662202,2023-09-10T13:59:19.276Z,"9 km SSE of Idyllwild, CA",earthquake,0.24,0.43,0.098,17,reviewed,ci,ci
