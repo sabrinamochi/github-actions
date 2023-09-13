@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T12:57:52.208Z,61.7717,-149.6542,29.4,1.5,ml,,,,0.5,ak,ak023brl2dis,2023-09-13T12:59:31.723Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T12:43:09.330Z,19.2474994659424,-155.402496337891,30.8400001525879,1.88,md,36,131,,0.119999997,hv,hv73576817,2023-09-13T12:46:25.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.819999993,1.05999994,11,automatic,hv,hv
 2023-09-13T12:33:31.220Z,40.1090012,-123.7828369,20.03,2.28,md,20,97,0.1091,0.12,nc,nc73936326,2023-09-13T13:10:50.664Z,"4 km ESE of Redway, CA",earthquake,0.47,0.69,0.18,11,automatic,nc,nc
+2023-09-13T12:07:00.330Z,46.775666666666666,-121.963,9.6,0.78,ml,30,69,0.03818,0.12,uw,uw61950572,2023-09-13T15:43:49.350Z,"Washington",earthquake,0.25,0.32,0.2616667260964003,15,reviewed,uw,uw
 2023-09-13T12:02:19.627Z,61.6495,-146.594,29.9,1.9,ml,,,,0.53,ak,ak023brkqimi,2023-09-13T12:45:00.612Z,"39 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T11:57:45.760Z,33.378,-116.873,6.58,0.63,ml,28,43,0.02582,0.16,ci,ci39663914,2023-09-13T14:58:17.587Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.2,0.42,0.154,10,reviewed,ci,ci
 2023-09-13T11:49:15.926Z,-36.2201,-97.9378,10,6.1,mww,117,37,13.309,0.65,us,us7000kvhu,2023-09-13T13:52:39.626Z,"West Chile Rise",earthquake,10.28,1.86,0.05,39,reviewed,us,us
@@ -153,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T19:12:31.450Z,45.8945,-122.84733333333334,-0.25,1.7,ml,11,116,0.03907,0.39,uw,uw61950382,2023-09-12T21:21:59.500Z,"3 km W of Columbia City, Oregon",explosion,1.34,31.61,0.14840467378010314,7,reviewed,uw,uw
 2023-09-12T18:59:38.400Z,38.4203333,-122.4368333,3.58,1.56,md,64,30,0.02282,0.14,nc,nc73936106,2023-09-12T23:44:14.715Z,"7 km WNW of Yountville, CA",earthquake,0.14,0.34,0.116,51,reviewed,nc,nc
 2023-09-12T18:56:36.960Z,46.964166666666664,-121.9875,8.38,1.28,ml,27,54,0.003545,0.13,uw,uw61950372,2023-09-12T21:15:12.760Z,"13 km SSE of Carbonado, Washington",earthquake,0.28,0.39,0.20212317114361222,15,reviewed,uw,uw
+2023-09-12T18:55:52.578Z,-36.6381,178.2497,101.809,4.5,mb,30,149,0.924,1,us,us7000kvcd,2023-09-13T15:43:42.040Z,"106 km N of Hicks Bay, New Zealand",earthquake,9.77,8.012,0.121,26,reviewed,us,us
 2023-09-12T18:53:51.070Z,38.8339996,-122.8176651,1.64,1.09,md,19,60,0.01214,0.03,nc,nc73936096,2023-09-12T18:55:28.568Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.54,0.16,19,automatic,nc,nc
 2023-09-12T18:52:41.790Z,34.9913333,-118.1895,-0.9,1.34,ml,27,52,0.1168,0.21,ci,ci39663522,2023-09-12T20:32:52.064Z,"7 km SSW of Mojave, CA",quarry blast,0.38,31.61,0.079,11,reviewed,ci,ci
 2023-09-12T18:38:58.160Z,-24.1161,-66.78,186.525,4.1,mb,17,70,2.761,1.35,us,us7000kvc8,2023-09-12T22:09:53.040Z,"48 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.7,14.536,0.233,5,reviewed,us,us
@@ -178,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T16:28:48.890Z,46.864333333333335,-121.89266666666667,8.43,1.05,ml,25,76,0.04161,0.1,uw,uw61950337,2023-09-12T17:58:26.490Z,"15 km NE of Ashford, Washington",earthquake,0.28,0.45,0.1373889201536166,16,reviewed,uw,uw
 2023-09-12T16:25:31.240Z,46.21816666666667,-122.18183333333333,8.08,0.03,ml,16,87,0.00586,0.17,uw,uw61950332,2023-09-12T19:53:06.780Z,"38 km S of Morton, Washington",earthquake,0.46,0.43,0.1607571930500355,8,reviewed,uw,uw
 2023-09-12T15:51:33.090Z,33.6793333,-117.4,7.3,0.84,ml,13,78,0.03719,0.19,ci,ci39663378,2023-09-12T16:37:41.658Z,"7 km W of Lake Elsinore, CA",earthquake,0.36,0.75,0.128,7,reviewed,ci,ci
-2023-09-12T15:46:25.420Z,46.17733333333334,-122.231,6.7,-0.11,ml,8,203,0.03516,0.18,uw,uw61950322,2023-09-12T19:39:48.580Z,"34 km NNE of Amboy, Washington",earthquake,1.19,0.81,0.10222157114590102,6,reviewed,uw,uw
