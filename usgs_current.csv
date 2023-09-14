@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-14T15:25:53.960Z,40.8153343,-111.6555023,4.81,2.5,ml,39,40,0.176,0.3,uu,uu60550122,2023-09-14T15:28:56.140Z,"8 km NNW of Summit Park, Utah",earthquake,0.4,1.16,0.27,25,automatic,uu,uu
-2023-09-14T15:24:47.770Z,19.1351661682129,-155.394332885742,31.1800003051758,2.47000003,md,51,181,,0.129999995,hv,hv73577597,2023-09-14T15:27:58.610Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.829999983,0.75999999,33,automatic,hv,hv
+2023-09-14T15:24:47.770Z,19.1351661682129,-155.394332885742,31.1800003051758,2.02,ml,51,181,,0.129999995,hv,hv73577597,2023-09-14T15:30:17.390Z,"11 km SE of Pāhala, Hawaii",earthquake,0.54,0.829999983,4.17,11,automatic,hv,hv
 2023-09-14T15:24:43.796Z,63.3427,-151.5162,0.8,1.4,ml,,,,0.65,ak,ak023bta6xjv,2023-09-14T15:26:55.731Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-14T15:19:20.867Z,39.3478,-119.755,8.6,1.4,ml,10,89.11,0.043,0.0999,nn,nn00865825,2023-09-14T15:21:45.271Z,"10 km WNW of Virginia City, Nevada",earthquake,,0.7,0.19,7,automatic,nn,nn
 2023-09-14T15:05:50.605Z,62.6666,-151.2473,91.5,1.3,ml,,,,0.58,ak,ak023bta2vdu,2023-09-14T15:14:42.872Z,"31 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -85,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T04:11:20.130Z,38.8303337,-122.7900009,1.8,0.84,md,11,59,0.008068,0.02,nc,nc73936601,2023-09-14T04:12:54.876Z,"6 km W of Cobb, CA",earthquake,0.31,0.59,0.27,14,automatic,nc,nc
 2023-09-14T04:06:28.489Z,32.68249512,-100.6947885,7.678792318,2.4,ml,21,82,0.03876213671,0.2,tx,tx2023saaw,2023-09-14T13:12:18.162Z,"8 km NE of Hermleigh, Texas",earthquake,0.8476487422,1.266963858,0,7,reviewed,tx,tx
 2023-09-14T04:04:19.330Z,38.8190002,-122.8225021,2.2,0.77,md,10,79,0.01061,0.02,nc,nc73936591,2023-09-14T04:05:54.907Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.9,0.17,11,automatic,nc,nc
+2023-09-14T03:38:57.515Z,31.47428976,-103.9212107,4.897583008,2.2,ml,23,65,0.06154903893,0.2,tx,tx2023saaa,2023-09-14T15:30:35.847Z,"21 km NW of Toyah, Texas",earthquake,1.031201685,1.857213099,0.1,6,reviewed,tx,tx
 2023-09-14T03:36:30.160Z,38.8178329,-122.8208313,2.51,0.96,md,16,57,0.01007,0.02,nc,nc73936581,2023-09-14T03:38:04.667Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.49,0.2,20,automatic,nc,nc
 2023-09-14T03:34:20.356Z,9.9962,-86.3935,10,4.5,mb,34,164,1.36,0.56,us,us7000kvnd,2023-09-14T04:01:33.040Z,"69 km WSW of Tamarindo, Costa Rica",earthquake,7.54,1.985,0.106,26,reviewed,us,us
 2023-09-14T02:58:30.000Z,44.4548333,-110.9855,7.42,0.4,md,10,123,0.1072,0.25,uu,uu60550087,2023-09-14T13:50:44.490Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.05,1.88,0.242,10,reviewed,uu,uu
