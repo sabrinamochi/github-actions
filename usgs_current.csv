@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T16:59:55.282Z,59.4102,-152.3458,68.9,1.8,ml,,,,0.51,ak,ak023btazw3s,2023-09-14T17:02:17.713Z,"24 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-14T16:49:11.150Z,38.8376656,-122.7968369,1.37,0.28,md,9,87,0.005125,0.01,nc,nc73936776,2023-09-14T16:50:46.655Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.97,0.21,11,automatic,nc,nc
 2023-09-14T16:22:38.860Z,38.7849998,-122.7464981,1.29,0.94,md,5,159,0.007838,0.01,nc,nc73936766,2023-09-14T16:24:13.505Z,"1 km NE of The Geysers, CA",earthquake,1.22,0.74,0.25,6,automatic,nc,nc
-2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"13 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:51:22.300Z,36.0965,-120.1545,7.57,1.22,md,22,233,0.1388,0.04,nc,nc73936761,2023-09-14T20:29:19.971Z,"10 km NNW of Avenal, CA",earthquake,1.16,0.46,0.18,10,reviewed,nc,nc
 2023-09-14T15:28:10.775Z,58.386,-154.4523,0,1.1,ml,,,,0.29,ak,ak023bta7pvc,2023-09-14T15:32:04.951Z,"91 km N of Karluk, Alaska",earthquake,,66.2,,,automatic,ak,ak
 2023-09-14T15:27:01.130Z,40.8128333,-111.664,11.05,1.27,md,14,97,0.1141,0.17,uu,uu60550127,2023-09-14T19:50:08.114Z,"8 km NNW of Summit Park, Utah",earthquake,0.43,1.18,0.241,7,reviewed,uu,uu
@@ -128,9 +128,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T02:58:30.000Z,44.4548333,-110.9855,7.42,0.4,md,10,123,0.1072,0.25,uu,uu60550087,2023-09-14T13:50:44.490Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.05,1.88,0.242,10,reviewed,uu,uu
 2023-09-14T02:48:35.820Z,35.0313333,-116.9606667,2.55,1.59,ml,17,61,0.1585,0.13,ci,ci39664626,2023-09-14T14:02:47.103Z,"16 km NNE of Barstow, CA",earthquake,0.22,0.9,0.126,27,reviewed,ci,ci
 2023-09-14T02:47:27.072Z,-23.983,-66.7608,204.56,4.4,mb,40,53,1.658,0.52,us,us7000kvn7,2023-09-14T03:03:27.040Z,"51 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.55,7.722,0.131,18,reviewed,us,us
-2023-09-14T02:43:54.090Z,36.5745,-121.1756667,7.74,3.35,ml,87,53,0.008319,0.15,nc,nc73936566,2023-09-14T20:59:42.680Z,"6 km NNW of Pinnacles, CA",earthquake,0.2,0.32,0.123,83,reviewed,nc,nc
+2023-09-14T02:43:54.090Z,36.5745,-121.1756667,7.74,3.35,ml,87,53,0.008319,0.15,nc,nc73936566,2023-09-14T21:02:15.170Z,"6 km NNW of Pinnacles, CA",earthquake,0.2,0.32,0.123,83,reviewed,nc,nc
 2023-09-14T02:30:09.500Z,43.596833333333336,-123.21,-0.39,1.68,ml,10,114,0.1421,0.24,uw,uw61950782,2023-09-14T04:33:11.330Z,"5 km E of Yoncalla, Oregon",explosion,0.47,31.61,0.14271372755551748,6,reviewed,uw,uw
-2023-09-14T02:18:24.989Z,39.5343,-120.7216,8.1,1.1,ml,16,112.31,0.102,0.1685,nn,nn00865803,2023-09-14T17:01:01.178Z,"8 km WSW of Sierra City, California",earthquake,,1.9,0.23,6,reviewed,nn,nn
+2023-09-14T02:18:24.989Z,39.5343,-120.7216,8.1,1.1,ml,16,112.31,0.102,0.1685,nn,nn00865803,2023-09-14T17:01:01.178Z,"Northern California",earthquake,,1.9,0.23,6,reviewed,nn,nn
 2023-09-14T02:17:25.620Z,33.6746667,-116.7115,14.48,1.19,ml,39,34,0.03933,0.22,ci,ci39664610,2023-09-14T13:14:31.090Z,"7 km S of Idyllwild, CA",earthquake,0.3,0.44,0.195,26,reviewed,ci,ci
 2023-09-14T02:14:14.656Z,57.7333,-154.5776,32.5,1.4,ml,,,,0.28,ak,ak023bt2e3a1,2023-09-14T02:15:35.482Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-14T02:06:40.176Z,63.3273,-150.5877,0,2.3,ml,,,,2.18,ak,ak023bt2cfip,2023-09-14T03:37:13.843Z,"61 km ESE of Denali National Park, Alaska",other event,,0,,,reviewed,ak,ak
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T21:25:04.480Z,33.6226667,-116.7076667,16.09,1.09,ml,33,40,0.05408,0.14,ci,ci39664418,2023-09-14T00:35:24.790Z,"8 km NNW of Anza, CA",earthquake,0.19,0.31,0.184,24,reviewed,ci,ci
 2023-09-13T21:24:51.860Z,45.78616666666667,-121.55966666666667,-1.17,1.46,ml,5,155,0.09912,0.15,uw,uw61950707,2023-09-14T04:50:00.450Z,"8 km NW of White Salmon, Washington",explosion,0.91,31.61,0.06700928368803938,4,reviewed,uw,uw
 2023-09-13T21:10:40.750Z,46.19983333333333,-122.175,3.5,0.62,ml,17,90,0.007302,0.1,uw,uw61950702,2023-09-13T22:51:51.810Z,"38 km NNE of Amboy, Washington",earthquake,0.58,1.08,0.12146741585331883,13,reviewed,uw,uw
-2023-09-13T21:00:10.060Z,53.936,-166.596,10.29,-0.19,ml,4,273,,0.13,av,av92043786,2023-09-14T20:33:55.820Z,"6 km NW of Dutch Harbor, Alaska",earthquake,0.99,0.95,0.151890732662691,4,reviewed,av,av
