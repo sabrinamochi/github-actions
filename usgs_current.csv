@@ -1,16 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-15T19:14:23.040Z,33.1346667,-115.7406667,10.15,1.32,ml,9,176,0.1102,0.35,ci,ci39666298,2023-09-15T19:17:57.087Z,"16 km NW of Westmorland, CA",earthquake,1.46,2.68,0.314,18,automatic,ci,ci
-2023-09-15T19:13:09.520Z,38.253334,-122.2021637,4.3,2.29,md,45,35,0.09778,0.37,nc,nc73937156,2023-09-15T19:19:10.698Z,"4 km W of Green Valley, CA",earthquake,0.45,2.58,0.11,35,automatic,nc,nc
+2023-09-15T19:13:09.520Z,38.253334,-122.2021637,4.3,2.29,md,45,35,0.09778,0.37,nc,nc73937156,2023-09-15T19:34:10.653Z,"4 km W of Green Valley, CA",earthquake,0.45,2.58,0.11,35,automatic,nc,nc
 2023-09-15T19:03:44.990Z,34.9953333,-118.191,0.15,1.23,ml,14,64,0.1203,0.36,ci,ci39666290,2023-09-15T19:07:21.123Z,"6 km SSW of Mojave, CA",earthquake,1.02,31.61,0.107,22,automatic,ci,ci
 2023-09-15T19:02:49.640Z,38.0008316,-122.4398346,2.55,1.41,md,7,207,0.02754,0.01,nc,nc73937146,2023-09-15T19:30:14.636Z,"8 km E of Santa Venetia, CA",earthquake,1.32,0.59,0.21,8,automatic,nc,nc
 2023-09-15T18:22:34.420Z,33.6746667,-116.7645,14.73,0.64,ml,21,127,0.05891,0.11,ci,ci39666210,2023-09-15T18:49:00.471Z,"8 km SSW of Idyllwild, CA",earthquake,0.3,0.3,0.121,16,reviewed,ci,ci
-2023-09-15T18:22:16.195Z,62.3825,-148.7726,18.2,1.3,ml,,,,0.34,ak,ak023buzi3ar,2023-09-15T18:24:23.396Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-15T18:22:16.195Z,62.3825,-148.7726,18.2,1.3,ml,,,,0.34,ak,ak023buzi3ar,2023-09-15T19:35:04.103Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T18:21:13.660Z,38.8143349,-122.8248367,2.41,0.76,md,11,75,0.006427,0.02,nc,nc73937136,2023-09-15T18:22:49.644Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.72,0.16,14,automatic,nc,nc
 2023-09-15T18:17:29.979Z,63.0459,-151.5355,0,1.3,ml,,,,1.21,ak,ak023buzh1s2,2023-09-15T18:19:47.965Z,"55 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-15T18:16:01.222Z,1.1395,126.3503,12.395,5,mb,104,44,1.08,0.92,us,us7000kw16,2023-09-15T19:06:19.040Z,"121 km WNW of Ternate, Indonesia",earthquake,5.84,3.835,0.06,98,reviewed,us,us
 2023-09-15T18:07:39.104Z,-27.3252,-71.5543,4.854,5.7,mww,104,70,1.068,0.84,us,us7000kw0l,2023-09-15T18:37:44.188Z,"121 km W of Copiapó, Chile",earthquake,4.33,3.642,0.043,53,reviewed,us,us
 2023-09-15T18:02:26.600Z,40.2350006,-121.159668,-1.75,2.73,md,31,65,0.2429,0.17,nc,nc73937126,2023-09-15T19:27:15.620Z,"2 km NE of Almanor, CA",earthquake,0.31,1.89,0.08,24,automatic,nc,nc
-2023-09-15T18:00:46.520Z,19.5216,-64.7276,85,3.86,md,12,331,1.1914,0.11,pr,pr2023258003,2023-09-15T18:27:39.345Z,"131 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,6.17,0.06,3,reviewed,pr,pr
+2023-09-15T18:00:46.520Z,19.5216,-64.7276,85,3.86,md,12,331,1.1914,0.11,pr,pr2023258003,2023-09-15T19:31:23.040Z,"131 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,6.17,0.06,3,reviewed,pr,pr
 2023-09-15T17:56:35.960Z,35.1996667,-118.6671667,7.34,0.91,ml,11,89,0.03598,0.1,ci,ci39666178,2023-09-15T19:13:25.665Z,"15 km E of Arvin, CA",earthquake,0.3,0.51,0.155,3,reviewed,ci,ci
 2023-09-15T17:56:01.580Z,38.8138351,-122.7975006,3.02,1.28,md,29,37,0.006105,0.02,nc,nc73937121,2023-09-15T18:40:15.355Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.41,0.19,30,automatic,nc,nc
 2023-09-15T17:48:14.450Z,19.1749992370605,-155.490997314453,34.25,1.94000006,md,33,96,,0.119999997,hv,hv73578257,2023-09-15T17:51:27.740Z,"Hawaii region, Hawaii",earthquake,0.55,0.689999998,0.0900000036,9,automatic,hv,hv
@@ -147,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T01:44:17.032Z,36.7609,-116.1153,2.7,-0.5,ml,6,203.31,0.008,0.1472,nn,nn00865869,2023-09-15T19:02:28.463Z,"45 km WNW of Indian Springs, Nevada",earthquake,,2,0.06,2,reviewed,nn,nn
 2023-09-15T01:30:40.410Z,59.9976,-149.2891,15.6,1.8,ml,,,,0.27,ak,ak023bupfhm1,2023-09-15T01:32:11.765Z,"11 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T01:29:06.210Z,38.7996674,-122.754837,4.23,0.37,md,7,122,0.02167,0.01,nc,nc73936901,2023-09-15T01:30:43.381Z,"2 km N of The Geysers, CA",earthquake,0.61,3.21,0.16,9,automatic,nc,nc
+2023-09-15T01:24:19.440Z,58.2456666666667,-155.149333333333,31.55,-0.03,ml,16,73,,0.14,av,av92045316,2023-09-15T19:35:33.670Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,0.67,0.404117815926572,15,reviewed,av,av
 2023-09-15T01:23:28.330Z,35.8813333,-117.6923333,8.07,1.79,ml,27,98,0.09353,0.15,ci,ci39665626,2023-09-15T15:56:47.680Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.65,0.213,17,reviewed,ci,ci
 2023-09-15T01:21:34.750Z,58.2485,-155.145166666667,30.5,0.55,ml,16,75,,0.18,av,av91115908,2023-09-15T19:21:33.730Z,"86 km NNW of Karluk, Alaska",earthquake,0.65,0.8,0.301300990349668,15,reviewed,av,av
 2023-09-15T01:12:28.620Z,36.0153333,-120.9518333,6.01,0.91,md,12,99,0.0516,0.08,nc,nc73936891,2023-09-15T16:04:36.736Z,"4 km W of San Ardo, CA",earthquake,0.38,0.45,0.18,7,reviewed,nc,nc
@@ -196,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T19:58:44.373Z,-6.1974,149.5966,62.217,5.6,mww,86,55,3.242,0.85,us,us7000kvu1,2023-09-14T22:01:46.352Z,"5 km E of Kandrian, Papua New Guinea",earthquake,7.4,4.277,0.083,14,reviewed,us,us
 2023-09-14T19:49:27.830Z,38.8381653,-122.80867,2.18,0.72,md,13,82,0.01431,0.01,nc,nc73936821,2023-09-14T19:51:02.691Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.8,0.17,13,automatic,nc,nc
 2023-09-14T19:48:06.231Z,29.03045654,-97.86569393,5.795776367,2.2,ml,13,68,0.05499286065,0.3,tx,tx2023sbgb,2023-09-15T18:31:41.929Z,"15 km ENE of Falls City, Texas",earthquake,2.477342207,2.493332226,0.1,7,reviewed,tx,tx
-2023-09-14T19:37:35.193Z,60.5805,-152.9724,133,1.9,ml,,,,0.35,ak,ak023btcnfm7,2023-09-14T19:45:10.174Z,"85 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-14T19:35:14.359Z,32.68157959,-100.6872856,7.507609049,2.4,ml,17,83,0.0447303772,0.2,tx,tx2023sbfo,2023-09-15T14:00:30.975Z,"8 km NE of Hermleigh, Texas",earthquake,0.7707355418000001,1.408696096,0,7,reviewed,tx,tx
