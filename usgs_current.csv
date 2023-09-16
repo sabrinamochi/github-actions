@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-16T13:24:10.120Z,34.0795,-117.2651667,11.74,1.11,ml,47,33,0.05662,0.24,ci,ci39666922,2023-09-16T13:27:47.730Z,"4 km N of Loma Linda, CA",earthquake,0.28,0.7,0.148,31,automatic,ci,ci
+2023-09-16T13:35:29.165Z,63.5867,-150.7699,0.2,1.9,ml,,,,1.22,ak,ak023bwk5324,2023-09-16T13:38:09.990Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-16T13:30:48.260Z,19.1406669616699,-155.474502563477,33.1500015258789,2.00999999,md,43,166,,0.0900000036,hv,hv73578767,2023-09-16T13:34:05.380Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.75999999,1.13,11,automatic,hv,hv
+2023-09-16T13:29:31.317Z,61.7987,-150.772,61.7,1.6,ml,,,,0.45,ak,ak023bwk3sy3,2023-09-16T13:31:21.499Z,"31 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-09-16T13:29:07.770Z,33.5451667,-116.9961667,13.21,0.69,ml,26,47,0.07646,0.2,ci,ci39666930,2023-09-16T13:32:40.775Z,"15 km E of Murrieta Hot Springs, CA",earthquake,0.29,0.8,0.188,17,automatic,ci,ci
+2023-09-16T13:24:10.120Z,34.0795,-117.2651667,11.74,1.11,ml,47,33,0.05662,0.24,ci,ci39666922,2023-09-16T13:35:04.210Z,"4 km N of Loma Linda, CA",earthquake,0.28,0.7,0.148,31,automatic,ci,ci
 2023-09-16T13:13:59.010Z,34.0418333,-117.2573333,15.42,0.91,ml,24,82,0.07093,0.18,ci,ci39666906,2023-09-16T13:17:24.682Z,"1 km SSE of Loma Linda, CA",earthquake,0.32,0.57,0.162,20,automatic,ci,ci
-2023-09-16T13:11:14.510Z,40.7121658,-124.5656662,23.02,2.29,md,21,226,0.2933,0.14,nc,nc73937486,2023-09-16T13:17:21.664Z,"30 km WNW of Ferndale, CA",earthquake,1.09,3.76,0.13,11,automatic,nc,nc
+2023-09-16T13:11:14.510Z,40.7121658,-124.5656662,23.02,2.29,md,21,226,0.2933,0.14,nc,nc73937486,2023-09-16T13:32:11.755Z,"30 km WNW of Ferndale, CA",earthquake,1.09,3.76,0.13,11,automatic,nc,nc
 2023-09-16T12:53:34.940Z,38.7820015,-122.7574997,1.18,1.56,md,21,81,0.01298,0.04,nc,nc73937481,2023-09-16T13:10:14.627Z,"0 km N of The Geysers, CA",earthquake,0.25,0.45,0.18,22,automatic,nc,nc
 2023-09-16T12:45:18.080Z,33.0828333,-116.5836667,15.53,0.7,ml,17,73,0.0118,0.18,ci,ci39666898,2023-09-16T12:48:56.303Z,"2 km ENE of Julian, CA",earthquake,0.47,0.61,0.12,8,automatic,ci,ci
 2023-09-16T12:42:03.570Z,19.1893329620361,-155.488494873047,33.6100006103516,1.97000003,md,41,81,,0.100000001,hv,hv73578757,2023-09-16T12:45:28.910Z,"1 km SW of Pāhala, Hawaii",earthquake,0.7,1.08000004,0.730000019,13,automatic,hv,hv
@@ -191,7 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T15:52:29.868Z,63.1077,-150.7813,113.3,1.3,ml,,,,0.25,ak,ak023buxw973,2023-09-15T15:54:47.454Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T15:36:51.850Z,35.9243333,-120.4698333,5.06,1.75,md,32,56,0.02237,0.06,nc,nc73937086,2023-09-15T20:44:13.042Z,"4 km NW of Parkfield, CA",earthquake,0.19,0.21,0.152,23,reviewed,nc,nc
 2023-09-15T15:35:43.310Z,38.3586667,-122.572,10.43,2.41,md,110,24,0.07773,0.1,nc,nc73937081,2023-09-15T21:16:12.227Z,"4 km W of Glen Ellen, CA",earthquake,0.09,0.27,0.208,119,reviewed,nc,nc
-2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"Puerto Rico region",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
+2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
 2023-09-15T15:33:21.330Z,60.4521666666667,-152.766333333333,0.77,0.15,ml,4,269,,0.08,av,av92046106,2023-09-15T23:28:50.650Z,"75 km NW of Ninilchik, Alaska",earthquake,0.83,0.26,0.319098439294572,3,reviewed,av,av
 2023-09-15T15:25:57.140Z,35.4268333,-118.0688333,7.76,0.73,ml,13,114,0.08403,0.09,ci,ci39665954,2023-09-15T17:26:25.081Z,"34 km SW of Inyokern, CA",earthquake,0.24,0.57,0.076,7,reviewed,ci,ci
 2023-09-15T15:21:25.810Z,44.6806667,-110.4471667,7.17,1.78,ml,10,98,0.05602,0.15,uu,uu60550207,2023-09-15T16:09:15.460Z,"38 km SSE of Mammoth, Wyoming",earthquake,0.55,0.95,0.242,2,reviewed,uu,uu
@@ -210,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T13:46:48.530Z,33.4325,-116.3856667,10.81,0.62,ml,22,112,0.09664,0.16,ci,ci39665850,2023-09-15T17:23:06.684Z,"20 km N of Borrego Springs, CA",earthquake,0.28,0.55,0.131,18,reviewed,ci,ci
 2023-09-15T13:43:47.757Z,38.1724,-117.8582,9.3,2.5,ml,12,62.37,0.103,0.119,nn,nn00865851,2023-09-16T04:47:00.040Z,"32 km SE of Mina, Nevada",earthquake,,1.2,0.37,7,reviewed,nn,nn
 2023-09-15T13:41:03.680Z,38.8325005,-122.8164978,1.77,0.94,md,9,87,0.01038,0.01,nc,nc73937051,2023-09-15T13:42:39.960Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.21,0.24,9,automatic,nc,nc
-2023-09-15T13:35:50.186Z,40.4716,-119.6452,18.5,0.8,ml,4,302.99,0.309,0.0146,nn,nn00865888,2023-09-16T00:26:06.959Z,"28 km WSW of Empire, Nevada",earthquake,,5.5,0.27,2,reviewed,nn,nn
-2023-09-15T13:33:22.990Z,57.0776666666667,-135.726666666667,6.9,0.5,ml,5,210,,0.21,av,av91115953,2023-09-15T23:12:33.670Z,"24 km W of Sitka, Alaska",earthquake,1.52,1,0.20634506557919,5,reviewed,av,av
