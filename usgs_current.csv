@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T21:27:15.765Z,60.644,-147.6867,17,1.8,ml,,,,0.54,ak,ak023bzzxi54,2023-09-18T21:28:48.999Z,"56 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-18T21:25:28.690Z,35.7066667,-117.5878333,1.95,0.95,ml,13,140,0.1332,0.23,ci,ci39668426,2023-09-18T21:28:59.254Z,"12 km NE of Ridgecrest, CA",earthquake,0.52,0.67,0.08,7,automatic,ci,ci
+2023-09-18T21:24:43.280Z,61.3299,-147.244,14.9,1.6,ml,,,,0.75,ak,ak023bzzwx48,2023-09-18T21:26:50.869Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T21:02:27.740Z,38.8190002,-122.7906647,1.49,2.07,md,36,40,0.009677,0.04,nc,nc73938546,2023-09-18T21:19:22.194Z,"6 km NNW of The Geysers, CA",earthquake,0.16,0.28,0.15,38,automatic,nc,nc
 2023-09-18T21:00:12.720Z,38.8191681,-122.7893295,1.66,1.4,md,25,40,0.008968,0.02,nc,nc73938541,2023-09-18T21:19:21.194Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.33,0.13,24,automatic,nc,nc
 2023-09-18T20:51:47.731Z,65.8225,-150.9769,17,2.3,ml,,,,0.87,ak,ak023bzzha6t,2023-09-18T20:54:24.455Z,"51 km NW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -93,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T10:22:49.190Z,38.8139992,-122.8274994,2.3,1.09,md,21,46,0.005289,0.03,nc,nc73938336,2023-09-18T10:24:23.309Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.39,0.16,21,automatic,nc,nc
 2023-09-18T10:21:44.344Z,60.7739,-149.2488,22.9,2,ml,,,,0.43,ak,ak023bztciea,2023-09-18T10:23:41.930Z,"15 km SE of Sunrise, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-18T10:13:35.710Z,36.4205,-96.90433333,8.36,0.87,ml,18,71,0.02789452614,0.6148524572,ok,ok2023shva,2023-09-18T18:53:48.597Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.15,4,reviewed,ok,ok
+2023-09-18T10:11:37.740Z,39.4651667,-120.2335,6.38,2.12,md,14,55,0.072,0.08,nc,nc73938331,2023-09-18T21:29:11.260Z,"16 km NNW of Truckee, CA",earthquake,0.3,0.77,0.301,19,reviewed,nc,nc
 2023-09-18T10:10:13.010Z,47.074,-122.00383333333333,14.65,0.8200000000000001,ml,33,115,0.08573,0.15,uw,uw61960586,2023-09-18T16:52:29.810Z,"3 km E of Carbonado, Washington",earthquake,0.32,0.43,0.08614039326009981,15,reviewed,uw,uw
 2023-09-18T10:02:53.490Z,7.1026,-72.1008,10,4.5,mb,44,109,1.549,0.76,us,us7000kwfd,2023-09-18T13:08:51.040Z,"Colombia-Venezuela border region",earthquake,6.99,1.905,0.075,52,reviewed,us,us
 2023-09-18T10:00:02.380Z,34.1888333,-117.4451667,3.39,0.7,ml,27,43,0.01517,0.21,ci,ci39667842,2023-09-18T18:13:03.984Z,"5 km SW of Devore, CA",earthquake,0.23,0.57,0.103,9,reviewed,ci,ci
@@ -201,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T21:50:00.200Z,34.0191667,-117.5883333,5.31,1.05,ml,48,36,0.02107,0.16,ci,ci39667698,2023-09-18T17:41:27.670Z,"5 km SE of Ontario, CA",earthquake,0.16,0.22,0.152,20,reviewed,ci,ci
 2023-09-17T21:41:47.740Z,44.7873333333333,-114.391166666667,5.9,1.75,ml,13,49,0.4538,0.19,mb,mb90027533,2023-09-18T14:07:01.380Z,"33 km NNW of Challis, Idaho",earthquake,0.72,1.62,0.191182985318736,10,reviewed,mb,mb
 2023-09-17T21:38:17.400Z,47.662333333333336,-120.79033333333334,8.47,0.9,ml,8,115,0.2042,0.13,uw,uw61960531,2023-09-18T20:33:02.470Z,"12 km NW of Leavenworth, Washington",earthquake,0.53,1.12,0.08849658762257706,7,reviewed,uw,uw
-2023-09-17T21:22:21.280Z,38.8298333,-122.7906667,1.46,0.36,md,14,55,0.008567,0.02,nc,nc73938011,2023-09-18T21:11:08.594Z,"6 km W of Cobb, CA",earthquake,0.26,0.84,0.378,14,reviewed,nc,nc
-2023-09-17T21:22:03.410Z,38.8268318,-122.7904968,1.33,1.81,md,32,38,0.01156,0.03,nc,nc73938006,2023-09-17T21:59:16.175Z,"6 km W of Cobb, CA",earthquake,0.17,0.25,0.12,34,automatic,nc,nc
