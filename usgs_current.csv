@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T20:28:03.870Z,38.8736649,-122.8284988,0.4,1.21,md,19,177,0.01423,0.05,nc,nc73938531,2023-09-18T20:29:39.668Z,"11 km WNW of Cobb, CA",earthquake,0.3,0.45,0.14,19,automatic,nc,nc
 2023-09-18T20:04:30.256Z,36.7488,-115.6276,0.8,0.5,ml,8,292.31,0.282,0.1076,nn,nn00865990,2023-09-18T20:07:10.932Z,"20 km N of Indian Springs, Nevada",earthquake,,0.1,1.01,6,automatic,nn,nn
 2023-09-18T20:00:53.000Z,32.8211667,-117.0736667,2.91,1,ml,13,209,0.2041,0.16,ci,ci39668306,2023-09-18T20:04:32.015Z,"8 km NW of La Mesa, CA",earthquake,0.7,1.85,0.077,3,automatic,ci,ci
-2023-09-18T19:57:51.040Z,32.5863333,-115.6713333,9.53,1.58,ml,21,61,0.07813,0.3,ci,ci39668290,2023-09-18T20:01:36.059Z,"8 km W of Progreso, B.C., MX",earthquake,0.57,1.14,0.338,13,automatic,ci,ci
+2023-09-18T19:57:50.800Z,32.5746667,-115.666,10.2,1.32,ml,21,70,0.08027,0.21,ci,ci39668290,2023-09-18T20:29:13.624Z,"8 km W of Progreso, B.C., MX",earthquake,0.36,0.56,0.199,9,reviewed,ci,ci
 2023-09-18T19:48:40.370Z,38.7038345,-122.7358322,-0.78,0.96,md,6,201,0.05831,0.25,nc,nc73938526,2023-09-18T19:50:14.392Z,"8 km SSE of The Geysers, CA",earthquake,2.4,7.41,0.18,5,automatic,nc,nc
 2023-09-18T19:46:08.090Z,38.8393326,-122.8383331,1.62,0.62,md,8,125,0.0164,0.01,nc,nc73938521,2023-09-18T19:47:44.210Z,"10 km NW of The Geysers, CA",earthquake,0.38,1.34,0.32,8,automatic,nc,nc
 2023-09-18T19:44:52.873Z,36.369,-116.9474,4.6,1.2,ml,8,243.87,0.283,0.2155,nn,nn00865989,2023-09-18T19:46:58.879Z,"12 km SW of Furnace Creek, California",earthquake,,3,0.86,7,automatic,nn,nn
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T13:37:40.239Z,54.0911,159.6408,101.16,4.6,mb,82,111,1.222,0.67,us,us7000kwg6,2023-09-18T14:33:49.040Z,"94 km SE of Mil’kovo, Russia",earthquake,4.7,6.334,0.06,82,reviewed,us,us
 2023-09-18T13:29:27.499Z,62.364,-149.1877,0.5,1.8,ml,,,,0.8,ak,ak023bzv6hn1,2023-09-18T13:31:23.802Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-18T13:21:23.790Z,26.4336,125.3032,183.483,6.3,mww,113,35,2.262,1.21,us,us7000kwg2,2023-09-18T19:33:11.009Z,"180 km N of Hirara, Japan",earthquake,6.53,4.942,0.044,49,reviewed,us,us
-2023-09-18T12:58:40.910Z,38.5306667,-122.6543333,5.37,1.12,md,29,69,0.06237,0.06,nc,nc73938411,2023-09-18T19:36:00.441Z,"8 km SW of Calistoga, CA",earthquake,0.15,0.44,0.191,24,reviewed,nc,nc
+2023-09-18T12:58:40.910Z,38.5306667,-122.6543333,5.37,1.12,md,29,69,0.06237,0.06,nc,nc73938411,2023-09-18T20:24:19.890Z,"8 km SW of Calistoga, CA",earthquake,0.15,0.44,0.191,24,reviewed,nc,nc
 2023-09-18T12:45:38.480Z,38.8149986,-122.7628326,1.63,0.78,md,8,110,0.01405,0.03,nc,nc73938401,2023-09-18T12:47:12.869Z,"4 km WSW of Cobb, CA",earthquake,0.41,1.12,0.17,8,automatic,nc,nc
 2023-09-18T12:45:07.185Z,60.7472,-150.6103,60.8,2.5,ml,,,,0.18,ak,ak023bzuofxa,2023-09-18T12:46:16.465Z,"20 km SSE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-18T12:34:24.180Z,38.8041649,-122.8093338,1.07,1.28,md,22,64,0.0116,0.03,nc,nc73938396,2023-09-18T13:12:11.406Z,"6 km WNW of The Geysers, CA",earthquake,0.2,0.34,0.29,24,automatic,nc,nc
@@ -201,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T20:39:22.230Z,37.722168,-122.5654984,9.01,1.43,md,10,206,0.1024,0.01,nc,nc73937996,2023-09-17T21:12:13.919Z,"6 km W of San Francisco Zoo, CA",earthquake,0.64,1.31,0.36,7,automatic,nc,nc
 2023-09-17T20:37:09.748Z,61.7256,-150.6635,33,2.3,ml,,,,0.43,ak,ak023bybuuqm,2023-09-17T20:39:40.059Z,"21 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-17T20:31:01.290Z,33.022,-116.3461667,10.77,1.11,ml,39,49,0.07376,0.19,ci,ci39667666,2023-09-18T16:42:48.553Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.42,0.103,19,reviewed,ci,ci
-2023-09-17T20:28:42.550Z,37.6113333,-122.4623333,6.82,0.36,md,6,106,0.02765,0.06,nc,nc73937986,2023-09-18T19:20:26.356Z,"2 km E of Pacifica, CA",earthquake,0.57,0.71,0.282,3,reviewed,nc,nc
-2023-09-17T20:25:39.130Z,37.5595,-118.9263333,11.64,0.36,md,8,147,0.07786,0.01,nc,nc73937981,2023-09-18T19:18:56.745Z,"10 km SSE of Mammoth Lakes, CA",earthquake,1.84,3.09,0.073,6,reviewed,nc,nc
