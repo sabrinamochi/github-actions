@@ -52,13 +52,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T20:51:47.731Z,65.8225,-150.9769,17,2.3,ml,,,,0.87,ak,ak023bzzha6t,2023-09-18T20:54:24.455Z,"51 km NW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-18T20:32:09.993Z,33.175,138.3129,296.706,4.1,mb,48,86,1.261,0.74,us,us7000kwjh,2023-09-18T21:19:29.040Z,"158 km S of Ōyama, Japan",earthquake,5.71,6.703,0.096,30,reviewed,us,us
 2023-09-18T20:28:03.870Z,38.8736649,-122.8284988,0.4,1.21,md,19,177,0.01423,0.05,nc,nc73938531,2023-09-18T20:46:17.012Z,"11 km WNW of Cobb, CA",earthquake,0.3,0.45,0.14,19,automatic,nc,nc
-2023-09-18T20:04:30.256Z,36.7488,-115.6276,0.8,0.5,ml,8,292.31,0.282,0.1076,nn,nn00865990,2023-09-18T20:07:10.932Z,"20 km N of Indian Springs, Nevada",earthquake,,0.1,1.01,6,automatic,nn,nn
+2023-09-18T20:04:30.256Z,36.7488,-115.6276,0.8,0.5,ml,8,292.31,0.282,0.1076,nn,nn00865990,2023-09-18T20:07:10.932Z,"Nevada",earthquake,,0.1,1.01,6,automatic,nn,nn
 2023-09-18T20:00:52.690Z,32.8288333,-117.0655,-0.17,1,ml,18,103,0.07571,0.2,ci,ci39668306,2023-09-18T20:47:27.297Z,"8 km NNW of La Mesa, CA",quarry blast,0.61,31.61,0.108,9,reviewed,ci,ci
 2023-09-18T19:57:50.800Z,32.5746667,-115.666,10.2,1.32,ml,21,70,0.08027,0.21,ci,ci39668290,2023-09-18T20:29:13.624Z,"8 km W of Progreso, B.C., MX",earthquake,0.36,0.56,0.199,9,reviewed,ci,ci
 2023-09-18T19:48:40.370Z,38.7038345,-122.7358322,-0.78,0.96,md,6,201,0.05831,0.25,nc,nc73938526,2023-09-18T19:50:14.392Z,"8 km SSE of The Geysers, CA",earthquake,2.4,7.41,0.18,5,automatic,nc,nc
 2023-09-18T19:46:08.090Z,38.8393326,-122.8383331,1.62,0.62,md,8,125,0.0164,0.01,nc,nc73938521,2023-09-18T19:47:44.210Z,"10 km NW of The Geysers, CA",earthquake,0.38,1.34,0.32,8,automatic,nc,nc
 2023-09-18T19:44:52.873Z,36.369,-116.9474,4.6,1.2,ml,8,243.87,0.283,0.2155,nn,nn00865989,2023-09-18T19:46:58.879Z,"12 km SW of Furnace Creek, California",earthquake,,3,0.86,7,automatic,nn,nn
-2023-09-18T19:44:43.230Z,-14.7798,167.3427,158.142,4.8,mb,59,108,6.436,0.79,us,us7000kwj6,2023-09-18T20:05:36.040Z,"41 km NE of Port-Olry, Vanuatu",earthquake,9.21,5.637,0.072,59,reviewed,us,us
+2023-09-18T19:44:43.230Z,-14.7798,167.3427,158.142,4.8,mb,59,108,6.436,0.79,us,us7000kwj6,2023-09-18T20:05:36.040Z,"Vanuatu",earthquake,9.21,5.637,0.072,59,reviewed,us,us
 2023-09-18T19:40:16.680Z,38.7709999,-122.7366638,0.95,1.29,md,14,70,0.01222,0.04,nc,nc73938511,2023-09-18T20:35:20.950Z,"2 km ESE of The Geysers, CA",earthquake,0.22,0.38,0.11,14,automatic,nc,nc
 2023-09-18T19:38:34.330Z,37.5296667,-118.8493333,0.41,0.5,md,7,206,0.06236,0.2,nc,nc73938516,2023-09-18T21:52:13.643Z,"15 km WSW of Toms Place, CA",earthquake,2.86,13.08,0.139,6,reviewed,nc,nc
 2023-09-18T19:33:04.988Z,38.5589,141.6239,64.44,5.5,mww,110,61,2.269,0.56,us,us7000kwis,2023-09-19T02:39:50.402Z,"19 km NE of Onagawa Chō, Japan",earthquake,7.75,4.043,0.059,28,reviewed,us,us
@@ -149,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T10:10:13.010Z,47.074,-122.00383333333333,14.65,0.8200000000000001,ml,33,115,0.08573,0.15,uw,uw61960586,2023-09-18T16:52:29.810Z,"3 km E of Carbonado, Washington",earthquake,0.32,0.43,0.08614039326009981,15,reviewed,uw,uw
 2023-09-18T10:02:53.490Z,7.1026,-72.1008,10,4.5,mb,44,109,1.549,0.76,us,us7000kwfd,2023-09-18T13:08:51.040Z,"Colombia-Venezuela border region",earthquake,6.99,1.905,0.075,52,reviewed,us,us
 2023-09-18T10:00:02.380Z,34.1888333,-117.4451667,3.39,0.7,ml,27,43,0.01517,0.21,ci,ci39667842,2023-09-18T18:13:03.984Z,"5 km SW of Devore, CA",earthquake,0.23,0.57,0.103,9,reviewed,ci,ci
+2023-09-18T09:53:27.034Z,39.2211,-120.0714,7.4,0.6,ml,8,171.41,0.077,0.1127,nn,nn00866025,2023-09-19T02:51:21.813Z,"1 km SE of Carnelian Bay, California",earthquake,,1.7,0.56,4,reviewed,nn,nn
 2023-09-18T09:40:38.104Z,39.2226,-120.0689,8,0.5,ml,9,170.79,0.075,0.0986,nn,nn00866024,2023-09-19T02:48:15.397Z,"1 km ESE of Carnelian Bay, California",earthquake,,1.6,0.39,3,reviewed,nn,nn
 2023-09-18T09:36:37.570Z,46.19916666666666,-122.19366666666667,6.74,0.31,ml,16,75,0.002046,0.17,uw,uw61960581,2023-09-18T16:14:09.750Z,"37 km NNE of Amboy, Washington",earthquake,0.73,0.58,0.1094573070834313,12,reviewed,uw,uw
 2023-09-18T09:30:41.730Z,33.6886667,-116.7288333,15.76,0.12,ml,15,68,0.02903,0.11,ci,ci39667834,2023-09-18T18:18:11.388Z,"6 km S of Idyllwild, CA",earthquake,0.28,0.45,0.18,9,reviewed,ci,ci
