@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-19T08:32:56.429Z,59.5647,-153.0607,107.9,2,ml,,,,0.24,ak,ak023c1frdhm,2023-09-19T08:35:33.854Z,"63 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-19T08:25:26.740Z,37.1561661,-121.5321655,8.96,1.15,md,7,104,0.05911,0.1,nc,nc73938891,2023-09-19T08:27:01.065Z,"10 km NE of San Martin, CA",earthquake,0.65,2.31,0.21,6,automatic,nc,nc
-2023-09-19T08:21:18.530Z,19.1523342132568,-155.476837158203,32.1300010681152,2.1400001,md,45,163,,0.140000001,hv,hv73580647,2023-09-19T08:24:30.660Z,"Hawaii region, Hawaii",earthquake,0.54,0.660000026,1.13999999,28,automatic,hv,hv
+2023-09-19T08:21:18.530Z,19.1523342132568,-155.476837158203,32.1300010681152,2.1400001,md,45,163,,0.140000001,hv,hv73580647,2023-09-19T08:24:30.660Z,"5 km S of Pāhala, Hawaii",earthquake,0.54,0.660000026,1.13999999,28,automatic,hv,hv
 2023-09-19T08:12:47.350Z,38.8175011,-122.8024979,0.14,0.76,md,11,89,0.01105,0.02,nc,nc73938881,2023-09-19T08:14:21.774Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.94,0.09,12,automatic,nc,nc
 2023-09-19T08:00:44.660Z,32.9535,-115.6575,20.16,1.4,ml,8,130,0.09653,0.24,ci,ci39668634,2023-09-19T08:04:19.135Z,"10 km SSW of Westmorland, CA",earthquake,1.45,1.32,0.311,16,automatic,ci,ci
 2023-09-19T07:38:36.150Z,33.0335,-116.4191667,8.75,1.14,ml,34,51,0.06194,0.18,ci,ci39668626,2023-09-19T07:42:14.318Z,"18 km ESE of Julian, CA",earthquake,0.25,0.74,0.243,25,automatic,ci,ci
@@ -40,14 +40,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T04:40:58.620Z,37.4225006,-121.2945023,1.44,3.15,ml,69,162,0.03818,0.23,nc,nc73938781,2023-09-19T08:01:52.612Z,"16 km WSW of Patterson, CA",earthquake,0.45,1.12,0.434,29,automatic,nc,nc
 2023-09-19T04:17:54.640Z,37.4076653,-121.3133316,2.35,1.86,md,5,193,0.03272,0.11,nc,nc73938746,2023-09-19T05:22:34.405Z,"18 km WSW of Patterson, CA",earthquake,1.08,1.47,0.09,5,automatic,nc,nc
 2023-09-19T04:14:09.090Z,34.7828333,-117.4356667,29.35,2.34,ml,12,321,0.6337,0.32,ci,ci39668578,2023-09-19T04:18:06.670Z,"22 km N of Adelanto, CA",earthquake,19.63,31.61,0.116,30,automatic,ci,ci
-2023-09-19T04:13:10.220Z,37.4416656,-121.2898331,2.81,4.53,mw,91,159,0.05649,0.17,nc,nc73938736,2023-09-19T08:32:39.203Z,"14 km SSW of Westley, CA",earthquake,0.4,1.11,,5,reviewed,nc,nc
+2023-09-19T04:13:10.220Z,37.4416656,-121.2898331,2.81,4.53,mw,91,159,0.05649,0.17,nc,nc73938736,2023-09-19T08:40:39.106Z,"14 km SSW of Westley, CA",earthquake,0.4,1.11,,5,reviewed,nc,nc
 2023-09-19T04:11:42.037Z,61.3987,-151.5511,72,1.6,ml,,,,0.44,ak,ak023c1d93x7,2023-09-19T04:14:01.883Z,"38 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-19T04:08:52.590Z,38.7928352,-122.8030014,3.11,1.52,md,27,58,0.004503,0.03,nc,nc73938731,2023-09-19T05:09:20.790Z,"4 km WNW of The Geysers, CA",earthquake,0.25,0.43,0.13,27,automatic,nc,nc
 2023-09-19T04:04:20.060Z,37.4221649,-121.3119965,1.49,1.62,md,6,160,0.04331,0.15,nc,nc73938726,2023-09-19T05:16:26.401Z,"17 km WSW of Patterson, CA",earthquake,1.14,2.02,0.16,5,automatic,nc,nc
 2023-09-19T03:59:07.270Z,38.8110008,-122.7929993,2.5,0.75,md,12,76,0.003523,0.01,nc,nc73938716,2023-09-19T04:00:44.591Z,"5 km NW of The Geysers, CA",earthquake,0.37,0.78,0.05,13,automatic,nc,nc
 2023-09-19T03:57:09.200Z,38.8168335,-122.8228302,2.07,0.75,md,8,80,0.009373,0.01,nc,nc73938711,2023-09-19T03:58:44.828Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.18,0.33,8,automatic,nc,nc
 2023-09-19T03:53:59.940Z,17.9386666666667,-66.9655,15.3,3.03,md,21,220,0.06357,0.09,pr,pr71425233,2023-09-19T04:10:19.340Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.34,0.0620036336827243,5,reviewed,pr,pr
-2023-09-19T03:44:30.550Z,37.4358333,-121.3031667,-0.4,3.49,mw,149,90,0.05285,0.19,nc,nc73938706,2023-09-19T08:34:31.537Z,"15 km SW of Westley, CA",earthquake,0.18,0.24,,3,reviewed,nc,nc
+2023-09-19T03:44:30.550Z,37.4358333,-121.3031667,-0.4,3.49,mw,149,90,0.05285,0.19,nc,nc73938706,2023-09-19T08:39:51.185Z,"15 km SW of Westley, CA",earthquake,0.18,0.24,,3,reviewed,nc,nc
 2023-09-19T03:39:48.924Z,65.7811,-151.6565,6,1.5,ml,,,,0.56,ak,ak023c1ctowc,2023-09-19T03:42:02.568Z,"70 km NNE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-19T03:36:24.750Z,32.7968333,-116.6176667,17.56,0.95,ml,15,97,0.1093,0.14,ci,ci39668554,2023-09-19T03:39:53.197Z,"9 km WSW of Pine Valley, CA",earthquake,0.35,0.64,0.236,8,automatic,ci,ci
 2023-09-19T03:28:25.922Z,-13.2263,167.1883,231.562,4.9,mb,59,53,7.795,0.52,us,us7000kwlc,2023-09-19T03:48:56.040Z,"81 km NNW of Sola, Vanuatu",earthquake,10.99,7.429,0.053,113,reviewed,us,us
