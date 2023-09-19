@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T18:49:01.530Z,38.8429985,-122.8803329,2.24,1.15,md,17,100,0.005355,0.04,nc,nc73939076,2023-09-19T18:50:36.823Z,"13 km ENE of Cloverdale, CA",earthquake,0.32,0.48,0.2,17,automatic,nc,nc
 2023-09-19T18:40:08.750Z,36.5794983,-121.4260025,0.95,1.38,md,8,144,0.02615,0.03,nc,nc73939071,2023-09-19T18:41:41.775Z,"8 km NNE of Gonzales, CA",earthquake,0.69,0.32,0.06,6,automatic,nc,nc
 2023-09-19T18:37:31.469Z,60.2854,-152.0699,64.2,1.4,ml,,,,0.38,ak,ak023c1lqq6y,2023-09-19T18:39:14.885Z,"34 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-09-19T18:20:18.819Z,39.6719,-117.6948,1.2,2,ml,8,220.76,0.326,0.2386,nn,nn00866070,2023-09-19T19:55:44.955Z,"57 km WNW of Austin, Nevada",earthquake,,2.1,0.27,6,reviewed,nn,nn
 2023-09-19T18:19:02.750Z,36.883667,-121.6461639,-0.1,2.1,md,11,92,0.04346,0.36,nc,nc73939056,2023-09-19T18:54:14.405Z,"1 km SSW of Aromas, CA",earthquake,1,5.07,0.21,7,automatic,nc,nc
 2023-09-19T18:17:41.713Z,61.4731,-146.6359,22.7,1.5,ml,,,,0.42,ak,ak023c1lmgnv,2023-09-19T18:19:51.659Z,"41 km NNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-19T18:17:24.190Z,33.4643333,-116.5671667,9.22,1.45,ml,44,70,0.04213,0.19,ci,ci39669018,2023-09-19T18:47:05.480Z,"14 km SE of Anza, CA",earthquake,0.21,0.49,0.187,27,reviewed,ci,ci
@@ -161,6 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T01:53:16.190Z,19.5725,-64.6235,33,3.8,md,9,318,1.2647,0.11,pr,pr2023262000,2023-09-19T02:14:06.591Z,"138 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.48,11.69,0.04,4,reviewed,pr,pr
 2023-09-19T01:46:58.130Z,38.4523333,-112.7656667,0.16,0.8,md,14,189,0.04116,0.1,uu,uu60550427,2023-09-19T13:29:29.620Z,"Utah",earthquake,0.94,31.61,0.185,6,reviewed,uu,uu
 2023-09-19T01:11:55.803Z,62.5004,-151.5502,91.1,1.5,ml,,,,0.66,ak,ak023c1bgu64,2023-09-19T01:13:41.599Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-19T01:10:41.471Z,32.31719971,-101.098871,8.73034668,2.3,ml,21,69,0.1705325532,0.1,tx,tx2023siyr,2023-09-19T19:54:45.079Z,"9 km WSW of Westbrook, Texas",earthquake,0.9821629646,1.759518751,0,7,reviewed,tx,tx
 2023-09-19T01:04:42.780Z,46.19316666666667,-122.199,2.37,0.63,ml,13,112,0.008704,0.07,uw,uw61960711,2023-09-19T04:18:19.500Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.49,0.20824055644549633,10,reviewed,uw,uw
 2023-09-19T00:58:48.386Z,64.6987,-149.1625,20.2,0.8,ml,,,,1.14,ak,ak023c1b5gna,2023-09-19T01:04:07.457Z,"10 km N of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-19T00:54:38.950Z,19.2331657409668,-155.376495361328,32.6199989318848,1.98,ml,43,165,,0.119999997,hv,hv73580462,2023-09-19T01:00:09.990Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,0.32,3,automatic,hv,hv
@@ -214,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T20:28:03.870Z,38.8736649,-122.8284988,0.4,1.21,md,19,177,0.01423,0.05,nc,nc73938531,2023-09-18T20:46:17.012Z,"11 km WNW of Cobb, CA",earthquake,0.3,0.45,0.14,19,automatic,nc,nc
 2023-09-18T20:04:30.256Z,36.7488,-115.6276,0.8,0.5,ml,8,292.31,0.282,0.1076,nn,nn00865990,2023-09-18T20:07:10.932Z,"Nevada",earthquake,,0.1,1.01,6,automatic,nn,nn
 2023-09-18T20:00:52.690Z,32.8288333,-117.0655,-0.17,1,ml,18,103,0.07571,0.2,ci,ci39668306,2023-09-18T20:47:27.297Z,"8 km NNW of La Mesa, CA",quarry blast,0.61,31.61,0.108,9,reviewed,ci,ci
-2023-09-18T19:57:50.800Z,32.5746667,-115.666,10.2,1.32,ml,21,70,0.08027,0.21,ci,ci39668290,2023-09-18T20:29:13.624Z,"8 km W of Progreso, B.C., MX",earthquake,0.36,0.56,0.199,9,reviewed,ci,ci
