@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-19T08:00:46.010Z,32.9480019,-115.5926666,11.97,1.31,ml,11,114,0.05362,0.25,ci,ci39668634,2023-09-19T08:02:49.867Z,"7 km WSW of Brawley, CA",earthquake,0.98,0.86,0.183,4,automatic,ci,ci
+2023-09-19T08:00:44.660Z,32.9535,-115.6575,20.16,1.4,ml,8,130,0.09653,0.24,ci,ci39668634,2023-09-19T08:04:19.135Z,"10 km SSW of Westmorland, CA",earthquake,1.45,1.32,0.311,16,automatic,ci,ci
 2023-09-19T07:38:36.150Z,33.0335,-116.4191667,8.75,1.14,ml,34,51,0.06194,0.18,ci,ci39668626,2023-09-19T07:42:14.318Z,"18 km ESE of Julian, CA",earthquake,0.25,0.74,0.243,25,automatic,ci,ci
 2023-09-19T07:37:05.730Z,33.5105,-116.4791667,16.8,0.65,ml,15,93,0.04648,0.17,ci,ci39668618,2023-09-19T07:40:40.394Z,"19 km ESE of Anza, CA",earthquake,0.46,0.8,0.127,13,automatic,ci,ci
 2023-09-19T07:35:54.908Z,61.0787,-147.0133,19.6,1.8,ml,,,,1.21,ak,ak023c1f6kwy,2023-09-19T07:39:21.022Z,"29 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T04:40:58.620Z,37.4225006,-121.2945023,1.44,3.15,ml,69,162,0.03818,0.23,nc,nc73938781,2023-09-19T08:01:52.612Z,"16 km WSW of Patterson, CA",earthquake,0.45,1.12,0.434,29,automatic,nc,nc
 2023-09-19T04:17:54.640Z,37.4076653,-121.3133316,2.35,1.86,md,5,193,0.03272,0.11,nc,nc73938746,2023-09-19T05:22:34.405Z,"18 km WSW of Patterson, CA",earthquake,1.08,1.47,0.09,5,automatic,nc,nc
 2023-09-19T04:14:09.090Z,34.7828333,-117.4356667,29.35,2.34,ml,12,321,0.6337,0.32,ci,ci39668578,2023-09-19T04:18:06.670Z,"22 km N of Adelanto, CA",earthquake,19.63,31.61,0.116,30,automatic,ci,ci
-2023-09-19T04:13:10.220Z,37.4416656,-121.2898331,2.81,4.53,mw,91,159,0.05649,0.17,nc,nc73938736,2023-09-19T08:01:33.045Z,"14 km SSW of Westley, CA",earthquake,0.4,1.11,,5,reviewed,nc,nc
+2023-09-19T04:13:10.220Z,37.4416656,-121.2898331,2.81,4.53,mw,91,159,0.05649,0.17,nc,nc73938736,2023-09-19T08:06:38.477Z,"14 km SSW of Westley, CA",earthquake,0.4,1.11,,5,reviewed,nc,nc
 2023-09-19T04:11:42.037Z,61.3987,-151.5511,72,1.6,ml,,,,0.44,ak,ak023c1d93x7,2023-09-19T04:14:01.883Z,"38 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-19T04:08:52.590Z,38.7928352,-122.8030014,3.11,1.52,md,27,58,0.004503,0.03,nc,nc73938731,2023-09-19T05:09:20.790Z,"4 km WNW of The Geysers, CA",earthquake,0.25,0.43,0.13,27,automatic,nc,nc
 2023-09-19T04:04:20.060Z,37.4221649,-121.3119965,1.49,1.62,md,6,160,0.04331,0.15,nc,nc73938726,2023-09-19T05:16:26.401Z,"17 km WSW of Patterson, CA",earthquake,1.14,2.02,0.16,5,automatic,nc,nc
@@ -229,8 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T08:21:27.832Z,39.2235,-120.068,7.6,-0.2,ml,7,170.62,0.074,0.0939,nn,nn00866018,2023-09-19T02:32:41.747Z,"1 km ESE of Carnelian Bay, California",earthquake,,1.9,0.03,2,reviewed,nn,nn
 2023-09-18T08:20:25.500Z,38.7898331,-122.7596664,1.65,1.28,md,18,75,0.01078,0.03,nc,nc73938291,2023-09-18T09:30:13.195Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.43,0.19,17,automatic,nc,nc
 2023-09-18T08:14:05.980Z,33.885,-116.8603333,16.26,0.61,ml,29,71,0.07331,0.14,ci,ci39667818,2023-09-18T18:29:24.514Z,"5 km SSE of Banning, CA",earthquake,0.22,0.5,0.084,11,reviewed,ci,ci
-2023-09-18T08:12:29.750Z,17.9203333333333,-66.8685,8.92,2.51,md,11,224,0.05538,0.07,pr,pr71425178,2023-09-18T08:27:44.380Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.97,0.51,0.0390621399362026,5,reviewed,pr,pr
-2023-09-18T08:11:12.310Z,38.8180008,-122.8014984,0.81,0.91,md,15,54,0.008596,0.03,nc,nc73938281,2023-09-18T08:13:53.041Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.55,0.29,14,automatic,nc,nc
-2023-09-18T08:09:33.379Z,39.2225,-120.0754,8.2,0.9,ml,11,141.42,0.077,0.161,nn,nn00866017,2023-09-19T02:29:35.237Z,"0 km SE of Carnelian Bay, California",earthquake,,1.8,0.16,3,reviewed,nn,nn
-2023-09-18T08:06:53.048Z,66.2033,-154.0172,0,1.8,ml,,,,1.3,ak,ak023bzs2g48,2023-09-18T08:09:15.649Z,"20 km NNE of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-18T08:04:48.250Z,39.222,-120.0956667,1.96,2.51,md,18,55,0.08436,0.11,nc,nc73938276,2023-09-19T02:04:30.412Z,"4 km N of Dollar Point, CA",earthquake,0.27,1.25,0.248,37,reviewed,nc,nc
