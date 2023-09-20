@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-20T15:50:12.680Z,38.7906685,-122.7610016,0.38,1.92,md,31,61,0.009993,0.06,nc,nc73939411,2023-09-20T15:51:49.203Z,"2 km NNW of The Geysers, CA",earthquake,0.19,0.33,0.19,33,automatic,nc,nc
+2023-09-20T15:49:54.710Z,38.7966652,-122.7508316,1.17,0.76,md,8,172,0.007987,0.02,nc,nc73939406,2023-09-20T15:51:29.243Z,"2 km NNE of The Geysers, CA",earthquake,0.57,0.79,0.28,8,automatic,nc,nc
 2023-09-20T15:47:37.720Z,38.791832,-122.76017,1.13,1.08,md,13,80,0.02023,0.02,nc,nc73939401,2023-09-20T15:49:14.088Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.59,0.18,12,automatic,nc,nc
-2023-09-20T15:41:55.150Z,33.0143333,-116.4228333,6.22,1.8,ml,51,23,0.04363,0.21,ci,ci39669578,2023-09-20T15:45:29.279Z,"18 km ESE of Julian, CA",earthquake,0.21,0.75,0.142,26,automatic,ci,ci
+2023-09-20T15:41:55.150Z,33.0143333,-116.4228333,6.22,1.8,ml,51,23,0.04363,0.21,ci,ci39669578,2023-09-20T15:52:58.270Z,"18 km ESE of Julian, CA",earthquake,0.21,0.75,0.142,26,automatic,ci,ci
 2023-09-20T15:16:33.440Z,37.4526672,-121.2714996,4.99,1.97,md,17,95,0.06788,0.34,nc,nc73939391,2023-09-20T15:18:08.754Z,"12 km SSW of Westley, CA",earthquake,0.79,2.55,0.15,12,automatic,nc,nc
 2023-09-20T15:03:36.137Z,-4.6717,-105.9155,10,5.7,mww,99,96,16.106,0.57,us,us7000kwwq,2023-09-20T15:39:31.130Z,"central East Pacific Rise",earthquake,12.53,1.779,0.057,30,reviewed,us,us
 2023-09-20T15:02:06.270Z,33.632,-117.0778333,29.59,0.8,ml,11,82,0.2453,0.27,ci,ci39669570,2023-09-20T15:05:38.425Z,"8 km S of Winchester, CA",earthquake,0.96,2.29,0.069,5,automatic,ci,ci
@@ -36,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T10:49:38.980Z,63.1449,-150.327,93.7,1.6,ml,,,,0.33,ak,ak023c34l6x9,2023-09-20T10:52:10.141Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-20T10:43:33.126Z,62.5609,-153.1485,3,1.4,ml,,,,0.56,ak,ak023c34jw9s,2023-09-20T10:45:23.846Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-20T10:42:43.460Z,38.4528333,-112.8016667,4.9,0.03,md,13,172,0.03857,0.08,uu,uu60550477,2023-09-20T13:25:50.810Z,"19 km ENE of Milford, Utah",earthquake,0.54,0.71,0.313,6,reviewed,uu,uu
-2023-09-20T10:37:29.460Z,33.048,-116.387,10.63,0.71,ml,16,105,0.07853,0.22,ci,ci39669482,2023-09-20T10:41:01.695Z,"20 km E of Julian, CA",earthquake,0.45,0.93,0.127,8,automatic,ci,ci
+2023-09-20T10:37:29.370Z,33.0441667,-116.3883333,11.11,0.72,ml,31,44,0.05334,0.18,ci,ci39669482,2023-09-20T15:58:48.268Z,"20 km E of Julian, CA",earthquake,0.23,0.32,0.078,6,reviewed,ci,ci
 2023-09-20T10:27:11.509Z,34.4715,-97.7675,16.95,2.94,ml,89,48,0.1394726307,0.4,ok,ok2023slmm,2023-09-20T13:49:51.690Z,"Oklahoma",earthquake,,1.1,0.24,26,reviewed,ok,ok
 2023-09-20T10:21:46.730Z,38.8359985,-122.8119965,2.11,0.68,md,6,101,0.01267,0.01,nc,nc73939306,2023-09-20T10:23:22.271Z,"8 km WNW of Cobb, CA",earthquake,0.52,2.39,0.52,7,automatic,nc,nc
 2023-09-20T10:17:05.470Z,33.0453333,-116.3866667,11.15,0.42,ml,21,98,0.05375,0.14,ci,ci39669466,2023-09-20T15:45:39.677Z,"20 km E of Julian, CA",earthquake,0.19,0.31,0.076,4,reviewed,ci,ci
@@ -131,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T00:15:47.610Z,38.8303337,-122.8144989,1.62,0.73,md,12,64,0.007743,0.02,nc,nc73939171,2023-09-20T00:17:23.560Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.66,0.1,14,automatic,nc,nc
 2023-09-20T00:15:10.280Z,38.8289986,-122.8123322,1.57,1.41,md,26,41,0.005867,0.05,nc,nc73939166,2023-09-20T00:16:48.670Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.34,0.13,29,automatic,nc,nc
 2023-09-20T00:09:45.613Z,64.9972,-149.395,11.6,1.3,ml,,,,0.6,ak,ak023c2yeasy,2023-09-20T00:11:59.703Z,"17 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-20T00:07:38.816Z,60.6769,-150.367,44.8,1.7,ml,,,,0.25,ak,ak023c2yduvt,2023-09-20T00:10:06.635Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-20T00:07:38.816Z,60.6769,-150.367,44.8,1.7,ml,,,,0.25,ak,ak023c2yduvt,2023-09-20T00:10:06.635Z,"26 km NE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-20T00:03:39.060Z,40.850666,-124.081665,15.64,2.89,md,18,171,0.05162,0.06,nc,nc73939161,2023-09-20T15:36:49.681Z,"2 km S of Arcata, CA",earthquake,0.44,0.26,0.13,23,automatic,nc,nc
 2023-09-19T23:33:55.530Z,62.1592,-152.101,110.9,1.6,ml,,,,0.29,ak,ak023c1op37l,2023-09-19T23:36:07.325Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-19T23:28:04.116Z,61.5339,-146.6107,20.1,1.8,ml,,,,0.67,ak,ak023c1onwnv,2023-09-19T23:30:24.700Z,"47 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -191,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T16:04:26.510Z,38.786499,-122.7444992,1.3,0.82,md,13,83,0.006894,0.02,nc,nc73938996,2023-09-19T16:06:01.657Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.42,0.13,14,automatic,nc,nc
 2023-09-19T16:04:10.950Z,51.5096,16.1694,5,4.6,mb,102,44,1.165,0.9,us,us7000kwpp,2023-09-20T10:21:52.574Z,"6 km W of Rudna, Poland",earthquake,4.26,1.877,0.066,68,reviewed,us,us
 2023-09-19T16:02:44.100Z,46.9605,-114.6385,2.98,0.97,ml,8,124,0.1503,0.08,mb,mb90027823,2023-09-20T13:50:14.940Z,"western Montana",earthquake,0.45,0.89,0.183314105565029,3,reviewed,mb,mb
-2023-09-19T16:00:07.540Z,46.85166666666667,-121.75483333333334,1.48,0.63,ml,23,72,0.02196,0.08,uw,uw61960821,2023-09-19T17:07:50.690Z,"23 km ENE of Ashford, Washington",earthquake,0.16,0.46,0.2890463557003179,7,reviewed,uw,uw
-2023-09-19T16:00:00.022Z,62.5625,-153.1695,1.4,1.2,ml,,,,0.38,ak,ak023c1kbv28,2023-09-19T16:11:56.108Z,"79 km SE of Nikolai, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-19T15:58:41.750Z,40.5628,-125.6305,10,2.7,ml,14,276,1.244,0.38,us,us7000kwpn,2023-09-19T17:24:22.040Z,"115 km W of Ferndale, California",earthquake,5.61,2.023,0.053,46,reviewed,us,us
