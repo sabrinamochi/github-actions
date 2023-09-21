@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-21T17:27:02.120Z,38.7956657,-122.7656631,3.76,1.05,md,19,69,0.006793,0.02,nc,nc73939921,2023-09-21T17:28:33.999Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.68,0.2,19,automatic,nc,nc
-2023-09-21T17:12:43.420Z,33.0346667,-116.2376667,4.25,1.43,ml,27,66,0.09708,0.22,ci,ci40569928,2023-09-21T17:16:25.674Z,"16 km SW of Ocotillo Wells, CA",earthquake,0.32,1.04,0.181,27,automatic,ci,ci
+2023-09-21T17:12:43.420Z,33.0346667,-116.2376667,4.25,1.43,ml,27,66,0.09708,0.22,ci,ci40569928,2023-09-21T17:30:43.249Z,"16 km SW of Ocotillo Wells, CA",earthquake,0.32,1.04,0.181,27,reviewed,ci,ci
 2023-09-21T16:59:45.490Z,38.8341675,-122.8141632,5.83,0.77,md,10,229,0.01122,0.05,nc,nc73939906,2023-09-21T17:01:20.109Z,"8 km W of Cobb, CA",earthquake,1.24,2.28,0.18,9,automatic,nc,nc
 2023-09-21T16:56:22.215Z,61.9424,-149.1308,15.9,1.2,ml,,,,0.9,ak,ak023c4vqlv1,2023-09-21T16:58:10.351Z,"22 km NNE of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T16:43:07.424Z,-8.5992,118.3484,133.246,4.5,mb,16,76,0.609,0.88,us,us7000kx5q,2023-09-21T17:17:33.040Z,"14 km WSW of Dompu, Indonesia",earthquake,8.34,7.026,0.172,10,reviewed,us,us
@@ -102,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T03:51:52.600Z,38.8230019,-122.8266678,3.74,0.86,md,7,175,0.006533,0.01,nc,nc73939646,2023-09-21T03:53:26.548Z,"8 km NW of The Geysers, CA",earthquake,1.21,2.02,0.24,6,automatic,nc,nc
 2023-09-21T03:50:00.690Z,58.2471666666667,-155.1465,31.52,0.91,ml,18,74,,0.27,av,av92052296,2023-09-21T17:15:05.340Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,0.96,0.30341909916519,17,reviewed,av,av
 2023-09-21T03:22:42.338Z,58.1605,-155.4102,0.1,0.8,ml,,,,0.83,ak,ak023c4nsq7d,2023-09-21T03:24:14.186Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-09-21T03:22:42.200Z,57.0701666666667,-135.717666666667,7.51,1,ml,5,181,,0.22,av,av91116323,2023-09-21T17:30:27.840Z,"23 km W of Sitka, Alaska",earthquake,1.67,1.03,0.174840595247039,7,reviewed,av,av
 2023-09-21T03:16:33.390Z,57.0693333333333,-135.717666666667,7.42,1.37,ml,5,174,,0.22,av,av91116318,2023-09-21T17:25:46.800Z,"Southeastern Alaska",earthquake,1.5,0.95,0.254848309114034,7,reviewed,av,av
 2023-09-21T03:14:51.730Z,33.4823333,-116.4516667,12.63,0.6,ml,18,109,0.04635,0.14,ci,ci39670010,2023-09-21T15:30:27.283Z,"22 km ESE of Anza, CA",earthquake,0.27,0.59,0.084,10,reviewed,ci,ci
 2023-09-21T03:10:22.680Z,46.775,-121.964,8.8,0.56,ml,24,130,0.03911,0.08,uw,uw61961146,2023-09-21T16:35:07.460Z,"5 km ENE of Ashford, Washington",earthquake,0.26,0.3,0.2678567142725319,13,reviewed,uw,uw
