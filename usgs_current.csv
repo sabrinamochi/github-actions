@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"4 km SSE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2023-09-21T19:57:41.402Z,39.742,-120.5695,8,2.4,ml,22,156.61,0.106,0.1622,nn,nn00866204,2023-09-21T20:20:57.462Z,"Northern California",earthquake,,1.6,0.25,9,reviewed,nn,nn
 2023-09-21T18:41:18.112Z,60.0297,-152.8553,90.7,2,ml,,,,0.38,ak,ak023c4wu90j,2023-09-21T18:43:12.286Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T18:32:32.130Z,19.2671661376953,-155.402160644531,30.1800003051758,2.33,ml,52,133,,0.129999995,hv,hv73582402,2023-09-21T18:38:03.550Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.660000026,3.03,23,automatic,hv,hv
 2023-09-21T18:20:21.541Z,61.7415,-149.735,27.4,2.1,ml,,,,0.59,ak,ak023c4wpr99,2023-09-21T18:22:09.473Z,"13 km NNE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:55:56.140Z,54.7408333333333,-164.129,1.5,1.47,ml,4,193,,0.09,av,av92052601,2023-09-21T18:15:33.050Z,"47 km WSW of False Pass, Alaska",earthquake,0.47,0.43,0.137302150236888,4,reviewed,av,av
 2023-09-21T10:48:38.780Z,48.178333333333335,-121.4965,9.97,0.91,ml,11,108,0.09702,0.18,uw,uw61961181,2023-09-21T17:20:34.780Z,"11 km SE of Darrington, Washington",earthquake,0.46,1.09,0.2310148067392258,2,reviewed,uw,uw
 2023-09-21T10:35:05.310Z,33.4913333,-116.5856667,9.83,0.51,ml,22,73,0.01422,0.12,ci,ci39670138,2023-09-21T14:30:10.503Z,"11 km SE of Anza, CA",earthquake,0.2,0.38,0.226,7,reviewed,ci,ci
+2023-09-21T10:22:25.969Z,36.14516667,-98.09733333,6.91,1.3,ml,45,44,0.2051597407,0.17,ok,ok2023snhv,2023-09-21T20:22:27.708Z,"13 km SE of Ames, Oklahoma",earthquake,,0.4,0.23,6,reviewed,ok,ok
 2023-09-21T10:11:05.100Z,33.6348333,-116.686,13.42,0.33,ml,18,66,0.03547,0.1,ci,ci39670130,2023-09-21T14:25:19.472Z,"9 km N of Anza, CA",earthquake,0.24,0.43,0.109,6,reviewed,ci,ci
 2023-09-21T10:09:24.493Z,-23.2426,-66.7283,204.544,4.5,mb,56,34,1.367,1.16,us,us7000kx27,2023-09-21T10:39:35.040Z,"107 km W of El Aguilar, Argentina",earthquake,7.87,7.616,0.065,70,reviewed,us,us
 2023-09-21T10:07:45.150Z,44.4545,-111.0051667,6.7,0.83,ml,9,130,0.1213,0.25,uu,uu60550547,2023-09-21T13:22:02.980Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.48,7.02,0.251,2,reviewed,uu,uu
@@ -93,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T07:30:51.330Z,37.3166656,-122.0748367,5.53,1.81,md,24,72,0.02204,0.08,nc,nc73939726,2023-09-21T16:00:20.962Z,"4 km W of Cupertino, CA",earthquake,0.2,0.29,0.09,16,automatic,nc,nc
 2023-09-21T07:26:05.530Z,35.7771667,-117.578,4.24,1.28,ml,18,161,0.1449,0.16,ci,ci39670074,2023-09-21T14:41:31.326Z,"16 km W of Searles Valley, CA",earthquake,0.32,0.73,0.084,5,reviewed,ci,ci
 2023-09-21T07:24:26.789Z,34.4735,-97.76116667,18.13,2.84,ml,97,47,0.1403724541,0.38,ok,ok2023snbz,2023-09-21T14:18:12.487Z,"Oklahoma",earthquake,,0.9,0.22,27,reviewed,ok,ok
-2023-09-21T07:14:07.510Z,37.3118324,-122.0693359,6.59,2.91,md,75,66,0.02856,0.14,nc,nc73939716,2023-09-21T20:15:35.705Z,"4 km WSW of Cupertino, CA",earthquake,0.16,0.38,0.09,102,automatic,nc,nc
+2023-09-21T07:14:07.510Z,37.3118324,-122.0693359,6.59,2.91,md,75,66,0.02856,0.14,nc,nc73939716,2023-09-21T20:21:17.555Z,"4 km WSW of Cupertino, CA",earthquake,0.16,0.38,0.09,102,automatic,nc,nc
 2023-09-21T07:13:01.470Z,40.7411667,-112.0545,9.72,1.39,ml,21,44,0.02005,0.1,uu,uu60550527,2023-09-21T13:21:39.610Z,"Utah",earthquake,0.27,0.56,0.3,2,reviewed,uu,uu
 2023-09-21T07:10:06.430Z,59.3585,-153.440333333333,-0.38,-0.4,ml,5,151,,0.12,av,av92052481,2023-09-21T20:10:12.250Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.2,0.24,0.261111847891264,5,reviewed,av,av
 2023-09-21T07:05:36.230Z,35.3673333,-118.5745,1.68,1.72,ml,28,60,0.1468,0.21,ci,ci39670066,2023-09-21T13:22:21.630Z,"26 km SSW of Bodfish, CA",earthquake,0.28,0.65,0.212,26,reviewed,ci,ci
