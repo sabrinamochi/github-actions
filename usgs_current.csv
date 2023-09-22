@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-22T12:58:12.060Z,38.8053322,-122.7634964,3.31,0.72,md,6,168,0.02499,0.03,nc,nc73940266,2023-09-22T12:59:48.840Z,"3 km N of The Geysers, CA",earthquake,1.19,1.58,0.16,7,automatic,nc,nc
-2023-09-22T12:57:57.332Z,34.95075226,-97.58553314,0.4703350365,1.82,ml,11,70.45721436,0.03634065017,1.297565025,ok,ok2023spim,2023-09-22T13:00:24.787Z,"Oklahoma",earthquake,3.416360964,2.92832404,0.29,8,automatic,ok,ok
+2023-09-22T12:57:57.332Z,34.95075226,-97.58553314,0.4703350365,1.82,ml,11,70.45721436,0.03634065017,1.297565025,ok,ok2023spim,2023-09-22T13:00:47.472Z,"10 km SSE of Dibble, Oklahoma",earthquake,3.416360964,2.92832404,0.29,8,automatic,ok,ok
 2023-09-22T12:48:10.680Z,34.425,-119.1885,1.51,1.24,ml,14,71,0.1111,0.27,ci,ci40570304,2023-09-22T12:51:39.475Z,"6 km ESE of Ojai, CA",earthquake,0.52,1.02,0.208,18,automatic,ci,ci
+2023-09-22T12:22:00.601Z,-24.6064,179.8635,512.693,4.3,mb,37,95,5.041,0.59,us,us7000kxcm,2023-09-22T13:03:52.040Z,"south of the Fiji Islands",earthquake,15.06,9.103,0.107,25,reviewed,us,us
 2023-09-22T12:18:31.415Z,32.2816,-103.3111,7.935,3.5,ml,32,60,0.104,0.39,us,us7000kxci,2023-09-22T12:54:09.316Z,"21 km NNW of Jal, New Mexico",earthquake,2.48,6.886,0.085,26,reviewed,us,us
 2023-09-22T12:18:16.723Z,61.3418,-151.6255,76.4,2,ml,,,,0.58,ak,ak023c6go2ag,2023-09-22T12:31:09.040Z,"36 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-22T12:09:03.830Z,38.7835007,-122.7246704,0.74,0.73,md,9,103,0.009425,0.02,nc,nc73940251,2023-09-22T12:10:38.352Z,"3 km ENE of The Geysers, CA",earthquake,0.3,1.53,0.33,9,automatic,nc,nc
@@ -132,8 +133,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T20:42:41.660Z,46.19616666666667,-122.19466666666666,2.8,0.24,ml,14,98,0.007538,0.08,uw,uw61961361,2023-09-22T03:42:55.880Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.41,0.10219678655985631,9,reviewed,uw,uw
 2023-09-21T20:25:07.180Z,44.733,-112.4735,13.2,1.03,ml,5,227,0.1507,0.03,mb,mb90027953,2023-09-21T23:25:27.840Z,"Idaho-Montana border region",earthquake,0.93,1.93,0.0587795331203771,5,reviewed,mb,mb
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
-2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"4 km SSE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"Southern Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-09-21T19:57:42.180Z,39.7426667,-120.5628333,3.42,2.4,md,16,81,0.1009,0.11,nc,nc73939981,2023-09-22T09:51:14.493Z,"1 km NE of Valley Ranch, CA",earthquake,0.28,0.93,0.187,27,reviewed,nc,nc
 2023-09-21T19:57:18.950Z,38.8224983,-122.7901688,0.2,0.77,md,8,78,0.01183,0.11,nc,nc73939976,2023-09-21T19:58:55.455Z,"6 km W of Cobb, CA",earthquake,0.48,1.37,0.32,8,automatic,nc,nc
 2023-09-21T19:37:41.730Z,38.8351669,-122.7891693,1.81,0.99,md,11,68,0.003365,0.02,nc,nc73939971,2023-09-21T19:39:16.185Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.51,0.27,12,automatic,nc,nc
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T13:15:47.100Z,33.2725,-116.7828333,11.7,0.98,ml,44,34,0.04163,0.16,ci,ci39670210,2023-09-21T15:14:00.509Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.16,0.51,0.105,21,reviewed,ci,ci
 2023-09-21T13:08:27.330Z,44.3058333333333,-115.151333333333,16.07,1.79,ml,8,66,0.8242,0.27,mb,mb90027913,2023-09-21T21:58:34.350Z,"19 km WNW of Stanley, Idaho",earthquake,0.77,3.62,0.185655065774991,13,reviewed,mb,mb
 2023-09-21T13:08:10.810Z,44.3518333,-110.682,3.22,1.12,md,8,100,0.08734,0.11,uu,uu60550567,2023-09-21T14:03:20.640Z,"48 km SE of West Yellowstone, Montana",earthquake,0.45,1.54,0.238,7,reviewed,uu,uu
-2023-09-21T13:03:24.590Z,19.2376670837402,-155.391662597656,31.8500003814697,1.83000004,md,40,159,,0.100000001,hv,hv73582212,2023-09-21T13:06:30.550Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.45,0.709999979,0.300000012,13,automatic,hv,hv
