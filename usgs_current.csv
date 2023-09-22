@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T04:36:23.820Z,19.1466674804688,-155.363830566406,27.8199996948242,2.04999995,md,46,183,,0.140000001,hv,hv73582737,2023-09-22T04:39:30.660Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.959999979,1.30999994,27,automatic,hv,hv
 2023-09-22T03:37:49.183Z,62.086,-149.1619,36.1,1.6,ml,,,,0.52,ak,ak023c6bfayu,2023-09-22T03:39:32.544Z,"36 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-22T03:18:12.479Z,6.2467,123.7894,574.518,4.4,mb,49,51,1.957,0.66,us,us7000kxac,2023-09-22T03:33:19.040Z,"Moro Gulf, Mindanao, Philippines",earthquake,9.96,7.864,0.069,62,reviewed,us,us
-2023-09-22T03:06:57.850Z,37.5738335,-118.480835,8.17,2.25,md,20,131,0.03937,0.05,nc,nc73940136,2023-09-22T03:28:14.359Z,"18 km E of Toms Place, CA",earthquake,0.45,0.91,0.19,20,automatic,nc,nc
+2023-09-22T03:06:57.850Z,37.5738335,-118.480835,8.17,2.25,md,20,131,0.03937,0.05,nc,nc73940136,2023-09-22T16:21:58.537Z,"18 km E of Toms Place, CA",earthquake,0.45,0.91,0.19,20,automatic,nc,nc
 2023-09-22T02:43:43.080Z,38.8344994,-122.8071671,2.16,1.09,md,14,75,0.01132,0.01,nc,nc73940126,2023-09-22T02:45:17.038Z,"7 km W of Cobb, CA",earthquake,0.31,0.76,0.37,7,automatic,nc,nc
 2023-09-22T02:43:38.120Z,38.8341675,-122.8063354,2.25,1.53,md,23,75,0.01115,0.02,nc,nc73940121,2023-09-22T02:45:12.216Z,"7 km W of Cobb, CA",earthquake,0.23,0.42,0.13,24,automatic,nc,nc
 2023-09-22T02:43:35.100Z,61.0162,-151.0847,69.5,1.7,ml,,,,0.4,ak,ak023c6auy8y,2023-09-22T02:45:20.956Z,"6 km SSE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T19:23:19.850Z,58.1813333333333,-155.278833333333,1.02,0.2,ml,6,105,,0.16,av,av92052941,2023-09-22T00:35:24.300Z,"83 km NW of Karluk, Alaska",earthquake,0.38,1.88,0.252557869657891,6,reviewed,av,av
 2023-09-21T19:21:30.700Z,35.9098333,-117.7346667,9.83,1.17,ml,12,145,0.07809,0.13,ci,ci40570000,2023-09-21T22:17:43.287Z,"16 km E of Little Lake, CA",earthquake,0.42,0.65,0.253,5,reviewed,ci,ci
 2023-09-21T19:18:55.350Z,33.8385,-117.491,-0.5,1.38,ml,38,46,0.04368,0.23,ci,ci40569992,2023-09-21T21:04:52.775Z,"5 km SSE of Home Gardens, CA",quarry blast,0.39,31.61,0.14,27,reviewed,ci,ci
-2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T19:12:59.691Z,41.7673,-81.0148,5,1.9,ml,8,194,0.841,0.33,us,us7000kx8j,2023-09-22T06:03:17.320Z,"2 km E of Madison, Ohio",earthquake,2.26,1.989,0.148,6,reviewed,us,us
 2023-09-21T19:04:23.940Z,58.2461666666667,-155.156,4.62,0.46,ml,10,125,,0.14,av,av92052926,2023-09-22T00:31:13.320Z,"86 km NNW of Karluk, Alaska",earthquake,0.34,0.53,0.290268317089999,10,reviewed,av,av
 2023-09-21T18:57:15.110Z,38.8134995,-122.7953339,1.12,0.77,md,9,74,0.005523,0.02,nc,nc73939956,2023-09-21T18:58:51.048Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.91,0.11,9,automatic,nc,nc
@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T16:56:22.215Z,61.9424,-149.1308,15.9,1.2,ml,,,,0.9,ak,ak023c4vqlv1,2023-09-21T16:58:10.351Z,"22 km NNE of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T16:53:31.007Z,31.99383102,-103.8400472,7.314135742,2.308931394,ml(texnet),22,71.63894083,0.03291692795,0.2081370017,tx,tx2023snut,2023-09-21T21:02:29.522Z,"33 km SE of Malaga, New Mexico",earthquake,0.9748595995,1.210244711,0.2773984006,26,reviewed,tx,tx
 2023-09-21T16:43:07.424Z,-8.5992,118.3484,133.246,4.5,mb,16,76,0.609,0.88,us,us7000kx5q,2023-09-21T17:17:33.040Z,"14 km WSW of Dompu, Indonesia",earthquake,8.34,7.026,0.172,10,reviewed,us,us
-2023-09-21T16:24:17.250Z,38.8326683,-122.8095016,4.86,0.44,md,8,95,0.009271,0.05,nc,nc73939876,2023-09-21T16:25:54.419Z,"8 km W of Cobb, CA",earthquake,0.71,1.05,0.32,8,automatic,nc,nc
