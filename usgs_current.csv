@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-23T01:54:15.064Z,62.9838,-150.7586,76.6,1.3,ml,,,,1.18,ak,ak023c7xvcsi,2023-09-23T01:56:42.115Z,"54 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-23T01:18:58.840Z,33.3853333,-116.3941667,14.92,1.08,ml,34,85,0.1184,0.26,ci,ci40570704,2023-09-23T01:29:42.740Z,"14 km N of Borrego Springs, CA",earthquake,0.43,0.79,0.196,25,automatic,ci,ci
 2023-09-23T01:06:28.160Z,36.908165,-121.2965012,6,1.26,md,8,167,0.006126,0.08,nc,nc73940496,2023-09-23T01:08:04.748Z,"11 km NE of Hollister, CA",earthquake,0.65,0.94,0.22,6,automatic,nc,nc
 2023-09-23T00:55:55.480Z,38.814167,-122.8235016,2.13,1.06,md,20,54,0.01269,0.02,nc,nc73940491,2023-09-23T00:57:29.365Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.42,0.27,21,automatic,nc,nc
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T18:51:55.609Z,35.53883333,-96.75333333,7.91,2.97,ml,100,35,0.1169770451,0.21,ok,ok2023spud,2023-09-22T20:57:15.933Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.21,24,reviewed,ok,ok
 2023-09-22T18:33:45.810Z,32.946,-115.5321667,6.49,1.45,ml,19,99,0.05048,0.22,ci,ci40570472,2023-09-22T18:37:27.793Z,"4 km S of Brawley, CA",earthquake,0.45,1.33,0.279,18,automatic,ci,ci
 2023-09-22T18:31:05.290Z,34.0125,-116.8,17.06,0.83,ml,16,93,0.0235,0.16,ci,ci40570464,2023-09-22T18:34:41.954Z,"11 km N of Cabazon, CA",earthquake,0.37,0.72,0.199,17,automatic,ci,ci
-2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-23T01:48:55.141Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
+2023-09-22T18:03:14.430Z,37.3110008,-122.0713348,6.68,2.84,md,70,65,0.02823,0.13,nc,nc73940346,2023-09-23T01:59:51.109Z,"4 km WSW of Cupertino, CA",earthquake,0.17,0.38,0.1,105,automatic,nc,nc
 2023-09-22T18:02:14.650Z,19.2943333333333,-155.458166666667,6.1,2.38,ml,45,48,,0.16,hv,hv73582987,2023-09-22T20:51:56.710Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.9,0.153179962743099,22,reviewed,hv,hv
 2023-09-22T17:55:34.064Z,61.5292,-146.4616,27.1,1.9,ml,,,,0.6,ak,ak023c6jv72l,2023-09-22T17:56:52.346Z,"44 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T17:42:04.810Z,58.1775,-155.280166666667,2.47,0.52,ml,11,95,,0.09,av,av91116513,2023-09-23T00:15:31.160Z,"83 km NW of Karluk, Alaska",earthquake,0.27,0.41,0.301820580104038,12,reviewed,av,av
@@ -215,7 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T03:00:26.120Z,58.283,-154.925,5.59,0.64,ml,10,169,,0.22,av,av91116473,2023-09-22T19:19:36.200Z,"84 km NNW of Karluk, Alaska",earthquake,0.57,1.29,0.19702667677113,10,reviewed,av,av
 2023-09-22T03:00:13.160Z,58.283,-154.928,4.93,1.03,ml,15,147,,0.2,av,av92053261,2023-09-22T19:11:01.200Z,"84 km NNW of Karluk, Alaska",earthquake,0.41,1.22,0.291287179494225,15,reviewed,av,av
 2023-09-22T03:00:06.720Z,58.287,-154.928333333333,4.97,0.75,ml,12,167,,0.21,av,av91116468,2023-09-22T19:15:04.110Z,"84 km NNW of Karluk, Alaska",earthquake,0.54,1.25,0.280828592177131,12,reviewed,av,av
-2023-09-22T02:45:07.229Z,37.3479,-117.9535,14.4,0.5,ml,3,208.46,0.025,0.1119,nn,nn00866252,2023-09-22T17:18:55.039Z,"36 km NE of Big Pine, California",earthquake,,2.6,0.05,2,reviewed,nn,nn
+2023-09-22T02:45:07.229Z,37.3479,-117.9535,14.4,0.5,ml,3,208.46,0.025,0.1119,nn,nn00866252,2023-09-22T17:18:55.039Z,"California-Nevada border region",earthquake,,2.6,0.05,2,reviewed,nn,nn
 2023-09-22T02:43:43.080Z,38.8344994,-122.8071671,2.16,1.09,md,14,75,0.01132,0.01,nc,nc73940126,2023-09-22T02:45:17.038Z,"7 km W of Cobb, CA",earthquake,0.31,0.76,0.37,7,automatic,nc,nc
 2023-09-22T02:43:38.120Z,38.8341675,-122.8063354,2.25,1.53,md,23,75,0.01115,0.02,nc,nc73940121,2023-09-22T02:45:12.216Z,"7 km W of Cobb, CA",earthquake,0.23,0.42,0.13,24,automatic,nc,nc
 2023-09-22T02:43:35.100Z,61.0162,-151.0847,69.5,1.7,ml,,,,0.4,ak,ak023c6auy8y,2023-09-22T02:45:20.956Z,"6 km SSE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T02:18:15.652Z,-8.3177,119.6635,193.034,4.4,mb,35,70,1.934,1.13,us,us7000kxa4,2023-09-22T02:52:25.040Z,"31 km NW of Labuan Bajo, Indonesia",earthquake,7.64,7.183,0.162,13,reviewed,us,us
 2023-09-22T02:11:55.494Z,-8.7221,-74.3889,131.908,4.9,mb,62,95,4.044,0.77,us,us7000kxa3,2023-09-22T02:33:41.040Z,"Central Peru",earthquake,10.12,7.206,0.028,412,reviewed,us,us
 2023-09-22T02:07:07.342Z,61.5393,-146.9259,26.8,2.7,ml,,,,0.36,ak,ak023c6ancni,2023-09-22T02:20:24.040Z,"46 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-22T01:54:12.970Z,17.9273333333333,-66.9223333333333,13.49,2.4,md,18,203,0.04649,0.16,pr,pr71425503,2023-09-22T02:06:40.080Z,"5 km SSW of Guánica, Puerto Rico",earthquake,0.69,0.27,0.0202353345672424,3,reviewed,pr,pr
