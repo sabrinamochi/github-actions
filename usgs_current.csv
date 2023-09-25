@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T17:27:34.149Z,61.0599,-151.061,64,1.4,ml,,,,0.52,ak,ak023cbib8li,2023-09-25T17:29:23.117Z,"4 km ESE of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-09-25T17:27:00.840Z,38.8143349,-122.814003,2.95,1.03,md,14,53,0.009553,0.02,nc,nc73941826,2023-09-25T17:28:35.561Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.87,0.21,16,automatic,nc,nc
 2023-09-25T17:17:25.519Z,65.2985,-157.9759,0.3,2.2,ml,,,,0.37,ak,ak023cbi92rr,2023-09-25T17:20:15.249Z,"48 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T17:15:18.820Z,35.1943333,-118.131,6.73,1.09,ml,11,82,0.07,0.15,ci,ci40572240,2023-09-25T17:18:54.505Z,"15 km WNW of California City, CA",earthquake,0.31,0.74,0.157,13,automatic,ci,ci
 2023-09-25T17:06:32.041Z,61.8,-150.6474,51.6,1.1,ml,,,,0.37,ak,ak023cbi6qec,2023-09-25T17:08:32.717Z,"29 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -61,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T09:18:51.720Z,19.1438331604004,-155.377670288086,29.2600002288818,1.85000002,md,42,182,,0.100000001,hv,hv73585037,2023-09-25T09:22:05.200Z,"Island of Hawaii, Hawaii",earthquake,0.59,1.00999999,1.48000002,10,automatic,hv,hv
 2023-09-25T09:17:27.400Z,34.0625,-117.254,13.4,0.87,ml,32,55,0.06032,0.18,ci,ci40572072,2023-09-25T09:21:05.002Z,"2 km NNE of Loma Linda, CA",earthquake,0.24,0.69,0.138,21,automatic,ci,ci
 2023-09-25T09:10:06.640Z,36.6833344,-121.3526688,3.81,2.61,md,47,54,0.02458,0.19,nc,nc73941686,2023-09-25T16:51:12.426Z,"12 km SSW of Tres Pinos, CA",earthquake,0.27,0.97,0.15,55,automatic,nc,nc
+2023-09-25T09:09:01.250Z,57.085,-135.713333333333,7.62,1.04,ml,6,114,,0.19,av,av91116598,2023-09-25T17:29:38.800Z,"23 km W of Sitka, Alaska",earthquake,1.42,0.84,0.298349116278251,6,reviewed,av,av
 2023-09-25T09:02:20.473Z,28.921,-97.969,4.9643,3.3,ml(texnet),20,58,0.1,0.3,tx,tx2023sunf,2023-09-25T10:19:29.835Z,"Southern Texas",earthquake,1.512195435,2.525831543,0.2,11,reviewed,tx,tx
 2023-09-25T08:53:43.090Z,38.7798347,-122.7085037,2.13,1.09,md,9,118,0.01369,0.02,nc,nc73941681,2023-09-25T08:55:16.099Z,"2 km WNW of Anderson Springs, CA",earthquake,0.54,0.9,0.07,8,automatic,nc,nc
 2023-09-25T08:48:32.981Z,68.8932,-147.3165,0.1,1.7,ml,,,,0.79,ak,ak023cbd2u2c,2023-09-25T08:51:07.107Z,"112 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -146,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T00:40:31.129Z,34.48,-97.77266667,19.89,3.68,ml,97,47,0,0.36,ok,ok2023stwr,2023-09-25T15:17:23.137Z,"9 km WNW of Velma, Oklahoma",earthquake,,0.7,0.23,32,reviewed,ok,ok
 2023-09-25T00:29:23.672Z,60.053,-152.8584,95.8,1.3,ml,,,,0.13,ak,ak023cb879xr,2023-09-25T00:30:41.400Z,"63 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-25T00:22:20.180Z,35.03,-117.6805,0.25,1.34,ml,18,69,0.09627,0.3,ci,ci40571888,2023-09-25T00:25:51.207Z,"4 km NW of Boron, CA",quarry blast,0.76,31.61,0.128,18,automatic,ci,ci
-2023-09-25T00:15:30.002Z,63.0918,-151.7226,0.2,1.8,ml,,,,0.76,ak,ak023cb84aeg,2023-09-25T00:17:55.864Z,"50 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-25T00:15:30.002Z,63.0918,-151.7226,0.2,1.8,ml,,,,0.76,ak,ak023cb84aeg,2023-09-25T00:17:55.864Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T00:14:55.240Z,35.4225,-118.4296667,7.89,0.99,ml,12,123,0.1311,0.17,ci,ci40571880,2023-09-25T00:18:30.292Z,"19 km SSE of Bodfish, CA",earthquake,0.51,2.71,0.112,8,automatic,ci,ci
 2023-09-25T00:03:20.102Z,61.4874,-149.8803,32.8,2,ml,,,,0.25,ak,ak023cb81p1m,2023-09-25T00:04:46.463Z,"5 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T00:02:43.930Z,19.1873340606689,-155.488830566406,33.4900016784668,1.73000002,md,27,124,,0.109999999,hv,hv73584892,2023-09-25T00:05:54.980Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.01,1.41999996,1.73000002,4,automatic,hv,hv
