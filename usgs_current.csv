@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T07:02:46.195Z,62.8092,-148.5186,15.9,1.4,ml,,,,0.32,ak,ak023cczqx2j,2023-09-26T07:04:11.192Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-26T07:00:16.838Z,62.7389,-148.6271,3.9,1.9,ml,,,,0.62,ak,ak023cczqfbz,2023-09-26T07:01:48.580Z,"74 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-26T06:53:26.306Z,34.9049,73.8899,10,4.5,mb,34,93,1.353,1,us,us7000ky4x,2023-09-26T07:12:13.040Z,"Pakistan",earthquake,8.01,1.897,0.151,13,reviewed,us,us
-2023-09-26T06:50:36.670Z,34.0616667,-116.7031667,7.87,1.24,ml,43,36,0.05133,0.17,ci,ci40572600,2023-09-26T06:54:09.637Z,"11 km W of Morongo Valley, CA",earthquake,0.21,0.57,0.151,27,automatic,ci,ci
+2023-09-26T06:50:36.610Z,34.0605,-116.7035,7.87,1.24,ml,57,55,0.05107,0.14,ci,ci40572600,2023-09-26T15:45:56.307Z,"11 km W of Morongo Valley, CA",earthquake,0.13,0.34,0.127,28,reviewed,ci,ci
 2023-09-26T06:50:30.291Z,-10.3026,161.4958,80.934,4.7,mb,24,105,1.751,1.18,us,us7000ky4w,2023-09-26T07:07:18.040Z,"Solomon Islands",earthquake,10.07,8.968,0.127,19,reviewed,us,us
 2023-09-26T06:42:21.759Z,62.1683,-149.4537,34.6,2.6,ml,,,,0.56,ak,ak023ccze06z,2023-09-26T07:14:28.040Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T06:38:20.180Z,37.4603333,-113.9676667,-1.6,1.2,md,7,236,0.08815,0.08,uu,uu60550877,2023-09-26T13:14:42.170Z,"Utah",earthquake,0.95,2.18,0.196,6,reviewed,uu,uu
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T02:20:30.379Z,36.3695,-98.16216667,7.55,2.27,ml,88,71,0.04229170093,0.18,ok,ok2023svvl,2023-09-26T11:55:23.874Z,"Oklahoma",earthquake,,0.4,0.22,43,reviewed,ok,ok
 2023-09-26T02:11:32.560Z,38.8356667,-122.8006668,2,0.2,md,8,70,0.008514,0.01,nc,nc73941971,2023-09-26T02:13:05.820Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.06,0.08,8,automatic,nc,nc
 2023-09-26T01:44:49.488Z,38.0192,-118.011,0.8,1.1,ml,8,123.71,0.181,0.2826,nn,nn00866344,2023-09-26T01:47:20.869Z,"39 km N of Dyer, Nevada",earthquake,,13.1,0.72,4,automatic,nn,nn
-2023-09-26T01:39:43.051Z,4.7145,127.4999,90.322,5.9,mww,122,44,3.021,0.75,us,us7000ky3a,2023-09-26T13:49:39.448Z,"233 km SE of Pondaguitan, Philippines",earthquake,9,3.716,0.061,26,reviewed,us,us
+2023-09-26T01:39:43.051Z,4.7145,127.4999,90.322,5.9,mww,122,44,3.021,0.75,us,us7000ky3a,2023-09-26T15:43:13.040Z,"233 km SE of Pondaguitan, Philippines",earthquake,9,3.716,0.061,26,reviewed,us,us
 2023-09-26T01:00:41.280Z,38.8274994,-122.8466644,0.5,0.78,md,7,164,0.01009,0.05,nc,nc73941961,2023-09-26T01:02:16.116Z,"10 km NW of The Geysers, CA",earthquake,0.42,0.81,0.12,7,automatic,nc,nc
 2023-09-26T00:59:49.108Z,39.739,-120.5633,8.5,1.7,ml,11,195.35,0.138,0.1847,nn,nn00866350,2023-09-26T04:21:46.404Z,"Northern California",earthquake,,3,0.24,6,reviewed,nn,nn
 2023-09-26T00:59:04.110Z,35.6361667,-117.5641667,3.4,1.2,ml,23,88,0.118,0.14,ci,ci40572504,2023-09-26T13:56:12.286Z,"10 km E of Ridgecrest, CA",earthquake,0.21,1.01,0.132,13,reviewed,ci,ci
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T16:00:20.410Z,17.9748333333333,-66.8553333333333,10.91,2.22,md,6,195,0.02277,0.12,pr,pr71425858,2023-09-25T16:13:59.010Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,2.5,1.11,0.00626960854118597,3,reviewed,pr,pr
 2023-09-25T16:00:12.820Z,19.3331666666667,-155.1435,1.25,3.02,ml,48,91,,0.17,hv,hv73585172,2023-09-25T22:14:15.892Z,"14 km S of Fern Forest, Hawaii",earthquake,0.26,0.33,0.176328479081617,42,reviewed,hv,hv
 2023-09-25T15:51:04.930Z,59.8971,-153.1359,118.9,1.8,ml,,,,0.12,ak,ak023cbh9gbh,2023-09-25T16:22:20.477Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-25T15:48:49.340Z,-6.95,130.0029,90.621,4.7,mb,51,87,2.414,0.67,us,us7000ky06,2023-09-25T16:28:21.040Z,"Banda Sea",earthquake,9.02,2.358,0.089,38,reviewed,us,us
