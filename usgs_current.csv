@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T11:57:51.164Z,63.0589,-150.4707,115.7,1.7,ml,,,,0.19,ak,ak023cepzsr0,2023-09-27T11:59:13.611Z,"64 km NNE of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-09-27T11:56:08.590Z,38.838665,-122.836998,1.59,1.09,md,19,118,0.001182,0.02,nc,nc73942536,2023-09-27T11:57:45.185Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.38,0.14,21,automatic,nc,nc
+2023-09-27T11:38:01.390Z,18.0336666666667,-68.1988333333333,63.52,3.44,md,11,231,0.2583,0.4,pr,pr71426113,2023-09-27T11:59:16.440Z,"Mona Passage",earthquake,2.9,2.29,0.0698014569625627,4,reviewed,pr,pr
 2023-09-27T11:04:21.028Z,61.0311,-151.0809,20.6,1.5,ml,,,,0.13,ak,ak023cepodgo,2023-09-27T11:06:37.438Z,"5 km SE of Tyonek, Alaska",earthquake,,5.8,,,automatic,ak,ak
 2023-09-27T10:56:41.829Z,-40.776,172.7532,10,4.2,mb,12,184,0.177,1.02,us,us6000lb2h,2023-09-27T11:14:37.040Z,"9 km NNW of Takaka, New Zealand",earthquake,3.05,1.861,0.236,5,reviewed,us,us
 2023-09-27T10:48:19.690Z,32.6591667,-115.7215,5.33,1.27,ml,17,68,0.01064,0.17,ci,ci40573312,2023-09-27T10:52:00.951Z,"16 km NW of Progreso, B.C., MX",earthquake,0.32,0.4,0.271,10,automatic,ci,ci
@@ -41,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T05:27:58.180Z,37.519001,-118.8541641,5.85,2.84,md,23,113,0.07365,0.03,nc,nc73942461,2023-09-27T08:07:21.118Z,"16 km WSW of Toms Place, CA",earthquake,0.49,0.83,0.1,30,automatic,nc,nc
 2023-09-27T05:05:24.990Z,35.7483333,-117.998,1.83,1.5,ml,23,42,0.1198,0.13,ci,ci40573272,2023-09-27T05:16:07.150Z,"20 km NW of Inyokern, CA",earthquake,0.16,0.49,0.222,14,automatic,ci,ci
 2023-09-27T04:56:51.960Z,36.1173325,-120.2118301,9.33,1.5,md,7,195,0.03614,0.06,nc,nc73942446,2023-09-27T04:58:29.156Z,"13 km E of Coalinga, CA",earthquake,1.06,0.58,0.13,5,automatic,nc,nc
-2023-09-27T04:21:41.727Z,62.8856,-150.9079,92,1.4,ml,,,,0.57,ak,ak023celm10c,2023-09-27T04:23:47.218Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-27T04:21:41.727Z,62.8856,-150.9079,92,1.4,ml,,,,0.57,ak,ak023celm10c,2023-09-27T04:23:47.218Z,"43 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-27T03:57:44.620Z,33.2215,-116.3833333,2.29,0.94,ml,22,84,0.05452,0.18,ci,ci40573256,2023-09-27T04:01:33.227Z,"4 km SSW of Borrego Springs, CA",earthquake,0.28,0.46,0.128,25,automatic,ci,ci
 2023-09-27T03:48:58.830Z,38.8276672,-122.807663,1.33,0.28,md,8,77,0.004663,0.01,nc,nc73942436,2023-09-27T03:50:33.238Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.77,0.15,10,automatic,nc,nc
 2023-09-27T03:43:28.848Z,60.5444,-142.785,31,1,ml,,,,0.24,ak,ak023cel5a5w,2023-09-27T03:45:07.152Z,"99 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -189,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"16 km ESE of Lincoln, Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-26T11:57:29.570Z,58.1746666666667,-155.333333333333,2.18,-0.19,ml,9,78,,0.07,av,av92059471,2023-09-27T01:56:04.680Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.4,0.222069324021699,9,reviewed,av,av
-2023-09-26T11:56:40.230Z,37.8321648,-121.8024979,0.87,2,md,18,77,0.1126,0.22,nc,nc73942086,2023-09-26T11:58:15.880Z,"9 km E of Blackhawk, CA",earthquake,0.49,2.74,0.16,11,automatic,nc,nc
