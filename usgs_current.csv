@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-28T17:08:41.040Z,35.049,-118.3301667,0.18,0.98,ml,12,105,0.05901,0.19,ci,ci40573936,2023-09-28T17:12:13.975Z,"14 km W of Mojave, CA",earthquake,0.53,31.61,0.118,9,automatic,ci,ci
+2023-09-28T17:08:40.780Z,35.0568333,-118.3421667,-0.93,0.87,ml,15,52,0.06608,0.16,ci,ci40573936,2023-09-28T17:40:19.144Z,"13 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.099,4,reviewed,ci,ci
 2023-09-28T17:04:43.887Z,59.523,-153.5002,118.6,1.8,ml,,,,0.36,ak,ak023cggsdd0,2023-09-28T17:06:51.241Z,"45 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T16:47:26.320Z,17.962,-66.944,10.05,2.92,md,20,197,0.03515,0.18,pr,pr71426393,2023-09-28T17:12:14.930Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.52,0.44,0.132170562258038,8,reviewed,pr,pr
 2023-09-28T16:21:38.127Z,61.713,-147.4582,21.6,2,ml,,,,0.79,ak,ak023cggakd9,2023-09-28T17:30:13.483Z,"14 km SE of Glacier View, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -154,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T23:39:06.220Z,38.8289986,-122.8096695,2.03,1.14,md,20,42,0.005604,0.02,nc,nc73942766,2023-09-27T23:40:44.041Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.43,0.18,23,automatic,nc,nc
 2023-09-27T23:35:20.247Z,60.1011,-152.6195,86.2,1.4,ml,,,,0.05,ak,ak023cex07vc,2023-09-27T23:36:36.033Z,"52 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-09-27T23:26:07.080Z,37.8536667,-113.0616667,13.73,1.04,md,9,174,0.2563,0.06,uu,uu60551007,2023-09-28T13:53:55.620Z,"9 km NNW of Enoch, Utah",earthquake,0.54,0.92,0.212,7,reviewed,uu,uu
+2023-09-27T23:05:34.570Z,36.3625,-98.16116667,6.28,1.31,ml,31,83,0.03689276038,0.22,ok,ok2023szga,2023-09-28T17:40:56.766Z,"3 km SSE of Meno, Oklahoma",earthquake,,0.5,0.19,4,reviewed,ok,ok
 2023-09-27T23:01:57.740Z,35.8601685,-120.4008331,5.07,2.27,md,37,81,0.02143,0.06,nc,nc73942756,2023-09-27T23:33:12.935Z,"5 km SSE of Parkfield, CA",earthquake,0.18,0.27,0.13,29,automatic,nc,nc
 2023-09-27T22:56:22.500Z,38.8366661,-122.8375015,0.95,0.86,md,10,84,0.002482,0.03,nc,nc73942746,2023-09-27T22:57:58.813Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.86,0.37,12,automatic,nc,nc
 2023-09-27T22:55:41.620Z,38.8380013,-122.8386688,1.62,0.76,md,9,112,0.002553,0.02,nc,nc73942741,2023-09-27T22:57:19.065Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.61,0.19,11,automatic,nc,nc
