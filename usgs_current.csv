@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T21:24:52.795Z,63.1105,-149.3881,89.7,1.5,ml,,,,0.16,ak,ak023clhwg9r,2023-10-01T21:26:21.809Z,"38 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-01T21:16:45.379Z,62.2083,-148.0303,13.4,1.9,ml,,,,0.55,ak,ak023clhupuw,2023-10-01T21:19:02.745Z,"48 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-01T21:07:09.380Z,34.3958333,-119.688,1.62,1.81,ml,25,115,0.05004,0.3,ci,ci40575224,2023-10-01T21:18:00.070Z,"3 km SSE of Santa Barbara, CA",earthquake,0.75,0.64,0.183,26,automatic,ci,ci
 2023-10-01T20:55:07.051Z,59.6115,-151.8877,51.9,2.1,ml,,,,0.61,ak,ak023clhhkc1,2023-10-01T20:57:15.508Z,"18 km S of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T19:57:11.426Z,63.8594,-149.0949,104.8,2,ml,,,,0.46,ak,ak023clgwkhy,2023-10-01T19:59:12.133Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-01T19:47:41.259Z,32.691,-100.7,5.2578,2.9,ml(texnet),13,64,0,0.2,tx,tx2023tghn,2023-10-01T20:24:31.409Z,"8 km NE of Hermleigh, Texas",earthquake,1.178129435,1.548084388,0.1,11,reviewed,tx,tx
 2023-10-01T19:44:44.580Z,40.3081665,-124.2921677,8.94,1.37,md,7,123,0.04331,0.02,nc,nc73944276,2023-10-01T19:46:18.865Z,"2 km SSW of Petrolia, CA",earthquake,0.63,1.39,0.11,4,automatic,nc,nc
-2023-10-01T19:29:36.760Z,40.2915,-124.2905,9.59,3.29,ml,40,115,0.0308,0.17,nc,nc73944271,2023-10-01T21:17:19.089Z,"4 km S of Petrolia, CA",earthquake,0.36,0.21,0.24,68,reviewed,nc,nc
+2023-10-01T19:29:36.760Z,40.2915,-124.2905,9.59,3.29,ml,40,115,0.0308,0.17,nc,nc73944271,2023-10-01T21:22:15.117Z,"4 km S of Petrolia, CA",earthquake,0.36,0.21,0.24,68,reviewed,nc,nc
 2023-10-01T19:25:33.060Z,17.882,-66.849,11.71,2.45,md,5,243,0.09693,0.09,pr,pr71427173,2023-10-01T20:01:01.960Z,"Puerto Rico region",earthquake,0.78,0.91,0.0475885076904539,5,reviewed,pr,pr
 2023-10-01T19:17:04.047Z,37.5251,-116.5267,0,1.2,ml,19,154.4,0.351,0.3639,nn,nn00866616,2023-10-01T19:19:34.569Z,"65 km ESE of Goldfield, Nevada",earthquake,,32.6,0.76,10,automatic,nn,nn
 2023-10-01T19:15:57.330Z,38.8208351,-122.7973328,-0.25,0.27,md,7,132,0.01295,0.02,nc,nc73944266,2023-10-01T19:17:33.515Z,"6 km NW of The Geysers, CA",earthquake,0.29,1.09,0.02,8,automatic,nc,nc
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T22:24:45.954Z,59.6398,-152.7484,103.5,2.6,ml,,,,0.35,ak,ak023cjuyiud,2023-09-30T22:50:24.040Z,"53 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T21:51:17.380Z,34.2088333,-117.5778333,6.69,1.9,ml,61,30,0.07325,0.22,ci,ci40574976,2023-10-01T16:04:51.673Z,"9 km SW of Lytle Creek, CA",earthquake,0.22,0.61,0.156,25,automatic,ci,ci
 2023-09-30T21:30:09.059Z,42.1177,77.1432,10,4.1,mb,27,125,0.039,0.64,us,us6000lbys,2023-10-01T02:50:17.274Z,"3 km SW of Kadzhi-Say, Kyrgyzstan",earthquake,3.53,1.961,0.213,6,reviewed,us,us
-2023-09-30T21:28:39.382Z,-20.6131,-67.9389,171.431,4.4,mb,21,122,1.508,0.75,us,us6000lbyr,2023-09-30T21:49:50.040Z,"Potosi, Bolivia",earthquake,5.81,9.302,0.24,5,reviewed,us,us
