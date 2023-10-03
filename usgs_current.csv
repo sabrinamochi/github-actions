@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T12:44:46.640Z,33.0726667,-115.5155,1.11,1.37,ml,6,296,0.1341,0.13,ci,ci40576024,2023-10-03T12:48:23.672Z,"6 km S of Calipatria, CA",earthquake,4.5,31.61,0.114,18,automatic,ci,ci
 2023-10-03T12:29:21.625Z,62.1666,-149.7305,48,1.2,ml,,,,0.67,ak,ak023conn8y1,2023-10-03T12:32:20.172Z,"6 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-03T12:16:51.799Z,37.3388,-117.1977,2.1,1.1,ml,23,127.14,0.372,0.2314,nn,nn00866676,2023-10-03T12:19:28.949Z,"California-Nevada border region",earthquake,,8.8,1.09,10,automatic,nn,nn
 2023-10-03T12:15:49.946Z,58.0963,-155.232,1.1,1.4,ml,,,,0.23,ak,ak023conkb5e,2023-10-03T12:17:57.178Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T11:38:04.600Z,29.905,139.967,11.906,6.1,mww,124,52,3.203,0.82,us,us6000lch5,2023-10-03T12:28:09.095Z,"Izu Islands, Japan region",earthquake,7.29,4.034,0.045,47,reviewed,us,us
 2023-10-03T11:36:51.050Z,33.1791667,-115.636,3.04,1.78,ml,25,45,0.01194,0.13,ci,ci40575976,2023-10-03T11:40:35.214Z,"13 km WNW of Calipatria, CA",earthquake,0.26,0.25,0.179,28,automatic,ci,ci
 2023-10-03T11:34:46.430Z,33.1681667,-115.6446667,1.9,1.71,ml,20,56,0.02379,0.22,ci,ci40575968,2023-10-03T11:38:18.277Z,"13 km WNW of Calipatria, CA",earthquake,0.66,0.95,0.212,27,automatic,ci,ci
+2023-10-03T11:34:11.158Z,29.5702,81.2593,10,4.8,mb,56,67,3.947,0.49,us,us6000lch4,2023-10-03T12:47:21.040Z,"Nepal",earthquake,8.74,1.854,0.076,53,reviewed,us,us
 2023-10-03T11:32:21.760Z,34.2445,-116.8973333,7.47,1.64,ml,59,36,0.0263,0.19,ci,ci40575960,2023-10-03T11:35:57.617Z,"1 km E of Big Bear Lake, CA",earthquake,0.23,0.52,0.128,28,automatic,ci,ci
 2023-10-03T11:28:27.430Z,33.1653333,-115.6445,2.62,2.16,ml,39,36,0.02556,0.19,ci,ci40575952,2023-10-03T11:39:04.200Z,"13 km WNW of Calipatria, CA",earthquake,0.27,0.48,0.21,27,automatic,ci,ci
 2023-10-03T11:27:57.291Z,36.7766,-116.2512,9.9,0.1,ml,13,94.91,0.048,0.037,nn,nn00866668,2023-10-03T11:29:56.946Z,"California-Nevada border region",earthquake,,0.9,0.3,8,automatic,nn,nn
@@ -147,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-10-02T16:24:50.378Z,-21.8767,-68.5751,130.933,4.5,mwr,42,48,1.107,1.11,us,us6000lc9w,2023-10-02T17:22:34.040Z,"Chile-Bolivia border region",earthquake,5.48,6.444,,,reviewed,us,guc
-2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"49 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-02T16:14:25.170Z,47.0375,-123.96866666666666,36.59,2.58,ml,44,53,0.04405,0.31,uw,uw61963546,2023-10-03T07:07:28.192Z,"8 km NW of Hoquiam, Washington",earthquake,0.58,0.84,0.22352185883621134,29,reviewed,uw,uw
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
@@ -170,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T13:33:12.300Z,42.95633333333333,-122.12583333333333,4.01,-0.65,md,3,195,0.02801,0.05,uw,uw61963501,2023-10-02T16:18:05.720Z,"37 km NE of Prospect, Oregon",earthquake,1.45,0.9,0.019332795558746285,2,reviewed,uw,uw
 2023-10-02T13:26:24.560Z,36.7554,139.7939,125.458,4.4,mb,64,126,1.292,0.8,us,us6000lc8v,2023-10-02T15:54:06.040Z,"eastern Honshu, Japan",earthquake,7.94,7.539,0.082,43,reviewed,us,us
 2023-10-02T13:15:21.426Z,29.888,139.842,120.161,4.4,mb,45,135,3.218,0.69,us,us6000lc8y,2023-10-02T16:05:39.040Z,"Izu Islands, Japan region",earthquake,12.37,8.118,0.092,34,reviewed,us,us
-2023-10-02T12:52:48.030Z,33.3215,-116.3525,12.31,1.35,ml,50,33,0.01332,0.18,ci,ci40575464,2023-10-02T23:41:03.000Z,"8 km NNE of Borrego Springs, CA",earthquake,0.18,0.45,0.177,26,reviewed,ci,ci
