@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T12:44:48.810Z,33.1728333,-115.6523333,2.99,1.41,ml,26,51,0.02699,0.21,ci,ci40576024,2023-10-03T13:51:34.262Z,"14 km WNW of Calipatria, CA",earthquake,0.29,0.47,0.183,20,reviewed,ci,ci
 2023-10-03T12:29:21.625Z,62.1666,-149.7305,48,1.2,ml,,,,0.67,ak,ak023conn8y1,2023-10-03T12:32:20.172Z,"6 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-03T12:16:51.799Z,37.3388,-117.1977,2.1,1.1,ml,23,127.14,0.372,0.2314,nn,nn00866676,2023-10-03T12:19:28.949Z,"California-Nevada border region",earthquake,,8.8,1.09,10,automatic,nn,nn
-2023-10-03T12:15:49.946Z,58.0963,-155.232,1.1,1.4,ml,,,,0.23,ak,ak023conkb5e,2023-10-03T12:17:57.178Z,"74 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-10-03T12:15:49.946Z,58.0963,-155.232,1.1,1.4,ml,,,,0.23,ak,ak023conkb5e,2023-10-03T12:17:57.178Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-10-03T12:14:38.649Z,61.6625,-150.354,43.8,1.7,ml,,,,0.3,ak,ak023conk2k8,2023-10-03T12:15:58.401Z,"15 km NNE of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-03T11:58:34.440Z,18.028,-66.9808333333333,14.15,2.44,md,6,116,0.07713,0.18,pr,pr71427398,2023-10-03T12:34:14.820Z,"4 km WSW of Liborio Negron Torres, Puerto Rico",earthquake,0.93,1.83,0.094132084086048,2,reviewed,pr,pr
 2023-10-03T11:53:18.172Z,29.5407,81.1899,10,4.5,mb,31,116,3.99,0.64,us,us6000lchg,2023-10-03T15:21:08.040Z,"39 km NE of Dipayal, Nepal",earthquake,10.23,1.919,0.104,27,reviewed,us,us
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T08:29:28.385Z,29.9142,139.8787,78.237,4.9,mb,42,132,3.192,0.64,us,us6000lcfe,2023-10-03T08:47:47.040Z,"Izu Islands, Japan region",earthquake,12.2,7.531,0.052,117,reviewed,us,us
 2023-10-03T08:25:43.840Z,33.2196667,-116.0365,10.11,2.44,ml,76,27,0.06744,0.21,ci,ci40575848,2023-10-03T14:48:20.980Z,"12 km SW of Salton City, CA",earthquake,0.15,0.4,0.172,82,reviewed,ci,ci
 2023-10-03T08:10:24.770Z,39.508,-112.0411667,3.05,1.01,md,8,103,0.1643,0.15,uu,uu60551372,2023-10-03T14:07:15.550Z,"16 km WSW of Levan, Utah",earthquake,0.54,5.44,0.046,3,reviewed,uu,uu
-2023-10-03T08:10:09.720Z,34.93816667,-96.028,5.91,0.93,ml,40,83,0.3473318416,0.25,ok,ok2023tjbn,2023-10-03T12:23:07.790Z,"5 km W of Arpelar, Oklahoma",earthquake,,1.3,0.32,13,reviewed,ok,ok
+2023-10-03T08:10:09.720Z,34.93816667,-96.028,5.91,0.93,ml,40,83,0.3473318416,0.25,ok,ok2023tjbn,2023-10-03T12:23:07.790Z,"Oklahoma",earthquake,,1.3,0.32,13,reviewed,ok,ok
 2023-10-03T07:55:43.300Z,39.7358,-120.6629,2.4,1.5,ml,9,276.4,0.267,0.1306,nn,nn00866666,2023-10-03T07:57:53.995Z,"3 km SE of Johnsville, California",earthquake,,12.4,0.3,6,automatic,nn,nn
 2023-10-03T07:51:24.697Z,60.7243,-147.0561,25.6,1.4,ml,,,,0.81,ak,ak023cokssyd,2023-10-03T07:59:43.772Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-03T07:25:26.129Z,36.38433333,-97.64716667,6.03,1.46,ml,88,35,0.1835639785,0.24,ok,ok2023tjaa,2023-10-03T11:59:09.585Z,"6 km ENE of Fairmont, Oklahoma",earthquake,,0.5,0.25,40,reviewed,ok,ok
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:46:09.520Z,38.7770004,-122.729332,1.12,1.64,md,24,73,0.008495,0.04,nc,nc73944631,2023-10-02T16:47:45.329Z,"2 km E of The Geysers, CA",earthquake,0.23,0.36,0.22,24,automatic,nc,nc
 2023-10-02T16:42:36.110Z,46.823,-121.17883333333333,3.35,1.22,ml,24,108,0.2594,0.22,uw,uw61963556,2023-10-02T20:46:05.560Z,"Washington",earthquake,0.46,1.15,0.2180593784389766,16,reviewed,uw,uw
 2023-10-02T16:30:29.489Z,32.7884,141.7915,10,4.6,mb,44,135,1.694,0.57,us,us6000lca0,2023-10-02T17:00:30.040Z,"294 km SSE of Katsuura, Japan",earthquake,5.41,1.775,0.107,26,reviewed,us,us
-2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
-2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
