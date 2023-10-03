@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T20:05:07.522Z,63.4914,-148.6297,82.6,1.9,ml,,,,0.35,ak,ak023cos9jk0,2023-10-03T20:07:08.401Z,"19 km NE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-03T20:01:41.304Z,57.853,-153.6055,35,2.4,ml,,,,0.3,ak,ak023cos8raq,2023-10-03T20:03:50.179Z,"41 km NNE of Larsen Bay, Alaska",earthquake,,26.3,,,automatic,ak,ak
 2023-10-03T19:50:59.443Z,60.0896,-152.5404,92.9,1.4,ml,,,,0.37,ak,ak023corxv6g,2023-10-03T19:52:22.433Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-10-03T19:49:42.500Z,33.8803333,-116.7036667,6.73,0.87,ml,18,118,0.1659,0.35,ci,ci40576344,2023-10-03T19:53:25.841Z,"9 km ESE of Cabazon, CA",earthquake,1.15,3.66,0.174,24,automatic,ci,ci
-2023-10-03T19:49:38.440Z,34.052,-116.6366667,11.62,1.13,ml,11,92,0.01639,0.33,ci,ci40576352,2023-10-03T19:53:40.150Z,"5 km W of Morongo Valley, CA",earthquake,1.14,1.51,0.195,7,automatic,ci,ci
+2023-10-03T19:49:38.570Z,34.101,-116.6401667,7.93,1.14,ml,17,110,0.06266,0.09,ci,ci40576352,2023-10-03T20:04:54.788Z,"8 km NW of Morongo Valley, CA",earthquake,0.2,0.45,0.074,6,reviewed,ci,ci
 2023-10-03T19:36:19.851Z,61.4171,-151.1372,60.8,1.5,ml,,,,0.42,ak,ak023corus1g,2023-10-03T19:51:39.736Z,"30 km N of Beluga, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-10-03T19:36:07.380Z,34.2431667,-116.9006667,8.74,1.48,ml,57,28,0.02532,0.13,ci,ci40576336,2023-10-03T20:02:01.920Z,"1 km E of Big Bear Lake, CA",earthquake,0.13,0.23,0.146,25,reviewed,ci,ci
 2023-10-03T19:30:07.690Z,32.7595,-116.9061667,6.11,1.38,ml,14,90,0.03873,0.16,ci,ci40576320,2023-10-03T19:52:19.944Z,"3 km ENE of Rancho San Diego, CA",quarry blast,0.35,0.93,0.134,11,reviewed,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T19:14:06.250Z,38.8178329,-122.7965012,0.7,0.27,md,8,75,0.009895,0.02,nc,nc73945071,2023-10-03T19:15:39.840Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.23,0.06,8,automatic,nc,nc
 2023-10-03T19:09:31.710Z,46.0015,-112.469666666667,-2,1.78,ml,12,80,0.06001,0.08,mb,mb90029058,2023-10-03T19:24:43.480Z,"5 km E of Butte, Montana",quarry blast,0.44,31.61,0.216476031392389,17,reviewed,mb,mb
 2023-10-03T19:08:36.292Z,58.7314,-155.0464,105.3,1.3,ml,,,,0.1,ak,ak023corotbh,2023-10-03T19:10:13.738Z,"80 km S of Kokhanok, Alaska",earthquake,,6,,,automatic,ak,ak
-2023-10-03T19:07:34.190Z,38.7816658,-122.7320023,0.23,0.79,md,7,115,0.004011,0.03,nc,nc73945066,2023-10-03T19:09:09.561Z,"2 km ENE of The Geysers, CA",earthquake,0.4,0.53,0.19,8,automatic,nc,nc
+2023-10-03T19:07:34.190Z,38.7816658,-122.7320023,0.23,0.79,md,7,115,0.004011,0.03,nc,nc73945066,2023-10-03T20:10:17.732Z,"2 km ENE of The Geysers, CA",earthquake,0.4,0.53,0.19,8,automatic,nc,nc
 2023-10-03T19:04:31.951Z,-19.8829,-173.664,31.184,5,mb,80,69,0.648,0.52,us,us6000lcl9,2023-10-03T19:56:55.040Z,"70 km ESE of Fangale’ounga, Tonga",earthquake,6.01,4.807,0.064,79,reviewed,us,us
 2023-10-03T19:00:28.520Z,19.1604995727539,-155.474166870117,33.4799995422363,1.85000002,md,37,112,,0.119999997,hv,hv73590807,2023-10-03T19:03:42.570Z,"4 km S of Pāhala, Hawaii",earthquake,0.64,0.949999988,0.899999976,7,automatic,hv,hv
 2023-10-03T18:58:24.927Z,3.4069,-84.1708,14.706,4.6,mb,104,154,5.043,0.66,us,us6000lckv,2023-10-03T19:29:13.040Z,"off the coast of Central America",earthquake,7.87,4.901,0.059,91,reviewed,us,us
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T13:27:07.570Z,32.9161667,-116.2473333,9.48,1.24,ml,47,53,0.06075,0.23,ci,ci40576048,2023-10-03T16:16:00.450Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.22,0.5,0.148,22,reviewed,ci,ci
 2023-10-03T13:20:32.247Z,38.9064,71.8714,10,4.7,mb,60,112,1.409,0.91,us,us6000lcht,2023-10-03T14:29:09.040Z,"Tajikistan",earthquake,9.06,1.914,0.08,47,reviewed,us,us
 2023-10-03T13:20:25.730Z,38.8303337,-122.817337,1.77,0.83,md,7,100,0.008955,0.02,nc,nc73944956,2023-10-03T13:52:15.552Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.28,0.3,8,automatic,nc,nc
-2023-10-03T13:15:41.167Z,32.6631,-109.1169,5,3.3,ml,19,114,0.111,0.32,us,us6000lchs,2023-10-03T15:30:37.427Z,"3 km WSW of Franklin, Arizona",earthquake,2.49,1.977,0.051,50,reviewed,us,us
+2023-10-03T13:15:41.167Z,32.6631,-109.1169,5,3.3,ml,19,114,0.111,0.32,us,us6000lchs,2023-10-03T20:08:50.680Z,"3 km WSW of Franklin, Arizona",earthquake,2.49,1.977,0.051,50,reviewed,us,us
 2023-10-03T13:13:27.577Z,62.7171,-151.4544,88.8,1.9,ml,,,,0.78,ak,ak023coo59lh,2023-10-03T13:16:04.825Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-03T13:08:23.450Z,38.8313332,-122.8166656,1.88,1.08,md,21,51,0.009452,0.02,nc,nc73944946,2023-10-03T13:31:15.448Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.45,0.13,22,automatic,nc,nc
 2023-10-03T12:55:39.822Z,62.4906,-149.788,15.5,1.5,ml,,,,0.48,ak,ak023consv0e,2023-10-03T12:57:44.136Z,"16 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
