@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T05:52:53.070Z,38.8274994,-122.8506699,1.61,1.05,md,20,74,0.004845,0.02,nc,nc73944881,2023-10-03T05:54:30.765Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.39,0.2,21,automatic,nc,nc
+2023-10-03T05:49:51.580Z,37.3185005,-122.0631638,5.4,1.89,md,32,79,0.0278,0.1,nc,nc73944876,2023-10-03T05:57:29.463Z,"3 km W of Cupertino, CA",earthquake,0.18,0.31,0.13,20,automatic,nc,nc
 2023-10-03T05:23:07.680Z,38.7938347,-122.7561646,0.69,0.86,md,11,86,0.01851,0.03,nc,nc73944871,2023-10-03T05:24:41.100Z,"2 km N of The Geysers, CA",earthquake,0.28,0.79,0.27,11,automatic,nc,nc
 2023-10-03T05:04:20.380Z,38.8146667,-122.8201675,2.98,1.08,md,21,51,0.009115,0.02,nc,nc73944866,2023-10-03T05:05:56.180Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.14,24,automatic,nc,nc
 2023-10-03T04:55:02.470Z,38.8243332,-122.7651672,1.96,0.74,md,11,123,0.007163,0.02,nc,nc73944861,2023-10-03T05:46:13.946Z,"4 km W of Cobb, CA",earthquake,0.38,0.61,0.05,11,automatic,nc,nc
@@ -105,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T15:37:59.194Z,59.6643,-153.0802,103.2,2,ml,,,,0.25,ak,ak023cn1xzui,2023-10-02T16:31:46.040Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-02T15:10:43.403Z,63.9134,-149.4672,106.2,1.6,ml,,,,0.37,ak,ak023cn1s6dw,2023-10-02T15:12:46.572Z,"20 km SW of Ferry, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-02T15:07:04.220Z,17.9316666666667,-66.9446666666667,8.44,2.46,md,5,225,0.07575,0.09,pr,pr71427283,2023-10-02T15:21:48.040Z,"Puerto Rico region",earthquake,1.07,1.61,0.0379700160802658,2,reviewed,pr,pr
-2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
+2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"9 km SSE of Darrington, Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
 2023-10-02T14:38:08.870Z,38.8081665,-122.8276672,1.73,0.74,md,9,98,0.001373,0.01,nc,nc73944606,2023-10-02T14:39:45.081Z,"7 km WNW of The Geysers, CA",earthquake,0.35,0.7,0.42,9,automatic,nc,nc
 2023-10-02T14:35:52.767Z,60.8033,-151.0336,57.4,1.7,ml,,,,0.45,ak,ak023cn1c4ek,2023-10-02T14:38:00.035Z,"18 km NE of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-02T14:29:33.603Z,26.0678,97.012,37.039,4.3,mb,25,93,5.207,0.7,us,us6000lc9d,2023-10-02T16:24:37.040Z,"25 km SE of Sarupathar, India",earthquake,7.59,9.908,0.154,14,reviewed,us,us
@@ -189,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T06:28:19.058Z,-6.8156,129.9244,89.923,5,mb,66,107,6.107,0.66,us,us6000lc7c,2023-10-02T06:46:48.040Z,"Banda Sea",earthquake,11.67,8.017,0.061,85,reviewed,us,us
 2023-10-02T06:13:51.855Z,61.0482,-148.1324,7.7,1,ml,,,,0.84,ak,ak023cmwfxqp,2023-10-02T06:15:34.977Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-02T06:00:21.570Z,32.9943333,-116.2105,11.17,1.08,ml,30,105,0.08755,0.15,ci,ci40575368,2023-10-03T00:38:07.981Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.45,0.129,20,reviewed,ci,ci
-2023-10-02T05:59:09.867Z,61.2707,-147.6508,0.1,1.7,ml,,,,0.78,ak,ak023cmw49u2,2023-10-02T06:01:13.000Z,"59 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-02T05:53:15.890Z,40.1996651,-121.5425034,9.19,2.16,md,8,190,0.2174,0.04,nc,nc73944441,2023-10-02T06:14:14.075Z,"18 km S of Mineral, CA",earthquake,0.84,2.16,0.15,9,automatic,nc,nc
