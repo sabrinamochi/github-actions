@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T10:04:12.540Z,38.795166,-122.7289963,0.68,1.09,md,10,181,0.01336,0.04,nc,nc73945266,2023-10-04T10:05:47.551Z,"3 km S of Cobb, CA",earthquake,0.54,0.87,0.26,10,automatic,nc,nc
 2023-10-04T09:31:58.880Z,18.9728336334229,-155.458999633789,35.6500015258789,2.25,md,54,224,,0.109999999,hv,hv73591362,2023-10-04T09:35:18.440Z,"Hawaii region, Hawaii",earthquake,0.65,0.819999993,1.38,27,automatic,hv,hv
 2023-10-04T09:20:48.183Z,39.7534,-120.6323,7.2,1.4,ml,8,277.69,0.238,0.0856,nn,nn00866727,2023-10-04T09:23:00.352Z,"1 km SW of Graeagle, California",earthquake,,22.4,0.2,4,automatic,nn,nn
 2023-10-04T09:09:34.140Z,35.396,-118.2163333,8.11,1.44,ml,27,45,0.1534,0.14,ci,ci40576632,2023-10-04T09:20:33.840Z,"33 km SE of Bodfish, CA",earthquake,0.2,1.13,0.224,20,automatic,ci,ci
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T07:40:56.609Z,63.6102,-147.8298,6.6,3.6,ml,,,,0.91,ak,ak023cq89uz6,2023-10-04T07:51:47.502Z,"55 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-04T07:34:43.777Z,63.6302,-149.3946,103.7,1.9,ml,,,,0.41,ak,ak023cq88jqx,2023-10-04T07:36:51.561Z,"26 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-04T07:30:53.070Z,38.8236656,-122.8105011,1.39,1.08,md,20,59,0.0004293,0.03,nc,nc73945231,2023-10-04T07:56:47.099Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.35,0.13,22,automatic,nc,nc
-2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-04T09:08:42.319Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
+2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-04T10:11:29.969Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
 2023-10-04T07:01:04.170Z,38.6865005,-122.4948349,3.84,1.12,md,5,126,0.09249,0.05,nc,nc73945216,2023-10-04T07:18:14.509Z,"13 km SE of Middletown, CA",earthquake,0.47,4.16,0.14,4,automatic,nc,nc
 2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T07:10:18.840Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,automatic,ci,ci
 2023-10-04T06:39:39.680Z,32.8396667,-116.0483333,1.48,0.73,ml,11,79,0.08154,0.27,ci,ci40576616,2023-10-04T06:43:11.271Z,"13 km NNW of Ocotillo, CA",earthquake,0.56,1.03,0.102,4,automatic,ci,ci
@@ -240,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T10:43:56.420Z,58.108,-155.274833333333,3.72,0.09,ml,4,130,,0.04,av,av91117253,2023-10-04T01:38:17.040Z,"77 km NW of Karluk, Alaska",earthquake,0.3,1.27,0.181779867785516,4,reviewed,av,av
 2023-10-03T10:43:31.280Z,33.1951667,-116.04,5.41,0.96,ml,29,50,0.05651,0.21,ci,ci40575880,2023-10-03T15:05:19.090Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.25,0.56,0.16,17,reviewed,ci,ci
 2023-10-03T10:26:21.010Z,38.7836685,-122.7648315,11.44,0.56,md,7,187,0.01295,0.05,nc,nc73944926,2023-10-03T10:27:57.086Z,"1 km NW of The Geysers, CA",earthquake,2.46,7.78,0.3,9,automatic,nc,nc
-2023-10-03T10:09:21.520Z,38.8339996,-122.8071671,2.01,0.76,md,10,101,0.01083,0.02,nc,nc73944921,2023-10-03T10:10:57.259Z,"7 km W of Cobb, CA",earthquake,0.35,0.94,0.24,12,automatic,nc,nc
-2023-10-03T10:05:33.160Z,35.8008333,-117.6283333,7.85,1.3,ml,22,102,0.1113,0.16,ci,ci40575872,2023-10-03T15:00:44.780Z,"20 km NNE of Ridgecrest, CA",earthquake,0.27,1.04,0.085,11,reviewed,ci,ci
-2023-10-03T10:04:23.500Z,38.8463326,-122.8151703,1.25,0.19,md,10,61,0.01048,0.01,nc,nc73944911,2023-10-03T10:05:57.125Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.78,0.1,10,automatic,nc,nc
