@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T17:21:27.670Z,19.1778335571289,-155.50016784668,31.3999996185303,2.28,ml,50,98,,0.100000001,hv,hv73591772,2023-10-04T17:26:59.040Z,"3 km SW of Pāhala, Hawaii",earthquake,0.44,0.75999999,3.12,8,automatic,hv,hv
 2023-10-04T17:06:12.080Z,44.7901667,-111.0906667,10.89,0.18,md,7,137,0.01277,0.13,uu,uu60551652,2023-10-04T18:14:45.040Z,"8 km ENE of Hebgen Lake Estates, Montana",earthquake,0.69,1.02,0.282,4,reviewed,uu,uu
 2023-10-04T17:05:32.790Z,38.8131676,-122.8291702,7.34,1,md,12,93,0.004293,0.1,nc,nc73945416,2023-10-04T17:24:13.002Z,"8 km WNW of The Geysers, CA",earthquake,1.11,1.56,0.24,15,automatic,nc,nc
+2023-10-04T17:04:42.320Z,54.756,-163.975166666667,5.72,0.89,ml,5,95,,0.33,av,av92073536,2023-10-04T23:59:04.980Z,"37 km WSW of False Pass, Alaska",earthquake,0.98,2.58,0.30348710492376,5,reviewed,av,av
 2023-10-04T16:53:22.930Z,47.63966666666666,-122.48416666666667,31.31,1.71,ml,34,66,0.05346,0.28,uw,uw61963986,2023-10-04T18:31:52.340Z,"3 km ENE of Bainbridge Island, Washington",earthquake,0.46,0.87,0.18095783537144539,20,reviewed,uw,uw
 2023-10-04T16:51:35.820Z,38.8264999,-122.8570023,2.34,1.27,md,21,97,0.001048,0.03,nc,nc73945411,2023-10-04T19:35:17.764Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.43,0.12,22,automatic,nc,nc
 2023-10-04T16:47:22.210Z,64.4935,-147.9138,13.4,0.7,ml,,,,0.28,ak,ak023cqdo6u5,2023-10-04T16:49:27.594Z,"35 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T16:10:18.750Z,38.791832,-122.7603302,2.95,0.84,md,8,134,0.008793,0.01,nc,nc73945396,2023-10-04T18:41:15.467Z,"2 km NNW of The Geysers, CA",earthquake,0.46,1.58,0.12,7,automatic,nc,nc
 2023-10-04T16:09:51.200Z,46.1955,-122.19783333333334,4.88,-0.02,ml,11,121,0.009772,0.19,uw,uw61963971,2023-10-04T18:58:19.550Z,"37 km NNE of Amboy, Washington",earthquake,0.63,1.03,0.14944316103229716,4,reviewed,uw,uw
 2023-10-04T15:50:14.790Z,35.5101667,-118.3841667,9.28,1.6,ml,27,65,0.169,0.11,ci,ci40576856,2023-10-04T17:08:27.230Z,"13 km SE of Bodfish, CA",earthquake,0.14,0.59,0.158,12,reviewed,ci,ci
+2023-10-04T15:41:00.190Z,54.7585,-163.9745,-0.82,1.14,ml,5,93,,0.21,av,av92073301,2023-10-04T23:55:57.160Z,"37 km WSW of False Pass, Alaska",earthquake,0.34,0.33,0.166808777542668,5,reviewed,av,av
 2023-10-04T15:22:32.295Z,40.2041,-119.8175,4.4,0.6,ml,3,246.45,0.074,0.0441,nn,nn00866770,2023-10-04T23:22:43.240Z,"Nevada",earthquake,,25.2,0.35,2,reviewed,nn,nn
 2023-10-04T15:21:28.560Z,17.9541666666667,-66.9456666666667,7.13,2.53,md,13,209,0.03954,0.23,pr,pr71427488,2023-10-04T15:35:53.010Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.86,0.34,0.0327606511764895,4,reviewed,pr,pr
 2023-10-04T15:18:41.730Z,33.5078333,-116.4285,15.17,0.68,ml,12,195,0.0157,0.08,ci,ci40576832,2023-10-04T17:14:34.617Z,"20 km SSW of La Quinta, CA",earthquake,0.41,0.61,0.239,6,reviewed,ci,ci
@@ -188,7 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T03:39:38.820Z,44.7391667,-110.7978333,2.51,-0.8,md,5,142,0.06184,0.13,uu,uu60033784,2023-10-04T17:07:47.520Z,"25 km ENE of West Yellowstone, Montana",earthquake,0.47,7.91,0.556,3,reviewed,uu,uu
 2023-10-04T03:39:10.650Z,44.741,-110.7951667,2.12,0.55,ml,6,146,0.06159,0.11,uu,uu60551532,2023-10-04T17:06:43.340Z,"26 km ENE of West Yellowstone, Montana",earthquake,0.38,8.86,0.47,2,reviewed,uu,uu
 2023-10-04T03:35:54.318Z,61.1375,-149.7364,39.1,1.4,ml,,,,0.42,ak,ak023cq5v1uv,2023-10-04T03:37:41.471Z,"12 km SE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-04T03:35:10.816Z,19.1986,121.2321,27,5.7,mww,125,46,3.604,0.51,us,us6000lcpc,2023-10-04T23:50:21.059Z,"65 km N of Namuac, Philippines",earthquake,4.55,1.72,0.046,45,reviewed,us,us
+2023-10-04T03:35:10.816Z,19.1986,121.2321,27,5.7,mww,125,46,3.604,0.51,us,us6000lcpc,2023-10-04T23:52:35.087Z,"65 km N of Namuac, Philippines",earthquake,4.55,1.72,0.046,45,reviewed,us,us
 2023-10-04T03:33:15.222Z,60.8061,-151.16,76.8,1.2,ml,,,,0.18,ak,ak023cq5ujeq,2023-10-04T03:35:18.171Z,"14 km NNE of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-04T03:31:34.701Z,58.1825,-155.2754,1.3,0.1,ml,,,,0.27,ak,ak023cq5u5h0,2023-10-04T21:27:18.000Z,"83 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-04T03:26:26.240Z,44.7343333,-110.7903333,4.49,0.49,md,6,141,0.06894,0.23,uu,uu60033779,2023-10-04T17:01:02.090Z,"26 km ENE of West Yellowstone, Montana",earthquake,0.97,1.95,0.238,6,reviewed,uu,uu
@@ -244,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T00:05:47.680Z,38.8406677,-122.8361664,1.61,0.66,md,12,118,0.002142,0.01,nc,nc73945136,2023-10-04T00:42:14.232Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.71,0.44,12,automatic,nc,nc
 2023-10-04T00:04:55.540Z,19.7721,-65.404,61,3.99,md,8,322,1.4859,0.33,pr,pr2023277000,2023-10-04T03:16:09.040Z,"Puerto Rico region",earthquake,5.62,20.86,0.11,7,reviewed,pr,pr
 2023-10-04T00:01:54.060Z,34.0415,-117.2358333,15.65,2.44,ml,100,18,0.07474,0.15,ci,ci40576544,2023-10-04T00:23:54.580Z,"2 km ESE of Loma Linda, CA",earthquake,0.11,0.27,0.177,23,reviewed,ci,ci
-2023-10-03T23:58:06.022Z,29.6344,81.2315,20.893,4.2,mb,16,150,3.997,0.95,us,us6000lcn8,2023-10-04T03:01:11.040Z,"50 km NE of Dipayal, Nepal",earthquake,11.98,7.902,0.186,8,reviewed,us,us
-2023-10-03T23:54:47.219Z,36.37683333,-97.65433333,7,1.62,ml,35,49,0.1493706884,0.21,ok,ok2023tkgr,2023-10-04T14:35:02.834Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,0.5,0.1,3,reviewed,ok,ok
