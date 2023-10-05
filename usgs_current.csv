@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T11:56:23.690Z,38.8126678,-122.8231659,2.15,0.75,md,11,63,0.006038,0.01,nc,nc73945721,2023-10-05T11:57:56.520Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.67,0.17,11,automatic,nc,nc
 2023-10-05T11:41:31.177Z,60.3094,-140.1172,12.4,1.6,ml,,,,0.36,ak,ak023cry73p9,2023-10-05T11:43:18.396Z,"87 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T11:38:52.660Z,40.1525002,-121.0755005,1.41,2,md,6,147,0.1951,0.12,nc,nc73945716,2023-10-05T11:51:16.336Z,"2 km S of Canyondam, CA",earthquake,0.99,9.97,0.09,4,automatic,nc,nc
 2023-10-05T11:37:14.780Z,19.2603340148926,-155.402160644531,32.0800018310547,2.18,ml,50,125,,0.119999997,hv,hv73593077,2023-10-05T11:42:44.970Z,"10 km NE of Pāhala, Hawaii",earthquake,0.41,0.460000008,0.21,4,automatic,hv,hv
+2023-10-05T11:37:10.260Z,19.3608333333333,-155.301333333333,2.07,0.66,md,17,99,,0.09,hv,hv73593072,2023-10-05T11:56:01.400Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.38,0.0333748522614031,3,reviewed,hv,hv
 2023-10-05T11:32:06.590Z,38.8238335,-122.7638321,2.28,0.76,md,13,125,0.008154,0.02,nc,nc73945711,2023-10-05T11:51:15.336Z,"4 km W of Cobb, CA",earthquake,0.4,0.68,0.18,14,automatic,nc,nc
 2023-10-05T11:24:11.720Z,17.9371666666667,-66.8598333333333,13.44,2.33,md,5,219,0.04197,0.26,pr,pr71427548,2023-10-05T11:48:43.370Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,2.13,1.99,0.0263579596207471,2,reviewed,pr,pr
 2023-10-05T11:05:52.857Z,64.9801,-147.3543,4.8,1.5,ml,,,,0.57,ak,ak023crxzfeq,2023-10-05T11:07:52.268Z,"12 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -91,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T01:19:42.750Z,36.4093323,-120.9868317,6.61,1.72,md,18,118,0.03021,0.16,nc,nc73945571,2023-10-05T04:34:12.087Z,"20 km SE of Pinnacles, CA",earthquake,0.47,0.95,0.19,15,automatic,nc,nc
 2023-10-05T01:08:28.522Z,60.5844,-144.2103,11.6,2,ml,,,,0.65,ak,ak023crs1otg,2023-10-05T01:09:53.412Z,"85 km E of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-05T01:05:09.949Z,29.9862,139.8848,10,5.2,mww,67,132,3.12,0.99,us,us6000lcys,2023-10-05T01:22:18.040Z,"Izu Islands, Japan region",earthquake,3.89,1.884,0.078,16,reviewed,us,us
-2023-10-05T01:03:33.116Z,31.5591,-104.5186,7.084,2.7,ml,41,73,0.11,0.7,us,us6000lcyp,2023-10-05T01:32:12.040Z,"64 km NNE of Van Horn, Texas",earthquake,2.78,3.533,0.051,54,reviewed,us,us
+2023-10-05T01:03:33.558Z,31.616,-104.491,8.5224,2.7,ml(texnet),46,69,0.1,0.2,tx,tx2023tmel,2023-10-05T11:59:08.368Z,"62 km S of Whites City, New Mexico",earthquake,1.050475608,1.219505494,0.1,37,reviewed,tx,tx
 2023-10-05T01:02:42.300Z,19.1715,-155.476,30.68,1.4,md,15,160,,0.11,hv,hv73592202,2023-10-05T01:47:19.180Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.62,0.0435106887035328,10,reviewed,hv,hv
 2023-10-05T00:57:38.120Z,-22.7079,-67.6969,173.811,4.3,mb,27,92,0.507,0.69,us,us6000lcyn,2023-10-05T01:29:34.040Z,"56 km ENE of San Pedro de Atacama, Chile",earthquake,8.18,3.932,0.189,8,reviewed,us,us
 2023-10-05T00:55:58.040Z,17.6581666666667,-67.956,48.9,3.29,md,10,291,0.4172,0.19,pr,pr71427513,2023-10-05T01:25:51.770Z,"88 km WSW of Pole Ojea, Puerto Rico",earthquake,1.36,2.43,0.0382033322041917,4,reviewed,pr,pr
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T12:03:47.058Z,37.4442,-117.8923,12.2,0.8,ml,6,109.44,0.099,0.1288,nn,nn00866767,2023-10-05T02:04:02.132Z,"29 km SSE of Dyer, Nevada",earthquake,,2.7,0.25,3,reviewed,nn,nn
 2023-10-04T12:03:29.895Z,-22.7558,-174.6541,10,4.9,mb,39,90,2.93,0.74,us,us6000lcth,2023-10-04T12:28:53.040Z,"Tonga region",earthquake,9.36,1.859,0.075,55,reviewed,us,us
 2023-10-04T12:01:34.429Z,61.5994,-151.3336,73.8,1.3,ml,,,,0.32,ak,ak023cqb0mf6,2023-10-04T12:03:20.700Z,"43 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-04T11:59:34.289Z,34.94133333,-96.027,1.69,1.55,ml,54,83,0.3446323714,0.27,ok,ok2023tlep,2023-10-04T12:30:34.603Z,"5 km W of Arpelar, Oklahoma",earthquake,,1.1,0.24,15,reviewed,ok,ok
