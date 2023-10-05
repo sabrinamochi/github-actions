@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T14:08:39.130Z,17.9405,-66.8273333333333,9.17,2.56,md,7,218,0.0602,0.08,pr,pr71427573,2023-10-05T14:22:07.230Z,"Puerto Rico region",earthquake,0.6,0.57,0.0918689427577843,4,reviewed,pr,pr
 2023-10-05T14:05:07.420Z,19.3815,-155.278333333333,1.62,0.129999995,md,17,120,,0.1,hv,hv73593347,2023-10-05T14:23:18.740Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.22,,1,reviewed,hv,hv
 2023-10-05T14:02:49.790Z,38.8181648,-122.7956696,0,1.69,md,32,28,0.01019,0.06,nc,nc73945751,2023-10-05T15:18:15.476Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.3,0.13,32,automatic,nc,nc
-2023-10-05T14:02:46.360Z,33.9375,-116.8076667,22.07,0.77,ml,17,86,0.104,0.24,ci,ci40577552,2023-10-05T14:06:32.174Z,"3 km NW of Cabazon, CA",earthquake,0.6,1.13,0.162,14,automatic,ci,ci
+2023-10-05T14:02:46.850Z,33.923,-116.788,18.37,0.78,ml,21,55,0.08952,0.15,ci,ci40577552,2023-10-05T17:13:34.461Z,"1 km N of Cabazon, CA",earthquake,0.3,0.7,0.144,8,reviewed,ci,ci
 2023-10-05T14:02:43.720Z,36.4913333333333,-89.5738333333333,9.95,1.78,md,29,42,0.05405,0.04,nm,nm60554296,2023-10-05T16:49:15.610Z,"4 km SE of Marston, Missouri",earthquake,0.45,0.61,0.112829803225366,22,reviewed,nm,nm
 2023-10-05T14:01:46.450Z,38.8193321,-122.7981644,0.2,0.8,md,13,56,0.01015,0.05,nc,nc73945746,2023-10-05T14:47:18.321Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.52,0.14,14,automatic,nc,nc
 2023-10-05T14:01:04.230Z,19.3848333333333,-155.277666666667,0.95,0.32,md,15,74,,0.05,hv,hv73593337,2023-10-05T14:11:59.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.16,0.0439656596723368,2,reviewed,hv,hv
@@ -151,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T04:03:52.700Z,38.6913338,-122.4003296,5.16,1.7,md,18,69,0.06129,0.22,nc,nc73945636,2023-10-05T07:14:11.760Z,"14 km NNE of Angwin, CA",earthquake,0.51,1.44,0.08,14,automatic,nc,nc
 2023-10-05T04:00:42.167Z,60.9113,-147.6083,25.4,1.5,ml,,,,0.37,ak,ak023crtsayg,2023-10-05T04:02:19.212Z,"50 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-05T04:00:00.974Z,30.0442,139.847,10,5.2,mb,68,96,6.268,0.84,us,us6000lczr,2023-10-05T04:19:14.040Z,"Izu Islands, Japan region",earthquake,10.27,1.866,0.032,317,reviewed,us,us
+2023-10-05T03:57:16.440Z,46.2005,-122.1805,4.76,0.04,ml,12,97,0.04729,0.16,uw,uw61964186,2023-10-05T17:12:20.390Z,"Washington",earthquake,0.49,0.91,0.07633733801045517,6,reviewed,uw,uw
 2023-10-05T03:56:31.740Z,33.2743333,-116.78,11.38,0.57,ml,17,100,0.04219,0.15,ci,ci40577392,2023-10-05T13:27:44.413Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.3,0.61,0.186,12,reviewed,ci,ci
 2023-10-05T03:56:27.470Z,38.8303337,-122.8143311,2.3,1.31,md,25,43,0.007685,0.01,nc,nc73945631,2023-10-05T06:49:11.629Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.39,0.16,27,automatic,nc,nc
 2023-10-05T03:55:22.910Z,33.2746667,-116.7826667,11.78,1.07,ml,38,34,0.04347,0.15,ci,ci40577384,2023-10-05T15:47:51.880Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.53,0.148,20,reviewed,ci,ci
@@ -200,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T23:18:09.431Z,29.8673,140.0476,10,5.4,mww,123,52,3.244,1.01,us,us6000lcy1,2023-10-05T01:22:51.498Z,"Izu Islands, Japan region",earthquake,8.8,1.83,0.083,14,reviewed,us,us
 2023-10-04T23:06:10.370Z,46.1985,-122.18583333333333,0.57,0.03,ml,13,133,0.001716,0.1,uw,uw61964121,2023-10-05T04:22:51.180Z,"Washington",earthquake,0.42,0.28,0.2871741891322022,7,reviewed,uw,uw
 2023-10-04T23:04:28.802Z,32.116,-102.042,7.3609,2.2,ml(texnet),24,57,0.1,0.1,tx,tx2023tman,2023-10-05T13:26:35.574Z,"13 km NNE of Midland, Texas",earthquake,0.7957112782,1.231052434,0,7,reviewed,tx,tx
-2023-10-04T23:02:57.000Z,36.0088333,-117.7216667,1.55,1.4,ml,12,183,0.0979,0.14,ci,ci40577304,2023-10-04T23:06:27.947Z,"18 km ENE of Little Lake, CA",earthquake,0.46,0.59,0.125,8,automatic,ci,ci
+2023-10-04T23:02:56.970Z,36.0101667,-117.723,2.34,1.51,ml,17,152,0.03741,0.07,ci,ci40577304,2023-10-05T17:13:21.041Z,"18 km ENE of Little Lake, CA",earthquake,0.17,0.18,0.122,9,reviewed,ci,ci
 2023-10-04T22:55:05.698Z,63.0181,-151.548,0,1.4,ml,,,,1,ak,ak023cqhagx5,2023-10-04T22:57:24.631Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-04T22:50:08.530Z,36.5618324,-121.1546631,7.48,1.85,md,19,125,0.02663,0.05,nc,nc73945506,2023-10-05T02:14:11.056Z,"4 km NNW of Pinnacles, CA",earthquake,0.28,0.72,0.12,22,automatic,nc,nc
 2023-10-04T22:25:28.076Z,62.1326,-148.0155,36.4,1.2,ml,,,,0.85,ak,ak023cqh4344,2023-10-04T22:27:56.300Z,"40 km NNW of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
