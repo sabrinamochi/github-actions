@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T19:09:34.180Z,33.2291679,-117.1911697,4.22,1.27,ml,24,110,0.06211,0.24,ci,ci40577760,2023-10-05T19:11:39.763Z,"6 km NE of Vista, CA",earthquake,0.58,1.18,0.126,4,automatic,ci,ci
 2023-10-05T18:53:16.510Z,38.8375015,-122.8073349,2.09,0.72,md,12,63,0.0133,0.01,nc,nc73945911,2023-10-05T18:54:51.365Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.8,0.25,13,automatic,nc,nc
 2023-10-05T18:44:55.060Z,37.8323326,-121.9595032,7,1.42,md,10,89,0.03726,0.05,nc,nc73945891,2023-10-05T19:01:13.718Z,"0 km SSW of Diablo, CA",earthquake,0.3,0.82,0.19,10,automatic,nc,nc
 2023-10-05T18:09:38.920Z,33.752,-117.1043333,1.42,0.9,ml,23,43,0.04628,0.14,ci,ci40577736,2023-10-05T18:45:12.769Z,"3 km WNW of Green Acres, CA",earthquake,0.27,0.38,0.134,8,reviewed,ci,ci
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T16:15:16.340Z,46.201166666666666,-122.17716666666666,3.69,0.36,ml,18,73,0.005868,0.17,uw,uw61964246,2023-10-05T18:17:19.900Z,"Washington",earthquake,0.38,0.76,0.11441948904620962,13,reviewed,uw,uw
 2023-10-05T16:15:03.540Z,36.9505005,-121.6653366,4.76,1.71,md,5,209,0.01977,0.09,nc,nc73945816,2023-10-05T18:55:13.690Z,"6 km E of Interlaken, CA",earthquake,2.68,0.72,0.2,6,automatic,nc,nc
 2023-10-05T16:13:11.910Z,19.386,-155.279166666667,1.17,0.55,md,13,144,,0.07,hv,hv73593597,2023-10-05T16:49:02.510Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.24,0.0859569085087621,3,reviewed,hv,hv
-2023-10-05T16:03:28.080Z,19.3665,-155.296666666667,1.73,0.54,md,16,105,,0.07,hv,hv73593572,2023-10-05T16:18:58.100Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.33,0.109919278447749,2,reviewed,hv,hv
+2023-10-05T16:03:28.080Z,19.3665,-155.296666666667,1.73,0.54,md,16,105,,0.07,hv,hv73593572,2023-10-05T16:18:58.100Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.33,0.109919278447749,2,reviewed,hv,hv
 2023-10-05T16:02:08.510Z,19.3676666666667,-155.296666666667,1.92,0.68,md,17,104,,0.09,hv,hv73593567,2023-10-05T16:12:50.370Z,"10 km SW of Volcano, Hawaii",earthquake,0.21,0.33,0.0369304174347739,3,reviewed,hv,hv
 2023-10-05T16:01:14.714Z,58.2666,-133.585,2.4,2.9,ml,,,,0.33,ak,ak023cs0xntb,2023-10-05T16:03:36.058Z,"49 km E of Juneau, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-05T15:56:40.970Z,19.382833480835,-155.273498535156,0.479999989271164,1.79999995,md,12,98,,0.129999995,hv,hv73593552,2023-10-05T15:59:42.390Z,"7 km SSW of Volcano, Hawaii",earthquake,0.18,0.25,0.699999988,12,automatic,hv,hv
@@ -265,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T19:24:00.623Z,-26.3093,27.8584,5,3.7,ml,8,134,2.414,0.69,us,us6000ld3x,2023-10-05T13:43:17.306Z,"4 km S of Soweto, South Africa",earthquake,6.42,1.998,0.148,6,reviewed,us,us
 2023-10-04T19:17:17.160Z,34.32633333,-96.40933333,0,1.4,ml,32,111,0.1583689226,0.37,ok,ok2023tlta,2023-10-05T13:52:23.293Z,"5 km SSE of Wapanucka, Oklahoma",quarry blast,,0.6,0.14,6,reviewed,ok,ok
 2023-10-04T19:15:21.830Z,33.862,-117.5008333,-0.51,1.02,ml,28,52,0.05195,0.23,ci,ci40577088,2023-10-04T20:35:59.765Z,"3 km SE of Home Gardens, CA",quarry blast,0.46,31.61,0.134,11,reviewed,ci,ci
-2023-10-04T19:11:28.040Z,46.94733333333333,-120.547,-0.5,1.68,ml,17,93,0.04037,1.02,uw,uw61964046,2023-10-05T16:32:43.660Z,"5 km S of Ellensburg, Washington",earthquake,1.44,3.72,0.12269651284553029,13,reviewed,uw,uw
-2023-10-04T19:08:55.140Z,33.2161667,-116.1826667,11.21,1.5,ml,42,38,0.06157,0.22,ci,ci40577072,2023-10-04T19:48:42.252Z,"9 km NNW of Ocotillo Wells, CA",earthquake,0.24,0.55,0.14,24,reviewed,ci,ci
-2023-10-04T19:06:07.350Z,34.8571667,-118.7885,-1.09,1.36,ml,14,103,0.08099,0.23,ci,ci40577080,2023-10-05T18:17:48.451Z,"7 km ENE of Lebec, CA",quarry blast,0.53,31.61,0.101,13,reviewed,ci,ci
