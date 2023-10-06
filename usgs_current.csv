@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-06T15:55:28.387Z,60.7894,-151.5717,65.3,2.1,ml,,,,0.42,ak,ak023cto76fa,2023-10-06T15:57:22.767Z,"18 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-06T15:55:18.100Z,38.8236656,-122.8526688,2.26,0.94,md,17,84,0.005078,0.03,nc,nc73946316,2023-10-06T15:56:53.771Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.51,0.25,17,automatic,nc,nc
-2023-10-06T15:55:05.510Z,19.388500213623,-155.275665283203,1.50999999046326,2.71000004,md,38,53,,0.180000007,hv,hv73596772,2023-10-06T15:58:10.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.180000007,1.95000005,21,automatic,hv,hv
+2023-10-06T15:55:05.510Z,19.388500213623,-155.275665283203,1.50999999046326,2.49,ml,38,53,,0.180000007,hv,hv73596772,2023-10-06T16:00:35.790Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.180000007,0.46,18,automatic,hv,hv
 2023-10-06T15:52:40.580Z,19.3915004730225,-155.274993896484,1.23000001907349,2.3,ml,25,50,,0.230000004,hv,hv73596767,2023-10-06T15:58:16.280Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.25,0.34,10,automatic,hv,hv
 2023-10-06T15:51:08.871Z,58.3145,-133.3528,0,2.4,ml,,,,0.94,ak,ak023cto6a1z,2023-10-06T15:56:55.621Z,"62 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-06T15:45:00.340Z,34.49116667,-97.76933333,6.57,2.35,ml,82,46,0.1214761622,0.47,ok,ok2023tpda,2023-10-06T15:55:35.161Z,"Oklahoma",earthquake,,1.1,0.26,29,reviewed,ok,ok
@@ -285,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T16:13:11.910Z,19.386,-155.279166666667,1.17,0.55,md,13,144,,0.07,hv,hv73593597,2023-10-05T16:49:02.510Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.24,0.0859569085087621,3,reviewed,hv,hv
 2023-10-05T16:03:28.080Z,19.3665,-155.296666666667,1.73,0.54,md,16,105,,0.07,hv,hv73593572,2023-10-05T16:18:58.100Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.33,0.109919278447749,2,reviewed,hv,hv
 2023-10-05T16:02:08.510Z,19.3676666666667,-155.296666666667,1.92,0.68,md,17,104,,0.09,hv,hv73593567,2023-10-05T16:12:50.370Z,"10 km SW of Volcano, Hawaii",earthquake,0.21,0.33,0.0369304174347739,3,reviewed,hv,hv
-2023-10-05T16:01:14.714Z,58.2666,-133.585,2.4,2.9,ml,,,,0.33,ak,ak023cs0xntb,2023-10-05T16:03:36.058Z,"49 km E of Juneau, Alaska",earthquake,,0.6,,,automatic,ak,ak
