@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T18:08:00.367Z,34.82251358,-97.72012329,2.995905638,2.34,ml,54,45.07926941,0.136768952,0.6990806038,ok,ok2023trdg,2023-10-07T18:10:29.201Z,"6 km S of Bradley, Oklahoma",earthquake,1.751581882,1.165873803,0.18,29,automatic,ok,ok
+2023-10-07T18:05:51.640Z,33.4728333,-116.5773333,11.47,0.6,ml,14,113,0.08427,0.25,ci,ci40578688,2023-10-07T18:09:27.647Z,"13 km SE of Anza, CA",earthquake,0.64,2.1,0.168,13,automatic,ci,ci
 2023-10-07T18:00:31.873Z,62.5038,-151.3559,9.8,1.1,ml,,,,0.96,ak,ak023cvd71mb,2023-10-07T18:02:28.397Z,"30 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-07T17:42:05.610Z,38.8146667,-122.8119965,2.66,1.24,md,24,46,0.008844,0.02,nc,nc73946761,2023-10-07T17:43:43.592Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.42,0.26,23,automatic,nc,nc
+2023-10-07T17:42:05.610Z,38.8146667,-122.8119965,2.66,1.24,md,24,46,0.008844,0.02,nc,nc73946761,2023-10-07T18:07:12.983Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.42,0.26,23,automatic,nc,nc
 2023-10-07T17:40:23.830Z,37.4693336,-118.6353302,10.38,1.74,md,15,140,0.1294,0.02,nc,nc73946756,2023-10-07T17:57:13.775Z,"7 km NNW of Round Valley, CA",earthquake,0.58,2.43,0.04,13,automatic,nc,nc
 2023-10-07T17:29:52.790Z,31.1971,141.8923,10,4.8,mb,126,95,2.601,0.56,us,us6000ldvd,2023-10-07T18:02:08.040Z,"Izu Islands, Japan region",earthquake,8.96,1.871,0.046,155,reviewed,us,us
 2023-10-07T17:09:02.100Z,38.8294983,-122.8011703,1.77,1.03,md,16,40,0.009247,0.01,nc,nc73946751,2023-10-07T17:27:13.618Z,"7 km W of Cobb, CA",earthquake,0.25,0.49,0.16,16,automatic,nc,nc
 2023-10-07T17:06:06.250Z,19.425500869751,-155.464172363281,1.12999999523163,1.96000004,md,38,43,,0.140000001,hv,hv73598867,2023-10-07T17:09:21.090Z,"24 km W of Volcano, Hawaii",earthquake,0.29,0.920000017,0.610000014,27,automatic,hv,hv
 2023-10-07T17:03:51.336Z,63.0205,-149.6578,82.5,1.8,ml,,,,0.31,ak,ak023cvcmanx,2023-10-07T17:05:59.403Z,"54 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-07T16:59:54.900Z,33.403,-116.4006667,2.4,0.63,ml,25,104,0.1917,0.25,ci,ci40578664,2023-10-07T17:03:30.575Z,"16 km N of Borrego Springs, CA",earthquake,0.49,2.23,0.133,12,automatic,ci,ci
-2023-10-07T16:28:09.190Z,37.4309998,-121.7678299,10.25,2.16,md,58,31,0.03231,0.07,nc,nc73946736,2023-10-07T16:49:10.416Z,"9 km NE of Alum Rock, CA",earthquake,0.15,0.35,0.12,49,automatic,nc,nc
+2023-10-07T16:28:09.190Z,37.4309998,-121.7678299,10.25,2.16,md,58,31,0.03231,0.07,nc,nc73946736,2023-10-07T18:07:12.829Z,"9 km NE of Alum Rock, CA",earthquake,0.15,0.35,0.12,49,automatic,nc,nc
 2023-10-07T16:26:34.280Z,61.6074,-148.6442,32.5,1.5,ml,,,,0.58,ak,ak023cvc5r7o,2023-10-07T16:28:26.013Z,"16 km E of Lazy Mountain, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-10-07T16:20:34.140Z,-5.6629,145.8812,36.316,5.7,mww,80,28,6.038,0.9,us,us6000ldv4,2023-10-07T16:41:31.855Z,"49 km SSE of Madang, Papua New Guinea",earthquake,8.15,5.856,0.071,19,reviewed,us,us
 2023-10-07T16:10:06.360Z,33.322,-116.41,9.95,0.95,ml,31,89,0.1836,0.21,ci,ci40578640,2023-10-07T16:13:42.305Z,"8 km NNW of Borrego Springs, CA",earthquake,0.37,1.02,0.112,26,automatic,ci,ci
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T08:40:13.628Z,-5.5066,146.1982,76.011,6.9,mww,133,17,6.086,0.88,us,us6000ldqf,2023-10-07T16:31:24.849Z,"55 km SE of Madang, Papua New Guinea",earthquake,8,4.091,0.052,35,reviewed,us,us
 2023-10-07T08:38:31.213Z,61.5269,-146.5462,34,1.5,ml,,,,0.81,ak,ak023cv7guq9,2023-10-07T08:40:11.091Z,"45 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T08:36:09.564Z,59.8617,-151.6838,52.4,1.7,ml,,,,0.76,ak,ak023cv7gdmk,2023-10-07T08:38:18.986Z,"6 km NW of Nikolaevsk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-07T08:34:26.734Z,-5.5997,146.1315,53.498,6.7,mww,110,19,6.171,0.96,us,us6000ldqd,2023-10-07T10:41:37.586Z,"56 km SE of Madang, Papua New Guinea",earthquake,7.87,5.613,0.054,33,reviewed,us,us
+2023-10-07T08:34:26.734Z,-5.5997,146.1315,53.498,6.7,mww,110,19,6.171,0.96,us,us6000ldqd,2023-10-07T18:03:30.909Z,"56 km SE of Madang, Papua New Guinea",earthquake,7.87,5.613,0.054,33,reviewed,us,us
 2023-10-07T08:33:04.630Z,33.0181667,-116.3483333,10.55,1.44,ml,42,47,0.06985,0.19,ci,ci40578536,2023-10-07T15:19:25.340Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.22,0.53,0.169,25,reviewed,ci,ci
 2023-10-07T08:25:39.180Z,35.4975,-118.398,6.82,1.22,ml,24,67,0.1762,0.16,ci,ci40578528,2023-10-07T08:29:18.085Z,"13 km SE of Bodfish, CA",earthquake,0.25,0.89,0.185,12,automatic,ci,ci
 2023-10-07T08:18:45.284Z,63.4625,-147.5464,4.6,1.6,ml,,,,0.68,ak,ak023cv7clhs,2023-10-07T08:20:29.799Z,"70 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T18:37:50.850Z,38.7868347,-122.7464981,1.49,0.26,md,6,101,0.008441,0,nc,nc73946366,2023-10-06T18:39:27.359Z,"1 km NE of The Geysers, CA",earthquake,0.4,0.89,0.04,7,automatic,nc,nc
 2023-10-06T18:22:26.730Z,25.4107,141.1741,221.167,4.4,mb,82,107,7.769,0.75,us,us6000ldky,2023-10-06T21:52:01.040Z,"Volcano Islands, Japan region",earthquake,11.53,7.569,0.062,85,reviewed,us,us
 2023-10-06T18:20:56.090Z,33.4926667,-116.5855,9.11,0.65,ml,23,70,0.0141,0.14,ci,ci40578192,2023-10-06T21:21:34.878Z,"11 km SE of Anza, CA",earthquake,0.23,0.39,0.087,13,reviewed,ci,ci
-2023-10-06T18:10:42.370Z,35.0593333,-118.343,-0.93,1.35,ml,27,60,0.06858,0.17,ci,ci40578184,2023-10-06T21:42:23.986Z,"13 km SE of Tehachapi, CA",quarry blast,0.27,31.61,0.153,22,reviewed,ci,ci
