@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T20:13:02.550Z,19.341833114624,-155.294830322266,2.22000002861023,1.94,ml,17,137,,0.119999997,hv,hv73600522,2023-10-08T20:18:33.580Z,"12 km SSW of Volcano, Hawaii",earthquake,0.32,0.600000024,0.23,6,automatic,hv,hv
 2023-10-08T20:10:10.390Z,37.0448341,-121.4866638,5.84,1.39,md,10,98,0.0195,0.09,nc,nc73947446,2023-10-08T20:11:45.027Z,"8 km ENE of Gilroy, CA",earthquake,0.7,0.88,0.21,9,automatic,nc,nc
 2023-10-08T20:01:10.550Z,38.1763,-117.864,0,1.5,ml,11,107.07,0.098,0.2849,nn,nn00867001,2023-10-08T20:03:53.464Z,"31 km SE of Mina, Nevada",earthquake,,3.8,0.98,6,automatic,nn,nn
 2023-10-08T19:56:38.550Z,38.685833,-122.4958344,8.03,1.36,md,10,112,0.09271,0.06,nc,nc73947436,2023-10-08T19:58:15.109Z,"13 km SE of Middletown, CA",earthquake,0.4,1.99,0.24,10,automatic,nc,nc
 2023-10-08T19:32:10.980Z,38.8361664,-122.8093338,2.19,0.24,md,9,77,0.01277,0.01,nc,nc73947426,2023-10-08T19:33:44.743Z,"8 km WNW of Cobb, CA",earthquake,0.41,1.5,0.14,9,automatic,nc,nc
 2023-10-08T19:29:42.855Z,59.7295,-153.3566,125.1,2,ml,,,,0.55,ak,ak023cx1i2c5,2023-10-08T19:32:22.147Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-08T19:24:35.120Z,19.3549995422363,-155.302001953125,2.00999999046326,1.97000003,md,14,100,,0.100000001,hv,hv73600472,2023-10-08T19:27:37.740Z,"12 km SW of Volcano, Hawaii",earthquake,0.32,0.560000002,0.629999995,14,automatic,hv,hv
-2023-10-08T19:06:55.020Z,38.8330002,-122.817337,1.41,0.51,md,9,88,0.01114,0.01,nc,nc73947416,2023-10-08T19:08:30.834Z,"8 km NW of The Geysers, CA",earthquake,0.33,1.1,0.26,10,automatic,nc,nc
+2023-10-08T19:06:55.020Z,38.8330002,-122.817337,1.41,0.51,md,9,88,0.01114,0.01,nc,nc73947416,2023-10-08T20:14:13.587Z,"8 km NW of The Geysers, CA",earthquake,0.33,1.1,0.26,10,automatic,nc,nc
 2023-10-08T19:06:17.390Z,35.8666667,-117.6713333,10.51,1.2,ml,12,174,0.0956,0.15,ci,ci40579104,2023-10-08T19:10:03.983Z,"23 km ESE of Little Lake, CA",earthquake,0.46,0.91,0.108,9,automatic,ci,ci
 2023-10-08T19:05:49.130Z,35.8665,-117.6785,10.61,1.25,ml,14,114,0.09093,0.18,ci,ci40579096,2023-10-08T19:09:36.113Z,"22 km ESE of Little Lake, CA",earthquake,0.43,0.81,0.105,9,automatic,ci,ci
 2023-10-08T18:54:28.620Z,38.8154984,-122.8235016,2.09,0.77,md,20,53,0.007969,0.02,nc,nc73947411,2023-10-08T20:04:14.546Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.53,0.16,20,automatic,nc,nc
@@ -246,7 +247,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T22:47:30.230Z,19.675,-68.8311,15,3.93,md,12,255,0.5253,0.42,pr,pr2023280002,2023-10-07T23:28:58.040Z,"Dominican Republic region",earthquake,2.46,3.28,0.33,5,reviewed,pr,pr
 2023-10-07T22:42:21.060Z,34.3738333,-116.4593333,6.98,1.53,ml,27,67,0.1039,0.22,ci,ci40578776,2023-10-08T00:05:17.134Z,"29 km N of Yucca Valley, CA",earthquake,0.37,1.15,0.229,28,reviewed,ci,ci
 2023-10-07T22:39:24.348Z,-5.6276,145.9185,61.619,5.1,mb,75,24,6.384,0.88,us,us6000ldws,2023-10-08T02:53:11.823Z,"eastern New Guinea region, Papua New Guinea",earthquake,5.05,5.479,0.046,153,reviewed,us,us
-2023-10-07T22:05:11.570Z,33.5013333,-116.5795,19.23,0.74,ml,13,137,0.02009,0.22,ci,ci40578768,2023-10-07T22:08:48.171Z,"11 km SE of Anza, CA",earthquake,0.66,0.96,0.186,15,automatic,ci,ci
+2023-10-07T22:05:12.210Z,33.5446667,-116.5888333,15.78,0.63,ml,18,95,0.02135,0.13,ci,ci40578768,2023-10-08T20:18:26.839Z,"8 km E of Anza, CA",earthquake,0.37,0.5,0.127,11,reviewed,ci,ci
 2023-10-07T22:04:56.840Z,46.20066666666666,-122.17716666666666,2.41,0.03,ml,13,143,0.005807,0.08,uw,uw61964821,2023-10-08T18:09:03.770Z,"Washington",earthquake,0.29,0.67,0.09554553017401934,7,reviewed,uw,uw
 2023-10-07T22:03:14.130Z,35.9934998,-120.935997,10.03,1.18,md,7,115,0.04914,0.03,nc,nc73946826,2023-10-08T00:38:15.056Z,"4 km SW of San Ardo, CA",earthquake,0.5,0.83,0.34,3,automatic,nc,nc
 2023-10-07T22:01:48.775Z,37.9558,38.1207,10,4.3,mb,54,64,0.757,0.55,us,us6000ldwl,2023-10-07T22:18:32.040Z,"eastern Turkey",earthquake,4.64,1.94,0.086,38,reviewed,us,us
@@ -264,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T21:07:16.530Z,33.7606667,-116.0991667,7.74,0.78,ml,25,94,0.1081,0.17,ci,ci40578752,2023-10-08T18:53:22.466Z,"11 km NE of Coachella, CA",earthquake,0.24,0.79,0.196,13,reviewed,ci,ci
 2023-10-07T20:55:34.140Z,35.235,-119.5975,13.32,1.44,ml,15,138,0.1045,0.15,ci,ci40578744,2023-10-08T18:43:46.356Z,"16 km NW of Taft, CA",earthquake,0.31,0.7,0.061,9,reviewed,ci,ci
 2023-10-07T20:54:11.505Z,38.131,-117.911,0,1.4,ml,9,135,0.089,0.2072,nn,nn00866976,2023-10-07T20:56:56.964Z,"33 km SSE of Mina, Nevada",earthquake,,6.2,0.32,7,automatic,nn,nn
-2023-10-07T20:14:40.320Z,17.9081666666667,-66.9278333333333,13.39,3,md,22,225,0.06626,0.19,pr,pr71427813,2023-10-07T20:44:03.720Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.33,0.114878600441292,7,reviewed,pr,pr
