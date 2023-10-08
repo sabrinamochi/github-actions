@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-08T05:56:19.090Z,38.8255005,-122.7628326,2.07,0.74,md,8,131,0.007431,0.01,nc,nc73946981,2023-10-08T05:57:54.153Z,"4 km W of Cobb, CA",earthquake,0.53,0.74,0.08,9,automatic,nc,nc
 2023-10-08T05:53:43.015Z,60.7687,-150.8741,8.5,1.7,ml,,,,0.68,ak,ak023cwtb525,2023-10-08T05:56:27.365Z,"19 km SSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-08T05:46:30.260Z,38.6896667,-122.5025024,6.36,1.41,md,10,172,0.1236,0.04,nc,nc73946976,2023-10-08T05:48:03.150Z,"12 km SE of Middletown, CA",earthquake,0.53,3.2,0.2,11,automatic,nc,nc
+2023-10-08T05:46:30.260Z,38.6896667,-122.5025024,6.36,1.41,md,10,172,0.1236,0.04,nc,nc73946976,2023-10-08T06:07:14.924Z,"12 km SE of Middletown, CA",earthquake,0.53,3.2,0.2,11,automatic,nc,nc
+2023-10-08T05:36:34.898Z,29.7419,140.1428,10,5.2,mww,54,132,3.375,0.99,us,us6000ldyn,2023-10-08T06:03:31.040Z,"Izu Islands, Japan region",earthquake,10.55,1.721,0.063,24,reviewed,us,us
 2023-10-08T05:33:21.528Z,58.1718,-155.4036,0,0.8,ml,,,,0.59,ak,ak023cwt6t2w,2023-10-08T05:34:28.643Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-10-08T05:15:34.941Z,61.5115,-149.8574,33.5,1.6,ml,,,,0.91,ak,ak023cwt2z86,2023-10-08T05:17:38.697Z,"5 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-08T05:13:05.950Z,19.199499130249,-155.467498779297,35.3499984741211,2.37,ml,49,141,,0.119999997,hv,hv73599392,2023-10-08T05:46:19.040Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.46,0.569999993,3.45,23,automatic,hv,hv
@@ -165,6 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T10:32:49.680Z,33.4825,-116.4483333,13.38,1.39,ml,43,38,0.04496,0.19,ci,ci40578552,2023-10-07T15:19:11.260Z,"22 km ESE of Anza, CA",earthquake,0.22,0.53,0.116,25,reviewed,ci,ci
 2023-10-07T10:31:51.886Z,63.4753,-147.5274,5.8,2.2,ml,,,,0.46,ak,ak023cv8m9is,2023-10-07T10:33:33.448Z,"71 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T10:23:23.539Z,31.292,141.8837,10,5,mb,76,117,2.527,0.8,us,us6000ldth,2023-10-07T10:47:49.040Z,"Izu Islands, Japan region",earthquake,9.05,1.871,0.041,192,reviewed,us,us
+2023-10-07T10:21:04.180Z,46.20283333333333,-122.184,3.02,0.17,ml,9,93,0.002833,0.19,uw,uw61964686,2023-10-08T06:10:05.550Z,"38 km NNE of Amboy, Washington",earthquake,0.44,1.67,0.28837856693785346,4,reviewed,uw,uw
 2023-10-07T10:20:34.467Z,-6.2046,103.8239,39.84,4.7,mb,28,143,2.026,1.06,us,us6000ldtg,2023-10-07T10:37:02.040Z,"180 km WSW of Bandar Lampung, Indonesia",earthquake,8.47,7.924,0.13,20,reviewed,us,us
 2023-10-07T10:17:56.020Z,33.68,-116.791,14.45,0.54,ml,15,123,0.06879,0.13,ci,ci40578544,2023-10-07T15:18:30.274Z,"9 km SW of Idyllwild, CA",earthquake,0.31,0.34,0.125,13,reviewed,ci,ci
 2023-10-07T10:04:58.492Z,58.3384,-133.3182,0,2.7,ml,,,,0.89,ak,ak023cv8ghpn,2023-10-07T10:28:37.040Z,"64 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -209,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T06:29:06.603Z,-7.421,128.1094,170.355,4.7,mb,50,72,3.388,0.68,us,us6000ldpf,2023-10-07T06:44:21.040Z,"172 km NE of Lospalos, Timor Leste",earthquake,8.5,2.393,0.086,41,reviewed,us,us
 2023-10-07T06:23:56.182Z,57.7669,-154.2495,66.5,1.7,ml,,,,0.32,ak,ak023cv66tpe,2023-10-07T06:25:39.538Z,"25 km NNE of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-07T06:22:32.411Z,61.5079,-149.7104,33.9,1.5,ml,,,,0.84,ak,ak023cv66k5l,2023-10-07T06:23:57.065Z,"5 km N of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-07T06:08:41.491Z,-25.3962,-68.2394,122.995,4.2,mb,12,86,1.245,0.59,us,us6000ldpb,2023-10-07T06:27:08.040Z,"Catamarca, Argentina",earthquake,10.83,15.232,0.305,3,reviewed,us,us
-2023-10-07T06:04:06.873Z,41.7822,82.3603,10,4.8,mb,50,117,2.626,0.85,us,us6000ldpa,2023-10-07T06:22:58.040Z,"47 km W of Kuqa, China",earthquake,9.79,1.866,0.094,35,reviewed,us,us
