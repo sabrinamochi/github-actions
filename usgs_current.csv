@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T01:57:00.650Z,19.2360000610352,-155.359497070312,27.9899997711182,1.79999995,md,34,154,,0.129999995,hv,hv73599287,2023-10-08T02:00:13.630Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.829999983,0.889999986,8,automatic,hv,hv
 2023-10-08T01:51:02.260Z,19.2361660003662,-155.355667114258,29.2900009155273,2,ml,39,154,,0.140000001,hv,hv73599282,2023-10-08T01:56:34.050Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.55,0.769999981,0.18,4,automatic,hv,hv
 2023-10-08T01:48:58.571Z,58.3793,-154.2892,40,1.4,ml,,,,0.97,ak,ak023cwqwd9d,2023-10-08T01:50:31.639Z,"88 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-10-08T01:40:03.330Z,38.7878342,-122.7346649,1.6,1.07,md,14,86,0.004865,0.02,nc,nc73946891,2023-10-08T01:41:38.852Z,"2 km ENE of The Geysers, CA",earthquake,0.27,0.55,0.06,13,automatic,nc,nc
+2023-10-08T01:40:03.330Z,38.7878342,-122.7346649,1.6,1.07,md,14,86,0.004865,0.02,nc,nc73946891,2023-10-08T01:59:20.519Z,"2 km ENE of The Geysers, CA",earthquake,0.27,0.55,0.06,13,automatic,nc,nc
 2023-10-08T01:25:49.899Z,-34.7149,-71.8422,43.592,4.9,mb,51,117,0.703,0.77,us,us6000ldxh,2023-10-08T01:40:40.040Z,"44 km W of Santa Cruz, Chile",earthquake,4.48,6.719,0.096,34,reviewed,us,us
 2023-10-08T01:22:35.403Z,62.4227,-149.7844,54.9,2,ml,,,,0.27,ak,ak023cwqqqus,2023-10-08T01:24:00.212Z,"16 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-08T00:58:19.190Z,19.1691665649414,-155.483673095703,33.7000007629395,1.88,md,28,100,,0.109999999,hv,hv73599237,2023-10-08T01:01:27.050Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,0.949999988,1.08000004,8,automatic,hv,hv
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T20:14:40.320Z,17.9081666666667,-66.9278333333333,13.39,3,md,22,225,0.06626,0.19,pr,pr71427813,2023-10-07T20:44:03.720Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.33,0.114878600441292,7,reviewed,pr,pr
 2023-10-07T20:02:20.700Z,33.1945,-116.0325,7.39,0.74,ml,15,58,0.05047,0.19,ci,ci40578728,2023-10-07T20:05:50.042Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.43,0.93,0.163,9,automatic,ci,ci
 2023-10-07T20:01:10.140Z,17.8865,-66.9275,13.66,3.28,md,18,245,0.08711,0.08,pr,pr71427808,2023-10-07T21:55:35.040Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.21,0.0660349343433331,9,reviewed,pr,pr
-2023-10-07T19:52:47.410Z,17.9158,-66.9118,8,4.01,md,14,219,0.1429,0.09,pr,pr2023280001,2023-10-08T01:32:16.410Z,"Puerto Rico region",earthquake,0.46,1.77,0.13,10,reviewed,pr,pr
+2023-10-07T19:52:47.410Z,17.9158,-66.9118,8,4.01,md,14,219,0.1429,0.09,pr,pr2023280001,2023-10-08T01:59:02.236Z,"6 km S of Guánica, Puerto Rico",earthquake,0.46,1.77,0.13,10,reviewed,pr,pr
 2023-10-07T19:50:49.517Z,61.3452,-149.9684,39.3,1.6,ml,,,,0.33,ak,ak023cve38dz,2023-10-07T19:52:30.560Z,"1 km SSE of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-07T19:41:24.410Z,32.679,-115.5446667,13.08,1.51,ml,11,133,0.1074,0.34,ci,ci40578720,2023-10-07T19:45:02.771Z,"4 km W of Calexico, CA",earthquake,1.32,2.57,0.302,13,automatic,ci,ci
 2023-10-07T19:40:41.210Z,38.776165,-122.7161636,2.23,1.07,md,9,87,0.01542,0.03,nc,nc73946786,2023-10-07T20:14:12.626Z,"2 km W of Anderson Springs, CA",earthquake,0.53,0.97,0.17,10,automatic,nc,nc
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T02:20:22.616Z,63.1132,-151.5409,0,2.1,ml,,,,0.52,ak,ak023cv3sdjp,2023-10-07T02:22:18.467Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T02:16:20.798Z,61.2428,-152.4379,0.2,1.9,ml,,,,0.68,ak,ak023cv3rijj,2023-10-07T02:18:45.777Z,"72 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T02:08:33.440Z,38.7498333,-122.9156667,0.38,0.92,md,36,102,0.05729,0.06,nc,nc73946511,2023-10-08T01:09:16.225Z,"11 km SE of Cloverdale, CA",earthquake,0.17,0.57,0.262,35,reviewed,nc,nc
-2023-10-07T01:59:31.670Z,19.171667098999,-155.476669311523,32.9599990844727,2.01999998,md,33,130,,0.100000001,hv,hv73597757,2023-10-07T02:02:40.390Z,"Hawaii region, Hawaii",earthquake,0.71,0.800000012,1.38,7,automatic,hv,hv
