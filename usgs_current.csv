@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-09T22:11:22.060Z,35.2071648,-118.6678314,9.13,1.17,ml,13,124,0.02938,0.16,ci,ci40580152,2023-10-09T22:13:27.611Z,"15 km E of Arvin, CA",earthquake,0.55,0.78,0.132,3,automatic,ci,ci
 2023-10-09T21:25:11.348Z,39.4103,-120.1813,2.9,1.3,ml,8,175.25,0.162,0.112,nn,nn00867058,2023-10-09T21:27:10.766Z,"9 km N of Truckee, California",earthquake,,22.5,0.11,7,automatic,nn,nn
 2023-10-09T21:09:58.850Z,38.7854996,-122.7366638,1.8,0.71,md,8,103,0.00226,0.02,nc,nc73948256,2023-10-09T21:33:13.317Z,"2 km ENE of The Geysers, CA",earthquake,0.34,0.88,0.07,8,automatic,nc,nc
 2023-10-09T21:05:54.258Z,61.7284,-149.7832,34.4,1.4,ml,,,,0.66,ak,ak023cyq35q9,2023-10-09T21:08:01.141Z,"11 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T07:55:48.230Z,38.8125,-122.7913361,0.58,0.82,md,8,89,0.005485,0.01,nc,nc73948106,2023-10-09T08:16:11.892Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.79,0.12,8,automatic,nc,nc
 2023-10-09T07:41:09.750Z,36.746666,-121.3846664,11.09,1.6,md,21,94,0.04971,0.14,nc,nc73948101,2023-10-09T10:25:12.610Z,"8 km SW of Tres Pinos, CA",earthquake,0.51,0.9,0.22,14,automatic,nc,nc
 2023-10-09T07:25:59.020Z,38.8241653,-122.8058319,2.2,0.78,md,11,61,0.003402,0.01,nc,nc73948091,2023-10-09T07:52:12.874Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.96,0.22,13,automatic,nc,nc
-2023-10-09T07:10:12.469Z,38.1764,-117.8431,11.8,1.7,ml,8,63.54,0.114,0.0957,nn,nn00867033,2023-10-09T16:10:33.082Z,"33 km SE of Mina, Nevada",earthquake,,1.7,0.33,5,reviewed,nn,nn
+2023-10-09T07:10:12.469Z,38.1764,-117.8431,11.8,1.7,ml,8,63.54,0.114,0.0957,nn,nn00867033,2023-10-09T16:10:33.082Z,"Nevada",earthquake,,1.7,0.33,5,reviewed,nn,nn
 2023-10-09T07:06:37.630Z,38.8260002,-122.8061676,2.29,0.75,md,12,69,0.00401,0.01,nc,nc73948081,2023-10-09T07:24:12.595Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.99,0.23,14,automatic,nc,nc
 2023-10-09T07:05:08.030Z,31.627,-103.989,6.6971,2.4,ml(texnet),23,35,0,0.1,tx,tx2023ttyk,2023-10-09T14:48:04.696Z,"37 km WSW of Mentone, Texas",earthquake,0.6694484694,0.5521202708,0,6,reviewed,tx,tx
 2023-10-09T07:04:29.190Z,33.1653333,-115.649,0.08,1.48,ml,29,81,0.0284,0.31,ci,ci40579320,2023-10-09T18:19:54.276Z,"13 km WNW of Calipatria, CA",earthquake,0.48,31.61,0.202,24,reviewed,ci,ci
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T22:22:52.610Z,19.3388328552246,-155.305328369141,3.20000004768372,2.25,ml,32,55,,0.230000004,hv,hv73600687,2023-10-08T22:28:24.370Z,"13 km SSW of Volcano, Hawaii",earthquake,0.47,1.01999998,0.2,14,automatic,hv,hv
 2023-10-08T22:16:32.050Z,38.8224983,-122.7963333,2.87,1.46,md,30,30,0.01077,0.02,nc,nc73947736,2023-10-09T00:04:12.907Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.39,0.21,29,automatic,nc,nc
 2023-10-08T22:15:40.180Z,19.3595008850098,-155.285827636719,2.21000003814697,1.93,ml,17,122,,0.109999999,hv,hv73600682,2023-10-08T22:21:12.170Z,"10 km SSW of Volcano, Hawaii",earthquake,0.31,0.430000007,0.3,8,automatic,hv,hv
-2023-10-08T22:12:57.760Z,38.8273315,-122.8050003,2.42,1,md,11,80,0.005582,0.01,nc,nc73947731,2023-10-08T22:14:32.296Z,"7 km NW of The Geysers, CA",earthquake,0.43,1.26,0.24,13,automatic,nc,nc
