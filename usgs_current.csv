@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-10T13:13:43.990Z,19.2488327026367,-155.402160644531,33.3499984741211,1.84000003,md,45,148,,0.109999999,hv,hv73603257,2023-10-10T13:16:49.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.5,0.610000014,0.170000002,9,automatic,hv,hv
-2023-10-10T13:07:52.730Z,35.659,-117.484,6.78,1.3,ml,16,115,0.04947,0.2,ci,ci40580480,2023-10-10T13:11:29.219Z,"14 km SSW of Searles Valley, CA",earthquake,0.5,0.96,0.117,12,automatic,ci,ci
+2023-10-10T13:07:52.730Z,35.659,-117.484,6.78,1.3,ml,16,115,0.04947,0.2,ci,ci40580480,2023-10-10T13:25:43.023Z,"14 km SSW of Searles Valley, CA",earthquake,0.5,0.96,0.117,12,reviewed,ci,ci
 2023-10-10T13:03:58.520Z,19.3636665344238,-155.290496826172,2.05999994277954,1.86,ml,19,112,,0.140000001,hv,hv73603242,2023-10-10T13:09:28.920Z,"10 km SW of Volcano, Hawaii",earthquake,0.29,0.419999987,2.08,8,automatic,hv,hv
 2023-10-10T13:03:28.241Z,36.3063,-116.8958,1.4,1.4,ml,22,192.4,0.219,0.2418,nn,nn00867072,2023-10-10T13:05:47.772Z,"16 km SSW of Furnace Creek, California",earthquake,,14.3,0.79,18,automatic,nn,nn
 2023-10-10T12:53:20.170Z,38.6814995,-122.4941635,9.64,1.24,md,8,131,0.0891,0.06,nc,nc73948546,2023-10-10T12:54:58.608Z,"12 km NNW of Angwin, CA",earthquake,0.63,2.26,0.23,9,automatic,nc,nc
@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T21:05:54.258Z,61.7284,-149.7832,34.4,1.4,ml,,,,0.66,ak,ak023cyq35q9,2023-10-09T21:08:01.141Z,"11 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-09T21:05:37.820Z,38.6879997,-122.4981689,7.77,1.82,md,20,57,0.09547,0.08,nc,nc73948251,2023-10-09T23:00:13.029Z,"12 km SE of Middletown, CA",earthquake,0.32,1.18,0.11,20,automatic,nc,nc
 2023-10-09T20:57:50.244Z,63.3464,-151.4244,4.5,1.4,ml,,,,0.23,ak,ak023cypsv1s,2023-10-09T20:59:41.758Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-09T20:48:22.640Z,36.502,-98.70183333,7.57,1.38,ml,18,125,0.01349735136,0.12,ok,ok2023tuzo,2023-10-10T13:26:20.458Z,"18 km ESE of Waynoka, Oklahoma",earthquake,,0.3,0.18,4,reviewed,ok,ok
 2023-10-09T20:47:33.256Z,64.948,-148.9336,8.1,1.3,ml,,,,0.26,ak,ak023cypqokt,2023-10-09T20:49:16.386Z,"29 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-09T20:22:21.140Z,33.0451667,-116.683,15.82,1.02,ml,31,41,0.07712,0.19,ci,ci40580104,2023-10-10T00:05:15.940Z,"8 km WSW of Julian, CA",earthquake,0.27,0.6,0.126,17,reviewed,ci,ci
 2023-10-09T20:15:53.090Z,19.1668338775635,-155.489501953125,33.4000015258789,2.07999992,md,21,156,,0.119999997,hv,hv73602277,2023-10-09T20:18:57.260Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.73,2.43000007,0.99000001,7,automatic,hv,hv
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T13:48:48.340Z,38.7628333,-122.7255,2.15,2.8,md,97,26,0.001335,0.07,nc,nc73948151,2023-10-09T17:59:19.090Z,"3 km ESE of The Geysers, CA",earthquake,0.09,0.14,0.188,141,reviewed,nc,nc
 2023-10-09T13:37:52.840Z,33.9961667,-117.8418333,5.79,1.34,ml,38,69,0.02355,0.18,ci,ci40579512,2023-10-09T22:29:18.770Z,"3 km SE of Walnut, CA",earthquake,0.24,0.32,0.167,20,reviewed,ci,ci
 2023-10-09T13:30:46.525Z,34.6605,62.0341,10,5.1,mww,114,88,5.782,0.9,us,us6000le8s,2023-10-09T20:07:43.978Z,"37 km NNW of Herāt, Afghanistan",earthquake,7.43,1.85,0.078,16,reviewed,us,us
-2023-10-09T13:25:55.545Z,28.926,-98.062,6.7251,3.5,ml(texnet),22,73,0.1,0.5,tx,tx2023tuky,2023-10-09T19:23:22.764Z,"7 km SW of Falls City, Texas",earthquake,1.962698389,3.036989574,0.2,20,reviewed,tx,tx
-2023-10-09T13:24:08.340Z,48.37916666666667,-121.928,3.56,1.04,ml,8,108,0.1588,0.1,uw,uw61965121,2023-10-10T00:35:48.320Z,"Washington",earthquake,0.36,11.87,0.14785597990103866,4,reviewed,uw,uw
