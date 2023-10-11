@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T22:49:15.593Z,61.5387,-149.9103,35.9,1.7,ml,,,,0.35,ak,ak023d0ehacn,2023-10-10T22:50:33.390Z,"3 km NE of Big Lake, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-10-10T22:24:51.370Z,19.38450050354,-155.278671264648,0.170000001788139,1.89999998,md,7,148,,0.129999995,hv,hv73603982,2023-10-10T22:27:40.150Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.349999994,0.349999994,7,automatic,hv,hv
 2023-10-10T22:23:41.210Z,45.904,-119.31683333333334,-0.32,2.11,ml,14,109,0.2858,0.15,uw,uw61965351,2023-10-10T22:34:25.560Z,"2 km SE of Umatilla, Oregon",explosion,0.41,31.61,0.10264437433768347,8,reviewed,uw,uw
-2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"California-Nevada border region",earthquake,,10.4,0,1,reviewed,nn,nn
+2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"16 km NE of Big Pine, California",earthquake,,10.4,0,1,reviewed,nn,nn
 2023-10-10T22:08:04.790Z,17.8901666666667,-66.8726666666667,12.95,2.29,md,8,237,0.08466,0.06,pr,pr71428148,2023-10-10T22:18:19.970Z,"Puerto Rico region",earthquake,0.81,0.36,0.0366257011071571,5,reviewed,pr,pr
 2023-10-10T21:54:42.790Z,37.2163315,-118.3918304,9.74,1.65,md,6,144,0.08804,0.02,nc,nc73948681,2023-10-10T23:40:39.284Z,"6 km S of Wilkerson, CA",earthquake,1.07,2.02,0.47,4,automatic,nc,nc
 2023-10-10T21:41:34.920Z,38.8258324,-122.8065033,2.17,1.32,md,23,36,0.003702,0.02,nc,nc73948676,2023-10-10T22:11:19.558Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.1,25,automatic,nc,nc
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T08:59:28.690Z,17.9563333333333,-66.9258333333333,16.24,2,md,9,203,0.04808,0.17,pr,pr71428098,2023-10-10T09:08:14.500Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.69,1.54,0.0639773192385207,4,reviewed,pr,pr
 2023-10-10T08:57:04.480Z,38.7788315,-122.7178345,1.69,1.23,md,9,89,0.01799,0.02,nc,nc73948426,2023-10-10T10:53:18.666Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.81,0.08,10,automatic,nc,nc
 2023-10-10T08:43:43.985Z,61.2391,-151.9349,82.7,1.9,ml,,,,0.94,ak,ak023d063zrr,2023-10-10T08:46:52.525Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-10T08:32:46.879Z,57.8948,-139.017,5.9,4.2,ml,,,,0.88,ak,ak023d061muv,2023-10-10T18:28:24.444Z,"161 km WSW of Elfin Cove, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-10-10T08:32:46.879Z,57.8948,-139.017,5.9,4.2,ml,,,,0.88,ak,ak023d061muv,2023-10-11T07:03:25.498Z,"161 km WSW of Elfin Cove, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-10-10T08:17:37.779Z,40.2912,-119.5174,11.4,0.2,ml,3,296.46,0.204,0.0759,nn,nn00867087,2023-10-10T17:37:40.165Z,"34 km SSW of Empire, Nevada",earthquake,,9.6,0,1,reviewed,nn,nn
 2023-10-10T08:12:03.343Z,61.6766,-141.8241,8.9,1.6,ml,,,,0.45,ak,ak023d05x9fy,2023-10-10T08:40:33.763Z,"64 km ENE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-10T08:08:04.040Z,34.0966667,-117.3091667,15.32,1.05,ml,30,46,0.1167,0.14,ci,ci37578364,2023-10-10T15:46:28.581Z,"3 km N of Colton, CA",earthquake,0.25,0.38,0.061,18,reviewed,ci,ci
@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T07:21:32.234Z,-15.545,-174.2009,25.023,5.7,mww,57,57,3.092,1.21,us,us6000leg0,2023-10-10T09:25:10.694Z,"62 km NW of Hihifo, Tonga",earthquake,7.49,5.196,0.089,12,reviewed,us,us
 2023-10-10T07:19:41.580Z,51.8626666666667,-177.921666666667,7.46,0.16,ml,4,173,,0.05,av,av92078876,2023-10-11T03:58:04.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.85,0.35025012038962,5,reviewed,av,av
 2023-10-10T07:19:26.980Z,40.3120003,-124.3486633,5.2,1.49,md,7,213,0.02399,0.04,nc,nc73948411,2023-10-10T09:54:14.355Z,"6 km WSW of Petrolia, CA",earthquake,1.77,1.71,0.02,5,automatic,nc,nc
-2023-10-10T07:10:15.680Z,38.6846657,-122.4981689,6.66,1.14,md,7,128,0.09349,0.06,nc,nc73948401,2023-10-10T08:55:14.056Z,"13 km SE of Middletown, CA",earthquake,0.53,3.48,0.25,6,automatic,nc,nc
-2023-10-10T07:06:44.270Z,19.363166809082,-155.287338256836,2.20000004768372,1.79,ml,17,115,,0.129999995,hv,hv73602832,2023-10-10T07:12:15.060Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.479999989,0.36,6,automatic,hv,hv
