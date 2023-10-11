@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-11T13:19:08.275Z,59.857,-153.4366,142.7,1.8,ml,,,,0.41,ak,ak023d1whacr,2023-10-11T13:21:05.537Z,"38 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-11T13:10:19.740Z,19.3481674194336,-155.3056640625,2.91000008583069,2.72,ml,48,51,,0.180000007,hv,hv73604977,2023-10-11T13:15:56.260Z,"12 km SW of Volcano, Hawaii",earthquake,0.28,0.569999993,3.31,31,automatic,hv,hv
 2023-10-11T13:03:22.980Z,61.8159,-149.7005,35.1,2.7,ml,,,,0.26,ak,ak023d1wdw16,2023-10-11T13:04:31.778Z,"19 km ENE of Willow, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2023-10-11T12:46:57.160Z,19.3401660919189,-155.302673339844,3.3199999332428,2.08999991,md,34,87,,0.140000001,hv,hv73604942,2023-10-11T12:50:10.360Z,"13 km SSW of Volcano, Hawaii",earthquake,0.35,0.709999979,0.610000014,17,automatic,hv,hv
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T04:19:15.610Z,34.1578331,-117.5749969,10.37,2.35,ml,110,26,0.04546,0.23,ci,ci40581000,2023-10-11T05:07:31.010Z,"4 km N of Rancho Cucamonga, CA",earthquake,0.19,0.39,0.328,22,automatic,ci,ci
 2023-10-11T04:15:10.960Z,34.003334,-117.8333359,4.38,1.24,ml,21,138,0.03209,0.16,ci,ci40580992,2023-10-11T04:17:30.438Z,"4 km ESE of Walnut, CA",earthquake,0.43,0.72,0.299,7,automatic,ci,ci
 2023-10-11T04:10:35.652Z,-15.9117,-69.6393,229.29,4.8,mb,64,102,1.498,0.98,us,us6000lepk,2023-10-11T04:25:55.040Z,"16 km SSE of Taquile, Peru",earthquake,7.79,2.942,0.026,445,reviewed,us,us
-2023-10-11T04:05:28.110Z,19.3390007019043,-155.299331665039,3.07999992370605,1.87,ml,32,118,,0.189999998,hv,hv73604342,2023-10-11T04:10:58.650Z,"13 km SSW of Volcano, Hawaii",earthquake,0.34,0.680000007,0.3,15,automatic,hv,hv
+2023-10-11T04:05:28.110Z,19.3390007019043,-155.299331665039,3.07999992370605,1.87,ml,32,118,,0.189999998,hv,hv73604342,2023-10-11T04:10:58.650Z,"Hawaii region, Hawaii",earthquake,0.34,0.680000007,0.3,15,automatic,hv,hv
 2023-10-11T04:04:53.450Z,35.6246681,-117.4698334,4.91,1.46,ml,18,74,0.05513,0.13,ci,ci40580984,2023-10-11T04:07:00.256Z,"17 km SSW of Searles Valley, CA",earthquake,0.37,0.89,0.086,4,automatic,ci,ci
 2023-10-11T03:59:39.260Z,38.8003349,-122.7523346,3.78,0.79,md,13,150,0.02564,0.02,nc,nc73948766,2023-10-11T04:15:10.532Z,"3 km N of The Geysers, CA",earthquake,0.52,1.16,0.15,12,automatic,nc,nc
 2023-10-11T03:58:14.210Z,35.9684982,-120.5298309,9.56,1.08,md,15,115,0.01863,0.07,nc,nc73948761,2023-10-11T04:20:16.563Z,"12 km NW of Parkfield, CA",earthquake,0.6,0.46,0.26,7,automatic,nc,nc
@@ -162,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T13:43:41.720Z,33.4598333,-116.5653333,12.96,0.86,ml,26,61,0.04646,0.14,ci,ci40580488,2023-10-10T15:49:45.398Z,"15 km SE of Anza, CA",earthquake,0.2,0.47,0.244,14,reviewed,ci,ci
 2023-10-10T13:39:11.980Z,62.5223,-149.6056,0,1.9,ml,,,,0.79,ak,ak023d0928gu,2023-10-10T13:41:17.111Z,"26 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-10T13:36:57.267Z,62.5284,-149.5582,12.6,2.4,ml,,,,0.4,ak,ak023d091ota,2023-10-10T14:40:45.040Z,"29 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-10T13:19:29.476Z,55.0883,-162.036,4.7,1,ml,,,,0.79,ak,ak023d08xzds,2023-10-10T14:14:29.920Z,"Alaska Peninsula",earthquake,,0.2,,,reviewed,ak,ak
