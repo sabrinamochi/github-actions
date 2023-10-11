@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-11T06:03:56.760Z,38.8246651,-122.8071671,2.04,1.46,md,25,46,0.002601,0.02,nc,nc73948796,2023-10-11T06:12:12.251Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.32,0.17,25,automatic,nc,nc
 2023-10-11T05:47:48.844Z,31.6562,-104.4013,5,2.7,ml,29,63,0.086,0.51,us,us6000lepy,2023-10-11T05:57:29.040Z,"western Texas",earthquake,1.39,1.915,0.057,40,reviewed,us,us
-2023-10-11T05:46:44.620Z,38.8246651,-122.805336,2.25,0.76,md,11,76,0.003912,0.02,nc,nc73948791,2023-10-11T06:00:11.191Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.91,0.26,13,automatic,nc,nc
+2023-10-11T05:46:44.620Z,38.8246651,-122.805336,2.25,0.76,md,11,76,0.003912,0.02,nc,nc73948791,2023-10-11T06:12:19.252Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.91,0.26,13,automatic,nc,nc
 2023-10-11T05:45:17.100Z,38.6865005,-122.501503,4.26,1.56,md,10,112,0.09668,0.03,nc,nc73948786,2023-10-11T06:02:18.205Z,"12 km SE of Middletown, CA",earthquake,0.29,2.23,0.13,11,automatic,nc,nc
 2023-10-11T05:29:50.626Z,-19.2331,-69.3973,109.747,4.9,mb,54,99,0.474,1.19,us,us6000lepx,2023-10-11T05:43:46.040Z,"9 km NNE of Camiña, Chile",earthquake,6.43,7.508,0.044,163,reviewed,us,us
 2023-10-11T05:24:38.933Z,63.1587,-150.529,95.5,1.5,ml,,,,0.27,ak,ak023d1rqygl,2023-10-11T05:27:03.547Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T03:59:39.260Z,38.8003349,-122.7523346,3.78,0.79,md,13,150,0.02564,0.02,nc,nc73948766,2023-10-11T04:15:10.532Z,"3 km N of The Geysers, CA",earthquake,0.52,1.16,0.15,12,automatic,nc,nc
 2023-10-11T03:58:14.210Z,35.9684982,-120.5298309,9.56,1.08,md,15,115,0.01863,0.07,nc,nc73948761,2023-10-11T04:20:16.563Z,"12 km NW of Parkfield, CA",earthquake,0.6,0.46,0.26,7,automatic,nc,nc
 2023-10-11T03:54:56.152Z,-63.8023,172.5028,10,5.5,mb,26,117,14.231,0.97,us,us6000lepj,2023-10-11T05:59:41.748Z,"Balleny Islands region",earthquake,11.18,1.899,0.092,41,reviewed,us,us
-2023-10-11T03:50:49.890Z,36.6090012,-121.0634995,-0.56,1.4,md,11,197,0.03604,0.15,nc,nc73948756,2023-10-11T04:08:19.494Z,"11 km NE of Pinnacles, CA",earthquake,1.36,2.86,0.08,7,automatic,nc,nc
+2023-10-11T03:50:49.890Z,36.6090012,-121.0634995,-0.56,1.4,md,11,197,0.03604,0.15,nc,nc73948756,2023-10-11T06:12:12.382Z,"11 km NE of Pinnacles, CA",earthquake,1.36,2.86,0.08,7,automatic,nc,nc
 2023-10-11T03:47:45.020Z,33.3306656,-116.2776642,3.2,1.41,ml,19,185,0.2478,0.24,ci,ci40580976,2023-10-11T03:49:57.156Z,"12 km NE of Borrego Springs, CA",earthquake,0.75,2.4,0.459,13,automatic,ci,ci
 2023-10-11T03:42:13.290Z,73.6146,7.7797,10,4.4,mb,20,128,5.421,0.58,us,us6000lepf,2023-10-11T04:00:14.040Z,"Greenland Sea",earthquake,6.77,1.945,0.106,26,reviewed,us,us
 2023-10-11T03:34:22.571Z,-25.322,179.5904,507.816,4.4,mb,21,79,4.506,0.5,us,us6000lepe,2023-10-11T03:53:15.040Z,"south of the Fiji Islands",earthquake,14.51,9.614,0.117,21,reviewed,us,us
@@ -197,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T06:40:20.320Z,17.938,-66.2791666666667,13.71,2.1,md,7,216,0.1663,0.21,pr,pr71428083,2023-10-10T06:49:33.840Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.89,0.74,0.142542415237631,6,reviewed,pr,pr
 2023-10-10T06:39:44.258Z,28.919,-98.056,5.0132,2.3,ml(texnet),21,55,0.1,0.2,tx,tx2023tvtb,2023-10-10T15:02:59.376Z,"8 km SSW of Falls City, Texas",earthquake,1.062775656,1.542777787,0.1,7,reviewed,tx,tx
 2023-10-10T06:27:37.739Z,-23.4159,-66.8135,210.083,4.4,mb,39,71,1.339,1.08,us,us6000lefq,2023-10-10T06:47:09.040Z,"102 km NNW of San Antonio de los Cobres, Argentina",earthquake,6.28,8.365,0.107,25,reviewed,us,us
-2023-10-10T06:09:08.410Z,38.6865005,-122.4980011,5.93,1.36,md,10,111,0.09447,0.06,nc,nc73948381,2023-10-10T07:05:19.435Z,"12 km SE of Middletown, CA",earthquake,0.38,2.44,0.11,9,automatic,nc,nc
-2023-10-10T06:05:28.430Z,33.8568333,-117.7536667,5.39,1.39,ml,51,75,0.04113,0.2,ci,ci40580368,2023-10-10T15:14:04.745Z,"6 km ESE of Yorba Linda, CA",earthquake,0.2,0.38,0.114,31,reviewed,ci,ci
