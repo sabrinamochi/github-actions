@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T01:51:18.590Z,38.8168335,-122.8001633,2.5,0.4,md,7,93,0.009633,0.02,nc,nc73946270,2023-10-12T01:52:55.887Z,"6 km NW of The Geysers, CA",earthquake,0.57,2.07,0.23,9,automatic,nc,nc
 2023-10-12T01:41:40.981Z,60.2271,-141.0887,1.1,1.4,ml,,,,0.5,ak,ak023d3d07v6,2023-10-12T01:43:37.328Z,"107 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-12T01:35:34.855Z,62.1683,-145.7025,0,1.4,ml,,,,0.88,ak,ak023d3cyx3h,2023-10-12T01:37:46.718Z,"10 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-12T01:34:02.290Z,38.685833,-122.5070038,2.97,2.75,md,60,54,0.08903,0.15,nc,nc73946265,2023-10-12T01:46:57.600Z,"12 km SE of Middletown, CA",earthquake,0.23,1.31,0.14,71,automatic,nc,nc
+2023-10-12T01:34:02.290Z,38.685833,-122.5070038,2.97,2.75,md,60,54,0.08903,0.15,nc,nc73946265,2023-10-12T01:54:23.622Z,"12 km SE of Middletown, CA",earthquake,0.23,1.31,0.14,71,automatic,nc,nc
 2023-10-12T01:32:59.100Z,19.3781666666667,-155.284666666667,1.31,2.43,ml,31,87,,0.1,hv,hv73605997,2023-10-12T01:45:16.370Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.11,0.156699732762636,10,reviewed,hv,hv
 2023-10-12T01:26:06.340Z,38.7936668,-122.7321701,-0.89,0.51,md,5,134,0.01101,0.02,nc,nc73946260,2023-10-12T01:40:11.038Z,"3 km NE of The Geysers, CA",earthquake,0.39,3.76,0.3,8,automatic,nc,nc
 2023-10-12T01:20:51.150Z,38.6866684,-122.49617,7.14,1.56,md,10,110,0.09342,0.06,nc,nc73946250,2023-10-12T01:31:11.091Z,"13 km SE of Middletown, CA",earthquake,0.45,1.78,0.11,10,automatic,nc,nc
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T05:45:17.100Z,38.6865005,-122.501503,4.26,1.56,md,10,112,0.09668,0.03,nc,nc73948786,2023-10-11T08:15:15.914Z,"12 km SE of Middletown, CA",earthquake,0.29,2.23,0.13,11,automatic,nc,nc
 2023-10-11T05:29:50.626Z,-19.2331,-69.3973,109.747,4.9,mb,54,99,0.474,1.19,us,us6000lepx,2023-10-12T00:20:20.676Z,"Tarapaca, Chile",earthquake,6.43,7.508,0.044,163,reviewed,us,us
 2023-10-11T05:24:38.933Z,63.1587,-150.529,95.5,1.5,ml,,,,0.27,ak,ak023d1rqygl,2023-10-11T05:27:03.547Z,"73 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-11T05:05:35.230Z,19.3473339080811,-155.306671142578,3.20000004768372,2.11,ml,35,79,,0.25,hv,hv73604407,2023-10-11T05:11:07.140Z,"13 km SW of Volcano, Hawaii",earthquake,0.44,0.920000017,0.35,16,automatic,hv,hv
+2023-10-11T05:05:35.160Z,19.3408333333333,-155.3095,3.34,2.25,ml,43,54,,0.12,hv,hv73604407,2023-10-12T01:55:22.790Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.45,0.148188613701953,16,reviewed,hv,hv
 2023-10-11T04:54:02.390Z,38.793335,-122.7283325,1.66,1.16,md,17,96,0.01203,0.02,nc,nc73948781,2023-10-11T07:46:11.762Z,"3 km NE of The Geysers, CA",earthquake,0.25,0.52,0.18,18,automatic,nc,nc
 2023-10-11T04:43:44.684Z,63.4757,-148.3828,0,1.6,ml,,,,0.65,ak,ak023d1r9lwk,2023-10-11T04:45:43.322Z,"29 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-11T04:40:13.610Z,19.3676666666667,-155.285,1.41,2.52,ml,43,113,,0.12,hv,hv73604377,2023-10-11T04:53:43.120Z,"9 km SSW of Volcano, Hawaii",earthquake,0.16,0.19,0.152879764149289,20,reviewed,hv,hv
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T02:10:05.600Z,19.3398342132568,-155.324493408203,1.25,1.77999997,md,24,83,,0.209999993,hv,hv73604202,2023-10-11T02:13:18.610Z,"Hawaii region, Hawaii",earthquake,0.36,0.589999974,0.550000012,13,automatic,hv,hv
 2023-10-11T02:03:06.280Z,63.1788,-150.6827,131.6,2.2,ml,,,,0.36,ak,ak023d1pu31y,2023-10-11T02:09:38.844Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-11T01:58:14.898Z,63.0815,-151.4854,1.8,1.5,ml,,,,0.96,ak,ak023d1pkgj5,2023-10-11T02:00:26.370Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-11T01:54:01.610Z,51.4475,-179.059166666667,11.61,1.46,ml,6,322,,0.05,av,av92079636,2023-10-11T16:59:16.940Z,"174 km WSW of Adak, Alaska",earthquake,0.79,0.64,0.277934150693518,7,reviewed,av,av
