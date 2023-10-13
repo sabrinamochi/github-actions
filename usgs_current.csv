@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T20:19:40.909Z,61.2162,-151.5056,72.6,1.5,ml,,,,0.36,ak,ak023d5bq33e,2023-10-13T20:21:07.332Z,"24 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-13T20:12:11.020Z,63.4523,-151.321,1.1,1.9,ml,,,,0.49,ak,ak023d5boivh,2023-10-13T20:17:30.166Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-13T20:00:19.150Z,32.6161652,-116.966835,3.04,1.46,ml,46,70,0.03206,0.22,ci,ci40582296,2023-10-13T20:02:38.073Z,"8 km SE of Bonita, CA",earthquake,0.44,0.34,0.197,4,automatic,ci,ci
-2023-10-13T19:56:52.950Z,37.8790016,-122.2545013,9.2,1.39,md,17,77,0.004676,0.03,nc,nc73946860,2023-10-13T19:58:31.762Z,"2 km ENE of Berkeley, CA",earthquake,0.24,0.46,0.36,12,automatic,nc,nc
+2023-10-13T19:56:52.950Z,37.8790016,-122.2545013,9.2,1.39,md,17,77,0.004676,0.03,nc,nc73946860,2023-10-13T20:23:12.072Z,"2 km ENE of Berkeley, CA",earthquake,0.24,0.46,0.36,12,automatic,nc,nc
 2023-10-13T19:42:14.480Z,38.8375015,-122.7969971,1.81,0.21,md,8,122,0.005274,0.01,nc,nc73946850,2023-10-13T20:02:10.826Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.26,0.13,8,automatic,nc,nc
 2023-10-13T19:39:48.200Z,19.1916675567627,-155.626327514648,3.89000010490417,2.51,ml,39,66,,0.230000004,hv,hv73607692,2023-10-13T20:01:13.789Z,"13 km N of Wai‘ōhinu, Hawaii",earthquake,0.4,1.90999997,3.13,22,automatic,hv,hv
 2023-10-13T19:39:22.760Z,19.230167388916,-155.389999389648,29.2600002288818,2.28,ml,13,216,,0.0700000003,hv,hv73607687,2023-10-13T19:44:54.150Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.09,0.779999971,3.36,23,automatic,hv,hv
@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T18:47:52.990Z,38.7905006,-122.7368317,2.34,0.72,md,10,92,0.007253,0.02,nc,nc73946810,2023-10-13T19:23:17.598Z,"2 km NE of The Geysers, CA",earthquake,0.31,1,0.29,9,automatic,nc,nc
 2023-10-13T18:46:40.590Z,33.8121681,-116.2166672,8.84,0.95,ml,11,133,0.01587,0.14,ci,ci40582224,2023-10-13T18:48:54.671Z,"10 km N of Indio, CA",earthquake,0.75,0.94,0.186,5,automatic,ci,ci
 2023-10-13T18:28:27.670Z,62.8873,-151.2437,25.7,2,ml,,,,1.03,ak,ak023d5al4b3,2023-10-13T18:30:40.383Z,"49 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-13T18:26:20.380Z,35.0515,-118.3496667,-0.93,1.34,ml,24,36,0.06112,0.19,ci,ci40582192,2023-10-13T20:22:55.516Z,"13 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.115,7,reviewed,ci,ci
 2023-10-13T18:02:33.720Z,19.3619995117188,-155.122833251953,40.0800018310547,1.76,ml,48,105,,0.129999995,hv,hv73607632,2023-10-13T19:37:55.040Z,"11 km S of Fern Forest, Hawaii",earthquake,0.66,0.460000008,3.05,15,automatic,hv,hv
 2023-10-13T17:53:34.053Z,61.2784,-150.5223,34.2,2.6,ml,,,,0.23,ak,ak023d5a523h,2023-10-13T17:54:55.955Z,"29 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T17:39:19.510Z,20.0466666666667,-155.939833333333,6.18,2.59,ml,13,184,,0.15,hv,hv73607622,2023-10-13T18:45:59.160Z,"Hawaii region, Hawaii",earthquake,0.83,1.09,0.158090392738174,17,reviewed,hv,hv
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T20:47:15.080Z,18.049,-66.8713333333333,3.93,2.24,md,4,184,0.07393,0.08,pr,pr71428343,2023-10-12T21:08:53.630Z,"2 km NW of Yauco, Puerto Rico",earthquake,0.51,31.61,0.0662853190757018,4,reviewed,pr,pr
 2023-10-12T20:37:30.638Z,58.193,-155.3898,1.2,0.2,ml,,,,0.66,ak,ak023d3oakp3,2023-10-13T03:09:47.220Z,"88 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-12T20:25:38.980Z,38.7681656,-122.7411652,0.08,1.47,md,18,81,0.01434,0.06,nc,nc73946505,2023-10-12T22:10:11.247Z,"2 km SE of The Geysers, CA",earthquake,0.25,0.66,0.16,18,automatic,nc,nc
-2023-10-12T20:22:09.351Z,33.123,-98.171,3.8883,2.2,ml(texnet),11,62,0.3,0.2,tx,tx2023uale,2023-10-13T17:09:52.981Z,"northern Texas",earthquake,2.772032192,3.072991182,0.1,7,reviewed,tx,tx
