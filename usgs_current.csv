@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-13T12:08:44.940Z,37.9766655,-122.0656662,13.84,2.03,md,36,112,,0.12,nc,nc73946715,2023-10-13T12:11:36.477Z,"1 km SE of Pacheco, CA",earthquake,0.29,0.5,0.13,31,automatic,nc,nc
+2023-10-13T12:05:54.890Z,37.9798317,-122.0731659,11.92,1.02,md,7,134,0.06518,0.09,nc,nc73946710,2023-10-13T12:07:31.348Z,"0 km SSE of Pacheco, CA",earthquake,0.68,1.08,0.16,4,automatic,nc,nc
 2023-10-13T11:49:46.520Z,35.6213341,-117.4513321,4.49,1.05,ml,13,80,0.04913,0.13,ci,ci40582032,2023-10-13T11:51:53.942Z,"17 km SSW of Searles Valley, CA",earthquake,0.45,0.98,0.087,3,automatic,ci,ci
 2023-10-13T11:49:40.130Z,38.8366661,-122.7815018,1.97,1.28,md,22,73,0.007122,0.02,nc,nc73946705,2023-10-13T12:02:11.982Z,"5 km WNW of Cobb, CA",earthquake,0.22,0.35,0.16,23,automatic,nc,nc
 2023-10-13T11:39:30.090Z,33.9741669,-117.1318359,14.62,1.56,ml,69,29,0.04327,0.19,ci,ci40582024,2023-10-13T11:41:42.818Z,"7 km WSW of Calimesa, CA",earthquake,0.22,0.52,0.277,24,automatic,ci,ci
@@ -34,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T07:03:26.038Z,61.9666,-143.9218,0,2,ml,,,,1.18,ak,ak023d53vzmj,2023-10-13T07:05:35.644Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T06:54:40.440Z,38.8381653,-122.8361664,2.05,0.56,md,11,110,0.0006786,0.02,nc,nc73946630,2023-10-13T07:17:19.348Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.7,0.26,11,automatic,nc,nc
 2023-10-13T06:45:58.121Z,63.2401,-150.4397,118.2,1.3,ml,,,,0.14,ak,ak023d53jmkk,2023-10-13T06:47:39.686Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-10-13T06:33:55.450Z,34.146,-117.4081667,4.29,1.99,ml,106,20,0.04915,0.21,ci,ci40581976,2023-10-13T12:13:57.340Z,"6 km NW of Rialto, CA",earthquake,0.12,0.34,0.136,24,reviewed,ci,ci
 2023-10-13T06:16:09.670Z,34.145668,-117.4095001,4.59,2.09,ml,113,15,0.04912,0.22,ci,ci40581968,2023-10-13T07:16:52.750Z,"6 km NW of Rialto, CA",earthquake,0.15,0.4,0.227,25,automatic,ci,ci
 2023-10-13T05:38:08.430Z,35.7599983,-117.5820007,7.24,1.16,ml,15,125,0.1528,0.17,ci,ci40581960,2023-10-13T05:40:30.100Z,"16 km W of Searles Valley, CA",earthquake,0.5,2.16,0.166,3,automatic,ci,ci
 2023-10-13T05:30:54.676Z,63.5388,-146.0897,13,1.6,ml,,,,0.26,ak,ak023d52uyyj,2023-10-13T05:32:38.547Z,"51 km SSW of Fort Greely, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -172,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T12:32:45.080Z,58.1663333333333,-155.383166666667,-0.15,-0.06,ml,10,76,,0.1,av,av92081011,2023-10-13T01:57:38.160Z,"Alaska Peninsula",earthquake,0.24,3.36,0.18621211605712,10,reviewed,av,av
 2023-10-12T12:26:53.820Z,58.171,-155.382,1.59,-0.24,ml,9,135,,0.06,av,av92081006,2023-10-13T01:55:05.520Z,"86 km NW of Karluk, Alaska",earthquake,0.22,0.6,0.159062319794991,9,reviewed,av,av
 2023-10-12T12:19:00.560Z,32.7291667,-115.5596667,11.41,1.71,ml,33,64,0.03742,0.19,ci,ci40581576,2023-10-12T20:20:49.090Z,"3 km W of Heber, CA",earthquake,0.24,0.39,0.335,18,reviewed,ci,ci
-2023-10-12T12:13:42.251Z,61.7016,-151.7753,97.9,1.9,ml,,,,0.41,ak,ak023d3jdzls,2023-10-12T12:15:25.368Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
