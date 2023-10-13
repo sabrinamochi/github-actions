@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-13T12:08:44.940Z,37.9766655,-122.0656662,13.84,2.03,md,36,112,,0.12,nc,nc73946715,2023-10-13T12:16:10.064Z,"1 km SE of Pacheco, CA",earthquake,0.29,0.5,0.13,31,automatic,nc,nc
 2023-10-13T12:05:54.890Z,37.9798317,-122.0731659,11.92,1.02,md,7,134,0.06518,0.09,nc,nc73946710,2023-10-13T12:16:11.064Z,"0 km SSE of Pacheco, CA",earthquake,0.68,1.08,0.16,4,automatic,nc,nc
+2023-10-13T11:53:38.530Z,-17.8041,-178.4512,579.881,4.2,mb,40,83,4.374,0.81,us,us6000lfc5,2023-10-13T12:19:14.040Z,"238 km E of Levuka, Fiji",earthquake,11.82,9.365,0.074,51,reviewed,us,us
 2023-10-13T11:49:46.520Z,35.6213341,-117.4513321,4.49,1.05,ml,13,80,0.04913,0.13,ci,ci40582032,2023-10-13T11:51:53.942Z,"17 km SSW of Searles Valley, CA",earthquake,0.45,0.98,0.087,3,automatic,ci,ci
 2023-10-13T11:49:40.130Z,38.8366661,-122.7815018,1.97,1.28,md,22,73,0.007122,0.02,nc,nc73946705,2023-10-13T12:02:11.982Z,"5 km WNW of Cobb, CA",earthquake,0.22,0.35,0.16,23,automatic,nc,nc
 2023-10-13T11:39:30.090Z,33.9741669,-117.1318359,14.62,1.56,ml,69,29,0.04327,0.19,ci,ci40582024,2023-10-13T11:41:42.818Z,"7 km WSW of Calimesa, CA",earthquake,0.22,0.52,0.277,24,automatic,ci,ci
@@ -173,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T12:46:18.084Z,59.231,-152.9948,76.1,2.3,ml,,,,0.35,ak,ak023d3jl0bj,2023-10-12T12:47:54.331Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-12T12:33:59.380Z,38.8261681,-122.8531647,2.53,0.48,md,7,122,0.003206,0.01,nc,nc73946405,2023-10-12T13:07:14.196Z,"10 km WNW of The Geysers, CA",earthquake,0.53,1.2,0.32,8,automatic,nc,nc
 2023-10-12T12:32:45.080Z,58.1663333333333,-155.383166666667,-0.15,-0.06,ml,10,76,,0.1,av,av92081011,2023-10-13T01:57:38.160Z,"Alaska Peninsula",earthquake,0.24,3.36,0.18621211605712,10,reviewed,av,av
-2023-10-12T12:26:53.820Z,58.171,-155.382,1.59,-0.24,ml,9,135,,0.06,av,av92081006,2023-10-13T01:55:05.520Z,"86 km NW of Karluk, Alaska",earthquake,0.22,0.6,0.159062319794991,9,reviewed,av,av
-2023-10-12T12:19:00.560Z,32.7291667,-115.5596667,11.41,1.71,ml,33,64,0.03742,0.19,ci,ci40581576,2023-10-12T20:20:49.090Z,"3 km W of Heber, CA",earthquake,0.24,0.39,0.335,18,reviewed,ci,ci
