@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-13T14:08:08.350Z,40.3341675,-125.1146698,-0.36,2.78,md,24,304,0.5922,0.51,nc,nc73946745,2023-10-13T14:09:41.209Z,"70 km W of Petrolia, CA",earthquake,11.24,15.54,0.06,7,automatic,nc,nc
+2023-10-13T14:08:08.350Z,40.3341675,-125.1146698,-0.36,2.78,md,24,304,0.5922,0.51,nc,nc73946745,2023-10-13T14:15:13.788Z,"70 km W of Petrolia, CA",earthquake,11.24,15.54,0.06,7,automatic,nc,nc
 2023-10-13T13:42:22.463Z,65.4829,-150.5888,3.7,1.3,ml,,,,0.5,ak,ak023d57oxwp,2023-10-13T13:44:40.671Z,"19 km W of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-13T13:41:15.609Z,58.2179,-155.1949,24.7,0.4,ml,,,,0.83,ak,ak023d57opns,2023-10-13T13:42:34.070Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-13T13:40:42.660Z,19.4008331298828,-155.279495239258,6.94999980926514,1.72000003,md,24,43,,0.219999999,hv,hv73607507,2023-10-13T13:44:02.980Z,"6 km SW of Volcano, Hawaii",earthquake,0.48,0.620000005,1.35000002,10,automatic,hv,hv
@@ -63,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T04:55:50.120Z,38.8421669,-122.8381653,1.73,0.93,md,14,90,0.01701,0.03,nc,nc73946610,2023-10-13T05:36:14.759Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.57,0.24,14,automatic,nc,nc
 2023-10-13T04:53:39.463Z,59.5334,-153.4161,117.4,2.1,ml,,,,0.26,ak,ak023d52efnd,2023-10-13T04:55:25.223Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-13T04:52:52.523Z,61.6544,-151.0032,67.6,1.9,ml,,,,0.28,ak,ak023d52e8xw,2023-10-13T04:54:25.170Z,"28 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-10-13T04:06:17.300Z,43.4215,-110.818333333333,8.51,1.82,ml,9,148,0.06053,0.11,mb,mb90029798,2023-10-13T14:21:00.542Z,"1 km WSW of Rafter J Ranch, Wyoming",earthquake,0.46,0.86,0.226428131283274,25,reviewed,mb,mb
 2023-10-13T04:06:03.930Z,63.1069,-151.0269,135.3,1.7,ml,,,,0.23,ak,ak023d524a95,2023-10-13T04:08:33.435Z,"59 km SE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-13T03:48:29.060Z,44.3216666666667,-115.173,10.12,1.96,ml,15,65,0.3186,0.21,mb,mb90029788,2023-10-13T13:57:25.930Z,"22 km WNW of Stanley, Idaho",earthquake,0.51,1.1,0.178229570376406,21,reviewed,mb,mb
 2023-10-13T03:44:32.333Z,-51.8028,139.4955,4.864,6,mww,44,94,10.353,0.8,us,us6000lf9x,2023-10-13T05:48:26.317Z,"western Indian-Antarctic Ridge",earthquake,11.1,3.368,0.08,15,reviewed,us,us
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T14:44:52.040Z,33.2726667,-116.783,12.09,0.88,ml,36,44,0.04185,0.13,ci,ci40581656,2023-10-12T20:15:38.084Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.16,0.5,0.093,18,reviewed,ci,ci
 2023-10-12T14:44:18.096Z,63.065,-150.8976,125.8,1.9,ml,,,,0.24,ak,ak023d3krg41,2023-10-12T14:46:20.075Z,"63 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-12T14:37:23.260Z,58.2563333333333,-155.602,9.09,-0.18,ml,9,163,,0.18,av,av91118183,2023-10-13T02:15:00.170Z,"78 km SE of King Salmon, Alaska",earthquake,0.47,1.15,0.136811823395285,9,reviewed,av,av
-2023-10-12T14:15:38.830Z,35.7523333,-117.5398333,10.62,1.87,ml,33,68,0.1285,0.16,ci,ci40581624,2023-10-12T19:00:16.430Z,"12 km W of Searles Valley, CA",earthquake,0.2,0.44,0.158,22,reviewed,ci,ci
