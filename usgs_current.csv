@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-13T02:51:27.720Z,32.6893349,-115.7235031,9.43,1.42,ml,22,73,0.03997,0.25,ci,ci40581920,2023-10-13T02:53:33.412Z,"18 km NW of Progreso, B.C., MX",earthquake,0.53,1.02,0.234,4,automatic,ci,ci
 2023-10-13T02:48:57.572Z,58.1518,-155.4129,0.1,0.3,ml,,,,0.59,ak,ak023d516j99,2023-10-13T02:50:53.597Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-10-13T02:47:01.984Z,39.6629,-119.6344,7.9,2.3,ml,10,160.36,0.219,0.3604,nn,nn00867229,2023-10-13T02:49:47.527Z,"Nevada",earthquake,,0.9,0.47,4,automatic,nn,nn
+2023-10-13T02:47:01.984Z,39.6629,-119.6344,7.9,2.3,ml,10,160.36,0.219,0.3604,nn,nn00867229,2023-10-13T02:57:57.430Z,"Nevada",earthquake,,0.9,0.47,4,automatic,nn,nn
 2023-10-13T02:47:00.780Z,34.0113335,-117.0066681,17.43,1.37,ml,34,40,0.1009,0.17,ci,ci40581912,2023-10-13T02:49:29.580Z,"4 km SE of Yucaipa, CA",earthquake,0.3,0.69,0.302,14,automatic,ci,ci
 2023-10-13T02:46:48.376Z,39.6165,-119.6488,4,1.9,ml,11,71.57,0.224,0.1346,nn,nn00867228,2023-10-13T02:49:37.996Z,"6 km SE of Spanish Springs, Nevada",earthquake,,9.6,0.47,8,automatic,nn,nn
-2023-10-13T02:36:03.370Z,38.8308334,-122.8181686,1.78,1.09,md,17,68,0.009754,0.02,nc,nc73946590,2023-10-13T02:47:12.828Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.35,0.17,21,automatic,nc,nc
+2023-10-13T02:36:03.370Z,38.8308334,-122.8181686,1.78,1.09,md,17,68,0.009754,0.02,nc,nc73946590,2023-10-13T02:56:14.002Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.35,0.17,21,automatic,nc,nc
 2023-10-13T02:26:08.700Z,38.8419991,-122.8359985,1.77,1.48,md,23,88,0.003428,0.02,nc,nc73946585,2023-10-13T02:43:11.806Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.35,0.21,24,automatic,nc,nc
 2023-10-13T02:25:29.375Z,-56.3306,-26.6799,45.451,5.3,mb,48,75,5.965,0.78,us,us6000lf9b,2023-10-13T02:41:50.040Z,"South Sandwich Islands region",earthquake,10.25,6.111,0.077,58,reviewed,us,us
 2023-10-13T02:09:21.350Z,17.9495,-66.9498333333333,12.88,2.7,md,9,209,0.07182,0.29,pr,pr71428368,2023-10-13T02:43:15.100Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.33,0.68,0.0323636149464317,4,reviewed,pr,pr
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T18:51:09.040Z,36.0003319,-120.5618362,1.46,1.51,md,10,88,0.02237,0.07,nc,nc73946465,2023-10-12T19:25:10.372Z,"16 km NW of Parkfield, CA",earthquake,0.31,0.67,0.13,5,automatic,nc,nc
 2023-10-12T18:40:07.800Z,35.0515,-118.3515,-0.93,1.7,mh,15,60,0.0613,0.12,ci,ci40581752,2023-10-12T22:18:31.557Z,"13 km SE of Tehachapi, CA",quarry blast,0.29,31.61,,0,reviewed,ci,ci
 2023-10-12T18:30:50.230Z,47.235,-121.89516666666667,-0.62,1.49,ml,10,295,0.07923,0.05,uw,uw61965601,2023-10-12T23:00:18.830Z,"8 km ENE of Enumclaw, Washington",explosion,1.79,31.61,0.4775136232347943,4,reviewed,uw,uw
-2023-10-12T18:30:23.399Z,58.7189,-154.199,12.3,2.1,ml,,,,0.31,ak,ak023d3n26wz,2023-10-12T18:31:59.623Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-10-12T18:30:23.399Z,58.7189,-154.199,12.3,2.1,ml,,,,0.31,ak,ak023d3n26wz,2023-10-13T02:52:11.490Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T18:17:52.288Z,63.5357,-147.4749,16.5,1.5,ml,,,,0.57,ak,ak023d3mzgu4,2023-10-12T18:19:57.151Z,"74 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T18:11:27.460Z,59.3528333333333,-153.445333333333,-1.2,0.66,ml,5,167,,0.23,av,av92081736,2023-10-13T02:37:52.640Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.42,0.62,0.169117981926429,5,reviewed,av,av
 2023-10-12T18:07:30.000Z,61.1466666666667,-152.241833333333,4.14,0.11,ml,11,134,,0.07,av,av92081726,2023-10-13T02:34:28.620Z,"60 km W of Tyonek, Alaska",earthquake,0.43,0.86,0.210620157266906,11,reviewed,av,av
@@ -208,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T03:15:20.820Z,58.3298333333333,-154.920833333333,2.64,-0.14,ml,7,156,,0.17,av,av91118173,2023-10-13T00:51:13.440Z,"Alaska Peninsula",earthquake,0.9,0.62,0.158698408395661,7,reviewed,av,av
 2023-10-12T03:02:50.381Z,60.3445,-150.7181,65.5,3.4,ml,,,,0.44,ak,ak023d3dyut1,2023-10-12T16:54:02.800Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-10-12T03:02:50.209Z,60.3497,-150.7148,63.4,3.3,ml,,,,0.26,ak,ak023d3dyqv0,2023-10-12T17:23:30.620Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-12T02:58:54.910Z,35.6443329,-120.1793365,3.6,1.42,md,7,188,0.05453,0.03,nc,nc73946305,2023-10-12T06:17:19.891Z,"14 km SE of Cholame, CA",earthquake,1.5,1.26,0.27,4,automatic,nc,nc
-2023-10-12T02:55:48.219Z,63.0156,-151.571,1.9,1.3,ml,,,,0.84,ak,ak023d3doo1x,2023-10-12T02:58:28.700Z,"59 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-12T02:53:27.560Z,46.19916666666666,-122.17483333333334,3.14,0.27,ml,9,146,0.03581,0.14,uw,uw61965511,2023-10-12T20:32:40.700Z,"38 km NNE of Amboy, Washington",earthquake,0.42,1.89,0.15138048026927442,4,reviewed,uw,uw
-2023-10-12T02:53:26.060Z,54.7493333333333,-164.151666666667,1.1,1.4,ml,7,110,,0.32,av,av91118168,2023-10-13T00:40:09.030Z,"49 km WSW of False Pass, Alaska",earthquake,0.74,0.42,0.299421248412159,7,reviewed,av,av
