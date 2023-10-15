@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T09:56:48.490Z,38.8136673,-122.8239975,2.03,0.58,md,8,90,0.006273,0.03,nc,nc73947425,2023-10-15T09:58:25.080Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.05,0.2,8,automatic,nc,nc
+2023-10-15T09:52:16.000Z,19.1651668548584,-155.483673095703,34.3400001525879,1.97,ml,43,149,,0.119999997,hv,hv73609407,2023-10-15T09:57:47.720Z,"4 km S of Pāhala, Hawaii",earthquake,0.47,0.709999979,4.57,6,automatic,hv,hv
+2023-10-15T09:36:04.370Z,17.9398333333333,-66.8508333333333,12.62,2.23,md,7,214,0.04426,0.16,pr,pr71428658,2023-10-15T09:53:53.110Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,1.09,0.67,0.178265652522735,5,reviewed,pr,pr
 2023-10-15T09:28:05.362Z,65.4233,-153.4364,13.6,1.4,ml,,,,0.71,ak,ak023d8gav5i,2023-10-15T09:31:34.219Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T09:21:38.750Z,32.8331667,-116.1318333,9.16,1.75,ml,43,48,0.0505,0.24,ci,ci40582696,2023-10-15T09:32:52.980Z,"17 km NW of Ocotillo, CA",earthquake,0.29,0.83,0.15,26,automatic,ci,ci
 2023-10-15T09:13:26.094Z,33.8272,141.7428,16.108,5.2,mww,53,132,1.762,0.68,us,us6000lfpt,2023-10-15T09:42:35.157Z,"196 km SE of Katsuura, Japan",earthquake,7.22,4.744,0.075,17,reviewed,us,us
@@ -109,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T17:15:12.760Z,35.6466667,-117.4358333,8.34,1.11,ml,15,87,0.02088,0.21,ci,ci40582552,2023-10-14T17:18:50.011Z,"14 km SSW of Searles Valley, CA",earthquake,0.56,0.93,0.215,9,automatic,ci,ci
 2023-10-14T17:12:03.920Z,17.9635,-66.9553333333333,7.48,2.01,md,11,195,0.04527,0.27,pr,pr71428588,2023-10-14T17:25:38.430Z,"Puerto Rico",earthquake,0.91,0.43,0.152227413095152,3,reviewed,pr,pr
 2023-10-14T17:09:15.440Z,38.8055,-122.7806702,1.52,1.08,md,13,65,0.007748,0.02,nc,nc73947175,2023-10-14T20:00:14.077Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.48,0.14,14,automatic,nc,nc
-2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
+2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"Puerto Rico region",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
 2023-10-14T16:58:29.114Z,63.222,-150.6232,128,2.5,ml,,,,0.47,ak,ak023d6x413q,2023-10-15T05:04:17.119Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-14T16:50:38.050Z,33.9298333,-116.8575,16.88,0.83,ml,20,72,0.1082,0.19,ci,ci40582544,2023-10-14T16:54:13.995Z,"2 km ENE of Banning, CA",earthquake,0.41,0.95,0.151,22,automatic,ci,ci
 2023-10-14T16:49:47.249Z,61.8764,-150.593,13,1.6,ml,,,,0.14,ak,ak023d6x2550,2023-10-14T16:51:12.871Z,"32 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -162,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T10:49:50.660Z,34.1553333,-116.9178333,13.26,1.36,ml,49,29,0.06342,0.18,ci,ci40582472,2023-10-14T11:00:17.240Z,"10 km S of Big Bear Lake, CA",earthquake,0.22,0.4,0.147,26,automatic,ci,ci
 2023-10-14T10:39:50.205Z,64.3428,-151.4371,12.2,1.8,ml,,,,0.35,ak,ak023d6tfeks,2023-10-14T10:52:07.636Z,"66 km NE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-14T10:30:33.448Z,63.5031,-151.0049,0,1.6,ml,,,,1.01,ak,ak023d6tdfu8,2023-10-14T10:32:22.848Z,"36 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-14T09:51:41.204Z,60.0545,-152.9328,111.1,2.6,ml,,,,0.42,ak,ak023d6swivc,2023-10-14T10:01:14.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
