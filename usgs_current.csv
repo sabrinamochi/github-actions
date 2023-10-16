@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T14:43:32.070Z,32.7066667,-115.7203333,7.58,1.4,ml,17,107,0.0574,0.18,ci,ci40583064,2023-10-16T14:46:58.142Z,"18 km WSW of El Centro, CA",earthquake,0.37,0.78,0.355,15,automatic,ci,ci
 2023-10-16T14:36:21.235Z,63.5247,-147.7102,17.5,1.4,ml,,,,0.47,ak,ak023da6v4ln,2023-10-16T14:40:09.309Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-16T14:16:54.873Z,36.6886,-115.8792,11.3,-0.1,ml,11,280.94,0.072,0.1253,nn,nn00867423,2023-10-16T15:28:58.091Z,"22 km NW of Indian Springs, Nevada",earthquake,,1.5,0.81,2,reviewed,nn,nn
-2023-10-16T14:15:42.240Z,40.7524986,-124.3069992,23.92,3.14,ml,38,191,0.2204,0.1,nc,nc73947930,2023-10-16T16:20:14.618Z,"10 km WNW of Humboldt Hill, CA",earthquake,0.51,1.26,0.219,12,automatic,nc,nc
+2023-10-16T14:15:42.240Z,40.7524986,-124.3069992,23.92,3.14,ml,38,191,0.2204,0.1,nc,nc73947930,2023-10-16T16:26:10.649Z,"10 km WNW of Humboldt Hill, CA",earthquake,0.51,1.26,0.219,12,automatic,nc,nc
 2023-10-16T14:12:24.054Z,60.4306,-142.9182,6.8,1,ml,,,,0.2,ak,ak023da6pzmt,2023-10-16T14:14:13.696Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-16T13:56:41.327Z,31.623,-103.973,5.7202,2.2,ml(texnet),23,62,0,0.1,tx,tx2023uhgm,2023-10-16T15:26:34.973Z,"western Texas",earthquake,0.5572538291,0.658081223,0,7,reviewed,tx,tx
 2023-10-16T13:44:12.413Z,60.4121,-150.8085,47.4,2.3,ml,,,,0.33,ak,ak023da6be1l,2023-10-16T14:17:12.040Z,"10 km SSW of Funny River, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:31:25.160Z,40.7501678,-124.5078354,21.72,4.07,mw,63,216,0.3034,0.16,nc,nc73947835,2023-10-16T16:18:46.770Z,"27 km W of Humboldt Hill, CA",earthquake,0.6,1.14,,4,reviewed,nc,nc
 2023-10-16T10:23:41.360Z,40.3414993,-124.0439987,28.56,2.4,md,7,216,0.1222,0.04,nc,nc73947820,2023-10-16T13:02:11.451Z,"18 km SSE of Rio Dell, CA",earthquake,1.15,3.15,0.16,3,automatic,nc,nc
 2023-10-16T10:20:54.380Z,63.2918,-151.0674,3.9,2.1,ml,,,,0.87,ak,ak023da4e1a6,2023-10-16T10:23:18.414Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-16T10:20:49.740Z,40.3185005,-124.0583344,30.86,4.79,mw,32,54,0.04364,0.11,nc,nc73947830,2023-10-16T16:23:25.981Z,"19 km E of Petrolia, CA",earthquake,0.38,0.84,,4,reviewed,nc,nc
+2023-10-16T10:20:49.740Z,40.3185005,-124.0583344,30.86,4.79,mw,32,54,0.04364,0.11,nc,nc73947830,2023-10-16T16:24:47.154Z,"19 km E of Petrolia, CA",earthquake,0.38,0.84,,4,reviewed,nc,nc
 2023-10-16T10:12:25.840Z,38.7736664,-122.7214966,1.28,0.69,md,6,87,0.01234,0,nc,nc73947815,2023-10-16T13:03:15.454Z,"3 km W of Anderson Springs, CA",earthquake,0.43,0.87,0.17,6,automatic,nc,nc
 2023-10-16T10:12:05.636Z,57.689,-155.9156,1.7,2.1,ml,,,,0.42,ak,ak023da4c7sj,2023-10-16T10:13:32.337Z,"88 km W of Karluk, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-10-16T10:05:48.805Z,-25.154,70.0503,10,4.7,mb,28,180,13.745,0.34,us,us6000lfvg,2023-10-16T11:07:08.040Z,"Mid-Indian Ridge",earthquake,14.08,1.963,0.118,22,reviewed,us,us
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T17:09:58.160Z,18.1403333333333,-66.398,8,2.11,md,5,125,0.1806,0.46,pr,pr71428693,2023-10-15T17:27:27.480Z,"7 km NNW of Coamo, Puerto Rico",earthquake,1.19,3.49,0.247215940473402,3,reviewed,pr,pr
 2023-10-15T17:01:56.120Z,37.5666667,-118.8553333,-0.24,0.64,md,6,273,0.03127,0.02,nc,nc73947520,2023-10-15T18:47:19.040Z,"13 km SE of Mammoth Lakes, CA",earthquake,1.8,1.19,0.121,6,reviewed,nc,nc
 2023-10-15T16:52:49.268Z,64.8251,-147.5199,10.3,1,ml,,,,0.21,ak,ak023d8km4xu,2023-10-15T17:20:43.210Z,"2 km NNE of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-15T16:25:41.147Z,-31.5926,-177.9056,10,4.8,mb,24,90,2.323,0.93,us,us6000lfr7,2023-10-15T16:48:13.040Z,"Kermadec Islands region",earthquake,6.4,1.868,0.119,24,reviewed,us,us
