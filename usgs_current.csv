@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-16T03:50:45.770Z,35.6795,-117.4683333,10.75,1.32,ml,15,76,0.03907,0.19,ci,ci40582936,2023-10-16T03:54:20.389Z,"11 km SSW of Searles Valley, CA",earthquake,0.44,0.91,0.156,10,automatic,ci,ci
+2023-10-16T03:41:40.420Z,30.1264,80.7672,10,4.1,mb,20,170,4.582,0.73,us,us6000lfu1,2023-10-16T03:58:55.040Z,"38 km NNE of Dārchulā, Nepal",earthquake,12.19,1.985,0.184,8,reviewed,us,us
 2023-10-16T03:34:15.190Z,17.9195,-66.8418333333333,11.39,2.38,md,8,224,0.06574,0.13,pr,pr71428758,2023-10-16T03:45:12.190Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.66,0.56,0.0839299309884662,4,reviewed,pr,pr
 2023-10-16T03:33:34.169Z,57.6309,-155.3276,10.7,1.8,ml,,,,0.32,ak,ak023da0aqso,2023-10-16T03:35:14.984Z,"Alaska Peninsula",earthquake,,2.8,,,automatic,ak,ak
-2023-10-16T03:13:55.413Z,50.7767,-129.8499,10,4.9,mb,51,158,1.1,0.91,us,us6000lftw,2023-10-16T03:50:32.686Z,"196 km W of Port McNeill, Canada",earthquake,7.16,1.748,0.031,315,reviewed,us,us
+2023-10-16T03:13:55.413Z,50.7767,-129.8499,10,4.9,mb,51,158,1.1,0.91,us,us6000lftw,2023-10-16T03:55:39.199Z,"196 km W of Port McNeill, Canada",earthquake,7.16,1.748,0.031,315,reviewed,us,us
 2023-10-16T02:50:21.150Z,35.6825,-117.5368333,1.93,1.14,ml,15,74,0.09373,0.17,ci,ci40582928,2023-10-16T02:53:50.798Z,"14 km ENE of Ridgecrest, CA",earthquake,0.4,0.89,0.145,10,automatic,ci,ci
 2023-10-16T02:30:19.910Z,32.5781667,-116.6446667,0.47,1.68,ml,6,270,0.1042,0.26,ci,ci40582920,2023-10-16T02:33:59.311Z,"2 km NW of Tecate, B.C., MX",earthquake,3.53,31.61,0.085,18,automatic,ci,ci
 2023-10-16T02:24:40.836Z,57.6306,-156.01,6.9,2.8,ml,,,,0.28,ak,ak023d9zne9f,2023-10-16T02:26:16.777Z,"84 km E of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -38,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T22:01:28.027Z,60.7234,-152.8467,126.8,2.1,ml,,,,0.47,ak,ak023d8nvrdw,2023-10-15T22:08:45.040Z,"84 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-15T21:57:41.273Z,62.1746,-147.3971,32.3,1.5,ml,,,,0.73,ak,ak023d8nmcxb,2023-10-15T21:59:43.771Z,"28 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T21:54:38.820Z,18.5906666666667,-66.4938333333333,13.06,2.98,md,19,216,0.1179,0.15,pr,pr71428708,2023-10-15T22:36:41.162Z,"14 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.43,0.46,0.0555248252868956,8,reviewed,pr,pr
+2023-10-15T21:39:17.716Z,34.4708,62.2717,10,4.1,mb,19,198,5.592,0.75,us,us6000lfsn,2023-10-16T04:00:18.040Z,"15 km NNE of Herāt, Afghanistan",earthquake,11.05,1.962,0.197,7,reviewed,us,us
 2023-10-15T21:29:42.874Z,63.5269,-160.2788,74.2,2.9,ml,,,,0.73,ak,ak023d8ngczz,2023-10-15T23:13:00.040Z,"46 km SSE of Unalakleet, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-15T21:09:31.610Z,34.5635,-119.1386667,6.19,2.67,ml,67,28,0.1235,0.29,ci,ci40582864,2023-10-16T01:54:56.090Z,"16 km NE of Ojai, CA",earthquake,0.28,1.35,0.188,25,automatic,ci,ci
 2023-10-15T21:08:18.470Z,34.556,-119.139,1.53,1.98,ml,39,34,0.1188,0.23,ci,ci40582856,2023-10-15T21:19:07.650Z,"15 km NE of Ojai, CA",earthquake,0.24,0.66,0.139,27,automatic,ci,ci
@@ -155,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T04:12:37.050Z,34.0418333,-117.239,15.22,1.13,ml,44,34,0.1091,0.2,ci,ci40582672,2023-10-15T04:16:18.168Z,"2 km ESE of Loma Linda, CA",earthquake,0.21,0.41,0.206,29,automatic,ci,ci
 2023-10-15T04:10:33.375Z,60.5061,-147.3846,19.3,1.9,ml,,,,0.5,ak,ak023d8d7wdl,2023-10-15T04:12:07.753Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T04:07:46.360Z,36.437,-120.9811667,7.39,0.14,md,3,226,0.03298,0,nc,nc73947365,2023-10-15T19:47:12.405Z,"18 km SE of Pinnacles, CA",earthquake,1.13,2.52,0.204,6,reviewed,nc,nc
-2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T06:03:18.043Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
