@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-17T12:22:12.500Z,37.8442,-116.1572,0,1.3,ml,8,248,0.648,0.2542,nn,nn00867471,2023-10-17T12:25:37.108Z,"42 km WNW of Rachel, Nevada",earthquake,,70.8,0.26,3,automatic,nn,nn
+2023-10-17T12:19:27.100Z,38.8359985,-122.7991638,2.05,0.77,md,6,101,0.0152,0.02,nc,nc73948210,2023-10-17T12:21:04.087Z,"7 km WNW of Cobb, CA",earthquake,0.51,0.99,0.14,8,automatic,nc,nc
+2023-10-17T12:18:13.367Z,63.0002,-151.0058,125.2,2.1,ml,,,,0.46,ak,ak023dbt3qdn,2023-10-17T12:20:09.994Z,"57 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-17T11:54:42.070Z,19.3395004272461,-155.297500610352,0.629999995231628,2.00999999,md,18,119,,0.189999998,hv,hv73611707,2023-10-17T11:57:40.090Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.589999974,0.839999974,10,automatic,hv,hv
 2023-10-17T11:50:59.876Z,63.1202,-151.7481,2.5,1.4,ml,,,,0.33,ak,ak023dbsp9ab,2023-10-17T11:52:30.308Z,"46 km S of Denali National Park, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-10-17T11:45:39.740Z,38.8343315,-122.7976685,2.1,2.13,md,41,42,0.007021,0.05,nc,nc73948205,2023-10-17T12:03:14.416Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.27,0.15,41,automatic,nc,nc
@@ -88,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T23:55:24.871Z,63.956,-149.0309,0,1.8,ml,,,,0.58,ak,ak023dacc3xj,2023-10-16T23:57:36.092Z,"7 km SSE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-16T23:52:15.030Z,19.1906661987305,-155.492004394531,33.5800018310547,2.01999998,md,36,157,,0.119999997,hv,hv73610922,2023-10-16T23:55:36.060Z,"1 km SW of Pāhala, Hawaii",earthquake,0.6,0.879999995,0.460000008,13,automatic,hv,hv
 2023-10-16T23:51:59.616Z,62.1799,-150.1253,4.5,1.7,ml,,,,0.48,ak,ak023dacbbqx,2023-10-16T23:53:28.585Z,"14 km W of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-16T23:48:24.320Z,39.7441667,-120.5683333,3.24,2.2,md,17,91,0.1047,0.1,nc,nc73948100,2023-10-17T11:52:11.229Z,"0 km ESE of Clio, CA",earthquake,0.24,0.84,0.229,20,reviewed,nc,nc
+2023-10-16T23:48:24.320Z,39.7441667,-120.5683333,3.24,2.2,md,17,91,0.1047,0.1,nc,nc73948100,2023-10-17T12:20:13.388Z,"0 km ESE of Clio, CA",earthquake,0.24,0.84,0.229,20,reviewed,nc,nc
 2023-10-16T23:48:08.540Z,19.9628333333333,-155.468666666667,39.84,2.23,ml,40,142,,0.15,hv,hv73610917,2023-10-17T00:11:08.930Z,"12 km S of Honoka‘a, Hawaii",earthquake,0.5,0.86,0.0678588205811028,14,reviewed,hv,hv
 2023-10-16T23:21:44.720Z,19.275333404541,-155.376663208008,30.8099994659424,1.76999998,md,35,143,,0.109999999,hv,hv73610882,2023-10-16T23:24:57.730Z,"13 km NE of Pāhala, Hawaii",earthquake,0.63,0.769999981,0.720000029,12,automatic,hv,hv
 2023-10-16T23:20:06.227Z,62.5021,-151.4297,84.8,1.3,ml,,,,0.73,ak,ak023dac4kfi,2023-10-16T23:21:44.557Z,"34 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -174,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T13:04:06.960Z,40.3216667,-124.061,31.59,2.98,ml,48,47,0.04063,0.15,nc,nc73947920,2023-10-16T23:41:00.602Z,"19 km E of Petrolia, CA",earthquake,0.26,0.54,0.2,21,reviewed,nc,nc
 2023-10-16T12:47:39.641Z,64.7564,-148.9412,16.6,1.4,ml,,,,0.43,ak,ak023da5qnor,2023-10-16T12:50:16.566Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-16T12:29:50.687Z,58.9658,-152.8337,73.9,2,ml,,,,0.78,ak,ak023da5mtut,2023-10-16T12:32:23.863Z,"Kodiak Island region, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-10-16T12:27:07.890Z,19.727,-64.4343,19,3.9,md,12,314,1.4704,0.45,pr,pr2023289001,2023-10-16T13:12:17.719Z,"159 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,13.02,26.03,0.08,7,reviewed,pr,pr
-2023-10-16T12:19:39.648Z,63.2708,-151.0898,0.1,1.6,ml,,,,0.91,ak,ak023da5knn0,2023-10-16T12:21:27.976Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
