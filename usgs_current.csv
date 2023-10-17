@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-17T06:38:06.944Z,58.8121,-154.366,68,1.2,ml,,,,0.18,ak,ak023dbpnel2,2023-10-17T06:39:45.851Z,"73 km SSE of Kokhanok, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-10-17T06:34:20.370Z,38.8351669,-122.7906647,1.58,0.37,md,6,120,0.003247,0.01,nc,nc73948150,2023-10-17T06:35:54.719Z,"6 km WNW of Cobb, CA",earthquake,0.79,1.23,0.21,8,automatic,nc,nc
+2023-10-17T06:34:20.370Z,38.8351669,-122.7906647,1.58,0.37,md,6,120,0.003247,0.01,nc,nc73948150,2023-10-17T06:42:11.428Z,"6 km WNW of Cobb, CA",earthquake,0.79,1.23,0.21,8,automatic,nc,nc
 2023-10-17T06:18:48.260Z,19.3683338165283,-155.289993286133,0.860000014305115,1.74,ml,17,125,,0.25,hv,hv73611267,2023-10-17T06:24:19.040Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.550000012,2.52,8,automatic,hv,hv
 2023-10-17T06:17:34.308Z,63.4676,-146.194,0,1.6,ml,,,,0.42,ak,ak023dbpiynq,2023-10-17T06:19:54.384Z,"51 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-17T06:13:50.570Z,19.3641662597656,-155.283828735352,1.95000004768372,1.76999998,md,18,117,,0.209999993,hv,hv73611262,2023-10-17T06:19:21.700Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.409999996,13,automatic,hv,hv
 2023-10-17T06:11:52.517Z,59.4291,-153.2485,91.6,1.7,ml,,,,0.09,ak,ak023dbphprn,2023-10-17T06:13:51.277Z,"62 km SE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-17T06:03:06.770Z,18.7811666666667,-67.0751666666667,14.07,2.83,md,16,250,0.4713,0.17,pr,pr71428908,2023-10-17T06:15:37.930Z,"31 km N of Isabela, Puerto Rico",earthquake,0.61,0.85,0.0937205076949881,10,reviewed,pr,pr
-2023-10-17T06:01:14.870Z,36.8984985,-121.6266632,5.4,1.84,md,28,81,0.03115,0.09,nc,nc73948145,2023-10-17T06:18:15.286Z,"2 km NE of Aromas, CA",earthquake,0.25,0.43,0.18,27,automatic,nc,nc
+2023-10-17T06:01:14.870Z,36.8984985,-121.6266632,5.4,1.84,md,28,81,0.03115,0.09,nc,nc73948145,2023-10-17T06:49:09.425Z,"2 km NE of Aromas, CA",earthquake,0.25,0.43,0.18,27,automatic,nc,nc
 2023-10-17T05:10:03.319Z,27.7363,56.1369,10,5.5,mww,109,38,2.78,0.74,us,us6000lg2t,2023-10-17T06:26:31.514Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.64,1.83,0.073,18,reviewed,us,us
 2023-10-17T05:07:10.930Z,18.511,-66.2081666666667,91.48,3.33,md,20,193,0.1757,0.16,pr,pr71428893,2023-10-17T05:28:21.150Z,"7 km NNW of Levittown, Puerto Rico",earthquake,1.26,0.69,0.146366748096562,12,reviewed,pr,pr
 2023-10-17T04:59:23.094Z,27.7417,56.1616,10,5.1,mww,115,34,2.785,0.8,us,us6000lg2q,2023-10-17T05:52:13.394Z,"southern Iran",earthquake,8.35,1.795,0.08,15,reviewed,us,us
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:31:25.060Z,40.756,-124.5208333,23.63,4.02,mw,75,204,0.2389,0.17,nc,nc73947835,2023-10-17T01:20:12.660Z,"28 km W of Humboldt Hill, CA",earthquake,0.44,0.74,,3,reviewed,nc,nc
 2023-10-16T10:23:41.420Z,40.3383333,-124.051,27.84,2.08,md,27,49,0.04628,0.06,nc,nc73947820,2023-10-17T01:18:12.646Z,"18 km SSE of Rio Dell, CA",earthquake,0.32,0.71,0.104,14,reviewed,nc,nc
 2023-10-16T10:20:54.380Z,63.2918,-151.0674,3.9,2.1,ml,,,,0.87,ak,ak023da4e1a6,2023-10-16T10:23:18.414Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-17T06:17:49.166Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
+2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-17T06:43:00.492Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
 2023-10-16T10:12:25.840Z,38.7736664,-122.7214966,1.28,0.69,md,6,87,0.01234,0,nc,nc73947815,2023-10-16T13:03:15.454Z,"3 km W of Anderson Springs, CA",earthquake,0.43,0.87,0.17,6,automatic,nc,nc
 2023-10-16T10:12:05.636Z,57.689,-155.9156,1.7,2.1,ml,,,,0.42,ak,ak023da4c7sj,2023-10-16T10:13:32.337Z,"88 km W of Karluk, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-10-16T10:05:48.805Z,-25.154,70.0503,10,4.7,mb,28,180,13.745,0.34,us,us6000lfvg,2023-10-16T11:07:08.040Z,"Mid-Indian Ridge",earthquake,14.08,1.963,0.118,22,reviewed,us,us
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T07:03:00.440Z,18.004,-68.4391666666667,71.97,3.15,md,13,275,0.4888,0.3,pr,pr71428773,2023-10-16T07:19:07.880Z,"45 km SSE of Boca de Yuma, Dominican Republic",earthquake,2.31,1.69,0.0917848822353051,6,reviewed,pr,pr
 2023-10-16T06:52:40.730Z,19.1936664581299,-155.496002197266,34.9199981689453,2.21,ml,39,137,,0.109999999,hv,hv73610152,2023-10-16T06:58:11.700Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.49,0.730000019,0.16,7,automatic,hv,hv
 2023-10-16T06:51:08.189Z,36.37883333,-97.6475,7.92,2.51,ml,71,35,0,0.19,ok,ok2023ugsl,2023-10-16T13:49:11.739Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,0.6,0.2,31,reviewed,ok,ok
-2023-10-16T06:48:35.622Z,53.4071,160.2603,61.853,5.2,mww,149,104,1.042,0.63,us,us6000lfum,2023-10-16T14:44:19.412Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,7.23,5.611,0.093,11,reviewed,us,us
