@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T02:56:21.700Z,38.8388329,-122.8105011,2,1.28,md,23,54,0.01542,0.02,nc,nc73948455,2023-10-18T02:57:59.723Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.39,0.27,25,automatic,nc,nc
+2023-10-18T02:56:01.000Z,34.2326667,-117.5001667,8.7,1.49,ml,47,33,0.07232,0.23,ci,ci40583688,2023-10-18T02:59:59.386Z,"3 km S of Lytle Creek, CA",earthquake,0.28,0.73,0.189,29,automatic,ci,ci
+2023-10-18T02:52:00.890Z,61.9548,-147.182,85.7,1.4,ml,,,,1.5,ak,ak023ddaw07t,2023-10-18T02:54:21.259Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-18T02:46:36.390Z,35.6758333,-117.5343333,7.13,1.63,ml,21,73,0.09071,0.17,ci,ci40583680,2023-10-18T02:50:14.219Z,"14 km ENE of Ridgecrest, CA",earthquake,0.32,1.11,0.109,17,automatic,ci,ci
-2023-10-18T02:36:24.100Z,37.5718346,-118.7655029,4.81,1.69,md,21,186,0.0537,0.02,nc,nc73948445,2023-10-18T02:46:11.734Z,"8 km W of Toms Place, CA",earthquake,0.56,0.48,0.09,21,automatic,nc,nc
+2023-10-18T02:37:05.730Z,-23.6245,-66.8771,209.509,4.4,mb,16,124,1.371,0.38,us,us6000lga5,2023-10-18T02:52:26.040Z,"86 km NW of San Antonio de los Cobres, Argentina",earthquake,11.05,5.686,0.24,5,reviewed,us,us
+2023-10-18T02:36:24.100Z,37.5718346,-118.7655029,4.81,1.69,md,21,186,0.0537,0.02,nc,nc73948445,2023-10-18T02:53:19.770Z,"8 km W of Toms Place, CA",earthquake,0.56,0.48,0.09,21,automatic,nc,nc
 2023-10-18T02:28:40.580Z,19.2103328704834,-155.371994018555,32.439998626709,2.23,ml,49,160,,0.119999997,hv,hv73612717,2023-10-18T02:34:11.860Z,"11 km E of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.37,7,automatic,hv,hv
 2023-10-18T02:26:01.721Z,63.3388,-150.2111,11.2,1.3,ml,,,,0.53,ak,ak023ddaqfnw,2023-10-18T02:27:46.956Z,"63 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-18T02:12:33.338Z,60.4726,-152.0466,83.3,2.1,ml,,,,0.35,ak,ak023ddangrl,2023-10-18T02:14:38.067Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -195,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T04:56:06.592Z,65.4432,-148.2036,0,1.5,ml,,,,0.62,ak,ak023dboke8j,2023-10-17T04:58:18.477Z,"18 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-17T04:49:31.960Z,33.3858333,-116.8733333,5.84,0.76,ml,26,64,0.03336,0.2,ci,ci40583272,2023-10-17T13:58:48.599Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.23,0.72,0.094,9,reviewed,ci,ci
 2023-10-17T04:25:39.930Z,19.1096,-67.7606,56,3.59,md,13,250,0.7779,0.33,pr,pr2023290000,2023-10-17T04:56:11.415Z,"89 km NE of Punta Cana, Dominican Republic",earthquake,2.5,6.88,0.05,10,reviewed,pr,pr
+2023-10-17T04:23:14.230Z,51.6593333333333,179.606166666667,24.63,1.63,ml,8,205,,0.16,av,av92085606,2023-10-18T02:57:52.450Z,"260 km W of Adak, Alaska",earthquake,1.95,1.13,0.297052440458465,8,reviewed,av,av
 2023-10-17T04:23:00.080Z,37.4321667,-113.1161667,9.51,1.31,ml,13,95,0.07629,0.09,uu,uu60552427,2023-10-17T16:35:53.150Z,"13 km SSE of Kanarraville, Utah",earthquake,0.31,0.62,0.209,3,reviewed,uu,uu
 2023-10-17T04:18:31.710Z,35.8040009,-120.3411636,2.56,1.27,md,8,166,0.02712,0.02,nc,nc73948140,2023-10-17T06:33:16.372Z,"10 km NNW of Cholame, CA",earthquake,1.26,1.2,0.03,3,automatic,nc,nc
 2023-10-17T04:13:30.412Z,63.4846,-147.3395,0,1.3,ml,,,,0.29,ak,ak023dbob8a9,2023-10-17T04:15:10.501Z,"81 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -208,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T03:27:18.270Z,19.167667388916,-155.492004394531,30.8500003814697,2.31,ml,37,149,,0.0900000036,hv,hv73611107,2023-10-17T03:32:49.370Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.839999974,3.83,8,automatic,hv,hv
 2023-10-17T03:10:37.892Z,61.0299,-152.2731,105.6,2.2,ml,,,,0.54,ak,ak023dbnp5zq,2023-10-17T03:14:13.385Z,"61 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-17T03:07:30.080Z,51.797,179.554166666667,10.18,1.2,ml,4,330,,0.32,av,av92085541,2023-10-18T02:43:08.130Z,"262 km W of Adak, Alaska",earthquake,2.52,3.01,0.353523577354859,4,reviewed,av,av
-2023-10-17T02:58:02.764Z,31.637,-104.3,1.3499,1.7,ml(texnet),17,65,0,0.1,tx,tx2023uigg,2023-10-17T17:53:16.383Z,"western Texas",earthquake,0.7197130773,1.468202529,0.1,16,reviewed,tx,tx
