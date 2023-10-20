@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T12:56:16.620Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
+2023-10-20T12:54:18.646Z,34.84759521,-98.17316437,5,3,ml,24,150.0297241,0.3988854289,1.307516931,ok,ok2023uomk,2023-10-20T12:57:03.156Z,"5 km SSE of Cyril, Oklahoma",earthquake,5.986182185,,0.25,7,automatic,ok,ok
 2023-10-20T12:49:03.611Z,39.2731,-119.6653,0,1.1,ml,9,60.44,0.191,0.3093,nn,nn00867654,2023-10-20T12:51:37.880Z,"4 km SSW of Virginia City, Nevada",earthquake,,10.8,0.44,6,automatic,nn,nn
-2023-10-20T12:47:40.000Z,40.2843323,-123.6393356,24.88,1.81,md,8,140,0.09026,0.11,nc,nc73949300,2023-10-20T12:49:16.346Z,"24 km NE of Redway, CA",earthquake,1.8,1.31,0.1,5,automatic,nc,nc
+2023-10-20T12:47:40.000Z,40.2843323,-123.6393356,24.88,1.81,md,8,140,0.09026,0.11,nc,nc73949300,2023-10-20T12:55:10.888Z,"24 km NE of Redway, CA",earthquake,1.8,1.31,0.1,5,automatic,nc,nc
 2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T12:49:10.857Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
 2023-10-20T12:28:48.251Z,59.8073,-152.5196,80.9,2.2,ml,,,,0.35,ak,ak023dgrrzq7,2023-10-20T12:49:30.040Z,"38 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T12:01:17.233Z,64.8333,-149.1704,20.3,1.2,ml,,,,0.21,ak,ak023dgrm4zv,2023-10-20T12:02:46.701Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -105,6 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T22:29:11.890Z,38.8326683,-122.817337,1.9,1.07,md,17,84,0.01086,0.01,nc,nc73949115,2023-10-19T22:51:13.059Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.63,0.23,18,automatic,nc,nc
 2023-10-19T22:26:03.220Z,34.344,-119.2676667,11.39,1.35,ml,11,154,0.06576,0.26,ci,ci40584448,2023-10-19T23:36:40.191Z,"8 km NNW of Ventura, CA",earthquake,0.71,0.72,0.143,6,reviewed,ci,ci
 2023-10-19T22:23:32.740Z,34.3293333,-119.273,12.54,2.08,ml,28,107,0.0557,0.28,ci,ci40584440,2023-10-19T23:34:30.911Z,"7 km NW of Ventura, CA",earthquake,0.48,0.7,0.158,22,reviewed,ci,ci
+2023-10-19T22:14:42.675Z,31.726,-104.618,4.9747,2,ml(texnet),19,88,0.1,0.2,tx,tx2023unjm,2023-10-20T12:56:12.620Z,"54 km SSW of Whites City, New Mexico",earthquake,2.273740132,1.729120555,0.1,7,reviewed,tx,tx
 2023-10-19T22:08:45.443Z,61.3743,-146.1391,24.6,1.7,ml,,,,0.88,ak,ak023dfa2oqo,2023-10-19T22:10:51.824Z,"29 km NNE of Valdez, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-10-19T22:04:34.630Z,35.9108333,-117.7026667,7.89,1.59,ml,22,80,0.101,0.11,ci,ci40584432,2023-10-19T23:25:21.010Z,"19 km E of Little Lake, CA",earthquake,0.22,0.65,0.089,9,reviewed,ci,ci
 2023-10-19T21:54:59.520Z,46.602333333333334,-119.86166666666666,6.68,1.1400000000000001,ml,13,90,0.04411,0.08,uw,uw61958057,2023-10-20T05:02:42.650Z,"Washington",earthquake,0.2,0.14,0.09970814499318248,12,reviewed,uw,uw
@@ -153,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T17:37:20.675Z,68.2271,-136.691,27.4,3.3,ml,,,,1.31,ak,ak023df79okp,2023-10-19T18:34:52.203Z,"123 km W of Inuvik, Canada",earthquake,,1,,,reviewed,ak,ak
 2023-10-19T17:21:18.120Z,38.6798325,-122.4936676,9.05,1.23,md,6,133,0.08783,0.06,nc,nc73949030,2023-10-19T19:01:11.656Z,"12 km NNW of Angwin, CA",earthquake,1.58,6.04,0.36,4,automatic,nc,nc
 2023-10-19T17:21:07.940Z,55.984,-159.6795,25.49,0.52,ml,6,307,,0.16,av,av91118693,2023-10-19T23:02:19.190Z,"15 km NW of Ivanof Bay, Alaska",earthquake,1.08,0.95,0.240492573202579,6,reviewed,av,av
-2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"Southern Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"55 km W of Salamatof, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-19T17:10:48.900Z,38.8381653,-122.8359985,1.27,0.51,md,12,116,0.0005819,0.01,nc,nc73949025,2023-10-19T17:27:14.155Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.63,0.37,12,automatic,nc,nc
 2023-10-19T16:51:49.780Z,37.0696678,-121.1536636,-0.26,2.51,md,56,108,0.1232,0.37,nc,nc73949020,2023-10-20T04:07:21.382Z,"25 km SSW of Gustine, CA",earthquake,0.61,9.05,0.14,57,automatic,nc,nc
 2023-10-19T16:50:55.180Z,60.0458333333333,-153.036333333333,1.77,-0.51,ml,5,212,,0.09,av,av92088226,2023-10-19T22:44:20.490Z,"Southern Alaska",earthquake,1,0.84,0.30196796851977,5,reviewed,av,av
