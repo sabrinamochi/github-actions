@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T12:42:10.716Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
 2023-10-20T12:28:48.251Z,59.8073,-152.5196,80.9,2.2,ml,,,,0.35,ak,ak023dgrrzq7,2023-10-20T12:30:26.943Z,"38 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T12:01:17.233Z,64.8333,-149.1704,20.3,1.2,ml,,,,0.21,ak,ak023dgrm4zv,2023-10-20T12:02:46.701Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T11:49:40.990Z,38.7960014,-122.7246704,1.87,1.08,md,12,100,0.01585,0.02,nc,nc73949285,2023-10-20T12:24:10.710Z,"3 km S of Cobb, CA",earthquake,0.27,0.91,0.1,11,automatic,nc,nc
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T09:47:23.249Z,65.001,-147.4805,10.7,2.3,ml,,,,0.43,ak,ak023dgq3pl0,2023-10-20T10:49:08.287Z,"8 km NE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-20T09:22:28.416Z,60.1253,-152.9664,116.1,2.2,ml,,,,0.38,ak,ak023dgpyd2x,2023-10-20T09:25:47.727Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-20T09:13:37.790Z,38.7568321,-122.7358322,1.47,1.1,md,8,133,0.009807,0.02,nc,nc73949265,2023-10-20T10:53:14.151Z,"3 km SE of The Geysers, CA",earthquake,0.33,0.55,0.07,9,automatic,nc,nc
+2023-10-20T09:10:55.683Z,31.656,-104.657,5.0261,2,ml(texnet),19,84,0.1,0.1,tx,tx2023uofb,2023-10-20T12:40:54.086Z,"western Texas",earthquake,2.925715751,1.790766146,0.1,7,reviewed,tx,tx
 2023-10-20T09:06:45.590Z,38.814167,-122.817337,0.96,1.51,md,25,51,0.01066,0.02,nc,nc73949260,2023-10-20T10:25:12.982Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.3,0.13,27,automatic,nc,nc
 2023-10-20T09:04:25.660Z,35.26766667,-98.02583333,9.87,1.99,ml,87,56,0.1520701586,0.27,ok,ok2023uoew,2023-10-20T12:34:06.024Z,"Oklahoma",earthquake,,1.2,0.22,46,reviewed,ok,ok
 2023-10-20T08:59:37.130Z,38.7741661,-122.7360001,3.05,1.09,md,12,79,0.01528,0.02,nc,nc73949255,2023-10-20T09:54:12.810Z,"2 km E of The Geysers, CA",earthquake,0.32,0.77,0.16,12,automatic,nc,nc
@@ -59,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T02:52:41.316Z,61.6027,-147.154,29.3,1.5,ml,,,,1.13,ak,ak023dglysbn,2023-10-20T02:54:28.495Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-20T02:48:51.244Z,63.3148,-150.9905,3.1,1.5,ml,,,,0.57,ak,ak023dglxy84,2023-10-20T02:51:12.854Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-20T02:44:12.218Z,-6.2293,103.7772,38.448,4.6,mb,32,181,2.029,0.68,us,us6000lgsp,2023-10-20T03:10:00.040Z,"186 km WSW of Bandar Lampung, Indonesia",earthquake,11.8,6.347,0.12,23,reviewed,us,us
-2023-10-20T02:34:18.620Z,35.24528885,-98.05007935,5,2.41,ml,24,50.14718628,0.1794175804,0.9849827528,ok,ok2023unrz,2023-10-20T02:37:56.722Z,"10 km WNW of Pocasset, Oklahoma",earthquake,2.350273472,,0.27,24,automatic,ok,ok
+2023-10-20T02:34:18.609Z,35.2595,-98.02933333,7.95,2.08,ml,85,37,0.1601685695,0.23,ok,ok2023unrz,2023-10-20T12:41:38.530Z,"9 km SW of Minco, Oklahoma",earthquake,,0.5,0.2,37,reviewed,ok,ok
 2023-10-20T02:33:24.830Z,38.8256683,-122.7655029,2.06,0.78,md,10,125,0.01715,0.02,nc,nc73949170,2023-10-20T02:50:14.389Z,"4 km W of Cobb, CA",earthquake,0.37,0.74,0.08,13,automatic,nc,nc
 2023-10-20T02:30:20.080Z,33.7853333,-116.1173333,4.73,1.99,ml,45,41,0.08751,0.17,ci,ci40584496,2023-10-20T02:41:12.290Z,"12 km NE of Indio, CA",earthquake,0.19,0.71,0.132,26,automatic,ci,ci
 2023-10-20T02:21:57.400Z,36.0491667,-117.8621667,0.83,1.64,ml,17,92,0.06853,0.21,ci,ci40584488,2023-10-20T02:25:39.624Z,"8 km E of Coso Junction, CA",earthquake,0.35,0.6,0.128,14,automatic,ci,ci
