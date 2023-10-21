@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-21T21:57:52.338Z,60.1915,-152.8814,118.4,1.6,ml,,,,0.25,ak,ak023dikugqp,2023-10-21T22:00:20.403Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-21T21:50:20.840Z,19.1770000457764,-155.497161865234,34.2000007629395,1.96000004,md,35,87,,0.119999997,hv,hv73616967,2023-10-21T21:53:40.960Z,"3 km SW of Pāhala, Hawaii",earthquake,0.54,0.75999999,1.14999998,16,automatic,hv,hv
 2023-10-21T21:40:22.300Z,38.7768326,-122.7580032,1.19,0.78,md,9,69,0.008595,0.01,nc,nc73949800,2023-10-21T21:50:10.728Z,"0 km WSW of The Geysers, CA",earthquake,0.58,1,0.09,9,automatic,nc,nc
 2023-10-21T21:26:29.960Z,38.8313332,-122.8190002,1.22,0.76,md,9,66,0.01056,0.01,nc,nc73949795,2023-10-21T21:37:10.643Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.9,0.32,10,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T19:17:48.850Z,34.1448333,-116.9018333,12.04,2.46,ml,71,30,0.05843,0.17,ci,ci40584776,2023-10-21T19:32:42.691Z,"11 km S of Big Bear Lake, CA",earthquake,0.19,0.48,0.175,25,automatic,ci,ci
 2023-10-21T19:10:17.160Z,19.3616666666667,-155.292,2.21,0.46,md,15,116,,0.07,hv,hv73616682,2023-10-21T21:41:28.440Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.45,0.249500129140203,2,reviewed,hv,hv
 2023-10-21T18:51:33.140Z,35.7886658,-121.2723312,5.77,1.52,md,7,190,0.1435,0.07,nc,nc73949745,2023-10-21T21:45:14.693Z,"18 km NNW of San Simeon, CA",earthquake,0.83,2.22,0.1,7,automatic,nc,nc
-2023-10-21T18:44:29.528Z,-38.7158,143.6012,10,3.5,mb,8,181,1.877,0.56,us,us6000lh70,2023-10-21T21:14:09.773Z,"7 km NW of Apollo Bay, Australia",earthquake,8.23,2.004,0.493,1,reviewed,us,us
+2023-10-21T18:44:29.528Z,-38.7158,143.6012,10,3.5,mb,8,181,1.877,0.56,us,us6000lh70,2023-10-21T22:00:57.401Z,"7 km NW of Apollo Bay, Australia",earthquake,8.23,2.004,0.493,1,reviewed,us,us
 2023-10-21T18:37:51.470Z,19.3753333333333,-155.248333333333,1.15,0.35,md,14,113,,0.12,hv,hv73616647,2023-10-21T21:37:57.170Z,"7 km SSW of Volcano, Hawaii",earthquake,0.33,0.22,0.31139668212805,2,reviewed,hv,hv
 2023-10-21T18:33:25.289Z,62.8926,-148.3291,4,1.5,ml,,,,0.66,ak,ak023diiwynk,2023-10-21T18:35:17.579Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-21T18:25:11.020Z,18.8128333333333,-66.4413333333333,30.03,2.53,md,7,280,0.497,0.06,pr,pr71429398,2023-10-21T18:56:30.120Z,"39 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.97,3.76,0.0830949448418332,3,reviewed,pr,pr
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T22:07:05.850Z,57.0183333333333,-135.634833333333,5.31,0.63,ml,0,200,,0.12,av,av92089501,2023-10-20T23:55:05.640Z,"18 km WSW of Sitka, Alaska",earthquake,1.12,1.54,0.25659431341803,5,reviewed,av,av
 2023-10-20T22:04:17.762Z,14.3815,-93.2573,10,4.4,mb,22,195,2.177,1.1,us,us6000lh1e,2023-10-20T22:20:05.040Z,"97 km WSW of Puerto Madero, Mexico",earthquake,8.66,1.913,0.123,19,reviewed,us,us
 2023-10-20T22:03:46.900Z,46.20066666666666,-122.18816666666666,0.58,0.3,ml,21,58,0.00191,0.2,uw,uw61958282,2023-10-20T23:55:36.100Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.42,0.12711614686333397,16,reviewed,uw,uw
-2023-10-20T22:01:47.600Z,33.8218333,-117.4796667,-0.53,1.68,ml,41,41,0.02919,0.25,ci,ci40584688,2023-10-21T00:00:46.313Z,"7 km SSE of Home Gardens, CA",quarry blast,0.32,31.61,0.187,25,reviewed,ci,ci
