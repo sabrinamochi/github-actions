@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-22T22:39:15.930Z,38.8173332,-122.8081665,3.06,1.85,md,38,41,0.006234,0.04,nc,nc73950135,2023-10-22T22:40:54.031Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.3,0.19,40,automatic,nc,nc
+2023-10-22T22:39:15.930Z,38.8173332,-122.8081665,3.06,1.85,md,38,41,0.006234,0.04,nc,nc73950135,2023-10-22T22:42:25.031Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.3,0.19,40,automatic,nc,nc
 2023-10-22T22:29:31.293Z,61.5207,-149.9374,31.8,1.4,ml,,,,0.49,ak,ak023dk8t761,2023-10-22T22:31:08.901Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-22T22:26:33.890Z,37.0116,-116.2103,2.7,0.6,ml,8,109.33,0.07,0.1014,nn,nn00867753,2023-10-22T22:28:30.163Z,"50 km ENE of Beatty, Nevada",earthquake,,1.1,1.36,6,automatic,nn,nn
 2023-10-22T22:22:18.952Z,-22.6136,-66.113,268.29,4.3,mb,21,89,1.936,0.69,us,us6000lhd0,2023-10-22T22:37:08.040Z,"44 km WNW of Abra Pampa, Argentina",earthquake,10.68,10.695,0.153,12,reviewed,us,us
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T17:19:04.252Z,37.0633,-115.641,0.8,1.2,ml,13,282.43,0.266,0.3036,nn,nn00867751,2023-10-22T17:21:11.654Z,"53 km SW of Alamo, Nevada",earthquake,,0.1,1.06,9,automatic,nn,nn
 2023-10-22T17:16:33.470Z,34.1466667,-117.3543333,6.4,0.81,ml,23,95,0.05054,0.14,ci,ci40584936,2023-10-22T18:57:34.493Z,"1 km SW of Muscoy, CA",earthquake,0.22,0.46,0.091,9,reviewed,ci,ci
 2023-10-22T17:14:39.796Z,64.2393,-147.7563,11,1.8,ml,,,,0.26,ak,ak023dk5qt19,2023-10-22T17:16:55.279Z,"52 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-22T17:03:34.530Z,19.3518333435059,-155.307327270508,2.13000011444092,2.06,ml,39,48,,0.230000004,hv,hv73618332,2023-10-22T17:09:05.310Z,"12 km SW of Volcano, Hawaii",earthquake,0.35,0.620000005,1.66,15,automatic,hv,hv
+2023-10-22T17:03:34.470Z,19.3403333333333,-155.3075,3.45,2.15,ml,40,53,,0.1,hv,hv73618332,2023-10-22T22:44:57.770Z,"Hawaii region, Hawaii",earthquake,0.25,0.6,0.205996324797581,20,reviewed,hv,hv
 2023-10-22T16:53:48.890Z,19.3781661987305,-155.278839111328,1.19000005722046,1.85,ml,18,85,,0.119999997,hv,hv73618297,2023-10-22T16:59:19.060Z,"8 km SSW of Volcano, Hawaii",earthquake,0.2,0.219999999,0.31,8,automatic,hv,hv
 2023-10-22T16:45:01.250Z,19.1403331756592,-155.399337768555,31.1200008392334,1.78,ml,46,178,,0.109999999,hv,hv73618287,2023-10-22T16:50:33.060Z,"10 km SE of Pāhala, Hawaii",earthquake,0.56,0.720000029,4.97,5,automatic,hv,hv
 2023-10-22T16:12:48.030Z,35.7171667,-117.5641667,6.61,1.38,ml,26,64,0.1046,0.16,ci,ci40584928,2023-10-22T18:46:54.147Z,"15 km NE of Ridgecrest, CA",earthquake,0.25,0.79,0.141,13,reviewed,ci,ci
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T08:18:53.700Z,19.1371669769287,-155.482162475586,10.9899997711182,2.18,ml,40,166,,0.219999999,hv,hv73617607,2023-10-22T09:00:57.040Z,"7 km S of Pāhala, Hawaii",earthquake,0.57,0.439999998,4.32,10,automatic,hv,hv
 2023-10-22T08:14:15.280Z,35.263,-118.642,7.63,1.2,ml,17,97,0.04981,0.17,ci,ci40584856,2023-10-22T13:41:11.764Z,"18 km ENE of Arvin, CA",earthquake,0.35,0.93,0.119,11,reviewed,ci,ci
 2023-10-22T08:13:38.944Z,38.9069,22.3607,13.874,4.3,mb,47,54,1.199,0.56,us,us6000lh9v,2023-10-22T08:38:44.040Z,"1 km NW of Stavrós, Greece",earthquake,4.74,4.599,0.168,10,reviewed,us,us
-2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-22T22:34:37.136Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
+2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-22T22:44:13.767Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
 2023-10-22T08:04:50.658Z,61.6379,-148.8423,14.2,1.1,ml,,,,0.26,ak,ak023dk0btah,2023-10-22T08:06:20.170Z,"5 km ENE of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-22T07:48:45.010Z,18.2975,-67.2995,80.54,3.33,md,15,151,0.06171,0.34,pr,pr71429433,2023-10-22T08:49:40.040Z,"6 km WSW of Stella, Puerto Rico",earthquake,1.88,1.35,0.140655110797906,7,reviewed,pr,pr
 2023-10-22T07:34:55.486Z,60.0323,-153.3551,91.6,2.4,ml,,,,0.49,ak,ak023djzwtjg,2023-10-22T07:37:25.557Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,3.4,,,automatic,ak,ak
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T22:54:29.819Z,60.1431,-151.0039,63.7,1.4,ml,,,,0.41,ak,ak023dilf7gl,2023-10-21T22:56:20.294Z,"23 km ESE of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-21T22:54:17.040Z,46.20283333333333,-122.18733333333333,3.98,-0.06,ml,9,92,0.03388,0.12,uw,uw61958487,2023-10-22T04:55:38.020Z,"38 km NNE of Amboy, Washington",earthquake,0.44,1.64,0.1615598735560571,5,reviewed,uw,uw
 2023-10-21T22:53:37.382Z,39.4266,-119.6833,8,1.1,ml,11,194.03,0.063,0.0874,nn,nn00867729,2023-10-22T00:26:23.310Z,"13 km NNW of Virginia City, Nevada",earthquake,,1.2,0.29,4,reviewed,nn,nn
-2023-10-21T22:49:39.929Z,63.4967,-150.874,0,1.4,ml,,,,0.61,ak,ak023dile5ns,2023-10-21T22:51:48.369Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
