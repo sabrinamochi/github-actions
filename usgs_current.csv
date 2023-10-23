@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-23T20:16:52.150Z,33.8431667,-117.498,2.09,1.69,ml,37,51,0.05104,0.2,ci,ci40585664,2023-10-23T20:20:36.179Z,"4 km SSE of Home Gardens, CA",quarry blast,0.26,0.39,0.195,30,automatic,ci,ci
 2023-10-23T20:05:47.727Z,59.7945,-147.6564,0,2.1,ml,,,,0.55,ak,ak023dlv0kj8,2023-10-23T20:08:27.523Z,"36 km SSE of Chenega, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-23T19:42:45.891Z,36.2776,-115.351,0,1.4,ml,20,230.96,0.276,0.2564,nn,nn00867787,2023-10-23T19:45:31.173Z,"17 km N of Summerlin South, Nevada",earthquake,,37.6,0.92,17,automatic,nn,nn
 2023-10-23T19:40:28.550Z,35.6626667,-117.5188333,14.19,1.1,ml,11,106,0.0775,0.22,ci,ci40585632,2023-10-23T19:44:02.882Z,"15 km ENE of Ridgecrest, CA",earthquake,0.68,1.51,0.092,5,automatic,ci,ci
@@ -40,12 +41,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T16:24:03.970Z,40.4049988,-124.677002,25.25,2.43,md,15,266,0.2685,0.08,nc,nc73950395,2023-10-23T17:49:11.813Z,"34 km WNW of Petrolia, CA",earthquake,2.31,2.2,0.15,7,automatic,nc,nc
 2023-10-23T16:16:50.430Z,33.2543333,-116.3105,10.34,1.26,ml,48,29,0.08639,0.23,ci,ci40585352,2023-10-23T17:31:46.096Z,"6 km E of Borrego Springs, CA",earthquake,0.22,0.62,0.094,23,reviewed,ci,ci
 2023-10-23T16:13:02.276Z,60.7661,-151.306,235.4,1.4,ml,,,,0.52,ak,ak023dlsogc3,2023-10-23T16:15:21.568Z,"8 km N of Nikiski, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-10-23T16:01:31.740Z,43.8368,147.6851,85.835,4.5,mb,55,145,3.686,0.82,us,us6000lhj3,2023-10-23T17:03:40.040Z,"77 km E of Shikotan, Russia",earthquake,12.19,8.139,0.081,45,reviewed,us,us
+2023-10-23T16:01:31.740Z,43.8368,147.6851,85.835,4.5,mb,55,145,3.686,0.82,us,us6000lhj3,2023-10-23T17:03:40.040Z,"Kuril Islands",earthquake,12.19,8.139,0.081,45,reviewed,us,us
 2023-10-23T15:49:29.810Z,38.129,-121.6703333,0.01,2.49,md,33,81,,0.54,nc,nc73950390,2023-10-23T20:05:12.610Z,"4 km SSE of Rio Vista, CA",earthquake,0.72,1.02,0.166,67,reviewed,nc,nc
 2023-10-23T15:20:52.360Z,32.7615,-115.4225,11.97,2.04,ml,24,65,0.04825,0.24,ci,ci40585304,2023-10-23T16:32:50.464Z,"7 km SW of Holtville, CA",earthquake,0.33,0.5,0.199,16,reviewed,ci,ci
 2023-10-23T15:14:54.750Z,18.005,-66.8181666666667,12.09,2.33,md,8,182,0.2051,0.09,pr,pr71429568,2023-10-23T16:18:05.790Z,"1 km N of Indios, Puerto Rico",earthquake,0.44,0.67,0.204826589824028,6,reviewed,pr,pr
 2023-10-23T14:57:06.090Z,32.7456667,-115.4193333,11.81,2.37,ml,29,65,0.06383,0.25,ci,ci40585264,2023-10-23T16:23:25.850Z,"8 km SSW of Holtville, CA",earthquake,0.33,0.49,0.144,21,reviewed,ci,ci
-2023-10-23T14:42:15.350Z,38.1316667,-121.6575,0.02,2.88,ml,70,130,0.04001,0.44,nc,nc73950380,2023-10-23T19:40:45.578Z,"4 km SE of Rio Vista, CA",earthquake,0.46,0.97,0.2,82,reviewed,nc,nc
+2023-10-23T14:42:15.350Z,38.1316667,-121.6575,0.02,2.88,ml,70,130,0.04001,0.44,nc,nc73950380,2023-10-23T20:19:45.757Z,"4 km SE of Rio Vista, CA",earthquake,0.46,0.97,0.2,82,reviewed,nc,nc
 2023-10-23T14:27:20.513Z,36.7044,-116.3339,9.3,-0.3,ml,8,269.99,0.024,0.057,nn,nn00867781,2023-10-23T16:39:49.154Z,"44 km ESE of Beatty, Nevada",earthquake,,1.9,0.76,6,reviewed,nn,nn
 2023-10-23T14:00:19.990Z,33.1505,-115.6375,4.95,1.19,ml,12,86,0.03255,0.21,ci,ci40585224,2023-10-23T17:26:40.067Z,"12 km WNW of Calipatria, CA",earthquake,0.49,1,0.117,6,reviewed,ci,ci
 2023-10-23T13:51:44.765Z,38.564,-119.5493,6.1,2.2,ml,24,73.14,0.032,0.1649,nn,nn00867776,2023-10-23T18:28:35.836Z,"3 km W of Coleville, California",earthquake,,0.7,0.25,12,reviewed,nn,nn
@@ -55,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T12:28:56.994Z,36.7958,-115.969,5.7,0,ml,12,138.79,0.021,0.1738,nn,nn00867780,2023-10-23T16:36:36.956Z,"36 km NW of Indian Springs, Nevada",earthquake,,3.4,0.3,7,reviewed,nn,nn
 2023-10-23T12:13:57.880Z,46.204,-122.19733333333333,2.57,0.32,ml,12,85,0.009055,0.11,uw,uw61502838,2023-10-23T17:35:42.040Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.64,0.06803047586339353,3,reviewed,uw,uw
 2023-10-23T12:13:31.810Z,46.199333333333335,-122.199,2.4,0.21,ml,13,79,0.009417,0.16,uw,uw61958822,2023-10-23T17:31:34.710Z,"Washington",earthquake,0.39,0.58,0.10420289591367204,3,reviewed,uw,uw
+2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"California-Nevada border region",earthquake,,1.3,0.18,8,reviewed,nn,nn
 2023-10-23T09:15:39.405Z,31.665,-104.497,5.6688,2.1,ml(texnet),19,71,0,0.2,tx,tx2023utrt,2023-10-23T19:59:28.822Z,"57 km SSW of Whites City, New Mexico",earthquake,1.511228414,0.7636279723,0.1,7,reviewed,tx,tx
 2023-10-23T09:07:04.682Z,40.0222,-119.5924,9,0.5,ml,4,188.74,0.183,0.0255,nn,nn00867779,2023-10-23T16:30:17.708Z,"8 km N of Sutcliffe, Nevada",earthquake,,6.7,0.09,3,reviewed,nn,nn
 2023-10-23T08:57:03.760Z,46.1955,-122.18983333333334,3.55,0.04,ml,13,127,0.005582,0.11,uw,uw61958802,2023-10-23T16:18:18.070Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.52,0.08325898484597666,8,reviewed,uw,uw
@@ -85,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T03:13:22.050Z,38.8204994,-122.8529968,2.42,0.62,md,11,109,0.007659,0.02,nc,nc73950180,2023-10-23T03:46:10.913Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.66,0.28,10,automatic,nc,nc
 2023-10-23T02:45:53.904Z,38.1746,-117.8903,12.5,1.3,ml,9,94.6,0.078,0.1272,nn,nn00867755,2023-10-23T19:49:12.114Z,"Nevada",earthquake,,1.3,0.49,3,reviewed,nn,nn
 2023-10-23T02:44:38.162Z,65.0458,-146.3964,15.4,1.7,ml,,,,0.76,ak,ak023dlkj3u0,2023-10-23T02:47:35.240Z,"28 km NE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-23T02:41:45.820Z,47.4075,-122.69716666666666,29.4,3.0500000000000003,ml,122,24,0.04511,0.26,uw,uw61958757,2023-10-23T19:52:38.383Z,"Puget Sound region, Washington",earthquake,0.22,0.5,0.15137558536385076,88,reviewed,uw,uw
+2023-10-23T02:41:45.820Z,47.4075,-122.69716666666666,29.4,3.0500000000000003,ml,122,24,0.04511,0.26,uw,uw61958757,2023-10-23T20:18:42.579Z,"Puget Sound region, Washington",earthquake,0.22,0.5,0.15137558536385076,88,reviewed,uw,uw
 2023-10-23T02:24:47.240Z,19.3686676025391,-155.292999267578,1.39999997615814,1.70000005,md,15,106,,0.159999996,hv,hv73619257,2023-10-23T02:27:52.870Z,"10 km SW of Volcano, Hawaii",earthquake,0.31,0.49000001,0.699999988,12,automatic,hv,hv
 2023-10-23T02:21:38.694Z,57.9373,-155.7782,0,1.7,ml,,,,0.4,ak,ak023dlke6el,2023-10-23T02:24:37.832Z,"88 km WNW of Karluk, Alaska",earthquake,,132.8,,,automatic,ak,ak
 2023-10-23T02:15:27.876Z,59.4155,-138.744,5.3,2.5,ml,,,,0.85,ak,ak023dlkcv8c,2023-10-23T04:10:23.040Z,"57 km ESE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
