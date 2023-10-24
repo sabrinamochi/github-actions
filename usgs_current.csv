@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T19:53:01.676Z,37.308,-117.6056,5.4,2.2,ml,12,99.7,0.082,0.2405,nn,nn00867834,2023-10-24T19:55:20.467Z,"49 km S of Silver Peak, Nevada",earthquake,,1.6,0.52,10,automatic,nn,nn
+2023-10-24T19:51:04.720Z,32.7558333,-115.4201667,16.35,2.67,ml,27,66,0.05421,0.27,ci,ci40586488,2023-10-24T19:55:00.194Z,"7 km SSW of Holtville, CA",earthquake,0.5,0.86,0.123,26,automatic,ci,ci
 2023-10-24T19:42:58.140Z,33.4688333,-117.088,12.07,0.93,ml,25,56,0.0701,0.29,ci,ci40586472,2023-10-24T19:46:32.081Z,"6 km ESE of Temecula, CA",earthquake,0.42,1.09,0.171,17,automatic,ci,ci
 2023-10-24T19:39:02.630Z,32.764,-115.4233333,12.29,1.57,ml,12,153,0.0457,0.27,ci,ci40586464,2023-10-24T19:42:51.328Z,"7 km SW of Holtville, CA",earthquake,1.72,1.47,0.204,14,automatic,ci,ci
 2023-10-24T19:32:14.570Z,19.1903324127197,-155.481506347656,30.6000003814697,2.28,ml,45,78,,0.100000001,hv,hv73622612,2023-10-24T19:37:46.100Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.54,0.680000007,4.03,5,automatic,hv,hv
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T19:17:04.070Z,38.8268318,-122.8503342,1.58,1.84,md,35,61,0.005157,0.04,nc,nc73950875,2023-10-24T19:34:11.637Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.23,0.12,38,automatic,nc,nc
 2023-10-24T19:16:31.710Z,38.8279991,-122.8513336,1.35,0.64,md,8,98,0.00435,0.01,nc,nc73950870,2023-10-24T19:29:11.612Z,"10 km NW of The Geysers, CA",earthquake,0.49,0.77,0.12,9,automatic,nc,nc
 2023-10-24T19:14:54.610Z,47.8461666666667,-114.324166666667,-2,0.87,ml,9,83,0.1034,0.07,mb,mb90030773,2023-10-24T19:44:36.710Z,"Western Montana",quarry blast,0.35,31.61,0.16771570862246,3,reviewed,mb,mb
-2023-10-24T19:13:52.850Z,34.026,-116.7001667,15.25,0.84,ml,15,143,0.04513,0.25,ci,ci40586416,2023-10-24T19:17:24.990Z,"11 km WSW of Morongo Valley, CA",earthquake,0.59,1.15,0.159,17,automatic,ci,ci
+2023-10-24T19:13:53.150Z,34.0138333,-116.6945,13.07,0.86,ml,19,103,0.04584,0.13,ci,ci40586416,2023-10-24T19:57:48.041Z,"11 km WSW of Morongo Valley, CA",earthquake,0.24,0.62,0.138,10,reviewed,ci,ci
 2023-10-24T19:13:23.020Z,38.8115005,-122.7593307,0.44,1.24,md,15,110,0.01678,0.03,nc,nc73950865,2023-10-24T19:22:10.562Z,"3 km WSW of Cobb, CA",earthquake,0.24,0.52,0.22,18,automatic,nc,nc
 2023-10-24T19:03:30.230Z,45.36149978637695,-121.70500183105469,0.819999992847443,1.6133557558059692,ml,8,86,0.03241,0.0500000007,uw,uw61959072,2023-10-24T19:06:43.430Z,"7 km NNE of Government Camp, Oregon",earthquake,0.36,0.419999987,0.419586181640625,7,reviewed,uw,uw
 2023-10-24T18:57:26.740Z,35.9015,-117.7506667,8.74,0.75,ml,12,112,0.07241,0.09,ci,ci40586408,2023-10-24T19:31:25.073Z,"15 km ESE of Little Lake, CA",earthquake,0.25,0.5,0.207,3,reviewed,ci,ci
@@ -36,6 +38,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T17:27:43.420Z,38.8203316,-122.7648315,1.75,1.46,md,29,101,0.01087,0.04,nc,nc73950790,2023-10-24T17:37:10.971Z,"4 km W of Cobb, CA",earthquake,0.21,0.33,0.19,29,automatic,nc,nc
 2023-10-24T17:14:35.330Z,38.840332,-122.8351669,1.64,0.5,md,10,154,0.001758,0.02,nc,nc73950785,2023-10-24T17:25:12.019Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.74,0.4,9,automatic,nc,nc
 2023-10-24T17:04:15.910Z,35.871,-117.7068333,10.76,0.65,ml,16,116,0.07814,0.14,ci,ci40586264,2023-10-24T17:50:55.704Z,"19 km ESE of Little Lake, CA",earthquake,0.3,0.36,0.063,6,reviewed,ci,ci
+2023-10-24T17:02:29.080Z,37.6496667,-118.8978333,-2.35,1.4,md,7,154,0.005323,0.05,nc,nc73950780,2023-10-24T19:53:22.046Z,"7 km ENE of Mammoth Lakes, CA",earthquake,0.3,0.74,0.062,6,reviewed,nc,nc
+2023-10-24T16:47:25.000Z,47.851166666666664,-122.12716666666667,22.26,1.11,ml,9,136,0.01874,0.07,uw,uw61959052,2023-10-24T19:51:22.840Z,"1 km N of Clearview, Washington",earthquake,0.85,0.42,0.15421899665855027,3,reviewed,uw,uw
 2023-10-24T16:39:00.620Z,38.7820015,-122.7236633,1.72,1.04,md,11,82,0.01028,0.02,nc,nc73950775,2023-10-24T16:48:10.700Z,"3 km WNW of Anderson Springs, CA",earthquake,0.26,0.72,0.18,12,automatic,nc,nc
 2023-10-24T16:33:27.572Z,62.8567,-151.7616,11.5,0.8,ml,,,,0.68,ak,ak023dngc53p,2023-10-24T16:35:27.110Z,"64 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-24T16:25:46.711Z,61.4246,-151.0904,78,1.2,ml,,,,0.54,ak,ak023dngagun,2023-10-24T16:28:06.307Z,"31 km N of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -132,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T06:33:00.110Z,33.7168333,-116.7771667,14.95,0.67,ml,18,119,0.05447,0.15,ci,ci40585896,2023-10-24T13:34:29.578Z,"6 km WSW of Idyllwild, CA",earthquake,0.42,0.43,0.104,13,reviewed,ci,ci
 2023-10-24T06:31:36.040Z,38.7885017,-122.7279968,0.25,0.95,md,6,122,0.008612,0.04,nc,nc73950605,2023-10-24T06:42:11.236Z,"3 km ENE of The Geysers, CA",earthquake,0.51,3.68,0.23,7,automatic,nc,nc
 2023-10-24T06:29:13.830Z,38.7885017,-122.7298355,0.36,2.12,md,30,88,0.007525,0.05,nc,nc73950600,2023-10-24T07:33:11.510Z,"3 km ENE of The Geysers, CA",earthquake,0.16,0.28,0.15,29,automatic,nc,nc
-2023-10-24T06:29:09.230Z,38.7883333,-122.7268333,0.81,1.4,md,49,36,0.008983,0.04,nc,nc73950595,2023-10-24T19:47:50.681Z,"3 km ENE of The Geysers, CA",earthquake,0.11,0.18,0.164,18,reviewed,nc,nc
+2023-10-24T06:29:09.230Z,38.7883333,-122.7268333,0.81,1.4,md,49,36,0.008983,0.04,nc,nc73950595,2023-10-24T19:54:10.768Z,"3 km ENE of The Geysers, CA",earthquake,0.11,0.18,0.164,18,reviewed,nc,nc
 2023-10-24T06:19:17.430Z,31.519,-104.014,7.5841,2.3,ml(texnet),34,61,0,0.3,tx,tx2023uvhk,2023-10-24T10:48:48.184Z,"30 km NW of Toyah, Texas",earthquake,0.6188894268,0.5499824408,0.3,27,reviewed,tx,tx
 2023-10-24T06:13:12.080Z,38.6808319,-122.4980011,8.25,1.42,md,8,133,0.0912,0.06,nc,nc73950590,2023-10-24T07:18:11.428Z,"12 km NNW of Angwin, CA",earthquake,0.68,2.89,0.34,10,automatic,nc,nc
 2023-10-24T06:04:57.820Z,35.4788333333333,-91.6231666666667,6.51,2.24,md,7,169,0.2356,0.12,nm,nm60501223,2023-10-24T13:30:29.120Z,"7 km S of Pleasant Plains, Arkansas",earthquake,0.65,2.25,0.0758748545333456,6,reviewed,nm,nm
