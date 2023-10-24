@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-24T16:04:07.162Z,60.1518,-152.3852,90.1,1.4,ml,,,,0.64,ak,ak023dng5vrg,2023-10-24T16:06:21.045Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-24T16:00:37.370Z,38.7811661,-122.7630005,0.29,0.85,md,9,68,0.01065,0.02,nc,nc73950755,2023-10-24T16:02:12.514Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.55,0.22,11,automatic,nc,nc
+2023-10-24T16:00:37.370Z,38.7811661,-122.7630005,0.29,0.85,md,9,68,0.01065,0.02,nc,nc73950755,2023-10-24T16:14:10.528Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.55,0.22,11,automatic,nc,nc
 2023-10-24T15:59:18.684Z,60.8844,-151.5885,56.4,1.4,ml,,,,1.17,ak,ak023dnfw9fg,2023-10-24T16:01:53.305Z,"27 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-24T15:55:44.600Z,63.1989,-151.4029,9.5,2.4,ml,,,,0.4,ak,ak023dnfvgkc,2023-10-24T15:57:31.844Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-24T15:40:44.880Z,38.840332,-122.822998,2.07,1.68,md,34,65,0.009907,0.02,nc,nc73950745,2023-10-24T16:10:11.503Z,"9 km WNW of Cobb, CA",earthquake,0.17,0.3,0.16,35,automatic,nc,nc
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T08:06:54.373Z,63.4216,-147.4248,4.2,2.3,ml,,,,0.35,ak,ak023dnbexzx,2023-10-24T08:08:34.931Z,"76 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-24T08:00:15.980Z,19.2770004272461,-155.445999145508,32.1399993896484,2.46,ml,49,100,,0.129999995,hv,hv73621867,2023-10-24T08:05:46.550Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.41,0.660000026,2.92,30,automatic,hv,hv
 2023-10-24T07:50:36.430Z,38.8258324,-122.8068314,1.93,0.76,md,8,108,0.003513,0.01,nc,nc73950645,2023-10-24T09:39:12.200Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.29,0.43,10,automatic,nc,nc
-2023-10-24T07:45:19.650Z,33.9021667,-116.887,6.74,0.54,ml,9,242,0.1012,0.14,ci,ci40585920,2023-10-24T07:48:58.769Z,"3 km SSW of Banning, CA",earthquake,0.8,31.61,0.192,9,automatic,ci,ci
+2023-10-24T07:45:19.850Z,33.8781667,-116.8911667,12.14,0.58,ml,12,202,0.08983,0.09,ci,ci40585920,2023-10-24T16:14:21.700Z,"5 km SSW of Banning, CA",earthquake,0.33,0.73,0.195,8,reviewed,ci,ci
 2023-10-24T07:36:35.200Z,38.4936667,-112.837,-0.18,0.58,md,13,95,0.01458,0.09,uu,uu60552822,2023-10-24T13:42:00.790Z,"18 km NE of Milford, Utah",earthquake,0.26,0.18,0.161,4,reviewed,uu,uu
 2023-10-24T07:28:24.360Z,18.0221666666667,-66.8176666666667,5.87,2.44,md,9,173,0.2022,0.09,pr,pr71429723,2023-10-24T07:46:25.150Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.34,0.39,0.225974848751477,5,reviewed,pr,pr
 2023-10-24T07:20:28.705Z,60.8806,-152.3448,16.7,0.9,ml,,,,0.42,ak,ak023dnawgfq,2023-10-24T07:22:29.932Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T02:53:59.160Z,45.5976666666667,-112.484,4.98,0.37,ml,5,138,0.2138,0.06,mb,mb90030748,2023-10-24T14:25:21.770Z,"Western Montana",earthquake,0.36,5.72,0.162600681953352,3,reviewed,mb,mb
 2023-10-24T02:45:08.830Z,19.1801662445068,-155.478332519531,32.7799987792969,1.97000003,md,41,76,,0.129999995,hv,hv73621522,2023-10-24T02:49:50.390Z,"2 km S of Pāhala, Hawaii",earthquake,0.56,0.75999999,1.19000006,16,automatic,hv,hv
 2023-10-24T02:42:41.520Z,17.9848333333333,-66.8078333333333,16.95,2.82,md,13,190,0.03826,0.09,pr,pr71429683,2023-10-24T02:57:47.230Z,"Puerto Rico region",earthquake,0.47,0.34,0.0773135720396401,6,reviewed,pr,pr
-2023-10-24T02:35:14.670Z,33.8151667,-116.5133333,13.02,0.74,ml,17,111,0.1525,0.16,ci,ci40585880,2023-10-24T02:38:54.898Z,"2 km ESE of Palm Springs, CA",earthquake,0.32,0.92,0.24,17,automatic,ci,ci
+2023-10-24T02:35:14.760Z,33.818,-116.5193333,9.8,0.74,ml,28,65,0.1531,0.13,ci,ci40585880,2023-10-24T16:13:36.071Z,"1 km ESE of Palm Springs, CA",earthquake,0.17,0.5,0.213,13,reviewed,ci,ci
 2023-10-24T02:26:58.152Z,59.4337,-151.8802,52.1,1.8,ml,,,,0.44,ak,ak023dn7ymzb,2023-10-24T02:29:19.828Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-24T02:19:31.235Z,62.9998,-150.4961,5.6,1.3,ml,,,,1.07,ak,ak023dn7x2w3,2023-10-24T02:21:32.737Z,"57 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-24T02:17:05.690Z,34.3568333,-116.4615,6.3,1.35,ml,26,74,0.09229,0.14,ci,ci40585872,2023-10-24T15:42:25.215Z,"27 km N of Yucca Valley, CA",earthquake,0.21,0.55,0.181,24,reviewed,ci,ci
