@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T12:35:52.497Z,63.0966,-150.9222,114.2,1.5,ml,,,,0.71,ak,ak023dndyw1d,2023-10-24T12:38:08.609Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-24T12:29:42.302Z,35.3545,139.0164,166.787,4.5,mb,91,85,0.961,0.69,us,us7000l5yw,2023-10-24T14:04:16.253Z,"7 km ENE of Gotenba, Japan",earthquake,7.26,6.322,0.053,104,reviewed,us,us
 2023-10-24T12:18:07.970Z,19.4478340148926,-155.564331054688,38.6800003051758,1.86,ml,26,43,,0.140000001,hv,hv73622122,2023-10-24T12:23:41.460Z,"28 km NNW of Pāhala, Hawaii",earthquake,0.71,1.16999996,3.62,4,automatic,hv,hv
-2023-10-24T11:56:24.320Z,47.06266784667969,-121.9991683959961,11.25,2.622577428817749,ml,73,79,0.0745,0.159999996,uw,uw61959007,2023-10-24T15:59:32.640Z,"4 km ESE of Carbonado, Washington",earthquake,0.24,0.649999976,0.3169775903224945,106,reviewed,uw,uw
+2023-10-24T11:56:24.320Z,47.06266784667969,-121.9991683959961,11.25,2.622577428817749,ml,73,79,0.0745,0.159999996,uw,uw61959007,2023-10-24T16:00:38.971Z,"4 km ESE of Carbonado, Washington",earthquake,0.24,0.649999976,0.3169775903224945,106,reviewed,uw,uw
 2023-10-24T11:52:10.700Z,33.9695,-116.555,11.09,1.23,ml,34,68,0.0385,0.15,ci,ci40586016,2023-10-24T11:55:45.168Z,"5 km W of Desert Hot Springs, CA",earthquake,0.22,0.4,0.164,27,automatic,ci,ci
 2023-10-24T11:48:43.160Z,38.8308334,-122.8143311,1.75,1.06,md,18,48,0.008138,0.01,nc,nc73950710,2023-10-24T11:58:10.059Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.12,19,automatic,nc,nc
 2023-10-24T11:48:32.190Z,35.8696667,-117.7285,3.68,0.99,ml,14,112,0.06776,0.25,ci,ci40586008,2023-10-24T11:52:10.939Z,"18 km ESE of Little Lake, CA",earthquake,0.44,0.99,0.243,8,automatic,ci,ci
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T07:28:24.360Z,18.0221666666667,-66.8176666666667,5.87,2.44,md,9,173,0.2022,0.09,pr,pr71429723,2023-10-24T07:46:25.150Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.34,0.39,0.225974848751477,5,reviewed,pr,pr
 2023-10-24T07:20:28.705Z,60.8806,-152.3448,16.7,0.9,ml,,,,0.42,ak,ak023dnawgfq,2023-10-24T07:22:29.932Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T07:13:42.160Z,37.5626667,-119.015,2.29,0.03,md,8,260,0.0482,0.02,nc,nc73950635,2023-10-24T11:30:10.882Z,"9 km SSW of Mammoth Lakes, CA",earthquake,0.59,0.77,0.25,8,reviewed,nc,nc
-2023-10-24T07:05:53.220Z,32.7511667,-115.4176667,9.53,1.42,ml,18,108,0.05931,0.29,ci,ci40585912,2023-10-24T15:59:23.344Z,"8 km SSW of Holtville, CA",earthquake,0.49,1.09,0.14,11,reviewed,ci,ci
+2023-10-24T07:05:53.220Z,32.7511667,-115.4176667,9.53,1.42,ml,18,108,0.05931,0.29,ci,ci40585912,2023-10-24T16:00:16.588Z,"8 km SSW of Holtville, CA",earthquake,0.49,1.09,0.14,11,reviewed,ci,ci
 2023-10-24T06:58:44.040Z,38.967,-111.5896667,21.75,1.24,ml,10,81,0.1824,0.08,uu,uu60552812,2023-10-24T13:48:43.630Z,"Utah",earthquake,0.5,1.24,0.439,4,reviewed,uu,uu
 2023-10-24T06:50:42.900Z,38.8428345,-122.8310013,1.28,0.23,md,12,118,0.005499,0.02,nc,nc73950630,2023-10-24T07:08:10.385Z,"10 km WNW of Cobb, CA",earthquake,0.3,0.65,0.14,12,automatic,nc,nc
 2023-10-24T06:49:46.570Z,38.8429985,-122.8306656,1.27,1.33,md,22,111,0.005793,0.02,nc,nc73950625,2023-10-24T08:46:10.928Z,"10 km WNW of Cobb, CA",earthquake,0.19,0.32,0.18,22,automatic,nc,nc
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T16:16:50.430Z,33.2543333,-116.3105,10.34,1.26,ml,48,29,0.08639,0.23,ci,ci40585352,2023-10-23T17:31:46.096Z,"6 km E of Borrego Springs, CA",earthquake,0.22,0.62,0.094,23,reviewed,ci,ci
 2023-10-23T16:13:02.276Z,60.7661,-151.306,235.4,1.4,ml,,,,0.52,ak,ak023dlsogc3,2023-10-23T16:15:21.568Z,"8 km N of Nikiski, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-23T16:08:31.950Z,45.993,-111.4285,4.98,0.88,ml,7,221,0.35,0.15,mb,mb90030733,2023-10-24T14:03:17.120Z,"6 km SW of Ponderosa Pines, Montana",earthquake,1.14,31.61,0.148963161901643,6,reviewed,mb,mb
-2023-10-23T16:01:31.740Z,43.8368,147.6851,85.835,4.5,mb,55,145,3.686,0.82,us,us6000lhj3,2023-10-23T17:03:40.040Z,"77 km E of Shikotan, Russia",earthquake,12.19,8.139,0.081,45,reviewed,us,us
