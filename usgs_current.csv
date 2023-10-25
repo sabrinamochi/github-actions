@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T03:33:09.089Z,57.6936,-157.8133,41,1.9,ml,,,,0.84,ak,ak023dow4tb0,2023-10-25T03:34:43.161Z,"Alaska Peninsula",earthquake,,16.9,,,automatic,ak,ak
 2023-10-25T03:27:28.992Z,58.1768,-155.3661,0,0.5,ml,,,,0.56,ak,ak023dow3kjn,2023-10-25T03:29:40.137Z,"86 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-25T03:18:59.760Z,18.1706666666667,-67.3626666666667,17.79,2.61,md,15,212,0.1976,0.34,pr,pr71429778,2023-10-25T03:33:05.060Z,"Mona Passage",earthquake,1.19,0.9,0.12242431678182,6,reviewed,pr,pr
-2023-10-25T03:12:54.730Z,39.3845,-120.1988333,8.7,2.22,md,15,49,0.09708,0.06,nc,nc73951015,2023-10-25T05:32:10.605Z,"6 km NNW of Truckee, CA",earthquake,0.2,0.6,0.177,18,reviewed,nc,nc
+2023-10-25T03:12:54.730Z,39.3845,-120.1988333,8.7,2.22,md,15,49,0.09708,0.06,nc,nc73951015,2023-10-25T06:30:10.935Z,"6 km NNW of Truckee, CA",earthquake,0.2,0.6,0.177,18,reviewed,nc,nc
 2023-10-25T02:56:02.830Z,33.9963333,-118.3503333,9.76,2.06,ml,62,48,0.01108,0.28,ci,ci40586824,2023-10-25T04:20:50.298Z,"0 km WNW of View Park-Windsor Hills, CA",earthquake,0.3,0.58,0.195,27,automatic,ci,ci
 2023-10-25T02:41:45.890Z,33.2721667,-116.776,12.11,1.04,ml,30,48,0.03887,0.21,ci,ci40586808,2023-10-25T02:45:22.876Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.27,0.67,0.115,24,automatic,ci,ci
 2023-10-25T02:36:07.744Z,35.25688171,-97.98551178,3.364129305,1.81,ml,14,81.55709839,0.08325950801,1.203204266,ok,ok2023uwvo,2023-10-25T02:40:21.177Z,"7 km SSW of Minco, Oklahoma",earthquake,3.105268214,2.52283628,0.3,9,automatic,ok,ok
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T18:22:35.230Z,65.0809,-151.1488,12.9,1.2,ml,,,,0.52,ak,ak023dnhgo0z,2023-10-24T18:24:13.035Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-24T18:21:31.834Z,-23.9917,-67.3778,219.645,4,mb,16,105,1.27,0.56,us,us7000l61i,2023-10-24T22:01:24.040Z,"Chile-Argentina border region",earthquake,8.7,10.414,0.231,5,reviewed,us,us
 2023-10-24T18:20:05.750Z,36.8928333,-121.6203333,-0.12,1.49,md,23,75,0.02423,0.1,nc,nc73950830,2023-10-24T22:38:56.551Z,"2 km ENE of Aromas, CA",quarry blast,0.21,31.61,0.236,18,reviewed,nc,nc
-2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T03:57:35.594Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
+2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T06:26:38.134Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
 2023-10-24T18:02:45.917Z,33.5556,87.4205,10.018,4.6,mb,136,69,4.974,0.65,us,us7000l61c,2023-10-24T19:33:55.040Z,"western Xizang",earthquake,8.2,4.157,0.053,111,reviewed,us,us
 2023-10-24T18:00:36.580Z,38.7891667,-122.7678333,2.27,0.39,md,19,78,0.01308,0.02,nc,nc73950820,2023-10-24T23:32:11.134Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.35,0.27,13,reviewed,nc,nc
 2023-10-24T17:59:05.520Z,33.8446667,-117.4916667,-0.51,0.96,ml,28,57,0.0474,0.2,ci,ci40586360,2023-10-24T18:45:19.440Z,"5 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.023,8,reviewed,ci,ci
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T06:34:00.750Z,38.7886658,-122.7283325,-0.84,0.87,md,7,123,0.008509,0.03,nc,nc73950610,2023-10-24T06:46:10.262Z,"3 km ENE of The Geysers, CA",earthquake,0.38,3.63,0.21,7,automatic,nc,nc
 2023-10-24T06:33:00.110Z,33.7168333,-116.7771667,14.95,0.67,ml,18,119,0.05447,0.15,ci,ci40585896,2023-10-24T13:34:29.578Z,"6 km WSW of Idyllwild, CA",earthquake,0.42,0.43,0.104,13,reviewed,ci,ci
 2023-10-24T06:31:36.040Z,38.7885017,-122.7279968,0.25,0.95,md,6,122,0.008612,0.04,nc,nc73950605,2023-10-24T06:42:11.236Z,"3 km ENE of The Geysers, CA",earthquake,0.51,3.68,0.23,7,automatic,nc,nc
-2023-10-24T06:29:13.830Z,38.7885017,-122.7298355,0.36,2.12,md,30,88,0.007525,0.05,nc,nc73950600,2023-10-24T07:33:11.510Z,"3 km ENE of The Geysers, CA",earthquake,0.16,0.28,0.15,29,automatic,nc,nc
-2023-10-24T06:29:09.230Z,38.7883333,-122.7268333,0.81,1.4,md,49,36,0.008983,0.04,nc,nc73950595,2023-10-24T19:54:10.768Z,"3 km ENE of The Geysers, CA",earthquake,0.11,0.18,0.164,18,reviewed,nc,nc
