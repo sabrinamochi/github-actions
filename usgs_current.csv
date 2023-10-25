@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T00:16:22.112Z,58.3164,-154.7588,47.8,0.7,ml,,,,0.94,ak,ak023dou8wbn,2023-10-25T00:17:51.529Z,"Alaska Peninsula",earthquake,,5.5,,,automatic,ak,ak
 2023-10-25T00:04:53.943Z,62.9006,-149.7697,65,1.6,ml,,,,0.78,ak,ak023dou6e6q,2023-10-25T00:07:02.922Z,"53 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-24T23:58:35.190Z,38.8323326,-122.8156662,1.92,0.71,md,7,88,0.009936,0.01,nc,nc73950970,2023-10-25T00:00:13.368Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.47,0.12,9,automatic,nc,nc
+2023-10-24T23:58:35.190Z,38.8323326,-122.8156662,1.92,0.71,md,7,88,0.009936,0.01,nc,nc73950970,2023-10-25T00:09:11.704Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.47,0.12,9,automatic,nc,nc
 2023-10-24T23:55:46.809Z,36.5149,-115.2805,12,1.7,ml,10,187.97,0.1,0.3155,nn,nn00867849,2023-10-24T23:58:21.608Z,"35 km E of Indian Springs, Nevada",earthquake,,1.1,0.19,8,automatic,nn,nn
 2023-10-24T23:28:37.228Z,62.9656,-150.6613,94.1,1.1,ml,,,,0.48,ak,ak023dnkh4fv,2023-10-24T23:30:54.940Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-24T23:19:08.586Z,61.6261,-148.3406,17.1,1.6,ml,,,,0.68,ak,ak023dnkf4ui,2023-10-24T23:21:19.610Z,"20 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T18:22:35.230Z,65.0809,-151.1488,12.9,1.2,ml,,,,0.52,ak,ak023dnhgo0z,2023-10-24T18:24:13.035Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-24T18:21:31.834Z,-23.9917,-67.3778,219.645,4,mb,16,105,1.27,0.56,us,us7000l61i,2023-10-24T22:01:24.040Z,"Chile-Argentina border region",earthquake,8.7,10.414,0.231,5,reviewed,us,us
 2023-10-24T18:20:05.750Z,36.8928333,-121.6203333,-0.12,1.49,md,23,75,0.02423,0.1,nc,nc73950830,2023-10-24T22:38:56.551Z,"2 km ENE of Aromas, CA",quarry blast,0.21,31.61,0.236,18,reviewed,nc,nc
-2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T00:07:02.228Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
+2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T00:17:37.189Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
 2023-10-24T18:02:45.917Z,33.5556,87.4205,10.018,4.6,mb,136,69,4.974,0.65,us,us7000l61c,2023-10-24T19:33:55.040Z,"western Xizang",earthquake,8.2,4.157,0.053,111,reviewed,us,us
 2023-10-24T18:00:36.580Z,38.7891667,-122.7678333,2.27,0.39,md,19,78,0.01308,0.02,nc,nc73950820,2023-10-24T23:32:11.134Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.35,0.27,13,reviewed,nc,nc
 2023-10-24T17:59:05.520Z,33.8446667,-117.4916667,-0.51,0.96,ml,28,57,0.0474,0.2,ci,ci40586360,2023-10-24T18:45:19.440Z,"5 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.023,8,reviewed,ci,ci
@@ -228,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T00:31:25.410Z,38.8264999,-122.8008347,2.73,1.05,md,10,111,0.007855,0.01,nc,nc73950540,2023-10-24T01:56:10.573Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.94,0.29,10,automatic,nc,nc
 2023-10-24T00:27:32.660Z,19.1511669158936,-155.358169555664,24.8099994659424,1.95000005,md,38,185,,0.170000002,hv,hv73621407,2023-10-24T00:30:39.390Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.65,1.28999996,1.53999996,11,automatic,hv,hv
 2023-10-24T00:22:48.056Z,40.2082,-119.7985,7.2,0.9,ml,4,255.2,0.064,0.1426,nn,nn00867823,2023-10-24T15:53:50.590Z,"Nevada",earthquake,,2.7,0.38,3,reviewed,nn,nn
-2023-10-24T00:16:24.280Z,19.3326666666667,-155.2955,2.83,2.47,ml,40,124,,0.1,hv,hv73621397,2023-10-24T05:47:07.908Z,"13 km SSW of Volcano, Hawaii",earthquake,0.21,0.32,0.216172682086289,23,reviewed,hv,hv
-2023-10-24T00:10:58.820Z,38.8248329,-122.8056641,2.48,0.77,md,16,61,0.003732,0.02,nc,nc73950535,2023-10-24T00:21:11.033Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.55,0.16,16,automatic,nc,nc
-2023-10-24T00:09:52.280Z,44.6253333,-110.3065,2.05,1.24,md,6,127,0.08448,0.11,uu,uu60552802,2023-10-24T14:55:35.750Z,"49 km SSW of Silver Gate, Montana",earthquake,0.62,31.61,0.129,4,reviewed,uu,uu
