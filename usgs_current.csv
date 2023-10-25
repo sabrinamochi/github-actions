@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-25T08:28:56.210Z,37.4889984,-118.8050003,6.17,2.76,md,23,115,0.1027,0.02,nc,nc73951105,2023-10-25T08:31:51.730Z,"14 km SW of Toms Place, CA",earthquake,0.57,1.25,0.15,29,automatic,nc,nc
+2023-10-25T08:36:57.230Z,38.7798347,-122.7546692,0.37,1.19,md,14,80,0.01443,0.02,nc,nc73951110,2023-10-25T08:38:34.214Z,"0 km NNE of The Geysers, CA",earthquake,0.22,0.57,0.13,15,automatic,nc,nc
+2023-10-25T08:34:01.750Z,32.7591667,-115.423,9.11,1.19,ml,17,65,0.0502,0.28,ci,ci40587000,2023-10-25T08:37:36.901Z,"7 km SW of Holtville, CA",earthquake,0.65,1.86,0.118,10,automatic,ci,ci
+2023-10-25T08:32:25.240Z,34.1433333,-117.4221667,4.56,1.05,ml,36,36,0.04934,0.17,ci,ci40586992,2023-10-25T08:35:50.614Z,"6 km NNE of Fontana, CA",earthquake,0.23,0.5,0.14,28,automatic,ci,ci
+2023-10-25T08:28:56.210Z,37.4889984,-118.8050003,6.17,2.76,md,23,115,0.1027,0.02,nc,nc73951105,2023-10-25T08:35:11.666Z,"14 km SW of Toms Place, CA",earthquake,0.57,1.25,0.15,29,automatic,nc,nc
 2023-10-25T08:26:01.470Z,33.53,-116.5131667,15.39,0.55,ml,18,94,0.07336,0.19,ci,ci40586976,2023-10-25T08:29:40.622Z,"15 km E of Anza, CA",earthquake,0.43,0.62,0.115,12,automatic,ci,ci
+2023-10-25T08:23:44.950Z,18.0108333333333,-66.8071666666667,19.46,2.06,md,7,163,0.07729,0.14,pr,pr71429808,2023-10-25T08:36:25.060Z,"1 km WSW of Guayanilla, Puerto Rico",earthquake,0.91,1.17,0.071377602649203,6,reviewed,pr,pr
 2023-10-25T08:20:33.542Z,60.1808,-152.6458,113.9,2.5,ml,,,,0.39,ak,ak023doz18wy,2023-10-25T08:22:14.927Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-25T08:19:14.440Z,17.9573333333333,-67.0753333333333,8.79,2.35,md,11,225,0.03196,0.18,pr,pr71429798,2023-10-25T08:30:11.740Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.51,0.6,0.0699023684712523,4,reviewed,pr,pr
 2023-10-25T08:07:19.410Z,36.4313316,-121.7841644,8.87,1.56,md,11,121,0.04941,0.1,nc,nc73951100,2023-10-25T08:21:11.843Z,"8 km S of Carmel Valley Village, CA",earthquake,0.39,0.78,0.19,8,automatic,nc,nc
@@ -28,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T06:19:31.080Z,36.0478333,-117.8676667,1.05,1.04,ml,10,99,0.07037,0.17,ci,ci40586896,2023-10-25T06:23:06.518Z,"7 km E of Coso Junction, CA",earthquake,0.44,0.6,0.17,9,automatic,ci,ci
 2023-10-25T06:10:41.633Z,63.1004,-151.4624,3.2,1.6,ml,,,,0.37,ak,ak023doxs95v,2023-10-25T06:12:32.970Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-25T06:10:18.468Z,58.2514,-155.1855,0.5,0.9,ml,,,,0.58,ak,ak023doxs7di,2023-10-25T06:11:13.335Z,"87 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-25T06:09:48.426Z,35.391,31.6116,59.919,4,mb,27,131,1.472,0.55,us,us7000l65y,2023-10-25T08:28:08.795Z,"84 km WNW of Pólis, Cyprus",earthquake,6.93,18.986,0.298,3,reviewed,us,us
+2023-10-25T06:09:48.426Z,35.391,31.6116,59.919,4,mb,27,131,1.472,0.55,us,us7000l65y,2023-10-25T08:33:12.250Z,"84 km WNW of Pólis, Cyprus",earthquake,6.93,18.986,0.298,3,reviewed,us,us
 2023-10-25T06:01:03.240Z,33.6746667,-116.7335,14.96,0.46,ml,13,92,0.04326,0.15,ci,ci40586888,2023-10-25T06:04:42.959Z,"7 km S of Idyllwild, CA",earthquake,0.47,0.75,0.159,11,automatic,ci,ci
 2023-10-25T06:00:43.460Z,38.836834,-122.8143311,1.47,0.78,md,7,116,0.01383,0.01,nc,nc73951060,2023-10-25T06:15:10.841Z,"8 km WNW of Cobb, CA",earthquake,0.5,1.61,0.25,8,automatic,nc,nc
 2023-10-25T05:59:43.240Z,36.0461667,-117.8608333,0.79,2,ml,21,91,0.07143,0.16,ci,ci40586880,2023-10-25T06:10:43.800Z,"8 km E of Coso Junction, CA",earthquake,0.24,0.46,0.14,24,automatic,ci,ci
