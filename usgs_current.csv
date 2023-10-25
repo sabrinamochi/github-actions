@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T06:55:23.670Z,34.1431667,-117.4258333,5.06,0.55,ml,17,97,0.1144,0.21,ci,ci40586928,2023-10-25T06:59:02.880Z,"6 km NNE of Fontana, CA",earthquake,0.47,0.87,0.105,7,automatic,ci,ci
 2023-10-25T06:52:21.510Z,19.1638336181641,-155.474838256836,29.0699996948242,1.74000001,md,26,166,,0.0799999982,hv,hv73623232,2023-10-25T06:55:34.690Z,"Hawaii region, Hawaii",earthquake,0.84,1.40999997,0.870000005,3,automatic,hv,hv
 2023-10-25T06:46:13.500Z,19.1678333282471,-155.481826782227,31.7600002288818,2.61,ml,51,149,,0.109999999,hv,hv73623227,2023-10-25T07:02:40.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.46,0.720000029,3.37,30,automatic,hv,hv
-2023-10-25T06:39:33.490Z,38.7895012,-122.7344971,1.63,1.12,md,9,89,0.006493,0.01,nc,nc73951070,2023-10-25T06:49:11.041Z,"2 km NE of The Geysers, CA",earthquake,0.44,2.24,0.1,3,automatic,nc,nc
+2023-10-25T06:39:33.490Z,38.7895012,-122.7344971,1.63,1.12,md,9,89,0.006493,0.01,nc,nc73951070,2023-10-25T09:59:12.131Z,"2 km NE of The Geysers, CA",earthquake,0.44,2.24,0.1,3,automatic,nc,nc
 2023-10-25T06:31:13.100Z,35.496,-118.3973333,8.68,1.41,ml,21,66,0.1778,0.11,ci,ci40586904,2023-10-25T06:42:06.550Z,"13 km SE of Bodfish, CA",earthquake,0.19,0.79,0.16,18,automatic,ci,ci
 2023-10-25T06:19:31.080Z,36.0478333,-117.8676667,1.05,1.04,ml,10,99,0.07037,0.17,ci,ci40586896,2023-10-25T06:23:06.518Z,"7 km E of Coso Junction, CA",earthquake,0.44,0.6,0.17,9,automatic,ci,ci
 2023-10-25T06:10:41.633Z,63.1004,-151.4624,3.2,1.6,ml,,,,0.37,ak,ak023doxs95v,2023-10-25T06:12:32.970Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -197,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T12:35:52.497Z,63.0966,-150.9222,114.2,1.5,ml,,,,0.71,ak,ak023dndyw1d,2023-10-24T12:38:08.609Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-24T12:29:42.302Z,35.3545,139.0164,166.787,4.5,mb,91,85,0.961,0.69,us,us7000l5yw,2023-10-24T22:31:31.220Z,"7 km ENE of Gotenba, Japan",earthquake,7.26,6.322,0.053,104,reviewed,us,us
 2023-10-24T12:18:07.970Z,19.4478340148926,-155.564331054688,38.6800003051758,1.86,ml,26,43,,0.140000001,hv,hv73622122,2023-10-24T12:23:41.460Z,"28 km NNW of Pāhala, Hawaii",earthquake,0.71,1.16999996,3.62,4,automatic,hv,hv
-2023-10-24T11:56:23.970Z,47.07716666666666,-122.00283333333333,15.14,2.44,ml,40,77,0.08891,0.13,uw,uw61959007,2023-10-24T16:17:49.212Z,"Puget Sound region, Washington",earthquake,0.28,0.41,0.15433701511525255,24,reviewed,uw,uw
+2023-10-24T11:56:23.970Z,47.07716666666666,-122.00283333333333,15.14,2.44,ml,40,77,0.08891,0.13,uw,uw61959007,2023-10-24T16:17:49.212Z,"3 km E of Carbonado, Washington",earthquake,0.28,0.41,0.15433701511525255,24,reviewed,uw,uw
 2023-10-24T11:52:10.660Z,33.97,-116.5593333,10.56,1.25,ml,45,69,0.0373,0.12,ci,ci40586016,2023-10-24T17:10:21.520Z,"5 km W of Desert Hot Springs, CA",earthquake,0.13,0.3,0.155,29,reviewed,ci,ci
 2023-10-24T11:48:43.160Z,38.8308334,-122.8143311,1.75,1.06,md,18,48,0.008138,0.01,nc,nc73950710,2023-10-24T11:58:10.059Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.12,19,automatic,nc,nc
 2023-10-24T11:48:31.970Z,35.8753333,-117.726,7.83,0.97,ml,22,113,0.07374,0.16,ci,ci40586008,2023-10-24T16:59:34.616Z,"18 km ESE of Little Lake, CA",earthquake,0.27,0.57,0.126,7,reviewed,ci,ci
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T10:42:37.610Z,35.9013333,-117.7021667,4.82,1,ml,21,78,0.1053,0.18,ci,ci40585960,2023-10-24T19:17:21.519Z,"19 km ESE of Little Lake, CA",earthquake,0.31,0.64,0.24,7,reviewed,ci,ci
 2023-10-24T10:17:02.730Z,37.573,-112.5075,2.93,1.83,ml,16,186,0.2825,0.17,uu,uu60552832,2023-10-24T14:41:42.050Z,"10 km SW of Hatch, Utah",earthquake,0.68,1.42,0.083,5,reviewed,uu,uu
 2023-10-24T10:10:07.647Z,5.798,-82.4066,10,5,mww,92,146,2.99,0.69,us,us7000l5yb,2023-10-24T10:29:54.040Z,"243 km SSW of Río Grande, Panama",earthquake,9.42,1.93,0.098,10,reviewed,us,us
-2023-10-24T09:55:50.250Z,37.559,-119.0136667,1.73,0.43,md,18,247,0.05201,0.04,nc,nc73950675,2023-10-24T16:35:11.635Z,"9 km SSW of Mammoth Lakes, CA",earthquake,0.47,0.92,0.193,17,reviewed,nc,nc
