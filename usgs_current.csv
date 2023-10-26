@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-26T10:49:05.320Z,37.8763351,-122.2535019,8.85,0.83,md,11,62,0.003835,0.03,nc,nc73951535,2023-10-26T10:50:41.999Z,"2 km ENE of Berkeley, CA",earthquake,0.3,0.52,0.11,5,automatic,nc,nc
 2023-10-26T10:45:46.172Z,59.8346,-153.3209,138.4,1.8,ml,,,,0.5,ak,ak023dqnwuhl,2023-10-26T10:48:08.791Z,"44 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-26T10:28:49.464Z,59.6476,-153.1782,105.2,1.6,ml,,,,0.33,ak,ak023dqnt7ki,2023-10-26T10:30:50.634Z,"54 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-26T10:24:33.490Z,38.8325005,-122.7961655,1.89,1.08,md,20,39,0.007449,0.01,nc,nc73951530,2023-10-26T10:34:11.637Z,"6 km W of Cobb, CA",earthquake,0.22,0.5,0.07,20,automatic,nc,nc
@@ -124,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T19:40:49.890Z,46.294666666666664,-117.99416666666667,9.08,1.41,ml,14,146,0.0562,0.28,uw,uw61959182,2023-10-25T23:05:01.990Z,"3 km SSW of Dayton, Washington",earthquake,1.12,1.61,0.18274605804479682,5,reviewed,uw,uw
 2023-10-25T19:33:50.440Z,32.7766667,-116.885,-0.34,1.5,ml,11,81,0.06338,0.28,ci,ci40587472,2023-10-25T23:00:33.221Z,"6 km NE of Rancho San Diego, CA",quarry blast,0.69,31.61,0.13,24,reviewed,ci,ci
 2023-10-25T19:33:42.880Z,32.7751667,-116.8815,-0.34,1.41,ml,10,82,0.06473,0.33,ci,ci37583644,2023-10-25T23:08:36.944Z,"6 km ENE of Rancho San Diego, CA",quarry blast,0.77,31.61,0.127,3,reviewed,ci,ci
+2023-10-25T19:33:06.586Z,31.61,-103.981,7.0699,2.1,ml(texnet),15,58,0,0.1,tx,tx2023uydc,2023-10-26T10:51:19.278Z,"37 km NNW of Toyah, Texas",earthquake,0.4666408147,0.4863255856,0.1,20,reviewed,tx,tx
 2023-10-25T19:28:11.271Z,59.7793,-152.87,101.8,1.6,ml,,,,0.44,ak,ak023dp5mokn,2023-10-25T19:30:25.645Z,"58 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-25T19:18:36.480Z,57.2645,-153.9139,23.7,1.9,ml,,,,0.46,ak,ak023dp5km1a,2023-10-25T23:14:32.923Z,"30 km S of Larsen Bay, Alaska",earthquake,,3.1,,,reviewed,ak,ak
 2023-10-25T19:15:48.540Z,33.8683333,-117.5021667,-0.44,1.01,ml,21,48,0.04955,0.22,ci,ci40587448,2023-10-25T22:53:46.715Z,"2 km ESE of Home Gardens, CA",quarry blast,0.45,31.61,0.074,12,reviewed,ci,ci
