@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-26T21:42:09.650Z,35.1153333,-118.5203333,0.16,1.2,ml,14,74,0.1799,0.21,ci,ci40588728,2023-10-26T21:45:45.562Z,"7 km WSW of Tehachapi, CA",earthquake,0.39,31.61,0.135,15,automatic,ci,ci
-2023-10-26T21:38:09.590Z,19.3858337402344,-155.273498535156,2.05999994277954,2.08,ml,27,92,,0.230000004,hv,hv73626037,2023-10-26T21:43:39.820Z,"7 km SSW of Volcano, Hawaii",earthquake,0.32,0.289999992,0.32,9,automatic,hv,hv
+2023-10-26T21:38:09.450Z,19.3725,-155.281,1.87,2.12,ml,25,106,,0.09,hv,hv73626037,2023-10-26T21:51:24.230Z,"9 km SSW of Volcano, Hawaii",earthquake,0.18,0.22,0.16858497209283,12,reviewed,hv,hv
 2023-10-26T21:38:05.175Z,62.0086,-149.2931,32.3,2.2,ml,,,,0.58,ak,ak023dquf0yt,2023-10-26T21:40:01.605Z,"29 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-26T21:37:53.430Z,19.3316669464111,-155.312164306641,3.42000007629395,2.43,ml,8,104,,0.100000001,hv,hv73626032,2023-10-26T21:43:24.260Z,"14 km SSW of Volcano, Hawaii",earthquake,0.47,1.04999995,0.36,9,automatic,hv,hv
 2023-10-26T21:29:22.690Z,38.7724991,-122.7545013,7.56,0.96,md,12,101,0.008968,0.19,nc,nc73951780,2023-10-26T21:40:10.400Z,"1 km SSE of The Geysers, CA",earthquake,2.19,3.78,0.21,11,automatic,nc,nc
@@ -22,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T19:32:55.464Z,63.239,-150.3963,109.8,1.9,ml,,,,0.51,ak,ak023dqt6zca,2023-10-26T19:35:27.185Z,"74 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-26T19:20:09.146Z,-61.1365,160.7281,10,5.6,mww,36,116,15.847,0.63,us,us7000l6lr,2023-10-26T21:24:29.744Z,"Balleny Islands region",earthquake,12.76,1.896,0.078,16,reviewed,us,us
 2023-10-26T19:00:26.171Z,-7.3035,27.9327,15.328,5.4,mww,69,41,7.221,0.9,us,us7000l6lk,2023-10-26T21:03:51.514Z,"Democratic Republic of the Congo",earthquake,9.9,4.316,0.086,13,reviewed,us,us
+2023-10-26T18:55:07.720Z,34.9936667,-118.1796667,-0.87,1.08,ml,12,73,0.1214,0.26,ci,ci40588544,2023-10-26T21:51:21.592Z,"7 km S of Mojave, CA",quarry blast,0.64,31.61,0.101,9,reviewed,ci,ci
 2023-10-26T18:38:17.540Z,33.81,-116.9883333,14.12,0.41,ml,8,279,0.1022,0.07,ci,ci40588520,2023-10-26T20:12:48.780Z,"4 km NW of San Jacinto, CA",earthquake,0.55,0.69,0.062,6,reviewed,ci,ci
 2023-10-26T18:34:39.310Z,19.3470001220703,-155.296829223633,2.92000007629395,2.46,ml,45,81,,0.280000001,hv,hv73625727,2023-10-26T18:53:52.040Z,"12 km SSW of Volcano, Hawaii",earthquake,0.36,0.870000005,1.64,19,automatic,hv,hv
 2023-10-26T18:33:46.480Z,19.3565006256104,-155.30583190918,0.920000016689301,1.92,ml,29,88,,0.219999999,hv,hv73625722,2023-10-26T18:39:16.940Z,"12 km SW of Volcano, Hawaii",earthquake,0.31,0.49000001,0.31,12,automatic,hv,hv
