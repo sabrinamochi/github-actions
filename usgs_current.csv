@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-27T16:58:30.770Z,38.8406677,-122.8236694,1.64,1.34,md,26,80,0.00946,0.03,nc,nc73952210,2023-10-27T17:00:09.073Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.32,0.13,25,automatic,nc,nc
+2023-10-27T17:08:44.700Z,38.8255005,-122.7626648,2.09,0.71,md,15,132,0.007529,0.01,nc,nc73952215,2023-10-27T17:10:18.819Z,"3 km W of Cobb, CA",earthquake,0.32,0.51,0.07,15,automatic,nc,nc
+2023-10-27T16:58:30.770Z,38.8406677,-122.8236694,1.64,1.34,md,26,80,0.00946,0.03,nc,nc73952210,2023-10-27T17:09:11.076Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.32,0.13,25,automatic,nc,nc
 2023-10-27T16:52:50.848Z,60.2705,-152.5235,93.7,1.4,ml,,,,0.46,ak,ak023dsf2azg,2023-10-27T16:54:55.490Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-27T16:51:52.300Z,38.8115005,-122.7789993,1.3,1.14,md,16,67,0.002195,0.04,nc,nc73952205,2023-10-27T16:53:29.229Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.43,0.29,18,automatic,nc,nc
+2023-10-27T16:51:52.300Z,38.8115005,-122.7789993,1.3,1.14,md,16,67,0.002195,0.04,nc,nc73952205,2023-10-27T17:03:10.035Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.43,0.29,18,automatic,nc,nc
 2023-10-27T16:48:26.230Z,38.8353348,-122.8156662,0.9,0.92,md,15,60,0.0127,0.03,nc,nc73952200,2023-10-27T16:59:12.008Z,"8 km W of Cobb, CA",earthquake,0.22,0.66,0.2,15,automatic,nc,nc
 2023-10-27T16:37:34.989Z,62.2877,-151.3875,84.5,1,ml,,,,0.05,ak,ak023dsez20q,2023-10-27T16:40:18.107Z,"33 km N of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-10-27T16:28:21.581Z,36.416,140.352,107.412,4.5,mb,29,108,1.732,0.48,us,us7000l6xg,2023-10-27T17:09:40.040Z,"8 km ENE of Kasama, Japan",earthquake,7.76,7.274,0.163,11,reviewed,us,us
 2023-10-27T16:15:51.920Z,61.5673,-149.9282,32.9,1.9,ml,,,,0.48,ak,ak023dseudko,2023-10-27T16:17:37.524Z,"5 km NNE of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-27T16:14:32.250Z,19.3724994659424,-155.279495239258,1.29999995231628,1.88,ml,20,107,,0.159999996,hv,hv73627697,2023-10-27T16:20:03.660Z,"9 km SSW of Volcano, Hawaii",earthquake,0.27,0.300000012,0.18,6,automatic,hv,hv
 2023-10-27T16:09:52.800Z,19.1508331298828,-155.488159179688,34.4599990844727,1.72000003,md,44,146,,0.109999999,hv,hv73627687,2023-10-27T16:13:06.600Z,"5 km S of Pāhala, Hawaii",earthquake,0.67,1,1.39999998,6,automatic,hv,hv
@@ -285,5 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T17:54:45.900Z,38.8356667,-122.7888333,2.35,0.38,md,17,72,0.002982,0.03,nc,nc73951710,2023-10-27T08:34:10.101Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.37,0.165,16,reviewed,nc,nc
 2023-10-26T17:53:56.470Z,38.8146667,-122.8195038,2.83,0.67,md,10,80,0.009521,0.01,nc,nc73951705,2023-10-26T18:04:15.229Z,"7 km NW of The Geysers, CA",earthquake,0.45,0.81,0.27,12,automatic,nc,nc
 2023-10-26T17:43:41.700Z,33.0753333,-115.7173333,11.31,1.73,ml,38,70,0.09754,0.2,ci,ci40588416,2023-10-26T18:00:11.139Z,"10 km WNW of Westmorland, CA",earthquake,0.22,0.47,0.159,25,reviewed,ci,ci
-2023-10-26T17:09:49.880Z,36.021,-117.7781667,2.49,1.15,ml,13,139,0.07832,0.15,ci,ci40588384,2023-10-26T18:17:46.046Z,"15 km NE of Little Lake, CA",earthquake,0.26,0.39,0.185,6,reviewed,ci,ci
-2023-10-26T17:09:32.210Z,36.019,-117.7773333,2.14,0.67,ml,10,139,0.07679,0.11,ci,ci37583964,2023-10-26T18:22:27.744Z,"15 km NE of Little Lake, CA",earthquake,0.22,0.26,0.123,2,reviewed,ci,ci
