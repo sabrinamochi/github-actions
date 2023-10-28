@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-28T11:17:09.450Z,32.9526672,-115.5339966,8.99,1.7,ml,25,112,0.05578,0.26,ci,ci40590176,2023-10-28T11:19:36.418Z,"3 km S of Brawley, CA",earthquake,0.48,0.86,0.401,11,automatic,ci,ci
+2023-10-28T11:17:09.560Z,32.9478333,-115.539,5.78,1.44,ml,14,107,0.04971,0.24,ci,ci40590176,2023-10-28T11:20:49.459Z,"4 km SSW of Brawley, CA",earthquake,0.53,0.82,0.311,20,automatic,ci,ci
 2023-10-28T10:27:52.906Z,63.2601,-151.0787,4.2,1.5,ml,,,,0.95,ak,ak023dtyvp3u,2023-10-28T10:30:15.468Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-28T10:26:13.877Z,63.2508,-151.112,0,1.5,ml,,,,0.35,ak,ak023dtyvedn,2023-10-28T10:27:58.519Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-28T10:21:11.110Z,38.8181648,-122.7624969,1.96,0.7,md,9,206,0.01359,0.02,nc,nc73952735,2023-10-28T10:30:10.491Z,"3 km W of Cobb, CA",earthquake,0.63,1.06,0.28,9,automatic,nc,nc
@@ -91,9 +91,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T04:29:45.967Z,59.0259,-136.329,0,2.5,ml,,,,0.74,ak,ak023dtvbidg,2023-10-28T05:38:28.223Z,"46 km SSW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-28T04:24:00.696Z,58.938,-136.5721,0,2.2,ml,,,,0.83,ak,ak023dtvacat,2023-10-28T04:27:25.872Z,"61 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T04:11:52.193Z,59.0727,-136.2635,13.8,2.9,ml,,,,1.03,ak,ak023dtv7nu7,2023-10-28T05:32:19.040Z,"40 km SSW of Covenant Life, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-28T04:10:12.754Z,60.038,-152.7017,83.9,2,ml,,,,0.77,ak,ak023dtv7d7f,2023-10-28T04:12:25.960Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-10-28T04:10:12.754Z,60.038,-152.7017,83.9,2,ml,,,,0.77,ak,ak023dtv7d7f,2023-10-28T04:12:25.960Z,"55 km W of Happy Valley, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-28T04:08:16.150Z,38.8305016,-122.8184967,1.45,0.73,md,9,78,0.009677,0.01,nc,nc73952575,2023-10-28T04:19:11.014Z,"8 km NW of The Geysers, CA",earthquake,0.57,0.86,0.31,8,automatic,nc,nc
-2023-10-28T04:03:44.938Z,59.0102,-136.5775,0,2,ml,,,,0.72,ak,ak023dtv5xov,2023-10-28T04:19:45.064Z,"Southeastern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-28T04:03:44.938Z,59.0102,-136.5775,0,2,ml,,,,0.72,ak,ak023dtv5xov,2023-10-28T04:19:45.064Z,"55 km SW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-28T04:03:38.931Z,63.5285,-147.5758,3.6,1.6,ml,,,,0.31,ak,ak023dtv5x7p,2023-10-28T04:57:38.172Z,"70 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T04:02:28.940Z,59.0021,-136.5817,0,1.9,ml,,,,0.71,ak,ak023dtv5oqo,2023-10-28T04:04:50.485Z,"56 km SW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-28T04:01:36.500Z,38.7976685,-122.7529984,2,0.91,md,17,94,0.00602,0.02,nc,nc73952570,2023-10-28T04:12:10.973Z,"2 km N of The Geysers, CA",earthquake,0.26,0.5,0.19,16,automatic,nc,nc
@@ -123,6 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T02:17:13.780Z,19.5793342590332,-155.742660522461,3.51999998092651,2.23,ml,35,258,,0.230000004,hv,hv73628527,2023-10-28T02:22:44.820Z,"18 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.62,0.75,3.54,7,automatic,hv,hv
 2023-10-28T02:16:11.260Z,22.5607,121.3922,19.288,4.3,mb,21,208,0.385,0.63,us,us7000l72a,2023-10-28T06:38:03.048Z,"Taiwan region",earthquake,4.68,4.313,0.217,6,reviewed,us,us
 2023-10-28T02:15:57.560Z,34.4118333,-118.6181667,13.75,1.33,ml,24,46,0.0382,0.31,ci,ci40589952,2023-10-28T02:19:35.603Z,"6 km SW of Valencia, CA",earthquake,0.64,1.01,0.247,28,automatic,ci,ci
+2023-10-28T02:09:16.900Z,37.619,-122.3728333,10.94,1.18,md,27,73,0.04985,0.07,nc,nc73952485,2023-10-28T11:20:43.446Z,"3 km NNE of Millbrae, CA",earthquake,0.19,0.29,0.225,19,reviewed,nc,nc
 2023-10-28T02:08:45.030Z,33.9633333,-117.1503333,9.61,0.78,ml,17,175,0.2298,0.24,ci,ci40589944,2023-10-28T02:12:29.153Z,"8 km ENE of Moreno Valley, CA",earthquake,0.71,1.98,0.169,16,automatic,ci,ci
 2023-10-28T02:07:19.193Z,38.0193,-118.0947,1.9,0.9,ml,8,134.34,0.309,0.1087,nn,nn00868021,2023-10-28T02:10:02.212Z,"39 km N of Dyer, Nevada",earthquake,,3.4,0.72,6,automatic,nn,nn
 2023-10-28T01:53:26.050Z,36.5419998168945,-89.5966644287109,5.96000003814697,2.1400001,md,9,82,0.09522,0.0700000003,nm,nm60558001,2023-10-28T01:58:20.570Z,"2 km S of Howardville, Missouri",earthquake,0.35,5.36000013,0.230000004,9,reviewed,nm,nm
