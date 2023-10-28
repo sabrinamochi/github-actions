@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-28T06:25:12.289Z,59.0226,-136.3329,0,2.7,ml,,,,0.55,ak,ak023dtwhg4c,2023-10-28T06:28:05.481Z,"47 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-28T06:25:12.289Z,59.0226,-136.3329,0,2.7,ml,,,,0.55,ak,ak023dtwhg4c,2023-10-28T06:30:05.040Z,"47 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T06:21:03.860Z,35.27332687,-98.00720978,2.203706026,2.24,ml,41,60.55537415,0.07866810262,0.7750327965,ok,ok2023vcpl,2023-10-28T06:26:25.996Z,"7 km SW of Minco, Oklahoma",earthquake,1.898101354,1.344509593,0.24,31,automatic,ok,ok
 2023-10-28T06:10:50.340Z,17.9848333333333,-66.8365,12.43,2.33,md,10,172,0.04184,0.19,pr,pr71430138,2023-10-28T06:25:55.280Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.66,0.59,0.120350508004591,4,reviewed,pr,pr
 2023-10-28T06:05:51.984Z,59.0389,-136.315,1,2.2,ml,,,,0.88,ak,ak023dtwd8v2,2023-10-28T06:08:35.204Z,"45 km SSW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T05:48:58.620Z,38.5564995,-119.5098343,4.57,2.84,ml,40,104,0.2142,0.18,nc,nc73952615,2023-10-28T05:57:11.562Z,"5 km NNW of Walker, CA",earthquake,0.31,2.01,0.325,16,automatic,nc,nc
 2023-10-28T05:46:15.167Z,60.5381,-152.0585,84.4,1.6,ml,,,,0.89,ak,ak023dtw0irw,2023-10-28T05:48:16.004Z,"41 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-28T05:45:07.578Z,34.5559,62.1414,9.724,4.5,mb,36,97,5.696,0.47,us,us7000l73z,2023-10-28T06:19:17.040Z,"23 km NNW of Herāt, Afghanistan",earthquake,11.41,4.992,0.101,29,reviewed,us,us
-2023-10-28T05:40:18.750Z,38.5548325,-119.519165,2.53,4.2,mw,42,105,,0.14,nc,nc73952605,2023-10-28T06:25:13.428Z,"6 km NW of Walker, CA",earthquake,0.35,2.77,,4,reviewed,nc,nc
+2023-10-28T05:40:18.750Z,38.5548325,-119.519165,2.53,4.2,mw,42,105,,0.14,nc,nc73952605,2023-10-28T06:30:45.723Z,"6 km NW of Walker, CA",earthquake,0.35,2.77,,4,reviewed,nc,nc
 2023-10-28T05:32:46.930Z,38.8246651,-122.8089981,1.02,0.77,md,12,66,0.001521,0.02,nc,nc73952600,2023-10-28T05:43:10.487Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.6,0.2,12,automatic,nc,nc
 2023-10-28T05:31:58.323Z,-10.2232,161.2978,68.809,5.5,mww,29,137,10.664,0.76,us,us7000l73x,2023-10-28T05:45:29.925Z,"72 km WNW of Kirakira, Solomon Islands",earthquake,8.53,10.251,0.075,17,reviewed,us,us
 2023-10-28T05:29:31.540Z,31.8848324,-116.0983353,9.54,3.04,ml,38,63,0.175,0.24,ci,ci40590016,2023-10-28T06:23:06.040Z,"48 km ENE of Maneadero, B.C., MX",earthquake,0.27,1.24,0.245,24,automatic,ci,ci
@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-27T16:32:46.000Z,34.7196667,-118.593,11.46,0.97,ml,16,88,0.06765,0.13,ci,ci40589384,2023-10-27T18:54:43.560Z,"6 km SSE of Neenach, CA",earthquake,0.25,0.56,0.16,6,reviewed,ci,ci
 2023-10-27T16:28:21.581Z,36.416,140.352,107.412,4.5,mb,29,108,1.732,0.48,us,us7000l6xg,2023-10-27T17:09:40.040Z,"8 km ENE of Kasama, Japan",earthquake,7.76,7.274,0.163,11,reviewed,us,us
 2023-10-27T16:15:51.920Z,61.5673,-149.9282,32.9,1.9,ml,,,,0.48,ak,ak023dseudko,2023-10-27T16:17:37.524Z,"5 km NNE of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-27T16:14:32.250Z,19.3724994659424,-155.279495239258,1.29999995231628,1.88,ml,20,107,,0.159999996,hv,hv73627697,2023-10-27T16:20:03.660Z,"9 km SSW of Volcano, Hawaii",earthquake,0.27,0.300000012,0.18,6,automatic,hv,hv
+2023-10-27T16:14:32.250Z,19.3724994659424,-155.279495239258,1.29999995231628,1.88,ml,20,107,,0.159999996,hv,hv73627697,2023-10-27T16:20:03.660Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.300000012,0.18,6,automatic,hv,hv
 2023-10-27T16:09:52.800Z,19.1508331298828,-155.488159179688,34.4599990844727,1.72000003,md,44,146,,0.109999999,hv,hv73627687,2023-10-27T16:13:06.600Z,"5 km S of Pāhala, Hawaii",earthquake,0.67,1,1.39999998,6,automatic,hv,hv
 2023-10-27T16:05:32.317Z,63.5741,-150.7505,12.9,1.4,ml,,,,0.58,ak,ak023dses6wf,2023-10-27T16:08:04.975Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-27T15:56:23.510Z,38.8310013,-122.8181686,1.75,0.77,md,17,58,0.009882,0.01,nc,nc73952175,2023-10-27T16:06:10.682Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.58,0.16,17,automatic,nc,nc
