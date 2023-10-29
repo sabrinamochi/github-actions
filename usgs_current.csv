@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-29T04:56:39.090Z,34.222,-118.294,12.78,1.48,ml,11,91,0.05923,0.21,ci,ci40590560,2023-10-29T05:00:24.143Z,"4 km S of Sunland, CA",earthquake,0.69,1.05,0.293,17,automatic,ci,ci
-2023-10-29T04:32:08.676Z,-19.415,168.7704,79.858,6,mww,53,67,3.414,0.7,us,us7000l7b6,2023-10-29T04:57:15.516Z,"55 km WNW of Isangel, Vanuatu",earthquake,9.3,7.68,0.069,20,reviewed,us,us
+2023-10-29T04:32:08.676Z,-19.415,168.7704,79.858,6,mww,53,67,3.414,0.7,us,us7000l7b6,2023-10-29T05:04:02.743Z,"55 km WNW of Isangel, Vanuatu",earthquake,9.3,7.68,0.069,20,reviewed,us,us
 2023-10-29T04:24:03.690Z,33.4886667,-116.7603333,5.81,0.48,ml,17,74,0.04272,0.16,ci,ci40590536,2023-10-29T04:27:38.531Z,"11 km SW of Anza, CA",earthquake,0.32,0.66,0.128,10,automatic,ci,ci
 2023-10-29T04:17:53.100Z,19.3871669769287,-155.276672363281,0.829999983310699,1.97,ml,20,102,,0.159999996,hv,hv73630467,2023-10-29T04:23:24.420Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.230000004,0.22,6,automatic,hv,hv
 2023-10-29T04:07:56.110Z,33.3556667,-116.3545,12.06,1.2,ml,37,68,0.1776,0.2,ci,ci40590528,2023-10-29T04:19:52.316Z,"11 km N of Borrego Springs, CA",earthquake,0.3,1.35,0.205,26,reviewed,ci,ci
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T03:26:53.112Z,63.3911,-151.5063,18.7,2.3,ml,,,,0.45,ak,ak023dvi8snz,2023-10-29T03:41:30.040Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-29T03:14:46.730Z,18.0093333333333,-66.7935,17.33,2.3,md,8,176,0.01077,0.08,pr,pr71430193,2023-10-29T03:22:37.280Z,"Puerto Rico",earthquake,0.42,0.55,0.0991012654250754,4,reviewed,pr,pr
 2023-10-29T03:09:12.474Z,60.1777,-152.4349,96.1,1.7,ml,,,,0.72,ak,ak023dvi52cv,2023-10-29T03:12:05.938Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-29T03:03:59.950Z,34.153,-117.5138333,10.31,2.74,ml,100,31,0.07029,0.24,ci,ci40590512,2023-10-29T04:28:08.258Z,"7 km ENE of Rancho Cucamonga, CA",earthquake,0.19,0.46,0.142,25,reviewed,ci,ci
+2023-10-29T03:03:59.950Z,34.153,-117.5138333,10.31,2.74,ml,100,31,0.07029,0.24,ci,ci40590512,2023-10-29T05:02:03.440Z,"7 km ENE of Rancho Cucamonga, CA",earthquake,0.19,0.46,0.142,25,reviewed,ci,ci
 2023-10-29T03:02:33.770Z,19.3581657409668,-155.284332275391,3.13000011444092,2.32,ml,33,121,,0.170000002,hv,hv73630387,2023-10-29T03:08:04.690Z,"10 km SSW of Volcano, Hawaii",earthquake,0.4,0.620000005,0.35,18,automatic,hv,hv
 2023-10-29T02:54:38.550Z,34.6221667,-116.5656667,6.84,1.7,ml,22,53,0.05302,0.18,ci,ci40590504,2023-10-29T04:01:11.686Z,"39 km WSW of Ludlow, CA",earthquake,0.32,0.73,0.109,27,reviewed,ci,ci
 2023-10-29T02:46:20.770Z,17.9231666666667,-66.8505,12.08,2.54,md,7,226,0.05842,0.17,pr,pr71430183,2023-10-29T02:55:56.820Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.99,0.77,0.0931937811153793,7,reviewed,pr,pr
@@ -236,7 +236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T05:48:58.600Z,38.5596667,-119.5051667,5.2,2.91,md,21,114,0.02864,0.05,nc,nc73952615,2023-10-28T18:53:12.415Z,"6 km NNW of Walker, CA",earthquake,0.2,0.3,0.183,57,reviewed,nc,nc
 2023-10-28T05:46:15.167Z,60.5381,-152.0585,84.4,1.6,ml,,,,0.89,ak,ak023dtw0irw,2023-10-28T05:48:16.004Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-28T05:45:07.578Z,34.5559,62.1414,9.724,4.5,mb,36,97,5.696,0.47,us,us7000l73z,2023-10-28T18:57:27.444Z,"23 km NNW of Herāt, Afghanistan",earthquake,11.41,4.992,0.101,29,reviewed,us,us
-2023-10-28T05:40:18.740Z,38.5571667,-119.5103333,4.46,4.24,mw,23,112,0.02968,0.05,nc,nc73952605,2023-10-29T04:58:12.476Z,"5 km NNW of Walker, CA",earthquake,0.2,0.36,,6,reviewed,nc,nc
+2023-10-28T05:40:18.740Z,38.5571667,-119.5103333,4.46,4.24,mw,23,112,0.02968,0.05,nc,nc73952605,2023-10-29T05:06:39.207Z,"5 km NNW of Walker, CA",earthquake,0.2,0.36,,6,reviewed,nc,nc
 2023-10-28T05:32:46.930Z,38.8246651,-122.8089981,1.02,0.77,md,12,66,0.001521,0.02,nc,nc73952600,2023-10-28T05:43:10.487Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.6,0.2,12,automatic,nc,nc
 2023-10-28T05:31:58.323Z,-10.2232,161.2978,68.809,5.5,mww,29,137,10.664,0.76,us,us7000l73x,2023-10-28T07:35:11.395Z,"72 km WNW of Kirakira, Solomon Islands",earthquake,8.53,10.251,0.075,17,reviewed,us,us
 2023-10-28T05:29:31.540Z,31.8848324,-116.0983353,9.54,3.04,ml,38,63,0.175,0.24,ci,ci40590016,2023-10-28T06:23:06.040Z,"48 km ENE of Maneadero, B.C., MX",earthquake,0.27,1.24,0.245,24,automatic,ci,ci
@@ -244,7 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T05:24:54.140Z,37.62,-122.3736667,11.18,1.72,md,60,28,0.05099,0.09,nc,nc73952595,2023-10-28T12:55:10.319Z,"3 km NNE of Millbrae, CA",earthquake,0.17,0.23,0.271,43,reviewed,nc,nc
 2023-10-28T05:20:33.270Z,38.8139992,-122.7583313,0.79,0.81,md,10,115,0.01877,0.02,nc,nc73952590,2023-10-28T05:31:10.424Z,"3 km WSW of Cobb, CA",earthquake,0.25,1.65,0.12,12,automatic,nc,nc
 2023-10-28T05:12:59.490Z,17.9046666666667,-66.9253333333333,14.38,2.72,md,28,215,0.06902,0.16,pr,pr71430128,2023-10-28T05:33:58.240Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.36,0.37,0.185193638308427,10,reviewed,pr,pr
-2023-10-28T05:11:57.353Z,58.9788,-136.4581,5.9,3.5,ml,,,,0.7,ak,ak023dtvt3ys,2023-10-28T21:39:24.668Z,"54 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-10-28T05:07:11.328Z,59.0043,-136.6775,0,1.8,ml,,,,1.08,ak,ak023dtvs5jw,2023-10-28T05:09:05.141Z,"59 km SW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-28T05:06:59.340Z,17.8845,-66.9266666666667,14.03,3,md,27,228,0.0889,0.14,pr,pr71430118,2023-10-28T05:35:32.040Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.37,0.41,0.34332490920447,12,reviewed,pr,pr
-2023-10-28T05:05:09.872Z,61.1503,-151.0973,49.6,1.8,ml,,,,0.34,ak,ak023dtvrpzx,2023-10-28T05:06:24.917Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
