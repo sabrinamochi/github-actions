@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T08:34:11.705Z,-30.0098,-71.3637,73.916,4.3,mwr,30,168,0.142,0.67,us,us7000l7cl,2023-10-29T09:50:48.040Z,"offshore Coquimbo, Chile",earthquake,7.42,5.644,,,reviewed,us,guc
 2023-10-29T08:32:29.620Z,53.8986666666667,-167.933,5.4,1.3,ml,7,147,,0.11,av,av92099961,2023-10-29T13:35:10.440Z,"91 km W of Dutch Harbor, Alaska",earthquake,0.98,1.19,0.393114133292571,8,reviewed,av,av
 2023-10-29T08:27:03.410Z,53.876,-166.9005,4.35,0.16,ml,6,162,,0.11,av,av92099951,2023-10-29T13:32:28.700Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.46,1.63,0.299154807895822,6,reviewed,av,av
-2023-10-29T08:13:15.986Z,63.7822,-149.2733,46.6,1.6,ml,,,,1.13,ak,ak023dvl53im,2023-10-29T08:15:48.838Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-29T08:13:15.986Z,63.7822,-149.2733,46.6,1.6,ml,,,,1.13,ak,ak023dvl53im,2023-10-29T08:15:48.838Z,"17 km WSW of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-29T08:05:08.590Z,19.3518333435059,-155.292999267578,3.3199999332428,1.78999996,md,27,118,,0.25999999,hv,hv73630712,2023-10-29T08:08:08.220Z,"11 km SSW of Volcano, Hawaii",earthquake,0.55,0.970000029,0.649999976,9,automatic,hv,hv
 2023-10-29T08:03:02.780Z,17.9735,-67.0716666666667,6.99,2.34,md,14,203,0.02643,0.14,pr,pr71430288,2023-10-29T08:26:27.350Z,"2 km W of La Parguera, Puerto Rico",earthquake,0.41,0.16,0.138513936533354,5,reviewed,pr,pr
 2023-10-29T07:57:01.550Z,33.7018333,-117.0303333,12.43,0.66,ml,31,146,0.02482,0.11,ci,ci40590624,2023-10-29T15:50:45.011Z,"5 km E of Winchester, CA",earthquake,0.23,0.31,0.07,8,reviewed,ci,ci
@@ -154,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T23:29:16.600Z,33.9103333,-117.796,5.91,1.1,ml,22,76,0.08195,0.23,ci,ci40590464,2023-10-29T01:53:55.087Z,"3 km NNE of Yorba Linda, CA",earthquake,0.44,1.45,0.257,26,reviewed,ci,ci
 2023-10-28T23:21:24.390Z,38.8318329,-122.8160019,1.52,0.57,md,11,73,0.009614,0.01,nc,nc73953020,2023-10-28T23:31:10.122Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.75,0.37,11,automatic,nc,nc
 2023-10-28T23:18:36.040Z,46.206,-122.18383333333334,4.74,0.79,ml,24,71,0.005916,0.16,uw,uw61960132,2023-10-29T15:20:17.970Z,"38 km NNE of Amboy, Washington",earthquake,0.34,0.58,0.1030804434158118,17,reviewed,uw,uw
+2023-10-28T23:17:37.940Z,46.199333333333335,-122.18616666666667,5.67,0.9400000000000001,ml,27,58,0.0009828,0.17,uw,uw61960127,2023-10-29T17:16:28.380Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.44,0.08139851582767477,20,reviewed,uw,uw
 2023-10-28T23:09:30.771Z,63.2434,-150.4504,49.9,1.3,ml,,,,0.88,ak,ak023du6ifdh,2023-10-28T23:19:04.256Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-28T23:06:47.430Z,38.8346672,-122.8164978,1.69,1.05,md,20,60,0.01232,0.02,nc,nc73953010,2023-10-28T23:22:02.651Z,"8 km W of Cobb, CA",earthquake,0.21,0.47,0.09,21,automatic,nc,nc
 2023-10-28T23:05:54.510Z,38.8330002,-122.8141632,1.58,0.27,md,10,89,0.01011,0.01,nc,nc73953005,2023-10-28T23:19:10.051Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.79,0.17,10,automatic,nc,nc
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T17:31:29.664Z,58.9913,-136.5496,0,1.9,ml,,,,0.96,ak,ak023du32jeu,2023-10-28T17:33:53.508Z,"56 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T17:27:24.380Z,38.7926674,-122.7558365,1.45,1.01,md,14,134,0.008503,0.03,nc,nc73952835,2023-10-28T18:04:11.113Z,"2 km N of The Geysers, CA",earthquake,0.35,0.51,0.11,14,automatic,nc,nc
 2023-10-28T17:21:09.660Z,19.4134998321533,-155.268829345703,8.36999988555908,1.76999998,md,25,73,,0.289999992,hv,hv73629662,2023-10-28T17:24:17.830Z,"4 km SW of Volcano, Hawaii",earthquake,0.71,0.479999989,0.239999995,6,automatic,hv,hv
-2023-10-28T17:18:16.985Z,58.997,-136.5541,0,2,ml,,,,0.9,ak,ak023du2zq4i,2023-10-28T17:33:35.078Z,"55 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
