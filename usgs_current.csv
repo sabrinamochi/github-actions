@@ -3,8 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T06:04:23.640Z,38.7566681,-122.6956635,8.28,1.12,md,5,185,0.09321,0.06,nc,nc73953180,2023-10-29T06:17:11.485Z,"2 km S of Anderson Springs, CA",earthquake,1.95,7.41,0.23,4,automatic,nc,nc
 2023-10-29T05:59:31.300Z,33.9326667,-116.8123333,5.94,0.84,ml,29,50,0.03013,0.17,ci,ci40590576,2023-10-29T06:03:08.748Z,"3 km NW of Cabazon, CA",earthquake,0.27,0.64,0.123,19,automatic,ci,ci
 2023-10-29T05:51:53.439Z,31.6457,-104.364,5,3.2,ml,22,110,0.119,0.28,us,us7000l7bz,2023-10-29T06:23:07.375Z,"58 km S of Whites City, New Mexico",earthquake,0.78,1.845,0.049,80,reviewed,us,us
-2023-10-29T05:46:01.378Z,17.9646,-66.921,10,2.6,ml,7,201,0.117,0.34,us,us7000l7by,2023-10-29T06:14:59.040Z,"1 km WSW of Guánica, Puerto Rico",earthquake,1.6,1.84,0.077,22,reviewed,us,us
-2023-10-29T05:45:10.760Z,17.9545,-66.9275,11.41,2.19,md,9,208,0.1121,0.17,pr,pr71430248,2023-10-29T06:17:43.790Z,"Puerto Rico region",earthquake,0.66,1.25,0.218383786007854,6,reviewed,pr,pr
+2023-10-29T05:46:01.260Z,17.9716666666667,-66.9338333333333,12.36,2.76,md,34,179,0.02398,0.28,pr,pr71430248,2023-10-29T06:24:34.710Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.51,0.37,0.212995227466694,13,reviewed,pr,pr
 2023-10-29T05:38:05.720Z,19.5146675109863,-155.89582824707,7.3899998664856,1.89999998,md,22,243,,0.280000001,hv,hv73630577,2023-10-29T05:41:23.530Z,"Island of Hawaii, Hawaii",earthquake,1.08,0.75,0.360000014,5,automatic,hv,hv
 2023-10-29T05:27:02.637Z,63.0043,-150.905,115.3,3.3,ml,,,,0.49,ak,ak023dvjfro6,2023-10-29T05:52:18.040Z,"57 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-29T05:22:39.310Z,19.1285,-65.3206,31,3.5,md,9,274,0.854,0.38,pr,pr2023302000,2023-10-29T06:07:37.113Z,"91 km N of Culebra, Puerto Rico",earthquake,3.77,25.18,0.06,6,reviewed,pr,pr
@@ -230,7 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T07:21:50.120Z,63.2521,-151.1116,9,1.4,ml,,,,0.5,ak,ak023dtx23s4,2023-10-28T07:24:11.484Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-28T07:14:34.130Z,17.9316666666667,-66.2955,12.29,2.39,md,13,195,0.1128,0.28,pr,pr71430153,2023-10-28T07:46:33.160Z,"5 km S of Salinas, Puerto Rico",earthquake,0.84,0.76,0.0853180475177382,8,reviewed,pr,pr
 2023-10-28T07:10:31.550Z,40.4708333,-121.5141667,2.22,1.44,md,5,169,0.06578,0.03,nc,nc71131724,2023-10-29T05:38:11.237Z,"14 km NNE of Mineral, CA",earthquake,1.02,1.95,0.231,5,reviewed,nc,nc
-2023-10-28T07:10:17.950Z,40.4728333,-121.5136667,3.59,1.53,md,10,122,0.06486,0.06,nc,nc73952675,2023-10-29T05:38:11.462Z,"14 km NNE of Mineral, CA",earthquake,0.5,0.88,0.139,11,reviewed,nc,nc
+2023-10-28T07:10:17.950Z,40.4728333,-121.5136667,3.59,1.53,md,10,122,0.06486,0.06,nc,nc73952675,2023-10-29T06:28:10.551Z,"14 km NNE of Mineral, CA",earthquake,0.5,0.88,0.139,11,reviewed,nc,nc
 2023-10-28T07:02:01.890Z,38.5521667,-119.5068333,4.94,2.73,md,18,112,0.03523,0.05,nc,nc73952660,2023-10-29T01:04:50.040Z,"5 km NNW of Walker, CA",earthquake,0.24,0.34,0.225,44,reviewed,nc,nc
 2023-10-28T06:59:32.988Z,62.0083,-150.3117,40.2,1.8,ml,,,,0.26,ak,ak023dtwos2a,2023-10-28T07:01:02.732Z,"29 km SW of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-28T06:57:47.908Z,59.0025,-136.5897,0,2.4,ml,,,,0.86,ak,ak023dtwods6,2023-10-28T07:00:01.456Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -238,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T06:52:37.640Z,17.9866666666667,-66.8066666666667,15.1,2.76,md,21,176,0.03615,0.21,pr,pr71430148,2023-10-28T07:06:05.790Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.4,0.49,0.097188235192039,8,reviewed,pr,pr
 2023-10-28T06:33:40.520Z,38.7820015,-122.7556686,1.51,0.79,md,11,69,0.01375,0.02,nc,nc73952650,2023-10-28T06:47:11.181Z,"0 km N of The Geysers, CA",earthquake,0.34,0.54,0.16,11,automatic,nc,nc
 2023-10-28T06:31:06.190Z,51.6101666666667,-178.534333333333,16.57,1,ml,7,184,,0.1,av,av92098731,2023-10-29T04:19:50.900Z,"134 km WSW of Adak, Alaska",earthquake,0.84,3.01,0.382059059264112,7,reviewed,av,av
-2023-10-28T06:25:38.180Z,39.5353,-118.4203,9.3,2.7,ml,10,101.47,0.324,0.1462,nn,nn00868046,2023-10-28T07:15:47.118Z,"28 km ENE of Fallon Station, Nevada",earthquake,,2.5,0.38,5,reviewed,nn,nn
-2023-10-28T06:25:12.289Z,59.0226,-136.3329,0,2.7,ml,,,,0.55,ak,ak023dtwhg4c,2023-10-28T06:30:05.040Z,"47 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
