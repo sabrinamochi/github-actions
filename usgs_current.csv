@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T05:02:31.347Z,55.8168,164.4816,10,4.9,mb,59,93,4.408,0.43,us,us7000l7h8,2023-10-30T05:19:50.040Z,"133 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10,1.88,0.049,130,reviewed,us,us
+2023-10-30T05:01:34.070Z,17.9181666666667,-66.8953333333333,14.27,2.31,md,5,228,0.05861,0.06,pr,pr71430388,2023-10-30T05:15:09.360Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.85,0.57,0.0945306350339883,4,reviewed,pr,pr
 2023-10-30T04:50:20.540Z,38.8313332,-122.8184967,1.63,0.19,md,9,70,0.01512,0.01,nc,nc73953570,2023-10-30T05:02:11.682Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.06,0.07,9,automatic,nc,nc
 2023-10-30T04:48:26.279Z,43.7744,147.8506,35,4.3,mb,29,189,3.813,0.94,us,us7000l7h5,2023-10-30T05:12:53.040Z,"Kuril Islands",earthquake,10.7,1.986,0.137,15,reviewed,us,us
 2023-10-30T04:39:01.932Z,63.2537,-148.3879,89.4,1.8,ml,,,,0.26,ak,ak023dx6g91b,2023-10-30T04:40:26.976Z,"32 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -62,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T22:21:24.280Z,47.849833333333336,-123.98366666666666,28.73,2.17,ml,28,35,0.03598,0.36,uw,uw61960312,2023-10-30T02:46:40.320Z,"32 km ESE of Forks, Washington",earthquake,0.66,1.17,0.15508278462836378,14,reviewed,uw,uw
 2023-10-29T22:16:42.827Z,63.8978,-148.3281,7.5,1.6,ml,,,,0.63,ak,ak023dvthv7e,2023-10-29T22:18:35.255Z,"31 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T22:04:56.900Z,38.8310013,-122.8184967,1.64,0.72,md,14,60,0.01513,0.02,nc,nc73953450,2023-10-29T22:16:10.403Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.54,0.11,14,automatic,nc,nc
-2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"Alaska Peninsula",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
+2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:44:01.310Z,33.6893333,-117.634,0.85,1.47,ml,9,129,0.2248,0.23,ci,ci40590928,2023-10-29T21:47:45.436Z,"2 km E of Foothill Ranch, CA",earthquake,0.85,31.61,0.324,10,automatic,ci,ci
 2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
@@ -211,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T05:45:37.940Z,17.9661666666667,-66.9398333333333,13.21,1.76,md,22,188,0.03029,0.12,pr,pr71430268,2023-10-29T06:42:14.500Z,"3 km W of Guánica, Puerto Rico",earthquake,0.43,0.19,0.151815694021235,6,reviewed,pr,pr
 2023-10-29T05:38:05.720Z,19.5146675109863,-155.89582824707,7.3899998664856,1.89999998,md,22,243,,0.280000001,hv,hv73630577,2023-10-29T05:41:23.530Z,"Island of Hawaii, Hawaii",earthquake,1.08,0.75,0.360000014,5,automatic,hv,hv
 2023-10-29T05:27:02.637Z,63.0043,-150.905,115.3,3.3,ml,,,,0.49,ak,ak023dvjfro6,2023-10-29T05:52:18.040Z,"57 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-29T05:22:39.310Z,19.1285,-65.3206,31,3.5,md,9,274,0.854,0.38,pr,pr2023302000,2023-10-29T06:07:37.113Z,"91 km N of Culebra, Puerto Rico",earthquake,3.77,25.18,0.06,6,reviewed,pr,pr
-2023-10-29T05:19:43.040Z,17.9375,-66.9065,13.52,1.83,md,3,250,0.04547,0.03,pr,pr71430273,2023-10-29T06:38:12.410Z,"Puerto Rico region",earthquake,2.55,0.78,0.0723360156214261,3,reviewed,pr,pr
-2023-10-29T05:18:21.290Z,33.4313333,-116.4585,14.77,1.52,ml,74,28,0.09583,0.18,ci,ci40590568,2023-10-29T20:39:51.540Z,"21 km NNW of Borrego Springs, CA",earthquake,0.15,0.25,0.124,40,reviewed,ci,ci
-2023-10-29T05:17:38.050Z,19.6001666666667,-66.1413333333333,20.94,3.43,md,13,253,1.285,0.11,pr,pr71430218,2023-10-29T06:10:31.580Z,"125 km N of San Juan, Puerto Rico",earthquake,0.58,12.45,0.0675795086566313,10,reviewed,pr,pr
