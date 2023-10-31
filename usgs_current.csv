@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-31T14:05:01.780Z,38.8248329,-122.8566666,1.05,0.26,md,7,140,0.002713,0.1,nc,nc73954135,2023-10-31T14:16:11.368Z,"10 km WNW of The Geysers, CA",earthquake,0.53,1.14,0.15,8,automatic,nc,nc
+2023-10-31T14:05:01.780Z,38.8248329,-122.8566666,1.05,0.26,md,7,140,0.002713,0.1,nc,nc73954135,2023-10-31T14:24:11.407Z,"10 km WNW of The Geysers, CA",earthquake,0.53,1.14,0.15,8,automatic,nc,nc
 2023-10-31T13:56:47.062Z,63.0935,-150.7834,123.3,1.6,ml,,,,0.2,ak,ak023dyzg8uu,2023-10-31T14:00:04.877Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-31T13:00:50.550Z,34.0031667,-117.2265,15.51,1.26,ml,33,62,0.07134,0.22,ci,ci40592512,2023-10-31T13:04:19.789Z,"6 km SSE of Loma Linda, CA",earthquake,0.31,0.55,0.216,30,automatic,ci,ci
 2023-10-31T12:56:23.849Z,58.1646,-155.4051,1.1,0.4,ml,,,,0.54,ak,ak023dyyurbk,2023-10-31T12:57:44.129Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T16:36:34.950Z,17.8753333333333,-66.4801666666667,29.8,3.18,md,21,205,0.2053,0.19,pr,pr71430428,2023-10-30T17:17:17.040Z,"12 km SW of Santa Isabel, Puerto Rico",earthquake,0.6,0.98,0.0964156934558069,14,reviewed,pr,pr
 2023-10-30T16:28:38.462Z,68.5348,-147.101,0,2,ml,,,,0.68,ak,ak023dxdj6bq,2023-10-30T16:39:30.135Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T16:06:33.820Z,38.7355003,-122.883667,10.51,0.82,md,7,212,0.06668,0.2,nc,nc73953760,2023-10-30T16:18:11.558Z,"12 km WSW of The Geysers, CA",earthquake,6.4,5.69,0.07,5,automatic,nc,nc
-2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T13:19:43.438Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
+2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T14:27:42.193Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
 2023-10-30T15:51:31.231Z,60.9673,-152.2735,114.1,1.4,ml,,,,0.54,ak,ak023dxd2nmj,2023-10-30T15:56:44.466Z,"61 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-30T15:45:35.660Z,19.1574993133545,-155.418502807617,32.4500007629395,2.17000008,md,29,212,,0.0700000003,hv,hv73632957,2023-10-30T15:48:34.640Z,"8 km SE of Pāhala, Hawaii",earthquake,0.75,0.800000012,1.24000001,3,automatic,hv,hv
 2023-10-30T15:45:20.570Z,38.8154984,-122.8263321,2.27,0.8,md,17,56,0.006984,0.02,nc,nc73953750,2023-10-30T15:56:10.423Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.18,18,automatic,nc,nc
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T14:44:11.700Z,32.7705,-115.8053333,3.16,1.77,ml,31,60,0.1028,0.22,ci,ci40591432,2023-10-30T16:01:22.765Z,"18 km ENE of Ocotillo, CA",earthquake,0.22,0.53,0.137,16,reviewed,ci,ci
 2023-10-30T14:42:56.990Z,37.0686667,-121.1313333,1.36,1.44,md,27,65,0.05696,0.14,nc,nc73953730,2023-10-30T21:46:10.450Z,"24 km SSW of Gustine, CA",earthquake,0.23,0.55,0.198,21,reviewed,nc,nc
 2023-10-30T14:36:00.960Z,38.7729988,-122.7371674,0.15,1,md,8,94,0.01023,0.05,nc,nc73953720,2023-10-30T15:14:11.307Z,"2 km ESE of The Geysers, CA",earthquake,0.37,1.04,0.23,8,automatic,nc,nc
-2023-10-30T14:28:57.923Z,40.0768,-119.6843,17.6,0.7,ml,4,169.2,0.1,0.0938,nn,nn00868142,2023-10-31T02:04:34.070Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.8,0.44,4,reviewed,nn,nn
-2023-10-30T14:25:41.017Z,63.4616,-149.7167,30.3,2,ml,,,,0.98,ak,ak023dxcbo5x,2023-10-30T14:28:46.209Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
