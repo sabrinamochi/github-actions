@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-31T16:24:30.570Z,38.8203316,-122.7723312,15.42,0.71,md,13,184,0.0103,0.09,nc,nc73954180,2023-10-31T16:26:07.473Z,"4 km W of Cobb, CA",earthquake,1.42,0.97,0.16,14,automatic,nc,nc
 2023-10-31T16:03:39.626Z,60.6113,-144.3268,14.3,2,ml,,,,0.65,ak,ak023dz0x60a,2023-10-31T16:05:13.955Z,"78 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-31T16:03:10.783Z,60.2596,-145.7302,34.8,2.5,ml,,,,1.25,ak,ak023dz0x3s6,2023-10-31T16:05:16.319Z,"31 km S of Cordova, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-10-31T15:30:18.250Z,47.6935,-113.825166666667,11.52,0.79,ml,6,226,0.2186,0.07,mb,mb90031433,2023-10-31T15:59:59.980Z,"western Montana",earthquake,1.2,2.28,0.236497484115929,3,reviewed,mb,mb
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T03:43:31.030Z,19.3633327484131,-155.325332641602,-0.540000021457672,1.92,ml,15,78,,0.330000013,hv,hv73633757,2023-10-31T03:49:03.240Z,"13 km SW of Volcano, Hawaii",earthquake,0.37,0.419999987,0.27,6,automatic,hv,hv
 2023-10-31T03:38:15.554Z,61.8528,-146.3008,7.5,1.7,ml,,,,0.92,ak,ak023dytdzcj,2023-10-31T03:40:25.326Z,"25 km SSE of Mendeltna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-31T03:36:26.781Z,63.1289,-150.8851,121.8,1.7,ml,,,,0.27,ak,ak023dytdks6,2023-10-31T03:38:28.987Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-31T03:34:42.810Z,33.9853333,-118.2303333,12.88,1.86,ml,47,57,0.04208,0.26,ci,ci40592328,2023-10-31T03:45:34.780Z,"1 km NW of Huntington Park, CA",earthquake,0.37,0.71,0.214,28,automatic,ci,ci
+2023-10-31T03:34:42.700Z,33.9865,-118.2365,14.54,2.04,ml,54,59,0.04087,0.22,ci,ci40592328,2023-10-31T16:33:04.770Z,"1 km WNW of Huntington Park, CA",earthquake,0.25,0.35,0.188,22,reviewed,ci,ci
 2023-10-31T03:11:54.260Z,33.7183333,-116.8443333,14.54,0.88,ml,40,47,0.07323,0.18,ci,ci40592320,2023-10-31T16:09:01.298Z,"6 km SE of Valle Vista, CA",earthquake,0.25,0.37,0.194,17,reviewed,ci,ci
 2023-10-31T03:11:45.130Z,33.7158333,-116.8445,14.13,0.69,ml,37,58,0.07208,0.16,ci,ci40592312,2023-10-31T15:57:50.061Z,"6 km SE of Valle Vista, CA",earthquake,0.21,0.4,0.087,13,reviewed,ci,ci
 2023-10-31T03:11:39.360Z,33.7183333,-116.8425,14.12,0.48,ml,15,112,0.07462,0.11,ci,ci40592304,2023-10-31T15:43:57.771Z,"6 km SE of Valle Vista, CA",earthquake,0.37,0.51,0.285,4,reviewed,ci,ci
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T16:52:46.880Z,34.6818333,-116.2848333,3.12,2.46,ml,27,50,0.11,0.14,ci,ci40591624,2023-10-30T21:17:23.660Z,"12 km WSW of Ludlow, CA",earthquake,0.17,0.84,0.171,99,reviewed,ci,ci
 2023-10-30T16:42:08.730Z,38.8058319,-122.7809982,1.22,0.28,md,6,119,0.00742,0.01,nc,nc73953775,2023-10-30T16:52:10.763Z,"4 km NW of The Geysers, CA",earthquake,0.67,0.79,0.09,6,automatic,nc,nc
 2023-10-30T16:36:34.950Z,17.8753333333333,-66.4801666666667,29.8,3.18,md,21,205,0.2053,0.19,pr,pr71430428,2023-10-30T17:17:17.040Z,"12 km SW of Santa Isabel, Puerto Rico",earthquake,0.6,0.98,0.0964156934558069,14,reviewed,pr,pr
-2023-10-30T16:28:38.462Z,68.5348,-147.101,0,2,ml,,,,0.68,ak,ak023dxdj6bq,2023-10-30T16:39:30.135Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
