@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-01T14:52:20.410Z,38.8139992,-122.7963333,3.21,1.09,md,19,79,0.006076,0.02,nc,nc73954605,2023-11-01T14:53:59.834Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.51,0.06,22,automatic,nc,nc
+2023-11-01T15:04:40.376Z,62.4502,-149.721,25.3,1.4,ml,,,,0.61,ak,ak023e0nvao5,2023-11-01T15:07:03.415Z,"19 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-01T15:03:32.410Z,40.527832,-123.5681686,5.26,2.41,md,29,52,0.04923,0.22,nc,nc73954610,2023-11-01T15:10:11.397Z,"33 km W of Hayfork, CA",earthquake,0.39,0.77,0.06,24,automatic,nc,nc
+2023-11-01T14:52:20.410Z,38.8139992,-122.7963333,3.21,1.09,md,19,79,0.006076,0.02,nc,nc73954605,2023-11-01T15:09:12.393Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.51,0.06,22,automatic,nc,nc
 2023-11-01T14:41:22.730Z,46.17966842651367,-122.14533233642578,10.460000038147,1.08000004,md,10,196,0.01798,0.0599999987,uw,uw61960877,2023-11-01T14:48:31.360Z,"37 km NE of Amboy, Washington",earthquake,1.47,2.51999998,,1,reviewed,uw,uw
 2023-11-01T14:30:21.650Z,19.4021663665771,-155.26432800293,4.23000001907349,1.78,ml,28,54,,0.189999998,hv,hv73635657,2023-11-01T14:35:52.250Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.389999986,0.34,9,automatic,hv,hv
 2023-11-01T14:13:10.140Z,33.4886667,-116.4805,13.89,1.07,ml,37,75,0.05742,0.21,ci,ci40593720,2023-11-01T14:16:43.492Z,"19 km ESE of Anza, CA",earthquake,0.3,0.5,0.119,25,automatic,ci,ci
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T13:16:54.919Z,61.4999,-151.1868,7.4,1.2,ml,,,,0.44,ak,ak023e0mr16b,2023-11-01T13:19:19.578Z,"36 km W of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-01T13:16:37.610Z,36.0219994,-120.5821686,0.22,0.62,md,8,141,0.03901,0.08,nc,nc73954590,2023-11-01T13:52:09.907Z,"19 km NW of Parkfield, CA",earthquake,0.41,1.61,0.01,3,automatic,nc,nc
 2023-11-01T13:09:50.974Z,61.2943,-151.4147,69,1.4,ml,,,,0.39,ak,ak023e0mpiux,2023-11-01T13:12:25.173Z,"24 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-01T12:51:15.461Z,10.9252,93.0603,94.132,5.1,mb,94,49,6.771,0.83,us,us7000l828,2023-11-01T13:07:14.040Z,"88 km SSE of Port Blair, India",earthquake,9.15,6.476,0.054,112,reviewed,us,us
+2023-11-01T12:51:15.461Z,10.9252,93.0603,94.132,5.1,mb,94,49,6.771,0.83,us,us7000l828,2023-11-01T15:02:28.884Z,"88 km SSE of Port Blair, India",earthquake,9.15,6.476,0.054,112,reviewed,us,us
 2023-11-01T12:41:36.380Z,33.8933333,-116.8128333,13.2,0.78,ml,16,88,0.1675,0.1,ci,ci40593624,2023-11-01T12:45:14.609Z,"4 km SW of Cabazon, CA",earthquake,0.24,0.7,0.219,19,automatic,ci,ci
 2023-11-01T12:38:52.585Z,61.7731,-148.4127,10,1.4,ml,,,,1,ak,ak023e0mab56,2023-11-01T12:41:45.012Z,"3 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T12:25:35.820Z,38.8356667,-122.7919998,2.03,1.19,md,18,43,0.003028,0.05,nc,nc73954580,2023-11-01T13:08:09.670Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.44,0.21,18,automatic,nc,nc
@@ -37,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T09:59:02.590Z,17.922,-66.288,13.91,1.97,md,9,217,0.1179,0.15,pr,pr71430533,2023-11-01T11:05:15.820Z,"6 km S of Salinas, Puerto Rico",earthquake,0.76,1.22,0.155815576039844,6,reviewed,pr,pr
 2023-11-01T09:57:14.290Z,17.9323333333333,-66.2873333333333,12.6,2.67,md,20,195,0.1084,0.25,pr,pr71430523,2023-11-01T11:09:32.040Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.72,0.49,0.182923486567057,14,reviewed,pr,pr
 2023-11-01T09:30:23.292Z,59.9624,-152.7571,100.5,1.2,ml,,,,0.3,ak,ak023e0kg8c9,2023-11-01T09:32:17.392Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-01T09:20:28.100Z,46.667833333333334,-120.67633333333333,1.47,0.61,ml,7,159,0.1212,0.19,uw,uw61960857,2023-11-01T15:03:16.300Z,"2 km E of Cowiche, Washington",earthquake,0.83,13.88,0.08832679660917198,5,reviewed,uw,uw
 2023-11-01T09:12:56.010Z,40.3843333,-111.845,4.24,1.35,md,26,80,0.1031,0.23,uu,uu60553347,2023-11-01T13:22:17.200Z,"0 km SSE of Lehi, Utah",earthquake,0.39,2.31,0.272,17,reviewed,uu,uu
 2023-11-01T09:04:50.040Z,33.8025,-116.9226667,8.21,0.18,ml,8,261,0.1148,0.22,ci,ci40593520,2023-11-01T09:08:33.964Z,"4 km ENE of San Jacinto, CA",earthquake,1.68,1.82,0.112,3,automatic,ci,ci
 2023-11-01T09:04:02.820Z,33.468,-116.5573333,10.09,0.62,ml,28,98,0.04599,0.14,ci,ci40593512,2023-11-01T09:07:25.961Z,"14 km SE of Anza, CA",earthquake,0.24,0.38,0.2,13,automatic,ci,ci
@@ -208,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T15:23:35.360Z,38.6881676,-122.4964981,7.87,1.56,md,13,110,0.09454,0.06,nc,nc73954160,2023-10-31T15:55:10.868Z,"12 km SE of Middletown, CA",earthquake,0.37,1.36,0.17,15,automatic,nc,nc
 2023-10-31T15:15:11.508Z,60.1485,-150.9334,58.6,1.8,ml,,,,0.21,ak,ak023dz0e8tq,2023-10-31T15:16:50.642Z,"27 km ESE of Clam Gulch, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-31T15:13:59.079Z,61.0912,-151.0195,54.1,1.4,ml,,,,0.32,ak,ak023dz0dx2b,2023-10-31T15:15:41.905Z,"6 km SSE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-31T15:08:58.400Z,44.759,-110.0423333,2.32,1.05,md,5,118,0.08315,0.05,uu,uu60553232,2023-10-31T17:12:57.090Z,"27 km S of Silver Gate, Montana",earthquake,0.36,31.61,0.204,4,reviewed,uu,uu
