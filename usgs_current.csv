@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T15:46:00.656Z,37.4578,-115.9674,0,1.8,ml,25,151.48,0.282,0.2984,nn,nn00868272,2023-11-01T15:48:32.065Z,"Nevada",earthquake,,24.9,0.32,21,automatic,nn,nn
+2023-11-01T15:41:33.800Z,33.7506667,-117.075,6.15,0.92,ml,36,55,0.06946,0.19,ci,ci40593824,2023-11-01T15:45:21.186Z,"1 km N of Green Acres, CA",earthquake,0.29,0.62,0.198,18,automatic,ci,ci
 2023-11-01T15:34:32.355Z,62.1442,-151.1583,26.4,1.5,ml,,,,0.64,ak,ak023e0o1pj7,2023-11-01T15:36:27.901Z,"21 km NE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T15:32:22.261Z,61.4331,-149.8676,20.1,1.6,ml,,,,0.48,ak,ak023e0o19bm,2023-11-01T15:34:07.903Z,"7 km WSW of Knik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-01T15:04:40.376Z,62.4502,-149.721,25.3,1.4,ml,,,,0.61,ak,ak023e0nvao5,2023-11-01T15:07:03.415Z,"19 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-01T15:03:32.410Z,40.527832,-123.5681686,5.26,2.41,md,29,52,0.04923,0.22,nc,nc73954610,2023-11-01T15:10:11.397Z,"33 km W of Hayfork, CA",earthquake,0.39,0.77,0.06,24,automatic,nc,nc
+2023-11-01T15:03:32.410Z,40.527832,-123.5681686,5.26,2.41,md,29,52,0.04923,0.22,nc,nc73954610,2023-11-01T15:45:13.617Z,"33 km W of Hayfork, CA",earthquake,0.39,0.77,0.06,24,automatic,nc,nc
 2023-11-01T14:52:20.410Z,38.8139992,-122.7963333,3.21,1.09,md,19,79,0.006076,0.02,nc,nc73954605,2023-11-01T15:30:11.517Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.51,0.06,22,automatic,nc,nc
 2023-11-01T14:41:22.730Z,46.17966842651367,-122.14533233642578,10.460000038147,1.08000004,md,10,196,0.01798,0.0599999987,uw,uw61960877,2023-11-01T14:48:31.360Z,"37 km NE of Amboy, Washington",earthquake,1.47,2.51999998,,1,reviewed,uw,uw
 2023-11-01T14:30:21.650Z,19.4021663665771,-155.26432800293,4.23000001907349,1.78,ml,28,54,,0.189999998,hv,hv73635657,2023-11-01T14:35:52.250Z,"5 km SW of Volcano, Hawaii",earthquake,0.3,0.389999986,0.34,9,automatic,hv,hv
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T15:55:03.300Z,46.1995,-122.18683333333334,5.93,0.05,ml,10,93,0.0257,0.13,uw,uw61960632,2023-10-31T21:12:17.170Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.71,0.07091825521565664,5,reviewed,uw,uw
 2023-10-31T15:53:56.322Z,31.619,-103.985,7.0699,2.2,ml(texnet),23,57,0,0.2,tx,tx2023viuy,2023-10-31T19:29:51.080Z,"37 km WSW of Mentone, Texas",earthquake,0.4815869104,0.5067519688,0.2,18,reviewed,tx,tx
 2023-10-31T15:51:36.650Z,31.625,-103.993,9.8849,2.6,ml(texnet),22,54,0,0.1,tx,tx2023viuv,2023-11-01T15:20:47.040Z,"38 km WSW of Mentone, Texas",earthquake,0.7625887078,0.8143870178,0.3,30,reviewed,tx,tx
-2023-10-31T15:42:16.380Z,19.4385,-155.576,40,2.27,md,29,60,,0.18,hv,hv73634377,2023-10-31T21:30:27.190Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.59,0.231066489170672,14,reviewed,hv,hv
