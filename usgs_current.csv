@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:15:09.109Z,66.2856,-150.1845,9.9,1.5,ml,,,,0.74,ak,ak023e0gsdvi,2023-11-01T03:16:59.000Z,"58 km WNW of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T03:06:28.531Z,61.0493,-150.4944,57.1,1.2,ml,,,,0.1,ak,ak023e0gqhxh,2023-11-01T03:08:09.605Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T03:07:30.110Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,automatic,ci,ci
+2023-11-01T03:00:31.961Z,31.641,-104.173,3.8456,1.8,ml(texnet),20,63,0.1,0.2,tx,tx2023vjqx,2023-11-01T03:44:39.212Z,"51 km NW of Toyah, Texas",earthquake,0,1.326411455,0.2,14,automatic,tx,tx
 2023-11-01T02:57:10.340Z,19.407,-155.291666666667,7.4,2,md,13,94,,0.1,hv,hv73635132,2023-11-01T03:40:14.070Z,"7 km WSW of Volcano, Hawaii",earthquake,0.51,0.63,0.00835473475477178,2,reviewed,hv,hv
 2023-11-01T02:47:30.900Z,33.9003333,-117.8811667,5.32,1.89,ml,44,69,0.0572,0.24,ci,ci40593384,2023-11-01T03:15:35.642Z,"2 km SE of Brea, CA",earthquake,0.3,0.73,0.205,27,automatic,ci,ci
 2023-11-01T02:44:31.642Z,58.9979,-151.1853,30.9,2,ml,,,,0.33,ak,ak023e0gd7rw,2023-11-01T02:47:33.924Z,"53 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -39,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T23:55:43.270Z,31.758,-104.397,4.0032,1.9,ml(texnet),18,107,0,0.3,tx,tx2023vjku,2023-11-01T00:12:03.040Z,"46 km S of Whites City, New Mexico",earthquake,0,1.316924358,0.1,13,automatic,tx,tx
 2023-10-31T23:49:08.830Z,33.6658333,-116.735,17.23,0.66,ml,22,99,0.04844,0.09,ci,ci40593296,2023-11-01T00:01:25.695Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.29,0.117,13,reviewed,ci,ci
 2023-10-31T23:41:21.872Z,61.5841,-146.336,28.9,1.6,ml,,,,0.61,ak,ak023dz5bb2z,2023-10-31T23:42:55.480Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-31T23:34:47.858Z,60.9559,-150.6933,49.5,3,ml,,,,0.45,ak,ak023dz59v16,2023-11-01T01:27:25.209Z,"3 km N of Point Possession, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-10-31T23:34:47.858Z,60.9559,-150.6933,49.5,3,ml,,,,0.45,ak,ak023dz59v16,2023-11-01T03:42:41.027Z,"3 km N of Point Possession, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-10-31T23:33:39.097Z,60.9355,-150.7076,42.9,2.7,ml,,,,0.16,ak,ak023dz59mol,2023-11-01T00:28:13.040Z,"Kenai Peninsula, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-10-31T23:29:27.077Z,60.9077,-150.756,55.9,1.3,ml,,,,0.27,ak,ak023dz58qw3,2023-10-31T23:31:04.171Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-31T23:27:50.792Z,63.0923,-150.8462,115.1,1.5,ml,,,,0.46,ak,ak023dz58daf,2023-10-31T23:29:44.928Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -204,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T04:11:22.446Z,67.3285,-156.1972,15.2,2,ml,,,,0.42,ak,ak023dyttp5o,2023-10-31T16:38:30.034Z,"55 km NNE of Kobuk, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-10-31T04:01:15.620Z,33.2715,-116.7805,11.8,0.68,ml,28,66,0.03983,0.15,ci,ci40592352,2023-10-31T17:07:07.376Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.6,0.12,13,reviewed,ci,ci
 2023-10-31T03:58:20.200Z,33.971,-116.6568333,12.64,0.99,ml,30,42,0.06775,0.18,ci,ci40592344,2023-10-31T14:42:12.770Z,"11 km SW of Morongo Valley, CA",earthquake,0.3,0.75,0.114,23,reviewed,ci,ci
-2023-10-31T03:46:13.480Z,34.01,-117.1943333,16.04,1.23,ml,62,27,0.06498,0.17,ci,ci40592336,2023-10-31T17:00:51.338Z,"5 km SSW of Redlands, CA",earthquake,0.15,0.36,0.19,24,reviewed,ci,ci
-2023-10-31T03:45:27.070Z,44.6026666666667,-112.638,7.53,0.88,ml,4,188,0.01518,0.09,mb,mb90031333,2023-10-31T14:07:24.810Z,"western Montana",earthquake,4.53,0.56,0.0456068117258436,2,reviewed,mb,mb
-2023-10-31T03:43:33.820Z,19.3376666666667,-155.312666666667,3.02,2.09,ml,20,73,,0.09,hv,hv73633762,2023-10-31T04:22:09.030Z,"14 km SW of Volcano, Hawaii",earthquake,0.24,0.42,0.204953362905814,10,reviewed,hv,hv
-2023-10-31T03:43:31.030Z,19.3633327484131,-155.325332641602,-0.540000021457672,1.92,ml,15,78,,0.330000013,hv,hv73633757,2023-10-31T03:49:03.240Z,"13 km SW of Volcano, Hawaii",earthquake,0.37,0.419999987,0.27,6,automatic,hv,hv
