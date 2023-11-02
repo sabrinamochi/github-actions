@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T10:59:20.430Z,42.539,-111.4393333,9.69,1.37,ml,13,135,0.3372,0.19,uu,uu60553442,2023-11-02T20:04:54.970Z,"8 km NW of Georgetown, Idaho",earthquake,0.8,0.92,0.208,2,reviewed,uu,uu
 2023-11-02T10:59:19.930Z,46.8851666666667,-112.520666666667,10.09,0.7,ml,5,165,0.05082,0.07,mb,mb90031693,2023-11-02T19:59:33.390Z,"Western Montana",earthquake,0.69,0.53,0.315601635521643,3,reviewed,mb,mb
 2023-11-02T10:58:45.050Z,38.8258324,-122.8538361,2.24,0.45,md,9,112,0.002924,0.01,nc,nc73955010,2023-11-02T13:49:12.283Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,10,automatic,nc,nc
-2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-02T21:50:06.414Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
+2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-02T21:55:12.674Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
 2023-11-02T10:31:16.380Z,37.4303333,-113.1185,9.99,2.08,ml,16,78,0.0743,0.13,uu,uu60553432,2023-11-02T13:27:56.460Z,"13 km SSE of Kanarraville, Utah",earthquake,0.34,0.67,0.158,10,reviewed,uu,uu
 2023-11-02T10:14:58.160Z,38.8320007,-122.8166656,1.4,0.65,md,10,73,0.01002,0.01,nc,nc73954995,2023-11-02T12:52:10.965Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.75,0.07,12,automatic,nc,nc
 2023-11-02T09:48:34.630Z,38.7789993,-122.7450027,-0.28,0.8,md,10,84,0.007731,0.05,nc,nc73954980,2023-11-02T10:49:11.251Z,"1 km E of The Geysers, CA",earthquake,0.28,0.61,0.19,8,automatic,nc,nc
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T05:27:16.034Z,-24.9688,-71.0125,26.857,4.4,mb,29,144,1.232,0.7,us,us7000l893,2023-11-02T06:33:00.040Z,"71 km NW of Taltal, Chile",earthquake,5.58,1.836,0.203,11,reviewed,us,us
 2023-11-02T05:15:34.535Z,64.28,-148.5152,3.7,1.2,ml,,,,0.42,ak,ak023e25injh,2023-11-02T05:17:41.939Z,"32 km E of Clear, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-02T04:51:38.256Z,59.4249,-145.0736,59.2,2,ml,,,,0.62,ak,ak023e254y01,2023-11-02T04:53:39.013Z,"130 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T21:33:11.116Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
+2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T21:56:11.247Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
 2023-11-02T04:39:10.360Z,46.118,-122.16933333333333,10.3,1.06,ml,22,109,0.01801,0.22,uw,uw61961002,2023-11-02T17:29:24.370Z,"Mount St. Helens area, Washington",earthquake,0.46,0.65,0.061441837591982074,13,reviewed,uw,uw
 2023-11-02T04:37:41.900Z,19.4348,-64.762,34,3.71,md,12,300,1.0997,0.5,pr,pr2023306000,2023-11-02T05:12:27.040Z,"122 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.1,30.22,0.07,4,reviewed,pr,pr
 2023-11-02T04:33:13.496Z,56.002,-156.5314,10,2.8,ml,,,,0.33,ak,ak023e25120f,2023-11-02T12:25:52.446Z,"Alaska Peninsula",earthquake,,0,,,reviewed,ak,ak
@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T22:15:43.700Z,38.3953323,-122.4993362,3.22,2.42,md,15,60,,0.07,nc,nc73954770,2023-11-02T01:47:18.005Z,"4 km NE of Glen Ellen, CA",earthquake,0.28,1.61,0.13,15,automatic,nc,nc
 2023-11-01T22:06:18.330Z,33.9883333,-116.383,9.85,0.8,ml,19,92,0.05213,0.08,ci,ci40594472,2023-11-02T00:56:41.822Z,"11 km ENE of Desert Hot Springs, CA",earthquake,0.22,0.32,0.104,12,reviewed,ci,ci
 2023-11-01T22:04:34.212Z,31.653,-104.294,7.1856,2.9,ml(texnet),15,68,0,0.3,tx,tx2023vlcq,2023-11-01T22:27:06.676Z,"58 km S of Whites City, New Mexico",earthquake,1.273632707,1.118733783,0.3,11,reviewed,tx,tx
-2023-11-01T21:52:18.024Z,13.56,-90.7073,60.673,5.1,mb,61,148,1.227,0.96,us,us7000l875,2023-11-02T00:40:45.242Z,"41 km S of Iztapa, Guatemala",earthquake,7.36,7.001,0.026,493,reviewed,us,us
