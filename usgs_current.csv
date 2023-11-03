@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T07:07:06.570Z,38.7856674,-122.7353363,1.62,0.91,md,9,106,0.002658,0.02,nc,nc73955405,2023-11-03T07:08:41.244Z,"2 km ENE of The Geysers, CA",earthquake,0.3,1.08,0.29,10,automatic,nc,nc
 2023-11-03T07:05:31.250Z,33.7685,-116.905,15.55,0.49,ml,9,135,0.08271,0.22,ci,ci39706122,2023-11-03T07:09:09.109Z,"2 km NNW of Valle Vista, CA",earthquake,1.09,1.38,0.095,6,automatic,ci,ci
 2023-11-03T06:50:23.669Z,61.4796,-151.5738,75.6,1.1,ml,,,,0.95,ak,ak023e3tuwvu,2023-11-03T06:52:31.237Z,"45 km NW of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-03T06:47:27.439Z,51.9066,-172.3685,10.726,5,mww,143,126,1.167,0.95,us,us7000l8in,2023-11-03T07:07:33.857Z,"129 km ESE of Atka, Alaska",earthquake,7.95,4.284,0.062,25,reviewed,us,us
+2023-11-03T06:47:27.439Z,51.9066,-172.3685,10.726,5,mww,143,126,1.167,0.95,us,us7000l8in,2023-11-03T07:12:21.171Z,"129 km ESE of Atka, Alaska",earthquake,7.95,4.284,0.062,25,reviewed,us,us
 2023-11-03T06:44:10.121Z,64.7631,-148.9097,12,1,ml,,,,0.49,ak,ak023e3ttlis,2023-11-03T06:52:39.048Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-03T06:34:15.349Z,63.1417,-151.4369,9.3,1.4,ml,,,,0.66,ak,ak023e3trgri,2023-11-03T06:36:39.705Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-03T06:26:38.352Z,38.683,23.5628,9.893,5.1,mww,70,39,1.983,0.75,us,us7000l8ij,2023-11-03T07:09:27.009Z,"8 km SE of Prokópi, Greece",earthquake,5.09,3.843,0.056,31,reviewed,us,us
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T10:59:20.430Z,42.539,-111.4393333,9.69,1.37,ml,13,135,0.3372,0.19,uu,uu60553442,2023-11-02T20:04:54.970Z,"8 km NW of Georgetown, Idaho",earthquake,0.8,0.92,0.208,2,reviewed,uu,uu
 2023-11-02T10:59:19.930Z,46.8851666666667,-112.520666666667,10.09,0.7,ml,5,165,0.05082,0.07,mb,mb90031693,2023-11-02T19:59:33.390Z,"Western Montana",earthquake,0.69,0.53,0.315601635521643,3,reviewed,mb,mb
 2023-11-02T10:58:45.050Z,38.8258324,-122.8538361,2.24,0.45,md,9,112,0.002924,0.01,nc,nc73955010,2023-11-02T13:49:12.283Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,10,automatic,nc,nc
-2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-03T06:07:03.605Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
+2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-03T07:13:11.805Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
 2023-11-02T10:39:52.462Z,36.6582,-116.2731,7.2,-0.3,ml,15,92.88,0.054,0.0771,nn,nn00868365,2023-11-03T02:45:21.230Z,"51 km ESE of Beatty, Nevada",earthquake,,1.1,0.38,5,reviewed,nn,nn
 2023-11-02T10:31:16.380Z,37.4303333,-113.1185,9.99,2.08,ml,16,78,0.0743,0.13,uu,uu60553432,2023-11-02T13:27:56.460Z,"13 km SSE of Kanarraville, Utah",earthquake,0.34,0.67,0.158,10,reviewed,uu,uu
 2023-11-02T10:14:58.160Z,38.8320007,-122.8166656,1.4,0.65,md,10,73,0.01002,0.01,nc,nc73954995,2023-11-02T12:52:10.965Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.75,0.07,12,automatic,nc,nc
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T07:31:41.800Z,17.9675,-66.8383333333333,16.02,2.2,md,16,200,0.03967,0.26,pr,pr71430618,2023-11-02T07:40:19.280Z,"3 km SW of Indios, Puerto Rico",earthquake,0.92,0.53,0.133420302140836,5,reviewed,pr,pr
 2023-11-02T07:27:05.810Z,19.1841659545898,-155.499664306641,34.1199989318848,2.03999996,md,43,78,,0.129999995,hv,hv73636577,2023-11-02T07:30:15.710Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.810000002,0.730000019,13,automatic,hv,hv
 2023-11-02T07:15:17.740Z,19.1803340911865,-155.492660522461,32.3499984741211,1.82,ml,41,90,,0.109999999,hv,hv73636567,2023-11-02T07:20:47.250Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.57,0.860000014,0.16,3,automatic,hv,hv
-2023-11-02T07:13:46.230Z,33.3135,-116.2363333,7.73,0.98,ml,52,24,0.1103,0.21,ci,ci40594824,2023-11-02T20:04:35.850Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,1.02,0.126,16,reviewed,ci,ci
