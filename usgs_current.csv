@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T19:52:05.191Z,31.66,-104.293,6.9028,1.5,ml(texnet),19,86,0,0.2,tx,tx2023vmtu,2023-11-02T21:03:06.920Z,"western Texas",earthquake,0.8838109136,0.9051377261,0.1,7,reviewed,tx,tx
 2023-11-02T19:51:09.965Z,62.7253,-152.4524,0,1.7,ml,,,,0.45,ak,ak023e2e2dw4,2023-11-02T19:53:07.864Z,"90 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-02T19:45:59.070Z,38.689167,-122.496666,6.59,1.55,md,13,109,0.09526,0.06,nc,nc73955195,2023-11-02T22:55:11.622Z,"12 km SE of Middletown, CA",earthquake,0.3,1.26,0.14,13,automatic,nc,nc
-2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"6 km SSE of Lincoln, Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
+2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"western Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
 2023-11-02T19:39:10.865Z,32.403,-101.588,4.4752,3.3,ml(texnet),25,51,0,0.2,tx,tx2023vmtn,2023-11-02T20:54:58.273Z,"18 km SE of Ackerly, Texas",earthquake,0.8019438666,0.8150121589,0.3,19,reviewed,tx,tx
 2023-11-02T19:23:49.860Z,33.7226667,-116.7641667,16.59,0.6,ml,13,82,0.04322,0.15,ci,ci39705058,2023-11-02T19:27:29.140Z,"5 km WSW of Idyllwild, CA",earthquake,0.43,0.63,0.099,9,automatic,ci,ci
 2023-11-02T18:58:29.174Z,62.1573,-145.6483,3.9,1.5,ml,,,,1.33,ak,ak023e2dihsn,2023-11-02T19:01:06.438Z,"7 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T02:27:45.510Z,38.8216667,-122.8535004,2.56,0.77,md,17,92,0.006434,0.01,nc,nc73954890,2023-11-02T04:45:11.036Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.19,18,automatic,nc,nc
 2023-11-02T02:27:05.410Z,33.9758333,-116.8533333,9.35,0.44,ml,11,87,0.07023,0.16,ci,ci37586684,2023-11-02T19:37:39.265Z,"6 km NNE of Banning, CA",earthquake,0.39,0.92,0.207,8,reviewed,ci,ci
 2023-11-02T02:26:34.630Z,33.6673333,-116.7593333,15.39,0.62,ml,22,102,0.0577,0.15,ci,ci40594712,2023-11-02T18:02:52.776Z,"9 km SSW of Idyllwild, CA",earthquake,0.32,0.49,0.125,10,reviewed,ci,ci
-2023-11-02T02:25:34.334Z,61.3467,-146.9233,20.7,1.8,ml,,,,0.65,ak,ak023e23shvd,2023-11-02T02:27:29.553Z,"39 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
