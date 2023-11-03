@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-03T02:49:35.880Z,35.3301667,-118.0855,11.84,1.5,ml,10,202,0.3617,0.25,ci,ci39705826,2023-11-03T02:53:24.747Z,"24 km NNW of California City, CA",earthquake,1.67,31.61,0.16,9,automatic,ci,ci
 2023-11-03T02:44:02.250Z,35.7533333,-117.5908333,5.04,0.46,ml,9,122,0.1519,0.1,ci,ci39705802,2023-11-03T02:47:41.842Z,"17 km NNE of Ridgecrest, CA",earthquake,0.68,31.61,0.107,5,automatic,ci,ci
-2023-11-03T02:40:37.230Z,32.3811667,-115.2465,5.62,2.39,ml,20,47,0.06253,0.28,ci,ci39705794,2023-11-03T02:44:22.437Z,"6 km WNW of Delta, B.C., MX",earthquake,0.51,1.22,0.183,26,automatic,ci,ci
+2023-11-03T02:40:37.230Z,32.3811667,-115.2465,5.62,2.39,ml,20,47,0.06253,0.28,ci,ci39705794,2023-11-03T02:51:10.250Z,"6 km WNW of Delta, B.C., MX",earthquake,0.51,1.22,0.183,26,automatic,ci,ci
 2023-11-03T02:30:05.050Z,38.7981682,-122.8154984,3.4,1.07,md,15,85,0.01382,0.02,nc,nc73955355,2023-11-03T02:46:11.923Z,"6 km WNW of The Geysers, CA",earthquake,0.3,0.73,0.27,18,automatic,nc,nc
 2023-11-03T02:25:52.640Z,35.766,-117.586,1.71,2.67,ml,31,62,0.1515,0.16,ci,ci39705786,2023-11-03T02:37:04.430Z,"16 km W of Searles Valley, CA",earthquake,0.26,0.49,0.153,25,automatic,ci,ci
 2023-11-03T01:47:37.614Z,63.2861,-149.3314,96.4,2.2,ml,,,,0.14,ak,ak023e3qv4rl,2023-11-03T01:55:21.040Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -118,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T12:05:34.610Z,31.678,-104.398,6.4915,1.6,ml(texnet),14,69,0,0.2,tx,tx2023vmel,2023-11-03T02:32:25.839Z,"55 km S of Whites City, New Mexico",earthquake,0.8226802454,0.8930798741,0.1,11,reviewed,tx,tx
 2023-11-02T12:04:07.621Z,31.673,-104.389,6.0802,2,ml(texnet),11,57,0,0.2,tx,tx2023vmej,2023-11-02T20:31:06.102Z,"55 km S of Whites City, New Mexico",earthquake,1.056725395,1.27719362,0.1,16,reviewed,tx,tx
 2023-11-02T11:51:08.287Z,60.3649,-143.4005,4,1.5,ml,,,,0.42,ak,ak023e29awx8,2023-11-02T11:53:09.411Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-02T11:48:36.088Z,36.6512,-116.2717,6.7,-0.2,ml,11,194.83,0.054,0.053,nn,nn00868367,2023-11-03T02:51:35.829Z,"52 km ESE of Beatty, Nevada",earthquake,,1.4,0.64,6,reviewed,nn,nn
 2023-11-02T11:47:27.218Z,37.4069,-114.3335,5.5,1.4,ml,6,151.24,0.383,0.0859,nn,nn00868319,2023-11-02T16:38:38.092Z,"27 km SE of Caliente, Nevada",earthquake,,6.8,0.17,5,reviewed,nn,nn
 2023-11-02T11:45:23.870Z,38.847168,-122.8160019,1.49,1.01,md,16,56,0.009428,0.01,nc,nc73955020,2023-11-02T14:19:10.444Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.5,0.23,16,automatic,nc,nc
 2023-11-02T11:39:24.272Z,31.684,-104.4,6.6971,1.8,ml(texnet),26,65,0,0.2,tx,tx2023vmdn,2023-11-02T19:27:42.413Z,"54 km S of Whites City, New Mexico",earthquake,0.8659930059,0.8654014301,0,6,reviewed,tx,tx
@@ -128,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T10:59:20.430Z,42.539,-111.4393333,9.69,1.37,ml,13,135,0.3372,0.19,uu,uu60553442,2023-11-02T20:04:54.970Z,"8 km NW of Georgetown, Idaho",earthquake,0.8,0.92,0.208,2,reviewed,uu,uu
 2023-11-02T10:59:19.930Z,46.8851666666667,-112.520666666667,10.09,0.7,ml,5,165,0.05082,0.07,mb,mb90031693,2023-11-02T19:59:33.390Z,"Western Montana",earthquake,0.69,0.53,0.315601635521643,3,reviewed,mb,mb
 2023-11-02T10:58:45.050Z,38.8258324,-122.8538361,2.24,0.45,md,9,112,0.002924,0.01,nc,nc73955010,2023-11-02T13:49:12.283Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,10,automatic,nc,nc
-2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-03T01:25:20.927Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
+2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-03T02:51:59.239Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
 2023-11-02T10:39:52.462Z,36.6582,-116.2731,7.2,-0.3,ml,15,92.88,0.054,0.0771,nn,nn00868365,2023-11-03T02:45:21.230Z,"51 km ESE of Beatty, Nevada",earthquake,,1.1,0.38,5,reviewed,nn,nn
 2023-11-02T10:31:16.380Z,37.4303333,-113.1185,9.99,2.08,ml,16,78,0.0743,0.13,uu,uu60553432,2023-11-02T13:27:56.460Z,"13 km SSE of Kanarraville, Utah",earthquake,0.34,0.67,0.158,10,reviewed,uu,uu
 2023-11-02T10:14:58.160Z,38.8320007,-122.8166656,1.4,0.65,md,10,73,0.01002,0.01,nc,nc73954995,2023-11-02T12:52:10.965Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.75,0.07,12,automatic,nc,nc
@@ -216,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T03:19:09.750Z,38.8364983,-122.7911682,2.16,1.03,md,18,51,0.002014,0.03,nc,nc73954900,2023-11-02T05:50:13.593Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.5,0.08,19,automatic,nc,nc
 2023-11-02T03:08:02.175Z,61.4944,-149.9781,24.9,2.6,ml,,,,0.68,ak,ak023e24a7uy,2023-11-02T05:43:52.279Z,"3 km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-02T03:01:26.852Z,60.037,-149.181,7.7,2,ml,,,,0.8,ak,ak023e248rpp,2023-11-02T03:04:04.809Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-02T02:56:32.950Z,45.30166666666667,-121.65116666666667,6.58,0.29,ml,5,182,0.0206,0.03,uw,uw61960997,2023-11-02T23:03:30.300Z,"7 km NE of Wapanitia, Oregon",earthquake,0.68,0.45,0.05195459119843568,3,reviewed,uw,uw
