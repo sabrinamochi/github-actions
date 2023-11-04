@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-04T16:26:20.720Z,33.7621667,-116.9378333,13.99,0.94,ml,29,73,0.07565,0.2,ci,ci39707586,2023-11-04T16:30:02.547Z,"3 km SE of San Jacinto, CA",earthquake,0.33,0.66,0.103,23,automatic,ci,ci
+2023-11-04T16:23:47.747Z,-4.0351,127.3691,226.33,4.5,mb,26,72,2.574,0.51,us,us7000l8vy,2023-11-04T16:37:55.040Z,"97 km WSW of Ambon, Indonesia",earthquake,7.5,6.754,0.121,23,reviewed,us,us
 2023-11-04T16:17:22.559Z,58.9098,-152.5063,63.5,1.8,ml,,,,0.43,ak,ak023e5n5iov,2023-11-04T16:19:47.973Z,"59 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-04T16:00:00.860Z,37.7244987,-122.1516647,6.06,1.06,md,7,147,0.02567,0.07,nc,nc73956005,2023-11-04T16:16:13.403Z,"0 km E of San Leandro, CA",earthquake,0.65,1.48,0.05,2,automatic,nc,nc
 2023-11-04T15:53:07.690Z,19.1608333587646,-155.513168334961,37.0699996948242,2.19,ml,43,110,,0.159999996,hv,hv73638977,2023-11-04T15:58:38.790Z,"5 km SW of Pāhala, Hawaii",earthquake,0.54,0.720000029,5.15,3,automatic,hv,hv
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T12:53:55.645Z,62.2815,-149.875,19.2,1.2,ml,,,,0.43,ak,ak023e5kzklo,2023-11-04T12:56:34.540Z,"13 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T12:49:52.601Z,-20.5156,-177.8899,382.817,4.3,mb,45,78,2.595,0.75,us,us7000l8v5,2023-11-04T13:12:04.040Z,"278 km WNW of Houma, Tonga",earthquake,12.29,7.405,0.066,68,reviewed,us,us
 2023-11-04T12:49:21.218Z,63.1072,-150.3568,105.1,1.4,ml,,,,0.22,ak,ak023e5kyn2x,2023-11-04T12:51:23.022Z,"71 km NNE of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-04T12:27:34.660Z,35.4138333333333,-83.5285,13.01,2.51,md,21,53,0.2441,0.14,se,se60501268,2023-11-04T15:21:49.496Z,"7 km WSW of Bryson City, North Carolina",earthquake,0.43,1.81,0.0608846971042487,13,reviewed,se,se
+2023-11-04T12:27:34.660Z,35.4138333333333,-83.5285,13.01,2.51,md,21,53,0.2441,0.14,se,se60501268,2023-11-04T16:34:38.434Z,"7 km WSW of Bryson City, North Carolina",earthquake,0.43,1.81,0.0608846971042487,13,reviewed,se,se
 2023-11-04T12:26:00.906Z,20.2008,122.0072,11.274,4.4,mb,52,101,2.743,0.86,us,us7000l8v3,2023-11-04T12:55:51.040Z,"27 km S of Basco, Philippines",earthquake,8.43,4.493,0.1,29,reviewed,us,us
 2023-11-04T12:18:33.010Z,38.7849998,-122.7233353,1,1.52,md,15,85,0.01061,0.03,nc,nc73955965,2023-11-04T14:19:11.707Z,"3 km WNW of Anderson Springs, CA",earthquake,0.26,0.59,0.11,17,automatic,nc,nc
 2023-11-04T12:16:56.622Z,36.5899,-116.275,7.1,-0.3,ml,7,137.23,0.076,0.0386,nn,nn00868441,2023-11-04T14:16:39.086Z,"49 km NNW of Pahrump, Nevada",earthquake,,3.1,0.57,5,reviewed,nn,nn
@@ -121,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T02:02:07.140Z,19.1760005950928,-155.484329223633,30.4599990844727,1.86000001,md,27,88,,0.0900000036,hv,hv73638677,2023-11-04T02:05:23.610Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.68,0.980000019,1.36000001,10,automatic,hv,hv
 2023-11-04T01:53:16.490Z,39.4001,-120.2015,14,0.6,ml,7,207.81,0.167,0.1555,nn,nn00868440,2023-11-04T13:57:40.837Z,"8 km N of Truckee, California",earthquake,,2.8,0.17,4,reviewed,nn,nn
 2023-11-04T01:40:31.749Z,39.0614,-97.587,10,2.9,mb_lg,17,87,0.762,0.46,us,us7000l8ss,2023-11-04T12:14:55.337Z,"3 km N of Bennington, Kansas",earthquake,2.08,1.988,0.049,108,reviewed,us,us
-2023-11-04T01:38:54.680Z,33.6705,-116.7348333,14.34,0.99,ml,35,58,0.04407,0.16,ci,ci39706890,2023-11-04T01:42:40.914Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.37,0.206,25,automatic,ci,ci
+2023-11-04T01:38:54.680Z,33.6705,-116.7348333,14.34,0.99,ml,35,58,0.04407,0.16,ci,ci39706890,2023-11-04T16:36:23.320Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.37,0.206,25,reviewed,ci,ci
 2023-11-04T01:34:05.430Z,38.8356667,-122.7903366,1.7,0.28,md,7,82,0.002738,0.01,nc,nc73955765,2023-11-04T04:17:11.127Z,"6 km WNW of Cobb, CA",earthquake,0.5,1.48,0.19,8,automatic,nc,nc
 2023-11-04T01:28:02.983Z,39.0992,-97.5842,10,3.4,mb_lg,14,88,0.759,0.53,us,us7000l8sp,2023-11-04T12:05:12.520Z,"7 km N of Bennington, Kansas",earthquake,3.15,1.989,0.04,164,reviewed,us,us
 2023-11-04T01:23:10.558Z,-41.1703,-89.8059,10,4.8,mb,34,157,12.543,0.93,us,us7000l8t0,2023-11-04T03:15:03.040Z,"southeast of Easter Island",earthquake,5.47,1.896,0.109,26,reviewed,us,us
@@ -133,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T00:42:10.087Z,61.6349,-146.9027,34,1.3,ml,,,,0.61,ak,ak023e5drwxk,2023-11-04T00:44:30.522Z,"36 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T00:25:40.565Z,-4.0444,128.9644,138.919,4.5,mb,45,52,1.051,0.73,us,us7000l8s5,2023-11-04T00:51:30.040Z,"78 km S of Amahai, Indonesia",earthquake,8.55,7.076,0.096,32,reviewed,us,us
 2023-11-04T00:18:29.503Z,1.0637,125.6396,65.088,4.5,mb,24,82,1.751,0.87,us,us7000l8s4,2023-11-04T02:48:07.009Z,"70 km SE of Bitung, Indonesia",earthquake,10.4,10.919,0.125,19,reviewed,us,us
-2023-11-03T23:57:40.980Z,17.9926666666667,-67.1596666666667,14.43,2.36,md,10,262,0.04957,0.12,pr,pr71430703,2023-11-04T00:12:14.800Z,"3 km NE of Pole Ojea, Puerto Rico",earthquake,0.73,0.46,0.0396154304194565,4,reviewed,pr,pr
+2023-11-03T23:57:40.980Z,17.9926666666667,-67.1596666666667,14.43,2.36,md,10,262,0.04957,0.12,pr,pr71430703,2023-11-04T00:12:14.800Z,"Puerto Rico region",earthquake,0.73,0.46,0.0396154304194565,4,reviewed,pr,pr
 2023-11-03T23:52:03.161Z,41.9493,-119.6282,1.3,1.6,ml,4,128.04,0.504,0.13,nn,nn00868423,2023-11-04T00:28:10.466Z,"44 km ENE of Fort Bidwell, California",earthquake,,4.8,0.57,4,reviewed,nn,nn
 2023-11-03T23:40:43.376Z,31.669,-104.19,4.3412,1.7,ml(texnet),19,105,0.1,0.2,tx,tx2023vowu,2023-11-04T00:04:23.085Z,"54 km NW of Toyah, Texas",earthquake,0,1.404898948,0.2,14,automatic,tx,tx
 2023-11-03T23:34:20.270Z,38.7808342,-122.7453308,-0.16,0.96,md,8,110,0.007141,0.02,nc,nc73955720,2023-11-03T23:51:10.652Z,"1 km ENE of The Geysers, CA",earthquake,0.34,0.48,0.14,7,automatic,nc,nc
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T16:58:45.729Z,60.7769,-150.8612,46.2,1.3,ml,,,,0.32,ak,ak023e3zv0cc,2023-11-03T17:00:36.226Z,"18 km SSW of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-11-03T16:44:54.420Z,61.0418,-148.9755,22.7,1.9,ml,,,,0.36,ak,ak023e3zs0zm,2023-11-03T16:46:25.137Z,"15 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-03T16:43:46.300Z,33.2705,-116.7856667,11.99,1.97,ml,66,31,0.04115,0.15,ci,ci39706498,2023-11-04T00:04:11.790Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.14,0.45,0.179,25,reviewed,ci,ci
-2023-11-03T16:34:45.816Z,13.6366,-90.6986,50.651,4.4,mb,24,178,0.931,0.99,us,us7000l8mz,2023-11-03T17:11:12.040Z,"32 km S of Iztapa, Guatemala",earthquake,8.23,8.492,0.064,69,reviewed,us,us
