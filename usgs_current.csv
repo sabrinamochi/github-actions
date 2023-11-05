@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-05T15:16:40.010Z,38.8321648,-122.8006668,2.69,0.7,md,9,90,0.01019,0.01,nc,nc73956430,2023-11-05T15:27:10.559Z,"7 km W of Cobb, CA",earthquake,0.53,1.56,0.07,9,automatic,nc,nc
+2023-11-05T15:37:26.500Z,38.779335,-122.7653351,0.84,0.3,md,6,105,0.008607,0.03,nc,nc73956435,2023-11-05T15:39:02.705Z,"1 km WNW of The Geysers, CA",earthquake,0.6,1.04,0.11,8,automatic,nc,nc
+2023-11-05T15:16:40.010Z,38.8321648,-122.8006668,2.69,0.7,md,9,90,0.01019,0.01,nc,nc73956430,2023-11-05T15:35:13.600Z,"7 km W of Cobb, CA",earthquake,0.53,1.56,0.07,9,automatic,nc,nc
 2023-11-05T14:47:29.554Z,65.0782,-147.0377,4.1,0.9,ml,,,,0.47,ak,ak023e79og03,2023-11-05T14:49:43.523Z,"22 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-05T14:41:02.711Z,61.6298,-149.679,29.9,1.7,ml,,,,0.66,ak,ak023e79n3mn,2023-11-05T14:42:59.359Z,"4 km W of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T14:29:08.310Z,34.0075,-117.0063333,14.39,0.6,ml,16,53,0.1039,0.11,ci,ci39708602,2023-11-05T14:32:43.465Z,"4 km SE of Yucaipa, CA",earthquake,0.28,0.67,0.157,10,automatic,ci,ci
-2023-11-05T14:17:23.998Z,59.7964,-153.5995,130.5,2.2,ml,,,,0.42,ak,ak023e79i002,2023-11-05T14:29:38.454Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-11-05T14:17:23.998Z,59.7964,-153.5995,130.5,2.2,ml,,,,0.42,ak,ak023e79i002,2023-11-05T15:31:46.040Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-11-05T14:09:13.878Z,63.3085,-151.9582,11.2,1,ml,,,,0.45,ak,ak023e79g9ks,2023-11-05T14:17:07.946Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T14:05:15.484Z,60.3319,-143.0909,10,1.6,ml,,,,0.75,ak,ak023e79feu4,2023-11-05T14:07:19.785Z,"123 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T14:04:34.750Z,33.4878333,-115.795,6.09,1.12,ml,16,141,0.05975,0.17,ci,ci39708578,2023-11-05T14:08:11.002Z,"14 km ESE of North Shore, CA",earthquake,0.42,0.83,0.146,16,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T13:44:10.770Z,36.8045006,-121.3246689,8.04,1.16,md,8,140,0.03189,0.04,nc,nc73956415,2023-11-05T15:18:11.511Z,"2 km NNW of Tres Pinos, CA",earthquake,0.41,1.06,0.16,7,automatic,nc,nc
 2023-11-05T13:32:25.178Z,31.673,-104.401,7.1598,2,ml(texnet),16,69,0,0.3,tx,tx2023vrtt,2023-11-05T14:04:54.918Z,"55 km S of Whites City, New Mexico",earthquake,0,2.54621139,0.1,12,automatic,tx,tx
 2023-11-05T13:30:53.064Z,31.674,-104.405,4.4532,1.6,ml(texnet),18,69,0,0.4,tx,tx2023vrtr,2023-11-05T14:04:48.368Z,"55 km S of Whites City, New Mexico",earthquake,0,1.16814531,0.2,14,automatic,tx,tx
-2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T15:06:12.449Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
+2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T15:37:37.980Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
 2023-11-05T13:18:15.569Z,37.3952,-117.1018,1.9,1.7,ml,28,111.43,0.158,0.2758,nn,nn00868477,2023-11-05T13:20:18.828Z,"36 km SSE of Goldfield, Nevada",earthquake,,5.5,0.39,20,automatic,nn,nn
 2023-11-05T13:00:07.570Z,38.8318329,-122.815834,1.47,1.05,md,21,52,0.009552,0.01,nc,nc73956400,2023-11-05T15:19:12.515Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.46,0.11,22,automatic,nc,nc
 2023-11-05T12:50:58.948Z,60.3635,-152.0449,84.2,1.4,ml,,,,0.3,ak,ak023e78ia7a,2023-11-05T12:52:49.564Z,"38 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T05:24:29.350Z,36.4393333,-120.3236667,6.03,1.54,md,22,183,0.04812,0.14,nc,nc73956275,2023-11-05T10:23:17.756Z,"7 km S of Cantua Creek, CA",earthquake,0.6,0.31,0.241,16,reviewed,nc,nc
 2023-11-05T05:16:42.756Z,39.884,143.1796,36.777,4.6,mb,33,149,1.852,0.57,us,us7000l8yj,2023-11-05T05:46:15.040Z,"off the east coast of Honshu, Japan",earthquake,7.58,8.474,0.112,25,reviewed,us,us
 2023-11-05T05:14:26.950Z,32.8651667,-115.7466667,9.45,2.65,ml,39,58,0.0212,0.23,ci,ci39708274,2023-11-05T05:34:07.040Z,"17 km W of Imperial, CA",earthquake,0.3,0.66,0.181,30,automatic,ci,ci
-2023-11-05T05:12:57.730Z,32.8696671,-115.739502,12.53,3.47,mlr,95,38,0.02125,0.35,ci,ci39708250,2023-11-05T14:59:52.606Z,"16 km W of Imperial, CA",earthquake,0.27,0.84,0.222,15,reviewed,ci,ci
+2023-11-05T05:12:57.730Z,32.8696671,-115.739502,12.53,3.47,mlr,95,38,0.02125,0.35,ci,ci39708250,2023-11-05T15:37:47.960Z,"16 km W of Imperial, CA",earthquake,0.27,0.84,0.222,15,reviewed,ci,ci
 2023-11-05T05:02:12.958Z,61.6327,-149.6487,29.8,1.5,ml,,,,0.55,ak,ak023e741v1r,2023-11-05T05:04:24.976Z,"2 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T04:58:56.440Z,62.967,-148.3758,44.6,1.8,ml,,,,0.77,ak,ak023e73siwc,2023-11-05T05:02:13.425Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-05T04:57:56.490Z,18.0281666666667,-66.774,11.78,2.06,md,9,159,0.1132,0.15,pr,pr71430768,2023-11-05T05:14:11.850Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.51,1.39,0.0126179697160975,4,reviewed,pr,pr
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T04:35:12.436Z,59.0895,-152.2157,67.3,2,ml,,,,0.33,ak,ak023e73ni17,2023-11-05T04:37:35.670Z,"34 km SSW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T04:21:58.930Z,33.5283333,-116.5033333,13.56,0.41,ml,18,94,0.03715,0.16,ci,ci39708234,2023-11-05T14:41:35.096Z,"16 km E of Anza, CA",earthquake,0.36,0.5,0.083,7,reviewed,ci,ci
 2023-11-05T03:51:21.550Z,38.9508333,-123.1566667,5.72,1.23,md,28,61,0.02979,0.09,nc,nc73956250,2023-11-05T11:08:11.017Z,"19 km ESE of Boonville, CA",earthquake,0.17,0.34,0.227,23,reviewed,nc,nc
-2023-11-05T03:43:03.472Z,31.652,-104.331,4.0766,1.6,mlv,19,69,0.1,0.3,tx,tx2023vrah,2023-11-05T04:09:17.950Z,"58 km S of Whites City, New Mexico",earthquake,0,1.248808579,0.2,14,automatic,tx,tx
+2023-11-05T03:43:03.472Z,31.652,-104.331,4.0766,1.6,mlv,19,69,0.1,0.3,tx,tx2023vrah,2023-11-05T04:09:17.950Z,"western Texas",earthquake,0,1.248808579,0.2,14,automatic,tx,tx
 2023-11-05T03:40:57.850Z,33.465,-116.4786667,15.4,0.64,ml,17,147,0.07315,0.24,ci,ci39708218,2023-11-05T03:44:36.968Z,"21 km ESE of Anza, CA",earthquake,0.74,0.98,0.1,11,automatic,ci,ci
 2023-11-05T03:40:29.510Z,35.9296667,-120.7986667,7.72,0.5,md,22,59,0.1201,0.06,nc,nc73956240,2023-11-05T08:21:13.066Z,"7 km N of Bradley, CA",earthquake,0.25,1.27,0.139,9,reviewed,nc,nc
 2023-11-05T03:38:06.110Z,63.4812,-148.8759,13.2,0.8,ml,,,,0.53,ak,ak023e732p3f,2023-11-05T03:41:04.048Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
