@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-05T15:16:40.010Z,38.8321648,-122.8006668,2.69,0.7,md,9,90,0.01019,0.01,nc,nc73956430,2023-11-05T15:18:16.752Z,"7 km W of Cobb, CA",earthquake,0.53,1.56,0.07,9,automatic,nc,nc
+2023-11-05T15:16:40.010Z,38.8321648,-122.8006668,2.69,0.7,md,9,90,0.01019,0.01,nc,nc73956430,2023-11-05T15:27:10.559Z,"7 km W of Cobb, CA",earthquake,0.53,1.56,0.07,9,automatic,nc,nc
 2023-11-05T14:47:29.554Z,65.0782,-147.0377,4.1,0.9,ml,,,,0.47,ak,ak023e79og03,2023-11-05T14:49:43.523Z,"22 km N of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-05T14:41:02.711Z,61.6298,-149.679,29.9,1.7,ml,,,,0.66,ak,ak023e79n3mn,2023-11-05T14:42:59.359Z,"4 km W of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T14:29:08.310Z,34.0075,-117.0063333,14.39,0.6,ml,16,53,0.1039,0.11,ci,ci39708602,2023-11-05T14:32:43.465Z,"4 km SE of Yucaipa, CA",earthquake,0.28,0.67,0.157,10,automatic,ci,ci
@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T14:05:15.484Z,60.3319,-143.0909,10,1.6,ml,,,,0.75,ak,ak023e79feu4,2023-11-05T14:07:19.785Z,"123 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T14:04:34.750Z,33.4878333,-115.795,6.09,1.12,ml,16,141,0.05975,0.17,ci,ci39708578,2023-11-05T14:08:11.002Z,"14 km ESE of North Shore, CA",earthquake,0.42,0.83,0.146,16,automatic,ci,ci
 2023-11-05T13:51:47.180Z,33.2953339,-115.6628342,9.21,1.81,ml,41,96,0.07222,0.21,ci,ci39708546,2023-11-05T14:02:16.270Z,"9 km SE of Bombay Beach, CA",earthquake,0.36,0.57,0.268,25,automatic,ci,ci
+2023-11-05T13:50:48.176Z,41.0879,19.9343,36.436,4.3,mb,33,58,0.265,0.68,us,us7000l90s,2023-11-05T15:25:26.559Z,"7 km NNW of Cërrik, Albania",earthquake,5.4,8.942,0.375,3,reviewed,us,us
 2023-11-05T13:48:51.698Z,-24.3153,-67.2876,211.725,4.6,mb,22,126,1.584,0.62,us,us7000l90p,2023-11-05T14:08:42.040Z,"Chile-Argentina border region",earthquake,9.82,8.894,0.207,9,reviewed,us,us
 2023-11-05T13:45:50.800Z,38.8318329,-122.8166656,1.45,0.74,md,19,52,0.009874,0.01,nc,nc73956420,2023-11-05T14:12:12.140Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.42,0.12,19,automatic,nc,nc
 2023-11-05T13:44:10.770Z,36.8045006,-121.3246689,8.04,1.16,md,8,140,0.03189,0.04,nc,nc73956415,2023-11-05T15:18:11.511Z,"2 km NNW of Tres Pinos, CA",earthquake,0.41,1.06,0.16,7,automatic,nc,nc
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T15:53:07.690Z,19.1608333587646,-155.513168334961,37.0699996948242,2.19,ml,43,110,,0.159999996,hv,hv73638977,2023-11-04T15:58:38.790Z,"5 km SW of Pāhala, Hawaii",earthquake,0.54,0.720000029,5.15,3,automatic,hv,hv
 2023-11-04T15:47:31.780Z,31.686,-104.508,6.7607,1.6,ml(texnet),14,127,0,0.2,tx,tx2023vqcs,2023-11-04T16:06:21.000Z,"55 km SSW of Whites City, New Mexico",earthquake,0,2.506552121,0.1,12,automatic,tx,tx
 2023-11-04T15:42:46.395Z,58.5929,-154.2861,8.7,1.1,ml,,,,0.36,ak,ak023e5mphtr,2023-11-04T15:44:55.040Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
-2023-11-04T15:27:33.529Z,61.3229,-147.8161,0,1.6,ml,,,,1.38,ak,ak023e5mm93c,2023-11-04T15:29:45.428Z,"54 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
