@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-06T16:31:19.939Z,63.1818,-149.8242,14.3,1.4,ml,,,,0.31,ak,ak023e8yb7i1,2023-11-06T16:33:32.252Z,"49 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T16:26:23.100Z,19.1709995269775,-155.503326416016,31.1399993896484,1.84000003,md,23,208,,0.129999995,hv,hv73640287,2023-11-06T16:29:24.950Z,"4 km SW of Pāhala, Hawaii",earthquake,0.87,1.25999999,0.74000001,7,automatic,hv,hv
-2023-11-06T16:23:11.033Z,63.5657,-147.4075,0.5,3.2,ml,,,,0.8,ak,ak023e8y9h2s,2023-11-06T17:17:41.227Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-06T16:23:11.033Z,63.5657,-147.4075,0.5,3.2,ml,,,,0.8,ak,ak023e8y9h2s,2023-11-06T17:29:47.040Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T16:19:28.328Z,58.8345,-153.6628,12.3,1.8,ml,,,,0.4,ak,ak023e8y8nk0,2023-11-06T16:21:30.988Z,"92 km SE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-06T16:16:00.074Z,60.3278,-152.0955,62.5,0.8,ml,,,,0.61,ak,ak023e8y7y87,2023-11-06T16:18:14.295Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-11-06T16:16:00.074Z,60.3278,-152.0955,62.5,0.8,ml,,,,0.61,ak,ak023e8y7y87,2023-11-06T16:18:14.295Z,"38 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-06T16:13:28.372Z,59.9242,-153.1193,111.3,2.2,ml,,,,0.43,ak,ak023e8y7da3,2023-11-06T16:15:55.255Z,"57 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-06T16:03:18.350Z,33.5601667,-116.6491667,15.12,0.71,ml,16,75,0.01684,0.33,ci,ci39709234,2023-11-06T16:06:51.145Z,"2 km ENE of Anza, CA",earthquake,0.99,1.44,0.143,11,automatic,ci,ci
 2023-11-06T16:01:35.683Z,58.8129,-153.6055,13.1,2,ml,,,,0.45,ak,ak023e8y4t8g,2023-11-06T16:03:20.170Z,"93 km NNW of Aleneva, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T07:51:46.777Z,60.4335,-152.7319,120.7,2.5,ml,,,,0.58,ak,ak023e8t2ng5,2023-11-06T07:54:31.684Z,"72 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T06:53:38.464Z,62.1633,-145.653,20.1,1.5,ml,,,,0.77,ak,ak023e8shmmu,2023-11-06T07:22:53.206Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T06:53:27.420Z,35.840168,-121.3404999,3.72,2.16,md,32,175,,0.17,nc,nc73956720,2023-11-06T10:05:13.177Z,"26 km NNW of San Simeon, CA",earthquake,0.75,2.51,0.14,27,automatic,nc,nc
+2023-11-06T06:50:06.955Z,13.6429,-90.4491,87.072,4.1,mb,39,194,0.972,0.65,us,us7000l943,2023-11-06T17:27:31.040Z,"42 km SE of Iztapa, Guatemala",earthquake,8.57,8.769,0.096,30,reviewed,us,us
 2023-11-06T06:45:45.049Z,64.4889,-146.9582,8.2,0.9,ml,,,,0.53,ak,ak023e8sfxfi,2023-11-06T06:47:55.064Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T06:30:07.680Z,35.9318352,-120.4886703,9.73,1.14,md,14,133,0.02024,0.05,nc,nc73956705,2023-11-06T09:23:10.927Z,"6 km NW of Parkfield, CA",earthquake,0.52,0.7,0.29,5,automatic,nc,nc
 2023-11-06T06:29:03.940Z,38.7861671,-122.7726669,1.32,0.76,md,7,116,0.01382,0.02,nc,nc73956695,2023-11-06T08:57:11.783Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.8,0.12,9,automatic,nc,nc
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T17:39:09.250Z,33.4928333,-116.4176667,4.26,0.91,ml,29,80,0.1146,0.21,ci,ci39708730,2023-11-05T18:50:04.093Z,"21 km SSW of La Quinta, CA",earthquake,0.29,1,0.186,14,reviewed,ci,ci
 2023-11-05T17:34:12.760Z,38.7876663,-122.7580032,3.24,1.11,md,23,70,0.01301,0.03,nc,nc73956450,2023-11-05T18:28:11.783Z,"1 km N of The Geysers, CA",earthquake,0.31,0.62,0.11,23,automatic,nc,nc
 2023-11-05T17:33:01.910Z,33.3523333,-116.3613333,10.8,1.61,ml,47,51,0.2472,0.21,ci,ci39708722,2023-11-05T17:36:45.452Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.71,0.184,26,automatic,ci,ci
-2023-11-05T17:28:54.480Z,35.7295,-118.062,0.26,0.69,ml,11,104,0.1507,0.16,ci,ci39708706,2023-11-05T18:50:39.100Z,"24 km WNW of Inyokern, CA",earthquake,0.48,31.61,0.199,7,reviewed,ci,ci
