@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-06T20:13:16.320Z,36.1956673,-117.9833298,0.95,2.9,ml,42,45,0.1299,0.19,ci,ci39709442,2023-11-06T20:15:38.957Z,"10 km SSE of Olancha, CA",earthquake,0.25,0.7,0.203,25,automatic,ci,ci
+2023-11-06T20:13:16.320Z,36.1956673,-117.9833298,0.95,2.9,ml,42,45,0.1299,0.19,ci,ci39709442,2023-11-06T20:22:39.543Z,"10 km SSE of Olancha, CA",earthquake,0.25,0.7,0.203,25,automatic,ci,ci
 2023-11-06T20:09:35.792Z,58.8317,-153.6986,15.8,1.4,ml,,,,0.16,ak,ak023e90k9e3,2023-11-06T20:11:33.036Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T20:02:50.646Z,63.0524,-148.2414,65.4,1.6,ml,,,,0.43,ak,ak023e90isiw,2023-11-06T20:04:53.037Z,"51 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T19:55:23.600Z,34.9886665,-118.1981659,0.64,1.28,ml,14,64,0.1124,0.06,ci,ci39709418,2023-11-06T19:57:43.286Z,"7 km SSW of Mojave, CA",earthquake,0.31,0.55,0.183,6,automatic,ci,ci
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T19:23:56.870Z,38.8354988,-122.7916641,1.61,0.8,md,12,73,0.003083,0.04,nc,nc73956935,2023-11-06T19:41:18.766Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.94,0.2,12,automatic,nc,nc
 2023-11-06T19:00:11.305Z,10.6378,-62.3114,10,4.5,mb,39,72,3.669,1.05,us,us7000l97h,2023-11-06T20:18:43.040Z,"6 km NNW of Güiria, Venezuela",earthquake,4.91,1.932,0.171,10,reviewed,us,us
 2023-11-06T18:57:41.024Z,60.3048,-152.2986,85.1,1.9,ml,,,,0.49,ak,ak023e8znoye,2023-11-06T18:59:43.448Z,"45 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-11-06T18:55:38.970Z,19.216,-155.372833333333,33.08,3.68,ml,62,157,,0.12,hv,hv73640357,2023-11-06T20:05:47.471Z,"Island of Hawaii, Hawaii",earthquake,0.42,0.49,0.150141689380384,43,reviewed,hv,hv
+2023-11-06T18:55:38.970Z,19.216,-155.372833333333,33.08,3.68,ml,62,157,,0.12,hv,hv73640357,2023-11-06T20:21:59.925Z,"Island of Hawaii, Hawaii",earthquake,0.42,0.49,0.150141689380384,43,reviewed,hv,hv
 2023-11-06T18:55:37.390Z,37.0553322,-121.1291656,-0.18,2.4,md,45,111,0.1349,0.35,nc,nc73956925,2023-11-06T19:30:14.703Z,"25 km W of Los Banos, CA",earthquake,0.65,9.1,0.1,44,automatic,nc,nc
 2023-11-06T18:50:32.505Z,61.9984,-149.9274,30.8,1.4,ml,,,,0.83,ak,ak023e8zm6aa,2023-11-06T18:52:46.637Z,"18 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T18:49:24.720Z,38.7799988,-122.7580032,1.5,1.06,md,11,82,0.01694,0.02,nc,nc73956915,2023-11-06T19:30:13.704Z,"0 km NNW of The Geysers, CA",earthquake,0.31,0.54,0.27,10,automatic,nc,nc
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T06:50:06.955Z,13.6429,-90.4491,87.072,4.1,mb,39,194,0.972,0.65,us,us7000l943,2023-11-06T17:27:31.040Z,"near the coast of Guatemala",earthquake,8.57,8.769,0.096,30,reviewed,us,us
 2023-11-06T06:45:45.049Z,64.4889,-146.9582,8.2,0.9,ml,,,,0.53,ak,ak023e8sfxfi,2023-11-06T06:47:55.064Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T06:43:53.920Z,44.41716666666667,-122.58583333333333,9.16,0.97,ml,11,73,0.152,0.33,uw,uw61970621,2023-11-06T18:28:36.760Z,"8 km WNW of Cascadia, Oregon",earthquake,0.78,3.12,0.14437385367142608,5,reviewed,uw,uw
+2023-11-06T06:35:05.040Z,47.9036666666667,-114.038666666667,5.56,0.69,ml,5,271,0.2273,0.11,mb,mb90032073,2023-11-06T20:22:15.620Z,"Western Montana",earthquake,1.36,7.11,0.270203733903489,4,reviewed,mb,mb
 2023-11-06T06:30:07.680Z,35.9318352,-120.4886703,9.73,1.14,md,14,133,0.02024,0.05,nc,nc73956705,2023-11-06T09:23:10.927Z,"6 km NW of Parkfield, CA",earthquake,0.52,0.7,0.29,5,automatic,nc,nc
 2023-11-06T06:29:03.940Z,38.7861671,-122.7726669,1.32,0.76,md,7,116,0.01382,0.02,nc,nc73956695,2023-11-06T08:57:11.783Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.8,0.12,9,automatic,nc,nc
 2023-11-06T06:28:45.670Z,33.4876667,-116.4091667,4.1,0.38,ml,14,142,0.1233,0.13,ci,ci39709066,2023-11-06T14:30:16.848Z,"22 km SSW of La Quinta, CA",earthquake,0.38,1.26,0.115,7,reviewed,ci,ci
