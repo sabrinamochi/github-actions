@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T14:14:36.935Z,63.5319,-147.7374,20.7,1.2,ml,,,,0.44,ak,ak023e8x0qfi,2023-11-06T14:16:58.164Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-06T14:00:41.623Z,36.7004,-115.8222,6,0.3,ml,10,322.03,0.119,0.1523,nn,nn00868506,2023-11-06T16:06:52.305Z,"19 km NW of Indian Springs, Nevada",earthquake,,4.2,0.42,3,reviewed,nn,nn
 2023-11-06T14:00:21.790Z,38.8756676,-122.7331696,17.18,0.94,md,7,207,0.05811,0.03,nc,nc73956830,2023-11-06T15:59:18.292Z,"6 km N of Cobb, CA",earthquake,3.14,4.48,0.02,4,automatic,nc,nc
-2023-11-06T13:51:10.713Z,-33.0813,-71.9791,29.004,5.2,mww,83,78,0.65,0.89,us,us7000l951,2023-11-06T18:08:48.599Z,"33 km W of Valparaíso, Chile",earthquake,4.87,3.988,0.08,15,reviewed,us,us
+2023-11-06T13:51:10.713Z,-33.0813,-71.9791,29.004,5.2,mww,83,78,0.65,0.89,us,us7000l951,2023-11-06T18:20:03.068Z,"33 km W of Valparaíso, Chile",earthquake,4.87,3.988,0.08,15,reviewed,us,us
 2023-11-06T13:49:19.929Z,59.2973,-152.4229,74.1,2.2,ml,,,,0.26,ak,ak023e8wmrko,2023-11-06T16:53:49.040Z,"29 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-06T13:33:22.840Z,36.8924,-116.0155,5.7,-0.3,ml,6,189.31,0.024,0.0527,nn,nn00868505,2023-11-06T16:00:33.382Z,"California-Nevada border region",earthquake,,6.6,0.13,4,reviewed,nn,nn
 2023-11-06T13:29:03.657Z,31.746,-104.133,4.5214,1.7,ml(texnet),18,71,0,0.3,tx,tx2023vtpd,2023-11-06T13:51:49.912Z,"western Texas",earthquake,0,1.227947498,0.2,13,automatic,tx,tx
@@ -80,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T09:26:56.366Z,62.1043,-146.6431,35.2,1.6,ml,,,,0.74,ak,ak023e8u46hw,2023-11-06T09:29:35.882Z,"10 km WNW of Mendeltna, Alaska",earthquake,,17.4,,,automatic,ak,ak
 2023-11-06T09:24:17.500Z,44.2801667,-110.6325,5.48,1.08,ml,9,92,0.07691,0.1,uu,uu60553667,2023-11-06T18:14:24.840Z,"Wyoming",earthquake,0.44,2.53,0.219,2,reviewed,uu,uu
 2023-11-06T09:21:00.090Z,44.279,-110.6263333,4.4,2.49,ml,21,95,0.07233,0.12,uu,uu60553662,2023-11-06T14:53:58.840Z,"57 km SE of West Yellowstone, Montana",earthquake,0.27,0.53,0.322,7,reviewed,uu,uu
+2023-11-06T09:20:12.060Z,44.2805,-110.6293333,11.12,0.84,md,9,76,0.07476,0.17,uu,uu60553657,2023-11-06T18:22:09.290Z,"56 km SE of West Yellowstone, Montana",earthquake,0.89,1.55,0.225,5,reviewed,uu,uu
 2023-11-06T09:08:22.950Z,38.840332,-122.8119965,2.17,0.75,md,12,102,0.01683,0.01,nc,nc73956760,2023-11-06T09:47:13.068Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.93,0.16,14,automatic,nc,nc
 2023-11-06T09:08:05.580Z,38.8390007,-122.810997,2.08,1.51,md,24,55,0.0156,0.02,nc,nc73956755,2023-11-06T11:57:12.867Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.43,0.13,27,automatic,nc,nc
 2023-11-06T08:59:07.072Z,63.5664,-147.7226,4.8,1.9,ml,,,,0.5,ak,ak023e8tpppv,2023-11-06T09:00:51.946Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -93,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T08:20:10.551Z,36.5863,-116.2667,7.2,-0.3,ml,6,273.61,0.083,0.055,nn,nn00868500,2023-11-06T15:51:04.295Z,"49 km NNW of Pahrump, Nevada",earthquake,,4,0.7,4,reviewed,nn,nn
 2023-11-06T08:17:22.430Z,38.6378,-118.7925,10.5,1.3,ml,8,139.38,0.448,0.1214,nn,nn00868497,2023-11-06T17:39:54.683Z,"3 km WSW of Walker Lake, Nevada",earthquake,,2.7,0.27,5,reviewed,nn,nn
 2023-11-06T08:07:22.410Z,33.0663333,-116.1421667,11.65,1.14,ml,29,59,0.09169,0.25,ci,ci39709098,2023-11-06T08:11:00.296Z,"9 km S of Ocotillo Wells, CA",earthquake,0.37,0.9,0.182,24,automatic,ci,ci
+2023-11-06T07:52:11.640Z,47.7965,-122.91833333333334,20.44,1.33,ml,16,164,0.01727,0.24,uw,uw61970636,2023-11-06T18:23:14.960Z,"4 km SW of Quilcene, Washington",earthquake,0.6,0.75,0.2304890821334311,7,reviewed,uw,uw
 2023-11-06T07:51:46.777Z,60.4335,-152.7319,120.7,2.5,ml,,,,0.58,ak,ak023e8t2ng5,2023-11-06T07:54:31.684Z,"72 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T06:53:38.464Z,62.1633,-145.653,20.1,1.5,ml,,,,0.77,ak,ak023e8shmmu,2023-11-06T07:22:53.206Z,"8 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T06:53:27.420Z,35.840168,-121.3404999,3.72,2.16,md,32,175,,0.17,nc,nc73956720,2023-11-06T10:05:13.177Z,"26 km NNW of San Simeon, CA",earthquake,0.75,2.51,0.14,27,automatic,nc,nc
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T18:38:37.012Z,63.1363,-151.4743,0,1.7,ml,,,,0.82,ak,ak023e7c09jp,2023-11-05T18:40:58.573Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-05T18:37:46.680Z,38.8343315,-122.8161697,1.62,0.4,md,10,90,0.01191,0.02,nc,nc73956480,2023-11-05T20:43:12.576Z,"8 km W of Cobb, CA",earthquake,0.36,0.73,0.28,11,automatic,nc,nc
 2023-11-05T18:30:06.950Z,36.037,-97.39766667,13.93,1.55,ml,76,37,0.1106782811,0.17,ok,ok2023vsdo,2023-11-06T13:44:09.296Z,"3 km SSE of Mulhall, Oklahoma",earthquake,,0.7,0.24,35,reviewed,ok,ok
-2023-11-05T18:21:35.831Z,63.0281,-149.8547,78.4,1.6,ml,,,,0.52,ak,ak023e7bwma7,2023-11-05T18:23:32.322Z,"60 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-05T18:18:01.700Z,38.8346672,-122.8150024,1.35,0.73,md,11,78,0.0119,0.02,nc,nc73956475,2023-11-05T20:16:12.457Z,"8 km W of Cobb, CA",earthquake,0.28,0.87,0.14,13,automatic,nc,nc
