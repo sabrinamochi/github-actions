@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T12:46:34.162Z,-23.3636,170.727,10,4.6,mb,28,79,3.114,0.51,us,us7000l94x,2023-11-06T13:05:04.040Z,"southeast of the Loyalty Islands",earthquake,7.74,1.902,0.141,17,reviewed,us,us
 2023-11-06T12:17:32.530Z,54.8758,-156.269,1.5,3.6,ml,,,,0.41,ak,ak023e8vuhg5,2023-11-06T14:04:13.434Z,"207 km SE of Chignik, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2023-11-06T12:15:03.500Z,33.7835,-116.9111667,10.92,0.6,ml,35,71,0.09675,0.17,ci,ci39709162,2023-11-06T15:08:52.328Z,"4 km NNW of Valle Vista, CA",earthquake,0.22,0.32,0.192,11,reviewed,ci,ci
-2023-11-06T12:11:02.620Z,61.9108,-148.593,38.9,1.3,ml,,,,0.4,ak,ak023e8vt5fa,2023-11-06T12:12:53.339Z,"14 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-06T12:11:02.620Z,61.9108,-148.593,38.9,1.3,ml,,,,0.4,ak,ak023e8vt5fa,2023-11-06T12:12:53.339Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-06T12:09:12.020Z,33.0108333,-116.2498333,7.15,2.04,ml,62,46,0.07191,0.17,ci,ci39709154,2023-11-06T12:19:40.050Z,"18 km SW of Ocotillo Wells, CA",earthquake,0.19,0.81,0.182,27,automatic,ci,ci
 2023-11-06T12:04:21.255Z,-1.2269,-24.137,10,5.5,mww,63,49,11.8,0.44,us,us7000l94t,2023-11-06T14:07:43.922Z,"central Mid-Atlantic Ridge",earthquake,9.75,1.872,0.086,13,reviewed,us,us
 2023-11-06T12:03:16.760Z,32.9563333,-115.8515,7.31,1.04,ml,20,94,0.04483,0.22,ci,ci39709146,2023-11-06T12:07:02.767Z,"23 km WSW of Westmorland, CA",earthquake,0.36,0.96,0.228,11,automatic,ci,ci
@@ -183,6 +183,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T17:08:29.750Z,46.762,-121.9175,3.07,1.68,ml,35,51,0.02185,0.12,uw,uw61970521,2023-11-05T20:45:01.720Z,"8 km E of Ashford, Washington",earthquake,0.18,0.4,0.26751962108096716,20,reviewed,uw,uw
 2023-11-05T16:08:11.787Z,61.5098,-150.1872,33.4,1.8,ml,,,,0.43,ak,ak023e7amwwq,2023-11-05T16:09:59.543Z,"12 km W of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T15:52:14.500Z,35.7323333,-118.0636667,0.26,0.58,ml,11,121,0.15,0.23,ci,ci39708642,2023-11-05T15:55:50.928Z,"25 km WNW of Inyokern, CA",earthquake,0.5,31.61,0.094,7,automatic,ci,ci
-2023-11-05T15:48:20.942Z,31.675,-104.425,6.0287,2.9,ml(texnet),20,67,0,0.2,tx,tx2023vryf,2023-11-05T16:18:17.258Z,"western Texas",earthquake,0.8451204549,0.6477928469,0.1,16,reviewed,tx,tx
-2023-11-05T15:40:42.980Z,32.8563333,-115.7408333,7.77,1.39,ml,33,45,0.01196,0.27,ci,ci39708626,2023-11-05T15:51:58.000Z,"16 km W of Imperial, CA",earthquake,0.39,0.83,0.204,24,automatic,ci,ci
-2023-11-05T15:40:03.285Z,31.204,-103.773,5.0955,1.8,mlv,12,67,0.1,0.6,tx,tx2023vrxy,2023-11-05T15:58:45.626Z,"12 km S of Toyah, Texas",earthquake,0,2.478493789,0.2,10,automatic,tx,tx
+2023-11-05T15:48:20.942Z,31.675,-104.425,6.0287,2.9,ml(texnet),20,67,0,0.2,tx,tx2023vryf,2023-11-05T16:18:17.258Z,"55 km S of Whites City, New Mexico",earthquake,0.8451204549,0.6477928469,0.1,16,reviewed,tx,tx
