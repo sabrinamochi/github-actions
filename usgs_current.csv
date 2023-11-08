@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-08T18:29:12.567Z,60.9274,-150.7113,34.6,2.1,ml,,,,0.77,ak,ak023ecakbp4,2023-11-08T18:31:18.477Z,"1 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-08T18:13:12.620Z,38.4850006,-122.9683304,24.01,1.64,md,7,215,0.249,0.14,nc,nc73957865,2023-11-08T18:28:10.445Z,"3 km SE of Guerneville, CA",earthquake,6.23,12.75,,1,automatic,nc,nc
 2023-11-08T17:53:26.784Z,31.641,-104.011,5.8437,2,ml(texnet),20,41,0,0.3,tx,tx2023vxow,2023-11-08T18:24:07.278Z,"western Texas",earthquake,0,2.249576317,0.3,16,automatic,tx,tx
 2023-11-08T17:45:04.370Z,35.925499,-117.7676697,4.64,2.21,ml,39,55,0.04708,0.17,ci,ci39710386,2023-11-08T17:55:58.900Z,"13 km E of Little Lake, CA",earthquake,0.24,0.52,0.346,26,automatic,ci,ci
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T10:31:04.244Z,31.636,-103.977,18.5695,3.4,ml(texnet),9,88,0,0.8,tx,tx2023vxak,2023-11-08T18:16:41.262Z,"36 km WSW of Mentone, Texas",earthquake,0,4.868939668,0.1,7,automatic,tx,tx
 2023-11-08T10:30:06.871Z,31.613,-103.994,7.5841,3.2,ml(texnet),15,58,0,0.1,tx,tx2023vxai,2023-11-08T16:38:13.430Z,"38 km NNW of Toyah, Texas",earthquake,0.4682446831,0.6219120053,0.2,13,reviewed,tx,tx
 2023-11-08T10:29:41.440Z,33.8011667,-116.2021667,8.73,1.22,ml,43,74,0.0167,0.14,ci,ci39710298,2023-11-08T17:59:34.950Z,"9 km N of Indio, CA",earthquake,0.19,0.35,0.143,23,reviewed,ci,ci
-2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T18:26:38.845Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T18:31:54.935Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
 2023-11-08T10:27:24.722Z,31.626,-104.517,7.1856,0.4,ml(texnet),6,276,0,0.1,tx,tx2023vxad,2023-11-08T16:53:53.560Z,"62 km SSW of Whites City, New Mexico",earthquake,2.020156741,1.552113787,0.1,6,reviewed,tx,tx
 2023-11-08T10:23:52.340Z,19.2544994354248,-155.404663085938,30.3500003814697,2.2,ml,45,126,,0.119999997,hv,hv73641452,2023-11-08T10:29:22.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.17,3,automatic,hv,hv
 2023-11-08T10:02:02.233Z,63.0999,-150.885,131.1,2.4,ml,,,,0.3,ak,ak023ec5n1ql,2023-11-08T10:17:31.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -248,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T18:43:30.370Z,46.483666666666664,-119.99516666666666,1.37,1.56,ml,6,304,0.1225,0.07,uw,uw61971051,2023-11-07T20:05:46.870Z,"Washington",earthquake,0.82,7.51,0.15318649798142236,3,reviewed,uw,uw
 2023-11-07T18:42:33.870Z,46.3153333333333,-111.6285,-2,1.32,ml,8,93,0.3352,0.24,mb,mb90032328,2023-11-08T16:49:36.820Z,"8 km W of Townsend, Montana",quarry blast,0.89,31.61,0.177390300059894,7,reviewed,mb,mb
 2023-11-07T18:33:30.800Z,18.8526666666667,-67.1466666666667,20.7,3.01,md,18,264,0.5624,0.22,pr,pr71431028,2023-11-07T18:56:46.650Z,"Puerto Rico region",earthquake,0.84,16.05,0.0993802417014447,8,reviewed,pr,pr
-2023-11-07T18:31:33.695Z,40.3199,77.8002,10,4.6,mb,66,111,1.39,0.87,us,us7000l9ek,2023-11-07T19:32:40.040Z,"118 km WNW of Tumxuk, China",earthquake,5.39,1.837,0.075,56,reviewed,us,us
