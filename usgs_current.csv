@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-08T19:52:45.090Z,19.1704998016357,-155.496170043945,34.1199989318848,1.79999995,md,27,209,,0.0900000036,hv,hv73641817,2023-11-08T19:55:55.830Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.78,1,0.589999974,3,automatic,hv,hv
 2023-11-08T19:45:05.907Z,61.9622,-150.8539,67.5,2,ml,,,,0.31,ak,ak023ecb968u,2023-11-08T19:47:21.629Z,"28 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-08T19:41:01.040Z,36.1604996,-120.309166,10.2,0.98,md,8,190,0.1449,0.02,nc,nc73960136,2023-11-08T19:42:38.585Z,"5 km ENE of Coalinga, CA",earthquake,1.01,2.1,0.04,2,automatic,nc,nc
+2023-11-08T19:41:01.040Z,36.1604996,-120.309166,10.2,0.98,md,8,190,0.1449,0.02,nc,nc73960136,2023-11-08T20:00:09.982Z,"5 km ENE of Coalinga, CA",earthquake,1.01,2.1,0.04,2,automatic,nc,nc
 2023-11-08T19:37:59.460Z,38.8479996,-122.7623367,0.94,1.16,md,7,193,0.01223,0.03,nc,nc73960131,2023-11-08T19:49:10.918Z,"4 km NW of Cobb, CA",earthquake,0.61,0.74,0.14,9,automatic,nc,nc
 2023-11-08T19:33:31.250Z,31.653,-104.018,5.2881,1.8,ml(texnet),20,47,0,0.4,tx,tx2023vxse,2023-11-08T19:58:20.324Z,"40 km W of Mentone, Texas",earthquake,0,2.110242312,0.2,16,automatic,tx,tx
 2023-11-08T19:18:25.461Z,31.653,-104.478,14.6866,2.2,ml(texnet),9,102,0,0.8,tx,tx2023vxrs,2023-11-08T19:47:39.490Z,"58 km S of Whites City, New Mexico",earthquake,0,4.322260771,0.1,7,automatic,tx,tx
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T20:18:53.416Z,31.657,-104.299,6.2344,2.2,ml(texnet),28,58,0,0.2,tx,tx2023vvye,2023-11-07T21:05:06.955Z,"57 km S of Whites City, New Mexico",earthquake,0.7127510254,0.7281466921,0.1,17,reviewed,tx,tx
 2023-11-07T20:11:42.647Z,58.8339,-153.6837,13.2,2,ml,,,,0.41,ak,ak023eao41ug,2023-11-07T20:13:34.047Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-07T20:05:47.791Z,40.4965,27.5314,11.827,4.1,mb,20,88,0.58,0.5,us,us7000l9f2,2023-11-08T08:11:58.766Z,"10 km SSW of Marmara, Turkey",earthquake,3.05,4.207,0.212,7,reviewed,us,us
-2023-11-07T20:01:55.950Z,46.0081666666667,-112.471666666667,-2,1.92,ml,11,101,0.05772,0.07,mb,mb90032233,2023-11-07T21:07:44.420Z,"4 km E of Butte, Montana",quarry blast,0.4,0.85,0.312649939864174,13,reviewed,mb,mb
