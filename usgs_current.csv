@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T19:57:00.600Z,63.2639,-149.7806,101.7,3.5,ml,,,,0.49,ak,ak023edyv2w6,2023-11-09T19:58:50.247Z,"43 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-09T19:51:15.690Z,35.0569992,-118.3381653,-0.15,1.28,ml,11,83,0.0663,0.15,ci,ci39710874,2023-11-09T19:57:40.930Z,"13 km SE of Tehachapi, CA",earthquake,0.52,1.01,0.354,5,automatic,ci,ci
 2023-11-09T19:35:49.080Z,33.4925003,-116.4796677,10.12,1.11,ml,24,116,0.07773,0.13,ci,ci39710866,2023-11-09T19:41:55.842Z,"19 km ESE of Anza, CA",earthquake,0.42,0.64,0.033,5,automatic,ci,ci
-2023-11-09T19:30:18.350Z,38.8238335,-122.7679977,2.4,0.78,md,7,117,0.006795,0,nc,nc73960576,2023-11-09T19:41:11.089Z,"4 km W of Cobb, CA",earthquake,0.55,1.38,0.07,8,automatic,nc,nc
+2023-11-09T19:30:18.350Z,38.8238335,-122.7679977,2.4,0.78,md,7,117,0.006795,0,nc,nc73960576,2023-11-09T19:56:12.178Z,"4 km W of Cobb, CA",earthquake,0.55,1.38,0.07,8,automatic,nc,nc
 2023-11-09T19:23:51.380Z,19.2880001068115,-155.396331787109,28.8400001525879,1.76999998,md,32,179,,0.119999997,hv,hv73642407,2023-11-09T19:27:08.810Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.920000017,0.469999999,7,automatic,hv,hv
 2023-11-09T18:51:18.360Z,38.8380013,-122.8116684,1.76,0.8,md,16,59,0.01464,0.01,nc,nc73960566,2023-11-09T19:07:12.869Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.53,0.35,16,automatic,nc,nc
 2023-11-09T18:33:07.950Z,38.8320007,-122.8174973,1.54,0.9,md,14,58,0.01037,0.02,nc,nc73960561,2023-11-09T18:49:11.758Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.58,0.3,13,automatic,nc,nc
@@ -83,7 +85,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T09:18:39.650Z,38.6418343,-122.7360001,7.61,1.22,md,8,170,0.0666,0.02,nc,nc73960371,2023-11-09T12:10:10.411Z,"12 km ENE of Healdsburg, CA",earthquake,0.48,1.1,0.12,9,automatic,nc,nc
 2023-11-09T09:14:58.476Z,31.638,-104.012,5.6419,1.9,mlv,14,81,0,0.2,tx,tx2023vytg,2023-11-09T09:36:30.145Z,"39 km W of Mentone, Texas",earthquake,0,2.111156926,0.2,12,automatic,tx,tx
 2023-11-09T09:14:17.574Z,-5.5615,130.1774,10,5.1,mww,65,46,6.889,0.69,us,us7000l9t5,2023-11-09T09:32:20.040Z,"282 km SSE of Amahai, Indonesia",earthquake,7.94,1.861,0.078,16,reviewed,us,us
-2023-11-09T09:05:28.509Z,31.584,-104.252,7.2884,2.2,ml(texnet),16,77,0.1,0.3,tx,tx2023vysy,2023-11-09T19:45:51.292Z,"52 km NW of Toyah, Texas",earthquake,1.554363666,1.974953608,0.2,11,reviewed,tx,tx
+2023-11-09T09:14:04.150Z,46.847,-121.762,-0.49,-0.44,md,11,114,0.02293,0.06,uw,uw61971456,2023-11-09T19:59:04.620Z,"22 km ENE of Ashford, Washington",earthquake,0.25,1.34,0.2682562421419148,11,reviewed,uw,uw
+2023-11-09T09:05:28.617Z,31.598,-104.245,8.3167,2.3,ml(texnet),25,61,0.1,0.2,tx,tx2023vysy,2023-11-09T19:58:01.257Z,"western Texas",earthquake,1.058948513,1.356305135,0.1,15,reviewed,tx,tx
 2023-11-09T09:05:06.900Z,38.5515,-112.6986667,7.15,0.78,md,16,74,0.09299,0.07,uu,uu60553907,2023-11-09T14:28:54.340Z,"30 km N of Beaver, Utah",earthquake,0.44,0.99,0.319,7,reviewed,uu,uu
 2023-11-09T09:04:10.900Z,38.5596667,-112.7003333,6.85,0.02,md,9,160,0.09766,0.04,uu,uu60033954,2023-11-09T15:25:36.150Z,"31 km N of Beaver, Utah",earthquake,0.6,0.91,0.227,5,reviewed,uu,uu
 2023-11-09T09:03:51.490Z,38.556,-112.6966667,7.31,0.78,md,11,157,0.09717,0.06,uu,uu60553902,2023-11-09T15:22:59.540Z,"31 km N of Beaver, Utah",earthquake,0.56,1.06,0.28,6,reviewed,uu,uu
@@ -224,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T20:32:19.704Z,62.7946,-150.9323,95,2.4,ml,,,,0.58,ak,ak023ecbrulu,2023-11-08T20:34:40.842Z,"34 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-08T20:24:03.290Z,46.2,-122.18766666666667,8.08,0.09,ml,13,55,0.001518,0.22,uw,uw61971341,2023-11-08T23:46:07.480Z,"37 km NNE of Amboy, Washington",earthquake,0.64,0.88,0.0607699606767394,10,reviewed,uw,uw
 2023-11-08T20:09:28.770Z,46.1885,-122.19333333333333,7.8,0.11,ml,11,109,0.01291,0.3,uw,uw61971331,2023-11-08T23:33:33.360Z,"Washington",earthquake,0.94,1.31,0.04934267100181955,7,reviewed,uw,uw
-2023-11-08T19:52:45.090Z,19.1704998016357,-155.496170043945,34.1199989318848,1.79999995,md,27,209,,0.0900000036,hv,hv73641817,2023-11-08T19:55:55.830Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.78,1,0.589999974,3,automatic,hv,hv
