@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T17:34:34.458Z,31.614,-104.026,12.8852,1.5,ml(texnet),11,72,0,0.8,tx,tx2023wbfh,2023-11-10T18:08:22.261Z,"western Texas",earthquake,0,3.835139858,0.2,8,automatic,tx,tx
 2023-11-10T17:29:32.500Z,38.8291664,-122.8160019,1.68,1.07,md,17,63,0.01604,0.01,nc,nc73961016,2023-11-10T17:39:10.731Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.56,0.23,18,automatic,nc,nc
 2023-11-10T17:25:55.570Z,38.8243332,-122.8533325,2.33,0.37,md,9,118,0.004235,0.01,nc,nc73961011,2023-11-10T17:35:11.699Z,"10 km WNW of The Geysers, CA",earthquake,0.42,0.97,0.22,9,automatic,nc,nc
-2023-11-10T17:22:28.150Z,19.6911,-71.5766,19.047,5,mww,174,48,0.715,0.95,us,us7000la5h,2023-11-10T18:41:02.007Z,"7 km WNW of Las Matas de Santa Cruz, Dominican Republic",earthquake,5.24,3.394,0.066,22,reviewed,us,us
+2023-11-10T17:22:28.150Z,19.6911,-71.5766,19.047,5,mww,174,48,0.715,0.95,us,us7000la5h,2023-11-10T18:46:09.681Z,"7 km WNW of Las Matas de Santa Cruz, Dominican Republic",earthquake,5.24,3.394,0.066,22,reviewed,us,us
 2023-11-10T17:19:34.410Z,19.3825,-155.274,1.62,0.32,md,16,72,,0.12,hv,hv73643072,2023-11-10T17:39:43.020Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.17,0.0177353130683691,3,reviewed,hv,hv
 2023-11-10T17:11:12.030Z,19.253999710083,-155.401840209961,29.9699993133545,1.89999998,md,36,147,,0.129999995,hv,hv73643067,2023-11-10T17:14:35.160Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.850000024,0.819999993,11,automatic,hv,hv
 2023-11-10T17:10:23.450Z,50.8382,155.5712,148.175,4.8,mb,156,131,2.627,0.72,us,us7000la5f,2023-11-10T18:09:52.040Z,"43 km WNW of Severo-Kuril’sk, Russia",earthquake,9.8,5.312,0.041,192,reviewed,us,us
@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T07:07:20.757Z,62.0317,-145.2018,15.4,2.1,ml,,,,0.54,ak,ak023efeyjwr,2023-11-10T07:43:43.811Z,"7 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-10T07:02:40.010Z,52.9562,-169.2203,73.4,3.7,ml,,,,0.53,ak,ak023efexizy,2023-11-10T17:27:29.191Z,"24 km W of Nikolski, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-11-10T07:01:09.020Z,38.1475,-122.458,4.13,0.93,md,21,72,0.007616,0.05,nc,nc73960791,2023-11-10T09:49:10.751Z,"6 km NE of Black Point-Green Point, CA",earthquake,0.25,0.42,0.344,17,reviewed,nc,nc
+2023-11-10T07:01:01.130Z,18.6323,-68.9391,106,3.76,md,10,232,0.5701,0.72,pr,pr2023314003,2023-11-10T18:45:58.797Z,"6 km NE of Guaymate, Dominican Republic",earthquake,8.84,3.9,0.23,5,reviewed,pr,pr
 2023-11-10T06:57:08.545Z,62.2318,-151.1227,65.4,2.4,ml,,,,0.56,ak,ak023efent56,2023-11-10T08:15:37.040Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-10T06:50:17.260Z,19.3803329467773,-155.276840209961,0.610000014305115,1.88,md,8,160,,0.109999999,hv,hv73642657,2023-11-10T06:53:12.890Z,"Hawaii region, Hawaii",earthquake,0.32,0.349999994,1.47000003,6,automatic,hv,hv
 2023-11-10T06:46:55.920Z,38.7966652,-122.783165,1.72,1.06,md,14,77,0.005091,0.02,nc,nc73960786,2023-11-10T07:01:09.830Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.44,0.2,15,automatic,nc,nc
@@ -122,6 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T05:51:05.157Z,31.662,-104.307,6.3886,1.8,ml(texnet),21,67,0,0.2,tx,tx2023waic,2023-11-10T15:13:25.554Z,"57 km S of Whites City, New Mexico",earthquake,0.9626112686,0.9974019625,0.1,7,reviewed,tx,tx
 2023-11-10T05:46:54.300Z,31.665,-104.31,6.6457,1.8,ml(texnet),21,67,0,0.2,tx,tx2023wahx,2023-11-10T14:46:17.275Z,"56 km S of Whites City, New Mexico",earthquake,0.8933087254,0.9129528642,0.1,7,reviewed,tx,tx
 2023-11-10T05:27:46.280Z,33.476,-116.4085,12.57,0.86,ml,38,102,0.1307,0.14,ci,ci39711074,2023-11-10T15:45:13.195Z,"23 km SSW of La Quinta, CA",earthquake,0.24,0.51,0.184,14,reviewed,ci,ci
+2023-11-10T05:24:56.450Z,18.0645,-68.1855,68,3.44,md,9,244,0.4902,0.46,pr,pr2023314000,2023-11-10T18:49:32.300Z,"56 km SE of Boca de Yuma, Dominican Republic",earthquake,6.29,4.24,0.14,3,reviewed,pr,pr
 2023-11-10T05:08:32.550Z,33.3498333,-116.2706667,14.21,0.91,ml,39,59,0.08399,0.17,ci,ci39711066,2023-11-10T15:31:04.085Z,"14 km NE of Borrego Springs, CA",earthquake,0.24,0.65,0.065,8,reviewed,ci,ci
 2023-11-10T05:07:08.630Z,38.8470001,-122.8143311,1.68,0.33,md,10,74,0.0104,0.01,nc,nc73960761,2023-11-10T05:14:11.241Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.82,0.23,12,automatic,nc,nc
 2023-11-10T04:51:46.280Z,38.7813339,-122.7251663,1.01,0.95,md,7,109,0.009232,0.02,nc,nc73960756,2023-11-10T05:01:11.172Z,"3 km E of The Geysers, CA",earthquake,0.66,1.67,0.39,8,automatic,nc,nc
