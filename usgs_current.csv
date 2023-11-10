@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T05:59:15.901Z,61.5715,-150.8319,47.3,2.1,ml,,,,0.22,ak,ak023efe2tk6,2023-11-10T06:00:58.568Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-10T05:27:46.110Z,33.4751663,-116.3980026,13.45,1.15,ml,36,52,0.1382,0.19,ci,ci39711074,2023-11-10T05:33:57.917Z,"22 km SSW of La Quinta, CA",earthquake,0.4,1.05,0.194,5,automatic,ci,ci
 2023-11-10T05:08:32.550Z,33.3499985,-116.2631683,11.91,1.17,ml,33,144,0.2268,0.2,ci,ci39711066,2023-11-10T05:14:42.815Z,"15 km NE of Borrego Springs, CA",earthquake,0.49,2.86,0.297,12,automatic,ci,ci
 2023-11-10T05:07:08.630Z,38.8470001,-122.8143311,1.68,0.33,md,10,74,0.0104,0.01,nc,nc73960761,2023-11-10T05:14:11.241Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.82,0.23,12,automatic,nc,nc
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T00:22:06.710Z,36.6199989,-121.1033325,19.05,1.22,md,7,221,0.06595,0.05,nc,nc73960701,2023-11-10T00:34:10.676Z,"10 km NNE of Pinnacles, CA",earthquake,1.72,2.64,0.24,4,automatic,nc,nc
 2023-11-10T00:16:46.020Z,38.8236656,-122.7645035,1.88,1.34,md,28,123,0.008002,0.03,nc,nc73960696,2023-11-10T00:27:10.643Z,"4 km W of Cobb, CA",earthquake,0.25,0.37,0.18,28,automatic,nc,nc
 2023-11-10T00:08:33.670Z,36.5540009,-121.1565018,0.18,2.35,md,40,93,0.02921,0.18,nc,nc73960691,2023-11-10T04:18:10.936Z,"3 km NNW of Pinnacles, CA",earthquake,0.3,12.41,0.15,43,automatic,nc,nc
-2023-11-10T00:08:05.895Z,63.2369,-150.6275,31.1,1.7,ml,,,,1.27,ak,ak023efasp8t,2023-11-10T00:10:18.295Z,"64 km ESE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-11-10T00:08:05.895Z,63.2369,-150.6275,31.1,1.7,ml,,,,1.27,ak,ak023efasp8t,2023-11-10T00:10:18.295Z,"Central Alaska",earthquake,,2,,,automatic,ak,ak
 2023-11-10T00:06:26.082Z,57.7576,-155.9518,11.5,1.9,ml,,,,1.02,ak,ak023efasbdc,2023-11-10T00:07:39.462Z,"90 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-09T23:58:40.362Z,65.226,-146.6613,21.1,1.6,ml,,,,1.14,ak,ak023ee194el,2023-11-10T00:01:15.288Z,"northern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-11-09T23:53:30.710Z,38.7915001,-122.7614975,2.86,0.68,md,10,76,0.009218,0.02,nc,nc73960686,2023-11-10T00:02:11.658Z,"2 km NNW of The Geysers, CA",earthquake,0.42,0.94,0.13,10,automatic,nc,nc
@@ -93,13 +94,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T17:50:26.121Z,-6.7548,-76.6789,114.187,5.1,mb,48,133,4.64,0.58,us,us7000l9x5,2023-11-09T18:04:27.040Z,"13 km WNW of San Pablo, Peru",earthquake,8.36,6.692,0.032,313,reviewed,us,us
 2023-11-09T17:50:02.872Z,40.2494,-119.726,14.3,0.6,ml,4,282.12,0.08,0.164,nn,nn00868710,2023-11-10T00:41:19.496Z,"34 km NNW of Sutcliffe, Nevada",earthquake,,3.1,0.05,2,reviewed,nn,nn
 2023-11-09T17:49:42.861Z,31.614,-104.11,2.6313,1.5,mlv,15,61,0,0.6,tx,tx2023vzkg,2023-11-09T18:36:58.894Z,"44 km NW of Toyah, Texas",earthquake,0,1.342796387,0.3,13,automatic,tx,tx
-2023-11-09T16:44:53.900Z,19.1323337554932,-155.49299621582,31.1900005340576,1.80999994,md,32,171,,0.140000001,hv,hv73642362,2023-11-09T16:48:04.670Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.970000029,1.62,6,automatic,hv,hv
+2023-11-09T16:44:53.900Z,19.1323337554932,-155.49299621582,31.1900005340576,1.80999994,md,32,171,,0.140000001,hv,hv73642362,2023-11-09T16:48:04.670Z,"7 km S of Pāhala, Hawaii",earthquake,0.69,0.970000029,1.62,6,automatic,hv,hv
 2023-11-09T16:35:19.680Z,47.687,-122.85166666666667,48.82,0.73,ml,12,120,0.04408,0.13,uw,uw61971486,2023-11-09T21:37:10.330Z,"Puget Sound region, Washington",earthquake,1.29,0.69,0.1304219497829615,7,reviewed,uw,uw
 2023-11-09T16:24:37.244Z,62.21,-148.6656,26.1,2.3,ml,,,,1.02,ak,ak023edwvsb0,2023-11-09T16:26:34.385Z,"47 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-09T16:19:35.038Z,31.647,-104.593,7.5969,3.3,ml(texnet),13,80,0.1,0.1,tx,tx2023vzhg,2023-11-09T21:59:26.579Z,"62 km SSW of Whites City, New Mexico",earthquake,2.459929722,1.507623177,0.1,9,reviewed,tx,tx
 2023-11-09T16:18:16.380Z,37.2989998,-121.668335,6.19,1.5,md,17,51,0.04013,0.05,nc,nc73960536,2023-11-09T20:07:13.254Z,"15 km E of Seven Trees, CA",earthquake,0.23,0.59,0.15,15,automatic,nc,nc
 2023-11-09T16:08:07.245Z,31.62,-104.12,4.5431,1.8,ml(texnet),18,56,0,0.4,tx,tx2023vzgy,2023-11-09T16:41:40.415Z,"45 km NW of Toyah, Texas",earthquake,0,1.208064751,0.3,14,automatic,tx,tx
-2023-11-09T15:58:22.173Z,31.637,-104.506,7.0571,2.5,ml(texnet),14,72,0,0.2,tx,tx2023vzgq,2023-11-09T17:38:25.040Z,"western Texas",earthquake,1.073161424,0.4947806581,0.1,10,reviewed,tx,tx
+2023-11-09T15:58:22.173Z,31.637,-104.506,7.0571,2.5,ml(texnet),14,72,0,0.2,tx,tx2023vzgq,2023-11-09T17:38:25.040Z,"60 km SSW of Whites City, New Mexico",earthquake,1.073161424,0.4947806581,0.1,10,reviewed,tx,tx
 2023-11-09T15:41:53.720Z,38.8359985,-122.7988358,2.2,0.7,md,8,71,0.007055,0.01,nc,nc73960516,2023-11-09T16:03:10.738Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.7,0.18,8,automatic,nc,nc
 2023-11-09T15:36:49.694Z,-6.3194,129.5293,10,4.7,mb,69,57,7.367,0.53,us,us7000l9uy,2023-11-09T16:59:48.040Z,"Banda Sea",earthquake,8.79,1.852,0.073,64,reviewed,us,us
 2023-11-09T15:34:59.560Z,38.8354988,-122.8008347,2.83,0.64,md,8,70,0.008693,0.02,nc,nc73960506,2023-11-09T15:53:10.679Z,"7 km WNW of Cobb, CA",earthquake,0.58,2.14,0.49,8,automatic,nc,nc
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T06:32:20.440Z,44.7623333,-111.0838333,10.11,0.16,md,9,106,0.03749,0.14,uu,uu60553887,2023-11-09T14:14:30.010Z,"Idaho-Montana border region",earthquake,0.68,0.84,0.116,6,reviewed,uu,uu
 2023-11-09T06:13:58.937Z,39.7733,143.6088,10,4.4,mb,30,115,2.195,0.49,us,us7000l9sh,2023-11-09T07:00:20.040Z,"off the east coast of Honshu, Japan",earthquake,6.84,1.856,0.162,15,reviewed,us,us
 2023-11-09T06:05:36.731Z,31.634,-103.993,5.6174,1.6,ml(texnet),12,65,0,0.1,tx,tx2023vyna,2023-11-09T13:38:22.707Z,"38 km WSW of Mentone, Texas",earthquake,0.6770387414,0.6465096444,0.2,14,reviewed,tx,tx
-2023-11-09T06:00:57.132Z,38.8893,-118.5879,7.3,1.5,ml,11,65.14,0.411,0.1416,nn,nn00868639,2023-11-09T16:57:59.466Z,"20 km ESE of Schurz, Nevada",earthquake,,8.2,0.24,6,reviewed,nn,nn
