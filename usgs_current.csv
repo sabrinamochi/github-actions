@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T18:36:35.310Z,61.1266,-148.2593,3.5,1.6,ml,,,,0.49,ak,ak023eh97wh0,2023-11-11T18:38:56.461Z,"45 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T18:23:25.200Z,34.0096667,-117.2228333,14.57,1.03,ml,48,41,0.07477,0.16,ci,ci39711778,2023-11-11T18:29:55.858Z,"6 km SE of Loma Linda, CA",earthquake,0.17,0.31,0.212,28,automatic,ci,ci
 2023-11-11T18:18:19.680Z,38.845665,-122.8146667,1.2,0.21,md,8,91,0.01125,0.02,nc,nc73961686,2023-11-11T18:29:11.182Z,"8 km WNW of Cobb, CA",earthquake,0.66,2.01,0.12,8,automatic,nc,nc
-2023-11-11T17:48:43.420Z,38.8310013,-122.8166656,2.53,1.13,md,7,106,0.009176,0.02,nc,nc73961681,2023-11-11T17:59:12.040Z,"8 km NW of The Geysers, CA",earthquake,0.88,3.77,0.2,5,automatic,nc,nc
+2023-11-11T17:48:43.420Z,38.8310013,-122.8166656,2.53,1.13,md,7,106,0.009176,0.02,nc,nc73961681,2023-11-11T20:41:11.833Z,"8 km NW of The Geysers, CA",earthquake,0.88,3.77,0.2,5,automatic,nc,nc
 2023-11-11T17:48:23.070Z,33.4763333,-116.4516667,8.63,1.54,ml,74,25,0.05171,0.17,ci,ci39711762,2023-11-11T17:59:10.990Z,"22 km ESE of Anza, CA",earthquake,0.11,0.29,0.175,26,automatic,ci,ci
 2023-11-11T17:47:18.730Z,33.4746667,-116.4476667,9.11,1.24,ml,56,50,0.05196,0.17,ci,ci39711754,2023-11-11T17:58:07.960Z,"23 km ESE of Anza, CA",earthquake,0.14,0.31,0.168,26,automatic,ci,ci
 2023-11-11T17:22:13.224Z,31.608,-103.993,4.513,1.7,ml(texnet),15,42,0,0.2,tx,tx2023wdaj,2023-11-11T17:44:22.423Z,"37 km NNW of Toyah, Texas",earthquake,0,1.408657048,0.3,12,automatic,tx,tx
@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T09:28:31.850Z,34.006,-117.1863333,15.26,1.05,ml,60,36,0.05955,0.15,ci,ci39711546,2023-11-11T09:35:04.712Z,"6 km S of Redlands, CA",earthquake,0.13,0.26,0.164,31,automatic,ci,ci
 2023-11-11T09:27:50.303Z,38.1578,-117.8866,10.4,1.4,ml,8,181.87,0.088,0.1075,nn,nn00868771,2023-11-11T09:30:31.541Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.84,5,automatic,nn,nn
 2023-11-11T09:25:53.628Z,-27.5104,-63.3133,571.966,4,mb,54,54,4.915,0.76,us,us7000labv,2023-11-11T10:32:38.040Z,"Santiago Del Estero, Argentina",earthquake,13.34,11.035,0.088,35,reviewed,us,us
-2023-11-11T09:23:13.113Z,38.1523,-118.1752,2.6,1,ml,8,141.58,0.157,0.1542,nn,nn00868769,2023-11-11T09:25:51.958Z,"27 km SSW of Mina, Nevada",earthquake,,1.2,0.13,3,automatic,nn,nn
+2023-11-11T09:23:13.798Z,38.1455,-118.1712,8.6,1.3,ml,8,71.36,0.156,0.0939,nn,nn00868769,2023-11-11T20:42:49.392Z,"California-Nevada border region",earthquake,,3.2,0.2,3,reviewed,nn,nn
 2023-11-11T09:22:52.410Z,32.9185,-116.2355,7.71,1.35,ml,58,45,0.06749,0.17,ci,ci39711538,2023-11-11T09:34:09.400Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.13,0.61,0.154,29,automatic,ci,ci
 2023-11-11T09:22:27.580Z,38.8154984,-122.8201675,2.69,0.75,md,11,74,0.009664,0.01,nc,nc73961481,2023-11-11T09:45:11.008Z,"7 km NW of The Geysers, CA",earthquake,0.41,1.05,0.17,11,automatic,nc,nc
 2023-11-11T09:17:57.870Z,61.0495,-148.4757,0,1.8,ml,,,,0.69,ak,ak023eh3qzmz,2023-11-11T09:20:06.787Z,"32 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T21:00:34.030Z,32.8281667,-117.0651667,-0.17,0.86,ml,16,104,0.07555,0.25,ci,ci39711314,2023-11-10T21:57:27.207Z,"8 km NNW of La Mesa, CA",quarry blast,0.77,31.61,0.087,5,reviewed,ci,ci
 2023-11-10T20:55:43.692Z,61.2484,-146.8116,26.5,1.6,ml,,,,0.23,ak,ak023efmziw8,2023-11-10T20:58:01.882Z,"28 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-10T20:50:30.023Z,31.263,130.8105,108.775,5.3,mww,92,71,0.392,0.9,us,us7000la7u,2023-11-11T05:53:39.809Z,"13 km SSW of Kanoya, Japan",earthquake,6.04,4.077,0.069,20,reviewed,us,us
-2023-11-10T20:47:52.360Z,58.2936666666667,-154.983333333333,3.06,-0.4,ml,8,147,,0.08,av,av91121308,2023-11-11T01:43:21.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.63,0.329618955412157,8,reviewed,av,av
-2023-11-10T20:45:11.025Z,-6.1554,130.088,10.725,6.1,mww,72,44,1.632,1.46,us,us7000la7r,2023-11-10T22:52:41.234Z,"Banda Sea",earthquake,6.38,4.615,0.052,36,reviewed,us,us
