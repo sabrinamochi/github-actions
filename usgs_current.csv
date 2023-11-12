@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T07:44:49.103Z,63.6687,-149.2243,109.9,2.6,ml,,,,0.49,ak,ak023eiq98k4,2023-11-12T07:46:34.268Z,"16 km WSW of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-12T07:43:04.890Z,60.1099,-152.4573,86.9,1.8,ml,,,,0.36,ak,ak023eiq8tol,2023-11-12T07:45:24.324Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-11-12T07:42:39.413Z,64.7756,-150.9882,4.5,1.3,ml,,,,0.48,ak,ak023eiq8sed,2023-11-12T07:44:22.379Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T07:13:40.115Z,61.6087,-149.8304,28.8,1.6,ml,,,,0.44,ak,ak023eiq2kor,2023-11-12T07:15:03.963Z,"2 km SSW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T07:08:42.817Z,61.0176,-146.8518,13.3,2.2,ml,,,,0.73,ak,ak023eiq1ibd,2023-11-12T07:10:52.327Z,"19 km NNW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-11-12T06:58:46.880Z,38.8126678,-122.8201675,2.6,0.59,md,8,98,0.007997,0.02,nc,nc73961961,2023-11-12T07:14:10.805Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.37,0.31,8,automatic,nc,nc
@@ -28,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
 2023-11-12T03:48:18.720Z,51.8673333333333,-177.931833333333,5.46,2,ml,5,172,,0.1,av,av92115911,2023-11-12T05:25:39.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.96,0.208921488531943,5,reviewed,av,av
-2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"western Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
+2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"38 km W of Mentone, Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
 2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T05:11:11.125Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
 2023-11-12T03:33:15.420Z,19.3770008087158,-155.281494140625,1.70000004768372,2.1,ml,27,91,,0.189999998,hv,hv73644637,2023-11-12T03:38:52.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.3,9,automatic,hv,hv
 2023-11-12T03:29:02.390Z,51.8673333333333,-177.930166666667,6.32,1.18,ml,4,217,,0.12,av,av92115881,2023-11-12T06:25:55.250Z,"89 km W of Adak, Alaska",earthquake,0.65,1.3,0.178719475091409,4,reviewed,av,av
@@ -200,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T08:11:28.010Z,38.8120003,-122.7543335,0.36,1.05,md,8,116,0.01211,0.03,nc,nc73961396,2023-11-11T08:27:13.769Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.76,0.17,11,automatic,nc,nc
 2023-11-11T08:09:56.340Z,38.7868347,-122.7738342,1.56,0.79,md,11,95,0.0127,0.02,nc,nc73961391,2023-11-11T10:29:12.239Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.63,0.27,14,automatic,nc,nc
 2023-11-11T08:08:46.440Z,38.7944984,-122.7606659,0.1,0.77,md,11,82,0.02407,0.02,nc,nc73961386,2023-11-11T10:00:11.364Z,"2 km N of The Geysers, CA",earthquake,0.24,0.8,0.14,10,automatic,nc,nc
-2023-11-11T07:47:26.570Z,38.776001,-122.8861694,1.82,1.21,md,13,224,0.03079,0.02,nc,nc73961376,2023-11-11T09:33:11.061Z,"11 km W of The Geysers, CA",earthquake,0.53,0.55,0.11,12,automatic,nc,nc
