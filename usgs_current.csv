@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T05:06:47.390Z,35.9148331,-117.7116699,4.12,1.22,ml,24,118,0.0927,0.15,ci,ci39711994,2023-11-12T05:08:53.279Z,"18 km E of Little Lake, CA",earthquake,0.4,0.75,0.223,3,automatic,ci,ci
+2023-11-12T04:51:41.879Z,-3.625,151.3248,10,5.9,mww,80,72,1.008,0.95,us,us7000laff,2023-11-12T05:11:22.040Z,"112 km NW of Rabaul, Papua New Guinea",earthquake,4.19,1.846,0.098,10,reviewed,us,us
 2023-11-12T04:42:57.140Z,38.8001671,-122.8216629,2.27,1.5,md,30,62,0.01049,0.03,nc,nc73961926,2023-11-12T04:54:10.019Z,"6 km WNW of The Geysers, CA",earthquake,0.2,0.32,0.11,32,automatic,nc,nc
-2023-11-12T04:38:12.980Z,31.663,-104.466,7.4935,2.3,ml(texnet),9,73,0,0.2,tx,tx2023wdwr,2023-11-12T04:56:43.005Z,"57 km S of Whites City, New Mexico",earthquake,0,3.657011817,0.2,7,automatic,tx,tx
+2023-11-12T04:38:13.365Z,31.65,-104.462,4.4087,2.2,ml(texnet),19,92,0,0.2,tx,tx2023wdwr,2023-11-12T05:01:59.969Z,"western Texas",earthquake,0,1.37663393,0.1,13,automatic,tx,tx
 2023-11-12T04:36:50.907Z,63.1473,-150.5803,103.5,1.9,ml,,,,0.27,ak,ak023eiof86a,2023-11-12T04:39:28.679Z,"72 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
 2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"western Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
-2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T03:50:10.662Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
+2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T05:11:11.125Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
 2023-11-12T03:33:15.420Z,19.3770008087158,-155.281494140625,1.70000004768372,2.1,ml,27,91,,0.189999998,hv,hv73644637,2023-11-12T03:38:52.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.3,9,automatic,hv,hv
 2023-11-12T03:12:59.180Z,18.0115,-66.8065,15.2,2.42,md,23,148,0.01656,0.2,pr,pr71431258,2023-11-12T03:30:30.900Z,"1 km WSW of Guayanilla, Puerto Rico",earthquake,0.36,0.53,0.206723174847467,9,reviewed,pr,pr
 2023-11-12T03:10:25.748Z,31.717,-104.33,5.1002,2.1,ml(texnet),19,66,0.1,0.2,tx,tx2023wdtt,2023-11-12T03:43:36.013Z,"51 km S of Whites City, New Mexico",earthquake,0,2.146254217,0.2,15,automatic,tx,tx
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T05:26:17.510Z,38.8084984,-122.8133316,0.91,0.74,md,8,114,0.01239,0.02,nc,nc73961321,2023-11-11T07:18:10.199Z,"6 km NW of The Geysers, CA",earthquake,0.33,1.1,0.22,8,automatic,nc,nc
 2023-11-11T05:17:05.620Z,38.8095016,-122.8393326,2.09,0.76,md,12,135,0.007959,0.02,nc,nc73961316,2023-11-11T05:27:10.616Z,"8 km WNW of The Geysers, CA",earthquake,0.41,0.61,0.14,14,automatic,nc,nc
 2023-11-11T05:16:07.740Z,44.8496666,-110.5566635,2.11,2.41,ml,18,156,0.1407,0.57,uu,uu60554032,2023-11-11T05:22:52.540Z,"18 km SE of Mammoth, Wyoming",earthquake,1.45,3.8,0.53,9,reviewed,uu,uu
-2023-11-11T05:09:10.980Z,38.8268318,-122.8178329,0.4,0.26,md,6,73,0.01394,0.02,nc,nc73961311,2023-11-11T05:18:11.860Z,"8 km NW of The Geysers, CA",earthquake,0.92,3.7,0.14,7,automatic,nc,nc
