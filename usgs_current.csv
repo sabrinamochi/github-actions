@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-12T05:51:25.339Z,39.0394,-119.1552,10,1.9,ml,14,61.79,0.535,0.0999,nn,nn00868788,2023-11-12T05:53:55.935Z,"5 km N of Yerington, Nevada",earthquake,,0.9,0.37,6,automatic,nn,nn
 2023-11-12T05:44:10.960Z,33.6586667,-116.5896667,12.35,0.64,ml,31,41,0.06056,0.08,ci,ci39712010,2023-11-12T05:50:18.970Z,"14 km NE of Anza, CA",earthquake,0.15,0.26,0.151,12,automatic,ci,ci
+2023-11-12T05:34:03.100Z,19.4126666666667,-66.0748333333333,61.26,3.36,md,13,245,1.025,0.31,pr,pr71431268,2023-11-12T06:03:07.700Z,"104 km N of San Juan, Puerto Rico",earthquake,2.36,7.21,0.0772332410120271,8,reviewed,pr,pr
 2023-11-12T05:27:07.841Z,62.0639,-151.9925,101.5,1.5,ml,,,,0.69,ak,ak023eioyn0g,2023-11-12T05:29:24.017Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-12T05:14:29.084Z,55.644,-158.6256,40.8,3.2,ml,,,,0.16,ak,ak023eiovwcc,2023-11-12T05:15:43.095Z,"Alaska Peninsula",earthquake,,2.7,,,automatic,ak,ak
 2023-11-12T05:06:47.340Z,35.9145,-117.711,4.85,1.06,ml,28,56,0.09333,0.11,ci,ci39711994,2023-11-12T05:12:54.864Z,"18 km E of Little Lake, CA",earthquake,0.16,0.27,0.09,9,automatic,ci,ci
@@ -198,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T06:34:25.060Z,38.769001,-122.7371674,0.2,2.18,md,41,54,0.01422,0.11,nc,nc73961351,2023-11-11T08:44:10.810Z,"2 km ESE of The Geysers, CA",earthquake,0.2,0.33,0.17,38,automatic,nc,nc
 2023-11-11T06:26:50.433Z,5.1636,36.7969,10,4.8,mb,46,96,6.265,0.78,us,us7000lab8,2023-11-11T06:41:31.040Z,"Ethiopia",earthquake,4.45,1.893,0.097,33,reviewed,us,us
 2023-11-11T06:21:19.955Z,31.668,-104.18,2.7895,2.4,ml(texnet),14,65,0.1,0.1,tx,tx2023wceo,2023-11-11T20:05:08.868Z,"western Texas",earthquake,0.4933911363,1.369566798,0.1,18,reviewed,tx,tx
-2023-11-11T06:06:01.510Z,18.1455,-67.343,14.1,2.55,md,9,213,0.2015,0.19,pr,pr71431243,2023-11-11T06:17:46.220Z,"18 km WNW of Puerto Real, Puerto Rico",earthquake,0.98,1.06,0.238822036744375,8,reviewed,pr,pr
-2023-11-11T06:04:42.170Z,36.2026667,-118.0421667,3.48,1.14,ml,23,86,0.1737,0.14,ci,ci39711506,2023-11-11T06:10:38.056Z,"9 km SSW of Olancha, CA",earthquake,0.22,0.83,0.103,8,automatic,ci,ci
