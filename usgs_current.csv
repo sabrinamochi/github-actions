@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-13T21:56:14.484Z,58.1738,-155.3953,1.1,0.9,ml,,,,0.19,ak,ak023ekm75go,2023-11-13T21:57:44.368Z,"87 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-11-13T21:28:06.400Z,36.6218338,-121.215332,7.74,1.31,md,6,204,0.05553,0.03,nc,nc73962581,2023-11-13T21:39:11.606Z,"12 km NNW of Pinnacles, CA",earthquake,0.96,1.19,0.21,6,automatic,nc,nc
+2023-11-13T20:59:59.852Z,56.3443,-156.5204,35,3.1,ml,34,193,1.125,0.48,us,us7000lash,2023-11-13T22:02:47.040Z,"116 km E of Chignik, Alaska",earthquake,3.95,2.009,0.066,30,reviewed,us,us
 2023-11-13T20:50:27.970Z,19.3390007019043,-155.127838134766,3.50999999046326,1.72,ml,23,109,,0.200000003,hv,hv73647022,2023-11-13T20:55:58.660Z,"14 km S of Fern Forest, Hawaii",earthquake,0.54,1.21000004,0.53,3,automatic,hv,hv
 2023-11-13T20:30:37.530Z,32.6073333,-116.9838333,2.96,1.03,ml,23,108,0.04528,0.22,ci,ci39712714,2023-11-13T20:36:45.950Z,"6 km ESE of Chula Vista, CA",earthquake,0.34,0.33,0.097,6,automatic,ci,ci
 2023-11-13T20:08:34.740Z,33.8743333,-117.5145,3.15,1.27,ml,17,208,0.08103,0.08,ci,ci39712706,2023-11-13T20:15:16.021Z,"1 km SE of Home Gardens, CA",earthquake,0.5,0.22,0.423,36,automatic,ci,ci
@@ -71,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T13:12:43.781Z,62.9185,-151.3636,131.6,1.6,ml,,,,0.21,ak,ak023ekh6bdm,2023-11-13T13:14:47.450Z,"56 km NNW of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-13T12:30:55.620Z,37.5530014,-118.4766693,10.97,2.92,md,23,120,0.02694,0.04,nc,nc73962406,2023-11-13T17:20:46.117Z,"18 km E of Toms Place, CA",earthquake,0.46,0.84,0.12,34,automatic,nc,nc
 2023-11-13T12:29:43.440Z,33.2616667,-116.4355,3.69,1.84,ml,90,15,0.08654,0.17,ci,ci39712434,2023-11-13T16:10:21.533Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.47,0.183,27,reviewed,ci,ci
+2023-11-13T12:29:33.430Z,52.5811666666667,-174.087166666667,2.49,2.66,ml,7,328,,0.19,av,av92117431,2023-11-13T22:05:20.490Z,"43 km N of Atka, Alaska",earthquake,1.68,2.37,0.275373343750411,7,reviewed,av,av
 2023-11-13T12:26:37.500Z,19.3398333333333,-155.3115,3.07,2.13,ml,22,52,,0.1,hv,hv73646682,2023-11-13T18:10:23.190Z,"14 km SW of Volcano, Hawaii",earthquake,0.27,0.54,0.18525711444188,10,reviewed,hv,hv
 2023-11-13T12:16:41.225Z,38.4794,72.2761,49.655,5.3,mww,84,44,1.94,0.68,us,us7000lamf,2023-11-13T12:48:19.910Z,"Tajikistan",earthquake,6.47,5.961,0.08,15,reviewed,us,us
 2023-11-13T12:10:13.493Z,58.2395,-136.8872,4.1,2.3,ml,,,,0.57,ak,ak023ekgke05,2023-11-13T12:12:20.027Z,"32 km W of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -210,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T22:25:15.640Z,18.513,-68.7368,122,4.13,md,17,160,0.3554,0.39,pr,pr2023316000,2023-11-12T23:12:20.369Z,"Mona Passage",earthquake,1.57,1.19,0.04,9,reviewed,pr,pr
 2023-11-12T22:20:33.642Z,31.721,-104.582,3.2706,1.6,ml(texnet),14,198,0,0.4,tx,tx2023wffr,2023-11-12T22:44:12.639Z,"54 km SSW of Whites City, New Mexico",earthquake,0,2.141101422,0.2,12,automatic,tx,tx
 2023-11-12T22:19:36.609Z,35.53416667,-96.75783333,6.73,0.75,ml,24,78,0.01619682163,0.19,ok,ok2023wffr,2023-11-13T19:46:34.564Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.13,7,reviewed,ok,ok
-2023-11-12T22:08:12.354Z,60.1215,-140.68,13,2.9,ml,,,,0.59,ak,ak023eiyyy1f,2023-11-12T22:34:31.040Z,"83 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-12T22:05:39.320Z,35.5435,-96.75516667,5.4,2.29,ml,90,61,0.2933424362,0.25,ok,ok2023wfff,2023-11-13T14:03:57.369Z,"Oklahoma",earthquake,,0.8,0.23,41,reviewed,ok,ok
