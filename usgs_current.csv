@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-13T19:43:30.455Z,61.6633,-149.6932,30.8,1.5,ml,,,,0.63,ak,ak023ekkxj6d,2023-11-13T19:45:41.511Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-13T19:39:44.170Z,38.8351669,-122.8066635,2.04,0.82,md,16,52,0.01205,0.02,nc,nc73962556,2023-11-13T19:41:22.816Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.6,0.19,16,automatic,nc,nc
+2023-11-13T19:39:44.170Z,38.8351669,-122.8066635,2.04,0.82,md,16,52,0.01205,0.02,nc,nc73962556,2023-11-13T19:51:11.073Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.6,0.19,16,automatic,nc,nc
 2023-11-13T19:10:10.017Z,52.2712,-174.0844,78.371,4.4,mb,67,135,0.098,0.93,us,us7000larq,2023-11-13T19:42:37.778Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,12.28,8.583,0.048,124,reviewed,us,us
 2023-11-13T18:56:33.460Z,35.9681667,-117.4988333,-0.7,0.88,ml,17,133,0.2519,0.16,ci,ci39712658,2023-11-13T19:02:28.233Z,"24 km NNW of Searles Valley, CA",earthquake,0.4,0.79,0.108,4,automatic,ci,ci
 2023-11-13T18:54:22.232Z,3.7904,31.2355,8.407,4.9,mb,71,54,4.391,1.99,us,us7000larp,2023-11-13T19:48:21.867Z,"35 km N of Yumbe, Uganda",earthquake,9.85,4.288,0.068,68,reviewed,us,us
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T01:53:53.814Z,58.2538,-155.0439,12.4,1.1,ml,,,,0.84,ak,ak023eka9x91,2023-11-13T01:56:21.323Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-11-13T01:39:40.900Z,19.3693332672119,-155.301666259766,2.50999999046326,1.71000004,md,13,93,,0.119999997,hv,hv73645902,2023-11-13T01:45:12.800Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.649999976,1.02999997,12,automatic,hv,hv
 2023-11-13T01:33:34.390Z,36.1888333333333,-89.653,6.69,1.69,md,19,52,0.06406,0.05,nm,nm60560046,2023-11-13T14:27:27.070Z,"0 km SSE of Caruthersville, Missouri",earthquake,0.55,1.81,0.0983204204725052,15,reviewed,nm,nm
-2023-11-13T01:23:00.230Z,35.506,-118.3851667,7.69,1.08,ml,26,65,0.1724,0.15,ci,ci39712314,2023-11-13T19:50:45.621Z,"13 km SE of Bodfish, CA",earthquake,0.21,1.12,0.119,11,reviewed,ci,ci
+2023-11-13T01:23:00.230Z,35.506,-118.3851667,7.69,1.08,ml,26,65,0.1724,0.15,ci,ci39712314,2023-11-13T19:51:13.099Z,"13 km SE of Bodfish, CA",earthquake,0.21,1.12,0.119,11,reviewed,ci,ci
 2023-11-13T01:21:52.200Z,19.3348333333333,-155.3035,3.96,2.47,md,34,111,,0.11,hv,hv73645882,2023-11-13T03:19:49.730Z,"14 km SSW of Volcano, Hawaii",earthquake,0.29,0.64,0.201948625212625,12,reviewed,hv,hv
 2023-11-13T01:21:35.324Z,59.5366,-153.1606,85.2,1.6,ml,,,,0.56,ak,ak023eka30ws,2023-11-13T01:24:05.933Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-13T01:20:15.430Z,35.5898333,-117.4028333,7.53,1.1,ml,26,56,0.0485,0.15,ci,ci39712306,2023-11-13T19:42:57.963Z,"20 km S of Trona, CA",earthquake,0.2,0.39,0.098,8,reviewed,ci,ci
@@ -210,7 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T20:29:23.420Z,18.0235,-66.8076666666667,15.16,2.21,md,7,151,0.08345,0.15,pr,pr71431288,2023-11-12T21:13:34.420Z,"Puerto Rico",earthquake,0.56,1.31,0.067473660245593,5,reviewed,pr,pr
 2023-11-12T20:03:27.058Z,65.0369,-148.8589,16.1,1.3,ml,,,,1.06,ak,ak023eixr1dt,2023-11-12T20:05:36.336Z,"26 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-12T20:01:37.836Z,65.0176,-148.8284,13.6,1.5,ml,,,,0.6,ak,ak023eixqms7,2023-11-12T20:03:26.854Z,"28 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-12T19:57:33.570Z,38.8460007,-122.7693329,1.13,0.67,md,7,182,0.006477,0.03,nc,nc73962166,2023-11-12T20:30:11.176Z,"5 km WNW of Cobb, CA",earthquake,0.62,0.63,0.43,9,automatic,nc,nc
-2023-11-12T19:56:08.342Z,60.2559,-141.1028,15.9,1.5,ml,,,,0.39,ak,ak023eixgx9h,2023-11-12T20:03:20.032Z,"110 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-12T19:54:28.449Z,39.1884,71.1104,12.485,4.5,mb,36,82,0.607,0.68,us,us7000lai9,2023-11-12T20:23:14.040Z,"Kyrgyzstan-Tajikistan border region",earthquake,4.05,5.136,0.104,27,reviewed,us,us
-2023-11-12T19:52:31.630Z,33.7633333,-116.932,14.02,0.82,ml,27,82,0.07636,0.11,ci,ci39712250,2023-11-13T16:57:11.242Z,"3 km SE of San Jacinto, CA",earthquake,0.18,0.42,0.121,14,reviewed,ci,ci
