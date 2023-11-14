@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-14T14:21:28.920Z,33.9884987,-116.7698364,11.23,1.17,ml,21,97,0.0562,0.1,ci,ci39712970,2023-11-14T14:23:34.109Z,"8 km NNE of Cabazon, CA",earthquake,0.3,0.89,0.384,7,automatic,ci,ci
+2023-11-14T14:21:28.770Z,33.9918333,-116.7676667,13.43,0.88,ml,42,89,0.05456,0.13,ci,ci39712970,2023-11-14T14:27:47.387Z,"8 km NNE of Cabazon, CA",earthquake,0.14,0.36,0.104,21,automatic,ci,ci
+2023-11-14T14:15:30.500Z,31.874,-104.286,11.667,1.5,ml(texnet),4,171,0.1,0.4,tx,tx2023wigs,2023-11-14T14:26:40.523Z,"western Texas",earthquake,0,11.57401572,0.4,4,automatic,tx,tx
 2023-11-14T13:51:27.780Z,36.0340004,-120.5973358,2.99,1.32,md,14,115,0.03475,0.07,nc,nc73962831,2023-11-14T14:03:11.161Z,"21 km NW of Parkfield, CA",earthquake,0.4,0.79,0.35,7,automatic,nc,nc
 2023-11-14T13:45:02.553Z,31.631,-104.464,3.9213,1.5,ml(texnet),9,112,0,0.2,tx,tx2023wifs,2023-11-14T14:02:54.786Z,"60 km S of Whites City, New Mexico",earthquake,0,2.12745816,0.1,7,automatic,tx,tx
 2023-11-14T13:32:43.987Z,65.6782,-151.9957,0,1.2,ml,,,,0.54,ak,ak023em4ty63,2023-11-14T13:43:56.898Z,"56 km N of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T13:27:12.553Z,-3.9385,150.9676,10,5.1,mb,36,76,1.219,0.84,us,usd00103zg,2023-11-14T13:46:09.040Z,"135 km WNW of Rabaul, Papua New Guinea",earthquake,9.19,1.873,0.11,27,reviewed,us,us
 2023-11-14T13:20:58.200Z,35.5123329,-120.8181686,5.72,1.25,md,10,112,0.0839,0.03,nc,nc73962826,2023-11-14T13:27:10.063Z,"10 km NE of Cayucos, CA",earthquake,0.73,1.56,0.04,6,automatic,nc,nc
 2023-11-14T13:18:41.070Z,31.661,-104.003,4.3586,1.6,ml(texnet),18,52,0,0.5,tx,tx2023wiex,2023-11-14T13:51:09.301Z,"38 km W of Mentone, Texas",earthquake,0,1.382605068,0.1,13,automatic,tx,tx
-2023-11-14T13:06:51.443Z,60.1572,-152.9664,120.2,2.2,ml,,,,0.18,ak,ak023em4oe60,2023-11-14T13:08:25.151Z,"72 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-11-14T13:06:51.443Z,60.1572,-152.9664,120.2,2.2,ml,,,,0.18,ak,ak023em4oe60,2023-11-14T14:27:43.040Z,"72 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-14T13:02:28.280Z,19.1986675262451,-155.494827270508,34.1800003051758,2.85,ml,55,131,,0.129999995,hv,hv73647522,2023-11-14T13:08:45.089Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.42,0.579999983,3.47,32,automatic,hv,hv
 2023-11-14T12:53:12.517Z,31.648,-104.017,4.1425,1.6,ml(texnet),18,46,0,0.2,tx,tx2023wiea,2023-11-14T13:17:44.454Z,"40 km W of Mentone, Texas",earthquake,0,1.31817594,0.2,10,automatic,tx,tx
 2023-11-14T12:52:25.336Z,-6.0627,148.1853,58.025,5.9,mww,120,31,4.377,0.73,us,usd00103z8,2023-11-14T13:19:07.688Z,"66 km NE of Finschhafen, Papua New Guinea",earthquake,7.88,5.772,0.066,22,reviewed,us,us
@@ -106,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T00:05:37.926Z,59.7871,-152.1342,64.2,2.3,ml,,,,0.44,ak,ak023elwxijk,2023-11-14T00:07:19.762Z,"17 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-14T00:03:04.040Z,37.6290016,-122.3913345,10.44,1.22,md,8,213,0.04561,0.03,nc,nc73962606,2023-11-14T03:31:10.711Z,"2 km E of San Bruno, CA",earthquake,2.19,1.12,0.2,4,automatic,nc,nc
 2023-11-14T00:01:34.263Z,63.3305,-151.32,2.7,1.6,ml,,,,0.88,ak,ak023elwwnea,2023-11-14T00:03:51.061Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-13T23:59:58.453Z,-4.1022,150.9563,10,4.9,mb,27,113,1.208,0.6,us,us7000latj,2023-11-14T00:20:04.040Z,"134 km W of Rabaul, Papua New Guinea",earthquake,12.59,1.896,0.12,22,reviewed,us,us
+2023-11-13T23:59:58.453Z,-4.1022,150.9563,10,4.9,mb,27,113,1.208,0.6,us,us7000latj,2023-11-14T00:20:04.040Z,"New Britain region, Papua New Guinea",earthquake,12.59,1.896,0.12,22,reviewed,us,us
 2023-11-13T23:53:55.267Z,61.7456,-149.7738,29.8,1.5,ml,,,,0.36,ak,ak023ekndgo6,2023-11-13T23:56:19.458Z,"13 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T23:44:58.530Z,58.2451666666667,-155.071833333333,4.3,0.44,ml,10,106,,0.08,av,av92117956,2023-11-14T05:36:59.790Z,"83 km NNW of Karluk, Alaska",earthquake,0.25,0.51,0.369494753609176,10,reviewed,av,av
 2023-11-13T23:32:41.401Z,36.3354,-116.8262,3.3,1.4,ml,18,205.82,0.196,0.1638,nn,nn00868851,2023-11-13T23:34:49.962Z,"12 km S of Furnace Creek, California",earthquake,,8.2,0.15,14,automatic,nn,nn
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T14:40:54.047Z,-30.6732,-179.7999,421.838,5.7,mww,111,44,2.154,0.71,us,us7000lan3,2023-11-13T18:11:52.749Z,"Kermadec Islands region",earthquake,7.42,3.861,0.073,18,reviewed,us,us
 2023-11-13T14:33:49.780Z,51.8586666666667,-177.928333333333,-1.8,0.36,ml,4,211,,0.25,av,av91121438,2023-11-14T00:46:33.750Z,"89 km W of Adak, Alaska",earthquake,0.8,1.82,0.489014260033021,4,reviewed,av,av
 2023-11-13T14:30:59.369Z,35.11733333,-95.548,7.54,2.28,ml,72,53,0.106179164,0.29,ok,ok2023wgls,2023-11-13T14:48:03.539Z,"Oklahoma",earthquake,,0.7,0.25,13,reviewed,ok,ok
-2023-11-13T14:26:47.000Z,38.8359985,-122.817337,1.93,0.69,md,11,66,0.0138,0.01,nc,nc73962441,2023-11-13T16:18:09.882Z,"8 km W of Cobb, CA",earthquake,0.33,1.06,0.37,12,automatic,nc,nc
