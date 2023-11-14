@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T09:43:58.530Z,59.9423,-153.0373,105.6,2,ml,,,,0.41,ak,ak023em2ilsd,2023-11-14T09:45:58.082Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-14T09:42:24.261Z,57.9547,-154.5414,50.1,1.4,ml,,,,0.55,ak,ak023em2ibfe,2023-11-14T09:44:08.550Z,"43 km N of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-14T09:35:37.860Z,38.7786674,-122.7296677,1.43,1.09,md,14,76,0.007159,0.02,nc,nc73962756,2023-11-14T09:46:10.722Z,"2 km E of The Geysers, CA",earthquake,0.27,0.46,0.12,13,automatic,nc,nc
-2023-11-14T09:35:33.089Z,31.65,-104.022,6.2115,2,ml(texnet),18,51,0,0.1,tx,tx2023whxm,2023-11-14T22:39:50.071Z,"40 km W of Mentone, Texas",earthquake,0.6070389302,0.7333218911,0.2,14,reviewed,tx,tx
+2023-11-14T09:35:33.089Z,31.65,-104.022,6.2115,2,ml(texnet),18,51,0,0.1,tx,tx2023whxm,2023-11-14T22:40:38.414Z,"40 km W of Mentone, Texas",earthquake,0.6070389302,0.7333218911,0.2,12,reviewed,tx,tx
 2023-11-14T09:28:36.350Z,53.8873333333333,-166.922833333333,6.64,-0.53,ml,6,187,,0.1,av,av91121533,2023-11-14T20:10:51.900Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.53,1.54,0.145665170456603,6,reviewed,av,av
 2023-11-14T09:27:40.820Z,44.6046667,-110.6808333,6.76,0.44,md,9,88,0.02691,0.11,uu,uu60554192,2023-11-14T15:02:18.170Z,"34 km E of West Yellowstone, Montana",earthquake,0.68,1.25,0.306,9,reviewed,uu,uu
 2023-11-14T09:26:11.052Z,60.4143,-148.4294,22.8,1.7,ml,,,,0.55,ak,ak023em2euy9,2023-11-14T09:28:19.893Z,"42 km SSE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T05:07:01.453Z,59.2421,-136.2266,0,2.9,ml,,,,0.56,ak,ak023elzx16p,2023-11-14T05:53:59.040Z,"Southeastern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-14T04:51:53.260Z,19.3278331756592,-155.056503295898,1.11000001430511,2.03,ml,42,182,,0.300000012,hv,hv73647322,2023-11-14T04:57:24.920Z,"17 km SSE of Fern Forest, Hawaii",earthquake,0.75,0.519999981,0.45,4,automatic,hv,hv
 2023-11-14T04:43:21.467Z,36.7987,-116.2878,7.4,-0.2,ml,8,101.31,0.051,0.0385,nn,nn00868875,2023-11-14T15:51:19.198Z,"43 km ESE of Beatty, Nevada",earthquake,,2.3,1.43,4,reviewed,nn,nn
-2023-11-14T04:37:32.263Z,31.658,-104.374,8.388,1.6,ml(texnet),15,70,0,0.1,tx,tx2023whnq,2023-11-14T16:18:23.622Z,"57 km S of Whites City, New Mexico",earthquake,0.8467341698,0.8926235542,0.2,13,reviewed,tx,tx
+2023-11-14T04:37:32.263Z,31.658,-104.374,8.388,1.6,ml(texnet),15,70,0,0.1,tx,tx2023whnq,2023-11-14T16:18:23.622Z,"western Texas",earthquake,0.8467341698,0.8926235542,0.2,13,reviewed,tx,tx
 2023-11-14T04:37:31.575Z,31.657,-104.373,5.8058,1.5,ml(texnet),18,70,0.1,0.4,tx,tx2023whnp,2023-11-14T04:59:29.337Z,"57 km S of Whites City, New Mexico",earthquake,0,2.671545711,0.2,13,automatic,tx,tx
 2023-11-14T04:34:21.906Z,31.595,-104.215,4.0577,1.6,ml(texnet),15,70,0.1,0.3,tx,tx2023whno,2023-11-14T04:59:21.455Z,"50 km NW of Toyah, Texas",earthquake,0,1.792954854,0.2,13,automatic,tx,tx
 2023-11-14T04:33:25.346Z,32.082,-101.608,13.4501,1.6,ml(texnet),17,110,0.2,0.2,tx,tx2023whnn,2023-11-14T21:21:25.152Z,"17 km ESE of Stanton, Texas",earthquake,1.274902565,1.589998079,0.1,12,reviewed,tx,tx
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T23:44:58.530Z,58.2451666666667,-155.071833333333,4.3,0.44,ml,10,106,,0.08,av,av92117956,2023-11-14T05:36:59.790Z,"83 km NNW of Karluk, Alaska",earthquake,0.25,0.51,0.369494753609176,10,reviewed,av,av
 2023-11-13T23:32:40.574Z,36.2764,-116.862,5.6,1.5,ml,12,211.38,0.18,0.1129,nn,nn00868851,2023-11-14T17:02:44.976Z,"19 km S of Furnace Creek, California",earthquake,,4.5,0.18,4,reviewed,nn,nn
 2023-11-13T22:55:16.000Z,38.8375015,-122.8081665,2.11,0.64,md,12,75,0.01395,0.02,nc,nc73962601,2023-11-13T23:13:10.124Z,"8 km WNW of Cobb, CA",earthquake,0.39,0.82,0.19,11,automatic,nc,nc
-2023-11-13T22:40:31.689Z,31.632,-103.996,5.0133,1.7,ml(texnet),16,62,0,0.1,tx,tx2023whbv,2023-11-14T21:28:30.731Z,"38 km WSW of Mentone, Texas",earthquake,0.3988824963,0.5538789177,0.1,12,reviewed,tx,tx
