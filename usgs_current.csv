@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T14:38:14.545Z,66.0157,-149.2168,0,1.5,ml,,,,0.98,ak,ak023em5glu6,2023-11-14T14:40:49.394Z,"5 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-14T14:21:28.860Z,33.9925,-116.771,12.86,0.87,ml,40,43,0.05238,0.18,ci,ci39712970,2023-11-14T16:40:07.114Z,"8 km N of Cabazon, CA",earthquake,0.21,0.56,0.108,17,reviewed,ci,ci
 2023-11-14T14:15:29.912Z,31.711,-104.33,5.255,1.5,ml(texnet),16,66,0.1,0.2,tx,tx2023wigs,2023-11-14T14:45:52.115Z,"51 km S of Whites City, New Mexico",earthquake,0,2.310745295,0.2,13,automatic,tx,tx
+2023-11-14T13:54:18.840Z,58.1688333333333,-155.392333333333,5,-0.09,ml,8,115,,0.16,av,av92118456,2023-11-14T21:14:26.270Z,"Alaska Peninsula",earthquake,0.38,31.61,0.136995994497929,1,reviewed,av,av
 2023-11-14T13:51:27.780Z,36.0340004,-120.5973358,2.99,1.32,md,14,115,0.03475,0.07,nc,nc73962831,2023-11-14T16:33:11.147Z,"21 km NW of Parkfield, CA",earthquake,0.4,0.79,0.35,7,automatic,nc,nc
 2023-11-14T13:45:02.553Z,31.631,-104.464,3.9213,1.5,ml(texnet),9,112,0,0.2,tx,tx2023wifs,2023-11-14T14:02:54.786Z,"60 km S of Whites City, New Mexico",earthquake,0,2.12745816,0.1,7,automatic,tx,tx
 2023-11-14T13:32:43.987Z,65.6782,-151.9957,0,1.2,ml,,,,0.54,ak,ak023em4ty63,2023-11-14T13:43:56.898Z,"56 km N of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T01:02:26.010Z,38.8233337,-122.7998352,2.61,1.08,md,22,52,0.007998,0.02,nc,nc73962651,2023-11-14T01:19:10.944Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.45,0.17,22,automatic,nc,nc
 2023-11-14T00:56:58.440Z,19.3605003356934,-155.305160522461,1.79999995231628,1.85000002,md,14,93,,0.0900000036,hv,hv73647202,2023-11-14T00:59:52.790Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.479999989,0.930000007,14,automatic,hv,hv
 2023-11-14T00:51:22.730Z,38.831665,-122.8180008,1.71,0.75,md,11,98,0.01032,0,nc,nc73962631,2023-11-14T01:01:10.708Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.59,0.25,11,automatic,nc,nc
-2023-11-14T00:47:06.797Z,31.613,-104.116,4.8466,1.8,ml(texnet),19,57,0,0.3,tx,tx2023whgb,2023-11-14T01:09:20.932Z,"45 km NW of Toyah, Texas",earthquake,0,1.189183147,0.2,15,automatic,tx,tx
+2023-11-14T00:47:06.759Z,31.612,-104.118,6.1316,1.9,mlv,17,118,0.1,0.2,tx,tx2023whgb,2023-11-14T21:18:37.282Z,"45 km NW of Toyah, Texas",earthquake,0.9892095373,0.8926199942,0.3,12,reviewed,tx,tx
 2023-11-14T00:38:49.590Z,38.8235016,-122.7638321,1.94,0.77,md,10,124,0.008426,0.03,nc,nc73962626,2023-11-14T00:52:09.657Z,"4 km W of Cobb, CA",earthquake,0.54,1.02,0.17,10,automatic,nc,nc
 2023-11-14T00:26:45.920Z,47.3985,-120.7085,7.83,1.43,ml,16,102,0.2377,0.23,uw,uw61972156,2023-11-14T02:24:30.250Z,"22 km S of Leavenworth, Washington",earthquake,0.54,0.92,0.09032094615950925,15,reviewed,uw,uw
 2023-11-14T00:21:27.212Z,31.677,-104.448,7.7421,1.5,ml(texnet),16,61,0,0.5,tx,tx2023whff,2023-11-14T01:09:06.625Z,"western Texas",earthquake,0,2.55303491,0.3,13,automatic,tx,tx
@@ -208,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T21:49:12.337Z,52.6475,159.1689,60.61,4.6,mb,45,147,0.491,0.79,us,us7000lat0,2023-11-14T13:23:18.958Z,"58 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.9,7.016,0.073,56,reviewed,us,us
 2023-11-13T21:30:06.540Z,45.0745,-111.754,-2,1.17,ml,9,124,0.2575,0.13,mb,mb90032758,2023-11-13T23:01:10.630Z,"28 km SSE of Virginia City, Montana",quarry blast,0.62,31.61,0.26913493747354,7,reviewed,mb,mb
 2023-11-13T21:28:06.400Z,36.6218338,-121.215332,7.74,1.31,md,6,204,0.05553,0.03,nc,nc73962581,2023-11-14T00:01:10.369Z,"12 km NNW of Pinnacles, CA",earthquake,0.96,1.19,0.21,6,automatic,nc,nc
-2023-11-13T21:19:43.840Z,38.4803333,-112.8458333,2.61,0.38,md,11,108,0.02541,0.06,uu,uu60554157,2023-11-13T22:59:41.920Z,"Utah",earthquake,0.27,0.78,0.505,3,reviewed,uu,uu
-2023-11-13T21:18:48.930Z,58.1703333333333,-155.342,2.06,0.05,ml,7,179,,0.08,av,av91121498,2023-11-14T04:51:03.310Z,"Alaska Peninsula",earthquake,0.3,0.58,0.24333498196833,8,reviewed,av,av
-2023-11-13T21:14:28.430Z,53.8873333333333,-166.9455,6.14,-0.4,ml,6,208,,0.13,av,av91121493,2023-11-14T04:45:20.970Z,"26 km W of Dutch Harbor, Alaska",earthquake,0.58,1.48,0.0996604418258261,5,reviewed,av,av
