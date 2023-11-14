@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T00:03:04.040Z,37.6290016,-122.3913345,10.44,1.22,md,8,213,0.04561,0.03,nc,nc73962606,2023-11-14T00:04:40.403Z,"2 km E of San Bruno, CA",earthquake,2.19,1.12,0.2,4,automatic,nc,nc
+2023-11-14T00:01:34.263Z,63.3305,-151.32,2.7,1.6,ml,,,,0.88,ak,ak023elwwnea,2023-11-14T00:03:51.061Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-13T23:53:55.267Z,61.7456,-149.7738,29.8,1.5,ml,,,,0.36,ak,ak023ekndgo6,2023-11-13T23:56:19.458Z,"13 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T23:32:41.401Z,36.3354,-116.8262,3.3,1.4,ml,18,205.82,0.196,0.1638,nn,nn00868851,2023-11-13T23:34:49.962Z,"12 km S of Furnace Creek, California",earthquake,,8.2,0.15,14,automatic,nn,nn
 2023-11-13T22:55:16.000Z,38.8375015,-122.8081665,2.11,0.64,md,12,75,0.01395,0.02,nc,nc73962601,2023-11-13T23:13:10.124Z,"8 km WNW of Cobb, CA",earthquake,0.39,0.82,0.19,11,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T22:02:29.032Z,31.64,-103.997,7.0094,1.5,ml(texnet),15,64,0,0.6,tx,tx2023whap,2023-11-13T22:31:37.560Z,"western Texas",earthquake,0,2.123101901,0.2,13,automatic,tx,tx
 2023-11-13T21:49:12.337Z,52.6475,159.1689,60.61,4.6,mb,45,147,0.491,0.79,us,us7000lat0,2023-11-13T22:18:08.040Z,"58 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.9,7.016,0.073,56,reviewed,us,us
 2023-11-13T21:30:06.540Z,45.0745,-111.754,-2,1.17,ml,9,124,0.2575,0.13,mb,mb90032758,2023-11-13T23:01:10.630Z,"28 km SSE of Virginia City, Montana",quarry blast,0.62,31.61,0.26913493747354,7,reviewed,mb,mb
-2023-11-13T21:28:06.400Z,36.6218338,-121.215332,7.74,1.31,md,6,204,0.05553,0.03,nc,nc73962581,2023-11-13T21:39:11.606Z,"12 km NNW of Pinnacles, CA",earthquake,0.96,1.19,0.21,6,automatic,nc,nc
+2023-11-13T21:28:06.400Z,36.6218338,-121.215332,7.74,1.31,md,6,204,0.05553,0.03,nc,nc73962581,2023-11-14T00:01:10.369Z,"12 km NNW of Pinnacles, CA",earthquake,0.96,1.19,0.21,6,automatic,nc,nc
 2023-11-13T21:19:43.840Z,38.4803333,-112.8458333,2.61,0.38,md,11,108,0.02541,0.06,uu,uu60554157,2023-11-13T22:59:41.920Z,"Utah",earthquake,0.27,0.78,0.505,3,reviewed,uu,uu
 2023-11-13T21:09:38.400Z,47.4938333333333,-113.7595,14.56,1.18,ml,16,93,0.163,0.12,mb,mb90032723,2023-11-13T23:07:44.350Z,"western Montana",earthquake,0.45,0.64,0.192039166694473,5,reviewed,mb,mb
 2023-11-13T20:59:59.852Z,56.3443,-156.5204,35,3.1,ml,34,193,1.125,0.48,us,us7000lash,2023-11-13T22:02:47.040Z,"116 km E of Chignik, Alaska",earthquake,3.95,2.009,0.066,30,reviewed,us,us
@@ -212,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T00:22:00.390Z,59.365,-153.4135,3.96,-0.72,ml,9,105,,0.17,av,av92116921,2023-11-13T21:19:43.570Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.62,0.82,0.123668815675963,8,reviewed,av,av
 2023-11-13T00:13:23.917Z,41.87,-126.0856,10,3.9,mb,50,233,1.651,0.79,us,us7000lajy,2023-11-13T23:36:11.372Z,"off the coast of Northern California",earthquake,6.71,1.994,0.21,6,reviewed,us,us
 2023-11-13T00:13:01.590Z,35.6693333,-117.5281667,4.88,0.53,ml,19,104,0.08516,0.11,ci,ci39712298,2023-11-13T18:04:07.339Z,"14 km ENE of Ridgecrest, CA",earthquake,0.23,0.43,0.137,8,reviewed,ci,ci
-2023-11-13T00:02:17.450Z,19.3818333333333,-155.2805,1.1,1.31,ml,16,162,,0.07,hv,hv73645782,2023-11-13T00:31:34.020Z,"Hawaii region, Hawaii",earthquake,0.23,0.16,0.208694519154793,3,reviewed,hv,hv
-2023-11-13T00:01:16.880Z,52.3228333333333,-174.159833333333,5.68,0.84,ml,6,198,,0.24,av,av92116906,2023-11-13T23:46:59.150Z,"14 km N of Atka, Alaska",earthquake,0.88,1.22,0.295821090929107,6,reviewed,av,av
