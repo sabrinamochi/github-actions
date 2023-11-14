@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-14T13:20:58.200Z,35.5123329,-120.8181686,5.72,1.25,md,10,112,0.0839,0.03,nc,nc73962826,2023-11-14T13:27:10.063Z,"10 km NE of Cayucos, CA",earthquake,0.73,1.56,0.04,6,automatic,nc,nc
+2023-11-14T13:18:41.079Z,31.648,-104.011,4.3758,1.7,ml(texnet),15,44,0,0.2,tx,tx2023wiex,2023-11-14T13:32:23.623Z,"western Texas",earthquake,0,1.235666589,0.2,13,automatic,tx,tx
 2023-11-14T13:06:51.443Z,60.1572,-152.9664,120.2,2.2,ml,,,,0.18,ak,ak023em4oe60,2023-11-14T13:08:25.151Z,"72 km WNW of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-14T13:02:28.280Z,19.1986675262451,-155.494827270508,34.1800003051758,2.85,ml,55,131,,0.129999995,hv,hv73647522,2023-11-14T13:08:45.089Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.42,0.579999983,3.47,32,automatic,hv,hv
 2023-11-14T12:53:12.517Z,31.648,-104.017,4.1425,1.6,ml(texnet),18,46,0,0.2,tx,tx2023wiea,2023-11-14T13:17:44.454Z,"40 km W of Mentone, Texas",earthquake,0,1.31817594,0.2,10,automatic,tx,tx
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T13:50:11.830Z,44.256,-115.145333333333,2.1,1.63,ml,10,73,0.2619,0.11,mb,mb90032648,2023-11-13T14:54:16.530Z,"17 km WNW of Stanley, Idaho",earthquake,0.3,1.2,0.251181747257122,14,reviewed,mb,mb
 2023-11-13T13:48:15.430Z,19.3638324737549,-155.291000366211,2.01999998092651,1.70000005,md,15,112,,0.0599999987,hv,hv73646742,2023-11-13T13:51:09.580Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.430000007,0.370000005,11,automatic,hv,hv
 2023-11-13T13:42:22.589Z,59.9838,-139.5509,0,1.8,ml,,,,1.07,ak,ak023ekhcp82,2023-11-13T13:44:24.090Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-13T13:36:07.199Z,31.636,-104.466,5.6456,1.7,ml(texnet),18,110,0,0.3,tx,tx2023wgjx,2023-11-13T14:12:54.727Z,"60 km S of Whites City, New Mexico",earthquake,0,3.356153212,0.1,14,automatic,tx,tx
-2023-11-13T13:34:05.880Z,19.3821659088135,-155.275665283203,0.439999997615814,1.84,ml,16,76,,0.170000002,hv,hv73646727,2023-11-13T13:39:36.010Z,"8 km SSW of Volcano, Hawaii",earthquake,0.26,0.219999999,0.16,5,automatic,hv,hv
