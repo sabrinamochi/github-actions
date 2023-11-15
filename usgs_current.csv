@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-15T16:47:37.730Z,38.8530006,-122.802002,0.9,0.77,md,12,81,0.004224,0.02,nc,nc73963216,2023-11-15T16:49:11.441Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.56,0.14,11,automatic,nc,nc
+2023-11-15T16:47:37.730Z,38.8530006,-122.802002,0.9,0.77,md,12,81,0.004224,0.02,nc,nc73963216,2023-11-15T17:00:10.162Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.56,0.14,11,automatic,nc,nc
 2023-11-15T16:46:46.200Z,38.7639999,-122.8655014,2.98,1.11,md,10,201,0.0156,0.03,nc,nc73963211,2023-11-15T16:56:11.140Z,"10 km W of The Geysers, CA",earthquake,0.49,0.48,0.13,10,automatic,nc,nc
 2023-11-15T16:23:41.720Z,36.0438333,-117.3961667,-1.15,1.48,ml,20,110,0.2771,0.16,ci,ci39713434,2023-11-15T16:30:12.975Z,"31 km N of Searles Valley, CA",earthquake,0.24,1.33,0.117,11,automatic,ci,ci
 2023-11-15T16:18:51.180Z,38.840168,-122.8381653,0.52,0.72,md,16,114,0.002619,0.06,nc,nc73963201,2023-11-15T16:32:10.995Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.47,0.07,16,automatic,nc,nc
@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T22:00:17.990Z,38.8180008,-122.8225021,2.34,1.08,md,16,69,0.01051,0.02,nc,nc73962951,2023-11-14T22:27:11.634Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.57,0.25,17,automatic,nc,nc
 2023-11-14T21:59:16.120Z,38.8175011,-122.82267,2.41,1.46,md,29,50,0.01001,0.03,nc,nc73962946,2023-11-14T22:23:10.611Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,27,automatic,nc,nc
 2023-11-14T21:52:54.337Z,36.7092,-116.076,2,0,ml,11,115.97,0.023,0.1011,nn,nn00868901,2023-11-15T02:57:14.192Z,"California-Nevada border region",earthquake,,1.5,0.1,4,reviewed,nn,nn
-2023-11-14T21:50:50.041Z,31.104,-103.76,4.5634,1.7,ml(texnet),10,82,0.2,0.2,tx,tx2023wivt,2023-11-15T16:07:25.666Z,"13 km N of Balmorhea, Texas",earthquake,1.171470812,2.5409309,0.2,9,reviewed,tx,tx
+2023-11-14T21:50:50.041Z,31.104,-103.76,4.5634,1.7,ml(texnet),10,82,0.2,0.2,tx,tx2023wivt,2023-11-15T16:07:25.666Z,"western Texas",earthquake,1.171470812,2.5409309,0.2,9,reviewed,tx,tx
 2023-11-14T21:42:29.926Z,37.4891,72.2005,189.505,4.2,mb,31,85,2.01,0.59,us,us6000lnfp,2023-11-14T23:11:56.040Z,"57 km E of Khorugh, Tajikistan",earthquake,8.48,9.142,0.167,10,reviewed,us,us
 2023-11-14T21:40:37.800Z,19.3628330230713,-155.308502197266,1.10000002384186,1.71000004,md,9,121,,0.100000001,hv,hv73648082,2023-11-14T21:43:38.110Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.460000008,0.810000002,9,automatic,hv,hv
 2023-11-14T21:40:16.750Z,58.1851666666667,-155.322833333333,0.55,0.29,ml,10,105,,0.07,av,av92118866,2023-11-14T22:59:43.620Z,"85 km NW of Karluk, Alaska",earthquake,0.16,0.78,0.245596954873216,10,reviewed,av,av
@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T19:09:21.404Z,31.717,-104.329,8.2396,1.6,ml(texnet),18,88,0.1,0.3,tx,tx2023wiqk,2023-11-15T14:17:15.753Z,"51 km S of Whites City, New Mexico",earthquake,1.096838481,0.8996799699,0.2,14,reviewed,tx,tx
 2023-11-14T19:08:11.780Z,31.64,-104.193,4.8976,1.5,ml(texnet),16,120,0.1,0.6,tx,tx2023wiqj,2023-11-15T14:33:29.749Z,"52 km NW of Toyah, Texas",earthquake,1.440946878,2.671296148,0.2,12,reviewed,tx,tx
 2023-11-14T19:08:10.910Z,36.8889999,-121.61483,0.61,2.22,md,11,67,0.01888,0.06,nc,nc73962891,2023-11-14T23:43:10.383Z,"2 km E of Aromas, CA",earthquake,0.25,0.58,0.16,8,automatic,nc,nc
-2023-11-14T18:56:32.575Z,31.01,-103.415,-0.861,1.8,ml(texnet),15,61,0.1,0.3,tx,tx2023wipz,2023-11-15T16:18:36.195Z,"31 km E of Balmorhea, Texas",earthquake,1.274247494,0.6270312668,0.2,14,reviewed,tx,tx
+2023-11-14T18:56:32.575Z,31.01,-103.415,-0.861,1.8,ml(texnet),15,61,0.1,0.3,tx,tx2023wipz,2023-11-15T16:18:36.195Z,"western Texas",earthquake,1.274247494,0.6270312668,0.2,14,reviewed,tx,tx
 2023-11-14T18:55:26.360Z,19.367,-155.291833333333,1.54,0.72,md,17,76,,0.08,hv,hv73647797,2023-11-14T19:10:56.710Z,"10 km SW of Volcano, Hawaii",earthquake,0.24,0.3,0.0406869022429305,3,reviewed,hv,hv
 2023-11-14T18:52:28.160Z,19.3738333333333,-155.28,1.54,2.06,ml,29,52,,0.11,hv,hv73647792,2023-11-14T22:59:18.600Z,"9 km SSW of Volcano, Hawaii",earthquake,0.15,0.17,0.167134806157272,13,reviewed,hv,hv
 2023-11-14T18:48:33.790Z,19.3645,-155.298333333333,1.85,0.64,md,12,106,,0.09,hv,hv73647782,2023-11-14T19:03:22.100Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.58,0.208921010654459,3,reviewed,hv,hv
