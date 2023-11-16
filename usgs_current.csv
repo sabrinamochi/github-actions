@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-16T02:27:32.120Z,19.4823341369629,-155.79899597168,8.98999977111816,1.86000001,md,20,180,,0.219999999,hv,hv73649427,2023-11-16T02:30:45.240Z,"7 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.699999988,1.71000004,6,automatic,hv,hv
 2023-11-16T02:22:59.159Z,59.6595,-136.1286,2.7,2.8,ml,,,,0.77,ak,ak023ep9arjv,2023-11-16T02:26:06.050Z,"14 km N of Mosquito Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-16T02:21:47.223Z,-3.7797,138.7128,89.369,5,mb,39,94,2.351,0.58,us,us6000lnr4,2023-11-16T02:40:07.040Z,"205 km NNE of Agats, Indonesia",earthquake,8.81,5.682,0.074,59,reviewed,us,us
 2023-11-16T02:02:28.577Z,61.4742,-150.046,31.9,2.8,ml,,,,0.81,ak,ak023ep96eu5,2023-11-16T02:21:41.877Z,"7 km SW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-16T01:58:46.820Z,38.0485001,-118.7639999,2.48,1.79,md,9,191,0.2861,0.05,nc,nc73963376,2023-11-16T02:07:11.289Z,"28 km SE of Bodie, CA",earthquake,1.88,8.62,0.1,4,automatic,nc,nc
 2023-11-16T01:55:57.120Z,32.9261667,-116.248,11.03,1.79,ml,72,44,0.1441,0.18,ci,ci39713610,2023-11-16T02:06:33.940Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.13,0.4,0.14,26,automatic,ci,ci
@@ -129,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T11:16:30.896Z,37.012,-97.8428,5,2.7,ml,36,69,0.156,0.32,us,us6000lni4,2023-11-16T01:51:35.090Z,"7 km SSE of Bluff City, Kansas",earthquake,1.66,1.928,0.063,33,reviewed,us,us
 2023-11-15T11:12:57.600Z,46.11516666666667,-122.68466666666667,12.64,1.08,ml,22,55,0.05441,0.15,uw,uw61972276,2023-11-15T19:49:01.060Z,"17 km NE of Kalama, Washington",earthquake,0.34,0.73,0.06329830142859305,13,reviewed,uw,uw
 2023-11-15T10:58:32.905Z,31.1,-103.265,0.0902,3.5,ml(texnet),18,70,0,0.2,tx,tx2023wjvs,2023-11-15T18:45:05.190Z,"24 km SW of Coyanosa, Texas",earthquake,0.8790168247,0.9820288713,0.4,13,reviewed,tx,tx
-2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-16T02:27:17.934Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
+2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-16T02:41:14.404Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
 2023-11-15T10:39:31.180Z,33.014,-116.4295,6.27,1.04,ml,54,52,0.04496,0.19,ci,ci39713386,2023-11-15T16:36:01.937Z,"18 km ESE of Julian, CA",earthquake,0.19,0.41,0.139,17,reviewed,ci,ci
 2023-11-15T10:35:34.980Z,38.8256683,-122.8058319,1.32,0.28,md,11,73,0.004017,0.02,nc,nc73963121,2023-11-15T10:45:11.069Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.8,0.11,11,automatic,nc,nc
 2023-11-15T10:25:34.520Z,19.4009990692139,-155.276840209961,1.22000002861023,1.71000004,md,8,89,,0.100000001,hv,hv73648687,2023-11-15T10:28:38.080Z,"6 km SW of Volcano, Hawaii",earthquake,0.3,0.310000002,0.850000024,3,automatic,hv,hv
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T02:51:39.860Z,44.2828333333333,-115.187666666667,7.85,1.88,ml,10,68,0.3023,0.2,mb,mb90032878,2023-11-15T14:49:53.440Z,"21 km WNW of Stanley, Idaho",earthquake,0.49,1.79,0.320854585126609,11,reviewed,mb,mb
 2023-11-15T02:49:35.330Z,32.9168333,-116.235,11.54,0.95,ml,43,45,0.06874,0.18,ci,ci39713330,2023-11-15T15:40:20.727Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.45,0.201,14,reviewed,ci,ci
 2023-11-15T02:42:00.480Z,35.9245,-97.32966667,7.44,2.56,ml,86,32,0,0.21,ok,ok2023wjfi,2023-11-15T21:54:17.785Z,"7 km WSW of Langston, Oklahoma",earthquake,,0.5,0.24,40,reviewed,ok,ok
-2023-11-15T02:41:49.134Z,-5.9971,129.981,10,5,mb,35,81,3.803,0.82,us,us6000lngz,2023-11-15T03:01:51.040Z,"Banda Sea",earthquake,5.28,1.802,0.095,35,reviewed,us,us
