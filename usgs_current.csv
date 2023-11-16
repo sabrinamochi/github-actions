@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-16T20:53:32.590Z,37.7833328,-122.1780014,6.37,1.46,md,16,61,0.002422,0.07,nc,nc73963551,2023-11-16T20:55:07.909Z,"5 km ESE of Oakland, CA",earthquake,0.28,0.5,0.27,11,automatic,nc,nc
 2023-11-16T20:34:01.471Z,65.2466,-148.9081,0,1.1,ml,,,,0.52,ak,ak023epk30lk,2023-11-16T20:36:17.723Z,"23 km ENE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-16T20:33:10.760Z,35.647,-117.5423333,4.87,1.4,ml,29,55,0.08892,0.11,ci,ci39713898,2023-11-16T20:43:57.380Z,"12 km ENE of Ridgecrest, CA",earthquake,0.14,0.35,0.201,15,automatic,ci,ci
 2023-11-16T20:10:03.770Z,34.2453333,-116.434,7.71,1.35,ml,40,46,0.05382,0.14,ci,ci39713882,2023-11-16T20:40:41.763Z,"15 km N of Yucca Valley, CA",earthquake,0.14,0.3,0.179,28,automatic,ci,ci
@@ -47,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T14:34:28.355Z,63.1908,-151.3299,0,2,ml,,,,0.85,ak,ak023epgih0z,2023-11-16T14:36:31.218Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-16T14:11:17.330Z,38.8359985,-122.8069992,2.21,0.72,md,9,61,0.01281,0.01,nc,nc73963466,2023-11-16T14:56:10.643Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.57,0.35,10,automatic,nc,nc
 2023-11-16T13:52:06.175Z,61.4263,-146.252,29.6,1.8,ml,,,,1.31,ak,ak023epg0ull,2023-11-16T13:54:46.920Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-16T13:27:02.970Z,58.2245,-155.192833333333,4.38,0.56,ml,10,89,,0.09,av,av92120561,2023-11-16T20:53:09.490Z,"Alaska Peninsula",earthquake,0.24,0.56,0.249317952950017,10,reviewed,av,av
 2023-11-16T13:22:23.460Z,51.8896666666667,-177.284,10.86,0.25,ml,4,278,,0.09,av,av91121783,2023-11-16T20:50:03.200Z,"44 km W of Adak, Alaska",earthquake,2.04,2.06,0.198313673304329,4,reviewed,av,av
 2023-11-16T13:12:27.820Z,46.20133333333333,-122.21166666666667,7.75,0.1,ml,11,77,0.01454,0.15,uw,uw61972471,2023-11-16T18:58:20.080Z,"37 km NNE of Amboy, Washington",earthquake,1.25,0.67,0.11102389533001455,4,reviewed,uw,uw
 2023-11-16T13:08:14.996Z,60.8151,-150.7377,31.5,1.8,ml,,,,0.62,ak,ak023epfrfrv,2023-11-16T13:11:09.074Z,"12 km SSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -147,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T01:25:02.510Z,38.8079987,-122.7836685,2.07,0.78,md,15,86,0.005747,0.02,nc,nc73963366,2023-11-16T01:33:12.076Z,"4 km NW of The Geysers, CA",earthquake,0.26,0.69,0.26,15,automatic,nc,nc
 2023-11-16T01:24:54.867Z,13.1488,-89.2549,56.31,4.3,mb,44,194,0.537,0.77,us,us6000lnqw,2023-11-16T04:09:19.481Z,"El Salvador",earthquake,6.42,10.872,0.1,28,reviewed,us,us
 2023-11-16T01:18:55.280Z,51.951,-177.192333333333,6.65,1.02,ml,4,303,,0.08,av,av92120241,2023-11-16T18:56:22.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.66,0.94,0.302292393212141,4,reviewed,av,av
+2023-11-16T01:03:06.770Z,46.8475,-121.99816666666666,8.16,1.33,ml,24,96,0.03433,0.11,uw,uw61972416,2023-11-16T20:52:25.400Z,"Washington",earthquake,0.32,0.42,0.16450336139190314,15,reviewed,uw,uw
 2023-11-16T00:42:52.180Z,38.2356682,-122.9688339,10.79,2.17,md,30,149,0.04958,0.09,nc,nc73963361,2023-11-16T02:58:10.640Z,"1 km WSW of Dillon Beach, CA",earthquake,0.3,0.47,0.18,23,automatic,nc,nc
 2023-11-16T00:42:39.575Z,62.0661,-145.1506,20,1.9,ml,,,,0.4,ak,ak023ep8855h,2023-11-16T00:44:37.925Z,"11 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-16T00:39:22.919Z,31.677,-104.39,6.6457,1.6,ml(texnet),21,68,0,0.2,tx,tx2023wkwu,2023-11-16T15:30:59.990Z,"55 km S of Whites City, New Mexico",earthquake,0.8544757171,0.9618420646,0,6,reviewed,tx,tx
