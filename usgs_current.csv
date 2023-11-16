@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-15T23:50:30.518Z,-21.7644,-68.5073,126.079,5,mb,53,63,0.684,1.36,us,us6000lnqg,2023-11-16T00:04:02.040Z,"65 km SSW of Ollagüe, Chile",earthquake,6.02,4.752,0.054,112,reviewed,us,us
 2023-11-15T23:49:54.310Z,35.662,-117.4856667,5.94,0.99,ml,20,84,0.05055,0.14,ci,ci39713602,2023-11-15T23:55:48.873Z,"14 km SSW of Searles Valley, CA",earthquake,0.23,0.45,0.088,6,automatic,ci,ci
 2023-11-15T23:31:44.530Z,38.7718315,-122.7231674,0.98,0.9,md,8,88,0.01031,0.02,nc,nc73963341,2023-11-15T23:41:11.533Z,"3 km W of Anderson Springs, CA",earthquake,0.37,0.76,0.21,9,automatic,nc,nc
 2023-11-15T23:28:18.670Z,38.4713333,-112.8426667,1.08,0.1,md,10,123,0.03316,0.05,uu,uu60554277,2023-11-15T23:38:06.200Z,"16 km ENE of Milford, Utah",earthquake,0.24,1.35,0.469,3,reviewed,uu,uu
@@ -32,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T19:20:45.540Z,36.4620018,-121.0373306,8.01,2.78,md,42,116,0.01794,0.11,nc,nc73963286,2023-11-15T21:48:10.732Z,"12 km SE of Pinnacles, CA",earthquake,0.27,0.53,0.13,58,automatic,nc,nc
 2023-11-15T19:18:48.939Z,31.61,-104.119,4.6491,1.7,ml(texnet),19,57,0,0.4,tx,tx2023wkmh,2023-11-15T20:06:44.833Z,"western Texas",earthquake,0,1.358225413,0.3,15,automatic,tx,tx
 2023-11-15T19:18:24.614Z,31.666,-103.95,3.6664,2,ml(texnet),7,233,0,0.4,tx,tx2023wkna,2023-11-15T19:49:40.641Z,"33 km W of Mentone, Texas",earthquake,0,3.553601579,0.6,5,automatic,tx,tx
+2023-11-15T19:13:20.449Z,39.6113,-119.976,8.1,1,ml,7,76.41,0.012,0.1256,nn,nn00868945,2023-11-16T00:04:51.485Z,"7 km S of Cold Springs, Nevada",earthquake,,1.6,0.44,5,reviewed,nn,nn
 2023-11-15T19:09:00.330Z,38.8371658,-122.8018341,1.28,0.79,md,13,63,0.009059,0.03,nc,nc73963276,2023-11-15T19:20:10.936Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.52,0.12,14,automatic,nc,nc
 2023-11-15T19:08:25.073Z,31.65,-104.017,4.6614,1.6,ml(texnet),13,85,0,0.2,tx,tx2023wkly,2023-11-15T19:49:37.670Z,"40 km W of Mentone, Texas",earthquake,0,1.656614443,0.2,9,automatic,tx,tx
 2023-11-15T19:04:41.890Z,36.4583321,-121.0318298,6.93,1.92,md,12,118,0.0213,0.07,nc,nc73963271,2023-11-15T21:33:11.760Z,"13 km SE of Pinnacles, CA",earthquake,0.35,0.68,0.2,11,automatic,nc,nc
@@ -187,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T00:20:28.325Z,31.642,-104.009,5.656,2,ml(texnet),18,55,0,0.1,tx,tx2023wjas,2023-11-15T14:10:26.561Z,"39 km W of Mentone, Texas",earthquake,0.4231610117,0.4681022237,0.1,11,reviewed,tx,tx
 2023-11-15T00:19:00.670Z,19.3636666666667,-155.298833333333,1.59,1.42,md,15,65,,0.11,hv,hv73648267,2023-11-15T18:34:36.900Z,"Hawaii region, Hawaii",earthquake,0.24,0.38,0.120686756057404,5,reviewed,hv,hv
 2023-11-15T00:11:40.210Z,38.8455009,-122.8213348,13.21,0.84,md,7,112,0.00928,0.05,nc,nc73963001,2023-11-15T00:22:10.612Z,"9 km WNW of Cobb, CA",earthquake,2.11,8.87,0.15,6,automatic,nc,nc
-2023-11-15T00:05:02.899Z,36.4452,71.3349,115.47,4.9,mww,96,20,2.666,0.93,us,us6000lngc,2023-11-15T00:21:41.040Z,"31 km SW of Ashkāsham, Afghanistan",earthquake,6.83,6.148,0.089,12,reviewed,us,us
-2023-11-15T00:02:44.390Z,38.8450012,-122.8058319,0.42,1.72,md,30,47,0.01195,0.02,nc,nc73962996,2023-11-15T03:42:10.735Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.3,0.17,28,automatic,nc,nc
