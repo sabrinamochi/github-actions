@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-17T00:39:09.150Z,38.7796669,-122.7576675,1.07,0.74,md,7,125,0.01675,0.01,nc,nc73963621,2023-11-17T00:40:44.641Z,"0 km NNW of The Geysers, CA",earthquake,0.34,0.97,0.06,7,automatic,nc,nc
+2023-11-17T00:39:08.182Z,62.7993,-148.5722,14,1.7,ml,,,,0.65,ak,ak023eqvqs2q,2023-11-17T00:41:07.874Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-11-17T00:36:40.280Z,38.8661652,-122.7890015,1.88,1.53,md,29,106,0.01296,0.04,nc,nc73963616,2023-11-17T00:39:39.272Z,"8 km NW of Cobb, CA",earthquake,0.26,0.36,0.09,30,automatic,nc,nc
+2023-11-17T00:36:37.525Z,60.2565,-141.4129,4.3,2,ml,,,,0.84,ak,ak023eqvq76w,2023-11-17T00:38:33.398Z,"123 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-17T00:25:50.205Z,60.2192,-152.8338,113.3,2.3,ml,,,,0.82,ak,ak023eqvnvac,2023-11-17T00:28:42.432Z,"67 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-17T00:15:22.980Z,32.929,-116.25,10.19,1.31,ml,60,44,0.05164,0.18,ci,ci39714002,2023-11-17T00:21:43.324Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.39,0.163,24,automatic,ci,ci
 2023-11-17T00:05:36.141Z,39.7084,-119.9972,3.9,1.5,ml,9,83.97,0.105,0.1641,nn,nn00868986,2023-11-17T00:07:24.989Z,"3 km NNW of Cold Springs, Nevada",earthquake,,5.8,0.14,5,automatic,nn,nn
+2023-11-17T00:02:20.930Z,58.1893333333333,-155.288166666667,2.16,0.39,ml,9,92,,0.1,av,av92120956,2023-11-17T00:37:46.220Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.58,0.335134500246592,9,reviewed,av,av
 2023-11-16T23:59:10.976Z,60.0221,-145.5104,14.6,2.2,ml,,,,0.74,ak,ak023epm0p15,2023-11-17T00:01:56.004Z,"59 km SSE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-16T23:58:26.936Z,60.0259,-145.5012,14,1.8,ml,,,,0.69,ak,ak023epm0il2,2023-11-17T00:01:09.240Z,"59 km SSE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-16T23:52:35.669Z,62.7946,-151.0455,9.1,1.5,ml,,,,0.65,ak,ak023eplz8xa,2023-11-16T23:55:01.900Z,"36 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T22:40:40.652Z,38.6126,-117.1968,16,1.5,ml,8,205.46,0.67,0.3734,nn,nn00868984,2023-11-16T22:43:27.218Z,"60 km N of Tonopah, Nevada",earthquake,,1.1,0.42,4,automatic,nn,nn
 2023-11-16T22:34:55.225Z,57.9261,-156.0675,120.3,1.7,ml,,,,0.32,ak,ak023epl9zxu,2023-11-16T22:37:02.179Z,"83 km ESE of Egegik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-16T22:29:28.730Z,51.8776666666667,179.574,6.11,0.51,ml,4,274,,0.14,av,av92120886,2023-11-16T22:41:32.180Z,"261 km W of Adak, Alaska",earthquake,1.57,1.09,0.261415659650293,4,reviewed,av,av
-2023-11-16T22:16:07.880Z,38.8213348,-122.7639999,1.91,1.63,md,26,105,0.01023,0.03,nc,nc73963576,2023-11-16T22:25:11.044Z,"4 km W of Cobb, CA",earthquake,0.23,0.35,0.14,29,automatic,nc,nc
+2023-11-16T22:16:07.880Z,38.8213348,-122.7639999,1.91,1.63,md,26,105,0.01023,0.03,nc,nc73963576,2023-11-17T00:37:14.756Z,"4 km W of Cobb, CA",earthquake,0.23,0.35,0.14,29,automatic,nc,nc
 2023-11-16T21:48:07.180Z,38.8344994,-122.7993317,2.24,1.13,md,24,57,0.008032,0.02,nc,nc73963571,2023-11-17T00:07:10.575Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.43,0.17,25,automatic,nc,nc
 2023-11-16T21:39:44.767Z,31.642,-104.023,7.7409,2.1,ml(texnet),21,52,0,0.4,tx,tx2023wmmj,2023-11-16T22:06:17.124Z,"40 km W of Mentone, Texas",earthquake,0,2.084851615,0.3,15,automatic,tx,tx
 2023-11-16T21:34:37.780Z,58.2421666666667,-155.089666666667,3.06,-0.18,ml,7,127,,0.15,av,av91121823,2023-11-16T23:05:55.640Z,"83 km NNW of Karluk, Alaska",earthquake,0.39,1.53,0.250661513746562,7,reviewed,av,av
@@ -181,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T01:24:54.867Z,13.1488,-89.2549,56.31,4.3,mb,44,194,0.537,0.77,us,us6000lnqw,2023-11-16T04:09:19.481Z,"El Salvador",earthquake,6.42,10.872,0.1,28,reviewed,us,us
 2023-11-16T01:18:55.280Z,51.951,-177.192333333333,6.65,1.02,ml,4,303,,0.08,av,av92120241,2023-11-16T18:56:22.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.66,0.94,0.302292393212141,4,reviewed,av,av
 2023-11-16T01:03:06.770Z,46.8475,-121.99816666666666,8.16,1.33,ml,24,96,0.03433,0.11,uw,uw61972416,2023-11-16T20:52:25.400Z,"Washington",earthquake,0.32,0.42,0.16450336139190314,15,reviewed,uw,uw
-2023-11-16T00:42:52.180Z,38.2356682,-122.9688339,10.79,2.17,md,30,149,0.04958,0.09,nc,nc73963361,2023-11-16T02:58:10.640Z,"1 km WSW of Dillon Beach, CA",earthquake,0.3,0.47,0.18,23,automatic,nc,nc
-2023-11-16T00:42:39.575Z,62.0661,-145.1506,20,1.9,ml,,,,0.4,ak,ak023ep8855h,2023-11-16T00:44:37.925Z,"11 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-16T00:39:22.919Z,31.677,-104.39,6.6457,1.6,ml(texnet),21,68,0,0.2,tx,tx2023wkwu,2023-11-16T15:30:59.990Z,"55 km S of Whites City, New Mexico",earthquake,0.8544757171,0.9618420646,0,6,reviewed,tx,tx
