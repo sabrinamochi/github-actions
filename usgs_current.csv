@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T13:50:16.910Z,19.3506660461426,-155.285171508789,2.35999989509583,1.86,ml,22,70,,0.180000007,hv,hv73654052,2023-11-20T13:55:47.740Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.550000012,2.81,5,automatic,hv,hv
 2023-11-20T13:48:42.380Z,19.3715000152588,-155.296829223633,2.14000010490417,1.73,ml,23,58,,0.230000004,hv,hv73654047,2023-11-20T13:54:14.470Z,"10 km SW of Volcano, Hawaii",earthquake,0.37,0.469999999,1.11,3,automatic,hv,hv
 2023-11-20T13:40:57.697Z,59.08,-153.8173,97.8,2.1,ml,,,,0.28,ak,ak023ew23ryh,2023-11-20T13:42:36.085Z,"65 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-20T13:32:30.410Z,19.3556671142578,-155.294006347656,2.3199999332428,1.98000002,md,15,117,,0.109999999,hv,hv73654007,2023-11-20T13:35:29.590Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.519999981,0.639999986,12,automatic,hv,hv
+2023-11-20T13:32:30.410Z,19.361,-155.298166666667,2.24,1.06,md,12,110,,0.08,hv,hv73654007,2023-11-20T14:15:55.610Z,"11 km SW of Volcano, Hawaii",earthquake,0.31,0.5,0.105168112627478,3,reviewed,hv,hv
 2023-11-20T13:30:40.375Z,31.754,-103.84,4.4096,2,mlv,18,94,0,0.6,tx,tx2023wteg,2023-11-20T14:11:48.494Z,"23 km WNW of Mentone, Texas",earthquake,0,1.168878055,0.1,14,automatic,tx,tx
 2023-11-20T13:25:03.375Z,31.633,-104.303,2.6554,1.7,ml(texnet),17,70,0.1,0.6,tx,tx2023wteb,2023-11-20T14:04:25.991Z,"59 km NW of Toyah, Texas",earthquake,0,1.408679517,0.3,13,automatic,tx,tx
 2023-11-20T13:22:14.080Z,33.7103333,-116.8166667,16.86,0.87,ml,37,85,0.08423,0.12,ci,ci39715618,2023-11-20T13:28:43.950Z,"8 km ESE of Valle Vista, CA",earthquake,0.16,0.28,0.151,19,automatic,ci,ci
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T06:56:54.280Z,33.4816667,-116.4468333,12.12,0.51,ml,26,154,0.1033,0.1,ci,ci39715530,2023-11-20T14:13:33.167Z,"22 km ESE of Anza, CA",earthquake,0.2,0.45,0.142,8,reviewed,ci,ci
 2023-11-20T06:56:43.448Z,60.3972,-152.6566,6.9,2.2,ml,,,,0.83,ak,ak023evy152w,2023-11-20T06:59:03.785Z,"67 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-20T06:50:19.380Z,38.8353348,-122.807663,1.85,0.36,md,8,112,0.01207,0.02,nc,nc73964856,2023-11-20T07:41:17.520Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.24,0.26,8,automatic,nc,nc
-2023-11-20T06:46:28.580Z,39.7218,13.7268,410.818,4.8,mb,95,66,1.457,0.67,us,us6000lpk2,2023-11-20T07:00:40.040Z,"101 km SSW of Anacapri, Italy",earthquake,9.81,7.006,0.061,83,reviewed,us,us
+2023-11-20T06:46:28.580Z,39.7218,13.7268,410.818,4.8,mb,95,66,1.457,0.67,us,us6000lpk2,2023-11-20T14:17:50.857Z,"101 km SSW of Anacapri, Italy",earthquake,9.81,7.006,0.061,83,reviewed,us,us
 2023-11-20T06:34:26.069Z,60.9729,-148.4911,0,1.8,ml,,,,1.28,ak,ak023evxwdzj,2023-11-20T06:37:31.899Z,"24 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-20T06:32:19.047Z,31.438,-104.376,3.2464,1.7,ml(texnet),7,116,0.2,0.8,tx,tx2023wsqk,2023-11-20T06:52:58.332Z,"57 km WNW of Toyah, Texas",earthquake,0,2.820520536,0.3,6,automatic,tx,tx
 2023-11-20T06:24:19.862Z,61.6012,-149.8362,42.2,1.7,ml,,,,0.22,ak,ak023evxu8ci,2023-11-20T06:25:49.050Z,"3 km SSW of Houston, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T14:48:11.390Z,32.4913333,-115.2148333,8.98,1.89,ml,27,50,0.1046,0.34,ci,ci39715234,2023-11-19T14:54:33.725Z,"15 km N of Delta, B.C., MX",earthquake,0.41,1.7,0.156,18,automatic,ci,ci
 2023-11-19T14:45:57.820Z,33.2106667,-116.7343333,11.71,0.66,ml,33,43,0.0325,0.17,ci,ci39715226,2023-11-19T16:12:07.206Z,"4 km SE of Lake Henshaw, CA",earthquake,0.17,0.37,0.085,11,reviewed,ci,ci
 2023-11-19T14:35:59.457Z,-21.0593,-68.4514,139.31,4.1,ml,18,94,0.968,0.72,us,us6000lpgd,2023-11-19T17:30:21.040Z,"27 km NW of Ollagüe, Chile",earthquake,5.81,11.046,,,reviewed,us,guc
-2023-11-19T14:18:07.185Z,59.5642,-152.3433,72.7,1.6,ml,,,,0.38,ak,ak023euf11f2,2023-11-19T14:19:42.675Z,"33 km NW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
