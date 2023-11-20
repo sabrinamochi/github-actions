@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T15:32:17.900Z,37.5128333,-118.9178333,6.25,0.42,md,10,280,0.09912,0.03,nc,nc73964966,2023-11-20T19:47:15.816Z,"15 km SSE of Mammoth Lakes, CA",earthquake,2.08,1.68,0.083,10,reviewed,nc,nc
 2023-11-20T15:30:04.004Z,61.4084,-151.5583,85.6,1.9,ml,,,,0.58,ak,ak023ew38dv4,2023-11-20T15:32:12.991Z,"39 km NW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-20T15:29:13.440Z,37.2775,-122.0181667,5.46,1.26,md,25,67,0.02625,0.15,nc,nc73964961,2023-11-20T19:35:13.749Z,"2 km NNE of Saratoga, CA",earthquake,0.26,0.38,0.223,18,reviewed,nc,nc
-2023-11-20T15:28:34.970Z,19.3299999237061,-155.306671142578,2.42000007629395,1.96,ml,31,64,,0.189999998,hv,hv73654217,2023-11-20T15:34:09.170Z,"14 km SSW of Volcano, Hawaii",earthquake,0.32,0.649999976,0.84,5,automatic,hv,hv
+2023-11-20T15:28:35.200Z,19.3343333333333,-155.310166666667,3.79,1.81,ml,38,53,,0.12,hv,hv73654217,2023-11-20T20:18:49.320Z,"14 km SSW of Volcano, Hawaii",earthquake,0.22,0.73,0.297151586750171,13,reviewed,hv,hv
 2023-11-20T15:28:20.017Z,-6.4685,149.8679,21.21,4.5,mb,25,130,3.216,0.76,us,us6000lpm9,2023-11-20T15:55:40.040Z,"45 km SE of Kandrian, Papua New Guinea",earthquake,11.41,4.341,0.118,21,reviewed,us,us
 2023-11-20T15:21:08.530Z,37.2806667,-122.012,5.27,1.13,md,21,66,0.02265,0.11,nc,nc73964956,2023-11-20T19:25:12.689Z,"2 km NNE of Saratoga, CA",earthquake,0.28,0.34,0.178,12,reviewed,nc,nc
 2023-11-20T15:20:51.680Z,38.8050003,-122.7806702,2.89,1.34,md,26,65,0.008247,0.02,nc,nc73964951,2023-11-20T15:55:10.409Z,"4 km NW of The Geysers, CA",earthquake,0.23,0.44,0.25,25,automatic,nc,nc
@@ -205,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T22:51:04.900Z,38.8261681,-122.8536682,2.12,0.34,md,8,103,0.002856,0.01,nc,nc73964726,2023-11-19T23:17:20.458Z,"10 km WNW of The Geysers, CA",earthquake,0.39,1.02,0.12,10,automatic,nc,nc
 2023-11-19T22:45:58.690Z,38.8216667,-122.8088303,2.71,0.65,md,9,92,0.00198,0.01,nc,nc73964721,2023-11-19T23:04:14.399Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.15,0.34,11,automatic,nc,nc
 2023-11-19T22:39:49.430Z,33.3408333,-116.2186667,10.81,1.14,ml,52,28,0.1251,0.2,ci,ci39715410,2023-11-19T22:50:22.920Z,"17 km ENE of Borrego Springs, CA",earthquake,0.19,0.6,0.116,30,automatic,ci,ci
-2023-11-19T22:23:10.390Z,33.2468333,-115.658,2.89,1.19,ml,18,78,0.07013,0.18,ci,ci39715402,2023-11-19T22:29:29.282Z,"13 km W of Niland, CA",earthquake,0.36,0.46,0.169,18,automatic,ci,ci
+2023-11-19T22:23:10.370Z,33.2466667,-115.6578333,4.5,1.18,ml,11,94,0.06992,0.2,ci,ci39715402,2023-11-20T20:17:27.379Z,"13 km W of Niland, CA",earthquake,0.52,1.51,0.124,12,reviewed,ci,ci
 2023-11-19T22:22:48.162Z,36.8434,-115.9625,9.3,0,ml,8,234.8,0.02,0.075,nn,nn00869079,2023-11-20T02:58:32.456Z,"40 km NW of Indian Springs, Nevada",earthquake,,1.8,0.15,3,reviewed,nn,nn
 2023-11-19T22:17:58.190Z,46.9506666666667,-113.032666666667,9.71,1.25,ml,16,134,0.1546,0.1,mb,mb90033593,2023-11-20T17:10:16.130Z,"10 km SE of Ovando, Montana",earthquake,0.47,1.08,0.0947219993875119,7,reviewed,mb,mb
 2023-11-19T22:01:02.140Z,38.8381653,-122.8375015,1.98,0.7,md,16,111,0.001629,0.01,nc,nc73964716,2023-11-19T22:31:14.315Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.48,0.4,17,automatic,nc,nc
@@ -221,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-19T20:27:13.046Z,62.1503,-149.618,34.9,2.9,ml,,,,0.81,ak,ak023euinkwv,2023-11-19T22:56:21.040Z,"12 km E of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-19T20:24:42.928Z,25.8744,128.45,10,5.1,mb,47,81,0.971,1.18,us,us6000lphk,2023-11-19T23:50:47.083Z,"76 km SE of Katsuren-haebaru, Japan",earthquake,6.34,1.876,0.075,58,reviewed,us,us
 2023-11-19T20:24:13.084Z,-8.0604,158.2463,102.869,4.9,mb,55,58,2.169,0.88,us,us6000lphi,2023-11-19T21:38:26.040Z,"148 km W of Buala, Solomon Islands",earthquake,9.63,5.621,0.081,48,reviewed,us,us
-2023-11-19T20:16:49.910Z,58.1735,-155.3295,2.64,0.16,ml,11,59,,0.09,av,av92123501,2023-11-20T17:49:44.440Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.34,0.361598952986554,11,reviewed,av,av
-2023-11-19T20:15:45.682Z,61.13,-148.2423,3.2,1.3,ml,,,,0.7,ak,ak023euil2vc,2023-11-19T20:17:29.554Z,"46 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
