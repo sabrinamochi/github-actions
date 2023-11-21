@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-21T21:07:02.040Z,38.8321648,-122.817337,1.72,0.97,md,11,57,0.01043,0.01,nc,nc73965461,2023-11-21T21:08:38.157Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.95,0.31,10,automatic,nc,nc
+2023-11-21T21:07:02.040Z,38.8321648,-122.817337,1.72,0.97,md,11,57,0.01043,0.01,nc,nc73965461,2023-11-21T21:16:11.227Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.95,0.31,10,automatic,nc,nc
 2023-11-21T20:56:06.515Z,31.677,-104.493,9.144,1.5,ml(texnet),9,105,0,0.3,tx,tx2023wvol,2023-11-21T21:13:58.979Z,"56 km S of Whites City, New Mexico",earthquake,0,2.775838323,0.2,6,automatic,tx,tx
 2023-11-21T20:36:18.460Z,19.3805,-155.24,2.25,0.42,md,16,103,,0.08,hv,hv73656182,2023-11-21T20:45:35.010Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.32,0.0314806944680478,2,reviewed,hv,hv
 2023-11-21T20:26:19.065Z,61.7432,-149.7035,35.1,2,ml,,,,0.54,ak,ak023extq2oi,2023-11-21T20:27:58.083Z,"13 km NNE of Houston, Alaska",earthquake,,6.4,,,automatic,ak,ak
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T20:01:01.070Z,34.98,-118.199,5.2,1.8,mh,4,154,0.1038,0.01,ci,ci39716274,2023-11-21T20:11:35.544Z,"8 km SSW of Mojave, CA",earthquake,0.45,4.22,,0,reviewed,ci,ci
 2023-11-21T19:59:01.640Z,19.3845,-155.279166666667,1.18,0.52,md,14,127,,0.06,hv,hv73656127,2023-11-21T20:09:42.630Z,"8 km SW of Volcano, Hawaii",earthquake,0.33,0.23,0.0745973332007923,3,reviewed,hv,hv
 2023-11-21T19:56:00.990Z,19.3531666666667,-155.307,2.28,0.65,md,14,86,,0.11,hv,hv73656122,2023-11-21T20:09:47.550Z,"12 km SW of Volcano, Hawaii",earthquake,0.29,0.52,0.0404631773061318,5,reviewed,hv,hv
-2023-11-21T19:52:35.600Z,38.8079987,-122.7969971,3.3,1.48,md,32,32,0.001324,0.02,nc,nc73965431,2023-11-21T20:04:09.783Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.41,0.17,31,automatic,nc,nc
+2023-11-21T19:52:35.600Z,38.8079987,-122.7969971,3.3,1.48,md,32,32,0.001324,0.02,nc,nc73965431,2023-11-21T21:17:22.237Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.41,0.17,31,automatic,nc,nc
 2023-11-21T19:51:21.280Z,19.3776666666667,-155.237666666667,2.43,0.44,md,17,86,,0.12,hv,hv73656117,2023-11-21T20:16:30.070Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.21,0.0659635070228393,4,reviewed,hv,hv
 2023-11-21T19:46:06.110Z,19.3678333333333,-155.298833333333,2.59,0.69,md,13,131,,0.09,hv,hv73656107,2023-11-21T19:57:15.380Z,"10 km SW of Volcano, Hawaii",earthquake,0.37,0.55,0.0127061599438658,2,reviewed,hv,hv
 2023-11-21T19:44:16.516Z,-5.5004,145.8776,69.038,4.9,mb,97,35,5.953,0.65,us,us6000lpwb,2023-11-21T20:44:43.839Z,"32 km SSE of Madang, Papua New Guinea",earthquake,9.92,6.989,0.062,86,reviewed,us,us
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T18:17:57.670Z,19.3403333333333,-155.319333333333,2.27,1.48,md,15,99,,0.09,hv,hv73655902,2023-11-21T19:40:25.730Z,"14 km SW of Volcano, Hawaii",earthquake,0.35,0.38,0.0326246844949025,4,reviewed,hv,hv
 2023-11-21T18:16:44.560Z,19.3815,-155.241666666667,1.35,0.45,md,9,86,,0.07,hv,hv73655897,2023-11-21T19:36:16.400Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.23,0.061489179613212,3,reviewed,hv,hv
 2023-11-21T18:15:09.446Z,61.5178,-149.9539,39.4,1.7,ml,,,,0.63,ak,ak023exsgtuo,2023-11-21T18:17:01.467Z,"0 km S of Big Lake, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-11-21T18:13:07.200Z,38.6866684,-122.4970016,6.9,2.24,md,28,67,0.09394,0.09,nc,nc73965371,2023-11-21T18:52:14.500Z,"13 km SE of Middletown, CA",earthquake,0.28,0.89,0.11,30,automatic,nc,nc
+2023-11-21T18:13:07.310Z,38.689,-122.5018333,5.9,2.13,md,81,44,0.06694,0.13,nc,nc73965371,2023-11-21T21:20:18.175Z,"12 km SE of Middletown, CA",earthquake,0.13,0.39,0.167,77,reviewed,nc,nc
 2023-11-21T18:12:37.839Z,63.2449,-151.3489,12.1,1.7,ml,,,,0.74,ak,ak023exsg7o5,2023-11-21T18:18:27.960Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-21T18:10:15.190Z,19.3826666666667,-155.2405,0.58,0.69,md,18,79,,0.16,hv,hv73655872,2023-11-21T19:33:35.170Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.21,0.0574321696028058,4,reviewed,hv,hv
 2023-11-21T18:06:36.400Z,19.3806666666667,-155.242833333333,1.25,2.8,ml,21,78,,0.09,hv,hv73655867,2023-11-21T18:38:57.490Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.15,0.125708881703112,12,reviewed,hv,hv
@@ -207,6 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T23:47:02.088Z,31.683,-104.396,5.4632,1.6,ml(texnet),23,68,0,0.2,tx,tx2023wtyo,2023-11-21T15:55:42.741Z,"54 km S of Whites City, New Mexico",earthquake,0.8508141155,0.8367714064,0,7,reviewed,tx,tx
 2023-11-20T23:15:32.970Z,34.0478333,-117.1923333,7.68,1.35,ml,44,51,0.07652,0.17,ci,ci39715882,2023-11-21T00:01:48.712Z,"1 km SW of Redlands, CA",earthquake,0.17,0.75,0.141,22,reviewed,ci,ci
 2023-11-20T23:15:32.920Z,34.05,-117.1935,9.15,1.39,ml,29,53,0.07418,0.17,ci,ci39715874,2023-11-20T23:41:25.054Z,"1 km WSW of Redlands, CA",earthquake,0.24,0.71,0.118,27,reviewed,ci,ci
+2023-11-20T23:14:25.270Z,60.032,-153.078833333333,-1.43,-0.17,ml,4,162,,0.09,av,av92125376,2023-11-21T21:20:42.000Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.73,8.51,0.0313884904075366,3,reviewed,av,av
 2023-11-20T23:13:52.320Z,19.2921666666667,-155.3815,3.73,2.7,ml,47,102,,0.13,hv,hv73654787,2023-11-21T00:34:41.040Z,"14 km NE of Pāhala, Hawaii",earthquake,0.22,0.94,0.209788021222231,34,reviewed,hv,hv
 2023-11-20T23:12:20.721Z,64.7127,-149.2553,16.4,1.6,ml,,,,0.64,ak,ak023ew7w13s,2023-11-20T23:13:55.727Z,"13 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-20T22:42:40.324Z,59.8125,-152.6704,83.6,1.6,ml,,,,0.18,ak,ak023ew7h2hs,2023-11-20T22:44:04.333Z,"47 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T21:27:37.720Z,37.6428333,-118.8451667,4.9,0.52,md,11,89,0.008836,0.04,nc,nc73965091,2023-11-21T05:32:14.382Z,"12 km E of Mammoth Lakes, CA",earthquake,0.55,0.86,0.119,9,reviewed,nc,nc
 2023-11-20T21:27:04.501Z,59.0118,-137.9112,4.1,3.7,ml,,,,0.64,ak,ak023ew6scda,2023-11-20T23:21:59.040Z,"116 km WSW of Covenant Life, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-11-20T21:26:03.725Z,37.7174,142.1878,50.738,4.4,mb,29,179,3.189,0.57,us,us6000lppk,2023-11-20T22:52:27.040Z,"103 km SE of Onagawa Chō, Japan",earthquake,4.1,9.616,0.138,15,reviewed,us,us
-2023-11-20T21:14:38.075Z,29.4541,61.0552,10,4.6,mb,72,80,6.23,0.51,us,us6000lpp3,2023-11-21T20:38:38.307Z,"19 km ESE of Zahedan, Iran",earthquake,8.28,1.87,0.059,85,reviewed,us,us
