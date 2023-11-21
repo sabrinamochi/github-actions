@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T19:51:21.280Z,19.3776666666667,-155.237666666667,2.43,0.44,md,17,86,,0.12,hv,hv73656117,2023-11-21T20:16:30.070Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.21,0.0659635070228393,4,reviewed,hv,hv
 2023-11-21T19:46:06.110Z,19.3678333333333,-155.298833333333,2.59,0.69,md,13,131,,0.09,hv,hv73656107,2023-11-21T19:57:15.380Z,"10 km SW of Volcano, Hawaii",earthquake,0.37,0.55,0.0127061599438658,2,reviewed,hv,hv
 2023-11-21T19:44:16.516Z,-5.5004,145.8776,69.038,4.9,mb,97,35,5.953,0.65,us,us6000lpwb,2023-11-21T20:44:43.839Z,"32 km SSE of Madang, Papua New Guinea",earthquake,9.92,6.989,0.062,86,reviewed,us,us
-2023-11-21T19:42:29.870Z,37.9860001,-122.453331,1.53,1.76,md,11,110,0.02321,0.06,nc,nc73965426,2023-11-21T19:57:10.738Z,"6 km ESE of Santa Venetia, CA",earthquake,0.5,0.54,0.16,7,automatic,nc,nc
+2023-11-21T19:42:29.870Z,37.9860001,-122.453331,1.53,1.76,md,11,110,0.02321,0.06,nc,nc73965426,2023-11-21T20:52:13.076Z,"6 km ESE of Santa Venetia, CA",earthquake,0.5,0.54,0.16,7,automatic,nc,nc
 2023-11-21T19:41:11.100Z,33.0341667,-115.6106667,8.09,1.44,ml,26,50,0.0245,0.22,ci,ci39716266,2023-11-21T20:09:28.802Z,"1 km ESE of Westmorland, CA",earthquake,0.34,0.77,0.208,13,reviewed,ci,ci
 2023-11-21T19:40:24.910Z,19.3798333333333,-155.241,1.29,0.44,md,20,79,,0.1,hv,hv73656102,2023-11-21T20:03:35.630Z,"7 km S of Volcano, Hawaii",earthquake,0.18,0.13,0.00550070664804897,3,reviewed,hv,hv
 2023-11-21T19:35:58.200Z,38.7926674,-122.7488327,2.25,1.11,md,20,90,0.01164,0.02,nc,nc73965421,2023-11-21T20:40:13.093Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.59,0.14,21,automatic,nc,nc
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T18:10:15.190Z,19.3826666666667,-155.2405,0.58,0.69,md,18,79,,0.16,hv,hv73655872,2023-11-21T19:33:35.170Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.21,0.0574321696028058,4,reviewed,hv,hv
 2023-11-21T18:06:36.400Z,19.3806666666667,-155.242833333333,1.25,2.8,ml,21,78,,0.09,hv,hv73655867,2023-11-21T18:38:57.490Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.15,0.125708881703112,12,reviewed,hv,hv
 2023-11-21T18:05:52.640Z,19.381,-155.244833333333,0.99,1.48,ml,19,78,,0.11,hv,hv73655862,2023-11-21T18:42:45.080Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.13,0.133629586904934,8,reviewed,hv,hv
-2023-11-21T18:01:12.100Z,19.3853333333333,-155.2415,1.88,3.02,ml,26,78,,0.09,hv,hv73655857,2023-11-21T18:47:26.488Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.15,0.128793280228639,30,reviewed,hv,hv
+2023-11-21T18:01:12.100Z,19.3853333333333,-155.2415,1.88,3.02,ml,26,78,,0.09,hv,hv73655857,2023-11-21T20:56:00.770Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.15,0.128793280228639,30,reviewed,hv,hv
 2023-11-21T17:47:04.254Z,63.0485,-150.6526,128.7,2.4,ml,,,,0.46,ak,ak023exs28s3,2023-11-21T17:50:24.621Z,"61 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-21T17:46:03.005Z,31.627,-104.517,6.7743,1.5,ml(texnet),13,78,0,0.2,tx,tx2023wvie,2023-11-21T18:45:41.881Z,"62 km SSW of Whites City, New Mexico",earthquake,1.647508653,1.049704918,0.1,7,reviewed,tx,tx
 2023-11-21T17:43:13.524Z,31.592,-104.549,3.3192,2.7,ml(texnet),9,163,0.1,0.2,tx,tx2023wvic,2023-11-21T18:02:59.040Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.221586858,0.2,7,automatic,tx,tx
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T21:09:12.180Z,33.4005,-116.4336667,11.91,0.87,ml,17,132,0.09226,0.09,ci,ci39715842,2023-11-21T00:09:50.386Z,"17 km NNW of Borrego Springs, CA",earthquake,0.29,0.65,0.095,8,reviewed,ci,ci
 2023-11-20T21:06:30.760Z,19.3343333333333,-155.108166666667,3.62,2.48,ml,51,134,,0.14,hv,hv73654622,2023-11-20T22:16:03.040Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.95,0.171795568213919,36,reviewed,hv,hv
 2023-11-20T21:03:09.339Z,-30.7817,-71.4101,47.804,4.9,mwr,78,100,0.548,1.1,us,us6000lpnu,2023-11-20T22:10:39.040Z,"28 km SW of Ovalle, Chile",earthquake,5.42,4.463,0.039,64,reviewed,us,us
-2023-11-20T20:59:56.470Z,33.7363333,-116.8651667,13.05,1.12,ml,32,61,0.06931,0.15,ci,ci39715818,2023-11-20T22:41:42.898Z,"3 km ESE of Valle Vista, CA",earthquake,0.24,0.46,0.25,15,reviewed,ci,ci
