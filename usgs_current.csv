@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-22T03:45:51.810Z,35.5936661,-117.6041641,2.33,1.11,ml,14,90,0.1159,0.13,ci,ci39716466,2023-11-22T03:47:54.848Z,"7 km ESE of Ridgecrest, CA",earthquake,0.45,0.73,0.244,8,automatic,ci,ci
+2023-11-22T03:48:50.510Z,19.3451671600342,-155.293334960938,0.850000023841858,1.91999996,md,17,66,,0.219999999,hv,hv73656857,2023-11-22T03:51:59.120Z,"Hawaii region, Hawaii",earthquake,0.29,0.349999994,0.589999974,15,automatic,hv,hv
+2023-11-22T03:45:51.890Z,35.593,-117.6053333,5.61,0.99,ml,21,87,0.06159,0.15,ci,ci39716466,2023-11-22T03:51:53.334Z,"7 km ESE of Ridgecrest, CA",earthquake,0.2,0.78,0.118,8,automatic,ci,ci
 2023-11-22T03:40:34.678Z,61.3133,-151.4564,71.8,1.8,ml,,,,0.46,ak,ak023ez7834b,2023-11-22T03:42:56.701Z,"27 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-22T03:37:26.030Z,37.6339989,-118.8916702,5.95,0.93,md,8,98,0.01116,0.03,nc,nc73965751,2023-11-22T03:43:10.558Z,"8 km E of Mammoth Lakes, CA",earthquake,0.7,1.26,0.12,8,automatic,nc,nc
 2023-11-22T03:34:16.440Z,37.6274986,-118.8883362,6.23,1.18,md,16,107,0.01817,0.02,nc,nc73965741,2023-11-22T03:43:10.436Z,"8 km E of Mammoth Lakes, CA",earthquake,0.47,0.67,0.16,16,automatic,nc,nc
@@ -9,10 +10,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T03:19:51.919Z,62.8165,-149.7756,0,2,ml,,,,0.43,ak,ak023ez73mel,2023-11-22T03:23:12.219Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-22T03:13:21.930Z,19.385,-155.279166666667,1.24,0.58,md,23,44,,0.09,hv,hv73656772,2023-11-22T03:28:52.350Z,"Hawaii region, Hawaii",earthquake,0.17,0.16,0.0220379518105272,4,reviewed,hv,hv
 2023-11-22T03:11:37.796Z,58.0319,-154.9645,75.9,3.1,ml,,,,0.19,ak,ak023ez71vlf,2023-11-22T03:12:50.325Z,"59 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-11-22T03:11:26.080Z,38.7991676,-122.7304993,1.09,0.76,md,7,111,0.01663,0.02,nc,nc73965726,2023-11-22T03:21:10.299Z,"3 km SSW of Cobb, CA",earthquake,0.31,1,0.3,8,automatic,nc,nc
+2023-11-22T03:11:26.080Z,38.7991676,-122.7304993,1.09,0.76,md,7,111,0.01663,0.02,nc,nc73965726,2023-11-22T03:58:11.513Z,"3 km SSW of Cobb, CA",earthquake,0.31,1,0.3,8,automatic,nc,nc
 2023-11-22T03:10:47.950Z,19.3871666666667,-155.245833333333,1.91,0.52,md,17,73,,0.09,hv,hv73656767,2023-11-22T03:22:45.310Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.24,0.138504229060606,3,reviewed,hv,hv
 2023-11-22T02:59:30.720Z,37.632,-118.8905029,5.93,0.85,md,9,105,0.01335,0.03,nc,nc73965716,2023-11-22T03:47:14.449Z,"8 km E of Mammoth Lakes, CA",earthquake,1,1,0.16,9,automatic,nc,nc
-2023-11-22T02:48:53.279Z,1.7271,127.1623,116.001,6,mww,131,17,0.971,0.65,us,us6000lpyx,2023-11-22T03:48:42.089Z,"94 km W of Tobelo, Indonesia",earthquake,3.65,3.465,0.046,46,reviewed,us,us
+2023-11-22T02:48:53.527Z,1.7308,127.1685,119.172,6,mww,125,23,0.973,0.58,us,us6000lpyx,2023-11-22T03:56:34.710Z,"Halmahera, Indonesia",earthquake,3.32,3.374,0.046,46,reviewed,us,us
 2023-11-22T02:42:11.790Z,38.8320007,-122.8018341,1.74,0.69,md,10,60,0.01074,0.01,nc,nc73965696,2023-11-22T02:51:10.127Z,"7 km W of Cobb, CA",earthquake,0.35,1.19,0.07,10,automatic,nc,nc
 2023-11-22T02:36:34.678Z,60.321,-152.4391,99,1.8,ml,,,,0.66,ak,ak023ez6lsnf,2023-11-22T02:38:40.254Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-22T02:35:21.380Z,19.3431666666667,-155.306,3.31,2.48,md,40,50,,0.1,hv,hv73656732,2023-11-22T03:16:33.700Z,"13 km SW of Volcano, Hawaii",earthquake,0.25,0.64,0.106514938527491,13,reviewed,hv,hv
@@ -286,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T04:08:47.100Z,19.1848335266113,-155.490173339844,34.6500015258789,1.96000004,md,38,151,,0.129999995,hv,hv73655042,2023-11-21T04:12:04.680Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.55999994,10,automatic,hv,hv
 2023-11-21T04:07:21.940Z,40.5225,-124.3891667,17.49,2,md,31,221,0.06125,0.12,nc,nc73965186,2023-11-21T23:04:09.851Z,"12 km WSW of Ferndale, CA",earthquake,0.4,0.25,0.267,36,reviewed,nc,nc
 2023-11-21T04:04:38.750Z,38.8185,-122.7611667,1.88,0.51,md,11,150,0.01377,0.02,nc,nc73965181,2023-11-21T20:14:10.853Z,"3 km W of Cobb, CA",earthquake,0.5,0.63,0.139,9,reviewed,nc,nc
-2023-11-21T03:57:22.710Z,37.4643333,-118.8465,6.13,1.29,md,23,238,0.1262,0.04,nc,nc73965176,2023-11-21T22:12:16.551Z,"18 km SW of Toms Place, CA",earthquake,0.49,1.22,0.143,19,reviewed,nc,nc
