@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T15:28:04.900Z,19.367166519165,-155.283493041992,2.28999996185303,2.3499999,md,20,62,,0.100000001,hv,hv73662297,2023-11-25T15:31:09.640Z,"9 km SSW of Volcano, Hawaii",earthquake,0.26,0.360000014,0.479999989,13,automatic,hv,hv
 2023-11-25T15:10:53.692Z,20.1099,145.5797,10,5.5,mww,58,105,4.847,1.12,us,us6000lqpw,2023-11-25T15:28:15.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,10.61,1.888,0.086,13,reviewed,us,us
 2023-11-25T15:10:13.520Z,33.2635,-116.4368333,3.36,1.06,ml,55,42,0.01714,0.22,ci,ci39717818,2023-11-25T15:16:24.058Z,"6 km W of Borrego Springs, CA",earthquake,0.18,0.28,0.17,26,automatic,ci,ci
+2023-11-25T14:57:41.471Z,36.7552,-116.2822,10.7,0,ml,10,140.38,0.018,0.0365,nn,nn00869295,2023-11-25T15:31:37.550Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,0.4,5,reviewed,nn,nn
 2023-11-25T14:53:19.720Z,34.2483333,-117.1031667,5.46,1.14,ml,51,74,0.05493,0.14,ci,ci39717802,2023-11-25T14:59:50.281Z,"4 km N of Running Springs, CA",earthquake,0.15,0.32,0.135,20,automatic,ci,ci
 2023-11-25T14:40:41.420Z,35.1325,-97.56,5.09,1.87,ml,87,41,0.0674867568,0.31,ok,ok2023xckb,2023-11-25T15:19:33.390Z,"3 km NNE of Cole, Oklahoma",earthquake,,0.5,0.23,41,reviewed,ok,ok
 2023-11-25T14:34:50.790Z,17.93,-66.9311666666667,16.79,1.98,md,6,222,0.0667,0.06,pr,pr71432158,2023-11-25T15:17:27.400Z,"5 km SSW of Guánica, Puerto Rico",earthquake,0.8,0.51,0.218809098185512,6,reviewed,pr,pr
@@ -157,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T00:15:50.050Z,33.5101667,-116.7526667,3.9,0.59,ml,32,68,0.0399,0.16,ci,ci39717634,2023-11-25T00:22:06.300Z,"9 km SW of Anza, CA",earthquake,0.19,0.33,0.177,15,automatic,ci,ci
 2023-11-25T00:14:14.170Z,17.9538333333333,-66.9365,16.38,2.27,md,6,205,0.05843,0.05,pr,pr71432068,2023-11-25T00:32:35.040Z,"Puerto Rico",earthquake,0.53,0.6,0.0777791010285263,4,reviewed,pr,pr
 2023-11-25T00:12:16.816Z,-22.7248,-66.1849,258.952,4.3,mb,54,43,1.853,0.5,us,us6000lqle,2023-11-25T00:58:06.040Z,"Jujuy, Argentina",earthquake,7.39,10.034,0.138,15,reviewed,us,us
-2023-11-25T00:11:02.191Z,64.9987,-147.486,0,1.4,ml,,,,0.82,ak,ak023f43vjij,2023-11-25T00:13:35.174Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-25T00:11:02.191Z,64.9987,-147.486,0,1.4,ml,,,,0.82,ak,ak023f43vjij,2023-11-25T00:13:35.174Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-24T23:57:01.850Z,38.7859993,-122.7365036,1.72,1.04,md,14,84,0.002764,0.02,nc,nc73967011,2023-11-25T00:19:11.905Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.52,0.19,15,automatic,nc,nc
 2023-11-24T23:56:13.240Z,19.3658333333333,-155.285333333333,2.1,2.68,ml,34,61,,0.1,hv,hv73660777,2023-11-25T09:35:13.105Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.29,0.15241640756928,26,reviewed,hv,hv
 2023-11-24T23:54:09.200Z,41.8111649,-124.3028336,1.72,2.54,md,6,250,0.1861,0.08,nc,nc73967006,2023-11-25T15:25:07.918Z,"10 km NW of Crescent City, CA",earthquake,1.61,9.56,0.11,6,automatic,nc,nc
@@ -250,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T15:52:57.210Z,38.8370018,-122.8111649,1.98,1.05,md,22,56,0.01361,0.01,nc,nc73966831,2023-11-24T16:17:20.706Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.47,0.14,15,automatic,nc,nc
 2023-11-24T15:50:09.147Z,61.9677,-149.5108,46.1,1.6,ml,,,,0.42,ak,ak023f2pi2k2,2023-11-24T15:51:35.776Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-24T15:44:15.500Z,33.3265,-116.3806667,9.13,1.25,ml,65,19,0.01133,0.17,ci,ci39717442,2023-11-24T15:55:19.650Z,"8 km N of Borrego Springs, CA",earthquake,0.15,0.27,0.196,26,automatic,ci,ci
-2023-11-24T15:29:59.973Z,-26.961,-63.3866,564.06,4.4,mb,44,56,5.424,0.75,us,us6000lqi9,2023-11-24T15:44:23.040Z,"17 km WNW of El Hoyo, Argentina",earthquake,13.29,10.595,0.042,161,reviewed,us,us
