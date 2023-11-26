@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T16:59:36.860Z,38.8226662,-122.8525009,2.42,1.05,md,21,63,0.005949,0.03,nc,nc73967766,2023-11-26T17:25:15.058Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.27,20,automatic,nc,nc
 2023-11-26T16:58:36.440Z,38.8303337,-122.8148346,1.73,1.41,md,23,47,0.007863,0.02,nc,nc73967761,2023-11-26T17:15:16.004Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.17,24,automatic,nc,nc
 2023-11-26T16:46:17.850Z,38.7486649,-122.7463303,3.56,0.96,md,7,138,0.004291,0.12,nc,nc73967756,2023-11-26T17:04:15.943Z,"3 km SSE of The Geysers, CA",earthquake,1.01,1.22,0.18,7,automatic,nc,nc
-2023-11-26T16:37:44.420Z,38.8216667,-122.8526688,2.6,0.77,md,16,90,0.01385,0.02,nc,nc73967746,2023-11-26T16:54:13.883Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.54,0.17,15,automatic,nc,nc
+2023-11-26T16:37:44.420Z,38.8216667,-122.8526688,2.6,0.77,md,16,90,0.01385,0.02,nc,nc73967746,2023-11-26T18:25:10.393Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.54,0.17,15,automatic,nc,nc
 2023-11-26T16:15:58.740Z,19.2956657409668,-155.384002685547,3.08999991416931,1.76999998,md,17,163,,0.100000001,hv,hv73663952,2023-11-26T16:18:57.350Z,"14 km NE of Pāhala, Hawaii",earthquake,0.42,0.889999986,0.879999995,3,automatic,hv,hv
 2023-11-26T16:00:30.750Z,38.8436661,-122.8174973,1.73,1.09,md,16,67,0.01189,0.02,nc,nc73967736,2023-11-26T18:08:13.307Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.46,0.27,17,automatic,nc,nc
 2023-11-26T15:56:54.380Z,72.6325,3.1088,10,4.5,mb,37,76,6.481,1.03,us,us6000lqvz,2023-11-26T17:40:21.040Z,"Norwegian Sea",earthquake,7.54,1.906,0.099,30,reviewed,us,us
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T08:15:44.321Z,63.1673,-150.012,85,1.5,ml,,,,0.52,ak,ak023f5w7ayo,2023-11-26T08:17:35.051Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-26T07:56:04.210Z,33.1583333,-116.4638333,7.02,0.99,ml,35,97,0.08363,0.19,ci,ci39718050,2023-11-26T16:17:51.319Z,"14 km SW of Borrego Springs, CA",earthquake,0.22,0.54,0.201,9,reviewed,ci,ci
 2023-11-26T07:44:12.090Z,38.8153343,-122.8205032,2.87,1.01,md,18,51,0.009361,0.02,nc,nc73967556,2023-11-26T10:14:10.545Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.73,0.34,18,automatic,nc,nc
-2023-11-26T07:21:20.100Z,34.3423333333333,-81.3111666666667,4.04,2.17,md,11,68,0.07392,0.36,se,se60501338,2023-11-26T14:10:02.870Z,"South Carolina",earthquake,0.94,2.37,0.0402242314954284,10,reviewed,se,se
+2023-11-26T07:21:20.100Z,34.3423333333333,-81.3111666666667,4.04,2.17,md,11,68,0.07392,0.36,se,se60501338,2023-11-26T18:26:19.521Z,"South Carolina",earthquake,0.94,2.37,0.0402242314954284,10,reviewed,se,se
 2023-11-26T07:17:06.390Z,38.8241653,-122.8518295,2.34,0.43,md,9,112,0.005187,0.01,nc,nc73967541,2023-11-26T09:34:14.341Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.12,0.29,8,automatic,nc,nc
 2023-11-26T07:10:37.690Z,19.7043,-64.5406,39,3.6,md,12,308,1.4144,0.44,pr,pr2023330002,2023-11-26T07:44:01.478Z,"154 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.52,26.71,0.11,4,reviewed,pr,pr
 2023-11-26T07:02:32.659Z,31.593,-103.961,7.2854,1.9,ml(texnet),16,68,0,0.4,tx,tx2023xdql,2023-11-26T07:39:40.911Z,"34 km NNW of Toyah, Texas",earthquake,0,2.431156806,0.2,13,automatic,tx,tx
@@ -209,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T19:11:29.402Z,60.466,-143.6573,18,3.2,ml,,,,0.29,ak,ak023f4f6u3w,2023-11-26T06:20:10.040Z,"114 km SSW of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-11-25T18:53:33.210Z,33.0133333,-117.3531667,12.28,1.32,ml,40,226,0.09903,0.14,ci,ci39717898,2023-11-26T16:21:21.037Z,"6 km WSW of Encinitas, CA",earthquake,0.32,0.44,0.19,18,reviewed,ci,ci
 2023-11-25T18:40:07.140Z,19.3423328399658,-155.3056640625,2.75999999046326,1.76,ml,28,60,,0.159999996,hv,hv73662632,2023-11-25T18:45:38.710Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.699999988,2.25,7,automatic,hv,hv
-2023-11-25T18:27:32.721Z,31.669,-104.399,4.6075,1.6,ml(texnet),16,70,0,0.3,tx,tx2023xcro,2023-11-25T19:09:14.627Z,"western Texas",earthquake,0,1.37049357,0.2,11,automatic,tx,tx
-2023-11-25T18:27:17.791Z,31.668,-104.373,4.4294,1.5,ml(texnet),6,169,0.1,0.1,tx,tx2023xcrn,2023-11-25T19:09:06.621Z,"western Texas",earthquake,0,2.205683744,0.3,6,automatic,tx,tx
-2023-11-25T18:26:32.460Z,38.8125,-122.8193359,2.21,0.75,md,12,72,0.008502,0.03,nc,nc73967306,2023-11-25T19:11:17.050Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.77,0.26,15,automatic,nc,nc
