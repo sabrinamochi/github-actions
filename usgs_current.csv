@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-26T05:10:00.207Z,31.633,-104.514,3.5924,1.6,ml(texnet),8,146,0,0.2,tx,tx2023xdmt,2023-11-26T05:26:31.051Z,"61 km SSW of Whites City, New Mexico",earthquake,0,2.602381397,0.1,6,automatic,tx,tx
-2023-11-26T04:49:39.740Z,38.8400002,-122.8105011,2.02,0.7,md,8,130,0.01582,0.02,nc,nc73967506,2023-11-26T04:58:10.748Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.36,0.25,9,automatic,nc,nc
+2023-11-26T04:59:30.845Z,31.6325,-104.2986,5.489,2.5,ml,27,59,0.176,0.42,us,us6000lqtb,2023-11-26T05:30:10.040Z,"59 km NW of Toyah, Texas",earthquake,3.89,5.748,0.052,48,reviewed,us,us
+2023-11-26T04:49:39.740Z,38.8400002,-122.8105011,2.02,0.7,md,8,130,0.01582,0.02,nc,nc73967506,2023-11-26T05:31:10.929Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.36,0.25,9,automatic,nc,nc
 2023-11-26T04:47:22.960Z,32.6408333,-115.7876667,8.42,1.33,ml,23,59,0.0524,0.22,ci,ci39718026,2023-11-26T04:53:21.416Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.32,0.67,0.27,15,automatic,ci,ci
 2023-11-26T04:43:09.380Z,35.7701667,-117.5793333,2.56,1.07,ml,28,66,0.1383,0.15,ci,ci39718018,2023-11-26T04:49:16.400Z,"16 km W of Searles Valley, CA",earthquake,0.2,0.76,0.203,8,automatic,ci,ci
 2023-11-26T04:31:10.049Z,24.0162,122.4825,22.862,4.9,mww,71,80,0.659,1.05,us,us6000lqt8,2023-11-26T05:26:38.199Z,"Taiwan region",earthquake,4.73,5.06,0.089,12,reviewed,us,us
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T05:53:31.474Z,31.585,-104.538,3.3813,2.1,ml(texnet),17,158,0.1,0.2,tx,tx2023xbss,2023-11-25T06:07:48.544Z,"western Texas",earthquake,0,2.055113774,0.1,12,automatic,tx,tx
 2023-11-25T05:47:34.805Z,31.62,-103.982,5.6787,1.5,ml(texnet),15,79,0,0.3,tx,tx2023xbsm,2023-11-25T06:26:52.944Z,"37 km WSW of Mentone, Texas",earthquake,0,2.124644755,0.2,13,automatic,tx,tx
 2023-11-25T05:31:55.450Z,35.6363333,-117.4601667,6.84,1.63,ml,34,59,0.0413,0.12,ci,ci39717722,2023-11-25T16:38:24.190Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.27,0.141,18,reviewed,ci,ci
-2023-11-25T05:31:07.360Z,33.9886667,-116.71,9.48,0.92,ml,51,48,0.07162,0.15,ci,ci39717714,2023-11-25T16:37:33.386Z,"11 km NE of Cabazon, CA",earthquake,0.16,0.36,0.148,20,reviewed,ci,ci
