@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-27T12:11:29.156Z,31.629,-104.057,11.1562,2.6,ml(texnet),4,105,0.3,0.7,tx,tx2023xfwe,2023-11-27T12:25:43.761Z,"42 km NW of Toyah, Texas",earthquake,0,7.60242836,2.6,3,automatic,tx,tx
 2023-11-27T12:09:47.950Z,35.3968333,-118.746,7.59,1.47,ml,35,68,0.06821,0.16,ci,ci39718338,2023-11-27T12:20:57.840Z,"22 km NE of Lamont, CA",earthquake,0.2,0.64,0.139,19,automatic,ci,ci
-2023-11-27T12:07:45.300Z,37.7976685,-119.4065018,2.35,1.62,md,12,192,0.3021,0.06,nc,nc73968391,2023-11-27T12:17:11.747Z,"16 km ENE of Yosemite Valley, CA",earthquake,1.12,7.39,0.18,8,automatic,nc,nc
+2023-11-27T12:07:45.300Z,37.7976685,-119.4065018,2.35,1.62,md,12,192,0.3021,0.06,nc,nc73968391,2023-11-27T12:30:12.971Z,"16 km ENE of Yosemite Valley, CA",earthquake,1.12,7.39,0.18,8,automatic,nc,nc
 2023-11-27T12:03:11.970Z,41.0960007,-123.2545013,27.3,2.61,md,14,161,0.4228,0.19,nc,nc73968381,2023-11-27T12:10:11.701Z,"36 km ENE of Willow Creek, CA",earthquake,1.37,2.45,0.18,11,automatic,nc,nc
 2023-11-27T11:53:17.648Z,64.8925,-149.2582,16.6,1.5,ml,,,,0.28,ak,ak023f7lr1f8,2023-11-27T11:55:27.486Z,"29 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-27T11:52:53.041Z,31.602,-104.02,4.6677,1.8,ml(texnet),16,60,0,0.5,tx,tx2023xfvn,2023-11-27T12:23:33.441Z,"western Texas",earthquake,0,1.245497414,0.2,13,automatic,tx,tx
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T12:58:22.560Z,17.9085,-66.8663333333333,13.3,2.98,md,26,205,0.06733,0.17,pr,pr71432283,2023-11-26T13:58:34.040Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.31,0.0678816715978074,13,reviewed,pr,pr
 2023-11-26T12:52:21.840Z,38.8376656,-122.8368301,1.54,0.62,md,9,115,0.01997,0.02,nc,nc73967656,2023-11-26T15:34:14.410Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.86,0.16,9,automatic,nc,nc
 2023-11-26T12:31:51.453Z,64.9258,-148.6263,22.2,1.1,ml,,,,0.39,ak,ak023f5yohe1,2023-11-26T12:33:41.651Z,"30 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-26T12:28:33.860Z,34.0011667,-116.6585,16.18,0.86,ml,46,52,0.03828,0.13,ci,ci39718122,2023-11-26T12:34:57.486Z,"9 km SW of Morongo Valley, CA",earthquake,0.14,0.4,0.106,21,automatic,ci,ci
-2023-11-26T12:27:42.279Z,39.1326,-120.0213,9,0.2,ml,6,123.77,0.132,0.1052,nn,nn00869326,2023-11-26T23:43:29.981Z,"8 km NW of Glenbrook, Nevada",earthquake,,2.7,0.05,2,reviewed,nn,nn
