@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-27T05:00:32.960Z,38.8231659,-122.7906647,0.76,0.26,md,7,77,0.01516,0.02,nc,nc73968206,2023-11-27T05:10:10.129Z,"6 km W of Cobb, CA",earthquake,0.36,1.12,0.16,8,automatic,nc,nc
 2023-11-27T04:57:05.210Z,38.8161659,-122.796669,2.73,0.76,md,10,67,0.008255,0.01,nc,nc73968196,2023-11-27T05:06:10.106Z,"6 km NW of The Geysers, CA",earthquake,0.51,1,0.07,11,automatic,nc,nc
-2023-11-27T04:51:39.540Z,38.8356667,-122.8118362,1.94,1.34,md,26,44,0.01233,0.02,nc,nc73968191,2023-11-27T05:00:10.063Z,"8 km W of Cobb, CA",earthquake,0.19,0.35,0.15,28,automatic,nc,nc
+2023-11-27T04:51:39.540Z,38.8356667,-122.8118362,1.94,1.34,md,26,44,0.01233,0.02,nc,nc73968191,2023-11-27T05:18:13.189Z,"8 km W of Cobb, CA",earthquake,0.19,0.35,0.15,28,automatic,nc,nc
 2023-11-27T04:24:37.237Z,62.5982,-149.6243,55.9,1.7,ml,,,,0.75,ak,ak023f7hetxn,2023-11-27T04:26:42.149Z,"29 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-27T04:22:41.764Z,65.9741,-147.8418,0,1.6,ml,,,,0.47,ak,ak023f7heeuo,2023-11-27T04:24:30.810Z,"47 km SSW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-27T04:17:39.673Z,-20.963,174.0101,10,5.2,mww,33,112,4.981,0.93,us,us6000lqzg,2023-11-27T04:37:01.040Z,"Vanuatu region",earthquake,11.09,1.902,0.093,11,reviewed,us,us
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T12:28:33.860Z,34.0011667,-116.6585,16.18,0.86,ml,46,52,0.03828,0.13,ci,ci39718122,2023-11-26T12:34:57.486Z,"9 km SW of Morongo Valley, CA",earthquake,0.14,0.4,0.106,21,automatic,ci,ci
 2023-11-26T12:27:42.279Z,39.1326,-120.0213,9,0.2,ml,6,123.77,0.132,0.1052,nn,nn00869326,2023-11-26T23:43:29.981Z,"8 km NW of Glenbrook, Nevada",earthquake,,2.7,0.05,2,reviewed,nn,nn
 2023-11-26T12:24:44.549Z,38.158,-118.109,0,1.4,ml,10,114.66,0.106,0.376,nn,nn00869313,2023-11-26T12:27:32.880Z,"25 km S of Mina, Nevada",earthquake,,3.7,0.36,8,automatic,nn,nn
-2023-11-26T12:24:02.790Z,19.3895,-155.2445,1.76,3.16,ml,55,43,,0.09,hv,hv73663747,2023-11-26T22:18:26.153Z,"5 km S of Volcano, Hawaii",earthquake,0.14,0.13,0.180728440288975,31,reviewed,hv,hv
+2023-11-26T12:24:02.790Z,19.3895,-155.2445,1.76,3.16,ml,55,43,,0.09,hv,hv73663747,2023-11-27T05:22:49.040Z,"5 km S of Volcano, Hawaii",earthquake,0.14,0.13,0.180728440288975,31,reviewed,hv,hv
 2023-11-26T12:22:44.390Z,32.929,-116.2543333,9.88,2.49,ml,89,43,0.0485,0.22,ci,ci39718114,2023-11-26T12:33:56.690Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.44,0.116,25,automatic,ci,ci
 2023-11-26T12:21:41.509Z,59.2292,-136.4965,12.571,2.7,ml,19,117,1.072,0.28,us,us6000lqv1,2023-11-26T13:34:09.040Z,"Southeastern Alaska",earthquake,2.34,6.729,0.06,36,reviewed,us,us
 2023-11-26T12:16:22.002Z,62.9288,-148.836,60.5,1.9,ml,,,,0.46,ak,ak023f5yl7dk,2023-11-26T12:18:00.678Z,"51 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T05:45:45.820Z,47.095,-122.07166666666667,11.1,1.5,ml,43,99,0.109,0.17,uw,uw61973836,2023-11-26T06:10:45.070Z,"Puget Sound region, Washington",earthquake,0.26,0.61,0.1257763190132184,26,reviewed,uw,uw
 2023-11-26T05:39:08.961Z,62.2227,-148.8647,5.2,1.4,ml,,,,0.89,ak,ak023f5uk2lj,2023-11-26T05:41:55.519Z,"49 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-26T05:35:33.399Z,61.0542,-149.6739,35.6,1.6,ml,,,,0.5,ak,ak023f5uj9m7,2023-11-26T05:38:11.644Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-26T05:15:02.649Z,44.2897,-115.0849,14.142,2.6,ml,19,65,0.251,0.46,us,us6000lqte,2023-11-26T15:22:02.920Z,"14 km NW of Stanley, Idaho",earthquake,1.37,7.352,0.05,52,reviewed,us,us
