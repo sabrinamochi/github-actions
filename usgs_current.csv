@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-27T21:57:39.780Z,38.8364983,-122.7991638,2.01,1.06,md,15,66,0.007147,0.02,nc,nc73968746,2023-11-27T21:59:17.029Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.7,0.28,15,automatic,nc,nc
-2023-11-27T21:46:50.000Z,-3.3,144,44,6.6,Mi,16,89.99999280000057,8.10999,2.02,at,at00s4sxu2,2023-11-27T21:59:41.046Z,"49 km NE of Wewak, Papua New Guinea",earthquake,0,0,,5,reviewed,at,at
+2023-11-27T21:46:43.171Z,-3.5615,144.0199,12.332,6.5,mww,93,32,3.472,1.09,us,us7000le6w,2023-11-27T22:01:30.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,3.49,4.35,0.093,11,reviewed,us,us
 2023-11-27T21:33:06.960Z,33.503,-116.5683333,12.24,0.61,ml,14,164,0.02965,0.08,ci,ci39718618,2023-11-27T21:39:17.265Z,"11 km ESE of Anza, CA",earthquake,0.37,0.43,0.158,12,automatic,ci,ci
 2023-11-27T21:30:15.723Z,58.2575,-155.0157,0,0.4,ml,,,,1.2,ak,ak023f7rkfus,2023-11-27T21:31:59.832Z,"83 km NNW of Karluk, Alaska",earthquake,,28.5,,,automatic,ak,ak
 2023-11-27T21:20:09.100Z,19.3256664276123,-155.386993408203,2.57999992370605,1.71000004,md,18,134,,0.370000005,hv,hv73665032,2023-11-27T21:23:14.960Z,"Hawaii region, Hawaii",earthquake,1.04,0.819999993,1.71000004,4,automatic,hv,hv
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T11:50:18.745Z,31.598,-104.019,3.098,1.8,ml(texnet),29,53,0,0.3,tx,tx2023xfvl,2023-11-27T21:52:44.047Z,"38 km NW of Toyah, Texas",earthquake,0.8536168859,1.057121543,0,7,reviewed,tx,tx
 2023-11-27T11:48:01.631Z,59.7277,-152.726,81.6,1.9,ml,,,,0.34,ak,ak023f7lpxlv,2023-11-27T11:50:29.393Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-27T11:47:34.330Z,-14.9549,168.0937,10,4.8,mb,40,136,6.643,0.55,us,us6000lr19,2023-11-27T12:17:06.040Z,"Vanuatu",earthquake,5.94,1.897,0.103,29,reviewed,us,us
-2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
+2023-11-27T11:46:56.723Z,39.5534,-119.7995,4.5,-0.5,ml,11,80.73,0.029,0.1262,nn,nn00869356,2023-11-27T16:19:05.893Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-11-27T11:34:45.360Z,35.9864998,-120.5479965,2.75,1.2,md,15,99,0.01239,0.05,nc,nc73968371,2023-11-27T13:54:13.399Z,"14 km NW of Parkfield, CA",earthquake,0.35,0.41,0.2,6,automatic,nc,nc
 2023-11-27T11:33:46.071Z,20.0351,145.4696,10,4.7,mb,51,100,4.778,0.68,us,us6000lr18,2023-11-27T11:51:50.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.42,1.882,0.072,59,reviewed,us,us
 2023-11-27T11:30:04.454Z,31.676,-104.419,6.6335,1.9,ml(texnet),17,70,0,0.3,tx,tx2023xfuu,2023-11-27T12:13:04.327Z,"55 km S of Whites City, New Mexico",earthquake,0,2.589434239,0.2,12,automatic,tx,tx
@@ -147,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T06:21:51.480Z,31.664,-104.484,7.1623,1.5,ml(texnet),8,81,0,0.3,tx,tx2023xfks,2023-11-27T06:43:40.853Z,"57 km S of Whites City, New Mexico",earthquake,0,3.684717195,0.2,6,automatic,tx,tx
 2023-11-27T06:20:15.658Z,31.704,-104.17,6.3886,1.7,ml(texnet),19,60,0.1,0.2,tx,tx2023xfkq,2023-11-27T15:10:44.595Z,"western Texas",earthquake,0.7027881017,1.024273099,0.1,7,reviewed,tx,tx
 2023-11-27T06:18:36.090Z,31.622,-104.504,7.6998,2.2,ml(texnet),21,141,0,0.2,tx,tx2023xfkn,2023-11-27T21:26:17.889Z,"62 km S of Whites City, New Mexico",earthquake,1.677859579,0.8204256756,0.1,15,reviewed,tx,tx
-2023-11-27T06:17:50.410Z,39.324,-122.7938333,7.52,1.87,md,51,43,0.1481,0.15,nc,nc73968251,2023-11-27T21:24:10.498Z,"17 km ESE of Lake Pillsbury, CA",earthquake,0.19,0.71,0.19,50,reviewed,nc,nc
+2023-11-27T06:17:50.410Z,39.324,-122.7938333,7.52,1.87,md,51,43,0.1481,0.15,nc,nc73968251,2023-11-27T22:01:14.729Z,"17 km ESE of Lake Pillsbury, CA",earthquake,0.19,0.71,0.19,50,reviewed,nc,nc
 2023-11-27T05:57:50.330Z,37.0333333,-121.4878333,5.4,0.93,md,25,65,0.008375,0.12,nc,nc73968236,2023-11-27T21:38:10.581Z,"8 km ENE of Gilroy, CA",earthquake,0.34,0.5,0.137,22,reviewed,nc,nc
 2023-11-27T05:56:25.160Z,46.84583333333333,-121.7615,1.57,0.2,ml,19,66,0.02207,0.09,uw,uw61973891,2023-11-27T17:02:27.920Z,"Washington",earthquake,0.18,0.55,0.1944121751206672,8,reviewed,uw,uw
 2023-11-27T05:54:16.940Z,38.8256683,-122.7638321,0.49,1.09,md,15,129,0.00675,0.05,nc,nc73968231,2023-11-27T08:27:17.330Z,"4 km W of Cobb, CA",earthquake,0.27,0.47,0.07,15,automatic,nc,nc
