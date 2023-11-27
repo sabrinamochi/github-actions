@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T03:29:18.510Z,33.0428352,-116.4306641,10.06,1.05,ml,22,127,0.0728,0.13,ci,ci39718250,2023-11-27T03:31:29.731Z,"16 km ESE of Julian, CA",earthquake,0.36,0.74,0.262,4,automatic,ci,ci
+2023-11-27T03:29:18.500Z,33.0433333,-116.433,9.69,0.94,ml,39,59,0.03415,0.17,ci,ci39718250,2023-11-27T03:35:33.537Z,"16 km ESE of Julian, CA",earthquake,0.19,0.37,0.17,11,automatic,ci,ci
 2023-11-27T03:13:32.930Z,38.8349991,-122.8016663,2.24,1.09,md,20,58,0.009475,0.02,nc,nc73968161,2023-11-27T03:30:13.547Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.48,0.13,20,automatic,nc,nc
 2023-11-27T02:46:07.176Z,37.3077,-117.575,4,1.2,ml,13,170.67,0.094,0.2617,nn,nn00869330,2023-11-27T02:48:24.461Z,"Nevada",earthquake,,2.4,0.36,7,automatic,nn,nn
 2023-11-27T02:36:27.775Z,-24.3263,-67.0085,174.4,4.7,mb,30,102,1.739,0.87,us,us6000lqyt,2023-11-27T02:52:20.040Z,"Salta, Argentina",earthquake,8.76,5.594,0.035,247,reviewed,us,us
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T20:44:32.311Z,-24.0211,-67.0562,172.918,5,mb,48,55,1.482,1,us,us6000lqx4,2023-11-26T20:58:41.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.72,6.606,0.04,194,reviewed,us,us
 2023-11-26T20:42:42.790Z,33.8985,-117.0411667,14.85,1.09,ml,44,36,0.1414,0.16,ci,ci39718162,2023-11-26T20:49:18.545Z,"7 km WSW of Beaumont, CA",earthquake,0.16,0.37,0.193,28,automatic,ci,ci
 2023-11-26T20:19:39.490Z,38.7911682,-122.8063354,2.89,1.33,md,29,81,0.003817,0.05,nc,nc73967901,2023-11-26T23:46:14.368Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.16,27,automatic,nc,nc
-2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T20:14:05.640Z,38.8358345,-122.8541641,-0.38,0.37,md,7,155,0.01484,0.04,nc,nc73967891,2023-11-26T20:54:14.272Z,"11 km NW of The Geysers, CA",earthquake,0.47,1.86,0.22,8,automatic,nc,nc
 2023-11-26T20:07:37.490Z,38.8465004,-122.8151703,1.41,1.05,md,17,54,0.01035,0.02,nc,nc73967886,2023-11-26T22:54:14.964Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.56,0.37,17,automatic,nc,nc
 2023-11-26T20:06:28.605Z,-1.7573,139.0702,23.208,4.5,mb,16,145,1.797,0.96,us,us6000lqwz,2023-11-26T20:24:56.040Z,"near the north coast of Papua, Indonesia",earthquake,8.11,8.378,0.139,15,reviewed,us,us
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T04:13:57.315Z,60.9429,-151.1023,10,2,ml,,,,0.77,ak,ak023f5tt643,2023-11-26T04:16:48.879Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-26T04:11:44.023Z,24.0219,122.4369,26.918,5,mb,70,71,0.687,0.92,us,us6000lqt5,2023-11-26T11:58:28.792Z,"Taiwan region",earthquake,3.84,4.503,0.07,66,reviewed,us,us
 2023-11-26T04:08:30.166Z,60.9593,-151.3503,9.9,3,ml,,,,0.94,ak,ak023f5ts1cv,2023-11-26T05:47:25.281Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-26T03:38:45.139Z,45.695,26.5246,146.635,4.2,mb,28,55,0.455,1.11,us,us6000lqt0,2023-11-26T03:58:11.040Z,"13 km W of Nereju Mic, Romania",earthquake,8.17,5.027,0.176,9,reviewed,us,us
