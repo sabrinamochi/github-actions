@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-28T19:55:27.180Z,38.4383316,-122.2551651,5.33,1.63,md,10,93,0.002253,0.25,nc,nc73969176,2023-11-28T19:57:04.244Z,"10 km ENE of Yountville, CA",earthquake,0.79,1.45,0.06,9,automatic,nc,nc
+2023-11-28T20:05:54.290Z,35.828,-117.6676667,6.16,1.58,ml,28,61,0.08136,0.17,ci,ci39719082,2023-11-28T20:12:18.208Z,"23 km N of Ridgecrest, CA",earthquake,0.22,0.6,0.104,18,automatic,ci,ci
+2023-11-28T19:55:27.180Z,38.4383316,-122.2551651,5.33,1.63,md,10,93,0.002253,0.25,nc,nc73969176,2023-11-28T20:05:11.735Z,"10 km ENE of Yountville, CA",earthquake,0.79,1.45,0.06,9,automatic,nc,nc
 2023-11-28T19:45:49.650Z,38.8330002,-122.8164978,1.91,0.71,md,7,144,0.01082,0.01,nc,nc73969171,2023-11-28T19:58:10.692Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.27,0.05,8,automatic,nc,nc
 2023-11-28T19:24:00.390Z,38.8213348,-122.80233,1.31,0.64,md,7,114,0.006389,0.01,nc,nc73969161,2023-11-28T19:34:10.550Z,"6 km NW of The Geysers, CA",earthquake,0.92,2.39,0.37,10,automatic,nc,nc
 2023-11-28T19:22:04.400Z,38.8113327,-122.8018341,-0.04,1.11,md,10,68,0.006109,0.02,nc,nc73969151,2023-11-28T19:31:10.531Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.74,0.16,11,automatic,nc,nc
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T17:57:52.460Z,38.8199997,-122.7645035,2.31,1.04,md,14,115,0.01128,0.02,nc,nc73969086,2023-11-28T18:14:14.077Z,"4 km W of Cobb, CA",earthquake,0.3,0.77,0.24,14,automatic,nc,nc
 2023-11-28T17:55:36.062Z,-5.3904,154.3637,191.018,4.6,mb,41,64,2.495,0.83,us,us7000lecg,2023-11-28T19:24:29.040Z,"160 km NW of Panguna, Papua New Guinea",earthquake,9.49,8.046,0.104,35,reviewed,us,us
 2023-11-28T17:45:08.098Z,62.3639,-147.6902,47.6,1.6,ml,,,,0.64,ak,ak023f9ct92x,2023-11-28T17:48:51.015Z,"54 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-28T17:39:06.013Z,31.613,-104.381,4.3701,1.6,ml(texnet),17,86,0.1,0.3,tx,tx2023xicl,2023-11-28T18:23:20.767Z,"62 km S of Whites City, New Mexico",earthquake,0,1.442094344,0.1,13,automatic,tx,tx
+2023-11-28T17:39:06.165Z,31.635,-104.374,6.0802,1.7,ml(texnet),26,90,0.1,0.1,tx,tx2023xicl,2023-11-28T20:07:35.027Z,"59 km S of Whites City, New Mexico",earthquake,0.6767544837,0.5997767754,0.2,25,reviewed,tx,tx
 2023-11-28T17:38:27.430Z,34.0261667,-116.89,1.44,0.89,ml,19,88,0.06887,0.22,ci,ci39718962,2023-11-28T18:41:30.368Z,"11 km N of Banning, CA",earthquake,0.27,0.47,0.117,14,reviewed,ci,ci
 2023-11-28T17:34:04.741Z,26.8943,126.8094,110.299,4.5,mb,97,48,1.308,0.86,us,us7000lecc,2023-11-28T19:15:18.040Z,"101 km WNW of Ie, Japan",earthquake,3.46,6.388,0.061,90,reviewed,us,us
 2023-11-28T17:23:23.850Z,38.8283348,-122.8535004,1.72,1.04,md,18,90,0.01534,0.02,nc,nc73969081,2023-11-28T19:32:14.539Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.46,0.13,21,automatic,nc,nc
@@ -197,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T20:55:45.470Z,47.60883331298828,-122.72650146484375,30.3500003814697,2.0313425064086914,ml,38,39,0.09767,0.150000006,uw,uw61973981,2023-11-28T20:00:19.810Z,"1 km WSW of Chico, Washington",earthquake,0.34,0.920000017,0.22772186994552612,19,reviewed,uw,uw
 2023-11-27T20:46:00.620Z,19.29,-155.381166666667,3.26,2.54,ml,45,104,,0.13,hv,hv73664987,2023-11-27T21:19:12.270Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.77,0.186626852921124,31,reviewed,hv,hv
 2023-11-27T20:27:37.240Z,35.9295,-119.9223333,13.82,1.69,md,30,120,0.2517,0.17,nc,nc73968681,2023-11-28T00:27:15.608Z,"10 km SSE of Kettleman City, CA",earthquake,0.52,1.51,0.192,20,reviewed,nc,nc
-2023-11-27T20:02:38.736Z,36.7355,-116.1585,3.8,0.5,ml,23,44.98,0.028,0.1332,nn,nn00869360,2023-11-28T00:11:55.698Z,"47 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.26,11,reviewed,nn,nn
-2023-11-27T20:02:22.130Z,46.0188333333333,-112.4635,-2,2.01,ml,15,125,0.06348,0.05,mb,mb90034003,2023-11-28T15:35:01.570Z,"western Montana",quarry blast,0.28,31.61,0.282468796089558,17,reviewed,mb,mb
