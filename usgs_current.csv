@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T06:45:53.020Z,34.0169983,-116.7610016,17.22,1.05,ml,25,139,0.09631,0.13,ci,ci39718722,2023-11-28T06:47:58.047Z,"11 km NNE of Cabazon, CA",earthquake,0.31,0.76,0.23,5,automatic,ci,ci
+2023-11-28T06:45:20.107Z,59.7089,-152.6278,88.2,1.8,ml,,,,0.31,ak,ak023f969icq,2023-11-28T06:47:51.787Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-28T06:38:50.122Z,37.0965,-112.942,15.07,3,ml,28,66,0.125,0.39,us,us7000le9n,2023-11-28T06:49:52.040Z,"Utah",earthquake,1.99,7.053,0.081,20,reviewed,us,us
 2023-11-28T06:28:06.220Z,33.4425,-116.605,6.08,0.52,ml,34,74,0.05211,0.11,ci,ci39718714,2023-11-28T06:34:29.964Z,"14 km SSE of Anza, CA",earthquake,0.14,0.3,0.079,16,automatic,ci,ci
 2023-11-28T06:26:55.823Z,61.1222,-145.4971,146.3,2.1,ml,,,,0.8,ak,ak023f965ii6,2023-11-28T06:29:38.674Z,"45 km E of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-28T06:23:40.377Z,52.6678,-167.0366,35,4.5,mb,42,168,0.913,0.59,us,us7000le9l,2023-11-28T06:40:49.040Z,"126 km ESE of Nikolski, Alaska",earthquake,7.26,1.955,0.061,79,reviewed,us,us
@@ -16,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T04:56:05.680Z,35.6066667,-117.4185,9.22,0.78,ml,21,53,0.04091,0.13,ci,ci39718698,2023-11-28T05:02:02.881Z,"18 km SSW of Trona, CA",earthquake,0.21,0.37,0.085,5,automatic,ci,ci
 2023-11-28T04:44:38.810Z,38.8325005,-122.8198318,1.8,0.36,md,8,67,0.01186,0.01,nc,nc73968886,2023-11-28T05:01:11.333Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.27,0.23,10,automatic,nc,nc
 2023-11-28T04:40:29.396Z,62.2803,-152.0333,113.3,1.8,ml,,,,0.53,ak,ak023f951la3,2023-11-28T04:43:13.403Z,"46 km NW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-11-28T04:34:59.960Z,38.8429985,-122.8793335,2.44,0.95,md,14,97,0.005752,0.02,nc,nc73968881,2023-11-28T04:51:12.518Z,"13 km ENE of Cloverdale, CA",earthquake,0.35,0.54,0.17,14,automatic,nc,nc
+2023-11-28T04:34:59.960Z,38.8429985,-122.8793335,2.44,0.95,md,14,97,0.005752,0.02,nc,nc73968881,2023-11-28T06:47:14.082Z,"13 km ENE of Cloverdale, CA",earthquake,0.35,0.54,0.17,14,automatic,nc,nc
 2023-11-28T04:24:55.060Z,63.2849,-151.3829,0,1.4,ml,,,,0.83,ak,ak023f94y7sy,2023-11-28T04:26:41.813Z,"33 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-28T04:22:15.593Z,36.9797,-116.0474,11.1,0.3,ml,7,114.2,0.048,0.0738,nn,nn00869391,2023-11-28T05:28:16.144Z,"56 km NW of Indian Springs, Nevada",earthquake,,1.9,0.04,2,reviewed,nn,nn
 2023-11-28T04:11:08.140Z,27.6282,-111.4695,10,4.2,mb,20,85,0.751,0.55,us,us7000le8s,2023-11-28T05:02:11.019Z,"Gulf of California",earthquake,4.89,1.998,0.08,44,reviewed,us,us
@@ -163,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T12:18:33.813Z,31.68,-104.463,6.1316,1.9,ml(texnet),19,75,0,0.3,tx,tx2023xfwk,2023-11-27T23:12:35.259Z,"55 km S of Whites City, New Mexico",earthquake,1.504553615,0.8207318617,0.2,15,reviewed,tx,tx
 2023-11-27T12:11:32.938Z,31.681,-104.426,6.2858,0.4,ml(texnet),12,68,0,1.1,tx,tx2023xfwe,2023-11-27T23:45:16.459Z,"55 km S of Whites City, New Mexico",earthquake,0.9224999997,0.7012312662,0.3,7,reviewed,tx,tx
 2023-11-27T12:09:47.950Z,35.3968333,-118.746,7.59,1.47,ml,35,68,0.06821,0.16,ci,ci39718338,2023-11-27T12:20:57.840Z,"22 km NE of Lamont, CA",earthquake,0.2,0.64,0.139,19,automatic,ci,ci
-2023-11-27T12:07:45.300Z,37.7976685,-119.4065018,2.35,1.62,md,12,192,0.3021,0.06,nc,nc73968391,2023-11-27T15:00:14.203Z,"16 km ENE of Yosemite Valley, CA",earthquake,1.12,7.39,0.18,8,automatic,nc,nc
+2023-11-27T12:07:45.140Z,37.7741667,-119.3963333,17.91,2.08,md,25,94,0.2883,0.07,nc,nc73968391,2023-11-28T06:47:10.977Z,"16 km ENE of Yosemite Valley, CA",earthquake,0.49,1.6,0.398,36,reviewed,nc,nc
 2023-11-27T12:04:02.860Z,36.5866667,-121.0311667,9.12,1.2,md,28,225,0.0106,0.15,nc,nc73968386,2023-11-28T01:17:14.925Z,"12 km ENE of Pinnacles, CA",earthquake,0.88,0.46,0.152,18,reviewed,nc,nc
 2023-11-27T12:03:11.970Z,41.0960007,-123.2545013,27.3,2.61,md,14,161,0.4228,0.19,nc,nc73968381,2023-11-28T00:12:34.135Z,"36 km ENE of Willow Creek, CA",earthquake,1.37,2.45,0.18,11,automatic,nc,nc
 2023-11-27T11:53:17.648Z,64.8925,-149.2582,16.6,1.5,ml,,,,0.28,ak,ak023f7lr1f8,2023-11-27T11:55:27.486Z,"29 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -220,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T07:19:04.143Z,31.617,-103.977,6.1316,1.8,ml(texnet),15,77,0,0.2,tx,tx2023xfmn,2023-11-27T22:24:21.800Z,"37 km WSW of Mentone, Texas",earthquake,0.7121661243,0.7476463225,0.1,11,reviewed,tx,tx
 2023-11-27T07:18:10.948Z,28.553,-98.389,0.0245,1.9,ml(texnet),15,89,0.1,0.2,tx,tx2023xfmm,2023-11-27T21:08:31.795Z,"18 km ENE of Tilden, Texas",earthquake,1.107704466,1.727098946,0.1,7,reviewed,tx,tx
 2023-11-27T07:07:00.750Z,38.0623333,-118.7541667,3.12,1.56,md,29,123,0.2724,0.05,nc,nc73968256,2023-11-28T05:53:13.624Z,"28 km SE of Bodie, CA",earthquake,0.49,3.98,0.208,24,reviewed,nc,nc
-2023-11-27T06:49:45.380Z,35.6755,-117.487,5.16,0.85,ml,23,60,0.05257,0.17,ci,ci39718266,2023-11-27T17:14:54.116Z,"13 km SW of Searles Valley, CA",earthquake,0.26,0.41,0.082,5,reviewed,ci,ci
-2023-11-27T06:43:26.237Z,61.3992,-147.3718,30.4,1.2,ml,,,,0.37,ak,ak023f7ipqwf,2023-11-27T06:45:10.851Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
