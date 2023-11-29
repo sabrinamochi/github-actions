@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-29T14:35:28.640Z,38.8274994,-122.8541641,2.38,0.55,md,17,80,0.002116,0.02,nc,nc73969521,2023-11-29T14:37:04.671Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.47,0.27,18,automatic,nc,nc
 2023-11-29T14:17:27.705Z,62.1184,-150.2736,51.2,1,ml,,,,0.43,ak,ak023fayec82,2023-11-29T14:19:36.354Z,"22 km S of Trapper Creek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-29T14:03:06.890Z,32.9676667,-115.7755,2.47,1.45,ml,6,307,0.1773,0.23,ci,ci39719538,2023-11-29T14:09:39.818Z,"16 km WSW of Westmorland, CA",earthquake,3.25,1.89,0.346,13,automatic,ci,ci
 2023-11-29T13:52:59.290Z,43.3383,-126.7202,10,4.3,mb,58,97,1.986,0.87,us,us7000lej1,2023-11-29T14:06:53.040Z,"189 km W of Bandon, Oregon",earthquake,8.76,1.986,0.09,36,reviewed,us,us
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T13:16:08.540Z,38.8320007,-122.8195038,1.61,0.29,md,10,64,0.01132,0.01,nc,nc73969516,2023-11-29T13:42:12.322Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.86,0.15,12,automatic,nc,nc
 2023-11-29T13:15:33.930Z,38.8323326,-122.8180008,1.37,0.76,md,10,137,0.01086,0.02,nc,nc73969511,2023-11-29T13:32:12.260Z,"8 km NW of The Geysers, CA",earthquake,0.46,0.92,0.17,11,automatic,nc,nc
 2023-11-29T12:54:13.000Z,19.19700050354,-155.487503051758,31.8500003814697,2.13,ml,43,75,,0.100000001,hv,hv73666837,2023-11-29T12:59:42.830Z,"Hawaii region, Hawaii",earthquake,0.56,0.899999976,4.45,4,automatic,hv,hv
-2023-11-29T12:46:23.714Z,31.597,-103.957,6.8901,1.8,ml(texnet),16,71,0,0.3,tx,tx2023xjoh,2023-11-29T13:01:59.662Z,"34 km NNW of Toyah, Texas",earthquake,0,2.499649309,0.2,12,automatic,tx,tx
+2023-11-29T12:46:23.827Z,31.605,-103.961,8.6638,1.9,ml(texnet),15,70,0,0.1,tx,tx2023xjoh,2023-11-29T14:38:02.929Z,"35 km NNW of Toyah, Texas",earthquake,0.4083311987,0.4693457476,0.2,11,reviewed,tx,tx
 2023-11-29T12:38:05.557Z,31.635,-104.271,4.4139,1.6,ml(texnet),19,69,0,0.2,tx,tx2023xjoa,2023-11-29T13:06:48.660Z,"western Texas",earthquake,0,1.247779065,0.2,15,automatic,tx,tx
 2023-11-29T12:35:19.792Z,62.7128,-151.0658,93.1,1.9,ml,,,,0.4,ak,ak023faxbbaj,2023-11-29T12:37:38.695Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-29T12:21:12.252Z,59.6551,-136.0375,0,2.3,ml,,,,1.01,ak,ak023fax8anf,2023-11-29T12:23:54.384Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T19:24:00.390Z,38.8213348,-122.80233,1.31,0.64,md,7,114,0.006389,0.01,nc,nc73969161,2023-11-28T19:34:10.550Z,"6 km NW of The Geysers, CA",earthquake,0.92,2.39,0.37,10,automatic,nc,nc
 2023-11-28T19:22:04.400Z,38.8113327,-122.8018341,-0.04,1.11,md,10,68,0.006109,0.02,nc,nc73969151,2023-11-28T20:39:12.940Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.74,0.16,11,automatic,nc,nc
 2023-11-28T19:21:45.760Z,39.1983337,-123.6275024,3.01,2.1,md,17,86,0.006403,0.08,nc,nc73969156,2023-11-29T00:20:12.360Z,"12 km E of Navarro Head, CA",earthquake,0.28,0.59,0.14,13,automatic,nc,nc
-2023-11-28T19:21:14.384Z,-5.3268,142.9212,68.689,4.6,mb,93,46,3.564,0.74,us,us7000lecv,2023-11-28T20:21:27.040Z,"New Guinea, Papua New Guinea",earthquake,8.58,6.343,0.065,80,reviewed,us,us
+2023-11-28T19:21:14.384Z,-5.3268,142.9212,68.689,4.6,mb,93,46,3.564,0.74,us,us7000lecv,2023-11-28T20:21:27.040Z,"29 km WNW of Porgera, Papua New Guinea",earthquake,8.58,6.343,0.065,80,reviewed,us,us
 2023-11-28T19:08:40.870Z,37.303,-122.0903333,3.77,0.88,md,13,108,0.005566,0.06,nc,nc73969141,2023-11-28T21:18:10.214Z,"5 km S of Loyola, CA",earthquake,0.28,0.37,0.208,10,reviewed,nc,nc
 2023-11-28T19:06:03.650Z,38.8181648,-122.8171692,2.89,0.75,md,7,116,0.007615,0.01,nc,nc73969136,2023-11-28T19:16:10.453Z,"7 km NW of The Geysers, CA",earthquake,0.99,1.57,0.18,9,automatic,nc,nc
 2023-11-28T19:04:34.031Z,-17.9125,-178.4763,591.335,4.2,mb,98,72,4.316,0.85,us,us7000lecr,2023-11-28T19:59:01.040Z,"234 km E of Levuka, Fiji",earthquake,13.04,7.84,0.053,110,reviewed,us,us
