@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T03:23:05.240Z,38.8468323,-122.815834,1.28,1.07,md,13,55,0.009774,0.03,nc,nc73969351,2023-11-29T03:31:10.834Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.65,0.11,15,automatic,nc,nc
+2023-11-29T03:23:05.240Z,38.8468323,-122.815834,1.28,1.07,md,13,55,0.009774,0.03,nc,nc73969351,2023-11-29T03:39:14.645Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.65,0.11,15,automatic,nc,nc
 2023-11-29T03:15:04.224Z,31.509,-104.009,4.2268,1.9,ml(texnet),16,74,0,0.2,tx,tx2023xivm,2023-11-29T03:25:13.953Z,"western Texas",earthquake,0,1.438374544,0.1,12,automatic,tx,tx
 2023-11-29T03:09:47.540Z,31.65,-104.578,3.4727,1.8,ml(texnet),8,186,0.1,0.2,tx,tx2023xivh,2023-11-29T03:25:08.768Z,"western Texas",earthquake,0,2.33880001,0.3,6,automatic,tx,tx
 2023-11-29T03:08:00.268Z,61.7683,-146.6999,72.5,1.8,ml,,,,0.57,ak,ak023farsl0a,2023-11-29T03:09:36.206Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
@@ -155,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T08:12:08.310Z,36.7413333,-121.2393333,10.51,0.45,md,9,151,0.03937,0.05,nc,nc71131989,2023-11-28T20:58:11.060Z,"9 km SE of Tres Pinos, CA",earthquake,0.57,0.83,0.171,8,reviewed,nc,nc
 2023-11-28T07:59:39.470Z,34.2911682,-116.8190002,7.61,3.51,mlr,112,35,0.08904,0.17,ci,ci39718738,2023-11-28T21:29:19.825Z,"4 km NE of Big Bear City, CA",earthquake,0.2,0.62,0.229,17,reviewed,ci,ci
 2023-11-28T07:57:06.670Z,33.6396667,-116.717,14.72,0.34,ml,19,54,0.04635,0.12,ci,ci39718730,2023-11-28T17:41:02.130Z,"10 km NNW of Anza, CA",earthquake,0.32,0.51,0.065,4,reviewed,ci,ci
+2023-11-28T07:40:16.140Z,52.2715,-174.059166666667,10.94,1.18,ml,7,227,,0.12,av,av92135491,2023-11-29T03:39:30.600Z,"12 km NE of Atka, Alaska",earthquake,0.77,0.72,0.206868200868094,7,reviewed,av,av
 2023-11-28T07:39:35.837Z,-21.1261,174.0749,10,5.8,mww,55,111,5.04,0.63,us,us7000lea4,2023-11-28T09:43:06.244Z,"Vanuatu region",earthquake,9.44,1.866,0.049,40,reviewed,us,us
 2023-11-28T07:37:29.105Z,-20.3752,-178.2389,547.243,4.6,mb,35,72,2.948,0.65,us,us7000lea3,2023-11-28T07:54:53.040Z,"Fiji region",earthquake,15.07,10.492,0.105,27,reviewed,us,us
 2023-11-28T07:26:51.512Z,31.929,-103.364,4.9747,1.9,ml(texnet),8,136,0.1,0.2,tx,tx2023xhih,2023-11-28T16:22:34.285Z,"26 km SW of Jal, New Mexico",earthquake,4.754319299,2.563983734,0.2,7,reviewed,tx,tx
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T06:15:45.138Z,31.198,-103.507,3.7921,1.8,ml(texnet),15,74,0,0.2,tx,tx2023xhfx,2023-11-28T16:07:39.174Z,"19 km S of Lindsay, Texas",earthquake,1.187995911,1.940216788,0.2,12,reviewed,tx,tx
 2023-11-28T06:13:42.840Z,33.6211667,-116.6696667,13.57,0.52,ml,24,46,0.04773,0.1,ci,ci39718706,2023-11-28T14:27:13.738Z,"7 km N of Anza, CA",earthquake,0.18,0.34,0.256,11,reviewed,ci,ci
 2023-11-28T06:13:22.343Z,52.7362,-167.0995,25.602,5.6,mww,129,62,0.835,0.83,us,us7000le9i,2023-11-29T00:23:32.861Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,5.3,3.292,0.04,60,reviewed,us,us
-2023-11-28T06:03:52.050Z,58.2183333333333,-155.075833333333,2.89,-0.09,ml,7,225,,0.29,av,av91122728,2023-11-29T03:25:33.290Z,"81 km NNW of Karluk, Alaska",earthquake,1.02,4.33,0.314316590695768,7,reviewed,av,av
+2023-11-28T06:03:52.050Z,58.2183333333333,-155.075833333333,2.89,-0.09,ml,7,225,,0.29,av,av91122728,2023-11-29T03:33:19.870Z,"81 km NNW of Karluk, Alaska",earthquake,1.02,4.33,0.314316590695768,7,reviewed,av,av
 2023-11-28T05:56:35.140Z,38.8214989,-122.7634964,2.32,1.09,md,17,121,0.01575,0.02,nc,nc73968896,2023-11-28T06:13:10.966Z,"4 km W of Cobb, CA",earthquake,0.3,0.59,0.1,16,automatic,nc,nc
 2023-11-28T05:55:16.180Z,19.292667388916,-155.386505126953,3.67000007629395,1.82000005,md,37,114,,0.170000002,hv,hv73665517,2023-11-28T06:00:46.750Z,"Island of Hawaii, Hawaii",earthquake,0.45,1.22000003,0.660000026,15,automatic,hv,hv
 2023-11-28T05:54:48.610Z,19.3368333333333,-155.145833333333,0.44,0.5,md,11,126,,0.14,hv,hv73665512,2023-11-28T21:21:48.140Z,"Hawaii region, Hawaii",earthquake,0.53,0.42,0.0616640844000197,3,reviewed,hv,hv
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T03:49:20.140Z,19.3891666666667,-155.247666666667,1.61,1.93,ml,22,67,,0.1,hv,hv73665382,2023-11-28T05:21:31.040Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.22,0.171805147139297,9,reviewed,hv,hv
 2023-11-28T03:43:41.674Z,60.3002,-152.878,127.6,1.9,ml,,,,0.62,ak,ak023f94gtt9,2023-11-28T04:55:02.260Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-11-28T03:42:22.761Z,39.3725,-119.6962,6.6,0.8,ml,8,136.74,0.056,0.1189,nn,nn00869389,2023-11-28T05:12:34.194Z,"8 km NNW of Virginia City, Nevada",earthquake,,1.5,0.01,2,reviewed,nn,nn
-2023-11-28T03:37:50.158Z,44.4893,149.1701,35,5.1,mww,86,124,4.736,0.71,us,us7000le8i,2023-11-28T03:55:59.040Z,"Kuril Islands",earthquake,8.96,1.897,0.093,11,reviewed,us,us
