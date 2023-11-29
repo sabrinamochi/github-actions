@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-29T02:53:42.270Z,33.9781667,-116.7883333,5.29,0.78,ml,34,62,0.05909,0.12,ci,ci39719346,2023-11-29T02:59:44.026Z,"7 km N of Cabazon, CA",earthquake,0.14,0.45,0.156,17,automatic,ci,ci
 2023-11-29T02:40:50.700Z,33.7098333,-116.8255,15.35,0.76,ml,37,86,0.08177,0.16,ci,ci39719330,2023-11-29T02:47:07.001Z,"8 km SE of Valle Vista, CA",earthquake,0.2,0.37,0.153,17,automatic,ci,ci
 2023-11-29T02:31:34.392Z,61.4462,-146.5498,27.1,1.6,ml,,,,0.42,ak,ak023farc5i7,2023-11-29T02:33:31.553Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-29T02:29:58.411Z,35.11937332,-97.56895447,2.985457897,2,ml,25,51.24935913,0.06032047048,0.5771149109,ok,ok2023xitz,2023-11-29T02:47:22.121Z,"1 km N of Cole, Oklahoma",earthquake,2.29496493,1.740541256,0.32,15,automatic,ok,ok
+2023-11-29T02:29:58.411Z,35.11937332,-97.56895447,2.985457897,2,ml,25,51.24935913,0.06032047048,0.5771149109,ok,ok2023xitz,2023-11-29T02:53:11.368Z,"1 km N of Cole, Oklahoma",earthquake,2.29496493,1.740541256,0.32,15,automatic,ok,ok
 2023-11-29T02:24:28.823Z,60.4149,-152.3517,95,1.1,ml,,,,0.16,ak,ak023faran2a,2023-11-29T02:25:45.920Z,"55 km NW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-11-29T02:23:36.119Z,31.627,-104.015,6.8877,2,ml(texnet),15,47,0,0.3,tx,tx2023xitt,2023-11-29T02:53:16.491Z,"western Texas",earthquake,0,2.35894064,0.2,13,automatic,tx,tx
 2023-11-29T02:09:18.458Z,58.1976,-155.3467,0.4,1.8,ml,,,,0.41,ak,ak023far7eit,2023-11-29T02:11:35.204Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T02:04:18.850Z,34.0328333,-117.0993333,15.51,0.86,ml,37,59,0.07346,0.16,ci,ci39719322,2023-11-29T02:10:17.820Z,"5 km W of Yucaipa, CA",earthquake,0.19,0.55,0.095,15,automatic,ci,ci
 2023-11-29T01:57:11.990Z,34.0183333,-116.7433333,16.62,0.67,ml,19,119,0.05609,0.12,ci,ci39719306,2023-11-29T02:03:30.786Z,"12 km NNE of Cabazon, CA",earthquake,0.5,0.72,0.102,14,automatic,ci,ci
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T01:39:27.140Z,33.2478333,-115.6558333,3.08,1.08,ml,25,45,0.0703,0.24,ci,ci39719298,2023-11-29T01:45:44.311Z,"13 km W of Niland, CA",earthquake,0.32,0.55,0.23,11,automatic,ci,ci
 2023-11-29T01:17:31.350Z,38.8354988,-122.7911682,0.09,0.21,md,7,121,0.002976,0.01,nc,nc73969301,2023-11-29T01:41:16.825Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.8,0.09,8,automatic,nc,nc
 2023-11-29T01:12:42.870Z,17.8421666666667,-66.9265,7.6,2.62,md,25,235,0.1304,0.2,pr,pr71432508,2023-11-29T01:31:21.730Z,"14 km S of Guánica, Puerto Rico",earthquake,0.54,0.33,0.163846280653315,10,reviewed,pr,pr
-2023-11-29T01:05:30.460Z,19.2861671447754,-155.382339477539,1.95000004768372,1.96000004,md,13,169,,0.100000001,hv,hv73666377,2023-11-29T01:08:35.690Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.689999998,0.970000029,3,automatic,hv,hv
+2023-11-29T01:05:30.480Z,19.2815,-155.382833333333,3.14,1.16,md,23,108,,0.1,hv,hv73666377,2023-11-29T02:56:52.730Z,"13 km NE of Pāhala, Hawaii",earthquake,0.28,0.8,0.193923555403922,6,reviewed,hv,hv
 2023-11-29T01:00:36.230Z,35.0435,-118.4161667,6.03,1.01,ml,27,40,0.08084,0.15,ci,ci39719290,2023-11-29T01:06:53.107Z,"10 km SSE of Tehachapi, CA",earthquake,0.2,0.59,0.287,5,automatic,ci,ci
 2023-11-29T00:23:41.650Z,35.0296667,-117.6658333,-0.79,1.33,ml,32,61,0.09829,0.28,ci,ci39719274,2023-11-29T00:42:22.639Z,"4 km NNW of Boron, CA",quarry blast,0.53,31.61,0.1,15,reviewed,ci,ci
 2023-11-29T00:12:27.780Z,63.1864,-151.4354,0,1.4,ml,,,,0.81,ak,ak023faq176i,2023-11-29T00:14:39.428Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -132,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T09:50:39.620Z,51.8026666666667,-178.777333333333,9.12,0.78,ml,5,142,,0.16,av,av92135611,2023-11-28T19:20:15.230Z,"147 km W of Adak, Alaska",earthquake,1.61,0.81,0.0972959776090011,5,reviewed,av,av
 2023-11-28T09:44:46.900Z,38.8163338,-122.7623367,1.46,1.44,md,27,101,0.01466,0.04,nc,nc73968951,2023-11-28T13:59:19.569Z,"4 km W of Cobb, CA",earthquake,0.21,0.34,0.14,25,automatic,nc,nc
 2023-11-28T09:37:28.274Z,40.3717,-119.3689,1,1.3,ml,8,243.03,0.343,0.1691,nn,nn00869404,2023-11-28T18:05:44.619Z,"Nevada",earthquake,,4.4,0.3,5,reviewed,nn,nn
-2023-11-28T09:32:27.642Z,40.374,-119.3968,5.8,2.8,ml,10,171.34,0.327,0.1677,nn,nn00869403,2023-11-28T17:44:03.376Z,"22 km SSW of Empire, Nevada",earthquake,,4.5,0.12,5,reviewed,nn,nn
+2023-11-28T09:32:27.642Z,40.374,-119.3968,5.8,2.8,ml,10,171.34,0.327,0.1677,nn,nn00869403,2023-11-29T02:55:03.532Z,"22 km SSW of Empire, Nevada",earthquake,,4.5,0.12,5,reviewed,nn,nn
 2023-11-28T09:32:11.580Z,37.2995,-122.086,4.57,0.52,md,14,106,0.0008772,0.08,nc,nc73968941,2023-11-28T21:06:10.110Z,"5 km WSW of Cupertino, CA",earthquake,0.54,0.29,0.287,10,reviewed,nc,nc
 2023-11-28T09:28:37.040Z,44.9061666666667,-111.943833333333,4.84,0.56,ml,5,200,0.2651,0.07,mb,mb90034123,2023-11-28T14:56:32.400Z,"Idaho-Montana border region",earthquake,0.93,7.42,0.159867926946236,4,reviewed,mb,mb
 2023-11-28T09:11:37.679Z,-6.4847,142.7314,10,4.8,mb,39,96,4.432,0.58,us,us7000lead,2023-11-28T10:30:12.040Z,"74 km SSW of Tari, Papua New Guinea",earthquake,9.94,1.914,0.107,27,reviewed,us,us
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T03:11:58.223Z,61.9797,-148.3478,34.9,1.4,ml,,,,0.29,ak,ak023f94a04u,2023-11-28T03:14:43.016Z,"21 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-28T03:11:55.490Z,38.8300018,-122.8143311,2.11,0.72,md,10,79,0.007388,0.01,nc,nc73968866,2023-11-28T05:50:11.604Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.05,0.14,11,automatic,nc,nc
 2023-11-28T03:00:19.090Z,38.8258324,-122.7646637,2.33,0.3,md,8,128,0.006186,0.02,nc,nc73968861,2023-11-28T05:44:12.560Z,"4 km W of Cobb, CA",earthquake,0.73,1.57,0.14,8,automatic,nc,nc
-2023-11-28T02:58:53.450Z,51.857,-177.809666666667,7.73,1.66,ml,6,253,,0.04,av,av92135131,2023-11-29T01:25:54.830Z,"81 km W of Adak, Alaska",earthquake,0.49,0.56,0.190541845451011,6,reviewed,av,av
-2023-11-28T02:53:32.150Z,51.8575,-177.9135,2.67,0.27,ml,4,221,,0.03,av,av91122688,2023-11-29T01:47:14.210Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1.86,0.445201205199464,4,reviewed,av,av
