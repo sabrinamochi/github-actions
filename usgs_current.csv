@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T23:57:52.590Z,33.7273331,-116.7603302,21.33,1.08,ml,26,119,0.04172,0.29,ci,ci39719914,2023-11-29T23:59:57.638Z,"4 km WSW of Idyllwild, CA",earthquake,0.72,1.15,0.399,6,automatic,ci,ci
+2023-11-29T23:57:53.480Z,33.7031667,-116.7506667,15.16,0.78,ml,25,69,0.03146,0.09,ci,ci39719914,2023-11-30T00:04:18.029Z,"5 km SW of Idyllwild, CA",earthquake,0.2,0.29,0.174,13,automatic,ci,ci
 2023-11-29T23:55:15.650Z,19.2758331298828,-155.383666992188,27.6399993896484,1.84000003,md,26,138,,0.129999995,hv,hv73667242,2023-11-29T23:58:29.120Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.14999998,0.529999971,12,automatic,hv,hv
 2023-11-29T23:54:17.490Z,35.4765,-118.4336667,5.23,1.18,ml,26,72,0.1851,0.14,ci,ci39719906,2023-11-30T00:00:38.804Z,"14 km SSE of Bodfish, CA",earthquake,0.17,1.11,0.186,11,automatic,ci,ci
-2023-11-29T23:35:30.880Z,33.9539986,-116.8478317,8.6,3.21,ml,113,18,0.06648,0.18,ci,ci39719898,2023-11-30T00:00:48.838Z,"4 km NE of Banning, CA",earthquake,0.19,0.55,0.202,15,automatic,ci,ci
+2023-11-29T23:35:30.880Z,33.9539986,-116.8478317,8.6,3.21,ml,113,18,0.06648,0.18,ci,ci39719898,2023-11-30T00:06:07.429Z,"4 km NE of Banning, CA",earthquake,0.19,0.55,0.202,15,automatic,ci,ci
 2023-11-29T23:29:37.250Z,35.9371667,-117.7218333,2.88,1.31,ml,21,61,0.07874,0.14,ci,ci39719890,2023-11-29T23:35:43.864Z,"17 km E of Little Lake, CA",earthquake,0.23,0.35,0.172,9,automatic,ci,ci
 2023-11-29T23:28:34.390Z,38.8153343,-122.8154984,2.67,1.08,md,27,55,0.009096,0.01,nc,nc73969691,2023-11-29T23:50:14.767Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.37,0.17,27,automatic,nc,nc
 2023-11-29T22:48:09.190Z,38.2315,-112.288,5.07,1.52,ml,10,102,0.2066,0.22,uu,uu60555482,2023-11-29T23:37:26.390Z,"5 km W of Junction, Utah",earthquake,0.65,3.11,0.455,3,reviewed,uu,uu
@@ -155,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T03:05:36.730Z,47.58566666666667,-121.70016666666666,10.16,1.22,ml,21,113,0.1076,0.13,uw,uw61965322,2023-11-29T22:38:44.030Z,"11 km NE of Snoqualmie, Washington",earthquake,0.36,0.62,0.15381356944072944,17,reviewed,uw,uw
 2023-11-29T02:53:42.270Z,33.9781667,-116.7883333,5.29,0.78,ml,34,62,0.05909,0.12,ci,ci39719346,2023-11-29T14:53:45.580Z,"7 km N of Cabazon, CA",earthquake,0.14,0.45,0.156,17,reviewed,ci,ci
 2023-11-29T02:48:53.510Z,33.958168,-118.5683365,9.78,1.68,ml,7,193,0.27,0.17,ci,ci39719338,2023-11-29T14:53:11.176Z,"10 km SW of Santa Monica, CA",earthquake,1.25,15.38,0.246,18,reviewed,ci,ci
+2023-11-29T02:46:30.730Z,58.1633333333333,-155.32,2.42,0.42,ml,15,178,,0.09,av,av92136611,2023-11-30T00:06:26.390Z,"Alaska Peninsula",earthquake,0.34,0.32,0.238726956351358,14,reviewed,av,av
 2023-11-29T02:40:50.700Z,33.7098333,-116.8255,15.35,0.76,ml,37,86,0.08177,0.16,ci,ci39719330,2023-11-29T14:53:15.716Z,"8 km SE of Valle Vista, CA",earthquake,0.2,0.37,0.153,17,reviewed,ci,ci
 2023-11-29T02:31:34.392Z,61.4462,-146.5498,27.1,1.6,ml,,,,0.42,ak,ak023farc5i7,2023-11-29T02:33:31.553Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T02:29:58.130Z,35.126,-97.56266667,5.17,1.65,ml,90,41,0.06298763968,0.36,ok,ok2023xitz,2023-11-29T03:20:17.830Z,"Oklahoma",earthquake,,0.6,0.2,41,reviewed,ok,ok
@@ -177,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T01:00:36.230Z,35.0435,-118.4161667,6.03,1.01,ml,27,40,0.08084,0.15,ci,ci39719290,2023-11-29T14:54:36.412Z,"10 km SSE of Tehachapi, CA",earthquake,0.2,0.59,0.287,5,reviewed,ci,ci
 2023-11-29T00:23:41.650Z,35.0296667,-117.6658333,-0.79,1.33,ml,32,61,0.09829,0.28,ci,ci39719274,2023-11-29T00:42:22.639Z,"4 km NNW of Boron, CA",quarry blast,0.53,31.61,0.1,15,reviewed,ci,ci
 2023-11-29T00:12:27.780Z,63.1864,-151.4354,0,1.4,ml,,,,0.81,ak,ak023faq176i,2023-11-29T00:14:39.428Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-29T00:05:15.690Z,48.08866666666667,-121.944,-0.28,1.61,ml,10,72,0.01217,0.12,uw,uw61965302,2023-11-29T20:45:32.570Z,"Puget Sound region, Washington",explosion,0.35,31.61,0.042514622024319215,4,reviewed,uw,uw
