@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-01T02:21:36.560Z,35.8991661,-117.7106705,5.68,1.21,ml,15,117,0.1003,0.14,ci,ci39720554,2023-12-01T02:23:41.515Z,"18 km ESE of Little Lake, CA",earthquake,0.48,1.23,0.221,9,automatic,ci,ci
-2023-12-01T02:14:42.370Z,38.8308334,-122.8178329,1.79,0.36,md,10,79,0.009586,0.02,nc,nc73970201,2023-12-01T02:16:19.225Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.7,0.26,10,automatic,nc,nc
+2023-12-01T02:21:36.520Z,35.898,-117.71,5.44,1.24,ml,23,61,0.09977,0.16,ci,ci39720554,2023-12-01T02:27:49.037Z,"18 km ESE of Little Lake, CA",earthquake,0.24,0.69,0.179,10,automatic,ci,ci
+2023-12-01T02:14:42.370Z,38.8308334,-122.8178329,1.79,0.36,md,10,79,0.009586,0.02,nc,nc73970201,2023-12-01T02:24:10.884Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.7,0.26,10,automatic,nc,nc
 2023-12-01T01:53:01.900Z,38.7726669,-122.7238312,2.1,1.27,md,9,133,0.01109,0.01,nc,nc73970196,2023-12-01T02:09:13.794Z,"3 km W of Anderson Springs, CA",earthquake,0.41,0.71,0.19,11,automatic,nc,nc
 2023-12-01T01:40:51.476Z,31.616,-104.003,5.4678,1.6,ml,16,43,0,0.3,tx,tx2023xmji,2023-12-01T01:52:28.991Z,"western Texas",earthquake,0,2.017036003,0.2,12,automatic,tx,tx
 2023-12-01T01:30:21.846Z,58.5955,-154.3807,16.6,1.6,ml,,,,0.74,ak,ak023fe1t632,2023-12-01T01:34:40.219Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
@@ -103,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T15:39:07.770Z,34.0391667,-116.6343333,9.44,1.19,ml,46,49,0.01133,0.17,ci,ci39720258,2023-11-30T23:08:22.460Z,"5 km W of Morongo Valley, CA",earthquake,0.17,0.38,0.118,23,reviewed,ci,ci
 2023-11-30T15:29:38.240Z,38.8040009,-122.7798309,3,1.9,md,40,45,0.009269,0.04,nc,nc73970001,2023-11-30T18:28:14.079Z,"4 km NW of The Geysers, CA",earthquake,0.18,0.31,0.18,39,automatic,nc,nc
 2023-11-30T15:28:51.067Z,31.611,-104.376,4.2542,2.3,ml(texnet),18,86,0.1,0.2,tx,tx2023xlpe,2023-11-30T16:06:12.649Z,"62 km S of Whites City, New Mexico",earthquake,0,1.39552746,0.1,14,automatic,tx,tx
+2023-11-30T15:25:05.407Z,37.1364,-116.2943,9.2,-0.3,ml,8,101.21,0.035,0.0615,nn,nn00869529,2023-12-01T02:25:57.801Z,"48 km ENE of Beatty, Nevada",earthquake,,1.7,1.23,6,reviewed,nn,nn
 2023-11-30T15:17:23.810Z,46.19433333333333,-122.19966666666667,0.09,0.39,ml,13,66,0.008193,0.09,uw,uw61965587,2023-11-30T19:37:08.720Z,"Mount St. Helens area, Washington",earthquake,0.26,0.36,0.2690568472570755,8,reviewed,uw,uw
 2023-11-30T15:13:43.270Z,38.831665,-122.8154984,1.55,1.02,md,21,55,0.009281,0.02,nc,nc73969996,2023-11-30T17:57:14.910Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.49,0.22,21,automatic,nc,nc
 2023-11-30T15:06:55.900Z,33.998,-118.3493333,9.62,2.57,ml,42,38,0.0127,0.26,ci,ci39720234,2023-12-01T01:06:08.452Z,"0 km NNW of View Park-Windsor Hills, CA",earthquake,0.28,0.5,0.22,14,reviewed,ci,ci
