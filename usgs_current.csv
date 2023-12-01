@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-01T03:59:38.160Z,33.2183342,-115.5755005,2.63,1.33,ml,11,115,0.05282,0.1,ci,ci39720594,2023-12-01T04:01:45.043Z,"6 km WSW of Niland, CA",earthquake,0.55,0.55,0.347,4,automatic,ci,ci
 2023-12-01T03:21:45.610Z,17.9313333333333,-66.2751666666667,13.56,2.63,md,12,197,0.1045,0.19,pr,pr71432678,2023-12-01T03:38:35.900Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.63,0.5,0.208580048294644,10,reviewed,pr,pr
 2023-12-01T03:14:19.240Z,33.6976667,-117.3685,10.87,0.8,ml,35,43,0.05015,0.22,ci,ci39720586,2023-12-01T03:20:38.043Z,"5 km NW of Lake Elsinore, CA",earthquake,0.26,0.54,0.231,12,automatic,ci,ci
 2023-12-01T03:11:45.133Z,63.2619,-150.3621,65.8,1.9,ml,,,,1.14,ak,ak023fe2w0lt,2023-12-01T03:14:23.112Z,"72 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -71,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T20:35:56.900Z,34.0785,-117.1295,9.39,0.85,ml,27,82,0.03811,0.14,ci,ci39720410,2023-12-01T00:44:11.124Z,"1 km NNE of Mentone, CA",earthquake,0.2,0.51,0.145,9,reviewed,ci,ci
 2023-11-30T20:35:37.026Z,58.4953,-154.2991,3.9,2.1,ml,,,,0.31,ak,ak023fcpm5ye,2023-11-30T20:37:06.827Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-11-30T20:24:20.790Z,60.552,-152.7775,5.99,-0.37,ml,5,130,,0.05,av,av92139501,2023-12-01T00:05:20.470Z,"Southern Alaska",earthquake,0.33,0.9,0.132059254063891,5,reviewed,av,av
-2023-11-30T20:23:12.290Z,58.3328333333333,-154.6995,5.47,0.15,ml,9,224,,0.18,av,av91122953,2023-12-01T00:20:09.440Z,"Alaska Peninsula",earthquake,0.64,1.22,0.313512759866186,9,reviewed,av,av
+2023-11-30T20:23:12.290Z,58.3328333333333,-154.6995,5.47,0.15,ml,9,224,,0.18,av,av91122953,2023-12-01T00:20:09.440Z,"86 km N of Karluk, Alaska",earthquake,0.64,1.22,0.313512759866186,9,reviewed,av,av
 2023-11-30T20:20:50.870Z,36.5751667,-121.421,-0.43,0.98,md,13,71,0.027,0.23,nc,nc73970096,2023-11-30T22:30:33.434Z,"8 km NNE of Gonzales, CA",quarry blast,0.63,31.61,0.232,13,reviewed,nc,nc
 2023-11-30T20:13:22.493Z,31.678,-104.415,4.4781,1.8,mlv,15,86,0,0.4,tx,tx2023xlyo,2023-11-30T20:54:20.497Z,"55 km S of Whites City, New Mexico",earthquake,0,1.40715752,0.2,10,automatic,tx,tx
 2023-11-30T20:10:01.884Z,62.1121,-147.5463,32.9,2.3,ml,,,,0.44,ak,ak023fcpgqcc,2023-11-30T20:11:35.675Z,"27 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -122,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T15:25:05.407Z,37.1364,-116.2943,9.2,-0.3,ml,8,101.21,0.035,0.0615,nn,nn00869529,2023-12-01T02:25:57.801Z,"48 km ENE of Beatty, Nevada",earthquake,,1.7,1.23,6,reviewed,nn,nn
 2023-11-30T15:17:23.810Z,46.19433333333333,-122.19966666666667,0.09,0.39,ml,13,66,0.008193,0.09,uw,uw61965587,2023-11-30T19:37:08.720Z,"Mount St. Helens area, Washington",earthquake,0.26,0.36,0.2690568472570755,8,reviewed,uw,uw
 2023-11-30T15:13:43.270Z,38.831665,-122.8154984,1.55,1.02,md,21,55,0.009281,0.02,nc,nc73969996,2023-11-30T17:57:14.910Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.49,0.22,21,automatic,nc,nc
-2023-11-30T15:06:55.900Z,33.998,-118.3493333,9.62,2.57,ml,42,38,0.0127,0.26,ci,ci39720234,2023-12-01T03:55:11.440Z,"0 km NNW of View Park-Windsor Hills, CA",earthquake,0.28,0.5,0.22,14,reviewed,ci,ci
+2023-11-30T15:06:55.900Z,33.998,-118.3493333,9.62,2.57,ml,42,38,0.0127,0.26,ci,ci39720234,2023-12-01T04:01:38.645Z,"0 km NNW of View Park-Windsor Hills, CA",earthquake,0.28,0.5,0.22,14,reviewed,ci,ci
 2023-11-30T15:02:08.844Z,63.761,-149.3377,114.2,2.1,ml,,,,0.61,ak,ak023fcmfv4k,2023-11-30T15:04:23.716Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-30T14:57:37.340Z,45.781,-111.678,4.75,0.27,ml,5,128,0.1511,0.09,mb,mb90034388,2023-11-30T17:40:48.010Z,"western Montana",earthquake,0.5,5.22,0.129514647905781,2,reviewed,mb,mb
 2023-11-30T14:51:27.780Z,46.827,-112.892333333333,4.97,1.06,ml,9,134,0.2068,0.19,mb,mb90034383,2023-11-30T17:37:21.980Z,"western Montana",earthquake,0.81,10.46,0.221227748645189,4,reviewed,mb,mb
