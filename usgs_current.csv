@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T13:55:03.310Z,33.3520012,-116.364502,10.73,1.45,ml,59,34,0.0253,0.2,ci,ci39721562,2023-12-02T13:57:34.114Z,"11 km N of Borrego Springs, CA",earthquake,0.3,0.43,0.227,6,automatic,ci,ci
+2023-12-02T13:52:12.914Z,60.8784,-149.799,32,1.9,ml,,,,0.83,ak,ak023ffwmf0r,2023-12-02T13:54:16.077Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-02T13:46:12.341Z,38.126,-117.9292,4.4,1.3,ml,9,136.73,0.085,0.1856,nn,nn00869561,2023-12-02T13:49:00.579Z,"33 km SSE of Mina, Nevada",earthquake,,0.9,0.58,6,automatic,nn,nn
+2023-12-02T13:42:04.269Z,-3.4623,102.0115,112.082,4.7,mb,41,102,1.298,0.76,us,us7000lfeq,2023-12-02T13:55:50.040Z,"southern Sumatra, Indonesia",earthquake,9.04,8.253,0.099,31,reviewed,us,us
 2023-12-02T13:40:37.210Z,36.095,-117.8696667,2.5,1.08,ml,21,85,0.02552,0.16,ci,ci39721554,2023-12-02T13:46:39.358Z,"9 km NE of Coso Junction, CA",earthquake,0.22,0.45,0.247,9,automatic,ci,ci
 2023-12-02T13:29:53.800Z,19.394832611084,-155.278167724609,0.920000016689301,1.80999994,md,12,104,,0.109999999,hv,hv73669782,2023-12-02T13:32:40.830Z,"Island of Hawaii, Hawaii",earthquake,0.19,0.270000011,0.310000002,14,automatic,hv,hv
 2023-12-02T13:29:43.530Z,32.968,-116.2778333,10.06,1.03,ml,44,43,0.0253,0.2,ci,ci39721546,2023-12-02T13:35:46.834Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.21,0.42,0.366,11,automatic,ci,ci
@@ -108,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T03:45:19.800Z,62.9701,-150.4863,100.2,1.9,ml,,,,0.27,ak,ak023ffqmlho,2023-12-02T03:46:53.267Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T03:36:23.570Z,32.7318333,-115.8795,3.99,1.55,ml,32,46,0.09149,0.21,ci,ci39721330,2023-12-02T03:42:44.836Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.8,0.137,18,automatic,ci,ci
 2023-12-02T03:35:57.310Z,32.7425,-115.8738333,1.33,1.12,ml,18,48,0.1031,0.15,ci,ci39721322,2023-12-02T03:41:58.835Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.42,0.248,9,automatic,ci,ci
-2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T13:50:03.019Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
+2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T13:55:57.773Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
 2023-12-02T03:29:14.451Z,32.7425,-100.5327,9.338,3,mb_lg,21,90,0.759,0.59,us,us7000lfa8,2023-12-02T13:22:53.097Z,"western Texas",earthquake,1.87,7.797,0.058,78,reviewed,us,us
 2023-12-02T03:21:33.685Z,63.1761,-150.5978,130.5,1.9,ml,,,,0.2,ak,ak023ffqhhdk,2023-12-02T03:23:30.833Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-02T03:15:09.320Z,38.8001671,-122.7393341,1.01,1.1,md,8,106,0.01593,0.02,nc,nc73970636,2023-12-02T06:35:13.837Z,"3 km SSW of Cobb, CA",earthquake,0.34,0.69,0.13,8,automatic,nc,nc
@@ -248,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T14:20:16.824Z,62.3043,-150.0717,15.1,1.8,ml,,,,0.3,ak,ak023fe9hniq,2023-12-01T14:21:50.995Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-01T14:19:35.650Z,38.8354988,-122.8168335,1.85,0.82,md,9,91,0.01319,0.02,nc,nc73970376,2023-12-01T16:19:13.795Z,"8 km W of Cobb, CA",earthquake,0.39,1.53,0.17,10,automatic,nc,nc
 2023-12-01T14:16:55.340Z,45.5003333333333,-112.7795,5.83,1.11,ml,7,196,0.1887,0.07,mb,mb90034493,2023-12-01T16:04:14.870Z,"33 km NNW of Dillon, Montana",earthquake,0.46,2.53,0.428225817162212,7,reviewed,mb,mb
-2023-12-01T13:58:02.231Z,41.7772,-81.0284,6.271,2.3,ml,21,106,0.847,0.5,us,us7000lf33,2023-12-02T12:06:23.718Z,"1 km ENE of Madison, Ohio",earthquake,2.25,7.23,0.115,10,reviewed,us,us
-2023-12-01T13:56:23.120Z,61.8406,-151.0235,60,2.1,ml,,,,0.52,ak,ak023fe93y6g,2023-12-01T13:58:04.973Z,"25 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
