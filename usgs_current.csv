@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-02T05:20:12.090Z,32.7391663,-115.8726654,6.21,1.28,ml,12,80,0.1005,0.18,ci,ci39721346,2023-12-02T05:22:29.386Z,"11 km E of Ocotillo, CA",earthquake,0.43,2.93,0.322,6,automatic,ci,ci
+2023-12-02T05:20:12.140Z,32.7355,-115.8741667,3.67,1.26,ml,31,42,0.09666,0.22,ci,ci39721346,2023-12-02T05:26:27.261Z,"11 km E of Ocotillo, CA",earthquake,0.22,0.55,0.199,15,automatic,ci,ci
 2023-12-02T05:05:11.580Z,38.8111649,-122.7724991,1.03,0.26,md,6,130,0.006728,0.01,nc,nc73970661,2023-12-02T05:22:10.624Z,"4 km NNW of The Geysers, CA",earthquake,0.57,1.37,0.05,8,automatic,nc,nc
 2023-12-02T05:03:54.894Z,-56.2017,-27.8006,143.648,5,mb,52,112,5.329,0.83,us,us7000lfai,2023-12-02T05:22:18.040Z,"South Sandwich Islands region",earthquake,12.56,7.663,0.071,63,reviewed,us,us
 2023-12-02T04:53:06.700Z,19.1746673583984,-155.49333190918,32.3499984741211,1.71000004,md,31,98,,0.0900000036,hv,hv73668872,2023-12-02T04:56:25.900Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.17999995,1.71000004,4,automatic,hv,hv
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T03:45:19.800Z,62.9701,-150.4863,100.2,1.9,ml,,,,0.27,ak,ak023ffqmlho,2023-12-02T03:46:53.267Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T03:36:23.570Z,32.7318333,-115.8795,3.99,1.55,ml,32,46,0.09149,0.21,ci,ci39721330,2023-12-02T03:42:44.836Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.8,0.137,18,automatic,ci,ci
 2023-12-02T03:35:57.310Z,32.7425,-115.8738333,1.33,1.12,ml,18,48,0.1031,0.15,ci,ci39721322,2023-12-02T03:41:58.835Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.42,0.248,9,automatic,ci,ci
-2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T05:21:05.510Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
+2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T05:26:11.927Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
 2023-12-02T03:29:14.451Z,32.7425,-100.5327,9.338,3,mb_lg,21,90,0.759,0.59,us,us7000lfa8,2023-12-02T04:12:18.516Z,"western Texas",earthquake,1.87,7.797,0.058,78,reviewed,us,us
 2023-12-02T03:21:33.685Z,63.1761,-150.5978,130.5,1.9,ml,,,,0.2,ak,ak023ffqhhdk,2023-12-02T03:23:30.833Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-02T03:15:09.320Z,38.8001671,-122.7393341,1.01,1.1,md,8,106,0.01593,0.02,nc,nc73970636,2023-12-02T03:55:11.932Z,"3 km SSW of Cobb, CA",earthquake,0.34,0.69,0.13,8,automatic,nc,nc
@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T21:57:11.950Z,38.8288345,-122.8521652,1.55,0.94,md,16,63,0.003896,0.03,nc,nc73970566,2023-12-01T22:19:11.104Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.41,0.22,16,automatic,nc,nc
 2023-12-01T21:37:11.046Z,31.599,-104.12,4.779,2,ml,17,59,0,0.3,tx,tx2023xnwv,2023-12-01T22:19:51.865Z,"44 km NW of Toyah, Texas",earthquake,0,1.452178811,0.3,13,automatic,tx,tx
 2023-12-01T21:25:22.600Z,37.4291667,-113.1195,10.7,1.81,ml,17,95,0.07309,0.14,uu,uu60555642,2023-12-01T21:47:48.930Z,"Utah",earthquake,0.32,0.62,0.308,8,reviewed,uu,uu
-2023-12-01T21:18:29.240Z,37.488,-121.8526667,6.35,0.5,md,7,100,0.03178,0.04,nc,nc73970536,2023-12-02T05:18:11.389Z,"8 km NE of Milpitas, CA",earthquake,0.63,0.88,0.323,5,reviewed,nc,nc
+2023-12-01T21:18:29.240Z,37.488,-121.8526667,6.35,0.5,md,7,100,0.03178,0.04,nc,nc73970536,2023-12-02T05:29:16.445Z,"8 km NE of Milpitas, CA",earthquake,0.63,0.88,0.323,5,reviewed,nc,nc
 2023-12-01T21:16:09.000Z,19.3901666666667,-155.246333333333,1.61,1.92,ml,24,69,,0.11,hv,hv73668657,2023-12-01T23:09:46.540Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.16,0.174173435170037,10,reviewed,hv,hv
 2023-12-01T21:04:25.730Z,38.8261681,-122.8551636,2.58,1.23,md,22,63,0.001917,0.02,nc,nc73970521,2023-12-02T00:00:11.650Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.45,0.14,22,automatic,nc,nc
 2023-12-01T21:04:14.600Z,38.8264999,-122.8529968,2.56,0.63,md,6,131,0.003202,0.01,nc,nc73970516,2023-12-01T23:29:19.475Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.38,0.36,8,automatic,nc,nc
