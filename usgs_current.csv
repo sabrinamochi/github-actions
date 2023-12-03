@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T14:03:31.900Z,38.8364983,-122.8358307,1.66,0.77,md,17,88,0.002105,0.01,nc,nc73971181,2023-12-03T14:20:12.064Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.45,0.28,18,automatic,nc,nc
 2023-12-03T14:02:19.623Z,8.1768,126.6404,67.65,4.4,mb,19,118,1.522,0.47,us,us7000lfwe,2023-12-03T15:19:54.040Z,"22 km E of Barcelona, Philippines",earthquake,11.89,6.592,0.149,13,reviewed,us,us
 2023-12-03T13:54:55.960Z,19.4731,-66.2395,32,3.89,md,18,238,1.1745,0.48,pr,pr2023337000,2023-12-03T15:15:45.040Z,"111 km N of Brenas, Puerto Rico",earthquake,2.74,28.95,0.12,17,reviewed,pr,pr
-2023-12-03T13:38:06.140Z,38.8046684,-122.8085022,1.54,1.33,md,12,55,0.01083,0.03,nc,nc73971176,2023-12-03T14:08:12.005Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.8,0.15,12,automatic,nc,nc
+2023-12-03T13:38:06.140Z,38.8046684,-122.8085022,1.54,1.33,md,12,55,0.01083,0.03,nc,nc73971176,2023-12-03T16:21:10.777Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.8,0.15,12,automatic,nc,nc
 2023-12-03T13:37:59.583Z,31.648,-104.46,6.5006,1.6,ml,15,93,0,0.3,tx,tx2023xqya,2023-12-03T14:18:11.836Z,"western Texas",earthquake,0,3.53228974,0.1,13,automatic,tx,tx
 2023-12-03T13:26:22.250Z,38.7916679,-122.769165,1.64,1.06,md,12,82,0.0116,0.01,nc,nc73971166,2023-12-03T15:54:10.633Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.48,0.22,15,automatic,nc,nc
 2023-12-03T13:22:53.781Z,8.4668,126.6105,70.976,4.7,mb,23,127,1.724,0.39,us,us7000lfw8,2023-12-03T15:06:10.040Z,"Mindanao, Philippines",earthquake,12.63,7.465,0.069,64,reviewed,us,us
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T12:13:46.569Z,8.562,126.8711,54.475,4.6,mb,39,119,1.959,0.35,us,us7000lfvq,2023-12-03T12:33:18.040Z,"62 km ENE of Hinatuan, Philippines",earthquake,10.34,7.65,0.098,31,reviewed,us,us
 2023-12-03T12:11:48.610Z,19.1718330383301,-155.483993530273,31.3099994659424,1.83000004,md,39,89,,0.119999997,hv,hv73671902,2023-12-03T12:14:57.020Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.660000026,0.910000026,8,automatic,hv,hv
 2023-12-03T11:56:49.794Z,52.7642,-167.1492,35,3.9,mb,60,179,0.794,0.89,us,us7000lfvn,2023-12-03T12:26:57.040Z,"116 km E of Nikolski, Alaska",earthquake,10.18,2.008,0.101,26,reviewed,us,us
-2023-12-03T11:53:44.266Z,8.393,126.7332,52.568,4.7,mb,57,111,1.743,0.57,us,us7000lfvk,2023-12-03T12:09:06.040Z,"Mindanao, Philippines",earthquake,7.92,5.576,0.078,50,reviewed,us,us
+2023-12-03T11:53:44.266Z,8.393,126.7332,52.568,4.7,mb,57,111,1.743,0.57,us,us7000lfvk,2023-12-03T12:09:06.040Z,"41 km NE of Barcelona, Philippines",earthquake,7.92,5.576,0.078,50,reviewed,us,us
 2023-12-03T11:53:16.756Z,62.2889,-151.289,80.4,1.8,ml,,,,1.05,ak,ak023fhiz4bf,2023-12-03T11:55:59.738Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-03T11:50:48.060Z,18.8398342132568,-155.266662597656,15.539999961853,2.52,ml,51,259,,0.379999995,hv,hv73671892,2023-12-03T12:12:44.040Z,"Hawaii region, Hawaii",earthquake,3.02,8.63000011,2.82,10,automatic,hv,hv
 2023-12-03T11:46:06.510Z,18.9174995422363,-155.292831420898,41.0999984741211,2.1099999,md,41,250,,0.129999995,hv,hv73671887,2023-12-03T11:49:28.250Z,"34 km ESE of Naalehu, Hawaii",earthquake,0.9,1.50999999,0.899999976,3,automatic,hv,hv
@@ -261,8 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T16:34:58.968Z,8.6083,126.6993,58.331,5.4,mb,129,54,1.889,0.67,us,us7000lfir,2023-12-02T18:38:20.854Z,"47 km ENE of Hinatuan, Philippines",earthquake,3.51,6.906,0.045,168,reviewed,us,us
 2023-12-02T16:34:26.078Z,8.3964,126.7285,53.831,5.1,mb,36,110,1.742,0.73,us,us7000lfis,2023-12-02T16:49:46.040Z,"41 km NE of Barcelona, Philippines",earthquake,10.97,8.563,0.054,111,reviewed,us,us
 2023-12-02T16:33:40.956Z,8.492,126.661,52.393,4.7,mb,25,128,1.774,0.51,us,us7000lfit,2023-12-02T17:41:25.040Z,"38 km ENE of Hinatuan, Philippines",earthquake,7.96,8.497,0.078,50,reviewed,us,us
-2023-12-02T16:23:18.490Z,19.1923332214355,-155.483840942383,33.3400001525879,1.84000003,md,36,158,,0.0799999982,hv,hv73670232,2023-12-02T16:26:22.400Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.73,0.930000007,0.239999995,5,automatic,hv,hv
-2023-12-02T16:22:27.050Z,38.5723343,-122.3843307,4.85,1.69,md,6,142,0.05905,0.06,nc,nc73970801,2023-12-02T17:20:10.565Z,"6 km E of Angwin, CA",earthquake,1.56,2.07,0.23,7,automatic,nc,nc
-2023-12-02T16:21:14.243Z,62.1388,-146.8709,30.6,2.1,ml,,,,0.89,ak,ak023ffy82qo,2023-12-02T16:23:51.442Z,"17 km NNW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-02T16:19:47.455Z,8.3159,126.7668,62.419,5.7,mb,54,94,1.708,0.79,us,us7000lfif,2023-12-02T18:24:24.889Z,"40 km ENE of Barcelona, Philippines",earthquake,2.9,8.425,0.039,233,reviewed,us,us
-2023-12-02T16:17:01.435Z,8.4845,126.7363,47.52,5.6,mb,108,79,1.814,0.54,us,us7000lfia,2023-12-02T18:20:57.292Z,"45 km ENE of Hinatuan, Philippines",earthquake,7.99,6.092,0.043,191,reviewed,us,us
