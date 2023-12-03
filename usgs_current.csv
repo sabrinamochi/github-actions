@@ -1,11 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T06:59:58.551Z,37.3197,-117.6063,0,1.4,ml,14,174.4,0.092,0.2798,nn,nn00869614,2023-12-03T07:02:36.602Z,"California-Nevada border region",earthquake,,17.7,0.23,9,automatic,nn,nn
+2023-12-03T06:56:32.760Z,32.7536667,-115.8605,-0.09,0.76,ml,16,83,0.118,0.3,ci,ci39721994,2023-12-03T07:02:23.172Z,"13 km E of Ocotillo, CA",earthquake,0.35,1.09,0.155,5,automatic,ci,ci
 2023-12-03T06:55:17.710Z,35.7976667,-117.6218333,4.28,0.68,ml,21,64,0.1168,0.17,ci,ci39721986,2023-12-03T07:01:12.861Z,"20 km W of Searles Valley, CA",earthquake,0.25,0.65,0.116,5,automatic,ci,ci
-2023-12-03T06:53:35.790Z,36.9976654,-121.4609985,5.89,1.64,md,28,103,0.03346,0.11,nc,nc73971066,2023-12-03T06:55:11.251Z,"10 km E of Gilroy, CA",earthquake,0.31,0.67,0.25,22,automatic,nc,nc
+2023-12-03T06:53:35.790Z,36.9976654,-121.4609985,5.89,1.64,md,28,103,0.03346,0.11,nc,nc73971066,2023-12-03T07:10:10.655Z,"10 km E of Gilroy, CA",earthquake,0.31,0.67,0.25,22,automatic,nc,nc
+2023-12-03T06:39:33.666Z,31.668,-104.193,3.5768,2.4,ml,18,70,0.1,0.3,tx,tx2023xqkf,2023-12-03T07:03:48.235Z,"western Texas",earthquake,0,1.276431583,0.2,14,automatic,tx,tx
 2023-12-03T06:39:21.160Z,38.793499,-122.7648315,2.77,1.29,md,21,77,0.01804,0.03,nc,nc73971061,2023-12-03T06:57:12.559Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.62,0.21,21,automatic,nc,nc
 2023-12-03T06:37:32.451Z,59.9571,-152.982,108.7,2.4,ml,,,,0.91,ak,ak023fhfwk1p,2023-12-03T06:40:25.420Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:36:58.385Z,60.1609,-141.5288,13.5,1.5,ml,,,,0.53,ak,ak023fhfweby,2023-12-03T06:38:36.017Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:32:33.970Z,33.3383333,-116.4103333,10.83,1.06,ml,71,20,0.03797,0.18,ci,ci39721978,2023-12-03T06:43:33.120Z,"10 km NNW of Borrego Springs, CA",earthquake,0.15,0.28,0.143,27,automatic,ci,ci
 2023-12-03T06:27:16.670Z,38.8274994,-122.80233,1.97,0.78,md,14,71,0.007307,0.02,nc,nc73971056,2023-12-03T06:46:12.490Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.76,0.15,16,automatic,nc,nc
+2023-12-03T06:18:22.761Z,8.4248,126.5791,75.616,4.7,mb,51,115,1.672,0.55,us,us7000lfry,2023-12-03T07:05:51.040Z,"Mindanao, Philippines",earthquake,9.03,5.92,0.068,66,reviewed,us,us
 2023-12-03T06:01:44.670Z,32.7356667,-115.881,4.91,1.58,ml,41,41,0.09454,0.24,ci,ci39721970,2023-12-03T06:14:32.276Z,"10 km E of Ocotillo, CA",earthquake,0.23,0.64,0.148,26,automatic,ci,ci
 2023-12-03T06:00:29.950Z,64.3835,-145.7586,41.1,1.5,ml,,,,1.22,ak,ak023fhfomcz,2023-12-03T06:02:42.426Z,"26 km N of Big Delta, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-03T05:50:24.781Z,8.1602,126.6164,76.327,4.9,mb,71,109,1.494,0.53,us,us7000lfrp,2023-12-03T06:30:35.891Z,"Mindanao, Philippines",earthquake,8.24,5.687,0.046,146,reviewed,us,us
@@ -290,6 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T07:14:59.229Z,-33.5003,-68.7334,2.23,4.2,mb,14,188,1.174,0.97,us,us7000lfb6,2023-12-02T15:14:04.521Z,"Mendoza, Argentina",earthquake,6.95,6.326,0.236,5,reviewed,us,us
 2023-12-02T07:14:57.140Z,19.158166885376,-155.359497070312,28.9300003051758,1.78,ml,50,180,,0.119999997,hv,hv73669002,2023-12-02T07:22:49.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.819999993,4.7,5,automatic,hv,hv
 2023-12-02T07:12:11.760Z,19.1671657562256,-155.500671386719,29.0200004577637,1.88,md,21,114,,0.119999997,hv,hv73668997,2023-12-02T07:15:20.650Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,1.14999998,1.07000005,3,automatic,hv,hv
-2023-12-02T07:08:43.522Z,51.4401,-176.7645,40.006,3.8,mb,52,193,0.436,0.54,us,us7000lflq,2023-12-03T06:36:12.040Z,"49 km S of Adak, Alaska",earthquake,5.6,12.284,0.101,25,reviewed,us,us
-2023-12-02T07:05:35.110Z,19.602,-68.7348,100,4.22,md,18,200,1.749,0.48,pr,pr2023336002,2023-12-02T14:36:51.311Z,"Dominican Republic region",earthquake,6.96,11,0.12,16,reviewed,pr,pr
-2023-12-02T07:05:33.584Z,18.4222,-69.1559,108.17,4.3,mb,31,171,0.724,0.66,us,us7000lfb2,2023-12-02T12:53:59.402Z,"Dominican Republic region",earthquake,7.55,6.643,0.161,12,reviewed,us,us
