@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-04T18:51:10.300Z,63.4481,-150.1105,129.4,2,ml,,,,0.54,ak,ak023fjao246,2023-12-04T18:53:14.461Z,"Central Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-12-04T18:37:51.800Z,38.8359985,-122.7898331,1.96,0.39,md,7,117,0.00244,0.01,nc,nc73971766,2023-12-04T18:55:10.409Z,"6 km WNW of Cobb, CA",earthquake,0.79,1.17,0.28,9,automatic,nc,nc
-2023-12-04T18:32:04.810Z,31.685,-101.706,1.6385,3.2,ml,22,66,0.1,0.1,tx,tx2023xtdf,2023-12-04T18:52:39.880Z,"western Texas",earthquake,0.7459511419,1.208456138,0.2,13,reviewed,tx,tx
+2023-12-04T18:32:04.782Z,31.687,-101.706,3.6927,3.2,ml,30,66,0.1,0.2,tx,tx2023xtdf,2023-12-04T19:01:21.916Z,"28 km SW of Garden City, Texas",earthquake,0.7705910088,1.379228199,0.1,13,reviewed,tx,tx
 2023-12-04T18:24:22.530Z,38.7771683,-122.7148361,-0.87,0.98,md,7,92,0.01512,0.12,nc,nc73971756,2023-12-04T18:34:11.713Z,"2 km W of Anderson Springs, CA",earthquake,0.37,3.77,0.27,8,automatic,nc,nc
 2023-12-04T18:24:12.550Z,33.9951667,-116.8421667,17.71,2.62,ml,102,24,0.04906,0.17,ci,ci40615688,2023-12-04T18:35:13.350Z,"8 km NNE of Banning, CA",earthquake,0.11,0.25,0.209,24,automatic,ci,ci
 2023-12-04T18:21:33.430Z,3.58,126.8791,37.551,4.9,mb,65,85,2.832,1.39,us,us7000lg5t,2023-12-04T18:35:48.040Z,"Kepulauan Talaud, Indonesia",earthquake,7.77,7.032,0.082,46,reviewed,us,us
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T16:26:18.295Z,64.0433,-151.4954,13.6,1.7,ml,,,,0.82,ak,ak023fj9bumd,2023-12-04T16:28:34.744Z,"43 km ENE of Lake Minchumina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-04T16:23:46.229Z,8.5432,126.771,47.058,4.7,mb,66,109,1.881,0.78,us,us7000lg55,2023-12-04T17:12:55.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,9.36,6.314,0.069,64,reviewed,us,us
 2023-12-04T16:11:14.291Z,52.4572,-166.7386,35,3.2,ml,12,239,1.19,0.96,us,us7000lg5p,2023-12-04T18:33:02.040Z,"153 km ESE of Nikolski, Alaska",earthquake,3.98,2.02,0.128,8,reviewed,us,us
-2023-12-04T16:09:29.574Z,65.0089,-147.047,0,1.8,ml,,,,0.97,ak,ak023fj988bh,2023-12-04T16:11:24.769Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-12-04T16:09:29.574Z,65.0089,-147.047,0,1.8,ml,,,,0.97,ak,ak023fj988bh,2023-12-04T16:11:24.769Z,"15 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-04T16:01:53.250Z,38.8289986,-122.8125,2.6,0.33,md,8,122,0.005908,0.02,nc,nc73971726,2023-12-04T18:30:14.243Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.14,0.13,8,automatic,nc,nc
 2023-12-04T15:44:58.687Z,8.502,126.4767,55.634,4.6,mb,55,120,1.678,0.9,us,us7000lg51,2023-12-04T17:00:51.040Z,"21 km NE of Hinatuan, Philippines",earthquake,9.54,6.499,0.082,44,reviewed,us,us
 2023-12-04T15:38:37.211Z,8.3788,126.4659,82.52,4.4,mb,37,79,1.57,0.86,us,us7000lg4z,2023-12-04T16:49:29.040Z,"14 km E of Hinatuan, Philippines",earthquake,10.88,8.804,0.106,26,reviewed,us,us
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T03:56:29.655Z,61.3108,-150.1281,36.7,1.6,ml,,,,0.66,ak,ak023fj1ro45,2023-12-04T03:58:33.479Z,"9 km SW of Point MacKenzie, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-04T03:55:12.870Z,38.8153343,-122.8198318,2.9,0.66,md,12,70,0.009747,0.02,nc,nc73971526,2023-12-04T06:31:12.986Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.84,0.18,13,automatic,nc,nc
 2023-12-04T03:55:07.900Z,38.8143349,-122.8208313,2.64,1.52,md,10,68,0.008504,0.01,nc,nc73971521,2023-12-04T06:15:10.833Z,"7 km NW of The Geysers, CA",earthquake,0.46,1.42,0.07,10,automatic,nc,nc
-2023-12-04T03:40:26.840Z,40.2601667,-121.3853333,8.06,1.58,md,11,184,0.1401,0.15,nc,nc73971506,2023-12-04T18:23:12.192Z,"14 km WSW of Chester, CA",earthquake,0.75,1.83,0.183,10,reviewed,nc,nc
+2023-12-04T03:40:26.840Z,40.2601667,-121.3853333,8.06,1.58,md,11,184,0.1401,0.15,nc,nc73971506,2023-12-04T19:01:14.443Z,"14 km WSW of Chester, CA",earthquake,0.75,1.83,0.183,10,reviewed,nc,nc
 2023-12-04T03:39:28.241Z,7.7197,126.6218,86.396,4.5,mb,20,134,1.219,0.43,us,us7000lg1a,2023-12-04T04:07:29.040Z,"Mindanao, Philippines",earthquake,8.76,8.98,0.171,10,reviewed,us,us
 2023-12-04T03:05:24.618Z,61.4613,-151.1466,75,1.7,ml,,,,1.04,ak,ak023fj1gq7h,2023-12-04T03:07:39.190Z,"34 km WSW of Susitna, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-12-04T03:02:41.170Z,34.1751667,-117.5331667,9.81,1.62,ml,72,40,0.05243,0.17,ci,ci39722386,2023-12-04T03:13:16.350Z,"7 km NE of Rancho Cucamonga, CA",earthquake,0.14,0.28,0.219,28,automatic,ci,ci
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T19:14:53.819Z,8.8981,126.5952,56.042,4.7,mb,61,95,2.077,0.94,us,us7000lfxs,2023-12-03T21:32:25.040Z,"31 km E of Aras-asan, Philippines",earthquake,10.57,6.465,0.068,67,reviewed,us,us
 2023-12-03T19:11:02.180Z,-58.7797,-25.2756,36.421,5.1,mb,56,71,15.824,0.61,us,us7000lfxr,2023-12-03T19:28:45.040Z,"South Sandwich Islands region",earthquake,11.74,6.979,0.068,70,reviewed,us,us
 2023-12-03T19:08:39.680Z,19.3001670837402,-155.380004882812,4.46000003814697,1.72000003,md,19,125,,0.219999999,hv,hv73672137,2023-12-03T19:12:01.080Z,"14 km NE of Pāhala, Hawaii",earthquake,0.49,0.959999979,0.189999998,6,automatic,hv,hv
-2023-12-03T19:00:46.299Z,63.205,-150.6186,127.4,2.9,ml,,,,0.41,ak,ak023fhnfafw,2023-12-03T21:39:25.040Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
