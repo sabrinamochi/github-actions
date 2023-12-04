@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-04T14:37:00.342Z,61.0102,-147.2547,22.8,1.6,ml,,,,0.42,ak,ak023fj87awi,2023-12-04T14:39:13.308Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-04T14:28:10.106Z,63.1881,-151.3394,0,1.7,ml,,,,0.42,ak,ak023fj85e7m,2023-12-04T14:30:00.909Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-04T14:26:50.070Z,35.9585,-117.9246667,7.31,0.74,ml,14,77,0.05645,0.07,ci,ci39722674,2023-12-04T14:32:38.812Z,"3 km NNW of Little Lake, CA",earthquake,0.14,0.39,0.197,7,automatic,ci,ci
+2023-12-04T14:26:50.070Z,35.9585,-117.9246667,7.31,0.74,ml,14,77,0.05645,0.07,ci,ci39722674,2023-12-04T14:41:43.818Z,"3 km NNW of Little Lake, CA",earthquake,0.14,0.39,0.197,7,reviewed,ci,ci
 2023-12-04T14:24:57.850Z,35.9588333,-117.9231667,7.71,2.24,ml,32,44,0.05557,0.11,ci,ci39722666,2023-12-04T14:35:33.680Z,"3 km NNW of Little Lake, CA",earthquake,0.12,0.32,0.261,24,automatic,ci,ci
 2023-12-04T14:11:54.600Z,32.7396667,-115.8676667,3.88,1.44,ml,24,63,0.1028,0.21,ci,ci39722658,2023-12-04T14:17:57.079Z,"12 km E of Ocotillo, CA",earthquake,0.25,0.9,0.204,18,automatic,ci,ci
 2023-12-04T14:07:10.880Z,19.1900005340576,-155.493667602539,35.9099998474121,1.88999999,md,36,151,,0.119999997,hv,hv73672752,2023-12-04T14:10:15.160Z,"Hawaii region, Hawaii",earthquake,0.81,1.09000003,1.76999998,6,automatic,hv,hv
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T08:19:42.590Z,32.7391667,-115.87,6.47,1.04,ml,23,68,0.1015,0.19,ci,ci39722506,2023-12-04T08:25:40.308Z,"12 km E of Ocotillo, CA",earthquake,0.23,0.94,0.195,6,automatic,ci,ci
 2023-12-04T08:14:30.590Z,32.7383333,-115.8695,4.89,1.07,ml,28,69,0.1009,0.2,ci,ci39722498,2023-12-04T08:20:35.690Z,"12 km E of Ocotillo, CA",earthquake,0.22,0.67,0.193,9,automatic,ci,ci
 2023-12-04T08:07:49.170Z,35.9891663,-120.545166,3.22,1.03,md,9,100,0.0156,0.05,nc,nc73971596,2023-12-04T09:43:14.027Z,"14 km NW of Parkfield, CA",earthquake,0.43,0.77,0.16,4,automatic,nc,nc
-2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T14:35:52.629Z,"7 km NNW of Mudanya, Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
+2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T14:41:08.880Z,"7 km NNW of Mudanya, Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
 2023-12-04T07:26:35.530Z,38.8380013,-122.8085022,1.97,1.51,md,25,36,0.01419,0.02,nc,nc73971591,2023-12-04T09:15:14.863Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.38,0.2,27,automatic,nc,nc
 2023-12-04T07:24:34.000Z,32.7393333,-115.8728333,3.6,1.03,ml,22,47,0.1006,0.2,ci,ci39722490,2023-12-04T07:30:29.484Z,"11 km E of Ocotillo, CA",earthquake,0.23,0.58,0.235,8,automatic,ci,ci
 2023-12-04T07:22:16.840Z,19.2644996643066,-155.399993896484,30.1800003051758,2.1,ml,48,124,,0.119999997,hv,hv73672597,2023-12-04T07:27:47.570Z,"10 km NE of Pāhala, Hawaii",earthquake,0.42,0.589999974,3.55,9,automatic,hv,hv
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T14:54:09.869Z,8.2925,126.7075,72.302,5.1,mb,53,107,1.651,0.65,us,us7000lfwn,2023-12-03T15:14:03.040Z,"33 km ENE of Barcelona, Philippines",earthquake,3.41,7.84,0.045,162,reviewed,us,us
 2023-12-03T14:50:57.704Z,8.7135,127.0373,56.289,4.5,mb,25,135,2.18,0.57,us,us7000lfwp,2023-12-03T15:43:17.040Z,"82 km E of Marihatag, Philippines",earthquake,5.43,8.596,0.115,22,reviewed,us,us
 2023-12-03T14:48:11.070Z,33.5988333,-116.8088333,7.85,0.67,ml,38,46,0.03769,0.14,ci,ci39722082,2023-12-04T00:22:24.169Z,"13 km WNW of Anza, CA",earthquake,0.15,0.35,0.156,14,reviewed,ci,ci
-2023-12-03T14:41:44.019Z,-31.7795,-67.0914,126.942,4.3,mb,32,68,1.378,1.17,us,us7000lfwl,2023-12-03T15:39:39.040Z,"113 km E of Caucete, Argentina",earthquake,5.91,10.876,0.218,6,reviewed,us,us
