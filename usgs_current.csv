@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-04T13:17:04.280Z,38.7806664,-122.7170029,1.61,1.28,md,16,77,0.01563,0.04,nc,nc73971661,2023-12-04T13:18:39.527Z,"2 km WNW of Anderson Springs, CA",earthquake,0.3,0.42,0.12,15,automatic,nc,nc
 2023-12-04T13:09:44.946Z,62.0343,-149.7493,39.2,1.6,ml,,,,0.31,ak,ak023fj7fyou,2023-12-04T13:11:35.663Z,"15 km SSE of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-04T12:44:53.160Z,19.2061672210693,-155.410659790039,30.5499992370605,1.84000003,md,33,165,,0.100000001,hv,hv73672727,2023-12-04T12:48:02.930Z,"7 km E of Pāhala, Hawaii",earthquake,0.68,0.720000029,0.479999989,5,automatic,hv,hv
 2023-12-04T12:44:42.440Z,35.0073333,-118.4958333,8.42,1.41,ml,46,49,0.1277,0.13,ci,ci39722610,2023-12-04T12:55:20.930Z,"14 km SSW of Tehachapi, CA",earthquake,0.12,0.42,0.173,26,automatic,ci,ci
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T08:19:42.590Z,32.7391667,-115.87,6.47,1.04,ml,23,68,0.1015,0.19,ci,ci39722506,2023-12-04T08:25:40.308Z,"12 km E of Ocotillo, CA",earthquake,0.23,0.94,0.195,6,automatic,ci,ci
 2023-12-04T08:14:30.590Z,32.7383333,-115.8695,4.89,1.07,ml,28,69,0.1009,0.2,ci,ci39722498,2023-12-04T08:20:35.690Z,"12 km E of Ocotillo, CA",earthquake,0.22,0.67,0.193,9,automatic,ci,ci
 2023-12-04T08:07:49.170Z,35.9891663,-120.545166,3.22,1.03,md,9,100,0.0156,0.05,nc,nc73971596,2023-12-04T09:43:14.027Z,"14 km NW of Parkfield, CA",earthquake,0.43,0.77,0.16,4,automatic,nc,nc
-2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T13:15:33.018Z,"western Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
+2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T13:20:42.972Z,"western Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
 2023-12-04T07:26:35.530Z,38.8380013,-122.8085022,1.97,1.51,md,25,36,0.01419,0.02,nc,nc73971591,2023-12-04T09:15:14.863Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.38,0.2,27,automatic,nc,nc
 2023-12-04T07:24:34.000Z,32.7393333,-115.8728333,3.6,1.03,ml,22,47,0.1006,0.2,ci,ci39722490,2023-12-04T07:30:29.484Z,"11 km E of Ocotillo, CA",earthquake,0.23,0.58,0.235,8,automatic,ci,ci
 2023-12-04T07:22:16.840Z,19.2644996643066,-155.399993896484,30.1800003051758,2.1,ml,48,124,,0.119999997,hv,hv73672597,2023-12-04T07:27:47.570Z,"10 km NE of Pāhala, Hawaii",earthquake,0.42,0.589999974,3.55,9,automatic,hv,hv
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T13:38:06.140Z,38.8046684,-122.8085022,1.54,1.33,md,12,55,0.01083,0.03,nc,nc73971176,2023-12-03T16:30:13.822Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.8,0.15,12,automatic,nc,nc
 2023-12-03T13:37:59.583Z,31.648,-104.46,6.5006,1.6,ml,15,93,0,0.3,tx,tx2023xqya,2023-12-03T14:18:11.836Z,"western Texas",earthquake,0,3.53228974,0.1,13,automatic,tx,tx
 2023-12-03T13:26:22.250Z,38.7916679,-122.769165,1.64,1.06,md,12,82,0.0116,0.01,nc,nc73971166,2023-12-03T15:54:10.633Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.48,0.22,15,automatic,nc,nc
-2023-12-03T13:22:53.781Z,8.4668,126.6105,70.976,4.7,mb,23,127,1.724,0.39,us,us7000lfw8,2023-12-03T15:06:10.040Z,"Mindanao, Philippines",earthquake,12.63,7.465,0.069,64,reviewed,us,us
