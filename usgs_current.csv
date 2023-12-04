@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-04T06:57:48.620Z,32.7321663,-115.8720016,7.35,3.09,ml,93,34,0.09445,0.25,ci,ci39722466,2023-12-04T07:00:08.593Z,"11 km E of Ocotillo, CA",earthquake,0.2,0.67,0.28,20,automatic,ci,ci
 2023-12-04T06:53:49.275Z,62.1122,-148.175,31.9,1.6,ml,,,,0.47,ak,ak023fj3jdar,2023-12-04T06:56:03.891Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-04T06:53:44.080Z,32.7376667,-115.8721667,3.44,1.21,ml,34,47,0.09933,0.23,ci,ci39722458,2023-12-04T06:59:53.834Z,"11 km E of Ocotillo, CA",earthquake,0.23,0.61,0.134,16,automatic,ci,ci
 2023-12-04T06:47:28.290Z,33.4396667,-116.3755,8.85,0.63,ml,33,183,0.09346,0.15,ci,ci39722450,2023-12-04T06:53:48.612Z,"20 km N of Borrego Springs, CA",earthquake,0.37,0.65,0.125,13,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T05:07:14.870Z,34,-116.3218333,8.1,0.75,ml,33,44,0.08932,0.14,ci,ci39722402,2023-12-04T05:13:20.756Z,"15 km S of Joshua Tree, CA",earthquake,0.17,0.47,0.187,12,automatic,ci,ci
 2023-12-04T05:06:40.940Z,37.0791664,-118.5374985,3.36,1.57,md,10,130,0.2471,0.15,nc,nc73971551,2023-12-04T05:25:14.558Z,"24 km WSW of Big Pine, CA",earthquake,1.73,14.7,0.41,2,automatic,nc,nc
 2023-12-04T05:05:53.420Z,58.1913,-155.0823,46.9,0.7,ml,,,,0.77,ak,ak023fj2nnn2,2023-12-04T05:07:26.506Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
-2023-12-04T05:05:06.310Z,37.0661659,-118.5274963,11.7,2.11,md,28,61,0.2382,0.05,nc,nc73971546,2023-12-04T05:11:10.485Z,"24 km WSW of Big Pine, CA",earthquake,0.62,2.07,0.25,14,automatic,nc,nc
+2023-12-04T05:05:06.310Z,37.0661659,-118.5274963,11.7,2.11,md,28,61,0.2382,0.05,nc,nc73971546,2023-12-04T07:01:13.116Z,"24 km WSW of Big Pine, CA",earthquake,0.62,2.07,0.25,14,automatic,nc,nc
 2023-12-04T04:59:01.337Z,8.8795,126.6735,43.712,5.4,mww,63,108,2.1,0.94,us,us7000lg1m,2023-12-04T05:21:07.158Z,"Mindanao, Philippines",earthquake,9.01,6.472,0.098,10,reviewed,us,us
 2023-12-04T04:43:49.204Z,8.378,126.915,55.774,5.1,mb,68,74,1.855,0.93,us,us7000lg1k,2023-12-04T05:19:52.954Z,"Mindanao, Philippines",earthquake,8.95,5.407,0.045,159,reviewed,us,us
 2023-12-04T04:32:15.730Z,37.045166,-121.4878311,4.67,2.41,md,50,67,0.01993,0.11,nc,nc73971541,2023-12-04T06:54:11.079Z,"8 km ENE of Gilroy, CA",earthquake,0.21,0.47,0.11,52,automatic,nc,nc
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T07:29:29.070Z,38.7873344,-122.7678299,1.46,1.5,md,26,80,0.01471,0.03,nc,nc73971071,2023-12-03T09:49:13.601Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.36,0.19,29,automatic,nc,nc
 2023-12-03T07:27:59.190Z,19.4080009460449,-155.270660400391,6.53000020980835,1.76,ml,17,104,,0.289999992,hv,hv73671627,2023-12-03T07:33:29.540Z,"Island of Hawaii, Hawaii",earthquake,0.8,0.660000026,0.32,5,automatic,hv,hv
 2023-12-03T07:11:00.002Z,8.7185,126.8649,49.962,4.8,mb,72,81,2.075,0.46,us,us7000lfsa,2023-12-03T08:00:00.040Z,"Mindanao, Philippines",earthquake,9.32,7.196,0.063,79,reviewed,us,us
-2023-12-03T06:59:58.551Z,37.3197,-117.6063,0,1.4,ml,14,174.4,0.092,0.2798,nn,nn00869614,2023-12-03T07:02:36.602Z,"48 km S of Silver Peak, Nevada",earthquake,,17.7,0.23,9,automatic,nn,nn
