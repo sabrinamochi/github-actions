@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-05T11:50:06.569Z,63.0088,-149.3956,83.4,2,ml,,,,0.05,ak,ak023fku15dc,2023-12-05T11:51:20.980Z,"48 km SSW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-05T11:38:40.840Z,38.8411674,-122.8778305,2.28,0.4,md,7,135,0.007286,0.01,nc,nc73972071,2023-12-05T11:49:11.456Z,"13 km NW of The Geysers, CA",earthquake,0.59,0.76,0.27,8,automatic,nc,nc
 2023-12-05T11:30:13.261Z,62.0322,-152.2201,16.6,1.8,ml,,,,0.75,ak,ak023fktwvke,2023-12-05T11:32:23.211Z,"43 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-05T11:24:05.280Z,34.3698349,-116.4596634,6.73,1.27,ml,31,73,0.1009,0.11,ci,ci40616264,2023-12-05T11:27:35.079Z,"28 km N of Yucca Valley, CA",earthquake,0.25,0.51,0.157,20,automatic,ci,ci
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T06:05:59.091Z,31.601,-103.986,4.595,1.7,ml,11,103,0,0.3,tx,tx2023xuac,2023-12-05T06:20:05.532Z,"36 km NNW of Toyah, Texas",earthquake,0,1.494230061,0.2,9,automatic,tx,tx
 2023-12-05T06:04:05.611Z,31.685,-104.437,6.7848,1.5,ml,14,55,0,0.3,tx,tx2023xuab,2023-12-05T06:23:00.319Z,"54 km S of Whites City, New Mexico",earthquake,0,2.659913174,0.3,9,automatic,tx,tx
 2023-12-05T06:02:25.052Z,12.1056,47.0533,10,4.5,mb,42,156,4.158,0.65,us,us7000lgc7,2023-12-05T06:33:41.040Z,"162 km NW of Las Khorey, Somalia",earthquake,11.93,1.965,0.096,32,reviewed,us,us
-2023-12-05T05:56:59.277Z,31.685,-104.431,6.1022,2.5,ml,15,51,0,0.3,tx,tx2023xtzv,2023-12-05T06:22:55.319Z,"54 km S of Whites City, New Mexico",earthquake,0,2.722396597,0.2,13,automatic,tx,tx
+2023-12-05T05:56:59.459Z,31.683,-104.435,6.183,2.5,ml,16,53,0,0.2,tx,tx2023xtzv,2023-12-05T11:50:13.879Z,"54 km S of Whites City, New Mexico",earthquake,0.9749844289,0.7776066314,0.1,17,reviewed,tx,tx
 2023-12-05T05:42:38.976Z,8.5559,127.281,47.079,4.7,mb,54,128,2.241,0.68,us,us7000lgby,2023-12-05T05:58:44.040Z,"Philippine Islands region",earthquake,9.88,7.534,0.076,53,reviewed,us,us
 2023-12-05T05:31:33.169Z,31.666,-104.381,4.4851,2.1,ml,15,70,0,0.2,tx,tx2023xtyz,2023-12-05T05:49:09.052Z,"56 km S of Whites City, New Mexico",earthquake,0,1.441658556,0.1,13,automatic,tx,tx
 2023-12-05T05:28:49.437Z,60.7852,-151.0658,43.8,2.1,ml,,,,0.71,ak,ak023fkqbxan,2023-12-05T05:31:01.855Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T12:19:23.945Z,27.2781,66.3235,10,5.2,mww,87,90,7.607,0.94,us,us7000lg3s,2023-12-04T12:36:28.040Z,"65 km SSW of Khuzdar, Pakistan",earthquake,6.13,1.857,0.083,14,reviewed,us,us
 2023-12-04T12:16:02.430Z,38.8320007,-122.8085022,2.06,0.78,md,19,45,0.00868,0.02,nc,nc73971641,2023-12-04T13:29:15.444Z,"8 km W of Cobb, CA",earthquake,0.24,0.42,0.15,20,automatic,nc,nc
 2023-12-04T12:07:05.260Z,33.0655,-116.0336667,8.31,0.61,ml,30,77,0.1175,0.17,ci,ci39722570,2023-12-04T12:13:12.411Z,"13 km SE of Ocotillo Wells, CA",earthquake,0.2,1.04,0.065,3,automatic,ci,ci
-2023-12-04T11:51:18.680Z,33.4858333,-116.763,7.71,0.62,ml,46,40,0.04092,0.18,ci,ci39722562,2023-12-04T11:57:31.444Z,"11 km ENE of Aguanga, CA",earthquake,0.15,0.43,0.105,18,automatic,ci,ci
-2023-12-04T11:49:57.690Z,38.7981682,-122.7603302,3.37,0.72,md,8,177,0.0025,0.01,nc,nc73971636,2023-12-04T12:57:13.227Z,"2 km N of The Geysers, CA",earthquake,0.58,1.46,0.04,8,automatic,nc,nc
