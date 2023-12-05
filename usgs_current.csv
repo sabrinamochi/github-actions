@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-05T19:43:37.470Z,34.3735008,-116.3931656,6.87,1.82,ml,50,44,0.08229,0.15,ci,ci40616432,2023-12-05T19:46:10.504Z,"28 km NNW of Joshua Tree, CA",earthquake,0.21,0.7,0.246,27,automatic,ci,ci
+2023-12-05T19:43:37.440Z,34.3726667,-116.3951667,7.62,1.81,ml,44,59,0.08166,0.12,ci,ci40616432,2023-12-05T19:50:27.708Z,"28 km NNW of Joshua Tree, CA",earthquake,0.13,0.4,0.183,27,automatic,ci,ci
 2023-12-05T19:33:49.510Z,35.0511667,-118.3523333,-0.53,1.45,ml,33,38,0.06107,0.18,ci,ci40616424,2023-12-05T19:40:21.159Z,"13 km SE of Tehachapi, CA",earthquake,0.2,0.48,0.129,26,automatic,ci,ci
 2023-12-05T19:15:31.380Z,38.8214989,-122.8528366,2.25,0.76,md,7,129,0.006811,0.01,nc,nc73972226,2023-12-05T19:48:14.363Z,"10 km WNW of The Geysers, CA",earthquake,0.5,1.21,0.18,7,automatic,nc,nc
 2023-12-05T19:10:43.950Z,32.8983333,-116.953,5.34,1.44,ml,47,105,0.06092,0.24,ci,ci40616408,2023-12-05T19:21:16.320Z,"5 km NNW of Lakeside, CA",earthquake,0.28,0.63,0.111,26,automatic,ci,ci
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T17:15:13.895Z,31.684,-104.158,4.2473,1.9,ml,14,151,0.1,0.2,tx,tx2023xuwg,2023-12-05T17:27:55.625Z,"western Texas",earthquake,0,1.560505242,0.2,12,automatic,tx,tx
 2023-12-05T17:15:13.100Z,38.7784996,-122.7653351,0.95,1.16,md,16,88,0.02253,0.04,nc,nc73972181,2023-12-05T19:18:12.161Z,"1 km W of The Geysers, CA",earthquake,0.25,0.59,0.12,17,automatic,nc,nc
 2023-12-05T17:13:18.128Z,31.683,-104.151,3.5813,1.9,mlv,12,105,0.1,0.4,tx,tx2023xuwd,2023-12-05T17:39:00.680Z,"western Texas",earthquake,0,1.57667611,0.1,9,automatic,tx,tx
-2023-12-05T16:58:45.420Z,44.4633333333333,-114.135333333333,6.62,1.53,ml,7,105,0.106,0.08,mb,mb90035028,2023-12-05T17:12:15.990Z,"8 km ESE of Challis, Idaho",earthquake,0.4,1.15,0.28266515264117,12,reviewed,mb,mb
+2023-12-05T16:58:45.420Z,44.4633333333333,-114.135333333333,6.62,1.53,ml,7,105,0.106,0.08,mb,mb90035028,2023-12-05T17:12:15.990Z,"southern Idaho",earthquake,0.4,1.15,0.28266515264117,12,reviewed,mb,mb
 2023-12-05T16:27:47.597Z,31.737,-104.118,4.6679,1.9,mlv,19,67,0,0.4,tx,tx2023xuuq,2023-12-05T16:55:12.484Z,"49 km W of Mentone, Texas",earthquake,0,1.197863083,0.2,15,automatic,tx,tx
 2023-12-05T16:06:49.940Z,38.7791672,-122.74617,-0.33,1.17,md,14,82,0.008427,0.04,nc,nc73972151,2023-12-05T18:35:12.856Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.74,0.13,15,automatic,nc,nc
 2023-12-05T16:06:45.080Z,18.7928,-64.3908,14,3.55,md,9,303,0.4412,0.29,pr,pr2023339000,2023-12-05T17:39:27.040Z,"66 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.44,2.48,0.14,5,reviewed,pr,pr
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T14:19:00.740Z,44.755,-110.9231667,8.5,0.08,md,6,142,0.05929,0.11,uu,uu60555842,2023-12-05T14:49:21.030Z,"Wyoming",earthquake,0.55,1.86,0.369,4,reviewed,uu,uu
 2023-12-05T14:17:03.420Z,44.7561667,-110.9245,10.26,0.9,md,8,144,0.05826,0.11,uu,uu60555837,2023-12-05T14:50:55.970Z,"17 km NE of West Yellowstone, Montana",earthquake,0.6,0.99,0.342,7,reviewed,uu,uu
 2023-12-05T14:10:12.670Z,44.7526667,-110.9203333,9.83,0.02,md,5,137,0.0612,0.09,uu,uu60555832,2023-12-05T14:54:33.910Z,"17 km NE of West Yellowstone, Montana",earthquake,0.61,1.1,0.6,3,reviewed,uu,uu
-2023-12-05T14:01:26.880Z,44.66,-114.370833333333,4.17,1.57,ml,10,116,0.6504,0.16,mb,mb90035013,2023-12-05T16:47:31.597Z,"20 km NNW of Challis, Idaho",earthquake,0.52,2.88,0.248648455306069,7,reviewed,mb,mb
+2023-12-05T14:01:26.880Z,44.66,-114.370833333333,4.17,1.57,ml,10,116,0.6504,0.16,mb,mb90035013,2023-12-05T16:47:31.597Z,"southern Idaho",earthquake,0.52,2.88,0.248648455306069,7,reviewed,mb,mb
 2023-12-05T13:51:05.990Z,44.7433333,-110.914,4.88,-0.08,md,6,121,0.0638,0.04,uu,uu60555827,2023-12-05T14:18:27.370Z,"Yellowstone National Park, Wyoming",earthquake,0.33,0.88,0.274,4,reviewed,uu,uu
 2023-12-05T13:46:06.660Z,37.4408333,-118.6278333,9.96,0.99,md,22,181,0.1816,0.05,nc,nc73972101,2023-12-05T19:13:12.130Z,"4 km NW of Round Valley, CA",earthquake,0.61,2.06,0.259,19,reviewed,nc,nc
 2023-12-05T13:42:04.457Z,31.571,-104.556,2.7396,1.9,ml,9,164,0.1,0.2,tx,tx2023xupd,2023-12-05T14:16:53.461Z,"western Texas",earthquake,0,2.107363385,0.1,6,automatic,tx,tx
