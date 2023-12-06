@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T17:58:23.005Z,31.674,-104.193,4.3042,1.6,mlv,15,105,0.1,0.5,tx,tx2023xwtc,2023-12-06T18:17:41.882Z,"western Texas",earthquake,0,1.590772053,0.1,12,automatic,tx,tx
 2023-12-06T17:54:52.610Z,35.7758333,-117.6016667,6.16,2.81,ml,33,64,0.1357,0.16,ci,ci40616936,2023-12-06T18:05:56.760Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.72,0.161,26,automatic,ci,ci
 2023-12-06T17:42:11.150Z,19.2451667785645,-155.39599609375,29.7299995422363,1.82000005,md,29,136,,0.119999997,hv,hv73674757,2023-12-06T17:45:21.870Z,"Hawaii region, Hawaii",earthquake,0.71,0.870000005,0.600000024,8,automatic,hv,hv
 2023-12-06T17:38:29.550Z,38.831665,-122.8181686,1.72,0.88,md,10,71,0.0104,0.01,nc,nc73972511,2023-12-06T18:05:13.987Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.89,0.27,11,automatic,nc,nc
@@ -95,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:08:31.800Z,32.7673333,-115.8375,2.16,1.31,ml,30,57,0.1238,0.21,ci,ci40616736,2023-12-06T03:14:49.798Z,"15 km ENE of Ocotillo, CA",earthquake,0.2,0.36,0.148,17,automatic,ci,ci
 2023-12-06T03:07:56.427Z,58.5437,-154.4871,0,3.7,ml,,,,0.54,ak,ak023fmcjwt3,2023-12-06T03:15:45.497Z,"101 km S of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T03:06:49.969Z,35.105,-97.5725,7.41,1.04,ml,41,49,0.05308958201,0.44,ok,ok2023xvps,2023-12-06T15:05:21.819Z,"0 km N of Cole, Oklahoma",earthquake,,0.8,0.21,16,reviewed,ok,ok
+2023-12-06T03:02:45.257Z,38.5683,-119.5062,6.6,0.8,ml,5,148.2,0.083,0.0987,nn,nn00869733,2023-12-06T18:15:23.780Z,"0 km NNE of Coleville, California",earthquake,,4.9,0.45,2,reviewed,nn,nn
 2023-12-06T03:01:16.875Z,31.676,-104.196,4.7948,1.7,ml,25,61,0.1,0.2,tx,tx2023xvpn,2023-12-06T13:42:10.126Z,"55 km NW of Toyah, Texas",earthquake,0.8888447827,1.531067944,0,7,reviewed,tx,tx
 2023-12-06T02:53:19.062Z,31.667,-104.207,6.3629,1.9,ml,20,62,0,0.2,tx,tx2023xvpi,2023-12-06T14:01:05.241Z,"55 km NW of Toyah, Texas",earthquake,0.8878046651,1.581949643,0,6,reviewed,tx,tx
 2023-12-06T02:51:40.450Z,46.8643333333333,-112.527666666667,9.54,1.26,ml,11,99,0.04876,0.1,mb,mb90035253,2023-12-06T15:30:10.760Z,"western Montana",earthquake,0.36,0.6,0.241897149392238,9,reviewed,mb,mb
@@ -183,6 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T18:55:34.882Z,60.5005,-150.8005,35.7,2,ml,,,,0.45,ak,ak023fky8bdc,2023-12-06T01:52:14.867Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-05T18:53:37.615Z,-15.303,-173.0775,38.917,4.7,mb,126,68,2.648,0.59,us,us7000lghh,2023-12-05T22:54:11.040Z,"105 km NE of Hihifo, Tonga",earthquake,7.67,6.714,0.051,124,reviewed,us,us
 2023-12-05T18:48:36.620Z,38.8195,-122.8225021,2.69,0.54,md,8,95,0.01046,0.01,nc,nc73972216,2023-12-05T21:29:15.110Z,"7 km NW of The Geysers, CA",earthquake,0.67,0.89,0.29,9,automatic,nc,nc
-2023-12-05T18:24:14.510Z,47.86083333333333,-122.34733333333334,16.13,2.15,ml,44,21,0.05045,0.37,uw,uw61966362,2023-12-05T22:37:27.008Z,"Puget Sound region, Washington",earthquake,0.48,0.82,0.15574821932556393,30,reviewed,uw,uw
-2023-12-05T18:16:38.234Z,63.0884,-151.4985,8.3,1.6,ml,,,,0.37,ak,ak023fkxzypb,2023-12-05T18:18:40.294Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-12-05T18:15:10.760Z,38.8356667,-122.8136673,2.3,0.4,md,9,97,0.01257,0.02,nc,nc73972206,2023-12-05T18:50:11.946Z,"8 km W of Cobb, CA",earthquake,0.58,1.53,0.26,10,automatic,nc,nc
