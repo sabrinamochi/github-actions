@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T13:36:01.530Z,19.2986660003662,-155.385162353516,1.12000000476837,1.71000004,md,21,166,,0.129999995,hv,hv73674622,2023-12-06T13:39:02.520Z,"Hawaii region, Hawaii",earthquake,0.42,0.589999974,0.850000024,3,automatic,hv,hv
+2023-12-06T13:23:05.670Z,17.8818333333333,-66.8466666666667,16.87,2.02,md,14,220,0.09777,0.16,pr,pr71433313,2023-12-06T13:36:22.170Z,"Puerto Rico region",earthquake,0.73,0.58,0.0263226264787773,3,reviewed,pr,pr
 2023-12-06T12:56:23.160Z,37.6098328,-122.3833313,11.86,1.85,md,30,80,0.04012,0.04,nc,nc73972471,2023-12-06T13:15:13.339Z,"1 km NNE of Millbrae, CA",earthquake,0.19,0.37,0.16,23,automatic,nc,nc
 2023-12-06T12:53:47.421Z,61.6697,-148.5232,31.4,2.5,ml,,,,0.41,ak,ak023fmi6nrq,2023-12-06T13:04:40.040Z,"14 km SSW of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-06T12:50:11.614Z,-31.3728,-68.6943,116.112,4.3,mb,34,113,0.173,1.03,us,us7000lgmz,2023-12-06T13:25:19.040Z,"17 km WNW of Albardón, Argentina",earthquake,4.22,8.852,0.16,11,reviewed,us,us
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T10:27:49.437Z,63.1703,-150.0826,85.6,1.6,ml,,,,0.52,ak,ak023fmgu83j,2023-12-06T10:29:40.240Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-06T10:10:10.427Z,61.1624,-152.1015,103.8,2.6,ml,,,,0.68,ak,ak023fmgqhwk,2023-12-06T10:13:59.349Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-06T09:28:04.833Z,12.4981,47.3467,10,4.5,mb,38,104,4.506,0.67,us,us7000lgma,2023-12-06T11:17:01.040Z,"Gulf of Aden",earthquake,9.46,1.894,0.101,29,reviewed,us,us
-2023-12-06T09:26:14.320Z,35.6473333,-121.0663333,6.3,1.47,md,31,120,0.07921,0.06,nc,nc73972446,2023-12-06T12:13:13.984Z,"9 km N of Cambria, CA",earthquake,0.29,0.77,0.22,24,reviewed,nc,nc
+2023-12-06T09:26:14.320Z,35.6473333,-121.0663333,6.3,1.47,md,31,120,0.07921,0.06,nc,nc73972446,2023-12-06T13:38:10.479Z,"9 km N of Cambria, CA",earthquake,0.29,0.77,0.22,24,reviewed,nc,nc
 2023-12-06T08:59:20.200Z,35.3373333,-120.63,5.54,0.85,md,19,77,0.04208,0.1,nc,nc73972441,2023-12-06T10:42:10.503Z,"6 km SSW of Santa Margarita, CA",earthquake,0.21,0.33,0.323,9,reviewed,nc,nc
 2023-12-06T08:57:35.722Z,62.0432,-149.7962,34.4,2.2,ml,,,,0.29,ak,ak023fmftrb8,2023-12-06T08:59:08.287Z,"13 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T08:54:59.115Z,64.7426,-149.2184,7.7,1.6,ml,,,,0.4,ak,ak023fmft5yv,2023-12-06T08:56:20.826Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -154,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T18:13:17.930Z,31.742,-104.115,6.4401,2,ml,28,44,0,0.1,tx,tx2023xuyc,2023-12-05T23:15:39.138Z,"49 km W of Mentone, Texas",earthquake,0.5694291596,0.6942340389,0.2,16,reviewed,tx,tx
 2023-12-05T18:12:47.390Z,38.8071671,-122.7714996,1.41,0.94,md,14,81,0.009408,0.05,nc,nc73972196,2023-12-05T20:35:13.669Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.49,0.24,14,automatic,nc,nc
 2023-12-05T18:10:32.918Z,12.0707,47.3968,10,4.5,mb,85,50,4.487,0.5,us,us7000lgh7,2023-12-05T21:52:36.040Z,"Gulf of Aden",earthquake,5.12,1.8,0.065,78,reviewed,us,us
-2023-12-05T18:09:49.325Z,8.9826,126.9131,43.977,4.5,mb,85,44,2.315,0.63,us,us7000lgh5,2023-12-05T20:22:39.040Z,"Mindanao, Philippines",earthquake,9.66,6.951,0.067,76,reviewed,us,us
+2023-12-05T18:09:49.325Z,8.9826,126.9131,43.977,4.5,mb,85,44,2.315,0.63,us,us7000lgh5,2023-12-05T20:22:39.040Z,"67 km E of Aras-asan, Philippines",earthquake,9.66,6.951,0.067,76,reviewed,us,us
 2023-12-05T18:00:07.140Z,48.23233333333334,-121.6525,11.74,0.63,md,5,188,0.03417,0.21,uw,uw61966357,2023-12-05T20:55:52.250Z,"Washington",earthquake,1.53,1.56,0.33977176855469005,4,reviewed,uw,uw
 2023-12-05T17:55:19.772Z,63.101,-150.4596,29.7,1.8,ml,,,,0.98,ak,ak023fkxmull,2023-12-05T17:56:53.982Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-05T17:52:42.020Z,38.793499,-122.7826691,3.56,0.6,md,12,104,0.004114,0.02,nc,nc73972191,2023-12-05T20:04:13.467Z,"3 km NW of The Geysers, CA",earthquake,0.44,0.86,0.15,14,automatic,nc,nc
@@ -200,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T13:46:06.660Z,37.4408333,-118.6278333,9.96,0.99,md,22,181,0.1816,0.05,nc,nc73972101,2023-12-05T19:13:12.130Z,"4 km NW of Round Valley, CA",earthquake,0.61,2.06,0.259,19,reviewed,nc,nc
 2023-12-05T13:42:14.473Z,37.4833,-114.6643,5.8,0.8,ml,9,134.07,0.317,0.1908,nn,nn00869690,2023-12-05T21:47:09.374Z,"Nevada",earthquake,,2.3,0.5,5,reviewed,nn,nn
 2023-12-05T13:42:04.457Z,31.571,-104.556,2.7396,1.9,ml,9,164,0.1,0.2,tx,tx2023xupd,2023-12-05T14:16:53.461Z,"western Texas",earthquake,0,2.107363385,0.1,6,automatic,tx,tx
-2023-12-05T13:37:14.390Z,19.2928333282471,-155.390670776367,1.70000004768372,1.85000002,md,9,130,,0.109999999,hv,hv73673707,2023-12-05T13:40:15.890Z,"13 km NE of Pāhala, Hawaii",earthquake,0.83,1.76999998,0.920000017,3,automatic,hv,hv
-2023-12-05T13:36:39.656Z,9.1263,126.8689,35,5.8,mww,71,91,2.41,1,us,us7000lges,2023-12-05T23:27:09.073Z,"Mindanao, Philippines",earthquake,8.68,1.93,0.071,19,reviewed,us,us
