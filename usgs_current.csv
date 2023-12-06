@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T23:07:21.540Z,19.2954998016357,-155.386993408203,2.1800000667572,2.35,ml,21,158,,0.159999996,hv,hv73674907,2023-12-06T23:12:53.260Z,"14 km NE of Pāhala, Hawaii",earthquake,0.47,0.670000017,0.31,3,automatic,hv,hv
+2023-12-06T23:01:16.040Z,38.8375015,-122.824501,1.72,1.01,md,17,84,0.008648,0.01,nc,nc73972586,2023-12-06T23:12:11.861Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.49,0.28,20,automatic,nc,nc
 2023-12-06T22:51:21.740Z,35.9326667,-117.304,-0.65,1.33,ml,20,84,0.2842,0.26,ci,ci40617000,2023-12-06T22:57:42.101Z,"20 km NNE of Trona, CA",earthquake,0.39,1.57,0.121,8,automatic,ci,ci
 2023-12-06T22:40:12.646Z,8.6879,127.2772,10,4.5,mb,43,130,2.327,0.43,us,us7000lgs0,2023-12-06T22:59:20.040Z,"108 km ESE of Aras-asan, Philippines",earthquake,5.74,1.871,0.086,40,reviewed,us,us
 2023-12-06T22:17:53.662Z,63.1786,-150.9589,142.3,1.8,ml,,,,0.22,ak,ak023fmnxaiu,2023-12-06T22:19:51.052Z,"Central Alaska",earthquake,,3,,,automatic,ak,ak
@@ -51,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T14:46:55.200Z,61.0744,-152.1654,103.9,2.2,ml,,,,0.35,ak,ak023fmjc1kg,2023-12-06T14:48:55.070Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-06T14:15:21.800Z,60.6129,-151.981,76.7,2.1,ml,,,,0.75,ak,ak023fmj5bsk,2023-12-06T14:17:28.443Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-06T14:06:22.273Z,36.7635,-116.2549,8.6,0,ml,18,69.01,0.029,0.0827,nn,nn00869720,2023-12-06T15:58:53.470Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.37,8,reviewed,nn,nn
-2023-12-06T13:58:55.390Z,44.4253333333333,-115.2055,4.64,1.99,ml,10,72,0.4102,0.09,mb,mb90035263,2023-12-06T16:19:37.910Z,"31 km NW of Stanley, Idaho",earthquake,0.31,1.55,0.173658072946126,12,reviewed,mb,mb
+2023-12-06T13:58:55.390Z,44.4253333333333,-115.2055,4.64,1.99,ml,10,72,0.4102,0.09,mb,mb90035263,2023-12-06T16:19:37.910Z,"southern Idaho",earthquake,0.31,1.55,0.173658072946126,12,reviewed,mb,mb
 2023-12-06T13:47:13.099Z,35.11166667,-97.5615,6.52,1.88,ml,90,41,0.05039011174,0.33,ok,ok2023xwkv,2023-12-06T15:13:12.435Z,"Oklahoma",earthquake,,0.5,0.21,38,reviewed,ok,ok
 2023-12-06T13:36:01.530Z,19.2986660003662,-155.385162353516,1.12000000476837,1.71000004,md,21,166,,0.129999995,hv,hv73674622,2023-12-06T13:39:02.520Z,"Hawaii region, Hawaii",earthquake,0.42,0.589999974,0.850000024,3,automatic,hv,hv
 2023-12-06T13:23:05.670Z,17.8818333333333,-66.8466666666667,16.87,2.02,md,14,220,0.09777,0.16,pr,pr71433313,2023-12-06T13:36:22.170Z,"Puerto Rico region",earthquake,0.73,0.58,0.0263226264787773,3,reviewed,pr,pr
@@ -114,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T05:53:08.310Z,39.3868,-119.1266,5.4,0.6,ml,6,155.01,0.381,0.1034,nn,nn00869742,2023-12-06T18:37:07.749Z,"9 km ESE of Silver Springs, Nevada",earthquake,,4.8,0,1,reviewed,nn,nn
 2023-12-06T05:34:34.780Z,35.095,-97.432,6.73,0.81,ml,7,279,0.07648499104,0.11,ok,ok2023xvuo,2023-12-06T15:49:30.273Z,"5 km SW of Noble, Oklahoma",earthquake,,0.8,0.06,4,reviewed,ok,ok
 2023-12-06T04:54:58.410Z,35.5943333,-117.4093333,8.82,1.56,ml,29,54,0.04379,0.13,ci,ci40616800,2023-12-06T15:45:50.881Z,"19 km S of Trona, CA",earthquake,0.17,0.29,0.119,16,reviewed,ci,ci
-2023-12-06T04:53:42.830Z,34.0283333,-117.1566667,13.38,1,ml,48,70,0.09181,0.15,ci,ci40616792,2023-12-06T05:00:12.186Z,"4 km SE of Redlands, CA",earthquake,0.15,0.46,0.182,18,automatic,ci,ci
+2023-12-06T04:53:42.830Z,34.0273333,-117.1565,13.87,0.99,ml,38,80,0.09258,0.18,ci,ci40616792,2023-12-06T23:03:22.132Z,"4 km SE of Redlands, CA",earthquake,0.21,0.61,0.167,15,reviewed,ci,ci
 2023-12-06T04:48:31.365Z,31.581,-104.032,8.1882,2.6,ml,27,66,0,0.1,tx,tx2023xvtb,2023-12-06T15:46:49.135Z,"37 km NW of Toyah, Texas",earthquake,0.6198544285,0.5102200392,0.2,17,reviewed,tx,tx
 2023-12-06T04:42:37.810Z,38.7886658,-122.7505035,3.63,0.77,md,12,108,0.01206,0.02,nc,nc73972411,2023-12-06T07:10:13.346Z,"1 km NNE of The Geysers, CA",earthquake,0.38,0.98,0.31,13,automatic,nc,nc
 2023-12-06T04:38:26.570Z,32.7386667,-115.8805,1.68,1.77,ml,47,35,0.09748,0.23,ci,ci40616784,2023-12-06T04:47:01.183Z,"11 km E of Ocotillo, CA",earthquake,0.2,0.39,0.188,26,automatic,ci,ci
