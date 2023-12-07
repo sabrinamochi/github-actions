@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-07T12:19:46.010Z,37.529335,-118.8706665,6.5,1.42,md,13,216,0.069,0.04,nc,nc73972781,2023-12-07T12:28:09.993Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.73,1.11,0.08,14,automatic,nc,nc
+2023-12-07T12:37:21.930Z,38.8333321,-122.8154984,1.72,1,md,18,75,0.01079,0.02,nc,nc73972791,2023-12-07T12:38:55.434Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.53,0.27,18,automatic,nc,nc
+2023-12-07T12:19:46.010Z,37.529335,-118.8706665,6.5,1.42,md,13,216,0.069,0.04,nc,nc73972781,2023-12-07T12:36:11.032Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.73,1.11,0.08,14,automatic,nc,nc
 2023-12-07T12:08:44.071Z,64.5295,-147.1753,17,0.9,ml,,,,0.52,ak,ak023fo5gbc6,2023-12-07T12:15:22.757Z,"13 km W of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-07T11:56:12.010Z,36.0416679,-120.6054993,2.76,1.04,md,9,104,0.02811,0.03,nc,nc73972776,2023-12-07T12:14:11.913Z,"22 km NW of Parkfield, CA",earthquake,0.39,1.02,0.09,5,automatic,nc,nc
 2023-12-07T11:50:18.007Z,31.68,-104.354,3.2843,1.5,ml,18,68,0.1,0.6,tx,tx2023xycm,2023-12-07T12:16:44.486Z,"55 km S of Whites City, New Mexico",earthquake,0,1.27887254,0.2,13,automatic,tx,tx
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T04:22:11.010Z,32.7571667,-115.8871667,2.57,1.65,ml,41,37,0.1118,0.25,ci,ci40617056,2023-12-07T04:33:31.540Z,"10 km ENE of Ocotillo, CA",earthquake,0.22,0.43,0.166,26,automatic,ci,ci
 2023-12-07T04:21:57.890Z,38.8353348,-122.8160019,1.81,1.09,md,23,61,0.01279,0.02,nc,nc73972651,2023-12-07T06:09:13.343Z,"8 km W of Cobb, CA",earthquake,0.19,0.48,0.1,24,automatic,nc,nc
 2023-12-07T04:18:59.599Z,31.615,-104.081,4.9473,2,ml,16,145,0,0.3,tx,tx2023xxnp,2023-12-07T04:50:07.878Z,"43 km NW of Toyah, Texas",earthquake,0,1.505877345,0.2,12,automatic,tx,tx
-2023-12-07T04:15:40.014Z,41.1549,49.7415,42.027,5.4,mww,113,41,1.86,0.96,us,us7000lgud,2023-12-07T12:09:17.383Z,"43 km NNE of Şuraabad, Azerbaijan",earthquake,5.42,4.26,0.059,28,reviewed,us,us
+2023-12-07T04:15:40.014Z,41.1549,49.7415,42.027,5.4,mww,113,41,1.86,0.96,us,us7000lgud,2023-12-07T12:38:29.672Z,"43 km NNE of Şuraabad, Azerbaijan",earthquake,5.42,4.26,0.059,28,reviewed,us,us
 2023-12-07T04:15:33.001Z,31.705,-104.482,6.4685,1.5,ml,9,83,0,0.3,tx,tx2023xxnm,2023-12-07T04:33:35.709Z,"western Texas",earthquake,0,2.572175901,0.2,7,automatic,tx,tx
 2023-12-07T04:10:36.590Z,35.11683333,-97.56566667,4.42,1.62,ml,75,41,0.05668887571,0.57,ok,ok2023xxni,2023-12-07T04:47:13.144Z,"1 km NNE of Cole, Oklahoma",earthquake,,1.1,0.24,34,reviewed,ok,ok
 2023-12-07T04:05:49.718Z,31.649,-104.053,3.6405,1.6,mlv,14,94,0,0.4,tx,tx2023xxnd,2023-12-07T04:32:56.798Z,"western Texas",earthquake,0,1.347035539,0.3,11,automatic,tx,tx
@@ -180,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T12:55:06.065Z,37.0257,-116.4061,8.1,-0.5,ml,5,91.38,0.024,0.0546,nn,nn00869758,2023-12-06T22:08:08.932Z,"Nevada",earthquake,,2.1,0.88,3,reviewed,nn,nn
 2023-12-06T12:53:47.421Z,61.6697,-148.5232,31.4,2.5,ml,,,,0.41,ak,ak023fmi6nrq,2023-12-06T13:04:40.040Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-06T12:50:11.614Z,-31.3728,-68.6943,116.112,4.3,mb,34,113,0.173,1.03,us,us7000lgmz,2023-12-06T13:25:19.040Z,"17 km WNW of Albardón, Argentina",earthquake,4.22,8.852,0.16,11,reviewed,us,us
-2023-12-06T12:37:28.903Z,61.8896,-149.4419,31.4,2.1,ml,,,,0.61,ak,ak023fmi36vu,2023-12-06T12:39:20.989Z,"19 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
