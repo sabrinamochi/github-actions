@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-07T21:40:03.050Z,38.8305016,-122.8141632,1.61,0.28,md,8,130,0.007782,0.01,nc,nc73972981,2023-12-07T21:41:38.962Z,"8 km NW of The Geysers, CA",earthquake,0.46,0.94,0.17,9,automatic,nc,nc
-2023-12-07T21:37:36.200Z,38.831501,-122.8148346,1.32,0.6,md,13,51,0.008907,0.01,nc,nc73972971,2023-12-07T21:39:12.943Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.9,0.32,13,automatic,nc,nc
+2023-12-07T21:37:36.200Z,38.831501,-122.8148346,1.32,0.6,md,13,51,0.008907,0.01,nc,nc73972971,2023-12-07T21:51:10.447Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.9,0.32,13,automatic,nc,nc
 2023-12-07T21:35:48.048Z,59.1298,-139.8578,9.1,3.2,ml,,,,0.59,ak,ak023foaz1v8,2023-12-07T21:45:50.040Z,"47 km S of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-07T21:35:25.790Z,38.8288345,-122.8134995,1.67,1.73,md,32,42,0.006055,0.03,nc,nc73972966,2023-12-07T21:46:10.419Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.17,34,automatic,nc,nc
 2023-12-07T21:21:51.211Z,63.2842,-151.0847,6.1,2.1,ml,,,,0.48,ak,ak023foaw235,2023-12-07T21:23:46.108Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:38:05.751Z,4.1846,127.8335,116.281,4.5,mb,31,83,3.422,0.49,us,us7000lgxv,2023-12-07T18:02:07.040Z,"272 km N of Tobelo, Indonesia",earthquake,9.53,8.907,0.108,29,reviewed,us,us
 2023-12-07T15:23:35.923Z,10.6797,-65.0735,10,4.6,mb,46,64,5.591,0.73,us,us7000lgxw,2023-12-07T21:07:48.401Z,"68 km NW of Lecherías, Venezuela",earthquake,9.28,1.92,0.097,36,reviewed,us,us
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.620Z,19.2875,-155.385833333333,1.61,1.63,ml,10,129,,0.09,hv,hv73675832,2023-12-07T17:47:13.070Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.65,0.00638374230567051,1,reviewed,hv,hv
@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T08:31:58.930Z,18.22,-68.0096666666667,92.18,3.35,md,13,205,0.4584,0.4,pr,pr71433448,2023-12-07T08:48:04.930Z,"Mona Passage, Dominican Republic",earthquake,4.55,1.89,0.176579246237958,8,reviewed,pr,pr
 2023-12-07T08:29:43.690Z,19.2708339691162,-155.398330688477,29.9799995422363,2.39,ml,45,122,,0.119999997,hv,hv73675327,2023-12-07T09:31:13.155Z,"11 km NE of Pāhala, Hawaii",earthquake,0.44,0.699999988,0.17,5,automatic,hv,hv
 2023-12-07T08:19:50.930Z,44.6588333333333,-114.376166666667,9.47,1.82,ml,13,79,0.5574,0.11,mb,mb90035443,2023-12-07T16:10:51.290Z,"20 km NW of Challis, Idaho",earthquake,0.36,0.92,0.167130870627856,14,reviewed,mb,mb
-2023-12-07T07:56:57.973Z,61.2133,-146.514,15,3.4,ml,,,,0.62,ak,ak023fo2ri4e,2023-12-07T20:04:25.850Z,"12 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-12-07T07:56:57.973Z,61.2133,-146.514,15,3.4,ml,,,,0.62,ak,ak023fo2ri4e,2023-12-07T21:51:35.931Z,"12 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-12-07T07:51:56.890Z,19.3833332061768,-155.280838012695,0.209999993443489,1.97,ml,9,93,,0.150000006,hv,hv73675307,2023-12-07T07:57:33.380Z,"8 km SW of Volcano, Hawaii",earthquake,0.57,0.50999999,0.25,10,automatic,hv,hv
 2023-12-07T07:51:55.970Z,19.382999420166,-155.278839111328,1.62999999523163,2.03,ml,20,70,,0.109999999,hv,hv73675302,2023-12-07T07:57:27.370Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.23,9,automatic,hv,hv
 2023-12-07T07:47:51.640Z,38.8226662,-122.7646637,2.06,0.77,md,8,194,0.008806,0.01,nc,nc73972736,2023-12-07T10:11:11.719Z,"4 km W of Cobb, CA",earthquake,0.77,1.2,0.08,10,automatic,nc,nc
