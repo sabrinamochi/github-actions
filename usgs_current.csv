@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-07T17:32:27.330Z,33.9815,-116.9446667,16.45,1.4,ml,52,52,0.112,0.15,ci,ci40617272,2023-12-07T17:39:06.474Z,"6 km NNE of Beaumont, CA",earthquake,0.15,0.44,0.144,28,automatic,ci,ci
-2023-12-07T17:32:22.640Z,19.3926658630371,-155.262161254883,-0.180000007152557,1.84,ml,17,51,,0.25,hv,hv73676057,2023-12-07T17:37:53.410Z,"6 km SSW of Volcano, Hawaii",earthquake,0.22,0.330000013,0.23,4,automatic,hv,hv
+2023-12-07T17:32:22.640Z,19.3926658630371,-155.262161254883,-0.180000007152557,1.84,ml,17,51,,0.25,hv,hv73676057,2023-12-07T17:39:42.424Z,"6 km SSW of Volcano, Hawaii",earthquake,0.22,0.330000013,0.23,4,automatic,hv,hv
 2023-12-07T17:30:53.740Z,19.3781661987305,-155.237335205078,1.79999995231628,1.81,ml,17,114,,0.119999997,hv,hv73676052,2023-12-07T17:36:23.800Z,"7 km S of Volcano, Hawaii",earthquake,0.25,0.200000003,0.22,6,automatic,hv,hv
 2023-12-07T17:27:54.810Z,38.8283348,-122.8143311,1.73,1.68,md,30,43,0.005949,0.04,nc,nc73972866,2023-12-07T17:39:10.917Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.32,0.14,30,automatic,nc,nc
 2023-12-07T17:23:34.740Z,19.3853340148926,-155.279830932617,0.819999992847443,2.02,ml,18,66,,0.230000004,hv,hv73676032,2023-12-07T17:29:05.760Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.239999995,0.21,8,automatic,hv,hv
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T17:05:45.200Z,19.2838333333333,-155.387166666667,1.58,2.03,md,10,112,,0.1,hv,hv73675982,2023-12-07T17:36:04.150Z,"Hawaii region, Hawaii",earthquake,0.35,0.62,0.178016987951826,3,reviewed,hv,hv
 2023-12-07T17:05:03.491Z,62.8685,-148.9288,0,1.7,ml,,,,1.35,ak,ak023fo8esj1,2023-12-07T17:07:02.177Z,"58 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T16:51:23.380Z,33.93,-116.7966667,16.54,1.21,ml,44,48,0.1053,0.14,ci,ci40617240,2023-12-07T17:02:21.430Z,"2 km NNW of Cabazon, CA",earthquake,0.17,0.5,0.182,27,automatic,ci,ci
-2023-12-07T16:49:21.481Z,37.3365,-114.5755,16,2,ml,12,305,0.953,0.5014,nn,nn00869798,2023-12-07T16:52:04.659Z,"31 km S of Caliente, Nevada",earthquake,,2.2,0.16,9,automatic,nn,nn
+2023-12-07T16:49:22.412Z,37.2265,-114.6124,2.5,1.7,ml,11,130.96,0.393,0.1762,nn,nn00869798,2023-12-07T17:41:12.465Z,"Nevada",earthquake,,4.2,0.28,8,reviewed,nn,nn
 2023-12-07T16:36:32.810Z,46.2191666666667,-110.934833333333,4.82,0.64,ml,5,207,0.2027,0.02,mb,mb90035458,2023-12-07T16:45:26.890Z,"29 km NNW of Sedan, Montana",earthquake,1.03,4.69,0.113549814118652,3,reviewed,mb,mb
 2023-12-07T16:34:52.256Z,63.3238,-151.7765,0,2.5,ml,,,,0.68,ak,ak023fo7zofm,2023-12-07T16:36:42.765Z,"24 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T16:30:22.150Z,32.7681667,-115.829,5.14,1.62,ml,23,59,0.118,0.21,ci,ci40617232,2023-12-07T16:38:03.388Z,"16 km ENE of Ocotillo, CA",earthquake,0.25,0.79,0.172,30,automatic,ci,ci
@@ -30,13 +30,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:51:54.777Z,61.1208,-150.2421,57.1,2.3,ml,,,,0.21,ak,ak023fo7hw7p,2023-12-07T15:53:31.806Z,"21 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-07T15:41:03.609Z,35.11816667,-97.56383333,6.45,1.45,ml,36,56,0.05668887571,0.33,ok,ok2023xykc,2023-12-07T15:59:41.239Z,"1 km NNE of Cole, Oklahoma",earthquake,,0.8,0.17,12,reviewed,ok,ok
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.800Z,19.2961673736572,-155.383666992188,2.28999996185303,2.25,ml,8,194,,0.0599999987,hv,hv73675832,2023-12-07T15:12:29.010Z,"14 km NE of Pāhala, Hawaii",earthquake,0.61,0.779999971,3.17,5,automatic,hv,hv
 2023-12-07T15:01:46.107Z,34.8388,119.9638,10,5.1,mb,124,74,5.987,0.71,us,us7000lgxu,2023-12-07T17:16:00.040Z,"72 km SE of Taoluo, China",earthquake,2.41,1.869,0.056,106,reviewed,us,us
 2023-12-07T14:49:02.089Z,12.1512,47.5191,10,5.1,mb,28,137,4.616,1.03,us,us7000lgxl,2023-12-07T15:04:08.040Z,"132 km NW of Las Khorey, Somalia",earthquake,7.61,1.937,0.117,24,reviewed,us,us
 2023-12-07T14:33:22.430Z,38.8113327,-122.7385025,0.45,1.44,md,15,128,0.01972,0.03,nc,nc73972831,2023-12-07T16:07:11.349Z,"2 km SW of Cobb, CA",earthquake,0.27,0.9,0.17,19,automatic,nc,nc
+2023-12-07T14:23:16.520Z,47.611333333333334,-121.74183333333333,13.41,1.56,ml,19,108,0.08919,0.13,uw,uw61966562,2023-12-07T17:40:35.710Z,"11 km NE of Snoqualmie, Washington",earthquake,0.4,0.53,0.18825854260592545,8,reviewed,uw,uw
 2023-12-07T14:11:37.687Z,8.4399,126.5341,76.878,4.6,mb,22,130,1.658,0.78,us,us7000lgxi,2023-12-07T15:17:29.040Z,"23 km ENE of Hinatuan, Philippines",earthquake,13.46,7.34,0.116,22,reviewed,us,us
 2023-12-07T13:58:11.440Z,33.9833333,-116.4358333,7.12,1.01,ml,40,80,0.04813,0.16,ci,ci40617160,2023-12-07T14:04:47.231Z,"7 km ENE of Desert Hot Springs, CA",earthquake,0.18,0.5,0.093,19,automatic,ci,ci
 2023-12-07T13:40:15.459Z,38.1137,-117.0206,7.2,1.3,ml,13,132.35,0.132,0.1585,nn,nn00869795,2023-12-07T16:42:14.179Z,"19 km ENE of Tonopah, Nevada",earthquake,,1.6,0.23,3,reviewed,nn,nn
