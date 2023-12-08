@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-08T22:45:08.790Z,19.2999992370605,-155.216339111328,1.75999999046326,1.73000002,md,33,163,,0.170000002,hv,hv73678877,2023-12-08T22:48:11.130Z,"15 km S of Volcano, Hawaii",earthquake,0.44,0.730000019,0.829999983,19,automatic,hv,hv
+2023-12-08T22:45:08.790Z,19.2999992370605,-155.216339111328,1.75999999046326,1.95,ml,33,163,,0.170000002,hv,hv73678877,2023-12-08T22:50:39.950Z,"15 km S of Volcano, Hawaii",earthquake,0.44,0.730000019,0.3,3,automatic,hv,hv
 2023-12-08T22:43:01.706Z,59.7818,-152.673,83,1.8,ml,,,,0.41,ak,ak023fpz5g4a,2023-12-08T22:44:55.126Z,"47 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-08T22:38:47.130Z,40.2475014,-121.1719971,0.82,2.05,md,4,199,0.2436,0,nc,nc73973361,2023-12-08T22:45:12.962Z,"3 km N of Almanor, CA",earthquake,1.12,7.92,0.08,5,automatic,nc,nc
 2023-12-08T22:36:02.608Z,60.6984,-151.7411,69.1,0.9,ml,,,,0.69,ak,ak023fpz3yfo,2023-12-08T22:38:34.967Z,"24 km W of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -40,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T17:52:03.230Z,19.2590007781982,-155.384674072266,30.9799995422363,1.98000002,md,41,133,,0.119999997,hv,hv73678617,2023-12-08T17:55:24.260Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.64,0.75,0.370000005,20,automatic,hv,hv
 2023-12-08T17:48:57.110Z,34.1483333,-116.9653333,0.07,1.82,ml,69,20,0.05986,0.17,ci,ci40617656,2023-12-08T18:07:40.634Z,"12 km SSW of Big Bear Lake, CA",earthquake,0.11,0.21,0.151,28,automatic,ci,ci
 2023-12-08T17:44:55.280Z,48.298,-121.943,1.02,1.59,ml,14,138,0.1035,0.16,uw,uw61966807,2023-12-08T18:07:47.730Z,"3 km NNW of Oso, Washington",earthquake,0.57,0.74,0.1336599388275994,9,reviewed,uw,uw
+2023-12-08T17:43:03.234Z,-25.2887,-68.9944,110.379,4.5,mb,44,45,0.554,1.03,us,us7000lhjs,2023-12-08T22:50:13.040Z,"150 km E of Taltal, Chile",earthquake,7.29,6.16,0.091,39,reviewed,us,us
 2023-12-08T17:37:36.470Z,33.972,-116.2101667,11.88,1.14,ml,26,56,0.05559,0.11,ci,ci40617648,2023-12-08T22:44:21.756Z,"20 km SSE of Joshua Tree, CA",earthquake,0.17,0.36,0.115,15,reviewed,ci,ci
 2023-12-08T17:37:24.070Z,37.4985008,-118.8256683,4.1,1.67,md,23,99,0.09141,0.04,nc,nc73973291,2023-12-08T18:38:10.497Z,"15 km WSW of Toms Place, CA",earthquake,0.42,1.16,0.12,20,automatic,nc,nc
 2023-12-08T17:36:31.070Z,38.7729988,-122.7426682,1.49,0.73,md,7,78,0.01123,0.02,nc,nc73973286,2023-12-08T18:11:12.493Z,"1 km ESE of The Geysers, CA",earthquake,1.34,1.26,0.07,7,automatic,nc,nc
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T15:00:41.250Z,34.014,-116.3451667,3.02,2.14,ml,65,36,0.06652,0.16,ci,ci40617584,2023-12-08T15:11:51.860Z,"14 km SE of Yucca Valley, CA",earthquake,0.12,0.35,0.17,26,automatic,ci,ci
 2023-12-08T14:53:41.010Z,33.184,-116.4133333,12.29,0.9,ml,30,71,0.08403,0.19,ci,ci40617576,2023-12-08T22:29:24.456Z,"9 km SSW of Borrego Springs, CA",earthquake,0.27,0.72,0.115,12,reviewed,ci,ci
 2023-12-08T14:53:30.180Z,33.183,-116.4093333,12.5,0.73,ml,23,134,0.08522,0.16,ci,ci40617568,2023-12-08T22:29:50.577Z,"9 km SSW of Borrego Springs, CA",earthquake,0.31,0.73,0.155,6,reviewed,ci,ci
-2023-12-08T14:49:00.491Z,51.2556,179.2842,35,3.9,mb,18,252,0.769,0.99,us,us7000lhg7,2023-12-08T19:19:04.302Z,"291 km WSW of Adak, Alaska",earthquake,10.04,2.024,0.149,14,reviewed,us,us
+2023-12-08T14:49:00.491Z,51.2556,179.2842,35,3.9,mb,18,252,0.769,0.99,us,us7000lhg7,2023-12-08T19:21:48.150Z,"291 km WSW of Adak, Alaska",earthquake,10.04,2.024,0.149,14,reviewed,us,us
 2023-12-08T14:41:54.960Z,19.0389995574951,-155.475997924805,36,2.18000007,md,35,198,,0.150000006,hv,hv73678467,2023-12-08T14:45:10.780Z,"11 km ESE of Naalehu, Hawaii",earthquake,0.73,0.959999979,1.09000003,3,automatic,hv,hv
 2023-12-08T14:16:41.050Z,19.3561668395996,-155.297332763672,2.15000009536743,1.88,ml,19,113,,0.189999998,hv,hv73678427,2023-12-08T14:22:10.430Z,"11 km SW of Volcano, Hawaii",earthquake,0.37,0.639999986,0.11,3,automatic,hv,hv
 2023-12-08T14:01:11.450Z,34.1433333,-116.8966667,12.19,0.98,ml,26,64,0.05937,0.12,ci,ci40617560,2023-12-08T21:47:54.890Z,"11 km S of Big Bear Lake, CA",earthquake,0.21,0.52,0.059,8,reviewed,ci,ci
