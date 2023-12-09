@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T00:05:43.590Z,45.31733333333333,-121.68416666666667,6.64,0.27,ml,9,162,0.02396,0.11,uw,uw61975721,2023-12-09T01:23:27.850Z,"5 km ENE of Government Camp, Oregon",earthquake,0.41,0.75,0.03930809645601192,2,reviewed,uw,uw
 2023-12-08T23:59:01.350Z,34.0153333,-116.3468333,4.03,2.15,ml,46,51,0.06465,0.18,ci,ci40617792,2023-12-09T03:37:41.590Z,"14 km SE of Yucca Valley, CA",earthquake,0.18,0.43,0.076,7,automatic,ci,ci
 2023-12-08T23:58:58.720Z,38.8388329,-122.8241653,1.83,0.74,md,7,143,0.008845,0.01,nc,nc73973401,2023-12-09T01:26:10.892Z,"9 km WNW of Cobb, CA",earthquake,0.47,1.26,0.43,8,automatic,nc,nc
-2023-12-08T23:58:18.890Z,34.0131683,-116.345665,2.27,3.33,ml,112,23,0.06699,0.17,ci,ci40617784,2023-12-09T03:40:56.905Z,"14 km SE of Yucca Valley, CA",earthquake,0.16,0.43,0.269,17,automatic,ci,ci
+2023-12-08T23:58:18.890Z,34.0131683,-116.345665,2.27,3.33,ml,112,23,0.06699,0.17,ci,ci40617784,2023-12-09T04:00:47.005Z,"14 km SE of Yucca Valley, CA",earthquake,0.16,0.43,0.269,17,automatic,ci,ci
 2023-12-08T23:54:32.586Z,63.8132,-149.113,3.9,1.6,ml,,,,0.48,ak,ak023fpztaze,2023-12-08T23:56:23.123Z,"8 km SW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-08T23:46:42.403Z,59.8095,-151.4048,31.8,1.6,ml,,,,0.52,ak,ak023fpzrm0g,2023-12-08T23:48:49.982Z,"10 km NW of Fritz Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-08T23:41:12.610Z,45.3155,-121.67983333333333,4.9,1.52,ml,11,148,0.02148,0.09,uw,uw61975716,2023-12-09T01:00:08.480Z,"6 km ENE of Government Camp, Oregon",earthquake,0.37,0.53,0.12411140993542957,7,reviewed,uw,uw
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T23:34:19.220Z,19.2291660308838,-155.380340576172,30.1900005340576,2.75,md,49,151,,0.150000006,hv,hv73678942,2023-12-08T23:52:08.880Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.589999974,2.22000003,37,automatic,hv,hv
 2023-12-08T23:31:16.553Z,60.3823,-149.9551,30.9,1.7,ml,,,,0.79,ak,ak023fpzoc9z,2023-12-08T23:32:56.865Z,"13 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-08T23:30:14.458Z,37.4981,72.1941,201.491,4.6,mb,32,57,2.001,0.54,us,us7000lhml,2023-12-09T00:16:38.040Z,"56 km E of Khorugh, Tajikistan",earthquake,7.72,8.7,0.182,9,reviewed,us,us
-2023-12-08T23:21:52.082Z,43.9123,-111.0769,10,3.6,ml,26,66,0.277,0.4,us,us7000lhmj,2023-12-09T03:56:03.806Z,"12 km NNE of Tetonia, Idaho",earthquake,1.3,2.023,0.044,69,reviewed,us,us
+2023-12-08T23:21:52.082Z,43.9123,-111.0769,10,3.6,ml,26,66,0.277,0.4,us,us7000lhmj,2023-12-09T04:01:13.809Z,"12 km NNE of Tetonia, Idaho",earthquake,1.3,2.023,0.044,69,reviewed,us,us
 2023-12-08T23:20:17.250Z,47.0775,-122.048,13.74,1.49,ml,44,88,0.09386,0.14,uw,uw61975711,2023-12-09T00:37:09.370Z,"0 km SE of Carbonado, Washington",earthquake,0.25,0.46,0.13505632377975785,26,reviewed,uw,uw
 2023-12-08T23:11:22.730Z,35.1095,-97.57616667,4.9,1.26,ml,47,41,0.05758869913,0.52,ok,ok2023yaul,2023-12-08T23:34:06.872Z,"0 km NNW of Cole, Oklahoma",earthquake,,1.1,0.21,19,reviewed,ok,ok
 2023-12-08T23:06:44.523Z,57.7355,-155.2802,58.3,2.1,ml,,,,0.29,ak,ak023fpzj1j8,2023-12-08T23:09:04.633Z,"52 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T22:37:19.693Z,56.547,-34.2926,10,4.9,mb,58,81,7.39,0.76,us,us7000lhmc,2023-12-08T23:01:31.040Z,"Reykjanes Ridge",earthquake,9.34,1.898,0.072,61,reviewed,us,us
 2023-12-08T22:36:02.608Z,60.6984,-151.7411,69.1,0.9,ml,,,,0.69,ak,ak023fpz3yfo,2023-12-08T22:38:34.967Z,"24 km W of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-08T22:35:21.970Z,62.9934,-150.667,113.7,1.6,ml,,,,0.65,ak,ak023fpz3ryd,2023-12-08T22:37:16.099Z,"55 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-12-08T22:18:53.858Z,38.5315,-119.5056,6.2,1.2,ml,7,164.97,0.06,0.1452,nn,nn00869927,2023-12-09T04:00:38.198Z,"3 km NW of Walker, California",earthquake,,2.8,0.02,2,reviewed,nn,nn
 2023-12-08T22:12:50.820Z,64.9215,-147.3192,0,1.4,ml,,,,0.8,ak,ak023fpyywpm,2023-12-08T22:21:55.809Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-08T22:11:47.210Z,19.2509994506836,-155.395172119141,30.0400009155273,1.72000003,md,37,150,,0.119999997,hv,hv73678837,2023-12-08T22:14:52.970Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.800000012,1.19000006,10,automatic,hv,hv
 2023-12-08T22:05:23.300Z,37.6023331,-118.8498306,6.19,1.62,md,17,147,0.01963,0.04,nc,nc73973356,2023-12-08T23:04:13.086Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.73,1.08,0.12,18,automatic,nc,nc
@@ -260,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T04:18:11.374Z,60.0972,-152.5374,102.1,1.9,ml,,,,0.1,ak,ak023fpoab2p,2023-12-08T04:38:36.040Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-12-08T04:09:53.220Z,46.18816666666667,-122.20683333333334,8.89,0.27,ml,10,72,0.01202,0.27,uw,uw61966722,2023-12-08T07:31:24.740Z,"36 km NNE of Amboy, Washington",earthquake,2.06,1.5,0.1592022410336128,8,reviewed,uw,uw
 2023-12-08T04:08:59.370Z,19.064,-155.429666666667,52.16,2.07,md,32,198,,0.13,hv,hv73677272,2023-12-08T06:00:35.850Z,"15 km E of Naalehu, Hawaii",earthquake,0.88,0.71,0.157101658067344,17,reviewed,hv,hv
-2023-12-08T04:01:40.880Z,19.0746666666667,-155.441666666667,41.86,1.91,md,26,193,,0.14,hv,hv73677257,2023-12-08T05:54:40.820Z,"14 km E of Naalehu, Hawaii",earthquake,0.98,0.7,0.161481925098362,12,reviewed,hv,hv
