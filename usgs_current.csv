@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T18:17:36.860Z,33.1635,-115.6643333,0.06,1.79,ml,8,215,0.04013,0.29,ci,ci40618088,2023-12-09T18:24:43.644Z,"15 km NNW of Westmorland, CA",earthquake,2.63,6.04,0.337,10,automatic,ci,ci
 2023-12-09T18:15:04.630Z,38.8291664,-122.8138351,2.14,0.72,md,11,79,0.006469,0.02,nc,nc73973801,2023-12-09T18:55:11.134Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.8,0.28,12,automatic,nc,nc
 2023-12-09T18:14:13.770Z,33.1591667,-115.6535,3.37,1.46,ml,26,49,0.03527,0.21,ci,ci40618080,2023-12-09T18:21:05.442Z,"14 km WNW of Calipatria, CA",earthquake,0.31,0.48,0.149,23,automatic,ci,ci
+2023-12-09T18:06:16.020Z,38.8358333,-122.8095,2.58,-0.24,md,12,59,0.01243,0.03,nc,nc73973796,2023-12-09T20:21:41.889Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.64,0.189,11,reviewed,nc,nc
 2023-12-09T17:54:05.721Z,32.0003,-101.3997,0.85,2.7,mb_lg,35,36,0.248,0.28,us,us7000lhs6,2023-12-09T18:05:59.040Z,"12 km SSW of Forsan, Texas",earthquake,2.73,4.99,0.124,17,reviewed,us,us
 2023-12-09T17:52:44.027Z,59.9564,-139.7415,0,1.7,ml,,,,1.26,ak,ak023frjrnaq,2023-12-09T17:55:03.307Z,"45 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-09T17:25:07.772Z,56.6413,-34.391,10,4.9,mb,124,54,7.285,0.77,us,us7000lhs1,2023-12-09T17:57:03.040Z,"Reykjanes Ridge",earthquake,9.43,1.874,0.036,241,reviewed,us,us
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T14:53:05.820Z,33.7651667,-116.9375,14.37,0.99,ml,40,41,0.04967,0.15,ci,ci40618008,2023-12-09T14:59:38.450Z,"3 km SE of San Jacinto, CA",earthquake,0.18,0.51,0.151,20,automatic,ci,ci
 2023-12-09T14:52:03.690Z,38.8354988,-122.8033371,1.85,0.72,md,16,62,0.01056,0.03,nc,nc73973751,2023-12-09T16:10:10.142Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.65,0.07,15,automatic,nc,nc
 2023-12-09T14:51:37.034Z,62.8881,-150.4231,102.6,2.9,ml,,,,0.46,ak,ak023frhz46j,2023-12-09T15:48:25.040Z,"47 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-09T14:27:22.410Z,18.8785,-64.3833,7,5.7,ml,26,222,0.5198,0.21,pr,pr2023343002,2023-12-09T19:17:51.513Z,"74 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,0.79,0.82,0.16,17,reviewed,pr,pr
+2023-12-09T14:27:22.410Z,18.8785,-64.3833,7,5.7,ml,26,222,0.5198,0.21,pr,pr2023343002,2023-12-09T20:22:08.554Z,"74 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,0.79,0.82,0.16,17,reviewed,pr,pr
 2023-12-09T14:24:51.195Z,61.0506,-148.4435,15.2,1.6,ml,,,,0.71,ak,ak023frhtczj,2023-12-09T14:27:08.566Z,"33 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-09T14:23:20.136Z,31.673,-104.411,3.9963,2.2,ml,17,70,0,0.5,tx,tx2023ybyn,2023-12-09T14:54:16.398Z,"55 km S of Whites City, New Mexico",earthquake,0,1.391577063,0.2,12,automatic,tx,tx
 2023-12-09T14:15:23.919Z,63.272,-147.3438,3.2,2.1,ml,,,,0.61,ak,ak023frhrdfr,2023-12-09T14:17:11.548Z,"81 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -250,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T20:46:55.550Z,56.4837,-34.3355,10,4.9,mb,121,125,7.416,0.54,us,us7000lhla,2023-12-08T21:31:27.040Z,"Reykjanes Ridge",earthquake,8.53,1.831,0.047,142,reviewed,us,us
 2023-12-08T20:30:15.939Z,-42.8572,172.8625,19.256,4.2,mwr,40,80,0.168,1.01,us,us7000lhkv,2023-12-09T00:25:53.030Z,"34 km NNE of Amberley, New Zealand",earthquake,1.55,4.008,0.047,44,reviewed,us,us
 2023-12-08T20:29:41.891Z,56.4158,-34.3407,10,4.6,mb,85,110,7.461,0.67,us,us7000lhle,2023-12-08T21:55:10.040Z,"Reykjanes Ridge",earthquake,9.87,1.884,0.066,73,reviewed,us,us
-2023-12-08T20:22:04.900Z,19.3331666666667,-155.113,5.86,2.35,ml,40,129,,0.11,hv,hv73678737,2023-12-08T22:06:42.290Z,"14 km S of Fern Forest, Hawaii",earthquake,0.41,0.58,0.148900918874536,16,reviewed,hv,hv
