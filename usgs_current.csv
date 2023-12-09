@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-09T22:07:50.090Z,33.7659988,-116.9325027,14.47,1.11,ml,24,105,0.08149,0.2,ci,ci40618352,2023-12-09T22:09:57.640Z,"3 km SE of San Jacinto, CA",earthquake,0.37,0.77,0.126,8,automatic,ci,ci
-2023-12-09T22:05:57.960Z,33.1756668,-115.6563339,3,2.01,ml,32,52,0.02928,0.23,ci,ci40618344,2023-12-09T22:08:09.630Z,"14 km WNW of Calipatria, CA",earthquake,0.43,0.64,0.33,29,automatic,ci,ci
+2023-12-09T22:05:57.950Z,33.1658333,-115.6523333,3.81,1.93,ml,50,32,0.03034,0.22,ci,ci40618344,2023-12-09T22:12:58.910Z,"14 km WNW of Calipatria, CA",earthquake,0.21,0.31,0.156,26,automatic,ci,ci
 2023-12-09T21:58:26.200Z,33.1795,-115.6476667,3.96,1.51,ml,23,129,0.02136,0.2,ci,ci40618336,2023-12-09T22:08:27.178Z,"14 km WSW of Niland, CA",earthquake,0.46,0.25,0.334,20,automatic,ci,ci
 2023-12-09T21:58:02.070Z,60.6616,-150.7443,43.1,2.4,ml,,,,0.15,ak,ak023frm6krz,2023-12-09T21:59:26.288Z,"13 km N of Sterling, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-12-09T21:57:31.340Z,33.1696667,-115.6481667,4.07,1.45,ml,35,36,0.02532,0.2,ci,ci40618328,2023-12-09T22:06:44.636Z,"13 km WNW of Calipatria, CA",earthquake,0.23,0.48,0.193,24,automatic,ci,ci
@@ -180,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:55:11.830Z,36.5625,-121.1606667,6.04,1.54,md,34,125,0.02193,0.06,nc,nc73973531,2023-12-09T19:26:11.298Z,"4 km NNW of Pinnacles, CA",earthquake,0.18,0.24,0.191,32,reviewed,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.270Z,36.5366667,-121.127,3.66,1.1,md,22,104,0.01501,0.11,nc,nc73973526,2023-12-09T19:54:11.454Z,"2 km ENE of Pinnacles, CA",earthquake,0.24,0.4,0.136,18,reviewed,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T22:04:05.473Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T22:13:19.818Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T22:18:53.858Z,38.5315,-119.5056,6.2,1.2,ml,7,164.97,0.06,0.1452,nn,nn00869927,2023-12-09T04:00:38.198Z,"3 km NW of Walker, California",earthquake,,2.8,0.02,2,reviewed,nn,nn
 2023-12-08T22:15:03.330Z,46.0163333333333,-111.431833333333,8.4,1.27,ml,10,94,0.2045,0.14,mb,mb90035763,2023-12-09T16:10:46.330Z,"5 km WSW of Ponderosa Pines, Montana",earthquake,0.62,3.53,0.160436032564193,7,reviewed,mb,mb
 2023-12-08T22:14:03.820Z,46.016,-111.431666666667,9.77,1.22,ml,9,150,0.2047,0.11,mb,mb90035758,2023-12-09T16:02:45.910Z,"5 km WSW of Ponderosa Pines, Montana",earthquake,0.67,2.57,0.100814707063357,7,reviewed,mb,mb
-2023-12-08T22:12:50.820Z,64.9215,-147.3192,0,1.4,ml,,,,0.8,ak,ak023fpyywpm,2023-12-08T22:21:55.809Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
