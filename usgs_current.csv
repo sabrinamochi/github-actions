@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-10T21:55:58.370Z,33.3258324,-116.7851639,13.59,1.05,ml,39,35,0.07053,0.14,ci,ci40618832,2023-12-10T21:58:04.145Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.24,0.77,0.263,10,automatic,ci,ci
-2023-12-10T21:54:14.730Z,35.7014999,-121.0899963,8.91,2.66,md,40,78,0.05526,0.06,nc,nc73974346,2023-12-10T21:58:03.907Z,"11 km NE of San Simeon, CA",earthquake,0.19,0.48,0.11,54,automatic,nc,nc
+2023-12-10T21:54:14.730Z,35.7014999,-121.0899963,8.91,2.66,md,40,78,0.05526,0.06,nc,nc73974346,2023-12-10T22:01:10.245Z,"11 km NE of San Simeon, CA",earthquake,0.19,0.48,0.11,54,automatic,nc,nc
 2023-12-10T21:03:58.190Z,32.4323333,-115.5038333,3.7,2.26,ml,33,63,0.1686,0.27,ci,ci40618776,2023-12-10T21:44:13.090Z,"18 km SSE of Progreso, B.C., MX",earthquake,0.3,1.35,0.123,38,reviewed,ci,ci
 2023-12-10T21:02:38.820Z,32.4365,-115.561,-0.06,1.66,ml,20,171,0.2179,0.31,ci,ci40618768,2023-12-10T21:08:54.750Z,"16 km S of Progreso, B.C., MX",earthquake,0.76,1.03,0.153,19,automatic,ci,ci
 2023-12-10T21:00:48.790Z,19.1761665344238,-155.484161376953,31.5499992370605,2.37,ml,48,150,,0.119999997,hv,hv73680712,2023-12-10T21:35:07.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.47,0.699999988,3.35,7,automatic,hv,hv
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T11:16:50.450Z,33.7091667,-116.8185,16.64,0.99,ml,39,64,0.08265,0.16,ci,ci40618592,2023-12-10T11:23:21.260Z,"8 km ESE of Valle Vista, CA",earthquake,0.21,0.38,0.218,17,automatic,ci,ci
 2023-12-10T11:14:24.170Z,33.7068333,-116.8191667,16.16,1,ml,45,63,0.08027,0.15,ci,ci40618584,2023-12-10T14:41:43.190Z,"8 km ESE of Valle Vista, CA",earthquake,0.19,0.32,0.17,25,reviewed,ci,ci
 2023-12-10T11:05:49.990Z,36.7721672,-121.4095001,5.64,1.72,md,20,67,0.06855,0.08,nc,nc73974136,2023-12-10T13:38:11.257Z,"6 km SW of Ridgemark, CA",earthquake,0.27,0.68,0.22,24,automatic,nc,nc
-2023-12-10T10:42:42.250Z,38.757,-122.7171667,1.57,0.31,md,16,53,0.007564,0.02,nc,nc73974131,2023-12-10T21:43:09.978Z,"3 km SW of Anderson Springs, CA",earthquake,0.29,0.37,0.145,9,reviewed,nc,nc
+2023-12-10T10:42:42.250Z,38.757,-122.7171667,1.57,0.31,md,16,53,0.007564,0.02,nc,nc73974131,2023-12-10T22:00:15.080Z,"3 km SW of Anderson Springs, CA",earthquake,0.29,0.37,0.145,9,reviewed,nc,nc
 2023-12-10T10:35:51.191Z,10.0647,125.7969,92.574,4.7,mb,66,92,9.363,0.71,us,us7000lhwq,2023-12-10T10:51:31.040Z,"21 km NE of Cagdianao, Philippines",earthquake,10.67,7.272,0.062,78,reviewed,us,us
 2023-12-10T10:19:20.240Z,60.0502,-152.6096,92.8,1.9,ml,,,,0.27,ak,ak023ft2xu3c,2023-12-10T10:21:09.602Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-10T10:15:24.478Z,60.7056,-146.6772,18.3,1.7,ml,,,,0.88,ak,ak023ft2wzjz,2023-12-10T10:17:13.553Z,"17 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T08:03:30.170Z,33.9745,-117.2336667,12.78,1.13,ml,27,95,0.05738,0.16,ci,ci40618536,2023-12-10T08:10:34.800Z,"5 km N of Moreno Valley, CA",earthquake,0.24,0.5,0.327,16,automatic,ci,ci
 2023-12-10T07:56:51.495Z,56.8543,-34.2276,10,4.6,mb,42,104,15.881,0.45,us,us7000lhvw,2023-12-10T08:26:47.040Z,"Reykjanes Ridge",earthquake,6.76,1.913,0.071,59,reviewed,us,us
 2023-12-10T07:52:57.069Z,61.0434,-151.3925,67.6,3.1,ml,,,,0.47,ak,ak023ft1corc,2023-12-10T08:18:12.108Z,"14 km WSW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-10T07:39:08.000Z,36.6028333,-122.0456667,7.45,2.28,md,67,191,0.1027,0.18,nc,nc73974081,2023-12-10T21:59:34.770Z,"9 km WNW of Del Monte Forest, CA",earthquake,0.45,0.9,0.133,75,reviewed,nc,nc
+2023-12-10T07:39:08.000Z,36.6028333,-122.0456667,7.45,2.28,md,67,191,0.1027,0.18,nc,nc73974081,2023-12-10T22:01:10.570Z,"9 km WNW of Del Monte Forest, CA",earthquake,0.45,0.9,0.133,75,reviewed,nc,nc
 2023-12-10T07:18:38.890Z,34.037,-116.878,20.26,1.43,ml,62,41,0.0741,0.16,ci,ci40618528,2023-12-10T14:44:48.040Z,"12 km N of Banning, CA",earthquake,0.15,0.41,0.166,30,reviewed,ci,ci
 2023-12-10T07:12:58.619Z,56.6409,-34.2985,10,4.7,mb,26,130,10.298,0.42,us,us7000lhvs,2023-12-10T07:45:27.040Z,"Reykjanes Ridge",earthquake,12.59,1.947,0.087,40,reviewed,us,us
 2023-12-10T07:09:38.405Z,59.0449,-150.1313,25.9,3.1,ml,,,,0.45,ak,ak023ft13fif,2023-12-10T07:41:34.319Z,"87 km SE of Halibut Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
