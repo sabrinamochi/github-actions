@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-10T18:54:05.640Z,38.786499,-122.7323303,1.51,1,md,7,110,0.004734,0.02,nc,nc73974296,2023-12-10T18:55:40.478Z,"2 km ENE of The Geysers, CA",earthquake,0.44,0.77,0.32,7,automatic,nc,nc
 2023-12-10T18:51:44.200Z,38.7869987,-122.7330017,1.45,1.03,md,11,88,0.004751,0.03,nc,nc73974286,2023-12-10T18:53:20.304Z,"2 km ENE of The Geysers, CA",earthquake,0.25,0.64,0.16,11,automatic,nc,nc
-2023-12-10T18:50:20.670Z,38.7874985,-122.7338333,1.33,1.65,md,30,69,0.004818,0.04,nc,nc73974281,2023-12-10T18:51:55.202Z,"2 km ENE of The Geysers, CA",earthquake,0.22,0.34,0.17,31,automatic,nc,nc
+2023-12-10T18:50:20.670Z,38.7874985,-122.7338333,1.33,1.65,md,30,69,0.004818,0.04,nc,nc73974281,2023-12-10T19:01:10.072Z,"2 km ENE of The Geysers, CA",earthquake,0.22,0.34,0.17,31,automatic,nc,nc
 2023-12-10T18:00:58.490Z,33.6743333,-116.6951667,16.77,1.13,ml,50,48,0.01863,0.16,ci,ci40618688,2023-12-10T18:11:56.420Z,"8 km SSE of Idyllwild, CA",earthquake,0.16,0.27,0.189,27,automatic,ci,ci
 2023-12-10T17:53:31.610Z,35.5178333,-118.3898333,3.62,1.13,ml,33,39,0.1601,0.15,ci,ci40618680,2023-12-10T17:59:45.861Z,"12 km SE of Bodfish, CA",earthquake,0.18,0.61,0.126,14,automatic,ci,ci
 2023-12-10T17:46:04.291Z,7.8991,126.797,12.022,5,mb,113,51,7.103,0.94,us,us7000lhy1,2023-12-10T18:14:22.040Z,"35 km NE of Kinablangan, Philippines",earthquake,9.01,3.351,0.053,112,reviewed,us,us
@@ -113,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T02:42:09.910Z,35.6975,-117.5721667,2.52,1.01,ml,23,62,0.08758,0.14,ci,ci40618488,2023-12-10T02:48:53.404Z,"13 km NE of Ridgecrest, CA",earthquake,0.22,0.35,0.108,9,automatic,ci,ci
 2023-12-10T02:38:38.400Z,38.8273315,-122.814003,2.12,1.25,md,26,41,0.004987,0.02,nc,nc73974006,2023-12-10T04:29:11.636Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.34,0.21,27,automatic,nc,nc
 2023-12-10T02:38:35.070Z,19.30299949646,-155.398162841797,2.97000002861023,1.79999995,md,25,147,,0.389999986,hv,hv73680217,2023-12-10T02:41:39.510Z,"13 km NE of Pāhala, Hawaii",earthquake,1.3,21.6000004,1.01999998,3,automatic,hv,hv
+2023-12-10T02:37:14.024Z,39.347,-120.0219,6.2,0.9,ml,9,170.86,0.056,0.1563,nn,nn00869957,2023-12-10T19:01:37.950Z,"5 km S of Floriston, California",earthquake,,1.8,0.45,4,reviewed,nn,nn
 2023-12-10T02:28:05.108Z,43.0746,138.2505,251.292,4.3,mb,53,63,3.102,0.48,us,us7000lhuq,2023-12-10T06:16:30.040Z,"164 km W of Suttsu, Japan",earthquake,6.03,8.313,0.1,28,reviewed,us,us
 2023-12-10T02:20:32.620Z,17.93,-66.8995,7.8,2.27,md,5,222,0.04878,0.15,pr,pr71433638,2023-12-10T02:34:29.260Z,"4 km S of Guánica, Puerto Rico",earthquake,1.11,0.38,0.0274514462980688,2,reviewed,pr,pr
 2023-12-10T02:14:49.610Z,31.659,-104.383,3.5976,1.8,ml,17,70,0,0.3,tx,tx2023ycvz,2023-12-10T02:29:47.340Z,"57 km S of Whites City, New Mexico",earthquake,0,1.371102836,0.2,12,automatic,tx,tx
