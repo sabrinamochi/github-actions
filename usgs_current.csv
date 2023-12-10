@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-10T00:36:56.300Z,36.0333328,-120.5983353,2.59,1.07,md,10,113,0.03544,0.03,nc,nc73973956,2023-12-10T00:38:30.996Z,"21 km NW of Parkfield, CA",earthquake,0.42,1.09,0.1,5,automatic,nc,nc
+2023-12-10T00:36:56.300Z,36.0333328,-120.5983353,2.59,1.07,md,10,113,0.03544,0.03,nc,nc73973956,2023-12-10T00:47:12.344Z,"21 km NW of Parkfield, CA",earthquake,0.42,1.09,0.1,5,automatic,nc,nc
 2023-12-10T00:36:32.000Z,36.0354996,-120.5960007,3.22,0.82,md,8,118,0.03324,0.03,nc,nc73973951,2023-12-10T00:38:05.761Z,"21 km NW of Parkfield, CA",earthquake,0.5,1.8,0.13,3,automatic,nc,nc
 2023-12-10T00:18:08.720Z,35.8706667,-117.6656667,6.26,1.23,ml,24,64,0.1017,0.14,ci,ci40618432,2023-12-10T00:28:56.170Z,"23 km ESE of Little Lake, CA",earthquake,0.22,0.6,0.081,11,automatic,ci,ci
 2023-12-10T00:06:59.380Z,38.779335,-122.7576675,1.45,0.91,md,7,104,0.01067,0.02,nc,nc73973941,2023-12-10T00:23:11.198Z,"0 km NNW of The Geysers, CA",earthquake,0.72,1.34,0.21,9,automatic,nc,nc
@@ -174,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T07:30:43.040Z,19.6215,-65.8188,66,3.7,md,9,290,1.3389,0.49,pr,pr2023343001,2023-12-09T15:18:05.724Z,"131 km NNE of San Juan, Puerto Rico",earthquake,8.34,23.79,0.07,9,reviewed,pr,pr
 2023-12-09T07:30:27.590Z,33.7653333,-116.9386667,14.19,1.5,ml,64,23,0.04903,0.18,ci,ci40617888,2023-12-09T07:41:45.460Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.36,0.194,27,automatic,ci,ci
 2023-12-09T07:25:53.730Z,33.7655,-116.9361667,13.85,1.07,ml,49,60,0.1341,0.15,ci,ci40617880,2023-12-09T07:32:25.703Z,"3 km SE of San Jacinto, CA",earthquake,0.16,0.42,0.137,26,automatic,ci,ci
-2023-12-09T07:23:42.200Z,38.8191667,-122.7621667,2.14,0.38,md,16,120,0.01281,0.02,nc,nc73973651,2023-12-10T00:08:11.108Z,"3 km W of Cobb, CA",earthquake,0.33,0.48,0.111,13,reviewed,nc,nc
+2023-12-09T07:23:42.200Z,38.8191667,-122.7621667,2.14,0.38,md,16,120,0.01281,0.02,nc,nc73973651,2023-12-10T00:47:18.345Z,"3 km W of Cobb, CA",earthquake,0.33,0.48,0.111,13,reviewed,nc,nc
 2023-12-09T07:22:52.610Z,19.3783333333333,-155.490666666667,7.06,3.35,md,40,41,,0.13,hv,hv73679367,2023-12-09T19:31:07.712Z,"19 km N of Pāhala, Hawaii",earthquake,0.24,0.66,0.100750077012852,15,reviewed,hv,hv
 2023-12-09T07:22:24.357Z,31.682,-104.427,4.5663,1.6,ml,14,66,0,0.3,tx,tx2023ybkq,2023-12-09T07:53:07.987Z,"54 km S of Whites City, New Mexico",earthquake,0,1.418331972,0.2,12,automatic,tx,tx
 2023-12-09T07:21:35.020Z,38.8138351,-122.8266678,2.02,0.83,md,17,57,0.005333,0.02,nc,nc73973646,2023-12-09T07:48:11.016Z,"7 km WNW of The Geysers, CA",earthquake,0.24,0.58,0.18,19,automatic,nc,nc
@@ -252,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T01:45:23.550Z,38.8300018,-122.8133316,2.32,1.49,md,30,43,0.007071,0.02,nc,nc73973431,2023-12-09T03:06:14.487Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.33,0.14,29,automatic,nc,nc
 2023-12-09T01:27:25.410Z,18.644,-67.191,80,3.48,md,16,202,0.3878,0.24,pr,pr2023343000,2023-12-09T02:20:20.040Z,"19 km NNW of San Antonio, Puerto Rico",earthquake,1.73,1.46,0.15,13,reviewed,pr,pr
 2023-12-09T01:09:05.924Z,36.772,-115.9442,12.6,0.9,ml,39,110.92,0.027,0.1909,nn,nn00869916,2023-12-09T04:28:34.822Z,"33 km NW of Indian Springs, Nevada",earthquake,,0.7,0.38,24,reviewed,nn,nn
-2023-12-09T00:47:49.240Z,33.221,-116.753,18.46,0.87,ml,31,46,0.0157,0.15,ci,ci40617808,2023-12-09T00:53:45.167Z,"2 km SSE of Lake Henshaw, CA",earthquake,0.23,0.58,0.112,18,automatic,ci,ci
-2023-12-09T00:46:25.330Z,38.8338318,-122.8164978,1.88,0.77,md,14,57,0.01157,0.02,nc,nc73973426,2023-12-09T02:34:13.431Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.66,0.17,15,automatic,nc,nc
