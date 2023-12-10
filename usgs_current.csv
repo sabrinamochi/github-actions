@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-10T03:46:24.490Z,34.751667,-118.7823334,5.67,1.61,ml,10,122,0.2135,0.25,ci,ci40618496,2023-12-10T03:54:00.470Z,"8 km SE of Gorman, CA",earthquake,1.83,10.62,0.334,7,automatic,ci,ci
 2023-12-10T03:26:41.112Z,62.1783,-150.0206,39.4,2,ml,,,,0.69,ak,ak023fsytcfj,2023-12-10T03:28:03.445Z,"9 km WNW of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-10T03:18:14.190Z,39.3655014,-123.2910004,4,2.17,md,23,74,0.1094,0.06,nc,nc73974016,2023-12-10T03:25:11.282Z,"7 km SE of Willits, CA",earthquake,0.23,1.55,0.15,16,automatic,nc,nc
 2023-12-10T02:47:50.180Z,38.8288345,-122.814003,2.03,1.07,md,23,44,0.01739,0.01,nc,nc73974011,2023-12-10T03:09:14.180Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.47,0.1,23,automatic,nc,nc
@@ -228,7 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.270Z,36.5366667,-121.127,3.66,1.1,md,22,104,0.01501,0.11,nc,nc73973526,2023-12-09T19:54:11.454Z,"2 km ENE of Pinnacles, CA",earthquake,0.24,0.4,0.136,18,reviewed,nc,nc
 2023-12-09T05:42:58.940Z,38.831,-122.815,1.89,0.44,md,15,83,0.008513,0.01,nc,nc73973521,2023-12-10T00:00:09.943Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.64,0.105,16,reviewed,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-10T03:26:12.626Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-10T03:55:04.956Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T04:17:43.601Z,61.4843,-151.9225,97.9,1.9,ml,,,,0.55,ak,ak023frbtic8,2023-12-09T04:20:44.558Z,"59 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-09T04:15:07.843Z,61.7752,-149.5912,38.3,1.4,ml,,,,0.84,ak,ak023frbt05c,2023-12-09T04:17:11.345Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-09T04:11:56.866Z,31.519,-104.164,3.1067,1.8,ml,18,74,0.1,0.5,tx,tx2023ybei,2023-12-09T04:33:50.930Z,"41 km WNW of Toyah, Texas",earthquake,0,1.431785004,0.3,14,automatic,tx,tx
-2023-12-09T03:59:19.627Z,-23.0534,-68.2748,137.257,4.8,mb,44,98,0.134,0.82,us,us7000lhne,2023-12-09T04:14:46.040Z,"17 km SSW of San Pedro de Atacama, Chile",earthquake,7.33,4.395,0.089,39,reviewed,us,us
-2023-12-09T03:59:15.181Z,-6.0529,150.1657,51.402,4.8,mb,25,129,2.717,0.56,us,us7000lhnf,2023-12-09T04:18:27.040Z,"55 km S of Kimbe, Papua New Guinea",earthquake,5.66,9.613,0.135,17,reviewed,us,us
