@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-11T17:53:47.650Z,33.4356667,-116.6081667,6.24,0.19,ml,13,187,0.05909,0.05,ci,ci40619240,2023-12-11T17:59:35.311Z,"15 km SSE of Anza, CA",earthquake,0.25,0.43,0.049,5,automatic,ci,ci
+2023-12-11T17:51:57.290Z,19.030834197998,-155.363662719727,32.6500015258789,2.38000011,md,43,213,,0.129999995,hv,hv73681337,2023-12-11T17:55:44.310Z,"22 km SSE of Pāhala, Hawaii",earthquake,0.7,1.26999998,0.419999987,17,automatic,hv,hv
 2023-12-11T17:45:19.765Z,61.8691,-147.3426,44.8,1.7,ml,,,,0.4,ak,ak023fuusseg,2023-12-11T17:46:28.774Z,"12 km SW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-12-11T17:36:05.103Z,-6.9066,150.1147,27.715,4.9,mb,29,124,3.382,1.06,us,us7000li73,2023-12-11T17:55:57.040Z,"99 km SE of Kandrian, Papua New Guinea",earthquake,10.79,6.191,0.126,20,reviewed,us,us
 2023-12-11T17:35:12.960Z,31.65,-104.364,4.1083,2.1,ml,12,167,0.1,0.1,tx,tx2023yfvv,2023-12-11T17:45:59.376Z,"58 km S of Whites City, New Mexico",earthquake,0,1.581178186,0.2,10,automatic,tx,tx
-2023-12-11T17:29:26.030Z,38.8199997,-122.7976685,2.77,1.01,md,13,123,0.01027,0.01,nc,nc73974651,2023-12-11T17:38:11.387Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.57,0.22,17,automatic,nc,nc
+2023-12-11T17:29:26.030Z,38.8199997,-122.7976685,2.77,1.01,md,13,123,0.01027,0.01,nc,nc73974651,2023-12-11T17:52:14.459Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.57,0.22,17,automatic,nc,nc
 2023-12-11T17:23:43.440Z,33.6825,-116.7828333,14.08,0.58,ml,21,96,0.06399,0.12,ci,ci40619224,2023-12-11T17:29:44.073Z,"9 km SW of Idyllwild, CA",earthquake,0.29,0.41,0.166,8,automatic,ci,ci
 2023-12-11T17:09:30.878Z,61.731,-147.9878,26.4,1.8,ml,,,,0.74,ak,ak023fuul3hb,2023-12-11T17:11:21.813Z,"19 km WSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-11T17:02:23.590Z,35.7016678,-121.0859985,7.84,1.12,md,8,100,0.05838,0.03,nc,nc73974636,2023-12-11T17:31:13.343Z,"11 km NE of San Simeon, CA",earthquake,0.42,1.09,0.14,6,automatic,nc,nc
@@ -29,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-11T13:09:18.596Z,9.3564,126.4219,52.395,4.7,mb,63,107,8.58,1.06,us,us7000li3f,2023-12-11T14:40:33.040Z,"26 km ENE of Cortes, Philippines",earthquake,10.89,6.179,0.076,52,reviewed,us,us
 2023-12-11T13:02:38.519Z,31.725,-104.129,3.1713,1.6,ml,12,172,0,0.5,tx,tx2023yfmw,2023-12-11T13:25:27.029Z,"50 km W of Mentone, Texas",earthquake,0,1.609694144,0.2,8,automatic,tx,tx
 2023-12-11T12:56:01.243Z,31.739,-104.107,6.6714,1.6,ml,17,58,0,0.2,tx,tx2023yfms,2023-12-11T15:39:18.621Z,"48 km W of Mentone, Texas",earthquake,0.8011320763,1.472299806,0.2,12,reviewed,tx,tx
+2023-12-11T12:53:51.840Z,46.7981666666667,-113.071666666667,7.89,0.65,ml,9,106,0.1698,0.05,mb,mb90035883,2023-12-11T17:59:35.680Z,"15 km NNE of Drummond, Montana",earthquake,0.37,1.87,0.0931568087733106,6,reviewed,mb,mb
 2023-12-11T12:53:20.324Z,31.74,-104.114,6.71,2.5,ml,29,50,0,0.2,tx,tx2023yfmp,2023-12-11T15:27:52.564Z,"48 km W of Mentone, Texas",earthquake,0.4588259591,0.6116065407,0.1,19,reviewed,tx,tx
 2023-12-11T12:51:06.543Z,31.738,-104.112,6.0802,3.1,ml,22,61,0,0.2,tx,tx2023yfmm,2023-12-11T16:19:29.904Z,"48 km W of Mentone, Texas",earthquake,0.6161956376,1.575016415,0.2,14,reviewed,tx,tx
 2023-12-11T12:50:55.112Z,63.2628,-153.2464,6.7,2,ml,,,,0.49,ak,ak023fururzc,2023-12-11T12:59:04.415Z,"63 km ENE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -190,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T18:51:44.200Z,38.7869987,-122.7330017,1.45,1.03,md,11,88,0.004751,0.03,nc,nc73974286,2023-12-10T20:39:10.595Z,"2 km ENE of The Geysers, CA",earthquake,0.25,0.64,0.16,11,automatic,nc,nc
 2023-12-10T18:50:20.670Z,38.7874985,-122.7338333,1.33,1.65,md,30,69,0.004818,0.04,nc,nc73974281,2023-12-10T20:33:14.563Z,"2 km ENE of The Geysers, CA",earthquake,0.22,0.34,0.17,31,automatic,nc,nc
 2023-12-10T18:00:58.490Z,33.6743333,-116.6951667,16.77,1.13,ml,50,48,0.01863,0.16,ci,ci40618688,2023-12-10T21:13:59.820Z,"8 km SSE of Idyllwild, CA",earthquake,0.16,0.27,0.189,27,reviewed,ci,ci
-2023-12-10T17:53:31.610Z,35.5178333,-118.3898333,3.62,1.13,ml,33,39,0.1601,0.15,ci,ci40618680,2023-12-10T21:14:05.785Z,"12 km SE of Bodfish, CA",earthquake,0.18,0.61,0.126,14,reviewed,ci,ci
