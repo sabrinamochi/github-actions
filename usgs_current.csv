@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-13T16:25:39.830Z,38.8055,-122.807663,1.44,0.73,md,10,93,0.009967,0.02,nc,nc73975661,2023-12-13T16:27:13.418Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.76,0.14,12,automatic,nc,nc
-2023-12-13T16:19:19.640Z,38.774334,-122.7528305,-0.16,0.73,md,7,99,0.01072,0.02,nc,nc73975651,2023-12-13T16:31:10.642Z,"0 km SE of The Geysers, CA",earthquake,0.33,0.88,0.06,6,automatic,nc,nc
+2023-12-13T16:19:19.640Z,38.774334,-122.7528305,-0.16,0.73,md,7,99,0.01072,0.02,nc,nc73975651,2023-12-13T16:40:13.692Z,"0 km SE of The Geysers, CA",earthquake,0.33,0.88,0.06,6,automatic,nc,nc
 2023-12-13T16:08:31.604Z,31.734,-104.112,4.8559,1.5,ml,18,65,0,0.5,tx,tx2023yjka,2023-12-13T16:27:25.319Z,"48 km W of Mentone, Texas",earthquake,0,1.442778392,0.2,12,automatic,tx,tx
 2023-12-13T16:06:26.930Z,19.4015007019043,-155.630004882812,-0.879999995231628,1.92999995,md,12,112,,0.159999996,hv,hv73683397,2023-12-13T16:09:40.020Z,"25 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.58,0.730000019,0.0900000036,5,automatic,hv,hv
 2023-12-13T15:57:22.270Z,33.6778333,-116.718,15.73,1.35,ml,43,57,0.0334,0.2,ci,ci40442319,2023-12-13T16:04:23.389Z,"7 km S of Idyllwild, CA",earthquake,0.2,0.41,0.12,26,automatic,ci,ci
@@ -187,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T20:32:01.315Z,51.7447,-175.2407,44.495,4.3,mwr,164,138,0.489,0.82,us,us7000lihh,2023-12-12T23:22:49.040Z,"87 km SW of Atka, Alaska",earthquake,4.25,2.819,0.086,13,reviewed,us,us
 2023-12-12T20:31:11.587Z,31.675,-104.388,7.0571,3.4,ml,44,57,0,0.2,tx,tx2023yhxe,2023-12-13T15:07:10.894Z,"55 km S of Whites City, New Mexico",earthquake,0.7664937551,0.9834142164,0.2,26,reviewed,tx,tx
 2023-12-12T20:30:30.940Z,32.7671667,-116.9005,2.73,1.48,ml,34,98,0.09541,0.22,ci,ci40620328,2023-12-12T20:37:06.734Z,"4 km NE of Rancho San Diego, CA",earthquake,0.29,0.45,0.117,17,automatic,ci,ci
+2023-12-12T20:30:19.418Z,31.675,-104.193,5.7717,1.9,ml,20,68,0.1,0.2,tx,tx2023yhxd,2023-12-13T16:41:45.412Z,"55 km NW of Toyah, Texas",earthquake,0.7719993888,1.616410593,0.1,7,reviewed,tx,tx
 2023-12-12T20:16:24.210Z,33.8471667,-117.49,2.38,1.24,ml,38,49,0.04777,0.16,ci,ci40620280,2023-12-12T20:27:15.800Z,"4 km SE of Home Gardens, CA",earthquake,0.17,0.23,0.261,31,automatic,ci,ci
 2023-12-12T20:14:03.270Z,38.8359985,-122.8000031,2.07,0.86,md,10,69,0.007918,0.01,nc,nc73975276,2023-12-12T20:31:14.131Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.09,0.23,11,automatic,nc,nc
 2023-12-12T20:06:15.390Z,32.9253333,-116.2535,11.35,0.87,ml,30,48,0.0511,0.17,ci,ci40620256,2023-12-13T01:05:52.268Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.42,0.156,6,reviewed,ci,ci
@@ -231,6 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T17:03:31.451Z,52.1028,152.8163,430.134,4.4,mb,184,118,3.143,0.63,us,us7000lig8,2023-12-12T18:07:40.040Z,"262 km WNW of Ozernovskiy, Russia",earthquake,8.43,7.033,0.034,262,reviewed,us,us
 2023-12-12T17:03:15.791Z,36.7636,-116.2565,8.8,0.2,ml,32,43.55,0.028,0.1008,nn,nn00870044,2023-12-12T21:36:53.003Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.37,12,reviewed,nn,nn
 2023-12-12T16:45:32.085Z,31.735,-104.102,5.2977,1.5,ml,17,65,0,0.4,tx,tx2023yhpr,2023-12-12T17:10:56.515Z,"47 km W of Mentone, Texas",earthquake,0,2.265463883,0.2,12,automatic,tx,tx
-2023-12-12T16:41:35.241Z,63.8756,-149.4367,12.2,1.7,ml,,,,0.63,ak,ak023fwhpvmc,2023-12-12T16:43:51.373Z,"22 km SW of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-12T16:38:47.520Z,35.9198341,-120.489502,5.27,0.62,md,7,192,0.03045,0.04,nc,nc73975161,2023-12-12T18:27:10.419Z,"6 km WNW of Parkfield, CA",earthquake,0.95,3.78,,1,automatic,nc,nc
-2023-12-12T16:37:36.940Z,33.2688333,-116.7848333,12.23,1.12,ml,44,31,0.03938,0.17,ci,ci40620024,2023-12-13T00:53:45.734Z,"4 km NW of Lake Henshaw, CA",earthquake,0.18,0.52,0.133,22,reviewed,ci,ci
