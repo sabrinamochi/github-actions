@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-15T15:09:29.390Z,33.666832,-116.7553329,14.46,1.05,ml,29,56,0.05598,0.13,ci,ci40445103,2023-12-15T15:11:40.488Z,"9 km SSW of Idyllwild, CA",earthquake,0.34,0.6,0.202,9,automatic,ci,ci
+2023-12-15T15:20:04.140Z,38.8055,-122.8118362,2.16,0.79,md,12,59,0.01315,0.02,nc,nc73976591,2023-12-15T15:21:41.764Z,"6 km WNW of The Geysers, CA",earthquake,0.28,0.68,0.13,14,automatic,nc,nc
+2023-12-15T15:09:29.280Z,33.6643333,-116.759,15.45,1.05,ml,36,73,0.05983,0.13,ci,ci40445103,2023-12-15T15:15:37.591Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.3,0.202,9,automatic,ci,ci
 2023-12-15T15:06:56.480Z,33.5143333,-116.4541667,8.17,0.66,ml,19,115,0.02544,0.12,ci,ci40445095,2023-12-15T15:12:57.780Z,"21 km ESE of Anza, CA",earthquake,0.24,0.57,0.126,12,automatic,ci,ci
 2023-12-15T14:51:47.990Z,38.8266678,-122.8143311,1.01,0.71,md,9,72,0.004662,0.02,nc,nc73976586,2023-12-15T15:02:10.050Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.68,0.12,10,automatic,nc,nc
 2023-12-15T14:50:17.963Z,31.728,-104.113,4.0204,2,ml,21,64,0,0.4,tx,tx2023ymyl,2023-12-15T15:08:20.685Z,"48 km W of Mentone, Texas",earthquake,0,1.149385904,0.2,16,automatic,tx,tx
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T12:45:05.653Z,64.6529,-149.6102,10,1.4,ml,,,,0.96,ak,ak023g1dyz9h,2023-12-15T12:47:13.463Z,"24 km WNW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-15T12:26:38.387Z,57.5059,-156.5582,29.8,1.9,ml,,,,0.48,ak,ak023g1duz6m,2023-12-15T12:28:09.545Z,"50 km E of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-15T12:15:26.333Z,62.0541,-149.8539,45.8,1.4,ml,,,,0.68,ak,ak023g1dsldl,2023-12-15T12:18:07.833Z,"11 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-12-15T12:07:47.640Z,38.7926674,-122.7365036,1.45,1.28,md,18,93,0.009418,0.03,nc,nc73976501,2023-12-15T14:20:10.802Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.52,0.2,18,automatic,nc,nc
+2023-12-15T12:07:47.640Z,38.7926674,-122.7365036,1.45,1.28,md,18,93,0.009418,0.03,nc,nc73976501,2023-12-15T15:17:44.276Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.52,0.2,18,automatic,nc,nc
 2023-12-15T11:51:29.110Z,38.8263321,-122.8536682,2.71,1.09,md,15,111,0.002781,0.02,nc,nc73976496,2023-12-15T13:50:11.646Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.56,0.15,19,automatic,nc,nc
 2023-12-15T11:42:36.530Z,19.4085006713867,-155.269332885742,11.9399995803833,1.79999995,md,17,112,,0.180000007,hv,hv73686712,2023-12-15T11:45:40.080Z,"5 km SW of Volcano, Hawaii",earthquake,0.79,0.5,1.79999995,4,automatic,hv,hv
 2023-12-15T11:38:35.370Z,33.9223333,-118.343,13.05,1.73,ml,71,87,0.01348,0.24,ci,ci40444935,2023-12-15T11:49:05.420Z,"1 km NE of Hawthorne, CA",earthquake,0.19,0.34,0.175,27,automatic,ci,ci
@@ -188,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T17:27:12.210Z,62.9684,-150.954,111.2,1.9,ml,,,,0.32,ak,ak023fztayet,2023-12-14T17:29:39.248Z,"53 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-14T17:23:14.550Z,19.1236666666667,-155.489166666667,31.66,1.59,md,19,240,,0.11,hv,hv73685767,2023-12-15T02:03:28.100Z,"8 km S of Pāhala, Hawaii",earthquake,0.72,0.92,0.0951577534668031,12,reviewed,hv,hv
 2023-12-14T17:17:23.360Z,38.8366661,-122.7994995,1.98,1.11,md,23,66,0.007359,0.02,nc,nc73976151,2023-12-14T18:48:14.106Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.41,0.21,25,automatic,nc,nc
-2023-12-14T16:57:35.847Z,-58.7844,-25.277,8.052,5.4,mb,104,56,7.662,0.81,us,us7000lj2m,2023-12-14T19:02:44.687Z,"South Sandwich Islands region",earthquake,10.17,4.205,0.058,102,reviewed,us,us
+2023-12-14T16:57:39.212Z,-58.788,-25.2293,30.673,5.2,mww,152,31,7.685,0.7,us,us7000lj2m,2023-12-15T15:18:02.040Z,"South Sandwich Islands region",earthquake,5.18,3.559,0.11,8,reviewed,us,us
 2023-12-14T16:54:39.670Z,46.60333333333333,-120.71433333333333,0.57,1.9000000000000001,ml,12,113,0.1479,0.41,uw,uw61976626,2023-12-14T21:52:02.630Z,"5 km W of Summitview, Washington",earthquake,1.16,34.86,0.15937018481978749,10,reviewed,uw,uw
 2023-12-14T16:51:27.452Z,31.6,-103.948,13.3913,1.6,ml,10,76,0.1,0.6,tx,tx2023ylgy,2023-12-14T17:31:49.394Z,"34 km NNW of Toyah, Texas",earthquake,0,7.826059035,0.2,8,automatic,tx,tx
 2023-12-14T16:46:34.916Z,31.737,-104.104,7.0056,1.8,ml,32,32,0,0.2,tx,tx2023ylgu,2023-12-14T19:25:55.137Z,"47 km W of Mentone, Texas",earthquake,0.4820271944,0.6578619185,0.1,18,reviewed,tx,tx
