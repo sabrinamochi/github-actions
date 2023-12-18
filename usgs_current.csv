@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-18T14:06:15.930Z,33.017,-116.3418333,9.67,0.87,ml,34,89,0.07331,0.24,ci,ci40446863,2023-12-18T14:12:31.093Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.34,0.66,0.365,11,automatic,ci,ci
+2023-12-18T14:05:12.746Z,63.3827,-149.8586,87.1,1.5,ml,,,,0.27,ak,ak023g6djbuy,2023-12-18T14:06:53.907Z,"45 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-18T13:43:31.510Z,34.5195,-119.096,14.92,1.56,ml,34,33,0.08923,0.27,ci,ci40446855,2023-12-18T13:50:12.976Z,"16 km ENE of Ojai, CA",earthquake,0.31,0.73,0.174,29,automatic,ci,ci
 2023-12-18T13:34:37.530Z,38.7843323,-122.7513351,0.33,1.71,md,19,77,0.01147,0.04,nc,nc73977771,2023-12-18T13:55:13.502Z,"1 km NNE of The Geysers, CA",earthquake,0.19,0.43,0.15,19,automatic,nc,nc
 2023-12-18T13:05:13.120Z,38.8358345,-122.8028336,2.7,0.81,md,8,111,0.01009,0.01,nc,nc73977766,2023-12-18T13:25:13.340Z,"7 km WNW of Cobb, CA",earthquake,0.47,1,0.27,7,automatic,nc,nc
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T11:08:48.400Z,38.8084984,-122.7708359,1.53,0.93,md,9,93,0.009045,0.01,nc,nc73977731,2023-12-18T11:42:15.771Z,"4 km NNW of The Geysers, CA",earthquake,0.36,0.59,0.11,10,automatic,nc,nc
 2023-12-18T11:06:57.580Z,31.694,-104.137,4.7363,2.1,ml,20,83,0.1,0.3,tx,tx2023ysdp,2023-12-18T11:30:32.955Z,"50 km W of Mentone, Texas",earthquake,0,1.248395128,0.3,15,automatic,tx,tx
 2023-12-18T11:03:22.690Z,32.7343333,-115.876,4.6,1.21,ml,27,62,0.09496,0.22,ci,ci40446815,2023-12-18T11:09:34.105Z,"11 km E of Ocotillo, CA",earthquake,0.26,0.8,0.242,10,automatic,ci,ci
-2023-12-18T10:57:22.392Z,35.09785461,-97.53811646,5,2.27,ml,21,52.17251587,0.02813622728,0.9698518221,ok,ok2023ysdg,2023-12-18T11:00:26.150Z,"3 km E of Cole, Oklahoma",earthquake,2.348893572,,0.26,14,automatic,ok,ok
+2023-12-18T10:57:21.629Z,35.11066667,-97.55316667,5.27,1.89,ml,90,42,0.04589099462,0.33,ok,ok2023ysdg,2023-12-18T14:06:54.793Z,"2 km ENE of Cole, Oklahoma",earthquake,,0.6,0.26,35,reviewed,ok,ok
 2023-12-18T10:43:24.230Z,33.1636667,-115.9796667,6.99,0.69,ml,39,59,0.009929,0.22,ci,ci40446807,2023-12-18T10:49:21.918Z,"14 km E of Ocotillo Wells, CA",earthquake,0.22,0.44,0.069,4,automatic,ci,ci
 2023-12-18T10:39:41.770Z,31.59,-104.552,2.7155,1.6,ml,14,164,0.1,0.4,tx,tx2023yscs,2023-12-18T11:14:57.855Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.847693671,0.2,11,automatic,tx,tx
 2023-12-18T10:35:01.360Z,33.8488333,-117.665,5.9,0.88,ml,40,41,0.04197,0.19,ci,ci40446799,2023-12-18T10:41:16.509Z,"9 km WSW of Corona, CA",earthquake,0.22,0.44,0.221,14,automatic,ci,ci
@@ -79,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T04:26:52.073Z,63.1845,-151.3279,0,1.6,ml,,,,0.65,ak,ak023g67pkvr,2023-12-18T04:29:05.134Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T04:24:38.369Z,31.549,-104.011,4.7997,1.6,ml,15,56,0,0.4,tx,tx2023yrqh,2023-12-18T13:25:02.629Z,"33 km NW of Toyah, Texas",earthquake,0,1.308267262,0.2,11,automatic,tx,tx
 2023-12-18T04:21:21.650Z,34.0546667,-116.947,12.87,0.93,ml,39,50,0.03987,0.16,ci,ci40446607,2023-12-18T04:27:37.859Z,"9 km ENE of Yucaipa, CA",earthquake,0.16,0.48,0.14,14,automatic,ci,ci
-2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T13:52:01.570Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
+2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T14:12:45.892Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
 2023-12-18T04:08:22.197Z,65.3821,-144.7945,0,1.7,ml,,,,0.56,ak,ak023g67lnor,2023-12-18T04:10:10.633Z,"21 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T04:03:26.777Z,35.09981155,-97.53089142,3.086587191,1.5,ml,10,92.91085815,0.0276574064,1.066821892,ok,ok2023yrpp,2023-12-18T04:07:42.954Z,"3 km E of Cole, Oklahoma",earthquake,3.555313284,2.959929229,0.26,4,automatic,ok,ok
 2023-12-18T03:55:19.809Z,-53.7877,-47.4071,10,4.9,mb,22,157,6.454,1,us,us7000ljsg,2023-12-18T04:26:11.040Z,"South Atlantic Ocean",earthquake,8.04,1.944,0.116,23,reviewed,us,us
@@ -170,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-17T14:29:08.197Z,60.0918,-152.6647,109.4,2.3,ml,,,,0.25,ak,ak023g4q5477,2023-12-17T15:12:39.040Z,"54 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-17T14:27:35.284Z,-2.4795,140.1404,10,5.1,mb,25,70,0.563,0.85,us,us7000ljp5,2023-12-17T14:41:21.040Z,"56 km WNW of Abepura, Indonesia",earthquake,6.72,1.93,0.094,37,reviewed,us,us
 2023-12-17T14:19:54.250Z,44.7395,-112.432,1.31,0.9,ml,10,79,0.1486,0.07,mb,mb90036438,2023-12-17T15:35:33.660Z,"17 km NE of Lima, Montana",earthquake,0.26,0.9,0.228671610580236,7,reviewed,mb,mb
-2023-12-17T14:04:40.950Z,38.8354988,-122.7858353,1.92,0.81,md,14,70,0.004565,0.02,nc,nc73977471,2023-12-17T14:30:14.197Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.46,0.16,14,automatic,nc,nc
-2023-12-17T14:03:45.840Z,38.8349991,-122.7863312,1.91,1.88,md,33,63,0.004628,0.03,nc,nc73977466,2023-12-17T16:51:11.070Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.26,0.14,36,automatic,nc,nc
