@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T19:35:40.750Z,19.1823329925537,-155.473831176758,33.5999984741211,2.29,ml,50,85,,0.140000001,hv,hv73692377,2023-12-20T20:21:29.040Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.59,0.800000012,3.93,12,automatic,hv,hv
 2023-12-20T19:35:21.966Z,63.6859,-147.2417,5.1,1.6,ml,,,,0.24,ak,ak023g9rrn2c,2023-12-20T19:37:06.874Z,"82 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-20T19:31:11.170Z,38.8101654,-122.8043365,11.57,0.59,md,7,214,0.007391,0.02,nc,nc73978696,2023-12-20T19:59:19.878Z,"6 km NW of The Geysers, CA",earthquake,2.09,5.25,0.09,3,automatic,nc,nc
+2023-12-20T19:24:11.470Z,60.0421666666667,-153.090166666667,0.31,-0.54,ml,4,196,,0.07,av,av92160001,2023-12-21T03:01:55.500Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.39,1.14,0.316651396055569,4,reviewed,av,av
 2023-12-20T19:11:50.180Z,38.8196678,-122.8021698,1.82,1.05,md,16,60,0.007209,0.03,nc,nc73978691,2023-12-20T19:38:11.757Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.45,0.18,18,automatic,nc,nc
 2023-12-20T19:10:32.517Z,62.9924,-149.123,5.8,1,ml,,,,0.38,ak,ak023g9rmaho,2023-12-20T19:13:00.353Z,"45 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-20T19:08:22.170Z,45.857,-122.65733333333333,18.12,1.94,ml,51,52,0.07139,0.11,uw,uw61977436,2023-12-20T19:28:43.460Z,"1 km ESE of La Center, Washington",earthquake,0.23,0.31,0.1539187042066461,54,reviewed,uw,uw
@@ -254,7 +255,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T04:39:01.735Z,38.2849,-118.7836,7.8,1,ml,7,173.8,0.222,0.0905,nn,nn00870385,2023-12-21T02:04:15.203Z,"30 km SSW of Hawthorne, Nevada",earthquake,,7.1,0.36,2,reviewed,nn,nn
 2023-12-20T04:18:57.580Z,38.8278351,-122.8133316,1.15,0.72,md,8,149,0.005112,0.02,nc,nc73978446,2023-12-20T04:41:16.033Z,"8 km NW of The Geysers, CA",earthquake,0.64,0.93,0.46,8,automatic,nc,nc
 2023-12-20T04:05:58.350Z,46.853833333333334,-121.9765,6.38,0.47000000000000003,ml,25,104,0.02063,0.14,uw,uw61977311,2023-12-20T17:46:47.720Z,"11 km NNE of Ashford, Washington",earthquake,0.35,0.39,0.13157605181841892,13,reviewed,uw,uw
-2023-12-20T03:58:35.078Z,-20.4452,-69.2172,102.519,4.3,mb,18,71,0.308,0.23,us,us7000lk91,2023-12-21T03:00:14.040Z,"47 km ESE of La Tirana, Chile",earthquake,2.54,4.306,0.237,5,reviewed,us,us
+2023-12-20T03:58:35.078Z,-20.4452,-69.2172,102.519,4.3,mb,18,71,0.308,0.23,us,us7000lk91,2023-12-21T03:00:47.660Z,"47 km ESE of La Tirana, Chile",earthquake,2.54,4.306,0.237,5,reviewed,us,us
 2023-12-20T03:52:54.110Z,60.1365,-153.1208,145.7,2.2,ml,,,,0.97,ak,ak023g9icf1f,2023-12-21T01:43:16.040Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-20T03:50:15.819Z,61.6503,-149.7997,35.2,1.4,ml,,,,0.46,ak,ak023g9ibwnh,2023-12-20T03:51:39.983Z,"2 km NNE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-20T03:41:17.039Z,36.7589,-116.1372,2.4,-0.2,ml,6,203.21,0.016,0.0774,nn,nn00870367,2023-12-21T02:04:03.125Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2,0,1,reviewed,nn,nn
@@ -266,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T03:07:40.156Z,60.3844,-150.7914,21.7,1.6,ml,,,,0.66,ak,ak023g9i2qqn,2023-12-20T03:09:05.807Z,"13 km S of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-20T03:05:12.830Z,38.8255005,-122.7961655,2.53,1.1,md,22,43,0.01107,0.02,nc,nc73978436,2023-12-20T06:18:11.674Z,"6 km W of Cobb, CA",earthquake,0.23,0.49,0.16,23,automatic,nc,nc
 2023-12-20T03:04:17.975Z,58.342,-138.1981,3.2,2.9,ml,,,,0.6,ak,ak023g9i21vp,2023-12-21T02:53:30.040Z,"110 km W of Elfin Cove, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-20T03:01:24.010Z,33.045,-116.4306667,12.17,1.25,ml,61,29,0.03283,0.21,ci,ci40448279,2023-12-20T16:31:55.703Z,"16 km ESE of Julian, CA",earthquake,0.19,0.55,0.177,26,reviewed,ci,ci
