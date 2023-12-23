@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-23T13:07:55.840Z,32.9793333,-115.9071667,7.84,0.74,ml,32,76,0.07384,0.21,ci,ci40449903,2023-12-23T13:13:54.394Z,"27 km WSW of Westmorland, CA",earthquake,0.22,0.64,0.135,3,automatic,ci,ci
 2023-12-23T12:49:42.320Z,37.7319984,-121.9881668,8.96,1.8,md,15,112,0.06109,0.05,nc,nc73979891,2023-12-23T13:12:15.574Z,"5 km S of San Ramon, CA",earthquake,0.31,0.51,0.16,11,automatic,nc,nc
 2023-12-23T12:22:54.360Z,37.4720001,-118.831665,-0.32,1.75,md,14,148,0.1178,0.04,nc,nc73979871,2023-12-23T12:39:12.362Z,"17 km SW of Toms Place, CA",earthquake,0.63,7.97,0.09,15,automatic,nc,nc
 2023-12-23T12:14:37.665Z,64.6999,-149.3122,24.8,1.2,ml,,,,1.14,ak,ak023gem36hi,2023-12-23T12:17:05.735Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -75,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T04:26:18.439Z,31.473,-103.913,5.126,2.3,ml,14,124,0.1,0.4,tx,tx2023zatw,2023-12-23T05:01:27.558Z,"20 km NNW of Toyah, Texas",earthquake,0,2.850022326,0.2,12,automatic,tx,tx
 2023-12-23T04:24:37.590Z,34.0126667,-116.3431667,2.94,0.88,ml,39,36,0.06856,0.17,ci,ci40449783,2023-12-23T04:30:44.524Z,"14 km SSW of Joshua Tree, CA",earthquake,0.17,0.29,0.171,15,automatic,ci,ci
 2023-12-23T04:15:31.339Z,43.2201,-71.4804,5,2.7,mb_lg,28,115,0.662,0.47,us,us7000ll0w,2023-12-23T13:10:36.314Z,"4 km ENE of Concord, New Hampshire",earthquake,0.88,1.943,0.142,13,reviewed,us,us
-2023-12-23T04:05:20.371Z,39.6197,-119.6308,7.9,2.6,ml,33,72.22,0.063,0.1563,nn,nn00870545,2023-12-23T10:02:17.048Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
+2023-12-23T04:05:20.371Z,39.6197,-119.6308,7.9,2.6,ml,33,72.22,0.063,0.1563,nn,nn00870545,2023-12-23T13:13:16.852Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
 2023-12-23T03:48:39.770Z,19.6983,-68.7468,10,3.87,md,18,252,0.6014,0.58,pr,pr2023357000,2023-12-23T04:34:47.272Z,"82 km NE of Samaná, Dominican Republic",earthquake,2.94,31.61,0.09,12,reviewed,pr,pr
 2023-12-23T03:48:37.179Z,-6.3622,129.6973,10,4.9,mb,40,88,1.839,0.89,us,us7000ll0u,2023-12-23T04:08:59.040Z,"Banda Sea",earthquake,7.12,1.879,0.102,31,reviewed,us,us
 2023-12-23T03:30:49.250Z,38.8115005,-122.8191681,3.09,0.75,md,14,56,0.00825,0.02,nc,nc73979711,2023-12-23T04:51:10.617Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.84,0.11,16,automatic,nc,nc
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T13:22:58.540Z,58.2898333333333,-154.977166666667,3.24,0.1,ml,10,135,,0.21,av,av92161891,2023-12-22T22:56:54.530Z,"86 km NNW of Karluk, Alaska",earthquake,0.39,1.13,0.207400253777352,10,reviewed,av,av
 2023-12-22T13:20:40.830Z,36.1956667,-117.9808333,1.73,1.85,ml,29,54,0.1283,0.17,ci,ci40449511,2023-12-22T16:50:33.815Z,"10 km SSE of Olancha, CA",earthquake,0.2,0.47,0.161,21,reviewed,ci,ci
 2023-12-22T13:14:47.523Z,31.674,-104.335,7.8026,1.8,ml,22,57,0.1,0.3,tx,tx2023yzpu,2023-12-22T13:49:33.761Z,"55 km S of Whites City, New Mexico",earthquake,0.6435539833,1.060550567,0.2,14,reviewed,tx,tx
-2023-12-22T13:13:21.320Z,38.8423347,-122.8766632,2.09,1.37,md,25,89,0.0067,0.03,nc,nc73979481,2023-12-22T15:24:11.516Z,"13 km NW of The Geysers, CA",earthquake,0.24,0.37,0.13,27,automatic,nc,nc
-2023-12-22T13:13:19.099Z,64.2944,-148.0765,18.1,1.2,ml,,,,0.66,ak,ak023gcz50g5,2023-12-22T13:15:30.048Z,"53 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
