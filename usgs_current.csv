@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-22T23:52:46.950Z,19.4488334655762,-155.487838745117,6.57000017166138,2.07,ml,41,45,,0.180000007,hv,hv73694052,2023-12-22T23:58:18.700Z,"26 km W of Volcano, Hawaii",earthquake,0.31,0.600000024,4.15,5,automatic,hv,hv
+2023-12-22T23:52:46.950Z,19.4488334655762,-155.487838745117,6.57000017166138,2.07,ml,41,45,,0.180000007,hv,hv73694052,2023-12-23T00:04:26.221Z,"26 km W of Volcano, Hawaii",earthquake,0.31,0.600000024,4.15,5,automatic,hv,hv
 2023-12-22T23:47:05.790Z,40.9178333,-111.5676667,9.33,1.96,ml,30,72,0.1038,0.14,uu,uu60556982,2023-12-22T23:59:25.040Z,"12 km WSW of Echo, Utah",earthquake,0.22,0.56,0.205,4,reviewed,uu,uu
 2023-12-22T23:34:07.244Z,62.069,-145.2172,20,1.4,ml,,,,0.47,ak,ak023gd57tmc,2023-12-22T23:36:08.989Z,"8 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-22T23:31:07.150Z,38.7941666,-122.7819977,3.44,0.78,md,16,93,0.00473,0.02,nc,nc73979671,2023-12-22T23:54:14.850Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.87,0.07,17,automatic,nc,nc
@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T20:35:31.910Z,38.8370018,-122.807663,1.82,1.11,md,14,52,0.0136,0.01,nc,nc73979631,2023-12-22T23:22:11.668Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.78,0.14,17,automatic,nc,nc
 2023-12-22T20:28:16.950Z,38.3983333,-112.9148333,8.44,0.04,md,10,179,0.07353,0.06,uu,uu60556967,2023-12-22T20:43:30.030Z,"8 km E of Milford, Utah",earthquake,0.75,0.66,0.627,3,reviewed,uu,uu
 2023-12-22T20:27:41.471Z,38.1702,-118.1599,11.9,1.2,ml,10,117.31,0.141,0.1843,nn,nn00870498,2023-12-22T21:59:18.699Z,"24 km S of Mina, Nevada",earthquake,,1.8,1.01,4,reviewed,nn,nn
+2023-12-22T19:58:05.632Z,39.389,-119.7087,5.3,0.4,ml,6,126.58,0.078,0.0859,nn,nn00870516,2023-12-23T00:06:17.935Z,"10 km NNW of Virginia City, Nevada",earthquake,,3.2,0.26,3,reviewed,nn,nn
 2023-12-22T19:55:40.910Z,34.9886667,-118.1948333,0.34,1.69,ml,36,36,0.113,0.24,ci,ci40449655,2023-12-22T20:02:29.026Z,"7 km SSW of Mojave, CA",earthquake,0.33,0.69,0.2,24,automatic,ci,ci
 2023-12-22T19:51:14.079Z,61.4473,-147.226,11.7,1.4,ml,,,,0.48,ak,ak023gd2xqwf,2023-12-22T19:53:05.208Z,"46 km SSE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-22T19:45:58.250Z,19.2595,-68.7638,10,3.95,md,19,201,0.4255,0.88,pr,pr2023356002,2023-12-22T20:34:57.451Z,"42 km NE of Miches, Dominican Republic",earthquake,3.24,31.61,0.13,18,reviewed,pr,pr
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T00:29:01.910Z,33.653,-116.7151667,15.27,0.87,ml,42,57,0.03797,0.13,ci,ci40449407,2023-12-22T01:36:39.597Z,"10 km S of Idyllwild, CA",earthquake,0.16,0.28,0.105,14,reviewed,ci,ci
 2023-12-22T00:28:59.940Z,33.6566667,-116.7163333,16.79,0.49,ml,15,92,0.03752,0.07,ci,ci37607660,2023-12-22T01:36:37.252Z,"9 km S of Idyllwild, CA",earthquake,0.35,0.69,0.078,2,reviewed,ci,ci
 2023-12-22T00:21:53.104Z,57.1164,-155.0758,37.4,1.9,ml,,,,0.4,ak,ak023gcrg3c0,2023-12-22T12:43:42.434Z,"58 km WNW of Akhiok, Alaska",earthquake,,2.9,,,reviewed,ak,ak
-2023-12-22T00:03:57.510Z,57.0831666666667,-135.6135,7.8,0.37,ml,4,202,,0.33,av,av91125393,2023-12-22T19:31:55.350Z,"17 km W of Sitka, Alaska",earthquake,3.69,2.28,0.6140896362913,4,reviewed,av,av
