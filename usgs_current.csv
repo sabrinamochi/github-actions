@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T23:06:04.430Z,38.9251671,-123.2488327,5.7,1.91,md,15,71,0.04653,0.05,nc,nc73980091,2023-12-23T23:22:14.238Z,"14 km SE of Boonville, CA",earthquake,0.27,0.66,0.05,12,automatic,nc,nc
 2023-12-23T22:56:29.710Z,34.3923333,-117.6838333,6.61,1.08,ml,24,49,0.1489,0.16,ci,ci40450127,2023-12-23T23:02:40.867Z,"6 km SW of Pinon Hills, CA",earthquake,0.22,0.78,0.204,20,automatic,ci,ci
 2023-12-23T22:51:15.570Z,19.3066673278809,-155.212493896484,0.790000021457672,2.67,ml,49,101,,0.209999993,hv,hv73694772,2023-12-23T23:02:15.040Z,"15 km S of Volcano, Hawaii",earthquake,0.29,0.379999995,3.22,27,automatic,hv,hv
-2023-12-23T22:41:55.830Z,38.8424988,-122.8381653,1.57,0.72,md,7,109,0.004429,0.01,nc,nc73980081,2023-12-23T23:03:14.134Z,"10 km NW of The Geysers, CA",earthquake,0.44,1.19,0.14,9,automatic,nc,nc
+2023-12-23T22:41:55.830Z,38.8424988,-122.8381653,1.57,0.72,md,7,109,0.004429,0.01,nc,nc73980081,2023-12-23T23:51:10.404Z,"10 km NW of The Geysers, CA",earthquake,0.44,1.19,0.14,9,automatic,nc,nc
 2023-12-23T22:34:39.520Z,38.8233337,-122.8538361,2.63,0.73,md,10,136,0.004828,0.02,nc,nc73980076,2023-12-23T23:23:11.241Z,"10 km WNW of The Geysers, CA",earthquake,0.6,1.15,0.16,10,automatic,nc,nc
 2023-12-23T22:22:33.160Z,19.3251667022705,-155.161331176758,4.32000017166138,2.01,ml,34,92,,0.150000006,hv,hv73694727,2023-12-23T22:28:04.420Z,"15 km SSE of Volcano, Hawaii",earthquake,0.38,1.99000001,2.08,9,automatic,hv,hv
 2023-12-23T22:19:49.120Z,38.8318329,-122.8170013,1.68,0.71,md,8,145,0.01001,0.01,nc,nc73980071,2023-12-23T22:59:11.113Z,"8 km NW of The Geysers, CA",earthquake,0.42,1.23,0.42,8,automatic,nc,nc
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T04:39:00.202Z,63.4803,-148.4206,0,1.9,ml,,,,0.66,ak,ak023gehgzno,2023-12-23T04:40:58.010Z,"28 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-23T04:26:18.439Z,31.473,-103.913,5.126,2.3,ml,14,124,0.1,0.4,tx,tx2023zatw,2023-12-23T05:01:27.558Z,"20 km NNW of Toyah, Texas",earthquake,0,2.850022326,0.2,12,automatic,tx,tx
 2023-12-23T04:24:37.590Z,34.0126667,-116.3431667,2.94,0.88,ml,39,36,0.06856,0.17,ci,ci40449783,2023-12-23T04:30:44.524Z,"14 km SSW of Joshua Tree, CA",earthquake,0.17,0.29,0.171,15,automatic,ci,ci
-2023-12-23T04:15:31.339Z,43.2201,-71.4804,5,2.7,mb_lg,28,115,0.662,0.47,us,us7000ll0w,2023-12-23T23:45:57.965Z,"4 km ENE of Concord, New Hampshire",earthquake,0.88,1.943,0.142,13,reviewed,us,us
+2023-12-23T04:15:31.339Z,43.2201,-71.4804,5,2.7,mb_lg,28,115,0.662,0.47,us,us7000ll0w,2023-12-23T23:50:59.562Z,"4 km ENE of Concord, New Hampshire",earthquake,0.88,1.943,0.142,13,reviewed,us,us
 2023-12-23T04:05:20.371Z,39.6197,-119.6308,7.9,2.6,ml,33,72.22,0.063,0.1563,nn,nn00870545,2023-12-23T18:02:21.533Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
 2023-12-23T03:48:39.770Z,19.6983,-68.7468,10,3.87,md,18,252,0.6014,0.58,pr,pr2023357000,2023-12-23T04:34:47.272Z,"82 km NE of Samaná, Dominican Republic",earthquake,2.94,31.61,0.09,12,reviewed,pr,pr
 2023-12-23T03:48:37.179Z,-6.3622,129.6973,10,4.9,mb,40,88,1.839,0.89,us,us7000ll0u,2023-12-23T04:08:59.040Z,"Banda Sea",earthquake,7.12,1.879,0.102,31,reviewed,us,us
@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T00:30:55.149Z,64.9878,-147.3179,3.2,1.4,ml,,,,0.53,ak,ak023gef1g16,2023-12-23T00:32:44.209Z,"14 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-23T00:21:47.084Z,60.876,-151.7591,84.1,1.3,ml,,,,1.55,ak,ak023geezh38,2023-12-23T00:24:45.259Z,"32 km NW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-22T23:52:46.950Z,19.4488334655762,-155.487838745117,6.57000017166138,2.07,ml,41,45,,0.180000007,hv,hv73694052,2023-12-23T00:04:26.221Z,"26 km W of Volcano, Hawaii",earthquake,0.31,0.600000024,4.15,5,automatic,hv,hv
-2023-12-22T23:51:28.010Z,19.6923,-64.5816,29,3.95,md,15,304,1.2778,0.24,pr,pr2023356003,2023-12-23T00:32:45.040Z,"152 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.36,18.83,0.11,6,reviewed,pr,pr
