@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-26T00:32:53.620Z,34.0165,-116.7703333,18.19,1.5,ml,69,49,0.03624,0.18,ci,ci40450983,2023-12-26T00:39:29.667Z,"11 km N of Cabazon, CA",earthquake,0.15,0.31,0.138,27,automatic,ci,ci
+2023-12-26T00:29:32.936Z,61.4705,-146.4396,6.2,1.8,ml,,,,0.69,ak,ak023gjdn831,2023-12-26T00:31:27.625Z,"38 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-26T00:07:40.178Z,63.555,-150.8427,6.7,1.5,ml,,,,0.37,ak,ak023gjdiiw1,2023-12-26T00:09:20.044Z,"43 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-26T00:06:12.710Z,33.2705,-116.7811667,11.91,1.05,ml,54,25,0.03921,0.16,ci,ci40450975,2023-12-26T00:12:16.689Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.14,0.44,0.13,21,automatic,ci,ci
 2023-12-26T00:03:19.306Z,58.2864,-155.0136,0,0.5,ml,,,,0.28,ak,ak023gjdhmey,2023-12-26T00:05:47.446Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -54,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T17:20:25.810Z,59.1341,-153.8746,94.1,1.6,ml,,,,0.27,ak,ak023gi069bn,2023-12-25T17:51:17.881Z,"58 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-12-25T17:15:56.179Z,31.64,-104.386,4.3906,1.7,ml,15,75,0,0.2,tx,tx2023zfkh,2023-12-25T17:32:15.732Z,"59 km S of Whites City, New Mexico",earthquake,0,1.503117025,0.1,11,automatic,tx,tx
 2023-12-25T17:14:48.324Z,59.5552,-152.8925,96,1.8,ml,,,,0.44,ak,ak023gi052bk,2023-12-25T17:17:25.899Z,"59 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-25T17:14:25.880Z,18.8533,-65.4771,14,4.17,md,25,204,0.7177,0.22,pr,pr2023359003,2023-12-25T22:09:51.960Z,"58 km NNE of Luquillo, Puerto Rico",earthquake,0.69,1.91,0.12,14,reviewed,pr,pr
+2023-12-25T17:14:25.880Z,18.8533,-65.4771,14,4.17,md,25,204,0.7177,0.22,pr,pr2023359003,2023-12-26T00:35:46.386Z,"58 km NNE of Luquillo, Puerto Rico",earthquake,0.69,1.91,0.12,14,reviewed,pr,pr
 2023-12-25T17:06:58.894Z,59.1448,-146.9623,19.2,3.6,ml,,,,1.05,ak,ak023gi03dd8,2023-12-25T17:27:35.592Z,"118 km SSE of Chenega, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-12-25T16:58:49.451Z,31.604,-104.511,9.9024,1.6,ml,15,146,0.1,0.8,tx,tx2023zfjs,2023-12-25T17:32:10.733Z,"64 km SSW of Whites City, New Mexico",earthquake,0,5.324960255,0.1,13,automatic,tx,tx
 2023-12-25T16:53:46.068Z,31.679,-104.299,4.6784,2.2,ml,17,66,0,0.3,tx,tx2023zfjn,2023-12-25T17:32:07.789Z,"55 km S of Whites City, New Mexico",earthquake,0,1.296116895,0.2,13,automatic,tx,tx
@@ -123,6 +125,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T09:05:03.720Z,38.8258324,-122.7949982,2.32,1.24,md,25,35,0.01202,0.04,nc,nc73980766,2023-12-25T11:04:10.971Z,"6 km W of Cobb, CA",earthquake,0.21,0.4,0.2,25,automatic,nc,nc
 2023-12-25T08:55:26.210Z,38.7975006,-122.8184967,2.37,0.74,md,7,96,0.01357,0.01,nc,nc73980761,2023-12-25T10:37:11.779Z,"6 km WNW of The Geysers, CA",earthquake,0.77,1.84,0.15,7,automatic,nc,nc
 2023-12-25T08:53:57.261Z,39.3878,-119.7038,6.4,-0.2,ml,5,190.07,0.047,0.083,nn,nn00870637,2023-12-25T19:05:51.208Z,"9 km NNW of Virginia City, Nevada",earthquake,,1.9,0,1,reviewed,nn,nn
+2023-12-25T08:50:14.540Z,51.7381666666667,-177.485666666667,12.51,0.43,ml,4,210,,0.03,av,av91125718,2023-12-26T00:40:03.950Z,"60 km WSW of Adak, Alaska",earthquake,0.85,1.79,0.151356090617608,4,reviewed,av,av
+2023-12-25T08:48:27.130Z,58.2958333333333,-154.9925,2.97,-0.17,ml,9,129,,0.08,av,av92164321,2023-12-26T00:29:41.470Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.52,0.214865884542645,10,reviewed,av,av
 2023-12-25T08:36:57.861Z,61.3201,-151.6704,77.3,2.4,ml,,,,0.38,ak,ak023ghuwwd6,2023-12-25T08:38:51.808Z,"37 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-25T08:14:01.212Z,38.5695,-119.5034,6.1,-0.1,ml,5,155.5,0.083,0.0726,nn,nn00870652,2023-12-25T22:43:44.777Z,"0 km NE of Coleville, California",earthquake,,4,0,1,reviewed,nn,nn
 2023-12-25T08:12:06.700Z,38.8195,-122.7986679,2.43,1.08,md,23,32,0.009722,0.02,nc,nc73980741,2023-12-25T09:55:10.544Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.42,0.18,23,automatic,nc,nc
@@ -189,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T01:27:42.550Z,38.8453331,-122.7819977,1.11,0.78,md,11,145,0.005154,0.03,nc,nc73980586,2023-12-25T02:29:10.715Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.44,0.35,12,automatic,nc,nc
 2023-12-25T01:07:43.849Z,39.5505,-119.8027,5.6,0.6,ml,12,79.96,0.018,0.1884,nn,nn00870635,2023-12-25T18:59:35.225Z,"2 km NNE of Reno, Nevada",earthquake,,1.4,0.65,4,reviewed,nn,nn
 2023-12-25T00:50:16.174Z,64.9754,-147.4433,1.2,1.1,ml,,,,0.44,ak,ak023ghq8cc1,2023-12-25T07:54:45.457Z,"8 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-12-25T00:37:06.907Z,39.3898,-119.7122,7.9,1.4,ml,17,59.01,0.041,0.1859,nn,nn00870612,2023-12-25T22:18:11.105Z,"10 km NNW of Virginia City, Nevada",earthquake,,1,0.35,5,reviewed,nn,nn
