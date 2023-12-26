@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-26T22:01:57.087Z,61.4313,-150.1402,16.6,2.9,ml,,,,1.05,ak,ak023gjqkteu,2023-12-26T22:12:51.279Z,"11 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-12-26T22:20:23.470Z,38.8221664,-122.7646637,2.1,0.77,md,8,120,0.009251,0.01,nc,nc73981501,2023-12-26T22:22:00.619Z,"4 km W of Cobb, CA",earthquake,0.4,0.59,0.1,9,automatic,nc,nc
+2023-12-26T22:18:55.460Z,19.2415008544922,-155.399673461914,28.4799995422363,2.32999992,md,44,135,,0.119999997,hv,hv73697657,2023-12-26T22:22:10.950Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.5,0.670000017,0.939999998,29,automatic,hv,hv
+2023-12-26T22:16:54.510Z,19.2593326568604,-155.397994995117,29.7399997711182,2.31,ml,48,127,,0.140000001,hv,hv73697652,2023-12-26T22:22:25.770Z,"10 km NE of Pāhala, Hawaii",earthquake,0.51,0.839999974,3.16,12,automatic,hv,hv
+2023-12-26T22:01:57.087Z,61.4313,-150.1402,16.6,2.9,ml,,,,1.05,ak,ak023gjqkteu,2023-12-26T22:21:54.242Z,"11 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-26T21:53:22.500Z,38.7936668,-122.7584991,0.47,0.8,md,6,127,0.007012,0.01,nc,nc73981486,2023-12-26T22:09:11.317Z,"2 km N of The Geysers, CA",earthquake,0.48,1.26,0.23,7,automatic,nc,nc
 2023-12-26T21:47:06.780Z,38.8318329,-122.817337,1.53,0.78,md,18,53,0.01016,0.01,nc,nc73981476,2023-12-26T22:03:15.275Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.42,0.19,17,automatic,nc,nc
 2023-12-26T21:44:15.730Z,33.6295,-116.7675,14.67,0.59,ml,30,78,0.03583,0.13,ci,ci40451455,2023-12-26T21:50:12.920Z,"12 km NW of Anza, CA",earthquake,0.2,0.29,0.142,11,automatic,ci,ci
@@ -19,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T19:45:56.750Z,38.8313332,-122.815834,1.7,1.37,md,29,45,0.009114,0.02,nc,nc73981401,2023-12-26T20:45:14.817Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.34,0.15,28,automatic,nc,nc
 2023-12-26T19:39:43.270Z,46.914833333333334,-121.9675,7.16,0.7000000000000001,ml,19,102,0.01974,0.11,uw,uw61978096,2023-12-26T19:57:20.230Z,"18 km NNE of Ashford, Washington",earthquake,0.51,0.73,0.09931454225311093,9,reviewed,uw,uw
 2023-12-26T19:38:13.932Z,32.848,-100.979,6.0403,2.9,ml,17,67,0.1,0.2,tx,tx2023zhkm,2023-12-26T19:49:28.002Z,"15 km NNW of Snyder, Texas",earthquake,0.7587286347,2.140094077,0.1,11,reviewed,tx,tx
+2023-12-26T19:25:00.540Z,46.19133333333333,-122.19883333333334,7.26,0.34,ml,13,78,0.01282,0.2,uw,uw61978091,2023-12-26T22:14:44.960Z,"36 km NNE of Amboy, Washington",earthquake,0.59,0.59,0.06968181053408495,7,reviewed,uw,uw
 2023-12-26T19:21:12.250Z,61.818,-150.7349,44.4,1.9,ml,,,,0.3,ak,ak023gjowp95,2023-12-26T19:24:25.065Z,"32 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-26T19:19:26.870Z,54.1256666666667,-166.0295,6.32,0.17,ml,6,212,,0.06,av,av92165661,2023-12-26T19:32:53.510Z,"16 km W of Akutan, Alaska",earthquake,0.68,0.67,0.41951716024268,7,reviewed,av,av
 2023-12-26T19:16:56.130Z,35.2475,-118.5983333,5.64,1.69,ml,41,48,0.07583,0.18,ci,ci40451399,2023-12-26T19:27:19.250Z,"19 km NW of Tehachapi, CA",earthquake,0.18,0.74,0.156,27,automatic,ci,ci
@@ -193,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T23:03:11.030Z,35.6995,-117.5135,6.47,1.91,ml,36,61,0.08075,0.14,ci,ci40450959,2023-12-26T17:29:29.090Z,"12 km SW of Searles Valley, CA",earthquake,0.18,0.5,0.115,24,reviewed,ci,ci
 2023-12-25T22:59:08.094Z,64.9337,-149.2344,11.9,1.3,ml,,,,0.43,ak,ak023gi3dsgh,2023-12-25T23:03:47.049Z,"24 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-25T22:23:56.660Z,35.7555,-117.5646667,9.25,0.85,ml,22,92,0.1459,0.17,ci,ci40450943,2023-12-26T17:29:03.120Z,"15 km W of Searles Valley, CA",earthquake,0.33,0.91,0.133,6,reviewed,ci,ci
-2023-12-25T22:16:55.090Z,19.345832824707,-155.328338623047,25.6499996185303,2.19,ml,52,56,,0.200000003,hv,hv73696717,2023-12-25T22:22:27.570Z,"14 km SW of Volcano, Hawaii",earthquake,0.45,0.649999976,3.52,11,automatic,hv,hv
-2023-12-25T22:16:32.180Z,19.0575008392334,-155.406173706055,34.0200004577637,2.5,ml,14,269,,0.119999997,hv,hv73696712,2023-12-25T22:22:03.900Z,"17 km SSE of Pāhala, Hawaii",earthquake,1.29,0.99000001,4.53,12,automatic,hv,hv
