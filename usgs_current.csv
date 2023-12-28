@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-28T07:00:43.420Z,40.3914986,-125,2.22,3.82,ml,77,265,0.5185,0.36,nc,nc73981981,2023-12-28T07:10:14.040Z,"61 km W of Petrolia, CA",earthquake,2.54,4.68,0.15,13,reviewed,nc,nc
+2023-12-28T07:00:43.420Z,40.3914986,-125,2.22,3.82,ml,77,265,0.5185,0.36,nc,nc73981981,2023-12-28T07:16:55.513Z,"61 km W of Petrolia, CA",earthquake,2.54,4.68,0.15,13,reviewed,nc,nc
 2023-12-28T06:58:50.340Z,19.2019996643066,-155.371337890625,32.5800018310547,1.97000003,md,35,167,,0.189999998,hv,hv73699012,2023-12-28T07:01:50.780Z,"11 km E of Pāhala, Hawaii",earthquake,0.6,0.819999993,1.38,10,automatic,hv,hv
 2023-12-28T06:52:50.330Z,35.924,-117.6861667,2.55,1.27,ml,31,63,0.1097,0.17,ci,ci40452007,2023-12-28T06:59:09.612Z,"20 km E of Little Lake, CA",earthquake,0.23,0.45,0.157,13,automatic,ci,ci
 2023-12-28T06:33:35.620Z,38.8144989,-122.7979965,2.22,1.09,md,13,69,0.006852,0.03,nc,nc73981976,2023-12-28T07:07:13.215Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.68,0.16,16,automatic,nc,nc
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T19:39:25.884Z,36.7132,-115.9589,3,0.1,ml,10,174.59,0.026,0.1286,nn,nn00870752,2023-12-28T02:55:21.873Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
 2023-12-27T19:38:49.945Z,62.1798,-150.607,19,2,ml,,,,0.46,ak,ak023glcjrtu,2023-12-27T19:49:34.357Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-27T19:37:00.064Z,55.801,-159.3872,194,1.8,ml,,,,1.03,ak,ak023glcjg9i,2023-12-27T19:38:57.771Z,"12 km SSE of Ivanof Bay, Alaska",earthquake,,5.6,,,automatic,ak,ak
-2023-12-27T19:26:32.350Z,51.4065,-178.958,14.76,2.92,ml,11,241,,0.1,av,av91125868,2023-12-28T02:06:11.830Z,"169 km WSW of Adak, Alaska",earthquake,0.61,0.43,0.286874487811901,12,reviewed,av,av
+2023-12-27T19:26:31.516Z,51.4131,-178.9508,16.2,2.9,ml,,,,0.58,ak,ak023glch5r3,2023-12-28T07:14:10.006Z,"168 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-12-27T19:25:34.820Z,51.4078333333333,-178.937333333333,15.56,3.04,ml,16,209,,0.16,av,av92166506,2023-12-28T02:01:24.590Z,"167 km WSW of Adak, Alaska",earthquake,0.71,1.09,0.262788724961553,16,reviewed,av,av
 2023-12-27T19:21:31.340Z,54.5555,-164.7115,14.95,0.96,ml,4,137,,0.09,av,av92166496,2023-12-28T01:55:57.320Z,"83 km ENE of Akutan, Alaska",earthquake,0.73,0.9,0.234390662543678,4,reviewed,av,av
 2023-12-27T19:12:30.590Z,53.4413333333333,-168.198,2.93,0.66,ml,7,230,,0.14,av,av92166491,2023-12-28T01:39:17.390Z,"71 km NE of Nikolski, Alaska",earthquake,0.69,0.51,0.44002693135324,7,reviewed,av,av
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T07:33:25.477Z,31.691,-104.289,7.5712,1.7,ml,24,64,0,0.3,tx,tx2023ziib,2023-12-27T16:49:45.960Z,"54 km S of Whites City, New Mexico",earthquake,0.6591396421,0.7217040395,0.2,19,reviewed,tx,tx
 2023-12-27T07:26:54.974Z,39.5589,-119.8013,6,-0.2,ml,8,90.11,0.01,0.1234,nn,nn00870743,2023-12-27T22:59:17.731Z,"3 km NNE of Reno, Nevada",earthquake,,2,0,1,reviewed,nn,nn
 2023-12-27T07:22:58.661Z,60.0042,-153.1407,113.1,1.1,ml,,,,0.36,ak,ak023gl5b5sa,2023-12-27T07:24:41.621Z,"59 km ENE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-12-27T07:16:17.640Z,54.7495,-164.087666666667,2.48,0.87,ml,5,188,,0.06,av,av92166106,2023-12-27T08:20:59.550Z,"45 km WSW of False Pass, Alaska",earthquake,0.38,0.72,0.186418399542524,6,reviewed,av,av
-2023-12-27T07:14:51.220Z,37.6218338,-122.4686661,6.48,1.56,md,13,124,0.01609,0.06,nc,nc73981666,2023-12-27T14:42:56.827Z,"2 km ENE of Pacifica, CA",earthquake,0.39,0.44,0.34,9,automatic,nc,nc
