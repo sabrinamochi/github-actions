@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-29T00:56:59.810Z,33.6851654,-116.7393341,17.51,0.95,ml,20,121,0.03336,0.09,ci,ci40452223,2023-12-29T00:59:03.192Z,"6 km SSW of Idyllwild, CA",earthquake,0.48,0.91,0.255,7,automatic,ci,ci
+2023-12-29T00:50:05.820Z,60.1504,-140.9367,15.6,2.1,ml,,,,1.02,ak,ak023gocdpie,2023-12-29T00:51:56.716Z,"95 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-12-29T00:38:05.325Z,-7.1781,67.9725,10,5.2,mb,57,54,12.673,0.65,us,us6000m0av,2023-12-29T00:53:36.040Z,"Mid-Indian Ridge",earthquake,11.01,1.865,0.068,71,reviewed,us,us
 2023-12-29T00:38:05.172Z,61.3709,-148.9287,19.5,2.4,ml,,,,0.75,ak,ak023gocb4vo,2023-12-29T00:40:12.990Z,"9 km S of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-29T00:27:05.640Z,19.3841667175293,-155.280334472656,0.949999988079071,1.82000005,md,14,75,,0.0799999982,hv,hv73699922,2023-12-29T00:30:08.010Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.569999993,13,automatic,hv,hv
+2023-12-29T00:24:49.754Z,-20.6414,-177.8406,385.668,4.5,mb,29,70,2.521,0.41,us,us6000m0as,2023-12-29T00:55:39.040Z,"270 km WNW of Houma, Tonga",earthquake,14.27,6.819,0.085,40,reviewed,us,us
+2023-12-29T00:15:50.084Z,31.678,-104.414,4.3085,1.8,ml,16,69,0,0.3,tx,tx2023zlkp,2023-12-29T00:47:02.005Z,"55 km S of Whites City, New Mexico",earthquake,0,1.30356385,0.1,13,automatic,tx,tx
 2023-12-29T00:11:11.508Z,62.0038,-150.4652,6.8,2.2,ml,,,,0.54,ak,ak023goc5d0u,2023-12-29T00:12:55.919Z,"36 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-29T00:10:51.290Z,19.3818340301514,-155.280838012695,1.25999999046326,1.74,ml,15,64,,0.0900000036,hv,hv73699912,2023-12-29T00:16:21.590Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.230000004,3.75,3,automatic,hv,hv
 2023-12-29T00:09:03.845Z,57.8614,-153.7893,26.6,2.7,ml,,,,0.36,ak,ak023goc4x00,2023-12-29T00:14:17.040Z,"37 km NNE of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -40,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T21:01:12.410Z,19.3908333333333,-155.279833333333,1.39,0.8,md,15,66,,0.1,hv,hv73699647,2023-12-28T21:19:40.020Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.22,0.370257849898699,2,reviewed,hv,hv
 2023-12-28T20:54:04.010Z,60.2435,-150.0707,46.9,1.8,ml,,,,0.63,ak,ak023gn0rvu9,2023-12-28T20:56:31.424Z,"30 km SSW of Cooper Landing, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-28T20:45:22.595Z,31.645,-104.336,3.9716,1.5,ml,17,70,0.1,0.3,tx,tx2023zldr,2023-12-28T21:19:50.555Z,"58 km S of Whites City, New Mexico",earthquake,0,1.432232702,0.2,13,automatic,tx,tx
+2023-12-28T20:41:11.120Z,60.0528333333333,-153.077,0.62,-0.84,ml,4,134,,0.05,av,av92167231,2023-12-29T00:59:23.060Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.71,0.42,0.388506453747825,4,reviewed,av,av
 2023-12-28T20:40:57.210Z,19.3848333333333,-155.276666666667,0.92,0.44,md,16,108,,0.06,hv,hv73699617,2023-12-28T21:25:50.290Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.13,0.185515111035114,2,reviewed,hv,hv
 2023-12-28T20:37:20.840Z,38.8248329,-122.7900009,1.29,0.46,md,8,77,0.01356,0.01,nc,nc73982161,2023-12-28T21:17:14.316Z,"6 km W of Cobb, CA",earthquake,0.54,1.01,0.28,9,automatic,nc,nc
 2023-12-28T20:37:03.340Z,38.8246651,-122.7898331,1.36,1.28,md,24,39,0.01345,0.03,nc,nc73982156,2023-12-28T22:58:10.999Z,"6 km W of Cobb, CA",earthquake,0.19,0.34,0.07,24,automatic,nc,nc
@@ -249,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T01:22:02.620Z,38.8378334,-122.7450027,0.55,1.36,md,23,182,0.0208,0.04,nc,nc73981941,2023-12-28T05:59:11.831Z,"3 km NW of Cobb, CA",earthquake,0.34,0.44,0.18,24,automatic,nc,nc
 2023-12-28T01:15:57.550Z,19.3906666666667,-155.262333333333,11.4,0.97,md,18,47,,0.13,hv,hv73698757,2023-12-28T01:50:13.030Z,"6 km SSW of Volcano, Hawaii",earthquake,0.67,0.44,0.127689026718779,3,reviewed,hv,hv
 2023-12-28T01:15:15.590Z,54.1268333333333,-166.043,5.97,-0.1,ml,8,126,,0.07,av,av91125908,2023-12-28T20:20:13.690Z,"17 km W of Akutan, Alaska",earthquake,0.3,0.47,0.403311173881449,8,reviewed,av,av
-2023-12-28T00:55:55.480Z,38.7856674,-122.7331696,1.44,1.58,md,19,110,0.003689,0.04,nc,nc73981936,2023-12-28T01:54:17.410Z,"2 km ENE of The Geysers, CA",earthquake,0.27,0.41,0.19,20,automatic,nc,nc
