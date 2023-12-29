@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-29T01:37:22.860Z,38.8180008,-122.8193359,2.82,0.29,md,9,121,0.00902,0.02,nc,nc73982241,2023-12-29T01:38:55.328Z,"7 km NW of The Geysers, CA",earthquake,0.66,1.21,0.11,10,automatic,nc,nc
 2023-12-29T01:25:51.038Z,64.9841,-147.3885,0.6,1.4,ml,,,,0.78,ak,ak023goctvpb,2023-12-29T01:27:50.756Z,"11 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-29T01:16:31.220Z,19.1663333333333,-155.421333333333,12.33,4.36,ml,43,220,,0.13,hv,hv73699997,2023-12-29T01:32:08.702Z,"7 km SE of Pāhala, Hawaii",earthquake,0.7,0.46,0.166234414960689,46,reviewed,hv,hv
+2023-12-29T01:18:49.917Z,-7.1346,67.9112,7.739,5.8,mww,101,40,12.605,0.87,us,us6000m0b4,2023-12-29T01:40:32.878Z,"Mid-Indian Ridge",earthquake,9.64,4.142,0.083,14,reviewed,us,us
+2023-12-29T01:16:31.220Z,19.1663333333333,-155.421333333333,12.33,4.36,ml,43,220,,0.13,hv,hv73699997,2023-12-29T01:37:17.929Z,"7 km SE of Pāhala, Hawaii",earthquake,0.7,0.46,0.166234414960689,46,reviewed,hv,hv
 2023-12-29T00:56:59.910Z,33.6886667,-116.7388333,16.73,0.74,ml,30,66,0.03044,0.11,ci,ci40452223,2023-12-29T01:03:11.664Z,"6 km SSW of Idyllwild, CA",earthquake,0.21,0.32,0.185,15,automatic,ci,ci
 2023-12-29T00:50:05.820Z,60.1504,-140.9367,15.6,2.1,ml,,,,1.02,ak,ak023gocdpie,2023-12-29T00:51:56.716Z,"95 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-29T00:50:01.213Z,-21.8981,-175.8867,153.28,4.7,mb,28,81,0.964,0.41,us,us6000m0az,2023-12-29T01:24:27.040Z,"100 km SW of Houma, Tonga",earthquake,11.04,7.18,0.106,27,reviewed,us,us
@@ -140,11 +142,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T12:41:44.680Z,51.9675,-177.206833333333,6.53,0.2,ml,4,321,,0.19,av,av91125928,2023-12-28T22:30:25.940Z,"40 km WNW of Adak, Alaska",earthquake,2.15,1.25,0.272478567245532,4,reviewed,av,av
 2023-12-28T12:40:43.876Z,44.4926,149.1441,41,4.8,mb,55,135,4.717,1.05,us,us6000m06q,2023-12-28T13:00:15.040Z,"129 km SE of Kuril’sk, Russia",earthquake,9.74,7.51,0.059,89,reviewed,us,us
 2023-12-28T12:37:59.811Z,63.114,-149.1092,77.2,1.8,ml,,,,0.35,ak,ak023gmvww4t,2023-12-28T12:39:33.510Z,"31 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-12-28T12:31:49.994Z,36.7093,-115.9783,2.7,0.3,ml,7,181.3,0.02,0.0579,nn,nn00870850,2023-12-29T01:40:31.287Z,"31 km WNW of Indian Springs, Nevada",earthquake,,2.2,0,1,reviewed,nn,nn
 2023-12-28T12:26:55.541Z,58.4295,-154.3008,2.1,0.9,ml,,,,0.19,ak,ak023gmvuixe,2023-12-28T22:47:02.210Z,"91 km WNW of Aleneva, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2023-12-28T12:23:33.461Z,39.5611,-119.7975,4.4,0.4,ml,8,80.19,0.027,0.1762,nn,nn00870849,2023-12-29T01:37:24.850Z,"3 km NNE of Reno, Nevada",earthquake,,1.8,0.57,2,reviewed,nn,nn
 2023-12-28T12:13:49.678Z,61.927,-148.5702,18.7,1.9,ml,,,,0.36,ak,ak023gmvrq60,2023-12-28T12:17:00.899Z,"15 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-28T12:03:26.220Z,40.4025,-125.1083333,10,3.5,ml,117,243,0.5929,0.23,nc,nc73982061,2023-12-28T15:29:22.957Z,"70 km W of Petrolia, CA",earthquake,0.98,31.61,0.188,62,reviewed,nc,nc
 2023-12-28T12:01:38.510Z,40.1479988,-123.8539963,20.59,2.19,md,18,117,0.09318,0.1,nc,nc73982056,2023-12-28T13:45:10.778Z,"4 km NW of Redway, CA",earthquake,0.51,1.02,0.19,8,automatic,nc,nc
 2023-12-28T11:44:11.411Z,44.5021,148.8007,47.823,4.7,mb,51,135,4.472,0.66,us,us6000m06f,2023-12-28T12:28:54.040Z,"108 km SE of Kuril’sk, Russia",earthquake,10.44,7.626,0.072,58,reviewed,us,us
+2023-12-28T11:41:16.904Z,36.748,-116.146,3.2,0.1,ml,6,173.98,0.026,0.0454,nn,nn00870848,2023-12-29T01:34:18.304Z,"46 km WNW of Indian Springs, Nevada",earthquake,,3.2,0.11,2,reviewed,nn,nn
 2023-12-28T11:33:12.745Z,61.3965,-150.1185,31.4,1.8,ml,,,,0.64,ak,ak023gmvai16,2023-12-28T11:36:10.117Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-28T11:26:02.270Z,19.1876659393311,-155.470504760742,28.3700008392334,1.77999997,md,20,155,,0.109999999,hv,hv73699137,2023-12-28T11:29:19.220Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.99,1.24000001,0.709999979,3,automatic,hv,hv
 2023-12-28T11:22:53.459Z,36.7201,-115.9487,4.1,0.9,ml,30,105.26,0.031,0.1248,nn,nn00870799,2023-12-29T01:28:04.651Z,"29 km NW of Indian Springs, Nevada",earthquake,,1,0.21,12,reviewed,nn,nn
@@ -264,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T02:02:00.020Z,36.7145,-115.9527,2.6,0.5,ml,28,183.12,0.03,0.1126,nn,nn00870766,2023-12-28T23:54:00.589Z,"29 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.32,10,reviewed,nn,nn
 2023-12-28T01:54:21.680Z,19.4166666666667,-155.261166666667,11.41,0.73,md,15,133,,0.13,hv,hv73698802,2023-12-28T02:15:24.840Z,"4 km SW of Volcano, Hawaii",earthquake,0.78,0.56,0.0967841443828241,2,reviewed,hv,hv
 2023-12-28T01:53:29.620Z,35.9308333,-117.6846667,2.52,1.34,ml,27,64,0.1095,0.15,ci,ci40451951,2023-12-28T01:59:51.237Z,"20 km E of Little Lake, CA",earthquake,0.22,0.39,0.129,12,automatic,ci,ci
-2023-12-28T01:35:11.006Z,6.1115,125.5027,35,5.2,mb,85,67,0.955,0.59,us,us6000m040,2023-12-28T14:17:01.637Z,"14 km ENE of Suyan, Philippines",earthquake,8.83,1.827,0.04,204,reviewed,us,us
