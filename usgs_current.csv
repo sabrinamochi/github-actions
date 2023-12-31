@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-31T06:29:21.675Z,39.5525,-119.8161,7.7,1.1,ml,8,95.69,0.046,0.102,nn,nn00871017,2023-12-31T06:31:18.754Z,"2 km N of Reno, Nevada",earthquake,,0.8,0.44,3,automatic,nn,nn
 2023-12-31T06:18:16.766Z,60.9078,-152.4575,109.9,2.1,ml,,,,0.63,ak,ak023grqu621,2023-12-31T06:21:26.099Z,"68 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-31T06:14:41.146Z,39.5473,-119.8202,8.1,1.5,ml,11,85.67,0.04,0.0908,nn,nn00871015,2023-12-31T06:27:44.012Z,"2 km NNW of Reno, Nevada",earthquake,,0.6,0.23,4,automatic,nn,nn
 2023-12-31T06:12:56.608Z,39.5483,-119.8165,8.1,1.4,ml,12,84.31,0.042,0.0732,nn,nn00871014,2023-12-31T06:26:43.713Z,"2 km N of Reno, Nevada",earthquake,,0.7,0.14,7,automatic,nn,nn
@@ -284,7 +285,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T08:45:49.590Z,54.7461666666667,-164.072166666667,2.46,1.07,ml,5,263,,0.12,av,av92168761,2023-12-30T20:34:16.780Z,"44 km WSW of False Pass, Alaska",earthquake,0.96,0.82,0.394310473065314,5,reviewed,av,av
 2023-12-30T08:43:18.490Z,19.3611660003662,-155.293502807617,1.25999999046326,1.99,ml,12,124,,0.209999993,hv,hv73702087,2023-12-30T08:48:49.610Z,"10 km SW of Volcano, Hawaii",earthquake,0.33,0.660000026,0.34,4,automatic,hv,hv
 2023-12-30T08:43:07.700Z,38.822834,-122.7851639,1.82,0.71,md,8,108,0.01018,0.04,nc,nc73982936,2023-12-30T10:48:10.353Z,"5 km W of Cobb, CA",earthquake,0.49,0.82,0.13,8,automatic,nc,nc
-2023-12-30T08:40:46.680Z,19.1723333333333,-155.371833333333,30.4,2.71,ml,60,173,,0.12,hv,hv73702082,2023-12-30T08:56:09.220Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.62,0.63,0.181916057083925,32,reviewed,hv,hv
+2023-12-30T08:40:46.680Z,19.1723333333333,-155.371833333333,30.4,2.71,ml,60,173,,0.12,hv,hv73702082,2023-12-31T06:30:30.040Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.62,0.63,0.181916057083925,32,reviewed,hv,hv
 2023-12-30T08:40:14.190Z,38.8185005,-122.7986679,3.65,0.76,md,10,62,0.01016,0.01,nc,nc73982931,2023-12-30T08:56:12.704Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.09,0.19,13,automatic,nc,nc
 2023-12-30T08:35:56.304Z,60.4776,-143.2026,29.7,1.4,ml,,,,0.71,ak,ak023gq4lezy,2023-12-30T08:37:45.896Z,"107 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-30T08:31:33.450Z,60.2699,-151.9799,77.9,1.7,ml,,,,0.37,ak,ak023gq4kidd,2023-12-30T08:33:22.796Z,"29 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -313,4 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T07:01:38.550Z,19.3791675567627,-155.281173706055,1.08000004291534,1.77,ml,16,83,,0.119999997,hv,hv73701857,2023-12-30T07:07:10.240Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.25,0.29,5,automatic,hv,hv
 2023-12-30T06:57:22.750Z,19.3818333333333,-155.240833333333,0.82,0.68,md,18,81,,0.07,hv,hv73701847,2023-12-30T07:40:13.880Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.22,0.220540072110421,2,reviewed,hv,hv
 2023-12-30T06:44:15.015Z,-15.3414,167.655,152.297,4.6,mb,39,130,6.092,0.82,us,us6000m0k0,2023-12-30T07:05:07.419Z,"56 km ENE of Luganville, Vanuatu",earthquake,10.25,7.572,0.095,33,reviewed,us,us
-2023-12-30T06:30:27.200Z,19.3603333333333,-155.2925,2.01,2.51,ml,24,53,,0.09,hv,hv73701792,2023-12-31T05:59:31.040Z,"11 km SW of Volcano, Hawaii",earthquake,0.21,0.3,0.195960124673617,20,reviewed,hv,hv
