@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-31T17:37:00.955Z,60.2139,-151.1937,49.3,1.8,ml,,,,0.41,ak,ak023grxhz3j,2023-12-31T17:39:31.549Z,"11 km E of Clam Gulch, Alaska",earthquake,,3.4,,,automatic,ak,ak
-2023-12-31T17:33:49.760Z,32.4119987,-115.2639999,3.8,2.27,ml,18,89,0.03548,0.29,ci,ci40453103,2023-12-31T17:35:54.525Z,"9 km NW of Delta, B.C., MX",earthquake,0.71,0.51,0.329,20,automatic,ci,ci
+2023-12-31T17:33:49.640Z,32.3996667,-115.2576667,5.65,2.19,ml,23,47,0.04466,0.32,ci,ci40453103,2023-12-31T17:40:24.597Z,"8 km NW of Delta, B.C., MX",earthquake,0.46,0.82,0.223,20,automatic,ci,ci
 2023-12-31T17:32:21.240Z,38.7885017,-122.7583313,0.68,0.75,md,10,72,0.01215,0.04,nc,nc73983451,2023-12-31T17:33:56.089Z,"1 km N of The Geysers, CA",earthquake,0.24,0.63,0.04,9,automatic,nc,nc
 2023-12-31T17:29:34.020Z,32.4095,-115.2843333,-0.05,2.34,ml,33,49,0.02012,0.38,ci,ci40453095,2023-12-31T17:36:04.570Z,"10 km NW of Delta, B.C., MX",earthquake,0.44,1.16,0.25,24,automatic,ci,ci
 2023-12-31T17:20:22.440Z,38.7876663,-122.7453308,1.21,1.36,md,21,84,0.00805,0.04,nc,nc73983446,2023-12-31T17:32:10.156Z,"2 km NE of The Geysers, CA",earthquake,0.24,0.4,0.15,23,automatic,nc,nc
@@ -86,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T07:42:00.790Z,33.2538333,-116.1001667,5.46,1.16,ml,62,34,0.09929,0.2,ci,ci40452959,2023-12-31T07:52:56.960Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.16,0.69,0.114,22,automatic,ci,ci
 2023-12-31T07:37:23.100Z,19.3608,-63.7615,34,3.7,md,10,323,1.2764,0.31,pr,pr2023365000,2023-12-31T08:23:01.723Z,"146 km NNW of Sandy Ground Village, Anguilla",earthquake,2.26,22.56,0.12,7,reviewed,pr,pr
 2023-12-31T07:34:05.820Z,18.6036666666667,-66.9748333333333,78.81,3.02,md,19,244,0.1873,0.14,pr,pr71435853,2023-12-31T08:14:05.140Z,"12 km NNE of Isabela, Puerto Rico",earthquake,0.99,0.7,0.155159778041945,11,reviewed,pr,pr
+2023-12-31T07:25:41.400Z,39.5599,-119.8004,5,-0.2,ml,12,76.64,0.009,0.194,nn,nn00871038,2023-12-31T17:40:16.779Z,"3 km NNE of Reno, Nevada",earthquake,,1.1,0,1,reviewed,nn,nn
 2023-12-31T07:22:22.890Z,34.1436667,-116.9655,12.89,0.88,ml,43,35,0.0557,0.17,ci,ci40452951,2023-12-31T16:56:03.310Z,"12 km SSW of Big Bear Lake, CA",earthquake,0.18,0.33,0.095,12,reviewed,ci,ci
 2023-12-31T07:22:20.344Z,63.1901,-150.3423,109,1.8,ml,,,,0.23,ak,ak023grrggsy,2023-12-31T07:24:14.822Z,"73 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-31T07:21:15.979Z,39.5531,-119.802,5.9,0.9,ml,15,79.05,0.016,0.1591,nn,nn00871037,2023-12-31T17:37:06.715Z,"2 km NNE of Reno, Nevada",earthquake,,0.9,0.46,4,reviewed,nn,nn
@@ -269,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T17:52:22.860Z,60.5118333333333,-152.830833333333,4.37,0.35,ml,4,173,,0.06,av,av92169056,2023-12-31T05:47:50.820Z,"82 km NW of Ninilchik, Alaska",earthquake,0.42,1.31,0.26337628046843,4,reviewed,av,av
 2023-12-30T17:48:26.970Z,45.715,-112.039166666667,7,1.93,ml,22,48,0.04981,0.11,mb,mb90037573,2023-12-31T15:35:30.160Z,"12 km WNW of Pony, Montana",earthquake,0.25,0.6,0.162779612173069,25,reviewed,mb,mb
 2023-12-30T17:46:56.360Z,19.33766746521,-155.29899597168,2.8199999332428,2.13000011,md,23,64,,0.150000006,hv,hv73703437,2023-12-30T17:49:58.780Z,"13 km SSW of Volcano, Hawaii",earthquake,0.3,0.620000005,0.560000002,15,automatic,hv,hv
-2023-12-30T17:40:27.120Z,33.2645,-116.4266667,4.38,1.38,ml,67,18,0.008778,0.2,ci,ci40452751,2023-12-30T17:51:36.650Z,"5 km WNW of Borrego Springs, CA",earthquake,0.15,0.33,0.149,26,automatic,ci,ci
