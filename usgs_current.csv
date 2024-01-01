@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-01T12:22:34.380Z,38.7481651,-122.7018356,1.78,1.14,md,10,218,0.02008,0.03,nc,nc73983766,2024-01-01T12:24:09.625Z,"3 km SSW of Anderson Springs, CA",earthquake,0.43,0.44,0.14,10,automatic,nc,nc
-2024-01-01T12:21:19.870Z,33.965332,-117.1861649,11.28,1.02,ml,18,95,0.02108,0.19,ci,ci40453487,2024-01-01T12:23:36.989Z,"6 km NE of Moreno Valley, CA",earthquake,0.41,0.85,0.234,3,automatic,ci,ci
+2024-01-01T12:21:19.950Z,33.9596667,-117.1811667,10.72,0.73,ml,50,46,0.0141,0.18,ci,ci40453487,2024-01-01T12:27:40.048Z,"6 km NE of Moreno Valley, CA",earthquake,0.16,0.33,0.103,17,automatic,ci,ci
 2024-01-01T12:15:44.510Z,33.9575,-117.1221667,12.76,0.93,ml,55,49,0.1499,0.16,ci,ci40453479,2024-01-01T12:22:02.897Z,"7 km WSW of Calimesa, CA",earthquake,0.15,0.7,0.223,19,automatic,ci,ci
 2024-01-01T12:05:32.060Z,38.822834,-122.7611694,1.98,0.96,md,6,127,0.01024,0,nc,nc73983761,2024-01-01T12:20:10.629Z,"3 km W of Cobb, CA",earthquake,0.75,1.55,0.19,8,automatic,nc,nc
 2024-01-01T11:43:26.421Z,62.4347,-151.1251,66.7,1.9,ml,,,,0.98,ak,ak0241ucdz6,2024-01-01T11:45:48.603Z,"19 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T12:49:08.580Z,45.0555,-116.767166666667,6.27,2,ml,16,80,0.4331,0.17,mb,mb90037583,2023-12-31T15:59:36.930Z,"33 km NE of Halfway, Oregon",earthquake,0.43,0.72,0.218161202808099,24,reviewed,mb,mb
 2023-12-31T12:48:04.161Z,59.0157,-154.4645,122.5,1.9,ml,,,,0.19,ak,ak023grul674,2023-12-31T12:50:01.449Z,"50 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-31T12:34:26.000Z,33.8838333,-116.8626667,15.62,1.22,ml,65,34,0.07185,0.14,ci,ci40453007,2023-12-31T12:45:12.820Z,"5 km SSE of Banning, CA",earthquake,0.12,0.3,0.141,27,automatic,ci,ci
-2023-12-31T12:28:54.650Z,18.9398,-65.4225,24,3.45,md,13,239,0.7455,0.41,pr,pr2023365001,2023-12-31T12:49:41.165Z,"70 km NNE of Luquillo, Puerto Rico",earthquake,1.97,25.54,0.07,6,reviewed,pr,pr
