@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-02T20:11:52.620Z,33.3081665,-116.2316666,4.92,1.09,ml,22,151,0.08473,0.2,ci,ci40454255,2024-01-02T20:13:54.995Z,"14 km ENE of Borrego Springs, CA",earthquake,0.68,1.14,0.197,2,automatic,ci,ci
 2024-01-02T19:59:31.316Z,60.7204,-147.4301,13.3,1.8,ml,,,,0.29,ak,ak0243mqn57,2024-01-02T20:00:59.261Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-02T19:59:18.260Z,34.975,-118.2083333,4.83,1.68,ml,14,89,0.09739,0.04,ci,ci40454247,2024-01-02T20:05:48.629Z,"9 km SSW of Mojave, CA",earthquake,0.33,0.78,0.248,32,automatic,ci,ci
 2024-01-02T19:44:59.455Z,64.831,-147.406,9.7,1.4,ml,,,,0.22,ak,ak0243mnhkp,2024-01-02T19:47:03.891Z,"6 km ENE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -124,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T06:06:26.980Z,33.057,-116.2021667,3.42,1.61,ml,79,30,0.1025,0.21,ci,ci40453871,2024-01-02T06:17:23.060Z,"12 km SW of Ocotillo Wells, CA",earthquake,0.14,0.43,0.159,27,automatic,ci,ci
 2024-01-02T05:55:43.641Z,61.2935,-146.8458,19.7,3.6,ml,,,,0.66,ak,ak0243edqm4,2024-01-02T12:00:21.583Z,"32 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-01-02T05:52:45.760Z,62.866,-150.5692,77.4,1.9,ml,,,,0.75,ak,ak0243ed3s0,2024-01-02T06:06:26.040Z,"42 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-02T05:51:04.779Z,39.0861,-77.1938,15.318,2.3,mb_lg,21,117,0.424,0.48,us,us6000m135,2024-01-02T20:08:33.819Z,"3 km W of Rockville, Maryland",earthquake,3.9,8.346,0.193,7,reviewed,us,us
+2024-01-02T05:51:04.779Z,39.0861,-77.1938,15.318,2.3,mb_lg,21,117,0.424,0.48,us,us6000m135,2024-01-02T20:13:54.466Z,"3 km W of Rockville, Maryland",earthquake,3.9,8.346,0.193,7,reviewed,us,us
 2024-01-02T05:48:41.970Z,19.2000007629395,-155.375671386719,30.4799995422363,1.76999998,md,28,173,,0.140000001,hv,hv73707257,2024-01-02T05:51:44.470Z,"10 km E of Pāhala, Hawaii",earthquake,0.67,1.07000005,0.589999974,3,automatic,hv,hv
 2024-01-02T05:45:48.840Z,39.5638,-119.8034,5.9,-0.1,ml,9,76.14,0.007,0.1372,nn,nn00871199,2024-01-02T18:25:10.905Z,"3 km NNE of Reno, Nevada",earthquake,,1.6,0,1,reviewed,nn,nn
 2024-01-02T05:37:09.620Z,36.1178333333333,-91.4376666666667,16.54,1.88,md,8,126,0.1524,0.04,nm,nm60501503,2024-01-02T14:30:55.350Z,"12 km WNW of Smithville, Arkansas",earthquake,0.55,1.32,0.0930421711206957,5,reviewed,nm,nm
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-01T20:26:48.030Z,38.7939987,-122.769165,3.74,0.74,md,14,85,0.009917,0.02,nc,nc73984086,2024-01-01T21:25:13.103Z,"2 km NNW of The Geysers, CA",earthquake,0.37,0.73,0.32,14,automatic,nc,nc
 2024-01-01T20:18:03.710Z,38.8284988,-122.8153305,2.17,0.71,md,10,86,0.006545,0.02,nc,nc73984076,2024-01-01T20:41:11.820Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.81,0.33,10,automatic,nc,nc
 2024-01-01T20:15:42.760Z,37.2161667,-121.4581667,-0.36,0.69,md,12,71,0.04394,0.06,nc,nc73984081,2024-01-02T19:30:11.123Z,"20 km ENE of Morgan Hill, CA",earthquake,0.23,0.81,0.182,12,reviewed,nc,nc
-2024-01-01T20:13:17.558Z,31.653,-104.328,4.3012,1.7,ml,15,69,0.1,0.2,tx,tx2024aboa,2024-01-01T20:56:21.785Z,"58 km S of Whites City, New Mexico",earthquake,0,1.49464087,0.1,12,automatic,tx,tx
