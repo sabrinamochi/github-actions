@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-05T18:55:54.930Z,34.2649994,-117.5100021,8.76,4.38,mlr,87,40,0.1258,0.24,ci,ci40455759,2024-01-05T18:59:38.855Z,"1 km WNW of Lytle Creek, CA",earthquake,0.29,0.99,0.216,18,reviewed,ci,ci
+2024-01-05T18:55:54.930Z,34.2649994,-117.5100021,8.76,4.13,mw,87,40,0.1258,0.24,ci,ci40455759,2024-01-05T19:00:44.330Z,"1 km WNW of Lytle Creek, CA",earthquake,0.29,0.99,,6,reviewed,ci,ci
 2024-01-05T18:38:35.670Z,37.2898331,-119.8860016,15.96,2.86,md,11,110,0.1721,0.37,nc,nc73985486,2024-01-05T18:51:11.130Z,"15 km NW of Yosemite Lakes, CA",earthquake,1.03,1.83,0.15,8,automatic,nc,nc
 2024-01-05T18:35:57.330Z,38.8359985,-122.8003311,2.13,0.75,md,7,73,0.008163,0.01,nc,nc73985476,2024-01-05T18:51:10.996Z,"7 km WNW of Cobb, CA",earthquake,0.54,1.98,0.32,11,automatic,nc,nc
 2024-01-05T18:13:30.380Z,38.8334999,-122.8108368,2.01,0.32,md,9,66,0.01011,0.01,nc,nc73985466,2024-01-05T18:52:15.001Z,"8 km W of Cobb, CA",earthquake,0.47,1.35,0.26,9,automatic,nc,nc
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T08:22:54.120Z,38.478,-112.847333333333,-0.19,0.21,md,12,110,0.02216,0.08,uu,uu80034461,2024-01-05T15:55:30.420Z,"16 km ENE of Milford, Utah",earthquake,0.26,0.12,0.469439033796944,5,reviewed,uu,uu
 2024-01-05T08:01:33.349Z,31.65,-104.284,7.0056,1.9,ml,22,68,0.1,0.2,tx,tx2024ahxy,2024-01-05T18:15:42.141Z,"58 km S of Whites City, New Mexico",earthquake,0.8819509668,1.264644747,0.2,19,reviewed,tx,tx
 2024-01-05T07:55:12.860Z,32.8163333,-116.0715,9.65,0.64,ml,26,83,0.03262,0.22,ci,ci40455527,2024-01-05T08:00:57.515Z,"12 km NW of Ocotillo, CA",earthquake,0.28,0.54,0.059,2,automatic,ci,ci
-2024-01-05T07:48:37.910Z,38.7996,-119.2588,7.7,1.2,ml,11,64.83,0.289,0.1089,nn,nn00871327,2024-01-05T18:57:48.265Z,"5 km E of Smith, Nevada",earthquake,,5,0.16,3,reviewed,nn,nn
+2024-01-05T07:48:37.906Z,38.8003,-119.2565,7.7,1.2,ml,12,64.9,0.291,0.1272,nn,nn00871327,2024-01-05T19:01:00.259Z,"6 km E of Smith, Nevada",earthquake,,2.8,0.16,3,reviewed,nn,nn
 2024-01-05T07:45:39.210Z,44.5783333333333,-110.743833333333,8.72,0.15,md,11,92,0.07682,0.14,uu,uu80034456,2024-01-05T15:47:49.430Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.48,1.55,0.293130161729023,7,reviewed,uu,uu
 2024-01-05T07:45:06.235Z,31.598,-104.534,4.808,2.2,ml,14,235,0.1,0.4,tx,tx2024ahxi,2024-01-05T08:19:47.895Z,"65 km SSW of Whites City, New Mexico",earthquake,0,3.420939418,0.1,12,automatic,tx,tx
 2024-01-05T07:43:21.230Z,17.999,-66.9876666666667,8.81,2.84,md,18,133,0.06134,0.18,pr,pr71436298,2024-01-05T08:17:02.090Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.39,0.68,0.118485501580929,13,reviewed,pr,pr
