@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-05T17:54:14.320Z,33.3903351,-116.4166641,16.63,1.2,ml,13,91,0.09383,0.35,ci,ci40455711,2024-01-05T17:56:19.700Z,"15 km NNW of Borrego Springs, CA",earthquake,1.05,3.09,0.363,11,automatic,ci,ci
-2024-01-05T17:54:06.950Z,33.2116661,-116.2064972,15.92,1.12,ml,26,199,0.04409,0.24,ci,ci40455703,2024-01-05T17:56:10.850Z,"10 km NW of Ocotillo Wells, CA",earthquake,1.23,1.58,0.304,13,automatic,ci,ci
+2024-01-05T17:54:13.460Z,33.4548333,-116.564,11.32,0.96,ml,13,191,0.2084,0.17,ci,ci40455711,2024-01-05T18:01:11.439Z,"15 km SE of Anza, CA",earthquake,0.62,0.94,0.174,20,automatic,ci,ci
+2024-01-05T17:54:13.410Z,33.461,-116.5633333,9.07,0.29,ml,24,186,0.04759,0.1,ci,ci40455703,2024-01-05T18:01:09.401Z,"15 km SE of Anza, CA",earthquake,0.44,0.63,0.065,2,automatic,ci,ci
 2024-01-05T17:47:43.900Z,38.8251648,-122.8213348,1.63,1.09,md,20,47,0.008972,0.03,nc,nc73985456,2024-01-05T17:59:12.808Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,22,automatic,nc,nc
 2024-01-05T17:33:06.203Z,61.0544,-150.9797,68.6,1.9,ml,,,,0.21,ak,ak0248k06v0,2024-01-05T17:34:15.949Z,"8 km E of Tyonek, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-01-05T17:32:57.389Z,60.0051,-141.696,17.5,2.6,ml,,,,0.28,ak,ak0248k033e,2024-01-05T17:39:22.040Z,"121 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T16:00:40.670Z,46.7718333333333,-112.615666666667,0.08,1.28,ml,13,68,0.1397,0.15,mb,mb90038053,2024-01-05T16:42:44.000Z,"19 km N of Avon, Montana",earthquake,0.37,1.27,0.217758660292807,5,reviewed,mb,mb
 2024-01-05T15:53:28.800Z,38.8300018,-122.8119965,0.76,0.52,md,10,82,0.006766,0.02,nc,nc73985416,2024-01-05T16:12:12.012Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.58,0.32,11,automatic,nc,nc
 2024-01-05T15:47:51.534Z,37.0951,69.9493,10,4.7,mwr,62,55,2.653,1.05,us,us6000m21h,2024-01-05T16:06:15.040Z,"11 km ESE of Rustāq, Afghanistan",earthquake,6.22,1.86,0.061,26,reviewed,us,us
-2024-01-05T15:35:44.920Z,38.8343315,-122.8063354,2.09,0.83,md,11,60,0.0113,0.02,nc,nc73985401,2024-01-05T17:59:12.675Z,"7 km W of Cobb, CA",earthquake,0.32,0.82,0.26,11,automatic,nc,nc
+2024-01-05T15:35:44.920Z,38.8343315,-122.8063354,2.09,0.83,md,11,60,0.0113,0.02,nc,nc73985401,2024-01-05T18:01:13.686Z,"7 km W of Cobb, CA",earthquake,0.32,0.82,0.26,11,automatic,nc,nc
 2024-01-05T15:31:29.433Z,64.7783,-148.9976,15.2,0.9,ml,,,,0.86,ak,ak0248isy0f,2024-01-05T15:34:31.527Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-05T15:17:28.160Z,36.78583333,-97.65616667,3.22,1.9,ml,92,94,0.1763653911,0.26,ok,ok2024aimh,2024-01-05T16:14:14.931Z,"7 km ESE of Medford, Oklahoma",earthquake,,0.7,0.2,35,reviewed,ok,ok
 2024-01-05T15:07:45.320Z,38.7926674,-122.7616653,0.66,0.73,md,13,67,0.008091,0.02,nc,nc73985391,2024-01-05T17:32:10.521Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.49,0.18,13,automatic,nc,nc
@@ -118,6 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T04:32:34.740Z,46.19683333333333,-122.32766666666667,11.28,1.72,ml,72,36,0.01656,0.18,uw,uw61978916,2024-01-05T05:03:29.330Z,"33 km NNE of Amboy, Washington",earthquake,0.15,0.29,0.16477396198170569,37,reviewed,uw,uw
 2024-01-05T04:24:54.621Z,60.3543,-152.5804,112.6,2.5,ml,,,,0.35,ak,ak0248c7qae,2024-01-05T06:50:41.304Z,"60 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-05T04:17:07.797Z,31.589,-104.552,3.6533,1.5,ml,13,164,0.1,0.2,tx,tx2024ahqm,2024-01-05T04:56:01.364Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.943038531,0.1,9,automatic,tx,tx
+2024-01-05T04:15:03.950Z,37.619,-118.8721667,8.44,-0.06,md,14,129,0.007316,0.02,nc,nc73985241,2024-01-05T18:01:44.141Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.51,1.18,0.173,12,reviewed,nc,nc
 2024-01-05T04:14:53.520Z,36.0766667,-117.6466667,0.32,1.14,ml,26,69,0.1616,0.19,ci,ci40455479,2024-01-05T04:20:47.210Z,"27 km E of Coso Junction, CA",earthquake,0.22,0.41,0.244,10,automatic,ci,ci
 2024-01-05T03:53:25.320Z,19.2001667022705,-155.491668701172,35.2299995422363,1.91999996,md,43,73,,0.119999997,hv,hv73710147,2024-01-05T03:56:41.100Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.61,0.720000029,0.25999999,13,automatic,hv,hv
 2024-01-05T03:48:41.470Z,46.1995,-122.31816666666667,10.98,2.99,ml,87,30,0.02338,0.18,uw,uw61978896,2024-01-05T17:38:45.303Z,"33 km NNE of Amboy, Washington",earthquake,0.19,0.32,0.16680750165122227,59,reviewed,uw,uw
