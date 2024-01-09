@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-09T22:22:20.070Z,38.8266678,-122.8108368,1.14,1.1,md,11,72,0.003322,0.03,nc,nc73987196,2024-01-09T22:23:58.325Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.76,0.28,11,automatic,nc,nc
 2024-01-09T22:11:31.710Z,38.7939987,-122.7626648,3.13,1.04,md,16,63,0.007007,0.02,nc,nc73987191,2024-01-09T22:13:08.203Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.75,0.22,16,automatic,nc,nc
 2024-01-09T21:36:28.546Z,59.9596,-151.8881,62.8,2.6,ml,,,,0.3,ak,ak024f8k0nn,2024-01-09T21:48:49.291Z,"8 km W of Happy Valley, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2024-01-09T21:36:18.329Z,59.3718,-153.038,76.9,2.1,ml,,,,0.28,ak,ak024f8jzc8,2024-01-09T21:37:54.785Z,"63 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -37,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-09T17:14:21.577Z,61.3063,-150.4218,56.7,1.7,ml,,,,0.47,ak,ak024f61jf1,2024-01-09T17:16:53.946Z,"24 km WSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-09T17:11:02.105Z,60.0137,-151.8734,67.9,2,ml,,,,0.55,ak,ak024f60urm,2024-01-09T17:13:39.166Z,"10 km NW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-09T17:00:31.460Z,35.8435,-117.6691667,6.78,0.5,mh,11,157,0.08524,0.15,ci,ci40457295,2024-01-09T18:41:20.043Z,"24 km ESE of Little Lake, CA",earthquake,0.36,0.67,,0,reviewed,ci,ci
+2024-01-09T16:56:28.810Z,38.8076667,-122.8181667,2.99,-0.07,md,14,78,0.008686,0.02,nc,nc73987106,2024-01-09T22:23:20.946Z,"6 km WNW of The Geysers, CA",earthquake,0.38,0.64,0.234,14,reviewed,nc,nc
 2024-01-09T16:52:50.000Z,19.1358337402344,-155.478164672852,31.4099998474121,2.25,md,31,174,,0.109999999,hv,hv73713552,2024-01-09T16:56:08.730Z,"7 km S of Pāhala, Hawaii",earthquake,0.84,0.910000026,1.40999997,19,automatic,hv,hv
 2024-01-09T16:47:25.789Z,-21.9201,-67.253,179.43,5.4,mww,41,56,1.337,1.01,us,us6000m2sb,2024-01-09T18:50:40.041Z,"129 km SE of Ollagüe, Chile",earthquake,7.35,5.5,0.066,22,reviewed,us,us
 2024-01-09T16:44:26.830Z,19.1968326568604,-155.380172729492,29.7199993133545,1.82000005,md,32,163,,0.119999997,hv,hv73713547,2024-01-09T16:47:46.650Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.75999999,1.36000001,14,automatic,hv,hv
@@ -183,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-09T02:22:33.212Z,61.3585,-150.2993,43.9,2.4,ml,,,,0.37,ak,ak024ex5ryx,2024-01-09T02:43:21.040Z,"17 km W of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-09T01:49:22.410Z,38.8406677,-122.8351669,1.24,0.78,md,20,86,0.002091,0.01,nc,nc73986841,2024-01-09T02:46:13.867Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.37,0.18,20,automatic,nc,nc
 2024-01-09T01:44:45.836Z,62.2612,-147.5335,216.8,2.4,ml,,,,1.15,ak,ak024ewp3ca,2024-01-09T01:49:50.822Z,"40 km NNW of Eureka Roadhouse, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2024-01-09T01:44:14.861Z,41.929,-119.5721,0,1.4,ml,3,213.84,0.545,0.13,nn,nn00871520,2024-01-09T22:23:43.324Z,"48 km E of Fort Bidwell, California",earthquake,,0,0.61,3,reviewed,nn,nn
 2024-01-09T01:41:29.696Z,50.856,-129.9927,10,4.3,mb,31,103,1.201,0.65,us,us6000m2ml,2024-01-09T10:29:23.030Z,"207 km W of Port McNeill, Canada",earthquake,7.27,1.98,0.044,150,reviewed,us,us
 2024-01-09T01:29:17.120Z,52.231,-174.1565,12.03,0.64,ml,6,182,,0.23,av,av91126768,2024-01-09T22:21:04.720Z,"4 km NE of Atka, Alaska",earthquake,1.28,1.02,0.564542110170005,5,reviewed,av,av
 2024-01-09T01:27:30.005Z,36.5429,70.8608,195.419,4.2,mb,25,101,3.022,0.7,us,us6000m2mk,2024-01-09T01:44:19.040Z,"35 km S of Jurm, Afghanistan",earthquake,8.5,15.544,0.199,7,reviewed,us,us
