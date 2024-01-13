@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T13:17:48.070Z,35.6751667,-117.4821667,7.14,0.86,ml,26,109,0.04864,0.13,ci,ci40459039,2024-01-13T13:23:37.346Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.39,0.055,5,automatic,ci,ci
 2024-01-13T13:16:28.113Z,31.744,-104.114,4.5249,1.5,ml,17,185,0,0.3,tx,tx2024awyi,2024-01-13T13:51:30.871Z,"48 km W of Mentone, Texas",earthquake,0,1.205271107,0.2,13,automatic,tx,tx
 2024-01-13T12:55:22.680Z,33.4975,-116.5045,12.56,0.97,ml,58,33,0.0638,0.17,ci,ci40459031,2024-01-13T13:01:42.731Z,"17 km ESE of Anza, CA",earthquake,0.15,0.3,0.236,22,automatic,ci,ci
-2024-01-13T12:55:03.720Z,35.67183333,-97.4075,6.24,2.67,ml,95,38,0,0.13,ok,ok2024awxp,2024-01-13T20:46:42.344Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.22,44,reviewed,ok,ok
+2024-01-13T12:55:03.720Z,35.67183333,-97.4075,6.24,2.67,ml,95,38,0,0.13,ok,ok2024awxp,2024-01-13T23:02:09.100Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.22,44,reviewed,ok,ok
 2024-01-13T12:53:01.720Z,45.96783447265625,-122.84833526611328,18.5900001525879,2.368333339691162,ml,33,65,0.1114,0.209999993,uw,uw61979861,2024-01-13T18:17:56.510Z,"4 km N of Deer Island, Oregon",earthquake,0.5,0.930000007,0.30754587054252625,41,reviewed,uw,uw
 2024-01-13T12:51:59.400Z,37.0951667,-121.4368333,7.79,0.65,md,14,168,0.009135,0.07,nc,nc73988696,2024-01-13T22:36:13.197Z,"15 km NE of Gilroy, CA",earthquake,0.36,0.54,0.23,13,reviewed,nc,nc
 2024-01-13T12:50:55.960Z,33.7058333,-116.7651667,15.96,1.15,ml,60,26,0.04284,0.15,ci,ci40459023,2024-01-13T13:02:16.980Z,"6 km SW of Idyllwild, CA",earthquake,0.14,0.26,0.209,26,automatic,ci,ci
@@ -131,6 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T07:37:24.870Z,38.779335,-122.765831,0.63,1.16,md,19,83,0.008602,0.04,nc,nc73988641,2024-01-13T10:01:09.529Z,"1 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.12,19,automatic,nc,nc
 2024-01-13T06:55:59.923Z,43.6931,144.2781,10.001,4.5,mb,29,152,1.29,0.28,us,us6000m3gz,2024-01-13T07:34:34.040Z,"20 km E of Honchō, Japan",earthquake,6.81,3.093,0.136,16,reviewed,us,us
 2024-01-13T06:55:25.560Z,19.1811676025391,-155.516006469727,30.6399993896484,1.94000006,md,38,84,,0.140000001,hv,hv73715522,2024-01-13T06:58:46.630Z,"4 km WSW of Pāhala, Hawaii",earthquake,0.46,0.75,0.939999998,7,automatic,hv,hv
+2024-01-13T06:52:06.150Z,38.8203333,-122.7628333,0.8,0.43,md,9,226,0.01153,0.02,nc,nc73988636,2024-01-13T23:01:27.587Z,"3 km W of Cobb, CA",earthquake,0.43,0.36,0.219,7,reviewed,nc,nc
 2024-01-13T06:34:52.321Z,37.2186,-117.3663,3.4,1.1,ml,18,163.02,0.223,0.2239,nn,nn00871669,2024-01-13T06:37:14.454Z,"55 km SSW of Goldfield, Nevada",earthquake,,12.8,0.52,12,automatic,nn,nn
 2024-01-13T06:27:30.238Z,60.2415,-141.292,1,1.7,ml,,,,0.51,ak,ak024llpypr,2024-01-13T06:29:59.266Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-13T06:25:47.741Z,60.8893,-149.7398,34,2,ml,,,,0.41,ak,ak024llpkmu,2024-01-13T06:28:11.599Z,"6 km WSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -162,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T03:53:34.920Z,35.66866667,-97.4005,7.24,2.3,ml,98,21,0,0.15,ok,ok2024awft,2024-01-13T15:36:31.147Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.21,45,reviewed,ok,ok
 2024-01-13T03:47:35.760Z,38.7921677,-122.7606659,2.11,0.72,md,8,81,0.02073,0.02,nc,nc73988596,2024-01-13T04:05:18.501Z,"2 km NNW of The Geysers, CA",earthquake,0.3,1.05,0.1,7,automatic,nc,nc
 2024-01-13T03:46:28.449Z,35.66583333,-97.39816667,6.71,4.26,mwr,96,21,0,0.14,ok,ok2024awfn,2024-01-13T22:44:33.480Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,,48,reviewed,ok,us
-2024-01-13T03:37:28.469Z,35.66566667,-97.3915,6.5,3.16,ml,94,39,0,0.14,ok,ok2024awff,2024-01-13T20:44:43.125Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.22,40,reviewed,ok,ok
+2024-01-13T03:37:28.469Z,35.66566667,-97.3915,6.5,3.16,ml,94,39,0,0.14,ok,ok2024awff,2024-01-13T23:01:49.494Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.22,40,reviewed,ok,ok
 2024-01-13T03:23:07.710Z,33.1926667,-115.9673333,6.02,1.18,ml,54,69,0.02102,0.19,ci,ci40458959,2024-01-13T03:29:17.865Z,"12 km S of Salton City, CA",earthquake,0.18,0.4,0.112,22,automatic,ci,ci
 2024-01-13T03:07:27.080Z,31.626,-104.078,4.789,1.6,ml,15,87,0,0.4,tx,tx2024awef,2024-01-13T03:42:19.961Z,"43 km NW of Toyah, Texas",earthquake,0,1.547117041,0.2,11,automatic,tx,tx
 2024-01-13T03:01:09.230Z,38.7868347,-122.7696686,1.44,1.09,md,13,82,0.01561,0.03,nc,nc73988591,2024-01-13T03:41:17.383Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.5,0.05,14,automatic,nc,nc
