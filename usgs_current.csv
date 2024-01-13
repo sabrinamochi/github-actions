@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-13T00:37:51.000Z,33.3113327,-116.2375031,5.49,1.79,ml,72,28,0.07895,0.2,ci,ci40458911,2024-01-13T00:39:58.440Z,"14 km ENE of Borrego Springs, CA",earthquake,0.21,0.82,0.279,25,automatic,ci,ci
+2024-01-13T00:37:51.000Z,33.311,-116.2401667,6.63,1.75,ml,78,20,0.07748,0.18,ci,ci40458911,2024-01-13T00:44:38.799Z,"14 km ENE of Borrego Springs, CA",earthquake,0.13,0.48,0.147,26,automatic,ci,ci
 2024-01-13T00:15:39.220Z,36.2423325,-120.8003311,6.2,1.36,md,11,152,0.02639,0.05,nc,nc73988516,2024-01-13T00:31:10.863Z,"22 km SSW of New Idria, CA",earthquake,0.39,0.33,0.3,7,automatic,nc,nc
 2024-01-13T00:10:22.598Z,65.0067,-147.4068,14.3,1.4,ml,,,,1.25,ak,ak024li1pbn,2024-01-13T00:12:52.783Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-13T00:04:09.560Z,35.9353333,-117.708,4.25,0.49,ml,12,102,0.04841,0.07,ci,ci40458903,2024-01-13T00:25:55.111Z,"18 km E of Little Lake, CA",earthquake,0.18,0.44,0.091,4,reviewed,ci,ci
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T22:22:10.040Z,54.7378333333333,-164.081666666667,3.53,1.4,ml,4,273,,0.08,av,av91127158,2024-01-13T00:25:02.230Z,"45 km WSW of False Pass, Alaska",earthquake,0.95,0.53,0.30382790238406,4,reviewed,av,av
 2024-01-12T22:12:31.122Z,62.3161,-145.2933,14.3,2.2,ml,,,,1.04,ak,ak024k7mc5s,2024-01-12T22:17:43.616Z,"1 km NNE of Gakona, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-12T22:11:52.698Z,63.9341,-149.0188,0,2.7,ml,,,,0.55,ak,ak024k7m66d,2024-01-12T22:28:55.040Z,"8 km NNW of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-12T22:06:29.250Z,40.7315,-112.045833333333,5.37,1.83,ml,29,57,0.008825,0.14,uu,uu80035061,2024-01-12T22:42:54.617Z,"5 km ENE of Magna, Utah",earthquake,0.28,0.55,0.168809076180601,8,reviewed,uu,uu
+2024-01-12T22:06:29.250Z,40.7315,-112.045833333333,5.37,1.83,ml,29,57,0.008825,0.14,uu,uu80035061,2024-01-13T00:44:07.447Z,"5 km ENE of Magna, Utah",earthquake,0.28,0.55,0.168809076180601,8,reviewed,uu,uu
 2024-01-12T21:58:41.980Z,38.8428345,-122.8740005,2.3,1.8,md,35,82,0.005067,0.03,nc,nc73988441,2024-01-12T22:20:14.059Z,"12 km NW of The Geysers, CA",earthquake,0.21,0.27,0.13,35,automatic,nc,nc
 2024-01-12T21:55:05.600Z,33.85,-117.4845,-0.5,1.37,ml,20,50,0.04621,0.25,ci,ci40458783,2024-01-12T23:42:58.272Z,"5 km SE of Home Gardens, CA",quarry blast,0.4,31.61,0.251,17,reviewed,ci,ci
 2024-01-12T21:41:13.550Z,38.7908325,-122.7611694,0.85,1.05,md,11,66,0.009844,0.03,nc,nc73988431,2024-01-12T21:59:17.915Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.53,0.04,11,automatic,nc,nc
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T14:16:58.850Z,38.8481674,-122.8604965,5.02,0.85,md,6,225,0.02175,0.08,nc,nc73988231,2024-01-12T15:28:10.323Z,"12 km NW of The Geysers, CA",earthquake,2.89,1.77,0.32,7,automatic,nc,nc
 2024-01-12T13:57:50.538Z,61.5402,-146.5388,19.8,1.8,ml,,,,0.68,ak,ak024k2j4i5,2024-01-12T13:59:55.521Z,"46 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-12T13:53:34.920Z,33.6913333,-117.469,6.59,0.49,ml,11,98,0.05532,0.09,ci,ci40458503,2024-01-12T16:27:06.794Z,"11 km ENE of Trabuco Canyon, CA",earthquake,0.19,0.38,0.102,4,reviewed,ci,ci
-2024-01-12T13:40:50.960Z,44.2651666666667,-115.117,6.93,2.47,ml,24,69,0.2512,0.28,mb,mb90038478,2024-01-12T15:08:37.330Z,"15 km WNW of Stanley, Idaho",earthquake,0.44,1.06,0.269178664773119,25,reviewed,mb,mb
+2024-01-12T13:40:50.960Z,44.2651666666667,-115.117,6.93,2.47,ml,24,69,0.2512,0.28,mb,mb90038478,2024-01-13T00:45:13.031Z,"15 km WNW of Stanley, Idaho",earthquake,0.44,1.06,0.269178664773119,25,reviewed,mb,mb
 2024-01-12T13:37:50.313Z,36.7144,-115.9566,3.3,-0.1,ml,9,177.7,0.027,0.1091,nn,nn00871654,2024-01-12T19:42:28.309Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2024-01-12T13:00:49.456Z,-17.0963,-72.7174,77.538,5.3,mww,73,138,2.595,1.06,us,us6000m39t,2024-01-12T14:57:35.040Z,"51 km SW of Quilca, Peru",earthquake,5.87,6.858,0.056,31,reviewed,us,us
 2024-01-12T12:58:55.230Z,17.9271666666667,-66.9646666666667,9.85,2.09,md,3,241,0.08661,0.02,pr,pr71436748,2024-01-12T13:23:19.500Z,"7 km SW of Guánica, Puerto Rico",earthquake,1.68,0.85,0.137717118431609,3,reviewed,pr,pr
