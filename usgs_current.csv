@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T15:53:26.082Z,31.649,-104.011,3.4388,1.9,ml,19,44,0,0.4,tx,tx2024axdm,2024-01-13T16:20:53.950Z,"39 km W of Mentone, Texas",earthquake,0,1.110853741,0.2,13,automatic,tx,tx
 2024-01-13T15:52:29.447Z,31.646,-104.01,4.1015,1.7,ml,18,41,0,0.4,tx,tx2024axdl,2024-01-13T16:20:48.951Z,"39 km W of Mentone, Texas",earthquake,0,1.30494966,0.2,12,automatic,tx,tx
 2024-01-13T15:35:27.750Z,19.1608333587646,-155.480331420898,36.5900001525879,1.83000004,md,37,115,,0.109999999,hv,hv73715852,2024-01-13T15:38:42.340Z,"4 km S of Pāhala, Hawaii",earthquake,0.9,0.620000005,0.600000024,3,automatic,hv,hv
-2024-01-13T15:25:22.540Z,36.2856674,-120.8290024,8.3,1.73,md,14,142,0.07314,0.09,nc,nc73988716,2024-01-13T17:59:11.479Z,"20 km SW of New Idria, CA",earthquake,0.39,0.57,0.32,10,automatic,nc,nc
+2024-01-13T15:25:22.540Z,36.2856674,-120.8290024,8.3,1.73,md,14,142,0.07314,0.09,nc,nc73988716,2024-01-13T18:13:12.569Z,"20 km SW of New Idria, CA",earthquake,0.39,0.57,0.32,10,automatic,nc,nc
 2024-01-13T15:18:57.660Z,37.7820015,-122.0983353,11.42,1.61,md,24,99,0.05143,0.08,nc,nc73988711,2024-01-13T17:34:10.304Z,"6 km SSE of Moraga, CA",earthquake,0.29,0.52,0.1,16,automatic,nc,nc
 2024-01-13T15:12:58.940Z,19.261833190918,-155.403671264648,29.5200004577637,2.91,ml,51,124,,0.129999995,hv,hv73715842,2024-01-13T17:15:00.709Z,"10 km NE of Pāhala, Hawaii",earthquake,0.45,0.610000014,3.53,32,automatic,hv,hv
 2024-01-13T15:10:59.595Z,29.4422,141.5959,76.146,4.8,mb,126,75,3.967,0.85,us,us6000m3in,2024-01-13T15:42:48.040Z,"Izu Islands, Japan region",earthquake,9.02,5.039,0.046,158,reviewed,us,us
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T03:58:39.264Z,61.2322,-147.4267,25,1.7,ml,,,,1.77,ak,ak024lk4bsm,2024-01-13T04:00:18.751Z,"57 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-13T03:53:34.920Z,35.66866667,-97.4005,7.24,2.3,ml,98,21,0,0.15,ok,ok2024awft,2024-01-13T15:36:31.147Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.21,45,reviewed,ok,ok
 2024-01-13T03:47:35.760Z,38.7921677,-122.7606659,2.11,0.72,md,8,81,0.02073,0.02,nc,nc73988596,2024-01-13T04:05:18.501Z,"2 km NNW of The Geysers, CA",earthquake,0.3,1.05,0.1,7,automatic,nc,nc
-2024-01-13T03:46:28.449Z,35.66583333,-97.39816667,6.71,4.26,mwr,96,21,0,0.14,ok,ok2024awfn,2024-01-13T18:08:37.804Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,,48,reviewed,ok,us
+2024-01-13T03:46:28.449Z,35.66583333,-97.39816667,6.71,4.26,mwr,96,21,0,0.14,ok,ok2024awfn,2024-01-13T18:13:51.786Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,,48,reviewed,ok,us
 2024-01-13T03:37:28.469Z,35.66566667,-97.3915,6.5,3.16,ml,94,39,0,0.14,ok,ok2024awff,2024-01-13T17:58:02.910Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.22,40,reviewed,ok,ok
 2024-01-13T03:23:07.710Z,33.1926667,-115.9673333,6.02,1.18,ml,54,69,0.02102,0.19,ci,ci40458959,2024-01-13T03:29:17.865Z,"12 km S of Salton City, CA",earthquake,0.18,0.4,0.112,22,automatic,ci,ci
 2024-01-13T03:07:27.080Z,31.626,-104.078,4.789,1.6,ml,15,87,0,0.4,tx,tx2024awef,2024-01-13T03:42:19.961Z,"43 km NW of Toyah, Texas",earthquake,0,1.547117041,0.2,11,automatic,tx,tx
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T18:41:17.960Z,38.8390007,-122.8379974,1.91,0.93,md,16,112,0.002003,0.02,nc,nc73988346,2024-01-12T18:59:17.834Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.46,0.28,18,automatic,nc,nc
 2024-01-12T18:26:20.620Z,33.9156667,-116.716,9.89,0.61,ml,16,74,0.1062,0.12,ci,ci40458623,2024-01-12T20:46:22.845Z,"7 km E of Cabazon, CA",earthquake,0.24,0.66,0.076,5,reviewed,ci,ci
 2024-01-12T18:20:14.100Z,38.8303337,-122.803833,1.32,0.93,md,10,74,0.008472,0.01,nc,nc73988341,2024-01-12T18:47:19.760Z,"7 km W of Cobb, CA",earthquake,0.37,1.1,0.22,12,automatic,nc,nc
-2024-01-12T18:13:31.250Z,45.7208333333333,-112.133333333333,2.36,0.35,ml,5,174,0.1142,0.07,mb,mb90038538,2024-01-12T19:15:42.490Z,"16 km S of Whitehall, Montana",earthquake,0.93,1.12,0.146075335857118,2,reviewed,mb,mb
