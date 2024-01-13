@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-13T11:42:44.590Z,38.831501,-122.8188324,1.61,0.76,md,13,62,0.0106,0.01,nc,nc73988681,2024-01-13T12:00:13.231Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.59,0.32,14,automatic,nc,nc
-2024-01-13T11:36:21.859Z,35.6697,-97.417,6.354,4.5,ml,32,38,0.041,0.15,us,us6000m3hx,2024-01-13T11:56:59.137Z,"5 km ENE of Edmond, Oklahoma",earthquake,1.17,1.87,0.048,56,reviewed,us,us
+2024-01-13T11:36:21.920Z,35.6715,-97.41,6.58,4.43,ml,98,39,0,0.13,ok,ok2024awva,2024-01-13T12:02:30.408Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.22,42,reviewed,ok,ok
+2024-01-13T11:27:26.810Z,19.0653,-68.148,21,3.7,md,16,260,0.5988,0.39,pr,pr2024013001,2024-01-13T12:01:29.644Z,"59 km NNE of Punta Cana, Dominican Republic",earthquake,1.81,29.43,0.1,12,reviewed,pr,pr
 2024-01-13T11:20:29.590Z,19.3138332366943,-155.371826171875,-0.200000002980232,1.90999997,md,20,116,,0.189999998,hv,hv73715607,2024-01-13T11:25:59.280Z,"16 km NE of Pāhala, Hawaii",earthquake,0.5,0.330000013,0.889999986,11,automatic,hv,hv
 2024-01-13T11:18:45.520Z,19.1580009460449,-155.481994628906,36.2900009155273,2.51999998,md,22,125,,0.129999995,hv,hv73715602,2024-01-13T11:36:43.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.87,0.680000007,1.42999995,3,automatic,hv,hv
 2024-01-13T11:04:20.820Z,18.9055,-65.8373,78,3.86,md,11,244,0.7635,0.54,pr,pr2024013000,2024-01-13T11:32:03.956Z,"52 km N of Suárez, Puerto Rico",earthquake,7.66,10.05,0.09,2,reviewed,pr,pr
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-13T03:58:39.264Z,61.2322,-147.4267,25,1.7,ml,,,,1.77,ak,ak024lk4bsm,2024-01-13T04:00:18.751Z,"57 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-13T03:53:34.920Z,35.66866667,-97.4005,7.24,2.3,ml,98,21,0,0.15,ok,ok2024awft,2024-01-13T11:57:22.041Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.21,45,reviewed,ok,ok
 2024-01-13T03:47:35.760Z,38.7921677,-122.7606659,2.11,0.72,md,8,81,0.02073,0.02,nc,nc73988596,2024-01-13T04:05:18.501Z,"2 km NNW of The Geysers, CA",earthquake,0.3,1.05,0.1,7,automatic,nc,nc
-2024-01-13T03:46:28.449Z,35.66583333,-97.39816667,6.71,4.4,mwr,96,21,0,0.14,ok,ok2024awfn,2024-01-13T11:55:19.912Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,,48,reviewed,ok,us
+2024-01-13T03:46:28.449Z,35.66583333,-97.39816667,6.71,4.4,mwr,96,21,0,0.14,ok,ok2024awfn,2024-01-13T12:00:34.453Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,,48,reviewed,ok,us
 2024-01-13T03:37:28.469Z,35.66566667,-97.3915,6.5,3.16,ml,94,39,0,0.14,ok,ok2024awff,2024-01-13T11:58:07.705Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.22,40,reviewed,ok,ok
 2024-01-13T03:23:07.710Z,33.1926667,-115.9673333,6.02,1.18,ml,54,69,0.02102,0.19,ci,ci40458959,2024-01-13T03:29:17.865Z,"12 km S of Salton City, CA",earthquake,0.18,0.4,0.112,22,automatic,ci,ci
 2024-01-13T03:07:27.080Z,31.626,-104.078,4.789,1.6,ml,15,87,0,0.4,tx,tx2024awef,2024-01-13T03:42:19.961Z,"43 km NW of Toyah, Texas",earthquake,0,1.547117041,0.2,11,automatic,tx,tx
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-12T12:10:54.840Z,38.8139992,-122.8180008,2.64,0.77,md,21,71,0.01012,0.01,nc,nc73988211,2024-01-12T14:05:13.841Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.47,0.15,21,automatic,nc,nc
 2024-01-12T12:10:22.737Z,37.1818,136.8656,9.855,4.5,mb,50,68,1.247,0.61,us,us6000m39q,2024-01-12T12:30:07.040Z,"6 km SSW of Anamizu, Japan",earthquake,4.79,4.386,0.099,30,reviewed,us,us
 2024-01-12T12:08:59.421Z,63.0706,-150.5458,107.2,1.7,ml,,,,0.22,ak,ak024k1n7hy,2024-01-12T12:11:13.288Z,"64 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-01-12T12:01:31.140Z,38.8066673,-122.814003,2.6,0.88,md,13,59,0.01206,0.02,nc,nc73988201,2024-01-12T13:39:15.686Z,"6 km WNW of The Geysers, CA",earthquake,0.3,0.76,0.17,13,automatic,nc,nc
