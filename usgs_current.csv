@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-19T19:01:21.200Z,38.7900009,-122.7610016,2.25,0.76,md,10,77,0.01961,0.02,nc,nc73991576,2024-01-19T19:20:10.653Z,"2 km NNW of The Geysers, CA",earthquake,0.42,1.12,0.05,9,automatic,nc,nc
+2024-01-19T19:25:03.590Z,38.7873344,-122.7651672,1.7,1.77,md,27,72,0.01394,0.04,nc,nc73991581,2024-01-19T19:26:38.325Z,"1 km NW of The Geysers, CA",earthquake,0.22,0.37,0.14,28,automatic,nc,nc
+2024-01-19T19:24:56.048Z,64.1791,-147.8078,5.3,2.4,ml,,,,0.44,ak,ak024vqo3dw,2024-01-19T19:26:44.102Z,"58 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-01-19T19:24:53.980Z,34.1450005,-116.4046631,5.99,1.31,ml,25,38,0.05163,0.14,ci,ci40462895,2024-01-19T19:26:57.377Z,"4 km NE of Yucca Valley, CA",earthquake,0.31,0.74,0.092,6,automatic,ci,ci
+2024-01-19T19:01:21.200Z,38.7900009,-122.7610016,2.25,0.76,md,10,77,0.01961,0.02,nc,nc73991576,2024-01-19T19:28:11.701Z,"2 km NNW of The Geysers, CA",earthquake,0.42,1.12,0.05,9,automatic,nc,nc
 2024-01-19T18:40:50.800Z,33.7148333,-117.3328333,-0.53,0.63,ml,21,60,0.04021,0.21,ci,ci40462879,2024-01-19T19:03:11.525Z,"5 km N of Lake Elsinore, CA",quarry blast,0.35,31.61,0.174,3,reviewed,ci,ci
 2024-01-19T18:34:36.150Z,19.9243335723877,-155.470840454102,23.7099990844727,2.82999992,md,37,188,,0.180000007,hv,hv73721697,2024-01-19T18:40:08.070Z,"16 km SW of Pa‘auilo, Hawaii",earthquake,0.73,1.77999997,0.939999998,3,automatic,hv,hv
 2024-01-19T18:18:39.260Z,38.7729988,-122.7190018,1.43,1.6,md,20,73,0.01228,0.04,nc,nc73991571,2024-01-19T19:17:13.636Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.41,0.19,20,automatic,nc,nc
@@ -9,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T17:58:20.840Z,38.7958336,-122.7738342,3.36,1.26,md,22,74,0.01132,0.02,nc,nc73991561,2024-01-19T18:30:11.993Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.53,0.19,24,automatic,nc,nc
 2024-01-19T17:36:34.330Z,34.1436667,-116.4081667,5.47,1.22,ml,35,38,0.05299,0.15,ci,ci40462823,2024-01-19T18:22:01.931Z,"4 km NE of Yucca Valley, CA",earthquake,0.18,0.52,0.138,14,reviewed,ci,ci
 2024-01-19T17:20:41.080Z,38.8171654,-122.8160019,2.08,1.09,md,20,47,0.007755,0.05,nc,nc73991556,2024-01-19T18:08:11.226Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.65,0.17,20,automatic,nc,nc
+2024-01-19T17:12:43.261Z,32.411,-102.032,9.4395,2.5,ml,30,79,0.1,0.1,tx,tx2024bife,2024-01-19T19:21:51.055Z,"32 km WSW of Ackerly, Texas",earthquake,0.3677375055,0.7691493032,0.2,22,reviewed,tx,tx
 2024-01-19T17:10:29.250Z,38.8219986,-122.7938309,3.38,0.77,md,8,93,0.01276,0.02,nc,nc73991551,2024-01-19T17:45:12.091Z,"6 km NNW of The Geysers, CA",earthquake,0.81,2.89,0.18,8,automatic,nc,nc
 2024-01-19T17:10:09.350Z,38.8325005,-122.8199997,1.76,0.96,md,13,136,0.01195,0.01,nc,nc73991546,2024-01-19T19:13:10.607Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.55,0.29,14,automatic,nc,nc
 2024-01-19T17:04:13.530Z,38.8165016,-122.8144989,1.3,2.12,md,36,46,0.007703,0.13,nc,nc73991541,2024-01-19T18:48:10.438Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.35,0.16,37,automatic,nc,nc
@@ -116,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T01:51:18.740Z,38.8268318,-122.8106689,1.32,0.74,md,13,64,0.003463,0.02,nc,nc73991346,2024-01-19T04:31:10.341Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.72,0.26,14,automatic,nc,nc
 2024-01-19T01:49:12.497Z,31.738,-104.11,6.8385,2.3,ml,21,69,0,0.1,tx,tx2024bhaq,2024-01-19T16:33:12.805Z,"48 km W of Mentone, Texas",earthquake,0.4929381995,0.4928491178,0.2,17,reviewed,tx,tx
 2024-01-19T01:45:13.760Z,36.7665,-121.277,8.87,0.62,md,15,141,0.02939,0.05,nc,nc73991341,2024-01-19T04:28:11.320Z,"5 km SE of Tres Pinos, CA",earthquake,0.31,0.57,0.113,11,reviewed,nc,nc
-2024-01-19T01:44:52.550Z,36.9888,-116.3525,7.4,1.4,ml,24,50.42,0.048,0.1123,nn,nn00871864,2024-01-19T19:06:17.257Z,"37 km ENE of Beatty, Nevada",earthquake,,1.1,0.3,12,reviewed,nn,nn
+2024-01-19T01:44:52.508Z,36.9895,-116.3508,7.8,1.4,ml,44,40.91,0.049,0.1197,nn,nn00871864,2024-01-19T19:22:21.928Z,"37 km ENE of Beatty, Nevada",earthquake,,0.7,0.25,24,reviewed,nn,nn
 2024-01-19T01:36:10.600Z,46.8835,-112.500333333333,10.99,0.69,ml,6,126,0.0384,0.04,mb,mb90038893,2024-01-19T16:21:38.260Z,"15 km ESE of Lincoln, Montana",earthquake,0.42,0.61,0.202934135714902,3,reviewed,mb,mb
 2024-01-19T01:26:53.550Z,17.9591666666667,-66.781,16.77,2.23,md,8,191,0.09485,0.1,pr,pr71437203,2024-01-19T01:43:37.840Z,"5 km SE of Indios, Puerto Rico",earthquake,0.67,0.48,0.136936581661523,6,reviewed,pr,pr
 2024-01-19T01:23:06.900Z,19.2738333333333,-155.3895,29.7,2.79,ml,47,105,,0.13,hv,hv73721162,2024-01-19T02:35:01.066Z,"12 km NE of Pāhala, Hawaii",earthquake,0.41,0.56,0.241586009393413,26,reviewed,hv,hv
