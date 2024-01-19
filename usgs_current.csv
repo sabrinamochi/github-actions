@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-19T16:08:17.121Z,37.2966,-114.9545,14.7,2.1,ml,26,249.33,0.808,0.3986,nn,nn00871892,2024-01-19T16:11:05.089Z,"20 km ESE of Alamo, Nevada",earthquake,,0.6,0.2,18,automatic,nn,nn
 2024-01-19T16:08:02.280Z,38.8361664,-122.836998,1.44,0.91,md,14,77,0.002692,0.02,nc,nc73991521,2024-01-19T16:25:11.770Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.41,0.1,13,automatic,nc,nc
+2024-01-19T16:05:14.900Z,45.37016666666667,-121.70083333333334,0,1.02,ml,11,68,0.01206,0.06,uw,uw61980451,2024-01-19T16:36:12.930Z,"8 km NNE of Government Camp, Oregon",earthquake,0.23,0.22,0.09863055895051165,6,reviewed,uw,uw
 2024-01-19T15:58:19.161Z,38.5067,-119.4939,0,1.7,ml,9,160.81,0.163,0.3034,nn,nn00871889,2024-01-19T16:00:57.816Z,"1 km WSW of Walker, California",earthquake,,13.6,0.21,7,automatic,nn,nn
 2024-01-19T15:52:45.696Z,-20.1799,-177.6198,490.602,4.2,mb,28,64,2.467,0.72,us,us6000m4qr,2024-01-19T16:11:09.040Z,"265 km WNW of Houma, Tonga",earthquake,14.6,9.828,0.121,19,reviewed,us,us
 2024-01-19T15:50:40.431Z,61.2972,-147.9197,1,1.5,ml,,,,1.84,ak,ak024vofwdn,2024-01-19T15:52:52.803Z,"56 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -36,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T10:52:33.760Z,19.1966667175293,-155.498168945312,32.4799995422363,2.47,ml,50,65,,0.109999999,hv,hv73721492,2024-01-19T10:58:09.450Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.43,0.75,3.71,15,automatic,hv,hv
 2024-01-19T10:41:23.560Z,39.3808327,-123.2661667,2.59,1.56,md,8,96,0.1039,0.06,nc,nc73991476,2024-01-19T13:37:14.551Z,"8 km ESE of Willits, CA",earthquake,0.34,9.3,0.07,6,automatic,nc,nc
 2024-01-19T10:39:14.386Z,63.1464,-144.2348,0,2.4,ml,,,,1.01,ak,ak024vlebgu,2024-01-19T11:25:33.040Z,"34 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-19T10:38:33.830Z,45.4015,-112.740333333333,6.94,1.45,ml,10,185,0.1087,0.06,mb,mb90038903,2024-01-19T16:35:08.940Z,"22 km NNW of Dillon, Montana",earthquake,0.46,1.15,0.175239431827225,12,reviewed,mb,mb
 2024-01-19T10:38:07.180Z,38.7901649,-122.7685013,1.28,0.7,md,6,140,0.0125,0.01,nc,nc73991471,2024-01-19T13:09:14.400Z,"2 km NW of The Geysers, CA",earthquake,0.48,1.13,0.28,9,automatic,nc,nc
 2024-01-19T10:27:10.120Z,38.8370018,-122.802002,2.32,1.17,md,14,63,0.009212,0.02,nc,nc73991466,2024-01-19T12:41:19.241Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.82,0.1,14,automatic,nc,nc
 2024-01-19T10:14:20.040Z,40.5600014,-121.7040024,7.88,1.91,md,9,140,0.1031,0.05,nc,nc73991461,2024-01-19T12:13:14.089Z,"5 km NNW of Viola, CA",earthquake,1.17,3.52,0.24,6,automatic,nc,nc
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T09:34:35.628Z,59.9813,-152.7555,90.1,1.7,ml,,,,0.64,ak,ak024vkrux6,2024-01-19T09:36:48.679Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-19T09:26:43.660Z,35.7748333,-117.6,3.93,1.81,ml,34,64,0.1352,0.13,ci,ci40462719,2024-01-19T14:25:53.030Z,"18 km W of Searles Valley, CA",earthquake,0.15,0.44,0.121,22,reviewed,ci,ci
 2024-01-19T08:49:01.463Z,-18.6912,168.8686,10.635,5,mb,43,60,4.123,1.08,us,us6000m4mn,2024-01-19T09:05:58.040Z,"103 km NNW of Isangel, Vanuatu",earthquake,8.69,4.628,0.088,41,reviewed,us,us
-2024-01-19T08:47:20.687Z,31.68,-104.178,4.6596,1.7,ml,16,101,0.1,0.6,tx,tx2024bhol,2024-01-19T09:17:44.229Z,"54 km NW of Toyah, Texas",earthquake,0,1.439473415,0.2,12,automatic,tx,tx
+2024-01-19T08:47:20.504Z,31.671,-104.185,4.4863,1.6,ml,19,61,0.1,0.2,tx,tx2024bhol,2024-01-19T16:36:24.731Z,"54 km NW of Toyah, Texas",earthquake,0.6893981836,1.380203146,0.1,7,reviewed,tx,tx
 2024-01-19T08:41:51.219Z,62.1878,-148.999,0,1.5,ml,,,,0.76,ak,ak024vk7yj5,2024-01-19T08:43:59.443Z,"44 km E of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-19T08:40:42.720Z,19.218334197998,-155.481170654297,38.1199989318848,2.50999999,md,18,260,,0.170000002,hv,hv73721432,2024-01-19T08:46:12.350Z,"1 km N of Pāhala, Hawaii",earthquake,2.57,1.71000004,2.50999999,4,automatic,hv,hv
 2024-01-19T08:34:42.140Z,33.9101667,-117.7933333,3.59,1.57,ml,61,38,0.07799,0.2,ci,ci40462711,2024-01-19T08:45:26.960Z,"3 km NE of Yorba Linda, CA",earthquake,0.16,0.25,0.212,28,automatic,ci,ci
