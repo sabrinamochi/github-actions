@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-20T01:11:24.139Z,64.4879,-146.8892,0.8,1.9,ml,,,,0.66,ak,ak024x3es7x,2024-01-20T01:13:17.061Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-20T01:07:55.463Z,64.3795,-146.224,14.9,0.5,ml,,,,0.73,ak,ak024x3e029,2024-01-20T01:10:45.164Z,"18 km E of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-20T01:06:02.675Z,64.4699,-146.8808,0.1,1.1,ml,,,,0.72,ak,ak024x3dnzf,2024-01-20T01:08:27.047Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-20T01:03:42.012Z,64.4956,-146.8962,5.8,1.3,ml,,,,0.57,ak,ak024x3d3v6,2024-01-20T01:06:24.316Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T01:00:58.250Z,64.4826,-146.9141,0.1,1.3,ml,,,,0.76,ak,ak024x3chz5,2024-01-20T01:06:10.627Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-20T01:00:57.104Z,31.605,-104.369,4.128,2.1,ml,16,86,0.1,0.2,tx,tx2024biup,2024-01-20T01:15:15.181Z,"63 km S of Whites City, New Mexico",earthquake,0,1.545744358,0.1,12,automatic,tx,tx
+2024-01-20T00:58:42.920Z,31.606,-104.37,4.042,1.6,ml,16,86,0.1,0.3,tx,tx2024bium,2024-01-20T01:15:09.272Z,"63 km S of Whites City, New Mexico",earthquake,0,1.546011096,0.1,12,automatic,tx,tx
 2024-01-20T00:50:14.724Z,64.4944,-146.8851,6.6,1.6,ml,,,,0.38,ak,ak024x31otc,2024-01-20T00:52:12.465Z,"3 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T00:45:07.025Z,64.4935,-146.9228,3.6,1.5,ml,,,,0.66,ak,ak024x30ln2,2024-01-20T00:47:54.197Z,"3 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-20T00:43:04.430Z,19.1763324737549,-155.450164794922,31.1000003814697,2.25,ml,39,150,,0.100000001,hv,hv73722062,2024-01-20T00:56:36.040Z,"4 km SE of Pāhala, Hawaii",earthquake,0.56,1.01999998,3.84,11,automatic,hv,hv
@@ -21,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T00:15:57.770Z,64.4955,-146.826,10.4,1.8,ml,,,,1.1,ak,ak024x2ua2p,2024-01-20T00:18:45.332Z,"4 km SE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T00:11:23.822Z,64.4963,-146.8896,3.2,1.9,ml,,,,0.45,ak,ak024x2tcla,2024-01-20T00:13:18.423Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T00:09:08.996Z,64.4827,-146.9012,4.6,1.8,ml,,,,0.43,ak,ak024x2sw0j,2024-01-20T00:11:06.502Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-20T00:08:49.350Z,38.8498344,-122.796669,3.36,1.23,md,10,221,0.03233,0.35,nc,nc73991686,2024-01-20T00:32:11.582Z,"7 km WNW of Cobb, CA",earthquake,2.26,4.23,0.15,8,automatic,nc,nc
+2024-01-20T00:08:49.350Z,38.8498344,-122.796669,3.36,1.23,md,10,221,0.03233,0.35,nc,nc73991686,2024-01-20T01:12:13.937Z,"7 km WNW of Cobb, CA",earthquake,2.26,4.23,0.15,8,automatic,nc,nc
 2024-01-20T00:08:26.443Z,64.49,-146.9386,0.2,1.1,ml,,,,0.28,ak,ak024x2spn8,2024-01-20T00:10:21.944Z,"4 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-20T00:06:12.160Z,38.7835007,-122.7323303,2,2.17,md,28,69,0.003445,0.07,nc,nc73991681,2024-01-20T00:49:14.807Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.38,0.16,30,automatic,nc,nc
 2024-01-20T00:05:09.897Z,64.4732,-146.6952,17.6,1.8,ml,,,,1.09,ak,ak024x2s17x,2024-01-20T00:14:35.501Z,"11 km ESE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -284,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-19T01:36:10.600Z,46.8835,-112.500333333333,10.99,0.69,ml,6,126,0.0384,0.04,mb,mb90038893,2024-01-19T16:21:38.260Z,"15 km ESE of Lincoln, Montana",earthquake,0.42,0.61,0.202934135714902,3,reviewed,mb,mb
 2024-01-19T01:26:53.550Z,17.9591666666667,-66.781,16.77,2.23,md,8,191,0.09485,0.1,pr,pr71437203,2024-01-19T01:43:37.840Z,"5 km SE of Indios, Puerto Rico",earthquake,0.67,0.48,0.136936581661523,6,reviewed,pr,pr
 2024-01-19T01:23:06.900Z,19.2738333333333,-155.3895,29.7,2.79,ml,47,105,,0.13,hv,hv73721162,2024-01-19T02:35:01.066Z,"12 km NE of Pāhala, Hawaii",earthquake,0.41,0.56,0.241586009393413,26,reviewed,hv,hv
-2024-01-19T01:13:40.283Z,40.0957,-119.6609,11.7,0.9,ml,3,187.32,0.092,0.0419,nn,nn00871949,2024-01-19T23:44:21.656Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,6.6,0.15,2,reviewed,nn,nn
