@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-21T00:25:13.250Z,64.4943,-146.8792,8.5,1.6,ml,,,,0.65,ak,ak024yqfoal,2024-01-21T00:26:46.256Z,"3 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-01-21T00:23:52.051Z,62.2787,-150.074,2.6,1.8,ml,,,,1.17,ak,ak024yqfbut,2024-01-21T00:25:44.477Z,"5 km SSE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-21T00:17:45.287Z,64.4877,-146.9075,2.9,1.6,ml,,,,0.39,ak,ak024yqe11c,2024-01-21T00:19:21.752Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-21T00:17:20.772Z,60.1814,-148.085,17,1.5,ml,,,,0.14,ak,ak024yqdzip,2024-01-21T00:24:17.295Z,"13 km NNW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-01-21T00:10:58.063Z,64.9467,-147.4252,6,1.6,ml,,,,0.52,ak,ak024yqck0e,2024-01-21T00:12:23.870Z,"9 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-21T00:10:23.506Z,64.4911,-146.9205,8.5,1.6,ml,,,,0.75,ak,ak024yqchce,2024-01-21T00:12:21.864Z,"3 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T23:57:04.190Z,35.701,-117.5693333,1.9,0.59,ml,17,120,0.1238,0.12,ci,ci40463479,2024-01-21T00:02:56.841Z,"13 km NE of Ridgecrest, CA",earthquake,0.22,0.3,0.109,4,automatic,ci,ci
 2024-01-20T23:38:59.893Z,64.452,-146.9276,0.3,1.5,ml,,,,0.42,ak,ak024xgo6md,2024-01-20T23:40:57.640Z,"8 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-20T23:29:42.466Z,64.4795,-146.9371,10,1,ml,,,,0.34,ak,ak024xgm7ty,2024-01-20T23:39:44.731Z,"5 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -11,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T22:42:28.749Z,60.5874,-151.6154,68.7,1.6,ml,,,,0.42,ak,ak024xg3jh6,2024-01-20T22:45:05.497Z,"16 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-20T22:29:20.240Z,19.3419990539551,-155.115325927734,2.96000003814697,2.03,ml,41,135,,0.25999999,hv,hv73723112,2024-01-20T22:34:51.590Z,"13 km S of Fern Forest, Hawaii",earthquake,0.5,0.819999993,2.84,10,automatic,hv,hv
 2024-01-20T22:09:54.310Z,64.1582,-146.0968,6.6,1.8,ml,,,,0.7,ak,ak024xfwitj,2024-01-20T22:12:43.132Z,"9 km W of Whitestone, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2024-01-20T22:09:39.740Z,-39.926,46.1886,10,6.2,mww,101,18,7.708,0.61,us,us6000m53t,2024-01-20T23:11:56.564Z,"Southwest Indian Ridge",earthquake,6.79,1.781,0.08,15,reviewed,us,us
+2024-01-20T22:09:39.740Z,-39.926,46.1886,10,6.2,mww,101,18,7.708,0.61,us,us6000m53t,2024-01-21T00:13:45.374Z,"Southwest Indian Ridge",earthquake,6.79,1.781,0.08,15,reviewed,us,us
 2024-01-20T22:04:12.077Z,60.0806,-140.9759,0.6,3.6,ml,,,,0.83,ak,ak024xfvd18,2024-01-20T22:29:09.040Z,"91 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T22:03:05.780Z,38.7886658,-122.7628326,2.03,1.04,md,8,94,0.01219,0.03,nc,nc73992006,2024-01-20T23:54:12.385Z,"1 km NNW of The Geysers, CA",earthquake,0.51,0.84,0.33,9,automatic,nc,nc
 2024-01-20T21:59:49.833Z,61.9626,-151.4651,250,2,ml,,,,1.04,ak,ak024xflsmg,2024-01-20T22:02:23.568Z,"4 km SW of Skwentna, Alaska",earthquake,,3.6,,,automatic,ak,ak
@@ -326,12 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T00:33:40.671Z,64.4596,-146.9043,8.2,0.9,ml,,,,0.43,ak,ak024x2y3n7,2024-01-20T00:35:25.900Z,"7 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T00:29:26.861Z,64.4988,-146.9124,7.9,1.6,ml,,,,0.56,ak,ak024x2x7pq,2024-01-20T00:31:21.526Z,"2 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T00:28:35.230Z,38.7888336,-122.7354965,1.29,1.75,md,19,88,0.02229,0.04,nc,nc73991701,2024-01-20T01:36:14.091Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.48,0.14,22,automatic,nc,nc
-2024-01-20T00:27:06.510Z,38.8348351,-122.8034973,11.83,0.54,md,6,198,0.01087,0.02,nc,nc73991696,2024-01-20T00:44:11.651Z,"7 km WNW of Cobb, CA",earthquake,1.67,0.8,0.16,4,automatic,nc,nc
-2024-01-20T00:24:22.199Z,64.4766,-146.9378,8,1.2,ml,,,,0.33,ak,ak024x2w4rv,2024-01-20T00:26:37.103Z,"5 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-20T00:22:36.660Z,38.8221664,-122.7863312,1.79,1.21,md,14,74,0.009928,0.01,nc,nc73991691,2024-01-20T04:55:10.163Z,"6 km W of Cobb, CA",earthquake,0.29,0.44,0.21,15,automatic,nc,nc
-2024-01-20T00:19:31.015Z,-23.6506,-66.9612,214.384,4.4,mb,29,60,1.318,0.47,us,us6000m4va,2024-01-20T00:34:10.040Z,"90 km NW of San Antonio de los Cobres, Argentina",earthquake,7.88,11.548,0.18,9,reviewed,us,us
-2024-01-20T00:18:55.730Z,64.5074,-146.9006,0,1.5,ml,,,,0.62,ak,ak024x2ux2m,2024-01-20T00:23:52.478Z,"1 km S of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-20T00:17:38.782Z,64.475,-146.9647,4.9,1.7,ml,,,,0.55,ak,ak024x2uo1i,2024-01-20T00:19:46.270Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-20T00:16:36.914Z,64.4868,-146.9212,7.5,2,ml,,,,0.45,ak,ak024x2ug6j,2024-01-20T00:17:51.625Z,"4 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-20T00:15:57.770Z,64.4955,-146.826,10.4,1.8,ml,,,,1.1,ak,ak024x2ua2p,2024-01-20T00:18:45.332Z,"4 km SE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-20T00:11:23.822Z,64.4963,-146.8896,3.2,1.9,ml,,,,0.45,ak,ak024x2tcla,2024-01-20T00:13:18.423Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
