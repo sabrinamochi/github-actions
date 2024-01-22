@@ -27,7 +27,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T20:29:31.108Z,41.2392,78.7539,10,4.9,mb,51,59,1.287,0.51,us,us7000lt0u,2024-01-22T20:43:45.040Z,"120 km WNW of Aykol, China",earthquake,3.1,1.869,0.078,51,reviewed,us,us
 2024-01-22T20:28:48.190Z,39.4641685,-123.0986633,0,1.9,md,11,221,0.0933,0.08,nc,nc73992571,2024-01-22T21:09:15.623Z,"14 km WNW of Lake Pillsbury, CA",earthquake,0.87,8.06,0.03,6,automatic,nc,nc
 2024-01-22T20:13:17.120Z,34.9198333,-119.474,9.79,1.34,ml,20,48,0.07829,0.18,ci,ci40464135,2024-01-22T20:58:32.223Z,"17 km SSW of Maricopa, CA",earthquake,0.31,0.73,0.182,6,reviewed,ci,ci
-2024-01-22T19:47:33.442Z,58.2689,-154.9593,7.9,0.8,ml,,,,0.99,ak,ak02410pf0n2,2024-01-22T19:49:21.837Z,"83 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-22T19:47:09.120Z,37.2616653,-121.6403351,15.55,1.56,md,6,157,0.09865,0.12,nc,nc73992556,2024-01-22T22:49:14.225Z,"15 km N of Morgan Hill, CA",earthquake,1.28,3.12,0.12,2,automatic,nc,nc
 2024-01-22T19:40:54.082Z,37.2638,-114.9285,11.2,1,ml,9,110.92,0.173,0.1162,nn,nn00872099,2024-01-22T20:53:04.126Z,"23 km ESE of Alamo, Nevada",earthquake,,8.3,0.78,4,reviewed,nn,nn
 2024-01-22T19:36:47.858Z,41.1979,78.6168,10,5.5,mb,114,59,1.311,0.65,us,us7000lt0j,2024-01-22T21:40:56.676Z,"130 km WNW of Aykol, China",earthquake,2.98,1.822,0.031,362,reviewed,us,us
@@ -213,6 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T03:21:56.217Z,36.8442,-116.2519,8.8,-0.1,ml,17,71.57,0.047,0.0671,nn,nn00872077,2024-01-22T15:50:33.936Z,"45 km E of Beatty, Nevada",earthquake,,1.2,0.21,9,reviewed,nn,nn
 2024-01-22T03:11:54.340Z,36.6278343,-120.8233337,1.85,1.92,md,6,193,0.6592,0.13,nc,nc73992381,2024-01-22T05:15:13.019Z,"27 km NNW of New Idria, CA",earthquake,2.39,11.46,,1,automatic,nc,nc
 2024-01-22T02:34:37.704Z,39.5684,-119.8013,4.7,0.6,ml,9,80.75,0.004,0.0922,nn,nn00872064,2024-01-22T03:25:34.397Z,"3 km SW of Sun Valley, Nevada",earthquake,,0.9,0.38,3,reviewed,nn,nn
+2024-01-22T02:20:11.450Z,38.7886667,-122.7791667,1.11,1.42,md,10,101,0.00819,0.03,nc,nc73992376,2024-01-22T23:01:31.036Z,"2 km WNW of The Geysers, CA",earthquake,0.3,0.59,0.195,10,reviewed,nc,nc
 2024-01-22T02:18:19.199Z,64.4798,-146.9209,2.7,1.6,ml,,,,0.78,ak,ak02410f4efz,2024-01-22T02:20:44.748Z,"5 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T02:08:15.457Z,32.414,-102.04,5.2089,3,ml,14,85,0.1,0.1,tx,tx2024bmnt,2024-01-22T05:43:56.040Z,"32 km WSW of Ackerly, Texas",earthquake,1.15229124,3.22511841,0.1,9,reviewed,tx,tx
 2024-01-22T01:55:49.660Z,19.2119998931885,-155.477828979492,31.3299999237061,2,md,38,95,,0.109999999,hv,hv73724312,2024-01-22T01:59:09.380Z,"1 km N of Pāhala, Hawaii",earthquake,0.53,0.579999983,0.980000019,9,automatic,hv,hv
@@ -252,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T23:29:42.227Z,64.5144,-146.9839,11,2.4,ml,,,,0.41,ak,ak024z45kb2,2024-01-21T23:42:07.040Z,"4 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-21T23:16:01.020Z,36.7188,-116.1238,2.6,-0.5,ml,4,183.77,0.005,0.0071,nn,nn00872062,2024-01-22T03:19:22.043Z,"43 km WNW of Indian Springs, Nevada",earthquake,,3.5,0,1,reviewed,nn,nn
 2024-01-21T23:03:12.510Z,42.9465,-122.11383333333333,2.68,1.5,ml,6,128,0.02875,0.07,uw,uw61980666,2024-01-22T20:42:40.590Z,"37 km NE of Prospect, Oregon",earthquake,0.37,0.59,0.12165244941026321,2,reviewed,uw,uw
-2024-01-21T23:00:41.100Z,38.8351669,-122.8071671,2.18,1.02,md,18,53,0.01197,0.01,nc,nc73992326,2024-01-21T23:39:15.006Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.75,0.24,17,automatic,nc,nc
-2024-01-21T23:00:08.121Z,64.4833,-146.9452,9,1.2,ml,,,,0.54,ak,ak024z3z9ws,2024-01-21T23:01:51.015Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
