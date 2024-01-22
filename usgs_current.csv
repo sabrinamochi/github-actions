@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-22T03:11:54.340Z,36.6278343,-120.8233337,1.85,1.92,md,6,193,0.6592,0.13,nc,nc73992381,2024-01-22T03:13:29.948Z,"27 km NNW of New Idria, CA",earthquake,2.39,11.46,,1,automatic,nc,nc
+2024-01-22T03:11:54.340Z,36.6278343,-120.8233337,1.85,1.92,md,6,193,0.6592,0.13,nc,nc73992381,2024-01-22T03:22:10.394Z,"27 km NNW of New Idria, CA",earthquake,2.39,11.46,,1,automatic,nc,nc
 2024-01-22T02:18:19.199Z,64.4798,-146.9209,2.7,1.6,ml,,,,0.78,ak,ak02410f4efz,2024-01-22T02:20:44.748Z,"5 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T02:08:15.457Z,32.414,-102.04,5.2089,3,ml,14,85,0.1,0.1,tx,tx2024bmnt,2024-01-22T02:21:59.040Z,"32 km WSW of Ackerly, Texas",earthquake,1.15229124,3.22511841,0.1,9,reviewed,tx,tx
 2024-01-22T01:55:49.660Z,19.2119998931885,-155.477828979492,31.3299999237061,2,md,38,95,,0.109999999,hv,hv73724312,2024-01-22T01:59:09.380Z,"1 km N of Pāhala, Hawaii",earthquake,0.53,0.579999983,0.980000019,9,automatic,hv,hv
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T00:26:56.610Z,19.3924999237061,-154.977828979492,3.6800000667572,1.96000004,md,38,148,,0.280000001,hv,hv73724267,2024-01-22T00:41:00.838Z,"10 km SW of Leilani Estates, Hawaii",earthquake,0.78,0.75999999,0.239999995,20,automatic,hv,hv
 2024-01-22T00:23:55.838Z,61.1932,-146.566,5,1.8,ml,,,,0.81,ak,ak02410dyon3,2024-01-22T00:26:35.628Z,"13 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T00:18:18.162Z,64.8365,-148.9326,11.7,1.3,ml,,,,0.65,ak,ak02410dxj5k,2024-01-22T00:20:26.459Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-22T00:17:11.570Z,38.7786674,-122.7561646,0.71,1.42,md,13,82,0.01586,0.04,nc,nc73992356,2024-01-22T00:50:14.458Z,"0 km N of The Geysers, CA",earthquake,0.25,0.69,0.14,14,automatic,nc,nc
+2024-01-22T00:17:11.570Z,38.7786674,-122.7561646,0.71,1.42,md,13,82,0.01586,0.04,nc,nc73992356,2024-01-22T03:19:10.373Z,"0 km N of The Geysers, CA",earthquake,0.25,0.69,0.14,14,automatic,nc,nc
 2024-01-22T00:17:11.505Z,64.4345,-146.9116,2.3,0.8,ml,,,,0.97,ak,ak02410dxaxa,2024-01-22T00:19:05.251Z,"9 km S of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-22T00:12:18.321Z,37.2301,-114.962,6.2,1.2,ml,8,282.78,0.742,0.3398,nn,nn00872058,2024-01-22T00:14:48.258Z,"23 km SE of Alamo, Nevada",earthquake,,9.4,0.3,4,automatic,nn,nn
 2024-01-22T00:12:15.571Z,61.5751,-146.5434,20,1.6,ml,,,,0.62,ak,ak02410dw8np,2024-01-22T00:13:57.136Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T23:41:36.710Z,36.962,-116.1198,10.2,-0.1,ml,9,68.23,0.059,0.1365,nn,nn00872057,2024-01-21T23:43:50.716Z,"57 km E of Beatty, Nevada",earthquake,,1.3,1.14,6,automatic,nn,nn
 2024-01-21T23:37:01.346Z,31.593,-104.557,2.1792,1.6,ml,15,167,0.1,0.4,tx,tx2024bmiv,2024-01-21T23:49:12.004Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.773373977,0.1,13,automatic,tx,tx
 2024-01-21T23:29:42.227Z,64.5144,-146.9839,11,2.4,ml,,,,0.41,ak,ak024z45kb2,2024-01-21T23:42:07.040Z,"4 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-01-21T23:16:01.020Z,36.7188,-116.1238,2.6,-0.5,ml,4,183.77,0.005,0.0071,nn,nn00872062,2024-01-22T03:19:22.043Z,"43 km WNW of Indian Springs, Nevada",earthquake,,3.5,0,1,reviewed,nn,nn
 2024-01-21T23:07:13.250Z,33.6628342,-117.7275009,9.29,1.9,ml,14,98,0.1761,0.36,ci,ci40463831,2024-01-21T23:13:36.206Z,"4 km WNW of Lake Forest, CA",earthquake,0.72,3.03,0.163,11,automatic,ci,ci
 2024-01-21T23:00:41.100Z,38.8351669,-122.8071671,2.18,1.02,md,18,53,0.01197,0.01,nc,nc73992326,2024-01-21T23:39:15.006Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.75,0.24,17,automatic,nc,nc
 2024-01-21T23:00:08.121Z,64.4833,-146.9452,9,1.2,ml,,,,0.54,ak,ak024z3z9ws,2024-01-21T23:01:51.015Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
