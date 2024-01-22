@@ -124,8 +124,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T06:32:02.723Z,62.383,-149.0653,4.2,2,ml,,,,0.46,ak,ak02410hl3m8,2024-01-22T07:05:08.332Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T06:28:20.780Z,35.6933333,-117.559,2.06,0.92,ml,29,57,0.0947,0.14,ci,ci40463935,2024-01-22T06:34:23.163Z,"13 km NE of Ridgecrest, CA",earthquake,0.18,0.29,0.158,8,automatic,ci,ci
 2024-01-22T06:27:11.580Z,32.9651667,-115.5481667,7.79,1.36,ml,35,75,0.06439,0.28,ci,ci40463927,2024-01-22T06:33:17.541Z,"2 km SW of Brawley, CA",earthquake,0.29,0.68,0.22,21,automatic,ci,ci
-2024-01-22T06:16:22.860Z,33.6408333,-116.7058333,16.01,0.55,ml,18,220,0.09705,0.15,ci,ci40463919,2024-01-22T18:06:38.781Z,"10 km NNW of Anza, CA",earthquake,0.49,0.46,0.131,4,automatic,ci,ci
-2024-01-22T06:16:06.650Z,33.7595,-116.5296667,-1.42,0.44,ml,6,252,0.1503,0.25,ci,ci37615372,2024-01-22T18:10:05.080Z,"6 km WSW of Cathedral City, CA",earthquake,1.38,31.61,0.049,4,reviewed,ci,ci
+2024-01-22T06:16:22.860Z,33.6408333,-116.7058333,16.01,0.55,ml,18,220,0.09705,0.15,ci,ci40463919,2024-01-22T18:15:00.397Z,"10 km NNW of Anza, CA",earthquake,0.49,0.46,0.131,4,automatic,ci,ci
+2024-01-22T06:16:06.860Z,33.652,-116.7033333,16.16,0.39,ml,12,67,0.02985,0.18,ci,ci37615372,2024-01-22T18:14:41.865Z,"10 km S of Idyllwild, CA",earthquake,0.45,0.79,0.091,5,reviewed,ci,ci
 2024-01-22T05:46:52.579Z,59.8164,-138.0797,7.66,2.9,ml,16,125,1.053,0.53,us,us6000m5cy,2024-01-22T12:50:50.040Z,"97 km ENE of Yakutat, Alaska",earthquake,1.94,6.656,0.045,64,reviewed,us,us
 2024-01-22T05:45:13.974Z,15.7753,-88.7334,10,4,mb,27,64,1.98,0.28,us,us6000m5cx,2024-01-22T10:20:36.040Z,"6 km SSE of Lívingston, Guatemala",earthquake,5.99,1.975,0.134,15,reviewed,us,us
 2024-01-22T05:42:12.355Z,61.9554,-149.5514,55.4,3.2,ml,,,,0.48,ak,ak02410h1tlw,2024-01-22T15:22:05.807Z,"27 km SE of Susitna North, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -220,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T21:19:39.840Z,19.2408332824707,-155.365493774414,29.6599998474121,1.88999999,md,39,150,,0.119999997,hv,hv73724162,2024-01-21T21:22:50.830Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.52,0.74000001,0.790000021,11,automatic,hv,hv
 2024-01-21T21:18:46.626Z,64.4003,-146.6861,15.8,1.2,ml,,,,0.91,ak,ak024z2wck6,2024-01-21T21:21:05.196Z,"5 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-21T21:18:45.850Z,33.3103333,-116.2411667,6.48,1.84,ml,78,18,0.0773,0.18,ci,ci40463783,2024-01-22T14:26:51.300Z,"14 km ENE of Borrego Springs, CA",earthquake,0.12,0.48,0.218,26,reviewed,ci,ci
-2024-01-21T21:16:21.902Z,32.005,-103.814,7.3656,2.6,ml,18,91,0,0.1,tx,tx2024bmee,2024-01-21T22:34:56.040Z,"34 km SE of Malaga, New Mexico",earthquake,1.011198133,0.9630803419,0.2,13,reviewed,tx,tx
+2024-01-21T21:16:21.645Z,32.008,-103.813,8.9594,2.6,ml,27,67,0,0.2,tx,tx2024bmee,2024-01-22T18:14:51.186Z,"34 km SE of Malaga, New Mexico",earthquake,1.108405838,0.7300005769,0.1,13,reviewed,tx,tx
 2024-01-21T21:16:00.975Z,62.4673,-149.273,1,1.9,ml,,,,0.37,ak,ak024z2vtlt,2024-01-21T21:17:57.908Z,"42 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-21T21:00:47.620Z,46.8648333333333,-112.465666666667,3.93,0.99,ml,5,135,0.008193,0.02,mb,mb90039088,2024-01-22T18:00:08.340Z,"17 km NW of Marysville, Montana",earthquake,0.3,0.34,0.275938838544759,4,reviewed,mb,mb
 2024-01-21T21:00:15.309Z,64.4776,-146.9231,11.3,1.1,ml,,,,0.3,ak,ak024z2sf96,2024-01-21T21:02:14.051Z,"5 km S of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T18:20:20.770Z,33.5965,-116.6371667,13.3,0.88,ml,19,71,0.03026,0.14,ci,ci40463735,2024-01-21T18:26:49.825Z,"6 km NE of Anza, CA",earthquake,0.32,0.39,0.144,10,automatic,ci,ci
 2024-01-21T18:18:55.570Z,33.5935,-116.6405,12.51,1.3,ml,17,129,0.02802,0.14,ci,ci40463719,2024-01-21T19:42:31.636Z,"5 km NE of Anza, CA",earthquake,0.68,0.84,0.165,27,reviewed,ci,ci
 2024-01-21T18:18:55.550Z,33.5914993,-116.6446686,12.43,1.39,ml,46,29,0.02742,0.17,ci,ci40463727,2024-01-21T18:29:57.430Z,"5 km NNE of Anza, CA",earthquake,0.23,0.46,0.319,21,automatic,ci,ci
-2024-01-21T18:14:01.226Z,34.7565,61.9937,10,4.5,mb,25,193,4.451,0.45,us,us6000m59x,2024-01-21T18:37:33.040Z,"28 km SE of Qarah Bāgh, Afghanistan",earthquake,10.64,1.956,0.156,12,reviewed,us,us
