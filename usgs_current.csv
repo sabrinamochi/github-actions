@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T17:27:25.607Z,3.8514,63.3228,10,4.8,mb,74,66,10.237,0.71,us,us7000lsz5,2024-01-22T17:48:29.040Z,"Carlsberg Ridge",earthquake,4.85,1.828,0.066,71,reviewed,us,us
 2024-01-22T17:17:32.616Z,64.4904,-146.9563,7.8,0.8,ml,,,,0.55,ak,ak02410o1pu5,2024-01-22T17:19:09.476Z,"4 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-22T17:13:20.547Z,37.1249,136.8806,10,4.4,mb,35,67,1.209,0.6,us,us7000lsz3,2024-01-22T17:54:08.040Z,"11 km NW of Nanao, Japan",earthquake,5.84,1.896,0.114,22,reviewed,us,us
-2024-01-22T17:10:49.262Z,31.584,-104.034,12.0448,2.1,ml,4,211,0,0.6,tx,tx2024bnrp,2024-01-22T17:20:18.041Z,"37 km NW of Toyah, Texas",earthquake,0,7.214882611,0.3,4,automatic,tx,tx
+2024-01-22T17:10:51.139Z,31.602,-103.983,6.9799,0.3,ml,4,143,0,0.1,tx,tx2024bnrp,2024-01-22T20:50:23.260Z,"36 km NNW of Toyah, Texas",earthquake,8.204995797,3.356829087,0.2,4,reviewed,tx,tx
 2024-01-22T17:06:04.017Z,65.3741,-144.8032,0,1.4,ml,,,,0.75,ak,ak02410nzar5,2024-01-22T17:08:34.345Z,"22 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-22T16:55:53.764Z,60.0826,-152.3819,84.9,2,ml,,,,0.49,ak,ak02410noh2o,2024-01-22T16:58:33.894Z,"39 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-22T16:51:25.200Z,38.786499,-122.7721634,0.64,0.93,md,9,131,0.01714,0.02,nc,nc73992526,2024-01-22T17:56:13.485Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.61,0.2,9,automatic,nc,nc
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T11:25:30.559Z,35.12266667,-97.79833333,7.85,0.95,ml,33,100,0.0638874631,0.33,ok,ok2024bnge,2024-01-22T16:00:31.138Z,"8 km ESE of Amber, Oklahoma",earthquake,,0.8,0.19,16,reviewed,ok,ok
 2024-01-22T11:15:04.261Z,63.25,-144.9179,2.8,1.6,ml,,,,0.52,ak,ak02410kgml1,2024-01-22T11:17:45.286Z,"39 km ENE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-22T11:11:23.232Z,36.8345,-115.9312,9.1,0.4,ml,26,196.33,0.038,0.1608,nn,nn00872069,2024-01-22T16:12:50.293Z,"37 km NW of Indian Springs, Nevada",earthquake,,1.1,0.21,14,reviewed,nn,nn
-2024-01-22T11:03:58.290Z,35.6625,-117.5358333,8.09,0.95,ml,28,57,0.09134,0.19,ci,ci40463983,2024-01-22T11:10:00.741Z,"14 km ENE of Ridgecrest, CA",earthquake,0.27,0.74,0.148,8,automatic,ci,ci
+2024-01-22T11:03:58.290Z,35.6625,-117.5358333,8.09,0.95,ml,28,57,0.09134,0.19,ci,ci40463983,2024-01-22T20:51:12.745Z,"14 km ENE of Ridgecrest, CA",earthquake,0.27,0.74,0.148,8,automatic,ci,ci
 2024-01-22T11:03:02.340Z,19.4053325653076,-155.288665771484,0.899999976158142,1.83,ml,22,46,,0.100000001,hv,hv73724557,2024-01-22T11:08:33.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.159999996,2.1,9,automatic,hv,hv
 2024-01-22T11:00:04.201Z,61.1617,-147.2895,0,1.6,ml,,,,0.34,ak,ak02410k4qfq,2024-01-22T17:47:47.537Z,"46 km NW of Tatitlek, Alaska",other event,,0,,,reviewed,ak,ak
 2024-01-22T10:56:39.560Z,33.2351667,-116.6551667,11.63,0.45,ml,21,61,0.03652,0.13,ci,ci40463975,2024-01-22T19:12:59.124Z,"6 km SSW of Warner Springs, CA",earthquake,0.22,0.43,0.217,4,reviewed,ci,ci
@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T20:59:03.470Z,46.8711666666667,-112.472166666667,2.78,1.26,ml,11,107,0.01586,0.13,mb,mb90039023,2024-01-22T15:01:58.840Z,"18 km ESE of Lincoln, Montana",earthquake,0.48,0.39,0.157632790489538,7,reviewed,mb,mb
 2024-01-21T20:58:12.210Z,35.77,-117.6543333,10.18,1.84,ml,35,57,0.09777,0.13,ci,ci40463775,2024-01-22T19:45:07.350Z,"17 km N of Ridgecrest, CA",earthquake,0.16,0.34,0.092,20,reviewed,ci,ci
 2024-01-21T20:55:42.325Z,62.8031,-148.5457,16.1,1.5,ml,,,,0.19,ak,ak024z2iu48,2024-01-21T20:57:03.083Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-21T20:50:32.461Z,61.5744,-150.0976,25.3,2.1,ml,,,,0.67,ak,ak024z2hqro,2024-01-21T21:02:35.524Z,"9 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
