@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T01:08:32.471Z,64.4847,-146.677,13.8,0.9,ml,,,,0.87,ak,ak0241220773,2024-01-23T01:10:09.973Z,"11 km ESE of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-23T01:06:53.004Z,36.7536,-115.9324,10.2,1.1,ml,23,117.49,0.046,0.1912,nn,nn00872129,2024-01-23T01:08:25.000Z,"31 km NW of Indian Springs, Nevada",earthquake,,0.6,0.17,16,automatic,nn,nn
 2024-01-23T00:54:50.422Z,31.671,-104.189,4.075,2,ml,19,105,0.1,0.4,tx,tx2024bogy,2024-01-23T01:06:43.784Z,"54 km NW of Toyah, Texas",earthquake,0,1.391911715,0.2,15,automatic,tx,tx
+2024-01-23T00:53:56.443Z,31.679,-104.47,6.1576,2.2,ml,8,89,0,0.3,tx,tx2024bogw,2024-01-23T01:15:48.838Z,"55 km S of Whites City, New Mexico",earthquake,0,3.210700627,0.2,6,automatic,tx,tx
 2024-01-23T00:37:12.280Z,18.8151,-64.5286,4,3.72,md,14,290,0.6302,0.33,pr,pr2024023000,2024-01-23T00:52:43.184Z,"60 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.029,2.15,0.11,12,reviewed,pr,pr
 2024-01-23T00:36:03.718Z,59.2495,-153.5448,104.1,2,ml,,,,0.51,ak,ak024121kpf7,2024-01-23T00:38:22.461Z,"63 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-23T00:33:52.010Z,38.8240013,-122.8116684,2.67,0.74,md,11,68,0.001385,0.02,nc,nc73992666,2024-01-23T00:54:10.008Z,"7 km NW of The Geysers, CA",earthquake,0.32,1.22,0.33,12,automatic,nc,nc
@@ -34,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T22:24:36.720Z,35.6926667,-117.5608333,1.74,0.92,ml,25,57,0.09307,0.14,ci,ci40464191,2024-01-22T22:30:30.807Z,"13 km NE of Ridgecrest, CA",earthquake,0.2,0.32,0.199,7,automatic,ci,ci
 2024-01-22T22:20:15.864Z,64.8587,-148.9854,0,1.1,ml,,,,0.9,ak,ak02410r1hpu,2024-01-22T22:22:41.019Z,"29 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-22T22:20:04.728Z,41.1882,78.6353,10,4.2,mb,30,151,0.439,0.81,us,us7000lt1u,2024-01-23T00:17:11.040Z,"128 km W of Aykol, China",earthquake,4.09,1.968,0.121,19,reviewed,us,us
+2024-01-22T22:19:01.890Z,49.41733333333333,-120.5315,-0.51,2.17,ml,11,209,0.5999,0.56,uw,uw61980731,2024-01-23T01:15:11.150Z,"4 km SSW of Princeton, Canada",explosion,2.62,31.61,0.13043834653128528,9,reviewed,uw,uw
 2024-01-22T22:09:21.290Z,57.0558333333333,-135.712,6.24,2.44,ml,5,99,,0.16,av,av92186406,2024-01-22T22:25:11.990Z,"23 km W of Sitka, Alaska",earthquake,1.09,0.71,0.15935810479971,4,reviewed,av,av
 2024-01-22T22:09:01.587Z,41.3811,78.6924,10,4.1,mb,22,189,1.139,1.29,us,us7000lt1m,2024-01-22T22:47:48.634Z,"120 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,3.11,1.939,0.166,10,reviewed,us,us
 2024-01-22T22:05:08.758Z,13.7603,-92.0095,32.591,4.5,mb,42,160,1.655,0.84,us,us7000lt1k,2024-01-22T22:20:16.040Z,"59 km S of Champerico, Guatemala",earthquake,7.35,7.377,0.047,130,reviewed,us,us
@@ -258,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T01:55:07.440Z,35.6811667,-117.539,7.47,1.32,ml,33,58,0.09523,0.14,ci,ci40463887,2024-01-22T17:45:11.150Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.56,0.137,10,reviewed,ci,ci
 2024-01-22T01:36:03.760Z,38.8310013,-122.8191681,0.52,1.35,md,7,79,0.02344,0.02,nc,nc73992366,2024-01-22T04:08:10.640Z,"8 km NW of The Geysers, CA",earthquake,0.31,1.01,0.2,9,automatic,nc,nc
 2024-01-22T01:28:56.940Z,33.0678333,-116.1913333,7.58,0.63,ml,31,53,0.0898,0.16,ci,ci40463879,2024-01-22T16:47:54.397Z,"10 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.57,0.083,5,reviewed,ci,ci
-2024-01-22T01:12:48.323Z,61.2875,-149.9241,34,1.8,ml,,,,0.58,ak,ak02410ehqsg,2024-01-22T01:14:55.678Z,"7 km N of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
