@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-23T22:18:50.430Z,64.4968,-146.9042,0.7,0.7,ml,,,,0.93,ak,ak02412ekhg3,2024-01-23T22:19:59.633Z,"3 km S of Salcha, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-23T22:06:36.030Z,19.2473335266113,-155.517501831055,4.84999990463257,2.24,ml,42,64,,0.330000013,hv,hv73725957,2024-01-23T22:12:07.870Z,"6 km NW of Pāhala, Hawaii",earthquake,0.43,1.28999996,3,9,automatic,hv,hv
 2024-01-23T21:50:45.233Z,41.5782,78.6907,10,4.3,mb,35,152,0.946,1.05,us,us7000ltb7,2024-01-23T22:08:45.040Z,"102 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.75,1.92,0.119,20,reviewed,us,us
 2024-01-23T21:43:25.180Z,19.5004997253418,-155.481002807617,1.21000003814697,2.22,ml,35,67,,0.25,hv,hv73725937,2024-01-23T21:48:55.800Z,"26 km WNW of Volcano, Hawaii",earthquake,0.44,1.75999999,4.13,7,automatic,hv,hv
@@ -19,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T20:15:05.430Z,60.7064,-151.9105,69.4,1.4,ml,,,,0.19,ak,ak02412dcvm7,2024-01-23T20:36:05.549Z,"33 km WNW of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-01-23T20:14:31.910Z,36.2256666666667,-89.2351666666667,3.5,2.75,md,60,75,0.06078,0.2,nm,nm60566096,2024-01-23T20:44:17.040Z,"4 km WNW of Trimble, Tennessee",earthquake,0.44,0.44,0.0728111037895693,22,reviewed,nm,nm
 2024-01-23T20:11:50.090Z,38.8209991,-122.8518295,2.33,0.94,md,18,114,0.007632,0.02,nc,nc73993001,2024-01-23T20:52:13.939Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.43,0.19,19,automatic,nc,nc
+2024-01-23T20:09:29.410Z,46.87116666666667,-121.91883333333334,10.38,1.01,ml,29,59,0.02397,0.16,uw,uw61980811,2024-01-23T22:17:20.790Z,"15 km NE of Ashford, Washington",earthquake,0.27,0.45,0.11858680998592253,15,reviewed,uw,uw
 2024-01-23T20:04:46.285Z,35.8949,30.857,54.256,4.2,mb,32,126,1.069,0.59,us,us7000lta9,2024-01-23T21:11:51.040Z,"69 km SE of Beykonak, Turkey",earthquake,4.38,9.68,0.159,11,reviewed,us,us
 2024-01-23T20:04:37.240Z,38.8231659,-122.8008347,1.85,0.78,md,7,132,0.007221,0.01,nc,nc73992996,2024-01-23T20:40:12.866Z,"6 km NW of The Geysers, CA",earthquake,0.57,1.07,0.1,8,automatic,nc,nc
 2024-01-23T19:46:31.450Z,19.204833984375,-155.374328613281,30.0100002288818,2.02,ml,50,162,,0.140000001,hv,hv73725822,2024-01-23T21:07:33.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.52,0.74000001,4.19,6,automatic,hv,hv
@@ -259,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T22:29:32.970Z,37.4558333,-121.773,7.82,0.99,md,26,86,0.02246,0.08,nc,nc73992631,2024-01-23T11:30:13.685Z,"11 km NNE of Alum Rock, CA",earthquake,0.26,0.35,0.225,24,reviewed,nc,nc
 2024-01-22T22:24:52.890Z,35.6941667,-117.5593333,2.21,1.07,ml,26,106,0.09485,0.16,ci,ci40464199,2024-01-23T01:41:47.839Z,"13 km NE of Ridgecrest, CA",earthquake,0.22,0.3,0.177,10,reviewed,ci,ci
 2024-01-22T22:24:36.670Z,35.6943333,-117.562,1.89,0.88,ml,23,106,0.1163,0.13,ci,ci40464191,2024-01-23T01:31:52.741Z,"13 km NE of Ridgecrest, CA",earthquake,0.23,0.34,0.177,7,reviewed,ci,ci
-2024-01-22T22:20:15.864Z,64.8587,-148.9854,0,1.1,ml,,,,0.9,ak,ak02410r1hpu,2024-01-22T22:22:41.019Z,"29 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-01-22T22:20:04.728Z,41.1882,78.6353,10,4.2,mb,30,151,0.439,0.81,us,us7000lt1u,2024-01-23T00:17:11.040Z,"128 km W of Aykol, China",earthquake,4.09,1.968,0.121,19,reviewed,us,us
-2024-01-22T22:19:01.890Z,49.41733333333333,-120.5315,-0.51,2.17,ml,11,209,0.5999,0.56,uw,uw61980731,2024-01-23T01:15:11.150Z,"4 km SSW of Princeton, Canada",explosion,2.62,31.61,0.13043834653128528,9,reviewed,uw,uw
