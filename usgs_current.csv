@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T00:33:52.010Z,38.8240013,-122.8116684,2.67,0.74,md,11,68,0.001385,0.02,nc,nc73992666,2024-01-23T00:54:10.008Z,"7 km NW of The Geysers, CA",earthquake,0.32,1.22,0.33,12,automatic,nc,nc
 2024-01-23T00:26:51.070Z,34.5196667,-118.8195,15.28,1.39,ml,30,53,0.08986,0.17,ci,ci40464247,2024-01-23T01:27:30.664Z,"12 km NNW of Piru, CA",earthquake,0.23,0.46,0.1,17,reviewed,ci,ci
 2024-01-23T00:21:38.370Z,38.8328323,-122.8079987,2.1,0.22,md,8,96,0.009562,0.01,nc,nc73992661,2024-01-23T01:30:12.227Z,"8 km W of Cobb, CA",earthquake,0.42,1.04,0.08,8,automatic,nc,nc
-2024-01-23T00:21:30.300Z,35.6743333,-117.5273333,7.32,1.44,ml,33,101,0.08487,0.13,ci,ci40464239,2024-01-23T00:32:15.660Z,"15 km ENE of Ridgecrest, CA",earthquake,0.17,0.38,0.092,15,automatic,ci,ci
+2024-01-23T00:21:30.300Z,35.6743333,-117.5273333,7.32,1.44,ml,33,101,0.08487,0.13,ci,ci40464239,2024-01-23T01:43:07.450Z,"15 km ENE of Ridgecrest, CA",earthquake,0.17,0.38,0.092,15,reviewed,ci,ci
 2024-01-23T00:12:41.421Z,41.2328,78.5588,10,4.6,mb,48,99,1.272,0.94,us,us7000lt2j,2024-01-23T00:24:06.040Z,"131 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,6.18,1.963,0.086,40,reviewed,us,us
 2024-01-23T00:09:27.990Z,40.2213326,-124.2001648,5.11,1.34,md,9,151,0.03681,0.11,nc,nc73992656,2024-01-23T01:21:12.170Z,"14 km SSE of Petrolia, CA",earthquake,0.53,0.82,0.22,6,automatic,nc,nc
 2024-01-23T00:01:19.254Z,63.1114,-149.8171,103.4,1.3,ml,,,,0.79,ak,ak024121d8l4,2024-01-23T00:03:51.164Z,"53 km SW of Cantwell, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T22:45:40.753Z,65.2852,-152.2092,10.1,0.9,ml,,,,0.11,ak,ak02410r6wjf,2024-01-22T22:55:22.677Z,"14 km NNW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-22T22:40:27.139Z,41.2445,78.6484,10,4.4,mb,39,85,1.268,0.85,us,us7000lt23,2024-01-23T00:48:54.040Z,"128 km WNW of Aykol, China",earthquake,6.61,1.924,0.101,28,reviewed,us,us
 2024-01-22T22:30:10.765Z,-30.2226,-72.2289,10,5.3,mwr,53,146,0.91,1.08,us,us7000lt1x,2024-01-22T22:45:18.040Z,"90 km WSW of Coquimbo, Chile",earthquake,3,1.848,0.041,56,reviewed,us,us
-2024-01-22T22:24:52.930Z,35.6946667,-117.558,2.15,1.06,ml,27,57,0.09604,0.16,ci,ci40464199,2024-01-22T22:30:57.355Z,"13 km NE of Ridgecrest, CA",earthquake,0.2,0.32,0.125,6,automatic,ci,ci
+2024-01-22T22:24:52.890Z,35.6941667,-117.5593333,2.21,1.07,ml,26,106,0.09485,0.16,ci,ci40464199,2024-01-23T01:41:47.839Z,"13 km NE of Ridgecrest, CA",earthquake,0.22,0.3,0.177,10,reviewed,ci,ci
 2024-01-22T22:24:36.670Z,35.6943333,-117.562,1.89,0.88,ml,23,106,0.1163,0.13,ci,ci40464191,2024-01-23T01:31:52.741Z,"13 km NE of Ridgecrest, CA",earthquake,0.23,0.34,0.177,7,reviewed,ci,ci
 2024-01-22T22:20:15.864Z,64.8587,-148.9854,0,1.1,ml,,,,0.9,ak,ak02410r1hpu,2024-01-22T22:22:41.019Z,"29 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-22T22:20:04.728Z,41.1882,78.6353,10,4.2,mb,30,151,0.439,0.81,us,us7000lt1u,2024-01-23T00:17:11.040Z,"128 km W of Aykol, China",earthquake,4.09,1.968,0.121,19,reviewed,us,us
@@ -107,6 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T16:24:08.380Z,33.9763333,-117.1313333,14.76,1.09,ml,28,61,0.1299,0.16,ci,ci40464063,2024-01-22T20:08:01.408Z,"7 km W of Calimesa, CA",earthquake,0.22,0.52,0.199,13,reviewed,ci,ci
 2024-01-22T16:13:42.225Z,-10.1028,119.7047,20.854,4.6,mb,46,96,2.286,1.16,us,us7000lsxq,2024-01-22T16:52:17.040Z,"78 km SW of Waingapu, Indonesia",earthquake,6.82,4.89,0.119,21,reviewed,us,us
 2024-01-22T16:08:46.800Z,64.4781,-146.9188,4.6,1.4,ml,,,,0.59,ak,ak02410nedvs,2024-01-22T16:11:07.383Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-22T16:05:59.070Z,58.4335,-154.410166666667,4.31,0.38,ml,11,214,,0.29,av,av91127878,2024-01-23T01:42:25.950Z,"96 km N of Karluk, Alaska",earthquake,0.8,1.87,0.164039716058047,11,reviewed,av,av
 2024-01-22T16:02:12.828Z,62.8997,-149.5619,13.2,1.4,ml,,,,0.85,ak,ak02410nd0yq,2024-01-22T16:04:07.939Z,"57 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-22T16:00:00.985Z,61.2767,-150.2924,33.6,1.8,ml,,,,0.66,ak,ak02410nckks,2024-01-22T19:04:52.295Z,"19 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-22T15:57:23.266Z,64.4949,-146.9597,3.7,1.7,ml,,,,0.41,ak,ak02410n3ejq,2024-01-22T15:59:06.889Z,"4 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
