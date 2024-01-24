@@ -108,6 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T13:16:01.751Z,31.726,-104.649,7.0828,1.3,ml,19,90,0.1,0.2,tx,tx2024brav,2024-01-24T15:52:11.441Z,"56 km SSW of Whites City, New Mexico",earthquake,2.176778164,1.559078551,0.2,15,reviewed,tx,tx
 2024-01-24T13:15:46.556Z,38.0504,-118.0294,11.6,1.1,ml,10,122.22,0.153,0.2143,nn,nn00872236,2024-01-24T17:05:23.083Z,"38 km S of Mina, Nevada",earthquake,,2.3,0.4,5,reviewed,nn,nn
 2024-01-24T13:14:10.839Z,64.831,-147.3169,17.1,0.8,ml,,,,0.65,ak,ak02413wpzkr,2024-01-24T13:16:21.920Z,"9 km N of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-24T13:06:30.607Z,39.1015,-116.1106,0,1.4,ml,6,85.33,1.143,0.2296,nn,nn00872246,2024-01-24T22:24:26.889Z,"47 km SSW of Eureka, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2024-01-24T13:05:19.750Z,32.9185,-116.2385,8.55,0.81,ml,30,45,0.1542,0.17,ci,ci39755898,2024-01-24T13:11:18.531Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.96,0.198,7,automatic,ci,ci
 2024-01-24T13:02:47.922Z,64.4176,-146.708,26,0.6,ml,,,,0.91,ak,ak02413wngll,2024-01-24T13:06:19.761Z,"7 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-24T12:47:28.082Z,37.1923,-117.1789,6.8,0.9,ml,12,125.09,0.126,0.1913,nn,nn00872244,2024-01-24T18:38:16.440Z,"48 km NW of Beatty, Nevada",earthquake,,3.5,0.73,5,reviewed,nn,nn
@@ -192,6 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T06:06:49.240Z,18.7106666666667,-66.4018333333333,55.27,3.01,md,12,228,0.5465,0.23,pr,pr71437608,2024-01-24T06:26:33.700Z,"27 km NNW of Brenas, Puerto Rico",earthquake,2.86,5,0.179088754715977,9,reviewed,pr,pr
 2024-01-24T06:06:23.620Z,33.35,-116.4318333,11.67,0.81,ml,37,46,0.05892,0.17,ci,ci39755786,2024-01-24T19:20:04.270Z,"12 km NNW of Borrego Springs, CA",earthquake,0.17,0.49,0.062,13,reviewed,ci,ci
 2024-01-24T06:04:26.348Z,36.6813,-116.2887,6.7,-0.4,ml,8,181.29,0.054,0.0809,nn,nn00872229,2024-01-24T12:48:28.882Z,"48 km ESE of Beatty, Nevada",earthquake,,2.8,0.15,4,reviewed,nn,nn
+2024-01-24T06:03:39.800Z,53.8721666666667,-166.766833333333,8.63,1.75,ml,9,78,,0.17,av,av92187256,2024-01-24T22:23:06.560Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.39,0.48,0.234461835603487,9,reviewed,av,av
 2024-01-24T05:54:27.981Z,64.4843,-146.9553,3.8,1.4,ml,,,,0.72,ak,ak02413s74pa,2024-01-24T06:02:20.447Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-24T05:53:33.840Z,53.876,-166.767166666667,8.9,0.02,ml,8,78,,0.23,av,av92187251,2024-01-24T22:03:00.520Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.52,1.22,0.200681907960024,7,reviewed,av,av
 2024-01-24T05:51:18.310Z,53.8713333333333,-166.767166666667,8.02,0.21,ml,8,78,,0.16,av,av92187246,2024-01-24T21:56:42.830Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.38,0.83,0.232092712316085,8,reviewed,av,av
@@ -288,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T22:57:34.461Z,31.694,-104.297,6.8514,1.8,ml,13,83,0,0.1,tx,tx2024bpyo,2024-01-24T16:21:40.607Z,"53 km S of Whites City, New Mexico",earthquake,1.049068458,1.070725747,0.1,6,reviewed,tx,tx
 2024-01-23T22:41:39.020Z,34.48216667,-97.76583333,7.25,1.98,ml,71,47,0.1304743965,0.41,ok,ok2024bpxz,2024-01-24T14:13:06.121Z,"8 km WNW of Velma, Oklahoma",earthquake,,1.3,0.26,25,reviewed,ok,ok
 2024-01-23T22:28:44.290Z,19.1768341064453,-155.495498657227,33.5800018310547,1.85000002,md,30,201,,0.129999995,hv,hv73725997,2024-01-23T22:31:50.820Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.96,1.33000004,0.159999996,5,automatic,hv,hv
-2024-01-23T22:23:26.754Z,41.2897,78.8044,10,4.4,mb,24,159,0.323,0.54,us,us7000ltbk,2024-01-24T00:11:17.040Z,"117 km WNW of Aykol, China",earthquake,3.79,1.834,0.13,17,reviewed,us,us
