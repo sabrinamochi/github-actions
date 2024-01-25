@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-25T16:49:18.660Z,37.0646667,-121.125,3.95,2.53,md,43,91,0.1414,0.19,nc,nc73993821,2024-01-25T16:50:59.089Z,"24 km SSW of Gustine, CA",earthquake,0.32,1.7,0.13,49,automatic,nc,nc
 2024-01-25T16:29:46.910Z,19.4128341674805,-155.441833496094,8.14999961853027,2.2,ml,45,39,,0.140000001,hv,hv73726827,2024-01-25T16:35:17.870Z,"22 km W of Volcano, Hawaii",earthquake,0.31,0.579999983,2.97,14,automatic,hv,hv
 2024-01-25T16:27:18.870Z,38.8231659,-122.8130035,2.42,0.45,md,12,54,0.0023,0.01,nc,nc73993811,2024-01-25T16:40:11.163Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.65,0.3,14,automatic,nc,nc
-2024-01-25T16:25:43.090Z,37.6539993,-118.8463364,4.68,1.03,md,8,132,0.01804,0.01,nc,nc73993806,2024-01-25T16:33:11.118Z,"12 km E of Mammoth Lakes, CA",earthquake,0.64,2.44,0.11,8,automatic,nc,nc
+2024-01-25T16:25:43.090Z,37.6539993,-118.8463364,4.68,1.03,md,8,132,0.01804,0.01,nc,nc73993806,2024-01-25T16:50:12.235Z,"12 km E of Mammoth Lakes, CA",earthquake,0.64,2.44,0.11,8,automatic,nc,nc
 2024-01-25T16:09:05.630Z,61.7743,-146.7025,20.2,3.5,ml,,,,0.71,ak,ak02415m0jx2,2024-01-25T16:30:26.040Z,"24 km S of Nelchina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-25T16:04:05.041Z,64.4932,-146.6691,14.9,0.7,ml,,,,0.84,ak,ak02415lzh9u,2024-01-25T16:06:49.824Z,"11 km ESE of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-25T15:59:19.212Z,59.5522,-152.8395,95.7,1.2,ml,,,,0.17,ak,ak02415lpv5d,2024-01-25T16:01:07.274Z,"56 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -128,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T04:57:11.540Z,36.1013333,-117.8491667,2.35,1,ml,28,83,0.01686,0.15,ci,ci39756514,2024-01-25T14:33:54.120Z,"11 km NE of Coso Junction, CA",earthquake,0.21,0.16,0.161,7,reviewed,ci,ci
 2024-01-25T04:56:01.720Z,64.4785,-146.9102,10,1.4,ml,,,,0.84,ak,ak02415f5ezw,2024-01-25T04:58:28.364Z,"5 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-25T04:55:34.050Z,34.1048333,-117.3158333,15.15,1.27,ml,67,47,0.02736,0.17,ci,ci39756498,2024-01-25T14:35:09.530Z,"3 km SW of San Bernardino, CA",earthquake,0.14,0.25,0.215,12,reviewed,ci,ci
-2024-01-25T04:47:54.945Z,37.1413,-117.3935,7.8,0.4,ml,15,158.99,0.191,0.2255,nn,nn00872290,2024-01-25T16:48:29.104Z,"62 km WNW of Beatty, Nevada",earthquake,,2.9,0.47,4,reviewed,nn,nn
+2024-01-25T04:47:54.997Z,37.1445,-117.3946,7.8,0.4,ml,14,158.19,0.189,0.1737,nn,nn00872290,2024-01-25T16:51:41.175Z,"62 km WNW of Beatty, Nevada",earthquake,,3.3,0.47,4,reviewed,nn,nn
 2024-01-25T04:46:06.130Z,33.8958333,-116.8856667,8.94,0.44,ml,29,76,0.09619,0.28,ci,ci39756490,2024-01-25T04:51:56.824Z,"3 km SSW of Banning, CA",earthquake,0.33,1.18,0.102,4,automatic,ci,ci
 2024-01-25T04:34:33.068Z,64.4818,-146.8798,9.9,0.9,ml,,,,0.97,ak,ak02415f0rhr,2024-01-25T04:37:01.784Z,"4 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-25T04:29:59.912Z,64.4595,-146.9164,10.7,0.9,ml,,,,0.51,ak,ak02415ezr5j,2024-01-25T04:31:27.659Z,"7 km S of Salcha, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -290,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T16:56:20.510Z,19.3808333333333,-155.279,1.24,2.06,ml,21,46,,0.1,hv,hv73726457,2024-01-24T17:47:26.020Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.17,0.115676626482428,9,reviewed,hv,hv
 2024-01-24T16:56:20.500Z,19.3881664276123,-155.274826049805,1.9099999666214,1.86,ml,21,43,,0.119999997,hv,hv73726452,2024-01-24T17:01:51.850Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.209999993,0.24,5,automatic,hv,hv
 2024-01-24T16:52:38.427Z,64.4728,-146.9265,0,0.5,ml,,,,0.83,ak,ak02413yqhqa,2024-01-24T16:54:42.653Z,"5 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-24T16:49:58.507Z,62.056,-152.4449,0.9,1.8,ml,,,,0.84,ak,ak02413ypuwm,2024-01-24T16:52:02.802Z,"55 km W of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
