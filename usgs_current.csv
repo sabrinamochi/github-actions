@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T00:18:06.830Z,17.9943333333333,-66.9915,17,2.5,md,10,144,0.05596,0.07,pr,pr71437713,2024-01-26T00:29:55.540Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.44,0.58,0.0354065152563061,5,reviewed,pr,pr
 2024-01-26T00:17:14.900Z,38.7919998,-122.7574997,1.13,0.38,md,8,79,0.008784,0.02,nc,nc73994026,2024-01-26T01:07:15.438Z,"2 km N of The Geysers, CA",earthquake,0.39,0.66,0.14,8,automatic,nc,nc
 2024-01-26T00:16:24.647Z,31.671,-104.411,4.9732,1.6,ml,16,70,0,0.3,tx,tx2024btsd,2024-01-26T00:32:28.043Z,"56 km S of Whites City, New Mexico",earthquake,0,1.336647782,0.2,13,automatic,tx,tx
-2024-01-26T00:12:18.850Z,39.4076,-119.6945,10.1,2.5,ml,32,40.25,0.057,0.1449,nn,nn00872355,2024-01-26T01:05:07.766Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.25,8,reviewed,nn,nn
+2024-01-26T00:12:18.850Z,39.4076,-119.6945,10.1,2.5,ml,32,40.25,0.057,0.1449,nn,nn00872355,2024-01-26T01:12:19.347Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.25,8,reviewed,nn,nn
 2024-01-26T00:02:08.800Z,38.7929993,-122.7816696,1.14,0.79,md,15,95,0.01736,0.04,nc,nc73994006,2024-01-26T00:34:13.257Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.55,0.08,15,automatic,nc,nc
 2024-01-26T00:00:52.619Z,64.4876,-146.8924,0,0.9,ml,,,,0.79,ak,ak02416zz4wd,2024-01-26T00:02:50.954Z,"4 km S of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-25T23:50:40.690Z,9.4473,-83.8501,23.407,4.5,mb,37,145,0.609,0.76,us,us7000ltuw,2024-01-26T01:09:32.359Z,"18 km WNW of San Isidro, Costa Rica",earthquake,7.4,7.1,0.164,11,reviewed,us,us
@@ -29,6 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T22:08:05.362Z,13.23,-89.3653,80.769,4.7,mb,80,147,0.429,0.72,us,us7000ltub,2024-01-26T00:01:05.502Z,"28 km S of La Libertad, El Salvador",earthquake,6.98,6.462,0.03,345,reviewed,us,us
 2024-01-25T22:03:38.250Z,63.5142,-150.8569,1.8,1.5,ml,,,,0.64,ak,ak02415pjxqi,2024-01-25T22:07:06.586Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-25T22:01:05.677Z,-23.7161,-179.5071,532.237,4.7,mb,30,107,4.719,0.44,us,us7000ltu9,2024-01-25T22:19:27.040Z,"south of the Fiji Islands",earthquake,15.65,16.116,0.091,37,reviewed,us,us
+2024-01-25T22:00:32.507Z,41.9571,-119.5862,0.1,2.8,ml,5,128.02,0.536,0.0286,nn,nn00872360,2024-01-26T01:12:29.834Z,"48 km ENE of Fort Bidwell, California",earthquake,,3.6,0.58,5,reviewed,nn,nn
 2024-01-25T21:43:56.970Z,38.8274994,-122.8539963,1.49,1.33,md,25,95,0.002247,0.04,nc,nc73993936,2024-01-25T22:01:14.337Z,"10 km WNW of The Geysers, CA",earthquake,0.21,0.31,0.11,26,automatic,nc,nc
 2024-01-25T21:39:59.570Z,33.9485,-116.7548333,13.17,1.51,ml,41,64,0.04235,0.1,ci,ci39757162,2024-01-25T22:54:56.980Z,"5 km NE of Cabazon, CA",earthquake,0.11,0.3,0.201,23,reviewed,ci,ci
 2024-01-25T21:22:45.180Z,38.8173332,-122.8261642,1.63,0.36,md,7,102,0.008775,0.01,nc,nc73993931,2024-01-25T21:39:14.199Z,"8 km NW of The Geysers, CA",earthquake,0.49,0.84,0.24,8,automatic,nc,nc
@@ -302,4 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T01:39:29.530Z,38.8058319,-122.8176651,2.86,0.79,md,12,112,0.009492,0.02,nc,nc73993556,2024-01-25T03:52:11.355Z,"6 km WNW of The Geysers, CA",earthquake,0.48,0.87,0.17,13,automatic,nc,nc
 2024-01-25T01:24:35.167Z,41.2237,78.6257,10,4.9,mb,59,64,1.286,0.83,us,us7000ltlk,2024-01-25T01:45:14.040Z,"130 km WNW of Aykol, China",earthquake,4.83,1.875,0.054,107,reviewed,us,us
 2024-01-25T01:17:01.200Z,64.1294,-145.4386,12.1,1,ml,,,,0.44,ak,ak02415d4r7s,2024-01-25T01:19:19.086Z,"17 km NE of Delta Junction, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-01-25T01:13:36.865Z,41.1663,78.7228,10.232,4.1,mb,27,157,0.374,1.11,us,us7000ltlj,2024-01-25T02:28:25.040Z,"121 km W of Aykol, China",earthquake,4.83,1.464,0.145,13,reviewed,us,us
