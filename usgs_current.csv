@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-26T16:02:21.570Z,38.8144989,-122.7956696,5.53,0.74,md,11,111,0.006528,0.04,nc,nc73994291,2024-01-26T16:03:56.009Z,"5 km NW of The Geysers, CA",earthquake,0.66,1.03,0.29,12,automatic,nc,nc
+2024-01-26T16:02:21.570Z,38.8144989,-122.7956696,5.53,0.74,md,11,111,0.006528,0.04,nc,nc73994291,2024-01-26T16:14:09.889Z,"5 km NW of The Geysers, CA",earthquake,0.66,1.03,0.29,12,automatic,nc,nc
 2024-01-26T15:49:31.010Z,19.1748332977295,-155.488830566406,33.1300010681152,1.86000001,md,37,156,,0.119999997,hv,hv73727427,2024-01-26T15:52:54.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.69,1.25,1.83000004,10,automatic,hv,hv
 2024-01-26T15:38:32.120Z,38.8223343,-122.7996674,3.39,1.81,md,36,53,0.008198,0.02,nc,nc73994286,2024-01-26T15:50:10.761Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.33,0.18,36,automatic,nc,nc
 2024-01-26T15:38:26.600Z,38.8289986,-122.8041687,3.74,2.15,md,14,62,0.007252,0.09,nc,nc73994281,2024-01-26T15:45:09.729Z,"7 km W of Cobb, CA",earthquake,0.43,0.91,0.14,17,automatic,nc,nc
 2024-01-26T15:33:43.290Z,33.352,-116.235,6.8,0.84,ml,31,45,0.06329,0.17,ci,ci39757474,2024-01-26T15:42:17.939Z,"17 km NE of Borrego Springs, CA",earthquake,0.23,0.5,0.077,9,automatic,ci,ci
 2024-01-26T15:29:15.970Z,33.3288333,-116.8875,8.05,1.97,ml,74,23,0.0323,0.21,ci,ci39757466,2024-01-26T15:40:26.270Z,"4 km SW of Palomar Observatory, CA",earthquake,0.15,0.44,0.095,27,automatic,ci,ci
-2024-01-26T15:22:57.990Z,38.8154984,-122.7630005,2.03,0.76,md,10,111,0.014,0.02,nc,nc73994271,2024-01-26T15:34:10.651Z,"4 km WSW of Cobb, CA",earthquake,0.34,0.94,0.1,10,automatic,nc,nc
+2024-01-26T15:22:57.990Z,38.8154984,-122.7630005,2.03,0.76,md,10,111,0.014,0.02,nc,nc73994271,2024-01-26T16:14:11.889Z,"4 km WSW of Cobb, CA",earthquake,0.34,0.94,0.1,10,automatic,nc,nc
 2024-01-26T15:05:13.170Z,38.1256666666667,-112.467833333333,-0.16,1.44,ml,14,105,0.239,0.15,uu,uu80035811,2024-01-26T15:30:17.130Z,"18 km WSW of Circleville, Utah",earthquake,0.61,4.02,0.222029269864432,5,reviewed,uu,uu
 2024-01-26T15:00:25.181Z,39.3101,15.3082,273.642,4.4,mb,54,75,0.787,0.68,us,us7000lu20,2024-01-26T15:42:28.040Z,"56 km WSW of Cittadella del Capo, Italy",earthquake,7.37,6.607,0.07,59,reviewed,us,us
 2024-01-26T14:49:52.200Z,38.7923317,-122.748497,2.35,0.98,md,14,89,0.01206,0.02,nc,nc73994261,2024-01-26T16:03:12.836Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.69,0.25,14,automatic,nc,nc
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T12:14:30.220Z,32.7603333,-115.4278333,12.24,1.79,ml,37,46,0.04762,0.3,ci,ci39757442,2024-01-26T12:20:54.542Z,"7 km SW of Holtville, CA",earthquake,0.38,0.74,0.198,25,automatic,ci,ci
 2024-01-26T12:05:37.328Z,41.2833,78.8703,10,4.3,mb,24,114,0.916,0.41,us,us7000lu0i,2024-01-26T12:28:23.040Z,"112 km WNW of Aykol, China",earthquake,3.49,1.924,0.142,14,reviewed,us,us
 2024-01-26T11:59:26.360Z,38.7876663,-122.7488327,0.4,1.15,md,14,95,0.01045,0.04,nc,nc73994186,2024-01-26T13:51:11.143Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.46,0.09,12,automatic,nc,nc
-2024-01-26T11:49:33.765Z,38.1673,-117.8547,10.3,2.4,ml,19,106.44,0.107,0.4045,nn,nn00872398,2024-01-26T11:53:50.144Z,"33 km SE of Mina, Nevada",earthquake,,0.3,0.35,13,automatic,nn,nn
+2024-01-26T11:49:34.277Z,38.1631,-117.8887,11.4,2.4,ml,12,73.71,0.084,0.1002,nn,nn00872398,2024-01-26T16:14:27.674Z,"31 km SE of Mina, Nevada",earthquake,,1.3,0.32,7,reviewed,nn,nn
 2024-01-26T11:44:00.125Z,39.4119,-119.707,8.7,1.2,ml,10,79.51,0.121,0.1694,nn,nn00872396,2024-01-26T11:46:27.260Z,"12 km NNW of Virginia City, Nevada",earthquake,,0.9,0.29,4,automatic,nn,nn
 2024-01-26T11:40:45.074Z,41.2582,78.8046,10,4.6,mb,55,71,0.316,0.7,us,us7000lu0c,2024-01-26T12:17:55.040Z,"116 km WNW of Aykol, China",earthquake,3.32,1.834,0.069,63,reviewed,us,us
 2024-01-26T11:35:33.977Z,61.3705,-150.1724,34.9,2.4,ml,,,,0.43,ak,ak024176qd6d,2024-01-26T11:53:39.040Z,"10 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -52,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T11:29:18.090Z,19.1935005187988,-155.484832763672,27.4400005340576,2.18000007,md,26,88,,0.129999995,hv,hv73727317,2024-01-26T11:32:28.470Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.81,0.939999998,2.25,4,automatic,hv,hv
 2024-01-26T11:24:45.770Z,44.2505,-114.799166666667,5.2,1.63,ml,10,68,0.1482,0.11,mb,mb90039308,2024-01-26T14:45:33.320Z,"11 km ENE of Stanley, Idaho",earthquake,0.34,2.03,0.21798970399859,17,reviewed,mb,mb
 2024-01-26T11:21:40.043Z,65.0304,-148.7392,18,0.9,ml,,,,0.31,ak,ak024176ndmc,2024-01-26T11:23:28.569Z,"31 km ESE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-01-26T11:19:33.420Z,44.2506666666667,-114.797666666667,6.01,1.66,ml,12,68,0.1487,0.13,mb,mb90039358,2024-01-26T16:13:21.130Z,"11 km ENE of Stanley, Idaho",earthquake,0.34,1,0.24023491374271,13,reviewed,mb,mb
 2024-01-26T11:03:01.110Z,33.3101667,-116.2483333,4.5,0.67,ml,38,41,0.07308,0.22,ci,ci39757418,2024-01-26T11:08:53.231Z,"13 km ENE of Borrego Springs, CA",earthquake,0.23,0.58,0.174,11,automatic,ci,ci
 2024-01-26T10:41:59.345Z,60.9902,-146.0674,27.5,1.4,ml,,,,0.52,ak,ak02417669tq,2024-01-26T10:43:22.101Z,"21 km SE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-26T10:41:19.122Z,64.4828,-146.9198,1.2,1.2,ml,,,,0.53,ak,ak02417666tb,2024-01-26T10:43:18.083Z,"4 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
