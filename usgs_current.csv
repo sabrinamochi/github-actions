@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T14:19:33.570Z,18.1338333333333,-66.9433333333333,21.69,2.26,md,9,106,0.06239,0.09,pr,pr71437818,2024-01-27T14:35:41.660Z,"6 km NNE of Sabana Grande, Puerto Rico",earthquake,0.44,0.88,0.0829974678196455,4,reviewed,pr,pr
 2024-01-27T13:48:47.673Z,62.4515,-145.5501,17.8,2.8,ml,,,,0.8,ak,ak02418vje8t,2024-01-27T17:10:30.040Z,"21 km NW of Gakona, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-27T13:44:22.150Z,38.8443336,-122.8178329,2.22,0.77,md,12,90,0.01117,0.01,nc,nc73995256,2024-01-27T13:58:10.894Z,"9 km WNW of Cobb, CA",earthquake,0.34,0.82,0.17,13,automatic,nc,nc
-2024-01-27T13:38:18.357Z,32.1508,-93.3486,5,2.5,mb_lg,10,103,0.756,0.94,us,us7000lucv,2024-01-27T20:54:46.062Z,"5 km SW of Hall Summit, Louisiana",earthquake,1.81,1.974,0.12,18,reviewed,us,us
+2024-01-27T13:38:18.357Z,32.1508,-93.3486,5,2.5,mb_lg,10,103,0.756,0.94,us,us7000lucv,2024-01-27T21:01:47.059Z,"5 km SW of Hall Summit, Louisiana",earthquake,1.81,1.974,0.12,18,reviewed,us,us
 2024-01-27T13:36:07.783Z,60.0533,-140.0904,0.8,1.9,ml,,,,0.68,ak,ak02418vgqkq,2024-01-27T13:38:29.150Z,"59 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-27T13:29:10.140Z,35.675,-117.5188333,5.34,0.5,ml,18,62,0.07808,0.12,ci,ci39758186,2024-01-27T15:40:02.812Z,"15 km SW of Searles Valley, CA",earthquake,0.26,0.44,0.118,4,reviewed,ci,ci
 2024-01-27T13:24:54.352Z,64.4867,-146.9159,0,0.8,ml,,,,0.5,ak,ak02418ve9kr,2024-01-27T13:26:54.396Z,"4 km S of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T05:28:45.615Z,38.7646,70.3895,19.789,4.5,mb,37,108,1.308,0.55,us,us7000luag,2024-01-27T06:19:44.040Z,"29 km S of Rasht, Tajikistan",earthquake,8.09,5.234,0.101,29,reviewed,us,us
 2024-01-27T05:23:03.150Z,38.8428345,-122.8791656,2.26,1.09,md,16,96,0.005693,0.02,nc,nc73994991,2024-01-27T07:32:11.543Z,"13 km ENE of Cloverdale, CA",earthquake,0.3,0.46,0.15,18,automatic,nc,nc
 2024-01-27T05:21:41.190Z,19.1651668548584,-155.498840332031,31.1499996185303,2.1500001,md,33,156,,0.119999997,hv,hv73727847,2024-01-27T05:24:59.190Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.87,0.959999979,1.98000002,6,automatic,hv,hv
-2024-01-27T05:19:19.463Z,37.981,27.1217,11.179,5.1,mww,148,23,0.68,0.56,us,us7000luac,2024-01-27T15:54:07.885Z,"3 km S of Özdere, Turkey",earthquake,4.14,3.929,0.057,30,reviewed,us,us
+2024-01-27T05:19:19.463Z,37.981,27.1217,11.179,5.1,mww,148,23,0.68,0.56,us,us7000luac,2024-01-27T21:01:24.494Z,"3 km S of Özdere, Turkey",earthquake,4.14,3.929,0.057,30,reviewed,us,us
 2024-01-27T05:18:15.170Z,38.8364983,-122.817337,1.32,0.77,md,15,67,0.01426,0.02,nc,nc73994986,2024-01-27T07:03:14.378Z,"8 km W of Cobb, CA",earthquake,0.22,0.65,0.22,14,automatic,nc,nc
 2024-01-27T05:07:38.324Z,61.9312,-154.1309,1,2.6,ml,,,,0.52,ak,ak02418qj4bv,2024-01-27T06:37:29.040Z,"94 km NE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-27T04:30:11.930Z,19.1813335418701,-155.49333190918,33.1100006103516,1.96000004,md,18,208,,0.0900000036,hv,hv73727827,2024-01-27T04:35:44.600Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.21,0.899999976,2.04999995,4,automatic,hv,hv
@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T21:29:27.830Z,38.7898331,-122.7686691,1.58,2.34,md,16,94,0.01285,0.04,nc,nc73994601,2024-01-27T02:37:14.661Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.49,0.62,14,automatic,nc,nc
 2024-01-26T21:28:13.530Z,38.7911667,-122.7575,2.78,4.18,mw,119,34,0.009601,0.1,nc,nc73994586,2024-01-27T18:44:52.366Z,"2 km N of The Geysers, CA",earthquake,0.1,0.15,,5,reviewed,nc,nc
 2024-01-26T21:03:44.780Z,38.8206673,-122.7891693,-0.76,0.99,md,7,136,0.01356,0.12,nc,nc73994566,2024-01-26T21:58:23.964Z,"6 km NNW of The Geysers, CA",earthquake,0.43,2.21,0.26,9,automatic,nc,nc
-2024-01-26T21:01:11.487Z,59.4829,-150.9071,41.1,1.8,ml,,,,0.21,ak,ak02417chd58,2024-01-26T21:03:04.434Z,"21 km SE of Halibut Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
