@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-27T10:37:08.450Z,38.7966652,-122.770668,3.37,0.95,md,14,72,0.00943,0.03,nc,nc73995161,2024-01-27T10:38:43.872Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.68,0.18,14,automatic,nc,nc
+2024-01-27T10:41:37.700Z,34.2563333,-117.8818333,11.97,1.22,ml,48,30,0.08975,0.2,ci,ci39758146,2024-01-27T10:48:04.045Z,"14 km N of Glendora, CA",earthquake,0.19,0.53,0.261,23,automatic,ci,ci
+2024-01-27T10:37:08.450Z,38.7966652,-122.770668,3.37,0.95,md,14,72,0.00943,0.03,nc,nc73995161,2024-01-27T10:48:10.683Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.68,0.18,14,automatic,nc,nc
 2024-01-27T10:16:56.780Z,19.2649993896484,-155.37483215332,29.2000007629395,1.88999999,md,34,135,,0.129999995,hv,hv73728042,2024-01-27T10:20:09.430Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.47,0.639999986,1.22000003,11,automatic,hv,hv
 2024-01-27T10:12:53.380Z,33.9135,-117.7981667,4.74,1.19,ml,28,138,0.08524,0.17,ci,ci39758138,2024-01-27T10:19:18.630Z,"3 km NNE of Yorba Linda, CA",earthquake,0.3,0.55,0.296,28,automatic,ci,ci
 2024-01-27T10:11:58.198Z,64.4526,-146.9074,0,1.5,ml,,,,0.89,ak,ak02418tj6qz,2024-01-27T10:13:55.593Z,"7 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T09:18:34.760Z,38.7953339,-122.7806702,3.35,0.72,md,14,89,0.01703,0.02,nc,nc73995131,2024-01-27T10:20:14.517Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.69,0.08,15,automatic,nc,nc
 2024-01-27T09:18:07.450Z,38.8443336,-122.8174973,1.43,1.05,md,22,66,0.01128,0.02,nc,nc73995126,2024-01-27T10:09:15.455Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.37,0.09,22,automatic,nc,nc
 2024-01-27T09:17:49.570Z,38.8455009,-122.8188324,1.91,0.78,md,9,130,0.009802,0.02,nc,nc73995121,2024-01-27T09:56:13.387Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.98,0.18,9,automatic,nc,nc
-2024-01-27T09:03:05.366Z,41.2906,78.6327,11.398,5,mb,87,55,0.761,1.08,us,us7000lubs,2024-01-27T09:36:40.454Z,"127 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.26,4.222,0.042,178,reviewed,us,us
+2024-01-27T09:03:05.366Z,41.2906,78.6327,11.398,5,mb,87,55,0.761,1.08,us,us7000lubs,2024-01-27T10:42:48.831Z,"127 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.26,4.222,0.042,178,reviewed,us,us
 2024-01-27T08:58:55.350Z,18.994499206543,-155.39599609375,35.7099990844727,2.1500001,md,40,251,,0.200000003,hv,hv73727987,2024-01-27T09:02:14.160Z,"20 km ESE of Naalehu, Hawaii",earthquake,1.02,1.17999995,1.70000005,10,automatic,hv,hv
 2024-01-27T08:53:51.395Z,64.8907,-149.0355,22.6,1.4,ml,,,,0.49,ak,ak02418slb3f,2024-01-27T08:56:24.003Z,"32 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-27T08:47:36.590Z,38.8364983,-122.8088303,1.73,0.44,md,7,92,0.01312,0.01,nc,nc73995116,2024-01-27T09:43:14.311Z,"8 km WNW of Cobb, CA",earthquake,0.51,1.4,0.29,10,automatic,nc,nc
@@ -274,6 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T11:19:33.420Z,44.2506666666667,-114.797666666667,6.01,1.66,ml,12,68,0.1487,0.13,mb,mb90039358,2024-01-26T16:13:21.130Z,"11 km ENE of Stanley, Idaho",earthquake,0.34,1,0.24023491374271,13,reviewed,mb,mb
 2024-01-26T11:18:12.300Z,57.0446666666667,-135.700166666667,6.83,0.3,ml,4,165,,0.11,av,av91128528,2024-01-27T01:50:18.820Z,"22 km W of Sitka, Alaska",earthquake,1.2,0.64,0.320758585210583,4,reviewed,av,av
 2024-01-26T11:03:01.050Z,33.309,-116.2498333,7.18,0.67,ml,34,41,0.07305,0.19,ci,ci39757418,2024-01-26T20:23:59.395Z,"13 km ENE of Borrego Springs, CA",earthquake,0.24,0.55,0.15,10,reviewed,ci,ci
-2024-01-26T10:48:14.387Z,39.5679,-119.8175,4.1,0.6,ml,11,78.06,0.01,0.128,nn,nn00872456,2024-01-27T04:27:45.051Z,"4 km N of Reno, Nevada",earthquake,,1.1,0.39,2,reviewed,nn,nn
-2024-01-26T10:41:59.345Z,60.9902,-146.0674,27.5,1.4,ml,,,,0.52,ak,ak02417669tq,2024-01-26T10:43:22.101Z,"21 km SE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-26T10:41:19.122Z,64.4828,-146.9198,1.2,1.2,ml,,,,0.53,ak,ak02417666tb,2024-01-26T10:43:18.083Z,"4 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
