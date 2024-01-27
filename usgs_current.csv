@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-27T02:01:08.550Z,35.9368324,-117.6750031,1.89,1.18,ml,14,76,0.02283,0.14,ci,ci39757994,2024-01-27T02:03:14.077Z,"21 km E of Little Lake, CA",earthquake,0.36,0.41,0.176,5,automatic,ci,ci
+2024-01-27T02:01:08.700Z,35.9378333,-117.6855,2.61,0.84,ml,26,64,0.03022,0.16,ci,ci39757994,2024-01-27T02:07:09.758Z,"20 km E of Little Lake, CA",earthquake,0.19,0.31,0.06,7,automatic,ci,ci
 2024-01-27T01:59:57.266Z,61.7581,-154.0292,0,2.3,ml,,,,0.61,ak,ak02418ogklq,2024-01-27T02:01:43.157Z,"87 km ENE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-27T01:44:44.050Z,38.7893333,-122.7698364,1.39,1.11,md,14,80,0.01377,0.02,nc,nc73994906,2024-01-27T01:59:11.575Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.47,0.21,14,automatic,nc,nc
 2024-01-27T01:41:38.980Z,38.8248329,-122.8010025,3,0.77,md,13,77,0.00723,0.02,nc,nc73994901,2024-01-27T01:53:11.404Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.79,0.15,16,automatic,nc,nc
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T21:29:47.240Z,38.7936668,-122.7639999,2.04,2.09,md,18,114,0.007714,0.04,nc,nc73994581,2024-01-26T22:31:15.338Z,"2 km NNW of The Geysers, CA",earthquake,0.33,0.5,0.21,18,automatic,nc,nc
 2024-01-26T21:29:32.930Z,38.788166,-122.7659988,1.25,1.17,md,9,142,0.01338,0.03,nc,nc73994571,2024-01-27T01:44:10.361Z,"2 km NW of The Geysers, CA",earthquake,0.47,0.58,0.26,4,automatic,nc,nc
 2024-01-26T21:29:27.830Z,38.7898331,-122.7686691,1.58,2.34,md,16,94,0.01285,0.04,nc,nc73994601,2024-01-26T22:31:17.179Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.49,0.62,14,automatic,nc,nc
-2024-01-26T21:28:13.530Z,38.7911667,-122.7575,2.78,4.18,mw,119,34,0.009601,0.1,nc,nc73994586,2024-01-27T01:59:11.437Z,"2 km N of The Geysers, CA",earthquake,0.1,0.15,,5,reviewed,nc,nc
+2024-01-26T21:28:13.530Z,38.7911667,-122.7575,2.78,4.18,mw,119,34,0.009601,0.1,nc,nc73994586,2024-01-27T02:07:12.986Z,"2 km N of The Geysers, CA",earthquake,0.1,0.15,,5,reviewed,nc,nc
 2024-01-26T21:03:44.780Z,38.8206673,-122.7891693,-0.76,0.99,md,7,136,0.01356,0.12,nc,nc73994566,2024-01-26T21:58:23.964Z,"6 km NNW of The Geysers, CA",earthquake,0.43,2.21,0.26,9,automatic,nc,nc
 2024-01-26T21:01:11.487Z,59.4829,-150.9071,41.1,1.8,ml,,,,0.21,ak,ak02417chd58,2024-01-26T21:03:04.434Z,"21 km SE of Halibut Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-26T20:47:10.890Z,19.3756675720215,-155.268829345703,4.3600001335144,1.86,ml,19,110,,0.360000014,hv,hv73727617,2024-01-26T20:52:40.420Z,"8 km SSW of Volcano, Hawaii",earthquake,0.58,0.680000007,0.2,4,automatic,hv,hv
@@ -304,4 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-26T02:22:00.220Z,35.12983333,-97.78783333,7.18,1.39,ml,83,35,0.0602881694,0.36,ok,ok2024btwg,2024-01-26T13:38:02.245Z,"8 km ESE of Amber, Oklahoma",earthquake,,0.5,0.25,32,reviewed,ok,ok
 2024-01-26T02:18:50.700Z,19.2716,-64.7515,42,3.8,md,13,308,0.9417,0.57,pr,pr2024026000,2024-01-26T04:14:39.234Z,"104 km N of Cruz Bay, U.S. Virgin Islands",earthquake,9.35,32.32,0.07,12,reviewed,pr,pr
 2024-01-26T02:14:30.070Z,19.2754993438721,-155.388336181641,28.6499996185303,2.1099999,md,27,124,,0.129999995,hv,hv73727102,2024-01-26T02:17:48.440Z,"12 km NE of Pāhala, Hawaii",earthquake,0.61,0.730000019,1.04999995,3,automatic,hv,hv
-2024-01-26T02:13:02.416Z,39.4114,-119.6997,6.1,0.8,ml,7,127.56,0.099,0.1027,nn,nn00872369,2024-01-26T03:10:09.914Z,"12 km NNW of Virginia City, Nevada",earthquake,,3,0.56,6,reviewed,nn,nn
