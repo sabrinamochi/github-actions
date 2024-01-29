@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-29T14:20:47.584Z,64.4908,-146.9314,10.4,3.4,ml,,,,0.82,ak,ak0241c71is1,2024-01-29T17:04:26.135Z,"3 km SSW of Salcha, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-01-29T14:19:23.648Z,64.4898,-146.9268,8.9,2.4,ml,,,,0.45,ak,ak0241c7197w,2024-01-29T16:18:28.040Z,"3 km SSW of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-01-29T14:16:12.003Z,60.32,-150.7665,178.8,2.1,ml,,,,0.89,ak,ak0241c70l68,2024-01-29T14:18:41.182Z,"20 km S of Funny River, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-01-29T14:15:44.046Z,37.4348,-116.9461,0.1,1.4,ml,17,152.12,0.284,0.4207,nn,nn00872578,2024-01-29T14:17:49.494Z,"39 km SE of Goldfield, Nevada",earthquake,,29.6,0.28,10,automatic,nn,nn
+2024-01-29T14:15:45.178Z,37.4266,-116.9475,0,1.4,ml,17,124.6,0.279,0.1685,nn,nn00872578,2024-01-29T17:13:28.240Z,"40 km SE of Goldfield, Nevada",earthquake,,0,0.33,9,reviewed,nn,nn
 2024-01-29T14:12:42.708Z,61.2882,-152.273,9.8,0.8,ml,,,,0.75,ak,ak0241c6zsoe,2024-01-29T14:15:18.972Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-29T14:00:29.850Z,19.4034996032715,-155.27082824707,1.32000005245209,1.84,ml,18,53,,0.0900000036,hv,hv73734132,2024-01-29T14:05:59.970Z,"5 km SW of Volcano, Hawaii",earthquake,0.22,0.189999998,0.35,4,automatic,hv,hv
 2024-01-29T13:52:59.470Z,35.6926667,-117.5585,2.08,0.87,ml,26,63,0.09475,0.15,ci,ci39759106,2024-01-29T13:58:49.727Z,"13 km NE of Ridgecrest, CA",earthquake,0.2,0.32,0.174,7,automatic,ci,ci
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-29T02:11:03.980Z,33.6838333,-116.7206667,16.42,0.83,ml,34,54,0.0278,0.14,ci,ci39758962,2024-01-29T02:17:09.249Z,"6 km S of Idyllwild, CA",earthquake,0.21,0.31,0.152,13,automatic,ci,ci
 2024-01-29T02:09:24.834Z,39.4044,-119.7034,8.2,0.7,ml,10,127.1,0.05,0.1679,nn,nn00872582,2024-01-29T15:45:39.287Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.44,3,reviewed,nn,nn
 2024-01-29T02:01:00.814Z,58.1887,-155.3924,1.1,0.9,ml,,,,0.74,ak,ak0241bzs5b5,2024-01-29T02:02:58.046Z,"88 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-01-29T01:59:42.860Z,32.9228333,-116.0023333,7.8,2.73,ml,79,24,0.04547,0.24,ci,ci39758954,2024-01-29T02:10:52.600Z,"21 km N of Ocotillo, CA",earthquake,0.16,0.57,0.12,25,automatic,ci,ci
+2024-01-29T01:59:42.840Z,32.9233333,-116.0016667,7.9,2.73,ml,75,23,0.04553,0.26,ci,ci39758954,2024-01-29T17:13:37.141Z,"21 km N of Ocotillo, CA",earthquake,0.17,0.69,0.12,25,reviewed,ci,ci
 2024-01-29T01:53:37.260Z,61.7119,-150.3577,29,1.8,ml,,,,0.21,ak,ak0241bzhxr2,2024-01-29T01:55:05.564Z,"17 km WSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-29T01:52:25.650Z,38.8395004,-122.8248367,1.81,0.77,md,13,93,0.008367,0.01,nc,nc73995971,2024-01-29T03:53:11.352Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.75,0.17,14,automatic,nc,nc
 2024-01-29T01:41:06.540Z,17.796,-66.806,5.82,2.5,md,6,269,0.1913,0.1,pr,pr71437958,2024-01-29T02:02:49.210Z,"21 km S of Indios, Puerto Rico",earthquake,0.65,0.51,0.0455577030775163,5,reviewed,pr,pr
@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-28T17:20:11.340Z,38.8301659,-122.8153305,2.47,0.76,md,13,64,0.00791,0.03,nc,nc73995806,2024-01-28T19:12:11.203Z,"8 km NW of The Geysers, CA",earthquake,0.29,1.09,0.07,14,automatic,nc,nc
 2024-01-28T17:14:46.170Z,19.3926658630371,-155.273498535156,1.39999997615814,2.56,ml,38,42,,0.25,hv,hv73732762,2024-01-28T17:44:32.040Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.230000004,0.35,15,automatic,hv,hv
 2024-01-28T17:14:43.900Z,57.0205,-135.639833333333,5.05,1.31,ml,6,199,,0.14,av,av91128733,2024-01-28T23:44:17.740Z,"19 km W of Sitka, Alaska",earthquake,1,1.26,0.222283091703237,5,reviewed,av,av
-2024-01-28T17:13:51.640Z,38.5966666666667,-83.8348333333333,15.46,2.51,md,16,78,0.1827,0.36,se,se60501578,2024-01-29T14:32:52.524Z,"3 km SW of Old Washington, Kentucky",earthquake,0.81,1.61,0.11213533542776,13,reviewed,se,se
