@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-30T01:57:10.310Z,35.017,-119.0823333,9.44,1.34,ml,34,35,0.04152,0.25,ci,ci39759594,2024-01-30T02:03:41.714Z,"16 km WNW of Grapevine, CA",earthquake,0.29,0.52,0.162,17,automatic,ci,ci
 2024-01-30T01:42:44.350Z,38.8336678,-122.8075027,2.21,0.28,md,8,99,0.01045,0.01,nc,nc73996496,2024-01-30T01:53:12.100Z,"7 km W of Cobb, CA",earthquake,0.47,1.53,0.18,10,automatic,nc,nc
 2024-01-30T01:34:57.354Z,64.493,-146.8918,4.9,1.7,ml,,,,0.44,ak,ak0241dmx96v,2024-01-30T01:52:59.310Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-01-30T01:24:48.090Z,19.2968,-64.8196,42,3.81,md,15,297,0.9542,0.39,pr,pr2024030001,2024-01-30T02:03:22.423Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.96,18.28,0.09,12,reviewed,pr,pr
 2024-01-30T01:24:01.720Z,19.3915004730225,-155.27766418457,0.970000028610229,1.71000004,md,13,119,,0.140000001,hv,hv73735792,2024-01-30T01:27:06.360Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.280000001,1.37,10,automatic,hv,hv
 2024-01-30T01:10:27.890Z,19.3813323974609,-155.280838012695,0.670000016689301,1.88,md,12,164,,0.109999999,hv,hv73735747,2024-01-30T01:13:17.280Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.439999998,7,automatic,hv,hv
 2024-01-30T01:08:07.840Z,38.8378334,-122.8083344,2.24,0.81,md,12,53,0.01406,0.01,nc,nc73996481,2024-01-30T01:21:10.907Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.89,0.19,15,automatic,nc,nc
@@ -295,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-29T02:12:03.652Z,39.4091,-119.6945,8.1,1,ml,16,128.83,0.056,0.1482,nn,nn00872583,2024-01-29T15:48:54.569Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.2,0.22,4,reviewed,nn,nn
 2024-01-29T02:11:04.040Z,33.6825,-116.719,16.36,0.83,ml,32,60,0.02888,0.18,ci,ci39758962,2024-01-29T18:46:06.658Z,"6 km S of Idyllwild, CA",earthquake,0.27,0.45,0.144,11,reviewed,ci,ci
 2024-01-29T02:09:24.834Z,39.4044,-119.7034,8.2,0.7,ml,10,127.1,0.05,0.1679,nn,nn00872582,2024-01-29T15:45:39.287Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.44,3,reviewed,nn,nn
-2024-01-29T02:01:00.814Z,58.1887,-155.3924,1.1,0.9,ml,,,,0.74,ak,ak0241bzs5b5,2024-01-29T02:02:58.046Z,"88 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-01-29T01:59:42.840Z,32.9233333,-116.0016667,7.9,2.73,ml,75,23,0.04553,0.26,ci,ci39758954,2024-01-29T17:14:02.020Z,"21 km N of Ocotillo, CA",earthquake,0.17,0.69,0.12,25,reviewed,ci,ci
