@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-31T20:28:11.451Z,61.2418,-146.7136,19.8,1.7,ml,,,,0.93,ak,ak0241flqgc9,2024-01-31T20:30:31.372Z,"23 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-31T20:28:07.880Z,19.3799991607666,-155.287338256836,2.01999998092651,2.46000004,md,35,45,0.008391,0.219999999,hv,hv74081191,2024-01-31T20:29:46.920Z,"8 km SW of Volcano, Hawaii",earthquake,0.24,0.25999999,0.50999999,19,automatic,hv,hv
 2024-01-31T20:26:47.900Z,40.2195015,-121.1536636,1.11,2.33,md,7,142,0.2386,0.08,nc,nc73997131,2024-01-31T20:28:23.923Z,"1 km N of Prattville, CA",earthquake,0.64,8.45,0.13,5,automatic,nc,nc
 2024-01-31T20:25:12.510Z,19.3953342437744,-155.271331787109,1.27999997138977,2.45000005,md,30,38,0.002182,0.280000001,hv,hv74081171,2024-01-31T20:27:19.190Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.50999999,19,automatic,hv,hv
@@ -312,7 +313,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-31T04:48:14.990Z,33.2006667,-116.0315,6.17,0.66,ml,29,62,0.0526,0.18,ci,ci39760330,2024-01-31T16:20:40.411Z,"11 km NE of Ocotillo Wells, CA",earthquake,0.27,0.86,0.127,3,reviewed,ci,ci
 2024-01-31T04:48:00.609Z,60.6119,-151.2462,55.4,1.6,ml,,,,0.6,ak,ak0241fcbs58,2024-01-31T04:50:02.643Z,"4 km E of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-01-31T04:46:42.820Z,17.8023333333333,-66.9581666666667,6.59,2.84,md,20,241,0.1754,0.13,pr,pr71438638,2024-01-31T05:34:56.870Z,"19 km SSW of Guánica, Puerto Rico",earthquake,0.45,0.26,0.0754508546898918,9,reviewed,pr,pr
-2024-01-31T04:41:36.419Z,39.3951,-119.7114,7.2,0,ml,3,261.23,0.042,0,nn,nn00872735,2024-01-31T20:27:30.067Z,"10 km NNW of Virginia City, Nevada",earthquake,,9.7,0,1,reviewed,nn,nn
+2024-01-31T04:41:36.074Z,39.4157,-119.7232,8.4,0.4,ml,4,170.08,0.041,0.1308,nn,nn00872735,2024-01-31T20:30:48.128Z,"13 km NNW of Virginia City, Nevada",earthquake,,4.6,0.39,2,reviewed,nn,nn
 2024-01-31T04:40:11.300Z,19.3794994354248,-155.269836425781,-0.439999997615814,1.78999996,md,5,152,0.009924,0.129999995,hv,hv74078721,2024-01-31T04:41:41.550Z,"7 km SSW of Volcano, Hawaii",earthquake,0.37,0.680000007,0.0599999987,5,automatic,hv,hv
 2024-01-31T04:39:02.648Z,39.4095,-119.6992,7.4,0.8,ml,6,127.75,0.054,0.1211,nn,nn00872733,2024-01-31T20:05:50.559Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.15,5,reviewed,nn,nn
 2024-01-31T04:35:38.205Z,-15.0039,-173.6251,10,5.1,mb,27,114,2.091,0.7,us,us7000lv65,2024-01-31T04:55:15.040Z,"106 km N of Hihifo, Tonga",earthquake,10.32,1.92,0.119,23,reviewed,us,us
@@ -415,4 +416,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T20:47:13.810Z,35.0316667,-117.6808333,-0.79,1.5,ml,29,45,0.09788,0.16,ci,ci39760090,2024-01-30T21:41:29.978Z,"5 km NW of Boron, CA",quarry blast,0.36,31.61,0.1,18,reviewed,ci,ci
 2024-01-30T20:46:32.608Z,64.4862,-146.9386,8.9,2.6,ml,,,,0.52,ak,ak0241dyb0d8,2024-01-30T21:16:32.208Z,"4 km SSW of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-01-30T20:39:26.980Z,44.5591666666667,-113.0065,4.96,0.44,ml,5,152,0.2335,0.05,mb,mb90039683,2024-01-31T18:11:01.370Z,"30 km ESE of Leadore, Idaho",earthquake,0.34,5.75,0.13589310679773,5,reviewed,mb,mb
-2024-01-30T20:30:27.070Z,38.4841666666667,-112.8455,-0.38,-0.56,md,10,104,0.02365,0.09,uu,uu80036191,2024-01-30T21:00:38.460Z,"17 km NE of Milford, Utah",earthquake,0.25,0.14,0.399522865977451,4,reviewed,uu,uu
