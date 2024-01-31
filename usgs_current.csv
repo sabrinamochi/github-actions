@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-31T01:27:02.940Z,38.831665,-122.8190002,1.6,0.77,md,10,79,0.01081,0.01,nc,nc73996906,2024-01-31T01:28:37.051Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.91,0.16,12,automatic,nc,nc
+2024-01-31T01:11:41.965Z,-15.4463,-71.4135,142.788,4.6,mb,33,143,2.825,0.9,us,us7000lv59,2024-01-31T01:30:53.040Z,"6 km NE of Sibayo, Peru",earthquake,12.83,9.976,0.078,50,reviewed,us,us
 2024-01-31T01:10:59.520Z,19.361499786377,-155.294006347656,1.20000004768372,1.75,md,12,122,0.02656,0.129999995,hv,hv74078266,2024-01-31T01:12:32.040Z,"10 km SW of Volcano, Hawaii",earthquake,0.27,0.460000008,0.620000005,5,automatic,hv,hv
 2024-01-31T01:09:47.315Z,61.6848,-148.2358,249.9,1.9,ml,,,,1.02,ak,ak0241fab80b,2024-01-31T01:12:25.672Z,"17 km SE of Chickaloon, Alaska",earthquake,,6.4,,,automatic,ak,ak
-2024-01-31T01:02:57.710Z,19.3579998016357,-155.289337158203,2.57999992370605,2.02999997,md,19,64,0.02485,0.159999996,hv,hv74078261,2024-01-31T01:04:28.860Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.469999999,0.649999976,15,automatic,hv,hv
+2024-01-31T01:02:57.710Z,19.3579998016357,-155.289337158203,2.57999992370605,2.13,ml,19,64,0.02485,0.159999996,hv,hv74078261,2024-01-31T01:33:33.740Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.469999999,0.87,7,automatic,hv,hv
 2024-01-31T00:53:26.370Z,19.2655,-64.9365,23.5,3.38,md,11,293,0.9084,0.37,pr,pr71438568,2024-01-31T01:08:01.870Z,"102 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.13,30.06,0.124027024527295,7,reviewed,pr,pr
 2024-01-31T00:37:42.327Z,64.0298,-148.7927,0,1.8,ml,,,,0.65,ak,ak0241f9vs2g,2024-01-31T00:39:38.421Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-31T00:36:44.230Z,19.2385,-64.9483333333333,26.64,3.33,md,11,293,0.8814,0.44,pr,pr71438558,2024-01-31T00:59:00.260Z,"99 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.99,30.91,0.124280884426925,5,reviewed,pr,pr
@@ -9,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-31T00:17:49.771Z,62.8756,-150.8911,91.4,1.5,ml,,,,0.42,ak,ak0241f9ribl,2024-01-31T00:20:01.928Z,"42 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-01-31T00:10:42.720Z,38.8271675,-122.7685013,2.1,0.78,md,8,206,0.01684,0.04,nc,nc73996901,2024-01-31T01:01:14.411Z,"4 km W of Cobb, CA",earthquake,0.79,0.86,0.08,8,automatic,nc,nc
 2024-01-31T00:07:34.029Z,59.5265,-152.3414,46.1,1.8,ml,,,,0.94,ak,ak0241f9pby2,2024-01-31T00:09:26.532Z,"30 km NW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-01-31T00:00:06.000Z,19.387,-155.250833333333,0.46,2.59,ml,32,54,0.001549,0.11,hv,hv74078111,2024-01-31T01:22:33.990Z,"6 km SSW of Volcano, Hawaii",earthquake,0.13,0.11,0.120578870161022,13,reviewed,hv,hv
 2024-01-30T23:59:36.240Z,38.8003349,-122.753334,1.95,0.34,md,8,165,0.004992,0.02,nc,nc73996896,2024-01-31T00:50:13.346Z,"3 km N of The Geysers, CA",earthquake,0.55,0.97,0.12,9,automatic,nc,nc
 2024-01-30T23:57:22.190Z,46.9431666666667,-112.5305,2.86,1.97,ml,15,83,0.08685,0.12,mb,mb90039663,2024-01-31T00:15:37.610Z,"11 km E of Lincoln, Montana",earthquake,0.35,0.45,0.223753886103398,12,reviewed,mb,mb
 2024-01-30T23:20:46.930Z,46.9403333333333,-112.528833333333,2.95,1.56,ml,13,82,0.08842,0.09,mb,mb90039653,2024-01-31T00:33:25.600Z,"11 km E of Lincoln, Montana",earthquake,0.33,0.41,0.229660044508685,10,reviewed,mb,mb
@@ -226,7 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T06:42:48.710Z,64.7181,-149.0266,14.7,1.4,ml,,,,0.45,ak,ak0241dpy49z,2024-01-30T08:13:27.190Z,"13 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-30T06:34:17.344Z,65.3966,-148.0812,11.8,2.7,ml,,,,0.59,ak,ak0241dpwc4m,2024-01-30T08:54:11.040Z,"25 km SE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-30T06:27:35.504Z,37.1923,-104.7376,8.692,3,ml,25,58,0.266,0.49,us,us7000lux6,2024-01-30T12:33:16.300Z,"7 km NNE of Segundo, Colorado",earthquake,4.7,7.818,0.053,67,reviewed,us,us
-2024-01-30T06:15:18.889Z,61.7454,-148.5621,9.7,4,ml,,,,0.94,ak,ak0241dps9ls,2024-01-31T00:42:07.969Z,"7 km SW of Chickaloon, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2024-01-30T06:15:18.889Z,61.7454,-148.5621,9.7,4,ml,,,,0.94,ak,ak0241dps9ls,2024-01-31T01:30:18.981Z,"7 km SW of Chickaloon, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-01-30T06:14:53.330Z,19.343334197998,-155.302673339844,3.03999996185303,2.24,ml,39,39,,0.219999999,hv,hv73736487,2024-01-30T06:20:24.270Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.879999995,2.16,11,automatic,hv,hv
 2024-01-30T06:14:40.100Z,19.3796672821045,-155.277160644531,0.779999971389771,1.96,ml,9,163,,0.100000001,hv,hv73736482,2024-01-30T06:20:11.740Z,"8 km SSW of Volcano, Hawaii",earthquake,0.33,0.25999999,2.23,10,automatic,hv,hv
 2024-01-30T06:07:36.700Z,33.9086667,-116.894,11.26,1.13,ml,62,32,0.07311,0.15,ci,ci39759730,2024-01-30T16:52:43.290Z,"2 km SW of Banning, CA",earthquake,0.12,0.39,0.144,30,reviewed,ci,ci
@@ -300,6 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T01:43:58.397Z,39.3326,-120.1372,10.8,1,ml,10,159.48,0.088,0.157,nn,nn00872669,2024-01-30T02:41:09.532Z,"4 km E of Truckee, California",earthquake,,1.9,0.48,4,reviewed,nn,nn
 2024-01-30T01:42:44.350Z,38.8336678,-122.8075027,2.21,0.28,md,8,99,0.01045,0.01,nc,nc73996496,2024-01-30T03:56:11.806Z,"7 km W of Cobb, CA",earthquake,0.47,1.53,0.18,10,automatic,nc,nc
 2024-01-30T01:42:04.360Z,44.2195,-110.767666666667,5.4,1.42,md,16,105,0.223,0.23,uu,uu80036101,2024-01-30T14:18:54.500Z,"45 km ENE of Warm River, Idaho",earthquake,0.56,2.47,0.174096386610376,8,reviewed,uu,uu
-2024-01-30T01:34:57.354Z,64.493,-146.8918,4.9,1.7,ml,,,,0.44,ak,ak0241dmx96v,2024-01-30T01:52:59.310Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-30T01:24:48.090Z,19.2968,-64.8196,42,3.81,md,15,297,0.9542,0.39,pr,pr2024030001,2024-01-30T02:03:22.423Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.96,18.28,0.09,12,reviewed,pr,pr
-2024-01-30T01:24:01.720Z,19.3915004730225,-155.27766418457,0.970000028610229,1.71000004,md,13,119,,0.140000001,hv,hv73735792,2024-01-30T01:27:06.360Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.280000001,1.37,10,automatic,hv,hv
