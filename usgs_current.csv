@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-03T14:55:46.050Z,38.8153343,-122.7593307,1.6,0.86,md,8,115,0.01469,0.01,nc,nc73998151,2024-02-03T14:57:19.561Z,"3 km WSW of Cobb, CA",earthquake,0.38,0.66,0.22,9,automatic,nc,nc
-2024-02-03T14:53:22.630Z,34.0494995,-117.2366638,16.82,1.64,ml,41,65,0.06767,0.2,ci,ci40660672,2024-02-03T14:55:28.230Z,"2 km E of Loma Linda, CA",earthquake,0.3,0.77,0.302,7,automatic,ci,ci
+2024-02-03T14:53:22.750Z,34.0441667,-117.2355,15.17,1.41,ml,68,48,0.07263,0.18,ci,ci40660672,2024-02-03T15:00:03.923Z,"2 km E of Loma Linda, CA",earthquake,0.15,0.26,0.194,29,automatic,ci,ci
 2024-02-03T14:52:40.020Z,19.3753337860107,-155.289337158203,1.58000004291534,1.95,ml,22,98,0.01326,0.180000007,hv,hv74092271,2024-02-03T14:57:20.950Z,"9 km SW of Volcano, Hawaii",earthquake,0.26,0.409999996,0.21,6,automatic,hv,hv
 2024-02-03T14:48:01.392Z,60.8145,-150.5463,16.3,1.6,ml,,,,0.38,ak,ak0241kgw5qj,2024-02-03T14:50:03.004Z,"14 km SSE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-03T14:39:56.177Z,64.5015,-146.8988,13.2,2.3,ml,,,,0.33,ak,ak0241kgucip,2024-02-03T14:41:35.284Z,"2 km S of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-03T08:14:55.573Z,61.1676,-146.7694,45,1.6,ml,,,,0.81,ak,ak0241kd4dxx,2024-02-03T08:16:54.716Z,"23 km W of Valdez, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2024-02-03T08:10:19.442Z,31.668,-104.208,5.4718,1.6,ml,17,63,0,0.4,tx,tx2024cixt,2024-02-03T08:48:55.459Z,"55 km NW of Toyah, Texas",earthquake,0,2.443081066,0.2,12,automatic,tx,tx
 2024-02-03T08:10:08.930Z,19.1469993591309,-155.494827270508,32,1.90999997,md,38,148,0.03204,0.150000006,hv,hv74091541,2024-02-03T08:11:54.250Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.5,0.699999988,0.370000005,8,automatic,hv,hv
-2024-02-03T08:06:37.490Z,35.54783333,-96.74783333,5.64,1.47,ml,67,34,0.01439717478,0.27,ok,ok2024cixr,2024-02-03T14:57:39.914Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.18,25,reviewed,ok,ok
+2024-02-03T08:06:37.490Z,35.54783333,-96.74783333,5.64,1.47,ml,67,34,0.01439717478,0.27,ok,ok2024cixr,2024-02-03T14:58:02.373Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.18,25,reviewed,ok,ok
 2024-02-03T08:02:19.937Z,31.671,-104.194,4.0284,1.5,ml,17,70,0.1,0.3,tx,tx2024cixn,2024-02-03T08:16:12.460Z,"54 km NW of Toyah, Texas",earthquake,0,1.230664628,0.2,13,automatic,tx,tx
 2024-02-03T07:57:08.500Z,35.55316667,-96.74566667,5.38,2.17,ml,95,34,0,0.2,ok,ok2024cixi,2024-02-03T14:01:16.324Z,"9 km SE of Sparks, Oklahoma",earthquake,,0.3,0.25,39,reviewed,ok,ok
 2024-02-03T07:54:51.610Z,37.9790001,-122.0731659,8.79,1.22,md,9,106,0.06579,0.09,nc,nc73998066,2024-02-03T11:47:10.657Z,"0 km SSE of Pacheco, CA",earthquake,0.43,1.18,0.18,7,automatic,nc,nc
@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-03T05:32:11.880Z,19.2726669311523,-155.192672729492,8.48999977111816,2.58,ml,12,169,0.03138,0.230000004,hv,hv74091176,2024-02-03T05:36:51.480Z,"19 km SSE of Volcano, Hawaii",earthquake,0.78,2.1099999,0.27,16,automatic,hv,hv
 2024-02-03T05:29:53.930Z,19.238166809082,-155.397827148438,28.2099990844727,1.85000002,md,33,142,0.09542,0.140000001,hv,hv74091171,2024-02-03T05:31:43.680Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.44,0.680000007,0.109999999,4,automatic,hv,hv
 2024-02-03T05:29:53.395Z,60.3427,-152.8739,128.8,2.2,ml,,,,0.43,ak,ak0241kbfap7,2024-02-03T06:49:23.698Z,"74 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-03T05:24:28.269Z,35.53433333,-96.76383333,3,5.08,ml,64,98,0,0.25,ok,ok2024cish,2024-02-03T14:54:51.007Z,"8 km NW of Prague, Oklahoma",earthquake,,0.7,0.26,30,reviewed,ok,ok
+2024-02-03T05:24:28.269Z,35.53433333,-96.76383333,3,5.08,ml,64,98,0,0.25,ok,ok2024cish,2024-02-03T15:01:25.553Z,"8 km NW of Prague, Oklahoma",earthquake,,0.7,0.26,30,reviewed,ok,ok
 2024-02-03T05:23:58.938Z,31.601,-103.985,5.2761,1.7,ml,15,63,0,0.3,tx,tx2024cish,2024-02-03T05:32:50.676Z,"36 km NNW of Toyah, Texas",earthquake,0,2.172856171,0.2,13,automatic,tx,tx
 2024-02-03T05:20:44.875Z,61.045,-150.2682,41.2,1.7,ml,,,,0.78,ak,ak0241kbdclj,2024-02-03T06:01:14.365Z,"26 km ENE of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-03T05:13:43.838Z,61.0701,-150.2635,42.6,1.6,ml,,,,0.3,ak,ak0241kbbui7,2024-02-03T05:15:34.294Z,"25 km SW of Anchorage, Alaska",earthquake,,0.8,,,automatic,ak,ak
