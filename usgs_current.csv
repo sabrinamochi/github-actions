@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-08T22:40:49.390Z,37.9135017,-122.2993317,0.84,1.51,md,12,75,0.09335,0.06,nc,nc73997665,2024-02-08T22:44:55.344Z,"1 km ESE of El Cerrito, CA",earthquake,0.23,2.16,0.17,8,automatic,nc,nc
+2024-02-08T22:40:49.390Z,37.9135017,-122.2993317,0.84,1.51,md,12,75,0.09335,0.06,nc,nc73997665,2024-02-08T22:50:15.107Z,"1 km ESE of El Cerrito, CA",earthquake,0.23,2.16,0.17,8,automatic,nc,nc
 2024-02-08T22:38:12.450Z,38.8419991,-122.7935028,4.26,1.71,md,7,99,0.01315,0.02,nc,nc73997655,2024-02-08T22:39:48.791Z,"6 km WNW of Cobb, CA",earthquake,2.23,7.45,0.59,2,automatic,nc,nc
 2024-02-08T22:27:10.150Z,39.7666664,-123.5546646,6.03,1.82,md,6,103,0.07031,0.01,nc,nc73997660,2024-02-08T22:40:28.368Z,"11 km NW of Laytonville, CA",earthquake,0.53,1.49,0.06,5,automatic,nc,nc
 2024-02-08T22:18:12.600Z,39.3694992,-122.8953323,5.16,2,md,13,149,0.1804,0.1,nc,nc73997645,2024-02-08T22:19:49.083Z,"7 km SE of Lake Pillsbury, CA",earthquake,0.42,2.14,0.09,6,automatic,nc,nc
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T03:58:16.980Z,38.188,-112.334666666667,6.49,0.92,md,6,122,0.1883,0.15,uu,uu80036881,2024-02-08T14:42:23.490Z,"5 km WNW of Circleville, Utah",earthquake,0.9,3.99,0.284165994855237,4,reviewed,uu,uu
 2024-02-08T03:56:57.909Z,56.302,-149.2968,2.9,3,ml,,,,0.89,ak,ak0241sk2y6s,2024-02-08T09:09:32.777Z,"232 km SE of Chiniak, Alaska",earthquake,,3.5,,,reviewed,ak,ak
 2024-02-08T03:52:54.449Z,62.0465,-150.0239,35.8,1.6,ml,,,,0.86,ak,ak0241sk23ic,2024-02-08T03:54:55.220Z,"15 km SW of Susitna North, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-02-08T03:48:07.354Z,28.5574,-78.9438,9.98,4,mb,34,109,1.968,0.96,us,us7000lxp2,2024-02-08T22:45:33.097Z,"163 km E of Cape Canaveral, Florida",earthquake,6.14,8.485,0.298,3,reviewed,us,us
+2024-02-08T03:48:07.354Z,28.5574,-78.9438,9.98,4,mb,34,109,1.968,0.96,us,us7000lxp2,2024-02-08T22:50:37.067Z,"163 km E of Cape Canaveral, Florida",earthquake,6.14,8.485,0.298,3,reviewed,us,us
 2024-02-08T03:45:19.000Z,46.201,-122.18533333333333,7,0.06,ml,19,61,0.004026,0.18,uw,uw61982241,2024-02-08T20:00:12.790Z,"38 km NNE of Amboy, Washington",earthquake,0.38,0.43,0.10601263560016744,8,reviewed,uw,uw
 2024-02-08T03:38:22.161Z,31.685,-104.41,5.4632,1.6,ml,17,69,0,0.2,tx,tx2024crsi,2024-02-08T16:11:20.993Z,"54 km S of Whites City, New Mexico",earthquake,0.9235404092,0.9946756187,0.1,7,reviewed,tx,tx
 2024-02-08T03:34:41.130Z,38.4933333333333,-112.8405,0.1,-0.15,md,7,112,0.02501,0.06,uu,uu80036876,2024-02-08T14:57:33.420Z,"18 km NE of Milford, Utah",earthquake,0.32,31.61,0.425568045256866,3,reviewed,uu,uu
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T23:16:06.937Z,63.1536,-150.8462,125.2,1.8,ml,,,,0.28,ak,ak0241r87lo5,2024-02-07T23:18:38.368Z,"61 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-07T22:57:35.310Z,35.7606667,-119.0595,17.47,1.58,ml,18,80,0.08263,0.2,ci,ci40663880,2024-02-07T23:07:34.782Z,"17 km E of Delano, CA",earthquake,0.36,0.62,0.165,15,reviewed,ci,ci
 2024-02-07T22:56:28.530Z,48.42283333333334,-123.54683333333334,4.77,0.66,ml,6,217,0.148,0.2,uw,uw61982196,2024-02-08T20:57:18.770Z,"4 km SW of Langford, Canada",explosion,1.64,31.61,0.07233006563088507,4,reviewed,uw,uw
-2024-02-07T22:51:12.637Z,55.1837,-157.5663,8.7,3.9,ml,,,,0.79,ak,ak0241r7tp9o,2024-02-08T02:58:32.636Z,"128 km SE of Perryville, Alaska",earthquake,,2.2,,,reviewed,ak,ak
