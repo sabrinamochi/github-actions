@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-09T16:58:54.761Z,64.4603,-146.8979,10,1.4,ml,,,,0.51,ak,ak0241ufdd6s,2024-02-09T17:00:36.458Z,"7 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-09T16:54:40.660Z,36.876667,-121.5363312,6.21,1.39,md,10,103,0.03735,0.08,nc,nc74000131,2024-02-09T16:57:57.367Z,"4 km N of San Juan Bautista, CA",earthquake,0.5,1.03,0.26,10,automatic,nc,nc
+2024-02-09T16:54:40.660Z,36.876667,-121.5363312,6.21,1.39,md,10,103,0.03735,0.08,nc,nc74000131,2024-02-09T17:05:11.607Z,"4 km N of San Juan Bautista, CA",earthquake,0.5,1.03,0.26,10,automatic,nc,nc
 2024-02-09T16:19:16.484Z,31.688,-104.606,3.419,1.5,ml,16,198,0.1,0.4,tx,tx2024cumy,2024-02-09T17:00:32.129Z,"58 km SSW of Whites City, New Mexico",earthquake,0,2.048023746,0.1,12,automatic,tx,tx
 2024-02-09T16:07:12.755Z,31.048,-103.215,4.7915,1.9,ml,14,78,0.1,0.9,tx,tx2024cumn,2024-02-09T16:25:45.851Z,"25 km SSW of Coyanosa, Texas",earthquake,0,1.339038485,0.3,12,automatic,tx,tx
 2024-02-09T16:04:25.450Z,38.8396683,-122.8345032,1.9,0.76,md,8,100,0.001324,0.03,nc,nc74000126,2024-02-09T16:30:14.404Z,"10 km NW of The Geysers, CA",earthquake,0.48,0.7,0.16,8,automatic,nc,nc
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-09T12:38:56.250Z,17.89,-66.9635,11.25,2.69,md,7,247,0.1102,0.31,pr,pr71439378,2024-02-09T12:55:26.150Z,"10 km SSW of Guánica, Puerto Rico",earthquake,1.85,3,0.110757608958771,5,reviewed,pr,pr
 2024-02-09T12:10:36.090Z,38.8103333,-122.8208313,1.98,1.49,md,32,53,0.006683,0.03,nc,nc74000071,2024-02-09T14:26:10.569Z,"7 km WNW of The Geysers, CA",earthquake,0.17,0.29,0.19,31,automatic,nc,nc
 2024-02-09T12:09:00.070Z,38.8358345,-122.8103333,1.88,0.33,md,7,103,0.01242,0.01,nc,nc74000066,2024-02-09T14:01:10.431Z,"8 km WNW of Cobb, CA",earthquake,0.54,1.86,0.24,9,automatic,nc,nc
-2024-02-09T12:06:21.118Z,44.7378,10.3128,10,4.3,mb,50,74,0.612,0.79,us,us7000lxz4,2024-02-09T16:02:34.645Z,"1 km SW of Alberi, Italy",earthquake,3.46,1.904,0.168,10,reviewed,us,us
+2024-02-09T12:06:21.118Z,44.7378,10.3128,10,4.3,mb,50,74,0.612,0.79,us,us7000lxz4,2024-02-09T17:03:35.642Z,"1 km SW of Alberi, Italy",earthquake,3.46,1.904,0.168,10,reviewed,us,us
 2024-02-09T11:50:24.220Z,33.3066667,-116.249,4.01,1,ml,57,24,0.07523,0.18,ci,ci40664392,2024-02-09T11:56:35.949Z,"13 km ENE of Borrego Springs, CA",earthquake,0.16,0.59,0.117,23,automatic,ci,ci
 2024-02-09T11:44:53.190Z,19.1596660614014,-155.485504150391,32.3400001525879,2.23000002,md,48,124,0.02251,0.129999995,hv,hv74102566,2024-02-09T11:46:50.790Z,"4 km S of Pāhala, Hawaii",earthquake,0.55,0.680000007,0.119999997,10,automatic,hv,hv
 2024-02-09T11:27:52.360Z,19.1669998168945,-155.487503051758,32.0299987792969,2.54999995,md,49,102,0.02663,0.140000001,hv,hv74102551,2024-02-09T11:29:44.150Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.48,0.680000007,0.370000005,9,automatic,hv,hv
@@ -80,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-09T06:00:51.800Z,40.3036652,-124.3763351,6.62,1.71,md,7,292,0.02996,0.06,nc,nc73999956,2024-02-09T08:10:10.324Z,"8 km WSW of Petrolia, CA",earthquake,3.66,2.21,0.07,3,automatic,nc,nc
 2024-02-09T05:27:13.440Z,19.2158336639404,-155.467163085938,32.0699996948242,2.22000003,md,33,183,0.04418,0.119999997,hv,hv74102276,2024-02-09T05:29:26.330Z,"1 km NE of Pāhala, Hawaii",earthquake,0.61,0.860000014,0.180000007,3,automatic,hv,hv
 2024-02-09T05:05:53.420Z,34.5283333,-118.1053333,10.34,0.88,ml,19,55,0.03237,0.11,ci,ci40664336,2024-02-09T05:14:27.210Z,"3 km NNE of Vincent, CA",earthquake,0.18,0.29,0.3,18,automatic,ci,ci
+2024-02-09T05:05:27.390Z,45.7475,-111.963,7.38,1.57,ml,23,46,0.1083,0.1,mb,mb90040133,2024-02-09T17:10:53.970Z,"11 km NNW of Pony, Montana",earthquake,0.23,0.9,0.147899105252503,19,reviewed,mb,mb
 2024-02-09T05:03:34.010Z,38.8311653,-122.8138351,1.46,1,md,17,66,0.008297,0.01,nc,nc73999951,2024-02-09T05:37:15.665Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.49,0.3,16,automatic,nc,nc
 2024-02-09T04:51:36.385Z,28.95,-98.006,6.7251,3.5,ml,15,68,0.1,0.2,tx,tx2024ctqg,2024-02-09T12:13:25.991Z,"3 km SSE of Falls City, Texas",earthquake,1.093997325,2.860335044,0.1,11,reviewed,tx,tx
 2024-02-09T04:50:15.040Z,38.7478333,-122.6998367,1.5,1.12,md,7,139,0.02032,0.03,nc,nc73999941,2024-02-09T06:34:12.810Z,"3 km SSW of Anderson Springs, CA",earthquake,0.5,0.63,0.4,8,automatic,nc,nc
@@ -187,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T17:17:13.270Z,38.8231659,-122.8513336,2.06,0.67,md,10,117,0.006152,0.01,nc,nc73999671,2024-02-08T19:34:11.290Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.8,0.34,11,automatic,nc,nc
 2024-02-08T17:15:17.080Z,19.6673,-66.4756,57,3.73,md,11,275,1.3577,0.37,pr,pr2024039001,2024-02-08T18:01:12.040Z,"133 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,3.83,15.02,0.05,4,reviewed,pr,pr
 2024-02-08T17:12:25.694Z,38.2514,-119.3593,0.8,1.6,ml,5,229.92,0.117,0.2396,nn,nn00873138,2024-02-08T23:24:37.502Z,"11 km W of Bridgeport, California",earthquake,,3.4,0.1,3,reviewed,nn,nn
-2024-02-08T17:09:47.250Z,38.8144989,-122.8280029,2.1,0.76,md,9,89,0.005697,0.02,nc,nc73999661,2024-02-08T18:29:11.812Z,"8 km WNW of The Geysers, CA",earthquake,0.44,1.13,0.32,9,automatic,nc,nc
-2024-02-08T17:08:32.190Z,19.3530006408691,-155.304504394531,2.58999991416931,1.73000002,md,26,58,0.01755,0.119999997,hv,hv74101491,2024-02-08T17:09:57.300Z,"12 km SW of Volcano, Hawaii",earthquake,0.23,0.430000007,0.310000002,20,automatic,hv,hv
