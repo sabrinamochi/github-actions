@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-09T05:27:13.440Z,19.2158336639404,-155.467163085938,32.0699996948242,2.22000003,md,33,183,0.04418,0.119999997,hv,hv74102276,2024-02-09T05:29:26.330Z,"1 km NE of Pāhala, Hawaii",earthquake,0.61,0.860000014,0.180000007,3,automatic,hv,hv
 2024-02-09T05:05:53.420Z,34.5283333,-118.1053333,10.34,0.88,ml,19,55,0.03237,0.11,ci,ci40664336,2024-02-09T05:14:27.210Z,"3 km NNE of Vincent, CA",earthquake,0.18,0.29,0.3,18,automatic,ci,ci
 2024-02-09T05:03:34.010Z,38.8311653,-122.8138351,1.46,1,md,17,66,0.008297,0.01,nc,nc73999951,2024-02-09T05:37:15.665Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.49,0.3,16,automatic,nc,nc
-2024-02-09T04:51:37.274Z,28.9886,-97.9851,10,3.3,mb_lg,18,68,0.204,1.01,us,us7000lxxl,2024-02-09T05:33:28.968Z,"3 km ENE of Falls City, Texas",earthquake,4.05,2.005,0.05,105,reviewed,us,us
+2024-02-09T04:51:37.274Z,28.9886,-97.9851,10,3.3,mb_lg,18,68,0.204,1.01,us,us7000lxxl,2024-02-09T05:42:38.733Z,"3 km ENE of Falls City, Texas",earthquake,4.05,2.005,0.05,105,reviewed,us,us
 2024-02-09T04:50:15.040Z,38.7478333,-122.6998367,1.5,1.12,md,7,139,0.02032,0.03,nc,nc73999941,2024-02-09T05:12:14.536Z,"3 km SSW of Anderson Springs, CA",earthquake,0.5,0.63,0.4,8,automatic,nc,nc
 2024-02-09T04:43:27.880Z,19.3081665039062,-155.246505737305,5.92999982833862,1.70000005,md,44,92,0.03383,0.170000002,hv,hv74102226,2024-02-09T04:45:02.650Z,"14 km S of Volcano, Hawaii",earthquake,0.35,0.569999993,0.239999995,15,automatic,hv,hv
 2024-02-09T04:34:30.380Z,38.8373337,-122.7913361,2.16,0.23,md,8,78,0.001324,0.01,nc,nc73999926,2024-02-09T04:52:14.422Z,"6 km WNW of Cobb, CA",earthquake,0.53,0.85,0.11,9,automatic,nc,nc
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T13:10:52.496Z,39.4132,-119.6949,8.7,1,ml,10,128.51,0.055,0.1765,nn,nn00873098,2024-02-08T17:30:27.842Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.9,0.14,2,reviewed,nn,nn
 2024-02-08T13:05:22.403Z,63.3298,-151.5271,0,2,ml,,,,0.95,ak,ak0241spqafk,2024-02-08T13:08:22.236Z,"25 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-08T13:01:02.310Z,33.6473333,-116.7136667,13.07,1.24,ml,22,56,0.0396,0.1,ci,ci40664072,2024-02-08T19:03:55.650Z,"10 km S of Idyllwild, CA",earthquake,0.27,0.48,0.127,31,reviewed,ci,ci
-2024-02-08T13:01:01.850Z,33.6531667,-116.7101667,13.71,1.37,ml,16,89,0.03415,0.07,ci,ci37622372,2024-02-08T19:07:20.254Z,"10 km S of Idyllwild, CA",earthquake,0.28,0.4,0.204,4,reviewed,ci,ci
+2024-02-08T13:01:01.850Z,33.6531667,-116.7101667,13.71,1.37,ml,16,89,0.03415,0.07,ci,ci37622372,2024-02-09T05:49:39.398Z,"10 km S of Idyllwild, CA",earthquake,0.28,0.4,0.204,4,reviewed,ci,ci
 2024-02-08T12:54:11.148Z,60.5982,-151.8196,73.9,1.1,ml,,,,0.51,ak,ak0241spfc1i,2024-02-08T12:56:25.228Z,"27 km W of Salamatof, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-02-08T12:53:36.479Z,40.0905,-119.5948,13,0.4,ml,3,209.78,0.132,0.1968,nn,nn00873133,2024-02-08T23:05:58.604Z,"15 km N of Sutcliffe, Nevada",earthquake,,8.8,0,1,reviewed,nn,nn
 2024-02-08T12:30:09.750Z,59.0336,-153.9544,6.2,2.1,ml,,,,0.38,ak,ak0241spa6r3,2024-02-08T12:32:03.291Z,"65 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T06:10:36.090Z,53.389,-168.210833333333,0.6,-0.4,ml,4,258,,0.06,av,av91130998,2024-02-08T19:59:29.590Z,"66 km NE of Nikolski, Alaska",earthquake,1.16,1.19,0.109535985325702,4,reviewed,av,av
 2024-02-08T06:08:54.200Z,19.3626670837402,-155.283172607422,1.12999999523163,2.31999993,md,15,65,0.02061,0.100000001,hv,hv74100956,2024-02-08T06:10:49.780Z,"10 km SSW of Volcano, Hawaii",earthquake,0.23,0.389999986,0.560000002,12,automatic,hv,hv
 2024-02-08T06:05:43.860Z,41.6226666666667,-112.046166666667,6.45,1.66,ml,24,72,0.08584,0.24,uu,uu80036896,2024-02-08T23:21:31.210Z,"3 km ESE of Honeyville, Utah",earthquake,0.42,1.07,0.143164752105099,5,reviewed,uu,uu
-2024-02-08T05:43:39.820Z,57.0465,-135.642166666667,8.3,-0.32,ml,4,172,,0.1,av,av91130993,2024-02-08T19:54:27.370Z,"18 km W of Sitka, Alaska",earthquake,1.37,0.77,0.245297710593212,4,reviewed,av,av
