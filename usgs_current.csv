@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-11T20:24:01.850Z,33.2456665,-115.659668,2.25,1.5,ml,18,64,0.06969,0.22,ci,ci40665992,2024-02-11T20:26:25.699Z,"13 km W of Niland, CA",earthquake,0.46,0.87,0.318,6,automatic,ci,ci
+2024-02-11T20:24:01.950Z,33.2421667,-115.657,3.49,1.33,ml,36,58,0.06557,0.2,ci,ci40665992,2024-02-11T20:30:15.481Z,"13 km W of Niland, CA",earthquake,0.23,0.56,0.185,28,automatic,ci,ci
 2024-02-11T20:21:48.058Z,60.1097,-152.8442,98.3,1.2,ml,,,,0.34,ak,ak0241xslul1,2024-02-11T20:23:28.209Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-11T19:52:17.330Z,38.8106651,-122.8195038,3.75,0.8,md,11,133,0.007768,0.04,nc,nc74001251,2024-02-11T20:03:10.460Z,"7 km NW of The Geysers, CA",earthquake,0.43,0.89,0.08,11,automatic,nc,nc
 2024-02-11T19:43:41.379Z,57.9826,-153.8632,36.3,2,ml,,,,0.45,ak,ak0241xs547t,2024-02-11T19:46:48.274Z,"49 km N of Larsen Bay, Alaska",earthquake,,6.7,,,automatic,ak,ak
@@ -88,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T12:12:58.547Z,35.54636383,-96.75819397,3.399739504,2.05,ml,26,52.93566895,0.01954256371,0.3698406893,ok,ok2024cxvu,2024-02-11T19:22:34.630Z,"8 km SE of Sparks, Oklahoma",earthquake,2.119543561,1.932549015,0.24,20,automatic,ok,ok
 2024-02-11T12:11:11.234Z,36.8563,-117.4598,0,0.7,ml,8,223.58,0.405,0.3499,nn,nn00873254,2024-02-11T12:13:53.887Z,"55 km NE of Keeler, California",earthquake,,57.4,0.11,4,automatic,nn,nn
 2024-02-11T11:47:52.172Z,61.395,-150.1078,32.7,1.6,ml,,,,0.56,ak,ak0241xnej2p,2024-02-11T11:51:05.488Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-02-11T11:36:45.160Z,54.5456666666667,-163.545833333333,12.94,1.89,ml,11,209,,0.17,av,av92202871,2024-02-11T20:29:25.650Z,"35 km SSW of False Pass, Alaska",earthquake,0.96,0.66,0.259020400394305,13,reviewed,av,av
 2024-02-11T11:35:34.100Z,38.7923317,-122.8085022,2.83,1.08,md,19,99,0.005833,0.03,nc,nc74001111,2024-02-11T12:10:14.680Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
 2024-02-11T11:34:10.140Z,38.7869987,-122.7454987,1.43,0.97,md,7,87,0.007818,0.01,nc,nc74001106,2024-02-11T11:59:18.593Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.9,0.19,8,automatic,nc,nc
 2024-02-11T11:28:51.103Z,60.2535,-141.1635,8.8,1.9,ml,,,,0.73,ak,ak0241xnagdy,2024-02-11T11:31:02.377Z,"112 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
