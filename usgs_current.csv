@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T15:35:34.550Z,32.7915,-115.563,11.02,1.78,ml,37,65,0.04804,0.25,ci,ci40667968,2024-02-12T15:46:44.410Z,"1 km NW of El Centro, CA",earthquake,0.29,0.47,0.285,28,automatic,ci,ci
 2024-02-12T15:31:21.729Z,9.9766,126.2624,28.125,4.7,mb,81,102,2.966,0.75,us,us7000lypi,2024-02-12T17:17:41.040Z,"21 km NE of Pilar, Philippines",earthquake,9.39,4.388,0.062,80,reviewed,us,us
 2024-02-12T15:25:14.430Z,32.7738333,-115.5561667,2.91,1.47,ml,28,97,0.03957,0.25,ci,ci40667952,2024-02-12T15:40:45.663Z,"2 km S of El Centro, CA",earthquake,0.32,0.51,0.254,29,automatic,ci,ci
-2024-02-12T15:24:49.300Z,38.8144989,-122.8061676,1.73,1.08,md,22,41,0.009393,0.02,nc,nc74001736,2024-02-12T15:47:14.644Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.43,0.05,22,automatic,nc,nc
+2024-02-12T15:24:49.300Z,38.8144989,-122.8061676,1.73,1.08,md,22,41,0.009393,0.02,nc,nc74001736,2024-02-12T17:23:18.207Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.43,0.05,22,automatic,nc,nc
 2024-02-12T15:18:29.120Z,38.8311653,-122.8144989,1.87,0.77,md,11,79,0.008494,0.01,nc,nc74001731,2024-02-12T17:10:10.132Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.76,0.13,12,automatic,nc,nc
 2024-02-12T15:17:47.780Z,32.7861667,-115.5506667,9.41,1.45,ml,29,65,0.05084,0.25,ci,ci40667944,2024-02-12T15:23:59.174Z,"1 km ESE of El Centro, CA",earthquake,0.4,0.66,0.269,23,automatic,ci,ci
 2024-02-12T15:14:06.448Z,31.66,-104.368,3.9094,2.1,ml,17,70,0.1,0.4,tx,tx2024czxh,2024-02-12T15:47:25.436Z,"57 km S of Whites City, New Mexico",earthquake,0,1.343922537,0.2,13,automatic,tx,tx
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T14:23:40.490Z,33.5796667,-116.608,13.66,0.7,ml,31,42,0.02101,0.12,ci,ci40667776,2024-02-12T15:10:53.853Z,"7 km ENE of Anza, CA",earthquake,0.21,0.31,0.164,16,reviewed,ci,ci
 2024-02-12T14:21:38.180Z,32.7795,-115.5533333,4.49,1.5,ml,31,66,0.04483,0.27,ci,ci40667760,2024-02-12T14:38:47.905Z,"1 km SSE of El Centro, CA",earthquake,0.33,0.81,0.223,28,automatic,ci,ci
 2024-02-12T14:20:54.500Z,19.3834991455078,-155.024002075195,1.28999996185303,2.57,ml,33,140,0.05177,0.360000014,hv,hv74108586,2024-02-12T14:25:34.810Z,"14 km SE of Eden Roc, Hawaii",earthquake,0.53,0.550000012,1.83,3,automatic,hv,hv
-2024-02-12T14:15:21.720Z,32.7835,-115.5526667,11.69,3.48,mw,57,36,0.04781,0.26,ci,ci40667752,2024-02-12T17:22:47.151Z,"1 km SE of El Centro, CA",earthquake,0.23,0.37,,4,reviewed,ci,ci
+2024-02-12T14:15:21.720Z,32.7835,-115.5526667,11.69,3.48,mw,57,36,0.04781,0.26,ci,ci40667752,2024-02-12T17:23:47.060Z,"1 km SE of El Centro, CA",earthquake,0.23,0.37,,4,reviewed,ci,ci
 2024-02-12T14:14:23.750Z,32.7885,-115.5518333,10.3,2.19,ml,40,95,0.05175,0.26,ci,ci40667744,2024-02-12T15:10:01.045Z,"1 km E of El Centro, CA",earthquake,0.29,0.54,0.199,27,automatic,ci,ci
 2024-02-12T14:11:07.540Z,38.8363342,-122.7919998,2.29,0.76,md,11,78,0.002442,0.01,nc,nc74001721,2024-02-12T16:30:09.893Z,"6 km WNW of Cobb, CA",earthquake,0.35,0.48,0.21,11,automatic,nc,nc
 2024-02-12T14:09:42.700Z,32.7858333,-115.5531667,11.4,2.33,ml,46,47,0.04908,0.26,ci,ci40667736,2024-02-12T14:33:20.102Z,"0 km ESE of El Centro, CA",earthquake,0.25,0.4,0.237,26,automatic,ci,ci
@@ -433,4 +433,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T17:40:08.250Z,19.2096672058105,-155.472839355469,34.2200012207031,2.24000001,md,45,93,0.04575,0.129999995,hv,hv74106916,2024-02-11T17:42:28.200Z,"0 km NE of Pāhala, Hawaii",earthquake,0.48,0.600000024,0.189999998,7,automatic,hv,hv
 2024-02-11T17:30:59.765Z,63.0688,-149.3629,53.8,1.9,ml,,,,0.92,ak,ak0241xqvi37,2024-02-11T17:34:05.698Z,"41 km SSW of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-02-11T17:27:06.290Z,38.821167,-122.7904968,0.94,1.14,md,21,59,0.011,0.03,nc,nc74001226,2024-02-11T19:26:12.218Z,"6 km NNW of The Geysers, CA",earthquake,0.18,0.37,0.2,24,automatic,nc,nc
-2024-02-11T17:23:46.720Z,40.4411667,-122.1266667,18.75,1.58,md,15,64,0.07296,0.14,nc,nc74001221,2024-02-11T21:38:12.087Z,"14 km SSE of Millville, CA",earthquake,0.57,0.97,0.257,16,reviewed,nc,nc
