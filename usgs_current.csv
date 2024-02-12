@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-12T18:29:26.030Z,38.8214989,-122.8111649,2.69,1.3,md,29,39,0.002076,0.02,nc,nc74001826,2024-02-12T18:31:01.407Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.36,0.21,28,automatic,nc,nc
+2024-02-12T18:29:26.030Z,38.8214989,-122.8111649,2.69,1.3,md,29,39,0.002076,0.02,nc,nc74001826,2024-02-12T18:41:11.669Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.36,0.21,28,automatic,nc,nc
 2024-02-12T18:26:31.800Z,57.566,-155.7777,79.7,2.5,ml,,,,0.2,ak,ak0241zezd70,2024-02-12T18:34:33.040Z,"79 km W of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-02-12T18:15:33.500Z,38.7371674,-122.9138336,6.2,1.37,md,21,117,0.06138,0.03,nc,nc74001816,2024-02-12T18:29:11.710Z,"12 km SE of Cloverdale, CA",earthquake,0.3,1.09,0.17,19,automatic,nc,nc
 2024-02-12T18:12:26.757Z,31.655,-104.398,6.0999,3.5,ml,27,61,0,0.2,tx,tx2024dade,2024-02-12T18:25:53.543Z,"57 km S of Whites City, New Mexico",earthquake,0.7707657448,0.7140237044,0.2,21,reviewed,tx,tx
@@ -109,7 +109,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T13:05:06.580Z,19.2478,-155.3773,10.091,3.3,ml,24,144,0.082,0.34,us,us7000lymy,2024-02-12T15:23:30.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.79,2.653,0.053,46,reviewed,us,us
 2024-02-12T13:03:57.461Z,62.9962,-151.1115,88.6,1.4,ml,,,,0.51,ak,ak0241zbvboi,2024-02-12T13:06:26.719Z,"58 km NNW of Petersville, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-02-12T12:57:45.670Z,38.8338318,-122.8106689,1.89,0.71,md,8,129,0.01043,0.01,nc,nc74001686,2024-02-12T15:18:15.477Z,"8 km W of Cobb, CA",earthquake,0.66,1.55,0.42,8,automatic,nc,nc
-2024-02-12T12:56:11.924Z,31.581,-104.542,3.0599,1.6,ml,16,159,0.1,0.3,tx,tx2024czst,2024-02-12T13:29:50.365Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.700063281,0.1,12,automatic,tx,tx
 2024-02-12T12:53:57.660Z,32.8305,-115.5953333,12.27,1.3,ml,22,58,0.06851,0.22,ci,ci40667464,2024-02-12T13:05:16.740Z,"3 km SW of Imperial, CA",earthquake,0.36,0.6,0.239,18,automatic,ci,ci
 2024-02-12T12:53:44.250Z,38.7991676,-122.7511673,3.57,0.25,md,7,175,0.006833,0.03,nc,nc74001681,2024-02-12T15:10:10.437Z,"2 km N of The Geysers, CA",earthquake,0.81,1.31,0.1,7,automatic,nc,nc
 2024-02-12T12:53:39.880Z,19.2621669769287,-155.324005126953,7.15000009536743,2.0999999,md,24,153,0.03733,0.170000002,hv,hv74108481,2024-02-12T12:55:19.770Z,"17 km ENE of Pāhala, Hawaii",earthquake,0.52,0.75999999,1.00999999,5,automatic,hv,hv
@@ -284,7 +283,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T08:39:19.270Z,32.800499,-115.5595016,10.33,3.49,ml,27,59,0.05717,0.17,ci,ci40666328,2024-02-12T17:22:18.040Z,"1 km N of El Centro, CA",earthquake,0.41,0.76,0.142,5,automatic,ci,ci
 2024-02-12T08:39:07.577Z,59.809,-153.2043,110.5,1.3,ml,,,,0.48,ak,ak0241z93rl1,2024-02-12T08:50:45.550Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-12T08:38:45.276Z,28.959,-98.013,5.4534,2.9,ml,25,71,0,0.2,tx,tx2024czkh,2024-02-12T09:16:27.040Z,"2 km S of Falls City, Texas",earthquake,1.171071123,2.365168256,0.1,30,reviewed,tx,tx
-2024-02-12T08:38:34.290Z,32.8161667,-115.5866667,13.64,4.05,mw,66,38,0.05836,0.34,ci,ci40666320,2024-02-12T17:26:27.109Z,"4 km SSW of Imperial, CA",earthquake,0.29,0.59,,5,reviewed,ci,ci
+2024-02-12T08:38:34.290Z,32.8161667,-115.5866667,13.64,4.05,mw,66,38,0.05836,0.34,ci,ci40666320,2024-02-12T17:27:06.354Z,"4 km SSW of Imperial, CA",earthquake,0.29,0.59,,5,reviewed,ci,ci
 2024-02-12T08:38:25.950Z,32.809,-115.58,14.28,3.56,ml,52,38,0.05556,0.3,ci,ci40666312,2024-02-12T18:16:37.611Z,"3 km NW of El Centro, CA",earthquake,0.34,0.59,0.231,13,reviewed,ci,ci
 2024-02-12T08:38:13.420Z,32.8196667,-115.5863333,12.1,3.49,ml,32,49,0.06155,0.32,ci,ci40666304,2024-02-12T18:38:03.310Z,"4 km SSW of Imperial, CA",earthquake,0.43,0.93,0.132,12,reviewed,ci,ci
 2024-02-12T08:37:47.540Z,32.8068333,-115.5643333,11.18,3.63,ml,25,62,0.05436,0.21,ci,ci40666296,2024-02-12T17:47:04.792Z,"2 km NNW of El Centro, CA",earthquake,0.31,0.5,0.128,13,reviewed,ci,ci
