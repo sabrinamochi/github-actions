@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-12T22:25:52.330Z,32.7849998,-115.55233,7.02,1.78,ml,24,104,0.04903,0.25,ci,ci40668472,2024-02-12T22:27:58.548Z,"1 km ESE of El Centro, CA",earthquake,0.52,1.08,0.349,15,automatic,ci,ci
+2024-02-12T22:29:18.210Z,35.7118333,-117.5708333,5.78,0.57,ml,21,71,0.1285,0.14,ci,ci40668488,2024-02-12T22:34:45.850Z,"14 km NE of Ridgecrest, CA",earthquake,0.25,1.35,0.171,6,automatic,ci,ci
+2024-02-12T22:25:52.110Z,32.7788333,-115.5575,3.73,1.72,ml,30,66,0.05509,0.22,ci,ci40668472,2024-02-12T22:36:22.450Z,"1 km S of El Centro, CA",earthquake,0.24,0.52,0.303,28,automatic,ci,ci
 2024-02-12T22:16:14.156Z,66.2157,-151.0081,0,3.2,ml,,,,0.93,ak,ak0241zhax19,2024-02-12T22:19:03.579Z,"81 km SSE of Bettles, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-12T22:15:49.960Z,32.7831667,-115.5528333,10.95,2.3,ml,44,52,0.04749,0.25,ci,ci40668464,2024-02-12T22:26:17.220Z,"1 km SE of El Centro, CA",earthquake,0.25,0.44,0.236,27,automatic,ci,ci
 2024-02-12T22:09:54.430Z,32.7716667,-115.5321667,9.86,1.43,ml,18,99,0.05668,0.18,ci,ci40668456,2024-02-12T22:16:18.741Z,"3 km SE of El Centro, CA",earthquake,0.34,0.89,0.399,22,automatic,ci,ci
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T20:13:34.510Z,31.702,-104.474,5.2318,2,ml,19,76,0,0.2,tx,tx2024dahe,2024-02-12T20:26:00.125Z,"53 km S of Whites City, New Mexico",earthquake,0.8262125658,0.7496160246,0.1,15,reviewed,tx,tx
 2024-02-12T20:12:26.860Z,35.0303333,-117.6796667,-0.81,1.58,ml,35,38,0.09669,0.24,ci,ci40668264,2024-02-12T20:19:28.037Z,"4 km NW of Boron, CA",earthquake,0.32,0.59,0.141,32,automatic,ci,ci
 2024-02-12T20:11:56.860Z,33.8783333,-117.0343333,1.79,1.27,ml,52,46,0.06199,0.2,ci,ci40668256,2024-02-12T20:18:17.647Z,"8 km SW of Beaumont, CA",earthquake,0.22,0.52,0.138,34,automatic,ci,ci
-2024-02-12T20:10:44.880Z,38.8260002,-122.8131638,1.13,1.11,md,26,38,0.003549,0.02,nc,nc74001866,2024-02-12T22:02:10.949Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.35,0.16,25,automatic,nc,nc
+2024-02-12T20:10:44.880Z,38.8260002,-122.8131638,1.13,1.11,md,26,38,0.003549,0.02,nc,nc74001866,2024-02-12T22:34:10.141Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.35,0.16,25,automatic,nc,nc
 2024-02-12T20:09:00.370Z,34.9826667,-116.9486667,2.97,1.06,ml,17,53,0.1142,0.15,ci,ci40668240,2024-02-12T21:45:21.214Z,"12 km NE of Barstow, CA",earthquake,0.22,1.05,0.195,5,reviewed,ci,ci
 2024-02-12T20:01:31.340Z,32.8068333,-115.5891667,11.23,1.72,ml,36,61,0.04931,0.26,ci,ci40668224,2024-02-12T20:14:11.163Z,"4 km NW of El Centro, CA",earthquake,0.33,0.54,0.238,30,automatic,ci,ci
 2024-02-12T19:56:31.445Z,75.1575,111.2393,10,4.8,mb,55,43,6.146,0.61,us,us7000lys4,2024-02-12T20:23:41.040Z,"near the coast of central Siberia, Russia",earthquake,9.2,1.901,0.054,106,reviewed,us,us
@@ -455,4 +456,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T22:45:31.030Z,38.8136673,-122.8306656,1.85,0.27,md,10,100,0.004931,0.01,nc,nc74001341,2024-02-11T23:10:12.673Z,"8 km WNW of The Geysers, CA",earthquake,0.35,0.78,0.13,10,automatic,nc,nc
 2024-02-11T22:43:24.640Z,33.9418333,-116.845,17.37,1.07,ml,45,41,0.09808,0.15,ci,ci40666048,2024-02-12T15:30:08.946Z,"3 km ENE of Banning, CA",earthquake,0.16,0.41,0.17,27,reviewed,ci,ci
 2024-02-11T22:41:03.103Z,66.4294,-148.2397,0,1.9,ml,,,,1.24,ak,ak0241xtwwna,2024-02-11T22:43:09.058Z,"38 km WNW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-11T22:33:35.240Z,37.7464981,-122.5568314,8.84,1.81,md,22,186,0.08112,0.05,nc,nc74001336,2024-02-12T01:12:15.403Z,"5 km WNW of San Francisco Zoo, CA",earthquake,0.41,0.74,0.19,18,automatic,nc,nc
