@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-12T11:17:54.830Z,32.8014984,-115.5713348,10.93,1.64,ml,30,62,0.05354,0.27,ci,ci40667264,2024-02-12T11:20:17.938Z,"2 km NW of El Centro, CA",earthquake,0.41,0.64,0.302,7,automatic,ci,ci
 2024-02-12T11:11:51.300Z,32.800499,-115.6028366,3.12,1.56,ml,22,114,0.03827,0.19,ci,ci40667256,2024-02-12T11:14:06.574Z,"4 km WNW of El Centro, CA",earthquake,0.44,0.4,0.261,11,automatic,ci,ci
 2024-02-12T11:11:28.260Z,32.8073349,-115.5668335,10.64,1.28,ml,15,112,0.0619,0.19,ci,ci40667240,2024-02-12T11:13:30.738Z,"2 km NNW of El Centro, CA",earthquake,0.56,1.04,0.053,4,automatic,ci,ci
 2024-02-12T11:07:25.690Z,35.5940018,-117.4300003,5.84,1.06,ml,11,88,0.02729,0.14,ci,ci40667232,2024-02-12T11:09:30.065Z,"19 km S of Searles Valley, CA",earthquake,0.61,0.93,0.493,2,automatic,ci,ci
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T10:23:26.010Z,32.8078346,-115.5241699,15.72,1.83,ml,14,130,0.06521,0.33,ci,ci40667024,2024-02-12T11:02:28.120Z,"4 km NE of El Centro, CA",earthquake,1.48,1.27,0.138,5,automatic,ci,ci
 2024-02-12T10:23:16.230Z,19.1936664581299,-155.468673706055,34.1800003051758,2.04999995,md,45,97,0.03855,0.119999997,hv,hv74108321,2024-02-12T10:25:20.880Z,"1 km SE of Pāhala, Hawaii",earthquake,0.55,0.670000017,0.25999999,19,automatic,hv,hv
 2024-02-12T10:19:40.380Z,19.3419990539551,-155.188827514648,4.57000017166138,1.80999994,md,29,86,0.04042,0.189999998,hv,hv74108316,2024-02-12T10:21:32.730Z,"12 km SSE of Volcano, Hawaii",earthquake,0.45,0.939999998,0.25,17,automatic,hv,hv
-2024-02-12T10:18:36.030Z,32.7871666,-115.5543365,15.75,3.55,mlr,82,35,0.04932,0.3,ci,ci40667016,2024-02-12T10:52:45.345Z,"0 km ESE of El Centro, CA",earthquake,0.29,0.42,0.323,18,reviewed,ci,ci
+2024-02-12T10:18:36.030Z,32.7871666,-115.5543365,15.75,3.55,mlr,82,35,0.04932,0.3,ci,ci40667016,2024-02-12T11:20:41.610Z,"0 km ESE of El Centro, CA",earthquake,0.29,0.42,0.323,18,reviewed,ci,ci
 2024-02-12T10:17:01.480Z,32.7943344,-115.5623322,11.11,1.37,ml,18,118,0.05721,0.3,ci,ci40667008,2024-02-12T10:41:47.151Z,"1 km NNW of El Centro, CA",earthquake,0.73,1.11,0.269,9,automatic,ci,ci
 2024-02-12T10:14:42.260Z,32.8153343,-115.5758362,9.93,1.29,ml,17,107,0.0627,0.19,ci,ci40667000,2024-02-12T10:17:03.539Z,"4 km NNW of El Centro, CA",earthquake,0.52,0.92,0.257,6,automatic,ci,ci
 2024-02-12T10:14:15.580Z,32.8033333,-115.5749969,10.62,1.21,ml,13,132,0.05417,0.23,ci,ci40666992,2024-02-12T10:16:21.759Z,"2 km NW of El Centro, CA",earthquake,0.62,1.24,0.272,9,automatic,ci,ci
@@ -344,4 +345,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T11:35:34.100Z,38.7923317,-122.8085022,2.83,1.08,md,19,99,0.005833,0.03,nc,nc74001111,2024-02-11T12:10:14.680Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
 2024-02-11T11:34:10.140Z,38.7869987,-122.7454987,1.43,0.97,md,7,87,0.007818,0.01,nc,nc74001106,2024-02-11T11:59:18.593Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.9,0.19,8,automatic,nc,nc
 2024-02-11T11:28:51.103Z,60.2535,-141.1635,8.8,1.9,ml,,,,0.73,ak,ak0241xnagdy,2024-02-11T11:31:02.377Z,"112 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-11T11:20:05.110Z,38.8326683,-122.8131638,1.5,0.27,md,8,89,0.009569,0.02,nc,nc74001096,2024-02-11T11:37:14.457Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.11,0.16,9,automatic,nc,nc
