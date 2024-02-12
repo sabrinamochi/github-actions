@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-12T18:53:21.590Z,33.2723333,-116.7761667,12.86,0.77,ml,34,33,0.03908,0.14,ci,ci40668152,2024-02-12T18:59:18.207Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.45,0.113,24,automatic,ci,ci
 2024-02-12T18:50:56.740Z,19.1536674499512,-155.483840942383,33.1500015258789,2.76999998,md,32,164,0.02061,0.129999995,hv,hv74108826,2024-02-12T18:52:40.780Z,"5 km S of Pāhala, Hawaii",earthquake,0.75,0.649999976,0.610000014,3,automatic,hv,hv
-2024-02-12T18:50:21.330Z,32.7881667,-115.549,13.59,2.03,ml,40,65,0.05323,0.27,ci,ci40668144,2024-02-12T18:56:50.192Z,"1 km E of El Centro, CA",earthquake,0.31,0.58,0.264,26,automatic,ci,ci
+2024-02-12T18:50:21.330Z,32.7881667,-115.549,13.59,2.03,ml,40,65,0.05323,0.27,ci,ci40668144,2024-02-12T19:00:51.360Z,"1 km E of El Centro, CA",earthquake,0.31,0.58,0.264,26,automatic,ci,ci
 2024-02-12T18:47:57.640Z,38.7931671,-122.7588348,0.06,1.38,md,15,83,0.02273,0.03,nc,nc74001836,2024-02-12T18:49:31.460Z,"2 km N of The Geysers, CA",earthquake,0.21,0.83,0.13,16,automatic,nc,nc
 2024-02-12T18:43:46.386Z,60.4481,-151.9888,83.6,2.1,ml,,,,0.6,ak,ak0241zf31hq,2024-02-12T18:46:23.960Z,"38 km W of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-12T18:29:26.030Z,38.8214989,-122.8111649,2.69,1.3,md,29,39,0.002076,0.02,nc,nc74001826,2024-02-12T18:41:11.669Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.36,0.21,28,automatic,nc,nc
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T14:56:54.680Z,19.162166595459,-155.474838256836,33.6599998474121,1.96000004,md,36,105,0.01378,0.109999999,hv,hv74108626,2024-02-12T14:58:40.530Z,"4 km S of Pāhala, Hawaii",earthquake,0.66,0.74000001,0.180000007,5,automatic,hv,hv
 2024-02-12T14:56:11.780Z,32.7933333,-115.5678333,9.98,1.37,ml,25,63,0.05273,0.23,ci,ci40667896,2024-02-12T15:06:58.701Z,"1 km WNW of El Centro, CA",earthquake,0.39,0.61,0.24,23,automatic,ci,ci
 2024-02-12T14:53:25.140Z,32.7885,-115.5755,4.09,1.4,ml,10,142,0.0447,0.12,ci,ci40667888,2024-02-12T15:05:19.129Z,"2 km W of El Centro, CA",earthquake,0.33,1.31,0.238,24,automatic,ci,ci
-2024-02-12T14:52:11.444Z,19.2299,-155.3655,10,4.1,ml,23,159,0.086,0.31,us,us7000lypa,2024-02-12T18:51:14.811Z,"12 km ENE of Pāhala, Hawaii",earthquake,1.02,1.722,0.056,42,reviewed,us,us
+2024-02-12T14:52:11.444Z,19.2299,-155.3655,10,4.1,ml,23,159,0.086,0.31,us,us7000lypa,2024-02-12T19:01:10.690Z,"12 km ENE of Pāhala, Hawaii",earthquake,1.02,1.722,0.056,42,reviewed,us,us
 2024-02-12T14:46:07.840Z,32.7806667,-115.548,10.9,2.55,ml,50,53,0.04911,0.28,ci,ci40667880,2024-02-12T15:04:26.690Z,"1 km SE of El Centro, CA",earthquake,0.26,0.49,0.144,26,automatic,ci,ci
 2024-02-12T14:45:37.680Z,32.7913333,-115.566,11.14,2.04,ml,40,51,0.04652,0.28,ci,ci40667872,2024-02-12T15:02:57.138Z,"1 km WNW of El Centro, CA",earthquake,0.32,0.51,0.265,27,automatic,ci,ci
 2024-02-12T14:43:24.100Z,32.808,-115.6011667,4.51,2.66,ml,40,46,0.04573,0.32,ci,ci40667864,2024-02-12T15:02:04.677Z,"5 km WNW of El Centro, CA",earthquake,0.33,0.89,0.143,16,automatic,ci,ci
@@ -442,4 +442,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T19:16:03.230Z,17.849,-66.0708333333333,12.5,2.42,md,7,232,0.1208,0.08,pr,pr71439578,2024-02-11T19:43:55.070Z,"12 km S of Arroyo, Puerto Rico",earthquake,0.72,0.46,0.0661134856039118,6,reviewed,pr,pr
 2024-02-11T19:09:02.450Z,19.1811676025391,-155.502670288086,36.560001373291,2.25,md,51,83,0.04611,0.119999997,hv,hv74106996,2024-02-11T19:10:57.240Z,"3 km SW of Pāhala, Hawaii",earthquake,0.47,0.720000029,0.310000002,17,automatic,hv,hv
 2024-02-11T19:06:06.356Z,36.8301,-117.5004,0,1.6,ml,23,191.45,0.656,0.3785,nn,nn00873269,2024-02-11T19:08:45.035Z,"50 km NE of Keeler, California",earthquake,,36.9,0.2,15,automatic,nn,nn
-2024-02-11T19:01:34.699Z,31.617,-103.968,6.6843,2.3,ml,16,67,0,0.1,tx,tx2024cyjh,2024-02-12T18:52:33.652Z,"36 km WSW of Mentone, Texas",earthquake,0.3435377181,0.3971095709,0.2,6,reviewed,tx,tx
