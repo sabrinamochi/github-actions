@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-12T15:55:30.980Z,32.7921677,-115.557663,11.09,1.9,ml,32,64,0.05123,0.27,ci,ci40667992,2024-02-12T15:57:36.114Z,"0 km N of El Centro, CA",earthquake,0.48,0.61,0.335,23,automatic,ci,ci
-2024-02-12T15:52:01.030Z,36.8588333,-121.3919983,6.23,1.35,md,12,83,0.0827,0.1,nc,nc74001751,2024-02-12T15:57:07.513Z,"1 km NNE of Hollister, CA",earthquake,0.38,1.44,0.22,12,automatic,nc,nc
+2024-02-12T15:55:30.950Z,32.7765,-115.5493333,10.43,1.88,ml,40,53,0.04584,0.27,ci,ci40667992,2024-02-12T16:02:12.644Z,"2 km SSE of El Centro, CA",earthquake,0.29,0.53,0.268,29,automatic,ci,ci
+2024-02-12T15:52:01.030Z,36.8588333,-121.3919983,6.23,1.35,md,12,83,0.0827,0.1,nc,nc74001751,2024-02-12T16:01:09.718Z,"1 km NNE of Hollister, CA",earthquake,0.38,1.44,0.22,12,automatic,nc,nc
 2024-02-12T15:49:19.170Z,19.204833984375,-155.379501342773,31.3199996948242,2.19000006,md,40,160,0.09227,0.140000001,hv,hv74108681,2024-02-12T15:51:09.910Z,"10 km E of Pāhala, Hawaii",earthquake,0.57,0.720000029,0.200000003,11,automatic,hv,hv
-2024-02-12T15:44:14.270Z,38.793499,-122.7823334,1.33,0.88,md,14,94,0.01701,0.02,nc,nc74001746,2024-02-12T15:56:10.694Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.52,0.2,15,automatic,nc,nc
-2024-02-12T15:43:40.640Z,36.73933333,-98.037,7.26,2.25,ml,93,81,0.08548322528,0.23,ok,ok2024czyg,2024-02-12T15:56:10.952Z,"8 km N of Nash, Oklahoma",earthquake,,0.5,0.18,37,reviewed,ok,ok
+2024-02-12T15:44:14.270Z,38.793499,-122.7823334,1.33,0.88,md,14,94,0.01701,0.02,nc,nc74001746,2024-02-12T16:01:10.717Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.52,0.2,15,automatic,nc,nc
+2024-02-12T15:43:40.640Z,36.73933333,-98.037,7.26,2.25,ml,93,81,0.08548322528,0.23,ok,ok2024czyg,2024-02-12T16:01:59.480Z,"8 km N of Nash, Oklahoma",earthquake,,0.5,0.18,37,reviewed,ok,ok
 2024-02-12T15:41:47.737Z,62.9434,-150.6715,34.7,1.2,ml,,,,0.99,ak,ak0241zdaas6,2024-02-12T15:44:51.842Z,"50 km N of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-02-12T15:36:06.210Z,32.7851667,-115.5691667,6.02,1.88,ml,36,64,0.0399,0.29,ci,ci40667976,2024-02-12T15:49:24.741Z,"1 km WSW of El Centro, CA",earthquake,0.34,0.79,0.224,29,automatic,ci,ci
+2024-02-12T15:36:06.210Z,32.7851667,-115.5691667,6.02,1.88,ml,36,64,0.0399,0.29,ci,ci40667976,2024-02-12T16:00:48.010Z,"1 km WSW of El Centro, CA",earthquake,0.34,0.79,0.224,29,automatic,ci,ci
 2024-02-12T15:35:34.550Z,32.7915,-115.563,11.02,1.78,ml,37,65,0.04804,0.25,ci,ci40667968,2024-02-12T15:46:44.410Z,"1 km NW of El Centro, CA",earthquake,0.29,0.47,0.285,28,automatic,ci,ci
 2024-02-12T15:25:14.430Z,32.7738333,-115.5561667,2.91,1.47,ml,28,97,0.03957,0.25,ci,ci40667952,2024-02-12T15:40:45.663Z,"2 km S of El Centro, CA",earthquake,0.32,0.51,0.254,29,automatic,ci,ci
 2024-02-12T15:24:49.300Z,38.8144989,-122.8061676,1.73,1.08,md,22,41,0.009393,0.02,nc,nc74001736,2024-02-12T15:47:14.644Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.43,0.05,22,automatic,nc,nc
@@ -435,4 +435,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T16:09:04.330Z,38.5250015,-122.6483307,3.96,2.26,md,4,152,0.267,0.07,nc,nc74001181,2024-02-11T18:05:15.729Z,"8 km SW of Calistoga, CA",earthquake,1.47,9.9,,1,automatic,nc,nc
 2024-02-11T16:04:15.583Z,31.524,-104.01,5.0539,1.6,ml,10,88,0,0.2,tx,tx2024cydl,2024-02-11T16:35:53.641Z,"31 km NW of Toyah, Texas",earthquake,0,3.263116338,0.1,8,automatic,tx,tx
 2024-02-11T16:03:03.127Z,35.85692215,-96.67644501,3.562439919,1.78,ml,19,100.2176437,0.1454587877,0.1457886003,ok,ok2024cydk,2024-02-11T16:06:41.602Z,"10 km SW of Shamrock, Oklahoma",earthquake,2.860416769,2.604095016,0.27,14,automatic,ok,ok
-2024-02-11T16:01:55.310Z,38.8305016,-122.8133316,1.75,1.29,md,25,43,0.007539,0.03,nc,nc74001176,2024-02-11T17:51:12.652Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.36,0.09,25,automatic,nc,nc
