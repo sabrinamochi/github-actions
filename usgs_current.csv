@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-12T14:21:38.090Z,32.7685013,-115.5448303,2.7,1.51,ml,21,117,0.06416,0.25,ci,ci40667760,2024-02-12T14:23:44.551Z,"2 km SSE of El Centro, CA",earthquake,0.65,0.67,0.308,8,automatic,ci,ci
 2024-02-12T14:15:21.760Z,32.7838326,-115.5540009,11.76,3.48,mw,77,33,0.0472,0.27,ci,ci40667752,2024-02-12T14:21:15.581Z,"1 km SE of El Centro, CA",earthquake,0.22,0.4,,4,automatic,ci,ci
 2024-02-12T14:14:23.720Z,32.7796669,-115.5500031,11.22,2.19,ml,37,110,0.04716,0.32,ci,ci40667744,2024-02-12T14:16:32.175Z,"1 km SE of El Centro, CA",earthquake,0.45,0.62,0.257,26,automatic,ci,ci
 2024-02-12T14:11:07.540Z,38.8363342,-122.7919998,2.29,0.76,md,11,78,0.002442,0.01,nc,nc74001721,2024-02-12T14:12:44.869Z,"6 km WNW of Cobb, CA",earthquake,0.35,0.48,0.21,11,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T14:08:33.530Z,32.7856674,-115.5643311,10.61,2.05,ml,35,59,0.0518,0.31,ci,ci40667720,2024-02-12T14:19:56.410Z,"1 km WSW of El Centro, CA",earthquake,0.51,0.83,0.334,29,automatic,ci,ci
 2024-02-12T14:08:28.380Z,32.7836685,-115.5511703,10.04,2.13,ml,18,98,0.04887,0.25,ci,ci40667712,2024-02-12T14:10:39.811Z,"1 km SE of El Centro, CA",earthquake,0.56,0.97,0.271,4,automatic,ci,ci
 2024-02-12T14:07:35.290Z,32.7723351,-115.5488358,9.79,2.18,ml,28,61,0.04411,0.29,ci,ci40667704,2024-02-12T14:20:17.826Z,"2 km SSE of El Centro, CA",earthquake,0.51,0.67,0.251,15,automatic,ci,ci
-2024-02-12T14:06:47.940Z,32.7588348,-115.5368347,9.97,2.12,ml,23,87,0.04966,0.26,ci,ci40667696,2024-02-12T14:09:04.913Z,"3 km NNW of Heber, CA",earthquake,0.56,0.75,0.287,19,automatic,ci,ci
+2024-02-12T14:06:48.040Z,32.7771667,-115.5468333,9.46,2.25,ml,34,55,0.04798,0.28,ci,ci40667696,2024-02-12T14:23:07.974Z,"2 km SE of El Centro, CA",earthquake,0.31,0.62,0.144,19,automatic,ci,ci
 2024-02-12T14:06:20.520Z,32.7885,-115.5611667,9.53,2.19,ml,39,51,0.04653,0.29,ci,ci40667688,2024-02-12T14:20:34.612Z,"0 km W of El Centro, CA",earthquake,0.33,0.62,0.212,29,automatic,ci,ci
 2024-02-12T14:04:01.180Z,32.7898331,-115.5575027,11.75,3.41,ml,60,38,0.04951,0.32,ci,ci40667680,2024-02-12T14:21:49.463Z,"0 km NNE of El Centro, CA",earthquake,0.32,0.53,0.353,20,automatic,ci,ci
 2024-02-12T14:03:48.220Z,32.7858333,-115.5201667,-0.28,2.18,ml,13,159,0.284,0.19,ci,ci40667672,2024-02-12T14:18:29.387Z,"4 km E of El Centro, CA",earthquake,0.57,2.87,0.184,26,automatic,ci,ci
@@ -398,4 +399,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T14:37:23.618Z,67.3052,-156.0343,37.2,2.6,ml,,,,1.1,ak,ak0241xp4mix,2024-02-11T14:47:45.141Z,"57 km NE of Kobuk, Alaska",earthquake,,18.6,,,automatic,ak,ak
 2024-02-11T14:33:21.740Z,17.9135,-66.277,17.67,2.4,md,9,192,0.1217,0.15,pr,pr71439563,2024-02-11T14:44:46.680Z,"7 km SW of Central Aguirre, Puerto Rico",earthquake,0.81,0.57,0.139807962501828,9,reviewed,pr,pr
 2024-02-11T14:27:56.060Z,33.277,-116.7868333,12.75,0.33,ml,19,189,0.09934,0.14,ci,ci40665840,2024-02-11T14:34:02.866Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.53,0.83,0.132,5,automatic,ci,ci
-2024-02-11T14:23:14.450Z,19.1911659240723,-155.498336791992,31.7399997711182,2.68,ml,59,70,0.04937,0.129999995,hv,hv74106756,2024-02-11T17:06:33.040Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.37,0.5,0.38,29,automatic,hv,hv
