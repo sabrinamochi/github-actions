@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-13T22:45:50.811Z,64.4893,-146.9246,11.9,1.6,ml,,,,0.29,ak,ak0242150k6h,2024-02-13T22:47:55.240Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-02-13T22:45:50.811Z,64.4893,-146.9246,11.9,1.6,ml,,,,0.29,ak,ak0242150k6h,2024-02-13T22:50:23.155Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T22:29:44.660Z,44.5556666666667,-114.265833333333,6.77,1.74,ml,12,79,0.2372,0.17,mb,mb90040673,2024-02-13T22:46:47.890Z,"6 km NNW of Challis, Idaho",earthquake,0.45,1.13,0.331188726462383,15,reviewed,mb,mb
 2024-02-13T22:18:24.990Z,36.8079987,-121.2890015,7.73,1.6,md,21,101,0.03866,0.07,nc,nc74002411,2024-02-13T22:49:11.349Z,"3 km NE of Tres Pinos, CA",earthquake,0.33,0.51,0.23,15,automatic,nc,nc
 2024-02-13T22:13:19.546Z,31.64,-104.388,3.9672,1.9,ml,16,75,0,0.2,tx,tx2024dcgq,2024-02-13T22:38:12.252Z,"59 km S of Whites City, New Mexico",earthquake,0,1.440762177,0.1,12,automatic,tx,tx
@@ -103,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T14:17:01.997Z,39.3949,-119.7156,6.5,1.1,ml,14,124.82,0.038,0.1805,nn,nn00873350,2024-02-13T16:28:01.833Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.4,0.25,4,reviewed,nn,nn
 2024-02-13T14:08:16.600Z,38.5040016,-122.3183365,0.74,1.69,md,19,81,0.08543,0.25,nc,nc74002226,2024-02-13T16:43:10.156Z,"12 km NNE of Yountville, CA",earthquake,0.47,4.82,0.08,12,automatic,nc,nc
 2024-02-13T14:03:33.685Z,62.8251,-150.6438,75.2,2.3,ml,,,,0.5,ak,ak02421001y0,2024-02-13T18:03:23.040Z,"37 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-02-13T14:02:49.520Z,37.6406667,-118.9043333,2.37,-0.23,md,12,68,0.00702,0.04,nc,nc74002221,2024-02-13T22:51:14.999Z,"7 km E of Mammoth Lakes, CA",earthquake,0.58,0.7,0.341,12,reviewed,nc,nc
 2024-02-13T14:02:30.891Z,31.673,-104.426,6.6457,1.7,ml,15,69,0,0.2,tx,tx2024dbql,2024-02-13T14:40:41.652Z,"55 km S of Whites City, New Mexico",earthquake,0.6795318493,0.5451185968,0.2,12,reviewed,tx,tx
 2024-02-13T14:00:24.550Z,38.8351669,-122.8071671,2.2,1.09,md,21,51,0.01197,0.02,nc,nc74002216,2024-02-13T16:17:12.142Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.47,0.14,20,automatic,nc,nc
 2024-02-13T14:00:13.679Z,19.2604,-156.4288,31.81,2.7,ml,32,200,0.649,0.46,us,us7000lywn,2024-02-13T17:33:04.040Z,"59 km WSW of Captain Cook, Hawaii",earthquake,5.51,7.305,0.05,52,reviewed,us,us
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T23:25:58.723Z,-18.3933,-71.4026,27.164,4,mwr,20,172,1.008,0.75,us,us7000lytf,2024-02-12T23:47:41.040Z,"82 km S of Pacocha, Peru",earthquake,7,5.779,0.071,19,reviewed,us,us
 2024-02-12T23:24:28.608Z,61.7595,-150.3841,32.4,1.8,ml,,,,0.51,ak,ak0241zhy3jg,2024-02-12T23:26:16.397Z,"18 km W of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-12T22:58:11.680Z,19.1695003509521,-155.495162963867,34.1399993896484,1.88,md,34,203,0.03424,0.140000001,hv,hv74109111,2024-02-12T22:59:50.640Z,"4 km SSW of Pāhala, Hawaii",earthquake,1,0.709999979,0.25999999,8,automatic,hv,hv
-2024-02-12T22:51:05.653Z,31.666,-104.185,6.093,1.7,ml,16,73,0.1,0.1,tx,tx2024damj,2024-02-13T14:51:42.712Z,"53 km NW of Toyah, Texas",earthquake,0.5823793737,0.7111542855,0.2,11,reviewed,tx,tx
