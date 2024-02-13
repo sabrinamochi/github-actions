@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-13T20:24:15.530Z,34.7145004,-116.2973328,6.88,1.49,ml,18,46,0.1187,0.13,ci,ci40669216,2024-02-13T20:26:32.089Z,"13 km W of Ludlow, CA",earthquake,0.28,0.95,0.131,4,automatic,ci,ci
+2024-02-13T20:24:15.520Z,34.7173333,-116.2976667,6.46,1.36,ml,22,45,0.1159,0.17,ci,ci40669216,2024-02-13T20:30:44.718Z,"13 km W of Ludlow, CA",earthquake,0.21,0.76,0.184,19,automatic,ci,ci
 2024-02-13T20:19:38.520Z,40.3346672,-124.4169998,20.16,1.73,md,11,299,0.07328,0.09,nc,nc74002351,2024-02-13T20:28:10.635Z,"11 km W of Petrolia, CA",earthquake,2.93,1.88,0.09,8,automatic,nc,nc
 2024-02-13T20:11:56.030Z,33.0408333,-116.1753333,5.41,1.45,ml,51,55,0.1147,0.2,ci,ci40669208,2024-02-13T20:23:02.720Z,"12 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.61,0.218,28,automatic,ci,ci
 2024-02-13T20:10:10.987Z,65.425,-148.4204,3.5,1.5,ml,,,,0.15,ak,ak024213m3u2,2024-02-13T20:12:16.032Z,"12 km SSE of Livengood, Alaska",earthquake,,7.9,,,automatic,ak,ak
@@ -141,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T08:06:04.790Z,32.9338333,-116.2238333,9.84,0.55,ml,30,43,0.07002,0.17,ci,ci40668840,2024-02-13T14:38:13.982Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.48,0.188,8,reviewed,ci,ci
 2024-02-13T08:04:21.370Z,32.8058333,-115.5766667,11.82,1.3,ml,35,69,0.05498,0.27,ci,ci40668832,2024-02-13T08:11:31.779Z,"3 km NW of El Centro, CA",earthquake,0.31,0.43,0.244,22,automatic,ci,ci
 2024-02-13T08:02:55.700Z,32.8051667,-115.5778333,11.89,1.34,ml,36,70,0.05383,0.26,ci,ci40668824,2024-02-13T08:08:56.690Z,"3 km NW of El Centro, CA",earthquake,0.32,0.4,0.247,21,automatic,ci,ci
+2024-02-13T07:54:55.870Z,19.1951666666667,-155.476166666667,35.12,1.79,md,28,103,0.04172,0.09,hv,hv74108382,2024-02-13T20:31:18.690Z,"0 km SSE of Pāhala, Hawaii",earthquake,0.65,0.54,0.0902289466422717,24,reviewed,hv,hv
 2024-02-13T07:53:22.890Z,36.0171667,-117.3618333,1.8,1.34,ml,28,77,0.1411,0.16,ci,ci40668816,2024-02-13T07:59:19.477Z,"28 km N of Searles Valley, CA",earthquake,0.24,0.59,0.191,17,automatic,ci,ci
 2024-02-13T07:44:08.740Z,33.5936667,-116.7323333,12.32,0.64,ml,48,41,0.02652,0.18,ci,ci40668808,2024-02-13T07:49:58.986Z,"7 km NW of Anza, CA",earthquake,0.19,0.36,0.159,20,automatic,ci,ci
 2024-02-13T07:37:05.190Z,38.8391685,-122.8296661,2.16,0.75,md,10,113,0.004583,0.01,nc,nc74002131,2024-02-13T08:33:12.906Z,"9 km NW of The Geysers, CA",earthquake,0.41,1.17,0.24,11,automatic,nc,nc
@@ -245,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T20:55:26.457Z,31.655,-104.397,3.6636,1.6,ml,10,71,0,0.2,tx,tx2024daio,2024-02-13T15:00:52.768Z,"57 km S of Whites City, New Mexico",earthquake,0.8563679345,0.9145615819,0.1,13,reviewed,tx,tx
 2024-02-12T20:53:34.130Z,38.8354988,-122.7978363,1.77,1.03,md,15,63,0.006533,0.04,nc,nc74001876,2024-02-12T21:23:13.716Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.81,0.15,16,automatic,nc,nc
 2024-02-12T20:45:38.848Z,2.9246,126.597,57.157,4.6,mb,31,108,2.273,0.72,us,us7000lysf,2024-02-12T21:02:00.040Z,"205 km NW of Tobelo, Indonesia",earthquake,8.56,8.653,0.101,29,reviewed,us,us
-2024-02-12T20:31:13.520Z,44.7745,-111.110833333333,7.99,1.68,ml,14,63,0.02189,0.13,uu,uu80037141,2024-02-12T21:11:25.010Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.42,0.39,0.304958445465291,3,reviewed,uu,uu
