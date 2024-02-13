@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-13T16:37:28.287Z,64.4174,-147.0639,11.2,0.9,ml,,,,0.09,ak,ak024211e730,2024-02-13T16:39:34.464Z,"14 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T16:27:01.600Z,35.6695,-117.545,7.33,0.99,ml,25,50,0.09886,0.11,ci,ci40669008,2024-02-13T16:33:10.031Z,"13 km ENE of Ridgecrest, CA",earthquake,0.17,0.72,0.102,10,automatic,ci,ci
-2024-02-13T16:23:44.180Z,38.7944984,-122.7563324,-0.39,0.75,md,8,128,0.006663,0.03,nc,nc74002256,2024-02-13T16:34:11.111Z,"2 km N of The Geysers, CA",earthquake,0.38,1.79,0.4,10,automatic,nc,nc
+2024-02-13T16:23:44.180Z,38.7944984,-122.7563324,-0.39,0.75,md,8,128,0.006663,0.03,nc,nc74002256,2024-02-13T16:41:17.147Z,"2 km N of The Geysers, CA",earthquake,0.38,1.79,0.4,10,automatic,nc,nc
 2024-02-13T16:18:41.946Z,64.4959,-146.9071,5,1.5,ml,,,,0.89,ak,ak024211a5j6,2024-02-13T16:26:16.811Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-13T16:14:13.255Z,64.4682,-146.9063,8.5,1.4,ml,,,,0.64,ak,ak02421198gd,2024-02-13T16:26:57.511Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T16:08:51.220Z,38.7843323,-122.7235031,1.47,0.82,md,8,106,0.02273,0.02,nc,nc74002251,2024-02-13T16:23:18.049Z,"3 km WNW of Anderson Springs, CA",earthquake,0.39,1.39,0.13,7,automatic,nc,nc
@@ -207,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T20:02:15.720Z,35.533,-96.76833333,4,2.2,ml,43,60,0.003599293696,0.15,ok,ok2024dagu,2024-02-13T16:00:54.296Z,"9 km NW of Prague, Oklahoma",earthquake,,0.2,0.17,14,reviewed,ok,ok
 2024-02-12T20:01:31.340Z,32.8068333,-115.5891667,11.23,1.72,ml,36,61,0.04931,0.26,ci,ci40668224,2024-02-12T20:14:11.163Z,"4 km NW of El Centro, CA",earthquake,0.33,0.54,0.238,30,automatic,ci,ci
 2024-02-12T19:56:31.445Z,75.1575,111.2393,10,4.8,mb,55,43,6.146,0.61,us,us7000lys4,2024-02-12T20:23:41.040Z,"near the coast of central Siberia, Russia",earthquake,9.2,1.901,0.054,106,reviewed,us,us
-2024-02-12T19:51:21.260Z,32.7816667,-115.5511667,10.47,2.28,ml,39,66,0.0476,0.25,ci,ci40668216,2024-02-13T16:41:09.244Z,"1 km SE of El Centro, CA",earthquake,0.28,0.48,0.204,24,reviewed,ci,ci
+2024-02-12T19:51:21.260Z,32.7816667,-115.5511667,10.47,2.28,ml,39,66,0.0476,0.25,ci,ci40668216,2024-02-13T16:41:41.732Z,"1 km SE of El Centro, CA",earthquake,0.28,0.48,0.204,24,reviewed,ci,ci
 2024-02-12T19:50:02.310Z,37.6073341,-121.9694977,7.69,1.39,md,13,110,0.003968,0.05,nc,nc74001856,2024-02-12T21:26:10.734Z,"5 km ENE of Union City, CA",earthquake,0.35,0.54,0.16,10,automatic,nc,nc
 2024-02-12T19:49:02.390Z,44.779,-111.108166666667,8.69,2.4,ml,23,62,0.01721,0.13,uu,uu80037131,2024-02-12T20:16:18.310Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.34,0.51,0.36170778410895,6,reviewed,uu,uu
 2024-02-12T19:44:35.670Z,33.2716667,-116.7813333,12.33,0.93,ml,46,26,0.0403,0.17,ci,ci40668208,2024-02-12T21:45:35.316Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.46,0.108,26,reviewed,ci,ci
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T17:32:15.090Z,38.8308334,-122.8013306,1.88,0.78,md,14,59,0.01009,0.02,nc,nc74001796,2024-02-12T17:49:13.359Z,"7 km W of Cobb, CA",earthquake,0.28,0.75,0.12,14,automatic,nc,nc
 2024-02-12T17:09:37.700Z,32.801,-115.5705,11.11,1.2,ml,15,161,0.05541,0.22,ci,ci40668056,2024-02-12T17:25:08.159Z,"2 km NW of El Centro, CA",earthquake,0.47,1,0.362,17,automatic,ci,ci
 2024-02-12T16:52:22.006Z,47.1196,-112.8258,10,2.2,ml,26,69,0.357,0.42,us,us7000lypv,2024-02-12T17:44:12.040Z,"21 km NNW of Lincoln, Montana",earthquake,1.48,2.009,0.051,50,reviewed,us,us
-2024-02-12T16:41:30.570Z,33.6691667,-116.6093333,-1.4,0.47,ml,10,158,0.07167,0.33,ci,ci40668040,2024-02-12T21:35:56.508Z,"13 km SE of Idyllwild, CA",earthquake,0.84,2.15,0.143,6,automatic,ci,ci
