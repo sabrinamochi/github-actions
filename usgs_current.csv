@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T14:17:01.831Z,39.3891,-119.7423,9.5,1.1,ml,10,119.29,0.017,0.1417,nn,nn00873350,2024-02-13T14:18:47.774Z,"11 km NW of Virginia City, Nevada",earthquake,,0.7,0.41,5,automatic,nn,nn
 2024-02-13T14:08:16.600Z,38.5040016,-122.3183365,0.74,1.69,md,19,81,0.08543,0.25,nc,nc74002226,2024-02-13T14:28:10.988Z,"12 km NNE of Yountville, CA",earthquake,0.47,4.82,0.08,12,automatic,nc,nc
 2024-02-13T14:03:33.685Z,62.8251,-150.6438,75.2,2.3,ml,,,,0.5,ak,ak02421001y0,2024-02-13T14:06:00.646Z,"37 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-13T14:02:31.158Z,31.685,-104.423,4.5059,1.6,ml,17,55,0,0.6,tx,tx2024dbql,2024-02-13T14:20:32.588Z,"54 km S of Whites City, New Mexico",earthquake,0,1.236365681,0.2,13,automatic,tx,tx
+2024-02-13T14:02:30.891Z,31.673,-104.426,6.6457,1.7,ml,15,69,0,0.2,tx,tx2024dbql,2024-02-13T14:40:41.652Z,"55 km S of Whites City, New Mexico",earthquake,0.6795318493,0.5451185968,0.2,12,reviewed,tx,tx
 2024-02-13T14:00:24.550Z,38.8351669,-122.8071671,2.2,1.09,md,21,51,0.01197,0.02,nc,nc74002216,2024-02-13T14:17:12.915Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.47,0.14,20,automatic,nc,nc
 2024-02-13T13:56:40.800Z,19.1923332214355,-155.473495483398,35.3199996948242,1.91999996,md,38,94,0.03827,0.119999997,hv,hv74108727,2024-02-13T13:58:14.630Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.67,0.689999998,0.239999995,5,automatic,hv,hv
 2024-02-13T13:54:55.715Z,31.666,-104.181,4.9876,1.8,ml,16,67,0.1,0.1,tx,tx2024dbqf,2024-02-13T14:11:44.349Z,"53 km NW of Toyah, Texas",earthquake,0.4767355782,0.6735492925,0.2,9,reviewed,tx,tx
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T03:43:42.577Z,61.8745,-150.0857,28.6,1.6,ml,,,,0.6,ak,ak02420tovm9,2024-02-13T03:47:08.210Z,"14 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T03:39:55.830Z,38.7966652,-122.8144989,3.22,0.96,md,15,91,0.01221,0.03,nc,nc74002066,2024-02-13T04:41:13.578Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.69,0.2,17,automatic,nc,nc
 2024-02-13T03:38:15.080Z,39.1590004,-123.5876694,3.16,1.67,md,11,72,0.05567,0.06,nc,nc74002056,2024-02-13T06:00:10.028Z,"16 km ESE of Navarro Head, CA",earthquake,0.29,1.76,0.19,8,automatic,nc,nc
-2024-02-13T03:36:31.320Z,36.0296667,-117.7876667,1.79,0.81,ml,25,71,0.0187,0.17,ci,ci40668712,2024-02-13T03:42:27.028Z,"14 km E of Coso Junction, CA",earthquake,0.17,0.18,0.177,9,automatic,ci,ci
+2024-02-13T03:36:31.320Z,36.0296667,-117.7876667,1.79,0.81,ml,25,71,0.0187,0.17,ci,ci40668712,2024-02-13T14:40:13.992Z,"14 km E of Coso Junction, CA",earthquake,0.17,0.18,0.177,9,reviewed,ci,ci
 2024-02-13T03:34:48.530Z,17.863,-66.0721666666667,13.61,2.22,md,5,280,0.1071,0.08,pr,pr71439718,2024-02-13T03:41:36.140Z,"11 km S of Arroyo, Puerto Rico",earthquake,0.79,0.54,0.10766832059435,4,reviewed,pr,pr
 2024-02-13T03:34:26.250Z,38.8098335,-122.8184967,3.05,0.73,md,16,59,0.008401,0.02,nc,nc74002051,2024-02-13T04:06:11.364Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.82,0.32,17,automatic,nc,nc
 2024-02-13T03:26:57.920Z,19.1378326416016,-155.371994018555,28.6700000762939,2.1099999,md,21,226,0.08697,0.129999995,hv,hv74108197,2024-02-13T03:28:34.870Z,"13 km ESE of Pāhala, Hawaii",earthquake,1.15,0.829999983,0.129999995,4,automatic,hv,hv
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T23:50:35.322Z,64.4577,-147.4252,9.6,1.2,ml,,,,0.26,ak,ak0241zi3ooc,2024-02-12T23:52:31.021Z,"26 km WSW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-12T23:50:06.210Z,32.8185,-115.5791667,13.12,1.33,ml,23,63,0.06365,0.21,ci,ci40668616,2024-02-12T23:56:20.287Z,"3 km SSW of Imperial, CA",earthquake,0.36,0.64,0.162,13,automatic,ci,ci
 2024-02-12T23:42:32.676Z,64.4647,-146.9392,0.2,1.5,ml,,,,0.44,ak,ak0241zi1yqr,2024-02-12T23:44:47.352Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-12T23:41:53.460Z,33.7725,-116.7666667,10.06,1.08,ml,54,30,0.05004,0.14,ci,ci40668600,2024-02-12T23:52:51.090Z,"6 km NW of Idyllwild, CA",earthquake,0.13,0.24,0.178,28,automatic,ci,ci
+2024-02-12T23:41:53.460Z,33.7725,-116.7666667,10.06,1.08,ml,54,30,0.05004,0.14,ci,ci40668600,2024-02-13T14:40:45.995Z,"6 km NW of Idyllwild, CA",earthquake,0.13,0.24,0.178,28,reviewed,ci,ci
 2024-02-12T23:40:57.214Z,64.4792,-146.8886,0.1,1.4,ml,,,,0.61,ak,ak0241zi1l7d,2024-02-12T23:43:07.429Z,"5 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-12T23:40:38.210Z,38.8106651,-122.8215027,3.5,0.54,md,6,142,0.006259,0,nc,nc74001941,2024-02-13T00:01:10.946Z,"7 km WNW of The Geysers, CA",earthquake,1.24,2.63,0.28,9,automatic,nc,nc
 2024-02-12T23:39:44.977Z,31.627,-104.298,6.9799,2.5,ml,17,69,0.1,0.2,tx,tx2024danz,2024-02-13T09:50:05.835Z,"59 km NW of Toyah, Texas",earthquake,1.166185654,1.613234687,0.1,29,reviewed,tx,tx
@@ -255,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T14:42:46.180Z,32.8091667,-115.5776667,12.63,2.79,ml,49,58,0.05693,0.24,ci,ci40667856,2024-02-12T20:15:41.216Z,"3 km NW of El Centro, CA",earthquake,0.24,0.56,0.177,25,reviewed,ci,ci
 2024-02-12T14:41:48.000Z,32.7863333,-115.5511667,10.31,1.59,ml,19,83,0.05065,0.22,ci,ci40667848,2024-02-12T14:54:56.240Z,"1 km ESE of El Centro, CA",earthquake,0.35,0.52,0.243,13,automatic,ci,ci
 2024-02-12T14:41:16.540Z,32.8181667,-115.5858333,12.58,1.58,ml,36,61,0.06044,0.27,ci,ci40667840,2024-02-12T14:54:17.949Z,"4 km SSW of Imperial, CA",earthquake,0.39,0.64,0.212,29,automatic,ci,ci
-2024-02-12T14:39:58.500Z,32.7938333,-115.5668333,11.54,1.95,ml,38,93,0.0483,0.28,ci,ci40667832,2024-02-12T14:53:29.943Z,"1 km NW of El Centro, CA",earthquake,0.31,0.44,0.277,27,automatic,ci,ci
