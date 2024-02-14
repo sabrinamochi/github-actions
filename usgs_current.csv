@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-14T18:14:42.820Z,19.1763324737549,-155.509826660156,33.9000015258789,2.32999992,md,34,104,0.04967,0.119999997,hv,hv74110377,2024-02-14T18:17:27.750Z,"4 km SW of Pāhala, Hawaii",earthquake,0.62,1.25999999,0.819999993,4,automatic,hv,hv
+2024-02-14T18:13:56.742Z,62.5484,-148.4172,56.6,2.5,ml,,,,0.55,ak,ak02422pzbsq,2024-02-14T18:16:00.499Z,"83 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-14T18:01:40.280Z,37.6004982,-118.8526688,5.57,1.24,md,16,155,0.02019,0.03,nc,nc74000630,2024-02-14T18:03:18.418Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.61,0.84,0.16,16,automatic,nc,nc
-2024-02-14T18:01:05.100Z,36.40797806,-97.30904388,2.279852629,2.72,ml,45,41.79799461,0.1352676004,0.6127102897,ok,ok2024ddtu,2024-02-14T18:05:18.203Z,"12 km WSW of Red Rock, Oklahoma",earthquake,1.740730346,1.363570629,0.27,34,automatic,ok,ok
+2024-02-14T18:01:04.610Z,36.40083333,-97.314,4.92,2.38,ml,94,41,0,0.25,ok,ok2024ddtu,2024-02-14T18:20:22.962Z,"12 km N of Perry, Oklahoma",earthquake,,0.5,0.24,39,reviewed,ok,ok
 2024-02-14T17:53:50.520Z,33.1966667,-116.0186667,6.24,1.21,ml,53,58,0.04138,0.22,ci,ci40670056,2024-02-14T18:05:05.190Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.6,0.161,26,automatic,ci,ci
 2024-02-14T17:40:01.590Z,38.850666,-122.7963333,6.49,0.7,md,7,228,0.0131,0.03,nc,nc74000625,2024-02-14T17:42:06.671Z,"7 km WNW of Cobb, CA",earthquake,2.6,6.56,0.07,3,automatic,nc,nc
 2024-02-14T17:32:38.769Z,61.3981,-146.2402,17.8,1.9,ml,,,,0.86,ak,ak02422phxes,2024-02-14T17:34:32.477Z,"30 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -140,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T06:24:52.307Z,31.674,-104.399,6.1316,1.8,ml,17,66,0,0.2,tx,tx2024dcww,2024-02-14T15:59:45.538Z,"55 km S of Whites City, New Mexico",earthquake,0.845424336,0.7818131356,0.1,13,reviewed,tx,tx
 2024-02-14T06:17:36.973Z,31.654,-104.404,1.9155,2,ml,10,71,0,0.2,tx,tx2024dcwo,2024-02-14T17:07:09.334Z,"57 km S of Whites City, New Mexico",earthquake,1.016958548,1.029050685,0.1,12,reviewed,tx,tx
 2024-02-14T06:15:44.281Z,39.3947,-119.727,7.7,1.1,ml,9,122.37,0.03,0.0875,nn,nn00873422,2024-02-14T06:17:50.800Z,"11 km NW of Virginia City, Nevada",earthquake,,0.8,0.29,6,automatic,nn,nn
+2024-02-14T06:12:19.870Z,46.2725,-122.05066666666667,10.95,0.53,ml,19,190,0.06585,0.16,uw,uw61983036,2024-02-14T18:22:59.310Z,"36 km SSE of Morton, Washington",earthquake,0.53,0.73,0.14720701646081863,9,reviewed,uw,uw
 2024-02-14T06:10:17.620Z,33.5741667,-116.9403333,9.99,0.48,ml,33,47,0.09189,0.14,ci,ci40669544,2024-02-14T14:22:06.841Z,"16 km NNW of Aguanga, CA",earthquake,0.2,0.47,0.168,13,reviewed,ci,ci
 2024-02-14T05:54:17.800Z,45.99916666666667,-122.50466666666667,14.75,0.9,ml,36,73,0.0894,0.18,uw,uw61983031,2024-02-14T06:21:55.330Z,"10 km NNW of Amboy, Washington",earthquake,0.3,0.69,0.1964947225403635,12,reviewed,uw,uw
 2024-02-14T05:50:36.745Z,31.6346,-104.3857,5,2.7,ml,31,76,0.104,0.67,us,us7000lz3k,2024-02-14T16:44:47.011Z,"60 km S of Whites City, New Mexico",earthquake,1.61,1.97,0.052,48,reviewed,us,us
@@ -167,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T04:16:58.761Z,-58.6489,-23.9621,10,4.8,mb,25,191,8.196,0.64,us,us7000lz2s,2024-02-14T04:37:22.040Z,"South Sandwich Islands region",earthquake,8.4,1.99,0.109,26,reviewed,us,us
 2024-02-14T04:10:56.735Z,64.9663,-147.4004,1.1,1.5,ml,,,,0.48,ak,ak02422hmm6o,2024-02-14T04:21:01.442Z,"10 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-14T04:09:47.040Z,19.1480007171631,-155.474502563477,31.1800003051758,2.05,ml,51,161,0.01384,0.150000006,hv,hv74109552,2024-02-14T04:12:20.450Z,"6 km S of Pāhala, Hawaii",earthquake,0.54,0.689999998,0.2,3,automatic,hv,hv
+2024-02-14T04:07:35.370Z,51.7173333333333,-178.725833333333,16.3,1.21,ml,11,114,,0.14,av,av92204831,2024-02-14T18:15:16.680Z,"145 km W of Adak, Alaska",earthquake,0.85,1.06,0.224131964423699,11,reviewed,av,av
 2024-02-14T04:04:42.640Z,35.522,-118.3213333,0.89,1.26,ml,31,61,0.1483,0.16,ci,ci40669504,2024-02-14T14:22:45.830Z,"17 km ESE of Bodfish, CA",earthquake,0.17,0.34,0.157,20,reviewed,ci,ci
 2024-02-14T04:03:48.800Z,35.5256667,-118.3183333,1.06,1.47,ml,28,84,0.1456,0.15,ci,ci40669496,2024-02-14T14:23:07.832Z,"17 km ESE of Bodfish, CA",earthquake,0.17,0.29,0.166,15,reviewed,ci,ci
 2024-02-14T04:03:12.780Z,35.5238333,-118.3213333,1.13,2.13,ml,45,42,0.1482,0.15,ci,ci40669480,2024-02-14T14:24:23.970Z,"17 km ESE of Bodfish, CA",earthquake,0.13,0.31,0.236,26,reviewed,ci,ci
@@ -288,6 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T18:40:21.540Z,62.8795,-148.5622,12.7,2,ml,,,,0.8,ak,ak024212lox6,2024-02-13T18:42:24.741Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-02-13T18:36:53.580Z,32.7096667,-115.4481667,3.79,1.63,ml,26,81,0.0779,0.23,ci,ci40669112,2024-02-13T18:43:05.084Z,"6 km NE of Calexico, CA",earthquake,0.3,0.56,0.272,29,automatic,ci,ci
 2024-02-13T18:35:30.840Z,32.7253333,-115.451,9.81,1.76,ml,29,64,0.07984,0.2,ci,ci40669104,2024-02-13T18:41:43.075Z,"7 km NE of Calexico, CA",earthquake,0.26,0.81,0.281,30,automatic,ci,ci
-2024-02-13T18:23:48.501Z,31.677,-104.408,6.1316,2.2,ml,19,69,0,0.2,tx,tx2024dbza,2024-02-14T14:55:41.181Z,"55 km S of Whites City, New Mexico",earthquake,0.7409968081,0.7683963056,0.2,15,reviewed,tx,tx
-2024-02-13T18:18:02.020Z,38.8301659,-122.8536682,1.81,0.28,md,8,87,0.003621,0.03,nc,nc74002306,2024-02-13T19:54:23.447Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.86,0.17,8,automatic,nc,nc
-2024-02-13T18:17:55.573Z,36.6347,-116.2888,6.7,-0.1,ml,10,220.8,0.042,0.0386,nn,nn00873395,2024-02-14T00:08:08.186Z,"51 km SE of Beatty, Nevada",earthquake,,1.9,0.07,2,reviewed,nn,nn
