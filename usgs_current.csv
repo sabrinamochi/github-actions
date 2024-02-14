@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T13:31:32.700Z,19.2028331756592,-155.47200012207,34.6100006103516,1.95000005,md,50,93,0.04809,0.140000001,hv,hv74110097,2024-02-14T13:33:21.010Z,"0 km E of Pāhala, Hawaii",earthquake,0.41,0.639999986,0.409999996,4,automatic,hv,hv
 2024-02-14T13:27:42.530Z,44.7973333333333,-110.816833333333,5.41,0.2,md,7,234,0.02561,0.07,uu,uu80037281,2024-02-14T15:02:56.220Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.02,0.94,0.175856890240757,5,reviewed,uu,uu
 2024-02-14T13:23:44.330Z,32.7608333,-115.855,6.06,1.22,ml,21,85,0.1264,0.19,ci,ci40669840,2024-02-14T14:19:44.194Z,"13 km ENE of Ocotillo, CA",earthquake,0.26,1.47,0.411,15,reviewed,ci,ci
-2024-02-14T13:15:32.077Z,39.4047,-119.7088,6.9,1.4,ml,15,57.69,0.046,0.1919,nn,nn00873457,2024-02-14T13:17:36.130Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.5,0.34,7,automatic,nn,nn
+2024-02-14T13:15:32.740Z,39.3975,-119.7093,6.4,1.6,ml,16,40.64,0.044,0.1354,nn,nn00873457,2024-02-14T18:58:39.716Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.1,0.34,6,reviewed,nn,nn
 2024-02-14T13:03:39.040Z,33.1273333,-115.6218333,7.39,2.04,ml,50,42,0.03552,0.23,ci,ci40669832,2024-02-14T18:03:40.923Z,"10 km N of Westmorland, CA",earthquake,0.18,0.38,0.16,23,reviewed,ci,ci
 2024-02-14T13:00:35.610Z,33.131,-115.6233333,8.87,1.51,ml,38,81,0.03754,0.19,ci,ci40669824,2024-02-14T14:38:42.791Z,"10 km W of Calipatria, CA",earthquake,0.2,0.42,0.255,29,automatic,ci,ci
 2024-02-14T12:56:28.519Z,39.3957,-119.714,6.3,0.9,ml,12,125.16,0.04,0.1499,nn,nn00873479,2024-02-14T16:10:56.819Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.2,0.02,2,reviewed,nn,nn
@@ -94,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T08:46:45.880Z,33.1358333,-115.6168333,9.06,2.17,ml,54,83,0.03409,0.21,ci,ci40669712,2024-02-14T17:16:11.490Z,"10 km W of Calipatria, CA",earthquake,0.18,0.4,0.201,78,reviewed,ci,ci
 2024-02-14T08:41:03.740Z,62.0819,-149.5173,19.5,2,ml,,,,0.74,ak,ak02422k6vpi,2024-02-14T08:43:33.953Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-14T08:39:16.815Z,60.0806,-152.997,112.2,2.1,ml,,,,1.29,ak,ak02422k6ha9,2024-02-14T08:41:32.599Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-02-14T08:29:47.143Z,31.434,-103.827,6.9799,1.8,ml,9,62,0.1,0.1,tx,tx2024ddaz,2024-02-14T18:51:22.492Z,"13 km NNW of Toyah, Texas",earthquake,1.512131404,1.952401868,0.2,19,reviewed,tx,tx
 2024-02-14T08:27:57.330Z,33.1335,-115.6185,8.52,1.49,ml,38,82,0.03446,0.2,ci,ci40669704,2024-02-14T08:34:45.498Z,"10 km W of Calipatria, CA",earthquake,0.19,0.42,0.271,28,automatic,ci,ci
 2024-02-14T08:26:05.820Z,33.1236667,-115.6301667,9.5,1.87,ml,58,40,0.04204,0.25,ci,ci40669696,2024-02-14T08:36:52.260Z,"10 km N of Westmorland, CA",earthquake,0.2,0.43,0.231,28,automatic,ci,ci
 2024-02-14T08:17:12.385Z,39.4016,-119.7177,5.3,0.7,ml,10,124.1,0.038,0.1688,nn,nn00873471,2024-02-14T15:42:28.952Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.3,3,reviewed,nn,nn
@@ -287,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T19:16:28.930Z,32.809,-115.5811667,9.68,1.27,ml,30,97,0.05496,0.23,ci,ci40669160,2024-02-13T19:22:39.700Z,"3 km NW of El Centro, CA",earthquake,0.34,0.59,0.301,17,automatic,ci,ci
 2024-02-13T19:13:14.385Z,-4.7765,152.6606,61.607,5.1,mb,98,74,0.764,0.85,us,us7000lyzm,2024-02-13T20:27:56.182Z,"64 km SE of Kokopo, Papua New Guinea",earthquake,8.03,5.684,0.048,143,reviewed,us,us
 2024-02-13T19:07:31.970Z,45.1016666666667,-111.703,5.96,1.06,ml,12,159,0.2727,0.08,mb,mb90040718,2024-02-14T16:45:29.800Z,"27 km S of Ennis, Montana",earthquake,0.48,0.94,0.268683143475045,7,reviewed,mb,mb
-2024-02-13T18:55:13.960Z,40.4835,-124.2061667,21.11,1.36,md,27,91,0.09292,0.1,nc,nc74002321,2024-02-13T23:33:12.606Z,"9 km WSW of Rio Dell, CA",earthquake,0.27,0.5,0.196,14,reviewed,nc,nc
-2024-02-13T18:52:41.040Z,35.8696667,-117.7168333,10.09,1.12,ml,26,52,0.0724,0.13,ci,ci40669136,2024-02-13T18:58:34.176Z,"19 km ESE of Little Lake, CA",earthquake,0.17,0.35,0.197,16,automatic,ci,ci
