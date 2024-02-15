@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-15T02:15:05.280Z,19.2238330841064,-155.374664306641,32.25,2.39,ml,52,154,0.09601,0.180000007,hv,hv74112096,2024-02-15T02:17:44.410Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.610000014,0.28,11,automatic,hv,hv
+2024-02-15T02:14:23.510Z,33.9726677,-117.2146683,12.86,1.09,ml,21,89,0.04299,0.17,ci,ci40670448,2024-02-15T02:16:28.893Z,"5 km NNE of Moreno Valley, CA",earthquake,0.35,1.02,0.177,7,automatic,ci,ci
 2024-02-15T02:06:54.340Z,34.1685,-116.821,9.78,0.93,ml,38,59,0.1211,0.15,ci,ci40670440,2024-02-15T02:12:45.624Z,"10 km SSE of Big Bear City, CA",earthquake,0.17,0.34,0.238,21,automatic,ci,ci
 2024-02-15T02:01:54.512Z,63.2095,-151.4247,3.2,1.8,ml,,,,1.04,ak,ak024243x5uj,2024-02-15T02:05:24.838Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-15T01:40:53.040Z,19.1646671295166,-155.481826782227,31.1900005340576,2.11,ml,48,104,0.02079,0.140000001,hv,hv74110837,2024-02-15T01:43:26.930Z,"4 km S of Pāhala, Hawaii",earthquake,0.51,0.839999974,0.35,3,automatic,hv,hv
@@ -49,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T20:23:19.360Z,38.8264999,-122.7863312,0.89,1.35,md,23,66,0.0123,0.05,nc,nc74002836,2024-02-14T22:27:12.473Z,"6 km W of Cobb, CA",earthquake,0.19,0.41,0.14,23,automatic,nc,nc
 2024-02-14T20:20:16.436Z,-19.6795,-177.5216,564.182,4.5,mb,40,94,2.631,0.68,us,us7000lz8n,2024-02-14T20:47:06.040Z,"284 km NW of Houma, Tonga",earthquake,13.19,7.098,0.104,27,reviewed,us,us
 2024-02-14T20:10:49.731Z,65.592,-150.292,23.3,1.7,ml,,,,1,ak,ak02422r5jbh,2024-02-14T20:13:15.386Z,"11 km NNW of Rampart, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-02-14T19:56:25.011Z,39.3845,-119.7004,6.1,1.1,ml,8,193.78,0.05,0.1396,nn,nn00873514,2024-02-15T01:45:34.558Z,"9 km NNW of Virginia City, Nevada",earthquake,,1.7,0.16,4,reviewed,nn,nn
+2024-02-14T19:56:25.213Z,39.399,-119.7171,5.7,1,ml,12,124.33,0.038,0.1303,nn,nn00873514,2024-02-15T02:16:38.366Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.4,0.18,3,reviewed,nn,nn
 2024-02-14T19:45:51.460Z,38.8318329,-122.8164978,1.39,1.03,md,16,52,0.009806,0.02,nc,nc74002821,2024-02-14T21:34:14.174Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.42,0.33,16,automatic,nc,nc
 2024-02-14T19:25:56.380Z,19.5343341827393,-155.953826904297,5.53000020980835,1.95000005,md,25,171,0.1327,0.370000005,hv,hv74110497,2024-02-14T19:27:39.570Z,"2 km WSW of Honalo, Hawaii",earthquake,0.87,1.00999999,0.270000011,3,automatic,hv,hv
 2024-02-14T19:23:55.930Z,35.0296667,-117.6858333,-0.85,1.47,ml,34,45,0.09544,0.22,ci,ci40670128,2024-02-14T19:30:36.056Z,"5 km NW of Boron, CA",earthquake,0.37,0.58,0.167,26,automatic,ci,ci
@@ -58,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T19:11:49.680Z,33.136,-115.6111667,9.04,1.69,ml,40,83,0.02995,0.21,ci,ci40670112,2024-02-14T19:23:24.280Z,"9 km W of Calipatria, CA",earthquake,0.21,0.43,0.241,28,automatic,ci,ci
 2024-02-14T19:05:51.823Z,60.2682,-141.1877,17.5,1.4,ml,,,,0.25,ak,ak02422qj1am,2024-02-14T19:08:59.876Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-14T19:04:55.350Z,46.3148333333333,-111.617333333333,-2,2,ml,12,94,0.3283,0.16,mb,mb90040743,2024-02-14T19:29:02.420Z,"7 km W of Townsend, Montana",quarry blast,0.51,31.61,0.313022358438502,10,reviewed,mb,mb
-2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T21:02:17.822Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
+2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T19:53:36.040Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
 2024-02-14T18:33:23.490Z,19.1774997711182,-155.511337280273,34.7900009155273,2.17000008,md,37,102,0.05146,0.159999996,hv,hv74110407,2024-02-14T18:35:09.070Z,"4 km SW of Pāhala, Hawaii",earthquake,0.9,1.05999994,0.119999997,10,automatic,hv,hv
 2024-02-14T18:14:42.820Z,19.1763324737549,-155.509826660156,33.9000015258789,2.32999992,md,34,104,0.04967,0.119999997,hv,hv74110377,2024-02-14T18:17:27.750Z,"4 km SW of Pāhala, Hawaii",earthquake,0.62,1.25999999,0.819999993,4,automatic,hv,hv
 2024-02-14T18:13:56.742Z,62.5484,-148.4172,56.6,2.5,ml,,,,0.55,ak,ak02422pzbsq,2024-02-14T18:33:52.040Z,"83 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T15:53:34.430Z,19.2881660461426,-155.244995117188,0.550000011920929,1.79999995,md,37,147,0.02042,0.209999993,hv,hv74110257,2024-02-14T15:55:17.060Z,"17 km S of Volcano, Hawaii",earthquake,0.28,0.270000011,0.25999999,17,automatic,hv,hv
 2024-02-14T15:48:10.900Z,17.9818333333333,-66.9616666666667,13.92,2.41,md,9,168,0.07872,0.18,pr,pr71439893,2024-02-14T16:15:28.000Z,"4 km W of Fuig, Puerto Rico",earthquake,0.89,1.11,0.0725216763545058,4,reviewed,pr,pr
 2024-02-14T15:48:07.650Z,19.1961666666667,-155.473833333333,34.58,1.77,md,23,90,0.04203,0.1,hv,hv74110242,2024-02-14T22:04:57.940Z,"0 km SSE of Pāhala, Hawaii",earthquake,0.71,0.86,0.0745420810849446,23,reviewed,hv,hv
-2024-02-14T15:42:31.734Z,39.3933,-119.7205,5.1,0.7,ml,4,203.74,0.035,0.0335,nn,nn00873511,2024-02-15T01:33:09.903Z,"11 km NNW of Virginia City, Nevada",earthquake,,3.3,0.04,3,reviewed,nn,nn
+2024-02-14T15:42:31.642Z,39.399,-119.7171,5.3,0.7,ml,9,124.34,0.038,0.1314,nn,nn00873511,2024-02-15T02:19:44.893Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.9,0.16,3,reviewed,nn,nn
 2024-02-14T15:25:15.950Z,32.8171667,-115.5726667,11.12,1.21,ml,21,112,0.06578,0.21,ci,ci40669888,2024-02-14T15:31:24.273Z,"3 km S of Imperial, CA",earthquake,0.41,0.73,0.249,9,automatic,ci,ci
 2024-02-14T15:18:09.380Z,33.6246667,-116.695,12.43,1.13,ml,51,34,0.04753,0.16,ci,ci40669880,2024-02-14T17:53:31.170Z,"8 km NNW of Anza, CA",earthquake,0.15,0.28,0.226,27,reviewed,ci,ci
 2024-02-14T15:16:50.310Z,19.3080005645752,-155.341171264648,1.28999996185303,2.07,ml,48,108,0.0339,0.25,hv,hv74110187,2024-02-14T15:19:24.910Z,"18 km NE of Pāhala, Hawaii",earthquake,0.26,0.389999986,0.28,16,automatic,hv,hv
@@ -287,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T02:32:36.990Z,38.8361664,-122.7908325,1.92,1.1,md,19,51,0.002272,0.02,nc,nc74002531,2024-02-14T05:04:19.958Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.41,0.16,21,automatic,nc,nc
 2024-02-14T02:26:13.001Z,31.713,-104.279,7.0056,1.9,ml,27,53,0,0.2,tx,tx2024dcoz,2024-02-14T19:32:32.788Z,"52 km S of Whites City, New Mexico",earthquake,0.6826604291,0.6672420333,0.2,21,reviewed,tx,tx
 2024-02-14T02:24:27.670Z,38.7941666,-122.7803345,1.82,1.29,md,5,105,0.006008,0.02,nc,nc74002521,2024-02-14T04:34:13.753Z,"3 km NW of The Geysers, CA",earthquake,0.59,1.67,0.06,7,automatic,nc,nc
-2024-02-14T02:16:03.647Z,62.2746,-150.0559,6,1.8,ml,,,,0.6,ak,ak02422ggx64,2024-02-14T02:18:53.458Z,"6 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
