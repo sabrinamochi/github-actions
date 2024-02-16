@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-16T19:10:30.463Z,37.4259,-116.9499,1.2,1,ml,12,150.8,0.277,0.2718,nn,nn00873594,2024-02-16T19:12:52.168Z,"40 km SE of Goldfield, Nevada",earthquake,,19.7,0.34,5,automatic,nn,nn
 2024-02-16T18:42:41.190Z,19.2533340454102,-155.404327392578,29.7999992370605,2.68000007,md,24,128,0.08157,0.150000006,hv,hv74114106,2024-02-16T18:44:26.410Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.930000007,0.200000003,4,automatic,hv,hv
 2024-02-16T18:24:13.240Z,19.2523326873779,-155.401168823242,28.9500007629395,2.16000009,md,27,129,0.08196,0.159999996,hv,hv74114096,2024-02-16T18:26:07.230Z,"9 km NE of Pāhala, Hawaii",earthquake,0.7,0.939999998,0.670000017,5,automatic,hv,hv
 2024-02-16T18:14:43.930Z,19.3255004882812,-155.111999511719,5.42000007629395,2.04,ml,43,137,0.0426,0.189999998,hv,hv74114086,2024-02-16T18:17:21.530Z,"15 km S of Fern Forest, Hawaii",earthquake,0.41,0.5,0.35,6,automatic,hv,hv
@@ -7,12 +8,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-16T17:50:03.720Z,38.8180008,-122.8148346,2.76,0.96,md,9,92,0.006545,0.01,nc,nc74003616,2024-02-16T18:30:12.760Z,"7 km NW of The Geysers, CA",earthquake,0.54,1,0.12,10,automatic,nc,nc
 2024-02-16T17:44:07.190Z,38.8288345,-122.7996674,2.08,1.08,md,21,42,0.009776,0.02,nc,nc74003611,2024-02-16T18:19:11.695Z,"7 km W of Cobb, CA",earthquake,0.22,0.43,0.1,22,automatic,nc,nc
 2024-02-16T17:42:40.510Z,38.8359985,-122.802002,2.05,1.05,md,24,60,0.009417,0.02,nc,nc74003606,2024-02-16T18:08:11.635Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.43,0.14,25,automatic,nc,nc
-2024-02-16T17:40:03.260Z,38.8363342,-122.8014984,2.01,1.34,md,26,62,0.008954,0.03,nc,nc74003601,2024-02-16T19:07:13.984Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.37,0.12,25,automatic,nc,nc
+2024-02-16T17:40:03.260Z,38.8363342,-122.8014984,2.01,1.34,md,26,62,0.008954,0.03,nc,nc74003601,2024-02-16T19:12:11.014Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.37,0.12,25,automatic,nc,nc
 2024-02-16T17:15:36.680Z,38.4961666666667,-112.8895,1.57,-0.43,md,10,110,0.005851,0.08,uu,uu80037776,2024-02-16T17:41:16.900Z,"15 km NE of Milford, Utah",earthquake,0.31,0.53,0.606517545513512,3,reviewed,uu,uu
 2024-02-16T16:59:33.738Z,61.4002,-152.2087,24.9,1.8,ml,,,,1.25,ak,ak0242604yql,2024-02-16T17:01:46.297Z,"66 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-16T16:47:52.241Z,62.4273,-148.9885,0,1.9,ml,,,,0.82,ak,ak0242602fko,2024-02-16T16:49:49.788Z,"53 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-16T16:33:07.100Z,38.8269997,-122.8156662,2.03,0.75,md,14,67,0.00566,0.02,nc,nc74003591,2024-02-16T17:03:13.463Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.55,0.19,15,automatic,nc,nc
-2024-02-16T16:30:18.830Z,47.595,-123.09383333333334,50.37,3.54,ml,93,20,0.05931,0.37,uw,uw61983351,2024-02-16T19:05:44.163Z,"17 km WSW of Brinnon, Washington",earthquake,0.36,0.65,0.1803075904192446,69,reviewed,uw,uw
+2024-02-16T16:30:18.830Z,47.595,-123.09383333333334,50.37,3.54,ml,93,20,0.05931,0.37,uw,uw61983351,2024-02-16T19:12:48.990Z,"17 km WSW of Brinnon, Washington",earthquake,0.36,0.65,0.1803075904192446,69,reviewed,uw,uw
 2024-02-16T16:24:02.634Z,59.4393,-153.0785,101.6,2.5,ml,,,,0.38,ak,ak02425zxeaa,2024-02-16T16:26:21.802Z,"66 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-16T16:21:20.390Z,60.3063,-152.5548,108,1.8,ml,,,,0.48,ak,ak02425zwshz,2024-02-16T16:23:39.198Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-16T16:07:57.967Z,37.7629,-116.1174,0,1.1,ml,11,253.96,0.316,0.1445,nn,nn00873592,2024-02-16T18:27:53.878Z,"35 km WNW of Rachel, Nevada",earthquake,,0,0.27,6,reviewed,nn,nn
