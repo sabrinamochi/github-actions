@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-17T10:59:32.530Z,38.7981682,-122.75,0.96,1.03,md,10,96,0.007976,0.02,nc,nc74003911,2024-02-17T11:01:08.332Z,"2 km NNE of The Geysers, CA",earthquake,0.28,1.27,0.23,10,automatic,nc,nc
+2024-02-17T10:59:32.530Z,38.7981682,-122.75,0.96,1.03,md,10,96,0.007976,0.02,nc,nc74003911,2024-02-17T11:10:10.530Z,"2 km NNE of The Geysers, CA",earthquake,0.28,1.27,0.23,10,automatic,nc,nc
 2024-02-17T10:54:25.890Z,33.1655,-115.6306667,2.75,1.38,ml,47,53,0.01736,0.23,ci,ci40671960,2024-02-17T11:01:34.408Z,"12 km WNW of Calipatria, CA",earthquake,0.19,0.23,0.204,27,automatic,ci,ci
+2024-02-17T10:51:38.009Z,-6.916,129.7063,160.652,4.5,mb,26,55,2.386,0.65,us,us7000lzuv,2024-02-17T11:08:48.040Z,"Banda Sea",earthquake,8.97,8.48,0.113,24,reviewed,us,us
 2024-02-17T10:45:03.700Z,19.2136669158936,-155.363327026367,30.3999996185303,2.06999993,md,33,161,0.09764,0.129999995,hv,hv74114551,2024-02-17T10:46:50.330Z,"12 km E of Pāhala, Hawaii",earthquake,0.47,0.709999979,0.170000002,8,automatic,hv,hv
 2024-02-17T10:43:59.760Z,32.7055,-115.4406667,3.54,0.89,ml,19,82,0.09967,0.3,ci,ci40671952,2024-02-17T10:49:50.442Z,"6 km ENE of Calexico, CA",earthquake,0.49,1.15,0.122,11,automatic,ci,ci
 2024-02-17T10:40:33.910Z,32.7263336,-115.4459991,11.34,2.12,ml,44,54,0.07877,0.25,ci,ci40671944,2024-02-17T10:51:55.800Z,"7 km NE of Calexico, CA",earthquake,0.3,0.52,0.244,27,automatic,ci,ci
+2024-02-17T10:31:21.556Z,31.638,-104.006,5.4366,1.7,ml,15,43,0,0.2,tx,tx2024dirm,2024-02-17T11:04:13.417Z,"39 km W of Mentone, Texas",earthquake,0,2.10314518775717,0.2,13,automatic,tx,tx
 2024-02-17T10:19:21.010Z,59.9211,-152.3738,79.1,2.1,ml,,,,0.57,ak,ak02427jv3z9,2024-02-17T10:21:28.915Z,"34 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-17T10:14:58.890Z,33.0955,-115.5735,9.4,1.09,ml,28,76,0.02615,0.23,ci,ci40671936,2024-02-17T10:21:04.161Z,"6 km WSW of Calipatria, CA",earthquake,0.27,0.43,0.284,19,automatic,ci,ci
 2024-02-17T10:01:30.450Z,37.5999985,-118.8454971,6.59,0.88,md,12,147,0.01639,0.02,nc,nc74003906,2024-02-17T10:41:17.358Z,"12 km ESE of Mammoth Lakes, CA",earthquake,1.3,1.36,0.26,12,automatic,nc,nc
@@ -250,7 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-16T11:20:09.600Z,35.6738333,-117.4966667,5.08,0.34,ml,18,122,0.06004,0.14,ci,ci40671352,2024-02-17T02:00:09.429Z,"13 km SW of Searles Valley, CA",earthquake,0.32,0.53,0.235,6,reviewed,ci,ci
 2024-02-16T11:19:33.278Z,59.772,-152.0867,69.2,1.9,ml,,,,0.48,ak,ak02425wx81b,2024-02-16T11:21:58.379Z,"14 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-16T11:13:11.880Z,17.95,-66.3466666666667,12.55,2.66,md,14,164,0.1284,0.18,pr,pr71440178,2024-02-16T19:50:39.338Z,"2 km SE of Jauca, Puerto Rico",earthquake,0.51,0.45,0.245314817399836,11,reviewed,pr,pr
-2024-02-16T11:10:47.650Z,47.466833333333334,-122.3505,24.21,1.41,ml,42,89,0.08337,0.23,uw,uw61983326,2024-02-16T23:34:43.425Z,"0 km SW of Burien, Washington",earthquake,0.24,0.64,0.12260425946047404,18,reviewed,uw,uw
-2024-02-16T11:10:35.320Z,19.0755,-155.365333333333,33.05,2.14,md,55,201,0.1212,0.13,hv,hv74113856,2024-02-17T09:43:13.222Z,"18 km SE of Pāhala, Hawaii",earthquake,0.6,0.54,0.102451902548446,23,reviewed,hv,hv
-2024-02-16T11:10:16.350Z,19.1840000152588,-155.5,35.6300010681152,2.37,ml,43,134,0.04573,0.209999993,hv,hv74113851,2024-02-16T11:12:54.880Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.879999995,0.21,15,automatic,hv,hv
-2024-02-16T11:06:28.895Z,60.744,-147.3138,17,1.9,ml,,,,0.76,ak,ak02425wufe1,2024-02-16T11:08:24.831Z,"37 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
