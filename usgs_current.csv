@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-19T21:47:09.010Z,38.815834,-122.7941666,2.08,1.23,md,14,66,0.007905,0.03,nc,nc74004886,2024-02-19T21:48:44.698Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.92,0.12,15,automatic,nc,nc
+2024-02-19T21:46:57.910Z,38.8156662,-122.7953339,2.16,2.29,md,28,28,0.007687,0.03,nc,nc74004881,2024-02-19T21:48:34.464Z,"5 km NW of The Geysers, CA",earthquake,0.2,0.35,0.34,26,automatic,nc,nc
 2024-02-19T21:27:40.110Z,37.597168,-118.8401642,7.17,0.93,md,8,148,0.01131,0.02,nc,nc74004876,2024-02-19T21:36:10.038Z,"13 km ESE of Mammoth Lakes, CA",earthquake,1.32,2.24,0.19,9,automatic,nc,nc
 2024-02-19T21:19:25.018Z,31.131,-103.562,14.3611,1.8,ml,6,154,0.1,0.6,tx,tx2024dndw,2024-02-19T21:25:38.726Z,"23 km NE of Balmorhea, Texas",earthquake,0,5.5501216359599,0.2,6,automatic,tx,tx
 2024-02-19T21:16:22.776Z,30.976,-103.571,4.453,1.5,ml,12,74,0.1,0.8,tx,tx2024dndt,2024-02-19T21:25:34.726Z,"16 km E of Balmorhea, Texas",earthquake,0,2.02177166210394,0.2,7,automatic,tx,tx
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T20:40:17.820Z,64.4868,-148.0493,4.1,1.2,ml,,,,0.57,ak,ak0242b10mt2,2024-02-19T20:42:09.380Z,"38 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-19T20:36:30.360Z,38.8223343,-122.8454971,2.07,0.81,md,7,128,0.008213,0.01,nc,nc74004871,2024-02-19T21:01:10.821Z,"9 km WNW of The Geysers, CA",earthquake,0.57,1.19,0.18,8,automatic,nc,nc
 2024-02-19T20:05:32.750Z,38.7874985,-122.7546692,2.26,1.32,md,7,164,0.01369,0.02,nc,nc74004866,2024-02-19T20:37:11.674Z,"1 km N of The Geysers, CA",earthquake,0.71,0.94,0.21,11,automatic,nc,nc
-2024-02-19T19:35:14.053Z,60.7737,-149.8937,36.9,3.3,ml,,,,0.34,ak,ak0242b0e4bx,2024-02-19T21:19:34.636Z,"21 km SW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-02-19T19:35:14.053Z,60.7737,-149.8937,36.9,3.3,ml,,,,0.34,ak,ak0242b0e4bx,2024-02-19T21:47:58.423Z,"21 km SW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-19T19:32:04.270Z,39.3356667,-122.416832,-0.09,1.82,md,11,159,0.2312,0.31,nc,nc74004861,2024-02-19T20:13:11.799Z,"20 km WNW of Maxwell, CA",earthquake,6.47,20.45,,1,automatic,nc,nc
 2024-02-19T19:12:52.938Z,31.662,-104.399,6.3519,2.1,ml,14,70,0.1,0.3,tx,tx2024dmzr,2024-02-19T19:49:59.566Z,"56 km S of Whites City, New Mexico",earthquake,0,3.38363940415799,0.2,10,automatic,tx,tx
 2024-02-19T19:12:04.761Z,66.3862,-146.8035,36.5,1.8,ml,,,,0.89,ak,ak0242b09658,2024-02-19T19:15:00.373Z,"26 km E of Beaver, Alaska",earthquake,,9.6,,,automatic,ak,ak
@@ -145,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T00:37:50.710Z,46.483,-112.317,2.48,2.06,ml,28,61,0.1287,0.12,mb,mb90041003,2024-02-19T15:19:53.440Z,"12 km SE of Elliston, Montana",earthquake,0.25,0.81,0.171347770938979,20,reviewed,mb,mb
 2024-02-19T00:32:58.790Z,38.8398323,-122.8206635,3.13,0.76,md,10,98,0.01164,0.01,nc,nc74004581,2024-02-19T00:48:11.032Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.28,0.38,8,automatic,nc,nc
 2024-02-19T00:21:57.070Z,35.8828316,-121.4735031,5.85,1.88,md,15,189,0.09177,0.12,nc,nc74004571,2024-02-19T04:41:10.347Z,"17 km SSE of Lopez Point, CA",earthquake,0.93,0.6,0.26,12,automatic,nc,nc
-2024-02-19T00:16:02.510Z,32.8276667,-115.5991667,14.15,1.24,ml,17,98,0.06485,0.25,ci,ci40672664,2024-02-19T00:22:07.622Z,"4 km SW of Imperial, CA",earthquake,0.5,0.81,0.165,17,automatic,ci,ci
+2024-02-19T00:16:02.700Z,32.8188333,-115.598,12.2,1.27,ml,15,104,0.05678,0.25,ci,ci40672664,2024-02-19T21:45:57.350Z,"4 km SW of Imperial, CA",earthquake,0.59,0.95,0.129,7,reviewed,ci,ci
 2024-02-19T00:05:06.730Z,37.503334,-122.0934982,9.61,1.91,md,5,132,0.1693,0.01,nc,nc74004561,2024-02-19T04:53:44.691Z,"6 km WSW of Newark, CA",earthquake,1.42,3.31,,1,automatic,nc,nc
 2024-02-19T00:04:01.950Z,17.9033333333333,-66.2978333333333,10.47,2.28,md,12,192,0.1387,0.15,pr,pr71440428,2024-02-19T00:25:14.560Z,"8 km S of Salinas, Puerto Rico",earthquake,0.48,0.63,0.0946008386928949,7,reviewed,pr,pr
 2024-02-19T00:00:35.675Z,31.714,-104.273,7.3303,1.8,ml,24,52,0,0.2,tx,tx2024dlnr,2024-02-19T15:53:57.012Z,"52 km S of Whites City, New Mexico",earthquake,0.7632999355966015,0.7050346811383258,0.1,18,reviewed,tx,tx
