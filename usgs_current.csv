@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-21T21:44:03.377Z,33.1494,137.8387,326.15,4.1,mb,50,93,1.658,0.61,us,us7000m0mu,2024-02-21T22:00:46.040Z,"161 km SE of Shima, Japan",earthquake,9.26,4.64,0.09,34,reviewed,us,us
 2024-02-21T21:29:58.607Z,58.4105,-152.7063,44.6,2.2,ml,,,,0.64,ak,ak0242ecmho4,2024-02-21T21:32:45.670Z,"40 km NNE of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-21T21:29:23.510Z,38.5001666666667,-112.902166666667,1.64,0.37,md,10,132,0.01226,0.13,uu,uu80045546,2024-02-21T21:39:44.250Z,"14 km NE of Milford, Utah",earthquake,0.5,0.72,0.417538940174108,5,reviewed,uu,uu
 2024-02-21T21:18:22.930Z,35.6748333,-117.506,3.3,1.21,ml,26,58,0.0677,0.14,ci,ci40673864,2024-02-21T21:24:22.732Z,"14 km SW of Searles Valley, CA",earthquake,0.18,0.34,0.181,14,automatic,ci,ci
@@ -245,7 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T00:31:43.000Z,46.2496666666667,-111.765333333333,5.01,1.13,ml,12,76,0.2472,0.12,mb,mb90041238,2024-02-21T17:33:27.210Z,"11 km WNW of Radersburg, Montana",earthquake,0.32,7.74,0.319972640505856,5,reviewed,mb,mb
 2024-02-21T00:30:19.450Z,37.5535,-118.811,8.16,0.55,md,12,222,0.0392,0.02,nc,nc74005256,2024-02-21T08:53:14.931Z,"12 km W of Toms Place, CA",earthquake,1.36,1.59,0.269,11,reviewed,nc,nc
 2024-02-21T00:29:28.140Z,38.4965,-112.893666666667,1.8,0.86,md,13,83,0.00749,0.09,uu,uu80043776,2024-02-21T19:45:34.160Z,"15 km NE of Milford, Utah",earthquake,0.28,0.45,0.154506025646759,4,reviewed,uu,uu
-2024-02-21T00:23:29.440Z,35.0453333,-117.6593333,-0.54,2.04,ml,38,42,0.1148,0.17,ci,ci40673360,2024-02-21T00:30:19.879Z,"5 km N of Boron, CA",earthquake,0.24,0.57,0.193,31,automatic,ci,ci
+2024-02-21T00:23:29.270Z,35.0488333,-117.662,-0.79,2.01,ml,32,46,0.1176,0.13,ci,ci40673360,2024-02-21T22:00:10.224Z,"6 km NNW of Boron, CA",quarry blast,0.24,31.61,0.165,25,reviewed,ci,ci
 2024-02-21T00:12:34.950Z,38.8071671,-122.8186646,3.01,0.69,md,9,100,0.008388,0.02,nc,nc74005236,2024-02-21T00:30:10.713Z,"6 km WNW of The Geysers, CA",earthquake,0.4,0.91,0.26,11,automatic,nc,nc
 2024-02-21T00:11:28.750Z,38.8064995,-122.8181686,2.64,1.09,md,20,65,0.008921,0.03,nc,nc74005231,2024-02-21T00:25:30.443Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.59,0.14,21,automatic,nc,nc
 2024-02-20T23:59:40.880Z,38.7868347,-122.7378311,4.14,0.77,md,8,157,0.003695,0.08,nc,nc74005226,2024-02-21T00:41:17.011Z,"2 km ENE of The Geysers, CA",earthquake,0.85,1.55,0.13,6,automatic,nc,nc
@@ -271,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T22:19:25.260Z,38.8260002,-122.8531647,1.7,0.7,md,10,153,0.003282,0.01,nc,nc74005201,2024-02-20T23:12:14.286Z,"10 km WNW of The Geysers, CA",earthquake,0.43,0.53,0.31,11,automatic,nc,nc
 2024-02-20T22:02:59.763Z,36.6027,-116.2609,5,0.8,ml,17,187.46,0.076,0.0696,nn,nn00873704,2024-02-20T22:59:50.788Z,"50 km NNW of Pahrump, Nevada",earthquake,,2,0.25,4,reviewed,nn,nn
 2024-02-20T22:02:21.180Z,38.8128319,-122.8786697,3.83,0.68,md,10,190,0.01867,0.32,nc,nc74005186,2024-02-20T22:53:17.172Z,"11 km WNW of The Geysers, CA",earthquake,1.95,3.59,0.14,8,automatic,nc,nc
-2024-02-20T22:01:05.220Z,38.8406677,-122.8373337,0.92,0.27,md,6,119,0.002528,0.01,nc,nc74005181,2024-02-20T22:42:13.102Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.9,0.15,7,automatic,nc,nc
