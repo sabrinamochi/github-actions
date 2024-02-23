@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-23T02:01:47.523Z,62.8544,-149.2873,5.4,1.1,ml,,,,0.55,ak,ak0242hc7x9c,2024-02-23T02:03:42.216Z,"61 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-23T01:51:33.640Z,33.0448333,-116.1768333,5.8,1.08,ml,48,55,0.1108,0.2,ci,ci40674784,2024-02-23T02:05:54.712Z,"12 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.23,0.164,27,automatic,ci,ci
+2024-02-23T01:51:12.509Z,-35.1238,-110.7859,1.992,6.3,mww,80,76,8.022,0.78,us,us7000m0zq,2024-02-23T02:11:54.040Z,"southern East Pacific Rise",earthquake,11.82,3.994,0.08,15,reviewed,us,us
 2024-02-23T01:26:17.280Z,33.4981667,-116.6335,-1.24,0.41,ml,13,139,0.0259,0.28,ci,ci40674776,2024-02-23T01:32:16.530Z,"7 km SSE of Anza, CA",earthquake,0.88,3.55,0.03,3,automatic,ci,ci
 2024-02-23T01:13:21.480Z,38.7686653,-122.7366638,1.09,0.97,md,8,80,0.01162,0.04,nc,nc74006326,2024-02-23T01:58:11.815Z,"2 km ESE of The Geysers, CA",earthquake,0.45,0.86,0.25,8,automatic,nc,nc
 2024-02-23T01:09:14.240Z,37.4323349,-121.7728348,9.99,1.51,md,26,51,0.02835,0.05,nc,nc74006316,2024-02-23T01:47:13.620Z,"9 km NNE of Alum Rock, CA",earthquake,0.2,0.4,0.18,14,automatic,nc,nc
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-22T17:59:19.316Z,65.9489,-151.1762,5.1,2,ml,,,,0.65,ak,ak0242fxyg6z,2024-02-22T18:02:31.457Z,"67 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-22T17:58:01.470Z,59.3685,-153.434,0.37,0.33,ml,4,293,,0.12,av,av92212156,2024-02-22T22:15:21.350Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.6,0.22,0.270404775595765,4,reviewed,av,av
 2024-02-22T17:53:42.583Z,62.8759,-150.7812,83.9,2.6,ml,,,,0.5,ak,ak0242fxx7n0,2024-02-22T18:10:55.040Z,"42 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-22T17:35:11.280Z,37.5338333,-121.9068333,7.4,3.16,ml,128,23,0.0114,0.1,nc,nc74006136,2024-02-23T01:53:28.001Z,"7 km E of Fremont, CA",earthquake,0.09,0.16,0.183,125,reviewed,nc,nc
+2024-02-22T17:35:11.280Z,37.5338333,-121.9068333,7.4,3.16,ml,128,23,0.0114,0.1,nc,nc74006136,2024-02-23T02:10:46.622Z,"7 km E of Fremont, CA",earthquake,0.09,0.16,0.183,125,reviewed,nc,nc
 2024-02-22T17:30:17.080Z,18.1143333333333,-66.8836666666667,20.04,2.04,md,6,120,0.1386,0.26,pr,pr71440873,2024-02-22T17:57:17.820Z,"8 km NNE of Lluveras, Puerto Rico",earthquake,1.04,2.23,0.116674670727955,4,reviewed,pr,pr
 2024-02-22T17:17:37.750Z,38.7985001,-122.7583313,1.57,1.4,md,26,89,0.00238,0.05,nc,nc74006121,2024-02-22T19:51:12.075Z,"2 km N of The Geysers, CA",earthquake,0.23,0.36,0.15,26,automatic,nc,nc
 2024-02-22T17:14:58.928Z,64.9323,-148.8686,8.1,1,ml,,,,0.43,ak,ak0242fxow10,2024-02-22T17:17:13.941Z,"33 km SE of Minto, Alaska",earthquake,,2.4,,,automatic,ak,ak
@@ -288,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-22T02:30:28.540Z,33.6596667,-116.7381667,17.74,0.69,ml,36,62,0.05447,0.13,ci,ci40674000,2024-02-22T02:36:28.475Z,"9 km SSW of Idyllwild, CA",earthquake,0.19,0.33,0.114,15,automatic,ci,ci
 2024-02-22T02:15:33.240Z,40.2464981,-124.3411636,5.78,1.55,md,8,244,0.04191,0.1,nc,nc74005756,2024-02-22T05:44:13.334Z,"10 km SSW of Petrolia, CA",earthquake,1.11,1.54,0.16,5,automatic,nc,nc
 2024-02-22T02:14:02.090Z,33.527,-116.518,12.94,0.62,ml,20,113,0.0323,0.1,ci,ci40673992,2024-02-22T14:39:24.888Z,"15 km ESE of Anza, CA",earthquake,0.41,0.73,0.139,13,reviewed,ci,ci
-2024-02-22T02:12:52.060Z,57.0381666666667,-135.641,6.44,0.6,ml,4,180,,0.08,av,av91133108,2024-02-22T19:59:19.360Z,"18 km W of Sitka, Alaska",earthquake,1.11,1.01,0.118062656459805,4,reviewed,av,av
