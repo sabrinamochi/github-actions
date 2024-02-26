@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-26T19:11:48.360Z,38.8084984,-122.8238297,1.92,1.5,md,29,54,0.004195,0.05,nc,nc74008341,2024-02-26T19:13:23.328Z,"7 km WNW of The Geysers, CA",earthquake,0.2,0.32,0.17,27,automatic,nc,nc
-2024-02-26T18:58:39.518Z,38.1504,-117.8431,4.4,2.1,ml,9,165.01,0.122,0.3127,nn,nn00873924,2024-02-26T19:01:26.683Z,"35 km SE of Mina, Nevada",earthquake,,0.9,0.08,7,automatic,nn,nn
+2024-02-26T18:58:39.653Z,38.1495,-117.8307,11,1.9,ml,11,92.9,0.121,0.1459,nn,nn00873924,2024-02-26T19:31:01.183Z,"36 km SE of Mina, Nevada",earthquake,,1.3,0.44,6,reviewed,nn,nn
 2024-02-26T18:54:48.020Z,38.824501,-122.7848358,0.09,0.69,md,9,101,0.01168,0.01,nc,nc74008331,2024-02-26T18:56:22.036Z,"5 km W of Cobb, CA",earthquake,0.39,1.26,0.16,9,automatic,nc,nc
 2024-02-26T18:54:45.497Z,64.4637,-146.9649,1.2,0.8,ml,,,,0.53,ak,ak0242mko97p,2024-02-26T18:56:32.883Z,"7 km SSW of Salcha, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-02-26T18:44:01.580Z,38.829834,-122.7929993,1.58,1.69,md,28,43,0.00881,0.05,nc,nc74008321,2024-02-26T18:45:37.993Z,"6 km W of Cobb, CA",earthquake,0.23,0.33,0.15,28,automatic,nc,nc
 2024-02-26T18:31:13.220Z,38.836834,-122.7996674,2.11,0.23,md,9,71,0.007449,0.01,nc,nc74008311,2024-02-26T18:32:47.781Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.43,0.12,9,automatic,nc,nc
-2024-02-26T18:30:17.859Z,26.0881,127.6741,35,4.3,mb,30,148,0.918,0.66,us,us7000m1q3,2024-02-26T19:29:55.040Z,"4 km S of Itoman, Japan",earthquake,4.56,1.965,0.125,18,reviewed,us,us
+2024-02-26T18:30:17.859Z,26.0881,127.6741,35,4.3,mb,30,148,0.918,0.66,us,us7000m1q3,2024-02-26T19:31:07.788Z,"4 km S of Itoman, Japan",earthquake,4.56,1.965,0.125,18,reviewed,us,us
 2024-02-26T18:27:45.377Z,62.0228,-149.4605,14.8,1.6,ml,,,,0.35,ak,ak0242mkigvd,2024-02-26T18:29:35.868Z,"25 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-26T18:25:15.610Z,38.8310013,-122.8174973,1.68,0.77,md,17,52,0.009555,0.02,nc,nc74008306,2024-02-26T18:26:51.748Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.58,0.16,17,automatic,nc,nc
 2024-02-26T18:17:40.920Z,44.3658333333333,-116.112166666667,4.98,2.17,ml,7,89,0.353,0.09,mb,mb90041803,2024-02-26T18:45:27.150Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.59,8.02,0.28843506241071,8,reviewed,mb,mb
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T17:46:02.567Z,44.3605,-116.1518,9.934,2.7,ml,11,69,0.334,0.86,us,us7000m1ph,2024-02-26T19:14:31.205Z,"8 km NW of Smiths Ferry, Idaho",earthquake,2.45,2.724,0.071,26,reviewed,us,us
 2024-02-26T17:42:39.600Z,44.3666666666667,-116.099,4.98,1.65,ml,7,87,0.3587,0.07,mb,mb90041778,2024-02-26T19:03:38.667Z,"7 km N of Smiths Ferry, Idaho",earthquake,0.57,7.21,0.321267232187565,6,reviewed,mb,mb
 2024-02-26T17:35:53.630Z,17.861,-66.8848333333333,8.02,2.64,md,8,220,0.1136,0.23,pr,pr71441323,2024-02-26T17:49:09.160Z,"12 km SSE of Guánica, Puerto Rico",earthquake,1.15,1.6,0.175698772631691,9,reviewed,pr,pr
-2024-02-26T17:25:43.069Z,44.3923,-116.1088,8.879,4.9,mww,89,41,0.377,0.77,us,us7000m1pd,2024-02-26T19:26:05.876Z,"10 km N of Smiths Ferry, Idaho",earthquake,5.3,4.284,0.045,47,reviewed,us,us
+2024-02-26T17:25:43.069Z,44.3923,-116.1088,8.879,4.9,mww,89,41,0.377,0.77,us,us7000m1pd,2024-02-26T19:30:01.202Z,"10 km N of Smiths Ferry, Idaho",earthquake,5.3,4.284,0.045,47,reviewed,us,us
 2024-02-26T17:15:32.906Z,11.495,57.646,10,5,mww,72,69,13.448,0.43,us,us7000m1ng,2024-02-26T17:34:07.040Z,"Owen Fracture Zone region",earthquake,9.91,1.874,0.098,10,reviewed,us,us
 2024-02-26T17:14:28.340Z,38.8139992,-122.8008347,2.96,0.81,md,23,52,0.007413,0.02,nc,nc74008231,2024-02-26T17:16:03.045Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.51,0.24,24,automatic,nc,nc
 2024-02-26T16:51:56.826Z,37.2588,-117.6039,9.1,1.3,ml,9,111.66,0.042,0.1394,nn,nn00873916,2024-02-26T18:29:05.846Z,"55 km S of Silver Peak, Nevada",earthquake,,1.8,0.48,4,reviewed,nn,nn
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T12:44:31.770Z,40.3176651,-124.7109985,15.59,2.74,md,15,277,0.2833,0.15,nc,nc74008141,2024-02-26T13:18:13.616Z,"36 km W of Petrolia, CA",earthquake,3.58,1.19,0.09,14,automatic,nc,nc
 2024-02-26T12:28:43.114Z,41.2381,78.8324,10,4.3,mb,36,114,0.292,1.18,us,us7000m1lv,2024-02-26T13:56:31.040Z,"113 km WNW of Aykol, China",earthquake,2.52,1.952,0.134,16,reviewed,us,us
 2024-02-26T12:12:14.137Z,60.3365,-150.9816,34,1.5,ml,,,,0.72,ak,ak0242mgul39,2024-02-26T12:14:31.293Z,"16 km E of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-02-26T12:11:24.940Z,33.649,-116.7051667,16.1,0.5,ml,34,54,0.03284,0.11,ci,ci40676552,2024-02-26T12:17:23.543Z,"10 km S of Idyllwild, CA",earthquake,0.17,0.29,0.131,11,automatic,ci,ci
+2024-02-26T12:11:24.860Z,33.646,-116.7095,16.59,0.47,ml,37,54,0.03753,0.12,ci,ci40676552,2024-02-26T19:31:00.293Z,"10 km S of Idyllwild, CA",earthquake,0.17,0.31,0.136,11,reviewed,ci,ci
 2024-02-26T12:09:58.812Z,58.8663,-153.9221,20.6,1,ml,,,,0.67,ak,ak0242mgu4vf,2024-02-26T12:12:36.700Z,"80 km SE of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-26T12:08:20.130Z,33.686,-116.7416667,16.28,1,ml,62,38,0.034,0.17,ci,ci40676544,2024-02-26T14:07:48.190Z,"6 km SSW of Idyllwild, CA",earthquake,0.16,0.27,0.214,27,reviewed,ci,ci
 2024-02-26T12:04:22.465Z,31.572,-104.193,7.5354,1.6,ml,16,72,0.1,0.1,tx,tx2024dzgb,2024-02-26T16:31:18.527Z,"47 km NW of Toyah, Texas",earthquake,0.9085467366685277,0.848651861898844,0.2,8,reviewed,tx,tx
