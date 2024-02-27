@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-27T03:44:06.830Z,33.9143333,-117.0773315,17.17,1.59,ml,54,30,0.08076,0.18,ci,ci40676984,2024-02-27T03:46:29.687Z,"8 km SSW of Calimesa, CA",earthquake,0.24,0.64,0.266,28,automatic,ci,ci
+2024-02-27T03:44:06.860Z,33.9135,-117.0736667,16.51,1.61,ml,65,30,0.07781,0.17,ci,ci40676984,2024-02-27T03:50:52.774Z,"8 km SSW of Calimesa, CA",earthquake,0.14,0.41,0.174,28,automatic,ci,ci
 2024-02-27T03:23:07.456Z,14.1338,-92.6414,35,4.6,mb,62,164,2.115,0.89,us,us7000m1sh,2024-02-27T03:37:17.040Z,"63 km SW of Brisas Barra de Suchiate, Mexico",earthquake,7.19,1.958,0.035,239,reviewed,us,us
 2024-02-27T03:16:17.448Z,13.9567,-92.6936,10,4.4,mb,43,207,2.204,1.18,us,us7000m1sb,2024-02-27T03:34:00.040Z,"81 km SW of Ocós, Guatemala",earthquake,4.57,1.975,0.071,57,reviewed,us,us
 2024-02-27T03:01:24.640Z,38.8294983,-122.810997,1.88,1.46,md,27,44,0.006137,0.03,nc,nc74008556,2024-02-27T03:02:59.167Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.32,0.2,29,automatic,nc,nc
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T00:14:31.520Z,48.087666666666664,-121.9395,-0.41,1.24,ml,13,66,0.01515,0.09,uw,uw61985221,2024-02-27T00:41:07.180Z,"2 km E of Granite Falls, Washington",explosion,0.31,31.61,0.13989474854510853,7,reviewed,uw,uw
 2024-02-27T00:14:13.356Z,32.171,141.665,10,4.7,mb,55,129,1.824,0.48,us,us7000m1s3,2024-02-27T00:56:50.040Z,"Izu Islands, Japan region",earthquake,8.93,1.902,0.068,65,reviewed,us,us
 2024-02-27T00:04:19.796Z,61.1854,-151.1284,46.1,2,ml,,,,0.46,ak,ak0242nx7117,2024-02-27T00:06:44.166Z,"5 km NNW of Beluga, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2024-02-27T00:01:04.350Z,44.3693333333333,-116.108833333333,8.89,2.73,ml,12,88,0.3572,0.17,mb,mb90041953,2024-02-27T03:32:24.516Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.44,1.1,0.235828314166788,25,reviewed,mb,mb
+2024-02-27T00:01:04.350Z,44.3693333333333,-116.108833333333,8.89,2.73,ml,12,88,0.3572,0.17,mb,mb90041953,2024-02-27T03:50:24.576Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.44,1.1,0.235828314166788,25,reviewed,mb,mb
 2024-02-26T23:55:35.284Z,-7.5527,105.8011,30.667,4.6,mb,46,125,1.835,0.66,us,us7000m1rt,2024-02-27T00:15:08.040Z,"103 km SW of Pelabuhanratu, Indonesia",earthquake,6.91,1.167,0.09,37,reviewed,us,us
 2024-02-26T23:14:18.073Z,60.021,-153.4223,135.4,2.3,ml,,,,0.95,ak,ak0242mneshf,2024-02-26T23:18:28.019Z,"46 km NE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-26T23:07:05.820Z,38.8333321,-122.8123322,1.8,0.86,md,15,52,0.01008,0.01,nc,nc74008456,2024-02-26T23:08:41.812Z,"8 km W of Cobb, CA",earthquake,0.27,0.7,0.24,16,automatic,nc,nc
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T03:56:27.560Z,36.0071667,-117.8045,0.59,0.83,ml,16,80,0.03655,0.24,ci,ci37627348,2024-02-26T17:21:22.219Z,"12 km NE of Little Lake, CA",earthquake,0.3,0.5,0.156,7,reviewed,ci,ci
 2024-02-26T03:56:08.270Z,36.0055,-117.807,1.02,0.97,ml,22,55,0.03914,0.14,ci,ci40676392,2024-02-26T17:14:25.468Z,"12 km NE of Little Lake, CA",earthquake,0.15,0.24,0.13,9,reviewed,ci,ci
 2024-02-26T03:54:39.070Z,18.8998,-67.3603,93,3.5,md,13,229,0.9601,0.5,pr,pr2024057001,2024-02-26T05:06:07.820Z,"52 km NNW of San Antonio, Puerto Rico",earthquake,6.3,7.36,0.11,5,reviewed,pr,pr
-2024-02-26T03:50:07.220Z,38.4968333333333,-112.899333333333,1.3,2.32,ml,20,57,0.01103,0.13,uu,uu80048896,2024-02-26T14:17:22.650Z,"14 km NE of Milford, Utah",earthquake,0.29,0.5,0.216445048489136,13,reviewed,uu,uu
