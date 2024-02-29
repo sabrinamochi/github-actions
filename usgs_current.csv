@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-29T19:26:31.150Z,32.7756653,-116.6364975,3.82,1.27,ml,12,167,0.2078,0.39,ci,ci40678984,2024-02-29T19:28:36.528Z,"11 km WSW of Pine Valley, CA",earthquake,5.18,20.24,0.289,10,automatic,ci,ci
+2024-02-29T19:35:10.090Z,38.8516655,-122.8154984,12,1.16,md,9,152,0.00682,0.06,nc,nc74009936,2024-02-29T19:36:43.183Z,"9 km WNW of Cobb, CA",earthquake,1.79,1.9,0.38,9,automatic,nc,nc
+2024-02-29T19:31:59.800Z,32.903,-116.9526667,5.35,1.5,ml,55,67,0.06546,0.23,ci,ci40678992,2024-02-29T19:39:17.399Z,"6 km NNW of Lakeside, CA",earthquake,0.22,0.55,0.166,30,automatic,ci,ci
+2024-02-29T19:26:31.150Z,32.7756653,-116.6364975,3.82,1.27,ml,12,167,0.2078,0.39,ci,ci40678984,2024-02-29T19:32:57.366Z,"11 km WSW of Pine Valley, CA",earthquake,5.18,20.24,0.289,10,automatic,ci,ci
 2024-02-29T19:19:27.990Z,37.7949982,-122.2203369,4.59,0.44,md,5,114,0.03718,0.06,nc,nc74009931,2024-02-29T19:21:03.040Z,"1 km E of Oakland, CA",earthquake,1.4,9.45,0.1,2,automatic,nc,nc
+2024-02-29T19:17:24.736Z,-18.0022,-178.4346,597.26,4.4,mb,39,68,3.686,1.06,us,us6000mfwy,2024-02-29T19:35:25.040Z,"238 km E of Levuka, Fiji",earthquake,13.5,9.295,0.077,49,reviewed,us,us
 2024-02-29T19:06:37.886Z,64.4915,-146.9732,2.9,1.8,ml,,,,0.81,ak,ak0242rjlfcc,2024-02-29T19:08:21.687Z,"4 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-29T18:44:54.380Z,38.838501,-122.8389969,7.34,0.82,md,5,219,0.02716,0.02,nc,nc74009926,2024-02-29T18:46:28.521Z,"10 km NW of The Geysers, CA",earthquake,2.19,2.96,0.12,6,automatic,nc,nc
 2024-02-29T18:38:04.900Z,19.2665004730225,-155.397003173828,30.2999992370605,1.83000004,md,40,126,0.0674,0.119999997,hv,hv74124976,2024-02-29T18:40:02.250Z,"11 km NE of Pāhala, Hawaii",earthquake,0.53,0.620000005,0.200000003,9,automatic,hv,hv
@@ -134,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T03:16:35.128Z,62.2935,-151.3464,73.6,2.3,ml,,,,0.73,ak,ak0242ra4mre,2024-02-29T03:18:56.575Z,"33 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-29T03:14:25.762Z,32.758,-100.649,6.2256,2.9,ml,15,64,0.1,0.1,tx,tx2024eebc,2024-02-29T03:48:52.037Z,"17 km NE of Hermleigh, Texas",earthquake,0.8938796246905778,1.9069391075080682,0.1,12,reviewed,tx,tx
 2024-02-29T03:01:39.281Z,38.0889,-116.2138,0,1.3,ml,6,217.35,0.577,0.1104,nn,nn00874061,2024-02-29T19:22:54.922Z,"64 km NW of Rachel, Nevada",earthquake,,0,0.34,2,reviewed,nn,nn
-2024-02-29T02:21:45.670Z,37.8886667,-121.6303333,8.17,3.49,mw,135,67,0.02413,0.26,nc,nc74009641,2024-02-29T19:25:44.620Z,"2 km NNE of Byron, CA",earthquake,0.2,0.48,,3,reviewed,nc,nc
+2024-02-29T02:21:45.670Z,37.8886667,-121.6303333,8.17,3.49,mw,135,67,0.02413,0.26,nc,nc74009641,2024-02-29T19:31:09.454Z,"2 km NNE of Byron, CA",earthquake,0.2,0.48,,3,reviewed,nc,nc
 2024-02-29T02:18:14.110Z,33.3863333,-116.876,4.87,0.53,ml,34,42,0.0345,0.22,ci,ci40678592,2024-02-29T14:39:05.914Z,"4 km NNW of Palomar Observatory, CA",earthquake,0.26,0.4,0.042,14,reviewed,ci,ci
 2024-02-29T02:17:11.510Z,32.74,-100.638,0.2197,2.5,ml,28,81,0.3,0.2,tx,tx2024edzg,2024-02-29T09:20:14.560Z,"16 km NE of Hermleigh, Texas",earthquake,0.8577797554896576,1.178046868057717,0.1,18,reviewed,tx,tx
 2024-02-29T02:13:08.351Z,35.2746,140.5612,24.761,4.4,mwr,75,138,2.241,0.82,us,us6000mfrb,2024-02-29T05:15:32.634Z,"15 km E of Ōhara, Japan",earthquake,5.3,5.474,0.078,16,reviewed,us,us
@@ -220,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T19:50:43.610Z,-28.0488,-66.7884,156.708,4.7,mb,88,43,3.573,0.84,us,us6000mfnw,2024-02-28T20:07:46.040Z,"50 km SE of Londres, Argentina",earthquake,6.85,6.273,0.047,143,reviewed,us,us
 2024-02-28T19:48:12.890Z,35.0385,-118.749,12.1,0.64,ml,5,216,0.01206,0.14,ci,ci40678248,2024-02-28T21:41:02.955Z,"20 km ENE of Grapevine, CA",earthquake,1.43,1.34,0.229,3,reviewed,ci,ci
 2024-02-28T19:45:12.600Z,38.4923333333333,-112.899,2.25,1.03,md,17,52,0.009508,0.1,uu,uu80052551,2024-02-28T20:18:51.840Z,"14 km NE of Milford, Utah",earthquake,0.26,0.39,0.460375517681174,7,reviewed,uu,uu
-2024-02-28T19:39:38.799Z,36.6442,-116.2705,6.2,-0.2,ml,7,206.02,0.055,0.0978,nn,nn00874031,2024-02-28T22:09:13.481Z,"52 km SE of Beatty, Nevada",earthquake,,2.6,0,2,reviewed,nn,nn
-2024-02-28T19:37:05.042Z,60.1848,-141.1485,19,1.9,ml,,,,0.85,ak,ak0242pw8nig,2024-02-28T19:38:59.391Z,"106 km NW of Yakutat, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-02-28T19:32:14.420Z,37.9949989,-122.4560013,3.03,1.6,md,10,122,0.01631,0.2,nc,nc74009416,2024-02-28T19:33:48.321Z,"6 km E of Santa Venetia, CA",earthquake,0.61,1.1,0.2,7,automatic,nc,nc
-2024-02-28T19:31:47.470Z,52.369,-174.154,2.93,0.36,ml,6,103,,0.29,av,av91134448,2024-02-29T00:57:35.610Z,"19 km N of Atka, Alaska",earthquake,0.94,1.31,0.349234782628192,6,reviewed,av,av
