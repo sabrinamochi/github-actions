@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T17:26:56.811Z,59.3885,-154.3067,87.2,2.7,ml,,,,1.45,ak,ak0242t628dm,2024-03-01T17:30:03.496Z,"21 km SSE of Pope-Vannoy Landing, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-03-01T17:06:22.345Z,31.668,-104.375,6.0486,2,ml,14,66,0,0.2,tx,tx2024egyb,2024-03-01T17:35:43.396Z,"56 km S of Whites City, New Mexico",earthquake,0.9286616515989689,0.9255372476902884,0.2,13,reviewed,tx,tx
 2024-03-01T17:01:56.780Z,39.5368347,-123.30233,3.66,1.74,md,8,182,0.073,0.03,nc,nc74010341,2024-03-01T17:03:32.857Z,"13 km NE of Brooktrails, CA",earthquake,0.44,1.47,0.15,6,automatic,nc,nc
-2024-03-01T16:49:03.100Z,35.2677,140.3845,20.796,5.1,mb,56,129,2.176,0.95,us,us6000mg4v,2024-03-01T17:21:13.010Z,"2 km NNW of Ōhara, Japan",earthquake,6.13,4.898,0.05,133,reviewed,us,us
+2024-03-01T16:49:03.100Z,35.2677,140.3845,20.796,5.1,mb,56,129,2.176,0.95,us,us6000mg4v,2024-03-01T17:42:49.008Z,"2 km NNW of Ōhara, Japan",earthquake,6.13,4.898,0.05,133,reviewed,us,us
 2024-03-01T16:45:57.313Z,61.8117,-150.3042,35.8,2.1,ml,,,,0.65,ak,ak0242t5kvg3,2024-03-01T16:47:41.899Z,"15 km WNW of Willow, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-03-01T16:45:17.641Z,31.612,-104.115,8.6739,2,ml,13,57,0,0.9,tx,tx2024egxj,2024-03-01T17:19:42.054Z,"44 km NW of Toyah, Texas",earthquake,0,2.75366460943967,0.4,11,automatic,tx,tx
 2024-03-01T16:44:03.900Z,36.0045,-117.7918333,1.28,1.14,ml,18,70,0.02594,0.14,ci,ci40679632,2024-03-01T17:05:50.585Z,"13 km NE of Little Lake, CA",earthquake,0.18,0.21,0.234,15,reviewed,ci,ci
@@ -37,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T13:04:02.580Z,17.9775,-66.9533,12,3.21,md,13,163,0.0741,0.17,pr,pr2024061001,2024-03-01T15:48:04.040Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.57,0.59,0.14,8,reviewed,pr,pr
 2024-03-01T13:02:47.083Z,31.673,-104.394,6.8176,1.9,ml,17,69,0,0.2,tx,tx2024egqa,2024-03-01T13:43:09.916Z,"55 km S of Whites City, New Mexico",earthquake,0.7230772282070178,0.6918667977398169,0.2,13,reviewed,tx,tx
 2024-03-01T13:01:51.916Z,31.663,-104.403,6.9202,2.1,ml,21,71,0,0.2,tx,tx2024egpz,2024-03-01T13:13:39.738Z,"56 km S of Whites City, New Mexico",earthquake,1.1514356179255292,0.9027233888017175,0.2,14,reviewed,tx,tx
+2024-03-01T12:43:12.370Z,44.789,-110.957,7.06,1.17,ml,9,158,0.04589,0.16,uu,uu80056176,2024-03-01T17:42:14.720Z,"18 km NE of West Yellowstone, Montana",earthquake,0.55,0.69,0.301717458026056,2,reviewed,uu,uu
 2024-03-01T12:42:46.840Z,44.3745,-116.118833333333,4.88,2.32,ml,9,89,0.3579,0.22,mb,mb90042318,2024-03-01T15:27:06.420Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.58,3,0.287674837857037,9,reviewed,mb,mb
 2024-03-01T12:39:46.060Z,19.1981658935547,-155.519500732422,35.2000007629395,2.25,ml,28,67,0.06893,0.180000007,hv,hv74125486,2024-03-01T13:44:55.388Z,"4 km W of Pāhala, Hawaii",earthquake,0.55,0.920000017,0.15,8,automatic,hv,hv
 2024-03-01T12:35:22.990Z,33.6886667,-117.4706667,5.57,0.95,ml,24,100,0.05427,0.17,ci,ci40679504,2024-03-01T17:06:39.314Z,"11 km ENE of Trabuco Canyon, CA",earthquake,0.26,0.57,0.379,23,reviewed,ci,ci
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T17:59:14.450Z,38.4928333333333,-112.897,2.51,1.29,md,12,82,0.009037,0.08,uu,uu80054951,2024-02-29T20:32:20.750Z,"14 km NE of Milford, Utah",earthquake,0.32,0.43,0.308013769930577,5,reviewed,uu,uu
 2024-02-29T17:58:52.860Z,38.4936666666667,-112.895333333333,2.16,-0.02,md,8,151,0.009253,0.07,uu,uu80054946,2024-02-29T20:36:04.110Z,"14 km NE of Milford, Utah",earthquake,0.38,0.5,0.384316249783949,4,reviewed,uu,uu
 2024-02-29T17:49:39.350Z,55.0536666666667,-162.249,2.25,0.94,ml,5,142,,0.11,av,av92219566,2024-02-29T19:05:31.620Z,"4 km E of King Cove, Alaska",earthquake,0.33,0.91,0.168541244391194,5,reviewed,av,av
-2024-02-29T17:42:54.120Z,38.494,-112.892333333333,2.52,1.01,md,12,75,0.008787,0.07,uu,uu80054936,2024-02-29T21:07:29.860Z,"14 km NE of Milford, Utah",earthquake,0.27,0.37,0.687140216622798,5,reviewed,uu,uu
-2024-02-29T17:42:31.450Z,38.4943333333333,-112.897333333333,2.36,0.52,md,10,79,0.01048,0.04,uu,uu80054931,2024-02-29T20:40:13.120Z,"14 km NE of Milford, Utah",earthquake,0.36,0.54,0.474999229527394,4,reviewed,uu,uu
