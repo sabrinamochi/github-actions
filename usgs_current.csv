@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T21:03:03.610Z,38.8148346,-122.8188324,2.6,1.1,md,23,51,0.01004,0.02,nc,nc74012226,2024-03-05T21:04:39.424Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.45,0.16,22,automatic,nc,nc
 2024-03-05T20:59:16.254Z,64.4629,-146.8948,8.6,0.9,ml,,,,0.39,ak,ak0242zu6wp0,2024-03-05T21:02:46.706Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-05T20:51:38.160Z,38.7946663,-122.7539978,0.23,0.99,md,9,157,0.007439,0.02,nc,nc74012216,2024-03-05T20:53:14.247Z,"2 km N of The Geysers, CA",earthquake,0.31,0.6,0.1,9,automatic,nc,nc
+2024-03-05T20:44:59.640Z,47.8776666666667,-115.478833333333,8.47,1.36,ml,12,80,0.4198,0.2,mb,mb90042548,2024-03-05T22:14:58.280Z,"10 km ENE of Trout Creek, Montana",earthquake,0.62,3.04,0.176057775603623,6,reviewed,mb,mb
 2024-03-05T20:30:11.935Z,-22.3566,-70.4205,38.369,4.3,mb,16,176,0.858,0.9,us,us7000m3k1,2024-03-05T21:42:49.040Z,"37 km SW of Tocopilla, Chile",earthquake,6.58,16.382,0.375,2,reviewed,us,us
 2024-03-05T20:22:02.578Z,57.81,-155.7787,97.8,1.8,ml,,,,0.29,ak,ak0242ztyy5d,2024-03-05T20:25:44.311Z,"83 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T20:18:29.530Z,38.8390007,-122.8221664,1.69,1.35,md,25,61,0.01041,0.03,nc,nc74012206,2024-03-05T20:20:04.021Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.38,0.15,26,automatic,nc,nc
@@ -28,6 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T18:46:09.100Z,19.4306666666667,-155.383833333333,8.95,1.25,md,38,75,0.06221,0.12,hv,hv74129066,2024-03-05T19:22:48.430Z,"15 km W of Volcano, Hawaii",earthquake,0.3,0.53,0.161842453864072,20,reviewed,hv,hv
 2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T18:29:18.420Z,38.8443336,-122.8208313,9.12,0.72,md,9,106,0.0105,0.06,nc,nc74012171,2024-03-05T18:30:53.836Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.48,0.12,10,automatic,nc,nc
+2024-03-05T18:23:49.480Z,44.781,-110.571,2.1,0.56,md,7,235,0.0804,0.14,uu,uu80061551,2024-03-05T22:22:56.790Z,"24 km SSE of Mammoth, Wyoming",earthquake,0.92,31.61,0.261091387231759,5,reviewed,uu,uu
 2024-03-05T18:10:20.608Z,53.7892,-164.2928,35,2.5,ml,15,217,0.938,1.02,us,us6000mgws,2024-03-05T19:59:46.040Z,"104 km ESE of Akutan, Alaska",earthquake,5.91,2.019,0.105,12,reviewed,us,us
 2024-03-05T17:56:48.740Z,62.8945,-151.2254,111.9,1.3,ml,,,,0.31,ak,ak0242zse18q,2024-03-05T17:58:33.755Z,"50 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-03-05T17:52:13.240Z,40.719,-112.072166666667,9.44,0.49,md,10,82,0.07222,0.1,uu,uu80061546,2024-03-05T18:14:24.830Z,"2 km ENE of Magna, Utah",earthquake,0.35,0.95,0.120913745025135,6,reviewed,uu,uu
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T22:34:25.210Z,46.849833333333336,-122.74383333333333,-0.09,1.08,ml,19,76,0.1385,0.21,uw,uw61987386,2024-03-05T04:31:57.580Z,"5 km SW of Rainier, Washington",explosion,0.54,31.61,0.035736679878136446,2,reviewed,uw,uw
 2024-03-04T22:33:33.427Z,31.696,-104.398,1.8958,2.5,ml,18,67,0,0.2,tx,tx2024emvj,2024-03-05T15:13:47.118Z,"53 km S of Whites City, New Mexico",earthquake,0.9644871035509202,1.103070484851351,0.1,13,reviewed,tx,tx
 2024-03-04T22:31:07.388Z,31.682,-104.401,6.2024,3.3,ml,27,68,0,0.2,tx,tx2024emvg,2024-03-04T22:40:32.420Z,"54 km S of Whites City, New Mexico",earthquake,1.0010463210119631,0.910493461802313,0.2,20,reviewed,tx,tx
-2024-03-04T22:19:37.640Z,18.793,-67.3803333333333,8.75,2.89,md,8,298,0.4123,0.17,pr,pr71441998,2024-03-04T22:28:55.550Z,"44 km NW of San Antonio, Puerto Rico",earthquake,0.94,1.07,0.115973085780827,6,reviewed,pr,pr
-2024-03-04T22:17:22.950Z,38.4991666666667,-112.903833333333,2.41,0.11,md,12,78,0.01281,0.05,uu,uu80060906,2024-03-04T23:22:22.500Z,"14 km NE of Milford, Utah",earthquake,0.27,0.44,0.673131073530209,5,reviewed,uu,uu
