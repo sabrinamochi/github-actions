@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-06T20:18:47.140Z,38.8276672,-122.8101654,1.4,0.77,md,8,94,0.004267,0.04,nc,nc74012776,2024-03-06T20:20:22.528Z,"7 km NW of The Geysers, CA",earthquake,0.46,1.21,0.08,8,automatic,nc,nc
+2024-03-06T20:09:18.966Z,31.6794,-104.2973,5,2.7,mb_lg,24,119,0.174,0.27,us,us7000m3rq,2024-03-06T20:19:00.040Z,"55 km S of Whites City, New Mexico",earthquake,1.02,1.498,0.109,37,reviewed,us,us
 2024-03-06T19:48:34.600Z,36.6739998,-121.3466644,2.73,1.57,md,10,62,0.0334,0.15,nc,nc74012766,2024-03-06T19:50:08.182Z,"13 km S of Tres Pinos, CA",earthquake,0.54,1.18,0.26,8,automatic,nc,nc
 2024-03-06T19:36:48.780Z,36.8871651,-121.6146698,0.97,2.07,md,17,61,0.0184,0.08,nc,nc74012756,2024-03-06T19:38:23.101Z,"2 km E of Aromas, CA",earthquake,0.23,0.54,0.16,10,automatic,nc,nc
 2024-03-06T19:36:07.770Z,38.8416672,-122.8773346,2.76,0.75,md,10,111,0.007006,0.02,nc,nc74012751,2024-03-06T19:37:43.071Z,"13 km NW of The Geysers, CA",earthquake,0.48,0.77,0.15,11,automatic,nc,nc
@@ -111,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T08:41:27.072Z,48.0889,-129.0349,10,4.5,mb,34,170,0.172,1.37,us,us7000m3n8,2024-03-06T13:32:43.042Z,"259 km WSW of Tofino, Canada",earthquake,4.94,1.997,0.044,151,reviewed,us,us
 2024-03-06T08:39:31.370Z,35.6818333,-117.5468333,8.41,1.04,ml,29,57,0.09922,0.13,ci,ci40682016,2024-03-06T08:45:28.323Z,"14 km ENE of Ridgecrest, CA",earthquake,0.2,0.51,0.147,13,automatic,ci,ci
 2024-03-06T08:35:32.740Z,18.0693333333333,-66.9848333333333,15.27,2.14,md,12,78,0.04958,0.19,pr,pr71442203,2024-03-06T08:44:20.360Z,"2 km WSW of Sabana Grande, Puerto Rico",earthquake,0.51,0.92,0.145168022068809,5,reviewed,pr,pr
+2024-03-06T08:33:32.601Z,39.3947,-119.6851,8,1,ml,6,275.8,0.062,0.0724,nn,nn00874281,2024-03-06T20:20:32.795Z,"9 km NNW of Virginia City, Nevada",earthquake,,2.3,0.09,2,reviewed,nn,nn
 2024-03-06T08:28:07.500Z,38.838501,-122.8366699,1.26,0.62,md,8,156,0.000928,0.01,nc,nc74012456,2024-03-06T08:29:42.156Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.92,0.42,8,automatic,nc,nc
 2024-03-06T08:27:58.040Z,38.8286667,-122.8150024,1.42,0.7,md,10,56,0.0166,0.02,nc,nc74012451,2024-03-06T08:29:32.242Z,"8 km NW of The Geysers, CA",earthquake,0.33,1.54,0.09,10,automatic,nc,nc
 2024-03-06T08:23:26.870Z,32.8341667,-115.5941667,12.23,1.07,ml,19,84,0.07229,0.2,ci,ci40682008,2024-03-06T08:29:17.061Z,"3 km WSW of Imperial, CA",earthquake,0.4,0.68,0.176,12,automatic,ci,ci
@@ -238,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T20:44:59.640Z,47.8776666666667,-115.478833333333,8.47,1.36,ml,12,80,0.4198,0.2,mb,mb90042548,2024-03-05T22:14:58.280Z,"10 km ENE of Trout Creek, Montana",earthquake,0.62,3.04,0.176057775603623,6,reviewed,mb,mb
 2024-03-05T20:30:11.935Z,-22.3566,-70.4205,38.369,4.3,mb,16,176,0.858,0.9,us,us7000m3k1,2024-03-05T21:42:49.040Z,"37 km SW of Tocopilla, Chile",earthquake,6.58,16.382,0.375,2,reviewed,us,us
 2024-03-05T20:22:02.578Z,57.81,-155.7787,97.8,1.8,ml,,,,0.29,ak,ak0242ztyy5d,2024-03-05T20:25:44.311Z,"83 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-05T20:18:29.530Z,38.8390007,-122.8221664,1.69,1.35,md,25,61,0.01041,0.03,nc,nc74012206,2024-03-05T20:20:04.021Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.38,0.15,26,automatic,nc,nc
