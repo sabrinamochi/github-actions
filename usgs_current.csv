@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T09:08:40.549Z,62.2382,-148.1531,31.1,1.6,ml,,,,0.82,ak,ak02431avlw6,2024-03-06T09:17:35.484Z,"51 km NNE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-06T09:03:21.000Z,44.7611666666667,-110.853,6.29,0.24,md,6,107,0.02722,0.03,uu,uu80061801,2024-03-06T14:49:45.680Z,"22 km ENE of West Yellowstone, Montana",earthquake,1.15,2.02,0.161044438792278,5,reviewed,uu,uu
 2024-03-06T09:02:26.530Z,44.7733333333333,-110.852833333333,8.76,0.25,md,9,109,0.01509,0.07,uu,uu80061796,2024-03-06T14:19:01.710Z,"23 km ENE of West Yellowstone, Montana",earthquake,0.57,1.12,0.235715778547615,6,reviewed,uu,uu
-2024-03-06T09:02:05.462Z,62.2323,-148.1998,29.5,4.1,ml,,,,0.6,ak,ak02431au8tv,2024-03-06T16:09:50.252Z,"50 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-03-06T09:02:05.462Z,62.2323,-148.1998,29.5,4.1,ml,,,,0.6,ak,ak02431au8tv,2024-03-06T16:14:38.702Z,"50 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-03-06T08:55:44.650Z,38.8196678,-122.8236694,2.2,0.76,md,17,64,0.009519,0.02,nc,nc74012461,2024-03-06T08:57:16.521Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.48,0.13,18,automatic,nc,nc
 2024-03-06T08:50:57.390Z,33.5786667,-116.6028333,14.69,0.7,ml,13,220,0.02606,0.09,ci,ci40682024,2024-03-06T14:34:17.302Z,"7 km ENE of Anza, CA",earthquake,0.74,0.33,0.129,12,reviewed,ci,ci
 2024-03-06T08:41:27.072Z,48.0889,-129.0349,10,4.5,mb,34,170,0.172,1.37,us,us7000m3n8,2024-03-06T13:32:43.042Z,"259 km WSW of Tofino, Canada",earthquake,4.94,1.997,0.044,151,reviewed,us,us
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T02:50:14.770Z,38.8359985,-122.8219986,5.48,0.7,md,7,154,0.01085,0.02,nc,nc74012341,2024-03-06T02:51:50.965Z,"9 km NW of The Geysers, CA",earthquake,0.95,1.14,0.11,7,automatic,nc,nc
 2024-03-06T02:45:38.680Z,36.4416656,-121.0228348,8.57,1.34,md,9,147,0.03142,0.06,nc,nc74012336,2024-03-06T02:59:27.563Z,"15 km SE of Pinnacles, CA",earthquake,0.46,0.77,0.49,6,automatic,nc,nc
 2024-03-06T02:32:18.980Z,33.8533333,-117.8376667,11,1.91,ml,75,28,0.01675,0.22,ci,ci40681864,2024-03-06T02:43:25.450Z,"4 km SE of Placentia, CA",earthquake,0.19,0.28,0.153,27,automatic,ci,ci
-2024-03-06T02:27:26.877Z,31.683,-104.42,4.378,1.7,ml,17,62,0,0.3,tx,tx2024eoyp,2024-03-06T02:56:17.819Z,"54 km S of Whites City, New Mexico",earthquake,0,1.23645954126665,0.1,12,automatic,tx,tx
+2024-03-06T02:27:26.688Z,31.684,-104.421,5.177,1.8,ml,19,60,0,0.2,tx,tx2024eoyp,2024-03-06T16:14:47.513Z,"54 km S of Whites City, New Mexico",earthquake,0.7605032160098308,0.8780267627210487,0.2,16,reviewed,tx,tx
 2024-03-06T02:15:24.360Z,38.8163338,-122.7870026,4.94,0.78,md,13,77,0.005813,0.04,nc,nc74012331,2024-03-06T02:18:09.632Z,"5 km NNW of The Geysers, CA",earthquake,0.57,2.32,0.12,13,automatic,nc,nc
 2024-03-06T02:07:00.620Z,38.8096657,-122.819664,2.85,0.77,md,14,60,0.007476,0.02,nc,nc74012326,2024-03-06T02:08:34.541Z,"7 km WNW of The Geysers, CA",earthquake,0.35,0.79,0.08,14,automatic,nc,nc
 2024-03-06T01:54:59.056Z,36.9042,-115.2745,9.1,1,ml,10,312.31,0.596,0.3048,nn,nn00874245,2024-03-06T01:57:25.806Z,"51 km NE of Indian Springs, Nevada",earthquake,,3.3,0.26,7,automatic,nn,nn
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T16:22:40.840Z,36.226,-118.3228333,6.17,1.62,ml,24,103,0.07419,0.17,ci,ci40681224,2024-03-05T17:18:25.170Z,"29 km WSW of Olancha, CA",earthquake,0.29,0.56,0.216,15,reviewed,ci,ci
 2024-03-05T16:20:37.880Z,19.2613334655762,-155.410003662109,31.6100006103516,2.02999997,md,42,122,0.07528,0.119999997,hv,hv74128966,2024-03-05T16:22:28.630Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.839999974,0.0799999982,8,automatic,hv,hv
 2024-03-05T16:15:49.120Z,36.4688339,-121.0445023,5.92,1.99,md,22,115,0.01735,0.08,nc,nc74012126,2024-03-05T16:17:24.949Z,"11 km SE of Pinnacles, CA",earthquake,0.28,0.63,0.12,22,automatic,nc,nc
-2024-03-05T16:13:14.114Z,64.9973,-147.4971,0,1.5,ml,,,,0.67,ak,ak0242zrjb6b,2024-03-05T16:16:17.256Z,"7 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
