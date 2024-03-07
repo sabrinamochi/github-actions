@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-07T17:45:12.072Z,60.387,-141.2539,4,1.8,ml,,,,0.63,ak,ak024333eaiv,2024-03-07T17:46:49.616Z,"126 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-07T17:45:07.735Z,18.2063,-66.5411,75.126,2.6,ml,13,75,0.136,0.11,us,us7000m3z5,2024-03-07T17:54:39.040Z,"5 km ESE of Jayuya, Puerto Rico",earthquake,3.8,4.171,0.071,26,reviewed,us,us
+2024-03-07T17:45:08.410Z,18.2153333333333,-66.548,74,2.91,md,20,75,0.1358,0.1,pr,pr71442298,2024-03-07T18:00:04.250Z,"4 km E of Jayuya, Puerto Rico",earthquake,0.79,0.62,0.143877201141304,16,reviewed,pr,pr
 2024-03-07T17:44:15.320Z,38.8226662,-122.8535004,2.26,0.27,md,9,178,0.005538,0.01,nc,nc74013246,2024-03-07T17:45:49.431Z,"10 km WNW of The Geysers, CA",earthquake,0.59,1.24,0.16,8,automatic,nc,nc
 2024-03-07T17:28:50.080Z,38.8395004,-122.8355026,2.06,1.06,md,18,83,0.0009102,0.01,nc,nc74013241,2024-03-07T17:30:25.260Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.52,0.14,20,automatic,nc,nc
-2024-03-07T17:04:24.642Z,-20.8563,-69.8486,46.08,4.6,mwr,34,126,0.385,0.66,us,us7000m3yw,2024-03-07T17:48:44.747Z,"61 km SSW of La Tirana, Chile",earthquake,3.46,5.312,0.056,31,reviewed,us,us
+2024-03-07T17:04:24.642Z,-20.8563,-69.8486,46.08,4.6,mwr,34,126,0.385,0.66,us,us7000m3yw,2024-03-07T18:00:28.218Z,"61 km SSW of La Tirana, Chile",earthquake,3.46,5.312,0.056,31,reviewed,us,us
 2024-03-07T16:50:35.153Z,31.62,-104.222,3.72,1.8,ml,17,68,0.1,0.4,tx,tx2024erwo,2024-03-07T17:30:16.964Z,"52 km NW of Toyah, Texas",earthquake,0,1.36343033202248,0.2,12,automatic,tx,tx
 2024-03-07T16:47:08.030Z,18.6896666666667,-65.7848333333333,33.77,3.29,md,14,211,0.473,0.36,pr,pr71442293,2024-03-07T17:10:01.310Z,"29 km NNE of Suárez, Puerto Rico",earthquake,1.76,5.46,0.0344276650609781,6,reviewed,pr,pr
 2024-03-07T16:32:01.276Z,-13.4876,-76.0934,36.311,5,mb,34,144,1.66,1.04,us,us7000m3wf,2024-03-07T17:27:23.596Z,"9 km SSE of Chincha Alta, Peru",earthquake,10.29,6.75,0.046,147,reviewed,us,us
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T08:05:22.990Z,39.3416672,-123.2516632,3.73,1.78,md,11,76,0.101,0.04,nc,nc74013061,2024-03-07T08:06:56.586Z,"9 km NNW of Redwood Valley, CA",earthquake,0.28,3.03,0.15,10,automatic,nc,nc
 2024-03-07T08:05:13.820Z,19.1831665039062,-155.359497070312,30.2199993133545,1.90999997,md,28,202,0.1008,0.100000001,hv,hv74130701,2024-03-07T08:06:57.160Z,"12 km E of Pāhala, Hawaii",earthquake,0.78,0.680000007,0.109999999,3,automatic,hv,hv
 2024-03-07T07:57:00.119Z,36.7364,-116.2963,7.2,-0.4,ml,7,129.73,0.019,0.0475,nn,nn00874307,2024-03-07T12:46:43.530Z,"45 km ESE of Beatty, Nevada",earthquake,,2.3,0.26,4,reviewed,nn,nn
-2024-03-07T07:47:23.860Z,33.3136667,-116.236,6,0.91,ml,48,69,0.07846,0.2,ci,ci40682808,2024-03-07T07:53:16.981Z,"14 km ENE of Borrego Springs, CA",earthquake,0.21,0.8,0.081,14,automatic,ci,ci
+2024-03-07T07:47:23.820Z,33.3125,-116.2383333,5.98,0.91,ml,49,69,0.07767,0.19,ci,ci40682808,2024-03-07T18:01:12.354Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.77,0.085,14,reviewed,ci,ci
 2024-03-07T07:40:43.476Z,61.1276,-147.4392,0,2.1,ml,,,,0.81,ak,ak02432xeybf,2024-03-07T07:42:36.077Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-07T07:27:48.530Z,33.0465,-116.0221667,8.6,2.1,ml,78,25,0.132,0.22,ci,ci40682800,2024-03-07T17:42:00.320Z,"15 km SE of Ocotillo Wells, CA",earthquake,0.15,0.7,0.133,84,reviewed,ci,ci
 2024-03-07T07:24:40.100Z,33.047,-116.0115,9.71,0.91,ml,32,101,0.1293,0.2,ci,ci40682792,2024-03-07T17:13:44.998Z,"16 km SE of Ocotillo Wells, CA",earthquake,0.26,0.77,0.116,7,reviewed,ci,ci
