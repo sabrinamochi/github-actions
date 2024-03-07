@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-07T17:45:12.072Z,60.387,-141.2539,4,1.8,ml,,,,0.63,ak,ak024333eaiv,2024-03-07T17:46:49.616Z,"126 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-07T17:45:07.735Z,18.2063,-66.5411,75.126,2.6,ml,13,75,0.136,0.11,us,us7000m3z5,2024-03-07T17:54:39.040Z,"5 km ESE of Jayuya, Puerto Rico",earthquake,3.8,4.171,0.071,26,reviewed,us,us
 2024-03-07T17:44:15.320Z,38.8226662,-122.8535004,2.26,0.27,md,9,178,0.005538,0.01,nc,nc74013246,2024-03-07T17:45:49.431Z,"10 km WNW of The Geysers, CA",earthquake,0.59,1.24,0.16,8,automatic,nc,nc
 2024-03-07T17:28:50.080Z,38.8395004,-122.8355026,2.06,1.06,md,18,83,0.0009102,0.01,nc,nc74013241,2024-03-07T17:30:25.260Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.52,0.14,20,automatic,nc,nc
 2024-03-07T17:04:24.642Z,-20.8563,-69.8486,46.08,4.6,mwr,34,126,0.385,0.66,us,us7000m3yw,2024-03-07T17:48:44.747Z,"61 km SSW of La Tirana, Chile",earthquake,3.46,5.312,0.056,31,reviewed,us,us
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T02:07:19.950Z,38.8406677,-122.8366699,1.71,1.23,md,23,86,0.002272,0.01,nc,nc74012946,2024-03-07T02:08:56.230Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.42,0.11,25,automatic,nc,nc
 2024-03-07T01:59:30.820Z,38.8476677,-122.8143311,1.28,0.81,md,10,74,0.009916,0.02,nc,nc74012941,2024-03-07T02:01:06.071Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.92,0.47,11,automatic,nc,nc
 2024-03-07T01:57:59.794Z,61.3394,-149.8466,30.9,2,ml,,,,0.62,ak,ak02432ty14b,2024-03-07T02:33:39.529Z,"7 km ESE of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-07T01:48:35.350Z,47.490833333333335,-121.9185,9.87,3,ml,63,33,0.03125,0.18,uw,uw61988126,2024-03-07T17:25:37.179Z,"6 km ENE of Mirrormont, Washington",earthquake,0.22,0.47,0.17753163107170833,38,reviewed,uw,uw
+2024-03-07T01:48:35.350Z,47.490833333333335,-121.9185,9.87,3,ml,63,33,0.03125,0.18,uw,uw61988126,2024-03-07T17:59:27.036Z,"6 km ENE of Mirrormont, Washington",earthquake,0.22,0.47,0.17753163107170833,38,reviewed,uw,uw
 2024-03-07T01:46:21.240Z,38.3066666666667,-112.478,5.99,0.52,md,8,106,0.3033,0.07,uu,uu80062036,2024-03-07T13:52:21.300Z,"14 km ENE of Beaver, Utah",earthquake,0.33,31.61,0.326053535439581,6,reviewed,uu,uu
 2024-03-07T01:35:47.945Z,60.1593,-152.5953,98.2,1.5,ml,,,,0.29,ak,ak02432ttaga,2024-03-07T01:37:45.557Z,"52 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-07T01:34:05.600Z,38.8351669,-122.8209991,0.84,0.27,md,7,132,0.01453,0.01,nc,nc74012926,2024-03-07T01:35:40.676Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.29,0.17,8,automatic,nc,nc
@@ -225,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T18:07:35.150Z,36.0216675,-120.5923309,1.76,1.54,md,10,107,0.04269,0.09,nc,nc74012716,2024-03-06T18:09:09.036Z,"20 km NW of Parkfield, CA",earthquake,0.44,2.09,0.01,5,automatic,nc,nc
 2024-03-06T18:02:54.920Z,18.022,-66.9505,10.94,2.3,md,3,219,0.08232,0.01,pr,pr71442218,2024-03-06T18:15:52.780Z,"2 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,2.23,1.98,0.106816014008309,3,reviewed,pr,pr
 2024-03-06T18:02:54.640Z,44.7643333333333,-110.852,6,0.3,md,7,109,0.02402,0.11,uu,uu80061941,2024-03-06T18:25:10.690Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.52,1.11,0.237690881224582,5,reviewed,uu,uu
-2024-03-06T17:58:53.685Z,38.7349,-119.2238,10.1,1.2,ml,7,166.37,0.34,0.0694,nn,nn00874291,2024-03-06T22:40:00.149Z,"11 km SE of Smith, Nevada",earthquake,,10.5,0.09,3,reviewed,nn,nn
-2024-03-06T17:57:29.340Z,44.7591666666667,-110.854666666667,5.2,-0.04,md,6,104,0.02931,0.09,uu,uu80061936,2024-03-06T18:26:36.750Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.63,1.2,0.228021037643605,5,reviewed,uu,uu
-2024-03-06T17:54:24.890Z,45.382333333333335,-121.69466666666666,-0.73,0.08,ml,4,151,0.02153,0.04,uw,uw61987866,2024-03-06T22:14:45.130Z,"9 km NNE of Government Camp, Oregon",earthquake,0.3,7.03,0.22658196953632181,3,reviewed,uw,uw
