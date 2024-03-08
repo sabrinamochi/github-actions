@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-08T18:15:02.792Z,58.8352,-154.6891,121,2.1,ml,,,,0.33,ak,ak02434rcmfb,2024-03-08T18:16:56.886Z,"67 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-03-08T18:15:02.159Z,58.816,-154.5952,127.1,2.2,ml,,,,0.54,ak,ak02434rcmfb,2024-03-08T18:28:08.231Z,"70 km S of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-08T18:10:15.510Z,38.8333321,-122.8099976,1.8,0.74,md,13,96,0.01616,0.02,nc,nc74013846,2024-03-08T18:11:49.941Z,"8 km W of Cobb, CA",earthquake,0.26,0.77,0.15,12,automatic,nc,nc
 2024-03-08T18:06:17.131Z,57.5427,-154.7043,41.9,1.8,ml,,,,0.16,ak,ak02434raq35,2024-03-08T18:08:23.465Z,"15 km W of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-03-08T17:47:20.642Z,58.2697,-154.9729,12.9,0.8,ml,,,,0.5,ak,ak02434qy367,2024-03-08T17:49:42.010Z,"83 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T10:17:17.334Z,31.68,-104.406,6.1511,1.5,ml,15,69,0,0.2,tx,tx2024etfb,2024-03-08T12:33:57.520Z,"55 km S of Whites City, New Mexico",earthquake,0.8747508318249926,0.9541103853924933,0.1,13,reviewed,tx,tx
 2024-03-08T10:08:45.280Z,33.194,-116.0346667,5.93,1.78,ml,82,23,0.05193,0.21,ci,ci40683400,2024-03-08T10:19:47.620Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.13,0.45,0.176,27,automatic,ci,ci
 2024-03-08T10:08:31.370Z,38.8274994,-122.8503342,1.52,0.61,md,8,155,0.01273,0.01,nc,nc74013631,2024-03-08T10:10:07.897Z,"10 km NW of The Geysers, CA",earthquake,0.45,1.03,0.41,9,automatic,nc,nc
-2024-03-08T09:53:13.045Z,-33.8349,150.427,8.356,3.5,ml,6,201,1.893,0.46,us,us7000m44b,2024-03-08T17:27:21.715Z,"11 km S of Bullaburra, Australia",earthquake,7.44,7.8,0.148,6,reviewed,us,us
+2024-03-08T09:53:13.045Z,-33.8349,150.427,8.356,3.5,ml,6,201,1.893,0.46,us,us7000m44b,2024-03-08T18:28:14.831Z,"11 km S of Bullaburra, Australia",earthquake,7.44,7.8,0.148,6,reviewed,us,us
 2024-03-08T09:24:45.110Z,44.4718333333333,-116.239666666667,5,1.88,ml,7,103,0.4172,0.13,mb,mb90042803,2024-03-08T14:34:17.180Z,"16 km WSW of Cascade, Idaho",earthquake,0.47,9.92,0.171624094052265,8,reviewed,mb,mb
 2024-03-08T09:22:38.080Z,33.4686667,-116.5216667,13.1,0.73,ml,47,54,0.07214,0.17,ci,ci40683392,2024-03-08T09:28:48.703Z,"17 km SE of Anza, CA",earthquake,0.17,0.4,0.094,20,automatic,ci,ci
 2024-03-08T09:15:10.157Z,62.7603,-149.1419,56.7,1.5,ml,,,,0.43,ak,ak02434lzqjr,2024-03-08T09:16:59.985Z,"60 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T18:48:14.030Z,38.8338333,-122.7871667,4.12,0.01,md,9,91,0.005199,0.04,nc,nc74013281,2024-03-08T17:31:45.170Z,"6 km WNW of Cobb, CA",earthquake,0.74,31.61,0.278,9,reviewed,nc,nc
 2024-03-07T18:37:34.890Z,62.1688,-152.0289,110.8,2,ml,,,,0.71,ak,ak024333y25t,2024-03-07T18:40:35.961Z,"38 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-07T18:30:32.970Z,35.717,-118.2475,10.55,1.38,ml,29,37,0.02171,0.12,ci,ci40683104,2024-03-07T19:18:50.770Z,"17 km ESE of Kernville, CA",earthquake,0.17,0.29,0.201,19,reviewed,ci,ci
-2024-03-07T18:30:00.800Z,35.4388333,-118.7336667,5.26,1.62,ml,28,41,0.04246,0.17,ci,ci40683096,2024-03-07T19:18:37.904Z,"26 km NE of Lamont, CA",earthquake,0.2,0.48,0.242,27,reviewed,ci,ci
