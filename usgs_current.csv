@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-11T23:00:21.832Z,62.9612,-150.7393,108.9,2.1,ml,,,,0.35,ak,ak02439sunnr,2024-03-11T23:02:24.536Z,"51 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-11T22:57:52.360Z,38.8348351,-122.8186646,1.42,0.67,md,8,90,0.01325,0.03,nc,nc74015926,2024-03-11T22:59:26.544Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.28,0.33,9,automatic,nc,nc
 2024-03-11T22:57:13.280Z,38.8235016,-122.7891693,0.82,0.84,md,10,69,0.01491,0.01,nc,nc74015916,2024-03-11T22:58:46.545Z,"6 km W of Cobb, CA",earthquake,0.33,0.8,0.52,11,automatic,nc,nc
 2024-03-11T22:57:03.120Z,38.8343315,-122.8190002,1.57,0.75,md,9,84,0.01296,0.02,nc,nc74015911,2024-03-11T22:58:36.587Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.01,0.35,10,automatic,nc,nc
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T22:21:58.434Z,60.9898,-147.0462,23.8,1.9,ml,,,,0.93,ak,ak02439sdswz,2024-03-11T22:24:00.993Z,"24 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-11T22:19:55.090Z,37.5345001,-118.8286667,3.46,1.51,md,13,209,0.05543,0.02,nc,nc74015846,2024-03-11T22:21:32.050Z,"14 km WSW of Toms Place, CA",earthquake,0.81,0.74,0.09,14,automatic,nc,nc
 2024-03-11T22:19:15.950Z,19.2946662902832,-155.386169433594,2.3199999332428,1.75,md,22,153,0.03853,0.140000001,hv,hv74134191,2024-03-11T22:20:45.410Z,"14 km NE of Pāhala, Hawaii",earthquake,0.4,0.629999995,0.389999986,5,automatic,hv,hv
+2024-03-11T22:16:46.472Z,32.43,-102.118,7.7637,2.3,ml,22,86,0.1,0.1,tx,tx2024ezpi,2024-03-11T23:02:30.035Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.6635247634586416,0.7244753313271376,0.1,11,reviewed,tx,tx
 2024-03-11T22:11:38.633Z,28.9725,-97.9946,4.073,2.7,mb_lg,14,80,0.201,0.87,us,us7000m4rj,2024-03-11T22:20:39.948Z,"2 km ESE of Falls City, Texas",earthquake,1.9,6.376,0.102,25,reviewed,us,us
 2024-03-11T21:42:49.790Z,33.0583333,-116.6771667,12.46,0.9,ml,25,42,0.07056,0.2,ci,ci40685776,2024-03-11T21:49:48.554Z,"7 km WSW of Julian, CA",earthquake,0.28,0.6,0.176,16,automatic,ci,ci
 2024-03-11T21:42:41.718Z,39.7202,-119.8538,9,1.5,ml,17,74.82,0.14,0.1086,nn,nn00874566,2024-03-11T22:03:00.002Z,"9 km N of Lemmon Valley, Nevada",earthquake,,2.1,0.22,7,reviewed,nn,nn
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-10T23:20:37.920Z,61.6474,-149.9959,40.5,1.6,ml,,,,0.67,ak,ak024385fmq8,2024-03-10T23:22:34.191Z,"9 km WNW of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-03-10T23:15:18.940Z,40.300499,-124.4185028,11.23,1.68,md,8,284,0.0593,0.08,nc,nc74015231,2024-03-10T23:16:53.625Z,"12 km WSW of Petrolia, CA",earthquake,2.14,0.91,0.16,3,automatic,nc,nc
 2024-03-10T23:06:38.040Z,38.8101654,-122.8249969,2.14,1.07,md,16,62,0.003514,0.02,nc,nc74015221,2024-03-10T23:08:12.566Z,"7 km WNW of The Geysers, CA",earthquake,0.27,0.56,0.28,17,automatic,nc,nc
-2024-03-10T23:02:26.410Z,34.0283333,-117.2246667,10.82,1.45,ml,60,22,0.09154,0.34,ci,ci40685264,2024-03-10T23:13:44.080Z,"4 km ESE of Loma Linda, CA",earthquake,0.29,0.61,0.17,29,automatic,ci,ci
