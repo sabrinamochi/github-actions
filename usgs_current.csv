@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-12T20:39:22.500Z,38.8216667,-122.7993317,1.88,0.71,md,12,51,0.008567,0.02,nc,nc74016441,2024-03-12T20:40:54.688Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.66,0.14,17,automatic,nc,nc
-2024-03-12T20:32:36.440Z,32.7618333,-116.8976667,4.88,1.52,ml,31,71,0.04589,0.15,ci,ci40686240,2024-03-12T20:39:47.152Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.19,0.5,0.182,24,automatic,ci,ci
+2024-03-12T20:32:36.440Z,32.7618333,-116.8976667,4.88,1.52,ml,31,71,0.04589,0.15,ci,ci40686240,2024-03-12T20:52:04.601Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.19,0.5,0.182,24,automatic,ci,ci
 2024-03-12T20:31:35.400Z,38.8168335,-122.7958298,2.49,1.09,md,20,65,0.008862,0.06,nc,nc74016436,2024-03-12T20:33:10.672Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.59,0.06,20,automatic,nc,nc
 2024-03-12T20:18:38.210Z,38.8151665,-122.8343353,0.87,0.75,md,9,122,0.007469,0.04,nc,nc74016426,2024-03-12T20:20:15.495Z,"8 km WNW of The Geysers, CA",earthquake,0.36,0.78,0.3,9,automatic,nc,nc
 2024-03-12T20:06:39.940Z,36.9761658,-121.4110031,10.42,1.06,md,10,143,0.07666,0.1,nc,nc74016416,2024-03-12T20:08:15.411Z,"14 km ESE of Gilroy, CA",earthquake,0.56,2.37,0.04,7,automatic,nc,nc
@@ -106,13 +106,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-12T07:13:42.050Z,17.9106666666667,-66.2846666666667,13.78,2.47,md,12,193,0.1269,0.11,pr,pr71442808,2024-03-12T08:00:34.250Z,"7 km S of Salinas, Puerto Rico",earthquake,0.52,0.35,0.198771896162964,10,reviewed,pr,pr
 2024-03-12T07:12:39.526Z,61.8116,-149.5894,33.2,1.6,ml,,,,0.62,ak,ak0243b6xofk,2024-03-12T07:14:22.345Z,"20 km WNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-12T07:05:19.309Z,44.3522,-116.1408,5,2.6,ml,25,61,0.331,0.87,us,us7000m4tm,2024-03-12T18:01:33.239Z,"6 km NW of Smiths Ferry, Idaho",earthquake,1.11,1.888,0.056,42,reviewed,us,us
+2024-03-12T07:02:38.257Z,39.722,-119.8554,9.8,-0.3,ml,4,123.84,0.141,0.0677,nn,nn00874653,2024-03-12T20:59:19.090Z,"9 km N of Lemmon Valley, Nevada",earthquake,,10.5,0,1,reviewed,nn,nn
 2024-03-12T06:41:47.780Z,44.8623333333333,-112.016333333333,4.99,0.8,ml,6,102,0.3288,0.06,mb,mb90043018,2024-03-12T14:08:20.100Z,"48 km S of Virginia City, Montana",earthquake,0.3,31.61,0.0813916676383778,2,reviewed,mb,mb
 2024-03-12T06:26:59.479Z,61.6281,-146.4143,29.5,2.2,ml,,,,0.51,ak,ak0243b6fae3,2024-03-12T06:28:23.441Z,"44 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-12T06:22:54.787Z,31.682,-104.403,6.4331,1.2,ml,11,70,0,0.2,tx,tx2024fafi,2024-03-12T15:34:30.178Z,"54 km S of Whites City, New Mexico",earthquake,0.9469930448988754,1.377405259989644,0.2,7,reviewed,tx,tx
+2024-03-12T06:22:53.064Z,39.7082,-119.86,0,0.7,ml,3,203.11,0.238,0.0237,nn,nn00874652,2024-03-12T20:56:11.251Z,"8 km N of Lemmon Valley, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2024-03-12T06:22:03.720Z,35.1935,-84.495,5.12,1.71,md,8,100,0.1362,0.12,se,se60501753,2024-03-12T15:25:26.290Z,"14 km E of Benton, Tennessee",earthquake,0.95,0.72,0.107927244055877,8,reviewed,se,se
 2024-03-12T06:20:47.663Z,39.7236,-119.863,11,0.9,ml,8,79.24,0.139,0.1053,nn,nn00874612,2024-03-12T14:44:48.749Z,"9 km N of Lemmon Valley, Nevada",earthquake,,2.4,0.51,3,reviewed,nn,nn
 2024-03-12T06:16:25.717Z,36.4529,-115.736,0,0.8,ml,12,220.17,0.277,0.1434,nn,nn00874590,2024-03-12T06:18:17.170Z,"14 km SSW of Indian Springs, Nevada",earthquake,,50.8,0.17,2,automatic,nn,nn
 2024-03-12T06:15:24.601Z,36.4596,-115.7425,4.8,1.3,ml,37,114.17,0.196,0.1483,nn,nn00874587,2024-03-12T17:26:47.948Z,"13 km SSW of Indian Springs, Nevada",earthquake,,1.6,0.18,15,reviewed,nn,nn
+2024-03-12T06:06:57.776Z,39.7065,-119.8619,0,0.8,ml,3,203.66,0.24,0.0555,nn,nn00874651,2024-03-12T20:53:04.355Z,"7 km NNW of Lemmon Valley, Nevada",earthquake,,0,0.19,2,reviewed,nn,nn
 2024-03-12T06:06:55.399Z,28.948,-98.025,0.0244,2.8,ml,14,71,0,0.2,tx,tx2024faew,2024-03-12T14:14:40.512Z,"3 km S of Falls City, Texas",earthquake,0.8198244011856318,1.333701379401129,0.1,11,reviewed,tx,tx
 2024-03-12T06:05:23.630Z,38.8339996,-122.7678299,0.6,1.49,md,28,72,0.003881,0.06,nc,nc74016146,2024-03-12T06:06:59.592Z,"4 km WNW of Cobb, CA",earthquake,0.24,0.35,0.17,29,automatic,nc,nc
 2024-03-12T06:01:12.505Z,61.5916,-149.8826,32.4,2.2,ml,,,,0.47,ak,ak0243b69tv6,2024-03-12T06:03:19.434Z,"5 km SW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
