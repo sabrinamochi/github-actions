@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-12T23:00:33.610Z,36.8396683,-121.2099991,12.02,1.1,md,4,168,0.09507,0.01,nc,nc74016491,2024-03-12T23:02:04.729Z,"11 km ENE of Tres Pinos, CA",earthquake,2.92,7.66,0.31,2,automatic,nc,nc
 2024-03-12T22:50:28.250Z,38.8395004,-122.807663,7.68,0.86,md,7,120,0.01619,0.02,nc,nc74016481,2024-03-12T22:52:00.909Z,"8 km WNW of Cobb, CA",earthquake,1.11,7.68,0.01,3,automatic,nc,nc
 2024-03-12T22:50:19.570Z,38.8185005,-122.7961655,2.38,1.08,md,19,54,0.01054,0.01,nc,nc74016476,2024-03-12T22:51:55.991Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.53,0.06,23,automatic,nc,nc
 2024-03-12T22:49:32.630Z,37.0071678,-121.4768295,5.72,1.24,md,11,144,0.01919,0.08,nc,nc74016471,2024-03-12T22:51:05.906Z,"8 km E of Gilroy, CA",earthquake,0.98,0.97,0.2,6,automatic,nc,nc
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-12T22:20:44.610Z,17.9226666666667,-66.2848333333333,12.91,2.26,md,12,187,0.116,0.14,pr,pr71442863,2024-03-12T22:30:47.510Z,"6 km SSE of Salinas, Puerto Rico",earthquake,0.55,0.42,0.32313891301478,6,reviewed,pr,pr
 2024-03-12T22:12:12.930Z,33.4885,-116.5803333,10.19,1.15,ml,41,45,0.01993,0.17,ci,ci40686288,2024-03-12T22:18:31.452Z,"11 km SE of Anza, CA",earthquake,0.16,0.32,0.216,30,automatic,ci,ci
 2024-03-12T22:06:31.460Z,33.487,-116.5868333,10.42,1.8,ml,79,21,0.01571,0.19,ci,ci40686280,2024-03-12T22:17:31.120Z,"11 km SE of Anza, CA",earthquake,0.12,0.25,0.2,26,automatic,ci,ci
-2024-03-12T22:04:52.385Z,-11.9878,-74.6203,10.418,4.6,mb,29,111,2.174,0.82,us,us6000mihq,2024-03-12T22:19:45.040Z,"29 km NE of Salcabamba, Peru",earthquake,4.27,5.448,0.141,15,reviewed,us,us
+2024-03-12T22:04:52.385Z,-11.9878,-74.6203,10.418,4.6,mb,29,111,2.174,0.82,us,us6000mihq,2024-03-12T23:00:35.643Z,"29 km NE of Salcabamba, Peru",earthquake,4.27,5.448,0.141,15,reviewed,us,us
 2024-03-12T21:43:19.395Z,64.9896,-147.4085,4.7,1.5,ml,,,,0.49,ak,ak0243bfgcjl,2024-03-12T21:45:28.829Z,"10 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-12T21:42:21.510Z,19.181999206543,-155.468673706055,34.689998626709,2.43000007,md,43,94,0.02716,0.109999999,hv,hv74135206,2024-03-12T21:44:11.850Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.53,0.680000007,0.370000005,9,automatic,hv,hv
 2024-03-12T21:37:43.040Z,19.3026676177979,-155.378173828125,3.75999999046326,2.29,ml,42,111,0.03137,0.340000004,hv,hv74135201,2024-03-12T21:40:20.270Z,"15 km NE of Pāhala, Hawaii",earthquake,0.46,1.59000003,0.22,14,automatic,hv,hv
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T23:09:00.470Z,38.8336678,-122.7941666,0.45,0.99,md,9,61,0.005597,0.02,nc,nc74015951,2024-03-11T23:10:35.710Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.77,0.25,9,automatic,nc,nc
 2024-03-11T23:07:48.760Z,38.8288345,-122.7953339,0.68,2.7,md,50,37,0.01032,0.07,nc,nc74015936,2024-03-12T04:26:28.868Z,"6 km W of Cobb, CA",earthquake,0.13,0.21,0.19,65,automatic,nc,nc
 2024-03-11T23:05:26.391Z,37.0088,-117.6059,0,1,ml,5,215.89,0.227,0.159,nn,nn00874582,2024-03-12T00:47:09.289Z,"57 km ENE of Independence, California",earthquake,,0,0.38,3,reviewed,nn,nn
-2024-03-11T23:00:21.832Z,62.9612,-150.7393,108.9,2.1,ml,,,,0.35,ak,ak02439sunnr,2024-03-11T23:02:24.536Z,"51 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
