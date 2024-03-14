@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-14T15:20:41.620Z,19.2441673278809,-155.412826538086,32.4900016784668,2.11999989,md,34,130,0.08151,0.140000001,hv,hv74136547,2024-03-14T15:22:30.390Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.790000021,0.189999998,4,automatic,hv,hv
 2024-03-14T15:20:07.367Z,31.639,-104.205,4.3142,1.6,ml,7,208,0.1,0,tx,tx2024feod,2024-03-14T15:34:54.938Z,"53 km NW of Toyah, Texas",earthquake,0,3.71378706896555,0.2,7,automatic,tx,tx
 2024-03-14T15:18:46.171Z,31.741,-104.11,6.2921,2.5,ml,22,73,0,0.1,tx,tx2024feny,2024-03-14T15:28:56.916Z,"48 km W of Mentone, Texas",earthquake,0.4605494791134984,0.4852405233013244,0.2,19,reviewed,tx,tx
-2024-03-14T15:14:36.625Z,37.1035,141.1426,53.085,5.6,mww,95,120,2.42,1.01,us,us6000miuf,2024-03-14T15:55:34.496Z,"23 km ENE of Iwaki, Japan",earthquake,7.04,5.682,0.054,33,reviewed,us,us
+2024-03-14T15:14:36.625Z,37.1035,141.1426,53.085,5.6,mww,95,120,2.42,1.01,us,us6000miuf,2024-03-14T16:00:53.210Z,"23 km ENE of Iwaki, Japan",earthquake,7.04,5.682,0.054,33,reviewed,us,us
 2024-03-14T15:10:19.680Z,19.4686660766602,-155.08349609375,39.0099983215332,2.19,ml,49,114,0.04827,0.159999996,hv,hv74136537,2024-03-14T15:12:55.760Z,"3 km SE of Eden Roc, Hawaii",earthquake,0.46,0.479999989,0.09,3,automatic,hv,hv
 2024-03-14T14:59:25.200Z,47.48916666666667,-122.10466666666666,25.19,1.74,ml,11,93,0.1188,0.19,uw,uw61989781,2024-03-14T15:14:35.400Z,"0 km NE of East Renton Highlands, Washington",earthquake,0.65,1.08,0.15041257453391932,7,reviewed,uw,uw
 2024-03-14T14:56:33.397Z,59.4473,-153.1545,113,2.5,ml,,,,0.17,ak,ak0243emftor,2024-03-14T14:58:01.842Z,"65 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -190,7 +190,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-13T19:11:54.240Z,54.7851666666667,-163.823333333333,18.1,0.73,ml,5,106,,0.32,av,av91136393,2024-03-14T03:54:07.710Z,"27 km WSW of False Pass, Alaska",earthquake,2.16,2.46,0.336053374992209,5,reviewed,av,av
 2024-03-13T19:06:07.445Z,-0.1385,125.2632,57.67,4.9,mb,49,52,2.29,1.05,us,us6000minz,2024-03-13T19:23:13.040Z,"112 km SE of Modisi, Indonesia",earthquake,8.41,7.87,0.072,63,reviewed,us,us
 2024-03-13T19:04:53.940Z,33.824,-117.4818333,-0.66,1.37,ml,32,62,0.03135,0.27,ci,ci40686680,2024-03-13T20:10:14.727Z,"7 km SSE of Home Gardens, CA",quarry blast,0.46,31.61,0.206,22,reviewed,ci,ci
-2024-03-13T18:57:20.406Z,31.592,-104.52,6.0333,1.5,ml,10,150,0.1,0.5,tx,tx2024fczv,2024-03-13T19:15:20.267Z,"66 km SSW of Whites City, New Mexico",earthquake,0,5.445670292619,0.1,7,automatic,tx,tx
 2024-03-13T18:56:35.340Z,46.0051666666667,-112.464666666667,-2,1.8,ml,9,181,0.06288,0.1,mb,mb90043083,2024-03-14T14:37:04.270Z,"5 km E of Butte, Montana",quarry blast,0.66,31.61,0.23139353155878,16,reviewed,mb,mb
 2024-03-13T18:56:13.292Z,-0.1127,125.2136,26.46,5.8,mww,89,67,2.325,1.16,us,us6000minw,2024-03-13T21:01:01.895Z,"106 km SE of Modisi, Indonesia",earthquake,7.48,4.881,0.068,21,reviewed,us,us
 2024-03-13T18:54:12.920Z,38.8291664,-122.8548355,2.03,0.78,md,15,69,0.00227,0.01,nc,nc74017106,2024-03-13T18:55:47.848Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.54,0.17,18,automatic,nc,nc
@@ -243,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-13T16:03:27.220Z,38.8371658,-122.8333359,0.78,1.22,md,16,71,0.0022,0.03,nc,nc74016921,2024-03-13T16:05:18.033Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.55,0.29,20,automatic,nc,nc
 2024-03-13T16:03:01.920Z,38.8390007,-122.8349991,1.1,0.45,md,9,117,0.0005605,0.02,nc,nc74016916,2024-03-13T16:04:37.959Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.86,0.33,9,automatic,nc,nc
 2024-03-13T16:02:52.770Z,38.8396683,-122.8361664,1.49,0.73,md,14,115,0.01655,0.02,nc,nc74016911,2024-03-13T16:04:28.038Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.83,0.13,15,automatic,nc,nc
-2024-03-13T16:02:32.770Z,38.8388329,-122.8346634,0.68,1.37,md,20,82,0.0006878,0.04,nc,nc74016906,2024-03-13T16:04:08.007Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.42,0.16,22,automatic,nc,nc
-2024-03-13T16:01:29.010Z,38.838501,-122.8343353,1.2,0.23,md,10,110,0.0009037,0.01,nc,nc74016901,2024-03-13T16:03:02.945Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.78,0.12,12,automatic,nc,nc
-2024-03-13T16:01:02.790Z,38.8390007,-122.8355026,0.69,1.83,md,26,83,0.0004113,0.05,nc,nc74016896,2024-03-13T16:02:38.013Z,"10 km NW of The Geysers, CA",earthquake,0.17,0.41,0.15,26,automatic,nc,nc
