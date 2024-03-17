@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-17T14:36:02.400Z,38.8175011,-122.7961655,2.31,0.75,md,12,66,0.009543,0.01,nc,nc74018936,2024-03-17T14:37:39.180Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.98,0.41,13,automatic,nc,nc
+2024-03-17T14:34:32.706Z,60.4692,-150.7899,53.7,1.5,ml,,,,0.13,ak,ak0243jkx5d2,2024-03-17T14:36:11.470Z,"3 km SSW of Funny River, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-03-17T14:30:45.433Z,60.4296,-153.2242,160.2,2.4,ml,,,,0.4,ak,ak0243jkwbhb,2024-03-17T14:33:02.756Z,"65 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-17T14:28:29.850Z,38.8306656,-122.8183365,1.87,1.23,md,18,50,0.009714,0.01,nc,nc74018931,2024-03-17T14:30:04.051Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.5,0.24,19,automatic,nc,nc
 2024-03-17T14:02:52.291Z,61.7378,-150.7337,3.7,1.8,ml,,,,0.76,ak,ak0243jkqbyl,2024-03-17T14:05:00.274Z,"24 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-17T13:53:44.800Z,35.909,-117.7436667,6.33,1.05,ml,27,44,0.07235,0.11,ci,ci40688432,2024-03-17T14:16:37.400Z,"15 km ESE of Little Lake, CA",earthquake,0.15,0.34,0.232,16,reviewed,ci,ci
@@ -23,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T12:12:47.690Z,35.6248333,-117.436,2.68,0.95,ml,29,59,0.04142,0.14,ci,ci40688400,2024-03-17T12:18:36.348Z,"16 km S of Searles Valley, CA",earthquake,0.15,0.2,0.187,10,automatic,ci,ci
 2024-03-17T12:10:39.990Z,38.8269997,-122.8533325,1.17,1.09,md,15,140,0.01481,0.02,nc,nc74018896,2024-03-17T12:12:13.423Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.5,0.16,16,automatic,nc,nc
 2024-03-17T12:07:10.380Z,33.4441667,-116.6873333,10.97,0.32,ml,30,35,0.0872,0.15,ci,ci40688392,2024-03-17T12:13:58.204Z,"12 km S of Anza, CA",earthquake,0.17,0.43,0.058,3,automatic,ci,ci
+2024-03-17T12:05:55.786Z,39.6683,-120.2702,12.2,0.4,ml,6,186.66,0.21,0.1402,nn,nn00874928,2024-03-17T14:32:30.543Z,"2 km WSW of Loyalton, California",earthquake,,3.9,0.43,3,reviewed,nn,nn
 2024-03-17T11:57:17.660Z,19.3851661682129,-155.279495239258,0.379999995231628,1.86,ml,20,66,0.002497,0.159999996,hv,hv74139367,2024-03-17T12:00:05.330Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.150000006,0.32,9,automatic,hv,hv
 2024-03-17T11:41:28.290Z,38.8346672,-122.8781662,1.82,0.45,md,8,152,0.005446,0.04,nc,nc74018891,2024-03-17T11:43:02.983Z,"12 km WNW of The Geysers, CA",earthquake,0.76,1.19,0.17,8,automatic,nc,nc
 2024-03-17T11:35:44.610Z,38.7856674,-122.7668304,2.82,0.52,md,9,100,0.01495,0.01,nc,nc74018886,2024-03-17T11:37:17.873Z,"1 km NW of The Geysers, CA",earthquake,0.49,0.91,,1,automatic,nc,nc
@@ -212,10 +216,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T16:01:53.110Z,38.8195,-122.7876663,1.59,0.76,md,14,44,0.008281,0.04,nc,nc74018416,2024-03-16T16:03:28.141Z,"5 km NNW of The Geysers, CA",earthquake,0.3,0.67,0.15,15,automatic,nc,nc
 2024-03-16T15:55:18.800Z,38.7900009,-122.765831,1.05,1.43,md,22,88,0.01164,0.05,nc,nc74018411,2024-03-16T15:56:54.110Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.36,0.13,23,automatic,nc,nc
 2024-03-16T15:53:52.430Z,19.1903324127197,-155.384002685547,27.7099990844727,1.88,md,26,175,0.08159,0.159999996,hv,hv74138622,2024-03-16T15:55:47.600Z,"10 km E of Pāhala, Hawaii",earthquake,0.71,0.980000019,0.709999979,3,automatic,hv,hv
-2024-03-16T15:50:58.780Z,33.273,-116.4325,4.68,0.88,ml,45,32,0.01371,0.2,ci,ci40688040,2024-03-16T15:57:03.824Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.4,0.2,20,automatic,ci,ci
+2024-03-16T15:50:58.780Z,33.273,-116.4325,4.68,0.88,ml,45,32,0.01371,0.2,ci,ci40688040,2024-03-17T14:33:11.124Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.4,0.2,20,reviewed,ci,ci
 2024-03-16T15:24:13.310Z,37.4708333,-118.8305,1.54,1.4,md,19,149,0.1163,0.04,nc,nc74018396,2024-03-16T18:24:07.480Z,"17 km SW of Toms Place, CA",earthquake,0.34,1.46,0.139,21,reviewed,nc,nc
 2024-03-16T15:23:09.685Z,57.3191,-156.1234,-0.8,3.3,ml,,,,0.94,ak,ak0243hxwtwx,2024-03-16T20:21:11.248Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-03-16T15:12:07.568Z,31.586,-104.531,4.05,2.1,ml,17,155,0.1,0.2,tx,tx2024fiev,2024-03-16T15:26:17.880Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.68734019900377,0.1,12,automatic,tx,tx
 2024-03-16T15:06:46.000Z,39.1445,-122.8408333,9.19,1.59,md,26,79,0.02173,0.11,nc,nc74018391,2024-03-16T19:02:37.454Z,"2 km NNE of Nice, CA",earthquake,0.26,0.32,0.193,27,reviewed,nc,nc
-2024-03-16T14:36:33.110Z,56.3144,-148.6015,17.577,3,ml,39,224,2.627,0.7,us,us6000mjad,2024-03-16T20:18:34.383Z,"266 km SE of Chiniak, Alaska",earthquake,9.8,8.739,0.053,46,reviewed,us,us
-2024-03-16T14:31:14.930Z,38.8176651,-122.7959976,2.22,0.77,md,9,74,0.009698,0.01,nc,nc74018376,2024-03-16T14:32:47.122Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.41,0.06,10,automatic,nc,nc
