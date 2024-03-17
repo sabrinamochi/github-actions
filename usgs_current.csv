@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-17T08:09:18.510Z,19.3991661071777,-155.269668579102,0.939999997615814,2.3,ml,32,42,0.005324,0.310000002,hv,hv74139252,2024-03-17T08:11:57.240Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.280000001,0.36,15,automatic,hv,hv
+2024-03-17T08:08:57.790Z,38.7915001,-122.7808304,1.22,1.09,md,18,93,0.005787,0.02,nc,nc74018826,2024-03-17T08:10:32.818Z,"3 km NW of The Geysers, CA",earthquake,0.21,0.38,0.18,18,automatic,nc,nc
+2024-03-17T08:02:28.050Z,35.6361667,-117.4688333,5.82,0.88,ml,33,56,0.04674,0.12,ci,ci40688344,2024-03-17T08:08:13.814Z,"16 km SSW of Searles Valley, CA",earthquake,0.14,0.36,0.15,10,automatic,ci,ci
+2024-03-17T07:57:32.090Z,35.636,-117.4705,5.08,0.82,ml,30,55,0.04792,0.14,ci,ci40688336,2024-03-17T08:03:32.515Z,"16 km SSW of Searles Valley, CA",earthquake,0.16,0.33,0.109,7,automatic,ci,ci
 2024-03-17T07:56:59.020Z,38.7876663,-122.7791672,-0.12,2.07,md,8,157,0.01991,0.05,nc,nc74018816,2024-03-17T07:58:33.579Z,"2 km WNW of The Geysers, CA",earthquake,0.41,1.25,0.05,5,automatic,nc,nc
 2024-03-17T07:56:52.810Z,38.7916679,-122.7799988,1.2,2.09,md,31,80,0.0182,0.06,nc,nc74018811,2024-03-17T07:59:53.200Z,"3 km NW of The Geysers, CA",earthquake,0.19,0.33,0.13,29,automatic,nc,nc
 2024-03-17T07:56:17.700Z,38.7923317,-122.7818298,1.71,2.18,md,18,108,0.004832,0.03,nc,nc74018801,2024-03-17T07:57:53.625Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.44,0.3,18,automatic,nc,nc
@@ -6,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T07:54:57.230Z,38.793499,-122.7833328,1.38,0.74,md,11,104,0.003597,0.02,nc,nc74018791,2024-03-17T07:56:33.537Z,"3 km NW of The Geysers, CA",earthquake,0.38,0.64,0.15,12,automatic,nc,nc
 2024-03-17T07:54:39.070Z,38.7978325,-122.7740021,-0.56,0.81,md,7,91,0.01151,0.07,nc,nc74018781,2024-03-17T07:56:13.499Z,"3 km NNW of The Geysers, CA",earthquake,0.32,1.47,0.31,10,automatic,nc,nc
 2024-03-17T07:53:12.680Z,38.7928352,-122.7813339,1.23,1.93,md,29,80,0.005157,0.03,nc,nc74018761,2024-03-17T07:54:48.620Z,"3 km NW of The Geysers, CA",earthquake,0.19,0.3,0.4,28,automatic,nc,nc
-2024-03-17T07:52:43.160Z,34.5301666,-118.1068344,10.08,1.27,ml,25,39,0.0311,0.11,ci,ci40688328,2024-03-17T07:54:47.581Z,"3 km NNE of Vincent, CA",earthquake,0.26,0.47,0.188,11,automatic,ci,ci
+2024-03-17T07:52:43.180Z,34.5285,-118.1038333,9.81,1.15,ml,39,36,0.0336,0.15,ci,ci40688328,2024-03-17T08:02:54.787Z,"3 km NNE of Vincent, CA",earthquake,0.15,0.3,0.195,26,automatic,ci,ci
 2024-03-17T07:29:58.850Z,33.483,-116.5611667,6.5,0.76,ml,50,48,0.03622,0.18,ci,ci40688320,2024-03-17T07:36:21.612Z,"13 km SE of Anza, CA",earthquake,0.15,0.32,0.171,19,automatic,ci,ci
 2024-03-17T07:13:41.815Z,58.2483,-151.6068,22.9,2.1,ml,,,,0.35,ak,ak0243jgmmsl,2024-03-17T07:15:42.366Z,"64 km NE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-17T07:11:06.051Z,12.4592,-87.6006,62.709,4.3,mb,62,153,0.613,0.98,us,us6000mjef,2024-03-17T07:23:34.040Z,"35 km SSW of Jiquilillo, Nicaragua",earthquake,8.65,11.864,0.052,106,reviewed,us,us
@@ -203,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T08:18:53.370Z,32.1168327,-117.4078369,10.49,3.02,ml,36,241,0.327,0.27,ci,ci40687944,2024-03-16T15:04:47.987Z,"43 km SW of Rosarito, B.C., MX",earthquake,0.61,1.24,0.224,25,reviewed,ci,ci
 2024-03-16T08:17:03.530Z,17.9176666666667,-66.968,16.1,2.18,md,6,237,0.08897,0.06,pr,pr71443103,2024-03-16T09:18:07.030Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.63,0.84,0.0528749729145013,4,reviewed,pr,pr
 2024-03-16T08:16:12.750Z,38.8306656,-122.8161697,1.43,0.45,md,11,81,0.008682,0.01,nc,nc74018211,2024-03-16T08:17:45.538Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.71,0.33,12,automatic,nc,nc
-2024-03-16T08:12:17.570Z,33.1428333,-116.55,14.52,1.13,ml,67,21,0.09905,0.18,ci,ci40687936,2024-03-16T08:18:46.898Z,"9 km NE of Julian, CA",earthquake,0.16,0.36,0.184,27,automatic,ci,ci
-2024-03-16T08:04:15.388Z,64.9241,-147.6239,13.5,0.3,ml,,,,0.4,ak,ak0243htmqf6,2024-03-16T08:06:41.991Z,"3 km S of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-16T08:03:12.520Z,18.1191,-65.7948,10,3.65,md,14,194,0.0587,0.05,pr,pr2024076000,2024-03-16T19:50:07.378Z,"4 km SSW of Bajandas, Puerto Rico",earthquake,0.64,0.38,0.12,10,reviewed,pr,pr
