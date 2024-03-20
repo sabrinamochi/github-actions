@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T00:11:33.110Z,38.8311653,-122.8198318,1.62,0.31,md,9,66,0.01088,0.01,nc,nc74020276,2024-03-20T00:13:07.537Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.8,0.15,10,automatic,nc,nc
+2024-03-20T00:11:21.850Z,38.8343315,-122.8044968,1.95,1.05,md,17,54,0.01176,0.01,nc,nc74020271,2024-03-20T00:12:57.638Z,"7 km W of Cobb, CA",earthquake,0.23,0.46,0.12,19,automatic,nc,nc
 2024-03-20T00:05:27.100Z,38.8266678,-122.8138351,2.36,0.48,md,9,76,0.004394,0.01,nc,nc74020266,2024-03-20T00:07:02.481Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.12,0.28,11,automatic,nc,nc
-2024-03-20T00:03:08.840Z,34.0535011,-117.2588348,16.07,1.46,ml,48,54,0.09827,0.17,ci,ci40690672,2024-03-20T00:05:20.365Z,"1 km NNE of Loma Linda, CA",earthquake,0.25,0.6,0.278,17,automatic,ci,ci
+2024-03-20T00:03:08.770Z,34.0528333,-117.2605,17.16,1.37,ml,57,54,0.09693,0.19,ci,ci40690672,2024-03-20T00:13:33.040Z,"0 km N of Loma Linda, CA",earthquake,0.19,0.41,0.242,29,automatic,ci,ci
 2024-03-19T23:44:05.290Z,33.1461667,-116.5245,8.61,1.54,ml,69,25,0.08936,0.2,ci,ci40690648,2024-03-19T23:55:09.150Z,"10 km NE of Julian, CA",earthquake,0.15,0.54,0.213,27,automatic,ci,ci
 2024-03-19T23:40:13.551Z,44.3495,-115.1887,18.475,3.3,ml,19,71,0.346,0.67,us,us6000mjvh,2024-03-20T00:03:20.330Z,"24 km NW of Stanley, Idaho",earthquake,1.88,6.426,0.039,86,reviewed,us,us
 2024-03-19T23:04:54.163Z,64.9868,-147.3331,3.5,1.4,ml,,,,0.21,ak,ak0243n16cyw,2024-03-19T23:06:24.310Z,"13 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T21:27:01.939Z,29.7252,65.3575,10,5.4,mww,105,57,7.793,1.06,us,us6000mjux,2024-03-20T00:07:49.612Z,"67 km WNW of Nushki, Pakistan",earthquake,7.97,1.844,0.117,7,reviewed,us,us
 2024-03-19T21:20:35.070Z,33.8661667,-117.504,1.93,1.1,ml,19,60,0.06909,0.16,ci,ci40690480,2024-03-19T21:26:53.791Z,"2 km SE of Home Gardens, CA",earthquake,0.32,0.35,0.3,23,automatic,ci,ci
 2024-03-19T21:15:29.841Z,63.3019,-150.9312,5.7,1.4,ml,,,,0.61,ak,ak0243n01src,2024-03-19T21:17:06.630Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-19T21:13:26.093Z,37.2273,-114.9474,0,1.4,ml,4,284.55,0.197,0.1187,nn,nn00875058,2024-03-20T00:01:46.223Z,"24 km SE of Alamo, Nevada",earthquake,,0,0.19,3,reviewed,nn,nn
+2024-03-19T21:13:26.077Z,37.2183,-114.9743,0,1.4,ml,8,209.61,0.198,0.1317,nn,nn00875058,2024-03-20T00:07:59.997Z,"23 km SE of Alamo, Nevada",earthquake,,0,0.46,6,reviewed,nn,nn
 2024-03-19T21:11:20.861Z,61.9091,-150.9045,15.8,1.4,ml,,,,0.5,ak,ak0243n00x7a,2024-03-19T21:13:14.841Z,"27 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-19T20:59:54.920Z,38.8036652,-122.8365021,1.08,0.75,md,13,67,0.002883,0.02,nc,nc74020146,2024-03-19T21:01:27.627Z,"8 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.18,14,automatic,nc,nc
 2024-03-19T20:58:39.294Z,60.99,-146.9525,19.9,1.7,ml,,,,0.48,ak,ak0243mzplo9,2024-03-19T21:00:34.770Z,"20 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -191,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T00:35:19.253Z,29.7078,65.3794,10,5.5,mww,209,41,7.786,0.69,us,us6000mjpj,2024-03-19T22:47:47.008Z,"64 km WNW of Nushki, Pakistan",earthquake,7.72,1.768,0.073,18,reviewed,us,us
 2024-03-19T00:35:09.700Z,38.7996674,-122.8101654,1.98,0.88,md,10,99,0.01261,0.03,nc,nc74019661,2024-03-19T00:36:45.003Z,"5 km WNW of The Geysers, CA",earthquake,0.41,0.67,0.16,12,automatic,nc,nc
 2024-03-19T00:32:41.020Z,38.7996674,-122.8105011,1.99,0.99,md,15,71,0.01273,0.02,nc,nc74019656,2024-03-19T00:34:14.983Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.54,0.26,16,automatic,nc,nc
-2024-03-19T00:18:37.950Z,35.0341667,-117.6816667,-0.79,1.69,ml,37,45,0.1003,0.15,ci,ci40689728,2024-03-19T14:31:29.056Z,"5 km NW of Boron, CA",quarry blast,0.26,31.61,0.17,20,reviewed,ci,ci
-2024-03-19T00:16:42.430Z,34.5243333,-118.6643333,18.04,1.05,ml,29,66,0.04847,0.2,ci,ci40689712,2024-03-19T14:11:10.180Z,"6 km NW of Castaic, CA",earthquake,0.27,0.62,0.164,12,reviewed,ci,ci
