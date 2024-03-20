@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T17:21:07.614Z,61.6628,-148.2173,23.8,1.2,ml,,,,0.45,ak,ak0243ol8nex,2024-03-20T17:22:27.143Z,"19 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-20T17:04:05.689Z,60.1088,-153.2095,130.3,2,ml,,,,0.88,ak,ak0243ol503c,2024-03-20T17:06:55.129Z,"61 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-20T16:58:20.770Z,38.7883339,-122.7196655,2.49,1.04,md,10,93,0.01427,0.03,nc,nc74020741,2024-03-20T16:59:56.165Z,"3 km WNW of Anderson Springs, CA",earthquake,0.35,1,0.2,10,automatic,nc,nc
 2024-03-20T16:44:46.042Z,31.654,-104.412,5.091,2.1,ml,18,71,0,0.2,tx,tx2024fppx,2024-03-20T17:09:59.855Z,"57 km S of Whites City, New Mexico",earthquake,0,2.77381924433187,0.1,14,automatic,tx,tx
@@ -104,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T08:22:25.790Z,35.6455,-118.3201667,7.74,2.24,ml,46,27,0.05583,0.12,ci,ci40690856,2024-03-20T15:39:30.381Z,"14 km ESE of Wofford Heights, CA",earthquake,0.12,0.35,0.241,26,automatic,ci,ci
 2024-03-20T08:13:55.800Z,35.6468333,-118.3195,7.75,1.03,ml,28,59,0.05491,0.13,ci,ci40690848,2024-03-20T13:17:11.760Z,"14 km ESE of Wofford Heights, CA",earthquake,0.18,0.41,0.18,13,reviewed,ci,ci
 2024-03-20T08:11:33.514Z,39.3955,-119.7907,4.4,0.1,ml,9,86.53,0.021,0.1607,nn,nn00875081,2024-03-20T14:55:22.354Z,"15 km S of Reno, Nevada",earthquake,,1.6,0.07,2,reviewed,nn,nn
+2024-03-20T07:58:06.800Z,37.8625,-122.048,7.87,0.38,md,7,120,0.04397,0.06,nc,nc74020511,2024-03-20T17:23:12.490Z,"2 km NW of Alamo, CA",earthquake,0.39,0.7,0.304,6,reviewed,nc,nc
 2024-03-20T07:55:21.400Z,33.3021667,-116.2603333,9.28,1.1,ml,70,35,0.07284,0.21,ci,ci40690840,2024-03-20T08:02:38.824Z,"12 km ENE of Borrego Springs, CA",earthquake,0.16,0.42,0.187,28,automatic,ci,ci
 2024-03-20T07:54:48.110Z,37.8618333,-122.0526667,7.29,0.66,md,12,83,0.04602,0.08,nc,nc74020506,2024-03-20T17:20:42.144Z,"2 km NW of Alamo, CA",earthquake,0.27,0.58,0.238,11,reviewed,nc,nc
 2024-03-20T07:45:35.730Z,44.7575,-112.6995,6.59,1.09,ml,10,74,0.1274,0.14,mb,mb90043618,2024-03-20T14:04:25.500Z,"15 km NNW of Lima, Montana",earthquake,0.55,1.91,0.243089511303948,16,reviewed,mb,mb
@@ -155,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T03:01:55.500Z,38.8235016,-122.8148346,1.55,0.66,md,5,183,0.00372,0.02,nc,nc74020361,2024-03-20T03:03:27.481Z,"7 km NW of The Geysers, CA",earthquake,1.37,2.29,0.28,8,automatic,nc,nc
 2024-03-20T02:47:00.780Z,36.0505,-117.7043333,1.66,1.28,ml,29,63,0.05546,0.16,ci,ci40690752,2024-03-20T13:19:26.800Z,"22 km E of Coso Junction, CA",earthquake,0.21,0.24,0.268,17,reviewed,ci,ci
 2024-03-20T02:17:58.740Z,35.881,-117.697,8.53,0.49,ml,23,61,0.07674,0.13,ci,ci40690744,2024-03-20T02:23:44.839Z,"20 km ESE of Little Lake, CA",earthquake,0.21,0.49,0.116,5,automatic,ci,ci
-2024-03-20T02:17:01.870Z,35.9061667,-117.7041667,5.69,1.54,ml,31,61,0.06033,0.13,ci,ci40690736,2024-03-20T17:21:44.000Z,"18 km E of Little Lake, CA",earthquake,0.16,0.43,0.167,22,reviewed,ci,ci
+2024-03-20T02:17:01.870Z,35.9061667,-117.7041667,5.69,1.54,ml,31,61,0.06033,0.13,ci,ci40690736,2024-03-20T17:23:08.480Z,"18 km E of Little Lake, CA",earthquake,0.16,0.43,0.167,22,reviewed,ci,ci
 2024-03-20T02:15:40.480Z,36.1901667,-120.7606667,7.75,1.01,md,24,145,0.04169,0.1,nc,nc74020356,2024-03-20T04:34:39.616Z,"23 km NE of San Ardo, CA",earthquake,0.28,0.37,0.091,14,reviewed,nc,nc
 2024-03-20T02:11:48.230Z,38.793335,-122.7811661,1.25,1.12,md,20,78,0.005279,0.03,nc,nc74020336,2024-03-20T02:13:22.994Z,"3 km NW of The Geysers, CA",earthquake,0.23,0.36,0.16,20,automatic,nc,nc
 2024-03-20T02:09:21.595Z,-5.4601,150.4711,126.108,4.9,mb,34,114,10.173,0.74,us,us6000mjvy,2024-03-20T02:25:51.040Z,"38 km ENE of Kimbe, Papua New Guinea",earthquake,14.04,8.384,0.126,20,reviewed,us,us
