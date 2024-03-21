@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-21T02:03:18.977Z,62.5913,-151.8715,100.2,1.5,ml,,,,0.41,ak,ak0243pzqntl,2024-03-21T02:06:47.279Z,"57 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-21T01:51:41.930Z,18.2782,-65.6993,137.512,3.8,ml,24,140,0.196,0.31,us,us6000mk5r,2024-03-21T02:05:56.942Z,"5 km WNW of Ceiba, Puerto Rico",earthquake,5.54,4.805,0.06,36,reviewed,us,us
+2024-03-21T01:51:43.700Z,18.3163,-65.7486,131,3.69,md,18,178,0.201,0.2,pr,pr2024081000,2024-03-21T02:17:17.138Z,"4 km SW of Ramos, Puerto Rico",earthquake,2.85,0.8,0.12,15,reviewed,pr,pr
 2024-03-21T01:50:42.280Z,38.8346672,-122.8136673,1.86,0.59,md,7,110,0.0116,0.01,nc,nc74021081,2024-03-21T01:52:14.733Z,"8 km W of Cobb, CA",earthquake,0.48,1.55,0.32,10,automatic,nc,nc
 2024-03-21T01:47:57.668Z,61.8302,-149.6831,34.9,1.2,ml,,,,0.36,ak,ak0243pzeqpi,2024-03-21T01:49:24.673Z,"20 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-21T01:40:28.850Z,33.5193333,-116.7563333,3.94,0.55,ml,21,52,0.03742,0.1,ci,ci40520247,2024-03-21T01:46:57.274Z,"9 km WSW of Anza, CA",earthquake,0.16,0.28,0.029,7,automatic,ci,ci
@@ -278,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T02:47:00.780Z,36.0505,-117.7043333,1.66,1.28,ml,29,63,0.05546,0.16,ci,ci40690752,2024-03-20T13:19:26.800Z,"22 km E of Coso Junction, CA",earthquake,0.21,0.24,0.268,17,reviewed,ci,ci
 2024-03-20T02:26:47.630Z,54.115,-165.941666666667,2.58,-0.45,ml,4,125,,0.22,av,av91137103,2024-03-20T19:58:04.900Z,"11 km W of Akutan, Alaska",earthquake,0.54,0.95,0.126746135205574,4,reviewed,av,av
 2024-03-20T02:17:58.720Z,35.8796667,-117.697,8.17,0.91,ml,21,101,0.0779,0.09,ci,ci40690744,2024-03-20T17:25:46.316Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.42,0.234,7,reviewed,ci,ci
-2024-03-20T02:17:01.870Z,35.9061667,-117.7041667,5.69,1.54,ml,31,61,0.06033,0.13,ci,ci40690736,2024-03-20T17:23:08.480Z,"18 km E of Little Lake, CA",earthquake,0.16,0.43,0.167,22,reviewed,ci,ci
-2024-03-20T02:15:40.480Z,36.1901667,-120.7606667,7.75,1.01,md,24,145,0.04169,0.1,nc,nc74020356,2024-03-20T04:34:39.616Z,"23 km NE of San Ardo, CA",earthquake,0.28,0.37,0.091,14,reviewed,nc,nc
