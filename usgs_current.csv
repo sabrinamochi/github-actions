@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-22T00:15:13.880Z,38.8188324,-122.8088303,1.07,1.11,md,23,40,0.004658,0.03,nc,nc74021781,2024-03-22T00:16:51.042Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.39,0.21,23,automatic,nc,nc
+2024-03-22T00:13:30.297Z,61.5776,-146.5846,34.6,1,ml,,,,0.75,ak,ak0243rm5b51,2024-03-22T00:15:06.114Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-22T00:06:02.650Z,57.025,-135.637833333333,4.18,-0.3,ml,4,194,,0.09,av,av91137328,2024-03-22T00:20:13.100Z,"18 km W of Sitka, Alaska",earthquake,1.12,1.68,0.235014103445649,4,reviewed,av,av
+2024-03-22T00:05:50.310Z,57.0361666666667,-135.634166666667,5.48,-0.08,ml,4,183,,0.04,av,av92238186,2024-03-22T00:17:36.500Z,"18 km W of Sitka, Alaska",earthquake,0.89,1.04,0.0815741398272986,4,reviewed,av,av
 2024-03-21T23:41:48.544Z,39.4928,-119.4736,1.1,1.6,ml,10,120.19,0.228,0.2165,nn,nn00875187,2024-03-21T23:43:54.884Z,"15 km NNW of Stagecoach, Nevada",earthquake,,29.3,0.15,7,automatic,nn,nn
 2024-03-21T23:38:55.726Z,59.9666,-152.5824,95.8,1.3,ml,,,,0.86,ak,ak0243qcgc6d,2024-03-21T23:41:00.550Z,"47 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-21T23:18:08.580Z,33.5645,-116.6046667,14.66,0.75,ml,31,34,0.02173,0.12,ci,ci40521383,2024-03-22T00:07:56.921Z,"6 km E of Anza, CA",earthquake,0.18,0.26,0.122,16,automatic,ci,ci
+2024-03-21T23:18:08.620Z,33.5651667,-116.6036667,14.55,0.7,ml,27,56,0.0225,0.12,ci,ci40521383,2024-03-22T00:08:00.979Z,"7 km E of Anza, CA",earthquake,0.18,0.27,0.096,9,reviewed,ci,ci
 2024-03-21T23:15:48.430Z,53.871,-166.586333333333,4.09,0.37,ml,7,147,,0.1,av,av92238161,2024-03-21T23:49:46.080Z,"3 km W of Unalaska, Alaska",earthquake,0.34,0.9,0.319590360798314,7,reviewed,av,av
 2024-03-21T23:01:14.810Z,38.7688332,-122.7314987,1.15,1.14,md,14,71,0.008899,0.03,nc,nc74021751,2024-03-21T23:02:50.327Z,"2 km ESE of The Geysers, CA",earthquake,0.27,0.33,0.11,14,automatic,nc,nc
 2024-03-21T22:58:05.020Z,38.7891655,-122.7613297,-0.84,0.86,md,11,92,0.01151,0.03,nc,nc74021746,2024-03-21T22:59:40.275Z,"1 km NNW of The Geysers, CA",earthquake,0.26,1.06,0.15,13,automatic,nc,nc
@@ -284,9 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T00:28:49.266Z,62.922,-148.2037,2.9,1.5,ml,,,,0.84,ak,ak0243pyp7tq,2024-03-21T00:31:33.576Z,"64 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-21T00:27:20.790Z,38.8354988,-122.8148346,1.23,0.95,md,9,114,0.01265,0.04,nc,nc74021036,2024-03-21T00:28:53.773Z,"8 km W of Cobb, CA",earthquake,0.42,1.01,0.22,11,automatic,nc,nc
 2024-03-21T00:27:04.170Z,38.8313332,-122.8150024,1.5,0.99,md,15,50,0.008812,0.01,nc,nc74021031,2024-03-21T00:28:39.836Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.5,0.23,16,automatic,nc,nc
-2024-03-21T00:20:18.580Z,47.111666666666665,-123.29383333333334,-0.17,1.07,ml,12,94,0.06232,0.18,uw,uw61991166,2024-03-21T18:41:08.160Z,"6 km NNW of McCleary, Washington",explosion,0.44,31.61,0.10878741141697534,6,reviewed,uw,uw
-2024-03-21T00:19:11.766Z,-2.0318,137.4539,3.186,5.1,mww,69,41,3.282,0.88,us,us6000mk4w,2024-03-21T00:38:49.040Z,"179 km ESE of Biak, Indonesia",earthquake,6.94,4.49,0.089,12,reviewed,us,us
-2024-03-21T00:16:20.300Z,53.845,-166.495666666667,8.01,0.12,ml,6,298,,0.09,av,av91137223,2024-03-21T19:00:27.710Z,"4 km SE of Unalaska, Alaska",earthquake,0.6,0.56,0.154281543183839,6,reviewed,av,av
-2024-03-21T00:09:58.600Z,38.8358345,-122.8146667,1.57,0.8,md,7,101,0.01293,0.01,nc,nc74021021,2024-03-21T00:11:33.634Z,"8 km W of Cobb, CA",earthquake,0.48,1.58,0.25,9,automatic,nc,nc
-2024-03-21T00:08:03.187Z,35.9877,139.7988,48.343,5.2,mww,120,90,1.399,0.73,us,us6000mk4v,2024-03-21T18:46:39.286Z,"4 km E of Kasukabe, Japan",earthquake,6.22,5.742,0.073,18,reviewed,us,us
-2024-03-21T00:08:02.450Z,38.8333321,-122.8136673,1.58,2.2,md,38,33,0.01031,0.06,nc,nc74021016,2024-03-21T00:11:16.773Z,"8 km W of Cobb, CA",earthquake,0.17,0.26,0.15,43,automatic,nc,nc
