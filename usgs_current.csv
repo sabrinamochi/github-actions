@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T14:45:55.660Z,35.9968333,-117.9513333,1.33,1.12,ml,30,67,0.05059,0.13,ci,ci40520791,2024-03-21T20:49:31.450Z,"5 km S of Coso Junction, CA",earthquake,0.16,0.24,0.153,16,reviewed,ci,ci
 2024-03-21T14:41:54.070Z,19.2373333333333,-155.388333333333,32.3,2.13,md,49,143,0.008669,0.12,hv,hv74144157,2024-03-21T18:44:35.860Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.6,0.176746351371053,24,reviewed,hv,hv
 2024-03-21T14:38:00.578Z,36.799,-116.1104,6.7,0.1,ml,6,183.55,0.019,0.024,nn,nn00875152,2024-03-21T16:04:24.669Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.23,2,reviewed,nn,nn
-2024-03-21T14:30:33.099Z,36.8017,-116.1105,6.5,-0.1,ml,7,191.78,0.018,0.0301,nn,nn00875145,2024-03-21T15:42:07.301Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.06,2,reviewed,nn,nn
+2024-03-21T14:30:33.099Z,36.8017,-116.1105,6.5,-0.1,ml,7,191.78,0.018,0.0301,nn,nn00875145,2024-03-22T02:04:30.910Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.06,2,reviewed,nn,nn
 2024-03-21T14:24:45.680Z,38.7576675,-122.7241669,2.83,0.94,md,10,148,0.003957,0.02,nc,nc74021426,2024-03-21T14:48:59.452Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.71,0.23,10,automatic,nc,nc
 2024-03-21T14:22:41.710Z,36.14566667,-98.3105,6.59,1.6,ml,70,47,0.129574573,0.21,ok,ok2024frgs,2024-03-21T16:50:39.646Z,"3 km N of Okeene, Oklahoma",earthquake,,0.5,0.25,27,reviewed,ok,ok
 2024-03-21T14:05:53.850Z,61.2237,-147.8093,28.3,1.8,ml,,,,0.98,ak,ak0243q6wd7d,2024-03-21T14:08:29.548Z,"64 km ESE of Knik River, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T12:41:24.030Z,47.920833333333334,-122.86166666666666,22.93,1.55,ml,23,83,0.08588,0.15,uw,uw61991241,2024-03-21T16:14:46.330Z,"11 km N of Quilcene, Washington",earthquake,0.34,0.48,0.159375334858608,14,reviewed,uw,uw
 2024-03-21T12:23:24.200Z,35.68,-118.2016667,8.6,1.2,ml,29,61,0.03669,0.12,ci,ci40520703,2024-03-21T13:19:56.380Z,"22 km ESE of Kernville, CA",earthquake,0.15,0.37,0.178,20,reviewed,ci,ci
 2024-03-21T12:18:37.490Z,64.4801,-146.9146,0.3,1.5,ml,,,,0.56,ak,ak0243q5s91h,2024-03-21T12:20:32.100Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-03-21T12:10:06.445Z,36.7991,-116.1089,6.6,0.1,ml,7,181.25,0.018,0.0318,nn,nn00875144,2024-03-21T15:38:54.235Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.46,2,reviewed,nn,nn
+2024-03-21T12:10:06.445Z,36.7991,-116.1089,6.6,0.1,ml,7,181.25,0.018,0.0318,nn,nn00875144,2024-03-22T02:04:28.881Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.46,2,reviewed,nn,nn
 2024-03-21T11:59:52.840Z,60.0261666666667,-153.065,-2.19,-0.63,ml,5,111,,0.09,av,av92237741,2024-03-21T22:31:41.660Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.28,2.28,0.366728342997682,5,reviewed,av,av
 2024-03-21T11:56:38.790Z,38.7931671,-122.7304993,1.37,2.34,md,45,52,0.01104,0.1,nc,nc74021371,2024-03-21T11:59:45.240Z,"3 km NE of The Geysers, CA",earthquake,0.18,0.4,0.15,46,automatic,nc,nc
 2024-03-21T11:47:11.230Z,19.2323341369629,-155.470993041992,30.5400009155273,1.98000002,md,43,95,0.03089,0.119999997,hv,hv74144017,2024-03-21T12:04:40.218Z,"3 km NNE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.189999998,8,automatic,hv,hv
@@ -147,17 +147,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T11:13:59.890Z,58.1863333333333,-155.297833333333,0.9,-0.14,ml,7,151,,0.07,av,av92237711,2024-03-21T22:42:25.400Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.9,0.309139993152757,7,reviewed,av,av
 2024-03-21T11:09:22.010Z,38.8238335,-122.8548355,2.81,0.95,md,17,94,0.004033,0.03,nc,nc74021311,2024-03-21T11:10:56.971Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.52,0.2,18,automatic,nc,nc
 2024-03-21T11:07:43.460Z,38.784832,-122.7268295,1.08,1.92,md,37,48,0.007896,0.05,nc,nc74021306,2024-03-21T11:10:39.193Z,"3 km ENE of The Geysers, CA",earthquake,0.2,0.31,0.14,37,automatic,nc,nc
-2024-03-21T11:07:13.274Z,36.799,-116.1104,6.6,-0.1,ml,4,223.96,0.019,0.0144,nn,nn00875143,2024-03-21T15:35:41.058Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.2,0.4,2,reviewed,nn,nn
-2024-03-21T11:06:58.121Z,36.8021,-116.1104,6.7,-0.2,ml,7,193.16,0.017,0.0232,nn,nn00875142,2024-03-21T15:35:40.298Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.33,2,reviewed,nn,nn
+2024-03-21T11:07:13.274Z,36.799,-116.1104,6.6,-0.1,ml,4,223.96,0.019,0.0144,nn,nn00875143,2024-03-22T02:04:27.786Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.2,0.4,2,reviewed,nn,nn
+2024-03-21T11:06:58.121Z,36.8021,-116.1104,6.7,-0.2,ml,7,193.16,0.017,0.0232,nn,nn00875142,2024-03-22T02:04:27.004Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.33,2,reviewed,nn,nn
 2024-03-21T11:06:17.760Z,19.1299991607666,-155.378326416016,28.9799995422363,1.70000005,md,38,185,0.08315,0.129999995,hv,hv74143992,2024-03-21T11:07:54.840Z,"13 km SE of Pāhala, Hawaii",earthquake,0.65,0.779999971,0.180000007,4,automatic,hv,hv
-2024-03-21T11:05:10.171Z,36.8009,-116.1097,6.5,-0.1,ml,7,188.18,0.017,0.0234,nn,nn00875140,2024-03-21T15:29:21.119Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.25,2,reviewed,nn,nn
+2024-03-21T11:05:10.171Z,36.8009,-116.1097,6.5,-0.1,ml,7,188.18,0.017,0.0234,nn,nn00875140,2024-03-22T02:04:25.929Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.25,2,reviewed,nn,nn
 2024-03-21T11:05:04.050Z,60.0568333333333,-153.072166666667,0.59,-0.73,ml,5,167,,0.04,av,av92237701,2024-03-21T22:34:27.350Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.65,0.29,0.212918737140372,5,reviewed,av,av
 2024-03-21T11:04:57.050Z,38.8465004,-122.81633,1.28,0.61,md,10,84,0.00982,0.02,nc,nc74021301,2024-03-21T11:06:31.879Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.93,0.39,11,automatic,nc,nc
 2024-03-21T11:04:32.660Z,33.5146667,-116.7576667,4.32,0.29,ml,28,40,0.03573,0.13,ci,ci40520631,2024-03-21T20:38:00.423Z,"9 km WSW of Anza, CA",earthquake,0.17,0.27,0.163,8,reviewed,ci,ci
-2024-03-21T11:03:48.179Z,36.7975,-116.1101,6.6,0,ml,9,179.05,0.02,0.0529,nn,nn00875139,2024-03-21T15:29:16.317Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.11,3,reviewed,nn,nn
+2024-03-21T11:03:48.179Z,36.7975,-116.1101,6.6,0,ml,9,179.05,0.02,0.0529,nn,nn00875139,2024-03-22T02:04:24.809Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.11,3,reviewed,nn,nn
 2024-03-21T11:03:01.670Z,38.6450005,-122.7030029,3.7,1.35,md,5,209,0.1177,0.03,nc,nc74021296,2024-03-21T11:04:36.796Z,"13 km NW of Calistoga, CA",earthquake,1.8,7.88,0.3,5,automatic,nc,nc
-2024-03-21T11:01:59.340Z,36.7964,-116.1078,6.4,0,ml,19,81.14,0.019,0.0624,nn,nn00875133,2024-03-21T15:26:03.003Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.26,9,reviewed,nn,nn
-2024-03-21T11:01:45.311Z,36.7971,-116.1074,6.7,-0.1,ml,8,172.63,0.018,0.046,nn,nn00875138,2024-03-21T15:19:39.578Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.15,3,reviewed,nn,nn
+2024-03-21T11:01:59.340Z,36.7964,-116.1078,6.4,0,ml,19,81.14,0.019,0.0624,nn,nn00875133,2024-03-22T02:04:19.100Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.26,9,reviewed,nn,nn
+2024-03-21T11:01:45.311Z,36.7971,-116.1074,6.7,-0.1,ml,8,172.63,0.018,0.046,nn,nn00875138,2024-03-22T02:04:23.605Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.15,3,reviewed,nn,nn
 2024-03-21T11:00:38.120Z,38.7828331,-122.7249985,1.36,1.09,md,12,82,0.009174,0.13,nc,nc74021291,2024-03-21T11:02:11.828Z,"3 km ENE of The Geysers, CA",earthquake,0.48,0.67,0.22,11,automatic,nc,nc
 2024-03-21T10:55:19.640Z,44.7561666666667,-112.677,8.28,0.79,ml,7,123,0.1409,0.05,mb,mb90043758,2024-03-21T16:17:04.400Z,"14 km NNW of Lima, Montana",earthquake,0.5,0.85,0.140405799020558,9,reviewed,mb,mb
 2024-03-21T10:53:59.720Z,38.7803345,-122.7231674,1.59,0.89,md,10,80,0.01099,0.02,nc,nc74021286,2024-03-21T10:55:32.721Z,"3 km WNW of Anderson Springs, CA",earthquake,0.27,0.58,0.16,11,automatic,nc,nc
@@ -174,20 +174,20 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T10:38:58.420Z,34.17,-117.4261667,6.59,0.6,ml,31,42,0.06065,0.17,ci,ci40520623,2024-03-21T18:53:55.552Z,"6 km SSW of Devore, CA",earthquake,0.23,0.51,0.074,9,reviewed,ci,ci
 2024-03-21T10:38:57.170Z,38.7845001,-122.7220001,1.05,1.3,md,11,87,0.02298,0.01,nc,nc74021241,2024-03-21T10:40:32.606Z,"3 km WNW of Anderson Springs, CA",earthquake,0.56,1.71,0.1,11,automatic,nc,nc
 2024-03-21T10:38:10.040Z,38.7811661,-122.7186661,2.12,3.06,ml,72,30,0.01427,0.1,nc,nc74021246,2024-03-21T18:00:16.199Z,"2 km WNW of Anderson Springs, CA",earthquake,0.16,0.33,0.212,14,automatic,nc,nc
-2024-03-21T10:32:17.537Z,36.7991,-116.1096,6.8,-0.2,ml,7,182.43,0.018,0.0233,nn,nn00875150,2024-03-21T15:58:06.841Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.16,2,reviewed,nn,nn
-2024-03-21T10:31:23.334Z,36.7994,-116.1082,6.8,-0.1,ml,7,180.85,0.017,0.0249,nn,nn00875137,2024-03-21T15:19:36.915Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.22,2,reviewed,nn,nn
+2024-03-21T10:32:17.537Z,36.7991,-116.1096,6.8,-0.2,ml,7,182.43,0.018,0.0233,nn,nn00875150,2024-03-22T02:04:35.739Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.16,2,reviewed,nn,nn
+2024-03-21T10:31:23.334Z,36.7994,-116.1082,6.8,-0.1,ml,7,180.85,0.017,0.0249,nn,nn00875137,2024-03-22T02:04:22.602Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.22,2,reviewed,nn,nn
 2024-03-21T10:30:30.538Z,36.7897,-116.0968,6,-0.2,ml,3,182.28,0.021,0.0268,nn,nn00875176,2024-03-21T19:27:28.310Z,"45 km WNW of Indian Springs, Nevada",earthquake,,3.2,0.16,2,reviewed,nn,nn
 2024-03-21T10:26:25.730Z,53.8735,-166.594,5.13,0.77,ml,8,117,,0.13,av,av92237661,2024-03-21T22:13:31.380Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.35,0.77,0.19453275711855,8,reviewed,av,av
 2024-03-21T10:19:56.231Z,60.5661,-147.3277,25.7,1.3,ml,,,,0.63,ak,ak0243q4lmzr,2024-03-21T10:22:00.806Z,"48 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-21T10:18:59.470Z,19.2178325653076,-155.463668823242,35.5099983215332,2.16000009,md,32,104,0.04513,0.109999999,hv,hv74143952,2024-03-21T10:20:31.230Z,"2 km NE of Pāhala, Hawaii",earthquake,0.51,0.699999988,0.0900000036,4,automatic,hv,hv
 2024-03-21T10:17:05.320Z,47.7955,-122.821,19.92,0.6900000000000001,ml,13,54,0.04552,0.23,uw,uw61991226,2024-03-21T20:52:57.620Z,"5 km SE of Quilcene, Washington",earthquake,0.6,0.89,0.20545417535235272,6,reviewed,uw,uw
 2024-03-21T10:11:31.220Z,33.3283333,-116.367,10.56,0.72,ml,45,33,0.001604,0.23,ci,ci40520599,2024-03-21T18:20:01.384Z,"8 km N of Borrego Springs, CA",earthquake,0.24,0.47,0.103,9,reviewed,ci,ci
-2024-03-21T10:07:15.864Z,36.8017,-116.1108,7,-0.3,ml,7,192.39,0.018,0.0395,nn,nn00875149,2024-03-21T15:54:53.552Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.13,2,reviewed,nn,nn
-2024-03-21T10:06:54.327Z,36.8001,-116.1111,6.7,0,ml,7,188.06,0.019,0.0349,nn,nn00875148,2024-03-21T15:51:41.433Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.6,0.3,2,reviewed,nn,nn
-2024-03-21T10:05:35.183Z,36.8057,-116.1106,6.7,0.1,ml,6,242.96,0.016,0.0689,nn,nn00875147,2024-03-21T15:48:29.125Z,"47 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.32,2,reviewed,nn,nn
-2024-03-21T10:03:54.042Z,36.8029,-116.111,6.8,-0.1,ml,7,196.58,0.017,0.0337,nn,nn00875146,2024-03-21T15:48:26.159Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.14,2,reviewed,nn,nn
+2024-03-21T10:07:15.864Z,36.8017,-116.1108,7,-0.3,ml,7,192.39,0.018,0.0395,nn,nn00875149,2024-03-22T02:04:34.825Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.13,2,reviewed,nn,nn
+2024-03-21T10:06:54.327Z,36.8001,-116.1111,6.7,0,ml,7,188.06,0.019,0.0349,nn,nn00875148,2024-03-22T02:04:33.792Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.6,0.3,2,reviewed,nn,nn
+2024-03-21T10:05:35.183Z,36.8057,-116.1106,6.7,0.1,ml,6,242.96,0.016,0.0689,nn,nn00875147,2024-03-22T02:04:32.842Z,"47 km WNW of Indian Springs, Nevada",earthquake,,2.1,0.32,2,reviewed,nn,nn
+2024-03-21T10:03:54.042Z,36.8029,-116.111,6.8,-0.1,ml,7,196.58,0.017,0.0337,nn,nn00875146,2024-03-22T02:04:31.974Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.14,2,reviewed,nn,nn
 2024-03-21T10:03:01.572Z,61.0118,-147.2319,26.2,3,ml,,,,0.15,ak,ak0243q4i3bh,2024-03-21T10:04:14.447Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-21T09:59:08.819Z,36.4985,-115.2693,8.1,1.6,ml,42,61.04,0.091,0.1478,nn,nn00875130,2024-03-21T16:54:57.876Z,"33 km NW of Nellis Air Force Base, Nevada",earthquake,,1.6,0.3,21,reviewed,nn,nn
+2024-03-21T09:59:08.819Z,36.4985,-115.2693,8.1,1.6,ml,42,61.04,0.091,0.1478,nn,nn00875130,2024-03-22T02:04:16.433Z,"33 km NW of Nellis Air Force Base, Nevada",earthquake,,1.6,0.3,21,reviewed,nn,nn
 2024-03-21T09:55:46.728Z,64.6126,-149.1825,13.6,1.4,ml,,,,0.34,ak,ak0243q47wff,2024-03-21T16:04:47.191Z,"3 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-21T09:52:33.885Z,63.03,-149.3584,84.1,1.2,ml,,,,0.13,ak,ak0243q478a0,2024-03-21T09:55:05.443Z,"45 km SSW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-03-21T09:50:56.400Z,33.4191667,-116.648,6.53,0.41,ml,32,36,0.08504,0.17,ci,ci40520527,2024-03-21T17:40:47.589Z,"15 km N of Warner Springs, CA",earthquake,0.2,0.55,0.203,10,reviewed,ci,ci
@@ -215,7 +215,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T08:03:20.710Z,53.883,-166.591333333333,2.86,-0.42,ml,4,200,,0.04,av,av91137278,2024-03-21T21:28:56.950Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.8,0.95,0.307402034375925,4,reviewed,av,av
 2024-03-21T08:00:51.980Z,53.9896666666667,-166.5905,9.77,0.54,ml,6,319,,0.12,av,av91137273,2024-03-21T21:24:10.470Z,"11 km NNW of Dutch Harbor, Alaska",earthquake,1.07,0.42,0.132872053427243,6,reviewed,av,av
 2024-03-21T07:57:52.127Z,64.492,-146.9859,8.7,0.7,ml,,,,0.6,ak,ak0243q31h2k,2024-03-21T07:59:26.907Z,"5 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-21T07:47:46.784Z,36.599,-116.0099,4,0,ml,12,204.95,0.074,0.0755,nn,nn00875136,2024-03-21T15:16:24.791Z,"30 km W of Indian Springs, Nevada",earthquake,,3,0.13,4,reviewed,nn,nn
+2024-03-21T07:47:46.784Z,36.599,-116.0099,4,0,ml,12,204.95,0.074,0.0755,nn,nn00875136,2024-03-22T02:04:22.336Z,"30 km W of Indian Springs, Nevada",earthquake,,3,0.13,4,reviewed,nn,nn
 2024-03-21T07:39:55.040Z,51.761,-177.481833333333,3.37,1.09,ml,8,180,,0.16,av,av91137268,2024-03-21T21:10:06.020Z,"59 km WSW of Adak, Alaska",earthquake,1.74,1.9,0.405223054042743,8,reviewed,av,av
 2024-03-21T07:32:13.830Z,18.116,-65.7768333333333,11.6,2.8,md,14,155,0.0614,0.25,pr,pr71443538,2024-03-21T07:49:27.170Z,"4 km S of Bajandas, Puerto Rico",earthquake,0.61,0.69,0.220131319537929,7,reviewed,pr,pr
 2024-03-21T07:31:32.180Z,33.1603333,-116.473,7.59,1.21,ml,70,26,0.08781,0.18,ci,ci40520479,2024-03-21T16:44:55.890Z,"14 km SW of Borrego Springs, CA",earthquake,0.15,0.82,0.186,39,reviewed,ci,ci
@@ -271,11 +271,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T02:26:31.180Z,38.8338318,-122.8171692,2.04,0.8,md,9,88,0.0118,0.02,nc,nc74021091,2024-03-21T02:28:05.322Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.9,0.35,12,automatic,nc,nc
 2024-03-21T02:25:00.240Z,20.0536666666667,-155.834,22.84,2.17,md,28,208,0.08908,0.1,hv,hv74143667,2024-03-21T21:57:00.690Z,"9 km N of Puako, Hawaii",earthquake,0.56,0.78,0.115105307344003,24,reviewed,hv,hv
 2024-03-21T02:23:26.010Z,58.1768333333333,-155.339,1.58,-0.2,ml,8,171,,0.05,av,av91137238,2024-03-21T19:37:58.830Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.49,0.292221453001354,8,reviewed,av,av
-2024-03-21T02:21:50.487Z,36.7354,-116.2181,4.1,-0.2,ml,11,125.55,0.009,0.0897,nn,nn00875135,2024-03-21T15:09:54.927Z,"51 km ESE of Beatty, Nevada",earthquake,,1.3,0.35,6,reviewed,nn,nn
+2024-03-21T02:21:50.487Z,36.7354,-116.2181,4.1,-0.2,ml,11,125.55,0.009,0.0897,nn,nn00875135,2024-03-22T02:04:20.241Z,"51 km ESE of Beatty, Nevada",earthquake,,1.3,0.35,6,reviewed,nn,nn
 2024-03-21T02:20:46.095Z,61.1761,-152.5312,43.1,1.3,ml,,,,1.07,ak,ak0243pzucxu,2024-03-21T02:23:15.656Z,"76 km W of Tyonek, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-03-21T02:18:05.860Z,19.3903331756592,-155.280838012695,1.04999995231628,1.8,ml,17,55,0.003871,0.119999997,hv,hv74143662,2024-03-21T02:20:43.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.170000002,0.21,8,automatic,hv,hv
-2024-03-21T02:17:00.619Z,36.743,-116.2403,2.8,-0.2,ml,18,81.35,0.026,0.1352,nn,nn00875123,2024-03-21T02:57:27.421Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.19,8,reviewed,nn,nn
+2024-03-21T02:17:00.619Z,36.743,-116.2403,2.8,-0.2,ml,18,81.35,0.026,0.1352,nn,nn00875123,2024-03-22T02:03:51.423Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.19,8,reviewed,nn,nn
 2024-03-21T02:15:27.680Z,52.329,-174.1475,5.69,-0.08,ml,4,108,,0.06,av,av91137233,2024-03-21T19:32:57.420Z,"15 km NNE of Atka, Alaska",earthquake,0.47,0.9,0.470001631118517,4,reviewed,av,av
 2024-03-21T02:13:04.700Z,38.1571,-118.1668,8.2,0.9,ml,6,133.83,0.149,0.1591,nn,nn00875157,2024-03-21T17:07:31.577Z,"26 km S of Mina, Nevada",earthquake,,2,0.13,2,reviewed,nn,nn
-2024-03-21T02:03:18.977Z,62.5913,-151.8715,100.2,1.5,ml,,,,0.41,ak,ak0243pzqntl,2024-03-21T02:06:47.279Z,"57 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-21T02:00:06.310Z,44.7445,-112.709666666667,4.61,0.75,ml,7,172,0.1294,0.07,mb,mb90043748,2024-03-21T16:03:55.950Z,"15 km NW of Lima, Montana",earthquake,0.48,2.31,0.180079972265875,8,reviewed,mb,mb
