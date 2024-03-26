@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-26T03:56:10.580Z,35.7026672,-121.1368332,6.89,1.29,md,10,105,0.02453,0.06,nc,nc74024131,2024-03-26T03:57:46.436Z,"8 km NE of San Simeon, CA",earthquake,0.5,0.67,0.03,8,automatic,nc,nc
 2024-03-26T03:53:36.310Z,38.7915001,-122.80233,3.07,0.73,md,13,64,0.003222,0.02,nc,nc74024126,2024-03-26T03:55:12.383Z,"4 km WNW of The Geysers, CA",earthquake,0.39,0.89,0.1,14,automatic,nc,nc
+2024-03-26T03:47:16.130Z,43.5063,-110.3684,8.581,2.5,ml,52,54,0.201,0.52,us,us7000m80m,2024-03-26T04:00:48.040Z,"24 km ESE of Kelly, Wyoming",earthquake,3.18,8.52,0.042,76,reviewed,us,us
 2024-03-26T03:38:11.340Z,33.9961667,-116.9895,16.82,1.41,ml,59,21,0.1069,0.17,ci,ci40524527,2024-03-26T03:49:29.000Z,"6 km E of Calimesa, CA",earthquake,0.14,0.43,0.097,28,automatic,ci,ci
 2024-03-26T03:29:21.130Z,38.8426666,-122.8219986,1.24,0.71,md,11,83,0.01129,0.04,nc,nc74024121,2024-03-26T03:30:57.144Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.5,0.44,10,automatic,nc,nc
 2024-03-26T03:25:13.155Z,62.4662,-150.0497,19.5,1.3,ml,,,,0.4,ak,ak0243ya5j77,2024-03-26T03:27:30.391Z,"3 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T04:09:43.330Z,44.3585,-116.141166666667,3.89,1.74,ml,9,92,0.2003,0.23,mb,mb90044053,2024-03-25T16:33:40.740Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.61,12.25,0.290716874226548,7,reviewed,mb,mb
 2024-03-25T04:04:51.670Z,19.1986666666667,-155.374833333333,32.89,1.92,md,41,174,0.04418,0.11,hv,hv74149047,2024-03-25T21:17:20.680Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.46,0.138065144201091,26,reviewed,hv,hv
 2024-03-25T04:02:59.280Z,19.0965003967285,-155.451171875,27.3400001525879,2.31999993,md,47,183,0.05951,0.140000001,hv,hv74149037,2024-03-25T04:04:57.230Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.54,0.709999979,0.189999998,12,automatic,hv,hv
-2024-03-25T04:01:13.390Z,33.0591667,-115.8928333,3.04,1.25,ml,38,100,0.08207,0.2,ci,ci40523903,2024-03-25T13:22:30.333Z,"24 km ESE of Ocotillo Wells, CA",earthquake,0.22,0.38,0.151,24,reviewed,ci,ci
