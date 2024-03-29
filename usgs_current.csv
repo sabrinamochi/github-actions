@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-29T00:02:49.515Z,60.8493,-151.5231,71.8,1.1,ml,,,,0.31,ak,ak024436uf7b,2024-03-29T00:04:21.016Z,"21 km NW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-03-28T23:55:12.580Z,38.5693333333333,-89.5286666666667,20.02,2.58,md,10,105,0.315,0.3,nm,nm60575426,2024-03-29T00:07:42.361Z,"1 km NNE of Germantown, Illinois",earthquake,0.4,1.74,0.149305997960111,13,reviewed,nm,nm
 2024-03-28T23:54:53.840Z,38.8139992,-122.8255005,2.1,0.76,md,11,68,0.005874,0.02,nc,nc74025706,2024-03-28T23:56:30.295Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.95,0.17,12,automatic,nc,nc
 2024-03-28T23:54:04.260Z,38.793499,-122.7838364,3.29,1.74,md,34,79,0.003206,0.04,nc,nc74025701,2024-03-28T23:57:12.550Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.38,0.14,35,automatic,nc,nc
 2024-03-28T23:32:06.110Z,38.7773323,-122.7478333,2.06,2.45,md,51,38,0.0105,0.05,nc,nc74025691,2024-03-28T23:35:09.830Z,"1 km E of The Geysers, CA",earthquake,0.16,0.25,0.21,57,automatic,nc,nc
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T19:48:18.300Z,46.153,-122.204,-1.8,1.18,ml,5,352,0.04767,0.07,uw,uw61992936,2024-03-28T20:40:11.590Z,"32 km NE of Amboy, Washington",other event,10.12,31.61,0.04956461002281909,2,reviewed,uw,uw
 2024-03-28T19:48:15.190Z,38.8218346,-122.8063354,1.23,0.26,md,6,122,0.00331,0.01,nc,nc74025586,2024-03-28T19:49:49.785Z,"7 km NW of The Geysers, CA",earthquake,0.59,0.94,0.09,8,automatic,nc,nc
 2024-03-28T19:46:40.052Z,67.3029,-156.3837,0,2.6,ml,,,,0.71,ak,ak02441uvq39,2024-03-28T19:50:27.275Z,"49 km NNE of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-28T19:39:48.190Z,33.061,-115.9048333,2.27,2.28,ml,63,26,0.08841,0.25,ci,ci40701352,2024-03-28T19:50:47.540Z,"23 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.37,0.157,26,automatic,ci,ci
+2024-03-28T19:39:48.160Z,33.0618333,-115.9075,2.67,2.28,ml,59,23,0.08966,0.25,ci,ci40701352,2024-03-29T00:07:37.990Z,"23 km ESE of Ocotillo Wells, CA",earthquake,0.18,0.38,0.154,24,reviewed,ci,ci
 2024-03-28T19:09:44.770Z,19.1821670532227,-155.497665405273,31.4899997711182,2.25999999,md,35,91,0.04287,0.150000006,hv,hv74152842,2024-03-28T19:11:39.360Z,"3 km SW of Pāhala, Hawaii",earthquake,0.54,0.75999999,0.239999995,8,automatic,hv,hv
 2024-03-28T18:51:03.110Z,46.848,-121.996,6.14,-0.23,md,12,212,0.03296,0.1,uw,uw61992921,2024-03-28T20:32:23.090Z,"10 km NNE of Ashford, Washington",earthquake,0.58,0.39,0.13727466367050123,12,reviewed,uw,uw
 2024-03-28T18:48:42.629Z,31.623,-104.367,6.2024,1.7,ml,24,73,0.1,0.2,tx,tx2024geka,2024-03-28T20:27:15.139Z,"61 km S of Whites City, New Mexico",earthquake,0.7800241256649583,0.9073672034545956,0,6,reviewed,tx,tx
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T00:28:19.160Z,17.967,-66.9488333333333,9.9,2.63,md,5,202,0.0386,0.08,pr,pr71443993,2024-03-28T00:45:37.109Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.84,0.45,0.173942263001307,4,reviewed,pr,pr
 2024-03-28T00:10:39.520Z,47.7425,-120.27333333333333,-0.42,1.19,ml,12,80,0.08444,0.11,uw,uw61992821,2024-03-28T00:27:42.560Z,"8 km NNW of Entiat, Washington",earthquake,0.25,11.74,0.13558085000429232,10,reviewed,uw,uw
 2024-03-28T00:09:52.070Z,40.7493333333333,-112.049833333333,9.09,0.8,md,23,45,0.02475,0.11,uu,uu80063396,2024-03-28T13:12:22.160Z,"6 km NE of Magna, Utah",earthquake,0.3,0.45,0.170120349514128,11,reviewed,uu,uu
-2024-03-28T00:05:44.210Z,38.8353348,-122.8180008,1.77,1.28,md,16,64,0.01343,0.02,nc,nc74025201,2024-03-28T00:07:21.412Z,"8 km W of Cobb, CA",earthquake,0.25,0.59,0.18,19,automatic,nc,nc
