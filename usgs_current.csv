@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T09:10:25.912Z,61.6757,-146.6148,69.9,1.8,ml,,,,1.19,ak,ak02448av11b,2024-04-01T09:13:33.426Z,"36 km SSE of Nelchina, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-01T09:07:06.509Z,31.649,-104.292,7.5354,1.7,ml,24,68,0,0.2,tx,tx2024gkyv,2024-04-01T10:13:52.650Z,"58 km S of Whites City, New Mexico",earthquake,0.8376943519507867,0.830025052179652,0.2,19,reviewed,tx,tx
 2024-04-01T09:06:27.410Z,38.8351669,-122.7911682,1.72,0.38,md,6,82,0.003301,0.01,nc,nc74027261,2024-04-01T09:08:03.053Z,"6 km WNW of Cobb, CA",earthquake,0.59,1.49,0.23,7,automatic,nc,nc
-2024-04-01T08:46:58.873Z,38.1943,-117.7658,13.4,2.7,ml,31,94.96,0.126,0.2557,nn,nn00875640,2024-04-01T09:06:38.304Z,"37 km SE of Mina, Nevada",earthquake,,0.3,0.27,23,automatic,nn,nn
+2024-04-01T08:46:59.672Z,38.1684,-117.784,12.2,2.6,ml,11,71.83,0.109,0.1064,nn,nn00875640,2024-04-01T14:31:11.371Z,"37 km SE of Mina, Nevada",earthquake,,0.7,0.32,5,reviewed,nn,nn
 2024-04-01T08:43:19.387Z,36.772,-116.2532,8.9,0.1,ml,21,64.21,0.049,0.104,nn,nn00875638,2024-04-01T14:18:03.068Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.3,7,reviewed,nn,nn
 2024-04-01T08:34:33.632Z,62.4068,-151.4979,75,1.8,ml,,,,0.67,ak,ak02448aer4i,2024-04-01T08:37:07.172Z,"39 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T08:33:04.634Z,-17.6208,-178.5831,566.117,4.4,mb,43,71,4.757,0.54,us,us7000m968,2024-04-01T09:51:08.040Z,"228 km ENE of Levuka, Fiji",earthquake,9.34,7.89,0.09,36,reviewed,us,us
@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T02:47:00.286Z,64.7436,-147.5887,0,2.3,ml,,,,1.36,ak,ak024486wq59,2024-04-01T02:50:07.961Z,"6 km SSW of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-01T02:45:56.400Z,19.256,-155.407333333333,31.79,2.85,ml,58,70,0.02061,0.12,hv,hv74157202,2024-04-01T03:19:45.085Z,"9 km NE of Pāhala, Hawaii",earthquake,0.4,0.44,0.240729762193055,34,reviewed,hv,hv
 2024-04-01T02:45:40.330Z,19.254,-155.4055,31.95,1.99,md,50,72,0.01806,0.12,hv,hv74157212,2024-04-01T03:09:39.210Z,"9 km NE of Pāhala, Hawaii",earthquake,0.51,0.56,0.154383657533647,23,reviewed,hv,hv
-2024-04-01T02:17:43.373Z,31.671,-104.428,7.2998,1.7,ml,21,59,0,0.1,tx,tx2024gkli,2024-04-01T14:09:03.533Z,"56 km S of Whites City, New Mexico",earthquake,0.4740895355785907,0.6039619030872739,0.1,17,reviewed,tx,tx
+2024-04-01T02:17:42.822Z,31.676,-104.419,6.1511,1.7,ml,25,69,0,0.2,tx,tx2024gkli,2024-04-01T14:31:17.818Z,"55 km S of Whites City, New Mexico",earthquake,0.6860390979293725,0.6095093844934967,0.1,18,reviewed,tx,tx
 2024-04-01T01:57:57.650Z,38.8351669,-122.817337,1.84,0.76,md,14,63,0.01305,0.01,nc,nc74027151,2024-04-01T01:59:31.736Z,"8 km W of Cobb, CA",earthquake,0.28,0.67,0.12,14,automatic,nc,nc
 2024-04-01T01:57:06.040Z,35.7953333,-117.6196667,8.98,0.86,ml,22,125,0.1188,0.11,ci,ci40702728,2024-04-01T02:04:00.957Z,"20 km W of Searles Valley, CA",earthquake,0.21,0.58,0.103,6,automatic,ci,ci
 2024-04-01T01:56:37.760Z,38.7576675,-122.7365036,1.34,1.1,md,7,105,0.009911,0.01,nc,nc74027146,2024-04-01T01:58:11.731Z,"3 km SE of The Geysers, CA",earthquake,0.92,0.38,0.33,7,automatic,nc,nc
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T15:04:37.228Z,78.8165,-94.6514,10,4.9,mb,45,74,4.152,0.86,us,us7000m92v,2024-03-31T15:21:34.040Z,"Sverdrup Islands, Nunavut, Canada",earthquake,4.27,1.924,0.036,246,reviewed,us,us
 2024-03-31T14:51:58.563Z,-17.5772,-178.9011,538.228,4.5,mb,32,65,4.995,0.67,us,us7000m92t,2024-03-31T15:27:57.040Z,"196 km ENE of Levuka, Fiji",earthquake,10.25,8.128,0.085,41,reviewed,us,us
 2024-03-31T14:38:34.372Z,65.0721,-146.9077,4,1.1,ml,,,,1.13,ak,ak02446qgvdy,2024-03-31T19:11:18.810Z,"21 km N of Pleasant Valley, Alaska",earthquake,,2.5,,,reviewed,ak,ak
-2024-03-31T14:31:33.850Z,33.8438333,-117.6628333,7.32,1.36,ml,53,42,0.04606,0.17,ci,ci40702648,2024-03-31T20:15:40.110Z,"9 km WSW of Corona, CA",earthquake,0.17,0.3,0.108,31,reviewed,ci,ci
