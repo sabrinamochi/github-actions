@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-03T00:02:35.791Z,61.7367,-150.1539,38.8,1.3,ml,,,,0.53,ak,ak0244bgj4m3,2024-04-03T00:04:08.846Z,"6 km W of Willow, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2024-04-03T00:00:27.610Z,34.029,-116.8118333,12.14,0.75,ml,18,84,0.006997,0.19,ci,ci40704104,2024-04-03T00:07:21.027Z,"13 km N of Cabazon, CA",earthquake,0.44,0.77,0.348,13,automatic,ci,ci
 2024-04-02T23:47:54.050Z,35.8673333,-117.5676667,11.88,1.08,ml,21,142,0.1048,0.13,ci,ci40704096,2024-04-02T23:53:48.757Z,"18 km NW of Searles Valley, CA",earthquake,0.29,0.63,0.174,12,automatic,ci,ci
 2024-04-02T23:43:45.170Z,38.8008347,-122.8073349,1.24,1.06,md,15,60,0.01179,0.02,nc,nc74028146,2024-04-02T23:45:18.509Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.17,17,automatic,nc,nc
 2024-04-02T23:36:43.832Z,62.262,-150.9076,69.2,1.5,ml,,,,0.07,ak,ak0244a6w1zz,2024-04-02T23:38:44.737Z,"27 km SSW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -207,6 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T02:31:04.020Z,33.5788333,-116.8111667,9.02,1.47,ml,63,20,0.04199,0.15,ci,ci40703400,2024-04-02T15:33:40.980Z,"13 km WNW of Anza, CA",earthquake,0.13,0.29,0.153,42,reviewed,ci,ci
 2024-04-02T02:20:29.125Z,63.0685,-150.5026,89,1.7,ml,,,,0.54,ak,ak02449uahpc,2024-04-02T02:23:13.628Z,"65 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-02T02:18:30.329Z,37.2401,-116.5704,7.4,-0.1,ml,8,219.68,0.154,0.1061,nn,nn00875727,2024-04-02T20:02:54.477Z,"40 km NNE of Beatty, Nevada",earthquake,,4.9,0.46,4,reviewed,nn,nn
+2024-04-02T02:12:59.460Z,52.3266666666667,-174.175166666667,4.14,0.87,ml,6,117,0.01721,0.15,av,av93075156,2024-04-03T00:07:23.400Z,"14 km N of Atka, Alaska",earthquake,0.42,0.86,0.204784737773805,6,reviewed,av,av
 2024-04-02T02:03:29.900Z,38.8115005,-122.8271637,1.63,1.67,md,31,59,0.003064,0.03,nc,nc74027676,2024-04-02T02:05:05.436Z,"7 km WNW of The Geysers, CA",earthquake,0.16,0.26,0.18,32,automatic,nc,nc
 2024-04-02T02:03:19.647Z,30.114,-96.696,19.9951,2.8,ml,11,108,0.4,0.2,tx,tx2024gmgj,2024-04-02T22:49:26.939Z,"4 km SSW of Carmine, Texas",earthquake,5.271519628403018,5.447035305920789,0.2,14,reviewed,tx,tx
 2024-04-02T01:42:16.181Z,62.9145,-148.1821,59.1,1.7,ml,,,,1.03,ak,ak02449ttqsn,2024-04-02T01:44:25.163Z,"65 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -223,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T00:15:41.164Z,-21.6522,-68.5929,140.99,4.1,mb,27,49,0.62,0.48,us,us7000m99t,2024-04-02T00:45:00.040Z,"58 km SW of Ollagüe, Chile",earthquake,5.6,6.989,0.158,11,reviewed,us,us
 2024-04-02T00:15:22.579Z,35.5405,-96.74966667,6.41,1.52,ml,58,43,0.01079788109,0.21,ok,ok2024gmcu,2024-04-02T12:13:59.524Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.24,24,reviewed,ok,ok
 2024-04-02T00:13:21.730Z,19.2040004730225,-155.506332397461,32.3400001525879,2.07999992,md,37,76,0.04469,0.129999995,hv,hv74158287,2024-04-02T00:15:40.440Z,"2 km W of Pāhala, Hawaii",earthquake,0.53,0.889999986,0.150000006,7,automatic,hv,hv
-2024-04-02T00:03:22.114Z,23.4277,124.8803,10,4.6,mb,49,100,1.116,0.57,us,us7000m99r,2024-04-02T13:35:38.040Z,"125 km SE of Ishigaki, Japan",earthquake,6.48,1.922,0.09,37,reviewed,us,us
