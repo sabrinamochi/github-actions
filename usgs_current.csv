@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T01:33:20.669Z,35.6736908,-97.38398743,1.781601191,2.71,ml,87,23.95775604,0.1141470596,0.6768495288,ok,ok2024gpwj,2024-04-04T03:09:49.108Z,"5 km W of Arcadia, Oklahoma",earthquake,1.173763368,1.020004977,0.23,67,automatic,ok,ok
 2024-04-04T01:29:08.260Z,23.7721,121.5464,13.797,4.6,mb,51,81,0.442,0.75,us,us7000m9sb,2024-04-04T01:58:18.040Z,"23 km SSW of Hualien City, Taiwan",earthquake,4.34,4.898,0.099,30,reviewed,us,us
 2024-04-04T01:27:29.320Z,38.7630005,-122.4588318,4.32,2.01,md,11,125,0.07642,0.19,nc,nc74028821,2024-04-04T01:29:05.352Z,"10 km ESE of Hidden Valley Lake, CA",earthquake,0.54,2.11,0.07,11,automatic,nc,nc
-2024-04-04T01:23:45.969Z,36.839,-115.964,7.6,0,ml,8,218.02,0.099,0.1024,nn,nn00875805,2024-04-04T01:25:40.427Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.9,1.07,4,automatic,nn,nn
+2024-04-04T01:23:46.395Z,36.8402,-115.9657,8.1,0.4,ml,15,178.49,0.022,0.0721,nn,nn00875805,2024-04-04T03:13:01.798Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.1,1.15,6,reviewed,nn,nn
 2024-04-04T01:21:48.644Z,63.2779,-151.3427,8.6,1.3,ml,,,,0.5,ak,ak0244d4s0b4,2024-04-04T01:24:35.782Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-04T01:21:16.660Z,46.755,-121.94233333333334,2.86,0.33,ml,25,206,0.02301,0.07,uw,uw61994226,2024-04-04T02:56:22.980Z,"6 km E of Ashford, Washington",earthquake,0.24,0.4,0.1504915035302576,9,reviewed,uw,uw
 2024-04-04T01:09:15.550Z,38.8468323,-122.8171692,1.86,0.95,md,8,76,0.009186,0.01,nc,nc74028811,2024-04-04T01:10:50.180Z,"9 km WNW of Cobb, CA",earthquake,0.42,1.07,0.26,10,automatic,nc,nc
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T15:43:43.139Z,60.3904,-157.9163,4.4,2,ml,,,,0.38,ak,ak0244bppfl4,2024-04-04T00:10:34.809Z,"81 km NNW of Koliganek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-04-03T15:42:36.076Z,24.1508,121.7036,20.264,4.5,mwr,54,48,0.597,0.83,us,us7000m9m8,2024-04-03T16:14:40.040Z,"21 km NNE of Hualien City, Taiwan",earthquake,4.31,5.134,0.061,26,reviewed,us,us
 2024-04-03T15:39:09.425Z,24.1334,121.6798,21.084,4.5,mwr,79,65,0.601,0.74,us,us7000m9m4,2024-04-03T16:08:23.040Z,"18 km NNE of Hualien City, Taiwan",earthquake,4.45,4.842,0.063,24,reviewed,us,us
-2024-04-03T15:32:28.070Z,35.66483333,-97.4005,6.45,2.54,ml,95,23,0.02699470272,0.16,ok,ok2024gpco,2024-04-04T01:50:34.969Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.25,48,reviewed,ok,ok
+2024-04-03T15:32:28.070Z,35.66483333,-97.4005,6.45,2.54,ml,95,23,0.02699470272,0.16,ok,ok2024gpco,2024-04-04T03:13:39.317Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.25,48,reviewed,ok,ok
 2024-04-03T15:30:55.960Z,58.2586666666667,-154.996,3.08,-0.54,ml,4,218,0.05182,0.11,av,av93076831,2024-04-04T00:47:24.190Z,"83 km NNW of Karluk, Alaska",earthquake,0.78,1.15,0.291419391687571,4,reviewed,av,av
 2024-04-03T15:17:39.780Z,39.4088,-119.6997,5.3,0.5,ml,4,211.72,0.097,0.1633,nn,nn00875801,2024-04-03T22:10:01.361Z,"11 km NNW of Virginia City, Nevada",earthquake,,6.3,0.1,2,reviewed,nn,nn
 2024-04-03T15:10:01.848Z,61.4981,-149.9084,34,1.3,ml,,,,0.47,ak,ak0244bpi9so,2024-04-03T15:11:43.046Z,"3 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -332,4 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T03:27:01.970Z,60.5306666666667,-152.732333333333,5.41,-0.38,ml,4,134,0.04609,0.08,av,av93076276,2024-04-03T20:48:32.220Z,"78 km W of Salamatof, Alaska",earthquake,0.41,0.89,0.121822467391864,4,reviewed,av,av
 2024-04-03T03:25:38.290Z,38.4745,-122.6683333,9.26,2.97,ml,131,26,0.04864,0.15,nc,nc74028226,2024-04-04T02:41:39.443Z,"4 km NE of Santa Rosa, CA",earthquake,0.13,0.25,0.23,92,reviewed,nc,nc
 2024-04-03T03:20:54.457Z,24.1385,121.6484,32.087,4.7,mb,41,73,0.725,0.7,us,us7000m9ib,2024-04-03T03:47:16.040Z,"18 km NNE of Hualien City, Taiwan",earthquake,4.41,5.328,0.053,106,reviewed,us,us
-2024-04-03T03:14:25.940Z,35.3951667,-118.2196667,7.63,0.96,ml,27,46,0.1553,0.14,ci,ci40704128,2024-04-03T15:20:55.449Z,"33 km SE of Bodfish, CA",earthquake,0.22,1.05,0.139,8,reviewed,ci,ci
