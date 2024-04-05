@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T14:46:03.170Z,31.68,-104.385,5.5615,1.7,ml,14,68,0.1,0.2,tx,tx2024gssa,2024-04-05T18:56:03.335Z,"54 km S of Whites City, New Mexico",earthquake,0.6157486073368174,1.117523093697112,0.2,12,reviewed,tx,tx
 2024-04-05T14:45:41.020Z,38.7879982,-122.7678299,0.77,0.79,md,11,79,0.01653,0.04,nc,nc74029756,2024-04-05T14:47:15.073Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.62,0.08,12,automatic,nc,nc
 2024-04-05T14:24:25.602Z,62.4187,-151.1212,15.4,1.2,ml,,,,0.29,ak,ak0244f02l1c,2024-04-05T14:26:38.479Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T21:23:27.982Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,5.33,1.881,0.027,130,reviewed,us,us
+2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T21:30:03.521Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,5.33,1.881,0.027,130,reviewed,us,us
 2024-04-05T14:05:16.900Z,38.8306656,-122.8170013,1.78,1.08,md,21,66,0.009055,0.02,nc,nc74029746,2024-04-05T19:50:51.247Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,21,automatic,nc,nc
 2024-04-05T13:50:52.128Z,63.1512,-150.4409,112.7,1.6,ml,,,,0.19,ak,ak0244ezms3g,2024-04-05T13:53:15.383Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-04-05T13:48:02.333Z,62.4181,-151.1267,14,1.4,ml,,,,0.66,ak,ak0244ezm8tl,2024-04-05T13:50:12.715Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -147,7 +147,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T04:48:46.060Z,48.519,-124.724,28.3,1.95,ml,18,164,0.1735,0.15,uw,uw61994461,2024-04-05T05:06:39.810Z,"18 km NNW of Neah Bay, Washington",earthquake,0.37,0.67,0.20408256081302145,10,reviewed,uw,uw
 2024-04-05T04:46:32.900Z,61.2361666666667,-152.688166666667,9.85,0.2,ml,7,168,0.0728,0.07,av,av93078491,2024-04-05T20:04:26.850Z,"85 km WNW of Tyonek, Alaska",earthquake,0.43,1.1,0.198225945982676,7,reviewed,av,av
 2024-04-05T04:40:52.407Z,24.1266,121.7737,10,4.6,mb,40,74,0.651,0.65,us,us7000ma1e,2024-04-05T05:14:47.040Z,"23 km NE of Hualien City, Taiwan",earthquake,3.03,1.771,0.078,49,reviewed,us,us
-2024-04-05T04:37:39.230Z,33.5846667,-116.803,7.87,0.77,ml,16,74,0.0337,0.1,ci,ci40705928,2024-04-05T21:25:00.343Z,"12 km WNW of Anza, CA",earthquake,0.19,0.52,0.107,10,reviewed,ci,ci
+2024-04-05T04:37:45.360Z,33.5845,-116.8046667,7.04,0.52,ml,12,74,0.03508,0.12,ci,ci37641892,2024-04-05T21:30:19.696Z,"13 km WNW of Anza, CA",earthquake,0.26,0.79,0.236,4,reviewed,ci,ci
+2024-04-05T04:37:39.230Z,33.5846667,-116.803,7.84,0.72,ml,16,74,0.0337,0.1,ci,ci40705928,2024-04-05T21:31:03.761Z,"12 km WNW of Anza, CA",earthquake,0.19,0.52,0.106,10,reviewed,ci,ci
 2024-04-05T04:33:38.130Z,38.8128319,-122.8154984,2.84,1.1,md,20,41,0.01137,0.04,nc,nc74029611,2024-04-05T04:35:13.158Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.54,0.24,23,automatic,nc,nc
 2024-04-05T04:31:12.580Z,44.3646666666667,-115.196833333333,7.4,1.36,ml,9,71,0.3608,0.17,mb,mb90045013,2024-04-05T13:42:54.390Z,"26 km NW of Stanley, Idaho",earthquake,0.44,2.42,0.182970802144995,8,reviewed,mb,mb
 2024-04-05T04:17:59.150Z,52.0768333333333,-176.168833333333,4.73,0.66,ml,5,199,0.01759,0.26,av,av93078456,2024-04-05T19:56:48.800Z,"39 km NE of Adak, Alaska",earthquake,1.43,0.85,0.242055130189652,5,reviewed,av,av
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T21:56:21.429Z,34.524,-96.624,0,0.87,ml,16,130,0.1070789874,0.44,ok,ok2024grks,2024-04-05T14:49:03.956Z,"16 km NW of Bromide, Oklahoma",quarry blast,,1.1,0.19,8,reviewed,ok,ok
 2024-04-04T21:49:17.410Z,38.8356667,-122.807663,1.8,0.62,md,7,110,0.0124,0.02,nc,nc74029426,2024-04-04T21:50:53.343Z,"8 km WNW of Cobb, CA",earthquake,0.46,0.96,0.18,8,automatic,nc,nc
 2024-04-04T21:38:31.010Z,60.5481666666667,-152.742666666667,3.48,0.15,ml,9,112,0.05085,0.2,av,av93078136,2024-04-05T00:00:56.510Z,"78 km W of Salamatof, Alaska",earthquake,0.49,1.41,0.139512272976713,9,reviewed,av,av
-2024-04-04T21:30:15.490Z,33.8515,-117.483,-0.51,1.49,ml,32,48,0.04642,0.26,ci,ci40705744,2024-04-05T20:15:07.890Z,"5 km SE of Home Gardens, CA",quarry blast,0.38,31.61,0.176,45,reviewed,ci,ci
