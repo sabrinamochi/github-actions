@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-05T16:22:09.900Z,38.8118324,-122.8193359,2.79,1.08,md,19,53,0.008239,0.02,nc,nc74029796,2024-04-05T16:23:47.164Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.5,0.3,19,automatic,nc,nc
 2024-04-05T16:00:20.299Z,62.9574,-150.6345,119.2,1.4,ml,,,,0.29,ak,ak0244f14anh,2024-04-05T16:02:16.902Z,"51 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-05T15:56:24.100Z,38.793335,-122.7561646,0.47,1.06,md,14,139,0.007789,0.04,nc,nc74029791,2024-04-05T15:58:00.826Z,"2 km N of The Geysers, CA",earthquake,0.27,0.62,0.26,14,automatic,nc,nc
 2024-04-05T15:55:51.527Z,62.3872,-150.9981,5.3,1.6,ml,,,,0.83,ak,ak0244f0upu8,2024-04-05T15:59:03.411Z,"17 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-05T15:38:16.460Z,38.8271675,-122.8111649,1.73,0.26,md,7,123,0.003862,0.02,nc,nc74029786,2024-04-05T15:39:50.566Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.71,0.14,8,automatic,nc,nc
+2024-04-05T15:33:15.420Z,44.1771666666667,-113.9895,7.39,1.94,ml,10,83,0.2089,0.03,mb,mb90045088,2024-04-05T16:23:20.400Z,"34 km ESE of Clayton, Idaho",earthquake,0.27,0.78,0.198732444683743,12,reviewed,mb,mb
 2024-04-05T15:30:07.810Z,39.2938347,-123.2306671,7.34,1.5,md,7,99,0.1036,0.04,nc,nc74029781,2024-04-05T15:31:40.474Z,"4 km NW of Redwood Valley, CA",earthquake,0.37,1.56,0.12,7,automatic,nc,nc
 2024-04-05T15:20:20.441Z,40.6753,-74.7322,8.068,2,ml,23,141,0.66,0.34,us,us7000ma7c,2024-04-05T16:03:07.684Z,"7 km W of Bedminster, New Jersey",earthquake,1.65,6.91,0.085,18,reviewed,us,us
 2024-04-05T15:12:39.491Z,61.8998,-150.3119,5.3,1.8,ml,,,,0.55,ak,ak0244f0lh4d,2024-04-05T15:14:28.955Z,"22 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T14:46:03.347Z,31.666,-104.381,4.2568,1.7,ml,16,70,0,0.3,tx,tx2024gssa,2024-04-05T15:01:41.084Z,"56 km S of Whites City, New Mexico",earthquake,0,1.41995083911849,0.2,12,automatic,tx,tx
 2024-04-05T14:45:41.020Z,38.7879982,-122.7678299,0.77,0.79,md,11,79,0.01653,0.04,nc,nc74029756,2024-04-05T14:47:15.073Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.62,0.08,12,automatic,nc,nc
 2024-04-05T14:24:25.602Z,62.4187,-151.1212,15.4,1.2,ml,,,,0.29,ak,ak0244f02l1c,2024-04-05T14:26:38.479Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T16:14:10.868Z,"6 km ESE of Califon, New Jersey",earthquake,5.33,1.881,0.027,130,reviewed,us,us
+2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T16:21:21.118Z,"6 km ESE of Califon, New Jersey",earthquake,5.33,1.881,0.027,130,reviewed,us,us
 2024-04-05T14:05:16.900Z,38.8306656,-122.8170013,1.78,1.08,md,21,66,0.009055,0.02,nc,nc74029746,2024-04-05T15:02:25.683Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,21,automatic,nc,nc
 2024-04-05T13:50:52.128Z,63.1512,-150.4409,112.7,1.6,ml,,,,0.19,ak,ak0244ezms3g,2024-04-05T13:53:15.383Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-04-05T13:48:02.333Z,62.4181,-151.1267,14,1.4,ml,,,,0.66,ak,ak0244ezm8tl,2024-04-05T13:50:12.715Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T12:09:04.430Z,17.9751666666667,-67.0033333333333,9.39,1.62,md,3,283,0.03934,0.11,pr,pr71444718,2024-04-05T12:25:43.140Z,"4 km E of La Parguera, Puerto Rico",earthquake,1.18,1.53,0.0288127510186837,3,reviewed,pr,pr
 2024-04-05T11:54:34.890Z,19.3856658935547,-155.275833129883,1.54999995231628,2.26,ml,23,59,0.005619,0.109999999,hv,hv74161422,2024-04-05T11:57:13.590Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.159999996,0.29,10,automatic,hv,hv
 2024-04-05T11:39:43.440Z,38.8134995,-122.8274994,1.64,1.21,md,19,57,0.004807,0.03,nc,nc74029736,2024-04-05T11:41:19.326Z,"7 km WNW of The Geysers, CA",earthquake,0.21,0.46,0.16,20,automatic,nc,nc
-2024-04-05T11:33:41.838Z,28.936,-98.367,5.8096,1.9,ml,14,69,0,0.3,tx,tx2024gsls,2024-04-05T14:27:37.660Z,"11 km ESE of Pleasanton, Texas",earthquake,0,3.8919386863708496,0.2,9,reviewed,tx,tx
+2024-04-05T11:33:41.838Z,28.936,-98.367,5.8096,1.9,ml,14,69,0,0.3,tx,tx2024gsls,2024-04-05T16:16:29.308Z,"11 km ESE of Pleasanton, Texas",earthquake,0,3.8919386863708496,0.2,9,reviewed,tx,tx
 2024-04-05T11:20:59.330Z,19.3684997558594,-155.315002441406,0.879999995231628,2.25999999,md,13,137,0.02917,0.170000002,hv,hv74161407,2024-04-05T11:22:21.140Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.50999999,0.479999989,6,automatic,hv,hv
 2024-04-05T11:17:57.170Z,38.8113327,-122.8203354,2.96,0.75,md,10,85,0.007334,0.02,nc,nc74029721,2024-04-05T11:19:29.255Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.69,0.05,11,automatic,nc,nc
 2024-04-05T11:09:47.790Z,33.9466667,-116.9018333,4.61,0.7,ml,30,53,0.07016,0.17,ci,ci40706008,2024-04-05T11:15:52.090Z,"3 km NW of Banning, CA",earthquake,0.22,1.16,0.173,14,automatic,ci,ci
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T10:46:45.640Z,40.0288315,-121.2866669,-0.41,2.99,md,36,42,0.3827,0.27,nc,nc74029686,2024-04-05T15:08:33.278Z,"4 km NW of Belden, CA",earthquake,0.44,2.27,0.16,38,automatic,nc,nc
 2024-04-05T10:43:24.630Z,37.2876663,-121.6623306,5.06,1.77,md,25,53,0.0299,0.07,nc,nc74029681,2024-04-05T10:44:58.803Z,"16 km E of Seven Trees, CA",earthquake,0.2,0.41,0.17,17,automatic,nc,nc
 2024-04-05T10:30:40.500Z,38.499,-112.877833333333,1.21,-0.64,md,8,73,0.005899,0.05,uu,uu80000658,2024-04-05T14:10:41.910Z,"16 km NE of Milford, Utah",earthquake,0.44,0.51,0.344486232751346,3,reviewed,uu,uu
-2024-04-05T10:26:15.400Z,40.041832,-121.2866669,-1.04,2.61,md,22,67,0.3702,0.27,nc,nc74029671,2024-04-05T10:27:49.629Z,"5 km NW of Belden, CA",earthquake,0.49,4.97,0.13,18,automatic,nc,nc
+2024-04-05T10:26:15.400Z,40.041832,-121.2866669,-1.04,2.61,md,22,67,0.3702,0.27,nc,nc74029671,2024-04-05T16:15:58.893Z,"5 km NW of Belden, CA",earthquake,0.49,4.97,0.13,18,automatic,nc,nc
 2024-04-05T10:23:56.100Z,38.4995,-112.873833333333,1.15,0.22,md,15,67,0.004651,0.11,uu,uu80064781,2024-04-05T14:01:28.800Z,"16 km NE of Milford, Utah",earthquake,0.26,0.43,0.601796938718991,5,reviewed,uu,uu
 2024-04-05T10:22:21.568Z,39.3104,-120.0097,6.3,1.1,ml,9,104.64,0.027,0.1026,nn,nn00875849,2024-04-05T10:24:19.502Z,"7 km NNW of Incline Village, Nevada",earthquake,,0.7,0.33,4,automatic,nn,nn
 2024-04-05T10:14:15.330Z,33.5261667,-116.727,5.01,0.58,ml,33,52,0.0628,0.17,ci,ci40706000,2024-04-05T10:20:12.470Z,"6 km WSW of Anza, CA",earthquake,0.17,0.59,0.142,14,automatic,ci,ci
@@ -215,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T16:53:04.210Z,38.7886658,-122.7555008,-0.91,0.96,md,13,80,0.01239,0.16,nc,nc74029296,2024-04-04T16:54:38.178Z,"1 km N of The Geysers, CA",earthquake,0.41,1.5,0.26,11,automatic,nc,nc
 2024-04-04T16:30:45.200Z,38.7910004,-122.754837,-0.88,0.97,md,10,88,0.01034,0.1,nc,nc74029291,2024-04-04T16:32:17.951Z,"2 km N of The Geysers, CA",earthquake,0.29,1.12,0.23,10,automatic,nc,nc
 2024-04-04T16:30:36.760Z,38.8209991,-122.815834,1.93,0.27,md,8,130,0.005096,0.02,nc,nc74029286,2024-04-04T16:32:12.930Z,"7 km NW of The Geysers, CA",earthquake,0.45,0.84,0.15,8,automatic,nc,nc
-2024-04-04T16:24:41.840Z,35.90616667,-95.1685,0,1.45,ml,51,105,0.2852440254,0.49,ok,ok2024gqzu,2024-04-05T14:21:17.313Z,"3 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.24,15,reviewed,ok,ok
-2024-04-04T16:22:42.820Z,19.306999206543,-155.216171264648,0.349999994039536,1.89999998,md,39,134,0.02685,0.170000002,hv,hv74160747,2024-04-04T16:24:27.140Z,"15 km S of Volcano, Hawaii",earthquake,0.26,0.270000011,0.300000012,14,automatic,hv,hv
-2024-04-04T16:17:30.750Z,39.5265007,-123.5148315,2.61,1.75,md,10,141,0.02122,0.07,nc,nc74029281,2024-04-04T16:19:02.809Z,"14 km NW of Brooktrails, CA",earthquake,0.44,0.7,0.12,7,automatic,nc,nc
