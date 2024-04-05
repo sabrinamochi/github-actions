@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-05T09:28:18.360Z,33.883,-116.8561667,14.05,0.88,ml,25,90,0.06945,0.12,ci,ci40705976,2024-04-05T09:34:36.210Z,"5 km SSE of Banning, CA",earthquake,0.25,0.55,0.176,15,automatic,ci,ci
 2024-04-05T09:25:18.630Z,38.7885017,-122.7669983,2.47,1.08,md,13,113,0.01338,0.02,nc,nc74029651,2024-04-05T09:26:54.966Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.67,0.34,15,automatic,nc,nc
+2024-04-05T09:19:14.294Z,31.662,-104.202,4.5239,1.6,ml,18,64,0.1,0.2,tx,tx2024gshg,2024-04-05T09:46:48.135Z,"54 km NW of Toyah, Texas",earthquake,0,1.2193206038237303,0.2,14,automatic,tx,tx
 2024-04-05T09:12:12.444Z,59.3563,-152.9735,88.9,1.7,ml,,,,0.27,ak,ak0244ex0tek,2024-04-05T09:14:33.034Z,"59 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-05T09:05:59.180Z,17.8373333333333,-66.8736666666667,6.64,2.44,md,5,258,0.1371,0.05,pr,pr71444678,2024-04-05T09:38:39.510Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.33,0.0643547114296452,4,reviewed,pr,pr
 2024-04-05T09:01:54.573Z,15.4411,-93.4495,65.837,5,mww,108,156,1.515,0.78,us,us7000ma26,2024-04-05T09:20:31.040Z,"26 km WSW of El Palmarcito, Mexico",earthquake,6.79,6.044,0.052,36,reviewed,us,us
@@ -131,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T19:16:48.660Z,44.131166666666665,-121.333,-1.7,1.48,ml,9,172,0.2074,0.25,uw,uw61994346,2024-04-04T19:35:43.940Z,"2 km S of Tumalo, Oregon",explosion,1.03,31.61,0.028609678546498207,5,reviewed,uw,uw
 2024-04-04T19:10:21.357Z,60.5475,-150.7547,42.7,1.2,ml,,,,0.32,ak,ak0244dffe7r,2024-04-04T19:12:20.391Z,"1 km NNE of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-04T19:08:54.350Z,61.2556666666667,-152.2595,5.8,0.38,ml,10,101,0.04861,0.09,av,av93077996,2024-04-04T22:46:53.680Z,"63 km WNW of Tyonek, Alaska",earthquake,0.33,0.78,0.189262187931513,10,reviewed,av,av
+2024-04-04T19:07:01.480Z,38.8128333,-122.751,-0.93,0.39,md,9,121,0.01396,0.12,nc,nc74029356,2024-04-05T09:42:17.661Z,"3 km WSW of Cobb, CA",earthquake,0.37,1.71,0.071,7,reviewed,nc,nc
 2024-04-04T19:05:20.200Z,46.0195,-112.457666666667,-2,1.19,ml,11,82,0.06759,0.11,mb,mb90044963,2024-04-04T19:34:22.320Z,"6 km ENE of Butte, Montana",quarry blast,0.39,31.61,0.217555533824939,7,reviewed,mb,mb
 2024-04-04T19:02:08.090Z,37.9901657,-122.4498367,1.3,1.55,md,7,185,0.02289,0.06,nc,nc74029351,2024-04-04T19:03:43.337Z,"7 km E of Santa Venetia, CA",earthquake,0.72,0.6,0.13,6,automatic,nc,nc
 2024-04-04T18:56:41.320Z,34.993,-118.1823333,-0.88,1.23,ml,14,82,0.1201,0.17,ci,ci40705624,2024-04-04T20:48:53.687Z,"7 km S of Mojave, CA",quarry blast,0.46,31.61,0.151,10,reviewed,ci,ci
