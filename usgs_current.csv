@@ -126,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T20:10:08.320Z,19.3633333333333,-155.289666666667,0.58,1.27,md,14,109,0.02427,0.08,hv,hv74161962,2024-04-06T00:09:43.200Z,"10 km SSW of Volcano, Hawaii",earthquake,0.19,0.33,0.161722649497972,18,reviewed,hv,hv
 2024-04-05T20:05:48.430Z,46.8875,-112.523166666667,9.02,0.67,ml,4,163,0.0535,0.02,mb,mb90045138,2024-04-05T22:28:10.200Z,"14 km ESE of Lincoln, Montana",earthquake,0.85,0.6,0.175646923653484,3,reviewed,mb,mb
 2024-04-05T20:00:20.690Z,35.6788333,-117.5526667,7.61,2.2,ml,35,100,0.09376,0.14,ci,ci40706200,2024-04-06T00:19:04.662Z,"13 km ENE of Ridgecrest, CA",earthquake,0.17,0.55,0.105,25,reviewed,ci,ci
-2024-04-05T19:58:20.251Z,40.6022,-74.7818,5,2,ml,6,146,0.776,0.31,us,us7000mabk,2024-04-06T05:20:59.608Z,"1 km SSW of Whitehouse Station, New Jersey",earthquake,1.58,1.954,0.128,8,reviewed,us,us
+2024-04-05T19:58:22.408Z,40.6309,-74.686,5,1.7,ml,9,162,0.699,0.56,us,us7000mabk,2024-04-06T09:01:36.040Z,"4 km NW of Bridgewater, New Jersey",earthquake,2.21,1.855,0.115,10,reviewed,us,us
 2024-04-05T19:44:17.860Z,33.7405,-116.0413333,3.99,1.19,ml,9,254,0.1603,0.12,ci,ci40706184,2024-04-06T00:23:41.888Z,"14 km ENE of Coachella, CA",earthquake,0.87,31.61,0.141,23,reviewed,ci,ci
 2024-04-05T19:40:52.584Z,60.8096,-150.3947,52.7,1.6,ml,,,,0.24,ak,ak0244f358lm,2024-04-05T19:42:43.451Z,"20 km SE of Point Possession, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-04-05T19:31:48.130Z,38.7550011,-122.8148346,26.42,1.82,md,4,212,0.05505,0.01,nc,nc74029846,2024-04-05T19:33:22.619Z,"6 km WSW of The Geysers, CA",earthquake,4.71,5.44,0.84,4,automatic,nc,nc
@@ -187,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T14:46:03.170Z,31.68,-104.385,5.5615,1.7,ml,14,68,0.1,0.2,tx,tx2024gssa,2024-04-05T18:56:03.335Z,"54 km S of Whites City, New Mexico",earthquake,0.6157486073368174,1.117523093697112,0.2,12,reviewed,tx,tx
 2024-04-05T14:45:41.020Z,38.7879982,-122.7678299,0.77,0.79,md,11,79,0.01653,0.04,nc,nc74029756,2024-04-05T14:47:15.073Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.62,0.08,12,automatic,nc,nc
 2024-04-05T14:24:25.602Z,62.4187,-151.1212,15.4,1.2,ml,,,,0.29,ak,ak0244f02l1c,2024-04-05T14:26:38.479Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-05T14:23:20.309Z,40.689,-74.754,4.7,4.8,mwr,233,54,0.642,0.66,us,us7000ma74,2024-04-06T08:55:12.582Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,2.02,1.84,0.027,130,reviewed,us,us
+2024-04-05T14:23:20.309Z,40.689,-74.754,4.7,4.8,mwr,233,54,0.642,0.66,us,us7000ma74,2024-04-06T09:01:07.841Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,2.02,1.84,0.027,130,reviewed,us,us
 2024-04-05T14:05:16.900Z,38.8306656,-122.8170013,1.78,1.08,md,21,66,0.009055,0.02,nc,nc74029746,2024-04-05T19:50:51.247Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,21,automatic,nc,nc
 2024-04-05T13:50:52.128Z,63.1512,-150.4409,112.7,1.6,ml,,,,0.19,ak,ak0244ezms3g,2024-04-05T13:53:15.383Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-04-05T13:48:02.333Z,62.4181,-151.1267,14,1.4,ml,,,,0.66,ak,ak0244ezm8tl,2024-04-05T13:50:12.715Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T09:12:12.444Z,59.3563,-152.9735,88.9,1.7,ml,,,,0.27,ak,ak0244ex0tek,2024-04-05T09:14:33.034Z,"59 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-05T09:05:59.180Z,17.8373333333333,-66.8736666666667,6.64,2.44,md,5,258,0.1371,0.05,pr,pr71444678,2024-04-05T09:38:39.510Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.33,0.0643547114296452,4,reviewed,pr,pr
 2024-04-05T09:04:56.187Z,23.9836,121.6645,20.287,4.3,mwr,79,76,0.678,0.78,us,us7000ma2d,2024-04-05T10:00:05.040Z,"6 km E of Hualien City, Taiwan",earthquake,2.12,4.82,0.068,21,reviewed,us,us
-2024-04-05T09:01:54.573Z,15.4411,-93.4495,65.837,5,mww,108,156,1.515,0.78,us,us7000ma26,2024-04-05T09:20:31.040Z,"26 km WSW of El Palmarcito, Mexico",earthquake,6.79,6.044,0.052,36,reviewed,us,us
-2024-04-05T09:01:37.496Z,31.327,49.5903,10,4.4,mb,64,78,4.878,0.54,us,us7000ma2f,2024-04-05T09:36:59.040Z,"5 km NNW of Rāmhormoz, Iran",earthquake,8.53,1.896,0.08,45,reviewed,us,us
