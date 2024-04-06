@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-05T23:54:14.110Z,19.3846664428711,-155.276672363281,1.19000005722046,2.36,ml,26,45,0.005109,0.200000003,hv,hv74162237,2024-04-05T23:56:51.810Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.189999998,0.29,12,automatic,hv,hv
+2024-04-05T23:54:14.130Z,19.3858333333333,-155.2795,1.56,1.72,ml,21,44,0.002203,0.11,hv,hv74162237,2024-04-06T00:04:16.650Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.153507174415307,12,reviewed,hv,hv
 2024-04-05T23:51:20.370Z,38.8344994,-122.8748322,2.97,0.77,md,9,119,0.007324,0.02,nc,nc74029941,2024-04-05T23:52:52.828Z,"12 km WNW of The Geysers, CA",earthquake,0.5,0.8,0.13,10,automatic,nc,nc
-2024-04-05T23:50:09.630Z,33.4711667,-116.9401667,9.71,1.31,ml,52,21,0.02628,0.2,ci,ci40706248,2024-04-05T23:56:36.557Z,"8 km WNW of Aguanga, CA",earthquake,0.17,0.45,0.135,27,automatic,ci,ci
+2024-04-05T23:50:09.630Z,33.4711667,-116.9401667,9.71,1.31,ml,52,21,0.02628,0.2,ci,ci40706248,2024-04-06T00:01:01.790Z,"8 km WNW of Aguanga, CA",earthquake,0.17,0.45,0.135,27,automatic,ci,ci
 2024-04-05T23:48:34.454Z,64.4908,-146.8929,0.2,1.6,ml,,,,0.76,ak,ak0244f5kncl,2024-04-05T23:51:28.517Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-05T23:48:31.830Z,38.8293343,-122.8024979,1.56,0.71,md,10,102,0.008378,0.02,nc,nc74029936,2024-04-05T23:50:07.795Z,"7 km W of Cobb, CA",earthquake,0.41,0.67,0.12,10,automatic,nc,nc
 2024-04-05T23:39:57.310Z,38.831665,-122.8168335,1.8,0.75,md,9,144,0.009802,0.01,nc,nc74029931,2024-04-05T23:41:33.693Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.05,0.17,11,automatic,nc,nc
@@ -14,9 +14,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T22:39:00.840Z,60.1916666666667,-152.885,10.06,-0.4,ml,7,187,0.1318,0.06,av,av93079306,2024-04-05T23:49:10.100Z,"69 km WNW of Ninilchik, Alaska",earthquake,0.93,0.92,0.212762579960972,7,reviewed,av,av
 2024-04-05T22:33:22.545Z,62.2343,-150.6724,15.9,1.5,ml,,,,0.64,ak,ak0244f4vz32,2024-04-05T22:35:32.746Z,"24 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-05T22:05:34.318Z,60.2323,-152.5748,99.6,1.5,ml,,,,0.47,ak,ak0244f4pzxz,2024-04-05T22:08:19.531Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-05T22:04:13.160Z,51.9113333333333,179.660833333333,14.56,1.25,ml,4,268,0.02785,0.27,av,av93001534,2024-04-06T00:02:18.520Z,"255 km W of Adak, Alaska",earthquake,2.65,1.51,0.0994910693675686,4,reviewed,av,av
 2024-04-05T22:04:12.247Z,62.0885,-152.6286,0,1.6,ml,,,,0.71,ak,ak0244f4pqiw,2024-04-05T22:06:57.235Z,"65 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-05T22:01:47.750Z,36.6816673,-121.3529968,-0.22,1.43,md,8,84,0.02627,0.13,nc,nc74029901,2024-04-05T22:03:23.681Z,"12 km SSW of Tres Pinos, CA",earthquake,0.58,1.23,0.07,7,automatic,nc,nc
-2024-04-05T21:59:13.842Z,40.6849,-74.7347,9.373,4,mb_lg,33,107,0.651,0.43,us,us7000mab9,2024-04-05T23:52:34.825Z,"7 km SW of Gladstone, New Jersey",earthquake,1.66,2.346,0.047,120,reviewed,us,us
+2024-04-05T21:59:13.842Z,40.6849,-74.7347,9.373,4,mb_lg,33,107,0.651,0.43,us,us7000mab9,2024-04-06T00:02:49.443Z,"7 km SW of Gladstone, New Jersey",earthquake,1.66,2.346,0.047,120,reviewed,us,us
 2024-04-05T21:58:20.010Z,38.7960014,-122.7580032,-0.88,1.03,md,7,143,0.004806,0.11,nc,nc74029896,2024-04-05T21:59:53.241Z,"2 km N of The Geysers, CA",earthquake,0.41,0.91,0.08,7,automatic,nc,nc
 2024-04-05T21:53:02.500Z,38.8204994,-122.7803345,0.86,0.92,md,9,89,0.007235,0.01,nc,nc74029891,2024-04-05T21:54:38.192Z,"5 km W of Cobb, CA",earthquake,0.3,0.6,0.21,12,automatic,nc,nc
 2024-04-05T21:49:16.999Z,60.6051,-151.591,67.3,1.4,ml,,,,0.37,ak,ak0244f4dyib,2024-04-05T21:51:18.602Z,"14 km W of Salamatof, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T20:32:12.659Z,-18.2023,-174.2499,116.436,5.6,mww,68,45,3.086,1.56,us,us7000maah,2024-04-05T22:36:08.205Z,"57 km NNW of Neiafu, Tonga",earthquake,7.37,6.094,0.066,22,reviewed,us,us
 2024-04-05T20:26:26.159Z,23.9157,121.8284,20.748,4.8,mwr,60,71,0.713,0.92,us,us7000maaf,2024-04-05T23:11:36.960Z,"23 km ESE of Hualien City, Taiwan",earthquake,3.42,4.858,0.062,25,reviewed,us,us
 2024-04-05T20:22:56.910Z,38.8256683,-122.7623367,4.93,0.76,md,7,228,0.02509,0.07,nc,nc74029871,2024-04-05T20:24:33.151Z,"3 km W of Cobb, CA",earthquake,1.73,1.25,0.05,7,automatic,nc,nc
-2024-04-05T20:21:07.157Z,40.6269,-74.7308,5,1.9,ml,12,120,0.707,0.66,us,us7000mabu,2024-04-05T23:55:12.040Z,"3 km ENE of Whitehouse Station, New Jersey",earthquake,1.26,1.888,0.091,16,reviewed,us,us
+2024-04-05T20:21:07.157Z,40.6269,-74.7308,5,1.9,ml,12,120,0.707,0.66,us,us7000mabu,2024-04-06T00:01:11.607Z,"3 km ENE of Whitehouse Station, New Jersey",earthquake,1.26,1.888,0.091,16,reviewed,us,us
 2024-04-05T20:18:37.574Z,38.1377,-116.4315,3.5,1.5,ml,9,216.48,0.93,0.1854,nn,nn00875872,2024-04-05T20:21:32.404Z,"70 km E of Tonopah, Nevada",earthquake,,13.8,1.18,5,automatic,nn,nn
 2024-04-05T20:15:35.380Z,46.692,-121.91166666666666,4.97,0.98,ml,28,133,0.04831,0.09,uw,uw61994551,2024-04-05T22:28:41.890Z,"11 km SE of Ashford, Washington",earthquake,0.27,0.47,0.1557123817629622,16,reviewed,uw,uw
 2024-04-05T20:14:24.700Z,38.8030014,-122.8123322,1.02,1.08,md,15,65,0.0142,0.02,nc,nc74029866,2024-04-05T20:15:58.207Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.46,0.19,17,automatic,nc,nc
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T00:13:22.600Z,37.4838333,-118.8266667,2.34,1.76,md,16,229,0.1038,0.05,nc,nc74029506,2024-04-05T08:26:11.123Z,"16 km SW of Toms Place, CA",earthquake,1.4,2.27,0.197,12,reviewed,nc,nc
 2024-04-05T00:11:42.320Z,37.4945,-118.8376667,3.99,1.46,md,14,185,0.0956,0.12,nc,nc74029511,2024-04-05T08:22:40.651Z,"16 km WSW of Toms Place, CA",earthquake,0.43,1.1,0.394,14,reviewed,nc,nc
 2024-04-05T00:10:47.711Z,64.8116,-148.4359,16.6,0.2,ml,,,,0.35,ak,ak0244erniob,2024-04-05T14:37:07.542Z,"20 km WSW of Ester, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2024-04-05T00:03:54.420Z,45.966166666666666,-122.60566666666666,24.2,0.72,ml,13,230,0.1343,0.12,uw,uw61994416,2024-04-05T06:12:16.050Z,"12 km NNE of La Center, Washington",earthquake,0.56,0.97,0.15810030980964862,4,reviewed,uw,uw
