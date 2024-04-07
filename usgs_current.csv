@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T01:52:00.606Z,65.1081,-148.6645,12.8,1.1,ml,,,,0.6,ak,ak0244i3kla4,2024-04-07T01:53:37.576Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-04-07T01:51:31.850Z,37.862999,-122.2423325,8.82,1.87,md,44,36,0.03402,0.06,nc,nc74030541,2024-04-07T01:54:48.858Z,"3 km ESE of Berkeley, CA",earthquake,0.15,0.39,0.15,31,automatic,nc,nc
+2024-04-07T01:27:16.520Z,18.0376666666667,-66.7896666666667,16.18,2.28,md,15,79,0.01766,0.16,pr,pr71444963,2024-04-07T01:55:05.280Z,"2 km N of Guayanilla, Puerto Rico",earthquake,0.41,0.71,0.152806766439865,7,reviewed,pr,pr
 2024-04-07T01:14:43.963Z,65.3927,-148.0227,12.7,1.6,ml,,,,0.45,ak,ak0244i3cjf0,2024-04-07T01:16:26.564Z,"28 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-07T01:06:36.336Z,64.7412,-147.8245,13.2,0.7,ml,,,,1.83,ak,ak0244i3at3l,2024-04-07T01:08:16.231Z,"7 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-07T00:57:13.228Z,31.584,-104.549,3.767,1.5,ml,14,162,0.1,0.2,tx,tx2024gvhr,2024-04-07T01:11:47.088Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.59651266753781,0.1,9,automatic,tx,tx
@@ -42,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T18:22:27.516Z,40.6727,-74.7108,5,1.8,ml,16,148,0.694,0.88,us,us7000mahv,2024-04-07T01:04:39.586Z,"5 km W of Bedminster, New Jersey",earthquake,1.99,1.861,0.097,14,reviewed,us,us
 2024-04-06T18:21:39.740Z,37.8596667,-122.2421667,8.55,1.05,md,30,42,0.01733,0.06,nc,nc74030361,2024-04-06T23:55:22.027Z,"3 km ESE of Berkeley, CA",earthquake,0.2,0.23,0.216,20,reviewed,nc,nc
 2024-04-06T18:13:10.690Z,46.590667724609375,-122.51616668701172,1.38999998569489,1.7624402046203613,ml,15,199,,0.0900000036,uw,uw61994736,2024-04-06T18:15:37.190Z,"7 km NNW of Mossyrock, Washington",earthquake,1.78,3,0.25359126925468445,14,automatic,uw,uw
-2024-04-06T18:12:37.070Z,37.8588333,-122.2423333,8.88,3.2,mw,147,20,0.01625,0.1,nc,nc74030356,2024-04-07T01:43:08.866Z,"3 km ESE of Berkeley, CA",earthquake,0.08,0.13,,5,reviewed,nc,nc
+2024-04-06T18:12:37.070Z,37.8588333,-122.2423333,8.88,3.2,mw,147,20,0.01625,0.1,nc,nc74030356,2024-04-07T01:57:36.649Z,"3 km ESE of Berkeley, CA",earthquake,0.08,0.13,,5,reviewed,nc,nc
 2024-04-06T17:55:00.510Z,36.3113327,-120.8823318,2.2,1.78,md,12,104,0.05868,0.21,nc,nc74030336,2024-04-06T17:56:34.288Z,"22 km WSW of New Idria, CA",earthquake,0.54,1.62,0.18,8,automatic,nc,nc
 2024-04-06T17:54:49.078Z,62.098,-151.3854,79.2,1.8,ml,,,,0.38,ak,ak0244gpkpmz,2024-04-06T17:57:20.417Z,"12 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-06T17:53:17.150Z,17.9123333333333,-66.8645,15.77,2.32,md,5,227,0.06394,0.07,pr,pr71444933,2024-04-06T18:05:22.720Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.82,0.7,0.0969803240882707,4,reviewed,pr,pr
@@ -207,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T02:29:22.854Z,27.1915,103.4947,10,5,mb,80,33,8.74,1,us,us7000mack,2024-04-06T15:12:39.853Z,"25 km WSW of Zhaotong, China",earthquake,8.54,1.764,0.043,174,reviewed,us,us
 2024-04-06T02:20:28.540Z,19.3955001831055,-155.275329589844,1.01999998092651,1.96,ml,18,60,0.001597,0.170000002,hv,hv74162337,2024-04-06T02:23:05.270Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.200000003,0.17,5,automatic,hv,hv
 2024-04-06T02:09:54.290Z,-25.5969,179.8818,487.755,4.8,mb,61,58,4.122,1.07,us,us7000mach,2024-04-06T02:29:00.040Z,"south of the Fiji Islands",earthquake,12.62,8.112,0.04,201,reviewed,us,us
-2024-04-06T01:55:00.140Z,61.203,-152.296833333333,4.97,-0.84,ml,5,215,0.02214,0.07,av,av93001554,2024-04-06T21:46:14.980Z,"64 km WNW of Tyonek, Alaska",earthquake,0.48,0.53,0.2372346422221,6,reviewed,av,av
