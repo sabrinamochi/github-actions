@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T01:06:36.336Z,64.7412,-147.8245,13.2,0.7,ml,,,,1.83,ak,ak0244i3at3l,2024-04-07T01:08:16.231Z,"7 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-07T00:57:13.228Z,31.584,-104.549,3.767,1.5,ml,14,162,0.1,0.2,tx,tx2024gvhr,2024-04-07T01:11:47.088Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.59651266753781,0.1,9,automatic,tx,tx
 2024-04-07T00:48:41.560Z,19.3784999847412,-155.296173095703,1.52999997138977,2.25,md,11,110,0.01163,0.360000014,hv,hv74163427,2024-04-07T01:16:11.089Z,"9 km SW of Volcano, Hawaii",earthquake,0.59,0.579999983,0.239999995,10,automatic,hv,hv
-2024-04-07T00:35:07.510Z,40.3798333,-125.2696667,10,3.39,ml,103,237,0.7145,0.29,nc,nc74030516,2024-04-07T01:38:31.330Z,"84 km W of Petrolia, CA",earthquake,1.23,31.61,0.196,46,reviewed,nc,nc
+2024-04-07T00:35:07.510Z,40.3798333,-125.2696667,10,3.39,ml,103,237,0.7145,0.29,nc,nc74030516,2024-04-07T01:39:32.196Z,"84 km W of Petrolia, CA",earthquake,1.23,31.61,0.196,46,reviewed,nc,nc
 2024-04-07T00:28:45.520Z,36.9544983,-121.5868301,7.05,2.49,md,68,33,0.003914,0.22,nc,nc74030511,2024-04-07T00:57:35.086Z,"6 km SSW of Gilroy, CA",earthquake,0.26,0.56,0.12,72,automatic,nc,nc
 2024-04-07T00:23:02.130Z,33.577,-116.8098333,8.45,1.94,ml,84,26,0.04165,0.21,ci,ci40706592,2024-04-07T00:33:52.160Z,"13 km W of Anza, CA",earthquake,0.13,0.39,0.132,26,automatic,ci,ci
 2024-04-06T23:54:47.680Z,38.7851677,-122.7356644,1.38,1.23,md,14,82,0.02432,0.02,nc,nc74030506,2024-04-06T23:56:19.897Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.85,0.13,14,automatic,nc,nc
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T18:22:27.516Z,40.6727,-74.7108,5,1.8,ml,16,148,0.694,0.88,us,us7000mahv,2024-04-07T01:04:39.586Z,"5 km W of Bedminster, New Jersey",earthquake,1.99,1.861,0.097,14,reviewed,us,us
 2024-04-06T18:21:39.740Z,37.8596667,-122.2421667,8.55,1.05,md,30,42,0.01733,0.06,nc,nc74030361,2024-04-06T23:55:22.027Z,"3 km ESE of Berkeley, CA",earthquake,0.2,0.23,0.216,20,reviewed,nc,nc
 2024-04-06T18:13:10.690Z,46.590667724609375,-122.51616668701172,1.38999998569489,1.7624402046203613,ml,15,199,,0.0900000036,uw,uw61994736,2024-04-06T18:15:37.190Z,"7 km NNW of Mossyrock, Washington",earthquake,1.78,3,0.25359126925468445,14,automatic,uw,uw
-2024-04-06T18:12:37.070Z,37.8588333,-122.2423333,8.88,3.2,mw,147,20,0.01625,0.1,nc,nc74030356,2024-04-07T01:37:34.467Z,"3 km ESE of Berkeley, CA",earthquake,0.08,0.13,,5,reviewed,nc,nc
+2024-04-06T18:12:37.070Z,37.8588333,-122.2423333,8.88,3.2,mw,147,20,0.01625,0.1,nc,nc74030356,2024-04-07T01:43:08.866Z,"3 km ESE of Berkeley, CA",earthquake,0.08,0.13,,5,reviewed,nc,nc
 2024-04-06T17:55:00.510Z,36.3113327,-120.8823318,2.2,1.78,md,12,104,0.05868,0.21,nc,nc74030336,2024-04-06T17:56:34.288Z,"22 km WSW of New Idria, CA",earthquake,0.54,1.62,0.18,8,automatic,nc,nc
 2024-04-06T17:54:49.078Z,62.098,-151.3854,79.2,1.8,ml,,,,0.38,ak,ak0244gpkpmz,2024-04-06T17:57:20.417Z,"12 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-06T17:53:17.150Z,17.9123333333333,-66.8645,15.77,2.32,md,5,227,0.06394,0.07,pr,pr71444933,2024-04-06T18:05:22.720Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.82,0.7,0.0969803240882707,4,reviewed,pr,pr
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T02:20:28.540Z,19.3955001831055,-155.275329589844,1.01999998092651,1.96,ml,18,60,0.001597,0.170000002,hv,hv74162337,2024-04-06T02:23:05.270Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.200000003,0.17,5,automatic,hv,hv
 2024-04-06T02:09:54.290Z,-25.5969,179.8818,487.755,4.8,mb,61,58,4.122,1.07,us,us7000mach,2024-04-06T02:29:00.040Z,"south of the Fiji Islands",earthquake,12.62,8.112,0.04,201,reviewed,us,us
 2024-04-06T01:55:00.140Z,61.203,-152.296833333333,4.97,-0.84,ml,5,215,0.02214,0.07,av,av93001554,2024-04-06T21:46:14.980Z,"64 km WNW of Tyonek, Alaska",earthquake,0.48,0.53,0.2372346422221,6,reviewed,av,av
-2024-04-06T01:46:26.284Z,61.4537,-146.4311,20.1,2.3,ml,,,,0.74,ak,ak0244gg00h0,2024-04-06T05:33:12.936Z,"36 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
