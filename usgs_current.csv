@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-10T22:59:40.470Z,38.7804985,-122.7570038,0.99,0.81,md,12,80,0.01608,0.04,nc,nc74032466,2024-04-10T23:01:16.530Z,"0 km N of The Geysers, CA",earthquake,0.28,0.8,0.14,15,automatic,nc,nc
 2024-04-10T22:46:09.830Z,38.8274994,-122.7948303,1.14,1.1,md,20,38,0.01144,0.02,nc,nc74032461,2024-04-10T22:47:42.387Z,"6 km W of Cobb, CA",earthquake,0.19,0.4,0.17,21,automatic,nc,nc
 2024-04-10T22:45:36.970Z,38.8268318,-122.8068314,1.86,0.94,md,6,178,0.004265,0.03,nc,nc74032456,2024-04-10T22:47:12.366Z,"7 km NW of The Geysers, CA",earthquake,0.69,1.1,0.15,8,automatic,nc,nc
 2024-04-10T22:44:03.863Z,64.9245,-147.7684,0,1.3,ml,,,,1.1,ak,ak0244nen0zt,2024-04-10T22:46:40.884Z,"3 km WNW of Farmers Loop, Alaska",earthquake,,29.4,,,automatic,ak,ak
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T03:17:27.693Z,61.5082,-151.4763,68.4,2,ml,,,,0.71,ak,ak0244n36201,2024-04-10T03:21:17.287Z,"46 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-10T03:14:46.529Z,-29.6359,-72.0436,10.737,4.6,mwr,29,151,0.755,0.94,us,us7000mb4t,2024-04-10T03:30:03.040Z,"76 km WNW of Coquimbo, Chile",earthquake,4.52,4.459,0.051,37,reviewed,us,us
 2024-04-10T03:06:28.240Z,48.8308333333333,-112.526,6.63,1.54,ml,9,275,0.9415,0.17,mb,mb90045938,2024-04-10T14:19:18.120Z,"20 km NW of Santa Rita, Montana",earthquake,1.28,1.33,0.119983670357627,5,reviewed,mb,mb
-2024-04-10T02:59:22.190Z,48.8371666666667,-112.459333333333,13.06,3.47,ml,25,88,0.5446,0.27,mb,mb90045933,2024-04-10T14:13:11.560Z,"18 km NW of Santa Rita, Montana",earthquake,0.7,1.49,0.233333248368237,46,reviewed,mb,mb
+2024-04-10T02:59:21.941Z,48.8359,-112.4387,10,3.5,ml,26,88,0.534,0.43,us,us7000mb4q,2024-04-10T23:02:01.040Z,"17 km NNW of Santa Rita, Montana",earthquake,1.54,1.981,0.233,46,reviewed,us,mb
 2024-04-10T02:57:01.670Z,38.791832,-122.7350006,-0.23,0.95,md,9,96,0.008688,0.02,nc,nc74032026,2024-04-10T02:58:34.563Z,"2 km NE of The Geysers, CA",earthquake,0.23,2.75,0.24,10,automatic,nc,nc
 2024-04-10T02:55:51.440Z,39.7446666666667,-111.4135,7.4,1.33,ml,21,73,0.1925,0.18,uu,uu80066431,2024-04-10T13:13:33.630Z,"13 km N of Fairview, Utah",earthquake,0.47,1.33,0.0736476033908791,3,reviewed,uu,uu
 2024-04-10T02:54:35.838Z,37.6221,72.0401,138.458,4,mb,19,127,1.862,0.67,us,us7000mb4s,2024-04-10T04:13:27.040Z,"45 km ENE of Khorugh, Tajikistan",earthquake,7.01,9.399,0.196,7,reviewed,us,us
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T23:12:56.306Z,60.7302,-150.0493,39.9,1.5,ml,,,,0.44,ak,ak0244lrid8e,2024-04-09T23:15:28.840Z,"29 km NNW of Cooper Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-09T23:10:17.550Z,33.5876667,-116.8058333,7.92,0.34,ml,25,70,0.03535,0.14,ci,ci40709184,2024-04-10T16:31:35.838Z,"13 km WNW of Anza, CA",earthquake,0.25,0.45,0.181,5,reviewed,ci,ci
 2024-04-09T23:03:03.420Z,54.1969,-162.5811,50.499,3.6,mb,37,204,0.821,1.15,us,us7000mb39,2024-04-09T23:48:06.040Z,"90 km SE of False Pass, Alaska",earthquake,4.18,17.962,0.157,10,reviewed,us,us
-2024-04-09T23:02:07.740Z,35.6745,-117.4751667,6.1,0.96,ml,20,129,0.04293,0.1,ci,ci40709160,2024-04-10T15:59:03.539Z,"12 km SSW of Searles Valley, CA",earthquake,0.19,0.41,0.176,7,reviewed,ci,ci
