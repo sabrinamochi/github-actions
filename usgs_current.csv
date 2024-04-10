@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T14:40:38.610Z,35.6818333,-117.4973333,5.87,1.52,ml,30,112,0.06222,0.12,ci,ci40709664,2024-04-10T14:51:24.390Z,"13 km SW of Searles Valley, CA",earthquake,0.16,0.5,0.121,21,automatic,ci,ci
 2024-04-10T14:28:56.687Z,39.7233,-119.8585,11.3,1.1,ml,5,105.89,0.14,0.09,nn,nn00876004,2024-04-10T15:11:26.047Z,"9 km N of Lemmon Valley, Nevada",earthquake,,3,1.01,3,reviewed,nn,nn
 2024-04-10T14:26:50.114Z,65.0261,-147.0788,5.9,0.9,ml,,,,0.2,ak,ak0244n9rstv,2024-04-10T14:27:54.559Z,"17 km N of Two Rivers, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-04-10T14:22:52.518Z,40.6882,-74.7058,5,2.6,mb_lg,25,108,0.042,0.34,us,us7000mb70,2024-04-10T18:56:42.516Z,"5 km SW of Gladstone, New Jersey",earthquake,1.24,1.582,0.086,35,reviewed,us,us
+2024-04-10T14:22:52.518Z,40.6882,-74.7058,5,2.6,mb_lg,25,108,0.042,0.34,us,us7000mb70,2024-04-10T19:01:56.687Z,"5 km SW of Gladstone, New Jersey",earthquake,1.24,1.582,0.086,35,reviewed,us,us
 2024-04-10T14:20:38.860Z,38.8351669,-122.8083344,2.18,0.77,md,10,73,0.01183,0.01,nc,nc74032266,2024-04-10T14:22:11.204Z,"8 km W of Cobb, CA",earthquake,0.35,0.86,0.16,11,automatic,nc,nc
 2024-04-10T14:16:58.480Z,35.284,-84.3806666666667,13.57,1.9,md,10,93,0.07384,0.09,se,se60576756,2024-04-10T15:51:58.000Z,"11 km SW of Tellico Plains, Tennessee",earthquake,0.42,0.89,0.133005960408113,10,reviewed,se,se
 2024-04-10T14:14:10.088Z,62.8109,-150.7991,93.7,2.3,ml,,,,0.42,ak,ak0244n9p55a,2024-04-10T14:16:56.551Z,"35 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T08:22:31.280Z,38.8261681,-122.8066635,2.51,1.08,md,19,50,0.003842,0.02,nc,nc74032161,2024-04-10T08:29:26.182Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.54,0.17,19,automatic,nc,nc
 2024-04-10T08:17:28.530Z,38.7944984,-122.7470016,-0.65,0.27,md,8,94,0.01166,0.1,nc,nc74032156,2024-04-10T08:19:04.795Z,"2 km NNE of The Geysers, CA",earthquake,0.32,1.62,0.06,8,automatic,nc,nc
 2024-04-10T08:16:38.492Z,61.7032,-150.0083,35.3,1.3,ml,,,,0.88,ak,ak0244n6514w,2024-04-10T08:18:56.100Z,"5 km SSE of Willow, Alaska",earthquake,,5.8,,,automatic,ak,ak
-2024-04-10T08:13:04.077Z,31.625,-104.239,5.7922,2.1,ml,30,60,0.1,0.2,tx,tx2024hbio,2024-04-10T09:17:24.854Z,"54 km NW of Toyah, Texas",earthquake,0.7134247088959371,1.397795699820639,0.1,13,reviewed,tx,tx
+2024-04-10T08:13:04.077Z,31.625,-104.239,5.7922,2.1,ml,30,60,0.1,0.2,tx,tx2024hbio,2024-04-10T19:01:18.916Z,"54 km NW of Toyah, Texas",earthquake,0.7134247088959371,1.397795699820639,0.1,13,reviewed,tx,tx
 2024-04-10T08:09:36.080Z,37.263,-121.6371667,6.07,3.04,ml,142,33,0.02896,0.1,nc,nc74032151,2024-04-10T18:43:44.321Z,"15 km N of Morgan Hill, CA",earthquake,0.09,0.19,0.167,99,reviewed,nc,nc
 2024-04-10T08:08:48.620Z,38.8328323,-122.8118362,1.94,0.24,md,7,142,0.01768,0.01,nc,nc74032146,2024-04-10T08:10:24.692Z,"8 km W of Cobb, CA",earthquake,0.46,1.83,0.08,8,automatic,nc,nc
 2024-04-10T07:57:42.394Z,-38.8396,47.1058,10,4.8,mww,38,40,8.354,0.49,us,us7000mb5u,2024-04-10T08:58:57.040Z,"Southwest Indian Ridge",earthquake,8.87,1.827,0.103,9,reviewed,us,us
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T01:01:22.320Z,38.8105011,-122.8193359,2.54,1.11,md,26,54,0.00786,0.03,nc,nc74031976,2024-04-10T01:02:59.447Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.39,0.16,26,automatic,nc,nc
 2024-04-10T00:56:05.232Z,31.609,-103.976,7.4329,1.9,ml,15,57,0,0.1,tx,tx2024haue,2024-04-10T09:29:36.948Z,"36 km NNW of Toyah, Texas",earthquake,0.5189072568220989,0.6632653480242878,0.2,10,reviewed,tx,tx
 2024-04-10T00:42:38.480Z,36.0871667,-117.6215,1.78,1.05,ml,22,144,0.1319,0.13,ci,ci40709248,2024-04-10T00:48:24.545Z,"30 km E of Coso Junction, CA",earthquake,0.22,0.37,0.121,11,automatic,ci,ci
-2024-04-10T00:31:38.630Z,33.4156667,-116.616,4.35,0.48,ml,35,49,0.07966,0.15,ci,ci40709240,2024-04-10T00:38:09.125Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.39,0.118,12,automatic,ci,ci
+2024-04-10T00:31:38.570Z,33.4171667,-116.6193333,5.22,0.5,ml,25,68,0.07864,0.14,ci,ci40709240,2024-04-10T19:01:17.952Z,"15 km N of Warner Springs, CA",earthquake,0.2,0.71,0.146,9,reviewed,ci,ci
 2024-04-10T00:29:52.500Z,38.809166,-122.8288345,2.29,0.23,md,7,175,0.01653,0.01,nc,nc74031966,2024-04-10T00:31:29.062Z,"7 km WNW of The Geysers, CA",earthquake,0.77,0.98,0.1,8,automatic,nc,nc
 2024-04-10T00:29:17.927Z,60.5315,-151.1858,65.3,1.6,ml,,,,0.48,ak,ak0244n1gb0w,2024-04-10T00:31:09.265Z,"4 km ESE of Kenai, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-04-10T00:27:06.450Z,35.0325,-117.6776667,-0.79,1.82,ml,35,45,0.09907,0.18,ci,ci40709232,2024-04-10T18:55:33.246Z,"4 km NW of Boron, CA",quarry blast,0.3,31.61,0.24,53,reviewed,ci,ci
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T19:08:06.394Z,-25.3694,-177.2203,138.773,4.5,mb,21,131,3.911,0.55,us,us7000mb1x,2024-04-09T20:19:52.040Z,"south of the Fiji Islands",earthquake,6.21,8.365,0.116,22,reviewed,us,us
 2024-04-09T19:06:19.190Z,35.0613333,-118.3363333,-0.93,1.12,ml,26,60,0.0707,0.18,ci,ci40708816,2024-04-10T14:09:11.800Z,"13 km SE of Tehachapi, CA",quarry blast,0.42,31.61,0.165,11,reviewed,ci,ci
 2024-04-09T19:05:32.065Z,61.7884,-149.9119,34.9,1.8,ml,,,,0.41,ak,ak0244lp32xi,2024-04-09T19:06:55.943Z,"8 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-09T19:00:23.766Z,59.8959,-152.9565,98.4,1.4,ml,,,,0.2,ak,ak0244lp1zpk,2024-04-09T19:02:29.346Z,"64 km WNW of Anchor Point, Alaska",earthquake,,1.9,,,automatic,ak,ak
