@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T18:40:29.890Z,44.368,-115.204666666667,3.25,1.36,ml,6,117,0.3671,0.11,mb,mb90046313,2024-04-15T19:26:46.370Z,"27 km NW of Stanley, Idaho",earthquake,0.44,2.72,0.394662663270113,7,reviewed,mb,mb
 2024-04-15T18:33:46.690Z,36.0058327,-117.803833,1.07,0.94,ml,10,68,0.02365,0.09,ci,ci40713264,2024-04-15T18:37:27.666Z,"12 km NE of Little Lake, CA",earthquake,0.39,0.67,0.229,13,automatic,ci,ci
 2024-04-15T18:28:43.180Z,19.136833190918,-155.453338623047,32.060001373291,2.02999997,md,16,177,0.119,0.100000001,hv,hv74172427,2024-04-15T18:30:20.990Z,"7 km SSE of Pāhala, Hawaii",earthquake,1.31,1.83000004,0.209999993,3,automatic,hv,hv
-2024-04-15T18:17:02.776Z,52.5633,172.7784,35,4.6,mb,58,86,0.822,0.63,us,us7000mc91,2024-04-15T18:52:01.040Z,"41 km SW of Attu Station, Alaska",earthquake,9.85,1.915,0.048,129,reviewed,us,us
+2024-04-15T18:17:02.776Z,52.5633,172.7784,35,4.6,mb,58,86,0.822,0.63,us,us7000mc91,2024-04-15T19:39:43.891Z,"41 km SW of Attu Station, Alaska",earthquake,9.85,1.915,0.048,129,reviewed,us,us
 2024-04-15T18:16:44.040Z,19.1441669464111,-155.466827392578,31.5599994659424,3.11,ml,57,164,0.01204,0.170000002,hv,hv74172412,2024-04-15T18:34:14.716Z,"6 km S of Pāhala, Hawaii",earthquake,0.46,0.639999986,0.38,42,automatic,hv,hv
 2024-04-15T18:14:49.935Z,62.0554,-148.1496,24.2,1.6,ml,,,,0.72,ak,ak0244vlrnny,2024-04-15T18:16:49.764Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-15T18:14:42.825Z,64.7306,-151.082,13.8,1.2,ml,,,,0.53,ak,ak0244vlroka,2024-04-15T18:16:54.409Z,"36 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T16:55:55.547Z,61.8477,-143.5951,14.1,0.8,ml,,,,0.17,ak,ak0244vktmoy,2024-04-15T16:57:23.642Z,"58 km NE of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-15T16:41:27.380Z,46.8898333333333,-112.520666666667,9.65,0.95,ml,10,117,0.05336,0.06,mb,mb90046293,2024-04-15T17:16:44.290Z,"14 km ESE of Lincoln, Montana",earthquake,0.34,0.51,0.191549500516248,6,reviewed,mb,mb
 2024-04-15T16:33:24.537Z,65.4377,-148.0341,13,1.1,ml,,,,0.65,ak,ak0244vkoujp,2024-04-15T16:44:28.243Z,"25 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-04-15T16:31:28.020Z,19.15016746521,-155.472503662109,31.6100006103516,2.83,ml,57,161,0.01112,0.140000001,hv,hv74172367,2024-04-15T16:56:34.588Z,"5 km S of Pāhala, Hawaii",earthquake,0.36,0.569999993,0.36,36,automatic,hv,hv
+2024-04-15T16:31:28.000Z,19.1518333333333,-155.4685,32.61,2.83,md,44,161,0.00701,0.1,hv,hv74172367,2024-04-15T19:40:48.610Z,"5 km S of Pāhala, Hawaii",earthquake,0.52,0.55,0.0648346177871377,12,reviewed,hv,hv
 2024-04-15T16:30:21.265Z,58.1645,-155.2841,0.1,0.4,ml,,,,0.85,ak,ak0244vko75a,2024-04-15T16:32:51.499Z,"82 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-04-15T16:20:54.367Z,60.1274,-152.8363,114.4,1.8,ml,,,,0.4,ak,ak0244vkm4jg,2024-04-15T16:23:23.838Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-15T16:16:18.913Z,60.0584,-141.3398,0,1.6,ml,,,,0.48,ak,ak0244vkl6xv,2024-04-15T16:19:03.343Z,"106 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -153,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T03:19:07.358Z,61.3747,-150.0372,33,1.7,ml,,,,0.33,ak,ak0244vcv6bz,2024-04-15T03:20:58.160Z,"3 km WNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-15T03:14:18.720Z,38.8241653,-122.7509995,-0.47,1.15,md,8,234,0.0382,0.28,nc,nc74034526,2024-04-15T03:15:53.074Z,"2 km W of Cobb, CA",earthquake,2.61,9.87,0.18,5,automatic,nc,nc
 2024-04-15T03:12:21.850Z,38.8155,-122.7956667,1.87,0.45,md,19,52,0.007526,0.03,nc,nc74034521,2024-04-15T08:30:44.789Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.36,0.076,21,reviewed,nc,nc
-2024-04-15T03:01:28.800Z,40.6917,-74.7859,2.638,0.9,ml,6,78,0.025,0.26,us,us7000mc8l,2024-04-15T18:04:01.040Z,"5 km SE of Califon, New Jersey",earthquake,1.71,2.532,0.115,10,reviewed,us,us
+2024-04-15T03:01:28.776Z,40.6764,-74.7828,3.249,1,ml,8,81,0.034,0.35,us,us7000mc8l,2024-04-15T19:39:39.040Z,"5 km NE of Lebanon, New Jersey",earthquake,1.16,2.402,0.105,12,reviewed,us,us
 2024-04-15T02:57:33.720Z,36.1466666666667,-89.4395,10.78,1.56,md,18,56,0.05611,0.08,nm,nm60577306,2024-04-15T17:41:00.300Z,"13 km NNW of Dyersburg, Tennessee",earthquake,0.4,0.76,0.0438602326094006,14,reviewed,nm,nm
 2024-04-15T02:53:01.140Z,17.9853333333333,-66.8475,16.5,2.3,md,10,177,0.03191,0.16,pr,pr71445603,2024-04-15T03:04:11.920Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.74,0.63,0.0813143399132885,7,reviewed,pr,pr
 2024-04-15T02:52:41.390Z,19.4071674346924,-155.226501464844,26.0799999237061,2.24,ml,48,72,0.01366,0.129999995,hv,hv74171952,2024-04-15T02:55:20.850Z,"4 km SSE of Volcano, Hawaii",earthquake,0.38,0.430000007,0.31,5,automatic,hv,hv
