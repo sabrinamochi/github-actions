@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-16T19:06:47.330Z,36.1204987,-117.8891678,5.66,1.49,ml,19,115,0.02793,0.14,ci,ci40714472,2024-04-16T19:09:16.031Z,"10 km NNE of Coso Junction, CA",earthquake,0.42,0.89,0.392,5,automatic,ci,ci
-2024-04-16T19:00:42.850Z,34.0175018,-117.2480011,12.77,1.2,ml,24,64,0.1085,0.17,ci,ci40714456,2024-04-16T19:03:08.397Z,"4 km SSE of Loma Linda, CA",earthquake,0.31,1.2,0.341,6,automatic,ci,ci
+2024-04-16T19:00:42.980Z,34.0106667,-117.2463333,11.68,1.09,ml,37,45,0.07693,0.18,ci,ci40714456,2024-04-16T19:12:59.782Z,"4 km SSE of Loma Linda, CA",earthquake,0.21,0.72,0.106,31,automatic,ci,ci
 2024-04-16T18:57:18.380Z,36.1153333,-117.8846667,7.49,1.58,ml,29,48,0.02424,0.15,ci,ci40714448,2024-04-16T19:09:25.995Z,"10 km NE of Coso Junction, CA",earthquake,0.2,0.42,0.281,19,automatic,ci,ci
 2024-04-16T18:54:41.800Z,36.1176667,-117.8843333,7.49,2.16,ml,30,48,0.02386,0.16,ci,ci40714432,2024-04-16T19:08:44.734Z,"10 km NE of Coso Junction, CA",earthquake,0.2,0.45,0.244,25,automatic,ci,ci
 2024-04-16T18:41:45.272Z,62.3461,-148.3859,18.8,1.5,ml,,,,0.63,ak,ak0244x9gtkv,2024-04-16T18:44:10.742Z,"61 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-16T18:32:40.710Z,35.031,-117.6711667,-0.81,1.53,ml,39,46,0.09857,0.24,ci,ci40714384,2024-04-16T18:39:20.576Z,"4 km NNW of Boron, CA",earthquake,0.35,0.85,0.099,26,automatic,ci,ci
 2024-04-16T18:30:40.047Z,61.4444,-145.9559,58.8,2,ml,,,,1.29,ak,ak0244x9egas,2024-04-16T18:33:07.415Z,"40 km NNE of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2024-04-16T18:30:12.398Z,-37.4504,177.7279,60.022,4.8,mb,34,79,0.474,0.92,us,us7000mchr,2024-04-16T19:07:34.252Z,"53 km WNW of Hicks Bay, New Zealand",earthquake,5.73,6.221,0.109,26,reviewed,us,us
+2024-04-16T18:30:12.398Z,-37.4504,177.7279,60.022,4.8,mb,34,79,0.474,0.92,us,us7000mchr,2024-04-16T19:12:47.642Z,"53 km WNW of Hicks Bay, New Zealand",earthquake,5.73,6.221,0.109,26,reviewed,us,us
 2024-04-16T18:21:30.151Z,39.5156,141.8333,56.38,4.6,mb,45,185,1.402,0.62,us,us7000mchq,2024-04-16T18:58:05.040Z,"11 km WNW of Yamada, Japan",earthquake,8.13,7.368,0.099,30,reviewed,us,us
 2024-04-16T18:16:40.830Z,35.4353333,-118.7375,5.57,1.66,ml,32,47,0.04169,0.18,ci,ci40714360,2024-04-16T18:26:48.092Z,"25 km NE of Lamont, CA",earthquake,0.18,0.57,0.173,29,automatic,ci,ci
 2024-04-16T18:16:08.270Z,36.1221667,-117.8861667,3.21,1.17,ml,25,49,0.02576,0.23,ci,ci40714352,2024-04-16T18:24:51.087Z,"10 km NNE of Coso Junction, CA",earthquake,0.3,0.7,0.3,17,automatic,ci,ci
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-16T10:56:06.596Z,51.7897,-177.4573,12.9,1.7,ml,,,,0.45,ak,ak0244x4sdnu,2024-04-16T17:01:32.652Z,"57 km W of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-04-16T10:51:13.187Z,57.1406,-157.6108,8.903,3,ml,16,83,0.375,0.69,us,us7000mcdd,2024-04-16T16:46:22.040Z,"43 km SSW of Ugashik, Alaska",earthquake,2.71,6.812,0.055,44,reviewed,us,us
 2024-04-16T10:44:53.202Z,51.7984,-177.4761,6.7,1.4,ml,,,,0.49,ak,ak0244x4pzwu,2024-04-16T16:54:16.050Z,"58 km W of Adak, Alaska",earthquake,,305.5,,,reviewed,ak,ak
-2024-04-16T10:39:42.470Z,33.5773333,-116.8068333,8.57,0.6,ml,39,41,0.03923,0.16,ci,ci40713848,2024-04-16T10:45:42.941Z,"13 km WNW of Anza, CA",earthquake,0.16,0.45,0.133,15,automatic,ci,ci
+2024-04-16T10:39:42.410Z,33.5775,-116.8086667,8.71,0.61,ml,33,43,0.04056,0.14,ci,ci40713848,2024-04-16T19:12:55.608Z,"13 km WNW of Anza, CA",earthquake,0.17,0.42,0.127,15,reviewed,ci,ci
 2024-04-16T10:37:21.848Z,55.8833,164.5274,10,5,mb,73,80,4.469,0.78,us,us7000mcdg,2024-04-16T15:07:54.040Z,"133 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,9.25,1.862,0.048,137,reviewed,us,us
 2024-04-16T10:37:11.861Z,55.8689,164.6662,10,4.9,mb,84,93,4.522,0.66,us,us7000mcdb,2024-04-16T14:49:04.040Z,"142 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.39,1.858,0.034,264,reviewed,us,us
 2024-04-16T10:34:38.740Z,35.5981667,-117.5931667,4.46,0.91,ml,25,87,0.06861,0.15,ci,ci40713832,2024-04-16T18:46:27.896Z,"8 km ESE of Ridgecrest, CA",earthquake,0.23,0.46,0.251,8,reviewed,ci,ci
