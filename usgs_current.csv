@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-17T19:57:16.000Z,19.3971672058105,-155.280838012695,1.35000002384186,1.89999998,md,12,57,0.007024,0.0700000003,hv,hv74175347,2024-04-17T19:59:53.620Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.300000012,0.74000001,11,automatic,hv,hv
 2024-04-17T19:46:30.820Z,19.0106658935547,-155.410171508789,34.5900001525879,2.49000001,md,22,279,0.1521,0.0900000036,hv,hv74175337,2024-04-17T19:48:02.440Z,"18 km ESE of Naalehu, Hawaii",earthquake,1.25,1.75,0.129999995,4,automatic,hv,hv
 2024-04-17T19:43:31.476Z,39.4238,-119.5362,0.7,1.3,ml,9,74.38999999999999,0.208,0.1681,nn,nn00876330,2024-04-17T19:46:06.270Z,"15 km WNW of Stagecoach, Nevada",earthquake,,11.8,0.12,4,reviewed,nn,nn
 2024-04-17T19:36:19.000Z,38.8126678,-122.8209991,3.01,0.74,md,8,177,0.007432,0.03,nc,nc74036166,2024-04-17T19:37:53.155Z,"7 km NW of The Geysers, CA",earthquake,1.07,0.89,0.14,10,automatic,nc,nc
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T15:31:40.580Z,38.7783318,-122.7266693,1.54,0.74,md,7,82,0.009261,0,nc,nc74036046,2024-04-17T15:33:13.236Z,"3 km E of The Geysers, CA",earthquake,0.37,0.77,0.16,7,automatic,nc,nc
 2024-04-17T15:25:06.800Z,19.3853340148926,-155.27783203125,1.30999994277954,1.76999998,md,15,70,0.003854,0.180000007,hv,hv74175037,2024-04-17T15:26:27.690Z,"7 km SW of Volcano, Hawaii",earthquake,0.28,0.25,0.310000002,11,automatic,hv,hv
 2024-04-17T15:18:08.180Z,38.7083321,-122.810997,4.39,1.11,md,10,215,0.04205,0.05,nc,nc74036036,2024-04-17T15:19:43.075Z,"9 km SSW of The Geysers, CA",earthquake,0.98,1.24,0.04,10,automatic,nc,nc
-2024-04-17T15:12:46.214Z,31.668,-104.383,4.7286,1.8,ml,17,69,0,0.4,tx,tx2024hoqy,2024-04-17T15:53:16.393Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2345253092356503,0.1,12,automatic,tx,tx
+2024-04-17T15:12:46.296Z,31.684,-104.396,5.6897,1.8,ml,20,68,0,0.1,tx,tx2024hoqy,2024-04-17T19:59:55.170Z,"54 km S of Whites City, New Mexico",earthquake,0.5784895475917733,0.8200360420230437,0.1,10,reviewed,tx,tx
 2024-04-17T15:12:24.021Z,36.6874,-116.2817,9.5,0.6,ml,24,131.88,0.052,0.1015,nn,nn00876317,2024-04-17T18:07:14.688Z,"49 km ESE of Beatty, Nevada",earthquake,,0.7,0.28,8,reviewed,nn,nn
 2024-04-17T14:55:19.520Z,38.8279991,-122.8548355,2.42,0.77,md,11,119,0.001655,0.04,nc,nc74036016,2024-04-17T14:56:53.825Z,"10 km WNW of The Geysers, CA",earthquake,0.44,0.61,0.27,13,automatic,nc,nc
 2024-04-17T14:50:47.368Z,64.4856,-146.9769,3.4,1.3,ml,,,,0.48,ak,ak0244yuod9a,2024-04-17T14:53:20.511Z,"5 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -273,5 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-16T20:08:16.206Z,63.1651,-150.4562,95,2.4,ml,,,,0.59,ak,ak0244xagjww,2024-04-16T20:51:58.040Z,"76 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-16T20:04:12.000Z,19.6728333333333,-154.8455,45.94,2.33,md,41,220,0.1665,0.11,hv,hv74173842,2024-04-17T17:18:23.040Z,"16 km ENE of Hawaiian Paradise Park, Hawaii",earthquake,0.57,0.61,0.154709883131877,23,reviewed,hv,hv
 2024-04-16T20:02:04.780Z,33.7035,-116.8185,13.61,0.46,ml,17,95,0.07727,0.13,ci,ci40714552,2024-04-17T18:12:20.870Z,"8 km SE of Valle Vista, CA",earthquake,0.45,0.65,0.104,9,reviewed,ci,ci
-2024-04-16T19:59:25.539Z,59.8105,-152.1065,62.9,1.7,ml,,,,0.58,ak,ak0244xa62jt,2024-04-16T20:01:35.121Z,"15 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-04-16T19:52:08.770Z,38.8151665,-122.8193359,2.68,1.07,md,22,50,0.009934,0.01,nc,nc74035511,2024-04-16T19:53:43.600Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.42,0.06,22,automatic,nc,nc
