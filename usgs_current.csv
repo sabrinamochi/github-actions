@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-18T21:59:25.230Z,38.8243332,-122.8393326,1.46,0.56,md,7,219,0.003574,0.01,nc,nc74036841,2024-04-18T22:00:59.372Z,"9 km NW of The Geysers, CA",earthquake,1.13,1.32,0.4,8,automatic,nc,nc
+2024-04-18T21:58:58.130Z,38.7998352,-122.7991638,1.29,0.81,md,11,80,0.008663,0.02,nc,nc74036836,2024-04-18T22:00:34.442Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.66,0.16,15,automatic,nc,nc
 2024-04-18T21:46:17.324Z,63.4081,-144.8656,1,1.2,ml,,,,0.65,ak,ak02450mctru,2024-04-18T21:49:22.338Z,"29 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-18T21:38:03.500Z,19.3956661224365,-155.280334472656,0.839999973773956,1.82,ml,17,51,0.006323,0.109999999,hv,hv74176952,2024-04-18T21:40:40.180Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.129999995,0.15,8,automatic,hv,hv
 2024-04-18T21:30:44.920Z,35.4906667,-118.5161667,3.31,1.49,ml,34,39,0.1751,0.15,ci,ci40549623,2024-04-18T21:41:45.100Z,"11 km SSW of Bodfish, CA",earthquake,0.16,0.63,0.229,26,automatic,ci,ci
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T20:34:26.420Z,35.4911667,-118.5103333,1.6,2.38,ml,46,32,0.1738,0.16,ci,ci40549511,2024-04-18T20:45:00.100Z,"11 km S of Bodfish, CA",earthquake,0.16,0.52,0.138,27,automatic,ci,ci
 2024-04-18T20:33:29.510Z,38.8308334,-122.7978363,8.41,0.35,md,7,143,0.009564,0.05,nc,nc74036776,2024-04-18T20:35:04.541Z,"6 km W of Cobb, CA",earthquake,1.62,2.46,0.23,7,automatic,nc,nc
 2024-04-18T20:32:34.090Z,33.712,-117.3468333,1.97,1.03,ml,29,58,0.04088,0.26,ci,ci40549503,2024-04-18T20:39:10.754Z,"5 km NNW of Lake Elsinore, CA",earthquake,0.36,0.68,0.235,28,automatic,ci,ci
-2024-04-18T20:31:48.242Z,62.2293,-149.7052,43.2,3.6,ml,,,,0.59,ak,ak02450lo8sv,2024-04-18T20:43:52.040Z,"10 km NE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-18T20:31:48.729Z,62.2335,-149.6797,45.1,3.6,ml,,,,0.72,ak,ak02450lo8sv,2024-04-18T22:02:10.771Z,"12 km NE of Susitna North, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-04-18T20:27:52.780Z,38.7946663,-122.7584991,-0.86,0.72,md,6,149,0.006025,0.13,nc,nc74036771,2024-04-18T20:29:29.473Z,"2 km N of The Geysers, CA",earthquake,0.55,1.38,0.43,8,automatic,nc,nc
 2024-04-18T20:27:25.170Z,35.4931667,-118.5198333,3.26,1.44,ml,30,39,0.1733,0.14,ci,ci40549479,2024-04-18T20:33:51.569Z,"11 km SSW of Bodfish, CA",earthquake,0.16,0.63,0.244,22,automatic,ci,ci
 2024-04-18T20:23:49.394Z,60.5744,-142.7994,0,1.2,ml,,,,1.47,ak,ak02450lmj3a,2024-04-18T20:34:41.602Z,"95 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -244,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T22:18:23.590Z,45.9081666666667,-111.581833333333,4.99,0.21,ml,4,143,0.2185,0.05,mb,mb90046818,2024-04-18T15:00:37.910Z,"2 km NW of Three Forks, Montana",earthquake,0.37,5.27,0.0999183653783282,2,reviewed,mb,mb
 2024-04-17T22:08:55.180Z,45.33433333333333,-121.70883333333333,5.53,0.39,ml,9,127,0.02435,0.07,uw,uw61997451,2024-04-18T21:07:17.520Z,"4 km NE of Government Camp, Oregon",earthquake,0.26,0.41,0.06242852731321591,3,reviewed,uw,uw
 2024-04-17T22:07:00.814Z,39.9991,35.9561,8.47,4.6,mwr,85,34,0.515,1.03,us,us7000mcs6,2024-04-17T22:26:17.040Z,"10 km W of Sulusaray, Turkey",earthquake,5.07,4.341,0.048,42,reviewed,us,us
-2024-04-17T22:00:59.313Z,26.0966,-110.768,10,4.4,mb,16,200,1.794,1.04,us,us7000mcs4,2024-04-17T22:40:45.040Z,"58 km E of Loreto, Mexico",earthquake,9.03,1.969,0.056,91,reviewed,us,us
