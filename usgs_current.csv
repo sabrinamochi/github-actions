@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T17:09:39.270Z,33.8041667,-116.2036667,6.39,2.12,ml,68,55,0.01659,0.18,ci,ci40551031,2024-04-19T18:09:43.860Z,"9 km N of Indio, CA",earthquake,0.15,0.38,0.238,26,reviewed,ci,ci
 2024-04-19T17:04:00.750Z,38.8031654,-122.8036652,3.11,1.08,md,26,47,0.008105,0.03,nc,nc74037356,2024-04-19T17:05:35.102Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.46,0.14,28,automatic,nc,nc
 2024-04-19T16:56:15.224Z,60.6752,-143.1165,21.4,1.4,ml,,,,0.59,ak,ak024526z59u,2024-04-19T19:25:48.705Z,"85 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-19T16:25:45.761Z,52.4795,-170.8275,10,4,mb,18,172,0.74,0.66,us,us7000md8n,2024-04-19T16:46:27.040Z,"142 km WSW of Nikolski, Alaska",earthquake,8.08,1.957,0.172,10,reviewed,us,us
+2024-04-19T16:25:45.761Z,52.4795,-170.8275,10,4,mb,18,172,0.74,0.66,us,us7000md8n,2024-04-19T21:01:07.830Z,"142 km WSW of Nikolski, Alaska",earthquake,8.08,1.957,0.172,10,reviewed,us,us
 2024-04-19T16:17:15.229Z,63.095,-147.6204,3,2.1,ml,,,,0.56,ak,ak024526qsci,2024-04-19T16:19:06.835Z,"74 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-19T16:10:41.771Z,61.415,-150.0233,33.2,2,ml,,,,0.47,ak,ak024526pcdt,2024-04-19T16:12:46.893Z,"6 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-19T16:09:05.140Z,37.3030014,-121.6711655,6.29,1.23,md,9,106,0.04397,0.02,nc,nc74037331,2024-04-19T16:10:40.612Z,"15 km E of Seven Trees, CA",earthquake,0.38,0.73,0.12,7,automatic,nc,nc
@@ -157,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T05:58:17.020Z,47.788333333333334,-122.85366666666667,19.87,0.67,ml,11,142,0.04575,0.16,uw,uw61997951,2024-04-19T06:15:04.600Z,"4 km SSE of Quilcene, Washington",earthquake,0.8,0.66,0.207328221486467,5,reviewed,uw,uw
 2024-04-19T05:48:07.460Z,39.6613333,-121.123,10.46,2.13,md,20,90,0.1616,0.06,nc,nc74037081,2024-04-19T07:53:52.342Z,"12 km W of La Porte, CA",earthquake,0.35,0.81,0.152,26,reviewed,nc,nc
 2024-04-19T05:40:57.309Z,36.5996,-116.2255,0,-0.1,ml,9,223.22000000000003,0.096,0.2369,nn,nn00876445,2024-04-19T05:42:52.580Z,"48 km NNW of Pahrump, Nevada",earthquake,,19.4,0.25,6,reviewed,nn,nn
-2024-04-19T05:33:32.970Z,32.6425,-115.754,4.94,1.85,ml,49,53,0.02428,0.24,ci,ci40550207,2024-04-19T05:44:40.410Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.21,0.44,0.182,27,automatic,ci,ci
+2024-04-19T05:33:32.910Z,32.6435,-115.7533333,5.71,1.78,ml,42,53,0.02347,0.24,ci,ci40550207,2024-04-19T21:01:01.980Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.24,0.4,0.149,24,reviewed,ci,ci
 2024-04-19T05:32:43.863Z,36.6391,-116.2462,6.7,0.6,ml,19,176.46,0.073,0.1607,nn,nn00876442,2024-04-19T05:34:34.185Z,"52 km W of Indian Springs, Nevada",earthquake,,0.6,0.51,12,reviewed,nn,nn
 2024-04-19T05:27:56.552Z,41.7883,81.8871,10,4.6,mb,49,212,2.09,0.8,us,us7000md2v,2024-04-19T08:40:58.040Z,"87 km W of Kuqa, China",earthquake,9.61,1.953,0.091,36,reviewed,us,us
 2024-04-19T05:22:54.600Z,46.853,-121.76133333333334,0.88,0.9400000000000001,ml,30,58,0.02608,0.07,uw,uw61997946,2024-04-19T06:04:24.780Z,"23 km ENE of Ashford, Washington",earthquake,0.15,0.52,0.24268141484434036,17,reviewed,uw,uw
@@ -235,7 +235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T01:17:50.120Z,38.8008347,-122.7378311,1.05,1.05,md,12,107,0.0171,0.02,nc,nc74036956,2024-04-19T01:19:25.421Z,"3 km SSW of Cobb, CA",earthquake,0.25,1.57,0.29,12,automatic,nc,nc
 2024-04-19T01:05:52.680Z,38.3771666666667,-89.0935,19.18,2.25,md,16,65,0.5288,0.21,nm,nm60501893,2024-04-19T12:50:22.630Z,"7 km NW of Woodlawn, Illinois",earthquake,0.31,0.77,0.0342003938753672,8,reviewed,nm,nm
 2024-04-19T01:05:14.810Z,37.6903333,-121.7711667,17.76,1.25,md,20,63,0.07584,0.17,nc,nc74036946,2024-04-19T08:18:54.593Z,"1 km NNW of Livermore, CA",earthquake,0.45,0.66,0.281,14,reviewed,nc,nc
-2024-04-19T01:04:53.120Z,40.6907,-74.7647,6.313,1,ml,6,100,0.015,0.04,us,us7000md1w,2024-04-19T19:39:50.031Z,"6 km ESE of Califon, New Jersey",earthquake,1.37,2.171,0.115,10,reviewed,us,us
+2024-04-19T01:04:53.120Z,40.6907,-74.7647,6.313,1,ml,6,100,0.015,0.04,us,us7000md1w,2024-04-19T21:01:46.001Z,"6 km ESE of Califon, New Jersey",earthquake,1.37,2.171,0.115,10,reviewed,us,us
 2024-04-19T00:58:27.140Z,19.1494998931885,-155.475326538086,32.9900016784668,2.1400001,md,33,164,0.01381,0.119999997,hv,hv74177397,2024-04-19T01:00:01.340Z,"5 km S of Pāhala, Hawaii",earthquake,0.64,0.819999993,0.270000011,6,automatic,hv,hv
 2024-04-19T00:54:20.430Z,48.47683333333333,-121.85083333333333,5.56,0.96,ml,7,93,0.1001,0.09,uw,uw61997856,2024-04-19T05:28:44.330Z,"10 km SW of Concrete, Washington",earthquake,0.32,1.77,0.06854777793537459,6,reviewed,uw,uw
 2024-04-19T00:52:40.980Z,35.4918333,-118.5206667,3.1,1.54,ml,33,39,0.1748,0.16,ci,ci40549887,2024-04-19T18:16:22.280Z,"11 km SSW of Bodfish, CA",earthquake,0.19,0.67,0.191,23,reviewed,ci,ci
