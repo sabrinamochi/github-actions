@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-20T12:52:11.054Z,63.5888,-147.1919,0,1.5,ml,,,,0.94,ak,ak02453s3w5t,2024-04-20T12:54:34.914Z,"86 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-04-20T12:32:57.075Z,31.644,-104.293,5.5029,2.4,ml,17,69,0,0.2,tx,tx2024htyf,2024-04-20T13:01:30.805Z,"59 km S of Whites City, New Mexico",earthquake,0,2.66697752650675,0.1,13,automatic,tx,tx
 2024-04-20T12:31:47.936Z,64.678,-149.3519,18.4,1.2,ml,,,,0.4,ak,ak02453rzgyx,2024-04-20T12:33:58.916Z,"13 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-20T12:18:33.570Z,38.8226662,-122.8058319,1.95,0.94,md,11,97,0.003393,0.04,nc,nc74037921,2024-04-20T12:27:47.754Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.73,0.23,12,automatic,nc,nc
 2024-04-20T12:07:41.760Z,34.0971667,-117.3128333,16.49,1.83,ml,100,26,0.02618,0.17,ci,ci40552191,2024-04-20T12:18:19.970Z,"3 km N of Colton, CA",earthquake,0.11,0.25,0.186,28,automatic,ci,ci
@@ -105,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T03:05:10.695Z,63.9148,-148.3346,16.6,1.3,ml,,,,0.33,ak,ak02453mgwvl,2024-04-20T03:07:42.275Z,"31 km ENE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-20T03:01:49.756Z,37.2783,-117.5206,4.4,1.2,ml,14,225.54000000000002,0.81,0.2981,nn,nn00876512,2024-04-20T03:04:20.222Z,"53 km S of Silver Peak, Nevada",earthquake,,6.6,0.12,9,reviewed,nn,nn
 2024-04-20T02:49:19.470Z,34.0198333,-117.2346667,15.6,1.39,ml,70,23,0.0887,0.19,ci,ci40551767,2024-04-20T02:59:57.380Z,"4 km SE of Loma Linda, CA",earthquake,0.15,0.3,0.161,26,automatic,ci,ci
+2024-04-20T02:47:57.942Z,36.6252,-116.242,6,-0.4,ml,6,235.73000000000002,0.08,0.0666,nn,nn00876574,2024-04-20T13:02:44.792Z,"51 km W of Indian Springs, Nevada",earthquake,,2.8,0.11,4,reviewed,nn,nn
 2024-04-20T02:44:49.060Z,33.9258333,-116.8775,10.94,0.68,ml,28,61,0.1136,0.15,ci,ci40551751,2024-04-20T02:51:06.071Z,"0 km WNW of Banning, CA",earthquake,0.2,0.65,0.15,10,automatic,ci,ci
 2024-04-20T02:42:28.582Z,37.2008,-117.6147,10,2.3,ml,33,51,0.299,0.43,us,us7000mddn,2024-04-20T03:14:59.040Z,"60 km E of Big Pine, California",earthquake,1.85,2.01,0.053,46,reviewed,us,us
 2024-04-20T02:41:44.098Z,37.2185,-117.6237,8.5,1.3,ml,10,181.78,0.023,0.3078,nn,nn00876507,2024-04-20T02:44:19.133Z,"59 km E of Big Pine, California",earthquake,,0.5,0.32,7,reviewed,nn,nn
@@ -307,6 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T13:08:51.160Z,36.0066667,-117.9868333,2.69,1.77,ml,35,45,0.0782,0.13,ci,ci40550503,2024-04-19T18:11:51.890Z,"6 km SW of Coso Junction, CA",earthquake,0.15,0.59,0.17,26,reviewed,ci,ci
 2024-04-19T13:08:40.950Z,51.7805,-177.4895,1.48,0.57,ml,8,169,0.1592,0.25,av,av93095746,2024-04-20T01:37:15.860Z,"59 km W of Adak, Alaska",earthquake,1.3,1.81,0.194395859018988,8,reviewed,av,av
 2024-04-19T13:07:36.850Z,51.7725,-177.486833333333,-1.76,0.58,ml,9,174,0.1568,0.16,av,av93095741,2024-04-20T01:32:07.240Z,"59 km W of Adak, Alaska",earthquake,1.19,0.59,0.220649081924053,9,reviewed,av,av
-2024-04-19T13:02:18.440Z,51.752,-177.463666666667,12.76,1.5,ml,10,185,0.1423,0.24,av,av93003204,2024-04-20T01:25:46.370Z,"58 km WSW of Adak, Alaska",earthquake,1.54,2.08,0.290001565554382,10,reviewed,av,av
-2024-04-19T13:01:51.640Z,51.7773333333333,-177.482333333333,2.5,1.08,ml,9,171,0.1544,0.2,av,av93095736,2024-04-20T01:15:41.620Z,"59 km W of Adak, Alaska",earthquake,0.9,1.11,0.390729236099475,9,reviewed,av,av
-2024-04-19T13:00:46.120Z,51.7416666666667,-177.472333333333,7.28,1.37,ml,15,176,0.1487,0.2,av,av93095731,2024-04-20T01:11:55.300Z,"59 km WSW of Adak, Alaska",earthquake,0.83,0.64,0.287222442349451,15,reviewed,av,av
