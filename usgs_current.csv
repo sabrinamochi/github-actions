@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-20T22:03:10.430Z,36.291832,-119.6633301,23.1,2.49,md,8,100,0.2289,0.18,nc,nc74038256,2024-04-20T22:11:09.620Z,"3 km WSW of Home Garden, CA",earthquake,1.54,2.16,0.19,7,automatic,nc,nc
+2024-04-20T21:55:53.529Z,31.553,-104.012,5.8943,1.6,ml,13,58,0,0.2,tx,tx2024huqu,2024-04-20T22:15:11.766Z,"33 km NW of Toyah, Texas",earthquake,0,2.54657944912711,0.2,10,automatic,tx,tx
 2024-04-20T21:42:40.110Z,62.1321,-148.1443,25.5,1.5,ml,,,,0.65,ak,ak02453xepor,2024-04-20T21:44:36.812Z,"40 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-20T21:35:28.590Z,19.3579998016357,-155.875,8.0600004196167,1.97000003,md,23,160,0.09437,0.219999999,hv,hv74179727,2024-04-20T21:37:16.510Z,"10 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.620000005,0.5,4,automatic,hv,hv
 2024-04-20T21:34:37.250Z,38.8121681,-122.8069992,1.18,1.17,md,16,47,0.01005,0.02,nc,nc74038241,2024-04-20T21:36:14.061Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,19,automatic,nc,nc
@@ -25,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T19:10:33.417Z,60.4127,-152.3955,96.1,1.5,ml,,,,0.36,ak,ak02453w0z1p,2024-04-20T19:12:37.677Z,"57 km NW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-04-20T19:01:19.740Z,38.8276672,-122.8138351,1.23,0.77,md,10,90,0.00518,0.02,nc,nc74038116,2024-04-20T19:02:54.145Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.89,0.16,12,automatic,nc,nc
 2024-04-20T18:52:00.990Z,38.7869987,-122.7468338,1.92,1.28,md,19,83,0.01692,0.02,nc,nc74038101,2024-04-20T18:53:35.086Z,"1 km NE of The Geysers, CA",earthquake,0.23,0.59,0.08,18,automatic,nc,nc
+2024-04-20T18:36:47.694Z,43.308,-126.7077,16.878,3,ml,133,218,1.984,0.7,us,us7000mdig,2024-04-20T22:14:45.040Z,"188 km W of Bandon, Oregon",earthquake,7.23,8.159,0.029,158,reviewed,us,us
 2024-04-20T18:32:10.062Z,64.9166,-147.7538,1.9,1.2,ml,,,,0.35,ak,ak02453vk7e6,2024-04-20T20:06:38.757Z,"2 km WNW of Farmers Loop, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-04-20T18:26:27.230Z,35.4626667,-118.3415,2.26,1.3,ml,36,39,0.18,0.16,ci,ci40552687,2024-04-20T18:34:10.363Z,"20 km SE of Bodfish, CA",earthquake,0.16,0.78,0.148,21,automatic,ci,ci
 2024-04-20T18:19:26.650Z,37.0306664,-121.5118332,5.12,1.14,md,9,155,0.02248,0.12,nc,nc74038081,2024-04-20T18:21:03.613Z,"6 km ENE of Gilroy, CA",earthquake,1.1,1.78,0.24,10,automatic,nc,nc
@@ -71,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T14:29:16.790Z,33.632,-116.7645,15.23,1.34,ml,61,40,0.03821,0.17,ci,ci40552319,2024-04-20T14:39:53.950Z,"12 km NW of Anza, CA",earthquake,0.14,0.29,0.212,27,automatic,ci,ci
 2024-04-20T14:23:06.443Z,34.58878326,-96.8217926,2.615445852,2.27,ml,31,83.83789062,0.1720887423,0.7640240374,ok,ok2024hubv,2024-04-20T14:29:57.879Z,"4 km SSE of Roff, Oklahoma",earthquake,2.301676861,1.784326359,0.19,23,automatic,ok,ok
 2024-04-20T14:09:11.966Z,15.1927,-92.5467,111.556,4.9,mb,59,151,1.145,0.94,us,us7000mdh8,2024-04-20T14:41:56.934Z,"2 km NNE of Lázaro Cárdenas, Mexico",earthquake,4.32,6.175,0.024,543,reviewed,us,us
+2024-04-20T14:03:05.801Z,40.6982,-74.7758,5.21,1.5,ml,5,120,0.016,0.12,us,us7000mdjg,2024-04-20T22:14:21.040Z,"5 km ESE of Califon, New Jersey",earthquake,1.34,3.154,0.115,10,reviewed,us,us
 2024-04-20T14:00:38.988Z,-20.8787,-178.5619,588.555,4.3,mb,38,87,3.151,0.76,us,us7000mdh6,2024-04-20T15:02:45.040Z,"Fiji region",earthquake,14.52,9.904,0.082,42,reviewed,us,us
 2024-04-20T13:58:45.970Z,34.4181667,-116.483,6.81,1.05,ml,28,60,0.1191,0.1,ci,ci40552303,2024-04-20T14:06:45.916Z,"34 km N of Yucca Valley, CA",earthquake,0.14,0.45,0.155,19,automatic,ci,ci
 2024-04-20T13:58:34.710Z,34.583,-119.1173333,1.99,1.84,ml,46,38,0.1467,0.26,ci,ci40552295,2024-04-20T15:06:31.391Z,"19 km NE of Ojai, CA",earthquake,0.21,1.39,0.117,27,automatic,ci,ci
@@ -263,6 +266,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T23:17:09.090Z,17.8978333333333,-66.8481666666667,14.77,2.42,md,10,199,0.07659,0.09,pr,pr71446003,2024-04-19T23:32:49.400Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.48,0.0363353060533507,6,reviewed,pr,pr
 2024-04-19T23:16:59.974Z,37.2194,-117.6039,8.3,1.2,ml,15,160.34999999999997,0.036,0.1699,nn,nn00876477,2024-04-19T23:42:42.867Z,"59 km S of Silver Peak, Nevada",earthquake,,1.1,0.38,4,reviewed,nn,nn
 2024-04-19T23:13:48.503Z,64.9813,-147.4394,3.6,1.6,ml,,,,0.46,ak,ak02452aw1aa,2024-04-19T23:15:41.977Z,"8 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-04-19T23:13:23.840Z,54.1183333333333,-165.949,3.96,-0.53,ml,4,110,0.01092,0.12,av,av93003289,2024-04-20T22:20:25.140Z,"11 km W of Akutan, Alaska",earthquake,0.5,0.6,0.0913302931328406,4,reviewed,av,av
 2024-04-19T23:04:42.450Z,46.201,-122.17966666666666,6.9,0.3,ml,13,98,0.00413,0.11,uw,uw61998186,2024-04-20T03:55:36.250Z,"38 km NNE of Amboy, Washington",earthquake,0.43,0.55,0.11232534564577809,8,reviewed,uw,uw
 2024-04-19T23:01:28.300Z,51.7596666666667,-177.479333333333,3.18,0.37,ml,8,181,0.1517,0.17,av,av93096541,2024-04-20T22:03:05.780Z,"59 km WSW of Adak, Alaska",earthquake,1.18,1.59,0.248096301350975,8,reviewed,av,av
 2024-04-19T22:56:11.897Z,40.6844,-74.7729,7.155,1.3,ml,8,134,0.017,0.13,us,us7000mddx,2024-04-20T14:32:32.214Z,"6 km SE of Califon, New Jersey",earthquake,1.45,2.953,0.097,14,reviewed,us,us
