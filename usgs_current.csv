@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-22T14:22:07.190Z,19.212833404541,-155.377502441406,29.4200000762939,2.03999996,md,37,166,0.09827,0.119999997,hv,hv74181112,2024-04-22T14:23:46.140Z,"10 km E of Pāhala, Hawaii",earthquake,0.67,0.620000005,0.289999992,4,automatic,hv,hv
 2024-04-22T14:09:31.710Z,38.8349991,-122.7883301,1.84,1.26,md,22,69,0.003751,0.02,nc,nc74039196,2024-04-22T14:11:04.105Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.36,0.11,25,automatic,nc,nc
 2024-04-22T13:58:14.580Z,36.1118333,-117.9023333,5.79,1.79,ml,27,47,0.03887,0.2,ci,ci40554839,2024-04-22T14:04:52.156Z,"8 km NNE of Coso Junction, CA",earthquake,0.28,0.57,0.227,22,automatic,ci,ci
 2024-04-22T13:58:09.730Z,36.1251667,-117.8851667,1.9,0.77,ml,17,72,0.1552,0.17,ci,ci40554831,2024-04-22T14:03:59.588Z,"11 km NNE of Coso Junction, CA",earthquake,0.45,2.19,0.09,5,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T13:30:15.720Z,35.4925,-118.516,3.53,0.93,ml,23,85,0.1733,0.11,ci,ci40554815,2024-04-22T14:07:55.102Z,"11 km SSW of Bodfish, CA",earthquake,0.17,0.49,0.233,9,reviewed,ci,ci
 2024-04-22T13:29:05.590Z,38.8364983,-122.8323364,4.74,0.61,md,7,204,0.01945,0.06,nc,nc74039181,2024-04-22T13:30:39.672Z,"9 km NW of The Geysers, CA",earthquake,1.59,3.06,0.33,8,automatic,nc,nc
 2024-04-22T13:16:03.940Z,47.5671666666667,-113.181833333333,7.77,2.01,ml,26,140,0.3883,0.17,mb,mb90047503,2024-04-22T13:41:46.430Z,"40 km E of Condon, Montana",earthquake,0.43,0.99,0.219560425094291,14,reviewed,mb,mb
-2024-04-22T13:13:41.044Z,23.6687,121.5648,10,5,mww,79,74,0.369,1.36,us,us7000mdup,2024-04-22T14:18:29.460Z,"34 km S of Hualien City, Taiwan",earthquake,3.43,1.83,0.093,11,reviewed,us,us
+2024-04-22T13:13:41.044Z,23.6687,121.5648,10,5,mww,79,74,0.369,1.36,us,us7000mdup,2024-04-22T14:23:52.572Z,"34 km S of Hualien City, Taiwan",earthquake,3.43,1.83,0.093,11,reviewed,us,us
 2024-04-22T13:08:48.048Z,41.9867,82.6898,10,4.6,mb,59,54,2.717,1.06,us,us7000mdun,2024-04-22T14:04:16.040Z,"36 km NW of Kuqa, China",earthquake,8.18,1.892,0.071,59,reviewed,us,us
 2024-04-22T13:00:42.680Z,23.6869,121.5845,6.021,4.5,mwr,65,82,0.394,0.71,us,us7000mdul,2024-04-22T13:25:56.338Z,"32 km S of Hualien City, Taiwan",earthquake,2.53,4.404,0.068,21,reviewed,us,us
 2024-04-22T12:55:33.071Z,38.2133,-117.9724,3.6,1.9,ml,14,106.03000000000003,0.017,0.2926,nn,nn00876697,2024-04-22T12:58:12.921Z,"23 km SSE of Mina, Nevada",earthquake,,0.3,0.31,10,reviewed,nn,nn
@@ -45,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T10:56:50.634Z,31.516,-104.011,4.9002,1.7,ml,14,67,0,0.2,tx,tx2024hxmb,2024-04-22T11:29:56.237Z,"30 km NW of Toyah, Texas",earthquake,0,1.52673835171032,0.2,12,automatic,tx,tx
 2024-04-22T10:56:27.155Z,31.518,-104.011,4.9637,1.6,ml,12,65,0,0.2,tx,tx2024hxma,2024-04-22T11:07:39.100Z,"30 km NW of Toyah, Texas",earthquake,0,1.61540308005571,0.1,10,automatic,tx,tx
 2024-04-22T10:51:26.923Z,56.4691,-156.8765,83.5,2.2,ml,,,,0.58,ak,ak024571zjg4,2024-04-22T11:22:18.493Z,"96 km E of Chignik, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-04-22T10:50:31.016Z,23.7158,121.63,10,5.6,mb,77,74,0.444,0.88,us,us7000mdti,2024-04-22T14:18:01.950Z,"29 km S of Hualien City, Taiwan",earthquake,5.33,1.856,0.037,264,reviewed,us,us
+2024-04-22T10:50:31.016Z,23.7158,121.63,10,5.6,mb,77,74,0.444,0.88,us,us7000mdti,2024-04-22T14:23:15.462Z,"29 km S of Hualien City, Taiwan",earthquake,5.33,1.856,0.037,264,reviewed,us,us
 2024-04-22T10:46:22.449Z,23.7074,121.595,10,5.2,mb,66,75,0.974,0.8,us,us7000mdtc,2024-04-22T12:59:49.230Z,"29 km S of Hualien City, Taiwan",earthquake,5.94,1.88,0.075,59,reviewed,us,us
 2024-04-22T10:40:50.570Z,19.1668338775635,-155.523162841797,30.5,2.63000011,md,32,116,0.05882,0.170000002,hv,hv74181012,2024-04-22T10:42:42.480Z,"6 km SW of Pāhala, Hawaii",earthquake,0.5,1,0.430000007,3,automatic,hv,hv
 2024-04-22T10:35:43.830Z,33.5853333,-116.8023333,7.81,0.2,ml,20,68,0.03298,0.11,ci,ci40554639,2024-04-22T10:41:37.051Z,"12 km WNW of Anza, CA",earthquake,0.2,0.42,0.1,2,automatic,ci,ci
