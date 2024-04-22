@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-22T19:22:43.697Z,61.1356,-148.2828,2.3,1.9,ml,,,,0.83,ak,ak02457769f5,2024-04-22T19:25:06.016Z,"45 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-22T19:19:19.370Z,60.1494,-153.604,130,1.4,ml,,,,0.13,ak,ak0245775ke9,2024-04-22T19:20:38.129Z,"39 km E of Port Alsworth, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-04-22T19:18:41.579Z,60.0745,-152.7778,96.2,1.2,ml,,,,0.57,ak,ak0245775ek0,2024-04-22T19:21:04.593Z,"60 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-04-22T19:18:10.860Z,36.1161652,-117.8818359,7.39,1.39,ml,16,66,0.02189,0.13,ci,ci40555151,2024-04-22T19:20:13.266Z,"10 km NE of Coso Junction, CA",earthquake,0.36,0.86,0.426,6,automatic,ci,ci
+2024-04-22T19:18:10.870Z,36.117,-117.8863333,6.4,1.43,ml,27,48,0.02549,0.17,ci,ci40555151,2024-04-22T19:24:14.887Z,"10 km NE of Coso Junction, CA",earthquake,0.23,0.4,0.235,19,automatic,ci,ci
 2024-04-22T19:10:37.080Z,35.3988333,-118.6353333,5.86,1.66,ml,38,39,0.1321,0.16,ci,ci40555143,2024-04-22T19:21:36.220Z,"25 km SSW of Bodfish, CA",earthquake,0.18,0.94,0.249,29,automatic,ci,ci
 2024-04-22T19:06:21.770Z,33.163,-115.648,3.57,1.29,ml,27,67,0.02929,0.18,ci,ci40555127,2024-04-22T19:12:25.896Z,"13 km WNW of Calipatria, CA",earthquake,0.24,0.33,0.304,26,automatic,ci,ci
 2024-04-22T19:03:36.730Z,46.0078333333333,-112.470166666667,-2,1.54,ml,13,137,0.05878,0.08,mb,mb90047643,2024-04-22T19:15:22.210Z,"5 km E of Butte, Montana",quarry blast,0.42,31.61,0.23431308182454,8,reviewed,mb,mb
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T18:53:43.430Z,33.1623333,-115.647,3.32,1.52,ml,39,67,0.02915,0.2,ci,ci40555103,2024-04-22T19:00:22.032Z,"13 km WNW of Calipatria, CA",earthquake,0.19,0.29,0.246,29,automatic,ci,ci
 2024-04-22T18:44:13.690Z,38.8364983,-122.8081665,2.29,1.29,md,17,58,0.01317,0.01,nc,nc74039341,2024-04-22T18:45:49.887Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.61,0.22,21,automatic,nc,nc
 2024-04-22T18:43:38.916Z,-20.8039,-178.3553,557.999,4.7,mb,49,79,2.967,0.87,us,us6000mt0x,2024-04-22T18:58:56.040Z,"Fiji region",earthquake,12.06,8.74,0.038,209,reviewed,us,us
-2024-04-22T18:32:48.597Z,23.8672,121.5385,10,6,mww,121,22,0.522,0.84,us,us6000mt0s,2024-04-22T19:20:12.441Z,"13 km SSW of Hualien City, Taiwan",earthquake,3.38,1.762,0.073,18,reviewed,us,us
+2024-04-22T18:32:48.597Z,23.8672,121.5385,10,6,mww,121,22,0.522,0.84,us,us6000mt0s,2024-04-22T19:25:21.022Z,"13 km SSW of Hualien City, Taiwan",earthquake,3.38,1.762,0.073,18,reviewed,us,us
 2024-04-22T18:26:53.286Z,23.7241,121.6406,10.727,6.1,mww,98,51,0.456,0.78,us,us6000mt0r,2024-04-22T19:21:23.627Z,"28 km S of Hualien City, Taiwan",earthquake,4.95,3.852,0.059,28,reviewed,us,us
 2024-04-22T18:22:54.435Z,64.6371,-158.0903,8.4,1.8,ml,,,,0.92,ak,ak024576kun7,2024-04-22T18:24:40.683Z,"9 km S of Nulato, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-22T18:21:14.560Z,38.8354988,-122.8069992,1.89,1.13,md,26,52,0.01232,0.04,nc,nc74039331,2024-04-22T18:22:48.678Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.37,0.17,26,automatic,nc,nc
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T15:14:59.140Z,38.7986679,-122.7521667,1.22,1.78,md,28,96,0.006211,0.04,nc,nc74039211,2024-04-22T15:16:34.759Z,"2 km N of The Geysers, CA",earthquake,0.21,0.36,0.11,29,automatic,nc,nc
 2024-04-22T15:11:46.533Z,31.715,-103.989,5.3892,1.5,ml,19,60,0,0.3,tx,tx2024hxuk,2024-04-22T15:44:43.993Z,"36 km W of Mentone, Texas",earthquake,0,2.25106235431684,0.1,14,automatic,tx,tx
 2024-04-22T15:02:45.740Z,35.6198333,-117.4701667,7.6,0.66,ml,23,63,0.03389,0.15,ci,ci40554903,2024-04-22T15:15:53.211Z,"18 km SSW of Searles Valley, CA",earthquake,0.25,0.46,0.1,11,reviewed,ci,ci
-2024-04-22T14:29:57.050Z,36.0268333,-117.7825,1.27,1.12,ml,24,64,0.01407,0.18,ci,ci40554871,2024-04-22T19:17:34.772Z,"15 km NE of Little Lake, CA",earthquake,0.18,0.19,0.229,17,automatic,ci,ci
+2024-04-22T14:29:56.940Z,36.027,-117.7788333,2.04,1.09,ml,25,68,0.01115,0.15,ci,ci40554871,2024-04-22T19:29:52.659Z,"15 km NE of Little Lake, CA",earthquake,0.17,0.14,0.223,19,reviewed,ci,ci
 2024-04-22T14:25:19.265Z,59.7463,-152.6819,90.5,1.9,ml,,,,0.4,ak,ak0245747onq,2024-04-22T14:27:47.154Z,"47 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-22T14:22:07.190Z,19.212833404541,-155.377502441406,29.4200000762939,2.03999996,md,37,166,0.09827,0.119999997,hv,hv74181112,2024-04-22T14:23:46.140Z,"10 km E of Pāhala, Hawaii",earthquake,0.67,0.620000005,0.289999992,4,automatic,hv,hv
 2024-04-22T14:20:09.614Z,23.7058,121.6248,8.433,5,mb,54,83,0.433,0.81,us,us7000mdv0,2024-04-22T15:09:10.904Z,"30 km S of Hualien City, Taiwan",earthquake,2.53,4.108,0.061,85,reviewed,us,us
