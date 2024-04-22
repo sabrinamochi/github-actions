@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-22T23:27:32.930Z,35.0330009,-117.7053299,8.97,1.51,ml,20,102,0.09866,0.32,ci,ci40555375,2024-04-22T23:29:52.238Z,"6 km NW of Boron, CA",earthquake,1.06,3.18,0.212,8,automatic,ci,ci
+2024-04-22T23:23:22.710Z,33.5845,-116.8021667,8.19,0.4,ml,16,74,0.03307,0.11,ci,ci40555367,2024-04-22T23:29:21.494Z,"12 km WNW of Anza, CA",earthquake,0.24,0.56,0.091,5,automatic,ci,ci
 2024-04-22T23:20:52.540Z,38.8111649,-122.8198318,2.48,0.73,md,12,58,0.007654,0.02,nc,nc74039461,2024-04-22T23:22:29.074Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.78,0.39,15,automatic,nc,nc
 2024-04-22T23:11:04.420Z,38.8358345,-122.7884979,1.86,0.39,md,8,73,0.01162,0.01,nc,nc74039456,2024-04-22T23:12:38.924Z,"6 km WNW of Cobb, CA",earthquake,0.4,0.65,0.26,8,automatic,nc,nc
 2024-04-22T23:07:50.410Z,36.1158333,-117.8818333,7.72,1.01,ml,21,72,0.02191,0.11,ci,ci40555343,2024-04-22T23:13:50.640Z,"10 km NE of Coso Junction, CA",earthquake,0.21,0.35,0.319,13,automatic,ci,ci
@@ -194,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T09:09:30.316Z,63.5415,-149.9642,0.7,2.6,ml,,,,0.72,ak,ak0245715413,2024-04-22T09:30:57.770Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-22T09:08:39.073Z,23.7004,121.6098,8.892,5.3,mww,62,57,0.42,1.1,us,us7000mdsw,2024-04-22T11:11:12.086Z,"30 km S of Hualien City, Taiwan",earthquake,4.22,4.404,0.083,14,reviewed,us,us
 2024-04-22T08:57:09.390Z,19.4003333333333,-155.247833333333,36.61,1.85,md,41,54,0.01511,0.11,hv,hv74180957,2024-04-22T21:49:34.860Z,"4 km SSW of Volcano, Hawaii",earthquake,0.75,0.43,0.0919325659935208,21,reviewed,hv,hv
-2024-04-22T08:53:49.820Z,33.9548333,-117.731,13.18,1.03,ml,45,64,0.05893,0.21,ci,ci40554551,2024-04-22T09:00:07.329Z,"5 km SSE of Chino Hills, CA",earthquake,0.31,0.46,0.224,29,automatic,ci,ci
+2024-04-22T08:53:49.820Z,33.9548333,-117.731,13.18,1.03,ml,45,64,0.05893,0.21,ci,ci40554551,2024-04-22T23:29:44.243Z,"5 km SSE of Chino Hills, CA",earthquake,0.31,0.46,0.224,29,automatic,ci,ci
 2024-04-22T08:52:44.210Z,17.9348333333333,-66.9365,5.41,1.96,md,5,236,0.04566,0.08,pr,pr71446158,2024-04-22T09:04:12.300Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.05,0.42,0.120565617802367,4,reviewed,pr,pr
 2024-04-22T08:52:33.100Z,37.3356666666667,-89.267,12.7,2.1,md,31,89,0.1886,0.16,nm,nm60578696,2024-04-22T14:07:58.760Z,"1 km WSW of Mill Creek, Illinois",earthquake,0.28,0.79,0.0364526398503116,22,reviewed,nm,nm
 2024-04-22T08:46:36.480Z,33.4683333,-116.5741667,9.88,0.5,ml,37,46,0.03522,0.16,ci,ci40554543,2024-04-22T14:10:05.563Z,"13 km SE of Anza, CA",earthquake,0.18,0.34,0.246,8,reviewed,ci,ci
@@ -314,4 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-21T23:41:20.448Z,60.4487,-151.1317,18,1.2,ml,,,,0.41,ak,ak02455m4o5o,2024-04-21T23:43:13.601Z,"5 km SW of Soldotna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-21T23:30:32.390Z,38.8313332,-122.8144989,1.46,0.9,md,20,49,0.008647,0.01,nc,nc74038861,2024-04-21T23:32:09.546Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.47,0.29,22,automatic,nc,nc
 2024-04-21T23:30:26.580Z,38.8318329,-122.8153305,1.45,0.32,md,11,86,0.009373,0.01,nc,nc74038856,2024-04-21T23:31:58.494Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.72,0.21,13,automatic,nc,nc
-2024-04-21T23:23:54.280Z,40.0735016,-123.6991653,22.66,1.97,md,15,62,0.05547,0.11,nc,nc74038841,2024-04-22T00:26:33.968Z,"12 km ESE of Redway, CA",earthquake,0.51,0.7,0.03,9,automatic,nc,nc
