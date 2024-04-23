@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-23T12:20:51.290Z,33.8816681,-117.2408371,12.7,1.18,ml,16,124,0.03569,0.28,ci,ci40555783,2024-04-23T12:23:04.125Z,"2 km ESE of March Air Reserve Base, CA",earthquake,0.71,2.3,0.366,12,automatic,ci,ci
+2024-04-23T12:18:38.840Z,36.1163333,-117.8801667,8.03,0.82,ml,20,91,0.02053,0.13,ci,ci40555775,2024-04-23T12:24:45.487Z,"10 km NE of Coso Junction, CA",earthquake,0.22,0.42,0.301,10,automatic,ci,ci
+2024-04-23T12:00:10.016Z,-12.7533,166.3994,49.895,4.9,mb,61,54,7.137,0.67,us,us6000mt6i,2024-04-23T12:19:54.040Z,"176 km NW of Sola, Vanuatu",earthquake,8.91,6.245,0.064,76,reviewed,us,us
 2024-04-23T11:57:57.220Z,33.5113333,-116.5503333,11.05,0.62,ml,30,39,0.0464,0.14,ci,ci40555759,2024-04-23T12:03:47.194Z,"12 km ESE of Anza, CA",earthquake,0.17,0.31,0.144,13,automatic,ci,ci
 2024-04-23T11:54:50.659Z,63.0048,-149.5066,89.8,1.3,ml,,,,0.63,ak,ak02458q50ix,2024-04-23T11:56:59.746Z,"51 km SSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-23T11:42:12.020Z,34.2273333,-117.2478333,9.11,1.29,ml,58,33,0.0951,0.17,ci,ci40555743,2024-04-23T11:48:53.250Z,"4 km ESE of Crestline, CA",earthquake,0.15,0.34,0.176,28,automatic,ci,ci
@@ -28,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-23T09:03:21.351Z,65.1827,-151.5311,0,2.1,ml,,,,0.77,ak,ak02458on5jb,2024-04-23T09:05:35.940Z,"25 km E of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-23T08:57:42.123Z,28.886,-99.116,4.2498,2.1,ml,13,230,0.3,0.9,tx,tx2024hzdp,2024-04-23T09:36:59.664Z,"1 km SSW of West Pearsall, Texas",earthquake,0,2.52750930361823,0.1,10,automatic,tx,tx
 2024-04-23T08:55:30.049Z,63.2628,-151.4341,8.8,1.2,ml,,,,0.42,ak,ak02458ocvu4,2024-04-23T08:57:31.982Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-23T08:45:25.910Z,35.3153333333333,-84.4893333333333,8.35,1.99,md,14,99,0.03003,0.07,se,se60501903,2024-04-23T12:24:34.630Z,"3 km ESE of Etowah, Tennessee",earthquake,0.38,0.39,0.0596616344815821,11,reviewed,se,se
 2024-04-23T08:29:07.500Z,35.7378333,-118.031,8.35,0.84,ml,26,45,0.1446,0.11,ci,ci40555687,2024-04-23T08:35:14.231Z,"22 km WNW of Inyokern, CA",earthquake,0.14,0.54,0.089,14,automatic,ci,ci
 2024-04-23T08:24:59.090Z,33.3483333,-116.3543333,12.89,0.56,ml,30,75,0.02407,0.16,ci,ci40555679,2024-04-23T08:31:05.311Z,"10 km N of Borrego Springs, CA",earthquake,0.24,0.5,0.112,8,automatic,ci,ci
 2024-04-23T08:19:41.990Z,38.7949982,-122.7580032,-0.86,1.01,md,9,83,0.005775,0.17,nc,nc74039651,2024-04-23T08:21:16.116Z,"2 km N of The Geysers, CA",earthquake,0.41,1.21,0.13,9,automatic,nc,nc
@@ -250,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T12:32:07.550Z,19.325,-155.112666666667,3.74,1.61,md,47,136,0.04191,0.13,hv,hv74181057,2024-04-22T21:45:28.880Z,"15 km S of Fern Forest, Hawaii",earthquake,0.28,1.23,0.0790832789644824,22,reviewed,hv,hv
 2024-04-22T12:30:44.010Z,37.7173347,-122.5445023,7.66,1.61,md,10,184,0.09535,0.01,nc,nc74039166,2024-04-22T12:32:19.121Z,"4 km WSW of San Francisco Zoo, CA",earthquake,0.55,1.01,0.19,8,automatic,nc,nc
 2024-04-22T12:29:59.450Z,35.7058333,-118.0841667,8.51,1.27,ml,33,36,0.1292,0.13,ci,ci40554735,2024-04-22T14:08:30.118Z,"25 km WNW of Inyokern, CA",earthquake,0.14,0.54,0.146,20,reviewed,ci,ci
-2024-04-22T12:22:50.120Z,11.024,138.6943,10,5.5,mww,97,57,6.55,0.63,us,us7000mduf,2024-04-22T14:27:01.074Z,"178 km NNE of Colonia, Micronesia",earthquake,8.78,1.856,0.073,18,reviewed,us,us
-2024-04-22T12:17:41.565Z,40.702,-74.7563,6.568,0.7,ml,5,147,0.003,0.07,us,us6000mszc,2024-04-22T16:18:47.040Z,"6 km ESE of Califon, New Jersey",earthquake,1.63,3.805,0.115,10,reviewed,us,us
