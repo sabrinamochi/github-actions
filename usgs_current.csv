@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-24T17:23:01.860Z,38.8391685,-122.8125,2.07,0.75,md,11,104,0.01586,0.01,nc,nc74040396,2024-04-24T17:24:34.517Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.92,0.37,12,automatic,nc,nc
 2024-04-24T17:15:35.130Z,40.4915009,-124.2060013,18.54,1.82,md,14,174,0.09869,0.09,nc,nc74040391,2024-04-24T17:17:09.413Z,"8 km W of Rio Dell, CA",earthquake,0.54,0.62,0.06,9,automatic,nc,nc
 2024-04-24T17:14:52.740Z,38.8143349,-122.8198318,2.71,1.5,md,26,51,0.009117,0.02,nc,nc74040386,2024-04-24T17:16:29.456Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.41,0.19,26,automatic,nc,nc
 2024-04-24T17:01:52.520Z,33.5991667,-116.6315,13.2,0.88,ml,15,56,0.02964,0.08,ci,ci40557119,2024-04-24T17:07:47.531Z,"6 km NE of Anza, CA",earthquake,0.22,0.36,0.317,9,automatic,ci,ci
@@ -66,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T12:30:59.951Z,36.7632,-116.2529,13.3,1.8,ml,26,69.00999999999999,0.047,0.2375,nn,nn00876780,2024-04-24T12:32:53.706Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.29,18,reviewed,nn,nn
 2024-04-24T12:30:12.703Z,36.732,-116.2653,16,-0.4,ml,8,147.72999999999996,0.043,0.1584,nn,nn00876779,2024-04-24T12:32:09.918Z,"48 km ESE of Beatty, Nevada",earthquake,,2.3,1.02,4,reviewed,nn,nn
 2024-04-24T12:25:57.240Z,44.7988333333333,-111.062,8.76,2.14,ml,26,82,0.03179,0.14,uu,uu80067326,2024-04-24T13:11:59.470Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.38,0.6,0.149600202215389,6,reviewed,uu,uu
-2024-04-24T12:24:42.140Z,36.7711,-116.2526,9.8,0.8,ml,26,64.62,0.048,0.1841,nn,nn00876776,2024-04-24T12:27:13.828Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.32,17,reviewed,nn,nn
+2024-04-24T12:24:42.638Z,36.772,-116.2528,9.3,0.9,ml,24,60.94,0.037,0.1161,nn,nn00876776,2024-04-24T17:25:21.372Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.32,10,reviewed,nn,nn
 2024-04-24T12:21:30.200Z,38.8321648,-122.8174973,2.07,0.42,md,10,82,0.0105,0.01,nc,nc74040286,2024-04-24T12:23:04.820Z,"8 km NW of The Geysers, CA",earthquake,0.51,0.94,0.25,10,automatic,nc,nc
 2024-04-24T12:19:07.700Z,44.7995,-111.058666666667,8.4,1.38,ml,15,153,0.03422,0.12,uu,uu80067321,2024-04-24T13:44:18.750Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.45,0.73,0.163625659157544,4,reviewed,uu,uu
 2024-04-24T12:19:01.620Z,38.8348351,-122.8031693,1.53,0.76,md,10,107,0.01063,0.02,nc,nc74040281,2024-04-24T12:20:34.814Z,"7 km WNW of Cobb, CA",earthquake,0.37,1,0.46,11,automatic,nc,nc
@@ -234,6 +235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-23T22:27:26.797Z,31.594,-104.546,3.5709,1.7,ml,17,162,0.1,0.2,tx,tx2024iaej,2024-04-23T22:57:04.090Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.65554549870576,0.1,12,automatic,tx,tx
 2024-04-23T22:25:23.323Z,31.606,-104.543,3.1,1.6,ml,8,161,0.1,0.3,tx,tx2024iaeh,2024-04-23T22:45:03.014Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.2606470602961406,0.1,6,automatic,tx,tx
 2024-04-23T22:24:38.150Z,31.603,-104.548,4.6775,1.9,ml,8,163,0.1,0.4,tx,tx2024iaeg,2024-04-23T22:44:58.019Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.26616130926736,0.1,6,automatic,tx,tx
+2024-04-23T22:23:04.164Z,31.615,-104.516,6.7151,1.9,ml,18,78,0.1,0.2,tx,tx2024iaee,2024-04-24T17:29:59.263Z,"63 km SSW of Whites City, New Mexico",earthquake,1.3501839989293103,0.8913384315439425,0,6,reviewed,tx,tx
 2024-04-23T22:20:31.490Z,46.1975,-122.18216666666666,6.92,-0.03,ml,10,97,0.003557,0.09,uw,uw61999246,2024-04-24T01:43:18.860Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.58,0.029076267255564447,7,reviewed,uw,uw
 2024-04-23T21:56:28.860Z,38.8251648,-122.8433304,1.64,0.26,md,10,121,0.006799,0.01,nc,nc74040016,2024-04-23T21:58:01.323Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.78,0.14,11,automatic,nc,nc
 2024-04-23T21:56:23.150Z,35.7306667,-117.5443333,3.25,1.98,ml,34,127,0.118,0.15,ci,ci40556375,2024-04-24T13:39:17.400Z,"13 km WSW of Searles Valley, CA",earthquake,0.18,0.76,0.151,27,reviewed,ci,ci
