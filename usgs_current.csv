@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-02T12:50:24.113Z,64.6029,-149.4766,0.7,1.6,ml,,,,1,ak,ak0245nmjnnv,2024-05-02T12:52:14.234Z,"17 km W of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-05-02T12:47:25.020Z,38.8349991,-122.7903366,1.32,0.75,md,9,84,0.003405,0.01,nc,nc74044256,2024-05-02T12:48:59.416Z,"6 km WNW of Cobb, CA",earthquake,0.37,1.1,0.19,9,automatic,nc,nc
+2024-05-02T12:45:14.590Z,38.8354988,-122.8153305,0.89,0.76,md,11,110,0.01276,0.07,nc,nc74044251,2024-05-02T12:46:49.390Z,"8 km W of Cobb, CA",earthquake,0.37,0.53,0.49,11,automatic,nc,nc
 2024-05-02T12:42:03.250Z,38.8256683,-122.8115005,1.2,1.08,md,16,55,0.002529,0.02,nc,nc74044246,2024-05-02T12:43:39.418Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.49,0.09,15,automatic,nc,nc
 2024-05-02T12:40:54.800Z,19.3871669769287,-155.256332397461,0.280000001192093,2.49,ml,31,41,0.005019,0.280000001,hv,hv74207072,2024-05-02T12:43:32.810Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.159999996,0.3,18,automatic,hv,hv
 2024-05-02T12:39:50.092Z,58.8197,-153.3623,19.1,1.9,ml,,,,0.69,ak,ak0245nmhcsh,2024-05-02T12:41:22.868Z,"88 km NNW of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -107,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T02:57:03.840Z,38.8396683,-122.8123322,2.01,0.75,md,8,112,0.01635,0.01,nc,nc74044046,2024-05-02T02:58:38.397Z,"8 km WNW of Cobb, CA",earthquake,0.46,1.46,0.24,8,automatic,nc,nc
 2024-05-02T02:55:55.350Z,38.8241653,-122.8413315,1.45,0.4,md,9,137,0.005033,0.03,nc,nc74044041,2024-05-02T02:57:29.411Z,"9 km NW of The Geysers, CA",earthquake,0.38,0.72,0.16,10,automatic,nc,nc
 2024-05-02T02:55:24.364Z,61.7843,-150.0559,46.9,1.3,ml,,,,0.19,ak,ak0245ngme7o,2024-05-02T02:56:44.070Z,"4 km NNW of Willow, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2024-05-02T02:52:56.328Z,35.65553284,-98.10797882,2.881309748,2.15,ml,29,52.93667603,0.09306830913,0.7573866231,ok,ok2024ipdc,2024-05-02T08:00:31.105Z,"6 km N of Calumet, Oklahoma",earthquake,2.210631464,1.917156148,0.28,22,automatic,ok,ok
+2024-05-02T02:52:56.429Z,35.6465,-98.0985,7.08,1.68,ml,92,41,0.1025798703,0.34,ok,ok2024ipdc,2024-05-02T12:49:35.058Z,"5 km NNE of Calumet, Oklahoma",earthquake,,0.7,0.2,39,reviewed,ok,ok
 2024-05-02T02:34:33.893Z,60.286,-141.2876,7.8,1.2,ml,,,,0.53,ak,ak0245nghwxf,2024-05-02T02:37:42.287Z,"119 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-02T02:34:11.990Z,38.8136673,-122.8264999,1.99,1.16,md,6,105,0.005229,0.01,nc,nc74044031,2024-05-02T02:35:49.104Z,"7 km WNW of The Geysers, CA",earthquake,0.47,0.78,0.27,7,automatic,nc,nc
 2024-05-02T02:29:37.290Z,38.7885017,-122.7490005,0.86,0.84,md,8,151,0.01094,0.03,nc,nc74044026,2024-05-02T02:31:14.082Z,"1 km NNE of The Geysers, CA",earthquake,0.45,0.61,0.11,8,automatic,nc,nc
@@ -242,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T13:24:59.659Z,58.2776,-154.008,71.9,1.6,ml,,,,0.51,ak,ak0245lzg8wd,2024-05-01T13:26:53.518Z,"69 km WNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-01T13:24:07.410Z,19.4344997406006,-155.29150390625,-1.1599999666214,1.75999999,md,8,167,0.01346,0.219999999,hv,hv74203887,2024-05-01T13:25:47.280Z,"6 km W of Volcano, Hawaii",earthquake,0.29,0.460000008,0.200000003,6,automatic,hv,hv
 2024-05-01T13:09:36.310Z,39.3391685,-123.2546692,1.86,1.29,md,7,126,0.1041,0.02,nc,nc74043791,2024-05-01T13:11:11.558Z,"9 km NNW of Redwood Valley, CA",earthquake,0.42,7.17,0.23,5,automatic,nc,nc
-2024-05-01T12:49:30.457Z,61.4698,-152.1972,106.5,2.3,ml,,,,0.46,ak,ak0245lz03w7,2024-05-02T06:09:23.040Z,"70 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
