@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-02T01:52:50.570Z,33.9804993,-116.6671677,14.46,1.58,ml,57,34,0.06004,0.18,ci,ci40735616,2024-05-02T01:55:12.792Z,"11 km SW of Morongo Valley, CA",earthquake,0.21,0.5,0.239,25,automatic,ci,ci
+2024-05-02T01:52:50.470Z,33.9816667,-116.6671667,15.9,1.62,ml,70,39,0.05891,0.16,ci,ci40735616,2024-05-02T01:59:32.943Z,"11 km SW of Morongo Valley, CA",earthquake,0.13,0.34,0.187,28,automatic,ci,ci
 2024-05-02T01:42:29.964Z,63.1076,-150.893,24.1,1.4,ml,,,,1.07,ak,ak0245nfy6qc,2024-05-02T01:44:30.899Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-05-02T01:37:38.192Z,60.935,-152.1734,160.8,0.9,ml,,,,0.83,ak,ak0245nfx4yl,2024-05-02T01:40:51.390Z,"55 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-02T01:35:59.890Z,33.3093333,-116.249,5.75,0.9,ml,37,41,0.07329,0.18,ci,ci40735592,2024-05-02T01:42:01.826Z,"13 km ENE of Borrego Springs, CA",earthquake,0.18,0.41,0.079,17,automatic,ci,ci
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T01:10:17.200Z,33.8173333,-117.6386667,5.21,1,ml,22,59,0.03303,0.2,ci,ci40735568,2024-05-02T01:16:31.699Z,"9 km SW of Corona, CA",earthquake,0.26,0.43,0.196,27,automatic,ci,ci
 2024-05-02T00:59:25.340Z,33.8178333,-117.6308333,3.8,0.89,ml,24,58,0.02888,0.19,ci,ci40735552,2024-05-02T01:05:44.637Z,"8 km SW of Corona, CA",earthquake,0.3,0.47,0.12,18,automatic,ci,ci
 2024-05-02T00:53:30.410Z,19.7161,-63.6155,41,3.79,md,9,326,1.6428,0.34,pr,pr2024123000,2024-05-02T01:36:05.465Z,"176 km NNW of The Valley, Anguilla",earthquake,3.04,21.74,0.06,4,reviewed,pr,pr
-2024-05-02T00:52:58.940Z,33.8126667,-117.6338333,3.65,2.48,ml,113,19,0.02694,0.2,ci,ci40735544,2024-05-02T01:49:53.433Z,"9 km SW of Corona, CA",earthquake,0.11,0.34,0.175,26,automatic,ci,ci
+2024-05-02T00:52:58.940Z,33.8126667,-117.6338333,3.65,2.48,ml,113,19,0.02694,0.2,ci,ci40735544,2024-05-02T01:57:48.150Z,"9 km SW of Corona, CA",earthquake,0.11,0.34,0.175,26,automatic,ci,ci
 2024-05-02T00:45:54.780Z,38.8260002,-122.8126678,1.38,0.83,md,8,83,0.003297,0.01,nc,nc74043996,2024-05-02T00:47:28.691Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.94,0.3,8,automatic,nc,nc
 2024-05-02T00:36:45.110Z,19.386999130249,-155.246002197266,0.0299999993294477,2.54,ml,19,57,0.005225,0.289999992,hv,hv74205407,2024-05-02T00:41:52.276Z,"6 km SSW of Volcano, Hawaii",earthquake,0.41,0.239999995,0.42,20,automatic,hv,hv
 2024-05-02T00:36:44.310Z,19.3920001983643,-155.246673583984,1.79999995231628,2.57,ml,33,46,0.0078,0.230000004,hv,hv74205402,2024-05-02T00:39:20.240Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.230000004,0.43,19,automatic,hv,hv
@@ -263,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T02:03:36.770Z,38.7958336,-122.7633362,3.23,0.74,md,9,112,0.00556,0.01,nc,nc74043586,2024-05-01T02:05:09.309Z,"2 km NNW of The Geysers, CA",earthquake,0.54,0.81,0.03,9,automatic,nc,nc
 2024-05-01T02:03:25.498Z,37.2218,-114.9096,0,1.8,ml,5,226.82,0.217,0.1088,nn,nn00877044,2024-05-01T16:37:35.617Z,"27 km SE of Alamo, Nevada",earthquake,,0,0.34,3,reviewed,nn,nn
 2024-05-01T02:02:00.470Z,19.3783333333333,-155.241166666667,0.88,1.43,md,15,96,0.00477,0.09,hv,hv74202252,2024-05-01T22:56:46.310Z,"7 km S of Volcano, Hawaii",earthquake,0.21,0.15,0.0789584797139342,16,reviewed,hv,hv
-2024-05-01T01:59:43.841Z,64.7352,-148.9878,3.8,1.2,ml,,,,0.92,ak,ak0245lsiihc,2024-05-01T02:01:35.392Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-01T01:58:18.910Z,19.3776664733887,-155.242340087891,0.740000009536743,1.8,ml,18,68,0.004393,0.159999996,hv,hv74202237,2024-05-01T02:00:57.540Z,"7 km S of Volcano, Hawaii",earthquake,0.28,0.180000007,0.19,8,automatic,hv,hv
