@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-02T01:29:07.860Z,34.0538333,-117.2463333,14.19,2.08,ml,108,16,0.0597,0.18,ci,ci40735584,2024-05-02T01:37:25.410Z,"2 km ENE of Loma Linda, CA",earthquake,0.11,0.23,0.192,24,automatic,ci,ci
+2024-05-02T01:29:07.860Z,34.0538333,-117.2463333,14.19,2.08,ml,108,16,0.0597,0.18,ci,ci40735584,2024-05-02T01:37:46.803Z,"2 km ENE of Loma Linda, CA",earthquake,0.11,0.23,0.192,24,automatic,ci,ci
 2024-05-02T01:23:41.230Z,38.8176651,-122.8223343,2.23,0.77,md,12,71,0.01028,0.01,nc,nc74044006,2024-05-02T01:25:14.248Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.74,0.18,12,automatic,nc,nc
 2024-05-02T01:21:41.653Z,31.563,-103.941,4.8032,1.6,ml,15,67,0,0.1,tx,tx2024ipac,2024-05-02T01:31:43.987Z,"30 km NNW of Toyah, Texas",earthquake,0,1.1626679432469,0.1,13,automatic,tx,tx
 2024-05-02T01:10:17.200Z,33.8173333,-117.6386667,5.21,1,ml,22,59,0.03303,0.2,ci,ci40735568,2024-05-02T01:16:31.699Z,"9 km SW of Corona, CA",earthquake,0.26,0.43,0.196,27,automatic,ci,ci
@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T11:21:54.120Z,33.5795,-116.8088333,7.7,0.78,ml,43,35,0.03993,0.17,ci,ci40734744,2024-05-01T11:27:59.012Z,"13 km WNW of Anza, CA",earthquake,0.16,0.49,0.107,18,automatic,ci,ci
 2024-05-01T11:16:49.661Z,60.1006,-152.8545,107.4,1.3,ml,,,,1.11,ak,ak0245ly7n5h,2024-05-01T11:19:55.188Z,"64 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-05-01T11:15:08.450Z,38.8250008,-122.8541641,2.18,0.84,md,13,146,0.01506,0.03,nc,nc74043746,2024-05-01T11:16:41.458Z,"10 km WNW of The Geysers, CA",earthquake,0.33,0.87,0.24,14,automatic,nc,nc
-2024-05-01T11:01:27.381Z,40.7029,-74.6709,10.347,2.6,mb_lg,34,113,0.054,0.37,us,us6000mvg6,2024-05-02T01:25:45.948Z,"1 km SW of Peapack, New Jersey",earthquake,1.16,2.949,0.086,35,reviewed,us,us
+2024-05-01T11:01:27.381Z,40.7029,-74.6709,10.347,2.6,mb_lg,34,113,0.054,0.37,us,us6000mvg6,2024-05-02T01:38:22.145Z,"1 km SW of Peapack, New Jersey",earthquake,1.16,2.949,0.086,35,reviewed,us,us
 2024-05-01T10:51:18.260Z,38.8176651,-122.8073349,3.12,1.08,md,22,45,0.006109,0.01,nc,nc74043741,2024-05-01T10:52:51.252Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.47,0.13,23,automatic,nc,nc
 2024-05-01T10:39:42.660Z,33.6496667,-116.7475,12.61,0.64,ml,30,62,0.05752,0.15,ci,ci40734736,2024-05-01T10:45:42.505Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.41,0.242,9,automatic,ci,ci
 2024-05-01T10:39:09.730Z,33.582,-116.8056667,6.57,0.5,ml,32,43,0.0366,0.14,ci,ci40734728,2024-05-01T13:28:05.433Z,"13 km WNW of Anza, CA",earthquake,0.16,0.48,0.104,9,reviewed,ci,ci
@@ -265,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T01:50:00.600Z,19.1645,-155.480833333333,31.3,3.04,ml,52,104,0.01987,0.11,hv,hv74202227,2024-05-01T03:25:36.532Z,"4 km S of Pāhala, Hawaii",earthquake,0.42,0.51,0.14920842323497,32,reviewed,hv,hv
 2024-05-01T01:48:01.460Z,36.6225014,-121.2839966,4.11,1.93,md,22,156,0.02727,0.15,nc,nc74043581,2024-05-01T01:49:34.297Z,"16 km NW of Pinnacles, CA",earthquake,0.44,0.91,0.21,18,automatic,nc,nc
 2024-05-01T01:47:30.030Z,19.1363333333333,-155.3745,30.12,3,ml,62,184,0.08497,0.1,hv,hv74202222,2024-05-01T03:32:59.552Z,"13 km SE of Pāhala, Hawaii",earthquake,0.43,0.48,0.146599956486396,38,reviewed,hv,hv
-2024-05-01T01:37:53.660Z,39.4231,71.7478,10,4.3,mb,25,111,0.068,0.79,us,us6000mvde,2024-05-01T04:54:40.040Z,"28 km NE of Karakenja, Tajikistan",earthquake,5.71,1.832,0.154,12,reviewed,us,us
