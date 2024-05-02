@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-02T12:37:41.520Z,38.7809982,-122.7734985,5.59,0.96,md,6,139,0.01192,0.02,nc,nc74044241,2024-05-02T12:39:14.314Z,"2 km WNW of The Geysers, CA",earthquake,1.83,6.21,0.11,8,automatic,nc,nc
+2024-05-02T12:24:28.810Z,38.8269997,-122.8111649,1.29,1.08,md,16,54,0.003699,0.02,nc,nc74044236,2024-05-02T12:39:14.346Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.49,0.27,16,automatic,nc,nc
 2024-05-02T12:23:28.770Z,33.402,-116.394,3.81,0.84,ml,41,66,0.07836,0.2,ci,ci40735848,2024-05-02T12:29:45.523Z,"16 km N of Borrego Springs, CA",earthquake,0.2,0.63,0.182,14,automatic,ci,ci
 2024-05-02T12:19:13.921Z,61.9411,-149.823,27,1.8,ml,,,,0.52,ak,ak0245nmczog,2024-05-02T12:21:21.115Z,"24 km NNE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-02T12:13:57.270Z,38.8206673,-122.7908325,1.3,0.71,md,8,74,0.01084,0.02,nc,nc74044231,2024-05-02T12:15:34.110Z,"6 km NNW of The Geysers, CA",earthquake,0.46,1.2,0.13,10,automatic,nc,nc
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T08:55:56.312Z,60.8117,-151.5343,72.2,1.5,ml,,,,0.28,ak,ak0245nk72b3,2024-05-02T08:58:13.507Z,"19 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-02T08:51:01.190Z,38.8336678,-122.8184967,1.61,0.25,md,8,119,0.01219,0.04,nc,nc74044161,2024-05-02T08:52:34.247Z,"8 km NW of The Geysers, CA",earthquake,0.37,1.25,0.16,8,automatic,nc,nc
 2024-05-02T08:27:53.550Z,38.8356667,-122.8066635,1.81,0.74,md,8,112,0.01254,0.02,nc,nc74044156,2024-05-02T08:29:29.042Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.14,0.07,8,automatic,nc,nc
-2024-05-02T08:27:09.571Z,-4.8678,29.4937,10,4.8,mb,65,54,16.27,0.6,us,us6000mvnr,2024-05-02T12:30:36.881Z,"14 km W of Kigoma, Tanzania",earthquake,11.63,1.87,0.077,51,reviewed,us,us
+2024-05-02T08:27:09.571Z,-4.8678,29.4937,10,4.8,mb,65,54,16.27,0.6,us,us6000mvnr,2024-05-02T12:35:52.412Z,"14 km W of Kigoma, Tanzania",earthquake,11.63,1.87,0.077,51,reviewed,us,us
 2024-05-02T08:26:38.270Z,17.9836666666667,-66.9966666666667,10.88,2.34,md,19,156,0.04743,0.11,pr,pr71447483,2024-05-02T08:36:02.190Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.28,0.46,0.211920810138823,5,reviewed,pr,pr
 2024-05-02T08:18:52.130Z,33.6395,-116.6965,13.41,0.49,ml,23,56,0.03491,0.1,ci,ci40735816,2024-05-02T08:25:08.510Z,"10 km NNW of Anza, CA",earthquake,0.19,0.36,0.215,6,automatic,ci,ci
 2024-05-02T08:09:44.650Z,33.8195,-117.6291667,3.67,0.87,ml,26,57,0.02938,0.19,ci,ci40735808,2024-05-02T08:17:47.035Z,"8 km SW of Corona, CA",earthquake,0.25,0.46,0.25,24,automatic,ci,ci
@@ -145,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T23:45:25.963Z,-5.8008,151.037,29,5.9,mww,117,26,5.252,1.06,us,us6000mvk5,2024-05-02T01:50:00.539Z,"103 km ESE of Kimbe, Papua New Guinea",earthquake,8.26,1.81,0.051,37,reviewed,us,us
 2024-05-01T23:45:14.730Z,19.3778333333333,-155.238833333333,0.37,1.33,md,17,72,0.004562,0.1,hv,hv74205307,2024-05-02T02:23:21.590Z,"7 km S of Volcano, Hawaii",earthquake,0.22,0.15,0.120708799380728,17,reviewed,hv,hv
 2024-05-01T23:45:10.503Z,31.677,-104.425,6.2537,2.2,ml,17,66,0,0.2,tx,tx2024ioww,2024-05-02T11:56:23.855Z,"55 km S of Whites City, New Mexico",earthquake,0.7459219506972444,0.5634825984048251,0.2,14,reviewed,tx,tx
-2024-05-01T23:36:35.062Z,35.551754,-96.74394226,0.5063254237,2.55,ml,63,36.93848419,0.01639930531,0.7220259842,ok,ok2024iowp,2024-05-02T05:05:00.717Z,"8 km NW of Prague, Oklahoma",earthquake,1.438118658,1.239018242,0.22,51,automatic,ok,ok
+2024-05-01T23:36:34.439Z,35.54883333,-96.743,6,2.45,ml,94,45,0,0.19,ok,ok2024iowp,2024-05-02T12:33:12.799Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.2,44,reviewed,ok,ok
 2024-05-01T23:25:35.950Z,33.8176667,-117.6446667,4.92,1.33,ml,31,59,0.0371,0.18,ci,ci40735488,2024-05-02T01:06:12.149Z,"9 km SW of Corona, CA",earthquake,0.21,0.37,0.307,33,automatic,ci,ci
 2024-05-01T23:14:43.925Z,61.6756,-149.6857,29.3,1.4,ml,,,,0.64,ak,ak0245m5ceko,2024-05-01T23:17:10.040Z,"7 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-01T23:12:23.020Z,35.6056667,-117.4153333,6.52,1.79,ml,34,78,0.04272,0.14,ci,ci40735472,2024-05-01T23:19:49.795Z,"18 km S of Trona, CA",earthquake,0.15,0.31,0.16,25,automatic,ci,ci
@@ -170,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T21:05:18.790Z,48.43,-123.56033333333333,-0.22,0.85,ml,4,214,0.1576,0.07,uw,uw62001296,2024-05-01T23:03:04.110Z,"4 km WSW of Langford, Canada",earthquake,0.36,2.21,0.08587205830637423,4,reviewed,uw,uw
 2024-05-01T21:03:55.169Z,37.1183,-117.0432,10,1.2,ml,6,267.34000000000003,0.138,0.151,nn,nn00877092,2024-05-01T23:13:20.359Z,"34 km NW of Beatty, Nevada",earthquake,,4.3,0.44,3,reviewed,nn,nn
 2024-05-01T20:57:44.230Z,60.2416,-153.2999,134.1,2.9,ml,,,,0.37,ak,ak0245m3tbgw,2024-05-01T22:00:30.337Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2024-05-01T20:49:00.760Z,33.8111667,-117.6445,4.61,4.12,mw,210,13,0.03349,0.21,ci,ci40735352,2024-05-02T12:27:59.202Z,"10 km SW of Corona, CA",earthquake,0.1,0.28,,6,reviewed,ci,ci
+2024-05-01T20:49:00.760Z,33.8111667,-117.6445,4.61,4.12,mw,210,13,0.03349,0.21,ci,ci40735352,2024-05-02T12:33:30.002Z,"10 km SW of Corona, CA",earthquake,0.1,0.28,,6,reviewed,ci,ci
 2024-05-01T20:42:02.730Z,36.6288338,-121.2931671,5.74,1.63,md,7,152,0.02491,0.18,nc,nc74043941,2024-05-01T20:43:38.301Z,"17 km NW of Pinnacles, CA",earthquake,1.13,1.84,0.06,7,automatic,nc,nc
 2024-05-01T20:38:28.190Z,38.8291664,-122.814003,1.66,0.99,md,18,60,0.006529,0.01,nc,nc74043936,2024-05-01T20:40:03.331Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.24,19,automatic,nc,nc
 2024-05-01T20:29:51.550Z,18.7406666666667,-65.5611666666667,55.44,3.15,md,32,209,0.4131,0.23,pr,pr71447443,2024-05-01T20:50:38.360Z,"43 km NNE of Luquillo, Puerto Rico",earthquake,0.91,1.16,0.131927329892815,14,reviewed,pr,pr
@@ -240,7 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T12:49:30.457Z,61.4698,-152.1972,106.5,2.3,ml,,,,0.46,ak,ak0245lz03w7,2024-05-02T06:09:23.040Z,"70 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-01T12:45:50.910Z,17.9361666666667,-66.9671666666667,9.71,2.27,md,6,226,0.08047,0.04,pr,pr71447423,2024-05-01T13:18:23.820Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.73,0.0277702572612009,4,reviewed,pr,pr
 2024-05-01T12:40:45.777Z,40.4213,-126.1218,10,2.9,ml,78,253,1.363,0.59,us,us6000mvgf,2024-05-02T06:05:56.040Z,"158 km W of Ferndale, California",earthquake,7.4,2.017,0.043,72,reviewed,us,us
-2024-05-01T12:39:16.890Z,18.5776666666667,-66.6546666666667,17.04,2.59,md,7,220,0.3291,0.21,pr,pr71447418,2024-05-01T17:14:04.939Z,"13 km NNE of Arecibo, Puerto Rico",earthquake,0.85,0.8,0.20148708632612,6,reviewed,pr,pr
-2024-05-01T12:36:57.181Z,58.8039,-150.6435,25.5,1.8,ml,,,,0.35,ak,ak0245lyxdp2,2024-05-01T12:39:12.645Z,"91 km SE of Port Graham, Alaska",earthquake,,4.3,,,automatic,ak,ak
-2024-05-01T12:36:32.380Z,38.8434982,-122.8148346,1.87,0.8,md,18,98,0.01788,0.02,nc,nc74043781,2024-05-01T12:38:06.278Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.54,0.14,20,automatic,nc,nc
-2024-05-01T12:34:40.610Z,33.5775,-116.811,7.46,1.32,ml,62,22,0.04235,0.19,ci,ci40734792,2024-05-01T12:45:33.550Z,"13 km W of Anza, CA",earthquake,0.14,0.46,0.134,27,automatic,ci,ci
