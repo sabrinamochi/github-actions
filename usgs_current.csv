@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-03T14:04:48.080Z,19.3738327026367,-155.268325805664,0.639999985694885,1.72000003,md,7,188,0.005115,0.119999997,hv,hv74211342,2024-05-03T14:06:18.790Z,"8 km SSW of Volcano, Hawaii",earthquake,0.34,0.280000001,0.0900000036,4,automatic,hv,hv
+2024-05-03T14:00:53.391Z,31.676,-104.393,4.3736,1.5,ml,17,69,0,0.4,tx,tx2024iruq,2024-05-03T14:11:53.597Z,"55 km S of Whites City, New Mexico",earthquake,0,1.26430475580102,0.2,13,automatic,tx,tx
+2024-05-03T13:59:42.592Z,28.55,-98.579,4.8703,1.8,ml,12,83,0.2,1.2,tx,tx2024iruo,2024-05-03T14:08:37.569Z,"10 km NNW of Tilden, Texas",earthquake,0,1.68338889448924,0.1,10,automatic,tx,tx
 2024-05-03T13:57:51.435Z,61.4302,-146.6049,7.5,1.4,ml,,,,0.56,ak,ak0245papzvr,2024-05-03T14:00:20.225Z,"36 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-03T13:41:03.206Z,64.4824,-146.9117,5.8,1.4,ml,,,,0.58,ak,ak0245pamgpc,2024-05-03T13:43:26.931Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-03T13:21:08.310Z,38.7876663208008,-122.769996643066,0.980000019073486,1.29,md,18,81,0.01505,0.03,nc,nc75000396,2024-05-03T13:22:46.275Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.419999987,0.25,17,automatic,nc,nc
@@ -129,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T02:34:06.560Z,19.3825,-154.973666666667,8.25,1.73,md,8,205,0.01519,0.11,hv,hv74209462,2024-05-03T02:45:30.420Z,"11 km SSW of Leilani Estates, Hawaii",earthquake,0.84,0.96,0.145782541524746,20,reviewed,hv,hv
 2024-05-03T02:24:06.940Z,19.3861666666667,-155.251833333333,0.73,0.74,ml,17,64,0.000819,0.1,hv,hv74209437,2024-05-03T02:39:01.000Z,"6 km SSW of Volcano, Hawaii",earthquake,0.15,0.18,0.0690592690705393,2,reviewed,hv,hv
 2024-05-03T02:21:42.840Z,19.373,-155.221333333333,2.23,1.27,ml,19,98,0.005562,0.1,hv,hv74209427,2024-05-03T02:55:53.460Z,"7 km S of Volcano, Hawaii",earthquake,0.35,0.27,0.176288283195129,3,reviewed,hv,hv
+2024-05-03T02:19:01.030Z,44.7715,-111.114166666667,8.39,0.76,ml,15,72,0.02527,0.15,uu,uu80068181,2024-05-03T14:11:00.860Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.45,0.99,0.325621983878169,2,reviewed,uu,uu
 2024-05-03T02:16:04.640Z,19.3906666666667,-155.245,1.73,2.54,ml,30,61,0.007861,0.08,hv,hv74209407,2024-05-03T02:31:29.017Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.18,0.217394432961946,22,reviewed,hv,hv
 2024-05-03T02:14:15.150Z,19.3853333333333,-155.247166666667,1.42,1.51,ml,19,60,0.003915,0.09,hv,hv74209402,2024-05-03T02:56:03.640Z,"6 km SSW of Volcano, Hawaii",earthquake,0.16,0.16,0.14675400695021,11,reviewed,hv,hv
 2024-05-03T02:14:10.470Z,19.3843326568604,-155.258163452148,2.51999998092651,2.04,ml,8,98,0.006575,0.25999999,hv,hv74209397,2024-05-03T02:16:49.040Z,"6 km SSW of Volcano, Hawaii",earthquake,0.83,0.870000005,0.2,14,automatic,hv,hv
@@ -263,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T14:29:33.940Z,33.5878333,-116.8035,7.37,0.24,ml,17,54,0.0334,0.11,ci,ci40735944,2024-05-02T20:03:22.526Z,"13 km WNW of Anza, CA",earthquake,0.22,0.49,0.044,2,reviewed,ci,ci
 2024-05-02T14:19:28.350Z,35.5051667,-118.3901667,7.79,1.03,ml,26,66,0.1715,0.13,ci,ci40735928,2024-05-02T20:03:34.282Z,"13 km SE of Bodfish, CA",earthquake,0.17,0.85,0.072,9,reviewed,ci,ci
 2024-05-02T14:14:33.400Z,36.9199982,-121.6513367,5.9,1.41,md,14,85,0.01377,0.08,nc,nc74044301,2024-05-02T14:16:10.239Z,"4 km NNW of Aromas, CA",earthquake,0.34,0.56,0.17,12,automatic,nc,nc
-2024-05-02T14:12:35.675Z,64.6219,-149.4498,16.3,2,ml,,,,0.65,ak,ak0245nniejz,2024-05-02T14:28:43.148Z,"15 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
