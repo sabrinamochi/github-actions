@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-08T13:07:44.915Z,61.2049,-149.7828,32.8,1.6,ml,,,,0.94,ak,ak0245xk401n,2024-05-08T13:09:53.286Z,"6 km ESE of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-05-08T13:05:12.020Z,19.2656669616699,-155.399169921875,30.7299995422363,2,ml,49,124,0.06857,0.170000002,hv,hv74221362,2024-05-08T13:07:51.550Z,"10 km NE of Pāhala, Hawaii",earthquake,0.39,0.610000014,0.19,6,automatic,hv,hv
 2024-05-08T12:43:07.300Z,38.8368339538574,-122.802665710449,2.09999990463257,1.04,md,22,61,0.009751,0.03,nc,nc75003336,2024-05-08T12:44:43.566Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.550000012,0.09,22,automatic,nc,nc
 2024-05-08T12:42:52.680Z,19.3950004577637,-155.253005981445,1.75999999046326,1.88,md,16,49,0.009576,0.200000003,hv,hv74221317,2024-05-08T12:44:25.800Z,"5 km SSW of Volcano, Hawaii",earthquake,0.22,0.340000004,0.280000001,14,automatic,hv,hv
 2024-05-08T12:41:20.510Z,32.9495,-115.9263333,10.33,1.15,ml,35,37,0.07215,0.17,ci,ci40742848,2024-05-08T12:47:33.006Z,"25 km NNE of Ocotillo, CA",earthquake,0.19,0.41,0.071,17,automatic,ci,ci
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-08T11:22:00.980Z,19.2656669616699,-155.498504638672,15.3699998855591,2.81,ml,12,279,0.2293,0.189999998,hv,hv74221127,2024-05-08T11:24:39.240Z,"7 km NNW of Pāhala, Hawaii",earthquake,12.26,16.4200001,0.4,12,automatic,hv,hv
 2024-05-08T11:11:15.181Z,62.1935,-150.7259,52.8,1.7,ml,,,,0.52,ak,ak0245xixxem,2024-05-08T11:13:29.602Z,"29 km WSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-08T11:10:17.973Z,39.7672,-98.1007,5,2.5,mb_lg,21,90,1.333,0.34,us,us6000mx7b,2024-05-08T11:29:50.040Z,"9 km W of Formoso, Kansas",earthquake,3.15,1.993,0.07,53,reviewed,us,us
-2024-05-08T11:06:19.891Z,-15.2602,168.1213,10,5.4,mb,52,65,6.404,0.87,us,us6000mx7c,2024-05-08T11:29:55.629Z,"106 km ENE of Luganville, Vanuatu",earthquake,8.13,1.815,0.075,60,reviewed,us,us
+2024-05-08T11:06:19.891Z,-15.2602,168.1213,10,5.4,mb,52,65,6.404,0.87,us,us6000mx7c,2024-05-08T13:11:07.743Z,"106 km ENE of Luganville, Vanuatu",earthquake,8.13,1.815,0.075,60,reviewed,us,us
 2024-05-08T11:04:53.444Z,-15.1012,168.086,10,4.8,mb,26,98,6.516,0.62,us,us6000mx7f,2024-05-08T11:27:34.040Z,"109 km E of Port-Olry, Vanuatu",earthquake,8.92,1.882,0.124,20,reviewed,us,us
 2024-05-08T10:59:14.690Z,35.3993333,-118.2206667,7.79,1.13,ml,27,56,0.1519,0.15,ci,ci40742824,2024-05-08T11:05:22.189Z,"32 km SE of Bodfish, CA",earthquake,0.2,0.78,0.206,13,automatic,ci,ci
 2024-05-08T10:48:15.310Z,33.1473333,-115.9508333,5.83,0.88,ml,31,60,0.0345,0.18,ci,ci40742816,2024-05-08T10:54:14.393Z,"17 km S of Salton City, CA",earthquake,0.19,0.38,0.177,13,automatic,ci,ci
@@ -277,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T13:41:58.170Z,37.4313333333333,-121.775333333333,7.6,1,md,22,70,0.02752,0.08,nc,nc75002781,2024-05-07T17:47:31.662Z,"9 km NE of Alum Rock, CA",earthquake,0.21,0.41,0.308,18,reviewed,nc,nc
 2024-05-07T13:36:53.898Z,62.8167,-151.1037,26.9,1.2,ml,,,,0.96,ak,ak0245vwqw0d,2024-05-07T13:39:20.697Z,"39 km NNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-07T13:17:46.140Z,38.7856674194336,-122.772331237793,0.430000007152557,1.76,md,29,83,0.01431,0.03,nc,nc75002776,2024-05-07T13:19:20.843Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,32,automatic,nc,nc
-2024-05-07T13:12:56.228Z,5.7316,124.676,49.272,5.1,mb,87,76,1.604,0.82,us,us6000mwy9,2024-05-07T22:35:40.830Z,"23 km SSW of Maan, Philippines",earthquake,6.68,5.82,0.045,157,reviewed,us,us
-2024-05-07T13:10:58.320Z,38.8491668701172,-122.814498901367,1.29999995231628,0.22,md,8,72,0.008823,0.01,nc,nc75002771,2024-05-07T13:12:37.078Z,"8 km WNW of Cobb, CA",earthquake,0.44,0.970000029,0.07,9,automatic,nc,nc
