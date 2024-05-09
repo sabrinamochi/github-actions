@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-09T19:15:53.410Z,38.7881660461426,-122.761665344238,3.07999992370605,1.08,md,21,77,0.01253,0.03,nc,nc75003886,2024-05-09T19:17:28.161Z,"1 km  of The Geysers, CA",earthquake,0.28,0.540000021,0.24,20,automatic,nc,nc
+2024-05-09T19:13:45.857Z,65.0245,-147.0401,0.2,1,ml,,,,0.76,ak,ak0245zb98jd,2024-05-09T19:15:46.244Z,"16 km N of Two Rivers, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-05-09T19:03:16.300Z,37.333667755127,-121.717834472656,4.67999982833862,1.12,md,9,111,0.06051,0.03,nc,nc75003876,2024-05-09T19:04:52.716Z,"10 km ESE of Alum Rock, CA",earthquake,0.81,2.00999999,0.21,7,automatic,nc,nc
 2024-05-09T18:43:20.602Z,-31.4746,-179.2664,136.263,4.6,mb,16,120,2.493,0.79,us,us6000mxjb,2024-05-09T19:07:05.040Z,"Kermadec Islands region",earthquake,9.6,10.154,0.164,11,reviewed,us,us
 2024-05-09T18:39:44.640Z,38.7934989929199,-122.78116607666,3.66000008583069,1.5,md,28,78,0.005286,0.03,nc,nc75003871,2024-05-09T18:43:02.940Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.479999989,0.13,27,automatic,nc,nc
@@ -34,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-09T14:26:00.430Z,63.4609,-151.3941,3.3,1.4,ml,,,,0.57,ak,ak0245z8crbf,2024-05-09T14:27:52.605Z,"18 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-09T14:25:33.460Z,37.0779991149902,-121.864501953125,6.75,2.04,md,17,65,0.02549,0.07,nc,nc75003811,2024-05-09T14:27:07.991Z,"5 km N of Day Valley, CA",earthquake,0.3,0.649999976,0.15,19,automatic,nc,nc
 2024-05-09T14:25:26.630Z,38.8084983825684,-122.792503356934,2.92000007629395,1.82,md,28,37,0.002251,0.02,nc,nc75003806,2024-05-09T14:27:04.147Z,"5 km NNW of The Geysers, CA",earthquake,0.21,0.400000006,0.13,29,automatic,nc,nc
-2024-05-09T14:24:19.340Z,37.0738334655762,-121.860336303711,6.25,2.25,md,19,92,0.03067,0.1,nc,nc75003801,2024-05-09T14:25:58.440Z,"4 km NNE of Day Valley, CA",earthquake,0.32,0.639999986,0.14,23,automatic,nc,nc
+2024-05-09T14:24:19.330Z,37.0753333333333,-121.8615,6.31,2.11,md,50,31,0.02892,0.1,nc,nc75003801,2024-05-09T19:14:59.190Z,"4 km NNE of Day Valley, CA",earthquake,0.12,0.29,0.217,57,reviewed,nc,nc
 2024-05-09T14:17:34.379Z,61.1839,-150.6059,12,1.6,ml,,,,0.83,ak,ak0245z8awhp,2024-05-09T14:19:37.325Z,"26 km E of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-09T14:12:46.604Z,63.5151,-147.4253,0,1.2,ml,,,,0.93,ak,ak0245z89uus,2024-05-09T14:14:37.920Z,"77 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-09T14:07:17.910Z,38.8423347473145,-122.838996887207,1.69000005722046,0.61,md,7,180,0.01734,0.01,nc,nc75003791,2024-05-09T14:08:52.928Z,"10 km NNW of The Geysers, CA",earthquake,1.05,1.60000002,0.22,10,automatic,nc,nc
@@ -250,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-08T19:29:45.880Z,33.5865,-116.8033333,6.74,0.5,ml,17,75,0.03352,0.12,ci,ci40743200,2024-05-08T21:29:31.297Z,"12 km WNW of Anza, CA",earthquake,0.22,0.42,0.14,11,reviewed,ci,ci
 2024-05-08T19:28:04.740Z,35.0485,-118.324,-0.93,1.36,ml,37,35,0.05954,0.21,ci,ci40743192,2024-05-08T21:22:22.260Z,"14 km W of Mojave, CA",quarry blast,0.26,31.61,0.124,10,reviewed,ci,ci
 2024-05-08T19:25:49.160Z,19.3916666666667,-155.249166666667,1.44,1.45,ml,22,54,0.00645,0.08,hv,hv74222067,2024-05-09T18:35:50.560Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.19,0.116048887279965,11,reviewed,hv,hv
-2024-05-08T19:19:31.570Z,59.3553333333333,-153.4395,0.31,-0.38,ml,7,122,0.007761,0.21,av,av93120491,2024-05-09T07:54:36.400Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.44,0.8,0.182511864528068,7,reviewed,av,av
