@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-14T01:12:15.110Z,38.7968330383301,-122.777336120605,3.11999988555908,0.77,md,14,79,0.009038,0.02,nc,nc75006316,2024-05-14T01:13:52.780Z,"3 km NNW of The Geysers, CA",earthquake,0.35,0.600000024,0.14,17,automatic,nc,nc
 2024-05-14T01:03:36.920Z,38.8183326721191,-122.764999389648,1.74000000953674,1.03,md,13,110,0.01271,0.03,nc,nc75006311,2024-05-14T01:05:11.982Z,"4 km W of Cobb, CA",earthquake,0.31,0.550000012,0.25,15,automatic,nc,nc
 2024-05-14T00:32:27.690Z,38.8321647644043,-122.819664001465,1.96000003814697,0.77,md,13,55,0.01152,0.01,nc,nc75006301,2024-05-14T00:34:02.448Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.899999976,0.16,15,automatic,nc,nc
 2024-05-14T00:21:17.880Z,38.8141670227051,-122.825836181641,2.11999988555908,1.08,md,11,91,0.0059,0.02,nc,nc75006296,2024-05-14T00:22:51.774Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.74000001,0.19,11,automatic,nc,nc
@@ -212,6 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T04:58:22.810Z,38.8376655578613,-122.829330444336,2.26999998092651,0.58,md,8,93,0.004896,0.02,nc,nc75005866,2024-05-13T04:59:57.659Z,"9 km NNW of The Geysers, CA",earthquake,1.06,2.55999994,0.4,9,automatic,nc,nc
 2024-05-13T04:50:46.424Z,61.9053,-151.765,88,1.8,ml,,,,0.46,ak,ak02465op1z6,2024-05-13T04:59:01.739Z,"21 km WSW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-05-13T04:48:01.770Z,33.6646667,-116.7145,15.24,0.64,ml,30,53,0.03421,0.11,ci,ci40747584,2024-05-13T12:50:14.686Z,"8 km S of Idyllwild, CA",earthquake,0.16,0.29,0.22,9,reviewed,ci,ci
+2024-05-13T04:36:19.305Z,55.6735,-149.2273,10,3.3,ml,26,234,2.809,0.62,us,us6000my7p,2024-05-14T01:13:32.040Z,"285 km SE of Chiniak, Alaska",earthquake,6.4,2.014,0.071,26,reviewed,us,us
 2024-05-13T04:17:43.880Z,40.4113349914551,-121.16967010498,-1.16999995708466,2.38,md,15,178,0.1943,0.1,nc,nc75005856,2024-05-13T04:19:22.250Z,"13 km NE of Chester, CA",earthquake,0.54,8.85999966,0.12,10,automatic,nc,nc
 2024-05-13T04:15:15.270Z,33.9965,-116.7995,13.31,0.76,ml,30,81,0.03916,0.14,ci,ci40747560,2024-05-13T04:21:35.448Z,"9 km N of Cabazon, CA",earthquake,0.18,0.39,0.116,13,automatic,ci,ci
 2024-05-13T04:14:45.850Z,38.8115005493164,-122.820831298828,2.90000009536743,1.07,md,20,58,0.007031,0.02,nc,nc75005851,2024-05-13T04:16:22.188Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.589999974,0.3,20,automatic,nc,nc
@@ -251,6 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T01:29:01.460Z,32.4326667,-115.2241667,8.89,1.97,ml,19,55,0.06961,0.32,ci,ci40747432,2024-05-13T01:35:28.358Z,"9 km NNW of Delta, B.C., MX",earthquake,0.57,1.08,0.211,29,automatic,ci,ci
 2024-05-13T01:28:46.236Z,1.2531,-30.5371,10,4.9,mb,32,115,8.841,0.84,us,us6000my77,2024-05-13T01:49:49.040Z,"central Mid-Atlantic Ridge",earthquake,11.03,1.878,0.079,50,reviewed,us,us
 2024-05-13T01:18:56.265Z,62.5749,-150.0523,0.7,1.7,ml,,,,0.72,ak,ak02465mpwzr,2024-05-13T01:20:25.676Z,"14 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-13T01:15:45.580Z,33.9883333,-116.8198333,17.3,1.05,ml,38,56,0.04776,0.13,ci,ci40747424,2024-05-13T12:52:04.296Z,"8 km NNW of Cabazon, CA",earthquake,0.15,0.39,0.13,27,reviewed,ci,ci
-2024-05-13T01:12:47.272Z,61.6689,-148.0241,2.3,1.9,ml,,,,0.81,ak,ak02465mom0n,2024-05-13T01:15:09.367Z,"24 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-13T01:12:09.310Z,60.919,-149.6593,27.6,2.2,ml,,,,1.32,ak,ak02465moj2b,2024-05-13T01:20:31.852Z,"1 km W of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
