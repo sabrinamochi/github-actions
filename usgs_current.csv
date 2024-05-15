@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-15T05:37:25.860Z,17.9478333333333,-66.8348333333333,16.51,2.41,md,12,196,0.05021,0.08,pr,pr71448828,2024-05-15T05:49:13.970Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.71,0.42,0.130997752426666,7,reviewed,pr,pr
 2024-05-15T05:27:47.250Z,38.8296661376953,-122.81566619873,1.54999995231628,0.71,md,15,46,0.007635,0.04,nc,nc75006981,2024-05-15T05:29:26.496Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.50999999,0.2,15,automatic,nc,nc
 2024-05-15T05:21:50.610Z,35.5963333,-117.876,9.9,0.61,ml,18,61,0.1401,0.13,ci,ci40585551,2024-05-15T05:28:35.617Z,"8 km SW of Inyokern, CA",earthquake,0.2,0.81,0.212,6,automatic,ci,ci
 2024-05-15T05:20:10.103Z,62.5554,-151.1765,79.1,1.4,ml,,,,0.33,ak,ak0246906oaa,2024-05-15T05:29:25.114Z,"22 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -109,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T18:02:59.710Z,37.6352,-114.2243,11.9,0.7,ml,5,126.79999999999998,0.339,0.0895,nn,nn00877624,2024-05-15T02:05:18.714Z,"20 km ESE of Beaverdam, Nevada",earthquake,,2.6,0.47,5,reviewed,nn,nn
 2024-05-14T18:02:47.030Z,38.781665802002,-122.723503112793,1.76999998092651,1.28,md,6,113,0.01045,0.01,nc,nc75006721,2024-05-14T18:04:20.841Z,"3 km WNW of Anderson Springs, CA",earthquake,1.79,4.63000011,0.18,9,automatic,nc,nc
 2024-05-14T18:01:39.460Z,19.3405,-155.2975,31.68,1.71,md,32,87,0.005896,0.11,hv,hv74230862,2024-05-14T23:52:50.440Z,"13 km SSW of Volcano, Hawaii",earthquake,0.71,0.53,0.0643246820190484,11,reviewed,hv,hv
+2024-05-14T17:57:08.890Z,53.8751666666667,-166.905166666667,4.36,0.42,ml,8,166,0.07038,0.14,av,av93126516,2024-05-15T05:47:12.030Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.4,1.24,0.270684404745647,8,reviewed,av,av
 2024-05-14T17:55:59.220Z,57.8847,-156.3242,123,1.4,ml,,,,0.48,ak,ak02467k04wi,2024-05-14T17:58:05.890Z,"72 km ESE of Egegik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-14T17:53:20.375Z,31.668,-104.202,6.4587,1.6,ml,17,65,0.1,0.1,tx,tx2024jmew,2024-05-14T20:44:06.274Z,"55 km NW of Toyah, Texas",earthquake,0.7720581712338972,0.7729667715498082,0.2,13,reviewed,tx,tx
 2024-05-14T17:50:00.810Z,33.7085,-116.7506667,16.25,0.26,ml,12,182,0.03054,0.09,ci,ci40582207,2024-05-14T18:40:29.867Z,"5 km SW of Idyllwild, CA",earthquake,0.3,0.37,0.035,4,reviewed,ci,ci
@@ -252,7 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T06:20:23.432Z,60.3018,-147.5592,20.7,2.2,ml,,,,0.52,ak,ak02467d8sfb,2024-05-14T06:22:48.224Z,"36 km NE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-14T06:09:47.110Z,32.9283333,-115.5268333,6.98,1.86,ml,38,38,0.03911,0.32,ci,ci40749392,2024-05-14T06:20:09.700Z,"6 km S of Brawley, CA",earthquake,0.32,0.75,0.212,26,automatic,ci,ci
 2024-05-14T05:53:10.729Z,62.3656,-149.0608,18.8,1.2,ml,,,,0.24,ak,ak02467cuegw,2024-05-14T05:55:14.357Z,"46 km ENE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-05-14T05:49:44.163Z,62.3357,-149.1564,5.9,3.1,ml,,,,0.97,ak,ak02467ctm28,2024-05-14T05:51:58.836Z,"40 km ENE of Susitna North, Alaska",earthquake,,1437.1,,,automatic,ak,ak
-2024-05-14T05:49:11.851Z,62.3586,-149.1356,0,2.8,ml,,,,0.65,ak,ak02467ctjov,2024-05-14T05:51:18.692Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-14T05:42:46.180Z,19.2801666666667,-155.366,30.3,1.65,md,20,127,,0.1,hv,hv74230377,2024-05-14T20:51:28.870Z,"14 km NE of Pāhala, Hawaii",earthquake,0.57,0.72,0.0839147711520685,11,reviewed,hv,hv
-2024-05-14T05:42:27.390Z,33.595,-116.8181667,-1.22,-0.01,ml,9,83,0.04515,0.21,ci,ci40749368,2024-05-14T05:48:38.641Z,"14 km WNW of Anza, CA",earthquake,0.52,17.62,0.034,2,automatic,ci,ci
