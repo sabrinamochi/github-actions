@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-15T18:03:37.890Z,33.2261658,-117.1776657,-0.33,1.22,ml,23,130,0.06388,0.21,ci,ci40586279,2024-05-15T18:05:40.332Z,"7 km ENE of Vista, CA",earthquake,0.5,0.92,0.156,6,automatic,ci,ci
 2024-05-15T17:41:29.890Z,38.8238334655762,-122.810165405273,1.33000004291534,0.76,md,10,117,0.0004436,0.03,nc,nc75007136,2024-05-15T17:43:08.425Z,"7 km NNW of The Geysers, CA",earthquake,0.37,0.779999971,0.18,10,automatic,nc,nc
 2024-05-15T17:38:02.225Z,64.9136,-148.9503,9.5,0.7,ml,,,,0.56,ak,ak024697fptq,2024-05-15T17:39:48.241Z,"32 km SE of Minto, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-05-15T17:37:25.430Z,38.8240013122559,-122.80916595459,0.219999998807907,0.8,md,13,73,0.01933,0.05,nc,nc75007131,2024-05-15T17:39:02.728Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.879999995,0.12,14,automatic,nc,nc
@@ -103,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T06:54:47.430Z,37.3925018310547,-118.678169250488,11.8100004196167,1.6,md,17,89,0.09961,0.04,nc,nc75007001,2024-05-15T06:56:24.803Z,"8 km W of Round Valley, CA",earthquake,0.37,1.42999995,0.18,11,automatic,nc,nc
 2024-05-15T06:51:16.833Z,36.6422,-115.7879,6,0.4,ml,7,337.64,0.141,0.047,nn,nn00877668,2024-05-15T13:46:42.950Z,"13 km NW of Indian Springs, Nevada",earthquake,,8.5,0,1,reviewed,nn,nn
 2024-05-15T06:46:01.015Z,-18.0276,-174.1443,138.285,5.3,mb,44,71,4.134,1.21,us,us6000mypk,2024-05-15T17:43:58.510Z,"71 km NNW of Neiafu, Tonga",earthquake,7.69,6.987,0.074,62,reviewed,us,us
-2024-05-15T06:39:03.840Z,40.8283333333333,-123.901833333333,25.58,4.02,mw,47,34,0.09753,0.15,nc,nc75006996,2024-05-15T17:59:47.087Z,"9 km SE of Blue Lake, CA",earthquake,0.29,0.56,,10,reviewed,nc,nc
+2024-05-15T06:39:03.840Z,40.8283333333333,-123.901833333333,25.58,4.02,mw,47,34,0.09753,0.15,nc,nc75006996,2024-05-15T18:10:01.372Z,"9 km SE of Blue Lake, CA",earthquake,0.29,0.56,,10,reviewed,nc,nc
 2024-05-15T06:31:33.012Z,38.7337,-119.5368,7.2,1.4,ml,12,79.78000000000003,0.076,0.1525,nn,nn00877661,2024-05-15T16:23:32.706Z,"3 km W of Topaz Ranch Estates, Nevada",earthquake,,2.6,0.15,5,reviewed,nn,nn
 2024-05-15T06:30:35.100Z,19.3346666666667,-67.475,21.35,3.26,md,19,260,0.9288,0.28,pr,pr71448848,2024-05-15T09:05:24.040Z,"101 km NNW of San Antonio, Puerto Rico",earthquake,1.09,20.82,0.0770916428106427,12,reviewed,pr,pr
 2024-05-15T06:26:43.550Z,37.3367,-117.0121,7.2,1.2,ml,23,123.30000000000001,0.201,0.1714,nn,nn00877658,2024-05-15T16:08:10.210Z,"45 km SSE of Goldfield, Nevada",earthquake,,3.8,0.29,10,reviewed,nn,nn
@@ -163,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T01:41:04.194Z,-28.1228,-177.3058,66.513,5.1,mb,75,67,1.245,0.95,us,us6000myn1,2024-05-15T02:10:53.040Z,"Kermadec Islands region",earthquake,10.82,3.385,0.036,245,reviewed,us,us
 2024-05-15T01:18:24.033Z,-14.9711,-173.0396,10,4.5,mb,18,179,1.612,0.61,us,us6000myn0,2024-05-15T01:41:22.040Z,"135 km NE of Hihifo, Tonga",earthquake,7.65,1.795,0.108,25,reviewed,us,us
 2024-05-15T01:16:05.940Z,32.427,-115.2278333,9.49,2.12,ml,18,82,0.06569,0.34,ci,ci40585079,2024-05-15T01:25:30.263Z,"9 km NNW of Delta, B.C., MX",earthquake,0.58,0.96,0.241,28,automatic,ci,ci
+2024-05-15T00:59:42.597Z,36.9257,-116.1318,3.3,-0.2,ml,9,143.74,0.042,0.1302,nn,nn00877684,2024-05-15T18:07:46.094Z,"55 km E of Beatty, Nevada",earthquake,,2.7,0.09,3,reviewed,nn,nn
 2024-05-15T00:59:26.945Z,39.2388,-119.6671,0,1.6,ml,10,73.75999999999999,0.129,0.1435,nn,nn00877647,2024-05-15T15:03:25.355Z,"6 km W of Dayton, Nevada",explosion,,8.3,0.18,8,automatic,nn,nn
 2024-05-15T00:42:36.770Z,19.3265,-67.4768333333333,24.33,3.39,md,20,233,0.9219,0.38,pr,pr71448808,2024-05-15T02:29:19.374Z,"100 km NNW of San Antonio, Puerto Rico",earthquake,1.38,26.38,0.101278381997006,15,reviewed,pr,pr
 2024-05-15T00:41:45.953Z,36.9206,-116.1244,5.2,1.5,ml,34,32.549999999999955,0.039,0.1668,nn,nn00877645,2024-05-15T02:23:42.927Z,"56 km NW of Indian Springs, Nevada",earthquake,,1,0.18,21,reviewed,nn,nn
@@ -227,7 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T18:37:19.429Z,34.37583333,-96.81083333,0,1.11,ml,15,145,0.2303547965,0.39,ok,ok2024jmgh,2024-05-15T16:40:12.738Z,"3 km SSE of Mill Creek, Oklahoma",quarry blast,,0.8,0.2,8,reviewed,ok,ok
 2024-05-14T18:36:01.800Z,35.79966667,-94.737,0,1.67,ml,42,89,0.4364143606,0.43,ok,ok2024jmgf,2024-05-14T20:20:52.630Z,"2 km ESE of Rocky Mountain, Oklahoma",quarry blast,,0.6,0.21,11,reviewed,ok,ok
 2024-05-14T18:27:10.590Z,59.3578333333333,-153.424,1.96,-0.11,ml,5,164,0.01163,0.22,av,av93126536,2024-05-15T02:35:53.140Z,"61 km SE of Pedro Bay, Alaska",earthquake,1.24,1.59,0.35267015051945,5,reviewed,av,av
-2024-05-14T18:07:22.480Z,38.8253326416016,-122.804000854492,2.48000001907349,1.08,md,26,37,0.005123,0.01,nc,nc75006726,2024-05-14T18:09:01.034Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.419999987,0.13,25,automatic,nc,nc
-2024-05-14T18:07:01.679Z,37.1569,-117.3756,4.9,1.6,ml,24,152.42999999999998,0.17,0.1881,nn,nn00877612,2024-05-15T02:04:57.313Z,"61 km WNW of Beatty, Nevada",earthquake,,1.8,0.26,11,reviewed,nn,nn
-2024-05-14T18:02:59.710Z,37.6352,-114.2243,11.9,0.7,ml,5,126.79999999999998,0.339,0.0895,nn,nn00877624,2024-05-15T02:05:18.714Z,"20 km ESE of Beaverdam, Nevada",earthquake,,2.6,0.47,5,reviewed,nn,nn
-2024-05-14T18:02:47.030Z,38.781665802002,-122.723503112793,1.76999998092651,1.28,md,6,113,0.01045,0.01,nc,nc75006721,2024-05-14T18:04:20.841Z,"3 km WNW of Anderson Springs, CA",earthquake,1.79,4.63000011,0.18,9,automatic,nc,nc
