@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-19T12:26:18.540Z,32.911499,-115.5408325,5.69,1.39,ml,11,95,0.01948,0.13,ci,ci40592215,2024-05-19T12:28:31.382Z,"8 km S of Brawley, CA",earthquake,0.46,0.62,0.243,6,automatic,ci,ci
 2024-05-19T12:19:22.778Z,62.2756,-151.0007,73.9,1.4,ml,,,,0.18,ak,ak0246fqhwr9,2024-05-19T12:21:50.307Z,"27 km SSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-19T12:00:31.940Z,32.9163333,-115.5355,5.8,1.33,ml,26,72,0.02587,0.24,ci,ci40592207,2024-05-19T12:06:31.041Z,"7 km S of Brawley, CA",earthquake,0.31,0.48,0.215,22,automatic,ci,ci
 2024-05-19T11:58:57.890Z,35.8758333,-117.6863333,9.33,0.56,ml,19,109,0.07761,0.14,ci,ci40592199,2024-05-19T12:05:27.810Z,"21 km ESE of Little Lake, CA",earthquake,0.24,0.59,0.066,4,automatic,ci,ci
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-19T09:53:22.438Z,31.613,-104.38,3.8778,2.1,ml,18,86,0.1,0.3,tx,tx2024jusm,2024-05-19T10:17:52.397Z,"62 km S of Whites City, New Mexico",earthquake,0,1.38459697175213,0.1,14,automatic,tx,tx
 2024-05-19T09:39:42.278Z,17.5684,-104.5165,10,5.2,mww,59,91,3.742,0.97,us,us6000mzmh,2024-05-19T09:58:17.040Z,"145 km SW of La Placita de Morelos, Mexico",earthquake,5.8,1.883,0.046,45,reviewed,us,us
 2024-05-19T09:38:36.980Z,19.3745002746582,-155.225494384766,1.78999996185303,2.06,ml,31,85,0.009462,0.189999998,hv,hv74240167,2024-05-19T09:41:16.210Z,"7 km S of Volcano, Hawaii",earthquake,0.38,0.230000004,0.36,11,automatic,hv,hv
-2024-05-19T09:35:25.081Z,52.2175,-170.9425,29.483,6,mww,122,60,0.847,1.42,us,us6000mzme,2024-05-19T11:45:58.586Z,"162 km WSW of Nikolski, Alaska",earthquake,5.52,4.065,0.038,68,reviewed,us,us
+2024-05-19T09:35:25.081Z,52.2175,-170.9425,29.483,6,mww,122,60,0.847,1.42,us,us6000mzme,2024-05-19T12:27:32.968Z,"162 km WSW of Nikolski, Alaska",earthquake,5.52,4.065,0.038,68,reviewed,us,us
 2024-05-19T09:32:40.130Z,19.2056674957275,-155.372161865234,32.5499992370605,2.25,md,50,173,0.09863,0.129999995,hv,hv74240152,2024-05-19T09:34:28.510Z,"11 km E of Pāhala, Hawaii",earthquake,0.45,0.550000012,0.119999997,10,automatic,hv,hv
 2024-05-19T09:27:50.680Z,19.3863334655762,-155.237503051758,2.32999992370605,1.9,ml,24,76,0.01303,0.280000001,hv,hv74240147,2024-05-19T09:30:28.590Z,"6 km S of Volcano, Hawaii",earthquake,0.43,0.280000001,0.53,10,automatic,hv,hv
 2024-05-19T09:27:12.390Z,19.3838329315186,-155.227172851562,1.76999998092651,1.93,ml,7,149,0.01488,0.140000001,hv,hv74240142,2024-05-19T09:29:51.800Z,"6 km S of Volcano, Hawaii",earthquake,0.36,0.620000005,0.5,8,automatic,hv,hv
@@ -427,5 +428,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-18T12:37:16.672Z,31.656,-104.322,4.4938,1.5,ml,17,69,0.1,0.4,tx,tx2024jtck,2024-05-18T13:09:25.612Z,"57 km S of Whites City, New Mexico",earthquake,0,1.32222546019189,0.2,12,automatic,tx,tx
 2024-05-18T12:32:52.960Z,32.9251671,-115.5336685,7.62,2.02,ml,41,77,0.0328,0.29,ci,ci40589711,2024-05-18T12:36:21.812Z,"6 km S of Brawley, CA",earthquake,0.33,0.62,0.244,26,automatic,ci,ci
 2024-05-18T12:32:44.320Z,19.3786659240723,-155.219161987305,1.28999996185303,1.78,ml,25,97,0.00596,0.180000007,hv,hv74237272,2024-05-18T12:35:20.540Z,"7 km SSE of Volcano, Hawaii",earthquake,0.38,0.209999993,0.16,7,automatic,hv,hv
-2024-05-18T12:28:16.230Z,32.9198333,-115.5356667,4.94,1.43,ml,17,87,0.02791,0.23,ci,ci40589703,2024-05-18T12:34:27.797Z,"7 km S of Brawley, CA",earthquake,0.36,0.55,0.335,21,automatic,ci,ci
-2024-05-18T12:27:35.880Z,32.9218333,-115.5358333,5.1,1.41,ml,17,82,0.02916,0.21,ci,ci40589695,2024-05-18T12:33:40.870Z,"6 km S of Brawley, CA",earthquake,0.3,0.54,0.272,18,automatic,ci,ci
