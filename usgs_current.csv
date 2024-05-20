@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T22:55:24.820Z,38.8131675720215,-122.830001831055,1.16999995708466,0.96,md,11,93,0.004341,0.04,nc,nc75009901,2024-05-20T22:57:03.461Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.589999974,0.23,14,automatic,nc,nc
+2024-05-20T22:51:42.948Z,61.8057,-149.9779,23.6,1.1,ml,,,,0.88,ak,ak0246hk6hs3,2024-05-20T22:54:10.819Z,"7 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T22:47:18.630Z,19.3600006103516,-155.079498291016,3.0699999332428,1.75999999,md,31,137,0.03173,0.270000011,hv,hv74242307,2024-05-20T22:49:11.840Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.59,0.779999971,0.219999999,8,automatic,hv,hv
 2024-05-20T22:44:20.500Z,61.0316,-148.2733,0,1.8,ml,,,,1.44,ak,ak0246hk4xwd,2024-05-20T22:46:42.086Z,"36 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T22:44:08.240Z,38.8334999084473,-122.804168701172,1.86000001430511,1.83,md,31,51,0.01109,0.03,nc,nc75009896,2024-05-20T22:47:09.990Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.13,32,automatic,nc,nc
@@ -114,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T12:19:30.670Z,44.8006666666667,-111.051333333333,7.93,0.79,ml,13,155,0.03953,0.11,uu,uu80070001,2024-05-20T16:25:09.410Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.57,0.488835952773287,3,reviewed,uu,uu
 2024-05-20T12:18:40.504Z,64.8148,-149.1242,19.7,1.1,ml,,,,0.41,ak,ak0246he12wi,2024-05-20T12:20:20.859Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-20T12:18:07.110Z,19.3484992980957,-155.021499633789,1.37999999523163,2.18,ml,49,183,0.07102,0.280000001,hv,hv74241837,2024-05-20T12:20:45.000Z,"17 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.519999981,0.56,10,automatic,hv,hv
-2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T22:37:03.283Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T22:59:23.592Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2024-05-20T12:10:52.320Z,19.378999710083,-155.220840454102,2.00999999046326,1.84,ml,23,95,0.007234,0.200000003,hv,hv74241827,2024-05-20T12:13:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.41,0.289999992,0.1,7,automatic,hv,hv
 2024-05-20T12:07:41.196Z,64.8732,-150.4265,9.4,1.1,ml,,,,0.79,ak,ak0246hdyq2v,2024-05-20T12:09:47.234Z,"17 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:00:07.102Z,31.742,-104.116,7.7405,1.8,ml,25,52,0,0.1,tx,tx2024jwse,2024-05-20T17:29:12.880Z,"49 km W of Mentone, Texas",earthquake,0.5826154529055322,0.7513106005245658,0.2,15,reviewed,tx,tx
@@ -246,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-19T23:11:19.570Z,52.0701666666667,-176.121333333333,-1.77,0.32,ml,5,112,0.02034,0.23,av,av93132821,2024-05-20T20:00:25.570Z,"41 km ENE of Adak, Alaska",earthquake,0.62,1.21,0.352051330579136,5,reviewed,av,av
 2024-05-19T23:05:02.040Z,61.3875,-151.0434,55.6,2.1,ml,,,,0.45,ak,ak0246fwymsc,2024-05-19T23:07:28.662Z,"27 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-19T23:03:46.470Z,36.4728317260742,-120.300163269043,16.9500007629395,1.89,md,7,147,0.2259,0.31,nc,nc75009476,2024-05-19T23:05:57.471Z,"4 km S of Cantua Creek, CA",earthquake,3.42,2.71000004,0.24,2,automatic,nc,nc
-2024-05-19T22:53:03.374Z,-57.69,-25.2425,36.913,4.9,mb,45,88,7.171,0.71,us,us6000mzqp,2024-05-19T23:06:37.040Z,"South Sandwich Islands region",earthquake,11.42,7.677,0.085,44,reviewed,us,us
