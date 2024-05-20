@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-20T15:19:24.270Z,19.1458339691162,-155.473999023438,30.7800006866455,2.1500001,md,42,168,0.01473,0.159999996,hv,hv74241987,2024-05-20T15:21:19.010Z,"6 km S of Pāhala, Hawaii",earthquake,0.62,0.709999979,0.0700000003,4,automatic,hv,hv
+2024-05-20T15:16:28.300Z,38.7820014953613,-122.906829833984,12.5600004196167,1.1,md,5,203,0.03981,0.19,nc,nc75009721,2024-05-20T15:18:06.273Z,"10 km ESE of Cloverdale, CA",earthquake,6.45,12.8599997,0.22,2,automatic,nc,nc
 2024-05-20T15:00:44.160Z,38.7851676940918,-122.779167175293,2.05999994277954,1.06,md,8,109,0.01052,0.02,nc,nc75009716,2024-05-20T15:02:19.971Z,"2 km NW of The Geysers, CA",earthquake,0.39,0.689999998,0.29,9,automatic,nc,nc
 2024-05-20T14:52:22.850Z,60.4638,-149.91,14.5,1.2,ml,,,,0.59,ak,ak0246hff735,2024-05-20T14:55:38.722Z,"5 km WSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-20T14:41:21.100Z,18.5753,-68.9791,108,3.91,md,13,157,0.6008,0.4,pr,pr2024141000,2024-05-20T15:13:08.563Z,"1 km S of Guaymate, Dominican Republic",earthquake,2,1.48,0.13,8,reviewed,pr,pr
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T12:25:53.217Z,60.258,-152.7091,109,1.8,ml,,,,0.37,ak,ak0246he2lw9,2024-05-20T12:27:51.071Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:18:40.504Z,64.8148,-149.1242,19.7,1.1,ml,,,,0.41,ak,ak0246he12wi,2024-05-20T12:20:20.859Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-20T12:18:07.110Z,19.3484992980957,-155.021499633789,1.37999999523163,2.18,ml,49,183,0.07102,0.280000001,hv,hv74241837,2024-05-20T12:20:45.000Z,"17 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.519999981,0.56,10,automatic,hv,hv
-2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T15:14:30.357Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T15:19:46.856Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2024-05-20T12:10:52.320Z,19.378999710083,-155.220840454102,2.00999999046326,1.84,ml,23,95,0.007234,0.200000003,hv,hv74241827,2024-05-20T12:13:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.41,0.289999992,0.1,7,automatic,hv,hv
 2024-05-20T12:07:41.196Z,64.8732,-150.4265,9.4,1.1,ml,,,,0.79,ak,ak0246hdyq2v,2024-05-20T12:09:47.234Z,"17 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:00:07.310Z,31.736,-104.104,4.6104,1.8,ml,16,66,0,0.5,tx,tx2024jwse,2024-05-20T12:19:52.372Z,"47 km W of Mentone, Texas",earthquake,0,1.20738259544397,0.2,13,automatic,tx,tx
@@ -180,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-19T19:16:02.050Z,19.390832901001,-155.287002563477,0.980000019073486,2.47,ml,20,109,0.006574,0.239999995,hv,hv74240867,2024-05-19T19:18:43.250Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.219999999,0.33,17,automatic,hv,hv
 2024-05-19T19:15:04.000Z,19.3996658325195,-155.285659790039,0.180000007152557,1.7,ml,13,56,0.01212,0.119999997,hv,hv74240857,2024-05-19T19:17:42.220Z,"7 km SW of Volcano, Hawaii",earthquake,0.14,0.230000004,0.1,5,automatic,hv,hv
 2024-05-19T19:14:37.940Z,35.874,-117.6893333,8.14,1.14,ml,26,107,0.08024,0.15,ci,ci40592711,2024-05-19T21:06:27.427Z,"21 km ESE of Little Lake, CA",earthquake,0.22,0.6,0.249,14,reviewed,ci,ci
+2024-05-19T19:12:43.020Z,61.2706666666667,-152.248166666667,5.45,-0.14,ml,5,106,0.05644,0.13,av,av93132566,2024-05-20T15:18:08.580Z,"63 km WNW of Tyonek, Alaska",earthquake,1,2.64,0.242110742460083,5,reviewed,av,av
 2024-05-19T19:10:27.671Z,65.0221,-147.033,14.9,1.4,ml,,,,1.15,ak,ak0246fum0xb,2024-05-19T19:12:31.510Z,"16 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-19T19:02:04.450Z,61.2665,-152.251,6.38,0.38,ml,5,105,0.05381,0.12,av,av93132561,2024-05-19T19:50:46.680Z,"63 km WNW of Tyonek, Alaska",earthquake,0.9,2,0.202840977340222,5,reviewed,av,av
 2024-05-19T18:58:19.810Z,37.9348335266113,-122.011497497559,9.5,1.19,md,8,107,0.08552,0.08,nc,nc75009386,2024-05-19T18:59:57.168Z,"4 km S of Concord, CA",earthquake,0.52,1.87,0.11,9,automatic,nc,nc
