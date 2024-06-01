@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-01T13:17:16.670Z,35.5856666564941,-121.202667236328,8.11999988555908,1.87,md,14,216,0.1043,0.07,nc,nc75014232,2024-06-01T13:20:13.501Z,"7 km SSW of San Simeon, CA",earthquake,0.7,0.949999988,0.1,16,automatic,nc,nc
 2024-06-01T12:56:30.020Z,38.8194999694824,-122.825332641602,3.48000001907349,0.85,md,6,138,0.01254,0.01,nc,nc75014222,2024-06-01T12:58:08.609Z,"8 km NW of The Geysers, CA",earthquake,1.88,1.76999998,0.28,7,automatic,nc,nc
 2024-06-01T12:40:56.300Z,33.8276667,-117.642,3.58,1.76,ml,21,57,0.04236,0.17,ci,ci40609719,2024-06-01T12:47:09.864Z,"8 km SW of Corona, CA",earthquake,0.28,0.33,0.343,24,automatic,ci,ci
-2024-06-01T12:40:23.059Z,59.865,-152.3545,84.3,4.2,ml,,,,0.51,ak,ak024718lx5k,2024-06-01T14:12:02.176Z,"30 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2024-06-01T12:40:23.059Z,59.865,-152.3545,84.3,4.2,ml,,,,0.51,ak,ak024718lx5k,2024-06-01T14:20:52.425Z,"30 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-06-01T12:27:32.755Z,35.67066956,-97.40583801,6.882237434,1.58,ml,19,67.80490112,0.130384028,0.2164380321,ok,ok2024ksrd,2024-06-01T12:34:59.638Z,"6 km ENE of Edmond, Oklahoma",earthquake,2.980370745,3.738778839,0.21,8,automatic,ok,ok
 2024-06-01T12:25:56.710Z,34.0091667,-117.2193298,12.61,1.06,ml,21,204,0.07276,0.24,ci,ci40609695,2024-06-01T12:32:15.769Z,"6 km SE of Loma Linda, CA",earthquake,0.83,1.41,0.435,6,automatic,ci,ci
 2024-06-01T12:23:04.180Z,38.8118324279785,-122.813667297363,2.75999999046326,1.08,md,21,51,0.01188,0.02,nc,nc75014217,2024-06-01T12:24:37.581Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.560000002,0.21,21,automatic,nc,nc
@@ -198,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-31T15:57:51.253Z,62.4658,-148.2072,41.2,1.7,ml,,,,0.65,ak,ak0246zmykwl,2024-05-31T16:00:21.908Z,"75 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-31T15:54:41.387Z,-28.9693,-176.8735,19.555,6.2,mww,117,54,0.961,0.94,us,us7000mp9e,2024-05-31T18:02:54.224Z,"Kermadec Islands region",earthquake,5.11,2.677,0.045,47,reviewed,us,us
 2024-05-31T15:46:09.766Z,-43.2882,41.6295,10,6.2,mww,74,55,7.918,0.54,us,us7000mp99,2024-05-31T17:50:56.618Z,"Prince Edward Islands region",earthquake,10.07,1.839,0.045,47,reviewed,us,us
-2024-05-31T15:44:11.270Z,-23.3191,171.5867,10,5,mb,47,114,3.88,0.72,us,us7000mp9a,2024-05-31T16:12:47.040Z,"southeast of the Loyalty Islands",earthquake,10.81,1.887,0.06,90,reviewed,us,us
+2024-05-31T15:44:11.675Z,-23.3183,171.5585,10,5,mb,103,86,3.854,0.72,us,us7000mp9a,2024-06-01T14:21:49.040Z,"southeast of the Loyalty Islands",earthquake,10.62,1.813,0.05,136,reviewed,us,us
 2024-05-31T15:41:16.020Z,37.4818333333333,-113.794166666667,0.21,1.06,md,10,91,0.05377,0.22,uu,uu80070731,2024-05-31T17:32:39.000Z,"12 km SSW of Enterprise, Utah",earthquake,0.73,12.81,0.317378783525292,6,reviewed,uu,uu
 2024-05-31T15:40:59.900Z,38.8048324584961,-122.809997558594,1.66999995708466,0.88,md,8,79,0.0119,0.01,nc,nc75013862,2024-05-31T15:42:36.827Z,"6 km NW of The Geysers, CA",earthquake,0.44,0.889999986,0.27,10,automatic,nc,nc
 2024-05-31T15:37:04.840Z,36.1148333,-117.8848333,8.62,1.02,ml,23,71,0.02442,0.14,ci,ci40608423,2024-05-31T16:24:30.669Z,"10 km NE of Coso Junction, CA",earthquake,0.22,0.43,0.271,12,reviewed,ci,ci
@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-31T14:40:31.840Z,37.5120010375977,-118.424163818359,7.1100001335144,1.45,md,9,205,0.03909,0.04,nc,nc75013842,2024-05-31T14:42:07.405Z,"14 km N of Dixon Lane-Meadow Creek, CA",earthquake,1.64,1.66999996,0.1,5,automatic,nc,nc
 2024-05-31T14:38:43.661Z,31.68,-104.404,4.7668,1.5,ml,17,69,0,0.1,tx,tx2024kqzy,2024-05-31T15:17:26.460Z,"55 km S of Whites City, New Mexico",earthquake,0.7685007071114378,0.8791527136660802,0.1,7,reviewed,tx,tx
 2024-05-31T14:26:44.726Z,61.1694,-151.7462,75.2,1.2,ml,,,,0.16,ak,ak0246zm6hlk,2024-05-31T14:28:32.966Z,"34 km WNW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-05-31T14:15:56.977Z,28.472,-98.699,16.04,1.9,ml,11,158,0.2,0.2,tx,tx2024kqzf,2024-05-31T14:47:28.200Z,"10 km E of Fowlerton, Texas",earthquake,2.5885188915416975,1.4925997711373031,0.2,9,reviewed,tx,tx
