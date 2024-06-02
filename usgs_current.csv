@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-02T02:10:23.710Z,38.7669982910156,-122.727996826172,1.08000004291534,1.05,md,8,103,0.005928,0.04,nc,nc75014607,2024-06-02T02:11:58.879Z,"3 km SE of The Geysers, CA",earthquake,0.36,0.460000008,0.22,9,automatic,nc,nc
 2024-06-02T01:29:49.423Z,63.0777,-150.9749,124.8,1.8,ml,,,,0.47,ak,ak02472pj77i,2024-06-02T01:32:53.841Z,"63 km SE of Denali National Park, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-06-02T01:29:35.355Z,31.674,-104.408,4.2567,1.7,ml,15,69,0,0.3,tx,tx2024ktqy,2024-06-02T01:59:37.154Z,"55 km S of Whites City, New Mexico",earthquake,0,1.37004788496047,0.1,12,automatic,tx,tx
 2024-06-02T01:27:23.708Z,23.7264,121.6681,10,5,mb,53,82,0.476,0.66,us,us7000mpjr,2024-06-02T01:55:58.040Z,"28 km SSE of Hualien City, Taiwan",earthquake,2.7,1.878,0.056,102,reviewed,us,us
@@ -151,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-01T10:39:07.550Z,39.451000213623,-120.236831665039,18.6299991607666,2.27,md,7,91,0.2216,0.03,nc,nc75014177,2024-06-01T15:58:49.759Z,"14 km  of Truckee, CA",earthquake,0.55,1.41999996,0.35,5,automatic,nc,nc
 2024-06-01T10:20:37.980Z,38.8338317871094,-122.792999267578,1.51999998092651,0.65,md,7,85,0.005019,0.01,nc,nc75014172,2024-06-01T10:22:12.362Z,"6 km WNW of Cobb, CA",earthquake,0.47,1.46000004,0.34,9,automatic,nc,nc
 2024-06-01T10:16:23.981Z,63.212,-143.7102,0,1.9,ml,,,,0.78,ak,ak0247179wwu,2024-06-01T10:17:59.480Z,"26 km SW of Tanacross, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-06-01T10:11:45.031Z,41.7757,-81.0262,5,2.6,mb_lg,46,66,0.342,0.99,us,us7000mpg2,2024-06-02T01:44:25.584Z,"2 km ENE of Madison, Ohio",earthquake,1.18,1.993,0.052,99,reviewed,us,us
+2024-06-01T10:11:45.031Z,41.7757,-81.0262,5,2.6,mb_lg,46,66,0.342,0.99,us,us7000mpg2,2024-06-02T02:14:27.229Z,"2 km ENE of Madison, Ohio",earthquake,1.18,1.993,0.052,99,reviewed,us,us
 2024-06-01T10:10:36.629Z,63.1806,-143.5638,0,1.8,ml,,,,0.34,ak,ak0247178nla,2024-06-01T10:12:31.351Z,"25 km SSW of Tanacross, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-01T09:55:30.350Z,38.8153343200684,-122.818496704102,2.6800000667572,0.96,md,16,51,0.0104,0.02,nc,nc75014167,2024-06-01T09:57:07.381Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.689999998,0.25,17,automatic,nc,nc
 2024-06-01T09:54:11.344Z,28.896,-98.957,4.9875,1.8,ml,9,122,0.2,0.7,tx,tx2024ksmc,2024-06-01T10:14:00.584Z,"13 km E of Pearsall, Texas",earthquake,0,2.1041539887402,0.1,6,automatic,tx,tx
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-01T02:27:39.390Z,38.836498260498,-122.803001403809,2.38000011444092,1.12,md,8,116,0.01007,0.01,nc,nc75014027,2024-06-01T02:37:54.334Z,"7 km WNW of Cobb, CA",earthquake,0.53,1.72000003,0.44,8,automatic,nc,nc
 2024-06-01T02:24:05.860Z,35.55433333,-96.74183333,5.83,1.33,ml,68,34,0.0188962919,0.19,ok,ok2024krxf,2024-06-01T02:45:40.279Z,"9 km NW of Prague, Oklahoma",earthquake,,0.3,0.24,32,reviewed,ok,ok
 2024-06-01T02:17:00.911Z,28.456,-98.716,7.2021,2.6,ml,20,79,0.3,0.4,tx,tx2024krwz,2024-06-02T01:10:19.821Z,"9 km E of Fowlerton, Texas",earthquake,1.7301643138254192,1.6974618824164813,0.1,8,reviewed,tx,tx
-2024-06-01T02:10:10.950Z,17.9481666666667,-67.083,39.69,2.53,md,8,255,0.04254,0.09,pr,pr71451153,2024-06-01T03:35:50.710Z,"4 km SW of La Parguera, Puerto Rico",earthquake,1.11,0.68,0.0833437559155144,4,reviewed,pr,pr
