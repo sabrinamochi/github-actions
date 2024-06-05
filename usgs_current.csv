@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T14:22:39.260Z,33.4290009,-117.0009995,7.28,0.87,ml,9,161,0.09156,0.26,ci,ci40615023,2024-06-05T14:28:49.838Z,"10 km NE of Pala, CA",earthquake,1.09,2.39,0.339,7,automatic,ci,ci
 2024-06-05T14:20:27.219Z,35.63783333,-98.08366667,7.81,1.51,ml,63,71,0.1169770451,0.42,ok,ok2024lacw,2024-06-05T14:39:16.190Z,"5 km NE of Calumet, Oklahoma",earthquake,,1,0.22,26,reviewed,ok,ok
 2024-06-05T14:19:43.603Z,-38.2187,176.0333,191.7,4.8,mww,73,47,0.643,0.99,us,us7000mqhw,2024-06-05T15:39:11.040Z,"14 km E of Tokoroa, New Zealand",earthquake,5.35,3.939,0.098,10,reviewed,us,us
-2024-06-05T14:18:21.220Z,19.1665000915527,-155.484832763672,30.0599994659424,3.39,ml,61,101,0.02414,0.129999995,hv,hv74262926,2024-06-05T16:20:55.278Z,"4 km S of Pāhala, Hawaii",earthquake,0.43,0.560000002,0.37,46,automatic,hv,hv
+2024-06-05T14:18:21.220Z,19.1665000915527,-155.484832763672,30.0599994659424,3.39,ml,61,101,0.02414,0.129999995,hv,hv74262926,2024-06-05T16:35:02.755Z,"4 km S of Pāhala, Hawaii",earthquake,0.43,0.560000002,0.37,46,automatic,hv,hv
 2024-06-05T14:13:58.091Z,61.0868,-151.1282,49.4,1.4,ml,,,,0.69,ak,ak02477vsgsh,2024-06-05T14:16:28.253Z,"2 km NNE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-05T14:07:44.030Z,35.55916667,-96.73133333,5.44,1.04,ml,37,64,0.02339540902,0.33,ok,ok2024lacl,2024-06-05T14:32:59.556Z,"9 km NNW of Prague, Oklahoma",earthquake,,0.7,0.23,17,reviewed,ok,ok
 2024-06-05T13:57:54.495Z,61.3743,-146.9818,19.1,1.4,ml,,,,0.61,ak,ak02477vggex,2024-06-05T14:00:12.671Z,"43 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -112,7 +112,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T08:44:31.790Z,32.3576667,-115.1356667,25.5,3.42,ml,24,220,0.3513,0.28,ci,ci40614647,2024-06-05T14:51:12.287Z,"5 km E of Delta, B.C., MX",earthquake,0.94,1.18,0.241,26,reviewed,ci,ci
 2024-06-05T08:43:35.910Z,41.5676666666667,-112.414166666667,8.03,2.33,ml,37,75,0.02153,0.15,uu,uu80071126,2024-06-05T13:13:28.860Z,"17 km SW of Thatcher, Utah",earthquake,0.24,0.4,0.221291823673444,7,reviewed,uu,uu
 2024-06-05T08:43:34.410Z,32.3386667,-115.1663333,23.18,3.84,ml,21,256,0.3736,0.28,ci,ci40614639,2024-06-05T14:42:09.165Z,"3 km SE of Delta, B.C., MX",earthquake,1.12,2.8,0.128,31,reviewed,ci,ci
-2024-06-05T08:43:30.156Z,35.8496,-115.615,0,2.7,ml,9,182.01000000000002,0.484,0.296,nn,nn00878628,2024-06-05T08:53:43.503Z,"3 km NNE of Sandy Valley, Nevada",earthquake,,1248.1,0.15,7,automatic,nn,nn
 2024-06-05T08:42:42.220Z,32.3955,-115.1881667,29.38,4.32,mw,27,215,0.322,0.26,ci,ci40614631,2024-06-05T14:46:30.099Z,"4 km N of Delta, B.C., MX",earthquake,1.27,0.48,,6,reviewed,ci,ci
 2024-06-05T08:42:24.458Z,-13.7175,14.232,10,5.1,mb,62,41,6.33,0.66,us,us7000mqfy,2024-06-05T11:55:02.180Z,"89 km W of Caconda, Angola",earthquake,9.57,1.841,0.051,132,reviewed,us,us
 2024-06-05T08:37:28.810Z,35.6736667,-117.5303333,7.02,0.64,ml,22,114,0.08724,0.13,ci,ci40614623,2024-06-05T08:49:58.398Z,"14 km ENE of Ridgecrest, CA",earthquake,0.23,0.48,0.102,5,automatic,ci,ci
@@ -124,6 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T07:58:20.352Z,38.167,-117.9503,12.8,1.7,ml,10,85.96,0.042,0.1177,nn,nn00878626,2024-06-05T16:15:10.728Z,"28 km SSE of Mina, Nevada",earthquake,,1.1,0.43,6,reviewed,nn,nn
 2024-06-05T07:55:01.479Z,27.7035,-111.6118,10,4.3,mb,61,108,0.677,0.94,us,us7000mqfg,2024-06-05T16:08:16.455Z,"62 km WSW of San Carlos, Mexico",earthquake,6.85,1.958,0.064,69,reviewed,us,us
 2024-06-05T07:37:50.764Z,36.1789,35.862,10,4.1,mb,35,57,0.835,1.06,us,us7000mqff,2024-06-05T09:04:12.040Z,"16 km WNW of Uzunbağ, Turkey",earthquake,4.45,1.955,0.14,14,reviewed,us,us
+2024-06-05T07:35:02.910Z,46.207,-122.1865,3.58,0.13,ml,12,90,0.006837,0.06,uw,uw62004462,2024-06-05T16:35:43.210Z,"38 km NNE of Amboy, Washington",earthquake,0.24,0.47,0.09014037413605613,3,reviewed,uw,uw
 2024-06-05T07:24:28.270Z,33.4976667,-116.5503333,10.97,0.52,ml,28,50,0.04344,0.14,ci,ci40614599,2024-06-05T14:00:09.593Z,"13 km ESE of Anza, CA",earthquake,0.18,0.34,0.146,11,reviewed,ci,ci
 2024-06-05T07:20:26.890Z,38.7565002441406,-122.727836608887,1.98000001907349,1.15,md,12,112,0.005592,0.07,nc,nc75016552,2024-06-05T07:22:05.171Z,"3 km SE of The Geysers, CA",earthquake,0.51,0.409999996,0.16,11,automatic,nc,nc
 2024-06-05T07:20:03.870Z,34.0208333,-117.0943333,8.77,0.97,ml,53,37,0.02094,0.16,ci,ci40614591,2024-06-05T07:26:20.925Z,"5 km WSW of Yucaipa, CA",earthquake,0.14,0.38,0.191,32,automatic,ci,ci
