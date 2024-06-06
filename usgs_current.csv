@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-06T18:55:56.744Z,60.921,-151.7879,73,1.6,ml,,,,0.51,ak,ak02479lyjoa,2024-06-06T18:58:29.417Z,"37 km NW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-06T18:36:52.170Z,38.7924995422363,-122.757331848145,0.189999997615814,1.08,md,10,81,0.008324,0.03,nc,nc75017177,2024-06-06T18:38:27.493Z,"2 km N of The Geysers, CA",earthquake,0.33,0.610000014,0.17,10,automatic,nc,nc
 2024-06-06T18:21:23.120Z,38.8226661682129,-122.843170166016,2.45000004768372,0.27,md,7,135,0.006374,0.01,nc,nc75017167,2024-06-06T18:22:57.670Z,"9 km NW of The Geysers, CA",earthquake,0.86,2.18000007,0.15,8,automatic,nc,nc
 2024-06-06T17:38:10.450Z,38.8321647644043,-122.815002441406,1.74000000953674,1.04,md,10,104,0.009566,0.01,nc,nc75017147,2024-06-06T17:39:47.123Z,"8 km NNW of The Geysers, CA",earthquake,0.38,1.02999997,0.24,12,automatic,nc,nc
@@ -10,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-06T16:50:17.600Z,38.8308334350586,-122.791831970215,1.58000004291534,1.05,md,17,46,0.007653,0.03,nc,nc75017142,2024-06-06T16:51:52.125Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.15,17,automatic,nc,nc
 2024-06-06T16:42:19.229Z,31.639,-103.99,3.9237,1.5,ml,18,49,0,0.6,tx,tx2024lcdb,2024-06-06T16:55:15.992Z,"37 km WSW of Mentone, Texas",earthquake,0,1.14127540334483,0.2,13,automatic,tx,tx
 2024-06-06T16:34:53.600Z,19.2811660766602,-155.401672363281,28.9099998474121,2.04,ml,53,116,0.05411,0.180000007,hv,hv74264246,2024-06-06T16:37:30.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.44,0.569999993,0.56,9,automatic,hv,hv
+2024-06-06T16:23:20.620Z,51.8015,-178.843666666667,5.31,-0.06,ml,6,214,0.02521,0.13,av,av93152931,2024-06-06T18:55:11.260Z,"152 km W of Adak, Alaska",earthquake,0.85,0.56,0.370405703719992,6,reviewed,av,av
 2024-06-06T16:21:13.120Z,34.5761667,-117.2516667,-1.39,1.34,ml,16,65,0.06615,0.17,ci,ci40616063,2024-06-06T17:19:46.905Z,"6 km NE of Victorville, CA",quarry blast,0.41,31.61,0.223,17,reviewed,ci,ci
 2024-06-06T15:57:16.769Z,36.2185,-95.85983333,0,0.97,ml,35,200,0.3122387281,0.51,ok,ok2024lcbo,2024-06-06T16:19:28.801Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.8,0.22,17,reviewed,ok,ok
 2024-06-06T15:51:33.889Z,-20.5543,-69.1454,92.61,4.5,mwr,86,62,0.582,1.14,us,us7000mqqn,2024-06-06T16:59:09.359Z,"58 km ESE of La Tirana, Chile",earthquake,5.09,4.582,0.075,17,reviewed,us,us
@@ -202,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T19:19:00.603Z,31.518,-104.018,7.1252,1.8,ml,19,71,0,0.1,tx,tx2024lamt,2024-06-05T21:07:23.679Z,"31 km NW of Toyah, Texas",earthquake,0.980761363324691,0.8379476717267539,0.1,12,reviewed,tx,tx
 2024-06-05T19:09:12.110Z,38.5103340148926,-119.510833740234,3.36999988555908,2.72,md,12,112,0.07582,0.02,nc,nc75016842,2024-06-05T21:36:49.089Z,"3 km W of Walker, CA",earthquake,0.33,1.36000001,0.18,20,automatic,nc,nc
 2024-06-05T19:02:10.930Z,33.0236667,-115.9923333,8.29,0.79,ml,28,107,0.1379,0.16,ci,ci40615367,2024-06-06T14:36:11.510Z,"19 km SE of Ocotillo Wells, CA",earthquake,0.23,1.2,0.073,11,reviewed,ci,ci
-2024-06-05T18:59:28.227Z,63.2692,-151.8355,1.5,1.4,ml,,,,0.63,ak,ak02477yfzui,2024-06-05T19:01:59.252Z,"30 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-05T18:59:23.630Z,58.5963333333333,-154.334166666667,1.55,-0.14,ml,5,309,0.006561,0.06,av,av93010494,2024-06-06T03:30:35.320Z,"97 km SSE of Kokhanok, Alaska",earthquake,1.19,0.26,0.321412057603664,5,reviewed,av,av
