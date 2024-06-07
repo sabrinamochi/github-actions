@@ -6,8 +6,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T00:08:51.040Z,33.6341667,-117.9023333,11.89,1.62,ml,60,79,0.0415,0.18,ci,ci40616319,2024-06-07T01:05:14.473Z,"3 km NE of Newport Beach, CA",earthquake,0.16,0.19,0.13,30,automatic,ci,ci
 2024-06-07T00:07:38.304Z,31.596,-104.545,3.8965,1.8,ml,17,161,0.1,0.4,tx,tx2024lcrt,2024-06-07T00:39:45.539Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.67984994502003,0.1,13,automatic,tx,tx
 2024-06-07T00:06:09.120Z,31.597,-103.98,6.1191,1.7,ml,14,69,0,0.3,tx,tx2024lcrs,2024-06-07T00:28:29.477Z,"35 km NNW of Toyah, Texas",earthquake,0,2.67364059916387,0.2,12,automatic,tx,tx
-2024-06-07T00:04:49.720Z,33.6241684,-117.899498,12.3,3.36,ml,113,85,0.03168,0.25,ci,ci40616311,2024-06-07T01:09:47.132Z,"3 km ENE of Newport Beach, CA",earthquake,0.33,0.64,0.345,21,reviewed,ci,ci
-2024-06-06T23:52:24.590Z,33.6311667,-117.9098333,12.08,3.58,ml,150,78,0.04235,0.24,ci,ci40616303,2024-06-07T01:13:41.206Z,"2 km NE of Newport Beach, CA",earthquake,0.17,0.36,0.166,363,reviewed,ci,ci
+2024-06-07T00:04:49.720Z,33.6241684,-117.899498,12.3,3.36,ml,113,85,0.03168,0.25,ci,ci40616311,2024-06-07T01:15:05.626Z,"3 km ENE of Newport Beach, CA",earthquake,0.33,0.64,0.345,21,reviewed,ci,ci
+2024-06-06T23:52:24.590Z,33.6311667,-117.9098333,12.08,3.58,ml,150,78,0.04235,0.24,ci,ci40616303,2024-06-07T01:18:57.770Z,"2 km NE of Newport Beach, CA",earthquake,0.17,0.36,0.166,363,reviewed,ci,ci
 2024-06-06T23:48:29.361Z,39.1762,-119.6832,0,1.1,ml,10,87.19999999999999,0.108,0.2438,nn,nn00878746,2024-06-06T23:50:54.473Z,"7 km E of Carson City, Nevada",earthquake,,8.2,0.1,7,automatic,nn,nn
 2024-06-06T23:47:18.680Z,19.3158340454102,-155.214996337891,3.02999997138977,1.73000002,md,32,85,0.03561,0.180000007,hv,hv74264696,2024-06-06T23:49:56.550Z,"14 km S of Volcano, Hawaii",earthquake,0.3,0.930000007,0.400000006,15,automatic,hv,hv
 2024-06-06T23:37:16.703Z,-55.1304,-28.9057,35,4.9,mb,31,88,4.479,0.85,us,us7000mqub,2024-06-06T23:50:44.040Z,"South Sandwich Islands region",earthquake,12.23,1.946,0.101,31,reviewed,us,us
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-06T15:36:24.730Z,36.1166667,-117.884,7.73,1.17,ml,20,72,0.02361,0.14,ci,ci40616047,2024-06-06T17:22:25.747Z,"10 km NE of Coso Junction, CA",earthquake,0.25,0.43,0.234,18,reviewed,ci,ci
 2024-06-06T15:35:02.750Z,33.3913333,-116.339,8.99,0.95,ml,47,37,0.03794,0.18,ci,ci40616039,2024-06-06T17:22:27.920Z,"15 km NNE of Borrego Springs, CA",earthquake,0.19,0.4,0.136,22,reviewed,ci,ci
 2024-06-06T15:32:21.360Z,51.8086666666667,179.566666666667,12.67,1.47,ml,4,327,0.09143,0.32,av,av93152876,2024-06-07T01:09:49.890Z,"261 km W of Adak, Alaska",earthquake,3.43,3.2,0.265073729456806,3,reviewed,av,av
+2024-06-06T15:25:21.630Z,60.0433333333333,-153.117166666667,0.59,-0.46,ml,5,134,0.01935,0.1,av,av93152861,2024-06-07T01:17:10.950Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.31,0.42,0.247312744909636,5,reviewed,av,av
 2024-06-06T15:11:34.620Z,36.3643341064453,-120.423332214355,9.44999980926514,2.26,md,21,156,0.05332,0.08,nc,nc75017127,2024-06-06T15:14:45.410Z,"18 km SW of Cantua Creek, CA",earthquake,0.54,0.519999981,0.16,22,automatic,nc,nc
 2024-06-06T15:07:54.913Z,31.525,-104.007,7.5549,1.6,ml,11,111,0,0.5,tx,tx2024lbzz,2024-06-06T15:34:46.079Z,"30 km NW of Toyah, Texas",earthquake,0,3.76827061579153,0.2,9,automatic,tx,tx
 2024-06-06T14:57:08.310Z,33.3458333,-116.2333333,10.56,1.9,ml,75,20,0.06593,0.17,ci,ci40616007,2024-06-06T23:55:06.220Z,"16 km NE of Borrego Springs, CA",earthquake,0.12,0.31,0.125,26,reviewed,ci,ci
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-06T01:49:00.640Z,47.6405,-121.75266666666667,20.67,1.47,ml,11,106,0.06902,0.09,uw,uw62004577,2024-06-06T04:52:12.920Z,"12 km E of Carnation, Washington",earthquake,0.37,0.63,0.16864716490688303,7,reviewed,uw,uw
 2024-06-06T01:44:17.322Z,61.4065,-150.0694,33.1,1.2,ml,,,,0.42,ak,ak02479brqh0,2024-06-06T01:46:05.890Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-06T01:43:33.811Z,36.7687,-116.2688,4.1,-0.2,ml,7,180.52999999999997,0.03,0.0744,nn,nn00878706,2024-06-06T11:00:00.938Z,"46 km ESE of Beatty, Nevada",earthquake,,4,0.19,3,reviewed,nn,nn
-2024-06-06T01:15:16.288Z,64.3799,-145.7792,16.7,1.3,ml,,,,0.93,ak,ak02479blimk,2024-06-06T01:17:37.057Z,"25 km N of Big Delta, Alaska",earthquake,,0.4,,,automatic,ak,ak
