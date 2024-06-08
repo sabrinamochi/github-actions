@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-08T14:29:18.390Z,33.0385,-115.607,3.54,1.7,ml,40,39,0.02108,0.26,ci,ci40617431,2024-06-08T14:39:33.180Z,"1 km E of Westmorland, CA",earthquake,0.24,0.33,0.215,28,automatic,ci,ci
 2024-06-08T14:28:24.778Z,62.7961,-151.0419,84,1.9,ml,,,,0.55,ak,ak0247cuhnfx,2024-06-08T14:30:50.877Z,"36 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-08T14:24:12.100Z,38.8306655883789,-122.800834655762,1.62999999523163,1.36,md,24,40,0.01024,0.02,nc,nc75017757,2024-06-08T14:25:48.584Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.340000004,0.19,27,automatic,nc,nc
 2024-06-08T14:21:21.185Z,58.9689,-154.516,118.3,2,ml,,,,0.62,ak,ak0247cug55i,2024-06-08T14:25:14.896Z,"54 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -137,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-08T02:12:24.270Z,33.8081667,-117.6396667,4.67,1.52,ml,51,63,0.02853,0.2,ci,ci40617087,2024-06-08T02:32:51.752Z,"10 km SW of Corona, CA",earthquake,0.2,0.31,0.201,30,automatic,ci,ci
 2024-06-08T02:10:53.460Z,38.8014984130859,-122.814834594727,2.89000010490417,1.08,md,19,65,0.01341,0.02,nc,nc75017557,2024-06-08T02:12:29.878Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.5,0.15,17,automatic,nc,nc
 2024-06-08T02:08:15.903Z,61.4892,-150.0105,17.3,2.3,ml,,,,0.85,ak,ak0247cn856e,2024-06-08T02:10:36.060Z,"4 km SW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-08T02:02:08.880Z,19.1615009307861,-155.489837646484,28.5499992370605,2.13000011,md,31,120,0.0269,0.170000002,hv,hv74266891,2024-06-08T02:03:43.600Z,"Hawaii region, Hawaii",earthquake,0.69,1.03999996,0.119999997,5,automatic,hv,hv
+2024-06-08T02:02:08.880Z,19.1615009307861,-155.489837646484,28.5499992370605,2.13000011,md,31,120,0.0269,0.170000002,hv,hv74266891,2024-06-08T02:03:43.600Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,1.03999996,0.119999997,5,automatic,hv,hv
 2024-06-08T01:22:44.858Z,60.848,-151.6169,66,1.7,ml,,,,0.53,ak,ak0247cmprtx,2024-06-08T01:25:10.214Z,"25 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-08T00:40:22.969Z,59.9814,-140.9557,0,1.7,ml,,,,0.5,ak,ak0247cm85fc,2024-06-08T00:48:48.469Z,"84 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-08T00:34:35.005Z,26.8191,140.3034,399.26,4.1,mb,75,64,1.701,0.62,us,us7000mr3t,2024-06-08T00:55:23.040Z,"Bonin Islands, Japan region",earthquake,11.32,2.844,0.061,73,reviewed,us,us
@@ -234,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T14:59:25.800Z,19.3646659851074,-155.29817199707,0.769999980926514,1.71,ml,19,103,0.02551,0.209999993,hv,hv74265946,2024-06-07T15:02:04.530Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.419999987,0.07,5,automatic,hv,hv
 2024-06-07T14:57:54.365Z,62.7167,-148.7096,51.5,1.5,ml,,,,0.5,ak,ak0247b74kzw,2024-06-07T14:59:35.983Z,"76 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-07T14:49:49.454Z,51.9883,-170.7672,22,3.7,ml,,,,0.76,ak,ak0247b72uzl,2024-06-07T23:49:17.042Z,"167 km SW of Nikolski, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2024-06-07T14:33:59.880Z,35.6836667,-118.3963333,5.75,0.95,ml,25,44,0.03799,0.16,ci,ci40616655,2024-06-07T17:11:10.797Z,"6 km ESE of Wofford Heights, CA",earthquake,0.22,0.38,0.181,16,reviewed,ci,ci
-2024-06-07T14:33:46.526Z,62.4525,-147.8008,29.8,1.9,ml,,,,0.17,ak,ak0247b6zf7g,2024-06-07T14:35:11.890Z,"66 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-07T14:31:24.460Z,34.029,-116.883,19.74,0.68,ml,37,40,0.06277,0.18,ci,ci40616647,2024-06-07T15:59:32.719Z,"12 km N of Banning, CA",earthquake,0.22,0.59,0.129,17,reviewed,ci,ci
