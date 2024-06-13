@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-13T17:18:11.710Z,19.3414993286133,-155.140670776367,4.98000001907349,3.04,ml,58,93,0.04547,0.189999998,hv,hv74275766,2024-06-13T17:20:48.000Z,"13 km S of Fern Forest, Hawaii",earthquake,0.34,0.479999989,0.33,47,automatic,hv,hv
+2024-06-13T17:12:53.910Z,38.8131675720215,-122.824836730957,2.17000007629395,1.08,md,22,56,0.005471,0.02,nc,nc75021867,2024-06-13T17:14:33.032Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.16,22,automatic,nc,nc
 2024-06-13T17:08:07.460Z,19.238166809082,-155.386001586914,32,2.22000003,md,39,161,0.09402,0.140000001,hv,hv74275751,2024-06-13T17:09:35.700Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.620000005,0.430000007,9,automatic,hv,hv
 2024-06-13T17:02:47.710Z,33.6826667,-116.697,17.3,0.84,ml,28,62,0.02373,0.15,ci,ci40797400,2024-06-13T17:09:09.803Z,"7 km SSE of Idyllwild, CA",earthquake,0.28,0.41,0.313,17,automatic,ci,ci
 2024-06-13T17:00:40.123Z,60.6626,-152.2551,88.7,1.6,ml,,,,0.38,ak,ak0247l5spv0,2024-06-13T17:02:35.874Z,"51 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-13T11:59:54.780Z,35.6546667,-117.452,4.88,0.97,ml,20,75,0.02528,0.1,ci,ci40797000,2024-06-13T15:33:32.333Z,"13 km SSW of Searles Valley, CA",earthquake,0.17,0.28,0.161,4,reviewed,ci,ci
 2024-06-13T11:53:17.030Z,19.3853340148926,-155.239501953125,2.04999995231628,1.76,ml,19,73,0.01115,0.200000003,hv,hv74275406,2024-06-13T11:55:55.680Z,"6 km S of Volcano, Hawaii",earthquake,0.28,0.219999999,0.2,9,automatic,hv,hv
 2024-06-13T11:49:06.750Z,58.5745,-153.638,32.6,1.3,ml,,,,0.23,ak,ak0247l2ijqr,2024-06-13T11:50:47.335Z,"71 km NW of Aleneva, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2024-06-13T11:48:10.386Z,37.3612,-117.8804,4,1.7,ml,22,150.87,0.073,0.1847,nn,nn00879139,2024-06-13T11:50:53.684Z,"37 km SSE of Dyer, Nevada",earthquake,,0.7,0.22,15,automatic,nn,nn
+2024-06-13T11:48:10.685Z,37.3443,-117.9045,8.1,1.6,ml,12,93.39999999999998,0.059,0.1553,nn,nn00879139,2024-06-13T17:20:11.936Z,"38 km SSE of Dyer, Nevada",earthquake,,1.3,0.45,4,reviewed,nn,nn
 2024-06-13T11:43:10.394Z,60.2864,-152.5534,86.8,1.2,ml,,,,0.59,ak,ak0247l2h9q7,2024-06-13T11:45:18.062Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-06-13T11:43:08.030Z,45.1805,-122.74783333333333,19.85,1.79,ml,28,53,0.04711,0.15,uw,uw62006712,2024-06-13T13:07:45.880Z,"4 km E of Hubbard, Oregon",earthquake,0.28,0.57,0.19857605092434083,33,reviewed,uw,uw
 2024-06-13T11:38:10.083Z,28.4735,52.9379,10,4.6,mb,70,69,4.569,0.81,us,us7000ms44,2024-06-13T11:57:16.040Z,"54 km SE of Fīrūzābād, Iran",earthquake,8.42,1.882,0.056,96,reviewed,us,us
@@ -163,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-13T00:10:00.260Z,47.212,-123.7375,10.62,1.26,ml,19,116,0.0596,0.29,uw,uw62006617,2024-06-13T13:15:59.410Z,"16 km N of Aberdeen Gardens, Washington",earthquake,0.67,1.23,0.08484348481425052,13,reviewed,uw,uw
 2024-06-13T00:09:14.650Z,18.2261666666667,-66.9033333333333,20.55,2.77,md,22,93,0.08529,0.23,pr,pr71452458,2024-06-13T01:55:48.737Z,"8 km SSW of Lares, Puerto Rico",earthquake,0.43,1.03,0.10142976340701,12,reviewed,pr,pr
 2024-06-13T00:03:32.030Z,38.1028327941895,-122.87850189209,12.8000001907349,1.51,md,9,120,0.0419,0.05,nc,nc75021527,2024-06-13T00:05:09.807Z,"2 km WNW of Inverness, CA",earthquake,0.75,1.13,0.28,8,automatic,nc,nc
+2024-06-12T23:41:14.099Z,35.88733333,-98.39433333,7.2,1.58,ml,26,69,0.05218975859,0.38,ok,ok2024lnpw,2024-06-13T17:24:34.618Z,"5 km NNE of Watonga, Oklahoma",earthquake,,0.9,0.28,10,reviewed,ok,ok
 2024-06-12T23:24:50.004Z,64.7596,-148.6335,3.7,1,ml,,,,0.58,ak,ak0247jlz4y0,2024-06-12T23:26:19.855Z,"29 km NE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T23:22:22.081Z,61.7635,-149.7211,46.9,1.2,ml,,,,0.49,ak,ak0247jlyncw,2024-06-13T05:53:52.819Z,"15 km NNE of Houston, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-06-12T23:22:11.221Z,61.7504,-150.6899,59.5,1.1,ml,,,,0.52,ak,ak0247jlymj6,2024-06-13T05:53:46.361Z,"24 km NNW of Susitna, Alaska",earthquake,,0.5,,,reviewed,ak,ak
@@ -222,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T17:53:03.929Z,59.4702,-152.8823,83.1,1.2,ml,,,,0.24,ak,ak0247jikniw,2024-06-12T17:54:40.939Z,"56 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-12T17:52:39.608Z,65.727,-145.3359,5.6,1.4,ml,,,,0.72,ak,ak0247jikik8,2024-06-12T17:54:36.120Z,"29 km NW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-12T17:36:06.519Z,31.715,-104.271,6.8561,1.7,ml,31,83,0,0.1,tx,tx2024lndv,2024-06-12T18:01:36.438Z,"52 km S of Whites City, New Mexico",earthquake,0.5199086774804276,0.4761618693197979,0.2,22,reviewed,tx,tx
-2024-06-12T17:18:19.440Z,39.2585,-123.303166666667,4.32,1.23,md,17,52,0.0527,0.08,nc,nc75021377,2024-06-13T00:17:48.194Z,"9 km W of Redwood Valley, CA",earthquake,0.19,0.77,0.197,15,reviewed,nc,nc
-2024-06-12T17:16:50.386Z,28.494,-98.631,6.5186,2,ml,23,63,0.2,0.4,tx,tx2024lndf,2024-06-13T14:16:31.281Z,"8 km WNW of Tilden, Texas",earthquake,2.1859327872662084,2.928316332027135,0.1,15,reviewed,tx,tx
