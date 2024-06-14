@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-14T16:53:32.680Z,33.1269989,-116.1603317,10.74,1.19,ml,36,56,0.02931,0.2,ci,ci40798792,2024-06-14T16:55:39.083Z,"3 km SW of Ocotillo Wells, CA",earthquake,0.26,0.73,0.147,5,automatic,ci,ci
+2024-06-14T16:53:32.650Z,33.1261667,-116.1575,10.58,1.04,ml,52,48,0.03071,0.21,ci,ci40798792,2024-06-14T16:59:55.280Z,"3 km SW of Ocotillo Wells, CA",earthquake,0.17,0.43,0.186,27,automatic,ci,ci
 2024-06-14T16:51:57.200Z,19.1521663665771,-155.471496582031,31.7800006866455,2.15,ml,50,158,0.009441,0.150000006,hv,hv74277116,2024-06-14T16:54:35.320Z,"5 km S of Pāhala, Hawaii",earthquake,0.51,0.569999993,0.91,4,automatic,hv,hv
 2024-06-14T16:49:12.610Z,63.5805,-150.9251,12.2,2.5,ml,,,,0.56,ak,ak0247mt12pp,2024-06-14T16:51:15.069Z,"39 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-14T16:39:09.480Z,36.8839988708496,-121.620498657227,1.23000001907349,1.77,md,16,73,0.05736,0.2,nc,nc75022227,2024-06-14T16:40:46.438Z,"2 km ESE of Aromas, CA",earthquake,0.47,2.27999997,0.15,9,automatic,nc,nc
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-14T13:55:56.350Z,38.8381652832031,-122.806831359863,2.25999999046326,0.88,md,16,55,0.01288,0.01,nc,nc75022177,2024-06-14T13:57:35.172Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.75,0.24,18,automatic,nc,nc
 2024-06-14T13:35:04.330Z,37.3535,-117.8892,5.1,0.9,ml,9,100.45,0.068,0.1878,nn,nn00879220,2024-06-14T16:10:50.698Z,"38 km SSE of Dyer, Nevada",earthquake,,2,0,1,reviewed,nn,nn
 2024-06-14T13:31:14.159Z,61.8734,-150.9964,72.1,1,ml,,,,0.14,ak,ak0247mr4x4n,2024-06-14T13:32:43.173Z,"24 km ESE of Skwentna, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2024-06-14T13:24:10.030Z,31.662,-104.374,6.9714,1.9,ml,16,118,0,0.2,tx,tx2024lqmo,2024-06-14T14:11:00.315Z,"56 km S of Whites City, New Mexico",earthquake,0.7267761926370154,0.7477124520822981,0.1,22,reviewed,tx,tx
+2024-06-14T13:24:10.030Z,31.662,-104.374,6.9714,1.9,ml,16,118,0,0.2,tx,tx2024lqmo,2024-06-14T17:00:23.446Z,"56 km S of Whites City, New Mexico",earthquake,0.7267761926370154,0.7477124520822981,0.1,22,reviewed,tx,tx
 2024-06-14T13:19:50.440Z,34.1943333,-117.4518333,6.9,1.45,ml,61,20,0.02029,0.2,ci,ci40798448,2024-06-14T13:31:03.580Z,"6 km WSW of Devore, CA",earthquake,0.15,0.34,0.145,29,automatic,ci,ci
 2024-06-14T13:13:18.658Z,60.1762,-152.8284,15.6,1.5,ml,,,,0.51,ak,ak0247mr12oh,2024-06-14T13:15:16.998Z,"66 km WNW of Ninilchik, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-06-14T12:52:46.600Z,19.1743335723877,-155.501998901367,32.6599998474121,2.26999998,md,53,92,0.04214,0.170000002,hv,hv74276956,2024-06-14T12:54:39.170Z,"4 km SW of Pāhala, Hawaii",earthquake,0.47,0.670000017,0.140000001,12,automatic,hv,hv
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-13T17:08:07.460Z,19.238166809082,-155.386001586914,32,2.22000003,md,39,161,0.09402,0.140000001,hv,hv74275751,2024-06-13T17:09:35.700Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.620000005,0.430000007,9,automatic,hv,hv
 2024-06-13T17:06:59.422Z,31.706,-101.697,5.835,2.2,ml,23,62,0.1,0.1,tx,tx2024loyj,2024-06-13T19:00:18.260Z,"26 km SW of Garden City, Texas",earthquake,0.9439802701517681,1.7345772283901355,0.1,15,reviewed,tx,tx
 2024-06-13T17:02:47.590Z,33.6845,-116.6918333,17.47,0.76,ml,25,114,0.02164,0.12,ci,ci40797400,2024-06-13T17:53:41.369Z,"7 km SSE of Idyllwild, CA",earthquake,0.24,0.36,0.218,11,reviewed,ci,ci
-2024-06-13T17:00:40.123Z,60.6626,-152.2551,88.7,1.6,ml,,,,0.38,ak,ak0247l5spv0,2024-06-13T17:02:35.874Z,"51 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
