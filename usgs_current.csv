@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-14T16:32:17.420Z,38.8093338012695,-122.819000244141,1.37999999523163,1.07,md,12,68,0.007965,0.02,nc,nc75022222,2024-06-14T16:33:56.368Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.699999988,0.3,12,automatic,nc,nc
 2024-06-14T16:24:50.840Z,32.8643333,-116.1606667,5.14,2.1,ml,66,50,0.08991,0.24,ci,ci40798760,2024-06-14T16:31:52.357Z,"21 km NW of Ocotillo, CA",earthquake,0.18,0.7,0.22,26,automatic,ci,ci
 2024-06-14T16:09:29.470Z,33.985,-116.463,7.9,1.18,ml,50,57,0.06314,0.12,ci,ci40798744,2024-06-14T16:20:22.000Z,"4 km NE of Desert Hot Springs, CA",earthquake,0.13,0.39,0.224,26,automatic,ci,ci
 2024-06-14T16:03:01.370Z,19.2919998168945,-155.271499633789,0.889999985694885,2.16,ml,54,139,0.03425,0.200000003,hv,hv74277081,2024-06-14T16:05:37.540Z,"17 km SSW of Volcano, Hawaii",earthquake,0.24,0.310000002,0.47,19,automatic,hv,hv
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-14T14:36:22.280Z,38.829833984375,-122.818168640137,1.72000002861023,1.09,md,22,47,0.009018,0.02,nc,nc75022192,2024-06-14T14:38:00.739Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.449999988,0.18,23,automatic,nc,nc
 2024-06-14T14:30:27.928Z,63.0867,-151.3728,0,1.2,ml,,,,0.8,ak,ak0247mrq62w,2024-06-14T14:32:24.655Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-14T14:20:00.490Z,35.6695,-117.4768333,8.58,0.87,ml,20,121,0.04348,0.14,ci,ci40798624,2024-06-14T16:07:06.169Z,"13 km SSW of Searles Valley, CA",earthquake,0.28,0.51,0.096,6,reviewed,ci,ci
+2024-06-14T14:17:40.640Z,47.5755,-121.79983333333334,74.64,1.99,ml,47,103,0.08925,0.14,uw,uw62007007,2024-06-14T16:33:17.910Z,"5 km NNE of Snoqualmie, Washington",earthquake,0.53,0.38,0.2140711303597218,50,reviewed,uw,uw
 2024-06-14T14:11:01.154Z,64.2601,-160.448,0.1,1.7,ml,,,,0.8,ak,ak0247mrm1er,2024-06-14T14:13:25.396Z,"37 km ESE of Shaktoolik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-14T14:06:17.810Z,33.3271667,-116.8726667,10.12,0.94,ml,42,32,0.02767,0.15,ci,ci40798616,2024-06-14T16:06:46.280Z,"3 km SSW of Palomar Observatory, CA",earthquake,0.15,0.41,0.151,27,reviewed,ci,ci
 2024-06-14T13:55:56.350Z,38.8381652832031,-122.806831359863,2.25999999046326,0.88,md,16,55,0.01288,0.01,nc,nc75022177,2024-06-14T13:57:35.172Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.75,0.24,18,automatic,nc,nc
@@ -191,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-13T16:48:49.840Z,61.2555,-152.277333333333,4.52,-0.49,ml,6,186,0.046,0.12,av,av93011734,2024-06-14T05:34:50.740Z,"64 km WNW of Tyonek, Alaska",earthquake,0.57,0.91,0.248526948678235,6,reviewed,av,av
 2024-06-13T16:47:31.939Z,31.675,-104.194,4.613,1.6,ml,22,68,0.1,0.1,tx,tx2024loxt,2024-06-13T18:05:00.919Z,"55 km NW of Toyah, Texas",earthquake,0.5731704945026441,1.3567848579561934,0.1,19,reviewed,tx,tx
 2024-06-13T16:45:46.820Z,33.464,-116.439,9.65,0.84,ml,34,76,0.06028,0.14,ci,ci40797344,2024-06-13T18:08:32.963Z,"24 km NNW of Borrego Springs, CA",earthquake,0.18,0.44,0.155,24,reviewed,ci,ci
-2024-06-13T16:32:49.584Z,61.425,-152.3521,14.8,1.1,ml,,,,0.12,ak,ak0247l5e5we,2024-06-13T16:33:56.668Z,"75 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
