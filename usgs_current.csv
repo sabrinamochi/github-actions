@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-18T01:12:58.510Z,34.0494995,-117.5631638,8.06,2.33,ml,108,29,0.04009,0.18,ci,ci40801456,2024-06-18T01:19:28.658Z,"6 km E of Ontario, CA",earthquake,0.16,0.47,0.329,24,automatic,ci,ci
 2024-06-18T01:03:47.950Z,19.0116672515869,-155.442672729492,32.5299987792969,2.23000002,md,49,212,0.1261,0.200000003,hv,hv74281306,2024-06-18T01:05:36.750Z,"15 km ESE of Naalehu, Hawaii",earthquake,0.74,0.879999995,0.25999999,12,automatic,hv,hv
 2024-06-18T00:38:44.750Z,38.7934989929199,-122.780830383301,3.46000003814697,1.47,md,30,78,0.005548,0.04,nc,nc75023422,2024-06-18T00:40:24.075Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.17,32,automatic,nc,nc
 2024-06-18T00:07:03.530Z,34.1183333,-116.7681667,6.04,0.94,ml,7,173,0.08925,0.11,ci,ci40801448,2024-06-18T00:13:21.132Z,"17 km SSE of Big Bear City, CA",earthquake,1.84,2.69,0.296,10,automatic,ci,ci
@@ -206,6 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T02:31:58.830Z,19.1921672821045,-155.504333496094,33.7799987792969,2.13000011,md,29,202,0.05412,0.219999999,hv,hv74280221,2024-06-17T02:34:02.400Z,"2 km WSW of Pāhala, Hawaii",earthquake,1.02,1.19000006,0.180000007,4,automatic,hv,hv
 2024-06-17T02:27:17.740Z,51.9525,178.4595,6.89,0.83,ml,4,316,0.03235,0.21,av,av93012104,2024-06-18T01:03:29.430Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.26,1,0.452813775117729,4,reviewed,av,av
 2024-06-17T02:26:20.490Z,51.9411666666667,178.446166666667,4.08,0.05,ml,4,319,0.04096,0.08,av,av93012099,2024-06-18T00:59:27.400Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.82,1.19,0.529809822573477,4,reviewed,av,av
+2024-06-17T02:26:07.980Z,52.0975,-176.113666666667,6.55,-0.37,ml,4,242,0.03959,0.33,av,av93012114,2024-06-18T01:18:02.160Z,"43 km NE of Adak, Alaska",earthquake,1.84,2.46,0.179897467970245,4,reviewed,av,av
 2024-06-17T02:23:35.455Z,-16.097,-74.766,10,4.5,mb,29,153,4.555,1.42,us,us7000mswm,2024-06-17T04:30:45.040Z,"54 km SW of Atiquipa, Peru",earthquake,10.45,1.922,0.097,31,reviewed,us,us
 2024-06-17T02:21:34.252Z,-6.9817,129.7735,133.217,4.3,mb,15,87,4.729,0.93,us,us7000mswn,2024-06-17T03:54:49.040Z,"Banda Sea",earthquake,8.97,13.228,0.239,5,reviewed,us,us
 2024-06-17T02:15:03.740Z,18.0168333333333,-67.063,14.79,2.36,md,6,98,0.04554,0.18,pr,pr71452908,2024-06-17T02:24:28.490Z,"2 km SSE of Palmarejo, Puerto Rico",earthquake,1.09,1.39,0.0346083300626856,5,reviewed,pr,pr
@@ -222,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T01:37:26.480Z,35.558,-96.73883333,5,1.72,ml,95,33,0.02159576217,0.26,ok,ok2024lvbs,2024-06-17T13:03:53.585Z,"9 km NNW of Prague, Oklahoma",earthquake,,0.4,0.24,50,reviewed,ok,ok
 2024-06-17T01:21:47.950Z,36.6341667175293,-121.252830505371,9.47999954223633,2.78,md,52,102,,0.11,nc,nc75023102,2024-06-17T02:51:26.040Z,"15 km NNW of Pinnacles, CA",earthquake,0.21,0.439999998,0.12,67,automatic,nc,nc
 2024-06-17T01:20:25.068Z,60.6512,-151.4754,53.8,1.6,ml,,,,0.77,ak,ak0247rijfbe,2024-06-17T01:23:02.373Z,"9 km WNW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-06-17T01:16:56.620Z,51.9176666666667,178.495666666667,3.31,0.41,ml,4,300,0.03219,0.21,av,av93167341,2024-06-18T00:24:31.920Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.37,1.9,0.332476518760651,4,reviewed,av,av
-2024-06-17T01:13:58.633Z,38.8401,-118.0294,7.4,2.2,ml,11,41.84,0.216,0.1423,nn,nn00879374,2024-06-17T15:51:45.719Z,"9 km WSW of Gabbs, Nevada",earthquake,,2.2,0.3,6,reviewed,nn,nn
