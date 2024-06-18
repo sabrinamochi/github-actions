@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-18T15:25:11.400Z,32.918335,-115.5228348,8.72,1.51,ml,19,133,0.03603,0.3,ci,ci40801824,2024-06-18T15:27:23.392Z,"7 km S of Brawley, CA",earthquake,0.83,0.77,0.325,12,automatic,ci,ci
 2024-06-18T15:21:04.080Z,32.6433334,-115.7163315,10.44,2.16,ml,41,57,0.01037,0.28,ci,ci40801808,2024-06-18T15:23:18.370Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.39,0.8,0.271,27,automatic,ci,ci
 2024-06-18T14:58:06.090Z,36.6501655578613,-121.293998718262,7.40000009536743,2.88,md,61,31,,0.23,nc,nc75023577,2024-06-18T15:03:28.850Z,"16 km S of Tres Pinos, CA",earthquake,0.27,0.660000026,0.11,71,automatic,nc,nc
 2024-06-18T14:16:58.970Z,38.2881660461426,-121.855163574219,22.6800003051758,2.38,md,29,80,0.1795,0.34,nc,nc75023572,2024-06-18T14:18:34.257Z,"8 km SSE of Elmira, CA",earthquake,0.68,0.75999999,0.15,20,automatic,nc,nc
@@ -117,7 +118,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T22:15:11.408Z,59.6602,-153.6577,126.3,1.7,ml,,,,0.87,ak,ak0247rv0fdw,2024-06-17T22:18:00.831Z,"28 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-17T22:06:46.728Z,61.4784,-149.9729,31.7,1.8,ml,,,,0.52,ak,ak0247ruyko0,2024-06-17T22:09:06.343Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-17T22:05:53.570Z,38.8300018310547,-122.81600189209,2.8199999332428,0.85,md,10,101,0.00806,0.02,nc,nc75023377,2024-06-17T22:07:28.462Z,"8 km NNW of The Geysers, CA",earthquake,0.42,1.82000005,0.23,11,automatic,nc,nc
-2024-06-17T21:43:24.865Z,31.677,-104.391,5.5077,1.6,ml,13,86,0,0.2,tx,tx2024lwpn,2024-06-17T22:09:21.244Z,"55 km S of Whites City, New Mexico",earthquake,0,2.93582413938239,0.1,11,automatic,tx,tx
+2024-06-17T21:54:33.840Z,34.48433333,-97.27066667,0,1.24,ml,28,77,0.09898057663,0.38,ok,ok2024lwpw,2024-06-18T15:33:25.011Z,"12 km SE of Katie, Oklahoma",quarry blast,,0.6,0.24,12,reviewed,ok,ok
+2024-06-17T21:43:24.973Z,31.674,-104.392,5.6384,1.6,ml,14,86,0,0.1,tx,tx2024lwpn,2024-06-18T15:29:18.463Z,"55 km S of Whites City, New Mexico",earthquake,1.054269161603489,1.215253464058027,0.1,13,reviewed,tx,tx
 2024-06-17T21:23:44.047Z,31.668,-104.401,4.7374,1.6,ml,17,70,0,0.3,tx,tx2024lwow,2024-06-17T22:09:12.251Z,"56 km S of Whites City, New Mexico",earthquake,0,1.37378916746193,0.1,13,automatic,tx,tx
 2024-06-17T21:21:06.660Z,38.7868347167969,-122.769996643066,2.51999998092651,0.74,md,12,82,0.01537,0.02,nc,nc75023362,2024-06-17T21:22:43.152Z,"2 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.17,12,automatic,nc,nc
 2024-06-17T21:10:10.312Z,31.679,-104.398,5.0745,2.1,ml,26,68,0,0.1,tx,tx2024lwok,2024-06-18T15:17:56.368Z,"55 km S of Whites City, New Mexico",earthquake,0.7767031198978077,0.7757084720732149,0.1,15,reviewed,tx,tx
@@ -170,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T15:38:49.520Z,38.8108329772949,-122.737663269043,0.899999976158142,0.79,md,7,128,0.02757,0.03,nc,nc75023297,2024-06-17T15:40:27.449Z,"2 km WSW of Cobb, CA",earthquake,0.34,1.76999998,0.08,9,automatic,nc,nc
 2024-06-17T15:36:20.060Z,38.8278350830078,-122.851669311523,1.38999998569489,0.73,md,10,86,0.004075,0.02,nc,nc75023292,2024-06-17T15:37:57.639Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.75,0.28,10,automatic,nc,nc
 2024-06-17T15:35:11.475Z,31.668,-104.391,4.4359,1.6,ml,15,70,0,0.3,tx,tx2024lwdi,2024-06-17T16:12:19.273Z,"56 km S of Whites City, New Mexico",earthquake,0,1.44960456915192,0.1,12,automatic,tx,tx
-2024-06-17T15:26:05.232Z,63.0979,-151.3909,0,1.1,ml,,,,0.88,ak,ak0247rqwqjv,2024-06-17T15:27:56.411Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
