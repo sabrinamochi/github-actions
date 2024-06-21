@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-21T17:43:13.709Z,18.2611,-67.3102,90.057,4.2,ml,23,90,0.163,0.39,us,us7000mttd,2024-06-21T17:57:15.193Z,"9 km SW of Stella, Puerto Rico",earthquake,6.27,5.307,0.062,34,reviewed,us,us
+2024-06-21T17:43:13.709Z,18.2611,-67.3102,90.057,4.2,ml,23,90,0.163,0.39,us,us7000mttd,2024-06-21T18:03:28.087Z,"9 km SW of Stella, Puerto Rico",earthquake,6.27,5.307,0.062,34,reviewed,us,us
 2024-06-21T17:14:34.368Z,36.0088,-84.1815,8.024,2.2,mb_lg,16,62,0.482,0.4,us,us7000mttc,2024-06-21T17:33:32.198Z,"7 km E of Oak Ridge, Tennessee",earthquake,1.43,5.667,0.17,9,reviewed,us,us
 2024-06-21T17:13:56.390Z,38.8250007629395,-122.843170166016,1.8400000333786,0.64,md,8,111,0.006631,0.01,nc,nc75024987,2024-06-21T17:15:34.895Z,"9 km NW of The Geysers, CA",earthquake,0.52,1.11000001,0.12,9,automatic,nc,nc
 2024-06-21T17:11:35.620Z,35.057,-118.3358333,-0.24,1.17,ml,36,36,0.06641,0.18,ci,ci40805752,2024-06-21T17:18:25.433Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.46,0.113,25,automatic,ci,ci
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T09:26:03.670Z,38.8368339538574,-122.794334411621,1.83000004291534,1.1,md,16,70,0.003491,0.02,nc,nc75024792,2024-06-21T09:27:38.655Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.439999998,0.25,16,automatic,nc,nc
 2024-06-21T09:22:33.080Z,33.6345,-116.709,13.37,0.93,ml,55,30,0.04516,0.19,ci,ci40805296,2024-06-21T09:33:15.830Z,"9 km NNW of Anza, CA",earthquake,0.17,0.32,0.239,26,automatic,ci,ci
 2024-06-21T09:19:03.200Z,45.69583333333333,-122.7545,22.4,1.8,ml,46,56,0.05524,0.16,uw,uw62017371,2024-06-21T15:51:10.144Z,"3 km WSW of Felida, Washington",earthquake,0.24,0.38,0.14272182093774632,32,reviewed,uw,uw
-2024-06-21T09:13:03.880Z,33.7095,-117.0683333,11.34,0.87,ml,48,34,0.05571,0.16,ci,ci40805288,2024-06-21T09:19:23.732Z,"2 km E of Winchester, CA",earthquake,0.17,0.23,0.168,24,automatic,ci,ci
+2024-06-21T09:13:03.880Z,33.7095,-117.0683333,11.34,0.87,ml,48,34,0.05571,0.16,ci,ci40805288,2024-06-21T18:02:20.087Z,"2 km E of Winchester, CA",earthquake,0.17,0.23,0.168,24,reviewed,ci,ci
 2024-06-21T09:08:31.681Z,63.0835,-151.3273,4.5,2.1,ml,,,,0.56,ak,ak0247y9dq1s,2024-06-21T09:10:47.790Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-21T09:06:52.971Z,37.205,-117.5707,8.2,2.1,ml,22,122.07999999999998,0.066,0.1438,nn,nn00879676,2024-06-21T16:47:14.193Z,"61 km S of Silver Peak, Nevada",earthquake,,1,0.3,6,reviewed,nn,nn
 2024-06-21T08:59:54.746Z,62.2707,-150.0601,12.8,0.9,ml,,,,0.53,ak,ak0247y939qq,2024-06-21T09:01:20.519Z,"6 km SSE of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -132,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T07:14:11.105Z,37.3182,-117.1898,0,0.4,ml,8,200.38,0.059,0.3396,nn,nn00879672,2024-06-21T07:16:19.196Z,"43 km S of Goldfield, Nevada",earthquake,,0.4,0.31,5,automatic,nn,nn
 2024-06-21T07:09:26.759Z,37.3214,-117.2042,3.9,0.9,ml,20,201.41999999999996,0.05,0.3122,nn,nn00879671,2024-06-21T07:11:51.064Z,"43 km S of Goldfield, Nevada",earthquake,,0.8,0.3,8,automatic,nn,nn
 2024-06-21T06:53:34.960Z,33.6388333,-116.7028333,13.5,0.56,ml,21,53,0.03855,0.14,ci,ci40805256,2024-06-21T06:59:46.068Z,"10 km NNW of Anza, CA",earthquake,0.26,0.52,0.055,11,automatic,ci,ci
-2024-06-21T06:52:35.300Z,33.635,-116.7071667,13.54,0.92,ml,48,51,0.04379,0.16,ci,ci40805248,2024-06-21T06:58:58.404Z,"9 km NNW of Anza, CA",earthquake,0.17,0.3,0.212,27,automatic,ci,ci
+2024-06-21T06:52:35.300Z,33.635,-116.7071667,13.54,0.92,ml,48,51,0.04379,0.16,ci,ci40805248,2024-06-21T18:02:16.220Z,"9 km NNW of Anza, CA",earthquake,0.17,0.3,0.212,27,reviewed,ci,ci
 2024-06-21T06:42:34.250Z,19.0913333333333,-66.6963333333333,21.81,3.17,md,13,286,0.6311,0.32,pr,pr71453603,2024-06-21T06:55:08.310Z,"68 km N of Carrizales, Puerto Rico",earthquake,1.42,23.73,0.0359055687799639,10,reviewed,pr,pr
 2024-06-21T06:38:18.025Z,-7.8826,118.2174,196.768,4.6,mb,23,91,1.035,0.95,us,us7000mtr8,2024-06-21T06:58:07.040Z,"77 km NNW of Dompu, Indonesia",earthquake,8.7,7.231,0.164,11,reviewed,us,us
 2024-06-21T06:36:15.590Z,33.6691667,-116.9251667,13.01,0.31,ml,14,72,0.0179,0.1,ci,ci40805240,2024-06-21T06:42:36.020Z,"9 km SSW of Valle Vista, CA",earthquake,0.28,0.5,0.107,5,automatic,ci,ci
