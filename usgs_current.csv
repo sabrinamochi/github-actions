@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T15:29:53.490Z,33.8209991,-117.7118301,5.99,1.47,ml,37,76,0.04772,0.17,ci,ci40805576,2024-06-21T15:31:58.891Z,"9 km E of Villa Park, CA",earthquake,0.32,0.91,0.19,10,automatic,ci,ci
 2024-06-21T15:24:28.778Z,61.8831,-152.112,115.5,1.2,ml,,,,0.28,ak,ak0247yd1qwt,2024-06-21T15:26:55.561Z,"39 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-21T15:08:56.814Z,62.3641,-149.1915,0,1.2,ml,,,,1.01,ak,ak0247ycydm9,2024-06-21T15:10:55.195Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-21T15:06:56.400Z,19.3888339996338,-155.242004394531,1.60000002384186,1.85,ml,16,69,0.009386,0.129999995,hv,hv74286321,2024-06-21T15:09:34.780Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.230000004,0.4,7,automatic,hv,hv
@@ -89,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T07:53:33.649Z,57.5398,-142.7708,10,3.4,ml,53,155,2.593,0.8,us,us7000mtrg,2024-06-21T08:26:22.040Z,"285 km SW of Yakutat, Alaska",earthquake,2.69,2.004,0.045,64,reviewed,us,us
 2024-06-21T07:53:26.632Z,62.1395,-147.9051,32.3,1.5,ml,,,,0.59,ak,ak0247y8ghod,2024-06-21T07:55:36.614Z,"39 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-21T07:41:05.550Z,38.8253326416016,-122.804832458496,2.82999992370605,0.69,md,7,77,0.01728,0.04,nc,nc75024777,2024-06-21T07:42:43.659Z,"7 km NNW of The Geysers, CA",earthquake,0.56,2.75,0.16,8,automatic,nc,nc
+2024-06-21T07:40:09.230Z,46.2045,-122.19083333333333,0.97,0.37,ml,15,69,0.004721,0.06,uw,uw62017341,2024-06-21T15:33:27.900Z,"38 km NNE of Amboy, Washington",earthquake,0.22,0.13,0.08862093148499581,7,reviewed,uw,uw
 2024-06-21T07:34:25.720Z,33.0813333,-115.5175,0.06,1.3,ml,11,76,0.06588,0.36,ci,ci40805272,2024-06-21T07:40:33.604Z,"5 km S of Calipatria, CA",earthquake,1.13,2.91,0.148,19,automatic,ci,ci
 2024-06-21T07:33:55.290Z,38.7878341674805,-122.773666381836,1.00999999046326,0.91,md,12,93,0.01235,0.03,nc,nc75024772,2024-06-21T07:35:34.728Z,"2 km NW of The Geysers, CA",earthquake,0.29,0.479999989,0.2,14,automatic,nc,nc
 2024-06-21T07:31:40.644Z,36.7391,-116.2124,8.5,-0.3,ml,12,82.30000000000001,0.011,0.1389,nn,nn00879674,2024-06-21T07:33:10.214Z,"51 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.1,8,automatic,nn,nn
@@ -279,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T16:01:49.690Z,38.8321647644043,-122.81583404541,1.80999994277954,0.93,md,7,88,0.009845,0.01,nc,nc75024417,2024-06-20T16:03:28.481Z,"8 km NNW of The Geysers, CA",earthquake,0.49,1.47000003,0.32,9,automatic,nc,nc
 2024-06-20T15:58:34.768Z,37.3406,-117.1837,0,0.3,ml,7,221.70999999999998,0.074,0.1308,nn,nn00879646,2024-06-20T21:22:39.370Z,"41 km S of Goldfield, Nevada",earthquake,,0,0.07,3,reviewed,nn,nn
 2024-06-20T15:41:08.501Z,63.1045,-151.526,0,1.6,ml,,,,1.08,ak,ak0247wpm00y,2024-06-20T15:43:21.698Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-20T15:33:10.470Z,33.7345,-117.5103333,9.53,0.77,ml,12,87,0.09902,0.15,ci,ci40804280,2024-06-20T20:28:20.767Z,"11 km NE of Trabuco Canyon, CA",earthquake,0.33,0.79,0.221,7,reviewed,ci,ci
-2024-06-20T15:28:29.890Z,51.8081666666667,-178.7875,6.53,0.05,ml,5,108,0.01111,0.06,av,av93171696,2024-06-20T19:42:40.500Z,"148 km W of Adak, Alaska",earthquake,0.84,0.65,0.224863725552593,5,reviewed,av,av
