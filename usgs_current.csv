@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-21T19:37:32.495Z,60.0036,-152.7638,88,1.4,ml,,,,0.33,ak,ak0247yfi9xd,2024-06-21T19:39:40.313Z,"57 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-21T19:37:28.520Z,33.8718338,-117.4950027,2.4,1.25,ml,23,77,0.06838,0.13,ci,ci40805960,2024-06-21T19:39:39.196Z,"2 km ESE of Home Gardens, CA",earthquake,0.34,0.5,0.233,8,automatic,ci,ci
-2024-06-21T19:34:22.494Z,60.9025,-151.5772,56.8,1.1,ml,,,,0.14,ak,ak0247yfhm09,2024-06-21T19:35:26.128Z,"28 km NNW of Nikiski, Alaska",earthquake,,2,,,automatic,ak,ak
+2024-06-21T19:34:22.494Z,60.9025,-151.5772,56.8,1.1,ml,,,,0.14,ak,ak0247yfhm09,2024-06-21T19:40:55.861Z,"28 km NNW of Nikiski, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-06-21T19:30:36.379Z,63.2342,-151.773,7.4,1.1,ml,,,,0.85,ak,ak0247yfgs7r,2024-06-21T19:33:32.541Z,"34 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-21T19:25:43.120Z,38.8429985046387,-122.830833435059,1.23000001907349,0.7,md,8,118,0.005709,0.02,nc,nc75025047,2024-06-21T19:27:20.042Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.649999976,0.2,9,automatic,nc,nc
 2024-06-21T19:21:35.010Z,19.2061672210693,-155.379501342773,28.7900009155273,2.08999991,md,36,169,0.09298,0.150000006,hv,hv74286586,2024-06-21T19:22:59.100Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.75,0.159999996,7,automatic,hv,hv
@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T17:14:34.368Z,36.0088,-84.1815,8.024,2.2,mb_lg,16,62,0.482,0.4,us,us7000mttc,2024-06-21T19:12:26.646Z,"7 km E of Oak Ridge, Tennessee",earthquake,1.43,5.667,0.17,9,reviewed,us,us
 2024-06-21T17:13:56.390Z,38.8250007629395,-122.843170166016,1.8400000333786,0.64,md,8,111,0.006631,0.01,nc,nc75024987,2024-06-21T17:15:34.895Z,"9 km NW of The Geysers, CA",earthquake,0.52,1.11000001,0.12,9,automatic,nc,nc
 2024-06-21T17:11:35.620Z,35.057,-118.3358333,-0.24,1.17,ml,36,36,0.06641,0.18,ci,ci40805752,2024-06-21T17:18:25.433Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.46,0.113,25,automatic,ci,ci
+2024-06-21T17:07:38.063Z,31.62,-104.122,5.8307,1.7,ml,28,56,0,0.1,tx,tx2024mdol,2024-06-21T19:41:06.066Z,"46 km NW of Toyah, Texas",earthquake,0.52439992091725,0.6107594403017605,0.2,17,reviewed,tx,tx
 2024-06-21T17:06:49.992Z,61.248,-145.8674,30.5,1.2,ml,,,,0.43,ak,ak0247ye4svb,2024-06-21T17:08:46.787Z,"28 km ENE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-21T16:57:10.970Z,33.4843333,-116.4786667,7.33,0.81,ml,34,42,0.05896,0.15,ci,ci40805744,2024-06-21T19:33:36.090Z,"20 km ESE of Anza, CA",earthquake,0.16,0.49,0.111,21,reviewed,ci,ci
 2024-06-21T16:55:20.190Z,33.4845,-116.4793333,9.15,0.53,ml,22,67,0.05927,0.14,ci,ci40805736,2024-06-21T19:33:51.030Z,"20 km ESE of Anza, CA",earthquake,0.22,0.5,0.13,12,reviewed,ci,ci
@@ -208,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T02:45:42.810Z,19.2961666666667,-154.974666666667,38.17,1.98,md,37,220,0.1396,0.1,hv,hv74285596,2024-06-21T03:11:19.093Z,"20 km SSW of Leilani Estates, Hawaii",earthquake,1.33,0.54,0.156631086815298,11,reviewed,hv,hv
 2024-06-21T02:44:11.990Z,36.8531684875488,-121.297332763672,7.32999992370605,2.13,md,41,54,,0.06,nc,nc75024662,2024-06-21T02:47:14.230Z,"7 km NNE of Tres Pinos, CA",earthquake,0.17,0.49000001,0.11,36,automatic,nc,nc
 2024-06-21T02:41:20.047Z,60.9568,-146.034,24,1.2,ml,,,,0.45,ak,ak0247y5eqjo,2024-06-21T02:42:59.721Z,"25 km SE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-21T02:39:49.400Z,33.4775,-116.5098333,12.43,0.66,ml,29,57,0.07908,0.13,ci,ci40805176,2024-06-21T02:45:50.623Z,"18 km ESE of Anza, CA",earthquake,0.19,0.41,0.201,21,automatic,ci,ci
+2024-06-21T02:39:49.400Z,33.4775,-116.5098333,12.43,0.66,ml,29,57,0.07908,0.13,ci,ci40805176,2024-06-21T19:41:09.613Z,"18 km ESE of Anza, CA",earthquake,0.19,0.41,0.201,21,reviewed,ci,ci
 2024-06-21T02:39:20.062Z,60.1924,-151.1225,68.8,1.3,ml,,,,0.69,ak,ak0247y5eb46,2024-06-21T02:42:49.849Z,"15 km ESE of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-21T02:18:37.058Z,63.3533,-144.855,3.2,1.5,ml,,,,1.07,ak,ak0247y59ueg,2024-06-21T02:20:54.977Z,"34 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-21T02:10:49.770Z,18.8258,-155.6086,10,2.7,ml,18,299,0.163,0.65,us,us7000mtq5,2024-06-21T03:07:07.040Z,"26 km S of Naalehu, Hawaii",earthquake,2.12,1.981,0.064,32,reviewed,us,us
