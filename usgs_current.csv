@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T02:07:49.710Z,34.0208321,-117.2204971,12.88,1.02,ml,20,95,0.1316,0.18,ci,ci40805160,2024-06-21T02:09:52.150Z,"5 km SE of Loma Linda, CA",earthquake,0.46,1.41,0.218,5,automatic,ci,ci
 2024-06-21T02:00:06.961Z,60.5593,-151.6666,56.8,1.3,ml,,,,0.67,ak,ak0247y55x6g,2024-06-21T02:01:55.487Z,"20 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-06-21T01:54:02.896Z,57.7403,-155.7918,14.3,1.3,ml,,,,0.32,ak,ak0247y4w1xd,2024-06-21T01:55:36.280Z,"82 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-21T01:49:14.430Z,38.8233337402344,-122.844497680664,2.22000002861023,0.74,md,12,104,0.007399,0.01,nc,nc75024652,2024-06-21T01:50:53.213Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.5,0.42,14,automatic,nc,nc
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T14:53:29.608Z,46.5391,152.3661,59.586,4.5,mb,71,166,6.614,1.05,us,us7000mtlm,2024-06-20T15:20:28.040Z,"Kuril Islands",earthquake,11.01,8.576,0.076,51,reviewed,us,us
 2024-06-20T14:50:53.270Z,37.0611667,-117.4593333,0.81,1.73,ml,14,155,0.2272,0.17,ci,ci40804200,2024-06-20T23:06:53.208Z,"58 km NNW of Stovepipe Wells, CA",earthquake,0.26,0.97,0.099,10,reviewed,ci,ci
 2024-06-20T14:48:15.230Z,61.5711,-146.3068,34.2,1.1,ml,,,,0.46,ak,ak0247wp22yb,2024-06-20T14:50:11.566Z,"49 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-06-20T14:41:43.760Z,31.643,-104.257,7.5867,2,ml,16,67,0,0.1,tx,tx2024mboc,2024-06-20T15:29:43.294Z,"57 km NW of Toyah, Texas",earthquake,0.6605651702551347,0.8155308834496605,0.2,21,reviewed,tx,tx
+2024-06-20T14:41:43.760Z,31.643,-104.257,7.5867,2,ml,16,67,0,0.1,tx,tx2024mboc,2024-06-20T15:29:43.294Z,"western Texas",earthquake,0.6605651702551347,0.8155308834496605,0.2,21,reviewed,tx,tx
 2024-06-20T14:38:59.280Z,36.1178333,-117.8796667,9.03,0.74,ml,10,140,0.02009,0.07,ci,ci40804168,2024-06-20T22:52:27.692Z,"10 km NE of Coso Junction, CA",earthquake,0.27,0.36,0.243,6,reviewed,ci,ci
 2024-06-20T14:27:24.590Z,51.7295,-178.802666666667,9.45,0.27,ml,5,294,0.03602,0.29,av,av93171626,2024-06-20T19:36:48.990Z,"150 km W of Adak, Alaska",earthquake,1.87,2.15,0.246909646402849,5,reviewed,av,av
 2024-06-20T14:22:02.640Z,19.3895,-155.247,1.58,2.34,ml,25,59,0.005684,0.1,hv,hv74285036,2024-06-20T17:21:12.150Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.16,0.115106996055579,11,reviewed,hv,hv
@@ -261,10 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T02:42:32.580Z,32.9843333,-116.3136667,8.89,0.98,ml,35,52,0.03089,0.17,ci,ci40803744,2024-06-20T13:15:11.944Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.45,0.332,17,reviewed,ci,ci
 2024-06-20T02:37:27.966Z,59.2451,-152.6169,74.8,1.3,ml,,,,0.33,ak,ak0247whujss,2024-06-20T02:39:31.087Z,"41 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-06-20T02:36:00.620Z,51.956,178.371666666667,6.7,1.64,ml,4,340,0.08677,0.15,av,av93170921,2024-06-20T21:02:58.930Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.19,2.56,0.27279972500175,4,reviewed,av,av
-2024-06-20T02:20:03.300Z,38.8383331298828,-122.812164306641,2.39000010490417,0.72,md,11,61,0.01501,0.02,nc,nc75024222,2024-06-20T02:21:42.652Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.610000014,0.14,11,automatic,nc,nc
-2024-06-20T02:19:20.410Z,52.1058333333333,-176.151666666667,13.44,-0.26,ml,4,264,0.02014,0.29,av,av93012504,2024-06-20T21:18:24.090Z,"41 km NE of Adak, Alaska",earthquake,3.17,1.83,0.158899142445082,4,reviewed,av,av
-2024-06-20T02:18:36.448Z,37.3187,-117.2049,4.7,0.5,ml,9,195.71000000000004,0.048,0.1106,nn,nn00879577,2024-06-20T18:52:23.161Z,"43 km S of Goldfield, Nevada",earthquake,,2.5,0,1,reviewed,nn,nn
-2024-06-20T02:17:40.670Z,38.852165222168,-122.778663635254,1.37000000476837,1.12,md,19,160,0.009712,0.04,nc,nc75024217,2024-06-20T02:19:17.620Z,"6 km NW of Cobb, CA",earthquake,0.26,0.300000012,0.15,21,automatic,nc,nc
-2024-06-20T02:12:33.249Z,60.9299,-150.9501,13.9,2.2,ml,,,,0.41,ak,ak0247whp7b0,2024-06-20T02:14:09.583Z,"14 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-20T02:10:03.460Z,38.8424987792969,-122.836334228516,1.55999994277954,0.59,md,15,116,0.00396,0.01,nc,nc75024212,2024-06-20T02:11:41.329Z,"10 km NNW of The Geysers, CA",earthquake,0.28,0.439999998,0.32,15,automatic,nc,nc
-2024-06-20T02:08:58.472Z,61.5037,-149.9436,28.7,1.4,ml,,,,0.57,ak,ak0247whoedz,2024-06-20T02:10:58.685Z,"2 km SSE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
