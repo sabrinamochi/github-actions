@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-23T20:46:18.550Z,33.2625,-116.0835,9.4,0.86,ml,35,58,0.08367,0.22,ci,ci40808064,2024-06-23T20:56:13.411Z,"12 km WSW of Salton City, CA",earthquake,0.23,0.8,0.137,17,automatic,ci,ci
 2024-06-23T20:44:10.890Z,19.3988342285156,-155.254501342773,0.689999997615814,1.75999999,md,16,57,0.0109,0.159999996,hv,hv74289416,2024-06-23T20:45:50.390Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.209999993,0.330000013,14,automatic,hv,hv
+2024-06-23T20:28:05.373Z,7.58,-82.3186,10,4.6,mwr,55,150,1.29,0.88,us,us7000mu61,2024-06-23T21:00:38.040Z,"71 km S of Boca Chica, Panama",earthquake,7.52,1.94,0.073,18,reviewed,us,us
 2024-06-23T20:13:41.200Z,18.0218333333333,-66.8341666666667,12.32,2.82,md,13,131,0.04061,0.21,pr,pr71453888,2024-06-23T20:29:22.640Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.47,0.81,0.109627297438564,7,reviewed,pr,pr
 2024-06-23T20:10:19.130Z,62.4457,-151.7535,8.8,2.1,ml,,,,0.31,ak,ak02481r0l5l,2024-06-23T20:12:02.745Z,"51 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-23T20:07:52.850Z,46.261,-122.199,3.63,0.8300000000000001,ml,20,85,0.01955,0.08,uw,uw62018081,2024-06-23T20:15:53.600Z,"33 km S of Morton, Washington",earthquake,0.19,0.35,0.17865523794857296,12,reviewed,uw,uw
@@ -21,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T19:00:43.603Z,56.1054,-157.9301,50.7,2.4,ml,,,,0.16,ak,ak02481qd2a0,2024-06-23T19:03:33.192Z,"36 km SE of Chignik, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-06-23T18:38:53.544Z,63.2062,-151.4868,33.9,1.2,ml,,,,1.31,ak,ak02481pzsne,2024-06-23T18:42:20.419Z,"39 km SSE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-06-23T18:31:26.098Z,63.1624,-150.8055,113.4,2.7,ml,,,,0.61,ak,ak02481py8gr,2024-06-23T19:00:56.040Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-06-23T18:08:03.620Z,51.7651666666667,-178.7845,28.39,0.48,ml,5,163,0.008132,0.13,av,av93175951,2024-06-23T21:01:56.320Z,"148 km W of Adak, Alaska",earthquake,3.01,1.05,0.197901189804079,5,reviewed,av,av
 2024-06-23T17:53:54.920Z,19.2154998779297,-155.473495483398,29.5699996948242,1.84000003,md,33,186,0.1371,0.119999997,hv,hv74289291,2024-06-23T17:55:25.460Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.57,0.629999995,0.200000003,6,automatic,hv,hv
 2024-06-23T17:51:50.940Z,38.7608337402344,-122.738502502441,1.44000005722046,0.79,md,8,112,0.01069,0.04,nc,nc75026007,2024-06-23T17:53:26.631Z,"2 km SSE of The Geysers, CA",earthquake,0.47,0.649999976,0.19,8,automatic,nc,nc
 2024-06-23T17:45:41.840Z,33.1446667,-115.9595,5.51,0.97,ml,41,55,0.03257,0.18,ci,ci40807896,2024-06-23T17:55:15.361Z,"16 km E of Ocotillo Wells, CA",earthquake,0.19,0.35,0.12,22,automatic,ci,ci
@@ -146,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T05:46:09.840Z,31.8361667,-116.1513333,10.57,1.86,ml,11,77,0.2412,0.28,ci,ci40807440,2024-06-23T05:52:30.828Z,"42 km ENE of Maneadero, B.C., MX",earthquake,0.65,2.08,0.115,13,automatic,ci,ci
 2024-06-23T05:28:15.260Z,33.7395,-116.0311667,2.52,1.08,ml,48,54,0.09083,0.17,ci,ci40807432,2024-06-23T05:34:19.776Z,"15 km ENE of Coachella, CA",earthquake,0.16,0.34,0.163,27,automatic,ci,ci
 2024-06-23T05:21:11.056Z,64.6989,-149.0549,10.2,0.9,ml,,,,1.47,ak,ak02481i5fbi,2024-06-23T05:23:43.690Z,"11 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-23T05:18:21.550Z,34.0268333,-117.565,10.59,1.25,ml,56,61,0.02235,0.17,ci,ci40807424,2024-06-23T21:00:10.720Z,"6 km NW of Mira Loma, CA",earthquake,0.18,0.29,0.244,29,automatic,ci,ci
+2024-06-23T05:18:21.510Z,34.0276667,-117.5651667,10.8,1.17,ml,52,62,0.0232,0.15,ci,ci40807424,2024-06-23T21:00:10.720Z,"6 km NW of Mira Loma, CA",earthquake,0.17,0.26,0.205,35,reviewed,ci,ci
 2024-06-23T05:18:10.431Z,37.1268,-114.9058,16,2.3,ml,29,147.03000000000003,0.303,0.3424,nn,nn00879805,2024-06-23T05:21:08.911Z,"35 km SE of Alamo, Nevada",earthquake,,0.7,0.22,19,automatic,nn,nn
 2024-06-23T05:05:20.257Z,66.0932,-148.3639,8.6,1.4,ml,,,,0.96,ak,ak02481i20l5,2024-06-23T05:07:57.939Z,"34 km ENE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-23T05:03:35.120Z,33.1733333,-116.0131667,7.24,0.81,ml,38,68,0.02971,0.19,ci,ci40807408,2024-06-23T20:51:38.387Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.21,0.53,0.17,13,reviewed,ci,ci
