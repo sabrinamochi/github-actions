@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-25T14:13:09.750Z,37.2633323669434,-118.141166687012,10.6000003814697,2.33,md,25,234,0.1178,0.07,nc,nc75027061,2024-06-25T14:14:45.282Z,"17 km ENE of Big Pine, CA",earthquake,1.33,0.699999988,0.26,19,automatic,nc,nc
+2024-06-25T14:13:09.750Z,37.2633323669434,-118.141166687012,10.6000003814697,2.33,md,25,234,0.1178,0.07,nc,nc75027061,2024-06-25T14:15:55.997Z,"17 km ENE of Big Pine, CA",earthquake,1.33,0.699999988,0.26,19,automatic,nc,nc
 2024-06-25T14:10:05.934Z,59.7437,-151.9321,51,1.4,ml,,,,0.41,ak,ak02484yinht,2024-06-25T14:11:59.597Z,"6 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-25T14:05:17.791Z,60.6246,-141.6493,18.6,1.6,ml,,,,0.79,ak,ak02484yhltv,2024-06-25T14:07:43.006Z,"113 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-25T14:04:18.280Z,35.9628333,-117.6566667,3.56,1.73,ml,27,52,0.01575,0.16,ci,ci40810064,2024-06-25T14:10:57.087Z,"23 km E of Little Lake, CA",earthquake,0.21,0.31,0.189,27,automatic,ci,ci
@@ -233,6 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T17:04:54.730Z,33.981,-116.8651667,11.35,0.9,ml,35,61,0.07204,0.18,ci,ci40809104,2024-06-24T20:17:14.395Z,"6 km N of Banning, CA",earthquake,0.24,0.62,0.116,21,reviewed,ci,ci
 2024-06-24T17:04:12.790Z,60.5261666666667,-152.5995,9.42,0.5,ml,9,119,0.05994,0.3,av,av93177366,2024-06-25T03:39:19.220Z,"70 km W of Salamatof, Alaska",earthquake,0.78,1.37,0.185882486488637,9,reviewed,av,av
 2024-06-24T16:59:20.470Z,33.9825,-116.868,11.37,1.17,ml,44,51,0.07253,0.15,ci,ci40809096,2024-06-24T17:11:41.127Z,"6 km N of Banning, CA",earthquake,0.16,0.5,0.128,26,automatic,ci,ci
+2024-06-24T16:52:58.289Z,32.379,-101.661,6.8115,1.5,ml,19,66,0,0.1,tx,tx2024mjal,2024-06-25T14:23:46.747Z,"17 km SSE of Ackerly, Texas",earthquake,0.5818559323353734,0.8579360089457416,0.1,18,reviewed,tx,tx
 2024-06-24T16:52:09.080Z,33.8908333,-116.869,14.03,0.76,ml,29,61,0.08254,0.12,ci,ci40809072,2024-06-24T17:03:19.942Z,"4 km S of Banning, CA",earthquake,0.2,0.51,0.254,18,automatic,ci,ci
 2024-06-24T16:51:10.700Z,40.4113333333333,-121.377166666667,5.58,1.57,md,12,136,0.038,0.06,nc,nc75026612,2024-06-25T07:20:02.159Z,"17 km NW of Chester, CA",earthquake,0.46,0.31,0.215,12,reviewed,nc,nc
 2024-06-24T16:46:44.210Z,59.3616666666667,-153.440833333333,0.65,-0.17,ml,6,131,0.002191,0.12,av,av93177356,2024-06-25T03:25:44.500Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.36,0.28,0.118861434219975,6,reviewed,av,av
@@ -269,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T14:26:51.080Z,38.8199996948242,-122.804168701172,1.8400000333786,1.33,md,26,52,0.005725,0.02,nc,nc75026537,2024-06-24T14:28:28.305Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.12,28,automatic,nc,nc
 2024-06-24T14:24:29.110Z,60.004,-153.073666666667,-0.41,-0.92,ml,5,112,0.03034,0.1,av,av93177221,2024-06-25T02:32:16.820Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.32,2.58,0.277604722875951,5,reviewed,av,av
 2024-06-24T14:24:18.155Z,35.8135,139.3344,60.922,4.2,mb,31,138,1.165,1.16,us,us7000muc7,2024-06-25T00:04:33.506Z,"3 km W of Iruma, Japan",earthquake,4.48,8.96,0.125,18,reviewed,us,us
-2024-06-24T14:19:30.930Z,35.6703333,-117.5315,8.46,0.86,ml,21,97,0.08792,0.12,ci,ci40808816,2024-06-24T14:27:50.007Z,"14 km ENE of Ridgecrest, CA",earthquake,0.2,0.66,0.125,5,automatic,ci,ci
