@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-30T00:47:26.960Z,36.1666679,-118.0236664,4.16,1.01,ml,9,136,0.1452,0.06,ci,ci40814160,2024-06-30T00:49:33.621Z,"13 km S of Olancha, CA",earthquake,0.48,1.29,0.103,2,automatic,ci,ci
+2024-06-30T00:54:15.350Z,33.0610008,-115.8700027,8.1,1.13,ml,16,115,0.06812,0.16,ci,ci40814168,2024-06-30T00:56:29.670Z,"23 km W of Westmorland, CA",earthquake,0.45,1.5,0.277,4,automatic,ci,ci
+2024-06-30T00:47:26.920Z,36.1718333,-118.0253333,3.89,1.15,ml,16,55,0.1482,0.15,ci,ci40814160,2024-06-30T00:53:10.645Z,"12 km S of Olancha, CA",earthquake,0.26,0.84,0.168,14,automatic,ci,ci
 2024-06-30T00:46:17.230Z,19.183500289917,-155.374160766602,29.9799995422363,2.01999998,md,16,216,0.1495,0.119999997,hv,hv74302991,2024-06-30T00:48:32.550Z,"11 km E of Pāhala, Hawaii",earthquake,1.67,1.08000004,0.219999999,4,automatic,hv,hv
 2024-06-30T00:39:07.420Z,19.3951663970947,-155.25700378418,1.02999997138977,1.79,ml,10,77,0.009055,0.0900000036,hv,hv74302966,2024-06-30T00:41:44.830Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.270000011,0.45,10,automatic,hv,hv
+2024-06-30T00:38:08.717Z,31.62,-104.129,4.0602,1.7,ml,17,56,0,0.2,tx,tx2024msti,2024-06-30T00:51:52.519Z,"46 km NW of Toyah, Texas",earthquake,0,1.2620527457234,0.2,13,automatic,tx,tx
 2024-06-30T00:34:01.080Z,19.3843326568604,-155.224838256836,2.52999997138977,1.98000002,md,9,96,0.0137,0.109999999,hv,hv74302956,2024-06-30T00:36:39.940Z,"6 km S of Volcano, Hawaii",earthquake,0.65,0.589999974,0.129999995,6,automatic,hv,hv
+2024-06-30T00:33:07.830Z,31.636,-104.113,3.9467,1.5,ml,17,93,0,0.5,tx,tx2024mstf,2024-06-30T00:53:07.147Z,"46 km NW of Toyah, Texas",earthquake,0,1.45347131683634,0.2,12,automatic,tx,tx
 2024-06-30T00:31:33.710Z,19.3796672821045,-155.241165161133,1.28999996185303,1.93,ml,22,69,0.00609,0.159999996,hv,hv74302951,2024-06-30T00:34:10.240Z,"7 km S of Volcano, Hawaii",earthquake,0.26,0.180000007,0.22,11,automatic,hv,hv
 2024-06-30T00:27:00.850Z,19.3896675109863,-155.247329711914,0.589999973773956,2.83,ml,50,44,0.005588,0.389999986,hv,hv74302941,2024-06-30T00:30:06.540Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.189999998,0.48,40,automatic,hv,hv
 2024-06-30T00:20:42.980Z,61.0185,-150.1131,37.3,1.5,ml,,,,0.61,ak,ak0248czxjii,2024-06-30T00:22:32.221Z,"25 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -224,7 +227,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-29T04:03:40.705Z,60.38,-146.9201,17.8,2.1,ml,,,,0.52,ak,ak0248beoa3a,2024-06-29T04:05:26.784Z,"55 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-29T03:57:53.529Z,64.8157,-150.6037,9.7,1.6,ml,,,,0.6,ak,ak0248beeg54,2024-06-29T04:00:02.553Z,"20 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-29T03:51:49.995Z,-21.4077,-68.1774,180.598,4.4,mb,24,61,1.275,0.81,us,us6000n92z,2024-06-29T21:45:39.040Z,"21 km SSE of Ollagüe, Chile",earthquake,8.15,8.21,0.18,9,reviewed,us,us
-2024-06-29T03:45:24.565Z,43.7589,-76.3306,10,3.4,mb_lg,46,38,0.425,0.55,us,us6000n92y,2024-06-30T00:09:58.479Z,"15 km SW of Henderson, New York",earthquake,4.3,1.982,0.049,112,reviewed,us,us
+2024-06-29T03:45:24.565Z,43.7589,-76.3306,10,3.4,mb_lg,46,38,0.425,0.55,us,us6000n92y,2024-06-30T00:58:47.569Z,"15 km SW of Henderson, New York",earthquake,4.3,1.982,0.049,112,reviewed,us,us
 2024-06-29T03:37:51.860Z,46.197833333333335,-122.19466666666666,-1.81,0.4,md,5,176,0.003285,0.08,uw,uw62019716,2024-06-29T22:58:19.680Z,"37 km NNE of Amboy, Washington",earthquake,0.7,8.17,0.011610950810945209,3,reviewed,uw,uw
 2024-06-29T03:32:57.651Z,64.465,-146.9129,10.7,0.7,ml,,,,0.73,ak,ak0248be93k5,2024-06-29T03:35:10.889Z,"6 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-29T03:28:11.632Z,31.664,-104.201,4.3938,1.9,ml,17,65,0.1,0.1,tx,tx2024mrdk,2024-06-29T03:56:45.140Z,"54 km NW of Toyah, Texas",earthquake,0,1.19686071322607,0.2,13,automatic,tx,tx
