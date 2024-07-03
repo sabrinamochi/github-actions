@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-03T18:22:35.570Z,33.8798332,-117.2070007,9.64,1.24,ml,25,121,0.0182,0.26,ci,ci40647623,2024-07-03T18:24:41.939Z,"5 km ESE of March Air Reserve Base, CA",earthquake,0.56,1.07,0.245,10,automatic,ci,ci
-2024-07-03T18:17:33.410Z,35.0473333,-118.324,0.51,1.41,ml,38,35,0.05841,0.21,ci,ci40647607,2024-07-03T18:24:06.418Z,"14 km W of Mojave, CA",earthquake,0.23,0.5,0.192,30,automatic,ci,ci
+2024-07-03T18:22:35.740Z,33.8776667,-117.2065,8.38,1.1,ml,41,61,0.01602,0.17,ci,ci40647623,2024-07-03T18:29:11.710Z,"6 km ESE of March Air Reserve Base, CA",earthquake,0.2,0.43,0.222,30,automatic,ci,ci
+2024-07-03T18:17:33.410Z,35.0473333,-118.324,0.51,1.41,ml,38,35,0.05841,0.21,ci,ci40647607,2024-07-03T18:28:30.780Z,"14 km W of Mojave, CA",earthquake,0.23,0.5,0.192,30,automatic,ci,ci
 2024-07-03T18:06:48.380Z,19.3686676025391,-155.29167175293,2.09999990463257,1.87,ml,32,58,0.0201,0.200000003,hv,hv74313716,2024-07-03T18:09:26.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.349999994,0.29,13,automatic,hv,hv
 2024-07-03T17:56:26.942Z,60.0484,-152.7426,112.3,1,ml,,,,0.65,ak,ak0248i8vmti,2024-07-03T17:58:22.430Z,"57 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-03T17:46:57.386Z,37.4071,-117.3526,1.1,1.4,ml,13,148.13,0.129,0.3165,nn,nn00880326,2024-07-03T17:49:25.463Z,"35 km SSW of Goldfield, Nevada",earthquake,,5.5,0.24,9,automatic,nn,nn
@@ -52,7 +52,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T12:42:20.474Z,37.4543,-118.1801,0,0.6,ml,5,273.14,0.187,0.2139,nn,nn00880319,2024-07-03T16:50:14.351Z,"21 km ENE of Bishop, California",earthquake,,0,0.31,2,reviewed,nn,nn
 2024-07-03T12:41:20.850Z,19.4833333333333,-155.502,2.3,1.29,md,48,34,0.06312,0.15,hv,hv74313261,2024-07-03T18:16:40.400Z,"28 km W of Volcano, Hawaii",earthquake,0.25,1.28,0.182215506777488,14,reviewed,hv,hv
 2024-07-03T12:28:02.170Z,41.5655,-112.434833333333,7.27,1.38,ml,17,119,0.01073,0.13,uu,uu80075186,2024-07-03T12:44:48.130Z,"18 km SW of Thatcher, Utah",earthquake,0.36,0.86,0.206010427857552,3,reviewed,uu,uu
-2024-07-03T12:27:42.016Z,31.452,-103.909,5.7802,1.5,ml,5,179,0.1,0.3,tx,tx2024mzdh,2024-07-03T13:08:10.838Z,"18 km NW of Toyah, Texas",earthquake,0,6.33162790057485,0.2,5,automatic,tx,tx
 2024-07-03T12:21:47.940Z,31.4845,-115.6116667,5.95,2.13,ml,8,76,0.1741,0.17,ci,ci40647175,2024-07-03T16:02:00.598Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,2.65,0.113,10,reviewed,ci,ci
 2024-07-03T12:15:09.980Z,35.6871667,-117.5368333,6.81,1.48,ml,33,58,0.0947,0.13,ci,ci40647167,2024-07-03T15:59:11.585Z,"15 km ENE of Ridgecrest, CA",earthquake,0.15,0.52,0.072,28,reviewed,ci,ci
 2024-07-03T12:14:32.120Z,38.0345001220703,-122.223663330078,7.48999977111816,0.87,md,9,120,0.04596,0.06,nc,nc75030161,2024-07-03T12:16:09.376Z,"2 km SW of Crockett, CA",earthquake,0.33,0.939999998,0.2,7,automatic,nc,nc
@@ -209,6 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T21:56:28.680Z,35.6901667,-117.5498333,4.6,1.18,ml,22,106,0.1,0.15,ci,ci40646383,2024-07-02T22:30:06.061Z,"14 km NE of Ridgecrest, CA",earthquake,0.22,0.57,0.204,10,reviewed,ci,ci
 2024-07-02T21:39:22.922Z,61.7578,-151.148,64.8,1.2,ml,,,,0.62,ak,ak0248gnmd9g,2024-07-02T21:41:30.257Z,"29 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-02T21:36:10.176Z,83.8535,-3.3504,10,4.3,mb,22,84,5.436,1.07,us,us6000n9wy,2024-07-02T21:56:45.040Z,"north of Svalbard",earthquake,6.51,1.908,0.138,15,reviewed,us,us
+2024-07-02T21:32:15.360Z,52.8383333333333,-169.496,-1.71,1.46,ml,11,180,0.1471,0.27,av,av93184296,2024-07-03T18:31:07.320Z,"44 km WSW of Nikolski, Alaska",earthquake,2.1,0.45,0.207269999044096,10,reviewed,av,av
 2024-07-02T21:28:19.290Z,18.9406666666667,-67.5585,8.27,3.2,md,17,194,0.8198,0.25,pr,pr71454503,2024-07-02T22:21:48.340Z,"69 km NW of San Antonio, Puerto Rico",earthquake,0.91,1.69,0.0485883437455046,11,reviewed,pr,pr
 2024-07-02T21:17:41.070Z,18.6751666666667,-66.6006666666667,23.62,2.85,md,14,232,0.2083,0.3,pr,pr71454508,2024-07-02T21:52:55.910Z,"24 km N of Garrochales, Puerto Rico",earthquake,1.25,2.68,0.0842605132771321,8,reviewed,pr,pr
 2024-07-02T21:16:53.280Z,37.3951683044434,-118.397834777832,5.82999992370605,1.95,md,8,163,0.04212,0.03,nc,nc75029976,2024-07-02T21:59:50.954Z,"2 km ENE of Dixon Lane-Meadow Creek, CA",earthquake,1.03,0.629999995,0.21,7,automatic,nc,nc
@@ -242,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T18:43:06.608Z,61.8656,-150.1286,8.9,1.5,ml,,,,0.88,ak,ak0248gluw2s,2024-07-02T18:46:12.588Z,"14 km NNW of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-07-02T18:34:59.118Z,31.94,-103.382,6.9202,1.9,ml,11,82,0,0.1,tx,tx2024mxtv,2024-07-03T13:17:38.928Z,"26 km SW of Jal, New Mexico",earthquake,0.8773542213861122,0.5731706097193139,0.1,7,reviewed,tx,tx
 2024-07-02T18:32:20.420Z,35.0593333,-118.3475,-0.93,0.85,ml,18,79,0.06875,0.22,ci,ci40646007,2024-07-03T16:10:46.968Z,"12 km SE of Tehachapi, CA",quarry blast,0.43,31.61,0.078,11,reviewed,ci,ci
-2024-07-02T18:30:44.635Z,31.665,-104.293,7.7405,1.5,ml,19,67,0,0.1,tx,tx2024mxts,2024-07-03T18:24:17.471Z,"57 km S of Whites City, New Mexico",earthquake,0.8896706036535433,0.7961882355532572,0.1,11,reviewed,tx,tx
-2024-07-02T18:26:31.616Z,31.674,-104.48,5.9629,2,ml,13,71,0,0.2,tx,tx2024mxto,2024-07-02T18:46:00.305Z,"56 km S of Whites City, New Mexico",earthquake,0,2.65060920910313,0.1,11,automatic,tx,tx
