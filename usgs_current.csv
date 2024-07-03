@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T11:01:23.950Z,33.4893333,-116.4046667,10.19,0.94,ml,58,46,0.03825,0.16,ci,ci40647151,2024-07-03T11:11:52.830Z,"21 km SSW of La Quinta, CA",earthquake,0.13,0.28,0.221,27,automatic,ci,ci
 2024-07-03T10:47:55.490Z,40.3308333333333,-111.8745,0.36,0.6,md,12,93,0.08052,0.13,uu,uu80075171,2024-07-03T12:47:45.180Z,"3 km SE of Saratoga Springs, Utah",earthquake,0.43,31.61,0.33229277387071,8,reviewed,uu,uu
 2024-07-03T10:46:20.460Z,33.3713341,-116.3791656,14.02,1.52,ml,16,100,0.0589,0.16,ci,ci40647071,2024-07-03T10:52:46.758Z,"13 km N of Borrego Springs, CA",earthquake,0.96,2.26,0.598,11,automatic,ci,ci
-2024-07-03T10:46:03.029Z,35.07733333,-97.52733333,4.97,2.21,ml,80,31,0.006298763968,0.32,ok,ok2024myzw,2024-07-03T12:35:29.673Z,"4 km WNW of Washington, Oklahoma",earthquake,,0.5,0.23,40,reviewed,ok,ok
+2024-07-03T10:46:03.029Z,35.07733333,-97.52733333,4.97,2.21,ml,80,31,0.006298763968,0.32,ok,ok2024myzw,2024-07-03T12:51:10.646Z,"4 km WNW of Washington, Oklahoma",earthquake,,0.5,0.23,40,reviewed,ok,ok
 2024-07-03T10:45:22.470Z,19.2723331451416,-155.216339111328,12.6199998855591,2.03,ml,8,317,0.01183,0.0500000007,hv,hv74313106,2024-07-03T10:47:59.750Z,"18 km S of Volcano, Hawaii",earthquake,5.16,8.36999989,0.14,5,automatic,hv,hv
 2024-07-03T10:41:17.849Z,-18.7142,-177.8168,490.432,4.3,mb,75,41,3.465,0.75,us,us6000na0a,2024-07-03T10:59:06.040Z,"Fiji region",earthquake,11.27,6.749,0.036,219,reviewed,us,us
 2024-07-03T10:37:00.423Z,60.7704,-150.1101,34.3,1.2,ml,,,,0.67,ak,ak0248i4lgxm,2024-07-03T10:38:52.509Z,"30 km WSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T10:22:55.909Z,61.085,-152.0079,90.7,1.4,ml,,,,0.37,ak,ak0248i4idh2,2024-07-03T10:25:08.258Z,"47 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-03T10:21:18.360Z,33.8996667,-116.8981667,9.48,0.74,ml,44,32,0.1067,0.14,ci,ci40647055,2024-07-03T10:27:33.589Z,"4 km SW of Banning, CA",earthquake,0.13,0.44,0.119,20,automatic,ci,ci
 2024-07-03T10:14:39.401Z,62.0043,-150.9355,53.3,1.7,ml,,,,0.13,ak,ak0248i4gmh0,2024-07-03T10:15:50.662Z,"24 km E of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-07-03T09:40:08.480Z,35.04692459,-97.49640656,5,2.1,ml,11,160.0551643,0.03333403543,0.3916239104,ok,ok2024myxs,2024-07-03T09:47:28.379Z,"1 km SW of Washington, Oklahoma",earthquake,,0,0.27,11,automatic,ok,ok
+2024-07-03T09:40:08.560Z,35.073,-97.51616667,4.74,1.79,ml,76,31,0.00449911712,0.35,ok,ok2024myxs,2024-07-03T12:54:06.790Z,"3 km WNW of Washington, Oklahoma",earthquake,,0.6,0.24,39,reviewed,ok,ok
 2024-07-03T09:26:49.180Z,35.03487396,-97.50022125,5,1.82,ml,14,82.0799942,0.04208461568,0.7405088023,ok,ok2024myxg,2024-07-03T09:34:05.651Z,"3 km SSW of Washington, Oklahoma",earthquake,,0,0.26,13,automatic,ok,ok
 2024-07-03T09:25:29.490Z,33.6303333,-116.7005,12.85,0.46,ml,28,64,0.04445,0.11,ci,ci40647039,2024-07-03T09:31:27.696Z,"9 km NNW of Anza, CA",earthquake,0.17,0.33,0.224,12,automatic,ci,ci
 2024-07-03T09:14:42.770Z,36.0883333,-117.8828333,2,1.18,ml,26,71,0.03695,0.14,ci,ci40647031,2024-07-03T09:20:37.288Z,"8 km NE of Coso Junction, CA",earthquake,0.16,0.23,0.114,18,automatic,ci,ci
@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T13:18:28.020Z,52.7546666666667,-169.821,7.74,1.19,ml,5,241,0.06768,0.1,av,av93183946,2024-07-03T06:33:25.580Z,"67 km WSW of Nikolski, Alaska",earthquake,0.89,0.86,0.252398232272691,5,reviewed,av,av
 2024-07-02T13:15:53.076Z,60.4651,-150.932,48.2,1.8,ml,,,,0.39,ak,ak0248giptkb,2024-07-02T13:17:41.619Z,"7 km ESE of Soldotna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-07-02T13:07:29.230Z,63.3781,-149.9728,108.4,1.4,ml,,,,0.15,ak,ak0248gio1zv,2024-07-02T13:09:45.127Z,"51 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-07-02T12:52:07.210Z,47.76866666666667,-122.83266666666667,20.96,0.45,ml,8,106,0.06808,0.13,uw,uw62020746,2024-07-03T04:03:59.910Z,"6 km SSE of Quilcene, Washington",earthquake,0.76,0.7,0.18196137759017939,3,reviewed,uw,uw
