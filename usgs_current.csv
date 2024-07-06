@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-06T04:00:49.467Z,-15.6794,-73.2699,55.144,4.3,mb,27,160,3.874,0.96,us,us7000mxdg,2024-07-06T04:21:58.040Z,"29 km SE of Cahuacho, Peru",earthquake,12.25,12.29,0.113,22,reviewed,us,us
 2024-07-06T03:59:48.490Z,32.627,-115.5503333,7.33,1.46,ml,21,106,0.08925,0.25,ci,ci40649935,2024-07-06T04:06:00.876Z,"6 km NNE of Progreso, B.C., MX",earthquake,0.39,0.98,0.303,18,automatic,ci,ci
 2024-07-06T03:57:19.695Z,64.7479,-150.5429,10.3,1.1,ml,,,,1.11,ak,ak0248mz5szl,2024-07-06T03:59:33.238Z,"28 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-06T03:40:53.790Z,38.8286666870117,-122.773170471191,22.1599998474121,0.89,md,9,167,0.003118,0.09,nc,nc75031372,2024-07-06T03:42:34.335Z,"4 km WNW of Cobb, CA",earthquake,3.88,10.5299997,0.46,10,automatic,nc,nc
@@ -155,6 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T10:27:23.555Z,61.9012,-149.2261,15.5,1.1,ml,,,,0.53,ak,ak0248lfm2kg,2024-07-05T10:29:35.411Z,"17 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-05T10:26:08.563Z,66.2688,-153.1911,6.4,1.8,ml,,,,0.87,ak,ak0248lfltkj,2024-07-05T10:28:30.191Z,"38 km SSW of Alatna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-05T10:25:47.150Z,34.0095,-116.952,13.97,0.81,ml,41,68,0.0849,0.14,ci,ci40649319,2024-07-05T10:31:47.171Z,"9 km ESE of Yucaipa, CA",earthquake,0.15,0.34,0.163,24,automatic,ci,ci
+2024-07-05T10:08:28.190Z,54.5186666666667,-163.5005,9.41,2.58,ml,9,221,0.1893,0.22,av,av93186541,2024-07-06T04:16:15.430Z,"37 km S of False Pass, Alaska",earthquake,0.86,0.56,0.271893252800063,9,reviewed,av,av
 2024-07-05T10:07:40.940Z,38.8354988098145,-122.794166564941,1.97000002861023,1.09,md,19,53,0.004166,0.02,nc,nc75031052,2024-07-05T10:09:18.465Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.430000007,0.16,21,automatic,nc,nc
 2024-07-05T10:07:29.530Z,46.83866666666667,-121.7695,0.63,0.54,ml,18,60,0.02525,0.07,uw,uw62013712,2024-07-05T22:18:49.660Z,"21 km ENE of Ashford, Washington",earthquake,0.17,0.63,0.2591036720142429,12,reviewed,uw,uw
 2024-07-05T09:56:54.250Z,38.7953338623047,-122.763832092285,3.45000004768372,0.71,md,7,111,0.01894,0.01,nc,nc75031047,2024-07-05T09:58:33.286Z,"2 km  of The Geysers, CA",earthquake,0.67,2.45000005,0.17,9,automatic,nc,nc
@@ -205,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T04:37:20.710Z,19.2861671447754,-155.238327026367,5.88000011444092,1.9,ml,24,154,0.01383,0.119999997,hv,hv74315821,2024-07-05T04:39:59.300Z,"17 km S of Volcano, Hawaii",earthquake,0.49,0.660000026,0.16,5,automatic,hv,hv
 2024-07-05T04:36:32.320Z,38.7886657714844,-122.768333435059,2,1.03,md,19,80,0.01371,0.02,nc,nc75030967,2024-07-05T04:38:07.952Z,"2 km NNW of The Geysers, CA",earthquake,0.25,0.460000008,0.25,19,automatic,nc,nc
 2024-07-05T04:29:53.559Z,61.3542,-150.0869,39.3,1.7,ml,,,,0.6,ak,ak0248lc1ynv,2024-07-05T04:31:28.906Z,"5 km W of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-07-05T04:20:58.560Z,33.8171654,-117.6025009,7.5,1.07,ml,16,69,0.1849,0.33,ci,ci40649215,2024-07-05T04:27:22.409Z,"7 km SSW of Corona, CA",earthquake,1.11,6.04,0.294,14,automatic,ci,ci
-2024-07-05T04:20:32.670Z,38.8306655883789,-122.815002441406,2.53999996185303,0.22,md,10,131,0.008217,0.01,nc,nc75030947,2024-07-05T04:22:07.732Z,"8 km NNW of The Geysers, CA",earthquake,0.52,1.37,0.08,10,automatic,nc,nc
-2024-07-05T04:16:52.360Z,46.20466666666667,-122.18966666666667,5.69,0.1,ml,11,104,0.004957,0.07,uw,uw62013512,2024-07-05T21:41:17.070Z,"38 km NNE of Amboy, Washington",earthquake,0.29,0.51,0.06343134566480883,5,reviewed,uw,uw
