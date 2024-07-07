@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-07T04:55:47.220Z,37.0084991455078,-121.460830688477,6.32000017166138,1.81,md,26,65,0.08742,0.1,nc,nc75031797,2024-07-07T04:58:59.330Z,"10 km E of Gilroy, CA",earthquake,0.27,1.04999995,0.15,24,automatic,nc,nc
+2024-07-07T04:54:14.663Z,58.7886,-154.713,125.5,2,ml,,,,0.42,ak,ak0248on9xju,2024-07-07T04:56:09.291Z,"72 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-07T04:43:01.373Z,36.64,-116.2402,2.3,0.2,ml,9,189.65000000000003,0.079,0.2107,nn,nn00880493,2024-07-07T04:44:43.179Z,"51 km W of Indian Springs, Nevada",earthquake,,1.5,0.76,5,automatic,nn,nn
 2024-07-07T04:38:39.450Z,38.7685012817383,-122.737167358398,0.709999978542328,1.36,md,19,146,0.01184,0.04,nc,nc75031787,2024-07-07T04:40:14.328Z,"2 km SE of The Geysers, CA",earthquake,0.29,0.419999987,0.08,18,automatic,nc,nc
 2024-07-07T04:18:56.617Z,36.7549,-116.1828,2,0.4,ml,12,111.14999999999999,0.011,0.1737,nn,nn00880492,2024-07-07T04:20:43.678Z,"50 km WNW of Indian Springs, Nevada",earthquake,,0.5,0.26,7,automatic,nn,nn
@@ -183,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-06T07:07:54.520Z,18.4186666666667,-67.5543333333333,5,3.01,md,18,165,0.4235,0.32,pr,pr71454703,2024-07-06T09:26:31.080Z,"33 km WNW of Rincón, Puerto Rico",earthquake,0.98,1.14,0.0820378179652916,13,reviewed,pr,pr
 2024-07-06T07:00:22.263Z,31.682,-104.42,5.5359,3.1,ml,37,62,0,0.1,tx,tx2024neey,2024-07-06T07:22:52.762Z,"54 km S of Whites City, New Mexico",earthquake,0.7395523436333591,0.7149258009947146,0.1,19,reviewed,tx,tx
 2024-07-06T06:55:47.420Z,44.6423333333333,-111.9405,6.49,1.57,ml,32,45,0.2147,0.23,mb,mb90056108,2024-07-06T14:46:43.590Z,"36 km NNE of Spencer, Idaho",earthquake,0.42,1.97,0.223270803887358,22,reviewed,mb,mb
+2024-07-06T06:45:22.130Z,59.358,-153.4415,-0.28,-0.91,ml,5,148,0.004897,0.06,av,av93187401,2024-07-07T04:59:36.640Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.16,0.14,0.168124769705429,5,reviewed,av,av
 2024-07-06T06:43:54.910Z,33.2745,-116.426,4.49,0.45,ml,33,56,0.009712,0.21,ci,ci40649991,2024-07-06T06:57:59.035Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.44,0.108,7,automatic,ci,ci
 2024-07-06T06:42:20.675Z,36.8663,141.946,50.138,4.3,mb,27,207,3.02,0.7,us,us7000mxds,2024-07-06T07:26:45.040Z,"96 km ESE of Iwaki, Japan",earthquake,11.43,11.562,0.2,7,reviewed,us,us
 2024-07-06T06:41:20.940Z,33.2888333,-115.7455,2.69,1.41,ml,48,61,0.06444,0.2,ci,ci40649983,2024-07-06T06:54:13.859Z,"7 km S of Bombay Beach, CA",earthquake,0.19,0.42,0.087,26,automatic,ci,ci
@@ -195,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-06T05:19:00.520Z,38.7793350219727,-122.744331359863,0.0700000002980232,2.38,md,38,49,0.007108,0.07,nc,nc75031392,2024-07-06T05:23:26.620Z,"1 km E of The Geysers, CA",earthquake,0.19,0.289999992,0.16,40,automatic,nc,nc
 2024-07-06T05:16:39.348Z,66.2742,-150.2514,0,1.3,ml,,,,1.09,ak,ak0248n03xcu,2024-07-06T05:18:41.020Z,"60 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-06T05:09:06.475Z,60.1567,-152.8901,98.2,0.9,ml,,,,0.58,ak,ak0248n02ct3,2024-07-06T05:10:20.431Z,"68 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-07-06T04:55:42.480Z,33.6665,-116.7693333,13.73,0.47,ml,30,73,0.06403,0.12,ci,ci40649975,2024-07-06T05:01:46.726Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.33,0.19,11,automatic,ci,ci
