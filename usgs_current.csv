@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-09T19:58:14.280Z,35.9401665,-117.3899994,1.02,1.23,ml,14,145,0.09955,0.22,ci,ci40654031,2024-07-09T20:00:17.666Z,"19 km N of Searles Valley, CA",earthquake,0.63,1.34,0.127,4,automatic,ci,ci
 2024-07-09T19:53:06.360Z,60.5382,-151.8092,71.1,3.6,ml,,,,0.59,ak,ak0248s79w9m,2024-07-09T19:59:57.083Z,"28 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-09T19:50:54.830Z,61.8414,-151.0063,77.4,1.4,ml,,,,0.32,ak,ak0248s79cuj,2024-07-09T19:53:24.724Z,"26 km SE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-07-09T19:42:18.197Z,62.904,-150.1956,27,0.9,ml,,,,0.81,ak,ak0248s77kaj,2024-07-09T19:44:11.102Z,"50 km N of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -30,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T16:55:25.230Z,34.962,-119.2568333,-0.21,1.5,ml,10,185,0.1112,0.14,ci,ci40653671,2024-07-09T17:16:37.588Z,"16 km NW of Pine Mountain Club, CA",earthquake,0.55,0.42,0.517,21,automatic,ci,ci
 2024-07-09T16:54:47.800Z,34.9615,-119.2651667,-1.83,1.22,ml,12,165,0.1133,0.17,ci,ci40653655,2024-07-09T17:12:40.565Z,"16 km SE of Maricopa, CA",earthquake,0.61,0.77,0.289,5,automatic,ci,ci
 2024-07-09T16:52:26.160Z,38.8008346557617,-122.820335388184,3.5,0.4,md,11,105,0.01059,0.01,nc,nc75032807,2024-07-09T16:54:04.646Z,"6 km NW of The Geysers, CA",earthquake,0.5,1.53999996,0.21,12,automatic,nc,nc
+2024-07-09T16:52:12.100Z,45.923833333333334,-122.423,15.46,0.61,ml,15,264,0.009045,0.08,uw,uw62023026,2024-07-09T20:00:36.720Z,"2 km NE of Amboy, Washington",earthquake,0.45,0.59,0.12967433918667823,5,reviewed,uw,uw
 2024-07-09T16:42:32.200Z,38.8221664428711,-122.843002319336,2.33999991416931,0.76,md,16,82,0.006299,0.01,nc,nc75032802,2024-07-09T16:44:09.685Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.540000021,0.17,17,automatic,nc,nc
 2024-07-09T16:34:00.500Z,38.8160018920898,-122.80933380127,1.8400000333786,0.79,md,11,66,0.007405,0.01,nc,nc75032797,2024-07-09T16:35:35.530Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.889999986,0.23,13,automatic,nc,nc
 2024-07-09T16:15:02.045Z,61.5685,-146.3578,38.6,1.2,ml,,,,0.6,ak,ak0248s59fwc,2024-07-09T16:17:23.514Z,"48 km N of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -234,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T20:08:47.850Z,33.8606667,-117.4986667,0.39,1.32,ml,34,43,0.06208,0.27,ci,ci40652567,2024-07-08T20:15:34.117Z,"3 km SE of Home Gardens, CA",earthquake,0.32,0.64,0.26,12,automatic,ci,ci
 2024-07-08T20:03:18.370Z,59.6607,-152.8537,90.7,1.8,ml,,,,0.3,ak,ak0248qk1ahp,2024-07-08T20:05:09.632Z,"58 km WSW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T20:02:45.880Z,31.4871667,-115.6138333,6.63,2.4,ml,7,113,0.174,0.12,ci,ci40652551,2024-07-08T20:09:16.826Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.29,2.03,0.24,14,automatic,ci,ci
-2024-07-08T20:01:27.880Z,38.7908325195312,-122.768669128418,1.69000005722046,1.04,md,12,103,0.01203,0.01,nc,nc75032447,2024-07-08T20:03:02.960Z,"2 km NNW of The Geysers, CA",earthquake,0.32,0.460000008,0.2,12,automatic,nc,nc
-2024-07-08T20:00:06.510Z,47.10883333333334,-123.11433333333333,-0.23,1.3900000000000001,ml,22,46,0.06023,0.23,uw,uw62022666,2024-07-08T21:10:37.400Z,"11 km S of Shelton, Washington",explosion,0.42,31.61,0.1337144095505377,13,reviewed,uw,uw
