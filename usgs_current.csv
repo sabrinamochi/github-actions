@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-11T12:28:20.040Z,39.6796684265137,-123.551002502441,1.70000004768372,1.84,md,12,122,,0.05,nc,nc75033677,2024-07-11T12:29:56.441Z,"6 km W of Laytonville, CA",earthquake,0.29,2.75999999,0.14,7,automatic,nc,nc
+2024-07-11T12:27:32.990Z,38.8338317871094,-122.819831848145,2.13000011444092,0.73,md,15,61,0.01291,0.03,nc,nc75033672,2024-07-11T12:29:11.590Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.889999986,0.12,15,automatic,nc,nc
 2024-07-11T11:50:53.690Z,19.3701667785645,-155.212829589844,2.04999995231628,1.93,ml,17,109,0.004394,0.129999995,hv,hv74327601,2024-07-11T11:53:32.130Z,"8 km SSE of Volcano, Hawaii",earthquake,0.44,0.25999999,0.42,8,automatic,hv,hv
 2024-07-11T11:46:14.620Z,19.3899993896484,-155.273834228516,1.24000000953674,2.25,ml,29,43,0.005344,0.270000011,hv,hv74327596,2024-07-11T11:48:52.460Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.209999993,0.29,15,automatic,hv,hv
 2024-07-11T11:42:51.752Z,55.8333,-158.2514,42.1,2.5,ml,,,,0.51,ak,ak0248vdiv13,2024-07-11T11:45:06.994Z,"52 km S of Chignik, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -96,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T00:49:16.643Z,41.6147,82.4404,10,4.3,mb,24,94,2.777,0.62,us,us7000myf4,2024-07-11T01:13:58.040Z,"42 km WSW of Kuqa, China",earthquake,7.76,1.89,0.217,6,reviewed,us,us
 2024-07-11T00:30:19.071Z,40.2914,-127.7151,10,3.1,ml,41,267,2.856,0.68,us,us7000myf3,2024-07-11T00:59:52.640Z,"294 km W of Ferndale, California",earthquake,4.49,2.023,0.043,72,reviewed,us,us
 2024-07-11T00:21:47.193Z,-23.7785,-66.7756,214.496,4.4,mb,19,91,1.529,0.42,us,us7000myf2,2024-07-11T00:44:38.040Z,"67 km NW of San Antonio de los Cobres, Argentina",earthquake,13.01,12.529,0.18,9,reviewed,us,us
-2024-07-11T00:20:37.584Z,31.694,-104.213,1.284,1.7,ml,12,178,0.1,0.5,tx,tx2024nmvg,2024-07-11T00:46:03.526Z,"55 km SSE of Whites City, New Mexico",earthquake,0,2.65837676233036,0.2,10,automatic,tx,tx
+2024-07-11T00:20:37.350Z,31.706,-104.153,8.4839,1.6,ml,31,48,0.1,0.2,tx,tx2024nmvg,2024-07-11T12:30:17.053Z,"52 km W of Mentone, Texas",earthquake,0.44755468140823257,0.9194093868878173,0.1,17,reviewed,tx,tx
 2024-07-11T00:16:15.590Z,46.97283172607422,-122.21600341796875,-0.230000004172325,1.6325798034667969,ml,18,115,,0.0799999982,uw,uw62015577,2024-07-11T00:18:46.240Z,"1 km SSE of Kapowsin, Washington",earthquake,0.38,0.680000007,0.29938560724258423,22,automatic,uw,uw
 2024-07-10T23:56:15.780Z,33.1371667,-116.6433333,3.69,0.8,ml,35,33,0.0619,0.21,ci,ci40655847,2024-07-11T00:02:23.387Z,"8 km NNW of Julian, CA",earthquake,0.22,0.54,0.16,18,automatic,ci,ci
 2024-07-10T23:53:51.470Z,33.4101667,-116.3478333,12.35,1.15,ml,60,33,0.05741,0.18,ci,ci40655831,2024-07-11T00:00:05.212Z,"17 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.161,27,automatic,ci,ci
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T12:43:58.294Z,61.6408,-147.6114,20.3,1.4,ml,,,,0.75,ak,ak0248tql6d1,2024-07-10T12:45:43.024Z,"18 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-10T12:42:30.941Z,39.2331,-120.1075,7.5,-0.1,ml,3,193.20999999999998,0.029,0.0224,nn,nn00880697,2024-07-10T18:09:47.311Z,"2 km WNW of Carnelian Bay, California",earthquake,,4.1,0.2,3,reviewed,nn,nn
 2024-07-10T12:32:09.576Z,31.74,-104.118,6.9586,1.7,ml,31,70,0.1,0.2,tx,tx2024nlxx,2024-07-10T13:28:22.415Z,"49 km W of Mentone, Texas",earthquake,0.39452557632838126,0.7111163964106244,0.2,25,reviewed,tx,tx
-2024-07-10T12:28:38.260Z,33.5211667,-116.5111667,13.81,0.6,ml,31,49,0.03984,0.12,ci,ci40654759,2024-07-10T13:27:25.383Z,"16 km ESE of Anza, CA",earthquake,0.16,0.32,0.156,17,reviewed,ci,ci
