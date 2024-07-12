@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-12T16:57:18.490Z,35.0583344,-118.3453369,5.25,1.21,ml,18,75,0.06765,0.25,ci,ci40657815,2024-07-12T16:59:20.881Z,"12 km SE of Tehachapi, CA",earthquake,0.61,2.95,0.338,5,automatic,ci,ci
 2024-07-12T16:36:46.620Z,19.308500289917,-155.246337890625,0.0799999982118607,1.83,ml,20,116,0.034,0.159999996,hv,hv74330641,2024-07-12T16:39:23.380Z,"14 km S of Volcano, Hawaii",earthquake,0.21,0.289999992,0.3,6,automatic,hv,hv
 2024-07-12T16:18:11.053Z,36.8559,-117.4827,8.2,1.4,ml,23,220.23999999999998,0.168,0.2648,nn,nn00880819,2024-07-12T16:20:38.995Z,"53 km NE of Keeler, California",earthquake,,1.3,0.2,16,automatic,nn,nn
 2024-07-12T16:11:11.930Z,35.96533203125,-120.521835327148,11.0100002288818,2.03,md,33,58,0.02096,0.09,nc,nc75034052,2024-07-12T16:14:41.360Z,"11 km NW of Parkfield, CA",earthquake,0.23,0.340000004,0.14,27,automatic,nc,nc
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T08:59:40.180Z,33.1861667,-116.3241667,9.73,0.44,ml,32,72,0.0592,0.2,ci,ci40657439,2024-07-12T09:05:31.777Z,"9 km SSE of Borrego Springs, CA",earthquake,0.27,0.65,0.219,4,automatic,ci,ci
 2024-07-12T08:51:04.940Z,35.6756667,-117.5268333,8.94,0.71,ml,23,64,0.08462,0.15,ci,ci40657431,2024-07-12T08:56:55.034Z,"15 km ENE of Ridgecrest, CA",earthquake,0.24,0.57,0.111,7,automatic,ci,ci
 2024-07-12T08:45:28.527Z,31.379,-103.063,3.8696,1.6,ml,19,66,0,0.3,tx,tx2024nphk,2024-07-12T13:33:38.100Z,"15 km N of Coyanosa, Texas",earthquake,1.485889677483885,1.8544641196399185,0.2,16,reviewed,tx,tx
-2024-07-12T08:43:01.564Z,64.8242,-148.8089,15.6,0.7,ml,,,,0.54,ak,ak0248wza0jw,2024-07-12T08:44:29.393Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-12T08:43:01.564Z,64.8242,-148.8089,15.6,0.7,ml,,,,0.54,ak,ak0248wza0jw,2024-07-12T08:44:29.393Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-12T08:41:50.000Z,19.3773326873779,-155.221496582031,1.88999998569489,2.09,ml,32,52,0.006671,0.209999993,hv,hv74329856,2024-07-12T08:44:27.390Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.25999999,0.3,12,automatic,hv,hv
 2024-07-12T08:20:31.536Z,49.0205,-128.2873,10,4.8,mww,49,172,1.624,1.2,us,us7000mysw,2024-07-12T15:59:28.194Z,"174 km W of Tofino, Canada",earthquake,6.99,1.9,0.059,28,reviewed,us,us
 2024-07-12T08:14:03.780Z,38.8214988708496,-122.786834716797,0.970000028610229,0.72,md,13,88,0.01504,0.02,nc,nc75033967,2024-07-12T08:15:40.650Z,"6 km W of Cobb, CA",earthquake,0.3,0.519999981,0.08,15,automatic,nc,nc
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T17:23:49.160Z,19.3843333333333,-155.244,1.79,2.2,ml,20,66,0.006999,0.1,hv,hv74328161,2024-07-11T18:28:00.820Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.2,0.144393566366887,10,reviewed,hv,hv
 2024-07-11T17:23:42.540Z,19.3428333333333,-155.215166666667,5.92,0.71,md,15,77,0.03079,0.08,hv,hv74328166,2024-07-11T22:54:17.520Z,"11 km S of Volcano, Hawaii",earthquake,0.45,0.78,0.00910313425483034,3,reviewed,hv,hv
 2024-07-11T17:07:06.550Z,37.4433326721191,-121.781997680664,6.75,1.5,md,7,92,0.01621,0.04,nc,nc75033757,2024-07-11T17:08:41.631Z,"9 km NE of Alum Rock, CA",earthquake,0.54,0.50999999,0.2,7,automatic,nc,nc
-2024-07-11T16:57:32.130Z,33.1796667,-116.0578333,3.76,1.01,ml,38,42,0.06745,0.22,ci,ci40656431,2024-07-11T17:03:43.823Z,"8 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.34,0.178,13,automatic,ci,ci
-2024-07-11T16:55:40.570Z,32.5858333,-117.3213333,14.9,2.78,ml,39,198,0.1757,0.18,ci,ci40656423,2024-07-11T18:10:37.196Z,"17 km SW of Coronado, CA",earthquake,0.42,0.48,0.165,26,automatic,ci,ci
