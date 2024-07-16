@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T15:05:40.580Z,33.1593333,-116.4675,6.91,2.71,ml,97,16,0.08543,0.19,ci,ci40661111,2024-07-16T15:16:22.750Z,"14 km SW of Borrego Springs, CA",earthquake,0.11,0.45,0.241,26,automatic,ci,ci
 2024-07-16T14:46:56.900Z,33.5026667,-116.5035,13.79,0.5,ml,25,58,0.05932,0.13,ci,ci40661087,2024-07-16T14:53:22.877Z,"17 km ESE of Anza, CA",earthquake,0.24,0.4,0.127,12,automatic,ci,ci
 2024-07-16T14:39:29.740Z,33.9405,-118.289,19.32,1.67,ml,45,74,0.07852,0.21,ci,ci40661079,2024-07-16T14:46:16.031Z,"4 km NW of Willowbrook, CA",earthquake,0.24,0.47,0.213,32,automatic,ci,ci
-2024-07-16T14:29:15.066Z,16.3967,-97.5118,12.633,4.8,mb,179,78,1.537,0.63,us,us7000mzjz,2024-07-16T16:09:18.653Z,"10 km NNE of Tataltepec de Valdés, Mexico",earthquake,8.28,4.263,0.028,407,reviewed,us,us
+2024-07-16T14:29:15.066Z,16.3967,-97.5118,12.633,4.8,mb,179,78,1.537,0.63,us,us7000mzjz,2024-07-16T16:36:00.935Z,"10 km NNE of Tataltepec de Valdés, Mexico",earthquake,8.28,4.263,0.028,407,reviewed,us,us
 2024-07-16T14:21:58.620Z,19.3831666666667,-155.2425,0.75,2.63,ml,23,79,0.008637,0.1,hv,hv74337507,2024-07-16T15:33:19.030Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.16,0.114495055782131,11,reviewed,hv,hv
 2024-07-16T14:21:05.210Z,19.3841667175293,-155.240661621094,0.829999983310699,2.09,ml,18,71,0.01014,0.230000004,hv,hv74337502,2024-07-16T14:23:45.230Z,"6 km S of Volcano, Hawaii",earthquake,0.24,0.289999992,0.21,14,automatic,hv,hv
 2024-07-16T14:20:14.280Z,19.3846664428711,-155.242492675781,0.569999992847443,2.03,ml,19,82,0.008366,0.159999996,hv,hv74337497,2024-07-16T14:22:53.740Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.129999995,0.16,12,automatic,hv,hv
@@ -57,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T10:06:21.198Z,57.2234,-154.9075,47.2,1.1,ml,,,,0.4,ak,ak02493mecxo,2024-07-16T10:08:45.577Z,"47 km SW of Karluk, Alaska",earthquake,,7,,,automatic,ak,ak
 2024-07-16T09:44:12.529Z,35.03233333,-97.76833333,7.54,1.46,ml,86,35,0.1133777514,0.4,ok,ok2024nwrj,2024-07-16T12:56:17.554Z,"12 km W of Dibble, Oklahoma",earthquake,,0.6,0.23,37,reviewed,ok,ok
 2024-07-16T09:44:10.234Z,61.3481,-146.7926,21.7,1.1,ml,,,,0.64,ak,ak02493m12in,2024-07-16T09:46:08.760Z,"33 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-16T09:37:28.510Z,39.8096666666667,-123.4915,6.99,1.49,md,31,62,0.007946,0.13,nc,nc75035507,2024-07-16T16:34:33.070Z,"14 km N of Laytonville, CA",earthquake,0.19,0.46,0.268,21,reviewed,nc,nc
 2024-07-16T09:31:53.850Z,35.5726667,-118.255,4.62,0.74,ml,21,52,0.1002,0.18,ci,ci40660847,2024-07-16T09:37:52.343Z,"20 km ESE of Lake Isabella, CA",earthquake,0.28,0.63,0.056,8,automatic,ci,ci
 2024-07-16T09:27:58.210Z,19.257999420166,-155.371826171875,33.2200012207031,1.95,ml,54,140,0.07171,0.159999996,hv,hv74336877,2024-07-16T09:30:38.060Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.48,0.550000012,0.56,7,automatic,hv,hv
 2024-07-16T09:22:40.151Z,36.8967,-117.7422,13.3,1.2,ml,9,241.43,0.317,0.1374,nn,nn00880971,2024-07-16T15:57:44.071Z,"42 km ENE of Independence, California",earthquake,,2.9,0.2,2,reviewed,nn,nn
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T16:50:45.980Z,19.421,-155.257,12.8,2.09,ml,45,62,0.004235,0.09,hv,hv74335512,2024-07-15T18:31:07.440Z,"3 km SW of Volcano, Hawaii",earthquake,0.32,0.22,0.215337868811826,21,reviewed,hv,hv
 2024-07-15T16:44:00.220Z,46.209,-122.19,-1.61,-0.21,mh,6,105,0.009242,0.11,uw,uw62016767,2024-07-16T06:14:48.950Z,"38 km NNE of Amboy, Washington",earthquake,0.34,11.93,,0,reviewed,uw,uw
 2024-07-15T16:36:30.800Z,38.8185005187988,-122.819664001465,3.23000001907349,0.27,md,8,180,0.008945,0.01,nc,nc75035222,2024-07-15T16:38:07.965Z,"7 km NW of The Geysers, CA",earthquake,0.7,1.42999995,0.14,9,automatic,nc,nc
-2024-07-15T16:36:04.410Z,38.8171653747559,-122.81916809082,2.60999989509583,0.28,md,8,163,0.009443,0.01,nc,nc75035217,2024-07-15T16:37:43.024Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.52999997,0.15,8,automatic,nc,nc
