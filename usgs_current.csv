@@ -49,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T20:07:11.880Z,33.225,-116.0416667,3.5,1.22,ml,50,58,0.07216,0.22,ci,ci40660279,2024-07-15T20:13:58.225Z,"11 km SW of Salton City, CA",earthquake,0.16,0.36,0.104,27,automatic,ci,ci
 2024-07-15T20:06:33.580Z,34.3028333,-116.8341667,3.45,1.37,ml,47,50,0.08231,0.15,ci,ci40660271,2024-07-15T20:17:30.380Z,"5 km NNE of Big Bear City, CA",earthquake,0.16,0.49,0.181,28,automatic,ci,ci
 2024-07-15T19:56:47.594Z,66.1518,-150.7531,1.1,1,ml,,,,0.53,ak,ak024924ipk2,2024-07-15T19:59:50.036Z,"76 km NNW of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-15T19:51:30.710Z,52.1178333333333,-176.151333333333,9.61,0.38,ml,6,258,0.02919,0.27,av,av93198141,2024-07-16T02:36:30.610Z,"42 km NE of Adak, Alaska",earthquake,1.43,1.3,0.144250024985511,6,reviewed,av,av
 2024-07-15T19:47:19.630Z,51.543,-177.069666666667,8.61,0.61,ml,5,283,0.2419,0.05,av,av93198131,2024-07-16T02:33:13.480Z,"47 km SW of Adak, Alaska",earthquake,0.62,0.42,0.185985064423129,6,reviewed,av,av
 2024-07-15T19:41:51.650Z,46.3886666666667,-114.680666666667,7.93,2.2,ml,20,85,0.3456,0.1,mb,mb90056913,2024-07-15T22:50:52.070Z,"36 km W of Pinesdale, Montana",earthquake,0.38,0.73,0.220827618982304,34,reviewed,mb,mb
 2024-07-15T19:40:33.412Z,61.0775,-152.4467,127.7,2.2,ml,,,,0.48,ak,ak024924f8zf,2024-07-15T20:06:54.040Z,"70 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -207,7 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T08:15:49.644Z,-4.0292,142.9846,43.447,5.2,mb,71,46,2.73,0.77,us,us7000mzax,2024-07-15T20:43:22.719Z,"27 km NE of Ambunti, Papua New Guinea",earthquake,7.79,5.441,0.057,102,reviewed,us,us
 2024-07-15T07:58:35.360Z,33.0303333,-116.0136667,4.93,0.99,ml,51,46,0.1459,0.23,ci,ci40659543,2024-07-15T13:44:20.290Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.21,0.89,0.141,19,reviewed,ci,ci
 2024-07-15T07:55:18.450Z,54.7361666666667,-164.115666666667,3.45,0.9,ml,7,194,0.07377,0.13,av,av93015404,2024-07-15T21:47:49.430Z,"47 km WSW of False Pass, Alaska",earthquake,0.58,0.78,0.399344297709327,7,reviewed,av,av
-2024-07-15T07:53:54.366Z,41.6477,-88.7058,9.785,3.4,mb_lg,55,21,0.561,0.44,us,us7000mzav,2024-07-16T02:29:57.112Z,"2 km NW of Somonauk, Illinois",earthquake,2.14,6.833,0.04,161,reviewed,us,us
+2024-07-15T07:53:54.366Z,41.6477,-88.7058,9.785,3.4,mb_lg,55,21,0.561,0.44,us,us7000mzav,2024-07-16T02:35:46.628Z,"2 km NW of Somonauk, Illinois",earthquake,2.14,6.833,0.04,161,reviewed,us,us
 2024-07-15T07:52:19.720Z,36.0601667,-117.7175,1.77,1.05,ml,22,90,0.05211,0.14,ci,ci40659535,2024-07-15T13:43:53.100Z,"21 km E of Coso Junction, CA",earthquake,0.19,0.2,0.114,13,reviewed,ci,ci
 2024-07-15T07:46:54.110Z,32.6723333,-115.7175,7.1,1.35,ml,30,62,0.02413,0.2,ci,ci40659527,2024-07-15T07:58:52.803Z,"16 km NW of Progreso, B.C., MX",earthquake,0.24,0.54,0.158,19,automatic,ci,ci
 2024-07-15T07:45:35.530Z,17.9356666666667,-66.831,16.95,2.54,md,6,217,0.08236,0.1,pr,pr71455433,2024-07-15T08:00:27.160Z,"6 km S of Indios, Puerto Rico",earthquake,0.69,0.55,0.256602742395504,3,reviewed,pr,pr
@@ -273,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T02:59:00.890Z,38.8231658935547,-122.804496765137,2.84999990463257,0.78,md,11,123,0.004363,0.01,nc,nc75034987,2024-07-15T03:00:39.762Z,"7 km NNW of The Geysers, CA",earthquake,0.42,0.879999995,0.12,12,automatic,nc,nc
 2024-07-15T02:46:58.350Z,36.465,-98.79683333,6.51,3.56,ml,91,72,0,0.19,ok,ok2024nuic,2024-07-15T21:28:45.564Z,"14 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.23,30,reviewed,ok,ok
 2024-07-15T02:44:19.920Z,38.8366661071777,-122.797996520996,2.17000007629395,0.84,md,7,113,0.006225,0.01,nc,nc75034982,2024-07-15T02:45:54.570Z,"7 km WNW of Cobb, CA",earthquake,0.58,0.860000014,0.32,8,automatic,nc,nc
-2024-07-15T02:40:02.010Z,34.0395,-117.2746667,9.95,1.1,ml,50,43,0.06608,0.17,ci,ci40659375,2024-07-15T13:47:43.981Z,"2 km SW of Loma Linda, CA",earthquake,0.16,0.38,0.14,29,reviewed,ci,ci
