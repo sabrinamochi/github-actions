@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-23T13:12:19.146Z,59.5303,-152.3594,65.7,1.1,ml,,,,0.32,ak,ak0249f8ze62,2024-07-23T13:14:26.565Z,"31 km NW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-07-23T13:10:37.150Z,33.2664986,-116.4185028,8.12,1.05,ml,30,75,0.002036,0.16,ci,ci40668599,2024-07-23T13:12:39.564Z,"4 km WNW of Borrego Springs, CA",earthquake,0.31,0.8,0.395,7,automatic,ci,ci
 2024-07-23T13:05:04.140Z,19.3676662445068,-155.199661254883,1.12000000476837,2.66,ml,38,63,0.01614,0.170000002,hv,hv74355836,2024-07-23T13:08:36.710Z,"9 km SSE of Volcano, Hawaii",earthquake,0.36,0.280000001,0.4,28,automatic,hv,hv
 2024-07-23T12:58:39.350Z,19.3718338012695,-155.205993652344,2.60999989509583,2.28,ml,42,110,0.009182,0.300000012,hv,hv74355816,2024-07-23T13:01:18.270Z,"8 km SSE of Volcano, Hawaii",earthquake,0.4,0.439999998,0.58,23,automatic,hv,hv
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-23T03:46:25.411Z,32.769,-100.67,3.2959,4.4,ml,20,53,0.1,0.3,tx,tx2024ojad,2024-07-23T13:03:13.767Z,"17 km NNE of Hermleigh, Texas",earthquake,1.5224401189334003,1.5051526387902268,0.2,37,reviewed,tx,tx
 2024-07-23T03:44:52.390Z,33.1123333,-115.6155,10.11,1.84,ml,42,40,0.03093,0.21,ci,ci40668327,2024-07-23T03:55:47.820Z,"8 km N of Westmorland, CA",earthquake,0.22,0.35,0.16,26,automatic,ci,ci
 2024-07-23T03:38:46.630Z,34.4323333,-117.0383333,3.18,1.16,ml,39,67,0.1772,0.14,ci,ci40668319,2024-07-23T03:49:41.960Z,"7 km W of Lucerne Valley, CA",earthquake,0.21,0.53,0.214,13,automatic,ci,ci
-2024-07-23T03:38:42.362Z,32.753,-100.638,7.6904,4.9,ml,31,43,0.1,0.2,tx,tx2024oizv,2024-07-23T13:13:19.554Z,"17 km NE of Hermleigh, Texas",earthquake,0.9349832359882555,1.1295719562688034,0.1,36,reviewed,tx,tx
+2024-07-23T03:38:42.362Z,32.753,-100.638,7.6904,4.9,ml,31,43,0.1,0.2,tx,tx2024oizv,2024-07-23T13:18:39.455Z,"17 km NE of Hermleigh, Texas",earthquake,0.9349832359882555,1.1295719562688034,0.1,36,reviewed,tx,tx
 2024-07-23T03:32:43.320Z,19.3683338165283,-155.220336914062,0.589999973773956,2.28,ml,25,104,0.007089,0.129999995,hv,hv74354296,2024-07-23T03:35:21.990Z,"8 km S of Volcano, Hawaii",earthquake,0.3,0.200000003,0.61,24,automatic,hv,hv
 2024-07-23T03:28:01.320Z,33.3603333,-116.4223333,6.65,0.99,ml,56,28,0.05708,0.19,ci,ci40668303,2024-07-23T03:41:03.945Z,"12 km NNW of Borrego Springs, CA",earthquake,0.17,0.48,0.142,25,automatic,ci,ci
 2024-07-23T03:22:35.720Z,36.5574989318848,-121.079666137695,0.370000004768372,1.22,md,6,113,0.03848,0.06,nc,nc75038277,2024-07-23T05:49:26.978Z,"6 km ENE of Pinnacles, CA",earthquake,0.94,8.53999996,0.2,7,automatic,nc,nc
@@ -371,10 +372,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-22T13:34:31.630Z,17.9418333333333,-66.9713333333333,13.65,1.9,md,9,222,0.06688,0.22,pr,pr71455988,2024-07-22T13:57:59.650Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.85,0.52,0.19319691437346,3,reviewed,pr,pr
 2024-07-22T13:24:40.083Z,64.6773,-146.3903,19.4,1,ml,,,,1.19,ak,ak0249dlinvs,2024-07-22T13:26:35.491Z,"29 km NE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-22T13:24:31.210Z,34.0658333,-117.2881667,15.91,1.29,ml,57,57,0.09802,0.15,ci,ci40667271,2024-07-22T13:43:03.530Z,"2 km ESE of Colton, CA",earthquake,0.14,0.35,0.184,30,reviewed,ci,ci
-2024-07-22T13:18:31.240Z,38.8250007629395,-122.777336120605,4.73000001907349,0.73,md,11,73,0.007966,0.05,nc,nc75038032,2024-07-22T14:14:24.510Z,"5 km WNW of Cobb, CA",earthquake,0.48,1.12,0.17,11,automatic,nc,nc
-2024-07-22T13:17:17.925Z,59.9918,-140.882,9,1.5,ml,,,,0.86,ak,ak0249dlh45s,2024-07-22T13:19:14.965Z,"81 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-07-22T13:16:11.760Z,33.7093333,-116.8233333,14.31,0.16,ml,15,177,0.08172,0.08,ci,ci37677316,2024-07-22T17:56:20.521Z,"8 km ESE of Valle Vista, CA",earthquake,0.29,0.46,0.113,7,reviewed,ci,ci
-2024-07-22T13:16:01.630Z,33.7105,-116.828,13.96,0.4,ml,25,78,0.08197,0.16,ci,ci37677308,2024-07-22T17:51:03.486Z,"7 km SE of Valle Vista, CA",earthquake,0.31,0.55,0.07,9,reviewed,ci,ci
-2024-07-22T13:16:00.840Z,33.721,-116.821,6.26,0.08,ml,16,188,0.08959,0.18,ci,ci40667263,2024-07-22T17:42:40.434Z,"7 km ESE of Valle Vista, CA",earthquake,0.52,1.1,0.124,6,reviewed,ci,ci
-2024-07-22T13:14:35.610Z,33.7095,-116.8266667,14.48,0.64,ml,35,87,0.08123,0.14,ci,ci40667255,2024-07-22T19:40:29.333Z,"8 km SE of Valle Vista, CA",earthquake,0.21,0.28,0.106,23,reviewed,ci,ci
-2024-07-22T13:14:34.579Z,36.2695,-97.49766667,5.46,1.33,ml,60,45,0.07018622707,0.26,ok,ok2024ohxi,2024-07-23T13:09:01.056Z,"3 km W of Lucien, Oklahoma",earthquake,,0.6,0.22,20,reviewed,ok,ok
