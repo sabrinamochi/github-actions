@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-30T00:06:20.070Z,34.9425011,-116.8044968,4.5,2.07,ml,41,55,0.1717,0.17,ci,ci40675591,2024-07-30T00:08:32.655Z,"20 km ENE of Barstow, CA",earthquake,0.22,1,0.167,25,automatic,ci,ci
+2024-07-30T00:02:46.924Z,61.5154,-146.4304,33.4,1.1,ml,,,,0.6,ak,ak0249qly3qs,2024-07-30T00:04:18.914Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-30T00:02:38.630Z,34.9436684,-116.8061676,4.52,2.06,ml,47,55,0.1709,0.18,ci,ci40675583,2024-07-30T00:04:42.636Z,"20 km ENE of Barstow, CA",earthquake,0.21,0.89,0.169,25,automatic,ci,ci
 2024-07-29T23:45:39.782Z,61.6555,-146.3877,34.1,2.2,ml,,,,0.53,ak,ak0249pccxei,2024-07-29T23:47:08.505Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T23:26:43.540Z,35.0303333,-117.6821667,-0.84,1.62,ml,20,57,0.09642,0.25,ci,ci40675543,2024-07-29T23:33:36.460Z,"4 km NW of Boron, CA",earthquake,0.39,0.8,0.171,26,automatic,ci,ci
 2024-07-29T23:23:07.487Z,61.6495,-148.0231,17.3,3.3,ml,,,,0.37,ak,ak0249pc855o,2024-07-29T23:28:11.829Z,"26 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -42,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T20:05:19.220Z,34.9486667,-116.7858333,1.79,2.68,ml,33,57,0.1882,0.15,ci,ci40675239,2024-07-29T22:17:18.356Z,"22 km ENE of Barstow, CA",earthquake,0.16,0.84,0.115,30,automatic,ci,ci
 2024-07-29T20:03:33.150Z,34.946,-116.7943333,2.84,3.51,ml,56,32,0.1807,0.16,ci,ci40675231,2024-07-29T23:50:52.720Z,"22 km ENE of Barstow, CA",earthquake,0.14,0.66,0.125,41,reviewed,ci,ci
 2024-07-29T20:02:10.080Z,38.8348350524902,-122.802001953125,1.88999998569489,1.04,md,15,58,0.009779,0.02,nc,nc75041102,2024-07-29T21:14:40.869Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.519999981,0.24,16,automatic,nc,nc
-2024-07-29T20:00:52.590Z,34.9503333,-116.7866667,7.26,4.87,mw,53,57,0.1882,0.16,ci,ci40675215,2024-07-30T00:00:35.905Z,"22 km ENE of Barstow, CA",earthquake,0.14,0.72,,6,reviewed,ci,ci
+2024-07-29T20:00:52.590Z,34.9503333,-116.7866667,7.26,4.87,mw,53,57,0.1882,0.16,ci,ci40675215,2024-07-30T00:06:06.325Z,"22 km ENE of Barstow, CA",earthquake,0.14,0.72,,6,reviewed,ci,ci
 2024-07-29T19:48:01.320Z,38.8348350524902,-122.877998352051,2.89000010490417,1.1,md,20,61,0.00544,0.02,nc,nc75041087,2024-07-29T22:54:26.348Z,"12 km NW of The Geysers, CA",earthquake,0.33,0.550000012,0.14,21,automatic,nc,nc
 2024-07-29T19:46:33.840Z,38.8310012817383,-122.87850189209,2.91000008583069,1.27,md,9,176,0.008183,0.02,nc,nc75041072,2024-07-29T22:29:23.174Z,"12 km NW of The Geysers, CA",earthquake,0.56,0.589999974,0.13,9,automatic,nc,nc
 2024-07-29T19:44:06.790Z,19.3008333333333,-155.213166666667,6.9,3.53,ml,55,110,0.02231,0.13,hv,hv74372746,2024-07-29T21:46:10.332Z,"15 km S of Volcano, Hawaii",earthquake,0.26,0.4,0.266674619167163,19,reviewed,hv,hv
@@ -203,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T05:51:41.370Z,34.1661667,-116.7516667,12.79,1,ml,35,111,0.1387,0.12,ci,ci40674463,2024-07-29T19:01:58.240Z,"14 km SE of Big Bear City, CA",earthquake,0.16,0.38,0.152,23,reviewed,ci,ci
 2024-07-29T05:40:31.274Z,60.0791,-152.6431,85.3,0.8,ml,,,,0.09,ak,ak0249p1m19z,2024-07-29T05:41:30.398Z,"52 km WNW of Happy Valley, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-07-29T05:39:04.620Z,33.389,-116.4261667,12.46,0.68,ml,38,57,0.07936,0.19,ci,ci40674455,2024-07-29T05:45:11.611Z,"16 km NNW of Borrego Springs, CA",earthquake,0.22,0.66,0.143,16,automatic,ci,ci
-2024-07-29T05:29:05.760Z,37.4725,-112.852333333333,19.57,4.47,ml,31,71,0.1214,0.16,uu,uu80076711,2024-07-29T23:48:21.634Z,"24 km S of Brian Head, Utah",earthquake,0.27,0.46,0.184848133533255,29,reviewed,uu,uu
+2024-07-29T05:29:05.760Z,37.4725,-112.852333333333,19.57,4.47,ml,31,71,0.1214,0.16,uu,uu80076711,2024-07-30T00:01:22.390Z,"24 km S of Brian Head, Utah",earthquake,0.27,0.46,0.184848133533255,29,reviewed,uu,uu
 2024-07-29T05:18:45.350Z,37.6253318786621,-118.871002197266,2.83999991416931,0.88,md,10,114,0.008995,0.02,nc,nc75040767,2024-07-29T06:54:24.982Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.52,1.17999995,0.09,10,automatic,nc,nc
 2024-07-29T05:04:02.630Z,33.8173333,-117.6366667,5.6,0.68,ml,12,109,0.0318,0.12,ci,ci40674431,2024-07-29T19:00:15.698Z,"9 km SW of Corona, CA",earthquake,0.32,0.49,0.304,7,reviewed,ci,ci
 2024-07-29T04:51:49.210Z,38.8105010986328,-122.77766418457,0.129999995231628,1.51,md,27,69,0.003627,0.04,nc,nc75040752,2024-07-29T06:14:24.732Z,"4 km NNW of The Geysers, CA",earthquake,0.17,0.300000012,0.17,27,automatic,nc,nc
@@ -250,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T00:27:51.410Z,39.2671661376953,-122.744499206543,6.15000009536743,2.01,md,18,57,0.1181,0.21,nc,nc75040647,2024-07-29T02:44:25.233Z,"18 km ENE of Upper Lake, CA",earthquake,0.39,1.99000001,0.11,9,automatic,nc,nc
 2024-07-29T00:15:29.860Z,33.668,-116.7748333,14.88,0.88,ml,41,51,0.06642,0.14,ci,ci40674303,2024-07-29T18:59:50.050Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.3,0.096,27,reviewed,ci,ci
 2024-07-29T00:09:35.998Z,62.1961,-152.0796,99.2,1.7,ml,,,,0.5,ak,ak0249oyg8f3,2024-07-29T00:12:05.356Z,"42 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-07-29T00:05:51.310Z,34.2130013,-117.4663315,6.52,2.15,ml,114,25,0.0248,0.24,ci,ci40674295,2024-07-29T00:16:17.940Z,"6 km SSE of Lytle Creek, CA",earthquake,0.17,0.43,0.192,27,automatic,ci,ci
