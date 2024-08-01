@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-01T00:02:20.750Z,32.9885,-116.313,7.98,0.84,ml,21,59,0.03476,0.16,ci,ci40678791,2024-08-01T00:08:43.223Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.48,0.292,14,automatic,ci,ci
 2024-07-31T23:53:44.570Z,33.5018333,-116.4891667,13.04,0.58,ml,24,61,0.05722,0.27,ci,ci40678783,2024-07-31T23:59:52.520Z,"18 km ESE of Anza, CA",earthquake,0.49,0.87,0.122,15,automatic,ci,ci
 2024-07-31T23:31:26.345Z,31.609,-104.124,3.6471,1.7,ml,18,58,0,0.4,tx,tx2024ozdf,2024-07-31T23:45:46.317Z,"45 km NW of Toyah, Texas",earthquake,0,1.43337079634981,0.2,13,automatic,tx,tx
 2024-07-31T23:21:52.700Z,35.0383333,-117.6785,-0.84,1.54,ml,38,39,0.1047,0.19,ci,ci40678743,2024-07-31T23:28:22.329Z,"5 km NNW of Boron, CA",earthquake,0.31,0.57,0.137,28,automatic,ci,ci
@@ -84,10 +85,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T17:52:57.550Z,53.872,-166.651333333333,8.68,-0.36,ml,8,117,0.02304,0.18,av,av93217036,2024-07-31T23:34:43.880Z,"7 km WSW of Dutch Harbor, Alaska",earthquake,0.47,1,0.249462261213268,8,reviewed,av,av
 2024-07-31T17:48:41.378Z,57.2224,-154.971,30.5,2.3,ml,,,,0.43,ak,ak0249sjvo15,2024-07-31T18:50:08.040Z,"49 km SW of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2024-07-31T17:48:09.414Z,63.5911,-150.7013,9.6,1.6,ml,,,,0.85,ak,ak0249sjvlkn,2024-07-31T17:50:06.435Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-31T17:41:49.390Z,61.3116666666667,-152.280166666667,4.02,-0.11,ml,7,122,0.06898,0.06,av,av93017014,2024-08-01T00:01:16.850Z,"67 km WNW of Beluga, Alaska",earthquake,0.22,0.29,0.224014978183712,7,reviewed,av,av
 2024-07-31T17:30:13.230Z,33.3373333,-116.6661667,11.63,0.5,ml,27,58,0.1274,0.14,ci,ci40678143,2024-07-31T20:27:47.145Z,"7 km NNW of Warner Springs, CA",earthquake,0.19,0.64,0.169,12,reviewed,ci,ci
 2024-07-31T17:27:23.730Z,58.3606666666667,-154.844666666667,4.29,-0.58,ml,4,226,0.032,0.17,av,av93017009,2024-07-31T23:57:41.760Z,"91 km NNW of Karluk, Alaska",earthquake,1.82,0.72,0.185343910535418,4,reviewed,av,av
 2024-07-31T17:26:47.780Z,38.4956666666667,-112.899333333333,2.86,0.29,md,11,131,0.01158,0.1,uu,uu80076966,2024-07-31T19:51:55.270Z,"14 km NE of Milford, Utah",earthquake,0.34,0.57,0.176073434679317,4,reviewed,uu,uu
-2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9,122,0.2423,0.19,ci,ci40678119,2024-07-31T17:24:22.159Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19,automatic,ci,ci
+2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9,122,0.2423,0.19,ci,ci40678119,2024-08-01T00:02:25.524Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19,automatic,ci,ci
 2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14,75,0.04824,0.11,ci,ci40678087,2024-07-31T19:19:54.442Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5,reviewed,ci,ci
 2024-07-31T16:45:21.040Z,55.5798333333333,-161.7825,8.17,2.56,ml,10,224,0.1299,0.24,av,av93216976,2024-07-31T23:39:09.160Z,"59 km SW of Nelson Lagoon, Alaska",earthquake,1,0.79,0.335833260283795,17,reviewed,av,av
 2024-07-31T16:43:01.017Z,37.1245,-117.3849,9,0.3,ml,12,124.25,0.129,0.1169,nn,nn00881728,2024-07-31T19:07:01.935Z,"60 km WNW of Beatty, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
@@ -274,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T00:27:43.960Z,38.6558333333333,-112.567,1.49,1.68,ml,14,65,0.1046,0.16,uu,uu80076901,2024-07-31T15:08:29.380Z,"19 km SW of Kanosh, Utah",earthquake,0.41,1.85,0.0882207700783471,6,reviewed,uu,uu
 2024-07-31T00:17:42.485Z,62.1661,-149.6941,33.6,1.7,ml,,,,0.54,ak,ak0249s9knmw,2024-07-31T00:20:02.555Z,"8 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-31T00:12:58.920Z,33.0438333,-116.3891667,10.18,1.32,ml,62,32,0.053,0.21,ci,ci40677239,2024-07-31T20:31:55.350Z,"20 km E of Julian, CA",earthquake,0.17,0.38,0.207,26,reviewed,ci,ci
-2024-07-31T00:06:51.690Z,19.3798332214355,-155.172836303711,2.9300000667572,1.72,ml,28,125,0.003363,0.180000007,hv,hv74375316,2024-07-31T00:09:30.220Z,"9 km SE of Volcano, Hawaii",earthquake,0.55,0.5,0.31,3,automatic,hv,hv
-2024-07-31T00:05:15.870Z,33.6643333,-116.7448333,14.54,0.68,ml,24,106,0.05325,0.13,ci,ci40677231,2024-07-31T00:23:49.908Z,"9 km SSW of Idyllwild, CA",earthquake,0.22,0.37,0.15,9,reviewed,ci,ci
