@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-01T15:07:25.670Z,33.7683334,-116.116333,2.53,1.09,ml,22,91,0.09209,0.19,ci,ci40679471,2024-08-01T15:09:28.085Z,"11 km ENE of Indio, CA",earthquake,0.39,0.72,0.119,6,automatic,ci,ci
+2024-08-01T15:07:25.520Z,33.7671667,-116.1125,1.98,1.06,ml,41,44,0.09548,0.17,ci,ci40679471,2024-08-01T15:13:36.010Z,"11 km ENE of Indio, CA",earthquake,0.18,0.33,0.122,26,automatic,ci,ci
 2024-08-01T15:05:53.681Z,37.5815,-114.9658,14.1,1.7,ml,12,328,0.948,0.2906,nn,nn00881777,2024-08-01T15:08:21.970Z,"22 km E of Hiko, Nevada",earthquake,,2.6,0.06,8,automatic,nn,nn
 2024-08-01T14:35:12.534Z,-36.9594,-96.6228,10,5,mb,43,159,20.285,0.82,us,us6000nhcw,2024-08-01T14:50:35.040Z,"West Chile Rise",earthquake,15.32,1.919,0.055,107,reviewed,us,us
 2024-08-01T14:23:57.220Z,35.7785,-117.6141667,10.66,2.09,ml,17,65,0.1261,0.15,ci,ci40679367,2024-08-01T14:30:53.749Z,"18 km NNE of Ridgecrest, CA",earthquake,0.28,0.69,0.722,9,automatic,ci,ci
@@ -140,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T23:42:58.740Z,53.8746666666667,-166.645166666667,8.19,0,ml,8,121,0.02532,0.14,av,av93217226,2024-08-01T01:34:45.110Z,"6 km WSW of Dutch Harbor, Alaska",earthquake,0.41,0.73,0.198745335130673,8,reviewed,av,av
 2024-07-31T23:34:50.190Z,46.62016677856445,-119.84349822998047,5.07000017166138,1.33000004,md,8,164,0.05565,0.0500000007,uw,uw62030636,2024-08-01T15:12:14.870Z,"8 km SE of Desert Aire, Washington",earthquake,0.59,1.09000003,,1,reviewed,uw,uw
 2024-07-31T23:31:26.336Z,31.611,-104.099,5.0232,1.9,ml,24,64,0,0.1,tx,tx2024ozdf,2024-08-01T14:33:16.897Z,"43 km NW of Toyah, Texas",earthquake,0.8276090915158832,0.6092314393054022,0.1,13,reviewed,tx,tx
+2024-07-31T23:22:30.562Z,32.434,-102.072,5.9326,1.6,ml,19,69,0,0.1,tx,tx2024ozcx,2024-08-01T15:14:04.188Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.8680201071194998,1.3388178931027663,0.2,10,reviewed,tx,tx
 2024-07-31T23:21:52.700Z,35.0383333,-117.6785,-0.84,1.54,ml,38,39,0.1047,0.19,ci,ci40678743,2024-07-31T23:28:22.329Z,"5 km NNW of Boron, CA",earthquake,0.31,0.57,0.137,28,automatic,ci,ci
 2024-07-31T23:13:42.870Z,46.61833333333333,-119.841,6.92,2.42,ml,12,154,0.05372,0.06,uw,uw62030631,2024-07-31T23:23:13.220Z,"8 km SE of Desert Aire, Washington",earthquake,0.25,0.17,0.08653023999091936,9,reviewed,uw,uw
 2024-07-31T23:07:54.440Z,17.9361666666667,-66.949,11.76,1.86,md,7,227,0.05254,0.15,pr,pr71456718,2024-07-31T23:27:41.740Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.63,0.94,0.099987216927244,3,reviewed,pr,pr
