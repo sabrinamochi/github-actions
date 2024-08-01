@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-01T02:01:24.430Z,19.3864994049072,-155.254837036133,0.600000023841858,2.42,ml,30,48,0.003472,0.340000004,hv,hv74377551,2024-08-01T02:04:02.030Z,"6 km SSW of Volcano, Hawaii",earthquake,0.3,0.219999999,0.46,25,automatic,hv,hv
 2024-08-01T01:45:27.143Z,64.5281,-149.3039,6.9,0.9,ml,,,,0.6,ak,ak0249txvelm,2024-08-01T01:47:31.065Z,"10 km WSW of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-01T01:02:58.450Z,32.6443333,-115.7178333,9.67,1.64,ml,38,54,0.008765,0.29,ci,ci40678831,2024-08-01T01:13:22.980Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.36,0.6,0.329,28,automatic,ci,ci
 2024-08-01T01:02:34.820Z,19.3020000457764,-155.215835571289,0.5,2.01,ml,47,101,0.02227,0.209999993,hv,hv74377481,2024-08-01T01:05:14.390Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.280000001,0.37,8,automatic,hv,hv
@@ -236,7 +237,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T05:48:39.023Z,38.4465,-118.3921,11.4,0.5,ml,5,91.16999999999999,0.215,0.1911,nn,nn00881749,2024-07-31T21:27:51.949Z,"22 km ESE of Hawthorne, Nevada",earthquake,,3.9,0.29,2,reviewed,nn,nn
 2024-07-31T05:46:43.370Z,51.7765,-178.806333333333,7.14,0.56,ml,5,146,0.02579,0.29,av,av93216536,2024-07-31T17:42:20.570Z,"150 km W of Adak, Alaska",earthquake,1.24,1.62,0.0757003765262204,5,reviewed,av,av
 2024-07-31T05:44:26.975Z,32.755,-100.636,6.9092,2,ml,12,52,0.1,0.2,tx,tx2024oxud,2024-07-31T16:35:50.374Z,"17 km NE of Hermleigh, Texas",earthquake,1.2933148128766543,3.212927904582253,0,7,reviewed,tx,tx
-2024-07-31T05:44:18.155Z,40.7184,-74.7725,4.742,2.2,mb_lg,32,57,0.018,0.21,us,us6000nh1u,2024-08-01T01:53:18.177Z,"5 km E of Califon, New Jersey",earthquake,1.32,3.009,0.132,15,reviewed,us,us
+2024-07-31T05:44:18.155Z,40.7184,-74.7725,4.742,2.2,mb_lg,32,57,0.018,0.21,us,us6000nh1u,2024-08-01T02:08:57.335Z,"5 km E of Califon, New Jersey",earthquake,1.32,3.009,0.132,15,reviewed,us,us
 2024-07-31T05:38:33.770Z,33.3573333,-116.4306667,6.66,1.48,ml,80,14,0.06131,0.19,ci,ci40677511,2024-07-31T18:59:48.450Z,"12 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.142,27,reviewed,ci,ci
 2024-07-31T05:37:35.529Z,32.062,-103.722,7.2278,2.2,ml,27,39,0,0.1,tx,tx2024oxtu,2024-07-31T16:51:15.553Z,"37 km ESE of Malaga, New Mexico",earthquake,0.6052669211215433,0.659572034336596,0.1,16,reviewed,tx,tx
 2024-07-31T05:33:17.510Z,18.2236666666667,-67.3998333333333,10.1,2.87,md,15,280,0.182,0.32,pr,pr71456583,2024-07-31T05:45:54.850Z,"19 km SW of Stella, Puerto Rico",earthquake,1.07,0.84,0.101756880605077,8,reviewed,pr,pr
@@ -269,6 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T02:17:39.340Z,53.8711666666667,-166.653333333333,8.77,-0.12,ml,7,117,0.02243,0.24,av,av93016924,2024-07-31T19:48:27.320Z,"7 km WSW of Dutch Harbor, Alaska",earthquake,0.71,1.39,0.282849731845011,7,reviewed,av,av
 2024-07-31T02:15:03.810Z,33.6801667,-116.7578333,11.81,0.39,ml,16,130,0.04776,0.1,ci,ci40677383,2024-07-31T21:15:52.228Z,"8 km SSW of Idyllwild, CA",earthquake,0.25,0.48,0.223,4,reviewed,ci,ci
 2024-07-31T02:13:51.090Z,19.3703333333333,-155.176,1.91,1.81,ml,26,130,0.01106,0.12,hv,hv74375511,2024-07-31T17:59:07.150Z,"10 km SE of Volcano, Hawaii",earthquake,0.43,0.25,0.151856952356482,9,reviewed,hv,hv
-2024-07-31T02:09:01.230Z,33.2635,-116.1071667,7.35,0.7,ml,35,49,0.103,0.2,ci,ci40677375,2024-07-31T20:40:32.844Z,"14 km N of Ocotillo Wells, CA",earthquake,0.22,0.81,0.151,16,reviewed,ci,ci
-2024-07-31T02:04:29.928Z,31.616,-104.246,6.7151,1.7,ml,29,69,0.1,0.1,tx,tx2024oxmw,2024-07-31T15:27:20.885Z,"54 km NW of Toyah, Texas",earthquake,1.1669683550613523,0.9617768312287858,0.1,15,reviewed,tx,tx
-2024-07-31T02:03:55.410Z,17.9881666666667,-66.9911666666667,12.49,2.36,md,6,153,0.05383,0.09,pr,pr71456573,2024-07-31T02:17:24.790Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.49,0.64,0.00818945113236458,3,reviewed,pr,pr
