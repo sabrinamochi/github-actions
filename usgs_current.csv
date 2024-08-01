@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-01T20:22:23.910Z,38.8279991149902,-122.813835144043,2.16000008583069,0.88,md,13,75,0.005456,0.01,nc,nc75042392,2024-08-01T20:23:58.280Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.839999974,0.27,14,automatic,nc,nc
 2024-08-01T20:15:24.047Z,58.1388,-154.9017,76.6,0.9,ml,,,,0.34,ak,ak0249u907dg,2024-08-01T20:16:48.675Z,"68 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-01T20:11:45.870Z,33.6711667,-116.715,15.02,0.59,ml,24,59,0.03443,0.11,ci,ci40857872,2024-08-01T20:22:24.625Z,"8 km S of Idyllwild, CA",earthquake,0.26,0.34,0.1,13,automatic,ci,ci
 2024-08-01T20:04:50.450Z,33.6646667,-116.721,15,1.25,ml,53,43,0.03959,0.14,ci,ci40857832,2024-08-01T20:20:21.394Z,"8 km S of Idyllwild, CA",earthquake,0.15,0.24,0.209,29,automatic,ci,ci
@@ -130,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T07:48:57.210Z,38.8409996032715,-122.877998352051,2.74000000953674,0.75,md,10,107,0.005083,0.01,nc,nc75042132,2024-08-01T08:24:26.189Z,"13 km E of Cloverdale, CA",earthquake,0.51,0.709999979,0.16,10,automatic,nc,nc
 2024-08-01T07:47:39.881Z,36.6726,-116.281,7.6,-0.1,ml,10,158.04,0.054,0.0595,nn,nn00881762,2024-08-01T17:10:40.648Z,"50 km ESE of Beatty, Nevada",earthquake,,1.4,0.05,2,reviewed,nn,nn
 2024-08-01T07:43:09.692Z,59.8041,-152.169,62.7,1.7,ml,,,,0.46,ak,ak0249u1fjg9,2024-08-01T07:45:02.602Z,"19 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-08-01T07:39:22.480Z,32.4273333,-115.173,11.65,2.57,ml,37,55,0.05794,0.33,ci,ci40679055,2024-08-01T07:50:10.260Z,"8 km NNE of Delta, B.C., MX",earthquake,0.37,0.79,0.25,27,automatic,ci,ci
+2024-08-01T07:39:22.430Z,32.4311667,-115.1776667,11.24,2.58,ml,35,52,0.06047,0.36,ci,ci40679055,2024-08-01T20:23:12.955Z,"9 km N of Delta, B.C., MX",earthquake,0.45,0.89,0.237,22,reviewed,ci,ci
 2024-08-01T07:37:09.620Z,46.839666666666666,-121.77166666666666,0.77,0.28,ml,9,65,0.02686,0.05,uw,uw62030711,2024-08-01T18:39:36.290Z,"21 km ENE of Ashford, Washington",earthquake,0.18,0.74,0.21006714182704894,5,reviewed,uw,uw
 2024-08-01T07:27:18.820Z,33.4946667,-116.565,11.86,0.47,ml,25,47,0.03109,0.12,ci,ci40679039,2024-08-01T16:45:18.579Z,"12 km ESE of Anza, CA",earthquake,0.19,0.35,0.114,6,reviewed,ci,ci
 2024-08-01T07:25:38.701Z,66.0269,-150.2707,0,1.9,ml,,,,0.59,ak,ak0249u1bqsu,2024-08-01T07:27:24.911Z,"53 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -173,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T03:12:37.350Z,19.3826675415039,-155.257339477539,0.629999995231628,1.96,ml,22,46,0.006356,0.140000001,hv,hv74377671,2024-08-01T03:15:16.960Z,"7 km SSW of Volcano, Hawaii",earthquake,0.14,0.140000001,0.24,15,automatic,hv,hv
 2024-08-01T03:11:49.870Z,37.8139991760254,-122.014663696289,9.92000007629395,1.05,md,8,82,0.03838,0.03,nc,nc75042087,2024-08-01T04:14:26.404Z,"2 km WSW of Danville, CA",earthquake,0.46,0.74000001,0.09,7,automatic,nc,nc
 2024-08-01T03:11:00.056Z,31.66,-104.334,2.0496,1.7,ml,21,68,0.1,0.1,tx,tx2024ozkl,2024-08-01T14:43:33.974Z,"57 km S of Whites City, New Mexico",earthquake,0.836778182429941,1.6485756586067064,0.2,15,reviewed,tx,tx
+2024-08-01T03:10:20.760Z,53.8585,-166.431833333333,10.96,0.29,ml,10,203,0.04507,0.19,av,av93217321,2024-08-01T20:23:58.300Z,"6 km ESE of Unalaska, Alaska",earthquake,0.66,0.81,0.262513587909565,9,reviewed,av,av
 2024-08-01T03:09:36.535Z,42.0064,-119.6116,0,1.8,ml,5,123.83000000000001,0.525,0.2103,nn,nn00881784,2024-08-01T20:17:10.260Z,"47 km ENE of Fort Bidwell, California",earthquake,,0,0.73,5,reviewed,nn,nn
 2024-08-01T03:03:51.624Z,38.7447,-118.6398,5,1.6,ml,7,113.59000000000003,0.505,0.2807,nn,nn00881783,2024-08-01T20:04:55.777Z,"14 km NE of Walker Lake, Nevada",earthquake,,3.6,0.24,5,reviewed,nn,nn
 2024-08-01T02:52:14.941Z,38.1437,38.2237,10,4.3,mb,67,54,0.846,1.02,us,us6000nh9q,2024-08-01T03:07:27.040Z,"13 km N of Çelikhan, Turkey",earthquake,4.92,1.94,0.099,29,reviewed,us,us
@@ -261,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T20:29:13.320Z,33.1451667,-116.543,14.99,0.73,ml,26,50,0.0787,0.21,ci,ci40678463,2024-07-31T23:13:53.117Z,"9 km NE of Julian, CA",earthquake,0.31,0.65,0.078,8,reviewed,ci,ci
 2024-07-31T20:25:49.650Z,44.36983333333333,-121.04016666666666,-1.65,1.52,ml,10,163,0.217,0.49,uw,uw62030581,2024-07-31T23:43:19.220Z,"11 km E of Terrebonne, Oregon",explosion,1.97,31.61,0.08101281192434173,4,reviewed,uw,uw
 2024-07-31T20:24:39.537Z,58.3487,-154.8212,4.1,1,ml,,,,0.93,ak,ak0249slitjc,2024-08-01T00:48:33.190Z,"89 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-31T20:23:52.860Z,38.7911682128906,-122.748001098633,3,0.79,md,8,88,0.01185,0.03,nc,nc75041997,2024-07-31T21:22:19.632Z,"2 km NE of The Geysers, CA",earthquake,0.4,1.47000003,0.16,7,automatic,nc,nc
