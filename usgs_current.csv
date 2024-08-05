@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-05T18:22:21.940Z,19.3768329620361,-155.216506958008,1.78999996185303,1.76,ml,23,98,0.003178,0.109999999,hv,hv74386361,2024-08-05T18:24:59.190Z,"7 km SSE of Volcano, Hawaii",earthquake,0.33,0.200000003,0.1,5,automatic,hv,hv
+2024-08-05T18:21:31.210Z,37.67,-121.99,10.74,1.42,md,9,141,0.06588,0.05,nc,nc75043907,2024-08-05T18:23:07.943Z,"5 km ESE of Fairview, CA",earthquake,0.8,1.23000002,0.19,8,automatic,nc,nc
 2024-08-05T18:02:39.800Z,32.8898333,-115.5145,8.41,1.53,ml,22,72,0.04057,0.18,ci,ci40863112,2024-08-05T18:10:01.822Z,"7 km NE of Imperial, CA",earthquake,0.32,0.52,0.232,28,automatic,ci,ci
 2024-08-05T17:52:18.370Z,36.10266667,-97.83666667,5.54,1.49,ml,81,35,0.1169770451,0.17,ok,ok2024phvn,2024-08-05T18:09:39.808Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.3,0.22,33,reviewed,ok,ok
 2024-08-05T17:38:44.000Z,38.11,-122.1,5.26,2.1,md,9,213,0.04118,0.08,nc,nc75043882,2024-08-05T18:09:27.149Z,"9 km NE of Benicia, CA",earthquake,0.92,0.579999983,0.19,10,automatic,nc,nc
@@ -58,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T10:26:48.895Z,60.1705,-140.0763,5,1.7,ml,,,,0.98,ak,ak024a0p9o3d,2024-08-05T10:29:03.969Z,"72 km NNW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-08-05T10:23:09.200Z,38.79,-122.77,3.3,1.1,md,23,76,0.01064,0.02,nc,nc75043767,2024-08-05T11:42:16.717Z,"3 km NNW of The Geysers, CA",earthquake,0.28,0.560000002,0.18,25,automatic,nc,nc
 2024-08-05T10:20:43.930Z,33.9791667,-116.9645,5.88,0.9,ml,24,52,0.05916,0.11,ci,ci40862624,2024-08-05T10:27:30.454Z,"6 km NNE of Beaumont, CA",earthquake,0.28,0.76,0.118,27,automatic,ci,ci
-2024-08-05T09:45:39.581Z,37.048,-116.4244,8.6,0.1,ml,8,126.66,0.041,0.1682,nn,nn00881928,2024-08-05T09:47:38.845Z,"33 km ENE of Beatty, Nevada",earthquake,,0.9,0.46,5,automatic,nn,nn
+2024-08-05T09:45:40.044Z,37.0434,-116.4354,8.3,0.2,ml,14,93.25,0.037,0.1832,nn,nn00881928,2024-08-05T18:24:40.789Z,"32 km ENE of Beatty, Nevada",earthquake,,1.4,0.44,4,reviewed,nn,nn
 2024-08-05T09:36:15.740Z,34.0755,-117.2911667,14.18,0.76,ml,42,64,0.1076,0.14,ci,ci40862616,2024-08-05T14:05:26.292Z,"2 km E of Colton, CA",earthquake,0.16,0.38,0.154,18,reviewed,ci,ci
 2024-08-05T09:27:13.500Z,35.7825,-117.6011667,7.65,1.7,ml,29,67,0.1356,0.13,ci,ci40862608,2024-08-05T17:54:02.674Z,"18 km W of Searles Valley, CA",earthquake,0.17,0.85,0.199,27,automatic,ci,ci
 2024-08-05T09:22:52.780Z,46.4695,-122.36133333333333,12.23,0.8200000000000001,ml,32,60,0.1641,0.09,uw,uw62032366,2024-08-05T16:42:45.390Z,"11 km SE of Mossyrock, Washington",earthquake,0.16,0.66,0.12476924979075854,13,reviewed,uw,uw
@@ -185,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T18:55:41.395Z,66.2072,-157.1772,16.7,1.4,ml,,,,1.5,ak,ak0249z6nzmq,2024-08-04T18:58:31.885Z,"66 km NNW of Huslia, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-04T18:55:40.229Z,3.8773,63.3619,10,5.1,mb,106,67,10.195,1.04,us,us6000ni2p,2024-08-04T19:13:57.040Z,"Carlsberg Ridge",earthquake,10.22,1.864,0.048,138,reviewed,us,us
 2024-08-04T18:46:48.649Z,66.302,-156.959,0,1.7,ml,,,,1.22,ak,ak0249z6m2qg,2024-08-04T18:49:57.030Z,"65 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-04T18:15:24.390Z,38.83,-122.81,2.1,0.75,md,17,50,0.01098,0.01,nc,nc75043522,2024-08-04T19:24:25.387Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.460000008,0.32,18,automatic,nc,nc
