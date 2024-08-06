@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-06T16:32:11.560Z,35.6650009,-117.4866638,4.69,1.46,ml,19,53,0.05126,0.15,ci,ci40864312,2024-08-06T16:34:17.959Z,"14 km SSW of Searles Valley, CA",earthquake,0.4,1.1,0.126,6,automatic,ci,ci
+2024-08-06T16:37:41.337Z,59.6291,-150.1205,18.8,2.2,ml,,,,0.66,ak,ak024a2gfyid,2024-08-06T16:41:14.456Z,"53 km ESE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-06T16:32:11.470Z,35.6686667,-117.4796667,6.8,1.46,ml,29,59,0.0457,0.12,ci,ci40864312,2024-08-06T16:38:43.703Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.37,0.113,20,automatic,ci,ci
 2024-08-06T16:29:32.460Z,19.291166305542,-155.37483215332,29.5900001525879,2.22,ml,58,109,0.04323,0.170000002,hv,hv74387921,2024-08-06T16:32:11.030Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.519999981,0.49,12,automatic,hv,hv
 2024-08-06T16:14:14.190Z,33.3213333,-116.422,4.56,1.55,ml,70,15,0.04624,0.18,ci,ci40864304,2024-08-06T16:29:35.652Z,"8 km NNW of Borrego Springs, CA",earthquake,0.13,0.35,0.204,27,automatic,ci,ci
 2024-08-06T15:38:36.020Z,61.5932,-142.5085,0,1.3,ml,,,,0.63,ak,ak024a2fuq7m,2024-08-06T15:40:59.076Z,"28 km NE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -102,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T04:36:01.017Z,60.1031,-150.7791,20,2.7,ml,,,,0.69,ak,ak024a29agf9,2024-08-06T04:37:43.845Z,"29 km NNE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-06T04:31:59.830Z,38.85,-122.78,1.02,0.72,md,11,150,0.006204,0.02,nc,nc75044137,2024-08-06T04:52:12.149Z,"6 km NW of Cobb, CA",earthquake,0.3,0.419999987,0.34,12,automatic,nc,nc
 2024-08-06T04:28:57.320Z,19.3758335113525,-155.20866394043,2.47000002861023,2.23,ml,31,106,0.006768,0.189999998,hv,hv74387116,2024-08-06T04:31:36.540Z,"7 km SSE of Volcano, Hawaii",earthquake,0.35,0.370000005,0.58,20,automatic,hv,hv
-2024-08-06T04:28:39.182Z,39.5801,-119.0634,4,1.7,ml,11,99.10000000000002,0.605,0.1265,nn,nn00881966,2024-08-06T16:35:51.477Z,"16 km E of Fernley, Nevada",earthquake,,7.9,0.25,7,reviewed,nn,nn
+2024-08-06T04:28:39.182Z,39.5802,-119.0634,4,1.7,ml,11,99.10000000000002,0.605,0.1225,nn,nn00881966,2024-08-06T16:39:02.046Z,"16 km E of Fernley, Nevada",earthquake,,7.7,0.25,7,reviewed,nn,nn
 2024-08-06T04:00:06.726Z,60.8233,-152.3654,97.1,1.9,ml,,,,0.31,ak,ak024a292r34,2024-08-06T04:01:57.200Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-06T03:56:25.872Z,65.4397,-148.2146,11.6,1.2,ml,,,,0.34,ak,ak024a28td23,2024-08-06T03:58:34.179Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-06T03:46:27.510Z,40.733,-112.035833333333,6.44,0.97,md,10,78,0.006044,0.12,uu,uu80077616,2024-08-06T14:33:26.440Z,"5 km NNW of West Valley City, Utah",earthquake,0.6,1.01,0.218168939840815,5,reviewed,uu,uu
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T16:45:54.890Z,33.0423333,-116.286,3.19,0.85,ml,36,57,0.0887,0.18,ci,ci40862992,2024-08-05T16:53:44.952Z,"18 km SW of Ocotillo Wells, CA",earthquake,0.21,0.47,0.185,12,automatic,ci,ci
 2024-08-05T16:45:13.450Z,34.0043333,-116.7978333,16.25,0.72,ml,22,89,0.03183,0.11,ci,ci40862984,2024-08-05T16:52:52.784Z,"10 km N of Cabazon, CA",earthquake,0.19,0.51,0.266,15,automatic,ci,ci
 2024-08-05T16:44:10.470Z,32.8946667,-115.5105,8.52,1.54,ml,25,78,0.04278,0.22,ci,ci40862968,2024-08-05T16:50:24.208Z,"8 km NE of Imperial, CA",earthquake,0.43,0.76,0.278,28,automatic,ci,ci
-2024-08-05T16:39:00.320Z,32.8933333,-115.5138333,8.81,2,ml,36,71,0.04026,0.24,ci,ci40862960,2024-08-05T16:45:34.078Z,"7 km NE of Imperial, CA",earthquake,0.3,0.57,0.231,26,automatic,ci,ci
