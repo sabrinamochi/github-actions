@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-07T18:28:32.800Z,38.84,-122.83,1.62,0.63,md,6,137,0.008252,0.02,nc,nc75045257,2024-08-07T18:30:10.660Z,"9 km WNW of Cobb, CA",earthquake,0.73,1.36000001,0.08,6,automatic,nc,nc
-2024-08-07T18:26:48.690Z,35.0685005,-119.0891647,12.98,1.51,ml,10,169,0.01081,0.11,ci,ci40868224,2024-08-07T18:29:02.719Z,"20 km NW of Grapevine, CA",earthquake,0.74,1.35,0.374,6,automatic,ci,ci
+2024-08-07T18:26:48.420Z,35.0771667,-119.0838333,0.84,2.03,ml,23,101,0.01852,0.19,ci,ci40868224,2024-08-07T18:35:36.014Z,"20 km NW of Grapevine, CA",earthquake,0.32,1.07,0.327,25,automatic,ci,ci
 2024-08-07T18:26:18.720Z,35.1005,-119.1195,2.26,1.6,ml,33,30,0.05104,0.28,ci,ci40868216,2024-08-07T18:33:31.749Z,"25 km NW of Grapevine, CA",earthquake,0.31,1.37,0.179,27,automatic,ci,ci
 2024-08-07T18:17:25.390Z,36.2271667,-117.8975,4.92,1.13,ml,20,83,0.1147,0.19,ci,ci40868200,2024-08-07T18:23:29.682Z,"11 km ESE of Olancha, CA",earthquake,0.33,1.37,0.105,9,automatic,ci,ci
 2024-08-07T18:13:27.830Z,35.0976667,-119.117,1.23,1.46,ml,31,42,0.04755,0.24,ci,ci40868184,2024-08-07T18:20:15.352Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.39,0.141,26,automatic,ci,ci
 2024-08-07T18:13:24.590Z,38.8,-122.78,1.98,0.75,md,9,83,0.008851,0.02,nc,nc75045252,2024-08-07T18:14:59.464Z,"4 km NNW of The Geysers, CA",earthquake,0.35,0.860000014,0.39,11,automatic,nc,nc
-2024-08-07T18:05:48.320Z,35.0936661,-119.1139984,12.21,3.13,ml,77,24,0.04287,0.3,ci,ci40868176,2024-08-07T18:33:32.313Z,"24 km NW of Grapevine, CA",earthquake,0.31,0.93,0.558,24,automatic,ci,ci
+2024-08-07T18:05:48.320Z,35.0936661,-119.1139984,12.21,3.13,ml,77,24,0.04287,0.3,ci,ci40868176,2024-08-07T18:36:10.040Z,"24 km NW of Grapevine, CA",earthquake,0.31,0.93,0.558,24,automatic,ci,ci
 2024-08-07T18:03:10.170Z,33.2673333,-116.4356667,4.65,2.14,ml,90,19,0.01553,0.18,ci,ci40868144,2024-08-07T18:13:58.250Z,"6 km WNW of Borrego Springs, CA",earthquake,0.11,0.3,0.174,26,automatic,ci,ci
 2024-08-07T18:02:56.690Z,35.8725,-117.7241667,10.45,0.68,ml,14,48,0.07187,0.13,ci,ci40868152,2024-08-07T18:11:09.858Z,"18 km ESE of Little Lake, CA",earthquake,0.23,0.64,0.124,4,automatic,ci,ci
 2024-08-07T18:01:57.090Z,38.8,-122.82,3.82,0.78,md,8,138,0.00662,0.02,nc,nc75045232,2024-08-07T18:03:34.435Z,"7 km NW of The Geysers, CA",earthquake,1.01,2.53999996,0.21,8,automatic,nc,nc
@@ -401,7 +401,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T04:13:16.736Z,35.0857,-119.0778,12.782,3.2,ml,16,55,0.553,0.37,us,us6000niii,2024-08-07T09:47:18.424Z,"10 km WNW of Mettler, California",earthquake,1.85,0.583,0.064,32,reviewed,us,us
 2024-08-07T04:12:12.043Z,35.0708,-119.0647,10,3.5,ml,10,93,0.535,0.57,us,us6000nii6,2024-08-07T13:25:21.247Z,"8 km W of Mettler, California",earthquake,1.29,1.901,0.081,20,reviewed,us,us
 2024-08-07T04:10:44.540Z,35.1088333,-119.115,11.98,4.6,ml,49,50,0.05627,0.24,ci,ci40865192,2024-08-07T18:19:56.993Z,"25 km SW of Lamont, CA",earthquake,0.22,0.79,0.118,30,reviewed,ci,ci
-2024-08-07T04:09:56.760Z,35.109,-119.097,11.6,5.22,mw,101,21,0.05144,0.26,ci,ci40865184,2024-08-07T18:24:49.172Z,"24 km SW of Lamont, CA",earthquake,0.19,0.78,,6,reviewed,ci,ci
+2024-08-07T04:09:56.760Z,35.109,-119.097,11.6,5.22,mw,101,21,0.05144,0.26,ci,ci40865184,2024-08-07T18:37:12.040Z,"24 km SW of Lamont, CA",earthquake,0.19,0.78,,6,reviewed,ci,ci
 2024-08-07T04:06:35.300Z,35.8901667,-117.6911667,4.76,1.5,ml,27,43,0.06645,0.15,ci,ci40865176,2024-08-07T08:41:38.882Z,"20 km ESE of Little Lake, CA",earthquake,0.17,0.43,0.202,20,automatic,ci,ci
 2024-08-07T03:44:55.010Z,19.3838329315186,-155.258331298828,0.400000005960464,2.28,ml,29,41,0.006835,0.170000002,hv,hv74388676,2024-08-07T03:47:32.980Z,"7 km SSW of Volcano, Hawaii",earthquake,0.14,0.100000001,0.25,16,automatic,hv,hv
 2024-08-07T03:43:11.720Z,35.66233333,-98.12666667,6.67,1.54,ml,77,41,0.07738481446,0.5,ok,ok2024pkkn,2024-08-07T12:53:09.688Z,"6 km N of Calumet, Oklahoma",earthquake,,1.1,0.27,30,reviewed,ok,ok
