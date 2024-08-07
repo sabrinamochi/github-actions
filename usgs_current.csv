@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-07T01:15:25.030Z,34.004,-117.4958333,2.97,0.92,ml,24,58,0.02966,0.18,ci,ci40865064,2024-08-07T01:21:31.532Z,"1 km SW of Glen Avon, CA",earthquake,0.2,0.25,0.194,22,automatic,ci,ci
 2024-08-07T00:47:37.290Z,44.295166015625,-120.78983306884766,33.5900001525879,2.5698477029800415,ml,11,144,,0.879999995,uw,uw62033136,2024-08-07T00:51:15.970Z,"3 km E of Prineville, Oregon",earthquake,4.39,5.15999985,0.23088602721691132,40,automatic,uw,uw
 2024-08-07T00:16:24.940Z,34.0756667,-117.8413333,11.9,2.5,ml,139,20,0.03267,0.23,ci,ci40865040,2024-08-07T00:59:06.346Z,"3 km S of Charter Oak, CA",earthquake,0.13,0.3,0.243,25,reviewed,ci,ci
 2024-08-06T23:30:40.908Z,60.5374,-141.258,16,1.4,ml,,,,0.78,ak,ak024a2kkhp6,2024-08-06T23:32:45.799Z,"134 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -6,7 +7,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T23:22:13.561Z,51.6044,16.125,4.999,4,mb,46,39,1.262,0.93,us,us6000nifx,2024-08-06T23:36:20.040Z,"2 km WNW of Grębocice, Poland",earthquake,4.83,5.038,0.172,9,reviewed,us,us
 2024-08-06T23:15:49.360Z,64.9445,-147.2917,0,1.3,ml,,,,0.74,ak,ak024a2kham0,2024-08-06T23:18:06.079Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-06T22:55:22.580Z,33.832,-117.7178333,2.96,1.5,ml,19,206,0.09768,0.23,ci,ci40864968,2024-08-06T23:17:18.903Z,"9 km ENE of Villa Park, CA",earthquake,1.07,0.74,0.31,33,automatic,ci,ci
+2024-08-06T22:46:59.220Z,51.8563333333333,-177.856166666667,-1.16,0.49,ml,4,256,0.09079,0.11,av,av93222506,2024-08-07T01:23:05.830Z,"84 km W of Adak, Alaska",earthquake,1.27,3.41,0.354280647563214,4,reviewed,av,av
 2024-08-06T22:31:18.470Z,19.2928333282471,-155.225830078125,2.46000003814697,1.70000005,md,22,128,0.0116,0.219999999,hv,hv74388286,2024-08-06T22:32:47.900Z,"16 km S of Volcano, Hawaii",earthquake,0.71,0.850000024,0.330000013,8,automatic,hv,hv
+2024-08-06T22:18:43.870Z,54.5288333333333,-163.513,12.93,2.07,ml,15,212,0.1771,0.27,av,av93222476,2024-08-07T01:27:22.950Z,"36 km S of False Pass, Alaska",earthquake,1.02,0.81,0.291751046625468,15,reviewed,av,av
 2024-08-06T22:09:30.605Z,59.8814,-152.3723,82.8,1.2,ml,,,,0.89,ak,ak024a2juivy,2024-08-06T22:11:49.917Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-06T22:06:55.699Z,62.7666,-149.0991,57.8,1.8,ml,,,,0.42,ak,ak024a2jty1t,2024-08-06T22:08:46.617Z,"62 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-06T22:02:33.913Z,65.041,-148.6414,18.8,0.9,ml,,,,0.22,ak,ak024a2jt1i7,2024-08-06T22:03:44.840Z,"35 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -203,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T01:42:19.190Z,33.4188333,-116.9151667,6.73,1.01,ml,54,34,0.06288,0.22,ci,ci40863696,2024-08-06T14:04:44.760Z,"5 km WSW of Aguanga, CA",earthquake,0.18,0.5,0.176,27,reviewed,ci,ci
 2024-08-06T01:37:59.932Z,-31.9415,-67.7441,128.979,4.1,mb,31,82,0.893,0.79,us,us6000niac,2024-08-06T02:46:28.040Z,"60 km ESE of Caucete, Argentina",earthquake,4.26,8.454,0.184,8,reviewed,us,us
 2024-08-06T01:32:32.115Z,40.0369,77.2995,10,4.1,mb,23,233,2.034,0.64,us,us6000niab,2024-08-06T03:09:39.040Z,"128 km ENE of Kashgar, China",earthquake,8.85,2,0.214,6,reviewed,us,us
-2024-08-06T01:28:14.660Z,33.6303333,-116.766,15.34,0.62,ml,24,94,0.03658,0.1,ci,ci40863688,2024-08-06T16:29:20.628Z,"12 km NW of Anza, CA",earthquake,0.21,0.37,0.205,7,reviewed,ci,ci
-2024-08-06T01:19:49.733Z,62.3354,-149.4086,16.6,1.4,ml,,,,0.83,ak,ak024a27em74,2024-08-06T01:22:03.074Z,"30 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-06T01:19:02.136Z,60.5126,-143.0248,14.4,0.8,ml,,,,1.14,ak,ak024a27eikx,2024-08-06T01:22:05.666Z,"102 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
