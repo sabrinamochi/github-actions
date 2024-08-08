@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-08T18:38:29.414Z,35.3367157,-97.97927094,14.8425169,2.01,ml,14,74.18132019,0.07449097186,1.088694717,ok,ok2024pnjo,2024-08-08T18:46:20.711Z,"4 km NW of Minco, Oklahoma",earthquake,4.154523868,5.3715725,0.25,13,automatic,ok,ok
 2024-08-08T18:27:14.970Z,34.3791667,-116.4613333,2.39,1.17,ml,32,71,0.1091,0.15,ci,ci40694439,2024-08-08T18:33:40.418Z,"30 km N of Yucca Valley, CA",earthquake,0.19,0.39,0.105,18,automatic,ci,ci
 2024-08-08T18:22:12.086Z,64.4299,-146.7215,7.4,2.3,ml,,,,0.51,ak,ak024a5sm8pk,2024-08-08T18:34:09.005Z,"8 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-08T18:19:04.930Z,35.0725,-119.0586667,1.94,2.28,ml,55,45,0.02485,0.25,ci,ci40694431,2024-08-08T18:32:07.546Z,"18 km NW of Grapevine, CA",earthquake,0.21,1,0.174,26,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T17:46:56.220Z,33.821,-117.7651667,8.54,1.8,ml,69,33,0.02147,0.23,ci,ci40694343,2024-08-08T17:53:45.152Z,"4 km E of Villa Park, CA",earthquake,0.19,0.42,0.171,31,automatic,ci,ci
 2024-08-08T17:46:55.050Z,35.1313333,-119.0898333,6.03,2.38,ml,42,60,0.07273,0.22,ci,ci40694351,2024-08-08T17:57:28.712Z,"21 km SW of Lamont, CA",earthquake,0.24,0.82,0.211,28,automatic,ci,ci
 2024-08-08T17:38:14.790Z,35.1013333,-119.1368333,1.18,1.6,ml,31,81,0.06091,0.27,ci,ci40694335,2024-08-08T17:45:09.091Z,"24 km E of Maricopa, CA",earthquake,0.35,1.36,0.175,28,automatic,ci,ci
-2024-08-08T17:30:52.640Z,35.1073333,-119.097,12.66,2.93,ml,65,21,0.04981,0.23,ci,ci40694327,2024-08-08T17:54:37.151Z,"24 km SW of Lamont, CA",earthquake,0.18,0.56,0.137,25,automatic,ci,ci
+2024-08-08T17:30:52.640Z,35.1073333,-119.097,12.66,2.93,ml,65,21,0.04981,0.23,ci,ci40694327,2024-08-08T18:39:43.867Z,"24 km SW of Lamont, CA",earthquake,0.18,0.56,0.137,25,automatic,ci,ci
 2024-08-08T17:06:39.160Z,35.0801667,-119.0823333,1.9,1.75,ml,42,75,0.02155,0.24,ci,ci40694295,2024-08-08T17:13:19.914Z,"21 km NW of Grapevine, CA",earthquake,0.23,1.1,0.117,28,automatic,ci,ci
 2024-08-08T17:04:50.920Z,35.6156667,-117.4478333,5.58,1.2,ml,23,76,0.03137,0.12,ci,ci40694279,2024-08-08T17:11:28.906Z,"17 km SSW of Searles Valley, CA",earthquake,0.16,0.33,0.198,15,automatic,ci,ci
 2024-08-08T17:03:54.610Z,19.1978340148926,-155.493667602539,34.75,1.86000001,md,41,74,0.05053,0.159999996,hv,hv74391816,2024-08-08T17:05:51.560Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.72,0.779999971,0.239999995,7,automatic,hv,hv
@@ -324,5 +325,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T18:47:21.190Z,19.382833480835,-155.241500854492,2.13000011444092,1.75,ml,19,69,0.009255,0.150000006,hv,hv74389936,2024-08-07T18:49:57.840Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.180000007,0.22,10,automatic,hv,hv
 2024-08-07T18:44:05.170Z,33.8496667,-117.4935,1.63,1.84,ml,63,42,0.0516,0.2,ci,ci40868256,2024-08-07T18:51:53.856Z,"4 km SE of Home Gardens, CA",earthquake,0.19,0.3,0.124,30,automatic,ci,ci
 2024-08-07T18:42:37.800Z,19.3863334655762,-155.251998901367,1.20000004768372,1.86,ml,17,69,0.001046,0.159999996,hv,hv74389926,2024-08-07T18:45:15.010Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.159999996,0.25,12,automatic,hv,hv
-2024-08-07T18:41:10.940Z,19.386,-155.246333333333,1.67,2.36,ml,23,70,0.004723,0.07,hv,hv74389921,2024-08-07T20:14:15.110Z,"6 km SSW of Volcano, Hawaii",earthquake,0.19,0.16,0.113054329769393,12,reviewed,hv,hv
-2024-08-07T18:40:26.120Z,33.3498333,-116.3646667,10.21,1.03,ml,45,46,0.02314,0.21,ci,ci40868248,2024-08-08T13:59:53.947Z,"10 km N of Borrego Springs, CA",earthquake,0.22,0.41,0.183,27,reviewed,ci,ci
