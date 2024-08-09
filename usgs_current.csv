@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T13:03:15.290Z,33.5325012,-116.4329987,2.73,1.7,ml,60,57,0.01093,0.2,ci,ci40695207,2024-08-09T13:05:26.728Z,"18 km SW of La Quinta, CA",earthquake,0.24,0.53,0.343,23,automatic,ci,ci
 2024-08-09T12:59:33.312Z,59.0438,-152.7952,68.7,1.8,ml,,,,0.38,ak,ak024a7csypf,2024-08-09T13:02:20.690Z,"60 km SW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-09T12:41:05.520Z,35.1043333,-119.1185,1.69,1.93,ml,42,66,0.05378,0.22,ci,ci40695191,2024-08-09T12:47:53.622Z,"25 km NW of Grapevine, CA",earthquake,0.22,1.17,0.217,27,automatic,ci,ci
 2024-08-09T12:38:30.850Z,19.3775005340576,-155.13883972168,1.37999999523163,1.86,ml,27,142,0.01462,0.270000011,hv,hv74392856,2024-08-09T12:41:08.000Z,"9 km S of Fern Forest, Hawaii",earthquake,0.88,0.370000005,0.27,3,automatic,hv,hv
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T08:38:03.410Z,35.1015,-119.1043333,1.28,1.7,ml,39,26,0.046,0.25,ci,ci40694983,2024-08-09T08:54:54.229Z,"24 km NW of Grapevine, CA",earthquake,0.23,1.11,0.226,31,automatic,ci,ci
 2024-08-09T08:32:38.300Z,35.1281667,-119.0778333,7.86,1.62,ml,32,61,0.06958,0.22,ci,ci40694975,2024-08-09T08:48:34.187Z,"21 km SW of Lamont, CA",earthquake,0.3,0.81,0.146,26,automatic,ci,ci
 2024-08-09T08:22:28.786Z,-4.7068,-105.1867,10,4.9,mb,45,204,24.511,0.6,us,us6000nj1m,2024-08-09T08:41:20.040Z,"central East Pacific Rise",earthquake,16.72,1.967,0.037,233,reviewed,us,us
-2024-08-09T08:21:19.928Z,43.2455,-110.9118,6.924,3.1,ml,63,56,0.243,0.66,us,us6000nj1k,2024-08-09T13:01:35.338Z,"9 km NE of Alpine Northeast, Wyoming",earthquake,3.18,6.561,0.042,74,reviewed,us,us
+2024-08-09T08:21:19.928Z,43.2455,-110.9118,6.924,3.1,ml,63,56,0.243,0.66,us,us6000nj1k,2024-08-09T13:07:00.776Z,"9 km NE of Alpine Northeast, Wyoming",earthquake,3.18,6.561,0.042,74,reviewed,us,us
 2024-08-09T08:19:15.480Z,38.82,-122.79,0.53,1.27,md,23,38,0.01123,0.05,nc,nc75046097,2024-08-09T11:16:03.108Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.340000004,0.21,25,automatic,nc,nc
 2024-08-09T08:16:53.020Z,35.35333333,-97.9635,6.43,1.59,ml,77,42,0.05398940544,0.28,ok,ok2024poko,2024-08-09T12:14:25.019Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.4,0.25,35,reviewed,ok,ok
 2024-08-09T08:12:44.160Z,38.78,-122.76,2.18,0.83,md,16,69,0.01492,0.02,nc,nc75046092,2024-08-09T08:46:03.019Z,"1 km N of The Geysers, CA",earthquake,0.27,0.540000021,0.26,16,automatic,nc,nc
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T13:13:48.660Z,19.386833190918,-155.245330810547,1.37000000476837,1.77999997,md,17,82,0.005796,0.159999996,hv,hv74391591,2024-08-08T13:15:07.580Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.209999993,0.349999994,11,automatic,hv,hv
 2024-08-08T13:09:35.250Z,38.82,-122.8,1.59,1.33,md,21,34,0.008889,0.01,nc,nc75045702,2024-08-08T15:16:10.518Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.13,22,automatic,nc,nc
 2024-08-08T13:09:02.790Z,38.82,-122.8,1.67,2.12,md,44,39,0.009311,0.05,nc,nc75045697,2024-08-08T13:20:59.799Z,"6 km NNW of The Geysers, CA",earthquake,0.16,0.239999995,0.13,44,automatic,nc,nc
-2024-08-08T13:08:58.850Z,51.7853333333333,-177.4765,2.77,0.54,ml,8,166,0.1518,0.25,av,av93017879,2024-08-08T23:49:54.640Z,"58 km W of Adak, Alaska",earthquake,1.7,3.39,0.341924074508702,8,reviewed,av,av
-2024-08-08T13:06:25.770Z,51.7886666666667,-177.486333333333,-0.99,0.81,ml,8,164,0.1584,0.13,av,av93224036,2024-08-08T23:40:40.920Z,"59 km W of Adak, Alaska",earthquake,0.97,1.22,0.22052481444308,8,reviewed,av,av
