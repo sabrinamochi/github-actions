@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-10T02:05:33.290Z,40.7,-122.49,22.31,2.04,md,6,102,0.04586,0.03,nc,nc75046472,2024-08-10T02:07:11.737Z,"11 km WNW of Shasta Lake, CA",earthquake,1.28,0.889999986,0.11,5,automatic,nc,nc
+2024-08-10T02:01:07.190Z,36.0763333,-117.9031667,5.29,1.95,ml,29,70,0.05679,0.16,ci,ci40695911,2024-08-10T02:07:59.564Z,"5 km NE of Coso Junction, CA",earthquake,0.2,0.48,0.239,25,automatic,ci,ci
+2024-08-10T01:58:20.780Z,35.0905,-119.0946667,12.77,1.47,ml,32,83,0.03305,0.25,ci,ci40695903,2024-08-10T02:04:55.549Z,"22 km NW of Grapevine, CA",earthquake,0.35,0.68,0.176,28,automatic,ci,ci
 2024-08-10T01:38:01.500Z,59.9342,-150.3264,43.2,1.9,ml,,,,0.45,ak,ak024a8tnz1y,2024-08-10T01:40:19.887Z,"36 km ENE of Fox River, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-10T01:35:24.470Z,33.4853333,-116.5131667,11.81,0.75,ml,43,29,0.0735,0.18,ci,ci40695895,2024-08-10T01:41:32.955Z,"17 km ESE of Anza, CA",earthquake,0.2,0.41,0.183,24,automatic,ci,ci
 2024-08-10T01:28:28.360Z,33.5226667,-116.5246667,12.12,0.64,ml,34,42,0.03514,0.18,ci,ci40695887,2024-08-10T01:34:25.370Z,"14 km ESE of Anza, CA",earthquake,0.23,0.4,0.165,17,automatic,ci,ci
@@ -217,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T08:38:03.410Z,35.1015,-119.1043333,1.28,1.7,ml,39,26,0.046,0.25,ci,ci40694983,2024-08-09T23:53:48.760Z,"24 km NW of Grapevine, CA",earthquake,0.23,1.11,0.226,31,automatic,ci,ci
 2024-08-09T08:32:38.300Z,35.1281667,-119.0778333,7.86,1.62,ml,32,61,0.06958,0.22,ci,ci40694975,2024-08-09T23:53:47.759Z,"21 km SW of Lamont, CA",earthquake,0.3,0.81,0.146,26,automatic,ci,ci
 2024-08-09T08:23:46.670Z,35.35466667,-97.9685,7.78,0.91,ml,23,86,0.05578905228,0.25,ok,ok2024poku,2024-08-09T14:29:27.400Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.31,14,reviewed,ok,ok
-2024-08-09T08:22:28.786Z,-4.7068,-105.1867,10,4.9,mb,45,204,24.511,0.6,us,us6000nj1m,2024-08-09T08:41:20.040Z,"central East Pacific Rise",earthquake,16.72,1.967,0.037,233,reviewed,us,us
+2024-08-09T08:22:28.786Z,-4.7068,-105.1867,10,4.9,mb,45,204,24.511,0.6,us,us6000nj1m,2024-08-10T02:05:05.997Z,"central East Pacific Rise",earthquake,16.72,1.967,0.037,233,reviewed,us,us
 2024-08-09T08:21:19.928Z,43.2455,-110.9118,6.924,3.1,ml,63,56,0.243,0.66,us,us6000nj1k,2024-08-09T22:38:54.565Z,"9 km NE of Alpine Northeast, Wyoming",earthquake,3.18,6.561,0.042,74,reviewed,us,us
 2024-08-09T08:19:15.480Z,38.82,-122.79,0.53,1.27,md,23,38,0.01123,0.05,nc,nc75046097,2024-08-09T11:16:03.108Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.340000004,0.21,25,automatic,nc,nc
 2024-08-09T08:16:53.020Z,35.35333333,-97.9635,6.43,1.59,ml,77,42,0.05398940544,0.28,ok,ok2024poko,2024-08-09T12:14:25.019Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.4,0.25,35,reviewed,ok,ok
@@ -285,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T02:18:27.230Z,38.82,-122.82,2.43,0.95,md,6,136,0.006411,0.01,nc,nc75046022,2024-08-09T02:50:59.801Z,"7 km NW of The Geysers, CA",earthquake,0.77,1.62,0.19,8,automatic,nc,nc
 2024-08-09T02:10:35.660Z,35.6826667,-117.4791667,5.67,0.8,ml,18,74,0.04843,0.18,ci,ci40694791,2024-08-09T02:16:32.931Z,"12 km SW of Searles Valley, CA",earthquake,0.36,1.26,0.137,5,automatic,ci,ci
 2024-08-09T02:09:32.820Z,37.47,-118.87,0.17,0.5,md,12,298,0.1252,0.08,nc,nc75046017,2024-08-09T06:05:58.039Z,"19 km WSW of Toms Place, CA",earthquake,3.07,6.26,0.137,8,reviewed,nc,nc
-2024-08-09T02:07:51.953Z,37.3944,-117.1244,2.7,2.6,ml,10,127.69999999999999,0.144,0.1378,nn,nn00882123,2024-08-09T16:31:15.698Z,"36 km SSE of Goldfield, Nevada",earthquake,,7.8,0,1,reviewed,nn,nn
-2024-08-09T01:57:34.834Z,37.2598,-115.5229,1.2,0.9,ml,8,306.92999999999995,0.404,0.3157,nn,nn00882122,2024-08-09T01:59:51.198Z,"33 km WSW of Alamo, Nevada",earthquake,,28.4,0.56,5,automatic,nn,nn
