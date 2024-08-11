@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-11T09:46:04.820Z,35.9436684,-117.6858368,4.39,2.8,ml,23,68,0.02908,0.14,ci,ci40697223,2024-08-11T09:48:21.867Z,"20 km E of Little Lake, CA",earthquake,0.28,0.6,0.104,3,automatic,ci,ci
-2024-08-11T09:45:13.480Z,35.9491653,-117.6791687,4.55,3.78,mlr,52,80,0.02339,0.18,ci,ci40697215,2024-08-11T09:47:33.955Z,"20 km E of Little Lake, CA",earthquake,0.21,0.4,0.253,15,automatic,ci,ci
-2024-08-11T09:44:19.710Z,35.0839996,-119.0688324,14.64,1.24,ml,11,144,0.02816,0.17,ci,ci40697207,2024-08-11T09:46:27.948Z,"20 km NW of Grapevine, CA",earthquake,0.72,0.95,0.18,10,automatic,ci,ci
+2024-08-11T09:45:13.480Z,35.9491653,-117.6791687,4.55,3.66,mw,52,80,0.02339,0.18,ci,ci40697215,2024-08-11T09:50:15.130Z,"20 km E of Little Lake, CA",earthquake,0.21,0.4,,6,automatic,ci,ci
+2024-08-11T09:44:19.740Z,35.085,-119.0646667,14.18,1.13,ml,28,74,0.03066,0.2,ci,ci40697207,2024-08-11T09:50:37.881Z,"20 km NW of Grapevine, CA",earthquake,0.32,0.45,0.195,17,automatic,ci,ci
 2024-08-11T09:39:57.640Z,32.9210014,-115.5234985,5.82,1.36,ml,18,99,0.03687,0.22,ci,ci40697199,2024-08-11T09:46:22.145Z,"6 km S of Brawley, CA",earthquake,0.46,0.59,0.279,6,automatic,ci,ci
 2024-08-11T09:28:54.010Z,35.0975,-119.103,2.84,1.16,ml,27,87,0.04188,0.25,ci,ci40697191,2024-08-11T09:35:26.322Z,"23 km NW of Grapevine, CA",earthquake,0.35,1.44,0.209,20,automatic,ci,ci
 2024-08-11T09:23:08.300Z,34.1963333,-119.0145,15.84,1.33,ml,25,139,0.02443,0.23,ci,ci40697183,2024-08-11T09:29:37.628Z,"3 km SE of Camarillo, CA",earthquake,0.32,0.55,0.338,35,automatic,ci,ci
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T10:01:21.691Z,36.5975,-115.6206,4.5,0.5,ml,17,312.13,0.282,0.2325,nn,nn00882177,2024-08-10T10:03:39.182Z,"5 km NE of Indian Springs, Nevada",earthquake,,1.7,0.4,11,automatic,nn,nn
 2024-08-10T09:55:34.021Z,64.7718,-149.0049,21.5,1.5,ml,,,,0.47,ak,ak024a8yj5kq,2024-08-10T09:57:58.056Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-10T09:54:51.630Z,35.0921667,-119.0995,12.02,1.44,ml,31,54,0.03588,0.23,ci,ci40696159,2024-08-10T18:16:01.570Z,"23 km NW of Grapevine, CA",earthquake,0.31,0.71,0.204,31,automatic,ci,ci
-2024-08-10T09:50:13.782Z,-24.4004,-66.9328,164.915,4.2,mb,31,52,1.839,1.1,us,us6000njbs,2024-08-10T10:30:59.040Z,"65 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.31,6.951,0.115,21,reviewed,us,us
