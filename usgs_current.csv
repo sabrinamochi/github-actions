@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-12T12:29:11.910Z,35.9448318,-117.6798325,4.87,1.37,ml,15,70,0.02409,0.11,ci,ci40698599,2024-08-12T12:31:22.231Z,"20 km E of Little Lake, CA",earthquake,0.42,0.55,0.248,4,automatic,ci,ci
+2024-08-12T12:42:56.530Z,38.51,-122.59,4.25,1.63,md,18,149,0.1087,0.06,nc,nc75047617,2024-08-12T12:44:32.884Z,"7 km SSW of Calistoga, CA",earthquake,0.35,1.75999999,0.12,19,automatic,nc,nc
+2024-08-12T12:29:11.990Z,35.9441667,-117.685,4.13,1.03,ml,21,70,0.02834,0.15,ci,ci40698599,2024-08-12T12:35:18.797Z,"20 km E of Little Lake, CA",earthquake,0.18,0.36,0.184,13,automatic,ci,ci
 2024-08-12T12:29:10.046Z,62.4195,-148.0016,43,1.3,ml,,,,0.36,ak,ak024acb8iws,2024-08-12T12:30:33.121Z,"68 km NW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-12T12:24:06.730Z,35.1238333,-119.0861667,7.1,1.52,ml,36,79,0.06511,0.25,ci,ci40698591,2024-08-12T12:30:44.249Z,"22 km SW of Lamont, CA",earthquake,0.3,0.81,0.114,28,automatic,ci,ci
 2024-08-12T12:16:24.770Z,33.2321667,-116.033,3.73,0.71,ml,30,113,0.07464,0.2,ci,ci40698575,2024-08-12T12:22:43.207Z,"10 km SW of Salton City, CA",earthquake,0.27,0.5,0.078,8,automatic,ci,ci
@@ -31,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T09:41:16.110Z,38.8,-122.74,0.7,0.79,md,9,110,0.01806,0.01,nc,nc75047572,2024-08-12T10:45:56.608Z,"3 km SW of Cobb, CA",earthquake,0.28,0.819999993,0.31,8,automatic,nc,nc
 2024-08-12T09:40:59.140Z,33.4201667,-116.6575,3.87,0.71,ml,55,35,0.08754,0.19,ci,ci40698471,2024-08-12T09:47:01.627Z,"15 km S of Anza, CA",earthquake,0.15,0.43,0.155,22,automatic,ci,ci
 2024-08-12T09:27:57.690Z,34.2748333,-116.9466667,5.56,1.77,ml,92,24,0.02484,0.14,ci,ci40698463,2024-08-12T09:38:16.340Z,"5 km NW of Big Bear Lake, CA",earthquake,0.1,0.25,0.149,26,automatic,ci,ci
+2024-08-12T09:18:34.608Z,31.614,-104.11,6.1127,1.6,ml,34,52,0,0.2,tx,tx2024ptze,2024-08-12T12:41:01.560Z,"44 km NW of Toyah, Texas",earthquake,0.4726416139730556,0.4426183503726627,0.2,38,reviewed,tx,tx
 2024-08-12T09:06:25.200Z,35.1216667,-119.1198333,1.69,1.67,ml,45,45,0.06952,0.24,ci,ci40698455,2024-08-12T09:13:02.112Z,"24 km SW of Lamont, CA",earthquake,0.23,1.15,0.184,28,automatic,ci,ci
 2024-08-12T09:03:05.940Z,35.1,-119.1038333,1.78,1.48,ml,33,56,0.04445,0.25,ci,ci40698447,2024-08-12T09:09:34.098Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.57,0.369,5,automatic,ci,ci
 2024-08-12T08:57:02.850Z,33.2421667,-116.3205,6.81,1.13,ml,66,31,0.07445,0.21,ci,ci40698439,2024-08-12T09:08:05.070Z,"5 km ESE of Borrego Springs, CA",earthquake,0.17,0.45,0.16,26,automatic,ci,ci
@@ -197,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T13:23:18.620Z,66.0418,-149.2894,2,2.4,ml,,,,0.42,ak,ak024aao9cdy,2024-08-11T13:25:33.840Z,"9 km WNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-11T13:11:55.653Z,38.9089,-119.6017,1.3,1.4,ml,13,124.62000000000003,0.118,0.262,nn,nn00882211,2024-08-11T22:34:30.643Z,"6 km NNE of Carter Springs, Nevada",earthquake,,3.6,0.32,8,automatic,nn,nn
 2024-08-11T12:45:36.540Z,38.82,-122.82,2.74,0.54,md,12,74,0.008296,0.01,nc,nc75047187,2024-08-11T14:36:01.219Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.839999974,0.24,13,automatic,nc,nc
-2024-08-11T12:43:37.305Z,37.3885,-114.7332,13.3,0.9,ml,9,332.03000000000003,1.036,0.3413,nn,nn00882208,2024-08-11T12:45:56.708Z,"31 km SW of Caliente, Nevada",earthquake,,3.4,0.45,4,automatic,nn,nn
-2024-08-11T12:43:23.740Z,18.6705,145.8294,130.686,5.2,mb,102,53,3.411,1.07,us,us6000njha,2024-08-12T06:53:31.701Z,"Pagan region, Northern Mariana Islands",earthquake,6.18,6.958,0.026,470,reviewed,us,us
