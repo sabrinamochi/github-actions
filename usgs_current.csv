@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-12T15:35:56.270Z,38.8,-122.82,3.7,0.26,md,7,84,0.01131,0.03,nc,nc75047727,2024-08-12T15:37:33.644Z,"6 km NW of The Geysers, CA",earthquake,1,1.73000002,0.05,8,automatic,nc,nc
-2024-08-12T15:35:34.200Z,35.0774994,-119.133667,-1.54,1.42,ml,17,54,0.2405,0.22,ci,ci40698847,2024-08-12T15:37:36.630Z,"24 km NW of Grapevine, CA",earthquake,0.42,0.87,0.34,7,automatic,ci,ci
+2024-08-12T15:35:34.200Z,35.0821667,-119.1443333,-0.71,1.38,ml,31,85,0.2305,0.23,ci,ci40698847,2024-08-12T15:41:45.689Z,"24 km E of Maricopa, CA",earthquake,0.28,0.72,0.215,29,automatic,ci,ci
 2024-08-12T15:31:38.540Z,38.8,-122.81,2.73,1.47,md,32,72,0.01106,0.03,nc,nc75047722,2024-08-12T15:35:02.600Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.360000014,0.16,31,automatic,nc,nc
 2024-08-12T15:29:16.060Z,35.079,-119.1415,12.46,1.7,ml,40,51,0.05152,0.24,ci,ci40698839,2024-08-12T15:40:25.160Z,"24 km E of Maricopa, CA",earthquake,0.26,0.66,0.228,27,automatic,ci,ci
 2024-08-12T15:10:16.550Z,37.98,-122.25,4.74,2.43,md,7,214,0.1668,0.18,nc,nc75047697,2024-08-12T15:30:58.728Z,"4 km ESE of El Sobrante, CA",earthquake,15.84,16.8799992,,1,automatic,nc,nc
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T13:39:55.456Z,40.1579,24.1618,14.084,4.3,mb,40,115,1.811,0.43,us,us6000njlf,2024-08-12T15:38:18.040Z,"13 km SSW of Karyes, Greece",earthquake,8.42,5.4,0.106,25,reviewed,us,us
 2024-08-12T13:38:48.620Z,35.944,-117.6818333,5.08,2.23,ml,27,69,0.02582,0.14,ci,ci40698679,2024-08-12T13:45:48.127Z,"20 km E of Little Lake, CA",earthquake,0.17,0.45,0.172,25,automatic,ci,ci
 2024-08-12T13:38:09.060Z,38.79,-122.77,3.46,0.95,md,19,75,0.01081,0.02,nc,nc75047652,2024-08-12T14:30:58.326Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.670000017,0.22,18,automatic,nc,nc
-2024-08-12T13:37:32.090Z,38.49,-122.68,0.94,1.46,md,10,203,0.1017,0.12,nc,nc75047647,2024-08-12T14:16:01.236Z,"5 km NE of Santa Rosa, CA",earthquake,0.69,11.0799999,0.22,8,automatic,nc,nc
+2024-08-12T13:37:32.090Z,38.49,-122.68,0.94,1.46,md,10,203,0.1017,0.12,nc,nc75047647,2024-08-12T15:45:57.812Z,"5 km NE of Santa Rosa, CA",earthquake,0.69,11.0799999,0.22,8,automatic,nc,nc
 2024-08-12T13:37:20.441Z,61.5073,-146.9897,31.8,1.2,ml,,,,1.04,ak,ak024acbvp1o,2024-08-12T13:39:26.940Z,"48 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-12T13:37:08.560Z,38.33,-122.71,10.02,1.35,md,4,231,0.01132,0,nc,nc75047642,2024-08-12T15:16:00.627Z,"0 km W of Cotati, CA",earthquake,1.9,1.59000003,0.09,4,automatic,nc,nc
 2024-08-12T13:34:12.538Z,38.773,-118.6409,5.9,2.9,ml,16,53.329999999999984,0.502,0.1849,nn,nn00882234,2024-08-12T15:36:41.970Z,"17 km NE of Walker Lake, Nevada",earthquake,,3.8,0.28,7,reviewed,nn,nn
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T22:27:42.869Z,63.172,-150.267,12.4,2.4,ml,,,,0.98,ak,ak024aatn5ke,2024-08-11T23:41:25.040Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T22:22:46.636Z,62.4115,-151.0022,77.6,1.9,ml,,,,0.73,ak,ak024aatm39z,2024-08-11T22:24:58.805Z,"15 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T22:19:36.100Z,36.45133333,-98.805,7,1.27,ml,30,67,0.003599293696,0.18,ok,ok2024ptdj,2024-08-12T15:20:01.519Z,"16 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.26,11,reviewed,ok,ok
-2024-08-11T22:10:35.490Z,35.0906667,-119.0686667,2.05,2.42,ml,60,22,0.03432,0.27,ci,ci40697935,2024-08-12T15:28:19.510Z,"21 km NW of Grapevine, CA",earthquake,0.22,1.25,0.229,26,automatic,ci,ci
+2024-08-11T22:10:35.800Z,35.0806667,-119.0628333,13.3,2.46,ml,56,21,0.02794,0.27,ci,ci40697935,2024-08-12T15:43:29.930Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.58,0.16,74,reviewed,ci,ci
 2024-08-11T22:06:14.344Z,66.9917,-154.7888,0,1.5,ml,,,,0.6,ak,ak024aatilbu,2024-08-11T22:09:12.392Z,"91 km E of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-11T22:02:40.943Z,40.2342,45.1891,1.452,4.2,mb,46,37,0.354,0.86,us,us6000njix,2024-08-11T23:51:20.813Z,"3 km N of Yeranos, Armenia",earthquake,2.53,6.025,0.092,34,reviewed,us,us
 2024-08-11T22:00:20.160Z,35.1068333,-119.0876667,12.73,2.73,ml,57,41,0.04823,0.22,ci,ci40697927,2024-08-12T15:02:01.230Z,"23 km NW of Grapevine, CA",earthquake,0.19,0.61,0.13,87,reviewed,ci,ci
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T16:05:35.020Z,35.9468346,-117.6816635,5.32,1.08,ml,15,75,0.02541,0.1,ci,ci40697575,2024-08-11T16:09:00.130Z,"20 km E of Little Lake, CA",earthquake,0.4,0.97,0.135,14,automatic,ci,ci
 2024-08-11T15:56:34.060Z,38.84,-122.81,1.9,1.02,md,17,54,0.01511,0.02,nc,nc75047272,2024-08-11T17:41:35.948Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.21,17,automatic,nc,nc
 2024-08-11T15:51:00.710Z,35.1128333,-119.1076667,3.02,1.42,ml,41,44,0.05754,0.26,ci,ci40697567,2024-08-11T15:57:18.712Z,"24 km SW of Lamont, CA",earthquake,0.27,1.06,0.203,28,automatic,ci,ci
-2024-08-11T15:46:33.790Z,64.9823,-148.8142,7.7,1.1,ml,,,,0.52,ak,ak024aapl68j,2024-08-11T15:48:19.984Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
