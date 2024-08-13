@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-13T13:05:13.364Z,35.35824585,-97.9701004,3.870756149,2.21,ml,37,65.14630127,0.0546861887,0.5160043681,ok,ok2024pwcc,2024-08-13T13:12:28.693Z,"4 km SW of Union City, Oklahoma",earthquake,2.22640642,1.378971897,0.24,20,automatic,ok,ok
+2024-08-13T13:02:16.090Z,33.8968333,-116.8618333,16.39,0.51,ml,24,100,0.0828,0.17,ci,ci40700103,2024-08-13T13:08:30.819Z,"4 km SSE of Banning, CA",earthquake,0.35,0.71,0.209,9,automatic,ci,ci
+2024-08-13T12:39:03.592Z,-21.5465,-68.7033,125.453,4.5,mb,24,47,0.559,0.58,us,us6000nju3,2024-08-13T13:09:21.040Z,"58 km SW of Ollagüe, Chile",earthquake,6.3,5.165,0.15,13,reviewed,us,us
 2024-08-13T12:07:06.600Z,34.1758333,-115.937,8.96,1.08,ml,35,71,0.09707,0.22,ci,ci40700031,2024-08-13T12:13:23.220Z,"13 km ENE of Twentynine Palms, CA",earthquake,0.25,0.53,0.161,16,automatic,ci,ci
 2024-08-13T12:06:30.970Z,19.3871669769287,-155.127838134766,1.87999999523163,1.73,ml,38,85,0.00323,0.300000012,hv,hv74397946,2024-08-13T12:09:09.010Z,"8 km S of Fern Forest, Hawaii",earthquake,1,0.360000014,0.45,5,automatic,hv,hv
 2024-08-13T12:03:10.521Z,35.84460831,-97.13000488,10.18160343,2.07,ml,8,119.1140289,0.4231855273,1.096939859,ok,ok2024pwab,2024-08-13T12:10:49.893Z,"10 km E of Meridian, Oklahoma",earthquake,6.814804295,6.62875421,0.38,4,automatic,ok,ok
@@ -38,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T06:57:48.490Z,19.4195003509521,-155.466339111328,7.03000020980835,2.25,ml,53,44,0.04796,0.200000003,hv,hv74397501,2024-08-13T07:00:24.950Z,"24 km N of Pāhala, Hawaii",earthquake,0.27,0.529999971,0.62,18,automatic,hv,hv
 2024-08-13T06:43:05.334Z,46.1981,16.6575,10,4.5,mb,74,24,1.31,1.07,us,us6000njt6,2024-08-13T08:58:25.854Z,"4 km WNW of Rasinja, Croatia",earthquake,3.42,1.876,0.119,22,reviewed,us,us
 2024-08-13T06:37:05.900Z,38.79,-122.78,1.8,0.55,md,6,191,0.006596,0.01,nc,nc75047646,2024-08-13T06:38:40.173Z,"3 km NW of The Geysers, CA",earthquake,0.97,1.46000004,0.23,8,automatic,nc,nc
-2024-08-13T06:36:24.388Z,-13.695,-71.7211,57.946,4.7,mb,59,109,4.322,0.84,us,us6000njtb,2024-08-13T12:45:58.592Z,"10 km W of Urcos, Peru",earthquake,4.34,8.225,0.06,84,reviewed,us,us
+2024-08-13T06:36:24.388Z,-13.695,-71.7211,57.946,4.7,mb,59,109,4.322,0.84,us,us6000njtb,2024-08-13T13:07:03.368Z,"10 km W of Urcos, Peru",earthquake,4.34,8.225,0.06,84,reviewed,us,us
 2024-08-13T06:33:11.446Z,57.1827,-151.7155,15.8,3.6,ml,,,,0.56,ak,ak024adv84m3,2024-08-13T07:38:42.040Z,"58 km SE of Chiniak, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-13T06:32:46.860Z,33.6988333,-116.722,17.86,0.85,ml,51,59,0.01393,0.13,ci,ci40699887,2024-08-13T06:39:08.036Z,"5 km S of Idyllwild, CA",earthquake,0.15,0.24,0.189,25,automatic,ci,ci
 2024-08-13T06:30:09.607Z,60.0718,-151.9395,69,1.7,ml,,,,0.35,ak,ak024adv7hgg,2024-08-13T06:32:56.216Z,"15 km W of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -168,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
 2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
 2024-08-12T19:21:14.140Z,54.5278333333333,-163.509333333333,12.01,1.25,ml,5,294,0.1794,0.28,av,av93018244,2024-08-13T03:59:40.400Z,"36 km S of False Pass, Alaska",earthquake,1.41,1.09,0.493062773843789,5,reviewed,av,av
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T12:49:16.324Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T13:10:19.532Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-13T01:17:01.228Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,automatic,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
