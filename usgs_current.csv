@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-13T19:24:54.770Z,35.0656662,-119.0709991,12.09,2.1,ml,46,44,0.01265,0.27,ci,ci40700703,2024-08-13T19:27:53.021Z,"19 km NW of Grapevine, CA",earthquake,0.31,0.89,0.277,27,automatic,ci,ci
+2024-08-13T19:21:59.670Z,38.83,-122.79,1.77,1.08,md,14,91,0.005922,0.02,nc,nc75047831,2024-08-13T19:23:34.265Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.50999999,0.19,15,automatic,nc,nc
 2024-08-13T19:14:54.270Z,19.1865005493164,-155.384994506836,30.3799991607666,2.00999999,md,34,189,0.05209,0.100000001,hv,hv74398516,2024-08-13T19:16:26.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.72,0.560000002,0.150000006,12,automatic,hv,hv
 2024-08-13T19:06:40.190Z,34.0868333,-118.198,10.67,1.93,ml,71,30,0.01998,0.2,ci,ci40700655,2024-08-13T19:17:39.730Z,"4 km S of Highland Park, CA",earthquake,0.16,0.28,0.167,26,automatic,ci,ci
 2024-08-13T18:55:12.542Z,62.9387,-148.1188,195,2.3,ml,,,,0.79,ak,ak024ae2i33n,2024-08-13T19:06:11.938Z,"65 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -10,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T18:36:14.620Z,44.7861666666667,-111.101833333333,11.07,1.11,ml,13,107,0.01054,0.16,uu,uu80078406,2024-08-13T18:54:10.930Z,"7 km ENE of Hebgen Lake Estates, Montana",earthquake,0.42,0.56,0.276888663237046,3,reviewed,uu,uu
 2024-08-13T18:19:38.280Z,44.7851666666667,-111.099666666667,10.54,0.53,md,10,130,0.07144,0.14,uu,uu80078401,2024-08-13T18:41:52.360Z,"7 km ENE of Hebgen Lake Estates, Montana",earthquake,0.52,0.76,0.341222417175716,4,reviewed,uu,uu
 2024-08-13T18:12:13.120Z,19.3808326721191,-155.242172241211,1.63999998569489,1.91999996,md,16,68,0.007376,0.100000001,hv,hv74398436,2024-08-13T18:14:52.080Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.170000002,0.219999999,13,automatic,hv,hv
+2024-08-13T18:01:49.330Z,40.74,-122.31,-0.58,1.85,md,11,85,0.139,0.06,nc,nc75047811,2024-08-13T19:23:27.025Z,"9 km NE of Shasta Lake, CA",quarry blast,0.29,31.61,0.286,15,reviewed,nc,nc
 2024-08-13T17:50:34.360Z,35.9941667,-117.6881667,2.63,1.03,ml,19,92,0.05542,0.14,ci,ci40700487,2024-08-13T17:56:29.131Z,"21 km ENE of Little Lake, CA",earthquake,0.28,0.18,0.058,9,automatic,ci,ci
 2024-08-13T17:37:18.370Z,31.9827,142.443,10,4.7,mb,117,65,2.491,0.73,us,us6000njv7,2024-08-13T18:57:10.040Z,"Izu Islands, Japan region",earthquake,8.69,1.842,0.047,135,reviewed,us,us
 2024-08-13T17:35:50.380Z,19.3819999694824,-155.149169921875,2.45000004768372,1.87,ml,28,93,0.01917,0.239999995,hv,hv74398371,2024-08-13T17:38:42.840Z,"9 km S of Fern Forest, Hawaii",earthquake,0.82,0.5,0.35,5,automatic,hv,hv
@@ -240,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:35:55.929Z,29.095,-97.723,7.6904,2.3,ml,16,54,0.1,0.1,tx,tx2024putm,2024-08-12T19:56:12.407Z,"19 km SSE of Nixon, Texas",earthquake,0.9036766030415456,1.3455797510778733,0.1,24,reviewed,tx,tx
 2024-08-12T19:33:45.730Z,61.7107,-149.8084,36.3,2.1,ml,,,,0.42,ak,ak024acffhrh,2024-08-12T19:35:17.601Z,"8 km N of Houston, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-08-12T19:30:11.850Z,19.3864994049072,-155.126831054688,1.99000000953674,1.71,ml,14,131,0.0021,0.129999995,hv,hv74396586,2024-08-12T19:32:49.740Z,"8 km S of Fern Forest, Hawaii",earthquake,0.85,0.25,0.31,3,automatic,hv,hv
-2024-08-12T19:24:10.020Z,60.0123333333333,-153.062333333333,0.3,-0.5,ml,6,106,0.02237,0.08,av,av93228491,2024-08-13T03:46:32.000Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.23,0.9,0.332415579855494,6,reviewed,av,av
-2024-08-12T19:23:19.181Z,61.8586,-150.5966,57.2,1.3,ml,,,,0.24,ak,ak024acfdajy,2024-08-12T19:25:17.059Z,"31 km WNW of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
-2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
