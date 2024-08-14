@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-14T13:07:20.030Z,32.1123352,-116.0899963,7.31,1.96,ml,24,117,0.1613,0.28,ci,ci40701535,2024-08-14T13:09:46.206Z,"57 km ENE of Ensenada, B.C., MX",earthquake,0.67,3.3,0.35,14,automatic,ci,ci
+2024-08-14T13:10:53.450Z,33.2421684,-116.041832,3.19,3.18,ml,119,19,0.06026,0.24,ci,ci40701543,2024-08-14T13:13:01.043Z,"10 km SW of Salton City, CA",earthquake,0.18,0.56,0.278,20,automatic,ci,ci
+2024-08-14T13:07:20.030Z,32.1123352,-116.0899963,7.31,1.96,ml,24,117,0.1613,0.28,ci,ci40701535,2024-08-14T13:13:42.989Z,"57 km ENE of Ensenada, B.C., MX",earthquake,0.67,3.3,0.35,14,automatic,ci,ci
 2024-08-14T12:58:24.050Z,19.1698341369629,-155.491668701172,29.1700000762939,2.02,ml,58,105,0.03141,0.150000006,hv,hv74399866,2024-08-14T13:01:02.320Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.49,0.649999976,0.62,8,automatic,hv,hv
 2024-08-14T12:54:54.239Z,63.209,-150.5262,120.8,1.7,ml,,,,0.4,ak,ak024afmgo8k,2024-08-14T12:56:29.755Z,"70 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-14T12:39:29.020Z,39.166,-111.253333333333,2.28,0.64,ml,6,101,0.135,0.08,uu,uu80078491,2024-08-14T13:05:26.790Z,"13 km NW of Ferron, Utah",earthquake,0.46,31.61,0.032565962053745,3,reviewed,uu,uu
@@ -119,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:36:15.930Z,36.6422,-115.74,9,1.4,ml,23,191.79000000000002,0.18,0.0688,nn,nn00882338,2024-08-14T11:39:53.467Z,"10 km NW of Indian Springs, Nevada",earthquake,,5,0.41,6,reviewed,nn,nn
 2024-08-14T03:35:56.300Z,36.6241,-115.7568,8.6,0.4,ml,11,307.6,0.169,0.0742,nn,nn00882337,2024-08-14T11:33:40.559Z,"9 km NW of Indian Springs, Nevada",earthquake,,9.7,0.12,3,reviewed,nn,nn
 2024-08-14T03:28:22.389Z,36.5267,-115.5402,1.8,0.4,ml,8,319.89000000000004,0.365,0.1422,nn,nn00882335,2024-08-14T03:30:28.081Z,"12 km ESE of Indian Springs, Nevada",earthquake,,30.1,0.35,5,automatic,nn,nn
+2024-08-14T03:23:34.350Z,35.35083333,-97.96016667,6.43,0.98,ml,32,61,0.05308958201,0.28,ok,ok2024pxek,2024-08-14T13:17:43.432Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.21,15,reviewed,ok,ok
 2024-08-14T03:21:10.503Z,35.63037491,-97.79013062,5,1.91,ml,8,171.9112968,0.2605517805,0.8793568968,ok,ok2024pxei,2024-08-14T03:28:47.257Z,"4 km WSW of Piedmont, Oklahoma",earthquake,7.732178059,,0.38,7,automatic,ok,ok
 2024-08-14T03:18:49.330Z,19.2455005645752,-155.397827148438,30.7800006866455,2.18000007,md,46,100,0.007962,0.129999995,hv,hv74399151,2024-08-14T03:20:38.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.41,0.610000014,0.230000004,12,automatic,hv,hv
 2024-08-14T03:18:38.310Z,36.6843,-115.7665,0,0.2,ml,9,284.82,0.159,0.2726,nn,nn00882333,2024-08-14T03:20:38.279Z,"15 km NW of Indian Springs, Nevada",earthquake,,9.9,0.36,5,automatic,nn,nn
@@ -278,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T13:24:24.850Z,19.3746662139893,-155.185165405273,2.24000000953674,1.7,ml,32,119,0.01572,0.180000007,hv,hv74398066,2024-08-13T13:27:01.440Z,"9 km SE of Volcano, Hawaii",earthquake,0.51,0.409999996,0.09,3,automatic,hv,hv
 2024-08-13T13:23:46.586Z,61.3855,-150.7178,54.9,1.2,ml,,,,0.37,ak,ak024adzc3j6,2024-08-13T13:25:50.083Z,"20 km SSW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-08-13T13:16:32.661Z,61.798,-148.8297,26.4,0.6,ml,,,,0.5,ak,ak024adzakcf,2024-08-13T13:18:32.782Z,"4 km WNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-13T13:09:55.442Z,62.7839,-148.9868,14.7,1,ml,,,,0.51,ak,ak024adz946w,2024-08-13T13:11:37.501Z,"67 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
