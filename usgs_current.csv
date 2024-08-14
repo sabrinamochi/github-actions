@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-14T18:41:30.940Z,38.77,-123.1,4.1,1.76,md,21,78,0.06582,0.04,nc,nc75048376,2024-08-14T18:43:08.790Z,"8 km WSW of Cloverdale, CA",earthquake,0.25,0.939999998,0.17,20,automatic,nc,nc
 2024-08-14T18:37:26.250Z,35.9428329,-117.6800003,4.72,1.82,ml,22,66,0.02456,0.15,ci,ci40701991,2024-08-14T18:39:56.488Z,"20 km E of Little Lake, CA",earthquake,0.33,0.63,0.187,16,automatic,ci,ci
-2024-08-14T18:31:44.080Z,35.9408333,-117.6815,4.83,2.6,ml,28,62,0.02622,0.13,ci,ci40701983,2024-08-14T18:39:15.262Z,"20 km E of Little Lake, CA",earthquake,0.16,0.32,0.158,25,automatic,ci,ci
+2024-08-14T18:31:44.080Z,35.9408333,-117.6815,4.83,2.6,ml,28,62,0.02622,0.13,ci,ci40701983,2024-08-14T18:42:14.220Z,"20 km E of Little Lake, CA",earthquake,0.16,0.32,0.158,25,automatic,ci,ci
 2024-08-14T18:31:21.150Z,36.1134,-114.8913,9.5,2,ml,10,341.18000000000006,1.022,0.1923,nn,nn00882430,2024-08-14T18:33:46.141Z,"11 km NE of Henderson, Nevada",earthquake,,11.1,0.16,7,automatic,nn,nn
 2024-08-14T18:17:16.080Z,19.1663341522217,-155.483505249023,29.2299995422363,1.9,ml,46,106,0.02296,0.129999995,hv,hv74400371,2024-08-14T18:19:55.780Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.709999979,0.84,5,automatic,hv,hv
 2024-08-14T18:16:24.410Z,19.2363338470459,-155.395492553711,31.5100002288818,1.83000004,md,27,158,0.097,0.100000001,hv,hv74400366,2024-08-14T18:17:57.590Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.649999976,0.25,5,automatic,hv,hv
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:36:39.812Z,66.558,-148.4955,13,2.3,ml,,,,0.73,ak,ak024afpby8d,2024-08-14T17:57:47.040Z,"53 km WNW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-14T17:30:07.650Z,33.249,-116.0375,3.83,0.82,ml,29,81,0.05324,0.19,ci,ci40701839,2024-08-14T17:36:06.499Z,"9 km SW of Salton City, CA",earthquake,0.19,0.38,0.208,17,automatic,ci,ci
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T18:05:57.556Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
 2024-08-14T17:05:37.560Z,35.1361667,-119.025,15.53,1.06,ml,10,190,0.09118,0.18,ci,ci40701799,2024-08-14T17:12:06.801Z,"17 km SW of Lamont, CA",earthquake,1.02,0.87,0.175,12,automatic,ci,ci
@@ -181,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:11:46.760Z,19.1548328399658,-155.481826782227,31.75,2.07999992,md,35,164,0.01865,0.150000006,hv,hv74399196,2024-08-14T04:13:26.390Z,"5 km S of Pāhala, Hawaii",earthquake,0.71,0.870000005,0.159999996,8,automatic,hv,hv
 2024-08-14T04:11:18.410Z,34.29,-117.0255,7.75,0.92,ml,51,75,0.03702,0.15,ci,ci40701255,2024-08-14T13:20:59.770Z,"12 km WNW of Big Bear Lake, CA",earthquake,0.19,0.29,0.104,15,reviewed,ci,ci
 2024-08-14T04:10:37.232Z,36.6351,-115.7623,10.6,0.3,ml,9,300.1500000000001,0.163,0.0602,nn,nn00882346,2024-08-14T11:49:18.261Z,"10 km NW of Indian Springs, Nevada",earthquake,,7.7,0,1,reviewed,nn,nn
+2024-08-14T04:09:14.900Z,19.2825,-155.701666666667,-0.78,2.3,md,13,107,0.07907,0.14,hv,hv74399191,2024-08-14T18:41:19.870Z,"24 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.39,0.52,0.113587455119718,6,reviewed,hv,hv
 2024-08-14T04:07:02.640Z,33.6571667,-116.7343333,14.54,0.48,ml,31,61,0.05183,0.1,ci,ci40701247,2024-08-14T13:22:04.820Z,"9 km S of Idyllwild, CA",earthquake,0.15,0.24,0.171,11,reviewed,ci,ci
 2024-08-14T04:05:13.038Z,36.6492,-115.7214,10.1,0.3,ml,12,295.04,0.194,0.0852,nn,nn00882344,2024-08-14T11:49:15.199Z,"9 km NNW of Indian Springs, Nevada",earthquake,,7.5,0.15,2,reviewed,nn,nn
 2024-08-14T04:05:02.344Z,60.0942,-141.1532,0,2.1,ml,,,,0.68,ak,ak024afhela2,2024-08-14T04:08:12.922Z,"100 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -307,4 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T18:45:54.300Z,33.3045,-116.2466667,6.61,1.55,ml,74,34,0.07815,0.19,ci,ci40700607,2024-08-14T13:25:25.680Z,"13 km ENE of Borrego Springs, CA",earthquake,0.14,0.49,0.174,27,reviewed,ci,ci
 2024-08-13T18:44:57.510Z,38.78,-122.74,0.67,0.78,md,8,108,0.001733,0.02,nc,nc75047826,2024-08-13T18:46:34.222Z,"2 km E of The Geysers, CA",earthquake,0.43,0.50999999,0.17,7,automatic,nc,nc
 2024-08-13T18:43:23.233Z,31.667,-104.179,6.2408,1.7,ml,33,61,0.1,0.1,tx,tx2024pwng,2024-08-13T19:42:17.012Z,"53 km NW of Toyah, Texas",earthquake,0.4225383813729386,0.5391982105990583,0.2,24,reviewed,tx,tx
-2024-08-13T18:42:11.240Z,38.84,-122.79,1.99,0.88,md,8,107,0.003019,0.02,nc,nc75047821,2024-08-13T18:43:48.893Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.07000005,0.17,10,automatic,nc,nc
