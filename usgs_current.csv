@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-14T02:54:15.900Z,32.9140015,-116.3328323,5.77,1.24,ml,31,96,0.04746,0.2,ci,ci40701175,2024-08-14T03:00:11.402Z,"21 km ENE of Pine Valley, CA",earthquake,0.31,0.83,0.139,4,automatic,ci,ci
+2024-08-14T02:54:15.840Z,32.9136667,-116.332,6.53,1.17,ml,44,64,0.04739,0.22,ci,ci40701175,2024-08-14T03:00:22.479Z,"21 km ENE of Pine Valley, CA",earthquake,0.22,0.47,0.145,27,automatic,ci,ci
 2024-08-14T02:50:42.592Z,36.36,-115.0669,0,1.1,ml,12,331.15000000000003,0.78,0.3911,nn,nn00882320,2024-08-14T02:52:58.710Z,"12 km N of Nellis Air Force Base, Nevada",earthquake,,0.7,0.16,8,automatic,nn,nn
 2024-08-14T02:49:18.080Z,34.276,-116.9455,5.72,0.84,ml,31,112,0.02463,0.13,ci,ci40701167,2024-08-14T02:55:17.119Z,"5 km NW of Big Bear Lake, CA",earthquake,0.19,0.33,0.199,11,automatic,ci,ci
 2024-08-14T02:47:46.770Z,35.0893333,-119.0516667,12.99,2.01,ml,50,35,0.04043,0.25,ci,ci40701159,2024-08-14T02:58:49.240Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.64,0.147,27,automatic,ci,ci
@@ -105,7 +105,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T16:50:53.053Z,57.1657,-155.2418,10.5,2.1,ml,,,,0.69,ak,ak024ae1a76h,2024-08-13T16:52:46.715Z,"65 km SW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-13T16:30:35.150Z,38.85,-122.82,0.83,0.84,md,11,82,0.009218,0.03,nc,nc75047796,2024-08-13T16:32:14.145Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.560000002,0.63,12,automatic,nc,nc
 2024-08-13T16:12:10.490Z,40.0909,-119.7214,14,0.5,ml,3,214.35000000000002,0.08,0.1067,nn,nn00882301,2024-08-13T17:12:58.245Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,3.7,0.21,3,reviewed,nn,nn
-2024-08-13T16:12:05.269Z,57.565,-154.8155,36.9,1.7,ml,,,,1.31,ak,ak024ae11yww,2024-08-13T16:14:58.747Z,"21 km W of Karluk, Alaska",earthquake,,11.6,,,automatic,ak,ak
 2024-08-13T16:06:41.400Z,35.8071667,-117.5353333,0.6,1.24,ml,16,72,0.1683,0.17,ci,ci40700367,2024-08-13T16:53:17.802Z,"13 km WNW of Searles Valley, CA",earthquake,0.36,0.56,0.173,5,automatic,ci,ci
 2024-08-13T15:54:43.914Z,61.7148,-150.8232,52.3,1.8,ml,,,,0.28,ak,ak024ae0plqf,2024-08-13T15:56:47.992Z,"25 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-13T15:46:18.890Z,35.0848333,-119.0926667,11.97,2.12,ml,50,63,0.02716,0.27,ci,ci40700335,2024-08-13T15:57:16.390Z,"22 km NW of Grapevine, CA",earthquake,0.26,0.81,0.231,26,automatic,ci,ci
@@ -247,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T03:22:32.180Z,35.1046667,-119.0888333,11.77,1.86,ml,41,64,0.04615,0.2,ci,ci40699727,2024-08-13T18:47:47.179Z,"23 km NW of Grapevine, CA",earthquake,0.22,0.72,0.127,47,reviewed,ci,ci
 2024-08-13T03:08:26.350Z,35.1095,-119.1025,12.24,1.31,ml,21,78,0.05305,0.21,ci,ci40699711,2024-08-13T18:33:54.381Z,"24 km SW of Lamont, CA",earthquake,0.34,0.88,0.105,11,reviewed,ci,ci
 2024-08-13T03:03:53.377Z,-8.8103,112.7745,83.344,4.5,mb,25,110,1.403,0.61,us,us6000njsa,2024-08-13T04:01:23.040Z,"66 km S of Dampit, Indonesia",earthquake,8.5,3.673,0.132,17,reviewed,us,us
-2024-08-13T03:01:10.008Z,62.2965,-151.0661,85.2,2,ml,,,,0.59,ak,ak024adt8ywe,2024-08-13T03:02:53.633Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-13T03:00:27.752Z,32.4248,-104.4585,7.784,2.5,ml,28,92,0.514,0.24,us,us6000njs8,2024-08-13T04:28:46.040Z,"21 km W of Carlsbad, New Mexico",earthquake,1.68,5.829,0.077,22,reviewed,us,us
