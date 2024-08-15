@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T07:11:12.050Z,36.49,-121.86,3.9,1.83,md,17,149,0.02856,0.11,nc,nc75048576,2024-08-15T07:12:51.068Z,"9 km SSE of Carmel By The Sea, CA",earthquake,0.39,0.579999983,0.23,14,automatic,nc,nc
 2024-08-15T06:59:44.590Z,38.82,-122.82,2.56,0.65,md,7,83,0.009416,0.01,nc,nc75048571,2024-08-15T07:01:21.088Z,"7 km NW of The Geysers, CA",earthquake,0.7,1.45000005,0.39,8,automatic,nc,nc
 2024-08-15T06:56:03.848Z,37.1304,-117.1276,4.2,1.1,ml,19,114.46000000000004,0.2,0.1622,nn,nn00882474,2024-08-15T06:58:12.522Z,"40 km NW of Beatty, Nevada",earthquake,,1.7,0.25,12,automatic,nn,nn
 2024-08-15T06:52:01.657Z,63.1966,-151.3298,0,1.2,ml,,,,0.88,ak,ak024ah6evl1,2024-08-15T06:54:01.099Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:25:26.290Z,52.7806666666667,-169.778,10.36,1.77,ml,6,200,0.03402,0.21,av,av93230766,2024-08-14T19:09:24.680Z,"64 km WSW of Nikolski, Alaska",earthquake,1.75,0.96,0.275759533713923,7,reviewed,av,av
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
 2024-08-14T17:18:49.900Z,52.7976666666667,-169.771166666667,9.16,0.88,ml,4,173,0.03136,0.12,av,av93230761,2024-08-15T01:39:04.180Z,"63 km WSW of Nikolski, Alaska",earthquake,2.68,1.09,0.10726874393177,4,reviewed,av,av
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
@@ -299,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T07:22:46.290Z,60.4815,-152.9285,6.13,-0.06,ml,7,253,0.04236,0.15,av,av93230456,2024-08-14T22:06:07.890Z,"82 km ENE of Port Alsworth, Alaska",earthquake,0.68,0.85,0.176894943754126,6,reviewed,av,av
 2024-08-14T07:20:03.506Z,64.8478,-147.6246,6.6,1.3,ml,,,,1.18,ak,ak024afja3xa,2024-08-14T07:21:49.255Z,"4 km ENE of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-14T07:19:07.113Z,64.8496,-147.6503,13.6,1.1,ml,,,,0.36,ak,ak024afj9whj,2024-08-14T07:20:25.277Z,"3 km ENE of Fairbanks, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-14T07:12:29.698Z,32.781,-100.703,3.3691,3.5,ml,12,60,0.1,0.1,tx,tx2024pxly,2024-08-14T16:44:14.040Z,"17 km NNE of Hermleigh, Texas",earthquake,0.7170165402181042,1.8275489485003036,0.2,9,reviewed,tx,tx
-2024-08-14T07:03:51.810Z,19.3873329162598,-155.242660522461,2.01999998092651,1.75,ml,20,68,0.008364,0.159999996,hv,hv74399371,2024-08-14T07:06:29.940Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.189999998,0.14,10,automatic,hv,hv
