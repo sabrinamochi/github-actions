@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T03:18:16.860Z,33.0366669,-116.4116669,11.09,1.07,ml,30,93,0.04624,0.2,ci,ci40702607,2024-08-15T03:20:29.918Z,"18 km ESE of Julian, CA",earthquake,0.39,0.54,0.133,4,automatic,ci,ci
 2024-08-15T02:49:35.351Z,61.7095,-149.5138,38.1,1.2,ml,,,,0.57,ak,ak024ah40km7,2024-08-15T02:51:20.169Z,"10 km NNW of Tanaina, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-15T02:40:21.729Z,-20.3057,-177.6785,501.771,4.5,mb,59,57,2.471,0.65,us,us7000n737,2024-08-15T03:06:05.040Z,"265 km WNW of Houma, Tonga",earthquake,11.46,7.998,0.074,54,reviewed,us,us
 2024-08-15T02:38:21.051Z,31.593,-103.96,6.9566,1.5,ml,15,68,0,0.4,tx,tx2024pyyk,2024-08-15T02:56:30.860Z,"34 km NNW of Toyah, Texas",earthquake,0,2.55891942977905,0.1,13,automatic,tx,tx
@@ -12,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T01:32:42.780Z,19.2264995574951,-155.390502929688,30.2399997711182,1.98000002,md,42,154,0.01279,0.140000001,hv,hv74401006,2024-08-15T01:34:25.180Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.720000029,0.209999993,9,automatic,hv,hv
 2024-08-15T01:25:53.440Z,36.1508333,-118.051,1.76,1.19,ml,18,132,0.1622,0.12,ci,ci40702511,2024-08-15T01:31:44.281Z,"15 km NW of Coso Junction, CA",earthquake,0.23,0.76,0.168,13,automatic,ci,ci
 2024-08-15T01:17:18.820Z,35.35783333,-97.95566667,5.96,1.64,ml,57,67,0.04589099462,0.31,ok,ok2024pyvt,2024-08-15T01:59:45.516Z,"3 km SSW of Union City, Oklahoma",earthquake,,0.5,0.2,23,reviewed,ok,ok
+2024-08-15T01:13:36.985Z,-31.705,-69.6187,119.077,4.5,mb,64,131,1.202,1.09,us,us7000n72w,2024-08-15T03:17:11.040Z,"45 km SSW of Calingasta, Argentina",earthquake,6.67,7.488,0.081,45,reviewed,us,us
 2024-08-15T01:07:28.800Z,19.3746662139893,-155.219497680664,2.88000011444092,2,ml,25,93,0.003875,0.180000007,hv,hv74400961,2024-08-15T01:10:06.140Z,"7 km SSE of Volcano, Hawaii",earthquake,0.38,0.400000006,0.15,15,automatic,hv,hv
 2024-08-15T01:07:01.070Z,19.1586666666667,-155.400666666667,31.07,1.73,md,25,214,0.05817,0.09,hv,hv74400956,2024-08-15T01:40:52.100Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.63,0.72,0.0875522716329242,9,reviewed,hv,hv
 2024-08-15T01:03:56.220Z,31.155,-103.299,5.6654,2.2,ml,14,48,0,0.6,tx,tx2024pyvh,2024-08-15T01:26:46.310Z,"24 km WSW of Coyanosa, Texas",earthquake,0,2.80759477615356,0.1,12,automatic,tx,tx
@@ -314,7 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:35:56.271Z,36.6276,-115.7543,9.2,0.4,ml,11,307.26,0.171,0.074,nn,nn00882337,2024-08-14T19:24:46.919Z,"9 km NW of Indian Springs, Nevada",earthquake,,7.4,0.12,3,reviewed,nn,nn
 2024-08-14T03:28:26.398Z,36.6369,-115.7448,10.5,0.2,ml,14,269.65999999999997,0.176,0.0802,nn,nn00882335,2024-08-14T20:54:08.850Z,"9 km NW of Indian Springs, Nevada",earthquake,,7.1,0.23,4,reviewed,nn,nn
 2024-08-14T03:23:34.350Z,35.35083333,-97.96016667,6.43,0.98,ml,32,61,0.05308958201,0.28,ok,ok2024pxek,2024-08-14T13:18:08.050Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.21,15,reviewed,ok,ok
-2024-08-14T03:21:10.503Z,35.63037491,-97.79013062,5,1.91,ml,8,171.9112968,0.2605517805,0.8793568968,ok,ok2024pxei,2024-08-14T03:28:47.257Z,"4 km WSW of Piedmont, Oklahoma",earthquake,7.732178059,,0.38,7,automatic,ok,ok
-2024-08-14T03:18:49.330Z,19.2455005645752,-155.397827148438,30.7800006866455,2.18000007,md,46,100,0.007962,0.129999995,hv,hv74399151,2024-08-14T03:20:38.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.41,0.610000014,0.230000004,12,automatic,hv,hv
-2024-08-14T03:18:38.612Z,36.6393,-115.7422,10.8,0.3,ml,12,300.28,0.178,0.0656,nn,nn00882333,2024-08-14T19:21:39.861Z,"10 km NW of Indian Springs, Nevada",earthquake,,7,0.07,4,reviewed,nn,nn
-2024-08-14T03:16:40.601Z,36.6277,-115.7288,7.5,0.5,ml,14,303.25000000000006,0.191,0.0622,nn,nn00882332,2024-08-14T11:30:34.025Z,"8 km NW of Indian Springs, Nevada",earthquake,,9.9,0.22,4,reviewed,nn,nn
