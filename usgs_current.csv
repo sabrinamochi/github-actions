@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T02:03:45.490Z,38.8428344726562,-122.807334899902,4.48000001907349,0.64,md,6,96,0.0144,0.01,nc,nc75049361,2024-08-17T02:05:21.850Z,"8 km WNW of Cobb, CA",earthquake,1.62,7.48000002,0.39,8,automatic,nc,nc
 2024-08-17T01:57:41.791Z,34.53058624,-97.25713348,1.87989223,2.36,ml,48,52.68916321,0.09078626335,0.8555002777,ok,ok2024qcoc,2024-08-17T02:07:30.220Z,"10 km ESE of Katie, Oklahoma",earthquake,1.998959624,1.395716819,0.33,29,automatic,ok,ok
 2024-08-17T01:57:01.820Z,19.1886672973633,-155.48567199707,31.7700004577637,2.25999999,md,29,196,0.03988,0.119999997,hv,hv74405836,2024-08-17T01:58:48.870Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.85,1.10000002,0.400000006,6,automatic,hv,hv
-2024-08-17T01:55:43.930Z,35.0881653,-119.1421661,12.35,1.54,ml,27,68,0.05623,0.21,ci,ci40705063,2024-08-17T01:57:47.562Z,"24 km E of Maricopa, CA",earthquake,0.49,0.82,0.307,13,automatic,ci,ci
+2024-08-17T01:55:43.980Z,35.0806667,-119.1405,12.71,1.56,ml,37,39,0.05146,0.26,ci,ci40705063,2024-08-17T02:10:44.635Z,"24 km E of Maricopa, CA",earthquake,0.33,0.69,0.187,26,automatic,ci,ci
 2024-08-17T01:52:33.150Z,34.0318333,-115.9911667,8.2,1.12,ml,38,58,0.0317,0.18,ci,ci40705055,2024-08-17T01:59:52.670Z,"14 km SSE of Twentynine Palms, CA",earthquake,0.22,0.43,0.167,20,automatic,ci,ci
 2024-08-17T01:48:09.245Z,64.5559,-149.4536,0,1.6,ml,,,,0.42,ak,ak024akehk9o,2024-08-17T01:49:47.937Z,"16 km WSW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-17T01:44:37.129Z,61.5995,-146.3455,36.3,2.5,ml,,,,0.38,ak,ak024akegrk0,2024-08-17T01:57:09.040Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T23:33:16.274Z,31.6,-103.953,6.184,1.6,ml,14,73,0,0.3,tx,tx2024qcjh,2024-08-17T00:19:21.668Z,"35 km NNW of Toyah, Texas",earthquake,0,2.22027373313904,0.2,12,automatic,tx,tx
 2024-08-16T23:32:47.300Z,19.3911666666667,-155.126833333333,2.14,2.36,ml,21,134,0.006412,0.1,hv,hv74405601,2024-08-16T23:49:35.250Z,"8 km S of Fern Forest, Hawaii",earthquake,0.75,0.22,0.179502802888794,3,reviewed,hv,hv
 2024-08-16T23:19:56.170Z,33.3093333,-116.2466667,5.85,0.77,ml,32,56,0.07466,0.18,ci,ci40704991,2024-08-16T23:40:11.964Z,"13 km ENE of Borrego Springs, CA",earthquake,0.21,0.86,0.118,16,automatic,ci,ci
-2024-08-16T23:17:28.660Z,34.1623333,-117.5518333,11.43,1.95,ml,89,28,0.04058,0.17,ci,ci40704975,2024-08-17T01:55:31.340Z,"5 km NNE of Rancho Cucamonga, CA",earthquake,0.13,0.27,0.18,27,automatic,ci,ci
+2024-08-16T23:17:28.660Z,34.1623333,-117.5518333,11.43,1.95,ml,89,28,0.04058,0.17,ci,ci40704975,2024-08-17T02:11:38.461Z,"5 km NNE of Rancho Cucamonga, CA",earthquake,0.13,0.27,0.18,27,automatic,ci,ci
 2024-08-16T22:55:17.180Z,19.3903333333333,-155.136166666667,2.46,2.47,ml,19,135,0.01151,0.11,hv,hv74405526,2024-08-16T23:52:52.800Z,"8 km S of Fern Forest, Hawaii",earthquake,0.81,0.27,0.227613163727102,3,reviewed,hv,hv
 2024-08-16T22:50:21.038Z,60.5031,-143.0367,0,1.3,ml,,,,0.41,ak,ak024aj3grtj,2024-08-16T22:51:55.204Z,"103 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-16T22:43:18.480Z,19.392333984375,-155.27783203125,1.08000004291534,1.84,ml,15,60,0.004974,0.119999997,hv,hv74405506,2024-08-16T22:45:56.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.200000003,0.21,6,automatic,hv,hv
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T15:48:09.990Z,52.808,-169.895333333333,2.59,0.6,ml,4,134,0.01553,0.42,av,av93018649,2024-08-16T23:17:48.250Z,"71 km WSW of Nikolski, Alaska",earthquake,1.17,3.32,0.24700086776004,4,reviewed,av,av
 2024-08-16T15:43:48.031Z,28.75,-98.246,2.124,2.8,ml,25,44,0.1,0.2,tx,tx2024qbtx,2024-08-16T16:59:19.040Z,"24 km E of Christine, Texas",earthquake,0.9918946141615663,2.6395769796066486,0.1,12,reviewed,tx,tx
 2024-08-16T15:39:13.058Z,60.4986,-151.7189,70.6,1.9,ml,,,,0.42,ak,ak024aiz8d3d,2024-08-16T16:55:31.420Z,"25 km WNW of Kalifornsky, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-08-16T15:34:26.193Z,61.199,-149.6627,38.7,3.7,ml,,,,0.54,ak,ak024aiz7bgz,2024-08-17T01:48:40.129Z,"6 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-08-16T15:34:26.193Z,61.199,-149.6627,38.7,3.7,ml,,,,0.54,ak,ak024aiz7bgz,2024-08-17T02:07:39.923Z,"6 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-08-16T15:24:15.930Z,34.0286667,-117.2335,13.57,1.05,ml,26,93,0.123,0.17,ci,ci40704335,2024-08-16T16:48:34.310Z,"3 km SE of Loma Linda, CA",earthquake,0.29,0.79,0.27,24,reviewed,ci,ci
 2024-08-16T15:18:49.990Z,34.0208333,-117.2373333,16.65,2.45,ml,107,16,0.08814,0.19,ci,ci40704327,2024-08-16T18:58:44.262Z,"4 km SE of Loma Linda, CA",earthquake,0.13,0.25,0.195,26,automatic,ci,ci
 2024-08-16T15:16:14.260Z,35.9621658325195,-120.514335632324,10.2700004577637,1.11,md,11,101,0.02788,0.06,nc,nc75049151,2024-08-16T16:26:35.743Z,"10 km NW of Parkfield, CA",earthquake,0.45,0.879999995,0.15,6,automatic,nc,nc
@@ -265,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T02:35:30.110Z,38.8178329467773,-122.81233215332,2.5699999332428,0.77,md,11,113,0.005827,0.02,nc,nc75048946,2024-08-16T03:11:38.331Z,"7 km NW of The Geysers, CA",earthquake,0.42,1.28999996,0.27,14,automatic,nc,nc
 2024-08-16T02:21:51.400Z,33.8693333,-116.7818333,15.49,0.8,ml,21,83,0.03792,0.1,ci,ci40703943,2024-08-16T16:52:35.253Z,"5 km S of Cabazon, CA",earthquake,0.19,0.47,0.309,16,reviewed,ci,ci
 2024-08-16T02:19:01.660Z,0.6707,120.9121,66.713,4.4,mb,28,119,0.457,0.89,us,us7000n7bx,2024-08-16T03:14:57.040Z,"209 km NNE of Palu, Indonesia",earthquake,10.1,7.021,0.123,20,reviewed,us,us
-2024-08-16T02:13:09.902Z,-21.2961,-68.5145,145.4,4.3,mb,23,54,0.84,0.69,us,us7000n7bt,2024-08-16T02:44:27.040Z,"28 km WSW of Ollagüe, Chile",earthquake,7.16,8.316,0.188,9,reviewed,us,us
-2024-08-16T02:11:37.985Z,-26.744,-176.5051,48.225,4.5,mb,20,130,2.791,0.88,us,us7000n7c2,2024-08-16T03:04:25.040Z,"south of the Fiji Islands",earthquake,13.4,7.135,0.14,15,reviewed,us,us
-2024-08-16T02:11:28.379Z,28.736,-98.277,9.9854,1.9,ml,17,86,0.2,0.2,tx,tx2024qatb,2024-08-16T16:15:31.620Z,"22 km ESE of Christine, Texas",earthquake,1.527025875806069,3.227930005714298,0.2,14,reviewed,tx,tx
