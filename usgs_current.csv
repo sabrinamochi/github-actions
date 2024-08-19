@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-19T18:54:26.300Z,34.604332,-116.6194992,1.37,2.59,ml,100,39,0.03962,0.13,ci,ci40707511,2024-08-19T18:56:42.631Z,"37 km ENE of Lucerne Valley, CA",earthquake,0.13,0.47,0.236,24,automatic,ci,ci
+2024-08-19T18:54:26.600Z,34.6065,-116.6173333,7.18,2.59,ml,54,37,0.0377,0.14,ci,ci40707511,2024-08-19T19:01:37.653Z,"37 km ENE of Lucerne Valley, CA",earthquake,0.12,0.43,0.12,25,automatic,ci,ci
 2024-08-19T18:43:04.000Z,35.6975,-117.5285,7.66,0.72,ml,18,66,0.09123,0.15,ci,ci40707479,2024-08-19T18:49:04.140Z,"14 km SW of Searles Valley, CA",earthquake,0.31,1.03,0.134,6,automatic,ci,ci
 2024-08-19T18:37:12.250Z,33.2228333,-117.1928333,3.06,1.11,ml,39,119,0.06858,0.22,ci,ci40707463,2024-08-19T18:44:12.410Z,"5 km ENE of Vista, CA",earthquake,0.25,0.44,0.179,30,automatic,ci,ci
 2024-08-19T18:34:26.479Z,63.7639,-148.3881,80.5,1.2,ml,,,,1.77,ak,ak024anzlnsi,2024-08-19T18:37:38.900Z,"26 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -88,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T09:17:36.932Z,32.409,-102.053,7.8369,1.4,ml,18,84,0,0.1,tx,tx2024qgtp,2024-08-19T17:30:45.474Z,"34 km WSW of Ackerly, Texas",earthquake,0.7968725975009464,0.851107949634971,0.1,11,reviewed,tx,tx
 2024-08-19T09:15:03.640Z,33.666,-116.7705,14.56,0.66,ml,44,57,0.06508,0.13,ci,ci40706895,2024-08-19T13:10:51.660Z,"10 km SSW of Idyllwild, CA",earthquake,0.14,0.21,0.195,19,reviewed,ci,ci
 2024-08-19T09:14:16.260Z,33.2413333,-116.0355,4.5,0.61,ml,38,75,0.05679,0.19,ci,ci40706887,2024-08-19T09:25:59.807Z,"10 km SW of Salton City, CA",earthquake,0.19,0.55,0.142,5,automatic,ci,ci
+2024-08-19T09:11:41.884Z,36.5947,-115.7403,8.6,0.3,ml,11,324.38999999999993,0.191,0.1,nn,nn00882664,2024-08-19T19:01:57.591Z,"6 km WNW of Indian Springs, Nevada",earthquake,,6.7,0.13,3,reviewed,nn,nn
 2024-08-19T09:10:41.210Z,36.5958,-115.7871,8.3,0.1,ml,11,322.95,0.155,0.1332,nn,nn00882663,2024-08-19T18:58:51.034Z,"10 km WNW of Indian Springs, Nevada",earthquake,,7.1,0.15,2,reviewed,nn,nn
 2024-08-19T09:06:32.230Z,46.181,-122.1505,-0.41,0.06,ml,5,259,0.03098,0.1,uw,uw62038311,2024-08-19T18:10:04.140Z,"37 km NE of Amboy, Washington",earthquake,2.85,8.17,0.11173522293593277,4,reviewed,uw,uw
 2024-08-19T09:06:14.680Z,36.0138333,-117.6076667,1.95,1.57,ml,26,112,0.07436,0.17,ci,ci40706879,2024-08-19T13:10:09.276Z,"28 km ENE of Little Lake, CA",earthquake,0.28,0.35,0.179,19,reviewed,ci,ci
