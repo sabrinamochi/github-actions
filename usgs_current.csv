@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-21T06:31:45.270Z,32.4943352,-116.206337,13.85,2.04,ml,43,85,0.2062,0.22,ci,ci40709727,2024-08-21T06:33:47.953Z,"28 km ESE of Campo, CA",earthquake,0.29,0.96,0.309,24,automatic,ci,ci
+2024-08-21T06:31:15.060Z,34.3166656,-117.0548325,1.94,1.45,ml,45,36,0.07235,0.17,ci,ci40709719,2024-08-21T06:33:42.953Z,"13 km NNE of Running Springs, CA",earthquake,0.27,0.54,0.238,8,automatic,ci,ci
+2024-08-21T06:27:43.530Z,19.3858337402344,-155.251998901367,0.980000019073486,2.47,ml,37,45,0.0007257,0.370000005,hv,hv74416051,2024-08-21T06:30:23.970Z,"6 km SSW of Volcano, Hawaii",earthquake,0.26,0.200000003,0.58,23,automatic,hv,hv
 2024-08-21T06:22:37.990Z,19.3875007629395,-155.242492675781,1.9099999666214,1.98,ml,26,52,0.008556,0.189999998,hv,hv74416041,2024-08-21T06:25:16.280Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.170000002,0.25,14,automatic,hv,hv
 2024-08-21T06:15:31.982Z,59.5905,-152.3105,49.7,1.2,ml,,,,0.41,ak,ak024ar3f3e6,2024-08-21T06:17:26.626Z,"34 km SW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-08-21T06:10:17.020Z,46.80533218383789,-121.91616821289062,8.52999973297119,0.360000014,md,29,80,,0.0900000036,uw,uw62039111,2024-08-21T06:12:28.110Z,"10 km ENE of Ashford, Washington",earthquake,0.31,0.25999999,,1,automatic,uw,uw
@@ -23,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T04:06:29.240Z,35.4061667,-118.2226667,7.36,1.26,ml,33,47,0.1465,0.15,ci,ci40709655,2024-08-21T04:18:50.162Z,"32 km SE of Bodfish, CA",earthquake,0.18,1.49,0.198,23,automatic,ci,ci
 2024-08-21T03:53:17.050Z,19.3823337554932,-155.251159667969,1.80999994277954,1.72,ml,14,95,0.003163,0.129999995,hv,hv74415646,2024-08-21T03:55:53.950Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.209999993,0.08,3,automatic,hv,hv
 2024-08-21T03:52:05.770Z,35.1008333,-119.13,9.87,1.15,ml,23,79,0.05667,0.24,ci,ci40709647,2024-08-21T04:18:49.163Z,"25 km E of Maricopa, CA",earthquake,0.4,0.59,0.202,15,automatic,ci,ci
+2024-08-21T03:51:15.870Z,39.244,-122.9065,3.73,1.56,md,24,57,0.1331,0.17,nc,nc75051206,2024-08-21T06:30:51.068Z,"9 km NNE of Upper Lake, CA",earthquake,0.28,2.27,0.159,20,reviewed,nc,nc
 2024-08-21T03:49:41.202Z,61.7467,-148.3485,16,0.8,ml,,,,0.46,ak,ak024ar1u3mw,2024-08-21T03:51:18.247Z,"8 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:49:39.547Z,63.5861,-150.869,4.7,1.7,ml,,,,0.51,ak,ak024ar1u3ia,2024-08-21T03:51:44.365Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:47:20.289Z,34.77466965,-97.10732269,4.544024467,1.89,ml,20,88.75676727,0.141159609,0.5024160814,ok,ok2024qjzs,2024-08-21T03:55:50.366Z,"11 km ENE of Pauls Valley, Oklahoma",earthquake,2.531080991,2.191815028,0.35,11,automatic,ok,ok
@@ -445,4 +449,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T06:42:34.310Z,35.7661667,-117.5808333,7.09,0.92,ml,23,64,0.1555,0.12,ci,ci40708263,2024-08-20T18:54:02.404Z,"16 km W of Searles Valley, CA",earthquake,0.19,0.55,0.081,5,reviewed,ci,ci
 2024-08-20T06:38:50.630Z,33.3176667,-116.4075,5.36,0.71,ml,41,50,0.03498,0.2,ci,ci40708255,2024-08-20T13:56:06.960Z,"8 km NNW of Borrego Springs, CA",earthquake,0.19,0.42,0.101,15,reviewed,ci,ci
 2024-08-20T06:38:02.930Z,19.3716666666667,-155.183666666667,1.92,1.83,ml,30,124,0.01562,0.11,hv,hv74412076,2024-08-20T22:39:24.280Z,"9 km SE of Volcano, Hawaii",earthquake,0.41,0.27,0.094580353180326,7,reviewed,hv,hv
-2024-08-20T06:34:00.710Z,19.379,-155.123333333333,2.43,1.69,ml,19,181,0.006156,0.12,hv,hv74412071,2024-08-20T06:48:37.440Z,"9 km S of Fern Forest, Hawaii",earthquake,0.78,0.23,0.20119261067632,3,reviewed,hv,hv
