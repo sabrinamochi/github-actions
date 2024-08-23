@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-23T15:57:15.360Z,19.3721675872803,-155.231506347656,0.280000001192093,2.0999999,md,15,92,0.008705,0.119999997,hv,hv74421806,2024-08-23T15:58:36.780Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.159999996,0.49000001,12,automatic,hv,hv
+2024-08-23T15:57:15.360Z,19.3721675872803,-155.231506347656,0.280000001192093,1.94,ml,15,92,0.008705,0.119999997,hv,hv74421806,2024-08-23T15:59:54.930Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.159999996,0.26,5,automatic,hv,hv
 2024-08-23T15:55:00.770Z,38.8186683654785,-122.818664550781,2.34999990463257,0.83,md,9,81,0.008204,0.01,nc,nc75052261,2024-08-23T15:56:35.582Z,"7 km NW of The Geysers, CA",earthquake,0.41,1.22000003,0.29,9,automatic,nc,nc
 2024-08-23T15:52:11.620Z,35.1056667,-119.1445,11.97,1.77,ml,39,45,0.06844,0.26,ci,ci40712111,2024-08-23T15:58:56.288Z,"24 km ENE of Maricopa, CA",earthquake,0.29,0.99,0.223,26,automatic,ci,ci
 2024-08-23T15:39:38.545Z,38.7594,-118.708,6.7,2.4,ml,14,155.5,0.472,0.1512,nn,nn00882864,2024-08-23T15:57:12.092Z,"13 km NNE of Walker Lake, Nevada",earthquake,,1.7,0.18,8,automatic,nn,nn
 2024-08-23T15:35:29.842Z,38.678,-118.5548,6,2.3,ml,10,134.71000000000004,0.056,0.1791,nn,nn00882861,2024-08-23T15:56:50.802Z,"17 km E of Walker Lake, Nevada",earthquake,,1,0,1,automatic,nn,nn
-2024-08-23T15:31:58.260Z,38.6846,-118.5639,5.2,4.1,ml,11,41.129999999999995,0.065,0.1368,nn,nn00882856,2024-08-23T15:59:45.234Z,"17 km ENE of Walker Lake, Nevada",earthquake,,1.8,0.27,3,reviewed,nn,nn
+2024-08-23T15:31:58.260Z,38.6846,-118.5639,5.2,4.1,ml,11,41.129999999999995,0.065,0.1368,nn,nn00882856,2024-08-23T15:59:56.076Z,"17 km ENE of Walker Lake, Nevada",earthquake,,1.8,0.27,3,reviewed,nn,nn
 2024-08-23T15:28:41.231Z,60.2184,-141.2105,3.3,1.8,ml,,,,0.76,ak,ak024aujxhuj,2024-08-23T15:30:48.812Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-23T15:27:19.358Z,58.3667,-153.7525,62,2,ml,,,,0.43,ak,ak024aujx8fz,2024-08-23T15:30:10.745Z,"60 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-23T15:25:03.160Z,33.2190018,-116.694664,9.74,1.84,ml,8,231,0.3473,0.31,ci,ci40712079,2024-08-23T15:31:45.134Z,"7 km ESE of Lake Henshaw, CA",earthquake,2.58,22.87,0.351,24,automatic,ci,ci
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T16:10:19.297Z,31.5,-104.024,6.7151,1.6,ml,22,63,0,0.2,tx,tx2024qmtt,2024-08-23T07:46:52.112Z,"30 km NW of Toyah, Texas",earthquake,0.6718500743120925,0.7749123668820666,0.1,18,reviewed,tx,tx
 2024-08-22T16:02:46.380Z,34.4476667,-117.868,8.75,0.41,ml,,,,,ci,ci40711175,2024-08-22T20:54:25.649Z,"8 km SSE of Pearblossom, CA",earthquake,0.18,0.29,0.152,6,reviewed,ci,ci
 2024-08-22T16:02:05.310Z,34.4488333,-117.873,8.81,1.98,ml,8,201,0.0247,0.04,ci,ci40711167,2024-08-22T18:36:08.389Z,"7 km SSE of Pearblossom, CA",earthquake,0.77,0.72,0.234,30,reviewed,ci,ci
-2024-08-22T16:00:28.702Z,29.688,-98.252,2.5146,1.9,ml,7,108,0.6,0.2,tx,tx2024qmtk,2024-08-22T19:39:30.363Z,"7 km NE of Garden Ridge, Texas",earthquake,2.4412317280802927,2.9200750056217966,0.1,7,reviewed,tx,tx
