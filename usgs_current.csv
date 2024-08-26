@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-26T19:47:15.582Z,36.4162,-115.527,12,0.5,ml,10,346.6700000000001,0.427,0.1809,nn,nn00883043,2024-08-26T19:49:35.720Z,"20 km NNE of Mount Charleston, Nevada",earthquake,,1.7,0.78,5,automatic,nn,nn
+2024-08-26T19:44:28.730Z,19.3816661834717,-155.233001708984,1.29999995231628,1.78999996,md,17,107,0.01079,0.170000002,hv,hv74424927,2024-08-26T19:45:56.610Z,"6 km S of Volcano, Hawaii",earthquake,0.45,0.209999993,0.430000007,15,automatic,hv,hv
 2024-08-26T19:37:49.160Z,38.769832611084,-122.713165283203,1.62000000476837,1.42,md,16,66,0.01098,0.05,nc,nc75053756,2024-08-26T19:39:25.668Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.389999986,0.07,15,automatic,nc,nc
 2024-08-26T19:31:16.570Z,19.1606674194336,-155.46516418457,31.4799995422363,1.74000001,md,21,244,0.09965,0.170000002,hv,hv74424917,2024-08-26T19:32:44.240Z,"4 km SSE of Pāhala, Hawaii",earthquake,1.29,0.920000017,0.150000006,4,automatic,hv,hv
 2024-08-26T19:14:36.694Z,31.721,-104.236,16.5807,2,ml,9,108,0,1,tx,tx2024quhv,2024-08-26T19:34:38.973Z,"52 km SSE of Whites City, New Mexico",earthquake,0,4.39365386962891,0.2,7,automatic,tx,tx
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T16:58:24.140Z,38.8338317871094,-122.789665222168,1.89999997615814,1.23,md,26,54,0.004601,0.02,nc,nc75053711,2024-08-26T17:39:24.138Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.349999994,0.14,27,automatic,nc,nc
 2024-08-26T16:43:48.545Z,61.861,-148.4342,12.8,1.6,ml,,,,0.58,ak,ak024azj878m,2024-08-26T16:46:04.871Z,"7 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-08-26T16:41:21.870Z,35.0985,-119.0963333,5.11,1.31,ml,28,83,0.2182,0.19,ci,ci40714783,2024-08-26T16:47:49.643Z,"23 km NW of Grapevine, CA",earthquake,0.27,1.42,0.211,28,automatic,ci,ci
-2024-08-26T16:41:01.943Z,36.4753,-116.0248,9.1,1.6,ml,22,135.89,0.193,0.1179,nn,nn00883034,2024-08-26T19:35:05.473Z,"29 km N of Pahrump, Nevada",earthquake,,2.4,0.34,9,reviewed,nn,nn
+2024-08-26T16:41:01.729Z,36.4677,-116.018,9.3,1.6,ml,40,90.25,0.199,0.1498,nn,nn00883034,2024-08-26T19:47:29.075Z,"28 km N of Pahrump, Nevada",earthquake,,1.9,0.29,15,reviewed,nn,nn
 2024-08-26T16:26:56.855Z,-32.3714,150.8489,10.157,2.7,ml,6,188,2.058,0.7,us,us6000nmwd,2024-08-26T17:33:10.825Z,"12 km SSW of Muswellbrook, Australia",earthquake,6.42,7.487,0.148,6,reviewed,us,us
 2024-08-26T16:21:49.662Z,-44.8617,-73.7142,59.301,5,mww,75,135,0.323,0.89,us,us6000nmw5,2024-08-26T16:41:50.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.58,4.41,0.08,15,reviewed,us,us
 2024-08-26T16:14:04.018Z,61.3536,-149.8288,30.1,1.7,ml,,,,0.35,ak,ak024azj1w1d,2024-08-26T16:15:45.016Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -139,11 +141,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T05:06:44.750Z,33.9718333,-116.8635,18.21,0.88,ml,45,45,0.0783,0.15,ci,ci40714303,2024-08-26T18:03:37.795Z,"5 km NNE of Banning, CA",earthquake,0.18,0.42,0.171,7,reviewed,ci,ci
 2024-08-26T05:03:26.580Z,19.1459999084473,-155.357330322266,28.4699993133545,2.43,ml,47,184,0.09862,0.129999995,hv,hv74423917,2024-08-26T05:06:19.370Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.59,0.529999971,1.15,3,automatic,hv,hv
 2024-08-26T04:55:34.930Z,36.917,-116.1789,9.5,0.3,ml,36,45.68000000000001,0.061,0.1212,nn,nn00883010,2024-08-26T16:24:23.534Z,"51 km E of Beatty, Nevada",earthquake,,0.7,0.12,12,reviewed,nn,nn
-2024-08-26T04:23:25.720Z,35.0968333,-119.11,12.21,1.66,ml,23,102,0.04378,0.22,ci,ci40714271,2024-08-26T04:38:46.116Z,"24 km NW of Grapevine, CA",earthquake,0.44,0.63,0.171,10,automatic,ci,ci
+2024-08-26T04:23:25.610Z,35.092,-119.1015,14.15,1.66,ml,21,101,0.03635,0.17,ci,ci40714271,2024-08-26T19:48:49.725Z,"23 km NW of Grapevine, CA",earthquake,0.31,0.38,0.307,8,reviewed,ci,ci
 2024-08-26T04:22:51.660Z,35.0881667,-119.0943333,13.52,1.82,ml,48,41,0.03074,0.18,ci,ci40714263,2024-08-26T19:37:13.250Z,"22 km NW of Grapevine, CA",earthquake,0.2,0.43,0.11,25,reviewed,ci,ci
 2024-08-26T04:20:01.746Z,59.0277,-151.19,28.9,3.2,ml,,,,0.43,ak,ak024azbxyz7,2024-08-26T04:50:39.040Z,"51 km SE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-26T04:16:53.380Z,33.4135,-116.6468333,6.4,0.82,ml,48,35,0.08973,0.18,ci,ci40714255,2024-08-26T13:54:03.050Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.58,0.196,26,reviewed,ci,ci
-2024-08-26T04:11:38.930Z,38.0067,-9.4651,17.533,5.4,mb,94,28,1.009,0.48,us,us7000n9fh,2024-08-26T19:37:40.192Z,"52 km W of Sines, Portugal",earthquake,5.02,3.289,0.021,786,reviewed,us,us
+2024-08-26T04:11:38.930Z,38.0067,-9.4651,17.533,5.4,mb,94,28,1.009,0.48,us,us7000n9fh,2024-08-26T19:42:47.533Z,"52 km W of Sines, Portugal",earthquake,5.02,3.289,0.021,786,reviewed,us,us
 2024-08-26T04:10:36.368Z,32.015,-101.742,8.8135,1.1,ml,19,65,0.1,0.2,tx,tx2024qtea,2024-08-26T18:29:53.477Z,"13 km SSE of Stanton, Texas",earthquake,0.8496460414878635,1.9625419445440844,0.2,19,reviewed,tx,tx
 2024-08-26T03:34:08.050Z,38.7888336181641,-122.747001647949,1.42999994754791,0.94,md,14,86,0.009785,0.02,nc,nc75053521,2024-08-26T05:49:25.604Z,"2 km NE of The Geysers, CA",earthquake,0.28,0.49000001,0.2,15,automatic,nc,nc
 2024-08-26T03:29:44.980Z,38.835334777832,-122.788665771484,1.9099999666214,1.42,md,24,70,0.003338,0.02,nc,nc75053516,2024-08-26T05:17:16.403Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.400000006,0.12,27,automatic,nc,nc
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T20:06:03.980Z,34.518,-97.27583333,2.32,1.02,ml,37,120,0.07918446131,0.29,ok,ok2024qsoa,2024-08-26T15:40:46.073Z,"9 km SE of Katie, Oklahoma",earthquake,,1.2,0.25,13,reviewed,ok,ok
 2024-08-25T20:01:33.554Z,60.4254,-147.4232,8.4,1.4,ml,,,,0.2,ak,ak024axxtjxn,2024-08-25T20:03:39.779Z,"51 km NE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-25T19:50:06.140Z,46.841166666666666,-121.74183333333333,0.73,0.46,ml,23,107,0.008216,0.07,uw,uw62040596,2024-08-26T18:13:58.510Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.76,0.12652117853678918,9,reviewed,uw,uw
-2024-08-25T19:46:40.910Z,41.5923333333333,-112.424833333333,5.08,1.9,ml,26,91,0.08172,0.15,uu,uu80080166,2024-08-26T13:54:37.330Z,"15 km SW of Thatcher, Utah",earthquake,0.33,0.99,0.186249916431668,9,reviewed,uu,uu
