@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T06:24:27.480Z,33.6573333,-116.7055,15.88,0.56,ml,35,55,0.02885,0.13,ci,ci40714343,2024-08-26T06:30:34.692Z,"9 km S of Idyllwild, CA",earthquake,0.18,0.29,0.214,13,automatic,ci,ci
 2024-08-26T06:24:26.035Z,55.6787,164.3944,10,4.5,mb,86,120,4.286,0.43,us,us7000n9g4,2024-08-26T09:35:12.040Z,"134 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.49,1.907,0.056,94,reviewed,us,us
 2024-08-26T06:23:56.970Z,33.9886667,-116.8208333,5.82,0.6,ml,34,57,0.04762,0.12,ci,ci40714335,2024-08-26T06:30:02.862Z,"8 km NNW of Cabazon, CA",earthquake,0.16,0.42,0.095,13,automatic,ci,ci
-2024-08-26T06:21:09.100Z,-32.2335,-71.5335,70.244,4.6,mwr,106,131,0.511,0.61,us,us7000n9fz,2024-08-26T11:06:22.409Z,"37 km NW of La Ligua, Chile",earthquake,5.07,5.528,0.061,26,reviewed,us,us
+2024-08-26T06:21:09.100Z,-32.2335,-71.5335,70.244,4.6,mwr,106,131,0.511,0.61,us,us7000n9fz,2024-08-26T11:21:54.962Z,"37 km NW of La Ligua, Chile",earthquake,5.07,5.528,0.061,26,reviewed,us,us
 2024-08-26T06:17:21.650Z,38.7943344116211,-122.762832641602,3.55999994277954,0.77,md,9,80,0.01964,0.01,nc,nc75053591,2024-08-26T06:18:59.384Z,"2 km  of The Geysers, CA",earthquake,0.43,1.77999997,0.08,9,automatic,nc,nc
 2024-08-26T06:16:23.153Z,38.6791,-118.5473,5.5,1.5,ml,10,89.11999999999999,0.055,0.2209,nn,nn00883014,2024-08-26T06:19:02.485Z,"18 km E of Walker Lake, Nevada",earthquake,,1,0.15,5,automatic,nn,nn
 2024-08-26T06:05:53.470Z,38.8418350219727,-122.807502746582,0.639999985694885,0.94,md,11,75,0.01383,0.01,nc,nc75053586,2024-08-26T06:27:15.845Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.860000014,0.36,11,automatic,nc,nc
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T05:57:02.576Z,61.913,-147.6756,38.6,2.5,ml,,,,0.44,ak,ak024azcrc29,2024-08-26T05:58:21.537Z,"11 km N of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T05:36:54.037Z,60.3116,-151.8796,60.2,1.5,ml,,,,0.67,ak,ak024azcmxzd,2024-08-26T05:38:57.554Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-26T05:16:13.760Z,17.8956,-68.0616,40,4.8,ml,18,199,0.6961,0.4,pr,pr2024239000,2024-08-26T09:05:53.294Z,"78 km SE of Boca de Yuma, Dominican Republic",earthquake,1.74,5.38,0.12,18,reviewed,pr,pr
-2024-08-26T05:08:44.634Z,7.4234,-82.2904,10,5.8,mww,187,56,1.415,0.74,us,us7000n9fn,2024-08-26T09:48:56.468Z,"88 km S of Boca Chica, Panama",earthquake,6.33,1.784,0.052,36,reviewed,us,us
+2024-08-26T05:08:44.634Z,7.4234,-82.2904,10,5.8,mww,187,56,1.415,0.74,us,us7000n9fn,2024-08-26T11:22:56.803Z,"88 km S of Boca Chica, Panama",earthquake,6.33,1.784,0.052,36,reviewed,us,us
 2024-08-26T05:07:13.510Z,40.3721656799316,-124.486167907715,21.1499996185303,2.01,md,9,312,0.1256,0.09,nc,nc75053556,2024-08-26T06:19:29.796Z,"18 km WNW of Petrolia, CA",earthquake,3.28,0.74000001,0.14,9,automatic,nc,nc
 2024-08-26T05:06:44.860Z,33.9788333,-116.8403333,16.62,0.91,ml,16,144,0.1392,0.09,ci,ci40714295,2024-08-26T05:13:14.862Z,"7 km NNE of Banning, CA",earthquake,1.01,1.11,0.154,26,automatic,ci,ci
 2024-08-26T05:03:26.580Z,19.1459999084473,-155.357330322266,28.4699993133545,2.43,ml,47,184,0.09862,0.129999995,hv,hv74423917,2024-08-26T05:06:19.370Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.59,0.529999971,1.15,3,automatic,hv,hv
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T11:53:18.382Z,63.924,-150.2935,11.5,1.2,ml,,,,0.58,ak,ak024axsrrjy,2024-08-25T11:55:07.372Z,"58 km W of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-25T11:52:04.670Z,35.088,-119.1095,12.65,1.25,ml,25,83,0.03612,0.19,ci,ci40713703,2024-08-25T11:58:23.247Z,"23 km NW of Grapevine, CA",earthquake,0.29,0.53,0.171,26,automatic,ci,ci
 2024-08-25T11:45:53.424Z,1.7692,127.2887,119.463,4.3,mb,35,78,0.994,0.57,us,us7000n9az,2024-08-25T13:00:52.040Z,"80 km W of Tobelo, Indonesia",earthquake,5.02,7.015,0.111,26,reviewed,us,us
-2024-08-25T11:21:54.000Z,19.3759994506836,-155.235504150391,1.72000002861023,2.01,ml,19,84,0.005391,0.140000001,hv,hv74423127,2024-08-25T11:24:47.980Z,"7 km S of Volcano, Hawaii",earthquake,0.29,0.209999993,0.1,6,automatic,hv,hv
