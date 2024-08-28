@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-28T18:27:27.690Z,37.6800003051758,-122.51000213623,12.25,1.77,md,25,97,0.07853,0.03,nc,nc75054571,2024-08-28T18:29:06.863Z,"4 km W of Daly City, CA",earthquake,0.32,0.469999999,0.16,15,automatic,nc,nc
+2024-08-28T18:27:27.690Z,37.6800003051758,-122.51000213623,12.25,1.77,md,25,97,0.07853,0.03,nc,nc75054571,2024-08-28T18:37:42.113Z,"4 km W of Daly City, CA",earthquake,0.32,0.469999999,0.16,15,automatic,nc,nc
 2024-08-28T18:26:41.990Z,37.6818351745605,-122.514831542969,11.5699996948242,1.62,md,10,173,0.08225,0.04,nc,nc75054566,2024-08-28T18:28:16.872Z,"4 km W of Daly City, CA",earthquake,0.86,1.75999999,0.3,7,automatic,nc,nc
 2024-08-28T18:22:35.570Z,33.0386667,-114.9878333,4.25,1.43,ml,12,56,0.06677,0.2,ci,ci40717735,2024-08-28T18:28:29.434Z,"44 km NE of Holtville, CA",earthquake,0.65,2.09,0.287,13,automatic,ci,ci
 2024-08-28T18:20:08.204Z,37.7414,-117.1447,0,1.2,ml,13,153.58999999999997,0.451,0.323,nn,nn00883235,2024-08-28T18:22:42.182Z,"8 km ENE of Goldfield, Nevada",earthquake,,49.5,0.1,7,automatic,nn,nn
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T09:25:43.917Z,31.253,-103.411,8.2788,1.7,ml,13,56,0.1,0.2,tx,tx2024qxfk,2024-08-28T16:55:00.035Z,"17 km SE of Lindsay, Texas",earthquake,1.060069726995176,2.2348909856912655,0.2,19,reviewed,tx,tx
 2024-08-28T09:25:06.680Z,19.2744998931885,-155.384994506836,30.1299991607666,1.99000001,md,28,125,0.03865,0.140000001,hv,hv74428277,2024-08-28T09:26:47.460Z,"12 km NE of Pāhala, Hawaii",earthquake,0.54,0.620000005,0.0700000003,6,automatic,hv,hv
 2024-08-28T09:17:21.770Z,35.697,-117.5408333,6.4,1.17,ml,27,61,0.1005,0.14,ci,ci40716967,2024-08-28T09:23:11.387Z,"15 km WSW of Searles Valley, CA",earthquake,0.2,0.65,0.137,13,automatic,ci,ci
-2024-08-28T09:05:43.050Z,33.7681667,-116.868,11.75,0.42,ml,9,293,0.1402,0.11,ci,ci40716959,2024-08-28T09:11:49.459Z,"3 km NE of Valle Vista, CA",earthquake,1.43,3.26,0.112,5,automatic,ci,ci
+2024-08-28T09:05:42.910Z,33.7676667,-116.8781667,12.41,0.37,ml,23,96,0.08893,0.14,ci,ci40716959,2024-08-28T18:41:37.627Z,"3 km NNE of Valle Vista, CA",earthquake,0.28,0.55,0.182,5,reviewed,ci,ci
 2024-08-28T09:03:51.450Z,18.0105,-66.7756666666667,13.92,2.34,md,11,137,0.01781,0.1,pr,pr71458433,2024-08-28T09:20:34.220Z,"1 km SW of Magas Arriba, Puerto Rico",earthquake,0.44,0.29,0.113286332735132,6,reviewed,pr,pr
 2024-08-28T09:02:28.118Z,65.4455,-148.2365,11.4,1.1,ml,,,,0.46,ak,ak024b2pw123,2024-08-28T09:04:27.037Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-28T08:18:03.252Z,63.6501,-150.0388,12.4,1.4,ml,,,,0.25,ak,ak024b2pdyzp,2024-08-28T08:20:00.075Z,"56 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -282,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T18:51:54.060Z,35.58883333,-96.9545,6.35,1.26,ml,58,39,0.09088216582,0.24,ok,ok2024qwco,2024-08-28T14:49:51.503Z,"10 km NNW of Meeker, Oklahoma",earthquake,,0.5,0.23,23,reviewed,ok,ok
 2024-08-27T18:50:51.320Z,45.3895,-121.98716666666667,-1.41,0.9,ml,7,171,0.1315,0.08,uw,uw62041251,2024-08-27T19:55:05.000Z,"3 km N of Mount Hood Village, Oregon",explosion,0.95,31.61,0.1688707160052283,3,reviewed,uw,uw
 2024-08-27T18:46:26.660Z,36.245,-95.80633333,0,1.36,ml,66,121,0.3347343137,0.52,ok,ok2024qwck,2024-08-28T14:31:01.132Z,"5 km ESE of Owasso, Oklahoma",quarry blast,,0.4,0.16,22,reviewed,ok,ok
-2024-08-27T18:38:36.420Z,34.6343333,-117.1146667,-1.35,1.63,ml,31,51,0.1919,0.14,ci,ci40716159,2024-08-27T22:56:19.800Z,"16 km NNE of Apple Valley, CA",quarry blast,0.24,31.61,0.092,20,reviewed,ci,ci
