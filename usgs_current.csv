@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-28T16:34:44.557Z,37.1667,-114.9929,16,1.8,ml,21,178.03000000000003,0.788,0.3159,nn,nn00883222,2024-08-28T16:37:22.188Z,"26 km SE of Alamo, Nevada",earthquake,,1.1,0.25,13,automatic,nn,nn
 2024-08-28T16:31:12.215Z,37.5766,-116.9725,0,0.8,ml,9,167.70999999999998,0.476,0.2105,nn,nn00883220,2024-08-28T16:33:49.395Z,"27 km ESE of Goldfield, Nevada",earthquake,,50.1,0.33,5,automatic,nn,nn
 2024-08-28T16:21:56.330Z,38.8118324279785,-122.821998596191,2.97000002861023,0.93,md,7,85,0.006342,0.01,nc,nc75054536,2024-08-28T16:23:32.358Z,"7 km NW of The Geysers, CA",earthquake,0.66,2.04999995,0.22,9,automatic,nc,nc
 2024-08-28T16:14:51.670Z,36.0578346252441,-120.6181640625,8.86999988555908,1.25,md,8,196,0.02091,0.05,nc,nc75054526,2024-08-28T16:16:27.092Z,"24 km NNW of Parkfield, CA",earthquake,0.76,1.20000005,0.37,5,automatic,nc,nc
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T16:00:54.971Z,59.3963,-153.4766,110.1,1.5,ml,,,,0.24,ak,ak024b2u1oxl,2024-08-28T16:02:33.620Z,"56 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-28T15:58:01.633Z,37.6218,-117.011,7,1.3,ml,16,245.56000000000003,0.378,0.216,nn,nn00883217,2024-08-28T16:00:40.545Z,"22 km ESE of Goldfield, Nevada",earthquake,,2.4,0.1,10,automatic,nn,nn
 2024-08-28T15:48:49.979Z,37.7294,-117.149,0,0.8,ml,8,174.15999999999997,0.562,0.1841,nn,nn00883215,2024-08-28T15:51:28.616Z,"7 km ENE of Goldfield, Nevada",earthquake,,96,0.31,6,automatic,nn,nn
+2024-08-28T15:47:41.568Z,5.4247,125.0187,35.504,4.9,mb,63,101,1.726,0.95,us,us6000nn86,2024-08-28T16:37:07.040Z,"40 km WSW of Balangonan, Philippines",earthquake,8.12,5.929,0.054,108,reviewed,us,us
 2024-08-28T15:47:25.707Z,37.5783,-116.9648,6.8,0.5,ml,8,168.43,0.475,0.1598,nn,nn00883214,2024-08-28T15:50:18.623Z,"27 km ESE of Goldfield, Nevada",earthquake,,0,0.22,5,automatic,nn,nn
 2024-08-28T15:46:01.911Z,37.7417,-117.0969,0,0.6,ml,8,181.09999999999997,0.668,0.2506,nn,nn00883212,2024-08-28T15:48:18.746Z,"12 km ENE of Goldfield, Nevada",earthquake,,85.2,0.41,5,automatic,nn,nn
 2024-08-28T15:45:51.240Z,33.6861667,-116.709,16.23,1.12,ml,24,101,0.0253,0.15,ci,ci40717407,2024-08-28T15:51:56.673Z,"6 km S of Idyllwild, CA",earthquake,0.33,0.41,0.396,5,automatic,ci,ci
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T06:28:54.150Z,32.7163333,-115.8141667,2.98,1.24,ml,29,51,0.09972,0.19,ci,ci40716879,2024-08-28T06:35:03.166Z,"17 km E of Ocotillo, CA",earthquake,0.2,0.46,0.15,19,automatic,ci,ci
 2024-08-28T06:08:47.060Z,35.0853333,-119.0898333,11.41,1.41,ml,43,75,0.02713,0.23,ci,ci40716871,2024-08-28T06:15:08.222Z,"22 km NW of Grapevine, CA",earthquake,0.23,0.55,0.132,26,automatic,ci,ci
 2024-08-28T05:44:44.810Z,33.3581667,-116.2585,11.19,0.57,ml,32,120,0.04297,0.19,ci,ci40716855,2024-08-28T05:50:41.885Z,"16 km NE of Borrego Springs, CA",earthquake,0.27,0.37,0.099,7,automatic,ci,ci
-2024-08-28T05:39:38.320Z,33.3515,-116.2661667,11.27,1.21,ml,67,31,0.03793,0.19,ci,ci40716847,2024-08-28T16:36:15.841Z,"15 km NE of Borrego Springs, CA",earthquake,0.16,0.29,0.13,35,reviewed,ci,ci
+2024-08-28T05:39:38.320Z,33.3515,-116.2661667,11.27,1.21,ml,67,31,0.03793,0.19,ci,ci40716847,2024-08-28T16:37:03.170Z,"15 km NE of Borrego Springs, CA",earthquake,0.16,0.29,0.13,35,reviewed,ci,ci
 2024-08-28T05:35:02.590Z,17.945,-66.7838333333333,4.61,2.43,md,8,173,0.195,0.14,pr,pr71458398,2024-08-28T05:56:09.470Z,"6 km SE of Indios, Puerto Rico",earthquake,0.76,0.58,0.0700083364424455,4,reviewed,pr,pr
 2024-08-28T05:34:18.380Z,36.4513333333333,-81.0788333333333,4.17,2.22,md,13,76,0.571,0.36,se,se60502378,2024-08-28T15:59:16.553Z,"7 km SSE of Sparta, North Carolina",earthquake,0.74,5.4,0.0255213015608415,12,reviewed,se,se
 2024-08-28T05:27:07.023Z,-15.1593,166.9079,10,4.9,mb,32,71,5.914,1.2,us,us6000nn64,2024-08-28T06:47:47.040Z,"21 km SW of Port-Olry, Vanuatu",earthquake,10.06,1.879,0.095,35,reviewed,us,us
