@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-31T18:01:39.860Z,40.371166229248,-124.470497131348,24.0499992370605,1.7,md,8,310,0.1136,0.11,nc,nc75055761,2024-08-31T18:03:16.254Z,"17 km WNW of Petrolia, CA",earthquake,8.19,3.92000008,0.11,6,automatic,nc,nc
 2024-08-31T17:50:45.560Z,19.2604999542236,-155.401000976562,30.5599994659424,2.17,ml,54,87,0.02311,0.140000001,hv,hv74433917,2024-08-31T17:53:38.260Z,"10 km NE of Pāhala, Hawaii",earthquake,0.4,0.50999999,0.2,9,automatic,hv,hv
 2024-08-31T17:49:51.550Z,32.8285,-115.481,5.89,1.15,ml,22,66,0.03693,0.27,ci,ci40720839,2024-08-31T17:56:19.150Z,"8 km ENE of El Centro, CA",earthquake,0.4,0.49,0.219,18,automatic,ci,ci
 2024-08-31T17:35:55.207Z,37.7415,-117.1274,0.7,1.8,ml,24,130.85000000000002,0.454,0.279,nn,nn00883573,2024-08-31T17:38:28.533Z,"10 km ENE of Goldfield, Nevada",earthquake,,22.1,0.16,16,automatic,nn,nn
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T16:24:51.460Z,19.1949996948242,-155.504333496094,30.7099990844727,1.95,ml,46,129,0.05334,0.200000003,hv,hv74433862,2024-08-31T16:27:43.900Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.68,0.779999971,0.84,5,automatic,hv,hv
 2024-08-31T15:57:17.547Z,62.3243,-151.2399,78.2,1.6,ml,,,,0.44,ak,ak024b7sefqi,2024-08-31T16:00:09.284Z,"31 km SW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-31T15:56:10.228Z,66.1462,-147.8202,0,1.6,ml,,,,0.88,ak,ak024b7se7ge,2024-08-31T15:58:14.406Z,"30 km SW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-31T15:51:08.586Z,35.47835922,-98.04224396,2.811714172,2.4,ml,39,66.03375244,0.05496434495,0.6976281872,ok,ok2024rdep,2024-08-31T16:03:34.698Z,"9 km SW of El Reno, Oklahoma",earthquake,2.366271567,1.498056853,0.26,28,automatic,ok,ok
+2024-08-31T15:51:08.580Z,35.47633333,-98.02566667,5.48,2.23,ml,46,72,0.05218975859,0.43,ok,ok2024rdep,2024-08-31T18:16:07.413Z,"8 km SW of El Reno, Oklahoma",earthquake,,1,0.28,27,reviewed,ok,ok
 2024-08-31T15:48:23.540Z,33.2553333,-116.0913333,8.83,0.44,ml,24,57,0.09176,0.16,ci,ci40720783,2024-08-31T16:01:47.236Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.92,0.129,4,automatic,ci,ci
 2024-08-31T15:43:01.600Z,34.2836667,-117.0308333,6.47,1,ml,41,60,0.03404,0.17,ci,ci40720775,2024-08-31T15:59:43.930Z,"11 km NE of Running Springs, CA",earthquake,0.24,0.43,0.283,23,automatic,ci,ci
 2024-08-31T15:41:46.490Z,46.2125,-122.17633333333333,8.23,0.4,ml,12,96,0.01257,0.11,uw,uw62042481,2024-08-31T17:15:56.710Z,"39 km S of Morton, Washington",earthquake,0.42,0.47,0.1555846687224719,5,reviewed,uw,uw
@@ -223,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T18:25:19.879Z,37.7396,-117.1388,8.6,1.6,ml,12,176.25,0.45,0.121,nn,nn00883510,2024-08-30T19:40:50.255Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.2,0.26,2,reviewed,nn,nn
 2024-08-30T18:25:01.390Z,37.921501159668,-121.951164245605,-0.280000001192093,1.57,md,11,120,0.03599,0.13,nc,nc75055351,2024-08-30T19:29:25.786Z,"3 km SW of Clayton, CA",earthquake,0.49,3.30999994,0.2,8,automatic,nc,nc
 2024-08-30T18:21:57.699Z,52.6166,-168.7478,41.343,4.4,mb,170,62,0.362,0.7,us,us6000nnqj,2024-08-30T21:30:34.518Z,"36 km SSE of Nikolski, Alaska",earthquake,4.84,6.356,0.04,189,reviewed,us,us
-2024-08-30T18:06:33.771Z,31.142,-103.036,2.6648,2.7,ml,18,62,0,0.2,tx,tx2024rbnp,2024-08-30T19:53:57.040Z,"11 km SSE of Coyanosa, Texas",earthquake,0.8325347055338118,0.9273236966101625,0.2,19,reviewed,tx,tx
-2024-08-30T18:03:55.680Z,19.3265,-155.118666666667,5.29,1.81,ml,37,144,0.0416,0.13,hv,hv74432362,2024-08-30T19:44:07.260Z,"15 km S of Fern Forest, Hawaii",earthquake,0.4,1.1,0.263597897141621,22,reviewed,hv,hv
-2024-08-30T18:03:51.450Z,38.7915000915527,-122.77766418457,1.58000004291534,1.1,md,20,93,0.008187,0.03,nc,nc75055346,2024-08-30T19:09:25.631Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.400000006,0.25,20,automatic,nc,nc
