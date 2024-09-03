@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T15:49:14.830Z,34.3893333,-120.0135,-0.26,1.44,ml,23,103,0.1875,0.4,ci,ci40723567,2024-09-03T15:55:13.210Z,"14 km W of Isla Vista, CA",earthquake,0.71,2,0.198,22,automatic,ci,ci
 2024-09-03T15:47:42.600Z,32.9793333,-116.2138333,9.48,0.98,ml,40,47,0.07922,0.18,ci,ci40723551,2024-09-03T15:53:28.102Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.58,0.177,16,automatic,ci,ci
 2024-09-03T15:32:07.390Z,38.8386650085449,-122.807998657227,1.91999995708466,0.7,md,12,63,0.01379,0.03,nc,nc75056961,2024-09-03T15:54:23.658Z,"8 km WNW of Cobb, CA",earthquake,0.34,1.17999995,0.08,12,automatic,nc,nc
+2024-09-03T15:19:53.882Z,31.772,-101.92,8.374,1.5,ml,21,64,0.1,0.2,tx,tx2024riqd,2024-09-03T16:17:25.691Z,"29 km SSE of Midland, Texas",earthquake,1.27430923441955,1.4939763134945663,0.1,13,reviewed,tx,tx
 2024-09-03T15:13:25.950Z,34.071,-118.2135,10.76,1.63,ml,9,237,0.08051,0.06,ci,ci40723495,2024-09-03T15:19:55.908Z,"4 km ENE of Los Angeles, CA",earthquake,0.74,0.72,0.55,37,automatic,ci,ci
 2024-09-03T15:02:50.390Z,38.6041666666667,-112.559833333333,-0.73,1.49,ml,11,126,0.08841,0.16,uu,uu80081201,2024-09-03T15:38:16.600Z,"24 km SSW of Kanosh, Utah",earthquake,0.63,1.22,0.0922777680845404,6,reviewed,uu,uu
 2024-09-03T14:53:50.940Z,61.5924,-150.3816,10.5,1.2,ml,,,,0.61,ak,ak024bcqe9bq,2024-09-03T14:55:55.223Z,"8 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -62,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T08:56:19.130Z,19.0223331451416,-155.517837524414,38.75,2.56,ml,58,200,0.1425,0.140000001,hv,hv74438762,2024-09-03T09:25:45.913Z,"8 km SE of Naalehu, Hawaii",earthquake,0.51,0.689999998,0.39,18,automatic,hv,hv
 2024-09-03T08:55:36.329Z,35.678,-98.13566667,7,1.25,ml,88,40,0.06928640364,0.34,ok,ok2024ridk,2024-09-03T14:19:46.466Z,"8 km N of Calumet, Oklahoma",earthquake,,0.7,0.25,33,reviewed,ok,ok
 2024-09-03T08:53:36.259Z,36.70083333,-97.6765,7,1.13,ml,65,50,0.2105586812,0.23,ok,ok2024ridi,2024-09-03T15:52:34.955Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,0.6,0.24,25,reviewed,ok,ok
+2024-09-03T08:52:52.690Z,39.5668333333333,-111.214,2.09,1.37,ml,20,44,0.07366,0.19,uu,uu80081176,2024-09-03T16:19:26.390Z,"10 km SSW of Clear Creek, Utah",earthquake,0.35,4.42,0.0448971044235689,5,reviewed,uu,uu
 2024-09-03T08:47:09.690Z,38.826000213623,-122.811332702637,2.78999996185303,0.74,md,7,108,0.002781,0.01,nc,nc75056831,2024-09-03T08:48:48.106Z,"7 km NNW of The Geysers, CA",earthquake,0.5,2.3900001,0.05,8,automatic,nc,nc
 2024-09-03T08:46:18.497Z,5.5532,126.7354,68.176,4.6,mb,35,115,1.895,0.67,us,us6000npg5,2024-09-03T12:18:06.040Z,"108 km SE of Pondaguitan, Philippines",earthquake,9.44,7.86,0.112,24,reviewed,us,us
 2024-09-03T08:07:23.880Z,34.0221667,-117.5901667,5.48,1.16,ml,61,30,0.01799,0.15,ci,ci40723255,2024-09-03T12:58:36.030Z,"5 km SE of Ontario, CA",earthquake,0.13,0.21,0.212,31,reviewed,ci,ci
@@ -211,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T16:39:48.284Z,37.7473,-117.1255,0,1.4,ml,23,174.84999999999997,0.46,0.245,nn,nn00883728,2024-09-02T16:42:35.208Z,"10 km ENE of Goldfield, Nevada",earthquake,,29.1,0.2,15,automatic,nn,nn
 2024-09-02T16:37:02.953Z,37.7199,-117.1828,5.5,1.1,ml,18,170.32999999999998,0.547,0.334,nn,nn00883725,2024-09-02T16:39:33.845Z,"4 km ENE of Goldfield, Nevada",earthquake,,3.1,0.14,13,automatic,nn,nn
 2024-09-02T16:31:11.532Z,44.9822,-111.9304,5,2.3,ml,46,36,0.172,0.31,us,us6000npc2,2024-09-03T15:44:20.040Z,"34 km S of Virginia City, Montana",earthquake,1.08,0.695,0.043,70,reviewed,us,us
-2024-09-02T16:25:20.110Z,33.989,-116.7303333,16.56,1.15,ml,49,54,0.07911,0.15,ci,ci40722615,2024-09-02T22:27:20.640Z,"10 km NNE of Cabazon, CA",earthquake,0.17,0.42,0.225,29,reviewed,ci,ci
-2024-09-02T16:22:21.940Z,18.405,-67.4016666666667,13.28,2.74,md,9,293,0.2827,0.19,pr,pr71459143,2024-09-02T22:30:09.100Z,"17 km WNW of Rincón, Puerto Rico",earthquake,1.29,0.85,0.0686654236189144,5,reviewed,pr,pr
