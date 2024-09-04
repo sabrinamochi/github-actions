@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T09:10:54.522Z,65.3811,-153.4301,0,1.3,ml,,,,0.53,ak,ak024beap8a4,2024-09-04T09:12:54.552Z,"67 km WNW of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-04T08:52:38.273Z,61.7322,-150.4781,28.6,1.6,ml,,,,0.58,ak,ak024beacrhv,2024-09-04T08:54:49.783Z,"21 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-04T08:45:19.565Z,37.7376,-117.1421,4.9,0.8,ml,8,175.74,0.561,0.121,nn,nn00883852,2024-09-04T08:47:55.091Z,"8 km ENE of Goldfield, Nevada",earthquake,,8.9,0.23,8,automatic,nn,nn
 2024-09-04T08:39:29.929Z,63.0467,-150.6693,116.3,1.2,ml,,,,0.05,ak,ak024bea9yjk,2024-09-04T08:41:55.746Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T21:40:08.980Z,49.11866666666667,-122.20266666666667,-0.86,1.31,ml,2,358,0.1139,0.19,uw,uw62043341,2024-09-03T22:00:01.280Z,"7 km ESE of Mission, Canada",explosion,16.35,31.61,0.08351490181664134,1,reviewed,uw,uw
 2024-09-03T21:39:23.270Z,35.0968333,-119.1081667,12.68,2.06,ml,50,42,0.04306,0.24,ci,ci40724015,2024-09-03T21:50:16.930Z,"24 km NW of Grapevine, CA",earthquake,0.24,0.64,0.131,26,automatic,ci,ci
 2024-09-03T21:33:22.045Z,31.599,-104.543,3.7651,1.9,ml,8,161,0.1,0.2,tx,tx2024rjck,2024-09-03T21:56:15.444Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.82925248146057,0.2,6,automatic,tx,tx
-2024-09-03T21:29:51.141Z,34.7088,32.2605,10.623,4.9,mb,95,99,0.916,0.76,us,us6000npk6,2024-09-04T08:47:34.284Z,"16 km SW of Chlórakas, Cyprus",earthquake,6.77,4.766,0.045,156,reviewed,us,us
+2024-09-03T21:29:51.141Z,34.7088,32.2605,10.623,4.9,mb,95,99,0.916,0.76,us,us6000npk6,2024-09-04T09:09:14.744Z,"16 km SW of Chlórakas, Cyprus",earthquake,6.77,4.766,0.045,156,reviewed,us,us
 2024-09-03T21:22:33.384Z,28.541,-98.421,5.6833,2.2,ml,15,75,0.1,1.1,tx,tx2024rjcc,2024-09-03T21:49:34.401Z,"15 km NE of Tilden, Texas",earthquake,0,2.29392379809116,0.1,13,automatic,tx,tx
 2024-09-03T21:19:34.520Z,33.7225,-116.8185,15.07,0.52,ml,19,190,0.08769,0.1,ci,ci40724007,2024-09-03T21:25:37.971Z,"8 km ESE of Valle Vista, CA",earthquake,0.41,0.47,0.139,10,automatic,ci,ci
 2024-09-03T21:17:20.210Z,33.2475014,-116.0361633,3.36,1.08,ml,23,89,0.08858,0.16,ci,ci40723983,2024-09-03T21:20:48.602Z,"9 km SW of Salton City, CA",earthquake,0.31,0.63,0.252,27,automatic,ci,ci
@@ -199,10 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T09:20:47.859Z,35.026,-97.77166667,7.58,0.89,ml,61,57,0.1070789874,0.28,ok,ok2024rieg,2024-09-03T15:30:43.747Z,"12 km N of Alex, Oklahoma",earthquake,,0.6,0.2,28,reviewed,ok,ok
 2024-09-03T09:18:26.387Z,52.8196,160.2985,35,4.7,mb,164,119,1.019,0.67,us,us6000npgd,2024-09-03T09:49:52.040Z,"115 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8,1.908,0.03,341,reviewed,us,us
 2024-09-03T09:14:05.589Z,36.697,-97.6765,7,1.23,ml,60,50,0.2132581515,0.41,ok,ok2024riea,2024-09-03T15:38:55.690Z,"10 km ESE of Jefferson, Oklahoma",earthquake,,1.1,0.28,23,reviewed,ok,ok
-2024-09-03T09:12:50.120Z,51.8186666666667,-178.853333333333,8.98,0.34,ml,5,265,0.02951,0.17,av,av93250208,2024-09-03T23:05:59.420Z,"153 km W of Adak, Alaska",earthquake,1.06,0.86,0.488655882137501,5,reviewed,av,av
-2024-09-03T09:11:19.186Z,38.539,-118.5126,13,1.8,ml,11,114.58999999999997,0.09,0.1548,nn,nn00883772,2024-09-03T16:58:21.631Z,"9 km E of Hawthorne, Nevada",earthquake,,1.2,0.53,5,reviewed,nn,nn
-2024-09-03T09:08:49.060Z,33.5795,-116.8083333,9.3,0.82,ml,54,22,0.03954,0.17,ci,ci40723279,2024-09-03T12:58:32.730Z,"13 km WNW of Anza, CA",earthquake,0.14,0.31,0.162,23,reviewed,ci,ci
-2024-09-03T09:08:16.330Z,44.6881666666667,-110.4525,5.19,1.35,ml,16,110,0.04878,0.18,uu,uu80081186,2024-09-03T14:24:17.440Z,"37 km SSE of Mammoth, Wyoming",earthquake,0.47,1.08,0.126613420774348,3,reviewed,uu,uu
-2024-09-03T09:07:54.920Z,38.4936666666667,-112.879,1.52,0.49,md,11,65,0.005423,0.07,uu,uu80081181,2024-09-03T16:15:22.700Z,"15 km NE of Milford, Utah",earthquake,0.33,0.42,0.430106803049088,4,reviewed,uu,uu
-2024-09-03T09:05:26.460Z,46.2905,-122.165,2,0.33,ml,12,131,0.03996,0.08,uw,uw62043211,2024-09-03T17:11:56.320Z,"30 km SSE of Morton, Washington",earthquake,0.22,0.25,0.23992709521445854,6,reviewed,uw,uw
-2024-09-03T09:02:29.030Z,19.1783332824707,-155.488998413086,31.4699993133545,2.02999997,md,36,135,0.03414,0.100000001,hv,hv74438767,2024-09-03T09:04:10.720Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.7,0.600000024,0.200000003,11,automatic,hv,hv
