@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-04T18:27:56.390Z,37.9781684875488,-122.457664489746,2.04999995231628,1.52,md,11,107,0.02731,0.17,nc,nc75057346,2024-09-04T18:29:31.973Z,"6 km ESE of Santa Venetia, CA",earthquake,0.47,0.870000005,0.29,8,automatic,nc,nc
+2024-09-04T18:27:56.390Z,37.9781684875488,-122.457664489746,2.04999995231628,1.52,md,11,107,0.02731,0.17,nc,nc75057346,2024-09-04T18:47:15.919Z,"6 km ESE of Santa Venetia, CA",earthquake,0.47,0.870000005,0.29,8,automatic,nc,nc
 2024-09-04T18:23:33.903Z,37.4485,-116.7875,0,0.5,ml,9,225.97000000000003,0.309,0.362,nn,nn00883917,2024-09-04T18:26:00.240Z,"48 km SE of Goldfield, Nevada",earthquake,,53.7,0.53,5,automatic,nn,nn
 2024-09-04T18:23:12.930Z,33.989,-116.585,15.22,0.69,ml,22,43,0.07193,0.12,ci,ci40724855,2024-09-04T18:29:19.217Z,"6 km S of Morongo Valley, CA",earthquake,0.18,0.44,0.146,14,automatic,ci,ci
 2024-09-04T18:21:10.348Z,37.7721,-117.106,0,1,ml,14,182.93,0.564,0.3484,nn,nn00883915,2024-09-04T18:23:41.152Z,"13 km ENE of Goldfield, Nevada",earthquake,,51.2,0.24,7,automatic,nn,nn
@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T11:16:05.450Z,38.8136672973633,-122.797668457031,2.15000009536743,0.77,md,11,58,0.005984,0.01,nc,nc75057246,2024-09-04T12:07:17.094Z,"5 km NNW of The Geysers, CA",earthquake,0.43,0.870000005,0.07,13,automatic,nc,nc
 2024-09-04T11:13:32.240Z,38.4669990539551,-119.856666564941,-0.779999971389771,2.62,md,9,157,0.418,0.31,nc,nc75057236,2024-09-04T16:19:50.192Z,"14 km N of Dardanelle, CA",earthquake,1.47,3.43000007,0.04,3,automatic,nc,nc
 2024-09-04T11:13:22.143Z,37.7406,-117.138,9.4,1.4,ml,15,117.41,0.502,0.2022,nn,nn00883902,2024-09-04T16:41:18.260Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.4,0.58,2,reviewed,nn,nn
+2024-09-04T11:13:10.280Z,37.2825,-119.999,25.23,1.9,md,7,90,0.1848,0.06,nc,nc75057241,2024-09-04T18:44:24.857Z,"22 km SW of Bootjack, CA",earthquake,0.42,0.49,0.194,5,reviewed,nc,nc
 2024-09-04T11:11:39.511Z,37.6918,-117.2211,5.6,1.1,ml,16,163.71999999999997,0.544,0.3389,nn,nn00883881,2024-09-04T11:14:07.862Z,"2 km SE of Goldfield, Nevada",earthquake,,3.2,0.22,11,automatic,nn,nn
 2024-09-04T11:07:17.030Z,45.06,-123.08116666666666,16.29,1.23,ml,14,66,0.0188,0.13,uw,uw62043486,2024-09-04T18:00:41.630Z,"8 km NNW of Keizer, Oregon",earthquake,0.35,0.62,0.1728720203035039,8,reviewed,uw,uw
 2024-09-04T11:00:10.099Z,36.5233,-115.54,0.9,0.8,ml,16,313.06,0.366,0.1589,nn,nn00883879,2024-09-04T11:02:17.048Z,"12 km ESE of Indian Springs, Nevada",earthquake,,43.9,0.2,10,automatic,nn,nn
@@ -192,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T22:51:25.180Z,62.1929,-150.1727,8,1.3,ml,,,,0.71,ak,ak024bcv58qu,2024-09-03T22:53:17.214Z,"14 km SSE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-03T22:45:11.258Z,61.1603,-151.3507,67.1,1.5,ml,,,,0.41,ak,ak024bcv3xdh,2024-09-03T22:47:34.752Z,"14 km W of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-03T22:34:21.726Z,37.7455,-117.1435,6.9,1.9,ml,16,116.92,0.195,0.1162,nn,nn00883828,2024-09-03T23:53:40.842Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.2,0.47,5,reviewed,nn,nn
-2024-09-03T22:30:54.710Z,35.614,-117.4641667,8.23,0.86,ml,20,67,0.02749,0.1,ci,ci40724063,2024-09-03T22:36:55.050Z,"18 km SSW of Searles Valley, CA",earthquake,0.16,0.29,0.235,8,automatic,ci,ci
+2024-09-03T22:30:54.740Z,35.6155,-117.465,8.15,0.86,ml,17,66,0.02903,0.12,ci,ci40724063,2024-09-04T18:48:44.835Z,"18 km SSW of Searles Valley, CA",earthquake,0.2,0.36,0.211,7,reviewed,ci,ci
 2024-09-03T22:16:19.170Z,34.4935,-97.584,14,0.88,ml,16,91,0.1871632722,0.28,ok,ok2024rjdv,2024-09-04T13:34:19.225Z,"8 km NW of Ratliff City, Oklahoma",earthquake,,2.2,0.28,9,reviewed,ok,ok
 2024-09-03T22:14:14.420Z,38.7866668701172,-122.763832092285,0.769999980926514,0.86,md,10,79,0.0143,0.03,nc,nc75057071,2024-09-03T23:22:21.495Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.629999995,0.22,11,automatic,nc,nc
 2024-09-03T22:12:49.911Z,63.0427,-149.8374,79.1,1.3,ml,,,,0.42,ak,ak024bcuwxq7,2024-09-03T22:14:42.286Z,"59 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T19:17:47.973Z,37.7457,-117.1318,11.8,0.6,ml,9,149.23999999999998,0.496,0.1289,nn,nn00883816,2024-09-03T20:18:40.802Z,"10 km ENE of Goldfield, Nevada",earthquake,,3.6,0,1,reviewed,nn,nn
 2024-09-03T19:06:09.920Z,37.8318328857422,-121.801834106445,6.17999982833862,1.63,md,8,142,0.1117,0.04,nc,nc75057016,2024-09-03T19:44:23.331Z,"9 km E of Blackhawk, CA",earthquake,0.43,6.73000002,0.14,5,automatic,nc,nc
 2024-09-03T18:56:44.915Z,37.7376,-117.1428,8.4,3.1,ml,26,94.31,0.194,0.1794,nn,nn00883811,2024-09-03T19:40:51.040Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.1,0.36,9,reviewed,nn,nn
-2024-09-03T18:46:59.327Z,36.619,-115.7439,9.4,0.5,ml,20,145.64999999999998,0.181,0.113,nn,nn00883807,2024-09-03T20:03:20.220Z,"8 km NW of Indian Springs, Nevada",earthquake,,3.3,0.15,7,reviewed,nn,nn
