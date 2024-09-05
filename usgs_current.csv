@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-05T16:33:08.650Z,35.0715,-119.0793333,12.01,1.4,ml,28,94,0.01338,0.21,ci,ci40725735,2024-09-05T16:39:29.089Z,"20 km NW of Grapevine, CA",earthquake,0.27,0.63,0.182,30,automatic,ci,ci
 2024-09-05T16:27:41.020Z,33.2938347,-116.5739975,-0.72,2.31,ml,8,114,0.2737,0.29,ci,ci40725727,2024-09-05T16:34:28.904Z,"6 km ENE of Warner Springs, CA",earthquake,1.26,4.9,0.282,36,automatic,ci,ci
-2024-09-05T16:25:37.220Z,38.7929992675781,-122.779830932617,1.76999998092651,0.72,md,10,103,0.006322,0.01,nc,nc75057801,2024-09-05T16:27:13.996Z,"3 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.22,10,automatic,nc,nc
+2024-09-05T16:25:37.220Z,38.7929992675781,-122.779830932617,1.76999998092651,0.72,md,10,103,0.006322,0.01,nc,nc75057801,2024-09-05T16:49:27.450Z,"3 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.22,10,automatic,nc,nc
 2024-09-05T16:08:38.090Z,35.0526667,-118.3508333,-0.58,1.1,ml,31,57,0.06239,0.18,ci,ci40725703,2024-09-05T16:20:48.406Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.62,0.15,20,automatic,ci,ci
 2024-09-05T16:01:15.740Z,38.7765007019043,-122.752502441406,1.08000004291534,1.09,md,14,67,0.01185,0.06,nc,nc75057791,2024-09-05T16:02:54.372Z,"0 km ESE of The Geysers, CA",earthquake,0.27,0.540000021,0.18,12,automatic,nc,nc
 2024-09-05T15:54:43.692Z,61.0828,-152.1552,110.6,1.9,ml,,,,0.35,ak,ak024bg22l2p,2024-09-05T16:33:15.040Z,"54 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-05T15:51:27.276Z,19.6005,-64.4179,17.913,3,ml,14,283,1.19,0.29,us,us6000npvc,2024-09-05T16:28:40.040Z,"145 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,9.51,11.628,0.071,26,reviewed,us,us
+2024-09-05T15:51:29.960Z,19.4983,-64.415,71,3.93,md,11,310,1.1022,0.32,pr,pr2024249001,2024-09-05T16:46:55.525Z,"135 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.23,13.72,0.16,8,reviewed,pr,pr
 2024-09-05T15:50:33.915Z,60.0777,-153.5221,166.4,2.2,ml,,,,0.48,ak,ak024bg21pgz,2024-09-05T16:22:49.040Z,"45 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-05T15:28:58.088Z,-32.8304,-178.9542,38.057,5.2,mb,31,124,3.666,1.11,us,us6000npv3,2024-09-05T15:46:55.040Z,"south of the Kermadec Islands",earthquake,9.09,6.164,0.066,78,reviewed,us,us
 2024-09-05T15:21:40.800Z,32.8660011,-116.8593369,-0.2,1.08,ml,14,124,0.0273,0.27,ci,ci40725655,2024-09-05T15:27:29.513Z,"6 km E of Lakeside, CA",earthquake,0.78,1.7,0.185,7,automatic,ci,ci
@@ -217,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T21:31:11.403Z,37.7369,-117.1402,8.3,3.1,ml,24,114.78,0.196,0.187,nn,nn00883977,2024-09-04T23:33:22.522Z,"8 km ENE of Goldfield, Nevada",earthquake,,2,0.28,9,reviewed,nn,nn
 2024-09-04T21:30:41.150Z,19.3706665039062,-155.18733215332,2.19000005722046,1.72,ml,24,126,0.01914,0.230000004,hv,hv74441716,2024-09-04T21:33:34.610Z,"9 km SSE of Volcano, Hawaii",earthquake,0.65,0.479999989,0.25,3,automatic,hv,hv
 2024-09-04T21:30:36.558Z,37.737,-117.1427,8.6,2.9,ml,23,94.32,0.194,0.2149,nn,nn00883951,2024-09-04T23:32:12.092Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.7,0.15,7,reviewed,nn,nn
-2024-09-04T21:26:14.060Z,45.791666666666664,-122.384,-0.47,1.76,ml,8,271,0.1308,0.34,uw,uw62043661,2024-09-05T16:45:16.840Z,"3 km ENE of Venersborg, Washington",explosion,1.84,31.61,0.1569075173991038,3,reviewed,uw,uw
+2024-09-04T21:26:14.060Z,45.791666666666664,-122.384,-0.47,1.76,ml,8,271,0.1308,0.34,uw,uw62043661,2024-09-05T16:46:08.553Z,"3 km ENE of Venersborg, Washington",explosion,1.84,31.61,0.1569075173991038,3,reviewed,uw,uw
 2024-09-04T21:18:55.883Z,31.606,-103.96,8.3429,2.9,ml,26,49,0,0.1,tx,tx2024rkxm,2024-09-05T05:05:15.066Z,"35 km WSW of Mentone, Texas",earthquake,0.4101209480818926,0.486814880226869,0.2,14,reviewed,tx,tx
 2024-09-04T21:18:13.408Z,60.6329,-144.9524,28.8,2,ml,,,,0.74,ak,ak024behw23g,2024-09-04T21:19:57.352Z,"45 km ENE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-04T21:12:34.020Z,45.090666666666664,-122.54416666666667,-0.43,1.74,ml,4,148,0.09153,0.14,uw,uw62043656,2024-09-05T16:36:43.600Z,"6 km SSE of Molalla, Oregon",explosion,0.46,31.61,0.048932864417622346,4,reviewed,uw,uw
