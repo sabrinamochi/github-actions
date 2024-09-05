@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-05T19:05:33.360Z,34.1351667,-117.0338333,6.69,1.06,ml,44,67,0.0606,0.13,ci,ci40725943,2024-09-05T19:11:44.848Z,"11 km SE of Running Springs, CA",earthquake,0.15,0.39,0.124,5,automatic,ci,ci
 2024-09-05T18:27:45.180Z,33.5151667,-116.5048333,11.91,0.81,ml,40,52,0.04754,0.18,ci,ci40725927,2024-09-05T18:34:05.801Z,"16 km ESE of Anza, CA",earthquake,0.2,0.41,0.158,28,automatic,ci,ci
 2024-09-05T18:25:19.460Z,36.4118333,-117.921,-0.65,1.71,ml,20,83,0.1679,0.19,ci,ci40725911,2024-09-05T18:31:44.496Z,"16 km NNE of Olancha, CA",earthquake,0.52,1.43,0.158,20,automatic,ci,ci
 2024-09-05T18:20:41.330Z,33.75,-117.1106667,1.4,1.14,ml,51,35,0.04064,0.21,ci,ci40725903,2024-09-05T18:27:06.434Z,"3 km WNW of Green Acres, CA",earthquake,0.19,0.35,0.198,37,automatic,ci,ci
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T03:11:45.730Z,37.0543327331543,-121.497001647949,8.21000003814697,1.59,md,20,90,0.05583,0.19,nc,nc75057546,2024-09-05T05:39:24.561Z,"8 km ENE of Gilroy, CA",earthquake,0.48,1.35000002,0.23,18,automatic,nc,nc
 2024-09-05T02:57:03.932Z,48.5055,154.4504,65.355,4.5,mb,59,128,5.047,0.57,us,us6000npsh,2024-09-05T03:32:59.040Z,"270 km SSW of Severo-Kuril’sk, Russia",earthquake,11.25,7.757,0.078,48,reviewed,us,us
 2024-09-05T02:55:59.056Z,37.7401,-117.1441,6.9,2.3,ml,26,114.46,0.194,0.1651,nn,nn00884055,2024-09-05T18:56:50.005Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.6,0.3,10,reviewed,nn,nn
-2024-09-05T02:55:33.935Z,37.7671,-117.1134,3.2,2.1,ml,20,181.73000000000002,0.562,0.28,nn,nn00884053,2024-09-05T02:58:07.767Z,"12 km ENE of Goldfield, Nevada",earthquake,,9.9,0.24,14,automatic,nn,nn
+2024-09-05T02:55:34.355Z,37.7416,-117.1419,8.4,2,ml,19,117.01,0.196,0.1735,nn,nn00884053,2024-09-05T19:09:09.988Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.7,0.22,7,reviewed,nn,nn
 2024-09-05T02:41:52.320Z,34.4206667,-116.4638333,7.62,1.29,ml,37,52,0.1345,0.13,ci,ci40725303,2024-09-05T02:54:08.068Z,"34 km N of Yucca Valley, CA",earthquake,0.14,0.52,0.185,27,automatic,ci,ci
 2024-09-05T02:39:28.824Z,37.7679,-117.2389,14.1,0.4,ml,8,335.65,0.747,0.2863,nn,nn00884051,2024-09-05T02:42:04.956Z,"6 km N of Goldfield, Nevada",earthquake,,2.4,0.11,4,automatic,nn,nn
 2024-09-05T02:35:54.770Z,19.3945007324219,-155.240005493164,-1.0900000333786,1.99,ml,10,192,0.02055,0.300000012,hv,hv74442101,2024-09-05T02:38:51.900Z,"5 km S of Volcano, Hawaii",earthquake,1.52,1.20000005,0.37,13,automatic,hv,hv
@@ -290,6 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T19:26:14.034Z,37.7083,-116.9852,6,0.6,ml,8,183.06,0.679,0.1614,nn,nn00883925,2024-09-04T19:28:30.455Z,"22 km E of Goldfield, Nevada",earthquake,,0,0.15,3,automatic,nn,nn
 2024-09-04T19:14:05.050Z,43.20433333333333,-123.65283333333333,-0.62,1.03,md,3,300,0.1742,0.11,uw,uw62043606,2024-09-04T20:09:16.630Z,"13 km WNW of Lookingglass, Oregon",explosion,1.05,31.61,0.24909708554182375,2,reviewed,uw,uw
 2024-09-04T19:12:33.060Z,38.7948341369629,-122.810501098633,3.27999997138977,0.74,md,8,91,0.008715,0.01,nc,nc75057386,2024-09-04T20:09:23.519Z,"5 km NW of The Geysers, CA",earthquake,0.49,1.53999996,0.18,9,automatic,nc,nc
-2024-09-04T19:09:53.050Z,38.7944984436035,-122.811500549316,3.64000010490417,0.28,md,5,183,0.009022,0,nc,nc75057381,2024-09-04T19:57:14.441Z,"5 km WNW of The Geysers, CA",earthquake,1.32,2.8599999,0.04,8,automatic,nc,nc
-2024-09-04T19:09:18.739Z,-10.76,165.8972,99.097,5.3,mww,105,41,6.004,0.52,us,us6000npqs,2024-09-04T19:28:03.040Z,"11 km ESE of Lata, Solomon Islands",earthquake,7.82,3.714,0.083,14,reviewed,us,us
-2024-09-04T19:03:29.650Z,38.504,-112.881833333333,2.12,0.42,md,9,98,0.00448,0.06,uu,uu80081376,2024-09-04T22:10:44.060Z,"16 km NE of Milford, Utah",earthquake,0.46,0.55,0.150192936809828,3,reviewed,uu,uu
