@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-06T12:07:06.270Z,38.6981658935547,-119.597831726074,-1.95000004768372,3.72,ml,88,95,,0.28,nc,nc75058116,2024-09-06T12:24:40.970Z,"17 km E of Markleeville, CA",earthquake,0.34,1.10000002,0.32,39,reviewed,nc,nc
+2024-09-06T12:29:03.600Z,35.8743324,-117.7203369,9.58,1.47,ml,13,91,0.07495,0.12,ci,ci40726471,2024-09-06T12:31:10.704Z,"18 km ESE of Little Lake, CA",earthquake,0.41,1.14,0.818,11,automatic,ci,ci
+2024-09-06T12:07:06.270Z,38.6981658935547,-119.597831726074,-1.95000004768372,3.72,ml,88,95,,0.28,nc,nc75058116,2024-09-06T12:27:59.790Z,"17 km E of Markleeville, CA",earthquake,0.34,1.10000002,0.32,39,reviewed,nc,nc
 2024-09-06T12:02:59.310Z,67.3462,-156.655,0,2.2,ml,,,,0.74,ak,ak024bhniipd,2024-09-06T12:09:32.032Z,"49 km NNE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-06T11:53:39.580Z,35.9425,-117.6855,4.85,0.97,ml,22,67,0.029,0.15,ci,ci40726447,2024-09-06T11:59:33.675Z,"20 km E of Little Lake, CA",earthquake,0.18,0.34,0.153,14,automatic,ci,ci
 2024-09-06T11:41:16.480Z,33.1806667,-116.419,12.2,0.95,ml,57,31,0.08731,0.19,ci,ci40726431,2024-09-06T11:47:26.688Z,"9 km SSW of Borrego Springs, CA",earthquake,0.17,0.48,0.176,24,automatic,ci,ci
@@ -142,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T21:08:30.732Z,37.7815,-117.1021,3,1.1,ml,12,184.45999999999998,0.562,0.3369,nn,nn00884155,2024-09-05T21:11:05.624Z,"14 km NE of Goldfield, Nevada",earthquake,,19.8,0.14,7,automatic,nn,nn
 2024-09-05T21:05:42.580Z,46.87766666666667,-121.94566666666667,9.16,0.58,ml,19,108,0.01197,0.1,uw,uw62043846,2024-09-05T23:08:05.220Z,"14 km NNE of Ashford, Washington",earthquake,0.34,0.37,0.10791595769251339,11,reviewed,uw,uw
 2024-09-05T21:02:11.160Z,41.5876666666667,-112.415,6.56,0.77,md,5,120,0.126,0.13,uu,uu80081561,2024-09-05T21:08:21.260Z,"15 km SW of Thatcher, Utah",earthquake,0.72,2.69,0.206671069990389,5,reviewed,uu,uu
-2024-09-05T20:58:28.607Z,60.6767,-148.259,18.7,2.8,ml,,,,0.68,ak,ak024bg52kss,2024-09-05T21:00:33.166Z,"25 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-05T20:58:28.607Z,60.6767,-148.259,18.7,2.8,ml,,,,0.68,ak,ak024bg52kss,2024-09-06T12:29:49.040Z,"25 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-05T20:53:30.490Z,38.836498260498,-122.798835754395,2.4300000667572,0.75,md,14,66,0.006901,0.02,nc,nc75057896,2024-09-05T20:55:08.729Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.870000005,0.26,15,automatic,nc,nc
 2024-09-05T20:50:39.460Z,46.99066666666667,-122.223,-0.54,0.99,ml,10,293,0.00474,0.16,uw,uw62043841,2024-09-05T23:12:12.020Z,"0 km NNE of Kapowsin, Washington",explosion,0.71,31.61,0.09917581539467812,8,reviewed,uw,uw
 2024-09-05T20:46:56.885Z,63.2208,-148.5731,43.6,3.5,ml,,,,0.84,ak,ak024bg502ak,2024-09-05T20:59:58.408Z,"26 km SE of Cantwell, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -248,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T12:46:34.440Z,19.1366666666667,-155.3405,26.4,1.38,md,21,232,0.1139,0.11,hv,hv74442661,2024-09-05T21:10:59.570Z,"16 km ESE of Pāhala, Hawaii",earthquake,0.68,0.76,0.108171767285326,6,reviewed,hv,hv
 2024-09-05T12:33:02.770Z,33.8751667,-116.3176667,3.58,1.3,ml,51,40,0.07079,0.2,ci,ci40725575,2024-09-05T12:44:04.940Z,"9 km NE of Thousand Palms, CA",earthquake,0.19,0.67,0.222,12,automatic,ci,ci
 2024-09-05T12:32:27.419Z,65.8812,-152.2179,4.1,1.3,ml,,,,0.33,ak,ak024bg05j91,2024-09-05T12:34:36.936Z,"76 km SSE of New Allakaket, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-05T12:29:53.860Z,61.0378,-149.8284,38.8,1.6,ml,,,,0.55,ak,ak024bg04y56,2024-09-05T12:32:30.067Z,"16 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-05T12:28:12.560Z,34.0798333,-118.1941667,11.22,1,ml,22,108,0.04471,0.14,ci,ci40725567,2024-09-05T18:59:12.230Z,"4 km S of Highland Park, CA",earthquake,0.25,0.45,0.196,13,reviewed,ci,ci
