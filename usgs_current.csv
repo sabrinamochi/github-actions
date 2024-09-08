@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-08T15:49:04.680Z,34.0248337,-117.5898361,5.54,1.43,ml,46,76,0.01673,0.15,ci,ci40728359,2024-09-08T15:51:08.111Z,"5 km SE of Ontario, CA",earthquake,0.26,0.31,0.204,13,automatic,ci,ci
+2024-09-08T15:49:04.650Z,34.0243333,-117.5915,5.51,1.41,ml,72,25,0.01582,0.16,ci,ci40728359,2024-09-08T15:59:40.740Z,"5 km SE of Ontario, CA",earthquake,0.12,0.19,0.148,27,automatic,ci,ci
 2024-09-08T15:45:11.410Z,36.1171684,-117.8528366,4.03,0.78,ml,15,117,0.001689,0.15,ci,ci40728351,2024-09-08T15:48:40.215Z,"12 km NE of Coso Junction, CA",earthquake,0.43,0.5,0.043,8,automatic,ci,ci
 2024-09-08T15:42:04.307Z,37.7855,-117.0937,2.9,0.9,ml,9,185.58999999999997,0.566,0.2947,nn,nn00884331,2024-09-08T15:44:16.252Z,"15 km NE of Goldfield, Nevada",earthquake,,962.9,0.36,6,automatic,nn,nn
 2024-09-08T15:40:23.746Z,37.7704,-117.1137,2.3,0.9,ml,15,182.15000000000003,0.56,0.2695,nn,nn00884329,2024-09-08T15:42:57.671Z,"12 km ENE of Goldfield, Nevada",earthquake,,19.6,0.28,6,automatic,nn,nn
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:53:25.794Z,-10.7908,166.2272,199.809,5.3,mb,49,59,6.327,0.68,us,us6000nqh7,2024-09-08T15:06:46.040Z,"47 km E of Lata, Solomon Islands",earthquake,7.19,8.596,0.063,86,reviewed,us,us
 2024-09-08T14:46:17.237Z,58.8462,-154.4192,110.1,1.7,ml,,,,0.32,ak,ak024bl01f6j,2024-09-08T14:48:25.123Z,"69 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-08T14:42:11.570Z,19.1886672973633,-155.480331420898,27.7199993133545,1.88999999,md,21,160,0.09212,0.119999997,hv,hv74448401,2024-09-08T14:43:57.250Z,"1 km S of Pāhala, Hawaii",earthquake,0.66,0.920000017,0.330000013,3,automatic,hv,hv
-2024-09-08T14:42:10.050Z,38.7868347167969,-122.736167907715,1.48000001907349,1.31,md,21,85,0.003619,0.04,nc,nc75059251,2024-09-08T15:09:25.919Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.409999996,0.19,24,automatic,nc,nc
+2024-09-08T14:42:10.050Z,38.7868347167969,-122.736167907715,1.48000001907349,1.31,md,21,85,0.003619,0.04,nc,nc75059251,2024-09-08T15:57:17.260Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.409999996,0.19,24,automatic,nc,nc
 2024-09-08T14:35:58.670Z,37.6858,-117.0946,1.6,1.3,ml,15,282.77,0.407,0.3349,nn,nn00884328,2024-09-08T14:38:26.924Z,"12 km ESE of Goldfield, Nevada",earthquake,,25.7,0.24,8,automatic,nn,nn
 2024-09-08T14:30:37.389Z,61.4385,-150.0064,31.2,1.2,ml,,,,0.63,ak,ak024bkzy1a2,2024-09-08T14:33:33.196Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-08T14:22:19.800Z,35.8763333,-117.7171667,10.21,0.81,ml,21,50,0.07795,0.13,ci,ci40728311,2024-09-08T14:28:06.394Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.4,0.202,10,automatic,ci,ci
@@ -270,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T16:17:29.727Z,62.9365,-149.5646,64.6,1.5,ml,,,,0.38,ak,ak024bjdir3g,2024-09-07T16:19:16.380Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-07T16:12:35.831Z,25.5607,140.9128,174.506,4.7,mb,53,121,1.908,1.06,us,us6000nqb9,2024-09-07T16:27:14.040Z,"Volcano Islands, Japan region",earthquake,11.4,7.665,0.04,186,reviewed,us,us
 2024-09-07T16:02:55.890Z,46.19533333333333,-122.17866666666667,7.01,-0.09,ml,8,100,0.006799,0.2,uw,uw62044211,2024-09-07T17:10:23.750Z,"37 km NNE of Amboy, Washington",earthquake,0.72,1.14,0.04996512838290053,3,reviewed,uw,uw
-2024-09-07T15:57:29.910Z,38.7723350524902,-122.747169494629,-0.0299999993294477,0.69,md,8,83,0.01361,0.02,nc,nc75058786,2024-09-07T15:59:05.381Z,"1 km SE of The Geysers, CA",earthquake,0.27,0.850000024,0.37,9,automatic,nc,nc
