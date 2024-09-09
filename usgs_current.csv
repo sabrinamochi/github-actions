@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-09T11:28:28.730Z,33.1846657,-115.6083298,1.95,1.77,ml,19,97,0.009438,0.14,ci,ci40728863,2024-09-09T11:30:41.960Z,"10 km SW of Niland, CA",earthquake,0.37,0.28,0.462,15,automatic,ci,ci
+2024-09-09T11:28:22.161Z,37.4935,-116.8274,3.1,1.1,ml,15,236.28,0.359,0.2903,nn,nn00884414,2024-09-09T11:30:43.739Z,"43 km ESE of Goldfield, Nevada",earthquake,,10.2,0.22,11,automatic,nn,nn
+2024-09-09T11:27:13.841Z,37.7358,-117.0915,4.4,1.2,ml,18,155.7,0.594,0.4426,nn,nn00884411,2024-09-09T11:31:05.081Z,"13 km ENE of Goldfield, Nevada",earthquake,,4.7,0.28,10,automatic,nn,nn
 2024-09-09T11:24:57.830Z,33.1865005,-115.6159973,1.99,1.99,ml,22,83,0.006456,0.21,ci,ci40728855,2024-09-09T11:27:08.084Z,"11 km WSW of Niland, CA",earthquake,0.42,0.34,0.315,25,automatic,ci,ci
-2024-09-09T11:24:45.240Z,33.1933327,-115.6060028,1.74,1.42,ml,17,98,0.01722,0.15,ci,ci40728847,2024-09-09T11:26:49.938Z,"10 km WSW of Niland, CA",earthquake,0.84,0.34,0.346,9,automatic,ci,ci
+2024-09-09T11:24:45.200Z,33.1938333,-115.6021667,2.09,1.28,ml,23,97,0.01985,0.18,ci,ci40728847,2024-09-09T11:30:58.794Z,"9 km WSW of Niland, CA",earthquake,0.32,0.25,0.224,28,automatic,ci,ci
 2024-09-09T11:22:56.783Z,31.584,-104.323,4.2879,2,ml,17,83,0.1,0.1,tx,tx2024rthh,2024-09-09T11:27:51.896Z,"58 km WNW of Toyah, Texas",earthquake,0,1.43800961971283,0.2,13,automatic,tx,tx
 2024-09-09T11:15:05.058Z,61.8349,-149.6592,39.5,1.2,ml,,,,0.58,ak,ak024bmllsq1,2024-09-09T11:17:11.246Z,"22 km ENE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-09T11:13:31.517Z,37.7511,-117.1232,3.2,0.7,ml,10,178.89999999999998,0.565,0.2007,nn,nn00884410,2024-09-09T11:15:52.752Z,"10 km ENE of Goldfield, Nevada",earthquake,,636.6,0.32,6,automatic,nn,nn
@@ -220,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T14:05:04.947Z,61.2386,-147.824,0,1.7,ml,,,,0.63,ak,ak024bkzslvi,2024-09-08T14:07:17.105Z,"63 km ESE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-08T14:04:35.510Z,63.3147,-145.0644,0,1.2,ml,,,,0.64,ak,ak024bkzsgin,2024-09-08T14:06:25.879Z,"37 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-08T13:49:30.912Z,56.528,-157.34,83.1,2.7,ml,,,,0.34,ak,ak024bkzgns3,2024-09-08T16:56:10.040Z,"70 km ENE of Chignik, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2024-09-08T13:49:07.740Z,38.8409996032715,-122.823165893555,2.07999992370605,1.2,md,19,66,0.009919,0.02,nc,nc75059241,2024-09-08T14:24:26.622Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.1,22,automatic,nc,nc
+2024-09-08T13:49:07.740Z,38.8409996032715,-122.823165893555,2.07999992370605,1.2,md,19,66,0.009919,0.02,nc,nc75059241,2024-09-08T15:34:25.089Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.469999999,0.1,22,automatic,nc,nc
 2024-09-08T13:48:39.010Z,38.8429985046387,-122.823997497559,1.57000005245209,0.22,md,8,109,0.009995,0.01,nc,nc75059236,2024-09-08T15:09:26.013Z,"9 km WNW of Cobb, CA",earthquake,0.4,1.05999994,0.1,7,automatic,nc,nc
 2024-09-08T13:47:47.200Z,33.5831667,-116.8065,8.47,0.48,ml,28,56,0.03692,0.12,ci,ci40728295,2024-09-08T13:53:47.987Z,"13 km WNW of Anza, CA",earthquake,0.18,0.37,0.191,12,automatic,ci,ci
 2024-09-08T13:46:33.290Z,33.8825,-116.0111667,7.79,0.73,ml,33,82,0.1183,0.14,ci,ci40728287,2024-09-08T14:39:32.656Z,"26 km NE of Indio, CA",earthquake,0.19,0.76,0.13,9,reviewed,ci,ci
@@ -240,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T12:04:10.298Z,-20.3263,-69.3902,111.381,4.5,mb,29,67,0.289,1.01,us,us6000nqgi,2024-09-09T05:00:25.123Z,"27 km E of La Tirana, Chile",earthquake,4.9,3.809,0.089,37,reviewed,us,us
 2024-09-08T11:57:10.926Z,63.1921,-153.6369,6.7,1.3,ml,,,,0.82,ak,ak024bkybgr8,2024-09-08T11:59:30.927Z,"42 km ENE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-08T11:52:44.059Z,60.5677,-141.7439,7.7,2.3,ml,,,,0.8,ak,ak024bkyagqd,2024-09-08T11:54:35.606Z,"115 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-08T11:31:08.769Z,59.5957,-153.0126,100.9,1.4,ml,,,,0.38,ak,ak024bky5vz0,2024-09-08T11:33:43.532Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
