@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-10T22:23:07.950Z,38.8236656188965,-122.843330383301,1.64999997615814,0.76,md,9,140,0.006507,0.02,nc,nc75060216,2024-09-10T22:24:41.878Z,"9 km NW of The Geysers, CA",earthquake,0.55,0.75,0.27,11,automatic,nc,nc
 2024-09-10T22:14:34.070Z,40.3014984130859,-124.328498840332,15.7600002288818,1.8,md,10,224,0.06152,0.06,nc,nc75060211,2024-09-10T22:16:12.017Z,"5 km WSW of Petrolia, CA",earthquake,1.02,0.99000001,0.12,8,automatic,nc,nc
 2024-09-10T22:10:20.360Z,33.1381667,-116.6501667,4.71,1.81,ml,79,23,0.06087,0.21,ci,ci40730247,2024-09-10T22:21:19.400Z,"8 km NW of Julian, CA",earthquake,0.14,0.4,0.238,26,automatic,ci,ci
 2024-09-10T22:01:20.964Z,-55.7692,-26.1845,10,5,mb,37,105,6.11,0.67,us,us7000ncyh,2024-09-10T22:15:45.040Z,"South Sandwich Islands region",earthquake,12.57,1.918,0.096,35,reviewed,us,us
@@ -29,7 +30,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T18:48:20.420Z,35.0863333,-119.1311667,11.83,1.8,ml,31,104,0.0477,0.2,ci,ci40730079,2024-09-10T18:55:03.255Z,"24 km NW of Grapevine, CA",earthquake,0.26,0.58,0.136,24,automatic,ci,ci
 2024-09-10T18:40:59.011Z,61.5985,-146.0193,38.7,1.8,ml,,,,0.42,ak,ak024bodgnil,2024-09-10T18:42:36.171Z,"45 km W of Tonsina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-10T18:40:43.722Z,61.1789,-148.3465,86.8,2.6,ml,,,,0.66,ak,ak024bodgmc4,2024-09-10T18:50:56.708Z,"43 km SE of Knik River, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2024-09-10T18:32:52.668Z,36.6922,-115.8934,0.8,0.4,ml,8,260.93000000000006,0.063,0.2186,nn,nn00884506,2024-09-10T18:35:05.056Z,"24 km NW of Indian Springs, Nevada",earthquake,,9.1,0.27,7,automatic,nn,nn
 2024-09-10T18:31:08.170Z,38.7818336486816,-122.727668762207,2.34999990463257,1.55,md,20,85,0.007216,0.05,nc,nc75060126,2024-09-10T21:24:22.515Z,"3 km E of The Geysers, CA",earthquake,0.32,0.50999999,0.18,24,automatic,nc,nc
 2024-09-10T18:28:36.560Z,35.0518333,-118.3483333,0.47,1.07,ml,24,48,0.06134,0.19,ci,ci40730047,2024-09-10T18:35:03.566Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.54,0.215,14,automatic,ci,ci
 2024-09-10T18:27:31.100Z,19.1919994354248,-155.489837646484,31.9599990844727,1.88,ml,50,75,0.04485,0.119999997,hv,hv74449847,2024-09-10T18:30:24.370Z,"1 km SW of Pāhala, Hawaii",earthquake,0.42,0.550000012,0.17,3,automatic,hv,hv
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T05:25:35.820Z,40.5446666666667,-121.990166666667,11.8,1.58,md,18,110,0.1255,0.24,nc,nc75059881,2024-09-10T17:07:54.096Z,"10 km NW of Shingletown, CA",earthquake,0.58,1.41,0.261,14,reviewed,nc,nc
 2024-09-10T05:11:06.322Z,-8.6042,124.2656,119.184,4.8,mww,52,46,2.006,0.83,us,us6000nqtv,2024-09-10T05:35:03.040Z,"67 km N of Pante Makasar, Timor Leste",earthquake,9.2,6.845,0.103,9,reviewed,us,us
 2024-09-10T05:00:22.989Z,40.0049,-120.5705,11.3,0.9,ml,4,299.2,0.213,0.2472,nn,nn00884490,2024-09-10T14:20:19.680Z,"16 km NNW of Lake Davis, California",earthquake,,6.1,0.23,4,reviewed,nn,nn
-2024-09-10T04:59:06.853Z,-30.5091,-176.8139,10,5,mb,24,168,1.571,0.69,us,us6000nqtr,2024-09-10T05:15:41.040Z,"Kermadec Islands region",earthquake,4.8,1.978,0.126,20,reviewed,us,us
+2024-09-10T04:59:11.161Z,-30.4529,-177.576,10,5,mb,48,135,1.224,0.67,us,us6000nqtr,2024-09-10T22:24:36.040Z,"Kermadec Islands, New Zealand",earthquake,10.17,1.652,0.105,29,reviewed,us,us
 2024-09-10T04:52:42.170Z,33.6361667,-116.7488333,15.95,0.47,ml,27,59,0.04424,0.12,ci,ci40729551,2024-09-10T14:29:03.648Z,"11 km NW of Anza, CA",earthquake,0.2,0.39,0.318,9,reviewed,ci,ci
 2024-09-10T04:45:41.477Z,62.7394,-151.162,77.1,1.6,ml,,,,0.78,ak,ak024bo55m9v,2024-09-10T04:48:23.199Z,"33 km NW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-10T04:39:28.630Z,33.9986667,-116.8586667,15.8,1.3,ml,57,40,0.05577,0.16,ci,ci40729543,2024-09-10T14:29:56.050Z,"8 km NNE of Banning, CA",earthquake,0.15,0.41,0.191,27,reviewed,ci,ci
