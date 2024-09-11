@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-11T19:04:57.640Z,34.8533325,-118.7866669,0.38,1.49,ml,21,54,0.07699,0.19,ci,ci40731039,2024-09-11T19:11:18.312Z,"7 km E of Lebec, CA",earthquake,0.39,0.73,0.173,8,automatic,ci,ci
 2024-09-11T18:57:46.390Z,19.3866672515869,-155.279830932617,1.5,1.96000004,md,10,129,0.001784,0.140000001,hv,hv74451202,2024-09-11T18:59:09.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.41,0.449999988,0.349999994,7,automatic,hv,hv
 2024-09-11T18:54:59.730Z,19.1606674194336,-155.490997314453,31.8400001525879,2.01999998,md,21,207,0.08758,0.119999997,hv,hv74451192,2024-09-11T18:56:42.820Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.91,0.860000014,0.389999986,4,automatic,hv,hv
 2024-09-11T18:53:23.115Z,37.7393,-117.1411,0,1.7,ml,12,176.05,0.561,0.3296,nn,nn00884550,2024-09-11T18:55:51.838Z,"9 km ENE of Goldfield, Nevada",earthquake,,72,0.27,8,automatic,nn,nn
 2024-09-11T18:53:13.887Z,60.197,-152.4139,94.9,1.3,ml,,,,0.35,ak,ak024bq12ou4,2024-09-11T18:54:58.238Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-11T18:50:24.943Z,62.0386,-149.5828,33.4,1.1,ml,,,,0.84,ak,ak024bq122k6,2024-09-11T18:57:02.414Z,"19 km SE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-11T18:46:57.019Z,-15.3291,167.9586,13.11,5.1,mb,59,49,6.259,0.73,us,us7000nd4v,2024-09-11T19:05:59.040Z,"88 km ENE of Luganville, Vanuatu",earthquake,5.55,4.134,0.075,57,reviewed,us,us
 2024-09-11T18:21:53.880Z,38.7999992370605,-122.776832580566,2.90000009536743,0.77,md,8,108,0.01358,0.02,nc,nc75060541,2024-09-11T18:52:13.627Z,"3 km NNW of The Geysers, CA",earthquake,0.43,1.47000003,0.07,10,automatic,nc,nc
 2024-09-11T18:17:58.223Z,-15.2656,168.1311,12.845,5.8,mww,141,28,6.404,1.03,us,us7000nd4s,2024-09-11T18:50:22.811Z,"107 km ENE of Luganville, Vanuatu",earthquake,8.16,4.229,0.071,19,reviewed,us,us
 2024-09-11T18:13:56.710Z,38.7916679382324,-122.776496887207,1.82000005245209,1.12,md,23,79,0.009052,0.04,nc,nc75060536,2024-09-11T18:44:26.564Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.15,22,automatic,nc,nc
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T16:53:11.680Z,38.8586654663086,-122.978164672852,3.63000011444092,1.35,md,18,144,0.02834,0.02,nc,nc75060511,2024-09-11T18:09:30.324Z,"7 km NE of Cloverdale, CA",earthquake,0.49,0.660000026,0.15,18,automatic,nc,nc
 2024-09-11T16:46:04.677Z,-3.2728,146.36,10,6.3,mww,79,62,1.582,1.25,us,us7000nd4f,2024-09-11T18:55:38.666Z,"170 km SW of Lorengau, Papua New Guinea",earthquake,6.73,1.861,0.062,25,reviewed,us,us
 2024-09-11T16:44:22.280Z,63.299,-151.1213,0,1.7,ml,,,,0.63,ak,ak024bpztwtw,2024-09-11T16:46:23.111Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-11T16:39:36.220Z,33.3665,-116.3723333,10.6,1.08,ml,48,41,0.0399,0.17,ci,ci40730951,2024-09-11T16:45:55.711Z,"12 km N of Borrego Springs, CA",earthquake,0.18,0.35,0.19,29,automatic,ci,ci
+2024-09-11T16:39:36.240Z,33.3671667,-116.3716667,10.38,1.08,ml,43,42,0.04051,0.2,ci,ci40730951,2024-09-11T19:08:55.665Z,"12 km N of Borrego Springs, CA",earthquake,0.22,0.46,0.139,19,reviewed,ci,ci
 2024-09-11T16:23:07.040Z,38.5893325805664,-122.791999816895,6.53000020980835,1.23,md,9,111,0.07115,0.03,nc,nc75060506,2024-09-11T17:34:33.090Z,"5 km NE of Windsor, CA",earthquake,0.38,1.37,0.01,5,automatic,nc,nc
 2024-09-11T16:18:04.938Z,61.6335,-148.0124,9.1,1.6,ml,,,,1.1,ak,ak024bpzoavh,2024-09-11T16:20:16.176Z,"27 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-11T16:12:02.659Z,-27.7992,-179.7537,419.573,4.6,mb,50,74,2.157,0.9,us,us7000nd3i,2024-09-11T16:28:33.040Z,"Kermadec Islands region",earthquake,13.81,8.439,0.058,87,reviewed,us,us
@@ -110,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T07:38:20.042Z,59.3159,-155.5778,218.2,1.7,ml,,,,0.38,ak,ak024bpufpx0,2024-09-11T07:40:27.274Z,"18 km E of Igiugig, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-09-11T07:38:18.521Z,59.8436,-153.4913,141.8,1.9,ml,,,,0.3,ak,ak024bpufpss,2024-09-11T07:40:04.069Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T07:29:51.510Z,19.2476673126221,-155.468673706055,32.3300018310547,1.95000005,md,19,155,0.068,0.129999995,hv,hv74450422,2024-09-11T07:31:30.070Z,"5 km NNE of Pāhala, Hawaii",earthquake,1.47,0.790000021,0.170000002,5,automatic,hv,hv
-2024-09-11T07:27:59.742Z,31.1773,70.6295,10,5.4,mb,102,51,3.326,1.13,us,us7000nd1m,2024-09-11T18:34:52.602Z,"31 km W of Karor, Pakistan",earthquake,3.74,1.825,0.039,225,reviewed,us,us
+2024-09-11T07:27:59.742Z,31.1773,70.6295,10,5.4,mb,102,51,3.326,1.13,us,us7000nd1m,2024-09-11T19:10:45.318Z,"31 km W of Karor, Pakistan",earthquake,3.74,1.825,0.039,225,reviewed,us,us
 2024-09-11T06:42:06.480Z,33.8873333,-116.8913333,12.84,0.68,ml,23,98,0.0948,0.12,ci,ci40730527,2024-09-11T17:23:54.387Z,"4 km SSW of Banning, CA",earthquake,0.23,0.55,0.154,8,reviewed,ci,ci
 2024-09-11T06:39:13.700Z,36.5795,-115.9608,13.3,-0.3,ml,15,244.73999999999995,0.082,0.0487,nn,nn00884531,2024-09-11T14:17:58.257Z,"25 km W of Indian Springs, Nevada",earthquake,,1.9,0.1,7,reviewed,nn,nn
 2024-09-11T06:38:24.019Z,35.836,-96.84716667,7.49,1.1,ml,53,48,0.1610683929,0.17,ok,ok2024rwox,2024-09-11T12:42:44.923Z,"6 km SSE of Agra, Oklahoma",earthquake,,0.4,0.22,19,reviewed,ok,ok
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T19:42:18.699Z,34.73016667,-98.427,0,1.37,ml,27,90,0.2681473803,0.59,ok,ok2024rvth,2024-09-11T13:48:31.135Z,"6 km E of Medicine Park, Oklahoma",quarry blast,,1.1,0.23,12,reviewed,ok,ok
 2024-09-10T19:29:49.340Z,19.11549949646,-155.363327026367,28.2999992370605,2.1099999,md,17,238,0.1015,0.0900000036,hv,hv74449887,2024-09-10T19:31:30.330Z,"15 km SE of Pāhala, Hawaii",earthquake,1.12,0.889999986,0.449999988,5,automatic,hv,hv
 2024-09-10T19:24:35.312Z,61.1836,-146.8924,8.3,1.4,ml,,,,0.38,ak,ak024bodylu3,2024-09-10T19:26:07.327Z,"29 km W of Valdez, Alaska",earthquake,,5,,,automatic,ak,ak
-2024-09-10T19:10:36.206Z,64.9778,-147.4354,0,1.1,ml,,,,0.74,ak,ak024bodvlwb,2024-09-10T19:13:00.729Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
