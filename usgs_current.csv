@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-11T16:23:07.040Z,38.5893325805664,-122.791999816895,6.53000020980835,1.23,md,9,111,0.07115,0.03,nc,nc75060506,2024-09-11T16:24:41.259Z,"5 km NE of Windsor, CA",earthquake,0.38,1.37,0.01,5,automatic,nc,nc
+2024-09-11T16:18:04.938Z,61.6335,-148.0124,9.1,1.6,ml,,,,1.1,ak,ak024bpzoavh,2024-09-11T16:20:16.176Z,"27 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-11T16:11:49.188Z,62.2231,-150.5209,35,1.8,ml,,,,0.78,ak,ak024bpzmu5r,2024-09-11T16:14:29.848Z,"18 km SW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-09-11T16:03:26.260Z,38.7929992675781,-122.778335571289,1.48000001907349,1.04,md,17,78,0.00749,0.02,nc,nc75060491,2024-09-11T16:05:02.134Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.28,17,automatic,nc,nc
+2024-09-11T16:03:26.260Z,38.7929992675781,-122.778335571289,1.48000001907349,1.04,md,17,78,0.00749,0.02,nc,nc75060491,2024-09-11T16:22:14.576Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.479999989,0.28,17,automatic,nc,nc
 2024-09-11T15:38:05.000Z,38.49,-112.876333333333,0.21,0.48,md,10,124,0.005911,0.07,uu,uu80082161,2024-09-11T16:03:01.390Z,"15 km NE of Milford, Utah",earthquake,0.27,0.56,0.266943671160558,3,reviewed,uu,uu
 2024-09-11T15:30:46.220Z,38.8281669616699,-122.864669799805,2.5699999332428,0.62,md,11,130,0.006122,0.02,nc,nc75060486,2024-09-11T16:14:23.525Z,"11 km NW of The Geysers, CA",earthquake,0.47,1.11000001,0.34,12,automatic,nc,nc
 2024-09-11T15:09:37.290Z,57.473,-155.2621,66.6,2.1,ml,,,,0.3,ak,ak024bpz10bl,2024-09-11T15:11:35.337Z,"49 km WSW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -32,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T12:44:51.011Z,62.9268,-149.6212,61.9,1.9,ml,,,,0.65,ak,ak024bpxg8ki,2024-09-11T12:46:40.397Z,"58 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T12:36:35.323Z,61.7647,-151.6016,84.9,0.8,ml,,,,0.42,ak,ak024bpxehos,2024-09-11T12:38:34.221Z,"27 km SSW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-11T12:23:52.100Z,33.5801667,-116.8071667,8.9,0.76,ml,42,43,0.0384,0.16,ci,ci40730703,2024-09-11T13:41:51.870Z,"13 km WNW of Anza, CA",earthquake,0.17,0.39,0.176,24,reviewed,ci,ci
-2024-09-11T12:05:32.490Z,33.5873333,-116.8051667,8.19,0.56,ml,22,70,0.03486,0.16,ci,ci40730687,2024-09-11T12:11:23.557Z,"13 km WNW of Anza, CA",earthquake,0.28,0.51,0.216,10,automatic,ci,ci
+2024-09-11T12:05:32.450Z,33.5865,-116.8038333,8.42,0.62,ml,24,71,0.03393,0.15,ci,ci40730687,2024-09-11T16:18:43.029Z,"13 km WNW of Anza, CA",earthquake,0.26,0.49,0.201,9,reviewed,ci,ci
 2024-09-11T12:03:43.480Z,19.1641674041748,-155.513336181641,30.25,2.16000009,md,52,119,0.0492,0.140000001,hv,hv74450677,2024-09-11T12:05:24.940Z,"5 km SW of Pāhala, Hawaii",earthquake,0.52,0.839999974,0.270000011,23,automatic,hv,hv
 2024-09-11T11:57:35.621Z,60.1841,-147.2792,8.8,1.4,ml,,,,1.15,ak,ak024bpwxk56,2024-09-11T11:59:37.461Z,"42 km ENE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-11T11:53:15.250Z,19.2021675109863,-155.479995727539,31.7199993133545,1.85000002,md,36,89,0.04934,0.109999999,hv,hv74450662,2024-09-11T11:54:55.620Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.57,0.709999979,0.289999992,3,automatic,hv,hv
@@ -219,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T16:34:26.878Z,32.733,-100.672,2.124,2.8,ml,23,80,0.1,0.2,tx,tx2024rvnc,2024-09-10T20:35:29.040Z,"13 km NE of Hermleigh, Texas",earthquake,0.9086511050798567,1.5824826173017856,0.1,18,reviewed,tx,tx
 2024-09-10T16:32:35.673Z,60.5109,-143.7477,2,1.7,ml,,,,0.4,ak,ak024boc80rz,2024-09-10T16:33:57.976Z,"110 km E of Cordova, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2024-09-10T16:28:17.010Z,59.3581666666667,-153.4405,-0.29,-0.9,ml,6,125,0.00494,0.11,av,av93258988,2024-09-11T07:22:54.870Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.19,0.11,0.222440106389446,6,reviewed,av,av
-2024-09-10T16:26:22.150Z,36.7050018310547,-121.219833374023,9.14999961853027,2.23,md,28,115,0.03152,0.09,nc,nc75060061,2024-09-10T17:59:36.035Z,"13 km SSE of Tres Pinos, CA",earthquake,0.32,0.639999986,0.18,27,automatic,nc,nc
-2024-09-10T16:22:48.936Z,31.667,-104.351,6.9714,1.5,ml,28,57,0.1,0.2,tx,tx2024rvms,2024-09-11T12:50:56.134Z,"56 km S of Whites City, New Mexico",earthquake,0.6940056986438378,1.2594613304797566,0.1,18,reviewed,tx,tx
-2024-09-10T16:21:59.940Z,46.20283333333333,-122.18966666666667,6.31,0.16,ml,14,68,0.003164,0.06,uw,uw62044951,2024-09-10T18:28:39.310Z,"38 km NNE of Amboy, Washington",earthquake,0.27,0.45,0.03565195760534129,4,reviewed,uw,uw
-2024-09-10T16:17:51.320Z,33.5013333,-116.5083333,13.53,0.45,ml,24,64,0.05913,0.1,ci,ci40729935,2024-09-10T16:23:49.553Z,"16 km ESE of Anza, CA",earthquake,0.18,0.39,0.07,10,automatic,ci,ci
