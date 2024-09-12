@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-12T00:24:53.450Z,19.3724994659424,-155.171997070312,1.8400000333786,1.79,ml,28,80,0.04109,0.200000003,hv,hv74451682,2024-09-12T00:27:46.900Z,"10 km SE of Volcano, Hawaii",earthquake,0.49,0.560000002,0.2,5,automatic,hv,hv
 2024-09-12T00:14:50.620Z,19.380500793457,-155.174499511719,1.87000000476837,2.06,ml,33,74,0.03928,0.219999999,hv,hv74451672,2024-09-12T00:17:43.020Z,"9 km SE of Volcano, Hawaii",earthquake,0.45,0.639999986,0.34,9,automatic,hv,hv
-2024-09-12T00:14:42.225Z,19.4185,-66.2843,12.642,4.4,mb,40,139,1.096,0.8,us,us7000nd6z,2024-09-12T00:28:35.040Z,"105 km N of Brenas, Puerto Rico",earthquake,3.76,4.53,0.117,21,reviewed,us,us
+2024-09-12T00:14:42.225Z,19.4185,-66.2843,12.642,4.4,mb,40,139,1.096,0.8,us,us7000nd6z,2024-09-12T00:31:53.420Z,"105 km N of Brenas, Puerto Rico",earthquake,3.76,4.53,0.117,21,reviewed,us,us
 2024-09-12T00:07:57.309Z,61.5492,-148.4631,22.1,0.8,ml,,,,0.32,ak,ak024brdmguq,2024-09-12T00:09:39.401Z,"25 km ENE of Knik River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T23:57:11.580Z,33.7091667,-116.8146667,17.3,0.64,ml,21,91,0.08366,0.1,ci,ci40731255,2024-09-12T00:03:19.795Z,"8 km ESE of Valle Vista, CA",earthquake,0.3,0.39,0.208,15,automatic,ci,ci
 2024-09-11T23:50:05.410Z,60.6121,-151.178,40.3,1.7,ml,,,,0.67,ak,ak024bq41725,2024-09-11T23:52:58.367Z,"7 km E of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -164,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T09:48:56.175Z,62.9034,-150.5751,79.6,1.4,ml,,,,0.56,ak,ak024bpvoszs,2024-09-11T09:51:04.759Z,"46 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-11T09:48:36.260Z,36.6549987792969,-121.302001953125,5.3899998664856,1.44,md,8,75,0.04521,0.18,nc,nc75060406,2024-09-11T10:22:17.036Z,"15 km S of Tres Pinos, CA",earthquake,0.74,2.01999998,0.22,6,automatic,nc,nc
 2024-09-11T09:44:30.310Z,47.3645,-113.9425,16.33,0.85,ml,12,76,0.1499,0.06,mb,mb90061133,2024-09-11T21:20:40.540Z,"12 km ENE of Saint Ignatius, Montana",earthquake,0.3,0.41,0.166550421187256,5,reviewed,mb,mb
+2024-09-11T09:36:54.120Z,19.0223333333333,-155.372666666667,37.13,1.63,md,25,273,0.1571,0.11,hv,hv74450532,2024-09-12T00:30:57.570Z,"22 km ESE of Naalehu, Hawaii",earthquake,0.77,0.83,0.0624030565294287,7,reviewed,hv,hv
 2024-09-11T09:20:32.665Z,58.8008,-156.1085,166.7,1.8,ml,,,,1.22,ak,ak024bpvir7m,2024-09-11T09:23:12.614Z,"34 km ENE of King Salmon, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-11T09:15:51.100Z,47.70016666666667,-121.85333333333334,21.54,1.07,ml,32,73,0.06271,0.14,uw,uw62045086,2024-09-11T16:50:11.040Z,"4 km E of Lake Marcel-Stillwater, Washington",earthquake,0.25,0.41,0.11855273903209351,10,reviewed,uw,uw
 2024-09-11T09:09:56.900Z,38.7924995422363,-122.807662963867,2.8199999332428,1.68,md,32,79,0.0055,0.04,nc,nc75060401,2024-09-11T09:49:26.814Z,"5 km WNW of The Geysers, CA",earthquake,0.23,0.379999995,0.15,33,automatic,nc,nc
