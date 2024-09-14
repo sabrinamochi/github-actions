@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-14T05:00:17.360Z,19.3463325500488,-155.136993408203,3.99000000953674,1.8,ml,40,116,0.03985,0.230000004,hv,hv74458611,2024-09-14T05:03:11.400Z,"13 km S of Fern Forest, Hawaii",earthquake,0.48,1.63999999,1.37,3,automatic,hv,hv
+2024-09-14T04:55:00.398Z,43.3642,-126.908,10,2.8,ml,21,274,1.578,0.99,us,us7000ndr0,2024-09-14T05:23:34.040Z,"204 km W of Bandon, Oregon",earthquake,8.85,2.015,0.037,98,reviewed,us,us
 2024-09-14T04:50:30.750Z,35.0885,-119.1055,11.64,1.03,ml,19,127,0.03474,0.21,ci,ci40733327,2024-09-14T04:56:48.339Z,"23 km NW of Grapevine, CA",earthquake,0.5,0.62,0.1,13,automatic,ci,ci
+2024-09-14T04:46:07.123Z,42.7119,142.6005,110.211,4.4,mb,60,94,0.809,0.6,us,us7000ndqy,2024-09-14T05:18:49.040Z,"35 km SSE of Shimukappu, Japan",earthquake,7.96,5.219,0.066,67,reviewed,us,us
 2024-09-14T04:45:51.860Z,38.8408317565918,-122.824333190918,1.67999994754791,1.17,md,11,94,0.008994,0.01,nc,nc75061611,2024-09-14T05:09:23.489Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.779999971,0.23,12,automatic,nc,nc
 2024-09-14T04:43:16.517Z,62.1501,-148.1117,34.6,1.5,ml,,,,0.39,ak,ak024buraiw3,2024-09-14T04:44:41.321Z,"43 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-14T04:37:05.014Z,28.524,-98.438,5.4303,2.5,ml,27,85,0.1,0.7,tx,tx2024sbxm,2024-09-14T04:50:37.040Z,"12 km ENE of Tilden, Texas",earthquake,0,1.82638153667767,0.1,21,automatic,tx,tx
+2024-09-14T04:37:05.753Z,28.549,-98.443,5.1034,2.5,ml,28,63,0.1,1.2,tx,tx2024sbxm,2024-09-14T05:19:59.827Z,"14 km NE of Tilden, Texas",earthquake,0,1.57250398523162,0.1,22,automatic,tx,tx
 2024-09-14T04:35:09.820Z,36.4425,-118.3741667,12.36,1.64,ml,10,317,0.294,0.13,ci,ci40733319,2024-09-14T04:41:17.475Z,"32 km WSW of Lone Pine, CA",earthquake,9.11,1.26,0.193,14,automatic,ci,ci
 2024-09-14T04:34:52.120Z,37.4275016784668,-118.490501403809,6.96999979019165,2.57,md,32,181,0.2568,0.05,nc,nc75061606,2024-09-14T04:54:26.382Z,"8 km NNW of West Bishop, CA",earthquake,0.52,2.75,0.16,26,automatic,nc,nc
 2024-09-14T04:11:29.260Z,36.0898323,-117.8346634,2.46,0.74,ml,10,163,0.03216,0.07,ci,ci40733303,2024-09-14T04:14:59.344Z,"11 km ENE of Coso Junction, CA",earthquake,0.52,0.38,0.247,8,automatic,ci,ci
@@ -87,6 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T20:36:15.940Z,38.8255004882812,-122.793334960938,0.00999999977648258,1.09,md,13,43,0.0131,0.04,nc,nc75061451,2024-09-13T20:52:20.950Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.569999993,0.11,14,automatic,nc,nc
 2024-09-13T20:26:56.655Z,60.2271,-140.3623,12.6,1.7,ml,,,,0.91,ak,ak024btd6k01,2024-09-13T20:28:39.749Z,"83 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-13T20:26:35.119Z,36.01166667,-96.53383333,0,1.16,ml,24,109,0.1709664506,0.23,ok,ok2024sbhg,2024-09-13T21:35:19.674Z,"6 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.21,12,reviewed,ok,ok
+2024-09-13T20:21:27.950Z,58.171,-155.364,1.75,0.51,ml,12,77,0.04349,0.09,av,av93264058,2024-09-14T05:18:32.640Z,"86 km NW of Karluk, Alaska",earthquake,0.17,0.37,0.227428811936973,12,reviewed,av,av
 2024-09-13T20:16:10.140Z,34.5516667,-118.2041667,12.72,1.01,ml,25,82,0.05388,0.12,ci,ci40733055,2024-09-13T20:22:35.277Z,"9 km N of Acton, CA",earthquake,0.2,0.34,0.253,30,automatic,ci,ci
 2024-09-13T20:02:27.350Z,36.6453,-116.3444,4.3,-0.3,ml,18,170.90999999999997,0.005,0.0821,nn,nn00884659,2024-09-14T02:38:37.257Z,"47 km SE of Beatty, Nevada",earthquake,,0.9,0.34,6,reviewed,nn,nn
 2024-09-13T20:00:37.540Z,34.0486667,-118.8065,11.09,1.61,ml,27,97,0.02531,0.22,ci,ci40733039,2024-09-13T20:07:13.516Z,"5 km N of Malibu, CA",earthquake,0.36,0.4,0.198,38,automatic,ci,ci
