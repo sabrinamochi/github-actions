@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-14T05:56:10.180Z,19.3413333892822,-155.132171630859,1.27999997138977,1.8,ml,36,184,0.04376,0.379999995,hv,hv74458726,2024-09-14T05:59:06.360Z,"13 km S of Fern Forest, Hawaii",earthquake,0.75,0.819999993,0.31,5,automatic,hv,hv
-2024-09-14T05:55:57.690Z,35.3111649,-118.5384979,5.05,1.47,ml,21,111,0.1467,0.11,ci,ci40733391,2024-09-14T05:58:13.204Z,"22 km NNW of Tehachapi, CA",earthquake,0.26,1.86,0.228,12,automatic,ci,ci
+2024-09-14T05:55:57.600Z,35.3145,-118.533,3.08,1.22,ml,29,69,0.1522,0.13,ci,ci40733391,2024-09-14T06:02:25.974Z,"22 km NNW of Tehachapi, CA",earthquake,0.17,0.7,0.228,19,automatic,ci,ci
 2024-09-14T05:52:46.880Z,19.4270000457764,-155.279663085938,7.8899998664856,1.99000001,md,27,88,0.01019,0.300000012,hv,hv74458716,2024-09-14T05:54:23.860Z,"5 km WSW of Volcano, Hawaii",earthquake,0.57,0.649999976,0.170000002,12,automatic,hv,hv
 2024-09-14T05:50:33.610Z,32.9379997,-116.3444977,11.7,1.45,ml,21,85,0.06503,0.16,ci,ci40733375,2024-09-14T05:56:57.940Z,"22 km NE of Pine Valley, CA",earthquake,0.41,1.39,0.537,13,automatic,ci,ci
 2024-09-14T05:50:22.579Z,60.3384,-152.4755,103,1.5,ml,,,,0.37,ak,ak024burxgz5,2024-09-14T05:52:06.076Z,"55 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-14T05:40:02.440Z,35.0693333,-119.091,12.02,1.2,ml,33,95,0.01223,0.17,ci,ci40733367,2024-09-14T05:46:27.836Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.46,0.19,22,automatic,ci,ci
+2024-09-14T05:39:22.720Z,31.678,-104.427,7.052,1.8,ml,16,53,0,0.3,tx,tx2024sbzm,2024-09-14T06:00:42.091Z,"55 km S of Whites City, New Mexico",earthquake,0,2.58528733253479,0.2,12,automatic,tx,tx
 2024-09-14T05:29:53.490Z,34.0213333,-117.5936667,5.88,1.85,ml,100,21,0.01638,0.17,ci,ci40733359,2024-09-14T05:42:39.542Z,"5 km SE of Ontario, CA",earthquake,0.1,0.3,0.188,26,automatic,ci,ci
 2024-09-14T05:28:00.080Z,58.2669,-154.9683,0,0.7,ml,,,,0.37,ak,ak024bursphk,2024-09-14T05:30:44.800Z,"83 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2024-09-14T05:23:44.940Z,35.072,-119.091,12.1,1.24,ml,32,95,0.01462,0.2,ci,ci40733343,2024-09-14T05:30:16.964Z,"20 km NW of Grapevine, CA",earthquake,0.26,0.52,0.173,25,automatic,ci,ci
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T22:36:42.300Z,44.598,-123.4645,-0.51,1.94,ml,19,68,0.09892,0.22,uw,uw62037832,2024-09-13T23:18:42.890Z,"4 km E of Blodgett, Oregon",explosion,0.37,31.61,0.18917698120272952,17,reviewed,uw,uw
 2024-09-13T22:30:36.589Z,36.5857,-116.1896,3,-0.3,ml,13,302.99,0.103,0.0344,nn,nn00884660,2024-09-14T02:44:46.598Z,"45 km NNW of Pahrump, Nevada",earthquake,,1.8,0.2,4,reviewed,nn,nn
 2024-09-13T22:26:21.280Z,40.4819984436035,-124.220169067383,22.2600002288818,2.02,md,12,169,0.09973,0.1,nc,nc75061506,2024-09-14T01:12:13.850Z,"10 km W of Rio Dell, CA",earthquake,0.96,0.74000001,0.08,11,automatic,nc,nc
-2024-09-13T22:15:47.900Z,37.4098333333333,-121.759166666667,9.33,3.37,ml,167,30,0.05207,0.12,nc,nc75061501,2024-09-14T05:55:48.767Z,"8 km ENE of Alum Rock, CA",earthquake,0.09,0.26,0.194,125,reviewed,nc,nc
+2024-09-13T22:15:47.900Z,37.4098333333333,-121.759166666667,9.33,3.37,ml,167,30,0.05207,0.12,nc,nc75061501,2024-09-14T06:01:01.547Z,"8 km ENE of Alum Rock, CA",earthquake,0.09,0.26,0.194,125,reviewed,nc,nc
 2024-09-13T22:06:38.120Z,38.7746658325195,-122.725830078125,0.949999988079071,0.76,md,9,85,0.01207,0.04,nc,nc75061496,2024-09-13T22:29:29.667Z,"3 km ESE of The Geysers, CA",earthquake,0.34,0.589999974,0.16,7,automatic,nc,nc
 2024-09-13T22:01:48.348Z,17.8831,119.6505,10,4.6,mb,71,113,5.089,0.72,us,us7000ndp1,2024-09-13T22:52:30.040Z,"78 km WNW of Puro Pinget, Philippines",earthquake,4.58,1.907,0.073,56,reviewed,us,us
 2024-09-13T21:59:59.504Z,-9.3209,110.3426,10,4.7,mb,42,57,2.259,1.38,us,us7000ndns,2024-09-13T22:21:32.040Z,"151 km S of Pundong, Indonesia",earthquake,6.19,1.649,0.098,32,reviewed,us,us
@@ -121,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T18:51:47.774Z,-6.4131,148.7031,77.104,4.7,mb,82,106,3.342,0.81,us,us7000ndmk,2024-09-13T19:33:25.040Z,"96 km E of Finschhafen, Papua New Guinea",earthquake,8.82,7.029,0.066,75,reviewed,us,us
 2024-09-13T18:51:10.010Z,19.3851661682129,-155.245666503906,1.3400000333786,1.76999998,md,18,70,0.005338,0.180000007,hv,hv74457601,2024-09-13T18:52:55.580Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.159999996,0.219999999,17,automatic,hv,hv
 2024-09-13T18:50:50.014Z,61.686,-150.5472,36.5,1.5,ml,,,,0.26,ak,ak024btc4tgp,2024-09-13T18:52:11.468Z,"15 km N of Susitna, Alaska",earthquake,,9.8,,,automatic,ak,ak
+2024-09-13T18:41:43.920Z,46.5335,-122.2755,9.94,0.37,ml,9,162,0.09712,0.06,uw,uw62037747,2024-09-14T06:01:59.540Z,"2 km S of Morton, Washington",earthquake,0.32,1.44,0.15571799079263324,4,reviewed,uw,uw
 2024-09-13T18:37:25.180Z,33.9771667,-116.688,7.31,1.98,ml,82,41,0.06966,0.17,ci,ci40732903,2024-09-13T18:52:34.378Z,"11 km NE of Cabazon, CA",earthquake,0.11,0.47,0.152,26,automatic,ci,ci
 2024-09-13T18:30:16.630Z,33.3893333,-116.4171667,11.53,1.53,ml,73,18,0.07518,0.18,ci,ci40732895,2024-09-13T18:52:34.099Z,"15 km NNW of Borrego Springs, CA",earthquake,0.14,0.45,0.198,26,automatic,ci,ci
 2024-09-13T18:29:54.200Z,31.5125,86.5605,17.731,4.9,mb,116,35,3.864,0.65,us,us7000ndmh,2024-09-13T19:20:35.040Z,"274 km NNE of Saga, China",earthquake,9.07,4.046,0.051,129,reviewed,us,us
