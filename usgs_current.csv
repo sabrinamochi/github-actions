@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-16T12:49:57.370Z,46.849334716796875,-121.75816345214844,0.600000023841858,1.52999997,md,23,69,,0.0500000007,uw,uw62038467,2024-09-16T12:51:34.500Z,"23 km ENE of Ashford, Washington",earthquake,0.25,0.720000029,1.51999998,2,automatic,uw,uw
 2024-09-16T12:43:03.103Z,38.2131,-117.9698,4.6,1.8,ml,12,109.11999999999999,0.018,0.3159,nn,nn00884739,2024-09-16T12:45:56.652Z,"23 km SSE of Mina, Nevada",earthquake,,0.4,0.51,6,automatic,nn,nn
 2024-09-16T12:30:14.812Z,31.675,-104.439,4.6525,1.6,ml,16,55,0,0.4,tx,tx2024sgeb,2024-09-16T12:45:40.465Z,"55 km S of Whites City, New Mexico",earthquake,0,1.34171509742737,0.1,12,automatic,tx,tx
 2024-09-16T12:26:39.460Z,19.2709999084473,-155.408996582031,30.9599990844727,1.99,ml,58,75,0.03505,0.140000001,hv,hv74464407,2024-09-16T12:29:33.280Z,"10 km NE of Pāhala, Hawaii",earthquake,0.38,0.460000008,0.5,10,automatic,hv,hv
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T11:36:34.890Z,17.1528,147.1872,32.887,6.3,mww,126,33,2.328,1.11,us,us7000ne84,2024-09-16T12:39:18.446Z,"263 km NE of Saipan, Northern Mariana Islands",earthquake,7.86,4.103,0.051,37,reviewed,us,us
 2024-09-16T11:33:25.952Z,38.5655,-119.4842,0,1.3,ml,10,150.96000000000004,0.219,0.1338,nn,nn00884728,2024-09-16T11:35:44.850Z,"1 km E of Coleville, California",earthquake,,29.7,0.28,4,automatic,nn,nn
 2024-09-16T11:28:12.780Z,32.6968333,-115.3878333,7.8,1.52,ml,19,64,0.08082,0.23,ci,ci40734831,2024-09-16T11:39:11.483Z,"9 km ENE of Mexicali, B.C., MX",earthquake,0.31,1.21,0.133,17,automatic,ci,ci
-2024-09-16T11:22:08.340Z,34.0678329,-118.8069992,10.55,3.58,mlr,136,87,0.03444,0.31,ci,ci40734823,2024-09-16T12:50:40.395Z,"7 km N of Malibu, CA",earthquake,0.36,0.55,0.231,20,reviewed,ci,ci
+2024-09-16T11:22:08.340Z,34.0678329,-118.8069992,10.55,3.58,mlr,136,87,0.03444,0.31,ci,ci40734823,2024-09-16T12:55:56.938Z,"7 km N of Malibu, CA",earthquake,0.36,0.55,0.231,20,reviewed,ci,ci
 2024-09-16T11:15:49.400Z,37.7111663818359,-119.420501708984,4.6100001335144,2.1,md,23,128,0.2819,0.08,nc,nc75062591,2024-09-16T12:01:57.417Z,"14 km ESE of Yosemite Valley, CA",earthquake,0.59,8.64999962,0.17,20,automatic,nc,nc
 2024-09-16T11:06:44.690Z,19.3701667785645,-155.165664672852,2.85999989509583,2.84,ml,56,88,0.0407,0.300000012,hv,hv74464237,2024-09-16T11:09:38.010Z,"10 km SE of Volcano, Hawaii",earthquake,0.46,0.939999998,0.4,40,automatic,hv,hv
 2024-09-16T10:43:52.299Z,60.6142,-146.9,21.3,1.8,ml,,,,0.48,ak,ak024by5xw9p,2024-09-16T10:45:51.370Z,"30 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -300,7 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T13:17:46.843Z,61.0628,-148.3729,0.3,0.8,ml,,,,0.43,ak,ak024bwk19jw,2024-09-15T13:18:58.342Z,"36 km NNE of Whittier, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-09-15T13:17:31.371Z,-17.5249,-69.5669,155.08,4.5,mb,28,103,0.105,0.67,us,us7000ne1v,2024-09-15T14:18:16.040Z,"47 km E of Estique, Peru",earthquake,6.74,5.194,0.135,16,reviewed,us,us
 2024-09-15T13:08:09.082Z,1.3376,118.4614,10.649,5.5,mww,58,67,2.331,0.74,us,us7000ne1t,2024-09-15T15:11:35.420Z,"171 km NE of Bontang, Indonesia",earthquake,6.44,4.629,0.062,25,reviewed,us,us
-2024-09-15T12:57:31.740Z,33.5038333,-116.4501667,5.31,0.54,ml,31,71,0.08616,0.17,ci,ci40734199,2024-09-15T14:39:09.903Z,"22 km ESE of Anza, CA",earthquake,0.19,0.8,0.14,9,reviewed,ci,ci
-2024-09-15T12:57:07.870Z,19.3964996337891,-155.149002075195,2.60999989509583,1.76999998,md,19,143,0.02508,0.370000005,hv,hv74460982,2024-09-15T12:58:45.970Z,"7 km S of Fern Forest, Hawaii",earthquake,2.61,2.04999995,0.349999994,8,automatic,hv,hv
-2024-09-15T12:54:48.470Z,33.713,-116.8226667,14.96,0.43,ml,22,87,0.0854,0.14,ci,ci40734191,2024-09-15T14:39:32.093Z,"8 km ESE of Valle Vista, CA",earthquake,0.37,0.57,0.214,10,reviewed,ci,ci
-2024-09-15T12:53:47.370Z,19.3776664733887,-155.157165527344,2.90000009536743,1.81,ml,46,87,0.01159,0.280000001,hv,hv74460977,2024-09-15T12:56:42.140Z,"9 km SSW of Fern Forest, Hawaii",earthquake,0.62,0.74000001,0.38,9,automatic,hv,hv
