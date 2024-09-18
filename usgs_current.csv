@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-18T18:58:06.500Z,35.868,-117.661499,7.4,1.4,ml,18,125,0.08024,0.15,ci,ci40737103,2024-09-18T19:00:09.913Z,"23 km ESE of Little Lake, CA",earthquake,0.39,1.17,0.204,6,automatic,ci,ci
+2024-09-18T18:56:06.014Z,66.2635,-150.0136,0,1.2,ml,,,,0.37,ak,ak024c1luqu9,2024-09-18T18:59:03.316Z,"50 km NW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-18T18:50:54.170Z,37.550666809082,-121.837669372559,10.4899997711182,1.49,md,11,84,0.04219,0.04,nc,nc75063576,2024-09-18T18:52:33.374Z,"8 km SSE of Sunol, CA",earthquake,0.39,0.569999993,0.01,9,automatic,nc,nc
-2024-09-18T18:48:47.520Z,33.1648331,-115.623497,7.07,1.64,ml,28,82,0.01422,0.21,ci,ci40737079,2024-09-18T18:50:51.900Z,"11 km WNW of Calipatria, CA",earthquake,0.39,1.03,0.439,20,automatic,ci,ci
+2024-09-18T18:48:47.430Z,33.1676667,-115.6408333,2.56,1.59,ml,35,56,0.02174,0.21,ci,ci40737079,2024-09-18T18:55:22.930Z,"13 km WNW of Calipatria, CA",earthquake,0.21,0.29,0.154,28,automatic,ci,ci
 2024-09-18T18:44:11.496Z,38.8824,-119.6549,1.7,1.2,ml,8,195.10000000000002,0.211,0.2333,nn,nn00884824,2024-09-18T18:46:16.416Z,"2 km NNW of Carter Springs, Nevada",earthquake,,11.3,0.2,4,automatic,nn,nn
 2024-09-18T18:41:50.673Z,64.4302,-147.62,11.1,0.7,ml,,,,0.79,ak,ak024c1lrmjf,2024-09-18T18:43:49.235Z,"36 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-18T18:29:49.340Z,34.1645,-117.9321667,14.1,1.92,ml,75,28,0.03686,0.21,ci,ci40737055,2024-09-18T18:48:26.947Z,"4 km ENE of Bradbury, CA",earthquake,0.16,0.35,0.233,27,automatic,ci,ci
@@ -136,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T02:47:05.186Z,63.918,-148.7831,90.2,1.4,ml,,,,0.58,ak,ak024c1c9vna,2024-09-18T02:49:06.602Z,"11 km NE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-18T02:41:06.703Z,-7.237,107.5697,10,5,mww,75,37,0.238,0.83,us,us6000nsu0,2024-09-18T14:42:25.411Z,"15 km ESE of Banjar, Indonesia",earthquake,2.76,1.773,0.11,8,reviewed,us,us
 2024-09-18T02:25:59.030Z,38.8141670227051,-122.83032989502,1.03999996185303,0.34,md,11,81,0.005367,0.01,nc,nc75063326,2024-09-18T02:27:37.659Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.600000024,0.25,11,automatic,nc,nc
+2024-09-18T02:20:42.160Z,46.212833333333336,-122.17266666666667,7.58,0.01,ml,13,99,0.003689,0.1,uw,uw62047296,2024-09-18T18:53:36.580Z,"39 km SSE of Morton, Washington",earthquake,0.34,0.43,0.11337733127505707,4,reviewed,uw,uw
 2024-09-18T02:19:39.860Z,19.43,-155.260166666667,0.73,1.86,ml,33,109,0.007665,0.09,hv,hv74468352,2024-09-18T04:12:55.247Z,"3 km WSW of Volcano, Hawaii",earthquake,0.13,0.16,0.260049944352769,19,reviewed,hv,hv
 2024-09-18T02:18:37.130Z,34.0626667,-118.8101667,10.23,1.94,ml,55,95,0.03337,0.27,ci,ci40736463,2024-09-18T17:32:52.298Z,"6 km N of Malibu, CA",earthquake,0.26,0.44,0.158,62,reviewed,ci,ci
 2024-09-18T02:17:55.970Z,19.4305000305176,-155.261001586914,-0.540000021457672,1.81,ml,15,149,0.007165,0.140000001,hv,hv74468347,2024-09-18T04:13:13.497Z,"3 km WSW of Volcano, Hawaii",earthquake,0.2,0.270000011,0.49,4,automatic,hv,hv
@@ -221,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T19:02:35.642Z,32.418,-102.055,5.542,1.2,ml,11,81,0,0.1,tx,tx2024simu,2024-09-18T15:58:36.910Z,"34 km WSW of Ackerly, Texas",earthquake,1.407387706715759,1.6567106991778637,0.2,6,reviewed,tx,tx
 2024-09-17T19:02:11.372Z,59.2533,-152.6756,69.3,1.9,ml,,,,0.54,ak,ak024bzyl9ox,2024-09-17T19:04:15.331Z,"44 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-17T19:01:43.340Z,46.0131666666667,-112.454333333333,-2,1.49,ml,10,88,0.07136,0.12,mb,mb90061658,2024-09-17T19:42:48.760Z,"6 km E of Butte, Montana",quarry blast,0.46,31.61,0.290939131553345,17,reviewed,mb,mb
-2024-09-17T19:00:07.517Z,63.2792,-145.1208,0,1.7,ml,,,,1.09,ak,ak024bzyktyn,2024-09-17T19:02:13.335Z,"32 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-17T18:54:29.580Z,19.3785,-155.166833333333,2.44,1.59,ml,20,125,0.002509,0.12,hv,hv74467907,2024-09-17T20:45:35.000Z,"10 km SE of Volcano, Hawaii",earthquake,0.57,0.28,0.254166805508623,8,reviewed,hv,hv
-2024-09-17T18:53:21.580Z,40.3911666666667,-125.089166666667,10,3.22,ml,133,231,0.5798,0.28,nc,nc75063166,2024-09-18T15:22:55.040Z,"69 km WNW of Petrolia, CA",earthquake,0.8,31.61,0.199,42,reviewed,nc,nc
