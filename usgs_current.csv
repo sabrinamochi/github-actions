@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-20T16:29:09.010Z,38.8401679992676,-122.831001281738,0.779999971389771,0.27,md,7,112,0.01566,0.01,nc,nc75064431,2024-09-20T16:30:46.658Z,"10 km NNW of The Geysers, CA",earthquake,0.34,1.15999997,0.18,8,automatic,nc,nc
 2024-09-20T16:08:39.760Z,19.1828327178955,-155.490997314453,29.3600006103516,1.91999996,md,29,85,0.03859,0.150000006,hv,hv74471157,2024-09-20T16:10:08.490Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.6,0.850000024,0.180000007,5,automatic,hv,hv
 2024-09-20T16:00:37.208Z,62.5697,-150.2554,63.8,1.4,ml,,,,0.56,ak,ak024c4vemx4,2024-09-20T16:02:27.613Z,"15 km NNW of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-20T15:27:32.852Z,65.7358,-147.3572,3.4,1,ml,,,,0.53,ak,ak024c4uyzb9,2024-09-20T15:29:41.709Z,"59 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-20T15:15:02.330Z,33.1315,-116.5246667,11.91,0.99,ml,46,33,0.07925,0.19,ci,ci40739847,2024-09-20T16:27:02.873Z,"9 km NE of Julian, CA",earthquake,0.22,0.54,0.113,27,reviewed,ci,ci
+2024-09-20T15:15:02.330Z,33.1315,-116.5246667,11.91,0.99,ml,46,33,0.07925,0.19,ci,ci40739847,2024-09-20T16:27:58.480Z,"9 km NE of Julian, CA",earthquake,0.22,0.54,0.113,27,reviewed,ci,ci
 2024-09-20T15:09:30.170Z,33.2498333,-116.2491667,9.53,0.81,ml,31,37,0.05713,0.15,ci,ci40739839,2024-09-20T15:15:26.752Z,"12 km E of Borrego Springs, CA",earthquake,0.21,0.39,0.115,12,automatic,ci,ci
 2024-09-20T14:47:06.531Z,-6.8902,155.405,71.098,4.7,mb,35,94,5.16,0.57,us,us6000ntae,2024-09-20T15:11:28.040Z,"64 km S of Panguna, Papua New Guinea",earthquake,11.22,7.65,0.067,68,reviewed,us,us
 2024-09-20T14:43:06.101Z,61.0849,-147.8529,14.4,0.9,ml,,,,1.04,ak,ak024c4ugx3m,2024-09-20T14:44:53.604Z,"56 km NE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T23:52:24.920Z,47.46383333333333,-122.3605,22.23,1.23,ml,20,71,0.3305,0.12,uw,uw62047916,2024-09-20T16:25:54.290Z,"1 km SW of Burien, Washington",earthquake,0.27,1.33,0.08962428194672345,8,reviewed,uw,uw
 2024-09-19T23:50:54.163Z,60.6738,-151.6054,77.6,1,ml,,,,0.16,ak,ak024c3cc1bp,2024-09-20T00:03:14.311Z,"16 km WNW of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-09-19T23:45:58.968Z,-17.9845,-174.4576,104.307,4.6,mb,22,101,4.433,0.59,us,us6000nt6a,2024-09-20T00:06:45.040Z,"89 km NW of Neiafu, Tonga",earthquake,10.26,6.197,0.109,25,reviewed,us,us
-2024-09-19T23:40:50.830Z,34.2513333,-117.5196667,9.07,1.92,ml,14,83,0.03537,0.09,ci,ci40739287,2024-09-19T23:47:39.908Z,"2 km WSW of Lytle Creek, CA",earthquake,0.19,0.33,0.34,27,automatic,ci,ci
+2024-09-19T23:40:50.840Z,34.254,-117.5185,9.21,0.68,ml,16,82,0.03594,0.11,ci,ci40739287,2024-09-20T16:34:30.585Z,"2 km WSW of Lytle Creek, CA",earthquake,0.23,0.36,0.122,7,reviewed,ci,ci
 2024-09-19T23:29:28.880Z,32.7243333,-116.0043333,10.35,1.37,ml,37,55,0.02637,0.16,ci,ci40739271,2024-09-19T23:39:59.860Z,"2 km SW of Ocotillo, CA",earthquake,0.18,0.33,0.184,25,automatic,ci,ci
 2024-09-19T23:29:22.990Z,19.3576666666667,-155.077333333333,3.89,1.68,ml,29,167,0.04459,0.2,hv,hv74470562,2024-09-20T00:32:44.510Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.62,1.7,0.271355280322746,9,reviewed,hv,hv
 2024-09-19T23:28:44.228Z,38.6627,-117.1217,0,1.1,ml,6,182.79000000000002,0.425,0.0491,nn,nn00884886,2024-09-19T23:41:12.359Z,"60 km S of Kingston, Nevada",explosion,,0,0.28,4,reviewed,nn,nn
@@ -172,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T16:50:18.060Z,47.684,-122.2385,28.05,1.6300000000000001,ml,39,60,0.128,0.17,uw,uw62047751,2024-09-19T20:43:55.910Z,"2 km W of Kirkland, Washington",earthquake,0.29,0.68,0.15554827794628867,21,reviewed,uw,uw
 2024-09-19T16:49:23.359Z,28.583,-98.417,5.7617,1.5,ml,15,65,0.1,0.3,tx,tx2024slzd,2024-09-20T13:13:50.262Z,"18 km NE of Tilden, Texas",earthquake,1.667199532386798,2.14995539622664,0.3,12,reviewed,tx,tx
 2024-09-19T16:42:31.347Z,32.408,-102.067,8.8379,2,ml,30,86,0,0.1,tx,tx2024slyw,2024-09-19T18:42:05.796Z,"35 km WSW of Ackerly, Texas",earthquake,0.4412974422443711,0.4677121021568384,0.2,25,reviewed,tx,tx
-2024-09-19T16:35:58.159Z,36.25133333,-95.22083333,0,1.18,ml,18,132,0.1772652145,0.43,ok,ok2024slyr,2024-09-20T14:06:42.012Z,"2 km ENE of Sportsmen Acres, Oklahoma",quarry blast,,0.7,0.24,7,reviewed,ok,ok
-2024-09-19T16:29:39.539Z,34.38183333,-96.85533333,0,1.1,ml,15,81,0.224955856,0.36,ok,ok2024slyl,2024-09-20T14:14:04.387Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.9,0.24,7,reviewed,ok,ok
