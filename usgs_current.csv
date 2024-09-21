@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-21T01:17:13.390Z,33.6916667,-116.7248333,17.36,2.61,ml,115,18,0.02139,0.21,ci,ci40740535,2024-09-21T01:24:57.842Z,"5 km S of Idyllwild, CA",earthquake,0.12,0.23,0.17,25,automatic,ci,ci
+2024-09-21T01:26:21.880Z,33.6971667,-116.7128333,17.5,0.61,ml,24,66,0.01401,0.09,ci,ci40740543,2024-09-21T01:32:26.557Z,"5 km S of Idyllwild, CA",earthquake,0.18,0.26,0.187,11,automatic,ci,ci
+2024-09-21T01:17:13.390Z,33.6916667,-116.7248333,17.36,2.61,ml,115,18,0.02139,0.21,ci,ci40740535,2024-09-21T01:35:47.201Z,"5 km S of Idyllwild, CA",earthquake,0.12,0.23,0.17,25,automatic,ci,ci
 2024-09-21T01:03:46.900Z,33.9623333,-117.1636667,14.51,1.09,ml,48,32,0.08447,0.17,ci,ci40740527,2024-09-21T01:10:40.923Z,"7 km NE of Moreno Valley, CA",earthquake,0.18,0.4,0.177,28,automatic,ci,ci
 2024-09-21T00:46:30.480Z,33.9968333,-116.8526667,15.76,1.6,ml,66,40,0.05339,0.16,ci,ci40740511,2024-09-21T00:56:58.670Z,"8 km NNE of Banning, CA",earthquake,0.14,0.38,0.166,27,automatic,ci,ci
 2024-09-21T00:42:30.752Z,63.5016,-151.1312,4.4,1.8,ml,,,,0.85,ak,ak024c69o1b7,2024-09-21T00:44:21.229Z,"29 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T23:53:42.100Z,19.7119998931885,-155.738830566406,35.8800010681152,2.32999992,md,26,171,0.09523,0.180000007,hv,hv74471492,2024-09-20T23:55:10.910Z,"24 km ENE of Hōlualoa, Hawaii",earthquake,1.35,0.870000005,0.200000003,6,automatic,hv,hv
 2024-09-20T23:53:02.143Z,38.6643,-118.547,7.8,1.1,ml,8,133.82999999999998,0.041,0.1114,nn,nn00884935,2024-09-21T00:29:15.193Z,"16 km NNE of Hawthorne, Nevada",earthquake,,1.4,0.16,5,reviewed,nn,nn
 2024-09-20T23:50:19.270Z,19.2416667938232,-155.406005859375,33.3699989318848,1.94000006,md,33,95,0.009041,0.109999999,hv,hv74471487,2024-09-20T23:51:53.010Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.479999989,0.119999997,8,automatic,hv,hv
-2024-09-20T23:26:16.860Z,-8.4187,115.3556,10,4.6,mb,23,58,1.192,1.26,us,us6000ntee,2024-09-21T01:26:08.131Z,"11 km NW of Banjar Wangsian, Indonesia",earthquake,7.8,1.899,0.125,19,reviewed,us,us
+2024-09-20T23:26:16.860Z,-8.4187,115.3556,10,4.6,mb,23,58,1.192,1.26,us,us6000ntee,2024-09-21T01:41:50.516Z,"11 km NW of Banjar Wangsian, Indonesia",earthquake,7.8,1.899,0.125,19,reviewed,us,us
 2024-09-20T23:22:30.880Z,38.8436660766602,-122.831832885742,0.689999997615814,0.72,md,16,90,0.01282,0.04,nc,nc75064571,2024-09-21T00:44:26.167Z,"10 km WNW of Cobb, CA",earthquake,0.23,0.439999998,0.09,16,automatic,nc,nc
 2024-09-20T23:20:03.530Z,38.8396682739258,-122.826499938965,1.98000001907349,0.7,md,9,106,0.007101,0.02,nc,nc75064566,2024-09-21T00:17:15.971Z,"9 km WNW of Cobb, CA",earthquake,0.43,1.21000004,0.41,10,automatic,nc,nc
 2024-09-20T23:12:25.105Z,64.9506,-147.4942,0,1.4,ml,,,,0.73,ak,ak024c4zn7ta,2024-09-20T23:14:39.456Z,"5 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -206,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T01:55:49.230Z,51.893,-177.153833333333,14.3,-0.18,ml,5,100,0.01787,0.25,av,av93021669,2024-09-20T23:35:39.250Z,"35 km W of Adak, Alaska",earthquake,2.51,1.53,0.434672026530224,4,reviewed,av,av
 2024-09-20T01:53:46.517Z,60.1941,-152.4549,90.9,1.4,ml,,,,0.36,ak,ak024c4msiij,2024-09-20T01:55:46.818Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-20T01:45:22.480Z,19.1698341369629,-155.485000610352,34.939998626709,2.1099999,md,42,146,0.02596,0.150000006,hv,hv74470647,2024-09-20T01:47:03.410Z,"3 km S of Pāhala, Hawaii",earthquake,0.79,0.810000002,0.0900000036,13,automatic,hv,hv
-2024-09-20T01:37:54.470Z,56.6395,-156.9406,50.2,3.2,ml,,,,0.31,ak,ak024c4mp3o7,2024-09-20T01:59:52.040Z,"98 km ENE of Chignik, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-09-20T01:29:28.450Z,36.4598333333333,-120.592333333333,11.1,0.82,md,6,91,0.2023,0.06,nc,nc75064241,2024-09-20T19:22:46.677Z,"9 km ENE of New Idria, CA",earthquake,0.5,1.68,0.111,4,reviewed,nc,nc
-2024-09-20T01:26:17.790Z,45.0291666666667,-111.761833333333,10.84,0.95,ml,10,127,0.07653,0.15,mb,mb90061998,2024-09-20T18:29:21.860Z,"32 km SSE of Virginia City, Montana",earthquake,0.48,0.61,0.156821601644894,15,reviewed,mb,mb
