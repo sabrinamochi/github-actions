@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-22T02:58:59.191Z,61.0442,-151.09,66.4,1.3,ml,,,,0.75,ak,ak024c7yhqnz,2024-09-22T03:00:40.944Z,"3 km SE of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-09-22T02:58:22.581Z,64.4943,-146.8891,0.1,1.2,ml,,,,0.87,ak,ak024c7yhntf,2024-09-22T03:00:30.681Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-22T02:56:35.402Z,44.3177,-115.1518,10,2.6,ml,18,58,0.305,0.6,us,us6000ntll,2024-09-22T03:02:38.040Z,"20 km WNW of Stanley, Idaho",earthquake,1.54,2.009,0.062,34,reviewed,us,us
 2024-09-22T02:55:39.030Z,38.8450012207031,-122.831336975098,1.10000002384186,0.19,md,7,132,0.007176,0.02,nc,nc75065161,2024-09-22T02:57:15.774Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.709999979,0.09,9,automatic,nc,nc
 2024-09-22T02:55:23.980Z,38.8443336486816,-122.831336975098,1.0900000333786,0.94,md,15,113,0.01205,0.02,nc,nc75065156,2024-09-22T02:57:00.913Z,"10 km WNW of Cobb, CA",earthquake,0.24,0.579999983,0.29,14,automatic,nc,nc
 2024-09-22T02:51:20.900Z,38.844165802002,-122.830497741699,1.20000004768372,0.72,md,18,90,0.01187,0.02,nc,nc75065136,2024-09-22T02:52:55.864Z,"10 km WNW of Cobb, CA",earthquake,0.2,0.550000012,0.32,19,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T02:33:28.370Z,34.5003333,-118.1135,10.75,1.18,ml,13,63,0.01695,0.09,ci,ci40741607,2024-09-22T02:39:56.262Z,"0 km E of Vincent, CA",earthquake,0.48,0.7,0.402,30,automatic,ci,ci
 2024-09-22T02:26:07.190Z,32.9851667,-116.311,9.03,0.84,ml,46,39,0.03115,0.17,ci,ci40741599,2024-09-22T02:32:04.974Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.214,19,automatic,ci,ci
 2024-09-22T02:25:56.850Z,39.6606674194336,-123.52449798584,3.9300000667572,1.47,md,8,109,0.05075,0.04,nc,nc75065086,2024-09-22T02:27:30.656Z,"5 km WSW of Laytonville, CA",earthquake,0.39,1.05999994,0.16,6,automatic,nc,nc
-2024-09-22T02:25:47.465Z,13.1845,-89.3949,75.266,5.1,mww,93,110,0.47,1.24,us,us6000ntl2,2024-09-22T02:55:28.957Z,"34 km SSW of La Libertad, El Salvador",earthquake,6.62,5.395,0.058,29,reviewed,us,us
+2024-09-22T02:25:47.465Z,13.1845,-89.3949,75.266,5.1,mww,93,110,0.47,1.24,us,us6000ntl2,2024-09-22T03:06:44.561Z,"34 km SSW of La Libertad, El Salvador",earthquake,6.62,5.395,0.058,29,reviewed,us,us
 2024-09-22T02:24:12.350Z,35.6956667,-117.5425,5.95,0.75,ml,20,60,0.1014,0.15,ci,ci40741591,2024-09-22T02:30:17.599Z,"15 km NE of Ridgecrest, CA",earthquake,0.26,1.01,0.113,7,automatic,ci,ci
 2024-09-22T02:17:02.403Z,61.4595,-146.4132,34.1,1.2,ml,,,,0.2,ak,ak024c7y8txc,2024-09-22T02:22:47.156Z,"36 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-22T02:10:01.807Z,60.3637,-152.4091,103,1.2,ml,,,,0.38,ak,ak024c7y7bv8,2024-09-22T02:12:14.507Z,"53 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T03:26:46.380Z,35.7743333,-117.583,5.87,0.84,ml,24,64,0.1518,0.15,ci,ci40740599,2024-09-21T03:32:34.235Z,"16 km W of Searles Valley, CA",earthquake,0.24,1.23,0.106,9,automatic,ci,ci
 2024-09-21T03:10:39.460Z,34.1208333,-117.4675,3.83,1.66,ml,92,20,0.03191,0.2,ci,ci40740591,2024-09-21T03:21:39.540Z,"3 km NNW of Fontana, CA",earthquake,0.13,0.3,0.154,27,automatic,ci,ci
 2024-09-21T03:10:13.296Z,38.6612,-118.5562,7.1,2.5,ml,18,84.13999999999999,0.262,0.3955,nn,nn00884943,2024-09-21T03:12:42.890Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.7,0.34,12,automatic,nn,nn
-2024-09-21T03:04:43.900Z,48.8276666666667,-112.6495,16.62,1.43,ml,11,110,0.1529,0.3,mb,mb90062058,2024-09-21T12:52:24.320Z,"28 km WNW of Santa Rita, Montana",earthquake,1.78,0.81,0.301315510746529,8,reviewed,mb,mb
