@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T02:28:36.610Z,33.7046661,-116.8143311,15.68,1.35,ml,40,64,0.07953,0.16,ci,ci40743759,2024-09-24T02:30:39.071Z,"9 km ESE of Valle Vista, CA",earthquake,0.34,0.51,0.283,11,automatic,ci,ci
+2024-09-24T02:35:59.220Z,38.8370018005371,-122.811500549316,1.71000003814697,0.25,md,9,71,0.01363,0.01,nc,nc75066016,2024-09-24T02:37:34.417Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.13,0.18,9,automatic,nc,nc
+2024-09-24T02:33:30.390Z,19.1550006866455,-155.501007080078,32.1199989318848,2.23000002,md,47,184,0.03677,0.150000006,hv,hv74475402,2024-09-24T02:35:22.490Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.52,0.560000002,0.159999996,24,automatic,hv,hv
+2024-09-24T02:33:17.091Z,39.4858,-119.4993,1.5,1.8,ml,10,101.92000000000002,0.264,0.132,nn,nn00885090,2024-09-24T02:35:39.943Z,"16 km NW of Stagecoach, Nevada",earthquake,,51.8,0.27,6,automatic,nn,nn
+2024-09-24T02:28:36.610Z,33.7046661,-116.8143311,15.68,1.35,ml,40,64,0.07953,0.16,ci,ci40743759,2024-09-24T02:39:13.390Z,"9 km ESE of Valle Vista, CA",earthquake,0.34,0.51,0.283,11,automatic,ci,ci
 2024-09-24T02:09:55.579Z,28.854,-98.095,8.0757,1.8,ml,18,77,0.1,0.7,tx,tx2024stzp,2024-09-24T02:28:04.319Z,"16 km SSW of Falls City, Texas",earthquake,0,2.20267021950319,0.1,14,automatic,tx,tx
 2024-09-24T02:09:48.242Z,61.5513,-146.4722,19.3,2.4,ml,,,,0.69,ak,ak024cb99wr1,2024-09-24T02:11:28.516Z,"47 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-24T01:59:32.067Z,61.8152,-150.5878,35.6,2,ml,,,,0.42,ak,ak024cb8z5o6,2024-09-24T02:02:06.151Z,"30 km WNW of Willow, Alaska",earthquake,,4.1,,,automatic,ak,ak
@@ -25,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T00:12:17.580Z,17.984,-66.8411666666667,7.01,2.58,md,13,159,0.1938,0.2,pr,pr71461008,2024-09-24T00:30:27.050Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.59,1.17,0.0877645449214262,7,reviewed,pr,pr
 2024-09-24T00:06:27.800Z,18.2788333333333,-66.345,31.65,2.14,md,7,129,0.04318,0.1,pr,pr71461003,2024-09-24T00:18:49.590Z,"7 km SSW of Corozal, Puerto Rico",earthquake,0.65,0.83,0.0663782755825459,5,reviewed,pr,pr
 2024-09-24T00:05:54.538Z,37.7558,-114.8747,1.3,2.9,ml,10,107.49000000000001,0.377,0.1426,nn,nn00885074,2024-09-24T00:17:41.892Z,"35 km ENE of Hiko, Nevada",earthquake,,9.9,0.27,8,reviewed,nn,nn
+2024-09-23T23:44:50.150Z,54.5428333333333,-163.5295,11.51,2.14,ml,6,300,0.1607,0.18,av,av93022084,2024-09-24T02:34:49.540Z,"35 km SSW of False Pass, Alaska",earthquake,1.39,0.97,0.247738439122211,6,reviewed,av,av
 2024-09-23T23:43:24.710Z,33.2703333,-116.1311667,10.27,1.68,ml,72,32,0.1184,0.18,ci,ci40743703,2024-09-23T23:57:39.837Z,"14 km N of Ocotillo Wells, CA",earthquake,0.13,0.39,0.155,26,automatic,ci,ci
 2024-09-23T23:42:13.220Z,46.605167388916016,-119.79816436767578,7.40999984741211,1.7471891641616821,ml,15,73,,0.0700000003,uw,uw62049471,2024-09-23T23:45:10.160Z,"12 km SE of Desert Aire, Washington",earthquake,0.44,0.180000007,0.2768056094646454,9,automatic,uw,uw
 2024-09-23T23:41:19.699Z,61.162,-150.1399,20,2.1,ml,,,,0.46,ak,ak024c9yfgn5,2024-09-23T23:48:25.797Z,"14 km WSW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -281,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T02:58:05.269Z,63.2565,-151.3207,0,1.8,ml,,,,0.44,ak,ak024c9m0yzy,2024-09-23T03:00:10.602Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-23T02:57:15.230Z,35.6363333,-117.4568333,6.79,1.04,ml,27,65,0.0394,0.12,ci,ci40742495,2024-09-23T13:36:39.155Z,"15 km SSW of Searles Valley, CA",earthquake,0.17,0.33,0.199,10,reviewed,ci,ci
 2024-09-23T02:47:49.838Z,-7.7107,147.147,10,4.7,mb,37,40,1.683,0.68,us,us6000ntsm,2024-09-23T04:23:46.040Z,"62 km SE of Wau, Papua New Guinea",earthquake,4.83,1.848,0.123,20,reviewed,us,us
-2024-09-23T02:39:15.750Z,38.835334777832,-122.796669006348,2.36999988555908,0.77,md,11,82,0.005816,0.05,nc,nc75065561,2024-09-23T04:24:26.414Z,"7 km WNW of Cobb, CA",earthquake,0.64,1.13999999,0.35,11,automatic,nc,nc
-2024-09-23T02:36:39.638Z,-29.716,-71.1656,66.367,5.4,mww,113,63,0.212,0.63,us,us6000ntsj,2024-09-23T17:41:11.415Z,"22 km NNE of La Serena, Chile",earthquake,5.61,1.2,0.051,37,reviewed,us,us
