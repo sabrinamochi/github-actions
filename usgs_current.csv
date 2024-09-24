@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-24T13:10:55.780Z,33.2601667,-116.3726667,17.6,0.82,ml,22,70,0.3027,0.41,ci,ci40744007,2024-09-24T13:20:16.777Z,"0 km NNE of Borrego Springs, CA",earthquake,0.69,3.7,0.176,11,automatic,ci,ci
 2024-09-24T13:05:21.139Z,62.9985,-151.5573,40.1,1.6,ml,,,,1.19,ak,ak024cbfsrf5,2024-09-24T13:06:44.532Z,"61 km S of Denali National Park, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2024-09-24T12:44:53.708Z,59.7752,-152.1069,56.9,1.6,ml,,,,0.23,ak,ak024cbffr96,2024-09-24T12:46:29.755Z,"15 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-24T12:31:38.660Z,19.0168342590332,-155.404998779297,35.5299987792969,2.19000006,md,53,216,0.1481,0.189999998,hv,hv74475852,2024-09-24T12:33:19.780Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.58,0.819999993,0.0799999982,12,automatic,hv,hv
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T10:47:01.140Z,33.8706667,-116.7738333,15.35,0.6,ml,34,107,0.04185,0.12,ci,ci40743967,2024-09-24T10:53:32.673Z,"5 km SSE of Cabazon, CA",earthquake,0.19,0.42,0.144,19,automatic,ci,ci
 2024-09-24T10:45:37.310Z,33.8538333,-116.7878333,16.2,0.6,ml,38,110,0.0217,0.13,ci,ci40743959,2024-09-24T10:51:44.612Z,"7 km S of Cabazon, CA",earthquake,0.19,0.38,0.266,17,automatic,ci,ci
 2024-09-24T10:42:32.829Z,32.411,-102.058,8.0566,1.3,ml,23,75,0,0.1,tx,tx2024suqn,2024-09-24T12:13:27.432Z,"34 km WSW of Ackerly, Texas",earthquake,0.6935042783751787,0.5596583638076457,0.2,19,reviewed,tx,tx
+2024-09-24T10:37:50.067Z,21.1143,94.985,127.9,4.6,mb,101,63,4.568,0.49,us,us6000nu1v,2024-09-24T13:24:50.040Z,"26 km SSW of Pakokku, Myanmar",earthquake,3.08,7.011,0.058,89,reviewed,us,us
 2024-09-24T10:37:02.980Z,19.1666660308838,-155.476501464844,30.6700000762939,1.83,ml,52,93,0.01762,0.129999995,hv,hv74475762,2024-09-24T10:39:56.590Z,"4 km S of Pāhala, Hawaii",earthquake,0.46,0.579999983,0.13,3,automatic,hv,hv
 2024-09-24T10:36:50.410Z,19.1784992218018,-155.485168457031,27.1000003814697,1.92,ml,8,245,0.1015,0.0700000003,hv,hv74475757,2024-09-24T10:39:43.770Z,"2 km SSW of Pāhala, Hawaii",earthquake,2.16,1.32000005,1.17,5,automatic,hv,hv
 2024-09-24T10:23:32.760Z,17.9403333333333,-66.895,6.76,2.4,md,8,213,0.145,0.13,pr,pr71461093,2024-09-24T10:38:14.870Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.67,0.45,0.0987556473646061,5,reviewed,pr,pr
@@ -201,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T13:31:49.836Z,59.7562,-152.7664,92.2,1.6,ml,,,,0.31,ak,ak024c9sf1rb,2024-09-23T13:34:09.990Z,"52 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-23T13:29:16.826Z,61.3327,-147.2597,23.7,1.8,ml,,,,0.6,ak,ak024c9sejs2,2024-09-23T13:31:41.538Z,"53 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-23T13:27:53.800Z,38.8056678771973,-122.775665283203,3.28999996185303,0.75,md,7,221,0.01551,0.01,nc,nc75065796,2024-09-23T13:29:30.302Z,"4 km NNW of The Geysers, CA",earthquake,0.97,2.16000009,0.17,8,automatic,nc,nc
-2024-09-23T13:22:36.330Z,19.3291666666667,-155.288666666667,30.05,2.53,ml,58,81,0.0134,0.12,hv,hv74474462,2024-09-23T20:12:08.550Z,"13 km SSW of Volcano, Hawaii",earthquake,0.41,0.34,0.279123007784395,44,reviewed,hv,hv
