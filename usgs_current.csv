@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-25T00:16:02.492Z,60.085,-148.4386,34.9,1.9,ml,,,,0.41,ak,ak024ccvnshl,2024-09-25T00:18:38.252Z,"23 km W of Chenega, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-09-25T00:15:16.216Z,60.932,-150.5332,29.2,1.8,ml,,,,0.47,ak,ak024ccvnltx,2024-09-25T00:17:16.117Z,"8 km E of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-25T00:06:36.880Z,33.082,-116.6165,14.54,2.69,ml,97,18,0.01594,0.19,ci,ci40744735,2024-09-25T00:27:53.345Z,"1 km WNW of Julian, CA",earthquake,0.12,0.26,0.234,25,automatic,ci,ci
+2024-09-25T00:06:36.880Z,33.082,-116.6165,14.54,2.69,ml,97,18,0.01594,0.19,ci,ci40744735,2024-09-25T00:32:19.760Z,"1 km WNW of Julian, CA",earthquake,0.12,0.26,0.234,25,reviewed,ci,ci
 2024-09-24T23:56:39.460Z,38.8328323364258,-122.806663513184,2.27999997138977,1.25,md,19,49,0.009793,0.02,nc,nc75066376,2024-09-24T23:59:23.009Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.430000007,0.18,20,automatic,nc,nc
 2024-09-24T23:50:05.950Z,38.821834564209,-122.841667175293,1.5900000333786,0.83,md,7,154,0.00534,0.02,nc,nc75066366,2024-09-25T00:12:17.138Z,"9 km NW of The Geysers, CA",earthquake,0.75,0.769999981,0.31,8,automatic,nc,nc
 2024-09-24T23:46:33.330Z,32.9841667,-116.3111667,8.44,1.09,ml,44,59,0.0302,0.18,ci,ci40744711,2024-09-24T23:52:32.385Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.16,0.43,0.206,30,automatic,ci,ci
@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T00:40:00.220Z,19.3215,-155.285666666667,29.17,1.28,ml,31,96,0.02027,0.09,hv,hv74475282,2024-09-24T04:19:32.300Z,"14 km SSW of Volcano, Hawaii",earthquake,0.58,0.47,0.0976887854750419,3,reviewed,hv,hv
 2024-09-24T00:38:04.974Z,29.6915,130.6911,37.743,4.6,mb,55,64,1.823,0.72,us,us6000ntzs,2024-09-24T00:55:09.040Z,"62 km SSE of Koshima, Japan",earthquake,7.85,7.341,0.074,55,reviewed,us,us
 2024-09-24T00:33:40.750Z,32.9861667,-116.3163333,9.65,0.8,ml,16,121,0.03331,0.16,ci,ci40743727,2024-09-24T20:52:57.961Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.31,0.58,0.173,12,reviewed,ci,ci
-2024-09-24T00:32:28.380Z,33.7166667,-116.8283333,15.92,0.83,ml,32,89,0.0849,0.15,ci,ci40743719,2024-09-24T20:42:55.416Z,"7 km ESE of Valle Vista, CA",earthquake,0.22,0.41,0.059,6,reviewed,ci,ci
