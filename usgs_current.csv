@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-25T17:06:08.506Z,31.581,-103.941,4.8048,2.2,ml,15,75,0.1,0.1,tx,tx2024swyt,2024-09-25T17:11:31.858Z,"32 km NNW of Toyah, Texas",earthquake,0,1.28150224685669,0.2,12,automatic,tx,tx
+2024-09-25T17:02:07.383Z,31.583,-103.936,4.3304,2.2,ml,15,78,0.1,0.2,tx,tx2024swyp,2024-09-25T17:11:23.854Z,"32 km NNW of Toyah, Texas",earthquake,0,1.24440860748291,0.2,11,automatic,tx,tx
+2024-09-25T17:01:33.720Z,31.579,-103.937,4.2923,1.7,ml,13,133,0.1,0.2,tx,tx2024swyo,2024-09-25T17:11:18.856Z,"32 km NNW of Toyah, Texas",earthquake,0,1.71531629562378,0.2,10,automatic,tx,tx
+2024-09-25T17:01:10.640Z,31.608,-103.939,5.13,1.5,ml,5,216,0.1,0.2,tx,tx2024swyn,2024-09-25T17:11:13.866Z,"33 km WSW of Mentone, Texas",earthquake,0,6.48771524429321,0.3,5,automatic,tx,tx
 2024-09-25T16:55:52.274Z,59.7342,-151.9102,28.6,1.5,ml,,,,0.69,ak,ak024cd5f6xn,2024-09-25T16:57:32.763Z,"6 km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-25T16:53:24.170Z,35.9183333,-117.6636667,4.21,1.51,ml,26,50,0.03141,0.14,ci,ci40745311,2024-09-25T16:59:43.419Z,"22 km E of Little Lake, CA",earthquake,0.15,0.35,0.125,17,automatic,ci,ci
 2024-09-25T16:49:43.330Z,33.0246667,-116.2936667,4.15,1.08,ml,46,40,0.07035,0.23,ci,ci40745287,2024-09-25T16:55:54.591Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.22,0.67,0.203,27,automatic,ci,ci
@@ -47,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T11:03:04.670Z,38.7781677246094,-122.72533416748,1.57000005245209,0.77,md,10,75,0.01024,0.01,nc,nc75066536,2024-09-25T12:09:25.210Z,"3 km E of The Geysers, CA",earthquake,0.27,0.579999983,0.2,9,automatic,nc,nc
 2024-09-25T10:57:02.225Z,38.1962,-117.7652,6.1,1.6,ml,12,135.5,0.128,0.2765,nn,nn00885137,2024-09-25T10:59:37.445Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.27,8,automatic,nn,nn
 2024-09-25T10:49:49.530Z,36.5935,-118.1488333,10.86,1.82,ml,18,70,0.07145,0.16,ci,ci40745031,2024-09-25T10:56:07.202Z,"7 km W of Lone Pine, CA",earthquake,0.23,0.71,0.164,20,automatic,ci,ci
-2024-09-25T10:45:59.237Z,36.9692,-116.1823,2.2,0.3,ml,13,78.02999999999997,0.057,0.1716,nn,nn00885134,2024-09-25T10:47:56.640Z,"51 km E of Beatty, Nevada",earthquake,,0.8,0.39,9,automatic,nn,nn
+2024-09-25T10:46:00.049Z,36.9612,-116.1858,2.9,0.2,ml,23,48.32000000000001,0.036,0.138,nn,nn00885134,2024-09-25T17:09:07.903Z,"51 km E of Beatty, Nevada",earthquake,,1.4,0.31,10,reviewed,nn,nn
 2024-09-25T10:43:51.723Z,38.2077,-117.7542,6.1,1.1,ml,10,85.31,0.136,0.1784,nn,nn00885132,2024-09-25T16:44:35.735Z,"37 km ESE of Mina, Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
 2024-09-25T10:42:25.421Z,64.1341,-148.0028,108.4,2.2,ml,,,,0.2,ak,ak024cd1rqxa,2024-09-25T10:53:59.040Z,"55 km ENE of Ferry, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-25T10:23:04.460Z,46.60733333333334,-119.7975,7.97,2.4,ml,37,52,0.0241,0.09,uw,uw62049766,2024-09-25T16:55:26.960Z,"12 km SE of Desert Aire, Washington",earthquake,0.19,0.09,0.13838820863419876,39,reviewed,uw,uw
@@ -72,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T08:22:32.338Z,61.2088,-147.011,0.1,1.9,ml,,,,0.87,ak,ak024cd0glxd,2024-09-25T08:33:21.129Z,"36 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T08:19:21.090Z,33.489,-116.4333333,14.16,0.61,ml,27,77,0.1064,0.11,ci,ci40744991,2024-09-25T08:25:18.328Z,"22 km SSW of La Quinta, CA",earthquake,0.19,0.45,0.115,11,automatic,ci,ci
 2024-09-25T08:13:24.970Z,19.2350006103516,-155.378997802734,30.7299995422363,1.88999999,md,34,165,0.01766,0.119999997,hv,hv74476792,2024-09-25T08:15:01.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.48,0.560000002,0.270000011,6,automatic,hv,hv
+2024-09-25T08:07:52.050Z,46.6045,-119.80583333333334,8.08,1.1500000000000001,ml,21,70,0.03038,0.09,uw,uw62049761,2024-09-25T17:12:19.800Z,"11 km SE of Desert Aire, Washington",earthquake,0.2,0.13,0.15277767848818707,19,reviewed,uw,uw
 2024-09-25T08:01:31.010Z,38.7958335876465,-122.725997924805,1.6599999666214,1.12,md,8,105,0.01512,0.04,nc,nc75066491,2024-09-25T09:14:31.997Z,"3 km SSW of Cobb, CA",earthquake,0.37,1.22000003,0.17,6,automatic,nc,nc
 2024-09-25T07:49:16.100Z,18.9190006256104,-155.542663574219,35.9799995422363,2.3499999,md,41,251,0.1329,0.150000006,hv,hv74476767,2024-09-25T07:50:59.840Z,"16 km SSE of Naalehu, Hawaii",earthquake,0.7,0.930000007,0.00999999978,3,automatic,hv,hv
 2024-09-25T07:47:52.786Z,31.612,-104.188,8.1787,1.7,ml,18,66,0.1,0.1,tx,tx2024swgh,2024-09-25T12:47:58.192Z,"49 km NW of Toyah, Texas",earthquake,0.6780650706700961,0.7918131426608462,0.2,18,reviewed,tx,tx
@@ -206,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T17:44:25.860Z,36.464,-120.476166666667,13.75,1.87,md,38,111,0.1559,0.11,nc,nc75066226,2024-09-25T08:34:38.421Z,"15 km W of Cantua Creek, CA",earthquake,0.15,0.42,0.218,25,reviewed,nc,nc
 2024-09-24T17:24:07.079Z,59.2483,-137.8221,0,2.8,ml,,,,0.85,ak,ak024cbiajcz,2024-09-24T19:58:05.040Z,"103 km WSW of Mosquito Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-24T17:19:11.489Z,62.5126,-149.2212,56.8,1.9,ml,,,,0.31,ak,ak024cbi9h4c,2024-09-24T17:21:28.638Z,"45 km E of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-09-24T17:12:58.140Z,35.9165,-95.16583333,0,1.34,ml,55,105,0.2753459677,0.45,ok,ok2024svdk,2024-09-25T15:55:01.167Z,"2 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.17,16,reviewed,ok,ok
-2024-09-24T17:11:32.346Z,60.3205,-152.3665,94.9,2.3,ml,,,,0.31,ak,ak024cbi7t02,2024-09-24T19:47:41.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-24T17:09:43.000Z,46.601,-119.79333333333334,7.72,0.89,ml,10,119,0.02376,0.09,uw,uw62049646,2024-09-24T21:40:24.130Z,"12 km SE of Desert Aire, Washington",earthquake,0.31,0.15,0.12697132114471132,8,reviewed,uw,uw
-2024-09-24T17:07:41.463Z,41.5856,143.2815,45.978,4.5,mb,44,102,0.439,0.62,us,us7000nfz4,2024-09-24T19:35:09.040Z,"67 km SSE of Honchō, Japan",earthquake,7.23,5.733,0.089,37,reviewed,us,us
