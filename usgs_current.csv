@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-26T19:28:31.576Z,37.624,-117.002,3.9,0.5,ml,13,171.49,0.383,0.3529,nn,nn00885220,2024-09-26T19:30:54.500Z,"22 km ESE of Goldfield, Nevada",earthquake,,11.2,0.49,6,automatic,nn,nn
 2024-09-26T19:27:23.260Z,34.0766678,-117.4526672,2.84,1.43,ml,32,47,0.02559,0.19,ci,ci40746487,2024-09-26T19:29:41.177Z,"2 km SSE of Fontana, CA",earthquake,0.28,0.28,0.24,26,automatic,ci,ci
 2024-09-26T19:25:45.216Z,37.4284,-116.8856,4.1,0.7,ml,9,154.89000000000004,0.313,0.1755,nn,nn00885218,2024-09-26T19:27:53.335Z,"43 km SE of Goldfield, Nevada",earthquake,,2.7,0.41,5,automatic,nn,nn
 2024-09-26T19:23:20.130Z,36.2091667,-118.0095,2.82,1.07,ml,23,93,0.155,0.17,ci,ci40746479,2024-09-26T19:29:11.453Z,"8 km S of Olancha, CA",earthquake,0.3,0.76,0.187,13,automatic,ci,ci
 2024-09-26T19:20:39.143Z,37.3749,-116.884,6,0.8,ml,11,130.84999999999997,0.265,0.3748,nn,nn00885216,2024-09-26T19:22:44.179Z,"48 km SE of Goldfield, Nevada",earthquake,,2.4,0.43,6,automatic,nn,nn
-2024-09-26T19:18:36.680Z,36.2056667,-118.0103333,2.35,1.27,ml,26,53,0.1535,0.16,ci,ci40746471,2024-09-26T19:24:21.278Z,"8 km S of Olancha, CA",earthquake,0.24,0.77,0.115,18,automatic,ci,ci
+2024-09-26T19:18:36.800Z,36.205,-118.0091667,5.15,1.26,ml,24,91,0.1523,0.15,ci,ci40746471,2024-09-26T19:30:32.622Z,"8 km S of Olancha, CA",earthquake,0.25,1.06,0.127,16,reviewed,ci,ci
 2024-09-26T19:12:51.416Z,31.611,-103.986,6.6572,1.8,ml,16,42,0,0.3,tx,tx2024syza,2024-09-26T19:18:33.427Z,"37 km NNW of Toyah, Texas",earthquake,0,2.11429667472839,0.2,12,automatic,tx,tx
 2024-09-26T19:03:02.951Z,18.1862,-100.4196,70.492,5,mb,134,158,1.636,0.97,us,us7000ngme,2024-09-26T19:26:50.482Z,"4 km NW of San Miguel Totolapan, Mexico",earthquake,5.79,7.299,0.028,414,reviewed,us,us
 2024-09-26T18:56:15.245Z,59.778,-153.8261,161.1,2,ml,,,,0.44,ak,ak024ceu5jjj,2024-09-26T19:27:26.040Z,"15 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -35,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T16:29:47.820Z,38.7898330688477,-122.735664367676,1.77999997138977,0.52,md,7,104,0.006638,0.01,nc,nc75067006,2024-09-26T17:54:23.960Z,"2 km ENE of The Geysers, CA",earthquake,0.41,0.939999998,0.28,7,automatic,nc,nc
 2024-09-26T15:58:45.867Z,61.5399,-151.9233,10.9,1.3,ml,,,,0.72,ak,ak024cesdqh6,2024-09-26T16:00:25.431Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-26T15:31:52.754Z,31.662,-104.381,6.6674,1.9,ml,16,70,0,0.3,tx,tx2024syro,2024-09-26T15:48:17.699Z,"56 km S of Whites City, New Mexico",earthquake,0,2.69012832641602,0.2,10,automatic,tx,tx
+2024-09-26T15:25:43.830Z,48.5545,-121.33016666666667,8.75,1.33,ml,10,100,0.1706,0.25,uw,uw62050111,2024-09-26T19:30:39.440Z,"9 km ENE of Marblemount, Washington",earthquake,0.61,4.81,0.08127146302478816,5,reviewed,uw,uw
 2024-09-26T15:14:07.270Z,38.7895011901855,-122.767997741699,1.6599999666214,0.8,md,7,94,0.01286,0.01,nc,nc75066981,2024-09-26T17:09:24.653Z,"2 km NNW of The Geysers, CA",earthquake,0.5,1.07000005,0.3,9,automatic,nc,nc
 2024-09-26T15:10:13.150Z,34.3421667,-116.8783333,-1.68,0.87,ml,24,63,0.08706,0.19,ci,ci40746231,2024-09-26T18:57:57.991Z,"10 km NNW of Big Bear City, CA",quarry blast,0.36,31.61,0.097,4,reviewed,ci,ci
 2024-09-26T15:07:15.960Z,34.1655,-118.4966667,8.89,1.93,ml,52,64,0.03125,0.16,ci,ci40746223,2024-09-26T18:40:11.008Z,"1 km NNE of Encino, CA",earthquake,0.17,0.34,0.146,26,reviewed,ci,ci
@@ -82,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T11:15:46.170Z,35.364,-118.1135,1.63,1.19,ml,29,61,0.1014,0.14,ci,ci40746039,2024-09-26T18:17:47.215Z,"29 km NNW of California City, CA",earthquake,0.16,0.41,0.122,12,reviewed,ci,ci
 2024-09-26T11:11:55.690Z,33.5005,-116.501,10.33,1.14,ml,22,59,0.06213,0.12,ci,ci40746031,2024-09-26T14:06:47.409Z,"17 km ESE of Anza, CA",earthquake,0.22,0.41,0.561,9,reviewed,ci,ci
 2024-09-26T11:07:14.400Z,35.3665,-118.1136667,1.98,2.39,ml,53,36,0.1014,0.14,ci,ci40746023,2024-09-26T19:22:20.560Z,"29 km NNW of California City, CA",earthquake,0.14,0.43,0.184,26,reviewed,ci,ci
-2024-09-26T11:05:20.170Z,48.580666666666666,-123.24783333333333,52.15,3.96,ml,75,62,0.08658,0.13,uw,uw62050041,2024-09-26T19:28:31.868Z,"12 km E of Saanichton, Canada",earthquake,0.2,0.3,0.1885722201106348,168,reviewed,uw,uw
+2024-09-26T11:05:20.170Z,48.580666666666666,-123.24783333333333,52.15,3.96,ml,75,62,0.08658,0.13,uw,uw62050041,2024-09-26T19:29:55.235Z,"12 km E of Saanichton, Canada",earthquake,0.2,0.3,0.1885722201106348,168,reviewed,uw,uw
 2024-09-26T11:00:45.704Z,25.723,92.6799,10,4.3,mb,25,133,4.943,1.05,us,us7000ngj5,2024-09-26T19:27:11.917Z,"35 km SSW of Hojāi, India",earthquake,12.21,1.968,0.119,20,reviewed,us,us
 2024-09-26T10:53:01.200Z,33.1793333,-115.5971667,3.48,1.44,ml,33,86,0.0156,0.18,ci,ci40746015,2024-09-26T18:11:41.176Z,"10 km NW of Calipatria, CA",earthquake,0.23,0.16,0.222,19,reviewed,ci,ci
 2024-09-26T10:52:20.120Z,44.3666666666667,-116.1335,6.32,1.46,ml,7,157,0.3459,0.31,mb,mb90062458,2024-09-26T15:56:18.720Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.91,3.05,0.250552271679428,7,reviewed,mb,mb
