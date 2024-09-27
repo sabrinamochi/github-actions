@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T11:26:51.200Z,33.3205,-116.3815,6.52,1.53,ml,80,17,0.01353,0.19,ci,ci40746959,2024-09-27T11:33:35.829Z,"7 km N of Borrego Springs, CA",earthquake,0.13,0.35,0.196,26,automatic,ci,ci
 2024-09-27T11:25:03.392Z,59.9603,-148.5298,22.1,1.9,ml,,,,0.43,ak,ak024cgdc6n7,2024-09-27T11:26:46.458Z,"31 km WSW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-27T11:25:02.680Z,33.3206667,-116.38,6.13,1.17,ml,70,45,0.01235,0.19,ci,ci40746951,2024-09-27T11:31:31.542Z,"7 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.222,26,automatic,ci,ci
-2024-09-27T11:24:24.733Z,31.661,-104.452,7.2143,1.7,ml,12,160,0,0.2,tx,tx2024taek,2024-09-27T11:30:36.640Z,"57 km S of Whites City, New Mexico",earthquake,0,3.38560914993286,0.1,10,automatic,tx,tx
+2024-09-27T11:24:24.804Z,31.649,-104.449,7.5354,1.6,ml,30,67,0,0.2,tx,tx2024taek,2024-09-27T12:55:09.105Z,"58 km S of Whites City, New Mexico",earthquake,0.9364953653330897,0.8178785310958847,0.1,24,reviewed,tx,tx
 2024-09-27T11:20:17.403Z,-30.8342,-179.7393,356.212,5.2,mb,71,65,2.223,0.68,us,us7000ngsr,2024-09-27T11:57:15.040Z,"Kermadec Islands region",earthquake,10.76,6.411,0.034,300,reviewed,us,us
 2024-09-27T11:10:28.798Z,63.8772,-145.6294,0,1.6,ml,,,,0.76,ak,ak024cgd9207,2024-09-27T11:13:30.631Z,"7 km SSW of Fort Greely, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T11:04:05.160Z,38.8330001831055,-122.882331848145,1.94000005722046,1.07,md,16,128,0.005288,0.03,nc,nc75067321,2024-09-27T12:27:16.745Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.460000008,0.11,18,automatic,nc,nc
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T03:51:49.270Z,33.684,-116.717,14.6,0.48,ml,18,89,0.0272,0.09,ci,ci40746791,2024-09-27T03:57:59.588Z,"6 km S of Idyllwild, CA",earthquake,0.26,0.4,0.267,9,automatic,ci,ci
 2024-09-27T03:48:13.050Z,38.8246650695801,-122.803497314453,2.5,1.08,md,21,69,0.005291,0.01,nc,nc75067251,2024-09-27T04:29:24.375Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.479999989,0.27,19,automatic,nc,nc
 2024-09-27T03:39:31.854Z,11.8785,-87.6523,51.404,5.1,mww,70,135,1.021,0.93,us,us7000ngr0,2024-09-27T03:58:30.040Z,"84 km SW of Corinto, Nicaragua",earthquake,6.64,7.701,0.08,15,reviewed,us,us
+2024-09-27T03:32:13.672Z,32.052,-103.759,7.6251,1.6,ml,22,56,0,0.1,tx,tx2024szov,2024-09-27T12:51:04.070Z,"35 km ESE of Malaga, New Mexico",earthquake,0.3974511675268492,0.5394556905137218,0.1,18,reviewed,tx,tx
 2024-09-27T03:13:50.190Z,19.1951675415039,-155.693832397461,-1,2.22,ml,46,67,0.06045,0.270000011,hv,hv74478902,2024-09-27T03:16:43.560Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.54,0.200000003,0.23,7,automatic,hv,hv
 2024-09-27T03:10:53.010Z,36.2106667,-118.017,0.94,2,ml,30,53,0.1608,0.21,ci,ci40746775,2024-09-27T03:24:07.226Z,"8 km S of Olancha, CA",earthquake,0.28,0.7,0.168,25,automatic,ci,ci
 2024-09-27T03:09:34.531Z,36.6532,-115.7438,5.2,0.7,ml,27,137.97000000000003,0.176,0.252,nn,nn00885257,2024-09-27T03:11:48.184Z,"11 km NW of Indian Springs, Nevada",earthquake,,1.2,0.36,18,automatic,nn,nn
@@ -213,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T13:17:35.780Z,19.4120006561279,-155.260162353516,13.5900001525879,1.87,ml,46,53,0.0002827,0.119999997,hv,hv74478062,2024-09-26T13:20:28.190Z,"4 km SW of Volcano, Hawaii",earthquake,0.32,0.150000006,1.09,4,automatic,hv,hv
 2024-09-26T13:11:34.740Z,33.8068333,-116.1976667,5.73,1.35,ml,56,63,0.02225,0.15,ci,ci40746119,2024-09-26T14:06:09.360Z,"10 km N of Indio, CA",earthquake,0.15,0.38,0.153,26,reviewed,ci,ci
 2024-09-26T13:05:02.670Z,35.9093333,-117.689,3.89,1.5,ml,28,41,0.04963,0.14,ci,ci40746111,2024-09-26T14:05:31.613Z,"20 km E of Little Lake, CA",earthquake,0.15,0.39,0.159,18,reviewed,ci,ci
-2024-09-26T12:53:28.140Z,34.2176667,-118.1936667,4.22,0.73,ml,9,93,0.005642,0.08,ci,ci40746103,2024-09-26T17:41:44.987Z,"2 km NNW of La Canada Flintridge, CA",earthquake,0.19,0.24,0.05,6,reviewed,ci,ci
-2024-09-26T12:52:10.560Z,37.2533333333333,-113.299,1.85,1.14,ml,10,68,0.07943,0.13,uu,uu80083406,2024-09-26T13:13:42.430Z,"1 km W of Toquerville, Utah",earthquake,0.39,7.46,0.213496972329493,4,reviewed,uu,uu
-2024-09-26T12:52:06.010Z,38.8185005187988,-122.790336608887,1.54999995231628,1.14,md,20,40,0.009178,0.02,nc,nc75066941,2024-09-26T15:09:24.745Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.349999994,0.19,26,automatic,nc,nc
