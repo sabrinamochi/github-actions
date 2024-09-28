@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-27T23:56:40.940Z,35.7651667,-117.5753333,7.12,0.79,ml,22,69,0.1587,0.12,ci,ci40747391,2024-09-28T00:02:31.663Z,"16 km W of Searles Valley, CA",earthquake,0.19,0.5,0.112,5,automatic,ci,ci
 2024-09-27T23:50:36.582Z,60.5726,-152.0308,152.1,1.3,ml,,,,1.67,ak,ak024cgklzeg,2024-09-27T23:52:55.230Z,"39 km W of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-27T23:46:49.110Z,60.194,-139.6539,2.5,1.7,ml,,,,1,ak,ak024cgkm3hd,2024-09-27T23:50:43.656Z,"72 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-27T23:45:24.949Z,8.9123,40.2427,10,4.6,mb,32,262,3.652,0.55,us,us7000ngx8,2024-09-28T00:08:19.040Z,"11 km SE of Āwash, Ethiopia",earthquake,10.51,1.985,0.109,25,reviewed,us,us
 2024-09-27T23:40:39.001Z,61.0176,-150.3904,48.8,1.3,ml,,,,0.52,ak,ak024cgkkoe4,2024-09-27T23:42:49.698Z,"19 km ENE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-27T23:27:26.413Z,60.1728,-140.3699,6.9,1.4,ml,,,,0.89,ak,ak024cgkhv41,2024-09-27T23:29:01.609Z,"78 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-27T23:17:42.170Z,33.9496667,-116.7821667,16.94,1.16,ml,44,33,0.08788,0.13,ci,ci40747375,2024-09-27T23:23:56.010Z,"4 km N of Cabazon, CA",earthquake,0.16,0.4,0.162,27,automatic,ci,ci
@@ -184,7 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T05:22:09.430Z,46.89,-112.513333333333,12.62,1.18,ml,11,118,0.04943,0.09,mb,mb90062523,2024-09-27T13:31:31.660Z,"14 km ESE of Lincoln, Montana",earthquake,0.45,0.66,0.184141142895926,13,reviewed,mb,mb
 2024-09-27T05:21:50.820Z,55.6466666666667,-161.656166666667,4.07,1.3,ml,11,189,0.2273,0.25,av,av93287893,2024-09-27T20:14:26.260Z,"48 km SW of Nelson Lagoon, Alaska",earthquake,0.74,2.07,0.387639544191098,11,reviewed,av,av
 2024-09-27T04:56:05.270Z,46.598166666666664,-119.80383333333333,8.04,1.32,ml,26,78,0.03147,0.09,uw,uw62050266,2024-09-27T17:22:38.860Z,"12 km SE of Desert Aire, Washington",earthquake,0.18,0.11,0.12953628628537328,22,reviewed,uw,uw
-2024-09-27T04:36:20.269Z,8.9423,40.0832,10,4.9,mb,47,195,3.743,0.67,us,us7000ngr4,2024-09-27T18:33:32.792Z,"10 km WSW of Āwash, Ethiopia",earthquake,13.55,1.957,0.077,53,reviewed,us,us
+2024-09-27T04:36:20.269Z,8.9423,40.0832,10,4.9,mb,47,195,3.743,0.67,us,us7000ngr4,2024-09-28T00:05:37.530Z,"10 km WSW of Āwash, Ethiopia",earthquake,13.55,1.957,0.077,53,reviewed,us,us
 2024-09-27T03:52:02.174Z,61.7403,-150.0862,0,1.2,ml,,,,0.64,ak,ak024cg8qi1l,2024-09-27T03:53:53.967Z,"2 km WSW of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-27T03:51:49.270Z,33.684,-116.717,14.6,0.48,ml,18,89,0.0272,0.09,ci,ci40746791,2024-09-27T17:31:41.573Z,"6 km S of Idyllwild, CA",earthquake,0.26,0.4,0.267,9,reviewed,ci,ci
 2024-09-27T03:48:13.050Z,38.8246650695801,-122.803497314453,2.5,1.08,md,21,69,0.005291,0.01,nc,nc75067251,2024-09-27T04:29:24.375Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.479999989,0.27,19,automatic,nc,nc
@@ -226,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T00:16:57.160Z,36.2056667,-118.0121667,1.16,2.72,ml,32,52,0.1547,0.18,ci,ci40746727,2024-09-27T20:22:36.657Z,"8 km S of Olancha, CA",earthquake,0.23,0.46,0.188,23,reviewed,ci,ci
 2024-09-27T00:13:56.090Z,33.9181667,-118.336,12.36,1.99,ml,42,87,0.008583,0.26,ci,ci40746719,2024-09-27T19:38:40.693Z,"2 km E of Hawthorne, CA",earthquake,0.28,0.41,0.195,24,reviewed,ci,ci
 2024-09-27T00:11:19.670Z,35.07816667,-97.56566667,4.37,0.74,ml,29,124,0.02789452614,0.65,ok,ok2024szie,2024-09-27T12:26:02.529Z,"2 km SSE of Cole, Oklahoma",earthquake,,1.6,0.2,13,reviewed,ok,ok
-2024-09-27T00:09:46.602Z,32.386,-101.085,6.8848,1.5,ml,18,73,0.1,0.1,tx,tx2024szis,2024-09-27T13:08:37.635Z,"7 km WNW of Westbrook, Texas",earthquake,0.831635577559702,2.185946790933668,0.1,16,reviewed,tx,tx
-2024-09-27T00:04:47.730Z,53.4165,-168.198166666667,-0.15,-0.06,ml,5,247,0.02137,0.07,av,av93022454,2024-09-27T18:55:31.700Z,"69 km NE of Nikolski, Alaska",earthquake,0.73,0.5,0.397141128935863,4,reviewed,av,av
