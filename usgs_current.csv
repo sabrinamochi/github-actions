@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-28T16:34:45.429Z,35.53398132,-96.75893402,4.57976532,1.68,ml,15,48.77348328,0.0173853226,0.5404812372,ok,ok2024tckd,2024-09-28T16:43:24.842Z,"8 km NW of Prague, Oklahoma",earthquake,3.012631606,2.335334926,0.2,10,automatic,ok,ok
 2024-09-28T16:08:24.840Z,38.5212,-119.5277,0,2.3,ml,16,167.80999999999997,0.185,0.2667,nn,nn00885344,2024-09-28T16:32:43.666Z,"4 km W of Walker, California",earthquake,,3.5,0.2,8,automatic,nn,nn
 2024-09-28T16:05:30.272Z,60.9536,-152.2493,112.8,0.7,ml,,,,0.12,ak,ak024ci3qgwz,2024-09-28T16:06:45.643Z,"59 km WNW of Nikiski, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-09-28T15:52:34.040Z,37.6691665649414,-122.082832336426,3.66000008583069,1.83,md,19,73,0.06205,0.12,nc,nc75067846,2024-09-28T16:34:24.891Z,"3 km S of Castro Valley, CA",earthquake,0.28,0.920000017,0.15,14,automatic,nc,nc
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T22:22:50.326Z,53.8846,158.6995,151.721,4.6,mb,139,89,0.863,0.62,us,us7000ngwt,2024-09-27T22:42:14.040Z,"80 km NNE of Yelizovo, Russia",earthquake,10.03,7.394,0.044,157,reviewed,us,us
 2024-09-27T22:15:52.580Z,60.3731666666667,-153.086833333333,8.71,-0.28,ml,8,205,0.1621,0.1,av,av93288663,2024-09-28T01:12:38.920Z,"70 km ENE of Port Alsworth, Alaska",earthquake,0.6,2.1,0.176432505087394,8,reviewed,av,av
 2024-09-27T22:08:43.678Z,61.7316,-150.61,32,1.5,ml,,,,0.52,ak,ak024cgjse8f,2024-09-27T22:10:34.405Z,"21 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
+2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"31 km NNW of Isangel, Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
 2024-09-27T21:56:45.857Z,-22.9511,-177.0742,153.496,4.9,mb,57,66,2.511,0.94,us,us7000ngwn,2024-09-27T22:15:23.040Z,"268 km SW of Houma, Tonga",earthquake,10.88,7.172,0.042,176,reviewed,us,us
 2024-09-27T21:53:57.073Z,60.7195,-152.6741,13.8,0.4,ml,,,,0.17,ak,ak024cgjgmvv,2024-09-28T00:53:22.620Z,"74 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T21:48:11.280Z,61.313,-152.291666666667,2.55,-0.41,ml,7,145,0.08141,0.09,av,av93288638,2024-09-28T00:43:09.950Z,"67 km WNW of Beluga, Alaska",earthquake,0.32,1.48,0.305261107810443,8,reviewed,av,av
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T17:03:47.724Z,58.2904,-154.0798,39,1.4,ml,,,,0.86,ak,ak024cggs5xw,2024-09-27T23:10:22.330Z,"73 km WNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-27T16:52:14.480Z,19.1394996643066,-155.40966796875,34.1300010681152,2.00999999,md,22,223,0.05204,0.100000001,hv,hv74479632,2024-09-27T16:53:44.690Z,"10 km SE of Pāhala, Hawaii",earthquake,1.02,0.660000026,0.50999999,3,automatic,hv,hv
 2024-09-27T16:47:53.200Z,19.1508331298828,-155.482833862305,32.2999992370605,1.92,ml,50,148,0.02011,0.129999995,hv,hv74479622,2024-09-27T16:50:45.310Z,"5 km S of Pāhala, Hawaii",earthquake,0.51,0.49000001,0.1,3,automatic,hv,hv
-2024-09-27T16:36:32.180Z,33.199,-116.028,9.52,1.02,ml,42,63,0.04923,0.19,ci,ci40747095,2024-09-27T21:11:09.546Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.51,0.159,23,reviewed,ci,ci
