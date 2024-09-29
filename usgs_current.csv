@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-28T23:55:56.600Z,36.2103348,-118.0124969,2.28,1.56,ml,21,138,0.1576,0.15,ci,ci40747911,2024-09-28T23:58:11.364Z,"8 km S of Olancha, CA",earthquake,0.46,1.19,0.166,5,automatic,ci,ci
+2024-09-29T00:09:06.240Z,33.8899994,-116.6271667,15.79,0.98,ml,14,79,0.1491,0.18,ci,ci40747919,2024-09-29T00:11:08.688Z,"8 km W of Garnet, CA",earthquake,0.59,1.33,0.18,3,automatic,ci,ci
+2024-09-29T00:04:48.753Z,60.7588,-150.8831,28.7,1.8,ml,,,,0.35,ak,ak024cjhqpfv,2024-09-29T00:06:58.098Z,"21 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-28T23:55:56.590Z,36.2106667,-118.0138333,2.38,1.44,ml,25,93,0.1587,0.2,ci,ci40747911,2024-09-29T00:02:02.041Z,"8 km S of Olancha, CA",earthquake,0.35,0.88,0.156,16,automatic,ci,ci
 2024-09-28T23:49:30.949Z,58.2933,-155.0031,0.7,1,ml,,,,1.12,ak,ak024ci85xq9,2024-09-28T23:53:13.492Z,"86 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2024-09-28T23:38:43.477Z,60.3612,-146.8625,20.6,1.7,ml,,,,0.73,ak,ak024ci83lsr,2024-09-28T23:41:03.657Z,"57 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-28T23:11:47.210Z,34.0755005,-117.5134964,14.66,3.15,ml,41,137,0.369,0.26,ci,ci40747903,2024-09-28T23:56:57.694Z,"6 km WSW of Fontana, CA",earthquake,0.35,1.17,0.325,20,reviewed,ci,ci
+2024-09-28T23:11:47.210Z,34.0755005,-117.5134964,14.66,3.15,ml,41,137,0.369,0.26,ci,ci40747903,2024-09-29T00:02:06.246Z,"6 km WSW of Fontana, CA",earthquake,0.35,1.17,0.325,20,reviewed,ci,ci
 2024-09-28T23:10:33.874Z,64.9805,-147.4184,2.8,1.2,ml,,,,0.4,ak,ak024ci7xl0b,2024-09-28T23:12:49.141Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-28T22:49:25.180Z,38.8404998779297,-122.838500976562,1.22000002861023,0.73,md,14,115,0.01757,0.03,nc,nc75067991,2024-09-28T23:07:13.625Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.49000001,0.21,15,automatic,nc,nc
 2024-09-28T22:21:26.857Z,61.38,-149.4992,31.9,2,ml,,,,0.39,ak,ak024ci7ehql,2024-09-28T22:23:14.303Z,"7 km NNE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -51,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T17:04:43.350Z,19.3496666666667,-155.165666666667,-0.45,1.18,md,6,237,0.02982,0.12,hv,hv74480952,2024-09-28T18:44:23.360Z,"12 km SE of Volcano, Hawaii",earthquake,4.81,8.13,0.106226762818707,8,reviewed,hv,hv
 2024-09-28T16:52:40.721Z,-15.4017,-178.7344,10,4.9,mb,61,125,1.239,0.65,us,us7000nh0b,2024-09-28T17:26:18.040Z,"137 km SSW of Leava, Wallis and Futuna",earthquake,4.18,1.852,0.073,59,reviewed,us,us
 2024-09-28T16:37:37.096Z,31.589,-104.546,4.4155,1.5,ml,8,161,0.1,0.1,tx,tx2024tckq,2024-09-28T17:09:37.336Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.44391655921936,0.1,6,automatic,tx,tx
+2024-09-28T16:35:58.370Z,46.59866666666667,-119.803,7.54,0.84,ml,15,79,0.03072,0.17,uw,uw62042252,2024-09-29T00:05:24.420Z,"12 km SE of Desert Aire, Washington",earthquake,0.28,0.16,0.14737630656892364,12,reviewed,uw,uw
 2024-09-28T16:34:45.429Z,35.53398132,-96.75893402,4.57976532,1.68,ml,15,48.77348328,0.0173853226,0.5404812372,ok,ok2024tckd,2024-09-28T16:43:47.609Z,"8 km NW of Prague, Oklahoma",earthquake,3.012631606,2.335334926,0.2,10,automatic,ok,ok
 2024-09-28T16:27:15.421Z,-39.4403,-72.3236,86.819,4.3,mb,27,90,0.192,0.85,us,us7000nh04,2024-09-28T19:17:14.040Z,"19 km SSW of Villarrica, Chile",earthquake,2.93,5.112,0.106,26,reviewed,us,us
 2024-09-28T16:08:26.000Z,38.5208,-119.5244,6.4,2.4,ml,17,121.75000000000003,0.07,0.1253,nn,nn00885344,2024-09-28T21:08:57.014Z,"4 km W of Walker, California",earthquake,,1.8,0.32,5,reviewed,nn,nn
@@ -61,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T15:41:50.533Z,61.957,-150.9833,61.8,1.8,ml,,,,0.16,ak,ak024ci3csnh,2024-09-28T15:43:17.083Z,"22 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-28T15:41:13.878Z,37.0019,-117.8984,2.4,1.5,ml,24,168.77999999999997,0.27,0.2408,nn,nn00885341,2024-09-28T15:45:18.729Z,"34 km NE of Independence, California",earthquake,,2,0.19,13,automatic,nn,nn
 2024-09-28T15:40:47.777Z,-11.0417,161.399,15.819,5,mww,86,44,2.14,0.63,us,us7000ngzw,2024-09-28T16:06:45.040Z,"86 km SW of Kirakira, Solomon Islands",earthquake,8.25,3.932,0.089,12,reviewed,us,us
-2024-09-28T15:32:04.580Z,38.5125,-119.536666666667,3.6,3.43,mw,24,97,0.04466,0.09,nc,nc75067836,2024-09-29T00:00:25.630Z,"5 km W of Walker, CA",earthquake,0.2,0.46,,6,reviewed,nc,nc
+2024-09-28T15:32:04.580Z,38.5125,-119.536666666667,3.6,3.43,mw,24,97,0.04466,0.09,nc,nc75067836,2024-09-29T00:05:02.737Z,"5 km W of Walker, CA",earthquake,0.2,0.46,,6,reviewed,nc,nc
 2024-09-28T15:26:47.150Z,46.653499603271484,-121.92033386230469,0.0799999982118607,0.360000014,md,40,119,,0.0900000036,uw,uw62042232,2024-09-28T15:28:54.690Z,"14 km SE of Ashford, Washington",earthquake,0.3,10.9099998,0.349999994,2,automatic,uw,uw
 2024-09-28T15:22:37.602Z,63.1894,-151.3445,0.1,1.4,ml,,,,0.63,ak,ak024ci38p1s,2024-09-28T15:24:23.012Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-28T15:19:49.210Z,34.0788333,-117.4466667,2.93,1.02,ml,34,55,0.0217,0.16,ci,ci40747711,2024-09-28T23:21:41.585Z,"2 km SSE of Fontana, CA",earthquake,0.16,0.17,0.253,30,automatic,ci,ci
@@ -195,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T00:28:18.496Z,62.1796,-149.7961,2.7,1.4,ml,,,,0.62,ak,ak024chucfsp,2024-09-28T00:30:16.346Z,"3 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-28T00:22:33.650Z,19.2049999237061,-155.482666015625,31.3899993896484,2.43000007,md,47,86,0.04582,0.129999995,hv,hv74480127,2024-09-28T00:24:20.160Z,"0 km WNW of Pāhala, Hawaii",earthquake,0.45,0.610000014,0.25999999,25,automatic,hv,hv
 2024-09-28T00:14:12.690Z,38.8310012817383,-122.815498352051,1.28999996185303,0.48,md,7,83,0.008697,0.01,nc,nc75067561,2024-09-28T02:07:17.646Z,"8 km NNW of The Geysers, CA",earthquake,0.46,1.22000003,0.36,7,automatic,nc,nc
-2024-09-28T00:10:59.619Z,62.6753,-151.9978,1.2,1.4,ml,,,,1.12,ak,ak024chu8o2x,2024-09-28T00:13:24.927Z,"66 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
