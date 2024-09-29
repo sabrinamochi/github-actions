@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T10:13:14.451Z,37.0755,-116.2486,1.8,-0.3,ml,9,117.00999999999999,0.148,0.2559,nn,nn00885364,2024-09-29T10:15:11.055Z,"49 km ENE of Beatty, Nevada",earthquake,,4.9,0.37,4,automatic,nn,nn
 2024-09-29T10:11:33.380Z,38.8333320617676,-122.821166992188,1.62999999523163,0.19,md,7,101,0.01235,0.01,nc,nc75068171,2024-09-29T11:34:28.064Z,"8 km NNW of The Geysers, CA",earthquake,0.73,1.32000005,0.08,9,automatic,nc,nc
 2024-09-29T09:53:08.610Z,36.9129981994629,-121.646667480469,6.84000015258789,1.77,md,29,80,0.02162,0.12,nc,nc75068166,2024-09-29T12:25:54.812Z,"3 km N of Aromas, CA",earthquake,0.31,0.560000002,0.16,14,automatic,nc,nc
-2024-09-29T09:47:33.200Z,36.9123344421387,-121.656669616699,7.38000011444092,4.15,mw,66,48,0.01898,0.17,nc,nc75068161,2024-09-29T12:40:34.157Z,"3 km NNW of Aromas, CA",earthquake,0.25,0.550000012,,29,reviewed,nc,nc
+2024-09-29T09:47:33.220Z,36.9118333333333,-121.653333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-09-29T12:47:19.269Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
 2024-09-29T09:45:19.480Z,62.4733,-148.3049,172.3,1.6,ml,,,,0.66,ak,ak024cjncbzg,2024-09-29T09:47:54.264Z,"75 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-29T09:38:55.171Z,61.8887,-151.8183,10.6,1.8,ml,,,,1.35,ak,ak024cjnb0lo,2024-09-29T09:41:28.399Z,"24 km WSW of Skwentna, Alaska",earthquake,,4,,,automatic,ak,ak
 2024-09-29T09:35:45.880Z,38.8193321228027,-122.81266784668,3.15000009536743,0.69,md,11,89,0.004535,0.02,nc,nc75068151,2024-09-29T09:37:20.951Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.01999998,0.24,12,automatic,nc,nc
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T23:55:56.590Z,36.2106667,-118.0138333,2.38,1.44,ml,25,93,0.1587,0.2,ci,ci40747911,2024-09-29T00:02:02.041Z,"8 km S of Olancha, CA",earthquake,0.35,0.88,0.156,16,automatic,ci,ci
 2024-09-28T23:49:30.949Z,58.2933,-155.0031,0.7,1,ml,,,,1.12,ak,ak024ci85xq9,2024-09-28T23:53:13.492Z,"86 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2024-09-28T23:38:43.477Z,60.3612,-146.8625,20.6,1.7,ml,,,,0.73,ak,ak024ci83lsr,2024-09-28T23:41:03.657Z,"57 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-28T23:11:47.210Z,34.0755005,-117.5134964,14.66,3.15,ml,41,137,0.369,0.26,ci,ci40747903,2024-09-29T08:10:02.682Z,"6 km WSW of Fontana, CA",earthquake,0.35,1.17,0.325,20,reviewed,ci,ci
+2024-09-28T23:11:47.210Z,34.0755005,-117.5134964,14.66,3.15,ml,41,137,0.369,0.26,ci,ci40747903,2024-09-29T12:44:36.238Z,"6 km WSW of Fontana, CA",earthquake,0.35,1.17,0.325,20,reviewed,ci,ci
 2024-09-28T23:10:33.874Z,64.9805,-147.4184,2.8,1.2,ml,,,,0.4,ak,ak024ci7xl0b,2024-09-28T23:12:49.141Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-28T22:49:25.180Z,38.8404998779297,-122.838500976562,1.22000002861023,0.73,md,14,115,0.01757,0.03,nc,nc75067991,2024-09-29T00:49:25.368Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.49000001,0.21,15,automatic,nc,nc
 2024-09-28T22:21:26.857Z,61.38,-149.4992,31.9,2,ml,,,,0.39,ak,ak024ci7ehql,2024-09-29T02:56:11.009Z,"7 km NNE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T13:08:14.958Z,36.668,-115.114,1.7,1,ml,16,313.51000000000005,0.68,0.3247,nn,nn00885324,2024-09-28T13:10:46.059Z,"46 km W of Moapa Town, Nevada",earthquake,,25.5,0.36,10,automatic,nn,nn
 2024-09-28T13:01:47.740Z,34.0176667,-116.7611667,17.42,2.93,ml,120,24,0.04246,0.18,ci,ci40747655,2024-09-28T14:11:42.040Z,"11 km NNE of Cabazon, CA",earthquake,0.11,0.26,0.171,25,automatic,ci,ci
 2024-09-28T12:56:28.323Z,14.3687,-92.9564,49.202,4.3,mb,40,209,2.06,0.84,us,us7000ngz8,2024-09-29T06:46:40.040Z,"69 km SW of Puerto Madero, Mexico",earthquake,11.36,12.217,0.067,63,reviewed,us,us
-2024-09-28T12:46:08.928Z,36.7054,-116.1489,1.2,-0.1,ml,17,57.889999999999986,0.018,0.0982,nn,nn00885336,2024-09-28T14:56:35.488Z,"45 km WNW of Indian Springs, Nevada",earthquake,,2.3,0.12,7,reviewed,nn,nn
