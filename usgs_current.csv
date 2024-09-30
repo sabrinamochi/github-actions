@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-30T21:19:01.406Z,36.2993,-115.1354,4.3,1.5,ml,16,278.89000000000004,0.206,0.3859,nn,nn00885413,2024-09-30T21:21:41.337Z,"9 km NW of Nellis Air Force Base, Nevada",earthquake,,2.2,0.2,13,automatic,nn,nn
 2024-09-30T21:11:40.110Z,38.8354988098145,-122.799499511719,2.00999999046326,0.65,md,13,69,0.007718,0.02,nc,nc75068781,2024-09-30T21:13:18.592Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.709999979,0.19,15,automatic,nc,nc
 2024-09-30T21:04:38.847Z,35.98368073,-96.81612396,4.065315247,1.83,ml,36,37.80999756,0.0146730477,0.2770676469,ok,ok2024tgka,2024-09-30T21:14:24.538Z,"4 km W of Cushing, Oklahoma",earthquake,2.145656721,1.926134244,0.23,16,automatic,ok,ok
 2024-09-30T20:59:24.700Z,38.8445014953613,-122.830497741699,1.26999998092651,0.22,md,8,121,0.007074,0.02,nc,nc75068756,2024-09-30T21:01:02.219Z,"10 km WNW of Cobb, CA",earthquake,0.33,0.699999988,0.1,9,automatic,nc,nc
@@ -181,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T01:50:47.393Z,36.789,-115.5161,10.8,0.7,ml,28,181.2,0.342,0.174,nn,nn00885378,2024-09-30T18:28:00.106Z,"27 km NNE of Indian Springs, Nevada",earthquake,,3.3,0.18,10,reviewed,nn,nn
 2024-09-30T01:48:00.323Z,13.2819,-90.9897,35,4.4,mb,36,165,1.331,0.84,us,us7000nh62,2024-09-30T02:07:04.485Z,"73 km SSW of Puerto San José, Guatemala",earthquake,5.85,1.75,0.053,103,reviewed,us,us
 2024-09-30T01:44:44.570Z,40.6495,-121.327666666667,5.84,0.97,md,13,210,0.06814,0.07,nc,nc75068391,2024-09-30T19:51:36.320Z,"33 km ENE of Viola, CA",earthquake,1.22,0.8,0.07,6,reviewed,nc,nc
+2024-09-30T01:43:53.970Z,60.062,-153.074333333333,3.27,-0.56,ml,5,225,0.007124,0.23,av,av93292163,2024-09-30T21:23:52.180Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.56,1.26,0.41864144128004,5,reviewed,av,av
 2024-09-30T01:43:30.040Z,40.6088333333333,-121.363833333333,5.65,1.73,md,26,60,0.01913,0.21,nc,nc75068386,2024-09-30T19:41:03.346Z,"28 km E of Viola, CA",earthquake,0.34,0.75,0.153,14,reviewed,nc,nc
 2024-09-30T01:37:55.750Z,38.8450012207031,-122.831832885742,1.62000000476837,0.81,md,7,133,0.00701,0.03,nc,nc75068381,2024-09-30T02:32:14.575Z,"10 km WNW of Cobb, CA",earthquake,0.42,1.05999994,0.25,8,automatic,nc,nc
 2024-09-30T01:23:21.759Z,58.1796,-154.803,79.7,1.6,ml,,,,0.51,ak,ak024cl5zi27,2024-09-30T01:25:24.041Z,"71 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -217,8 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T21:44:31.550Z,33.699,-116.7281667,17.35,1.57,ml,76,22,0.01684,0.18,ci,ci40748399,2024-09-30T14:12:53.530Z,"5 km S of Idyllwild, CA",earthquake,0.14,0.26,0.209,26,reviewed,ci,ci
 2024-09-29T21:40:18.960Z,38.8338317871094,-122.783836364746,1.98000001907349,1.55,md,31,58,0.006835,0.03,nc,nc75068326,2024-09-29T21:44:27.450Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.300000012,0.11,26,automatic,nc,nc
 2024-09-29T21:29:48.942Z,58.9719,-154.2401,110.7,3.8,ml,,,,0.55,ak,ak024cjue5zc,2024-09-30T04:31:05.646Z,"60 km SSE of Kokhanok, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-09-29T21:23:43.841Z,63.4438,-147.9423,16.4,1.1,ml,,,,0.51,ak,ak024cjucvdc,2024-09-29T21:26:06.670Z,"50 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-29T21:23:00.765Z,63.8038,-147.6757,12.4,1.1,ml,,,,0.31,ak,ak024cjucs2a,2024-09-29T21:25:54.473Z,"61 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-29T21:22:04.530Z,38.4891666666667,-112.874166666667,0.82,0.82,md,11,129,0.006006,0.07,uu,uu80083571,2024-09-30T15:23:15.480Z,"15 km NE of Milford, Utah",earthquake,0.31,0.48,0.25492252040311,3,reviewed,uu,uu
-2024-09-29T21:20:09.040Z,38.8139991760254,-122.762168884277,1.87999999523163,0.76,md,8,108,0.01349,0.02,nc,nc75068321,2024-09-29T22:24:26.773Z,"4 km W of Cobb, CA",earthquake,0.38,0.819999993,0.05,9,automatic,nc,nc
-2024-09-29T21:15:26.308Z,59.8161,-152.3774,68.4,1.4,ml,,,,0.15,ak,ak024cjub4ae,2024-09-29T21:16:59.021Z,"30 km W of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
