@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-01T13:13:24.945Z,55.5464,-158.9731,31.2,2.4,ml,,,,0.25,ak,ak024cn0lwwe,2024-10-01T13:15:17.472Z,"42 km SSE of Perryville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-01T13:02:24.228Z,63.9163,-150.0586,3.9,1.7,ml,,,,0.4,ak,ak024cn0jjyu,2024-10-01T13:04:00.666Z,"47 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-01T12:35:00.540Z,19.4060001373291,-155.286331176758,5.98999977111816,2.1500001,md,26,40,0.01179,0.219999999,hv,hv74484207,2024-10-01T12:37:52.560Z,"6 km SW of Volcano, Hawaii",earthquake,0.42,0.589999974,0.209999993,16,automatic,hv,hv
 2024-10-01T12:28:08.452Z,31.596,-103.959,7.1589,1.6,ml,16,69,0,0.3,tx,tx2024thoy,2024-10-01T12:42:15.177Z,"34 km NNW of Toyah, Texas",earthquake,0,2.50394177436829,0.2,12,automatic,tx,tx
@@ -80,7 +81,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T03:02:08.460Z,34.6945,-118.1653366,22.68,1.57,ml,9,164,0.07331,0.19,ci,ci40749351,2024-10-01T03:08:39.240Z,"1 km NW of Lancaster, CA",earthquake,4.27,5.84,0.31,25,automatic,ci,ci
 2024-10-01T02:51:59.290Z,33.0321667,-115.8683333,7.26,1.11,ml,32,52,0.09243,0.23,ci,ci40749343,2024-10-01T02:58:06.000Z,"23 km W of Westmorland, CA",earthquake,0.28,0.95,0.194,14,automatic,ci,ci
 2024-10-01T02:49:46.370Z,35.8918333,-117.6845,9.25,0.7,ml,23,43,0.06243,0.15,ci,ci40749335,2024-10-01T02:55:32.517Z,"21 km ESE of Little Lake, CA",earthquake,0.2,0.56,0.158,9,automatic,ci,ci
-2024-10-01T02:23:15.696Z,32.068,-103.787,4.043,1.5,ml,9,209,0.1,0.4,tx,tx2024tguy,2024-10-01T02:27:58.933Z,"32 km ESE of Malaga, New Mexico",earthquake,0,2.87156867980957,0.3,7,automatic,tx,tx
 2024-10-01T02:18:21.746Z,1.0767,98.8638,101.066,5,mb,52,93,1.308,1.15,us,us7000nhcp,2024-10-01T02:30:40.040Z,"56 km SW of Padangsidempuan, Indonesia",earthquake,6.38,7.288,0.103,30,reviewed,us,us
 2024-10-01T02:16:24.984Z,51.0198,-176.1399,10.6,3.4,ml,,,,0.55,ak,ak024cmu2sio,2024-10-01T02:42:46.942Z,"101 km SSE of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-10-01T02:14:55.620Z,34.0161667,-116.637001,8.77,1.35,ml,8,239,0.2257,0.19,ci,ci40749327,2024-10-01T02:27:10.970Z,"6 km WSW of Morongo Valley, CA",earthquake,1.93,5.78,0.385,9,automatic,ci,ci
@@ -121,7 +121,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T21:53:44.400Z,46.8265,-121.52666666666667,-1,0.5,ml,14,238,0.08597,0.19,uw,uw62042882,2024-10-01T02:04:53.280Z,"26 km NNE of Packwood, Washington",earthquake,0.68,17.69,0.17375044108754092,8,reviewed,uw,uw
 2024-09-30T21:36:00.760Z,19.3349990844727,-155.15299987793,1.71000003814697,1.79,ml,45,94,0.04682,0.230000004,hv,hv74483447,2024-09-30T21:38:53.870Z,"14 km S of Fern Forest, Hawaii",earthquake,0.29,0.439999998,0.26,10,automatic,hv,hv
 2024-09-30T21:23:41.460Z,33.4768333,-116.8889999,12.55,1.12,ml,30,58,0.01937,0.17,ci,ci40749167,2024-09-30T21:27:09.987Z,"4 km NNW of Aguanga, CA",earthquake,0.27,0.71,0.156,28,automatic,ci,ci
-2024-09-30T21:21:45.769Z,31.623,-104.474,3.3717,1.6,ml,7,126,0,0.2,tx,tx2024tgkv,2024-09-30T21:54:17.107Z,"61 km S of Whites City, New Mexico",earthquake,0,3.19857096672058,0.1,7,automatic,tx,tx
 2024-09-30T21:11:40.110Z,38.8354988098145,-122.799499511719,2.00999999046326,0.65,md,13,69,0.007718,0.02,nc,nc75068781,2024-09-30T21:13:18.592Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.709999979,0.19,15,automatic,nc,nc
 2024-09-30T21:04:38.810Z,35.98383333,-96.81733333,5.7,1.7,ml,69,38,0,0.21,ok,ok2024tgka,2024-09-30T22:51:06.514Z,"4 km W of Cushing, Oklahoma",earthquake,,0.4,0.22,33,reviewed,ok,ok
 2024-09-30T21:04:11.610Z,36.8056666666667,-121.358666666667,8.6,1.26,md,20,62,0.04872,0.08,nc,nc75068776,2024-10-01T11:07:22.711Z,"1 km SSE of Ridgemark, CA",earthquake,0.3,0.48,0.269,16,reviewed,nc,nc
@@ -208,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T13:44:19.680Z,32.9591667,-115.8543333,9.17,2.01,ml,63,28,0.02563,0.24,ci,ci40748807,2024-09-30T20:14:24.890Z,"23 km WSW of Westmorland, CA",earthquake,0.18,0.4,0.176,53,reviewed,ci,ci
 2024-09-30T13:31:32.370Z,19.162166595459,-155.475006103516,32.2599983215332,1.75999999,md,43,107,0.01392,0.119999997,hv,hv74482972,2024-09-30T13:33:25.670Z,"4 km S of Pāhala, Hawaii",earthquake,0.61,0.790000021,0.0900000036,3,automatic,hv,hv
 2024-09-30T13:25:52.054Z,31.659,-104.408,6.0999,1.9,ml,16,71,0,0.2,tx,tx2024tfux,2024-09-30T19:32:20.251Z,"57 km S of Whites City, New Mexico",earthquake,0.8174635757027312,0.6950916487677586,0.1,12,reviewed,tx,tx
-2024-09-30T13:10:23.392Z,63.3105,-145.2847,7.9,1.3,ml,,,,1.02,ak,ak024cld1x4y,2024-09-30T13:13:30.649Z,"29 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-30T13:07:35.640Z,38.3258323669434,-122.571662902832,3.14000010490417,1.27,md,7,127,0.06736,0.03,nc,nc75068556,2024-09-30T14:24:24.726Z,"6 km SW of Glen Ellen, CA",earthquake,0.4,2.23000002,0.23,8,automatic,nc,nc
