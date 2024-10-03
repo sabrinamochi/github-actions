@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-03T10:19:24.140Z,38.7586669921875,-122.730331420898,2.0699999332428,1.16,md,16,146,0.00518,0.03,nc,nc75069871,2024-10-03T10:22:07.495Z,"3 km SE of The Geysers, CA",earthquake,0.38,0.300000012,0.1,14,automatic,nc,nc
+2024-10-03T10:15:37.510Z,33.632,-116.6841667,13.86,0.63,ml,33,48,0.03781,0.13,ci,ci40751079,2024-10-03T10:23:00.616Z,"9 km N of Anza, CA",earthquake,0.17,0.3,0.242,12,automatic,ci,ci
+2024-10-03T10:15:23.280Z,33.6276667,-116.6825,13.77,0.57,ml,36,49,0.04176,0.11,ci,ci40751071,2024-10-03T10:22:57.990Z,"8 km N of Anza, CA",earthquake,0.15,0.24,0.252,14,automatic,ci,ci
 2024-10-03T10:07:48.950Z,19.332332611084,-155.285171508789,28.8299999237061,1.84000003,md,50,80,0.01541,0.140000001,hv,hv74486572,2024-10-03T10:09:25.400Z,"13 km SSW of Volcano, Hawaii",earthquake,0.35,0.400000006,0.189999998,11,automatic,hv,hv
 2024-10-03T10:06:59.870Z,31.502,-103.988,4.7679,1.8,ml,15,75,0,0.5,tx,tx2024tlax,2024-10-03T10:11:53.867Z,"27 km NW of Toyah, Texas",earthquake,0,1.37294173240662,0.2,13,automatic,tx,tx
 2024-10-03T10:00:29.110Z,34.0963333,-117.5065,13.27,1,ml,47,51,0.03828,0.15,ci,ci40751063,2024-10-03T10:14:55.884Z,"4 km W of Fontana, CA",earthquake,0.19,0.29,0.248,30,automatic,ci,ci
@@ -57,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T02:38:28.970Z,38.7891654968262,-122.769500732422,1.74000000953674,0.74,md,8,99,0.01494,0.03,nc,nc75069736,2024-10-03T02:40:06.486Z,"2 km NNW of The Geysers, CA",earthquake,0.51,1.19000006,0.12,8,automatic,nc,nc
 2024-10-03T02:32:09.270Z,60.7836,-148.8897,8.9,1.2,ml,,,,0.25,ak,ak024cq58vmn,2024-10-03T02:33:28.038Z,"11 km W of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-03T02:25:32.769Z,60.1596,-152.9441,124.1,1.2,ml,,,,0.25,ak,ak024cq57ffg,2024-10-03T02:27:20.702Z,"71 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-03T02:18:33.013Z,31.675,-104.482,6.1668,1.8,ml,8,73,0,0.2,tx,tx2024tkls,2024-10-03T02:45:32.010Z,"56 km S of Whites City, New Mexico",earthquake,0,2.80148959159851,0.2,6,automatic,tx,tx
+2024-10-03T02:18:33.077Z,31.673,-104.483,6.0999,1.4,ml,18,70,0,0.2,tx,tx2024tkls,2024-10-03T10:16:14.873Z,"56 km S of Whites City, New Mexico",earthquake,1.048008810345053,0.6408925956001393,0.3,13,reviewed,tx,tx
 2024-10-03T02:05:37.387Z,62.0273,-148.7853,22.1,1,ml,,,,0.45,ak,ak024cq535gq,2024-10-03T02:07:28.726Z,"27 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-03T01:54:10.908Z,61.8178,-154.2508,3.9,1.5,ml,,,,0.27,ak,ak024cq4s5wi,2024-10-03T01:55:57.327Z,"81 km NE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-03T01:50:31.220Z,-46.9021,33.3953,10,5,mb,38,77,17.408,0.79,us,us6000nw77,2024-10-03T02:12:52.040Z,"Prince Edward Islands region",earthquake,12.89,1.817,0.109,28,reviewed,us,us
@@ -249,6 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T10:36:24.110Z,32.7621667,-116.027,10.21,0.6,ml,20,72,0.01595,0.21,ci,ci40750199,2024-10-02T18:06:16.367Z,"4 km NW of Ocotillo, CA",earthquake,0.35,0.65,0.117,5,reviewed,ci,ci
 2024-10-02T10:30:43.930Z,19.4034996032715,-155.281829833984,7.11999988555908,2,md,31,28,0.01119,0.25999999,hv,hv74485412,2024-10-02T10:33:38.130Z,"6 km SW of Volcano, Hawaii",earthquake,0.4,0.550000012,0.239999995,15,automatic,hv,hv
 2024-10-02T10:26:47.120Z,18.6846666666667,-67.2791666666667,44.98,2.84,md,9,300,0.2287,0.16,pr,pr71461563,2024-10-02T11:04:07.870Z,"28 km NW of San Antonio, Puerto Rico",earthquake,0.89,1.01,0.0853375077544678,6,reviewed,pr,pr
-2024-10-02T10:25:02.710Z,61.3075,-152.2485,2.79,-0.76,ml,8,141,0.06177,0.07,av,av93295308,2024-10-03T00:15:42.880Z,"65 km WNW of Beluga, Alaska",earthquake,0.32,0.69,0.149960364700362,7,reviewed,av,av
-2024-10-02T10:21:22.177Z,58.2313,-155.104,1.1,0.5,ml,,,,0.06,ak,ak024comeo3d,2024-10-03T00:08:19.740Z,"83 km NNW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2024-10-02T10:15:18.120Z,33.457,-116.585,7.6,0.64,ml,45,44,0.04025,0.15,ci,ci40750183,2024-10-02T13:23:41.150Z,"14 km SE of Anza, CA",earthquake,0.15,0.3,0.168,20,reviewed,ci,ci
