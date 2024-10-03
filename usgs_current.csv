@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-03T16:39:11.720Z,35.786499,-117.6096649,6.49,1.1,ml,14,108,0.03081,0.15,ci,ci40751311,2024-10-03T16:41:28.144Z,"19 km W of Searles Valley, CA",earthquake,0.43,1.03,0.275,5,automatic,ci,ci
+2024-10-03T16:39:11.680Z,35.786,-117.6083333,6.8,1,ml,22,58,0.03095,0.13,ci,ci40751311,2024-10-03T16:45:08.749Z,"19 km W of Searles Valley, CA",earthquake,0.18,0.35,0.243,9,automatic,ci,ci
 2024-10-03T16:38:56.874Z,35.92529297,-95.1210556,5,2,ml,16,115.2707748,0.5835579634,0.415638398,ok,ok2024tlnu,2024-10-03T16:48:20.960Z,"2 km ESE of Hulbert, Oklahoma",earthquake,4.819557682,,0.13,5,automatic,ok,ok
 2024-10-03T16:24:45.653Z,61.5241,-149.7682,33.8,1.4,ml,,,,0.11,ak,ak024cqdjb6d,2024-10-03T16:26:01.712Z,"7 km NNW of Knik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-03T16:06:00.947Z,63.1983,-151.2785,2.6,1.6,ml,,,,0.46,ak,ak024cqdfcu6,2024-10-03T16:07:55.847Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T08:19:04.925Z,21.3209,-45.3988,10,5,mb,94,52,15.643,0.65,us,us6000nw8l,2024-10-03T08:36:38.040Z,"northern Mid-Atlantic Ridge",earthquake,11.07,1.881,0.058,96,reviewed,us,us
 2024-10-03T08:18:25.240Z,33.5015,-116.4913333,13.55,0.42,ml,26,61,0.06494,0.12,ci,ci40751039,2024-10-03T14:05:13.275Z,"18 km ESE of Anza, CA",earthquake,0.2,0.38,0.127,7,reviewed,ci,ci
 2024-10-03T08:17:22.520Z,18.2558,-64.857,66,3.57,md,12,204,0.1387,0.06,pr,pr2024277001,2024-10-03T08:44:54.566Z,"10 km SW of Cruz Bay, U.S. Virgin Islands",earthquake,4.11,1.03,0.23,10,reviewed,pr,pr
-2024-10-03T08:14:58.960Z,33.835,-117.8018333,9.04,1.71,ml,89,30,0.01228,0.21,ci,ci40751031,2024-10-03T16:44:15.998Z,"2 km NNE of Villa Park, CA",earthquake,0.16,0.35,0.141,78,reviewed,ci,ci
+2024-10-03T08:14:58.960Z,33.835,-117.8018333,9.04,1.71,ml,89,30,0.01228,0.21,ci,ci40751031,2024-10-03T16:45:11.120Z,"2 km NNE of Villa Park, CA",earthquake,0.16,0.35,0.141,78,reviewed,ci,ci
 2024-10-03T07:58:03.038Z,61.6736,-150.902,100.5,1.4,ml,,,,0.34,ak,ak024cq8dlsf,2024-10-03T07:59:57.355Z,"25 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-03T07:53:47.790Z,19.2450008392334,-155.412338256836,32.0400009155273,1.95000005,md,48,90,0.01588,0.119999997,hv,hv74486452,2024-10-03T07:55:38.950Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.43,0.389999986,0.0500000007,9,automatic,hv,hv
 2024-10-03T07:48:47.330Z,34.021,-117.5891667,5.3,1.22,ml,67,35,0.01936,0.17,ci,ci40751023,2024-10-03T16:04:57.830Z,"5 km SE of Ontario, CA",earthquake,0.14,0.25,0.158,39,reviewed,ci,ci
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T17:09:56.760Z,34.0875,-118.1878333,9.79,1.39,ml,28,48,0.02758,0.13,ci,ci40750487,2024-10-02T21:48:07.900Z,"4 km SSE of Highland Park, CA",earthquake,0.21,0.37,0.16,17,reviewed,ci,ci
 2024-10-02T17:06:43.761Z,31.768,-103.804,7.0355,1.8,ml,12,68,0,0.1,tx,tx2024tjtn,2024-10-03T12:32:54.078Z,"20 km WNW of Mentone, Texas",earthquake,0.3731399567501276,0.5624787606769253,0.1,36,reviewed,tx,tx
 2024-10-02T17:03:56.270Z,58.3,-154.986833333333,2.86,-0.49,ml,7,142,0.0405,0.09,av,av93295658,2024-10-03T05:13:42.550Z,"87 km NNW of Karluk, Alaska",earthquake,0.43,0.69,0.290331805982197,7,reviewed,av,av
-2024-10-02T16:46:07.250Z,46.96333333333333,-120.341,-0.82,1.9100000000000001,ml,16,98,0.1098,0.74,uw,uw62043227,2024-10-02T20:34:26.690Z,"6 km ESE of Kittitas, Washington",earthquake,1.32,2.55,0.09620564591702874,12,reviewed,uw,uw
