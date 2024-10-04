@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T19:23:04.800Z,46.60183333333333,-119.79666666666667,7.76,1.32,ml,15,78,0.0254,0.08,uw,uw62043757,2024-10-04T20:27:14.540Z,"12 km SE of Desert Aire, Washington",earthquake,0.31,0.14,0.13317999315113926,11,reviewed,uw,uw
 2024-10-04T19:22:11.278Z,31.666,-104.385,4.213,1.9,ml,17,70,0,0.2,tx,tx2024tnor,2024-10-04T19:35:24.064Z,"56 km S of Whites City, New Mexico",earthquake,0,1.49725770950317,0.1,13,automatic,tx,tx
 2024-10-04T19:20:44.970Z,32.9341667,-116.3421667,9.64,0.97,ml,38,40,0.03846,0.18,ci,ci40751943,2024-10-04T19:26:48.936Z,"22 km NE of Pine Valley, CA",earthquake,0.21,0.42,0.199,20,automatic,ci,ci
-2024-10-04T19:17:03.950Z,32.9341667,-116.3443333,9.73,1.41,ml,55,39,0.04001,0.18,ci,ci40751935,2024-10-04T19:27:45.900Z,"21 km NE of Pine Valley, CA",earthquake,0.15,0.35,0.208,26,automatic,ci,ci
+2024-10-04T19:17:03.870Z,32.9338333,-116.3428333,10.62,1.41,ml,52,39,0.03911,0.18,ci,ci40751935,2024-10-04T23:20:57.720Z,"21 km NE of Pine Valley, CA",earthquake,0.16,0.32,0.21,25,reviewed,ci,ci
 2024-10-04T18:40:43.468Z,56.5679,-149.3397,19.95,3.3,ml,42,191,2.145,0.55,us,us6000nwl2,2024-10-04T20:53:23.040Z,"212 km SE of Chiniak, Alaska",earthquake,4.57,8.091,0.044,68,reviewed,us,us
 2024-10-04T18:32:14.341Z,37.8019,-115.1402,6.5,1.1,ml,8,225.29000000000002,0.402,0.1572,nn,nn00885555,2024-10-04T21:22:07.546Z,"23 km NNE of Hiko, Nevada",earthquake,,4.1,0.25,2,reviewed,nn,nn
 2024-10-04T18:12:28.560Z,17.9488333333333,-66.8428333333333,12.93,2.69,md,9,176,0.1928,0.07,pr,pr71461793,2024-10-04T18:29:22.440Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.47,0.56,0.0356675568394484,7,reviewed,pr,pr
@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T10:40:02.040Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T09:26:11.820Z,42.19466666666667,-125.0095,9.22,1.8900000000000001,ml,11,294,0.5043,0.85,uw,uw62043637,2024-10-04T21:16:41.140Z,"51 km W of Pistol River, Oregon",earthquake,27.43,17.77,0.053753267829782514,3,reviewed,uw,uw
 2024-10-04T09:14:54.890Z,61.2664,-152.3059,131,2.2,ml,,,,0.64,ak,ak024crwuhzq,2024-10-04T09:18:26.363Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T23:09:36.245Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T23:22:46.861Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
 2024-10-04T09:06:33.000Z,19.1651668548584,-155.40283203125,30.5300006866455,2.01999998,md,53,169,0.05687,0.119999997,hv,hv74487722,2024-10-04T09:08:13.400Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.189999998,21,automatic,hv,hv
 2024-10-04T09:04:36.580Z,35.8916667,-117.6846667,10.15,0.26,ml,19,76,0.06264,0.1,ci,ci40751743,2024-10-04T18:58:12.436Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.4,0.106,5,reviewed,ci,ci
 2024-10-04T09:03:22.010Z,36.397,-118.8086667,4.48,1.73,ml,25,120,0.09842,0.13,ci,ci40751735,2024-10-04T18:55:08.257Z,"10 km ESE of Three Rivers, CA",earthquake,0.22,0.65,0.173,20,reviewed,ci,ci
@@ -236,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T23:28:57.870Z,37.5423333333333,-118.853166666667,0.84,0.75,md,10,276,0.05131,0.05,nc,nc75070076,2024-10-04T06:06:40.084Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.75,3.09,0.191,9,reviewed,nc,nc
 2024-10-03T23:24:38.269Z,63.1999,-151.3263,0,1.4,ml,,,,0.54,ak,ak024cqhpbvf,2024-10-03T23:27:15.273Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T23:23:48.460Z,58.5816666666667,-154.701833333333,9.96,0.23,ml,5,152,0.0838,0.18,av,av93023134,2024-10-04T02:02:11.890Z,"95 km S of Kokhanok, Alaska",earthquake,0.57,1.37,0.0805393465591027,5,reviewed,av,av
-2024-10-03T23:18:48.784Z,64.9031,-147.3855,6.7,1.5,ml,,,,0.98,ak,ak024cqho2c4,2024-10-03T23:22:32.389Z,"12 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-03T23:17:06.509Z,68.7538,-145.4003,6,2.1,ml,,,,0.45,ak,ak024cqhnrdm,2024-10-03T23:20:14.403Z,"70 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
