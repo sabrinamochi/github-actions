@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-09T20:23:46.160Z,38.823833465576,-122.80083465576,2.4100000858307,1.35,md,32,31,0.00723,0.02,nc,nc75072456,2024-10-09T20:25:25.025Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.349999994,0.15,32,automatic,nc,nc
 2024-10-09T20:19:11.620Z,58.9658,-138.1057,0.1,3.6,ml,,,,0.78,ak,ak024d0d3zdq,2024-10-09T20:21:54.696Z,"112 km SE of Yakutat, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-10-09T20:18:55.680Z,33.1225014,-115.626503,9.36,1.54,ml,22,77,0.03891,0.17,ci,ci40755687,2024-10-09T20:21:07.396Z,"10 km N of Westmorland, CA",earthquake,0.38,0.73,0.361,14,automatic,ci,ci
+2024-10-09T20:18:55.680Z,33.1225,-115.6268333,9.68,1.47,ml,40,76,0.03919,0.22,ci,ci40755687,2024-10-09T20:25:02.418Z,"10 km N of Westmorland, CA",earthquake,0.22,0.41,0.192,29,automatic,ci,ci
 2024-10-09T20:16:58.680Z,63.5984,-149.5562,53.6,1.3,ml,,,,1.05,ak,ak024d0d3fu4,2024-10-09T20:18:44.607Z,"35 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-09T20:16:31.631Z,60.4342,-152.0902,75.9,1.3,ml,,,,0.27,ak,ak024d0d3dqz,2024-10-09T20:17:45.671Z,"43 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-09T20:13:30.950Z,33.0373333,-116.4098333,9.5,0.88,ml,38,42,0.04643,0.16,ci,ci40755679,2024-10-09T20:19:25.382Z,"18 km ESE of Julian, CA",earthquake,0.18,0.4,0.221,15,automatic,ci,ci
@@ -99,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T12:16:35.060Z,39.326000213623,-122.87400054932,0.34000000357628,1.78,md,15,73,0.2021,0.19,nc,nc75072296,2024-10-09T12:47:16.391Z,"12 km SSE of Lake Pillsbury, CA",earthquake,0.39,15.6999998,0.24,6,automatic,nc,nc
 2024-10-09T11:56:08.678Z,69.2747,-144.8441,0.9,2.7,ml,,,,0.57,ak,ak024d07z06b,2024-10-09T12:00:04.440Z,"106 km SSW of Kaktovik, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-10-09T11:54:19.360Z,33.6816667,-116.787,16.36,0.58,ml,34,78,0.06747,0.12,ci,ci40755295,2024-10-09T15:10:45.711Z,"9 km SW of Idyllwild, CA",earthquake,0.16,0.32,0.174,14,reviewed,ci,ci
-2024-10-09T11:44:02.501Z,44.271,-115.0729,13.235,3,ml,27,66,0.232,0.52,us,us6000nxhv,2024-10-09T14:38:07.613Z,"12 km WNW of Stanley, Idaho",earthquake,2.86,7.802,0.038,92,reviewed,us,us
+2024-10-09T11:44:02.501Z,44.271,-115.0729,13.235,3,ml,27,66,0.232,0.52,us,us6000nxhv,2024-10-09T20:25:08.469Z,"12 km WNW of Stanley, Idaho",earthquake,2.86,7.802,0.038,92,reviewed,us,us
 2024-10-09T11:39:50.280Z,19.050832748413,-155.35650634766,32.009998321533,1.77999997,md,41,214,0.1442,0.150000006,hv,hv74494536,2024-10-09T11:41:34.150Z,"21 km SE of Pāhala, Hawaii",earthquake,0.8,0.620000005,0.159999996,4,automatic,hv,hv
 2024-10-09T11:30:58.600Z,32.5648333,-115.2911667,20.36,1.4,ml,21,71,0.1457,0.27,ci,ci40755287,2024-10-09T18:02:12.007Z,"6 km E of Puebla, B.C., MX",earthquake,0.55,1.27,0.332,12,reviewed,ci,ci
 2024-10-09T11:19:41.467Z,37.547,137.4245,10,4.6,mb,63,59,1.178,0.62,us,us6000nxhs,2024-10-09T12:57:45.005Z,"58 km NE of Anamizu, Japan",earthquake,5.69,1.829,0.064,72,reviewed,us,us
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T20:45:00.270Z,38.644664764404,-122.71050262451,5.2699999809265,1.81,md,33,50,0.06418,0.07,nc,nc75072126,2024-10-08T21:24:31.786Z,"14 km NW of Calistoga, CA",earthquake,0.26,0.600000024,0.14,30,automatic,nc,nc
 2024-10-08T20:43:18.438Z,69.2813,-144.9522,0,2.5,ml,,,,0.97,ak,ak024cyppskj,2024-10-09T16:26:23.005Z,"107 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-08T20:29:36.196Z,61.2297,-149.2752,29.3,1.8,ml,,,,0.46,ak,ak024cypmtwz,2024-10-08T20:31:49.283Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-08T20:25:44.522Z,10.4233,-86.2383,10,4.8,mb,103,202,0.895,0.75,us,us6000nxe5,2024-10-08T21:02:20.515Z,"45 km WNW of Tamarindo, Costa Rica",earthquake,6.17,1.946,0.05,126,reviewed,us,us
