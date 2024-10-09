@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-09T13:01:41.598Z,59.794,-151.4083,75,1.9,ml,,,,0.97,ak,ak024d08u5jj,2024-10-09T13:04:53.002Z,"9 km NW of Fritz Creek, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-09T12:58:31.690Z,33.7681667,-116.1283333,3.21,0.88,ml,42,76,0.08269,0.15,ci,ci40755359,2024-10-09T13:04:37.162Z,"10 km ENE of Indio, CA",earthquake,0.16,0.33,0.08,22,automatic,ci,ci
 2024-10-09T12:55:07.606Z,62.4335,-151.1304,82.9,1.8,ml,,,,0.59,ak,ak024d08k7zc,2024-10-09T12:57:26.051Z,"20 km WSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-09T12:51:49.227Z,59.9732,-145.3812,0.2,2,ml,,,,0.7,ak,ak024d08jgbu,2024-10-09T12:53:46.234Z,"66 km SSE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-09T12:37:50.910Z,34.0141667,-117.5905,5.07,1.53,ml,70,23,0.02356,0.17,ci,ci40755335,2024-10-09T12:54:01.288Z,"6 km SE of Ontario, CA",earthquake,0.12,0.23,0.32,20,automatic,ci,ci
@@ -107,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T00:44:23.320Z,61.85,-149.2848,37.8,1.4,ml,,,,0.78,ak,ak024d01cp24,2024-10-09T00:46:20.692Z,"12 km NNW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-09T00:18:16.980Z,34.0246667,-117.5916667,5.49,1.25,ml,44,51,0.03199,0.16,ci,ci40754935,2024-10-09T00:24:34.706Z,"5 km SE of Ontario, CA",earthquake,0.16,0.29,0.246,30,automatic,ci,ci
 2024-10-09T00:15:38.871Z,60.2487,-152.4145,97.1,1.1,ml,,,,0.26,ak,ak024d016ihr,2024-10-09T00:17:40.410Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-09T00:15:07.831Z,36.6005,-116.2796,5.4,-0.2,ml,10,132.74,0.065,0.0691,nn,nn00885740,2024-10-09T13:04:25.535Z,"50 km NNW of Pahrump, Nevada",earthquake,,3.1,0.42,5,reviewed,nn,nn
 2024-10-09T00:02:37.940Z,17.990666666667,-66.8315,3.9,2.88,md,9,156,0.2036,0.24,pr,pr71462093,2024-10-09T04:00:25.656Z,"1 km WSW of Indios, Puerto Rico",earthquake,1.27,1.45,0.042478452003872,4,reviewed,pr,pr
 2024-10-08T23:52:25.740Z,36.138668060303,-120.2200012207,11.210000038147,1.05,md,8,124,0.02858,0.1,nc,nc75072191,2024-10-09T01:42:17.623Z,"12 km ESE of Coalinga, CA",earthquake,1.2,0.699999988,0.03,5,automatic,nc,nc
 2024-10-08T23:48:58.341Z,63.5472,-150.8827,0,1.6,ml,,,,0.6,ak,ak024cyrj91p,2024-10-08T23:51:34.858Z,"41 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -210,7 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T13:28:58.257Z,62.0346,-147.8939,38.3,1.6,ml,,,,0.07,ak,ak024cylgmo1,2024-10-08T13:30:15.644Z,"28 km NNW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-08T13:18:22.740Z,38.784999847412,-122.75283050537,1.4700000286102,1.18,md,16,77,0.01271,0.03,nc,nc75072021,2024-10-08T15:09:28.069Z,"1 km NNE of The Geysers, CA",earthquake,0.25,0.449999988,0.15,16,automatic,nc,nc
 2024-10-08T13:15:46.174Z,62.0726,-150.9906,62.5,1.7,ml,,,,0.37,ak,ak024cyldtfd,2024-10-08T13:17:35.737Z,"23 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-08T13:14:43.562Z,31.589,-104.531,4.2755,1.7,ml,8,155,0.1,0.2,tx,tx2024tuku,2024-10-08T13:27:35.065Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.2453687191009,0.1,6,automatic,tx,tx
+2024-10-08T13:14:44.098Z,31.627,-104.502,7.6892,1.5,ml,25,69,0,0.2,tx,tx2024tuku,2024-10-09T13:03:02.828Z,"61 km S of Whites City, New Mexico",earthquake,1.3997548072835,0.87290870725216,0.1,19,reviewed,tx,tx
 2024-10-08T13:14:27.700Z,34.1796667,-117.2318333,1.97,0.84,ml,32,69,0.05266,0.2,ci,ci40754551,2024-10-08T21:14:31.945Z,"6 km NNW of Highland, CA",earthquake,0.23,0.35,0.114,7,reviewed,ci,ci
 2024-10-08T13:09:12.673Z,61.2208,-151.1891,83.9,1.4,ml,,,,0.92,ak,ak024cylcgjn,2024-10-08T13:10:30.977Z,"10 km NNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-08T13:09:08.808Z,62.9128,-149.9702,81.3,1.5,ml,,,,0.32,ak,ak024cylcg8w,2024-10-08T13:11:52.101Z,"52 km N of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
