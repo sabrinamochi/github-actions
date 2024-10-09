@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-09T02:13:04.780Z,36.95983505249,-121.59633636475,6.7300000190735,1.16,md,8,130,0.01231,0.08,nc,nc75072211,2024-10-09T02:14:42.360Z,"6 km SW of Gilroy, CA",earthquake,0.61,0.920000017,0.05,5,automatic,nc,nc
 2024-10-09T01:57:25.135Z,69.3368,-144.6185,2.2,2.8,ml,,,,0.53,ak,ak024d020x3n,2024-10-09T02:01:16.762Z,"96 km SSW of Kaktovik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-10-09T01:52:20.320Z,33.1646667,-115.6373333,2.63,1.09,ml,29,62,0.02219,0.19,ci,ci40754983,2024-10-09T02:03:02.034Z,"12 km WNW of Calipatria, CA",earthquake,0.22,0.28,0.248,21,automatic,ci,ci
 2024-10-09T01:51:01.290Z,46.243167877197,-122.24516296387,-1.6299999952316,1.71000004,md,13,98,,0.270000011,uw,uw62053156,2024-10-09T01:52:31.910Z,"35 km S of Morton, Washington",earthquake,0.69,1.05999994,,1,automatic,uw,uw
@@ -157,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T09:12:39.360Z,33.9911667,-117.1978333,12.19,1.71,ml,92,18,0.04838,0.15,ci,ci40754431,2024-10-08T23:20:40.919Z,"7 km S of Redlands, CA",earthquake,0.11,0.27,0.163,23,reviewed,ci,ci
 2024-10-08T09:07:42.977Z,-33.8625,-177.5999,10,4.7,mb,21,172,4.594,0.4,us,us6000nx8m,2024-10-08T09:53:26.040Z,"south of the Kermadec Islands",earthquake,15.19,1.974,0.134,18,reviewed,us,us
 2024-10-08T09:06:00.714Z,61.2818,-152.2638,11,0.4,ml,,,,0.47,ak,ak024cyiy21z,2024-10-08T09:07:50.023Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-08T08:58:26.260Z,60.041,-153.06066666667,-1.78,-0.96,ml,5,144,0.01647,0.09,av,av93304138,2024-10-09T02:12:50.080Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.35,4.93,0.28247182092285,5,reviewed,av,av
 2024-10-08T08:47:29.300Z,38.817333221435,-122.81999969482,2.7799999713898,0.81,md,12,81,0.009836,0.01,nc,nc75071976,2024-10-08T10:22:16.039Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.899999976,0.18,13,automatic,nc,nc
 2024-10-08T08:47:17.920Z,32.939,-116.2846667,9.67,0.97,ml,47,42,0.1109,0.16,ci,ci40754415,2024-10-08T14:34:36.500Z,"26 km ENE of Pine Valley, CA",earthquake,0.16,0.54,0.184,20,reviewed,ci,ci
 2024-10-08T08:43:38.272Z,36.638,-115.9645,13.3,-0.2,ml,16,262.16,0.024,0.0708,nn,nn00885704,2024-10-09T02:04:22.077Z,"27 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.15,5,reviewed,nn,nn
@@ -246,8 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T02:31:52.530Z,61.205166666667,-152.2615,35.72,-0.3,ml,9,153,0.03916,0.3,av,av93303663,2024-10-08T23:16:37.820Z,"62 km WNW of Tyonek, Alaska",earthquake,2.86,1.36,0.21863112910349,9,reviewed,av,av
 2024-10-08T02:22:36.931Z,63.1204,-151.8715,5.1,2.4,ml,,,,0.61,ak,ak024cyevj2l,2024-10-08T21:25:41.005Z,"47 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-08T02:16:40.600Z,19.273500442505,-155.44650268555,30.409999847412,2.36999989,md,28,61,0.05552,0.119999997,hv,hv74492886,2024-10-08T02:18:28.420Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.54,0.779999971,0.0900000036,5,automatic,hv,hv
-2024-10-08T02:13:43.058Z,58.5686,-154.6927,0.1,0.6,ml,,,,0.46,ak,ak024cyetm2e,2024-10-08T22:54:14.970Z,"97 km S of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-08T02:09:58.670Z,46.6155,-119.84583333333,6.16,0.68,ml,10,99,0.05684,0.07,uw,uw62052916,2024-10-08T17:09:42.380Z,"8 km SE of Desert Aire, Washington",earthquake,0.42,0.26,0.086353296853816,7,reviewed,uw,uw
-2024-10-08T02:08:56.440Z,38.813667297363,-122.87466430664,20.280000686646,0.93,md,8,218,0.0172,0.06,nc,nc75071861,2024-10-08T04:17:18.438Z,"11 km WNW of The Geysers, CA",earthquake,2.94,5.69000006,0.07,7,automatic,nc,nc
-2024-10-08T02:07:45.440Z,46.613666666667,-119.84233333333,7.26,0.49,ml,9,98,0.05437,0.04,uw,uw61503423,2024-10-08T16:40:45.730Z,"9 km SE of Desert Aire, Washington",earthquake,0.29,0.14,0.08165952919882,4,reviewed,uw,uw
-2024-10-08T02:07:31.030Z,46.612,-119.843,7.16,0.49,ml,10,89,0.05414,0.08,uw,uw62052911,2024-10-08T16:35:17.160Z,"9 km SE of Desert Aire, Washington",earthquake,0.27,0.19,0.10920082820395,8,reviewed,uw,uw
