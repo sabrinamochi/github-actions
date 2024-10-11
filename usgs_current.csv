@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T14:59:19.770Z,37.1761,-117.369,8.2,0.3,ml,9,165.89,0.151,0.2619,nn,nn00885859,2024-10-11T15:01:34.286Z,"60 km SSW of Goldfield, Nevada",earthquake,,3.1,0.32,6,automatic,nn,nn
 2024-10-11T14:38:27.905Z,68.4416,-161.4652,16.2,3.4,ml,,,,0.82,ak,ak024d3kq6km,2024-10-11T14:42:24.230Z,"73 km NE of Red Dog Mine, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-11T14:28:27.540Z,38.753833770752,-122.72799682617,8.1899995803833,0.74,md,9,209,0.01297,0.13,nc,nc75073076,2024-10-11T14:54:29.173Z,"4 km SSE of The Geysers, CA",earthquake,2.02,3.20000005,0.23,11,automatic,nc,nc
 2024-10-11T14:15:10.584Z,60.1462,-151.5948,57.5,1.6,ml,,,,0.15,ak,ak024d3kl7rm,2024-10-11T14:17:19.450Z,"11 km NNE of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -62,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T06:35:22.000Z,17.969666666667,-66.999166666667,7.87,3.13,md,30,170,0.04289,0.2,pr,pr71462313,2024-10-11T06:51:06.390Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.43,0.29,0.13789766292251,9,reviewed,pr,pr
 2024-10-11T06:16:16.705Z,60.2779,-141.2137,20,1.8,ml,,,,0.18,ak,ak024d3ftz46,2024-10-11T06:17:37.332Z,"116 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-11T06:15:47.012Z,62.3294,-147.6299,40.8,1.6,ml,,,,0.49,ak,ak024d3ftt9k,2024-10-11T06:17:26.013Z,"49 km NNW of Eureka Roadhouse, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-11T06:13:32.350Z,38.490166666667,-112.88033333333,0.75,-0.35,md,5,102,0.007939,0.05,uu,uu80084346,2024-10-11T15:01:56.070Z,"15 km NE of Milford, Utah",earthquake,0.55,0.88,0.26245702271859,2,reviewed,uu,uu
 2024-10-11T06:10:33.762Z,63.5218,-149.2959,92.8,2,ml,,,,0.55,ak,ak024d3fsq4w,2024-10-11T06:12:42.461Z,"22 km NW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-11T06:08:19.194Z,60.9974,-149.6815,40.9,1.5,ml,,,,0.43,ak,ak024d3fs9kv,2024-10-11T06:10:38.933Z,"9 km NNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-11T05:56:48.410Z,38.822834014893,-122.7945022583,2.6600000858307,0.8,md,19,44,0.01218,0.02,nc,nc75072931,2024-10-11T07:09:23.745Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.469999999,0.19,18,automatic,nc,nc
@@ -154,7 +156,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T19:30:31.109Z,36.495,-98.476,6.28,1.16,ml,31,100,0.02609487929,0.27,ok,ok2024tynz,2024-10-11T12:35:47.097Z,"2 km SW of Aline, Oklahoma",earthquake,,0.5,0.24,12,reviewed,ok,ok
 2024-10-10T19:20:36.033Z,36.6094,-117.0807,7.8,1.4,ml,14,262.3,0.143,0.1114,nn,nn00885821,2024-10-10T19:46:12.566Z,"27 km NW of Furnace Creek, California",earthquake,,2,0.49,5,reviewed,nn,nn
 2024-10-10T19:16:02.360Z,36.977666666667,-119.82766666667,8.16,2,md,10,205,0.09802,0.11,nc,nc75072776,2024-10-10T22:02:43.240Z,"4 km ESE of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.4,0.8,0.211,24,reviewed,nc,nc
-2024-10-10T19:10:59.020Z,37.518665313721,-118.78549957275,4.7699999809265,1.57,md,17,159,0.07922,0.03,nc,nc75072771,2024-10-10T20:52:15.194Z,"10 km WSW of Toms Place, CA",earthquake,0.54,1.01999998,0.14,17,automatic,nc,nc
 2024-10-10T18:56:53.150Z,61.302666666667,-152.22666666667,1.68,-0.37,ml,7,165,0.05089,0.05,av,av93023749,2024-10-11T07:51:47.800Z,"64 km WNW of Beluga, Alaska",earthquake,0.37,1.06,0.31908375773703,8,reviewed,av,av
 2024-10-10T18:56:23.410Z,61.303166666667,-152.22633333333,1.88,-0.42,ml,7,165,0.05115,0.05,av,av93308493,2024-10-11T07:47:50.730Z,"64 km WNW of Beluga, Alaska",earthquake,0.32,1.07,0.29450961065858,7,reviewed,av,av
 2024-10-10T18:54:53.250Z,61.303333333333,-152.23083333333,2.02,-0.09,ml,9,118,0.05275,0.08,av,av93308483,2024-10-11T07:35:33.980Z,"64 km WNW of Beluga, Alaska",earthquake,0.26,0.68,0.31888957232329,10,reviewed,av,av
