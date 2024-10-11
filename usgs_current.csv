@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T19:51:35.300Z,33.8655,-117.5068333,0.52,1.5,ml,30,60,0.07033,0.24,ci,ci40952136,2024-10-11T19:57:47.414Z,"2 km SE of Home Gardens, CA",earthquake,0.3,0.6,0.426,31,automatic,ci,ci
 2024-10-11T19:25:51.616Z,62.5938,-149.7091,15.3,2.3,ml,,,,0.28,ak,ak024d3nmm49,2024-10-11T20:03:58.620Z,"25 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T19:25:38.680Z,34.0251667,-117.584,5.44,1,ml,18,69,0.09505,0.1,ci,ci40952120,2024-10-11T19:31:38.896Z,"5 km SE of Ontario, CA",earthquake,0.18,0.4,0.222,18,automatic,ci,ci
-2024-10-11T19:17:33.460Z,62.7563,-148.9423,71,4.5,ml,,,,0.7,ak,ak024d3nkv0i,2024-10-11T20:21:58.727Z,"68 km ENE of Chase, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-10-11T19:17:33.460Z,62.7563,-148.9423,71,4.5,ml,,,,0.7,ak,ak024d3nkv0i,2024-10-11T20:32:54.700Z,"68 km ENE of Chase, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-10-11T19:11:13.023Z,62.6207,-149.8567,0,2.6,ml,,,,1.04,ak,ak024d3njj46,2024-10-11T20:13:33.725Z,"22 km NNE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-11T19:08:50.200Z,33.2313333,-116.3891667,5.1,1.02,ml,44,50,0.04361,0.2,ci,ci40952104,2024-10-11T19:52:01.190Z,"3 km SSW of Borrego Springs, CA",earthquake,0.2,0.47,0.128,27,reviewed,ci,ci
 2024-10-11T19:04:41.691Z,62.6083,-149.7141,15.6,2,ml,,,,0.51,ak,ak024d3ni3bd,2024-10-11T19:06:40.164Z,"26 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T08:47:37.900Z,38.809666666667,-122.78133333333,1.49,0.08,md,13,63,0.003623,0.02,nc,nc75072991,2024-10-11T11:19:23.418Z,"4 km NNW of The Geysers, CA",earthquake,0.33,0.51,0.42,13,reviewed,nc,nc
 2024-10-11T08:39:50.220Z,19.289667129517,-155.41050720215,29.040000915527,2.06999993,md,39,74,0.04943,0.180000007,hv,hv74496431,2024-10-11T08:41:35.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.53,0.74000001,0.209999993,7,automatic,hv,hv
 2024-10-11T08:35:05.930Z,19.505166666667,-155.9255,7.54,1.41,md,23,228,0.2101,0.19,hv,hv74496426,2024-10-11T19:43:52.130Z,"0 km NNW of Captain Cook, Hawaii",earthquake,0.79,0.48,0.10919325764092,8,reviewed,hv,hv
-2024-10-11T08:34:34.460Z,35.485,-117.3285,8.19,1.27,ml,33,95,0.04953,0.15,ci,ci40951768,2024-10-11T08:45:51.800Z,"30 km ENE of Johannesburg, CA",earthquake,0.2,0.41,0.154,17,automatic,ci,ci
+2024-10-11T08:34:34.370Z,35.4858333,-117.3295,8.82,1.27,ml,27,95,0.04838,0.13,ci,ci40951768,2024-10-11T20:28:23.320Z,"30 km ENE of Johannesburg, CA",earthquake,0.19,0.34,0.136,16,reviewed,ci,ci
 2024-10-11T08:27:39.408Z,31.713,-104.291,6.8304,2.6,ml,28,61,0,0.1,tx,tx2024tznq,2024-10-11T13:46:31.080Z,"51 km S of Whites City, New Mexico",earthquake,0.53676815692692,0.45610627509172,0.1,36,reviewed,tx,tx
 2024-10-11T08:26:29.370Z,31.715,-104.299,7.1124,1.6,ml,19,69,0.1,0.1,tx,tx2024tznp,2024-10-11T14:37:01.392Z,"51 km S of Whites City, New Mexico",earthquake,0.5167825008237,0.80352446337696,0.1,24,reviewed,tx,tx
 2024-10-11T08:19:12.024Z,61.1427,-141.7533,0,1.2,ml,,,,1.11,ak,ak024d3h1h43,2024-10-11T08:23:55.381Z,"70 km ESE of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T20:46:20.537Z,62.2569,-150.1066,5.9,1.1,ml,,,,0.72,ak,ak024d20t44k,2024-10-10T23:58:02.673Z,"7 km S of Talkeetna, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-10-10T20:42:07.300Z,18.0175,-65.423666666667,7.62,2.69,md,7,250,0.1462,0.39,pr,pr71462278,2024-10-10T21:08:41.000Z,"10 km SSE of Esperanza, Puerto Rico",earthquake,1.92,1.02,0.22736120084655,6,reviewed,pr,pr
 2024-10-10T20:37:36.401Z,-16.5045,-174.7115,227.857,4.6,mb,55,62,3.828,0.92,us,us6000nxy6,2024-10-11T15:05:05.040Z,"115 km WSW of Hihifo, Tonga",earthquake,7.89,6.403,0.055,97,reviewed,us,us
-2024-10-10T20:29:42.950Z,33.9281667,-117.1095,7.05,0.96,ml,25,73,0.05599,0.16,ci,ci40951416,2024-10-10T22:28:45.438Z,"8 km SW of Calimesa, CA",earthquake,0.25,0.53,0.17,19,reviewed,ci,ci
