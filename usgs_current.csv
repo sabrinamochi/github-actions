@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-13T00:08:24.141Z,62.5819,-149.6777,8.5,2.2,ml,,,,0.85,ak,ak024d6nadbi,2024-10-13T00:10:07.464Z,"26 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-13T00:06:52.690Z,35.3894997,-117.7616653,5.92,1.12,ml,21,123,0.1109,0.15,ci,ci40953056,2024-10-13T00:08:55.154Z,"12 km W of Johannesburg, CA",earthquake,0.36,1.21,0.361,6,automatic,ci,ci
+2024-10-13T00:02:42.650Z,35.3886681,-117.7590027,6.07,1.05,ml,23,94,0.1103,0.16,ci,ci40953048,2024-10-13T00:04:49.074Z,"11 km W of Johannesburg, CA",earthquake,0.36,1.16,0.408,6,automatic,ci,ci
+2024-10-13T00:02:27.420Z,33.6348343,-116.6940002,14.69,1,ml,35,62,0.03793,0.12,ci,ci40953032,2024-10-13T00:04:33.936Z,"9 km NNW of Anza, CA",earthquake,0.31,0.53,0.239,13,automatic,ci,ci
 2024-10-12T23:36:30.924Z,81.1859,-113.5181,14.9,2.3,ml,,,,1.02,ak,ak024d5dmwu0,2024-10-12T23:52:36.959Z,"Arctic Ocean",earthquake,,5.7,,,automatic,ak,ak
 2024-10-12T23:30:25.084Z,40.7337,84.3408,10,4.6,mb,31,109,4.449,1.17,us,us6000nycl,2024-10-12T23:48:07.040Z,"160 km SE of Kuqa, China",earthquake,6.12,1.92,0.158,13,reviewed,us,us
 2024-10-12T23:00:21.540Z,40.583499908447,-121.64783477783,4.210000038147,1.59,md,8,140,0.07364,0.02,nc,nc75073626,2024-10-12T23:12:14.180Z,"8 km NNE of Viola, CA",earthquake,0.72,1.70000005,0.31,8,automatic,nc,nc
@@ -74,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T12:00:56.490Z,46.852833333333,-121.74933333333,0.43,0.27,ml,7,124,0.02054,0.06,uw,uw62053851,2024-10-12T16:43:34.830Z,"23 km ENE of Ashford, Washington",earthquake,0.28,0.89,0.46103512614097,4,reviewed,uw,uw
 2024-10-12T11:40:29.400Z,38.821998596191,-122.8544998169,2.6600000858307,0.76,md,14,115,0.00584,0.02,nc,nc75073406,2024-10-12T12:19:28.400Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.569999993,0.15,13,automatic,nc,nc
 2024-10-12T11:39:45.840Z,14.8076,108.2943,17.917,4.4,mb,17,89,4.452,0.92,us,us6000ny9y,2024-10-12T12:40:44.040Z,"58 km NNE of Kon Tum, Vietnam",earthquake,10.46,5.151,0.179,9,reviewed,us,us
-2024-10-12T11:29:03.119Z,43.8893,-107.3076,11.118,2.6,ml,26,123,1.364,0.59,us,us6000ny9v,2024-10-12T16:57:47.220Z,"19 km SE of Ten Sleep, Wyoming",earthquake,4.12,8.555,0.052,48,reviewed,us,us
+2024-10-12T11:29:03.119Z,43.8893,-107.3076,11.118,2.6,ml,26,123,1.364,0.59,us,us6000ny9v,2024-10-13T00:01:00.132Z,"19 km SE of Ten Sleep, Wyoming",earthquake,4.12,8.555,0.052,48,reviewed,us,us
 2024-10-12T11:04:34.422Z,61.3732,-151.582,72.9,1.4,ml,,,,0.3,ak,ak024d569xhv,2024-10-12T15:35:48.708Z,"37 km NW of Beluga, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-10-12T10:56:44.740Z,33.8875,-118.7308333,11.2,2.1,ml,84,154,0.1327,0.25,ci,ci40952592,2024-10-12T15:20:28.328Z,"15 km SSE of Malibu, CA",earthquake,0.29,0.45,0.169,27,automatic,ci,ci
 2024-10-12T10:53:05.830Z,38.832832336426,-122.80149841309,1.539999961853,0.93,md,6,105,0.01034,0.01,nc,nc75073401,2024-10-12T11:32:14.051Z,"7 km WNW of Cobb, CA",earthquake,0.43,2.08999991,0.29,8,automatic,nc,nc
@@ -151,4 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T00:26:20.745Z,-1.7241,-78.0571,173.115,3.4,ml,16,219,0.232,0.56,us,us6000ny7n,2024-10-12T00:45:35.040Z,"10 km WSW of Palora, Ecuador",earthquake,10.85,7.182,0.081,20,reviewed,us,us
 2024-10-12T00:21:19.750Z,19.295333333333,-155.49083333333,7.28,1.62,ml,37,58,0.04734,0.16,hv,hv74496956,2024-10-12T01:30:46.890Z,"10 km N of Pāhala, Hawaii",earthquake,0.27,0.79,0.15088947253176,8,reviewed,hv,hv
 2024-10-12T00:18:24.629Z,55.3507,163.0619,10,4.8,mb,98,132,3.486,0.91,us,us6000ny7m,2024-10-12T00:38:01.040Z,"104 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,11.31,1.878,0.05,125,reviewed,us,us
-2024-10-12T00:04:27.230Z,61.3888,-149.5022,0,1.7,ml,,,,0.54,ak,ak024d4zq5jk,2024-10-12T00:06:50.678Z,"8 km NNE of Eagle River, Alaska",earthquake,,0.6,,,automatic,ak,ak
