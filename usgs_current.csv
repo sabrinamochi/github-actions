@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-17T19:47:38.940Z,34.1011658,-118.1985016,9.9,1.57,ml,30,85,0.06616,0.17,ci,ci40955664,2024-10-17T19:49:43.306Z,"2 km S of Highland Park, CA",earthquake,0.35,0.56,0.419,25,automatic,ci,ci
+2024-10-17T19:50:27.420Z,38.836666107178,-122.81066894531,1.6799999475479,0.82,md,14,76,0.01326,0.06,nc,nc75075561,2024-10-17T19:52:02.817Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.699999988,0.12,13,automatic,nc,nc
+2024-10-17T19:47:38.930Z,34.0978333,-118.1905,8.81,1.65,ml,49,47,0.03187,0.2,ci,ci40955664,2024-10-17T19:56:15.336Z,"3 km SSE of Highland Park, CA",earthquake,0.2,0.37,0.116,28,automatic,ci,ci
 2024-10-17T19:37:01.142Z,61.626,-151.9558,112.3,2.1,ml,,,,0.63,ak,ak024ddkx5t1,2024-10-17T19:38:49.118Z,"50 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-17T19:24:54.370Z,33.7468333,-115.9148333,6.28,1.34,ml,44,69,0.07797,0.17,ci,ci40955648,2024-10-17T19:31:14.188Z,"24 km ENE of Thermal, CA",earthquake,0.18,0.6,0.18,28,automatic,ci,ci
 2024-10-17T18:55:02.702Z,64.309,-148.1592,18.5,0.8,ml,,,,0.56,ak,ak024ddkfl6m,2024-10-17T18:57:25.129Z,"49 km E of Anderson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-17T18:50:07.020Z,17.9495,-65.3735,9.63,3.16,md,7,221,0.3664,0.1,pr,pr71462838,2024-10-17T19:59:31.150Z,"19 km SSE of Esperanza, Puerto Rico",earthquake,0.79,0.69,0.15646474179427,4,reviewed,pr,pr
 2024-10-17T18:45:52.710Z,38.822334289551,-122.80133056641,2.8800001144409,1.02,md,24,52,0.006911,0.01,nc,nc75075531,2024-10-17T18:47:28.443Z,"6 km NNW of The Geysers, CA",earthquake,0.25,0.430000007,0.08,22,automatic,nc,nc
 2024-10-17T18:44:19.070Z,33.4826667,-116.5858333,5.68,0.92,ml,39,45,0.0182,0.14,ci,ci40955632,2024-10-17T18:51:22.170Z,"11 km SE of Anza, CA",earthquake,0.15,0.25,0.241,26,automatic,ci,ci
 2024-10-17T18:37:26.270Z,62.1783,-152.0823,102.3,1.8,ml,,,,0.32,ak,ak024ddkbs43,2024-10-17T18:39:28.051Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -74,6 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T10:33:45.616Z,-27.9039,-176.6036,39.818,5,mb,50,71,1.773,0.99,us,us6000nzb2,2024-10-17T10:51:31.040Z,"Kermadec Islands region",earthquake,11.35,6.628,0.053,115,reviewed,us,us
 2024-10-17T10:30:01.030Z,38.825668334961,-122.79783630371,2.5199999809265,0.76,md,12,63,0.009825,0.01,nc,nc75075401,2024-10-17T10:31:38.942Z,"6 km NNW of The Geysers, CA",earthquake,0.37,0.75,0.06,13,automatic,nc,nc
 2024-10-17T10:27:48.380Z,45.868833333333,-111.69933333333,3.95,0.61,ml,8,119,0.1286,0.1,mb,mb90063688,2024-10-17T13:54:21.930Z,"6 km NW of Willow Creek, Montana",earthquake,0.31,7.01,0.16457570696355,6,reviewed,mb,mb
+2024-10-17T10:26:19.460Z,38.8345,-122.79916666667,1.79,0.37,md,19,56,0.007919,0.01,nc,nc75075396,2024-10-17T19:57:34.982Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.47,0.207,18,reviewed,nc,nc
 2024-10-17T10:07:00.389Z,-27.9342,-176.4266,10,4.9,mb,36,70,1.858,1.01,us,us6000nzat,2024-10-17T10:23:32.040Z,"Kermadec Islands region",earthquake,11.07,1.873,0.115,24,reviewed,us,us
 2024-10-17T10:06:13.400Z,19.188999176025,-155.49383544922,35.380001068115,2.20000005,md,51,127,0.04489,0.170000002,hv,hv74502016,2024-10-17T10:07:51.430Z,"2 km SW of Pāhala, Hawaii",earthquake,0.52,0.569999993,0.319999993,7,automatic,hv,hv
 2024-10-17T09:58:04.882Z,5.9232,125.9271,149.708,4.6,mb,50,98,1.19,1.05,us,us6000nzar,2024-10-17T10:30:28.040Z,"28 km ESE of Mangili, Philippines",earthquake,9.72,6.524,0.08,47,reviewed,us,us
@@ -200,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T20:21:48.127Z,-15.606,-174.6494,182.898,4.4,mb,38,57,3.246,0.87,us,us6000nz6g,2024-10-16T21:17:05.040Z,"99 km WNW of Hihifo, Tonga",earthquake,12.38,6.439,0.11,24,reviewed,us,us
 2024-10-16T20:18:48.260Z,35.479499816895,-120.79416656494,6.3000001907349,2.27,md,24,46,0.07811,0.08,nc,nc75075181,2024-10-16T20:20:26.551Z,"10 km ENE of Cayucos, CA",earthquake,0.22,0.779999971,0.14,19,automatic,nc,nc
 2024-10-16T20:11:28.216Z,9.1426,40.1541,10,4.6,mb,48,116,3.556,0.55,us,us6000nz6e,2024-10-17T09:14:38.767Z,"17 km N of Āwash, Ethiopia",earthquake,9.07,1.871,0.091,36,reviewed,us,us
-2024-10-16T19:54:53.800Z,38.793998718262,-122.72733306885,1.7799999713898,1.2,md,19,97,0.01301,0.02,nc,nc75075166,2024-10-16T19:56:31.540Z,"3 km ENE of The Geysers, CA",earthquake,0.24,0.439999998,0.16,17,automatic,nc,nc
-2024-10-16T19:52:55.670Z,46.034666666667,-122.66716666667,-0.59,1.27,ml,12,255,0.1289,0.1,uw,uw62054681,2024-10-17T05:18:24.620Z,"14 km ENE of Kalama, Washington",explosion,0.7,31.61,0.14277345696005,8,reviewed,uw,uw
