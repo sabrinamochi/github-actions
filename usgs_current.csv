@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T15:09:45.560Z,33.3251667,-116.3905,9.47,1.34,ml,59,28,0.01962,0.19,ci,ci40956760,2024-10-19T15:20:43.780Z,"8 km N of Borrego Springs, CA",earthquake,0.15,0.36,0.221,27,automatic,ci,ci
 2024-10-19T15:03:46.773Z,60.6297,-147.7811,16.7,3.2,ml,,,,0.56,ak,ak024dgtexij,2024-10-19T15:46:53.040Z,"51 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-19T14:39:39.678Z,59.5162,-152.6027,71.2,1.7,ml,,,,0.12,ak,ak024dgt175b,2024-10-19T14:40:50.960Z,"42 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-10-19T14:25:02.410Z,36.032,-117.6778333,1.7,1,ml,21,128,0.07119,0.11,ci,ci40956712,2024-10-19T14:33:34.129Z,"23 km ENE of Little Lake, CA",earthquake,0.2,0.19,0.168,9,automatic,ci,ci
+2024-10-19T14:25:02.410Z,36.032,-117.6778333,1.7,1,ml,21,128,0.07119,0.11,ci,ci40956712,2024-10-19T18:26:26.399Z,"23 km ENE of Little Lake, CA",earthquake,0.2,0.19,0.168,9,reviewed,ci,ci
 2024-10-19T14:21:22.820Z,38.82466506958,-122.80349731445,3.0099999904633,0.75,md,9,102,0.005291,0.04,nc,nc75076086,2024-10-19T14:37:17.789Z,"7 km NNW of The Geysers, CA",earthquake,0.46,1.34000003,0.2,9,automatic,nc,nc
 2024-10-19T13:58:40.200Z,48.151166666667,-122.78216666667,23.81,1.78,ml,38,47,0.05146,0.12,uw,uw62055441,2024-10-19T18:25:21.340Z,"4 km NNW of Port Townsend, Washington",earthquake,0.18,0.4,0.06098446112112,7,reviewed,uw,uw
 2024-10-19T13:52:44.780Z,19.04700088501,-155.36233520508,32,1.92999995,md,50,214,0.1433,0.129999995,hv,hv74503771,2024-10-19T13:54:24.970Z,"21 km SE of Pāhala, Hawaii",earthquake,0.48,0.720000029,0.109999999,9,automatic,hv,hv
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T12:56:53.133Z,43.7194,-129.5506,10,3.8,mb,24,218,2.24,1.03,us,us6000nzqq,2024-10-19T13:15:04.040Z,"off the coast of Oregon",earthquake,9.7,2.005,0.17,9,reviewed,us,us
 2024-10-19T12:56:51.630Z,35.798168182373,-121.27083587647,10.439999580383,1.6,md,11,185,0.1467,0.06,nc,nc75076081,2024-10-19T13:17:17.213Z,"19 km NNW of San Simeon, CA",earthquake,0.62,1.36000001,0.18,9,automatic,nc,nc
 2024-10-19T12:52:49.150Z,31.634,-104.466,3.2529,1.5,ml,17,112,0,0.4,tx,tx2024uomk,2024-10-19T13:07:19.057Z,"60 km S of Whites City, New Mexico",earthquake,0,1.4781724214554,0.1,13,automatic,tx,tx
-2024-10-19T12:40:42.430Z,33.4125,-116.6433333,5.7,0.55,ml,40,36,0.04669,0.15,ci,ci40956688,2024-10-19T12:46:52.734Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.44,0.084,17,automatic,ci,ci
+2024-10-19T12:40:42.430Z,33.4125,-116.6433333,5.7,0.55,ml,40,36,0.04669,0.15,ci,ci40956688,2024-10-19T18:27:39.790Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.44,0.084,17,reviewed,ci,ci
 2024-10-19T12:25:51.290Z,19.023166656494,-155.35450744629,14.579999923706,1.92999995,md,50,219,0.1663,0.25,hv,hv74503751,2024-10-19T12:27:42.060Z,"23 km SSE of Pāhala, Hawaii",earthquake,0.88,1.53999996,0.140000001,15,automatic,hv,hv
 2024-10-19T12:06:46.711Z,64.4632,-149.9574,16.8,1.1,ml,,,,0.21,ak,ak024dgrn9un,2024-10-19T12:09:04.802Z,"39 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-19T12:05:43.650Z,34.029,-117.2595,7.59,0.9,ml,46,49,0.0792,0.2,ci,ci40956680,2024-10-19T12:11:55.711Z,"2 km S of Loma Linda, CA",earthquake,0.21,0.67,0.119,22,automatic,ci,ci
@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T10:36:43.378Z,31.697,-104.129,4.7959,2.4,ml,20,80,0.1,0.3,tx,tx2024uohx,2024-10-19T10:52:57.182Z,"50 km W of Mentone, Texas",earthquake,0,1.194708108902,0.2,16,automatic,tx,tx
 2024-10-19T10:24:07.486Z,39.5676,-119.9906,3.5,1,ml,10,114.88,0.046,0.1461,nn,nn00886240,2024-10-19T10:25:58.842Z,"5 km NNE of Verdi, California",earthquake,,0.6,0.16,3,automatic,nn,nn
 2024-10-19T10:23:28.760Z,36.64716720581,-121.29616546631,4.9400000572205,2.28,md,41,77,0.03917,0.13,nc,nc75076051,2024-10-19T10:32:17.065Z,"16 km S of Tres Pinos, CA",earthquake,0.26,0.649999976,0.15,36,automatic,nc,nc
-2024-10-19T10:18:31.380Z,34.2653333,-117.0713333,2.25,1.7,ml,95,20,0.08215,0.14,ci,ci40956648,2024-10-19T10:29:26.200Z,"7 km NNE of Running Springs, CA",earthquake,0.1,0.27,0.126,26,automatic,ci,ci
+2024-10-19T10:18:31.380Z,34.2653333,-117.0713333,2.25,1.7,ml,95,20,0.08215,0.14,ci,ci40956648,2024-10-19T18:28:51.610Z,"7 km NNE of Running Springs, CA",earthquake,0.1,0.27,0.126,26,reviewed,ci,ci
 2024-10-19T10:16:16.763Z,64.3017,-148.3893,11,1,ml,,,,0.49,ak,ak024dgqihho,2024-10-19T10:17:59.210Z,"38 km E of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-19T10:14:03.290Z,33.2251667,-116.0525,3.01,1.62,ml,75,40,0.07823,0.23,ci,ci40956640,2024-10-19T10:24:47.920Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.15,0.35,0.155,27,automatic,ci,ci
 2024-10-19T10:10:20.459Z,36.7722,-116.0389,2.7,0.1,ml,10,234.02,0.012,0.0457,nn,nn00886247,2024-10-19T15:48:22.183Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.3,0.52,3,reviewed,nn,nn
