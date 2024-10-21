@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T18:21:19.500Z,35.0685,-119.0526667,14.32,1.17,ml,29,68,0.02738,0.19,ci,ci40958976,2024-10-21T18:28:25.121Z,"18 km NW of Grapevine, CA",earthquake,0.27,0.47,0.116,18,automatic,ci,ci
 2024-10-21T18:13:35.970Z,38.817333221435,-122.77816772461,1.1399999856949,1.08,md,11,106,0.004519,0.03,nc,nc75076931,2024-10-21T19:09:30.245Z,"5 km W of Cobb, CA",earthquake,0.29,0.479999989,0.15,13,automatic,nc,nc
 2024-10-21T18:12:23.650Z,19.46866607666,-154.88633728027,2.6400001049042,1.75999999,md,19,266,0.03291,0.360000014,hv,hv74506241,2024-10-21T18:14:18.600Z,"3 km E of Leilani Estates, Hawaii",earthquake,2.61,1.03999996,0.0599999987,3,automatic,hv,hv
-2024-10-21T18:04:20.910Z,40.232333333333,-121.182,4.05,1.94,md,15,110,0.03195,0.21,nc,nc75076916,2024-10-21T20:46:22.900Z,"2 km  of Almanor, CA",earthquake,0.52,0.59,0.203,9,reviewed,nc,nc
+2024-10-21T18:04:20.910Z,40.232333333333,-121.182,4.05,1.94,md,15,110,0.03195,0.21,nc,nc75076916,2024-10-21T21:39:25.312Z,"2 km  of Almanor, CA",earthquake,0.52,0.59,0.203,9,reviewed,nc,nc
 2024-10-21T18:02:08.480Z,60.3488,-150.3102,39.7,1.9,ml,,,,0.2,ak,ak024dk69mnk,2024-10-21T18:03:45.377Z,"30 km SE of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-21T17:46:38.150Z,38.827835083008,-122.80416870117,1.5800000429153,1.08,md,19,47,0.006398,0.01,nc,nc75076901,2024-10-21T18:49:30.108Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.18,19,automatic,nc,nc
 2024-10-21T17:36:18.600Z,34.3488333,-116.8881667,-1.66,1.21,ml,27,64,0.09044,0.2,ci,ci40958832,2024-10-21T17:44:18.828Z,"10 km NNW of Big Bear City, CA",earthquake,0.28,0.59,0.136,25,automatic,ci,ci
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T07:14:52.670Z,46.682666666667,-121.0695,9.63,1.02,ml,21,166,0.1757,0.2,uw,uw62055736,2024-10-21T17:48:53.950Z,"18 km SSW of Nile, Washington",earthquake,0.56,4.29,0.1078924816778,10,reviewed,uw,uw
 2024-10-21T06:52:14.370Z,38.791500091553,-122.83516693115,6.7199997901917,0.73,md,11,231,0.02213,0.21,nc,nc75076731,2024-10-21T07:22:20.216Z,"7 km WNW of The Geysers, CA",earthquake,3.58,7.98999977,0.09,11,automatic,nc,nc
 2024-10-21T06:47:19.790Z,33.7063333,-116.7348333,17.54,0.66,ml,39,62,0.01789,0.14,ci,ci40958248,2024-10-21T13:26:34.923Z,"4 km SSW of Idyllwild, CA",earthquake,0.18,0.3,0.24,12,reviewed,ci,ci
-2024-10-21T06:45:28.410Z,38.691,-122.5025,6.79,0.65,md,16,56,0.06504,0.06,nc,nc75076716,2024-10-21T20:41:20.829Z,"12 km SE of Middletown, CA",earthquake,0.19,0.62,0.171,10,reviewed,nc,nc
+2024-10-21T06:45:28.410Z,38.691,-122.5025,6.79,0.65,md,16,56,0.06504,0.06,nc,nc75076716,2024-10-21T21:32:15.257Z,"12 km SE of Middletown, CA",earthquake,0.19,0.62,0.171,10,reviewed,nc,nc
 2024-10-21T06:44:02.690Z,37.622333333333,-118.81016666667,10.53,0.65,md,16,174,0.022,0.06,nc,nc75076721,2024-10-21T16:59:27.335Z,"13 km NW of Toms Place, CA",earthquake,0.78,0.55,0.255,14,reviewed,nc,nc
 2024-10-21T06:39:09.928Z,60.2269,-139.5955,1,1.5,ml,,,,0.49,ak,ak024djzccyv,2024-10-21T06:42:00.889Z,"76 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-21T06:32:35.642Z,-1.0991,127.4181,10,5.7,mb,72,78,1.859,0.67,us,us6000p000,2024-10-21T18:27:22.640Z,"52 km S of Labuha, Indonesia",earthquake,5.15,1.841,0.049,150,reviewed,us,us
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T22:35:07.910Z,38.823166666667,-122.80666666667,2.37,-0.06,md,6,135,0.002671,0,nc,nc75001288,2024-10-21T18:00:02.723Z,"7 km NNW of The Geysers, CA",earthquake,2.08,1.57,0.244,6,reviewed,nc,nc
 2024-10-20T22:17:16.670Z,33.6376667,-116.6983333,12.3,0.54,ml,20,58,0.03727,0.09,ci,ci40958064,2024-10-21T13:29:06.408Z,"10 km NNW of Anza, CA",earthquake,0.19,0.38,0.203,9,reviewed,ci,ci
 2024-10-20T22:12:16.665Z,62.45,-151.2983,64.1,1.7,ml,,,,0.91,ak,ak024dil66de,2024-10-20T22:15:13.779Z,"27 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-20T21:37:24.469Z,60.3154,-152.4236,81,1.1,ml,,,,0.47,ak,ak024dikq49q,2024-10-20T21:38:56.472Z,"51 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-20T21:34:37.235Z,51.9457,159.0931,43.394,4.4,mb,29,137,1.113,0.78,us,us6000nzxf,2024-10-20T21:53:59.040Z,"119 km SSE of Vilyuchinsk, Russia",earthquake,8.47,4.617,0.121,20,reviewed,us,us
