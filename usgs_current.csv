@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-22T17:39:00.020Z,33.8296661,-116.5303345,9.42,1.22,ml,52,62,0.01755,0.15,ci,ci40960616,2024-10-22T17:49:41.220Z,"1 km N of Palm Springs, CA",earthquake,0.23,0.51,0.212,26,automatic,ci,ci
+2024-10-22T17:39:00.020Z,33.8296661,-116.5303345,9.42,1.22,ml,52,62,0.01755,0.15,ci,ci40960616,2024-10-22T17:49:59.800Z,"1 km N of Palm Springs, CA",earthquake,0.23,0.51,0.212,26,automatic,ci,ci
 2024-10-22T17:30:51.500Z,38.805332183838,-122.78350067139,3.3900001049042,0.75,md,8,75,0.00959,0.02,nc,nc75077401,2024-10-22T17:32:25.757Z,"4 km NNW of The Geysers, CA",earthquake,0.49,1.07000005,0.07,10,automatic,nc,nc
 2024-10-22T17:29:39.230Z,38.834999084473,-122.79083251953,1.8700000047684,1.33,md,22,54,0.003426,0.02,nc,nc75077396,2024-10-22T17:31:15.684Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.389999986,0.12,22,automatic,nc,nc
 2024-10-22T17:27:43.100Z,63.4209,-145.0773,0,2.2,ml,,,,0.48,ak,ak024dltcz46,2024-10-22T17:29:36.004Z,"33 km SW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T10:04:32.930Z,38.792331695557,-122.77866363525,1.9900000095367,0.81,md,15,79,0.007281,0.02,nc,nc75077276,2024-10-22T10:22:17.889Z,"3 km NW of The Geysers, CA",earthquake,0.29,0.49000001,0.1,15,automatic,nc,nc
 2024-10-22T10:01:14.439Z,36.44433333,-98.2515,7.52,1.29,ml,58,95,0.118776692,0.22,ok,ok2024uttg,2024-10-22T12:09:05.545Z,"7 km N of Ringwood, Oklahoma",earthquake,,0.5,0.23,18,reviewed,ok,ok
 2024-10-22T09:46:57.530Z,35.6236667,-117.4415,8.38,0.77,ml,26,80,0.04074,0.14,ci,ci40960112,2024-10-22T13:40:18.745Z,"16 km SSW of Searles Valley, CA",earthquake,0.21,0.38,0.184,8,reviewed,ci,ci
-2024-10-22T09:44:04.579Z,36.7619,-116.2752,9,-0.4,ml,15,83.03,0.052,0.2407,nn,nn00886383,2024-10-22T09:45:53.038Z,"46 km ESE of Beatty, Nevada",earthquake,,0.7,0.46,9,automatic,nn,nn
+2024-10-22T09:44:04.924Z,36.7457,-116.2851,9.5,-0.4,ml,23,61.4,0.012,0.0709,nn,nn00886383,2024-10-22T17:50:31.110Z,"45 km ESE of Beatty, Nevada",earthquake,,0.8,0.27,7,reviewed,nn,nn
 2024-10-22T09:30:05.900Z,35.6088333,-117.5866667,6.17,0.84,ml,27,51,0.07324,0.15,ci,ci40960104,2024-10-22T13:40:25.404Z,"8 km E of Ridgecrest, CA",earthquake,0.18,0.56,0.284,9,reviewed,ci,ci
 2024-10-22T09:16:46.670Z,37.955665588379,-122.03800201416,10.239999771118,1.59,md,17,140,0.07322,0.09,nc,nc75077266,2024-10-22T10:09:27.782Z,"2 km ENE of Pleasant Hill, CA",earthquake,0.39,0.839999974,0.09,12,automatic,nc,nc
 2024-10-22T09:10:35.320Z,19.204666137695,-155.50233459473,33.669998168945,1.78999996,md,48,73,0.06201,0.150000006,hv,hv74507316,2024-10-22T09:12:09.500Z,"2 km W of Pāhala, Hawaii",earthquake,0.56,0.50999999,0.209999993,6,automatic,hv,hv
@@ -129,6 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T02:27:58.202Z,37.2707,-115.2063,13,1.4,ml,5,134.83,0.184,0.0889,nn,nn00886377,2024-10-22T16:49:05.066Z,"11 km SSW of Alamo, Nevada",earthquake,,19.7,0.1,4,reviewed,nn,nn
 2024-10-22T02:27:08.380Z,19.403666666667,-155.29333333333,10.04,1.06,ml,19,50,0.00695,0.13,hv,hv74506851,2024-10-22T03:51:46.200Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.42,0.17217523042111,13,reviewed,hv,hv
 2024-10-22T02:25:40.370Z,34.2465,-118.666,4.05,1.69,ml,68,33,0.006587,0.25,ci,ci40959832,2024-10-22T02:37:17.756Z,"6 km NNW of West Hills, CA",earthquake,0.18,0.38,0.147,28,automatic,ci,ci
+2024-10-22T02:21:54.080Z,33.649,-116.989,13.89,0.36,ml,27,49,0.0171,0.14,ci,ci40959824,2024-10-22T17:50:19.691Z,"11 km SE of Winchester, CA",earthquake,0.24,0.41,0.281,5,reviewed,ci,ci
 2024-10-22T02:16:45.330Z,33.1446667,-116.6251667,4.24,0.69,ml,34,43,0.05741,0.19,ci,ci40959816,2024-10-22T13:49:12.581Z,"8 km NNW of Julian, CA",earthquake,0.23,0.41,0.128,10,reviewed,ci,ci
 2024-10-22T02:14:58.370Z,33.3971667,-116.9066667,8.49,0.41,ml,35,47,0.05695,0.19,ci,ci40959808,2024-10-22T17:35:25.170Z,"6 km NW of Palomar Observatory, CA",earthquake,0.2,0.61,0.207,8,reviewed,ci,ci
 2024-10-22T01:55:05.628Z,63.5571,-150.8269,0,1.9,ml,,,,0.81,ak,ak024dljzyle,2024-10-22T01:57:31.426Z,"44 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
