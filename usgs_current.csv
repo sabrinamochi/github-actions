@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-23T05:21:41.027Z,59.6189,-152.795,78.1,1.8,ml,,,,0.33,ak,ak024dn9ptw6,2024-10-23T05:23:20.182Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-23T05:06:22.860Z,19.245500564575,-155.35200500488,30.760000228882,2.04999995,md,33,169,0.04371,0.129999995,hv,hv74509081,2024-10-23T05:08:56.450Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.51,0.589999974,0.5,9,automatic,hv,hv
 2024-10-23T05:06:00.840Z,19.367834091186,-155.17134094238,3.7599999904633,2.18,ml,20,135,0.04211,0.310000002,hv,hv74509076,2024-10-23T05:08:51.280Z,"10 km SE of Volcano, Hawaii",earthquake,0.96,3.1099999,1.47,5,automatic,hv,hv
 2024-10-23T04:56:25.687Z,60.7678,-151.9957,90.1,1.5,ml,,,,0.58,ak,ak024dn9bv60,2024-10-23T04:58:15.789Z,"39 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-10-23T04:51:17.660Z,17.9358,-67.0863,6,3.29,md,17,265,0.0539,0.15,pr,pr2024297000,2024-10-23T05:22:02.475Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.86,0.21,0.13,12,reviewed,pr,pr
 2024-10-23T04:46:56.140Z,19.371500015259,-155.20950317383,1.9099999666214,1.79,ml,29,108,0.006101,0.25,hv,hv74509031,2024-10-23T04:49:48.260Z,"8 km SSE of Volcano, Hawaii",earthquake,0.45,0.319999993,1.42,9,automatic,hv,hv
 2024-10-23T04:39:17.040Z,33.6478333,-116.7603333,11.23,0.83,ml,45,41,0.07397,0.13,ci,ci40961400,2024-10-23T04:45:34.743Z,"11 km SSW of Idyllwild, CA",earthquake,0.13,0.3,0.236,23,automatic,ci,ci
 2024-10-23T04:26:42.420Z,35.073,-118.3268333,7.36,1.86,ml,18,60,0.08309,0.12,ci,ci40961392,2024-10-23T04:33:34.070Z,"13 km ESE of Tehachapi, CA",earthquake,0.19,0.68,0.357,27,automatic,ci,ci
@@ -138,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
 2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
 2024-10-22T14:02:45.880Z,35.0728333,-119.0846667,14.24,1.39,ml,29,94,0.01422,0.17,ci,ci40960304,2024-10-22T23:14:44.575Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.217,18,reviewed,ci,ci
-2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"60 km S of Whites City, New Mexico",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
+2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"western Texas",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
 2024-10-22T13:44:47.500Z,35.0768333,-119.0836667,13.03,2.08,ml,46,82,0.01819,0.2,ci,ci40960264,2024-10-22T22:56:06.330Z,"20 km NW of Grapevine, CA",earthquake,0.22,0.69,0.18,26,reviewed,ci,ci
 2024-10-22T13:43:39.990Z,35.0731667,-119.0885,14.08,1.12,ml,24,109,0.01504,0.19,ci,ci40960256,2024-10-22T22:42:19.811Z,"20 km NW of Grapevine, CA",earthquake,0.34,0.52,0.136,16,reviewed,ci,ci
 2024-10-22T13:42:54.060Z,35.0713333,-119.0825,14.55,1.28,ml,26,101,0.01275,0.15,ci,ci40960248,2024-10-22T22:35:29.538Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.47,0.167,18,reviewed,ci,ci
@@ -215,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T05:41:48.920Z,33.7098333,-116.8106667,16.07,0.49,ml,31,90,0.08045,0.14,ci,ci40959992,2024-10-22T13:42:43.289Z,"9 km ESE of Valle Vista, CA",earthquake,0.24,0.41,0.275,10,reviewed,ci,ci
 2024-10-22T05:28:40.340Z,44.779,-110.80516666667,3.78,0.86,md,10,180,0.0336,0.06,uu,uu80084841,2024-10-22T13:27:12.560Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,1.62,0.39861126562709,5,reviewed,uu,uu
 2024-10-22T05:26:51.410Z,33.7301667,-115.9846667,2.01,1.12,ml,51,60,0.07495,0.16,ci,ci40959984,2024-10-22T13:47:03.930Z,"18 km NE of Thermal, CA",earthquake,0.15,0.31,0.118,25,reviewed,ci,ci
-2024-10-22T05:22:45.914Z,62.8774,-149.7783,70.7,1.6,ml,,,,0.46,ak,ak024dlm6phr,2024-10-22T05:25:26.533Z,"50 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
