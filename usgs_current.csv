@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-23T12:48:09.247Z,37.0186,-117.829,0,1.4,ml,11,239.78,0.259,0.3902,nn,nn00886434,2024-10-23T12:50:47.120Z,"40 km NE of Independence, California",earthquake,,30.9,0.27,8,automatic,nn,nn
 2024-10-23T12:12:25.540Z,33.8193333,-117.839,3.03,1.28,ml,36,77,0.03137,0.27,ci,ci40961616,2024-10-23T12:18:45.261Z,"2 km NNW of Orange, CA",earthquake,0.31,0.23,0.183,31,automatic,ci,ci
 2024-10-23T12:10:01.090Z,33.3401667,-116.2381667,10.64,0.52,ml,23,156,0.06376,0.15,ci,ci40961608,2024-10-23T12:16:00.558Z,"16 km NE of Borrego Springs, CA",earthquake,0.31,0.48,0.183,9,automatic,ci,ci
 2024-10-23T12:07:41.630Z,32.6101667,-115.3291667,15.4,1.8,ml,25,53,0.09981,0.31,ci,ci40961600,2024-10-23T12:14:05.200Z,"6 km NNE of Puebla, B.C., MX",earthquake,0.39,1.01,0.174,26,automatic,ci,ci
@@ -170,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T17:29:39.230Z,38.834999084473,-122.79083251953,1.8700000047684,1.33,md,22,54,0.003426,0.02,nc,nc75077396,2024-10-22T17:52:14.175Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.389999986,0.12,22,automatic,nc,nc
 2024-10-22T17:27:43.100Z,63.4209,-145.0773,0,2.2,ml,,,,0.48,ak,ak024dltcz46,2024-10-22T17:29:36.004Z,"33 km SW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-22T17:18:29.140Z,54.1215,-165.95366666667,5.42,0.64,ml,10,60,0.006719,0.24,av,av93327023,2024-10-23T04:31:50.830Z,"11 km W of Akutan, Alaska",earthquake,0.41,0.59,0.15857486569896,11,reviewed,av,av
+2024-10-22T17:16:36.460Z,35.90166667,-95.18066667,0,1.42,ml,52,104,0.49670253,0.41,ok,ok2024uuhp,2024-10-23T12:56:35.320Z,"4 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.14,13,reviewed,ok,ok
 2024-10-22T17:15:59.540Z,44.462,-122.8575,-0.58,1.63,ml,10,79,0.08244,0.48,uw,uw62055991,2024-10-22T22:31:45.860Z,"2 km SSE of Sodaville, Oregon",explosion,0.77,31.61,0.12874241949188,6,reviewed,uw,uw
 2024-10-22T17:08:16.200Z,53.431166666667,-168.07683333333,4.02,0.28,ml,6,107,0.01211,0.15,av,av93327008,2024-10-23T01:32:31.000Z,"75 km NE of Nikolski, Alaska",earthquake,0.86,0.53,0.42462302111475,6,reviewed,av,av
 2024-10-22T17:08:11.150Z,40.951999664307,-122.19132995606,4.1799998283386,1.9,md,5,212,0.1952,0.04,nc,nc75077376,2024-10-22T17:17:17.920Z,"25 km W of Big Bend, CA",earthquake,1.75,8.97999954,0.1,4,automatic,nc,nc
@@ -204,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
 2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
 2024-10-22T14:02:45.880Z,35.0728333,-119.0846667,14.24,1.39,ml,29,94,0.01422,0.17,ci,ci40960304,2024-10-22T23:14:44.575Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.217,18,reviewed,ci,ci
-2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"western Texas",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
+2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"60 km S of Whites City, New Mexico",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
 2024-10-22T13:44:47.500Z,35.0768333,-119.0836667,13.03,2.08,ml,46,82,0.01819,0.2,ci,ci40960264,2024-10-22T22:56:06.330Z,"20 km NW of Grapevine, CA",earthquake,0.22,0.69,0.18,26,reviewed,ci,ci
 2024-10-22T13:43:39.990Z,35.0731667,-119.0885,14.08,1.12,ml,24,109,0.01504,0.19,ci,ci40960256,2024-10-22T22:42:19.811Z,"20 km NW of Grapevine, CA",earthquake,0.34,0.52,0.136,16,reviewed,ci,ci
 2024-10-22T13:42:54.060Z,35.0713333,-119.0825,14.55,1.28,ml,26,101,0.01275,0.15,ci,ci40960248,2024-10-22T22:35:29.538Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.47,0.167,18,reviewed,ci,ci
@@ -213,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T13:23:23.687Z,64.53,-149.3985,10.6,1.1,ml,,,,0.99,ak,ak024dlqycc0,2024-10-22T13:25:05.377Z,"14 km WSW of Nenana, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-22T13:21:16.230Z,35.0735,-119.0801667,12.77,1.66,ml,38,63,0.01516,0.19,ci,ci40960232,2024-10-22T22:21:48.410Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.49,0.137,26,reviewed,ci,ci
 2024-10-22T13:15:12.890Z,19.377666666667,-155.2365,3.02,1.2,md,14,122,0.005627,0.11,hv,hv74507561,2024-10-22T21:36:29.850Z,"7 km S of Volcano, Hawaii",earthquake,0.42,0.44,0.013914116450699,2,reviewed,hv,hv
-2024-10-22T12:48:54.037Z,-1.0635,127.374,10,4.9,mb,86,80,1.823,0.52,us,us7000nmeb,2024-10-22T13:36:14.040Z,"49 km SSW of Labuha, Indonesia",earthquake,6.78,1.852,0.07,67,reviewed,us,us
