@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-23T12:12:25.540Z,33.8193333,-117.839,3.03,1.28,ml,36,77,0.03137,0.27,ci,ci40961616,2024-10-23T12:18:45.261Z,"2 km NNW of Orange, CA",earthquake,0.31,0.23,0.183,31,automatic,ci,ci
 2024-10-23T12:10:01.090Z,33.3401667,-116.2381667,10.64,0.52,ml,23,156,0.06376,0.15,ci,ci40961608,2024-10-23T12:16:00.558Z,"16 km NE of Borrego Springs, CA",earthquake,0.31,0.48,0.183,9,automatic,ci,ci
 2024-10-23T12:07:41.630Z,32.6101667,-115.3291667,15.4,1.8,ml,25,53,0.09981,0.31,ci,ci40961600,2024-10-23T12:14:05.200Z,"6 km NNE of Puebla, B.C., MX",earthquake,0.39,1.01,0.174,26,automatic,ci,ci
 2024-10-23T11:30:43.350Z,33.3716667,-116.3101667,11.31,0.62,ml,44,91,0.009284,0.18,ci,ci40961552,2024-10-23T11:36:47.314Z,"14 km NNE of Borrego Springs, CA",earthquake,0.22,0.34,0.14,16,automatic,ci,ci
@@ -154,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T18:29:03.604Z,36.6058,-117.1058,6.8,1,ml,11,144.02,0.158,0.1225,nn,nn00886402,2024-10-22T20:29:37.334Z,"28 km NW of Furnace Creek, California",earthquake,,3,0.3,3,reviewed,nn,nn
 2024-10-22T18:25:51.260Z,61.312166666667,-152.25233333333,0.02,-0.15,ml,8,121,0.06635,0.08,av,av93327078,2024-10-23T01:41:55.540Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,31.61,0.28501290457697,8,reviewed,av,av
 2024-10-22T18:24:23.620Z,19.358833333333,-155.119,0.35,2.11,ml,15,176,0.02659,0.19,hv,hv74508041,2024-10-23T02:31:06.330Z,"11 km S of Fern Forest, Hawaii",earthquake,0.37,0.35,0.16064664244552,2,reviewed,hv,hv
+2024-10-22T18:22:22.530Z,36.46766667,-98.7565,8.21,1.05,ml,32,79,0.04049205408,0.13,ok,ok2024uujt,2024-10-23T12:31:55.822Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.25,10,reviewed,ok,ok
 2024-10-22T18:12:01.090Z,34.5988333,-118.6426667,6.33,1.54,ml,23,40,0.06848,0.18,ci,ci40960680,2024-10-23T00:11:01.033Z,"12 km N of Castaic, CA",earthquake,0.29,0.63,0.629,38,reviewed,ci,ci
 2024-10-22T18:04:15.526Z,61.3086,-150.7222,54.6,2.2,ml,,,,0.37,ak,ak024dlttf4g,2024-10-22T18:10:37.040Z,"26 km NE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-22T17:49:14.600Z,33.9088333,-116.758,17.81,1.09,ml,42,32,0.02224,0.12,ci,ci40960640,2024-10-23T00:09:01.366Z,"3 km ESE of Cabazon, CA",earthquake,0.15,0.37,0.12,22,reviewed,ci,ci
@@ -199,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
 2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
 2024-10-22T14:02:45.880Z,35.0728333,-119.0846667,14.24,1.39,ml,29,94,0.01422,0.17,ci,ci40960304,2024-10-22T23:14:44.575Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.217,18,reviewed,ci,ci
-2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"western Texas",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
+2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"60 km S of Whites City, New Mexico",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
 2024-10-22T13:44:47.500Z,35.0768333,-119.0836667,13.03,2.08,ml,46,82,0.01819,0.2,ci,ci40960264,2024-10-22T22:56:06.330Z,"20 km NW of Grapevine, CA",earthquake,0.22,0.69,0.18,26,reviewed,ci,ci
 2024-10-22T13:43:39.990Z,35.0731667,-119.0885,14.08,1.12,ml,24,109,0.01504,0.19,ci,ci40960256,2024-10-22T22:42:19.811Z,"20 km NW of Grapevine, CA",earthquake,0.34,0.52,0.136,16,reviewed,ci,ci
 2024-10-22T13:42:54.060Z,35.0713333,-119.0825,14.55,1.28,ml,26,101,0.01275,0.15,ci,ci40960248,2024-10-22T22:35:29.538Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.47,0.167,18,reviewed,ci,ci
