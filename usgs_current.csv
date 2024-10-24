@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-24T23:34:08.380Z,36.1334991,-117.3623352,8.54,1.11,ml,14,205,0.2313,0.24,ci,ci40963840,2024-10-24T23:36:27.082Z,"41 km N of Searles Valley, CA",earthquake,1.43,3.48,0.338,6,automatic,ci,ci
+2024-10-24T23:34:06.910Z,36.1818333,-117.319,-1,1.39,ml,18,241,0.2383,0.19,ci,ci40963840,2024-10-24T23:40:38.163Z,"47 km N of Searles Valley, CA",earthquake,2.63,2.81,0.26,10,automatic,ci,ci
 2024-10-24T23:27:13.620Z,35.6538333,-117.4698333,7.44,0.53,ml,20,52,0.03921,0.15,ci,ci40963824,2024-10-24T23:33:12.018Z,"14 km SSW of Searles Valley, CA",earthquake,0.28,0.52,0.105,4,automatic,ci,ci
 2024-10-24T23:23:09.660Z,35.8918333,-117.4663333,12.26,0.75,ml,12,208,0.1308,0.25,ci,ci40963816,2024-10-24T23:28:54.677Z,"15 km NNW of Searles Valley, CA",earthquake,1.27,2.53,0.173,8,automatic,ci,ci
 2024-10-24T23:00:43.830Z,43.6075,-110.48616666667,3.12,2.47,ml,20,121,0.08558,0.21,mb,mb90064408,2024-10-24T23:21:50.340Z,"11 km E of Kelly, Wyoming",earthquake,0.81,3.12,0.28056550167616,23,reviewed,mb,mb
@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T19:07:25.570Z,34.0458333,-117.2198333,7.49,1.7,ml,85,23,0.07526,0.16,ci,ci40963432,2024-10-24T19:17:33.680Z,"4 km WSW of Redlands, CA",earthquake,0.11,0.3,0.171,26,automatic,ci,ci
 2024-10-24T19:06:51.580Z,34.0466652,-117.225502,6.87,0.92,ml,17,79,0.1213,0.12,ci,ci40963424,2024-10-24T19:14:16.659Z,"3 km E of Loma Linda, CA",earthquake,0.37,1.44,0.24,25,automatic,ci,ci
 2024-10-24T19:04:24.940Z,34.0516667,-117.2248333,7.99,0.97,ml,22,31,0.09474,0.17,ci,ci40963416,2024-10-24T19:55:48.638Z,"3 km E of Loma Linda, CA",earthquake,0.26,0.88,0.234,10,reviewed,ci,ci
+2024-10-24T18:59:07.940Z,46.012333333333,-112.45483333333,-2,1.56,ml,11,122,0.07099,0.09,mb,mb90064418,2024-10-24T23:40:35.310Z,"6 km E of Butte, Montana",quarry blast,0.35,31.61,0.24409522575138,19,reviewed,mb,mb
 2024-10-24T18:57:45.670Z,19.174333572388,-155.49166870117,30.489999771118,1.85000002,md,42,97,0.03369,0.119999997,hv,hv74511267,2024-10-24T18:59:29.400Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.48,0.680000007,0.150000006,10,automatic,hv,hv
 2024-10-24T18:52:09.570Z,-5.0468,152.2399,57.198,5.2,mb,60,62,0.853,0.84,us,us7000nmz2,2024-10-24T19:30:33.040Z,"77 km S of Kokopo, Papua New Guinea",earthquake,8.99,7.044,0.038,232,reviewed,us,us
 2024-10-24T18:51:17.580Z,46.8685,-112.5245,9.48,0.53,ml,5,124,0.04724,0.04,mb,mb90064358,2024-10-24T22:48:51.730Z,"15 km SE of Lincoln, Montana",earthquake,0.34,0.59,0.12801898078974,3,reviewed,mb,mb
