@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-24T22:08:10.399Z,61.3605,-150.7081,50.1,1.7,ml,,,,0.4,ak,ak024dp7aozz,2024-10-24T22:10:09.001Z,"22 km SSW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-10-24T22:06:02.940Z,37.650001525879,-122.05133056641,5.8099999427795,1.29,md,10,101,0.08067,0.1,nc,nc75078356,2024-10-24T22:07:37.711Z,"2 km E of Hayward, CA",earthquake,0.37,0.949999988,0.12,4,automatic,nc,nc
 2024-10-24T21:56:19.360Z,38.805332183838,-122.77916717529,2.4900000095367,0.73,md,12,67,0.008004,0.02,nc,nc75078346,2024-10-24T21:57:57.745Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.769999981,0.08,12,automatic,nc,nc
 2024-10-24T21:43:06.407Z,63.2483,-150.5661,105.5,2.1,ml,,,,0.52,ak,ak024dp6wr43,2024-10-24T21:45:28.340Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-24T21:42:30.220Z,19.379667282104,-155.23866271973,0.03999999910593,2.14,ml,19,94,0.006339,0.170000002,hv,hv74511417,2024-10-24T21:45:23.880Z,"7 km S of Volcano, Hawaii",earthquake,0.19,0.209999993,0.37,6,automatic,hv,hv
@@ -46,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T17:05:29.350Z,36.691665649414,-121.37133026123,-0.44999998807907,1.81,md,17,76,0.02542,0.14,nc,nc75078236,2024-10-24T17:22:14.512Z,"12 km SW of Tres Pinos, CA",earthquake,0.38,1.20000005,0.19,17,automatic,nc,nc
 2024-10-24T16:59:55.060Z,34.0476667,-117.2205,7.91,2.31,ml,114,15,0.07344,0.16,ci,ci40963224,2024-10-24T17:13:04.549Z,"4 km WSW of Redlands, CA",earthquake,0.09,0.33,0.145,25,automatic,ci,ci
 2024-10-24T16:50:33.260Z,33.1283333,-116.9341667,7.72,0.78,ml,18,146,0.1293,0.26,ci,ci40963208,2024-10-24T16:57:00.463Z,"4 km NNE of San Pasqual, CA",earthquake,1.13,3.17,0.181,22,automatic,ci,ci
+2024-10-24T16:46:03.410Z,43.881166666667,-110.96166666667,11.51,1.34,ml,11,132,0.01773,0.15,mb,mb90064393,2024-10-24T22:04:15.300Z,"15 km NNE of Alta, Wyoming",earthquake,0.41,0.51,0.24312747577315,9,reviewed,mb,mb
 2024-10-24T16:42:42.269Z,-10.0022,160.9375,10,4.7,mb,15,234,1.125,0.75,us,us7000nmym,2024-10-24T17:19:08.040Z,"118 km WNW of Kirakira, Solomon Islands",earthquake,8.61,1.986,0.159,12,reviewed,us,us
 2024-10-24T16:34:28.512Z,63.7841,-148.4432,88.9,1.6,ml,,,,0.26,ak,ak024dp3vpdv,2024-10-24T16:36:27.756Z,"23 km ENE of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-24T16:28:49.890Z,32.9818333,-116.3153333,8.14,0.93,ml,27,52,0.02896,0.18,ci,ci40963152,2024-10-24T20:34:30.606Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.24,0.56,0.236,10,reviewed,ci,ci
@@ -272,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T22:20:45.490Z,34.9846667,-118.209,-0.56,1.81,ml,32,50,0.1068,0.28,ci,ci40962360,2024-10-23T22:27:55.171Z,"8 km SSW of Mojave, CA",earthquake,0.33,0.77,0.32,35,automatic,ci,ci
 2024-10-23T22:20:26.900Z,46.887833333333,-112.52816666667,8.9,1.45,ml,10,123,0.05661,0.07,mb,mb90064283,2024-10-24T15:20:47.860Z,"13 km ESE of Lincoln, Montana",earthquake,0.47,0.6,0.17321162208384,15,reviewed,mb,mb
 2024-10-23T22:14:25.530Z,44.3025,-110.54533333333,4.48,1.31,md,10,97,0.04049,0.11,uu,uu80085046,2024-10-23T22:27:47.330Z,"59 km SE of West Yellowstone, Montana",earthquake,0.34,0.44,0.23637270025819,7,reviewed,uu,uu
-2024-10-23T22:12:46.286Z,36.1547,-115.6034,14.6,1.8,ml,17,266.58,0.584,0.3369,nn,nn00886475,2024-10-23T22:15:01.264Z,"11 km SSE of Mount Charleston, Nevada",earthquake,,1.1,0.29,12,automatic,nn,nn
-2024-10-23T22:06:55.060Z,44.823,-111.578,7.9,0.12,ml,6,147,0.1056,0.03,mb,mb90064343,2024-10-24T17:49:52.110Z,"31 km W of Hebgen Lake Estates, Montana",earthquake,0.56,0.68,0.22025285694177,2,reviewed,mb,mb
