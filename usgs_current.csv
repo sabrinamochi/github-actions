@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-27T18:45:34.370Z,19.319166183472,-155.21466064453,1.7400000095367,1.72,ml,37,82,0.0389,0.270000011,hv,hv74515392,2024-10-27T18:48:27.800Z,"13 km S of Volcano, Hawaii",earthquake,0.42,0.689999998,0.87,5,automatic,hv,hv
 2024-10-27T18:44:56.929Z,60.2238,-152.6664,104.3,1.7,ml,,,,0.61,ak,ak024du3qtfg,2024-10-27T18:47:22.414Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-10-27T18:39:58.360Z,36.748165130615,-121.39683532715,10.510000228882,1.39,md,8,155,0.05732,0.1,nc,nc75079811,2024-10-27T18:42:03.497Z,"8 km SSW of Ridgemark, CA",earthquake,0.71,1.36000001,0.32,6,automatic,nc,nc
+2024-10-27T18:39:58.360Z,36.748165130615,-121.39683532715,10.510000228882,1.39,md,8,155,0.05732,0.1,nc,nc75079811,2024-10-27T18:57:15.052Z,"8 km SSW of Ridgemark, CA",earthquake,0.71,1.36000001,0.32,6,automatic,nc,nc
 2024-10-27T18:19:43.571Z,36.5752,-117.1565,4.3,0.7,ml,14,273.99,0.374,0.1421,nn,nn00886908,2024-10-27T18:22:01.501Z,"30 km WNW of Furnace Creek, California",earthquake,,3.3,0.33,7,automatic,nn,nn
 2024-10-27T18:10:50.290Z,32.9796667,-116.3171667,8.23,1.02,ml,46,49,0.02755,0.17,ci,ci40965808,2024-10-27T18:21:57.499Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.49,0.158,27,automatic,ci,ci
 2024-10-27T18:04:43.723Z,-11.5834,121.5715,10,4.1,mb,16,144,3.002,0.44,us,us7000nni8,2024-10-27T18:40:02.040Z,"187 km WSW of Baa, Indonesia",earthquake,7.67,1.922,0.185,9,reviewed,us,us
@@ -77,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T09:17:08.650Z,38.834499359131,-122.80899810791,2.1800000667572,0.71,md,15,54,0.01508,0.01,nc,nc75079576,2024-10-27T09:42:14.116Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.74000001,0.12,14,automatic,nc,nc
 2024-10-27T09:16:40.960Z,19.209833145142,-155.35932922363,31.819999694824,2,md,39,207,0.04537,0.100000001,hv,hv74514962,2024-10-27T09:18:08.020Z,"12 km E of Pāhala, Hawaii",earthquake,0.81,0.449999988,0.109999999,6,automatic,hv,hv
 2024-10-27T09:08:08.818Z,61.8106,-151.2237,69.8,1.5,ml,,,,0.39,ak,ak024dty63ht,2024-10-27T09:09:58.444Z,"22 km SSE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-27T09:06:18.570Z,61.3185,-152.25683333333,-0.92,-0.31,ml,8,178,0.07243,0.08,av,av93333238,2024-10-27T18:57:37.130Z,"66 km WNW of Beluga, Alaska",earthquake,0.36,4.64,0.2573683292416,8,reviewed,av,av
 2024-10-27T09:04:57.220Z,38.822834014893,-122.81216430664,3.2200000286102,0.73,md,10,92,0.01786,0.02,nc,nc75079566,2024-10-27T09:22:13.964Z,"7 km NNW of The Geysers, CA",earthquake,0.39,1.87,0.08,10,automatic,nc,nc
 2024-10-27T08:56:29.332Z,61.8062,-150.5855,28.9,2.1,ml,,,,0.22,ak,ak024dtxuzud,2024-10-27T08:58:02.388Z,"29 km N of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-27T08:52:00.310Z,19.19983291626,-155.48866271973,33.009998321533,1.86000001,md,50,112,0.04926,0.119999997,hv,hv74514932,2024-10-27T08:54:07.190Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.5,0.569999993,0.159999996,9,automatic,hv,hv
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T19:08:25.043Z,62.9343,-149.8776,69.5,1.8,ml,,,,0.77,ak,ak024dsgl4aw,2024-10-26T19:10:55.250Z,"55 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-26T19:04:19.105Z,61.37,-146.6375,31.5,1.5,ml,,,,0.96,ak,ak024dsgk8za,2024-10-26T19:05:53.265Z,"30 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-26T19:02:31.150Z,33.8213333,-117.8268333,4.06,1.72,ml,67,37,0.03193,0.24,ci,ci40965328,2024-10-26T23:10:24.104Z,"2 km WNW of Villa Park, CA",earthquake,0.24,0.39,0.114,29,automatic,ci,ci
-2024-10-26T18:59:12.130Z,17.9295,-65.871333333333,42.23,2.39,md,5,212,0.3461,0.36,pr,pr71463688,2024-10-26T19:30:06.660Z,"7 km S of Emajagua, Puerto Rico",earthquake,22.34,31.61,0.091175417686731,5,reviewed,pr,pr
-2024-10-26T18:53:34.830Z,33.7153333,-116.83,14,0.56,ml,23,98,0.08314,0.11,ci,ci40965320,2024-10-26T19:01:06.704Z,"7 km ESE of Valle Vista, CA",earthquake,0.25,0.48,0.182,12,automatic,ci,ci
