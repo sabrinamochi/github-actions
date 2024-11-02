@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-02T15:35:11.380Z,33.0421677,-116.6911697,14.1,1.6,ml,45,39,0.07202,0.18,ci,ci40786239,2024-11-02T15:37:15.593Z,"9 km WSW of Julian, CA",earthquake,0.27,0.63,0.267,27,automatic,ci,ci
 2024-11-02T15:18:43.125Z,62.3388,-152.129,90.9,2,ml,,,,0.65,ak,ak024e3z0zw8,2024-11-02T15:21:00.624Z,"54 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-02T15:14:54.355Z,61.943,-149.4742,39.7,1.7,ml,,,,0.42,ak,ak024e3z05wb,2024-11-02T15:16:53.906Z,"25 km NNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-02T15:10:57.844Z,31.655,-104.374,3.7619,1.5,ml,18,70,0,0.3,tx,tx2024vogm,2024-11-02T15:29:49.309Z,"57 km S of Whites City, New Mexico",earthquake,0,1.317193031311,0.1,14,automatic,tx,tx
@@ -94,7 +95,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T06:01:36.140Z,18.860666275024,-155.20567321777,9.1000003814697,2.66000009,md,36,268,0.3806,0.150000006,hv,hv74519852,2024-11-02T06:04:05.490Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.62,0.639999986,0.449999988,4,automatic,hv,hv
 2024-11-02T05:50:52.276Z,41.5266,79.4209,10,4.7,mb,39,62,1.8,1.11,us,us7000nphu,2024-11-02T06:28:46.040Z,"81 km WNW of Aksu, China",earthquake,8.01,1.854,0.093,35,reviewed,us,us
 2024-11-02T05:49:50.530Z,32.9693333,-116.2806667,5.34,0.9,ml,38,109,0.1093,0.19,ci,ci40786055,2024-11-02T05:55:57.257Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.24,0.74,0.19,16,automatic,ci,ci
-2024-11-02T05:31:02.493Z,61.3581,-152.3051,5,0.5,ml,,,,0.49,ak,ak024e3t5d0p,2024-11-02T05:32:04.540Z,"69 km WNW of Beluga, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-11-02T05:29:37.560Z,33.165,-115.9395,6.6,1.34,ml,58,56,0.03318,0.23,ci,ci40786039,2024-11-02T05:40:20.250Z,"15 km S of Salton City, CA",earthquake,0.19,0.47,0.16,28,automatic,ci,ci
 2024-11-02T05:23:27.210Z,33.4638333,-116.5068333,12.71,2.08,ml,99,24,0.08544,0.21,ci,ci40786031,2024-11-02T05:34:15.490Z,"18 km ESE of Anza, CA",earthquake,0.13,0.31,0.23,25,automatic,ci,ci
 2024-11-02T05:19:44.390Z,18.874166666667,-155.19516666667,11,3.41,ml,30,271,0.3769,0.12,hv,hv74519777,2024-11-02T05:58:21.490Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.65,0.76,0.11342416886183,25,reviewed,hv,hv
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T15:48:46.078Z,59.2236,-153.8198,115.6,1.9,ml,,,,0.53,ak,ak024e2bo33z,2024-11-01T15:50:59.087Z,"53 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-01T15:47:28.810Z,19.32799911499,-155.18533325195,2.9000000953674,1.88999999,md,46,91,0.05337,0.170000002,hv,hv74519367,2024-11-01T15:49:58.770Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,0.769999981,0.270000011,24,automatic,hv,hv
 2024-11-01T15:42:33.340Z,35.12,-119.0826667,11.86,1.28,ml,24,89,0.06127,0.17,ci,ci40785663,2024-11-01T22:56:45.474Z,"22 km SW of Lamont, CA",earthquake,0.28,0.78,0.092,20,reviewed,ci,ci
-2024-11-01T15:36:44.850Z,36.683,-118.5013333,17.77,1.51,ml,11,193,0.3365,0.24,ci,ci40785655,2024-11-01T16:08:57.104Z,"30 km WSW of Independence, CA",earthquake,0.8,1.45,0.494,6,reviewed,ci,ci
-2024-11-01T15:34:53.772Z,61.8474,-147.1736,33.6,1.9,ml,,,,0.54,ak,ak024e2bl3oh,2024-11-01T15:36:18.696Z,"10 km S of Eureka Roadhouse, Alaska",earthquake,,0.1,,,automatic,ak,ak
