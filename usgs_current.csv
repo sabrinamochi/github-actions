@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-01T23:57:23.438Z,37.2035,-114.5145,10.1,1.9,ml,16,189.79,0.867,0.5156,nn,nn00887102,2024-11-02T00:00:28.613Z,"45 km S of Caliente, Nevada",earthquake,,1.3,0.35,14,automatic,nn,nn
-2024-11-01T23:52:30.076Z,59.8911,-152.9028,111.7,2.3,ml,,,,0.38,ak,ak024e2ggdm1,2024-11-01T23:54:21.250Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-01T23:52:30.076Z,59.8911,-152.9028,111.7,2.3,ml,,,,0.38,ak,ak024e2ggdm1,2024-11-02T00:01:04.040Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-01T23:28:05.920Z,33.396,-116.3743333,3.89,0.81,ml,40,55,0.06371,0.21,ci,ci40785927,2024-11-01T23:34:02.776Z,"16 km N of Borrego Springs, CA",earthquake,0.21,0.56,0.138,18,automatic,ci,ci
 2024-11-01T23:13:15.956Z,64.036,-148.7946,0,1.4,ml,,,,0.96,ak,ak024e2g7zj9,2024-11-01T23:15:35.192Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-01T23:07:46.130Z,37.546333312988,-118.82733154297,4.7300000190735,1.13,md,9,212,0.04364,0.02,nc,nc75081981,2024-11-01T23:29:26.706Z,"13 km W of Toms Place, CA",earthquake,1.09,1.28999996,0.27,9,automatic,nc,nc
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T22:03:49.233Z,29.7784,91.9489,10,4.1,mb,17,95,6.176,1.08,us,us7000npgd,2024-11-01T22:54:14.040Z,"83 km E of Lhasa, China",earthquake,11.07,1.959,0.145,13,reviewed,us,us
 2024-11-01T22:01:27.530Z,38.808666229248,-122.81950378418,3.1600000858307,0.79,md,13,65,0.007561,0.02,nc,nc75081961,2024-11-01T22:42:16.360Z,"6 km NW of The Geysers, CA",earthquake,0.39,1.05999994,0.04,13,automatic,nc,nc
 2024-11-01T21:58:46.647Z,61.7611,-150.0681,25.9,1.6,ml,,,,0.37,ak,ak024e2faty0,2024-11-01T22:00:51.048Z,"2 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-01T21:52:25.600Z,35.8638333,-117.6636667,7.97,0.65,ml,21,96,0.07206,0.11,ci,ci40785863,2024-11-01T23:59:08.821Z,"23 km ESE of Little Lake, CA",earthquake,0.18,0.48,0.143,7,reviewed,ci,ci
+2024-11-01T21:52:25.600Z,35.8638333,-117.6635,7.98,0.65,ml,21,96,0.07196,0.11,ci,ci40785863,2024-11-02T00:02:28.070Z,"23 km ESE of Little Lake, CA",earthquake,0.18,0.48,0.143,7,reviewed,ci,ci
 2024-11-01T21:46:27.480Z,38.807998657227,-122.8176651001,2.920000076294,1.31,md,28,56,0.009037,0.02,nc,nc75081956,2024-11-01T22:32:18.278Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.389999986,0.12,26,automatic,nc,nc
 2024-11-01T21:42:59.550Z,36.6006667,-117.1005,3.99,2.47,ml,24,146,0.3821,0.16,ci,ci40785831,2024-11-01T23:55:45.782Z,"4 km E of Stovepipe Wells, CA",earthquake,0.37,31.61,0.145,24,reviewed,ci,ci
 2024-11-01T21:35:46.127Z,33.8434,86.4422,10,4.6,mb,34,90,6.106,0.85,us,us7000npga,2024-11-01T21:58:43.040Z,"western Xizang",earthquake,11.23,1.908,0.104,28,reviewed,us,us
@@ -141,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T07:17:23.179Z,60.3294,-148.1255,8.3,1.6,ml,,,,0.22,ak,ak024e26pxb1,2024-11-01T07:19:11.041Z,"29 km NNW of Chenega, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-01T07:13:13.802Z,57.003,-157.204,113.7,2.2,ml,,,,0.69,ak,ak024e26p1pw,2024-11-01T07:15:32.464Z,"57 km SSE of Ugashik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-11-01T06:53:07.319Z,-23.367,-175.58,49.599,4.9,mb,25,187,6.235,0.72,us,us7000npb8,2024-11-01T07:22:56.040Z,"233 km SSW of ‘Ohonua, Tonga",earthquake,13.23,12.219,0.122,21,reviewed,us,us
+2024-11-01T06:51:23.920Z,61.28,-152.24883333333,2.36,-0.2,ml,10,110,0.04761,0.12,av,av93339023,2024-11-02T00:09:35.930Z,"64 km WNW of Tyonek, Alaska",earthquake,0.31,0.52,0.25793329875974,10,reviewed,av,av
 2024-11-01T06:47:28.372Z,31.68,-104.408,6.0486,1.3,ml,15,69,0,0.2,tx,tx2024vltw,2024-11-01T11:59:58.394Z,"55 km S of Whites City, New Mexico",earthquake,1.0696256443655,0.99332475279363,0.1,12,reviewed,tx,tx
 2024-11-01T06:46:18.450Z,34.1006667,-116.8523333,4.06,0.85,ml,26,113,0.06969,0.12,ci,ci40785399,2024-11-01T22:24:13.741Z,"17 km SSE of Big Bear Lake, CA",earthquake,0.25,0.29,0.128,14,reviewed,ci,ci
 2024-11-01T06:38:03.370Z,32.928,-115.8301667,7.6,1.3,ml,36,55,0.02715,0.21,ci,ci40785391,2024-11-01T22:13:35.199Z,"23 km WSW of Westmorland, CA",earthquake,0.24,0.44,0.193,25,reviewed,ci,ci
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T00:21:13.190Z,17.9935,-66.823,13.02,2.27,md,6,182,0.0566,0.29,pr,pr71464348,2024-11-01T00:29:33.860Z,"0 km W of Indios, Puerto Rico",earthquake,1.23,1.31,0.230827566046,6,reviewed,pr,pr
 2024-11-01T00:17:36.940Z,58.256833333333,-154.96416666667,11.99,-0.23,ml,6,235,0.06561,0.1,av,av93025789,2024-11-01T20:08:26.190Z,"82 km NNW of Karluk, Alaska",earthquake,1.02,0.69,0.34893468974329,6,reviewed,av,av
 2024-11-01T00:12:32.180Z,35.872,-117.7245,8.89,1.39,ml,30,32,0.0713,0.11,ci,ci40785143,2024-11-01T16:58:57.114Z,"18 km ESE of Little Lake, CA",earthquake,0.13,0.38,0.138,10,reviewed,ci,ci
-2024-11-01T00:06:11.970Z,34.0908333,-118.187,11.33,1.3,ml,24,77,0.05418,0.13,ci,ci40785135,2024-11-01T21:01:42.808Z,"3 km SSE of Highland Park, CA",earthquake,0.23,0.44,0.17,18,reviewed,ci,ci
-2024-11-01T00:02:08.080Z,19.060167312622,-155.38433837891,27.559999465942,2.1500001,md,30,235,0.1199,0.159999996,hv,hv74518772,2024-11-01T00:03:45.420Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.81,1.07000005,0.289999992,4,automatic,hv,hv
