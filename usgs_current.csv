@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-02T01:53:49.260Z,38.793167114258,-122.75733184815,0.61000001430511,1.01,md,10,134,0.007676,0.04,nc,nc75082016,2024-11-02T01:55:23.767Z,"2 km N of The Geysers, CA",earthquake,0.56,0.660000026,0.28,10,automatic,nc,nc
+2024-11-02T01:48:54.641Z,31.6566,-104.3586,10,3,ml,17,113,0.122,0.41,us,us7000nph2,2024-11-02T01:57:34.799Z,"57 km S of Whites City, New Mexico",earthquake,2,1.987,0.074,46,reviewed,us,us
+2024-11-02T01:43:57.918Z,60.4415,-151.7708,68.6,1.4,ml,,,,0.16,ak,ak024e3quevf,2024-11-02T01:46:27.140Z,"26 km W of Kalifornsky, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-11-02T01:39:39.596Z,31.658,-104.364,3.7574,2.7,ml,17,70,0.1,0.3,tx,tx2024vnfp,2024-11-02T02:01:29.040Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3894168138504,0.2,12,automatic,tx,tx
+2024-11-02T01:36:48.147Z,31.674,-104.355,5.8307,4.2,ml,32,71,0.1,0.1,tx,tx2024vnfl,2024-11-02T02:05:01.069Z,"55 km S of Whites City, New Mexico",earthquake,0.57669607587434,0.57012523046477,0.1,58,reviewed,tx,tx
 2024-11-02T01:15:58.740Z,33.9926667,-117.1551667,7.97,1.16,ml,52,31,0.04748,0.16,ci,ci40785959,2024-11-02T01:31:04.320Z,"7 km SSE of Redlands, CA",earthquake,0.13,0.4,0.155,28,automatic,ci,ci
 2024-11-02T01:13:41.716Z,64.3168,-149.7273,33.7,1.7,ml,,,,1.08,ak,ak024e3qnupu,2024-11-02T01:25:08.902Z,"26 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-02T01:11:59.987Z,31.663,-104.494,4.1313,2.3,ml,25,67,0.1,0.3,tx,tx2024vneo,2024-11-02T01:29:12.469Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3302825689316,0.2,19,automatic,tx,tx
@@ -69,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T17:00:46.910Z,38.778667449951,-122.75783538818,1.4700000286102,0.8,md,9,102,0.01006,0.02,nc,nc75081866,2024-11-01T17:17:18.976Z,"0 km NNW of The Geysers, CA",earthquake,0.41,0.689999998,0.15,7,automatic,nc,nc
 2024-11-01T16:52:46.620Z,41.627166666667,-111.7285,14.43,0.93,md,16,108,0.06039,0.09,uu,uu80085801,2024-11-01T18:39:55.320Z,"9 km SE of Millville, Utah",earthquake,0.38,0.38,0.15477062258999,12,reviewed,uu,uu
 2024-11-01T16:44:00.392Z,62.0708,-149.3923,35.1,2.1,ml,,,,0.35,ak,ak024e2c8kbr,2024-11-01T16:45:29.254Z,"25 km ESE of Susitna North, Alaska",earthquake,,5.9,,,automatic,ak,ak
-2024-11-01T16:41:54.908Z,31.623,-104.489,4.3295,2.5,ml,22,69,0.1,0.3,tx,tx2024vmns,2024-11-01T17:48:02.220Z,"62 km S of Whites City, New Mexico",earthquake,0,1.5699602365494,0.1,16,automatic,tx,tx
+2024-11-01T16:41:54.908Z,31.623,-104.489,4.3295,2.5,ml,22,69,0.1,0.3,tx,tx2024vmns,2024-11-02T01:55:10.507Z,"62 km S of Whites City, New Mexico",earthquake,0,1.5699602365494,0.1,16,automatic,tx,tx
 2024-11-01T16:41:08.217Z,58.5776,-154.686,2.7,1,ml,,,,0.13,ak,ak024e2c7xrx,2024-11-01T16:43:16.513Z,"96 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-01T16:38:17.937Z,61.6569,-146.4207,29.7,1.9,ml,,,,0.72,ak,ak024e2c7bdt,2024-11-01T16:40:15.672Z,"41 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-01T16:30:50.963Z,36.8101,-116.2186,5,0.4,ml,27,49.43,0.083,0.1027,nn,nn00887084,2024-11-01T21:54:30.938Z,"49 km ESE of Beatty, Nevada",earthquake,,1.3,0.34,13,reviewed,nn,nn
@@ -119,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T10:47:59.768Z,37.2751,-117.3375,5.2,0.5,ml,9,167.22,0.066,0.1211,nn,nn00887077,2024-11-01T18:53:52.320Z,"48 km S of Goldfield, Nevada",earthquake,,2.2,0.35,3,reviewed,nn,nn
 2024-11-01T10:47:39.830Z,39.777000427246,-120.57883453369,1.3700000047684,2.86,md,37,73,,0.25,nc,nc75081776,2024-11-01T16:54:37.279Z,"1 km S of Mohawk Vista, CA",earthquake,0.46,2.6500001,0.11,33,automatic,nc,nc
 2024-11-01T10:42:39.015Z,31.663,-104.451,6.0999,1.5,ml,18,65,0,0.2,tx,tx2024vmbr,2024-11-01T12:35:45.629Z,"57 km S of Whites City, New Mexico",earthquake,0.95231813265387,0.80884413566737,0.1,14,reviewed,tx,tx
+2024-11-01T10:37:44.260Z,61.31,-152.25866666667,2.56,-0.53,ml,7,201,0.06709,0.07,av,av93025864,2024-11-02T01:43:34.520Z,"65 km WNW of Beluga, Alaska",earthquake,0.41,1.07,0.11626133059507,6,reviewed,av,av
 2024-11-01T10:33:30.430Z,36.479999542236,-121.05216979981,5.9800000190735,1.26,md,9,173,,0.05,nc,nc75081766,2024-11-01T10:52:18.237Z,"10 km SE of Pinnacles, CA",earthquake,0.4,0.730000019,0.21,8,automatic,nc,nc
 2024-11-01T10:26:50.640Z,51.759333333333,-177.46766666667,-0.96,0.99,ml,5,181,0.1445,0.16,av,av93025859,2024-11-02T01:37:37.940Z,"58 km WSW of Adak, Alaska",earthquake,0.87,2.19,0.22128178347117,5,reviewed,av,av
 2024-11-01T10:13:39.282Z,36.59,-115.7301,11.8,0.8,ml,17,274.78,0.2,0.1188,nn,nn00887074,2024-11-01T18:20:12.731Z,"5 km WNW of Indian Springs, Nevada",earthquake,,5,0.18,8,reviewed,nn,nn
@@ -209,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T02:37:00.398Z,32.438,-101.695,6.4697,1.2,ml,34,73,0,0.1,tx,tx2024vllp,2024-11-01T13:13:19.674Z,"10 km SSE of Ackerly, Texas",earthquake,0.37401391636305,0.62226562082935,0.2,26,reviewed,tx,tx
 2024-11-01T02:21:22.610Z,34.5113333,-118.88,10.78,1.31,ml,41,34,0.04408,0.25,ci,ci40785183,2024-11-01T21:45:14.048Z,"13 km NNE of Fillmore, CA",earthquake,0.29,0.6,0.132,19,reviewed,ci,ci
 2024-11-01T02:07:48.180Z,39.705333333333,-110.82966666667,-3.42,1.56,md,10,149,0.07175,0.1,uu,uu80085776,2024-11-01T14:07:26.570Z,"2 km NW of Kenilworth, Utah",earthquake,0.52,1.37,0.23650865281535,8,reviewed,uu,uu
-2024-11-01T01:56:49.200Z,59.3585,-153.431,-0.31,0.32,ml,5,175,0.008133,0.1,av,av93338828,2024-11-01T19:44:02.530Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.3,0.31,0.30717763925443,5,reviewed,av,av
-2024-11-01T01:51:06.553Z,63.0311,-151.5327,0,1.7,ml,,,,1.19,ak,ak024e23ckqn,2024-11-01T01:53:25.070Z,"57 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-01T01:46:55.015Z,36.6326,-117.0818,13,1,ml,7,301.94,0.35,0.0876,nn,nn00887064,2024-11-01T17:46:32.800Z,"28 km NW of Furnace Creek, California",earthquake,,4.4,0.33,3,reviewed,nn,nn
