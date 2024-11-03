@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-03T15:12:34.589Z,62.3739,-151.4606,90.9,1.5,ml,,,,0.19,ak,ak024e5mj1fm,2024-11-03T15:14:37.739Z,"38 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-03T14:34:26.520Z,33.8871667,-116.7978333,10.13,0.81,ml,21,125,0.05344,0.09,ci,ci40786879,2024-11-03T14:46:22.130Z,"4 km SSW of Cabazon, CA",earthquake,0.65,0.39,0.129,23,automatic,ci,ci
 2024-11-03T14:15:57.396Z,60.3817,-141.1455,8.3,1.8,ml,,,,0.54,ak,ak024e5lyaqj,2024-11-03T14:17:45.107Z,"122 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-03T14:09:33.812Z,25.4729,142.5714,38.276,4.8,mb,35,130,1.653,0.57,us,us7000npqd,2024-11-03T14:32:36.040Z,"Volcano Islands, Japan region",earthquake,12.8,6.749,0.105,28,reviewed,us,us
@@ -9,10 +10,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T13:28:57.192Z,31.734,-104.115,5.0702,1.9,ml,18,63,0,0.2,tx,tx2024vpyd,2024-11-03T13:44:35.590Z,"48 km W of Mentone, Texas",earthquake,0,2.4683520793915,0.2,13,automatic,tx,tx
 2024-11-03T13:19:15.123Z,59.4815,-152.1664,46.8,2.3,ml,,,,0.57,ak,ak024e5ldmqg,2024-11-03T13:20:59.883Z,"19 km NW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-03T13:16:46.881Z,40.074,-119.6397,16,1.6,ml,11,166.64,0.119,0.1968,nn,nn00887139,2024-11-03T13:19:04.397Z,"14 km NNW of Sutcliffe, Nevada",earthquake,,0.8,0.32,8,automatic,nn,nn
-2024-11-03T13:06:28.520Z,34.0098333,-117.1131667,14.36,1.52,ml,93,28,0.02558,0.18,ci,ci40786863,2024-11-03T13:13:16.320Z,"6 km WNW of Calimesa, CA",earthquake,0.13,0.25,0.177,25,automatic,ci,ci
+2024-11-03T13:06:28.520Z,34.0098333,-117.1131667,14.36,1.52,ml,93,28,0.02558,0.18,ci,ci40786863,2024-11-03T15:14:13.786Z,"6 km WNW of Calimesa, CA",earthquake,0.13,0.25,0.177,25,reviewed,ci,ci
 2024-11-03T13:06:20.545Z,63.0832,-150.444,100.3,2,ml,,,,0.32,ak,ak024e5lauue,2024-11-03T13:08:19.721Z,"67 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-03T12:33:32.610Z,33.2423333,-115.9943333,5.73,1.47,ml,64,59,0.03833,0.2,ci,ci40786855,2024-11-03T12:45:34.153Z,"7 km SSW of Salton City, CA",earthquake,0.16,0.37,0.156,27,automatic,ci,ci
-2024-11-03T12:23:01.860Z,34.0216667,-116.7171667,14.49,1.66,ml,93,37,0.05989,0.18,ci,ci40786847,2024-11-03T12:38:41.509Z,"13 km WSW of Morongo Valley, CA",earthquake,0.12,0.24,0.15,26,automatic,ci,ci
+2024-11-03T12:23:01.860Z,34.0216667,-116.7171667,14.49,1.66,ml,93,37,0.05989,0.18,ci,ci40786847,2024-11-03T15:14:46.060Z,"13 km WSW of Morongo Valley, CA",earthquake,0.12,0.24,0.15,26,reviewed,ci,ci
 2024-11-03T12:20:49.342Z,25.4098,142.5467,10,4.7,mb,59,111,1.71,0.82,us,us7000npq2,2024-11-03T13:23:54.040Z,"Volcano Islands, Japan region",earthquake,8.33,1.877,0.058,90,reviewed,us,us
 2024-11-03T12:06:47.006Z,25.4573,142.5981,10,4.9,mb,69,90,1.673,1.04,us,us7000npq0,2024-11-03T13:02:39.040Z,"Volcano Islands, Japan region",earthquake,10.87,1.896,0.069,68,reviewed,us,us
 2024-11-03T11:47:45.610Z,19.179832458496,-155.51416015625,30.489999771118,2.47,ml,60,85,0.05487,0.150000006,hv,hv74521142,2024-11-03T11:50:36.520Z,"4 km SW of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.27,34,automatic,hv,hv
@@ -22,12 +23,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T11:03:03.440Z,33.846,-117.8661667,5.53,1.43,ml,77,50,0.01015,0.21,ci,ci40786839,2024-11-03T11:10:23.079Z,"2 km ENE of Anaheim, CA",earthquake,0.17,0.27,0.194,29,automatic,ci,ci
 2024-11-03T11:01:21.797Z,51.5024,-175.5326,35,4.1,ml,23,202,0.543,0.62,us,us7000nppu,2024-11-03T11:49:48.040Z,"86 km ESE of Adak, Alaska",earthquake,2.96,1.967,0.077,22,reviewed,us,us
 2024-11-03T10:56:48.534Z,51.4872,-175.6262,33,5.8,mww,121,70,0.533,0.62,us,us7000nppj,2024-11-03T15:08:43.529Z,"81 km ESE of Adak, Alaska",earthquake,4.21,1.882,0.068,21,reviewed,us,us
-2024-11-03T10:53:07.590Z,32.9775,-116.3205,9.08,0.96,ml,34,120,0.07598,0.2,ci,ci40786831,2024-11-03T11:04:04.930Z,"26 km SW of Ocotillo Wells, CA",earthquake,0.34,0.62,0.18,15,automatic,ci,ci
+2024-11-03T10:53:07.590Z,32.9775,-116.3205,9.08,0.96,ml,34,120,0.07598,0.2,ci,ci40786831,2024-11-03T15:14:38.901Z,"26 km SW of Ocotillo Wells, CA",earthquake,0.34,0.62,0.18,15,reviewed,ci,ci
 2024-11-03T10:41:17.970Z,18.845333099365,-155.19816589356,10.930000305176,2.84,ml,52,264,0.3969,0.230000004,hv,hv74521092,2024-11-03T13:37:00.040Z,"47 km ESE of Naalehu, Hawaii",earthquake,0.86,1.10000002,0.49,34,automatic,hv,hv
 2024-11-03T10:18:37.990Z,31.739,-104.112,4.4455,1.5,ml,18,69,0,0.3,tx,tx2024vprv,2024-11-03T10:31:09.185Z,"48 km W of Mentone, Texas",earthquake,0,1.2022581100464,0.2,14,automatic,tx,tx
 2024-11-03T09:39:39.200Z,33.8455,-117.8648333,5.53,1.37,ml,55,50,0.009816,0.24,ci,ci40786823,2024-11-03T10:04:25.928Z,"2 km ENE of Anaheim, CA",earthquake,0.21,0.29,0.116,29,automatic,ci,ci
 2024-11-03T09:33:48.150Z,38.821666717529,-122.76433563232,1.7599999904633,1.67,md,11,111,0.02779,0.05,nc,nc75082491,2024-11-03T09:52:15.571Z,"4 km W of Cobb, CA",earthquake,0.35,0.639999986,0.12,13,automatic,nc,nc
-2024-11-03T09:21:29.640Z,34.1508333,-117.4403333,9.31,1.1,ml,22,58,0.0751,0.1,ci,ci40786807,2024-11-03T10:02:37.651Z,"6 km NNE of Fontana, CA",earthquake,0.18,0.49,0.369,32,automatic,ci,ci
+2024-11-03T09:21:29.640Z,34.1508333,-117.4403333,9.31,1.1,ml,22,58,0.0751,0.1,ci,ci40786807,2024-11-03T15:15:04.791Z,"6 km NNE of Fontana, CA",earthquake,0.18,0.49,0.369,32,automatic,ci,ci
 2024-11-03T09:21:29.400Z,34.1588326,-117.4154968,8.92,1.22,ml,13,155,0.08513,0.12,ci,ci40786815,2024-11-03T10:00:57.194Z,"7 km W of Muscoy, CA",earthquake,0.61,1.9,0.222,6,automatic,ci,ci
 2024-11-03T09:20:42.010Z,32.7363333,-116.061,8.39,1.29,ml,13,79,0.03687,0.2,ci,ci40786799,2024-11-03T10:02:04.845Z,"6 km W of Ocotillo, CA",earthquake,0.43,0.78,0.2,25,automatic,ci,ci
 2024-11-03T09:11:50.326Z,64.476,-146.9618,6.2,1.5,ml,,,,0.67,ak,ak024e5iy9aw,2024-11-03T09:14:03.923Z,"6 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T15:33:17.771Z,52.3777,-165.104,9.733,4.5,mb,146,83,1.695,0.43,us,us7000npjx,2024-11-02T16:28:39.040Z,"192 km SSE of Unalaska, Alaska",earthquake,5.34,3.817,0.04,192,reviewed,us,us
 2024-11-02T15:25:04.500Z,46.851666666667,-121.76116666667,1.26,0.69,ml,23,71,0.02183,0.06,uw,uw62058111,2024-11-03T00:57:43.230Z,"23 km ENE of Ashford, Washington",earthquake,0.18,0.34,0.16593537610458,12,reviewed,uw,uw
 2024-11-02T15:18:43.125Z,62.3388,-152.129,90.9,2,ml,,,,0.65,ak,ak024e3z0zw8,2024-11-02T15:21:00.624Z,"54 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-11-02T15:14:54.355Z,61.943,-149.4742,39.7,1.7,ml,,,,0.42,ak,ak024e3z05wb,2024-11-02T15:16:53.906Z,"25 km NNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
