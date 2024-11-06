@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-06T04:10:41.844Z,59.3186,-152.4765,62.7,2.4,ml,,,,0.46,ak,ak024eaekwe7,2024-11-06T04:13:09.534Z,"31 km W of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-11-06T04:06:56.480Z,17.972166666667,-66.829,16,3.04,md,27,180,0.04792,0.3,pr,pr71464938,2024-11-06T04:32:58.820Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.69,0.47,0.13415974940623,16,reviewed,pr,pr
 2024-11-06T04:06:48.410Z,35.7418333,-117.5606667,8.78,0.96,ml,26,68,0.0796,0.12,ci,ci40788343,2024-11-06T04:12:51.211Z,"14 km WSW of Searles Valley, CA",earthquake,0.19,0.53,0.162,10,automatic,ci,ci
 2024-11-06T04:06:32.320Z,35.7283333,-117.5576667,6.29,0.71,ml,23,66,0.09304,0.14,ci,ci40788335,2024-11-06T04:12:33.316Z,"14 km WSW of Searles Valley, CA",earthquake,0.21,0.66,0.114,7,automatic,ci,ci
 2024-11-06T04:00:10.900Z,35.3666667,-118.1215,2.29,1.61,ml,45,27,0.1078,0.15,ci,ci40788327,2024-11-06T04:11:17.640Z,"30 km NNW of California City, CA",earthquake,0.13,0.37,0.187,27,automatic,ci,ci
@@ -114,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T10:32:27.660Z,33.1481667,-116.4466667,11.18,0.56,ml,40,64,0.07103,0.19,ci,ci40787855,2024-11-05T16:19:32.526Z,"14 km SSW of Borrego Springs, CA",earthquake,0.22,0.37,0.185,10,reviewed,ci,ci
 2024-11-05T10:28:24.900Z,18.860332489014,-155.21266174316,10.319999694824,1.88,md,34,267,0.3766,0.140000001,hv,hv74522677,2024-11-05T10:29:56.830Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.74,0.709999979,0.150000006,10,automatic,hv,hv
 2024-11-05T10:18:09.000Z,36.469165802002,-121.04483032227,4.289999961853,1.12,md,6,177,0.01744,0.03,nc,nc75082911,2024-11-05T20:48:08.476Z,"11 km SE of Pinnacles, CA",earthquake,0.54,0.670000017,0.01,5,automatic,nc,nc
+2024-11-05T10:07:09.080Z,60.753666666667,-152.71083333333,6.93,0.65,ml,5,290,0.1634,0.08,av,av93347228,2024-11-06T04:29:03.720Z,"77 km W of Salamatof, Alaska",earthquake,1.11,3.53,0.3435843600098,5,reviewed,av,av
 2024-11-05T10:06:02.413Z,49.4193,147.1684,576.681,5.3,mb,104,82,3.841,0.61,us,us7000nq1g,2024-11-05T10:22:17.040Z,"296 km E of Poronaysk, Russia",earthquake,9.34,8.005,0.026,502,reviewed,us,us
 2024-11-05T09:48:31.050Z,19.408832550049,-155.28649902344,-1.1299999952316,1.8,ml,7,80,0.009071,0.140000001,hv,hv74522657,2024-11-05T12:09:13.601Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.469999999,0.29,9,automatic,hv,hv
 2024-11-05T09:44:37.490Z,17.981,-66.886666666667,17.53,1.94,md,4,155,0.009204,0.06,pr,pr71464778,2024-11-05T10:17:03.540Z,"0 km NE of Maria Antonia, Puerto Rico",earthquake,2.87,0.78,0.10418591884207,4,reviewed,pr,pr
@@ -146,4 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T05:01:56.610Z,17.988666666667,-66.828,15.95,2.4,md,10,173,0.04164,0.12,pr,pr71464738,2024-11-05T05:12:02.900Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.43,0.65,0.095868569644533,5,reviewed,pr,pr
 2024-11-05T04:44:00.954Z,59.8484,-153.562,135.4,1.9,ml,,,,1.02,ak,ak024e8r8r33,2024-11-05T04:47:30.862Z,"31 km ENE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-05T04:41:46.710Z,36.552333831787,-121.07416534424,6.710000038147,1.86,md,21,82,0.03817,0.19,nc,nc75082881,2024-11-05T04:57:15.047Z,"7 km E of Pinnacles, CA",earthquake,0.4,1,0.13,21,automatic,nc,nc
-2024-11-05T04:31:41.022Z,63.2482,-150.5942,129.2,2.7,ml,,,,0.47,ak,ak024e8r61uo,2024-11-05T04:51:07.040Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
