@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-07T13:54:10.370Z,38.808498382568,-122.78283691406,3.1900000572205,0.28,md,9,89,0.005042,0.01,nc,nc75083551,2024-11-07T13:55:44.722Z,"4 km NNW of The Geysers, CA",earthquake,0.61,1.47000003,0.13,10,automatic,nc,nc
 2024-11-07T12:54:36.640Z,38.794334411621,-122.78350067139,3.6300001144409,0.46,md,9,100,0.00364,0.01,nc,nc75083541,2024-11-07T13:19:31.362Z,"3 km NW of The Geysers, CA",earthquake,0.52,1.35000002,0.24,10,automatic,nc,nc
 2024-11-07T12:47:19.248Z,13.5504,-90.702,46.905,4.3,mb,42,170,0.962,1.34,us,us7000nqe2,2024-11-07T13:40:13.040Z,"42 km S of Iztapa, Guatemala",earthquake,6.15,10.168,0.087,37,reviewed,us,us
 2024-11-07T12:28:16.130Z,33.6606667,-116.9338333,16.45,1.15,ml,55,31,0.06398,0.19,ci,ci40789199,2024-11-07T12:39:15.910Z,"10 km SSE of Hemet, CA",earthquake,0.17,0.42,0.214,29,automatic,ci,ci
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T08:40:34.840Z,33.4513321,-116.4048309,5.65,1.12,ml,27,53,0.1192,0.23,ci,ci40789079,2024-11-07T08:42:40.297Z,"22 km N of Borrego Springs, CA",earthquake,0.38,1.67,0.26,12,automatic,ci,ci
 2024-11-07T08:40:14.905Z,62.5883,-149.6732,11.5,1.9,ml,,,,0.52,ak,ak024ec4ocpe,2024-11-07T08:41:56.316Z,"26 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-07T08:39:06.810Z,33.447834,-116.4078369,9.8,3.46,ml,113,20,0.1184,0.2,ci,ci40789071,2024-11-07T13:33:18.943Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.55,0.183,15,reviewed,ci,ci
-2024-11-07T08:35:33.996Z,31.585,-104.539,3.5115,1.9,ml,8,158,0.1,0.2,tx,tx2024vwwn,2024-11-07T09:11:35.495Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.3128592967987,0.1,6,automatic,tx,tx
+2024-11-07T08:35:34.079Z,31.611,-104.507,8.7146,1.6,ml,20,70,0.1,0.2,tx,tx2024vwwn,2024-11-07T13:59:32.574Z,"63 km S of Whites City, New Mexico",earthquake,1.0021386445467,0.89824568580508,0.1,15,reviewed,tx,tx
 2024-11-07T08:14:02.010Z,36.7329,-116.1095,2.3,-0.4,ml,12,103.2,0.02,0.0654,nn,nn00887296,2024-11-07T13:07:59.468Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.07,3,reviewed,nn,nn
 2024-11-07T08:04:05.401Z,31.589,-104.545,3.1553,2,ml,20,87,0.1,0.5,tx,tx2024vwvo,2024-11-07T08:47:47.392Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.483583688736,0.1,16,automatic,tx,tx
 2024-11-07T08:02:57.230Z,34.0503333,-117.2603333,15.95,1.13,ml,45,67,0.05802,0.16,ci,ci40789063,2024-11-07T08:09:31.507Z,"0 km NNE of Loma Linda, CA",earthquake,0.17,0.35,0.213,30,automatic,ci,ci
@@ -174,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T14:36:23.490Z,-4.7902,153.302,52.155,5.9,mww,208,20,1.281,0.57,us,us7000nq9e,2024-11-07T00:05:52.040Z,"124 km ESE of Kokopo, Papua New Guinea",earthquake,6.23,4.471,0.043,51,reviewed,us,us
 2024-11-06T14:11:51.900Z,33.585,-116.597,15.5,0.84,ml,18,68,0.01317,0.09,ci,ci40788519,2024-11-06T15:44:13.982Z,"8 km ENE of Anza, CA",earthquake,0.23,0.28,0.139,6,reviewed,ci,ci
 2024-11-06T14:04:56.060Z,38.067,-112.7355,5.99,1.36,md,9,109,0.4036,0.18,uu,uu80085996,2024-11-06T14:22:33.110Z,"20 km N of Paragonah, Utah",earthquake,0.55,31.61,0.23649098394291,8,reviewed,uu,uu
-2024-11-06T13:56:36.270Z,46.195166666667,-122.18616666667,7.71,0.24,ml,17,99,0.005056,0.15,uw,uw62058806,2024-11-06T19:41:33.090Z,"37 km NNE of Amboy, Washington",earthquake,0.46,0.63,0.1163828702469,9,reviewed,uw,uw
-2024-11-06T13:55:58.430Z,36.6145,-117.0995,0.99,2.43,ml,18,188,0.3959,0.22,ci,ci40788511,2024-11-06T15:48:19.366Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.54,1.17,0.138,31,reviewed,ci,ci
