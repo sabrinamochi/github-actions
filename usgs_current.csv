@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-11T16:48:33.977Z,59.5945,-152.5132,68,2.1,ml,,,,0.51,ak,ak024eivmypx,2024-11-11T16:51:39.591Z,"42 km NW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-11T16:44:22.260Z,38.12166595459,-122.77249908447,10.560000419617,1.49,md,4,206,0.08136,0.05,nc,nc75085346,2024-11-11T16:46:02.125Z,"6 km NE of Point Reyes Station, CA",earthquake,6.66,6.26999998,0.24,2,automatic,nc,nc
 2024-11-11T16:44:13.140Z,19.152000427246,-155.48249816894,31.989999771118,1.74000001,md,25,227,0.01957,0.119999997,hv,hv74528072,2024-11-11T16:45:49.950Z,"5 km S of Pāhala, Hawaii",earthquake,0.76,0.899999976,0.129999995,3,automatic,hv,hv
 2024-11-11T16:42:14.010Z,38.825500488281,-122.80383300781,2.4500000476837,1.07,md,12,88,0.005309,0.02,nc,nc75085341,2024-11-11T16:43:52.202Z,"7 km NNW of The Geysers, CA",earthquake,0.35,0.810000002,0.2,13,automatic,nc,nc
@@ -47,7 +48,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T10:55:09.310Z,33.2508333,-116.2746667,11.65,1.37,ml,78,22,0.06052,0.18,ci,ci40791575,2024-11-11T15:33:15.850Z,"9 km E of Borrego Springs, CA",earthquake,0.13,0.24,0.135,27,reviewed,ci,ci
 2024-11-11T10:51:19.158Z,31.665,-104.326,6.7664,1.6,ml,26,68,0.1,0.1,tx,tx2024wejf,2024-11-11T14:51:09.697Z,"56 km S of Whites City, New Mexico",earthquake,0.45060144869135,0.76917241368392,0.2,26,reviewed,tx,tx
 2024-11-11T10:47:10.800Z,31.676,-104.371,6.0999,2.7,ml,33,68,0.1,0.1,tx,tx2024weiy,2024-11-11T14:51:13.174Z,"55 km S of Whites City, New Mexico",earthquake,0.51606726172404,0.68922804915898,0.2,20,reviewed,tx,tx
-2024-11-11T10:46:33.003Z,31.591,-103.971,4.8734,1.7,ml,10,126,0,0.5,tx,tx2024weiu,2024-11-11T11:03:02.783Z,"34 km NNW of Toyah, Texas",earthquake,0,1.6149108409882,0.5,8,automatic,tx,tx
 2024-11-11T10:39:53.400Z,33.4786667,-116.4596667,12.28,0.7,ml,43,81,0.09866,0.17,ci,ci40791567,2024-11-11T15:31:46.987Z,"22 km ESE of Anza, CA",earthquake,0.22,0.47,0.148,18,reviewed,ci,ci
 2024-11-11T10:30:42.910Z,34.1273333,-117.3301667,12.62,1.4,ml,94,37,0.03262,0.17,ci,ci40791559,2024-11-11T10:41:42.160Z,"3 km SSE of Muscoy, CA",earthquake,0.12,0.25,0.118,28,automatic,ci,ci
 2024-11-11T10:24:33.300Z,62.2175,-153.2844,0,1.7,ml,,,,1.1,ak,ak024eirx7u7,2024-11-11T10:30:49.257Z,"101 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -63,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T08:27:11.083Z,36.6346,-115.7184,2.9,0.2,ml,11,273.07,0.198,0.1453,nn,nn00887430,2024-11-11T08:29:11.727Z,"8 km NNW of Indian Springs, Nevada",earthquake,,0,0.12,7,automatic,nn,nn
 2024-11-11T08:25:48.721Z,36.7587,-116.1194,4.7,-0.2,ml,14,135.64,0.002,0.0444,nn,nn00887444,2024-11-11T15:01:49.616Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1,0.13,5,reviewed,nn,nn
 2024-11-11T08:24:13.053Z,57.6013,-155.674,91.4,2,ml,,,,0.19,ak,ak024eiqqb2x,2024-11-11T08:26:04.682Z,"72 km W of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-11-11T08:22:31.469Z,31.649,-104.277,6.1639,1.5,ml,31,67,0,0.1,tx,tx2024weeb,2024-11-11T16:51:03.473Z,"59 km NW of Toyah, Texas",earthquake,0.53616964534745,0.89713857252778,0.2,32,reviewed,tx,tx
 2024-11-11T08:07:34.658Z,36.8797,-117.4622,11.3,0.7,ml,17,233.26,0.139,0.1552,nn,nn00887428,2024-11-11T08:09:52.724Z,"57 km NE of Keeler, California",earthquake,,0.9,0.57,7,automatic,nn,nn
 2024-11-11T07:54:43.299Z,61.8833,-149.175,39.8,1.9,ml,,,,0.15,ak,ak024eiqbdah,2024-11-11T07:55:57.266Z,"15 km NNE of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-11T07:47:35.250Z,37.890998840332,-121.90450286865,7.1100001335144,1.43,md,12,105,,0.25,nc,nc75085186,2024-11-11T08:07:19.783Z,"6 km SSE of Clayton, CA",earthquake,0.74,1.12,0.17,11,automatic,nc,nc
