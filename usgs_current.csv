@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-11T13:39:35.830Z,38.824501037598,-122.82216644287,0.49000000953674,1.17,md,9,98,0.00951,0.01,nc,nc75085321,2024-11-11T13:41:10.996Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.980000019,0.1,10,automatic,nc,nc
+2024-11-11T13:55:19.029Z,60.6786,-149.4422,27.1,1.9,ml,,,,0.61,ak,ak024eitw4ri,2024-11-11T13:57:55.231Z,"21 km N of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-11T13:43:26.627Z,31.5728,-104.0971,5,3.4,ml,22,82,0.155,0.34,us,us7000nr5j,2024-11-11T13:52:29.040Z,"40 km NW of Toyah, Texas",earthquake,0.97,1.592,0.045,64,reviewed,us,us
+2024-11-11T13:39:35.830Z,38.824501037598,-122.82216644287,0.49000000953674,1.17,md,9,98,0.00951,0.01,nc,nc75085321,2024-11-11T13:57:16.150Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.980000019,0.1,10,automatic,nc,nc
 2024-11-11T13:38:00.802Z,31.633,-104.468,4.3676,1.5,ml,18,115,0,0.5,tx,tx2024weot,2024-11-11T13:50:59.112Z,"60 km S of Whites City, New Mexico",earthquake,0,1.472795009613,0.1,14,automatic,tx,tx
 2024-11-11T13:35:32.319Z,-5.4099,125.8652,531.304,5.1,mb,88,43,4.12,0.81,us,us7000nr5i,2024-11-11T13:51:20.040Z,"Banda Sea",earthquake,9.99,8.367,0.059,100,reviewed,us,us
 2024-11-11T13:22:20.014Z,31.639,-104.468,5.4576,1.8,ml,18,109,0,0.3,tx,tx2024weog,2024-11-11T13:29:36.937Z,"60 km S of Whites City, New Mexico",earthquake,0,3.1022248268127,0.1,14,automatic,tx,tx
@@ -126,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T17:23:31.685Z,-24.3444,-69.3494,95.902,4.5,mb,28,94,0.843,1.17,us,us7000nr0y,2024-11-10T17:43:22.040Z,"131 km SE of Antofagasta, Chile",earthquake,4.67,6.51,0.14,15,reviewed,us,us
 2024-11-10T17:17:25.190Z,38.420333333333,-110.97216666667,3.62,2.9,ml,18,133,0.3366,0.18,uu,uu80086301,2024-11-10T19:20:09.455Z,"23 km WNW of Hanksville, Utah",earthquake,0.5,31.61,0.033234018078145,2,reviewed,uu,uu
 2024-11-10T17:12:06.919Z,31.662,-104.333,3.791,1.6,ml,6,186,0.1,0.3,tx,tx2024wdaa,2024-11-10T17:20:48.957Z,"57 km S of Whites City, New Mexico",earthquake,0,2.114846944809,0.3,6,automatic,tx,tx
-2024-11-10T16:49:50.382Z,19.8116,-77.0391,14,6.8,mww,87,25,0.61,0.89,us,us7000nr0v,2024-11-11T13:21:57.547Z,"40 km SSW of Bartolomé Masó, Cuba",earthquake,2.61,1.655,0.032,94,reviewed,us,us
+2024-11-10T16:49:50.382Z,19.8116,-77.0391,14,6.8,mww,87,25,0.61,0.89,us,us7000nr0v,2024-11-11T13:56:50.574Z,"40 km SSW of Bartolomé Masó, Cuba",earthquake,2.61,1.655,0.032,94,reviewed,us,us
 2024-11-10T16:42:51.435Z,36.6267,-116.1123,3.6,-0.2,ml,11,249.8,0.024,0.0596,nn,nn00887426,2024-11-11T05:18:41.272Z,"40 km W of Indian Springs, Nevada",earthquake,,1.8,0.18,3,reviewed,nn,nn
 2024-11-10T16:42:19.510Z,38.055000305176,-122.13216400147,17.049999237061,2.19,md,8,150,,0.32,nc,nc75084926,2024-11-10T16:52:17.612Z,"2 km E of Benicia, CA",earthquake,4.93,6.19000006,,1,automatic,nc,nc
 2024-11-10T16:40:43.350Z,33.9976667,-116.6566667,16.9,1.54,ml,70,44,0.04139,0.17,ci,ci40791343,2024-11-10T20:31:44.620Z,"9 km SW of Morongo Valley, CA",earthquake,0.13,0.35,0.156,26,reviewed,ci,ci
@@ -154,6 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T14:28:10.083Z,64.781,-149.0137,16,1.6,ml,,,,0.82,ak,ak024eh6seuo,2024-11-10T14:30:44.761Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-10T14:21:01.223Z,36.6305,-116.1108,4.3,0,ml,20,139.6,0.022,0.0728,nn,nn00887392,2024-11-10T15:52:20.483Z,"39 km W of Indian Springs, Nevada",earthquake,,1,0.12,7,reviewed,nn,nn
 2024-11-10T14:10:57.991Z,36.6306,-116.109,4.2,-0.1,ml,24,140.6,0.02,0.1052,nn,nn00887391,2024-11-10T15:49:12.308Z,"39 km W of Indian Springs, Nevada",earthquake,,0.9,0.25,10,reviewed,nn,nn
-2024-11-10T13:59:54.626Z,64.6227,-146.9229,8.4,1.2,ml,,,,0.55,ak,ak024eh6dpvq,2024-11-10T14:02:13.155Z,"7 km SE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-10T13:55:34.960Z,43.852166666667,-110.9845,7.3,0.91,ml,9,149,0.05051,0.11,mb,mb90065613,2024-11-10T15:50:32.080Z,"11 km NNE of Alta, Wyoming",earthquake,0.55,0.72,0.12339857852664,10,reviewed,mb,mb
-2024-11-10T13:53:53.590Z,37.464500427246,-118.82800292969,-0.20000000298023,1.44,md,13,158,0.1253,0.04,nc,nc75084891,2024-11-10T14:17:19.506Z,"17 km WSW of Toms Place, CA",earthquake,0.79,6.3499999,0.17,13,automatic,nc,nc
