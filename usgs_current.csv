@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T14:28:55.760Z,19.339332580566,-155.13966369629,0.37999999523163,1.85,ml,54,109,0.04724,0.280000001,hv,hv74529502,2024-11-13T14:31:48.770Z,"13 km S of Fern Forest, Hawaii",earthquake,0.42,0.270000011,1.37,6,automatic,hv,hv
 2024-11-13T13:39:21.910Z,38.788166046143,-122.7696685791,2.9500000476837,1.16,md,20,81,0.01467,0.03,nc,nc75086006,2024-11-13T14:09:27.112Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.569999993,0.22,21,automatic,nc,nc
 2024-11-13T13:36:37.690Z,38.820167541504,-122.80516815185,2.6800000667572,1.26,md,21,42,0.005007,0.02,nc,nc75086001,2024-11-13T13:52:14.985Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.479999989,0.17,23,automatic,nc,nc
+2024-11-13T13:17:14.032Z,32.141,-101.06,8.7646,2.4,ml,28,69,0.2,0.1,tx,tx2024wieu,2024-11-13T14:41:43.201Z,"24 km S of Westbrook, Texas",earthquake,0.64386977338456,1.6623928357359,0.2,33,reviewed,tx,tx
 2024-11-13T12:22:13.490Z,19.336666107178,-155.12866210938,5.3099999427795,3.26,ml,64,122,0.04804,0.25,hv,hv74529447,2024-11-13T14:27:56.552Z,"14 km S of Fern Forest, Hawaii",earthquake,0.38,0.449999988,0.38,49,automatic,hv,hv
 2024-11-13T12:18:36.541Z,37.3732,-117.1232,1.3,1.4,ml,19,134.84,0.131,0.406,nn,nn00887497,2024-11-13T12:20:53.929Z,"38 km SSE of Goldfield, Nevada",earthquake,,6.2,0.28,14,automatic,nn,nn
 2024-11-13T12:18:06.230Z,38.827835083008,-122.8570022583,2.5199999809265,0.79,md,17,78,0.0003068,0.02,nc,nc75085996,2024-11-13T12:37:17.487Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.419999987,0.17,16,automatic,nc,nc
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T10:00:48.990Z,63.2167,-150.7526,122.9,2.6,ml,,,,0.52,ak,ak024em2ust9,2024-11-13T10:13:13.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T10:10:25.714Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-11-13T09:23:52.478Z,-23.1531,-69.4005,75.964,3.9,mb,14,80,0.472,0.71,us,us7000nrih,2024-11-13T10:10:28.040Z,"91 km SSW of Calama, Chile",earthquake,5.94,5.472,0.209,6,reviewed,us,us
-2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T14:05:50.313Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T14:35:01.867Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-11-13T08:58:11.940Z,33.6785,-116.7145,15.14,0.44,ml,19,93,0.03258,0.08,ci,ci40792335,2024-11-13T14:18:36.346Z,"7 km S of Idyllwild, CA",earthquake,0.45,1.06,0.169,6,reviewed,ci,ci
 2024-11-13T08:51:33.810Z,38.828834533691,-122.84983062744,2.0599999427795,0.93,md,14,85,0.005649,0.01,nc,nc75085971,2024-11-13T09:27:14.160Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.18,15,automatic,nc,nc
 2024-11-13T08:36:46.430Z,36.6342,-115.6735,2.7,0.2,ml,10,278.28,0.233,0.1001,nn,nn00887494,2024-11-13T08:38:50.561Z,"7 km N of Indian Springs, Nevada",earthquake,,18.3,0.45,4,automatic,nn,nn
@@ -160,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T15:17:39.090Z,33.5046667,-116.7635,3.19,1.31,ml,56,20,0.03753,0.17,ci,ci40792007,2024-11-12T17:19:44.730Z,"10 km SW of Anza, CA",earthquake,0.12,0.39,0.161,27,reviewed,ci,ci
 2024-11-12T15:13:48.280Z,38.825500488281,-122.7311630249,-0.80000001192093,1.03,md,5,224,0.03948,0.09,nc,nc75085651,2024-11-12T15:37:17.747Z,"1 km NW of Cobb, CA",earthquake,2.08,5.01000023,0.35,5,automatic,nc,nc
 2024-11-12T14:51:20.600Z,33.6708333,-116.7366667,13.45,0.69,ml,26,63,0.04439,0.14,ci,ci40791999,2024-11-12T17:18:51.120Z,"8 km SSW of Idyllwild, CA",earthquake,0.25,0.44,0.159,12,reviewed,ci,ci
-2024-11-12T14:41:09.313Z,63.4903,-147.9317,12.1,1.5,ml,,,,0.58,ak,ak024ekhxw37,2024-11-12T14:43:07.303Z,"52 km ENE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
