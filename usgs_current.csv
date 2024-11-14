@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-14T16:39:30.290Z,32.769,-116.7931667,16.96,1.16,ml,19,229,0.1293,0.21,ci,ci40793127,2024-11-14T16:42:57.382Z,"8 km SSW of Alpine, CA",earthquake,0.64,0.89,0.161,14,automatic,ci,ci
 2024-11-14T16:26:50.490Z,38.823833465576,-122.80867004394,2.789999961853,0.74,md,19,43,0.001181,0.01,nc,nc75086381,2024-11-14T16:28:24.597Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.589999974,0.16,18,automatic,nc,nc
 2024-11-14T16:24:20.180Z,19.424833297729,-155.22816467285,26.069999694824,1.96000004,md,30,75,0.0448,0.140000001,hv,hv74530367,2024-11-14T16:25:44.420Z,"2 km SSE of Volcano, Hawaii",earthquake,0.42,0.699999988,0.449999988,5,automatic,hv,hv
 2024-11-14T16:23:05.220Z,38.790500640869,-122.77866363525,1.8899999856949,0.76,md,9,137,0.007711,0.02,nc,nc75086376,2024-11-14T16:24:39.561Z,"2 km NW of The Geysers, CA",earthquake,0.43,0.790000021,0.07,8,automatic,nc,nc
-2024-11-14T16:09:09.050Z,19.4485,-155.23466666667,28.23,3.25,ml,65,43,0.0334,0.12,hv,hv74530357,2024-11-14T16:39:40.679Z,"0 km N of Volcano, Hawaii",earthquake,0.24,0.37,0.42405893243648,48,reviewed,hv,hv
+2024-11-14T16:09:09.050Z,19.4485,-155.23466666667,28.23,3.25,ml,65,43,0.0334,0.12,hv,hv74530357,2024-11-14T16:45:15.871Z,"0 km N of Volcano, Hawaii",earthquake,0.24,0.37,0.42405893243648,48,reviewed,hv,hv
 2024-11-14T15:57:22.205Z,28.952,-98.325,7.2021,1.9,ml,21,67,0.1,0.2,tx,tx2024wkfo,2024-11-14T16:11:13.351Z,"15 km E of Pleasanton, Texas",earthquake,1.2268218070562,1.7309742194869,0.1,7,reviewed,tx,tx
 2024-11-14T15:55:07.210Z,33.4513333,-116.3961667,8.21,1,ml,47,46,0.1266,0.16,ci,ci40793111,2024-11-14T15:59:36.777Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.68,0.193,25,automatic,ci,ci
 2024-11-14T15:42:52.206Z,-7.2282,121.2182,541.374,4.5,mb,39,71,1.725,0.71,us,us7000nrrw,2024-11-14T16:06:57.040Z,"174 km NNE of Ruteng, Indonesia",earthquake,7.92,8.27,0.105,27,reviewed,us,us
@@ -44,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T12:49:25.920Z,38.820835113525,-122.84083557129,1.9800000190735,0.7,md,9,122,0.01421,0.02,nc,nc75086316,2024-11-14T13:07:16.547Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.920000017,0.11,8,automatic,nc,nc
 2024-11-14T12:44:13.209Z,38.1036,-118.0274,0,1.4,ml,8,218.52,0.101,0.2318,nn,nn00887551,2024-11-14T12:46:57.140Z,"32 km SSE of Mina, Nevada",earthquake,,4,0.45,5,automatic,nn,nn
 2024-11-14T12:36:08.168Z,28.952,-98.317,8.6182,2,ml,18,71,0.1,0.2,tx,tx2024wjyz,2024-11-14T15:59:59.261Z,"15 km E of Pleasanton, Texas",earthquake,1.1725787434663,2.1376861997087,0.1,10,reviewed,tx,tx
+2024-11-14T12:34:46.330Z,48.071833333333,-115.224,5.01,1.01,ml,5,125,0.3674,0.05,mb,mb90065993,2024-11-14T16:45:10.210Z,"6 km WSW of Happys Inn, Montana",earthquake,0.46,6.67,0.30998188631985,3,reviewed,mb,mb
 2024-11-14T12:22:29.650Z,38.783332824707,-122.73100280762,1.8500000238419,0.74,md,9,117,0.004473,0.01,nc,nc75086311,2024-11-14T12:42:17.382Z,"2 km E of The Geysers, CA",earthquake,0.33,0.720000029,0.22,10,automatic,nc,nc
 2024-11-14T12:12:56.935Z,36.7409,-115.923,4.9,0.1,ml,6,279.88,0.052,0.108,nn,nn00887557,2024-11-14T15:30:44.265Z,"29 km NW of Indian Springs, Nevada",earthquake,,4.8,0.37,4,reviewed,nn,nn
 2024-11-14T11:56:25.426Z,38.7346,-119.3832,0,1.3,ml,8,143.69,0.388,0.2137,nn,nn00887550,2024-11-14T11:58:57.275Z,"6 km SSW of Smith Valley, Nevada",earthquake,,33.6,0.42,2,automatic,nn,nn
@@ -193,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T16:58:50.810Z,47.595166666667,-122.77433333333,16.7,1.15,ml,10,96,0.04626,0.23,uw,uw62051692,2024-11-14T07:03:24.460Z,"5 km WSW of Chico, Washington",earthquake,0.77,1.17,0.090744693654953,4,reviewed,uw,uw
 2024-11-13T16:50:28.155Z,60.2264,-152.188,92.5,1.7,ml,,,,0.27,ak,ak024em6q2ov,2024-11-13T16:52:07.180Z,"34 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-13T16:48:11.730Z,47.7475,-121.87166666667,21.63,1.69,ml,21,53,0.08943,0.11,uw,uw62051682,2024-11-13T18:12:52.570Z,"6 km NNE of Lake Marcel-Stillwater, Washington",earthquake,0.23,0.39,0.078431140276856,10,reviewed,uw,uw
-2024-11-13T16:43:21.137Z,37.3938,-117.0851,0,0.7,ml,9,210.44,0.168,0.1709,nn,nn00887501,2024-11-13T20:17:44.731Z,"37 km SSE of Goldfield, Nevada",earthquake,,0,0.22,3,reviewed,nn,nn
