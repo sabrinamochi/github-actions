@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-15T13:31:35.860Z,35.6658325,-117.5670013,8.43,1.02,ml,15,95,0.1164,0.25,ci,ci40793527,2024-11-15T13:34:01.116Z,"11 km ENE of Ridgecrest, CA",earthquake,0.66,2.48,0.122,4,automatic,ci,ci
 2024-11-15T13:14:34.385Z,58.9567,-154.4504,121.3,2.5,ml,,,,0.38,ak,ak024epfsrkf,2024-11-15T13:16:20.377Z,"56 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-15T12:48:57.912Z,64.8329,-148.7111,2,1.7,ml,,,,0.8,ak,ak024epfeo4f,2024-11-15T12:50:43.674Z,"32 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-15T12:43:16.140Z,19.382999420166,-155.23815917969,1.5900000333786,1.78,ml,23,82,0.009663,0.159999996,hv,hv74531532,2024-11-15T12:46:09.860Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.140000001,0.45,9,automatic,hv,hv
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T12:33:23.590Z,33.3526667,-115.7851667,4.27,1.82,ml,56,63,0.04345,0.2,ci,ci40793511,2024-11-15T12:36:53.828Z,"5 km W of Bombay Beach, CA",earthquake,0.18,0.51,0.133,26,automatic,ci,ci
 2024-11-15T12:22:57.420Z,32.9855,-115.9486667,11.56,1.62,ml,46,51,0.09991,0.19,ci,ci40793503,2024-11-15T12:27:17.783Z,"24 km SE of Ocotillo Wells, CA",earthquake,0.2,0.46,0.142,28,automatic,ci,ci
 2024-11-15T11:57:42.009Z,61.0498,-146.338,8.6,2.3,ml,,,,0.46,ak,ak024epev4oh,2024-11-15T12:03:21.173Z,"9 km S of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-15T11:53:13.937Z,35.43141937,-98.03414154,0.9628052115,2.65,ml,76,48.62107849,0.008130101487,0.7174575227,ok,ok2024wlta,2024-11-15T13:07:07.920Z,"9 km WNW of Union City, Oklahoma",earthquake,1.391965438,1.139818743,0.35,52,automatic,ok,ok
+2024-11-15T11:53:13.679Z,35.4405,-98.0255,5,2.12,ml,89,75,0,0.25,ok,ok2024wlta,2024-11-15T13:39:57.518Z,"9 km NW of Union City, Oklahoma",earthquake,,0.4,0.23,37,reviewed,ok,ok
 2024-11-15T11:51:18.970Z,28.948,-98.31,2.8564,2.8,ml,32,38,0.1,0.2,tx,tx2024wlsy,2024-11-15T13:23:52.040Z,"16 km E of Pleasanton, Texas",earthquake,1.0691652114789,2.1438229783059,0.1,17,reviewed,tx,tx
 2024-11-15T11:49:23.700Z,38.836334228516,-122.78566741943,1.75,0.71,md,13,74,0.004199,0.03,nc,nc75086731,2024-11-15T12:09:28.873Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.850000024,0.17,14,automatic,nc,nc
 2024-11-15T11:38:19.511Z,-23.5887,170.239,10,5,mb,27,96,2.748,0.75,us,us7000nryk,2024-11-15T13:13:01.040Z,"298 km ESE of Vao, New Caledonia",earthquake,11.57,1.872,0.126,20,reviewed,us,us
@@ -15,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T11:01:04.920Z,38.820331573486,-122.84383392334,1.8200000524521,0.63,md,10,122,0.007418,0.02,nc,nc75086721,2024-11-15T11:44:29.692Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.649999976,0.5,12,automatic,nc,nc
 2024-11-15T10:54:54.780Z,36.316501617432,-120.88933563232,5.2600002288818,1.6,md,11,98,0.05247,0.05,nc,nc75086716,2024-11-15T11:34:31.625Z,"22 km WSW of New Idria, CA",earthquake,0.34,0.769999981,0.33,10,automatic,nc,nc
 2024-11-15T10:52:41.660Z,38.824501037598,-122.80982971191,18.719999313354,0.84,md,6,101,0.001121,0.04,nc,nc75086711,2024-11-15T11:24:29.552Z,"7 km NNW of The Geysers, CA",earthquake,3.64,8.72000027,0.13,4,automatic,nc,nc
+2024-11-15T10:51:26.058Z,-5.6417,151.4814,54.915,4.5,mb,60,45,1.593,0.56,us,us7000nryh,2024-11-15T13:28:19.040Z,"149 km E of Kimbe, Papua New Guinea",earthquake,9.44,7.214,0.078,49,reviewed,us,us
 2024-11-15T10:49:30.252Z,68.8085,-146.2125,0,1.5,ml,,,,1.2,ak,ak024epe7yhy,2024-11-15T10:57:39.056Z,"80 km NNW of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-15T10:45:34.120Z,38.834331512451,-122.81116485596,2.1199998855591,0.61,md,10,79,0.01095,0.01,nc,nc75086706,2024-11-15T11:14:27.471Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.07000005,0.14,10,automatic,nc,nc
 2024-11-15T10:42:20.475Z,61.8243,-151.1337,65.9,1.7,ml,,,,0.24,ak,ak024epe6fq7,2024-11-15T10:44:26.431Z,"23 km SE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -190,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T13:51:58.266Z,60.153,-153.3216,136.8,1.9,ml,,,,0.21,ak,ak024enshedi,2024-11-14T14:03:39.040Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-14T13:51:33.200Z,38.833831787109,-122.81050109863,2.039999961853,1.75,md,35,39,0.01043,0.02,nc,nc75086341,2024-11-14T14:09:27.743Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.289999992,0.12,35,automatic,nc,nc
 2024-11-14T13:46:54.260Z,46.953,-121.96516666667,13,0.73,ml,23,89,0.01827,0.11,uw,uw62051872,2024-11-14T20:16:11.460Z,"15 km SSE of Carbonado, Washington",earthquake,0.32,0.38,0.105675314511,7,reviewed,uw,uw
-2024-11-14T13:34:42.160Z,36.1525,-119.87666666667,18.58,2.87,ml,58,55,0.1415,0.13,nc,nc75086336,2024-11-15T12:41:15.009Z,"6 km WSW of Stratford, CA",earthquake,0.23,0.41,0.194,44,reviewed,nc,nc
-2024-11-14T13:31:20.710Z,44.747,-111.18,7.03,-0.03,md,9,71,0.01215,0.13,uu,uu80086521,2024-11-14T14:22:17.190Z,"2 km SSE of Hebgen Lake Estates, Montana",earthquake,0.38,0.77,0.074532837537095,5,reviewed,uu,uu
