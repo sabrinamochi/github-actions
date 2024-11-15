@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T20:54:00.670Z,38.826332092285,-122.80833435059,1.4299999475479,1.61,md,31,57,0.003232,0.02,nc,nc75086826,2024-11-15T21:12:15.696Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.25,0.11,32,automatic,nc,nc
 2024-11-15T20:44:58.390Z,38.822334289551,-122.85182952881,2.3699998855591,0.27,md,11,125,0.006526,0.01,nc,nc75086821,2024-11-15T21:09:27.681Z,"10 km NW of The Geysers, CA",earthquake,0.38,1.00999999,0.12,12,automatic,nc,nc
 2024-11-15T20:38:55.390Z,34.0335,-116.8503333,12.38,1.58,ml,50,44,0.0929,0.16,ci,ci40793711,2024-11-15T21:00:27.890Z,"12 km NNE of Banning, CA",earthquake,0.16,0.5,0.147,24,reviewed,ci,ci
-2024-11-15T20:27:23.756Z,37.1055,-117.0144,4.5,0.9,ml,10,157.38,0.126,0.17,nn,nn00887604,2024-11-15T20:29:24.825Z,"31 km NW of Beatty, Nevada",earthquake,,2.2,0.26,8,automatic,nn,nn
+2024-11-15T20:27:24.094Z,37.1038,-117.0189,7.8,1.2,ml,14,124.63,0.124,0.1276,nn,nn00887604,2024-11-15T21:31:57.861Z,"31 km NW of Beatty, Nevada",earthquake,,2.1,0.17,4,reviewed,nn,nn
 2024-11-15T20:23:39.181Z,60.8673,-151.5463,61.8,1.9,ml,,,,0.37,ak,ak024epk0qm6,2024-11-15T20:26:03.399Z,"24 km NW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-15T20:22:36.760Z,17.898333333333,-66.8775,13.34,2.44,md,6,237,0.07417,0.08,pr,pr71465753,2024-11-15T21:08:40.370Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.97,0.39,0.038922583852845,4,reviewed,pr,pr
 2024-11-15T20:19:58.740Z,38.793334960938,-122.75983428955,2.2999999523163,0.54,md,8,130,0.02068,0.01,nc,nc75086811,2024-11-15T20:39:29.463Z,"2 km N of The Geysers, CA",earthquake,0.45,1.88,0.21,9,automatic,nc,nc
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T18:09:48.802Z,37.1074,-117.0119,4.1,1.4,ml,13,113.39,0.128,0.119,nn,nn00887595,2024-11-15T20:00:10.189Z,"31 km NW of Beatty, Nevada",earthquake,,2.8,0.17,4,reviewed,nn,nn
 2024-11-15T18:09:00.088Z,37.095,-117.0378,9.9,1.7,ml,13,121.94,0.115,0.0961,nn,nn00887594,2024-11-15T19:41:26.532Z,"32 km NW of Beatty, Nevada",earthquake,,3.1,0.18,2,reviewed,nn,nn
 2024-11-15T18:06:14.770Z,31.572,-103.734,6.3306,1.4,ml,13,75,0.1,0.2,tx,tx2024wmfi,2024-11-15T19:41:20.517Z,"19 km SW of Mentone, Texas",earthquake,1.3711566025085,1.8593800400418,0.2,15,reviewed,tx,tx
-2024-11-15T18:03:43.767Z,-4.5193,153.4229,118.965,4.6,mb,84,100,1.297,0.74,us,us7000ns1x,2024-11-15T20:18:25.040Z,"New Ireland region, Papua New Guinea",earthquake,10.17,6.427,0.064,81,reviewed,us,us
+2024-11-15T18:03:43.767Z,-4.5193,153.4229,118.965,4.6,mb,84,100,1.297,0.74,us,us7000ns1x,2024-11-15T20:18:25.040Z,"129 km E of Kokopo, Papua New Guinea",earthquake,10.17,6.427,0.064,81,reviewed,us,us
 2024-11-15T18:02:38.291Z,37.1023,-117.0193,8,1.5,ml,19,99.48,0.123,0.1252,nn,nn00887592,2024-11-15T19:32:13.851Z,"31 km NW of Beatty, Nevada",earthquake,,1.5,0.34,6,reviewed,nn,nn
 2024-11-15T17:58:53.704Z,65.1088,-145.3661,15.3,1.7,ml,,,,0.64,ak,ak024epifyze,2024-11-15T18:00:58.597Z,"57 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-15T17:58:53.016Z,35.8377,140.7188,66.101,4.9,mb,121,114,2.153,0.58,us,us7000ns1s,2024-11-15T18:40:39.040Z,"9 km E of Omigawa, Japan",earthquake,7.03,6.808,0.05,127,reviewed,us,us
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T07:58:25.870Z,32.7581667,-115.4295,10.27,2.38,ml,33,45,0.04923,0.29,ci,ci40793455,2024-11-15T17:37:29.570Z,"8 km SW of Holtville, CA",earthquake,0.32,0.71,0.174,25,reviewed,ci,ci
 2024-11-15T07:51:22.030Z,38.835166931152,-122.81600189209,1.8899999856949,1.07,md,12,92,0.01263,0.01,nc,nc75086671,2024-11-15T08:09:27.212Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.819999993,0.32,14,automatic,nc,nc
 2024-11-15T07:46:20.983Z,37.9543,37.6427,10,4.9,mb,51,55,0.629,0.69,us,us7000nrxw,2024-11-15T08:22:12.683Z,"17 km E of Nurhak, Turkey",earthquake,4.26,1.729,0.077,53,reviewed,us,us
-2024-11-15T07:29:20.763Z,-5.9344,147.4578,88.138,4.8,mb,43,100,3.866,1.06,us,us7000nrxu,2024-11-15T21:29:44.800Z,"81 km NNW of Finschhafen, Papua New Guinea",earthquake,6.55,8.074,0.105,28,reviewed,us,us
+2024-11-15T07:29:20.763Z,-5.9344,147.4578,88.138,4.8,mb,43,100,3.866,1.06,us,us7000nrxu,2024-11-15T21:31:37.004Z,"81 km NNW of Finschhafen, Papua New Guinea",earthquake,6.55,8.074,0.105,28,reviewed,us,us
 2024-11-15T07:14:16.178Z,32.409,-102.059,6.9092,1.5,ml,15,70,0,0.1,tx,tx2024wljv,2024-11-15T15:14:22.439Z,"34 km WSW of Ackerly, Texas",earthquake,0.66475222249476,0.91024699629644,0.1,7,reviewed,tx,tx
 2024-11-15T06:53:27.319Z,28.944,-98.31,4.9561,1.5,ml,19,66,0.1,0.2,tx,tx2024wljd,2024-11-15T15:26:07.506Z,"16 km E of Pleasanton, Texas",earthquake,1.2134743844654,2.3070260735671,0.1,7,reviewed,tx,tx
 2024-11-15T06:43:09.360Z,33.825,-117.0328333,15.88,1.17,ml,47,49,0.05666,0.19,ci,ci40793447,2024-11-15T18:16:21.690Z,"8 km WNW of San Jacinto, CA",earthquake,0.21,0.48,0.187,27,reviewed,ci,ci
