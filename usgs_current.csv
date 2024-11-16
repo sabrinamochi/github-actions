@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-16T18:14:49.833Z,63.4356,-148.4107,0,1.8,ml,,,,0.57,ak,ak024er6bb98,2024-11-16T18:17:00.140Z,"27 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-16T18:07:27.870Z,31.681,-104.411,7.4722,1.5,ml,13,86,0,0.4,tx,tx2024woaw,2024-11-16T18:16:48.751Z,"54 km S of Whites City, New Mexico",earthquake,0,2.4011545181274,0.1,11,automatic,tx,tx
 2024-11-16T18:03:32.060Z,33.3255,-116.2105,11.34,1.19,ml,54,24,0.1312,0.19,ci,ci40794143,2024-11-16T18:07:44.896Z,"17 km ENE of Borrego Springs, CA",earthquake,0.16,0.41,0.105,25,automatic,ci,ci
 2024-11-16T17:42:01.320Z,19.146667480469,-155.50517272949,33.54999923706,2.30999994,md,44,139,0.04163,0.170000002,hv,hv74532947,2024-11-16T17:43:46.050Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.57,0.709999979,0.219999999,18,automatic,hv,hv
 2024-11-16T17:31:15.140Z,33.1958333,-116.028,6.87,1.53,ml,62,37,0.04767,0.2,ci,ci40794127,2024-11-16T17:41:48.570Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.49,0.137,28,automatic,ci,ci
@@ -138,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T21:14:08.340Z,19.187665939331,-155.37367248535,29.920000076294,2.17,ml,49,178,0.05445,0.119999997,hv,hv74531972,2024-11-15T21:17:00.020Z,"11 km E of Pāhala, Hawaii",earthquake,0.57,0.560000002,0.15,4,automatic,hv,hv
 2024-11-15T21:11:50.702Z,17.788,-61.4744,33.348,4.9,mb,54,93,1.306,0.83,us,us7000ns2h,2024-11-15T22:37:51.118Z,"40 km ENE of Codrington, Antigua and Barbuda",earthquake,7.12,4.799,0.043,174,reviewed,us,us
 2024-11-15T21:06:58.540Z,33.482,-116.7498333,9.57,0.99,ml,20,167,0.05334,0.07,ci,ci40793719,2024-11-15T21:11:40.657Z,"11 km SW of Anza, CA",earthquake,0.55,0.77,0.134,20,automatic,ci,ci
-2024-11-15T21:03:13.040Z,42.383,-122.8155,-1.49,1.76,ml,9,100,0.03661,0.18,uw,uw62052007,2024-11-15T23:19:01.460Z,"Oregon",explosion,0.4,31.61,0.0074104244122147,3,reviewed,uw,uw
+2024-11-15T21:03:13.040Z,42.383,-122.8155,-1.49,1.76,ml,9,100,0.03661,0.18,uw,uw62052007,2024-11-15T23:19:01.460Z,"7 km SSE of White City, Oregon",explosion,0.4,31.61,0.0074104244122147,3,reviewed,uw,uw
 2024-11-15T20:58:50.184Z,28.939,-98.304,1.0986,2,ml,21,71,0.1,0.2,tx,tx2024wmla,2024-11-16T05:16:55.406Z,"17 km E of Pleasanton, Texas",earthquake,1.1243784527066,2.0269248716704,0.1,11,reviewed,tx,tx
 2024-11-15T20:54:18.190Z,38.827331542969,-122.80867004394,0.77999997138977,1.04,md,14,79,0.004081,0.02,nc,nc75086831,2024-11-15T21:19:29.748Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.810000002,0.13,15,automatic,nc,nc
 2024-11-15T20:54:00.670Z,38.826332092285,-122.80833435059,1.4299999475479,1.61,md,31,57,0.003232,0.02,nc,nc75086826,2024-11-15T21:12:15.696Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.25,0.11,32,automatic,nc,nc
@@ -166,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T18:51:19.869Z,27.7724,139.388,512.991,4.4,mb,130,31,2.575,0.6,us,us7000ns24,2024-11-15T19:07:23.040Z,"Bonin Islands, Japan region",earthquake,9.33,8.127,0.051,121,reviewed,us,us
 2024-11-15T18:38:50.350Z,38.862998962402,-122.81999969482,0.9200000166893,0.9,md,10,123,0.008728,0.02,nc,nc75086791,2024-11-15T18:59:28.781Z,"10 km NW of Cobb, CA",earthquake,0.32,0.49000001,0.12,11,automatic,nc,nc
 2024-11-15T18:27:25.117Z,38.1575,-117.8991,7.8,2.5,ml,10,103.51,0.079,0.1517,nn,nn00887597,2024-11-15T19:13:40.666Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.61,5,reviewed,nn,nn
-2024-11-15T18:25:32.950Z,37.255166666667,-113.2985,1.83,1.44,ml,7,90,0.1709,0.07,uu,uu80086606,2024-11-15T18:50:25.340Z,"1 km W of Toquerville, Utah",earthquake,0.34,7.38,0.43906647248473,3,reviewed,uu,uu
-2024-11-15T18:15:30.690Z,19.387666666667,-155.12566666667,2.12,1.22,ml,23,133,0.002801,0.12,hv,hv74531782,2024-11-15T20:08:21.970Z,"8 km S of Fern Forest, Hawaii",earthquake,0.73,0.2,0.20222711988301,8,reviewed,hv,hv
