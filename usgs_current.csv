@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-16T16:40:18.230Z,19.183166503906,-155.49200439453,31.120000839233,2.69,ml,62,76,0.0395,0.129999995,hv,hv74532867,2024-11-16T16:43:53.522Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.34,0.529999971,0.32,42,automatic,hv,hv
+2024-11-16T16:40:18.230Z,19.183166503906,-155.49200439453,31.120000839233,2.69,ml,62,76,0.0395,0.129999995,hv,hv74532867,2024-11-16T16:46:26.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.34,0.529999971,0.32,42,automatic,hv,hv
 2024-11-16T16:30:33.020Z,34.247,-117.2035,3.65,1.03,ml,31,112,0.02977,0.15,ci,ci40794103,2024-11-16T16:36:40.624Z,"1 km W of Lake Arrowhead, CA",earthquake,0.24,0.3,0.166,31,automatic,ci,ci
 2024-11-16T16:27:53.590Z,33.4753342,-116.7811661,3.73,1.31,ml,42,34,0.03598,0.19,ci,ci40794095,2024-11-16T16:38:30.550Z,"9 km ENE of Aguanga, CA",earthquake,0.25,0.75,0.136,16,automatic,ci,ci
 2024-11-16T16:12:12.468Z,58.8422,-153.7588,8.9,2.3,ml,,,,0.37,ak,ak024er53xr2,2024-11-16T16:13:56.766Z,"88 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -78,6 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T06:02:00.980Z,46.041,-111.42316666667,7.18,1.8,ml,21,65,0.1832,0.12,mb,mb90066118,2024-11-16T16:13:54.080Z,"4 km WNW of Ponderosa Pines, Montana",earthquake,0.26,1.91,0.1977481497486,29,reviewed,mb,mb
 2024-11-16T06:00:51.080Z,34.0228333,-117.2055,13.88,1.33,ml,62,50,0.07833,0.15,ci,ci40793927,2024-11-16T06:11:49.430Z,"4 km SSW of Redlands, CA",earthquake,0.15,0.29,0.232,27,automatic,ci,ci
 2024-11-16T05:45:09.628Z,36.3269,-115.8498,5.8,0.8,ml,12,278.78,0.347,0.2099,nn,nn00887625,2024-11-16T05:47:36.518Z,"17 km NE of Pahrump, Nevada",earthquake,,1.5,0.44,6,automatic,nn,nn
+2024-11-16T05:42:45.416Z,36.7399,-116.1002,7.7,-0.2,ml,15,61.98,0.021,0.0706,nn,nn00887632,2024-11-16T16:46:28.294Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.09,6,reviewed,nn,nn
 2024-11-16T05:29:23.030Z,33.6383333,-116.719,13.62,1.34,ml,58,28,0.04849,0.17,ci,ci40793911,2024-11-16T05:39:39.920Z,"10 km NNW of Anza, CA",earthquake,0.14,0.27,0.215,27,automatic,ci,ci
 2024-11-16T05:23:12.967Z,28.95,-98.31,4.4189,2.8,ml,28,67,0.1,0.2,tx,tx2024wnbq,2024-11-16T05:46:47.814Z,"16 km E of Pleasanton, Texas",earthquake,0.883675013794,2.2400157325706,0.1,14,reviewed,tx,tx
 2024-11-16T05:22:37.680Z,38.823001861572,-122.81099700928,2.829999923706,1.83,md,10,121,0.01938,0.04,nc,nc75086971,2024-11-16T05:44:28.443Z,"7 km NNW of The Geysers, CA",earthquake,0.42,0.689999998,0.11,11,automatic,nc,nc
