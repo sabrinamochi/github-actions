@@ -11,8 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T21:08:17.730Z,33.7486667,-117.1131667,3.64,1.14,ml,34,97,0.03823,0.2,ci,ci40797871,2024-11-21T21:14:38.266Z,"4 km WNW of Green Acres, CA",earthquake,0.34,0.72,0.231,31,automatic,ci,ci
 2024-11-21T21:08:17.720Z,33.7506667,-117.1118333,2.94,1.13,ml,43,35,0.03996,0.21,ci,ci40797863,2024-11-21T21:12:50.041Z,"4 km WNW of Green Acres, CA",earthquake,0.26,0.38,0.222,30,automatic,ci,ci
 2024-11-21T20:53:03.788Z,62.8924,-150.6087,83.7,2.1,ml,,,,0.52,ak,ak024ezhf6bu,2024-11-21T20:55:09.070Z,"44 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-11-21T20:48:23.710Z,33.8371667,-117.4825,0.8,1.78,ml,24,127,0.0369,0.14,ci,ci40797847,2024-11-21T20:52:49.830Z,"6 km SE of Home Gardens, CA",earthquake,0.31,0.34,0.179,33,automatic,ci,ci
-2024-11-21T20:48:23.620Z,33.8175011,-117.4853363,2.3,1.64,ml,27,138,0.03358,0.13,ci,ci40797855,2024-11-21T20:50:41.530Z,"8 km SSE of Home Gardens, CA",earthquake,0.63,0.34,0.269,26,automatic,ci,ci
+2024-11-21T20:48:23.290Z,33.82,-117.4773333,-0.51,1.61,ml,55,50,0.02704,0.29,ci,ci40797855,2024-11-21T22:28:10.066Z,"8 km SSE of Home Gardens, CA",quarry blast,0.27,31.61,0.14,25,reviewed,ci,ci
 2024-11-21T20:39:14.840Z,38.791999816895,-122.77983093262,2.1500000953674,1.35,md,20,80,0.006429,0.02,nc,nc75088916,2024-11-21T20:59:28.271Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.16,19,automatic,nc,nc
 2024-11-21T20:37:35.315Z,61.5402,-146.6059,33.1,1.5,ml,,,,1.01,ak,ak024ezhbtaz,2024-11-21T20:39:40.808Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-21T20:24:38.291Z,61.9813,-144.4108,66.5,1.4,ml,,,,0.48,ak,ak024ezh9185,2024-11-21T20:26:39.578Z,"40 km NE of Kenny Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -31,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T19:30:31.480Z,39.372333333333,-123.29233333333,6.47,1.44,md,16,108,0.04355,0.06,nc,nc75088891,2024-11-21T21:34:29.602Z,"7 km SE of Willits, CA",earthquake,0.19,0.53,0.204,12,reviewed,nc,nc
 2024-11-21T19:30:05.593Z,-7.9474,122.9762,234.394,4.6,mb,62,44,1.001,0.67,us,us6000p6u5,2024-11-21T19:50:43.040Z,"112 km NE of Maumere, Indonesia",earthquake,9.24,6.087,0.065,70,reviewed,us,us
 2024-11-21T19:26:25.580Z,38.802833557129,-122.78233337402,0.88999998569489,1.39,md,17,62,0.01049,0.02,nc,nc75088886,2024-11-21T19:42:15.737Z,"4 km NNW of The Geysers, CA",earthquake,0.18,0.319999993,0.1,20,automatic,nc,nc
+2024-11-21T19:16:29.240Z,19.933,-155.606,10.86,2.05,ml,40,120,0.0899,0.29,hv,hv74536597,2024-11-21T22:29:00.210Z,"12 km SE of Waimea, Hawaii",earthquake,0.51,0.53,0.12042008932285,12,reviewed,hv,hv
 2024-11-21T19:00:14.290Z,19.930000305176,-155.36566162109,6.0300002098083,2.16000009,md,38,129,0.136,0.379999995,hv,hv74536572,2024-11-21T19:02:05.760Z,"12 km S of Pa‘auilo, Hawaii",earthquake,0.55,0.930000007,0.180000007,6,automatic,hv,hv
 2024-11-21T18:49:52.740Z,19.067832946777,-155.35816955566,31.569999694824,2.13000011,md,43,232,0.1313,0.180000007,hv,hv74536557,2024-11-21T18:51:35.570Z,"19 km SE of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.289999992,6,automatic,hv,hv
 2024-11-21T18:47:54.060Z,57.9713,-156.0011,13.6,2.3,ml,,,,0.14,ak,ak024ezg74pa,2024-11-21T19:28:11.040Z,"85 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -39,7 +39,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T18:40:10.790Z,38.786499023438,-122.76933288574,2.7599999904633,1.45,md,16,82,0.01598,0.03,nc,nc75088876,2024-11-21T18:59:31.432Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.569999993,0.16,17,automatic,nc,nc
 2024-11-21T18:19:00.148Z,63.2685,-150.3709,103.2,1.9,ml,,,,2.61,ak,ak024ezg10hq,2024-11-21T18:21:05.629Z,"72 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-21T18:11:10.731Z,60.1043,-152.7495,108.9,1.6,ml,,,,0.36,ak,ak024ezfzbkx,2024-11-21T18:14:42.362Z,"59 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-11-21T18:08:12.937Z,60.0824,-152.7351,35.6,1.4,ml,,,,1.39,ak,ak024ezfyolp,2024-11-21T18:10:39.234Z,"57 km WNW of Happy Valley, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-11-21T18:02:42.340Z,19.314666748047,-155.24816894531,2.1300001144409,1.79,ml,46,86,0.04,0.189999998,hv,hv74536527,2024-11-21T18:05:34.100Z,"14 km S of Volcano, Hawaii",earthquake,0.26,0.519999981,0.07,4,automatic,hv,hv
 2024-11-21T17:46:12.290Z,31.664,-104.298,6.8817,1.7,ml,29,67,0,0.1,tx,tx2024wxdy,2024-11-21T19:04:09.686Z,"57 km S of Whites City, New Mexico",earthquake,0.43207195210506,0.63028699918243,0.2,19,reviewed,tx,tx
 2024-11-21T17:46:12.200Z,36.946,-112.36866666667,19.44,2.9,ml,17,103,0.1551,0.26,uu,uu80086931,2024-11-21T21:49:42.434Z,"14 km E of Fredonia, Arizona",earthquake,0.66,0.5,0.067701522785834,16,reviewed,uu,uu
