@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-22T01:38:02.140Z,38.817501068115,-122.76650238037,1.8300000429153,1.01,md,8,173,0.01186,0.01,nc,nc75088956,2024-11-22T01:39:39.378Z,"4 km W of Cobb, CA",earthquake,0.88,1.07000005,0.07,8,automatic,nc,nc
-2024-11-22T01:32:23.020Z,33.899,-117.8068333,6.6,1.63,ml,60,28,0.06218,0.21,ci,ci40798039,2024-11-22T01:43:15.670Z,"1 km NNE of Yorba Linda, CA",earthquake,0.2,0.51,0.148,28,automatic,ci,ci
+2024-11-22T01:45:42.910Z,33.6723333,-116.7285,14.49,0.63,ml,28,97,0.04053,0.13,ci,ci40798055,2024-11-22T01:50:39.444Z,"8 km S of Idyllwild, CA",earthquake,0.22,0.34,0.147,12,automatic,ci,ci
+2024-11-22T01:38:02.140Z,38.817501068115,-122.76650238037,1.8300000429153,1.01,md,8,173,0.01186,0.01,nc,nc75088956,2024-11-22T01:59:30.266Z,"4 km W of Cobb, CA",earthquake,0.88,1.07000005,0.07,8,automatic,nc,nc
+2024-11-22T01:32:23.020Z,33.899,-117.8068333,6.6,1.63,ml,60,28,0.06218,0.21,ci,ci40798039,2024-11-22T01:47:44.373Z,"1 km NNE of Yorba Linda, CA",earthquake,0.2,0.51,0.148,28,automatic,ci,ci
+2024-11-22T01:28:29.802Z,31.654,-104.304,4.4349,1.6,ml,20,59,0,0.2,tx,tx2024wxsx,2024-11-22T01:47:50.998Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1399502754211,0.2,16,automatic,tx,tx
 2024-11-22T01:15:48.800Z,36.0208333,-117.775,1.06,0.84,ml,22,77,0.07926,0.17,ci,ci40798031,2024-11-22T01:19:18.292Z,"15 km NE of Little Lake, CA",earthquake,0.21,0.31,0.159,10,automatic,ci,ci
 2024-11-22T01:08:08.516Z,32.764,-100.662,7.6904,2.8,ml,17,79,0.1,0.1,tx,tx2024wxsg,2024-11-22T01:20:17.040Z,"16 km NNE of Hermleigh, Texas",earthquake,0.65833718797138,1.070011848331,0.1,24,reviewed,tx,tx
 2024-11-22T01:05:13.240Z,19.932333333333,-155.648,11.16,1.97,ml,28,106,0.0756,0.22,hv,hv74536917,2024-11-22T01:35:51.820Z,"10 km SSE of Waimea, Hawaii",earthquake,0.48,0.44,0.062809853428377,5,reviewed,hv,hv
@@ -122,7 +124,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T12:54:24.563Z,64.4887,-147.3532,4.3,1.4,ml,,,,0.78,ak,ak024ezcnyt4,2024-11-21T12:56:54.896Z,"22 km W of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-21T12:46:05.704Z,62.2393,-151.3414,80.7,1.5,ml,,,,0.2,ak,ak024ezcm7mi,2024-11-21T12:47:50.111Z,"27 km N of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-21T12:44:45.940Z,38.760501861572,-122.72733306885,2.0099999904633,1.2,md,10,109,0.002219,0.02,nc,nc75088801,2024-11-21T13:09:27.056Z,"3 km SE of The Geysers, CA",earthquake,0.49,0.389999986,0.16,8,automatic,nc,nc
+2024-11-21T12:25:13.410Z,61.020666666667,-152.37166666667,10.64,0.17,ml,9,153,0.1762,0.16,av,av93374123,2024-11-22T01:59:31.100Z,"66 km W of Tyonek, Alaska",earthquake,0.65,2.14,0.22588891825341,9,reviewed,av,av
 2024-11-21T12:12:52.524Z,-2.3328,138.9801,30.152,5.2,mb,54,61,6.749,0.69,us,us6000p6r8,2024-11-21T12:32:11.040Z,"186 km W of Abepura, Indonesia",earthquake,8.8,5.593,0.092,39,reviewed,us,us
+2024-11-21T12:09:07.280Z,58.232166666667,-155.1715,3.84,-0.2,ml,6,215,0.0462,0.09,av,av93374108,2024-11-22T01:53:54.400Z,"85 km NNW of Karluk, Alaska",earthquake,0.45,0.66,0.2132513901474,6,reviewed,av,av
+2024-11-21T11:54:41.520Z,61.287333333333,-152.235,5.07,-0.53,ml,7,129,0.04443,0.11,av,av93374098,2024-11-22T01:49:23.020Z,"63 km WNW of Tyonek, Alaska",earthquake,1.01,1.48,0.15179392781641,7,reviewed,av,av
 2024-11-21T11:48:26.167Z,37.3949,-114.3288,9.6,2,ml,8,95.1,0.381,0.1726,nn,nn00887792,2024-11-21T17:48:16.102Z,"29 km SSE of Caliente, Nevada",earthquake,,11.3,0.39,6,reviewed,nn,nn
 2024-11-21T11:47:13.700Z,37.837501525879,-121.99883270264,8.25,1.86,md,20,53,0.02186,0.07,nc,nc75088796,2024-11-21T12:09:30.646Z,"2 km NNE of Danville, CA",earthquake,0.25,0.430000007,0.21,17,automatic,nc,nc
 2024-11-21T11:23:44.282Z,31.106,-103.762,8.5608,2,ml,18,68,0.2,0.1,tx,tx2024wwrc,2024-11-21T13:33:08.757Z,"13 km N of Balmorhea, Texas",earthquake,0.64634640576938,1.2638836942083,0.2,28,reviewed,tx,tx
@@ -213,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T02:22:12.460Z,17.863666666667,-66.8925,11.87,2.52,md,5,251,0.1115,0.08,pr,pr71466238,2024-11-21T02:33:58.880Z,"12 km S of Guánica, Puerto Rico",earthquake,0.83,0.58,0.070372954429934,5,reviewed,pr,pr
 2024-11-21T02:21:26.310Z,58.559333333333,-154.67766666667,11.61,-0.12,ml,7,195,0.06291,0.22,av,av93027189,2024-11-21T22:26:30.880Z,"98 km S of Kokhanok, Alaska",earthquake,1.52,1.28,0.19800757220637,7,reviewed,av,av
 2024-11-21T02:15:43.417Z,54.8538,-162.061,84.823,3.4,ml,30,183,0.784,0.8,us,us6000p6p2,2024-11-21T02:30:18.719Z,"28 km SE of King Cove, Alaska",earthquake,8.38,11.76,0.069,28,reviewed,us,us
-2024-11-21T01:50:06.150Z,34.5928333,-117.6365,9.34,0.99,ml,11,172,0.06977,0.06,ci,ci40797455,2024-11-21T14:19:34.465Z,"18 km E of Lake Los Angeles, CA",earthquake,0.24,0.41,0.286,20,reviewed,ci,ci
-2024-11-21T01:46:28.291Z,61.3366,-150.6529,62.4,1.4,ml,,,,0.06,ak,ak024ez62hpp,2024-11-21T01:47:40.594Z,"24 km SSW of Susitna, Alaska",earthquake,,3.4,,,automatic,ak,ak
