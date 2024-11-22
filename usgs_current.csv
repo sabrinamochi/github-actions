@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-22T17:59:03.087Z,63.015,-150.4277,105.4,1.5,ml,,,,0.28,ak,ak024f137i90,2024-11-22T18:01:12.973Z,"60 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-22T17:52:38.510Z,59.0872,-154.1421,113.9,1.6,ml,,,,0.13,ak,ak024f1362yz,2024-11-22T17:53:58.498Z,"53 km SE of Kokhanok, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-11-22T17:49:47.000Z,38.825164794922,-122.80349731445,2.7999999523163,0.88,md,8,80,0.005433,0.01,nc,nc75089111,2024-11-22T17:51:22.968Z,"7 km NNW of The Geysers, CA",earthquake,0.44,1.27999997,0.3,8,automatic,nc,nc
 2024-11-22T17:49:40.480Z,38.825500488281,-122.80349731445,3.4000000953674,1.52,md,9,137,0.005551,0.01,nc,nc75089106,2024-11-22T17:51:18.238Z,"7 km NNW of The Geysers, CA",earthquake,1.05,1.61000001,1.14,10,automatic,nc,nc
@@ -13,7 +14,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T15:22:03.408Z,-0.0324,123.9096,104.932,4.8,mb,32,61,1.517,0.75,us,us6000p6zn,2024-11-22T16:11:32.040Z,"79 km SW of Modisi, Indonesia",earthquake,6.74,7.994,0.121,21,reviewed,us,us
 2024-11-22T15:11:12.992Z,56.9457,-153.0567,0,2.2,ml,,,,0.85,ak,ak024f11qdfn,2024-11-22T15:13:29.894Z,"32 km SSE of Old Harbor, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-22T15:09:24.610Z,17.976,-66.978833333333,6.24,2.12,md,7,175,0.06258,0.12,pr,pr71466383,2024-11-22T15:18:39.920Z,"6 km W of Fuig, Puerto Rico",earthquake,0.64,0.6,0.033697540254974,4,reviewed,pr,pr
-2024-11-22T15:05:06.568Z,61.4092,-152.2215,0,0.3,ml,,,,0.97,ak,ak024f11p2l3,2024-11-22T15:07:36.897Z,"67 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-22T14:46:18.613Z,60.4376,-142.8108,5.8,1.5,ml,,,,0.44,ak,ak024f11cgbp,2024-11-22T14:48:23.629Z,"111 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-22T14:42:34.840Z,44.690333333333,-112.99466666667,4.93,0.58,ml,5,178,0.1722,0.13,mb,mb90066608,2024-11-22T16:58:25.630Z,"28 km E of Leadore, Idaho",earthquake,0.71,8.58,0.2890741713196,5,reviewed,mb,mb
 2024-11-22T14:41:31.623Z,60.8033,-152.33,96.3,0.7,ml,,,,0.27,ak,ak024f11beqy,2024-11-22T14:43:12.316Z,"58 km WNW of Nikiski, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T18:15:53.400Z,46.871666666667,-121.95666666667,9,0.66,ml,19,107,0.005355,0.09,uw,uw62060856,2024-11-22T07:06:01.880Z,"13 km NNE of Ashford, Washington",earthquake,0.27,0.39,0.10213659257773,10,reviewed,uw,uw
 2024-11-21T18:11:10.731Z,60.1043,-152.7495,108.9,1.6,ml,,,,0.36,ak,ak024ezfzbkx,2024-11-21T18:14:42.362Z,"59 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-21T18:08:20.750Z,60.445833333333,-152.78533333333,5.28,0.29,ml,8,157,0.02132,0.05,av,av93374408,2024-11-22T04:03:26.920Z,"75 km NW of Ninilchik, Alaska",earthquake,0.29,0.44,0.21531883767697,8,reviewed,av,av
-2024-11-21T18:02:42.340Z,19.314666748047,-155.24816894531,2.1300001144409,1.79,ml,46,86,0.04,0.189999998,hv,hv74536527,2024-11-21T18:05:34.100Z,"14 km S of Volcano, Hawaii",earthquake,0.26,0.519999981,0.07,4,automatic,hv,hv
-2024-11-21T18:01:55.869Z,36.25333333,-95.82616667,0,1.41,ml,38,204,0.3437325479,0.54,ok,ok2024wxee,2024-11-22T12:33:22.772Z,"3 km SE of Owasso, Oklahoma",quarry blast,,0.9,0.18,20,reviewed,ok,ok
