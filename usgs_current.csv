@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-22T01:32:23.010Z,33.8974991,-117.8121643,5.65,1.58,ml,34,62,0.07152,0.17,ci,ci40798039,2024-11-22T01:34:44.275Z,"1 km N of Yorba Linda, CA",earthquake,0.32,0.58,0.17,31,automatic,ci,ci
+2024-11-22T01:38:02.140Z,38.817501068115,-122.76650238037,1.8300000429153,1.01,md,8,173,0.01186,0.01,nc,nc75088956,2024-11-22T01:39:39.378Z,"4 km W of Cobb, CA",earthquake,0.88,1.07000005,0.07,8,automatic,nc,nc
+2024-11-22T01:32:23.020Z,33.899,-117.8068333,6.6,1.63,ml,60,28,0.06218,0.21,ci,ci40798039,2024-11-22T01:43:15.670Z,"1 km NNE of Yorba Linda, CA",earthquake,0.2,0.51,0.148,28,automatic,ci,ci
 2024-11-22T01:15:48.800Z,36.0208333,-117.775,1.06,0.84,ml,22,77,0.07926,0.17,ci,ci40798031,2024-11-22T01:19:18.292Z,"15 km NE of Little Lake, CA",earthquake,0.21,0.31,0.159,10,automatic,ci,ci
 2024-11-22T01:08:08.516Z,32.764,-100.662,7.6904,2.8,ml,17,79,0.1,0.1,tx,tx2024wxsg,2024-11-22T01:20:17.040Z,"16 km NNE of Hermleigh, Texas",earthquake,0.65833718797138,1.070011848331,0.1,24,reviewed,tx,tx
-2024-11-22T01:05:12.580Z,19.918333053589,-155.63000488281,-0.87000000476837,1.95000005,md,23,109,0.06639,0.300000012,hv,hv74536917,2024-11-22T01:07:29.640Z,"12 km SSE of Waimea, Hawaii",earthquake,0.69,0.310000002,0.119999997,5,automatic,hv,hv
+2024-11-22T01:05:13.240Z,19.932333333333,-155.648,11.16,1.97,ml,28,106,0.0756,0.22,hv,hv74536917,2024-11-22T01:35:51.820Z,"10 km SSE of Waimea, Hawaii",earthquake,0.48,0.44,0.062809853428377,5,reviewed,hv,hv
 2024-11-22T00:57:55.069Z,61.6332,-142.5549,2,1.3,ml,,,,0.25,ak,ak024f0t2tjm,2024-11-22T00:59:59.495Z,"29 km NE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-22T00:53:37.560Z,35.31016667,-97.62483333,4.41,1.9,ml,86,48,0,0.16,ok,ok2024wxrt,2024-11-22T01:31:28.853Z,"7 km NNW of Newcastle, Oklahoma",earthquake,,0.4,0.26,40,reviewed,ok,ok
 2024-11-22T00:51:24.375Z,31.707,-104.214,4.2245,2.2,ml,21,105,0.1,0.4,tx,tx2024wxrs,2024-11-22T00:58:39.690Z,"54 km SSE of Whites City, New Mexico",earthquake,0,1.2957484722138,0.1,17,automatic,tx,tx
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T02:15:43.417Z,54.8538,-162.061,84.823,3.4,ml,30,183,0.784,0.8,us,us6000p6p2,2024-11-21T02:30:18.719Z,"28 km SE of King Cove, Alaska",earthquake,8.38,11.76,0.069,28,reviewed,us,us
 2024-11-21T01:50:06.150Z,34.5928333,-117.6365,9.34,0.99,ml,11,172,0.06977,0.06,ci,ci40797455,2024-11-21T14:19:34.465Z,"18 km E of Lake Los Angeles, CA",earthquake,0.24,0.41,0.286,20,reviewed,ci,ci
 2024-11-21T01:46:28.291Z,61.3366,-150.6529,62.4,1.4,ml,,,,0.06,ak,ak024ez62hpp,2024-11-21T01:47:40.594Z,"24 km SSW of Susitna, Alaska",earthquake,,3.4,,,automatic,ak,ak
-2024-11-21T01:42:20.342Z,79.5933,1.4612,10,4.5,mb,30,102,2.078,1.05,us,us6000p6p1,2024-11-21T23:22:45.040Z,"Greenland Sea",earthquake,11.03,1.922,0.106,26,reviewed,us,us
