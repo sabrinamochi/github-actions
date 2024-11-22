@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-22T22:18:33.530Z,33.5113333,-116.4638333,5.17,1.51,ml,57,28,0.07258,0.2,ci,ci40798527,2024-11-22T22:22:58.895Z,"20 km ESE of Anza, CA",earthquake,0.16,0.62,0.163,30,automatic,ci,ci
-2024-11-22T22:15:54.430Z,34.0665016,-118.8044968,9.61,3.49,mlr,134,89,0.03202,0.34,ci,ci40798519,2024-11-22T22:24:58.337Z,"7 km N of Malibu, CA",earthquake,0.35,0.62,0.252,20,reviewed,ci,ci
+2024-11-22T22:15:54.430Z,34.0665016,-118.8044968,9.61,3.49,mlr,134,89,0.03202,0.34,ci,ci40798519,2024-11-22T22:26:23.470Z,"7 km N of Malibu, CA",earthquake,0.35,0.62,0.252,20,reviewed,ci,ci
 2024-11-22T21:59:21.313Z,0.3096,122.1504,145.14,4.4,mb,35,60,1.479,0.63,us,us6000p757,2024-11-22T22:14:39.040Z,"104 km WSW of Gorontalo, Indonesia",earthquake,7.5,7.046,0.106,26,reviewed,us,us
 2024-11-22T21:56:57.690Z,19.386,-155.24033333333,39.1,0.88,ml,38,54,0.01037,0.11,hv,hv74537802,2024-11-22T22:12:54.930Z,"6 km S of Volcano, Hawaii",earthquake,0.76,0.52,0.13345824761426,14,reviewed,hv,hv
 2024-11-22T21:56:10.125Z,31.693,-104.125,4.5725,1.8,ml,20,80,0.1,0.2,tx,tx2024wzhk,2024-11-22T22:08:32.467Z,"49 km W of Mentone, Texas",earthquake,0,1.1700087785721,0.1,14,automatic,tx,tx
@@ -39,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T19:14:38.230Z,19.4805,-155.13116666667,1.49,0.53,md,15,209,0.08943,0.11,hv,hv74537632,2024-11-22T21:58:25.300Z,"1 km NNE of Fern Forest, Hawaii",earthquake,0.57,0.44,0.019190197881037,2,reviewed,hv,hv
 2024-11-22T19:02:01.070Z,46.197833333333,-122.32333333333,12.82,1.27,ml,17,88,0.01962,0.15,uw,uw62060961,2024-11-22T20:41:42.490Z,"33 km NNE of Amboy, Washington",earthquake,0.34,0.65,0.19996397512254,9,reviewed,uw,uw
 2024-11-22T18:45:28.760Z,38.834167480469,-122.81600189209,1.4900000095367,1.51,md,21,58,0.01585,0.03,nc,nc75089121,2024-11-22T19:09:30.387Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.550000012,0.17,20,automatic,nc,nc
+2024-11-22T18:40:27.897Z,31.9135,140.8337,57.14,4.2,mb,36,131,1.476,0.41,us,us6000p746,2024-11-22T22:25:33.040Z,"Izu Islands, Japan region",earthquake,8.88,8.755,0.107,25,reviewed,us,us
 2024-11-22T18:14:59.210Z,33.8238333,-116.7545,15.58,1.29,ml,43,37,0.03699,0.13,ci,ci40798311,2024-11-22T20:46:49.229Z,"10 km NNW of Idyllwild, CA",earthquake,0.14,0.32,0.245,22,reviewed,ci,ci
 2024-11-22T18:01:29.730Z,34.3986667,-118.682,4.28,1.66,ml,40,51,0.03037,0.22,ci,ci40798303,2024-11-22T20:40:29.990Z,"10 km E of Piru, CA",earthquake,0.23,0.52,0.132,18,reviewed,ci,ci
 2024-11-22T17:59:03.087Z,63.015,-150.4277,105.4,1.5,ml,,,,0.28,ak,ak024f137i90,2024-11-22T18:01:12.973Z,"60 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T00:23:49.270Z,39.016166666667,-111.39616666667,-1.31,1.34,md,6,125,0.0345,0.04,uu,uu80086956,2024-11-22T15:22:26.050Z,"16 km NW of Emery, Utah",earthquake,1.12,0.23,0.21609679556484,6,reviewed,uu,uu
 2024-11-22T00:08:30.570Z,35.30766667,-97.6245,5.23,1.71,ml,98,31,0.04409134777,0.18,ok,ok2024wxqh,2024-11-22T03:10:39.823Z,"7 km NNW of Newcastle, Oklahoma",earthquake,,0.3,0.26,48,reviewed,ok,ok
 2024-11-22T00:07:50.712Z,64.9783,-147.3445,3.5,1.4,ml,,,,0.27,ak,ak024f0ss3en,2024-11-22T06:14:02.073Z,"13 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-22T00:05:47.090Z,33.975,-118.8893333,14.3,2.02,ml,40,172,0.07455,0.19,ci,ci40797999,2024-11-22T17:20:47.649Z,"8 km WSW of Malibu, CA",earthquake,0.35,0.29,0.134,21,reviewed,ci,ci
+2024-11-22T00:05:47.090Z,33.975,-118.8893333,14.3,2.02,ml,40,172,0.07455,0.19,ci,ci40797999,2024-11-22T22:27:11.410Z,"8 km WSW of Malibu, CA",earthquake,0.35,0.29,0.134,21,reviewed,ci,ci
 2024-11-22T00:04:58.900Z,35.0823333,-119.0998333,15.85,1.34,ml,30,96,0.02709,0.2,ci,ci40797991,2024-11-22T01:34:55.071Z,"22 km NW of Grapevine, CA",earthquake,0.28,0.83,0.154,17,reviewed,ci,ci
 2024-11-22T00:03:15.343Z,7.139,-72.9542,170.68,4.4,mb,28,57,1.245,0.4,us,us6000p6wi,2024-11-22T00:17:50.040Z,"7 km S of Tona, Colombia",earthquake,8.15,9.67,0.096,31,reviewed,us,us
 2024-11-21T23:47:59.910Z,19.502332687378,-155.50233459473,0.69999998807907,1.85,ml,19,74,0.05118,0.239999995,hv,hv74536812,2024-11-21T23:50:51.660Z,"28 km WNW of Volcano, Hawaii",earthquake,0.47,2.11999989,0.3,3,automatic,hv,hv
