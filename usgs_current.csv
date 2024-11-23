@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-23T01:38:12.405Z,61.139,-151.177,74.2,1.4,ml,,,,0.36,ak,ak024f2h3fqw,2024-11-23T01:40:24.869Z,"5 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-23T01:35:11.362Z,60.9592,-146.8822,22.8,0.8,ml,,,,0.23,ak,ak024f2h2shv,2024-11-23T01:37:48.817Z,"15 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-23T01:34:05.420Z,38.824165344238,-122.80266571045,2.7000000476837,1.07,md,6,167,0.005838,0.01,nc,nc75089231,2024-11-23T01:35:43.443Z,"7 km NNW of The Geysers, CA",earthquake,0.83,0.899999976,0.29,9,automatic,nc,nc
 2024-11-23T00:56:36.330Z,33.4843333,-116.4816667,12.57,0.89,ml,42,78,0.08381,0.15,ci,ci40798599,2024-11-23T01:23:18.007Z,"20 km ESE of Anza, CA",earthquake,0.18,0.39,0.125,20,automatic,ci,ci
 2024-11-23T00:53:33.065Z,64.9955,-147.4859,0,1.4,ml,,,,0.72,ak,ak024f2gl9ha,2024-11-23T00:59:33.152Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-23T00:47:23.560Z,33.4861667,-116.4786667,13.13,0.82,ml,21,114,0.0835,0.07,ci,ci40798591,2024-11-23T00:51:55.669Z,"20 km ESE of Anza, CA",earthquake,0.19,0.31,0.118,14,automatic,ci,ci
@@ -17,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T22:26:01.680Z,34.054,-118.8066667,11.32,1.75,ml,32,95,0.02684,0.19,ci,ci40798535,2024-11-23T01:19:00.159Z,"6 km N of Malibu, CA",earthquake,0.26,0.34,0.208,19,reviewed,ci,ci
 2024-11-22T22:25:38.587Z,36.7153,-116.2315,4.8,-0.1,ml,12,156.67,0.02,0.072,nn,nn00887869,2024-11-23T01:08:53.544Z,"51 km ESE of Beatty, Nevada",earthquake,,1.1,0.15,4,reviewed,nn,nn
 2024-11-22T22:18:33.520Z,33.5111667,-116.4636667,5.05,1.51,ml,55,28,0.07279,0.18,ci,ci40798527,2024-11-22T23:31:24.111Z,"20 km ESE of Anza, CA",earthquake,0.16,0.63,0.162,24,reviewed,ci,ci
-2024-11-22T22:15:54.170Z,34.0586667,-118.8065,10.59,3.77,ml,84,93,0.02869,0.22,ci,ci40798519,2024-11-23T01:30:52.578Z,"6 km N of Malibu, CA",earthquake,0.22,0.31,0.175,314,reviewed,ci,ci
+2024-11-22T22:15:54.170Z,34.0586667,-118.8065,10.59,3.77,ml,84,93,0.02869,0.22,ci,ci40798519,2024-11-23T01:40:02.791Z,"6 km N of Malibu, CA",earthquake,0.22,0.31,0.175,314,reviewed,ci,ci
 2024-11-22T21:59:21.313Z,0.3096,122.1504,145.14,4.4,mb,35,60,1.479,0.63,us,us6000p757,2024-11-22T22:14:39.040Z,"104 km WSW of Gorontalo, Indonesia",earthquake,7.5,7.046,0.106,26,reviewed,us,us
 2024-11-22T21:56:57.690Z,19.386,-155.24033333333,39.1,0.88,ml,38,54,0.01037,0.11,hv,hv74537802,2024-11-22T22:12:54.930Z,"6 km S of Volcano, Hawaii",earthquake,0.76,0.52,0.13345824761426,14,reviewed,hv,hv
 2024-11-22T21:56:10.125Z,31.693,-104.125,4.5725,1.8,ml,20,80,0.1,0.2,tx,tx2024wzhk,2024-11-22T22:08:32.467Z,"49 km W of Mentone, Texas",earthquake,0,1.1700087785721,0.1,14,automatic,tx,tx
@@ -187,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T02:21:28.280Z,38.790668487549,-122.77633666992,1.1699999570847,1.32,md,20,80,0.009391,0.03,nc,nc75088961,2024-11-22T02:39:30.530Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.19,19,automatic,nc,nc
 2024-11-22T02:03:20.704Z,-33.146,-179.0593,56.572,4.6,mb,21,113,3.993,0.84,us,us6000p6wz,2024-11-22T21:52:15.040Z,"south of the Kermadec Islands",earthquake,10.03,6.464,0.141,15,reviewed,us,us
 2024-11-22T01:45:42.880Z,33.6781667,-116.7271667,14.64,0.63,ml,23,100,0.03465,0.12,ci,ci40798055,2024-11-22T18:46:56.380Z,"7 km S of Idyllwild, CA",earthquake,0.26,0.39,0.172,9,reviewed,ci,ci
-2024-11-22T01:38:02.140Z,38.817501068115,-122.76650238037,1.8300000429153,1.01,md,8,173,0.01186,0.01,nc,nc75088956,2024-11-22T01:59:30.266Z,"4 km W of Cobb, CA",earthquake,0.88,1.07000005,0.07,8,automatic,nc,nc
