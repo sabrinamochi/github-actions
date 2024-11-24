@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-24T06:55:41.620Z,38.831001281738,-122.81983184815,1.9500000476837,0.93,md,16,52,0.01076,0.01,nc,nc75089706,2024-11-24T06:57:17.158Z,"8 km NNW of The Geysers, CA",earthquake,0.24,0.660000026,0.21,18,automatic,nc,nc
 2024-11-24T06:46:27.043Z,60.0671,-152.7811,0,1.7,ml,,,,0.88,ak,ak024f47np4g,2024-11-24T06:48:26.359Z,"60 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-24T06:46:14.890Z,19.326999664307,-155.16716003418,3.0699999332428,1.86,ml,51,92,0.05221,0.239999995,hv,hv74539047,2024-11-24T06:49:07.210Z,"14 km SSE of Volcano, Hawaii",earthquake,0.38,0.980000019,0.63,13,automatic,hv,hv
 2024-11-24T06:44:55.330Z,34.8481667,-118.3695,9.52,1.09,ml,44,34,0.1198,0.16,ci,ci40799111,2024-11-24T06:50:00.781Z,"19 km W of Rosamond, CA",earthquake,0.16,0.41,0.131,29,automatic,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T05:47:50.464Z,59.9397,-153.2614,132.3,1.8,ml,,,,0.31,ak,ak024f472j1o,2024-11-24T06:44:48.040Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-24T05:43:14.565Z,60.2578,-151.2822,62.4,1.3,ml,,,,0.14,ak,ak024f471leo,2024-11-24T05:44:52.303Z,"6 km ENE of Clam Gulch, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-11-24T05:38:22.000Z,33.5178333,-116.4601667,5.79,0.74,ml,26,98,0.07117,0.14,ci,ci40799087,2024-11-24T05:46:42.043Z,"20 km ESE of Anza, CA",earthquake,0.24,0.6,0.154,15,automatic,ci,ci
-2024-11-24T05:36:01.200Z,17.9805,-66.9695,6,3.36,md,20,160,0.0755,0.15,pr,pr2024329003,2024-11-24T06:14:05.490Z,"5 km W of Fuig, Puerto Rico",earthquake,0.68,0.54,0.11,12,reviewed,pr,pr
+2024-11-24T05:36:01.200Z,17.9805,-66.9695,6,3.36,md,20,160,0.0755,0.15,pr,pr2024329003,2024-11-24T06:51:54.040Z,"5 km W of Fuig, Puerto Rico",earthquake,0.68,0.54,0.11,12,reviewed,pr,pr
 2024-11-24T05:08:45.760Z,58.5043,-154.6045,73.3,1,ml,,,,0.21,ak,ak024f46u5r4,2024-11-24T05:10:16.485Z,"104 km N of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-24T05:08:21.916Z,36.7703,-116.7444,10.5,0.1,ml,8,126.39,0.212,0.3421,nn,nn00887900,2024-11-24T05:11:19.493Z,"15 km S of Beatty, Nevada",earthquake,,3.2,0.6,6,automatic,nn,nn
 2024-11-24T05:07:21.100Z,38.826332092285,-122.80466461182,2.4700000286102,1.11,md,29,36,0.005143,0.02,nc,nc75089691,2024-11-24T05:49:31.702Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.2,29,automatic,nc,nc
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T07:11:44.980Z,31.663,-104.327,5.5662,1.9,ml,25,58,0.1,0.3,tx,tx2024wzzt,2024-11-23T07:43:42.287Z,"57 km S of Whites City, New Mexico",earthquake,0,2.0835616588592,0.2,19,automatic,tx,tx
 2024-11-23T07:06:12.840Z,19.18133354187,-155.37367248535,29.879999160767,1.82000005,md,40,199,0.06024,0.119999997,hv,hv74538077,2024-11-23T07:07:50.170Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.78,0.639999986,0.0799999982,5,automatic,hv,hv
 2024-11-23T07:02:01.310Z,36.85033416748,-121.60649871826,1.5499999523163,1.28,md,7,114,0.05477,0.28,nc,nc75089286,2024-11-23T07:17:17.494Z,"5 km SSE of Aromas, CA",earthquake,0.84,6.36999989,0.27,6,automatic,nc,nc
-2024-11-23T06:57:45.010Z,17.981333333333,-66.967333333333,7.75,2.44,md,13,162,0.05659,0.24,pr,pr71466403,2024-11-23T07:13:55.230Z,"5 km W of Fuig, Puerto Rico",earthquake,0.6,0.3,0.053367145768148,7,reviewed,pr,pr
