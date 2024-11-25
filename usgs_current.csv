@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-25T13:59:42.610Z,38.792331695557,-122.77983093262,1.960000038147,0.74,md,7,171,0.006376,0.01,nc,nc75090216,2024-11-25T14:01:19.683Z,"3 km NW of The Geysers, CA",earthquake,0.61,0.939999998,0.27,9,automatic,nc,nc
 2024-11-25T13:32:20.394Z,60.0515,-152.2319,85.7,1.4,ml,,,,0.28,ak,ak024f5za2bb,2024-11-25T13:34:25.923Z,"30 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-25T13:12:20.386Z,58.2015,-155.2564,1.3,0.8,ml,,,,0.19,ak,ak024f5z5rzq,2024-11-25T13:13:48.465Z,"84 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-25T13:10:46.190Z,18.8515,-66.434833333333,45.91,2.92,md,19,229,0.3831,0.23,pr,pr71466828,2024-11-25T13:31:34.530Z,"43 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.87,2.08,0.12421339214697,11,reviewed,pr,pr
@@ -119,7 +120,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T01:04:15.020Z,19.205165863037,-155.48316955566,29.469999313354,1.99000001,md,28,103,0.04551,0.119999997,hv,hv74539992,2024-11-25T01:06:00.180Z,"0 km WNW of Pāhala, Hawaii",earthquake,0.67,0.610000014,0.689999998,3,automatic,hv,hv
 2024-11-25T00:54:21.710Z,19.206666946411,-155.48066711426,30.139999389648,1.77999997,md,36,100,0.04496,0.119999997,hv,hv74539987,2024-11-25T00:55:48.110Z,"0 km NNW of Pāhala, Hawaii",earthquake,0.58,0.589999974,0.129999995,6,automatic,hv,hv
 2024-11-25T00:38:13.249Z,31.686,-104.086,6.0999,2.3,ml,15,75,0,0.2,tx,tx2024xddu,2024-11-25T11:24:02.560Z,"46 km W of Mentone, Texas",earthquake,0.99988725461915,0.81701983432722,0.1,16,reviewed,tx,tx
-2024-11-25T00:37:52.356Z,31.678,-104.097,4.5535,2.3,ml,6,136,0,0.1,tx,tx2024xddt,2024-11-25T01:06:22.014Z,"47 km W of Mentone, Texas",earthquake,0,2.0591628551483,0.2,6,automatic,tx,tx
 2024-11-25T00:33:20.729Z,31.669,-104.375,7.5867,1.9,ml,21,57,0.1,0.2,tx,tx2024xddp,2024-11-25T13:21:49.331Z,"56 km S of Whites City, New Mexico",earthquake,1.1499928601184,1.2241745437235,0.2,17,reviewed,tx,tx
 2024-11-25T00:32:00.210Z,19.1171,-64.464,64,3.67,md,17,302,0.7189,0.26,pr,pr2024330000,2024-11-25T01:25:06.136Z,"93 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.12,5.8,0.19,16,reviewed,pr,pr
 2024-11-25T00:21:24.180Z,35.036,-117.6876667,-0.72,1.73,ml,47,51,0.1016,0.24,ci,ci40799479,2024-11-25T00:29:10.252Z,"5 km NW of Boron, CA",earthquake,0.34,0.7,0.123,33,automatic,ci,ci
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T14:09:05.916Z,59.7633,-152.042,55.2,1.3,ml,,,,0.34,ak,ak024f4c76u7,2024-11-24T14:10:34.020Z,"11 km W of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-11-24T14:06:44.183Z,64.4407,-146.8804,11.4,1.2,ml,,,,0.59,ak,ak024f4c6mn6,2024-11-24T14:08:24.767Z,"9 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-24T14:05:27.420Z,38.814167022705,-122.81316375732,2.6400001049042,1.08,md,22,50,0.009525,0.02,nc,nc75089816,2024-11-24T14:24:31.236Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.1,21,automatic,nc,nc
-2024-11-24T14:01:52.020Z,35.994,-117.7606667,7.8,0.66,ml,11,233,0.0642,0.07,ci,ci40799223,2024-11-24T14:07:02.453Z,"15 km ENE of Little Lake, CA",earthquake,0.34,0.61,0.226,4,reviewed,ci,ci
-2024-11-24T14:01:02.699Z,60.3606,-147.5307,29.2,1.5,ml,,,,0.31,ak,ak024f4c5gv1,2024-11-24T14:02:25.053Z,"42 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
