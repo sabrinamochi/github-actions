@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-25T18:21:30.830Z,33.3848343,-116.7460022,-1.08,-0.01,ml,15,106,0.1291,0.29,ci,ci40800135,2024-11-25T18:24:59.713Z,"11 km ENE of Palomar Observatory, CA",earthquake,0.8,1.29,0.067,2,automatic,ci,ci
+2024-11-25T18:20:13.389Z,56.4167,-156.849,26.1,2.5,ml,,,,0.63,ak,ak024f626n7e,2024-11-25T18:22:10.272Z,"97 km E of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-25T18:11:22.798Z,65.5223,-149.3786,0,1.4,ml,,,,0.69,ak,ak024f624qhv,2024-11-25T18:15:03.628Z,"36 km E of Rampart, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-25T18:07:45.928Z,61.681,-148.1696,25.5,1.4,ml,,,,0.57,ak,ak024f623xf8,2024-11-25T18:10:17.861Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-25T18:02:54.890Z,19.151832580566,-155.36833190918,29.360000610352,1.95000005,md,38,198,0.08872,0.119999997,hv,hv74540917,2024-11-25T18:04:30.750Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.58,0.920000017,0.360000014,6,automatic,hv,hv
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T13:10:46.190Z,18.8515,-66.434833333333,45.91,2.92,md,19,229,0.3831,0.23,pr,pr71466828,2024-11-25T13:31:34.530Z,"43 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.87,2.08,0.12421339214697,11,reviewed,pr,pr
 2024-11-25T13:09:48.446Z,64.9837,-148.8323,17.3,1.2,ml,,,,0.19,ak,ak024f5z570c,2024-11-25T13:11:08.171Z,"30 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-25T13:05:45.153Z,31.646,-104.473,3.6565,1.7,ml,11,107,0,0.4,tx,tx2024xecl,2024-11-25T13:12:49.256Z,"59 km S of Whites City, New Mexico",earthquake,0,2.2066938877106,0.1,9,automatic,tx,tx
-2024-11-25T13:02:55.210Z,19.444999694824,-155.48500061035,7.8000001907349,2.18,ml,55,42,0.0381,0.180000007,hv,hv74540657,2024-11-25T13:05:47.900Z,"26 km W of Volcano, Hawaii",earthquake,0.27,0.460000008,0.89,16,automatic,hv,hv
+2024-11-25T13:02:55.170Z,19.4495,-155.482,8.33,1.84,ml,39,48,0.04056,0.12,hv,hv74540657,2024-11-25T18:21:24.880Z,"26 km W of Volcano, Hawaii",earthquake,0.31,0.63,0.22546981546443,26,reviewed,hv,hv
 2024-11-25T12:49:30.204Z,31.687,-104.354,7.843,1.6,ml,25,67,0.1,0.1,tx,tx2024xebx,2024-11-25T16:40:09.244Z,"54 km S of Whites City, New Mexico",earthquake,0.58614709121849,1.0331971906954,0.1,41,reviewed,tx,tx
 2024-11-25T12:41:06.773Z,39.7274,-119.7842,8.8,1,ml,14,155.76,0.107,0.1166,nn,nn00887915,2024-11-25T15:38:47.008Z,"10 km NW of Spanish Springs, Nevada",earthquake,,2.1,0.32,6,reviewed,nn,nn
 2024-11-25T12:25:05.680Z,58.1997,-155.2502,0,0.9,ml,,,,0.15,ak,ak024f5yn3k8,2024-11-25T12:26:53.496Z,"84 km NW of Karluk, Alaska",earthquake,,3.8,,,automatic,ak,ak
@@ -217,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-24T18:43:29.286Z,61.2147,-147.6219,0.3,1.3,ml,,,,0.93,ak,ak024f4es9eo,2024-11-24T18:45:19.623Z,"64 km NW of Tatitlek, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-11-24T18:31:35.950Z,19.862333333333,-155.09616666667,41.81,2.09,ml,31,261,0.1508,0.1,hv,hv74539547,2024-11-25T17:40:12.690Z,"2 km ESE of Honomu, Hawaii",earthquake,3.25,5.18,0.15223321759963,9,reviewed,hv,hv
 2024-11-24T18:30:32.730Z,38.79349899292,-122.81066894531,3.4400000572205,0.37,md,8,99,0.007871,0.02,nc,nc75089921,2024-11-24T18:52:16.121Z,"5 km WNW of The Geysers, CA",earthquake,0.5,1.37,0.12,9,automatic,nc,nc
-2024-11-24T18:26:41.750Z,38.830333709717,-122.81600189209,1.7200000286102,1.49,md,31,48,0.008333,0.03,nc,nc75089916,2024-11-24T18:42:18.044Z,"8 km NNW of The Geysers, CA",earthquake,0.16,0.280000001,0.15,32,automatic,nc,nc
-2024-11-24T18:23:03.289Z,60.2352,-149.7856,32,1.6,ml,,,,0.59,ak,ak024f4enx2d,2024-11-24T18:24:54.558Z,"23 km WNW of Bear Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-24T18:17:56.100Z,38.813999176025,-122.82866668701,2,1.09,md,12,78,0.005139,0.02,nc,nc75089906,2024-11-24T18:39:30.019Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.26,13,automatic,nc,nc
-2024-11-24T18:16:41.000Z,34.0511667,-116.7636667,13.76,1.1,ml,42,63,0.03996,0.13,ci,ci40799295,2024-11-24T20:20:49.001Z,"15 km N of Cabazon, CA",earthquake,0.15,0.34,0.113,26,reviewed,ci,ci
