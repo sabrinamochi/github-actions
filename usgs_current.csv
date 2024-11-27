@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-27T03:38:14.754Z,61.9457,-150.2714,19.6,1.7,ml,,,,0.18,ak,ak024f94fp43,2024-11-27T03:39:50.801Z,"25 km NNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-27T03:34:54.981Z,60.1795,-152.5026,59.4,1.8,ml,,,,0.87,ak,ak024f94excq,2024-11-27T03:37:09.766Z,"48 km WNW of Ninilchik, Alaska",earthquake,,4.5,,,automatic,ak,ak
-2024-11-27T03:32:16.480Z,35.6485,-117.5621667,4.72,2.2,ml,32,45,0.08121,0.13,ci,ci40988120,2024-11-27T03:39:53.821Z,"11 km ENE of Ridgecrest, CA",earthquake,0.15,0.38,0.21,27,automatic,ci,ci
+2024-11-27T03:32:16.480Z,35.6485,-117.5621667,4.72,2.2,ml,32,45,0.08121,0.13,ci,ci40988120,2024-11-27T04:11:58.263Z,"11 km ENE of Ridgecrest, CA",earthquake,0.15,0.38,0.21,27,automatic,ci,ci
 2024-11-27T03:30:21.282Z,62.7661,-150.4995,79.1,1.4,ml,,,,0.59,ak,ak024f94dzw0,2024-11-27T03:32:33.259Z,"33 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-27T03:22:01.950Z,35.1175,-119.0816667,10.09,2.23,ml,57,41,0.05879,0.26,ci,ci40988104,2024-11-27T03:32:49.160Z,"22 km SW of Lamont, CA",earthquake,0.23,0.54,0.137,26,automatic,ci,ci
 2024-11-27T03:18:25.300Z,38.836334228516,-122.79399871826,2.0499999523163,0.2,md,9,73,0.003527,0.02,nc,nc75090921,2024-11-27T03:37:15.791Z,"6 km WNW of Cobb, CA",earthquake,0.42,1.33000004,0.07,10,automatic,nc,nc
@@ -240,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T04:25:21.480Z,34.5561667,-117.7921667,8.59,2.08,ml,65,31,0.06423,0.19,ci,ci40800663,2024-11-26T15:03:15.190Z,"7 km N of Llano, CA",earthquake,0.15,0.42,0.14,26,reviewed,ci,ci
 2024-11-26T04:17:33.380Z,46.204333333333,-122.17516666667,7.66,0.14,ml,9,101,0.008283,0.1,uw,uw62061371,2024-11-26T19:33:03.350Z,"38 km NNE of Amboy, Washington",earthquake,0.75,0.48,0.014562333693056,4,reviewed,uw,uw
 2024-11-26T04:17:13.040Z,51.516666666667,-177.11033333333,16.97,2.16,ml,12,241,0.2573,0.13,av,av93379248,2024-11-27T01:18:25.160Z,"51 km SW of Adak, Alaska",earthquake,0.54,1.11,0.27025680092058,14,reviewed,av,av
-2024-11-26T04:11:01.510Z,38.81266784668,-122.82833099365,1.2400000095367,0.81,md,7,105,0.01167,0.01,nc,nc75090501,2024-11-26T04:42:19.133Z,"7 km NW of The Geysers, CA",earthquake,0.55,1.94000006,0.13,8,automatic,nc,nc
-2024-11-26T04:10:48.010Z,39.1755,-123.18616666667,8,1.26,md,17,45,0.09429,0.08,nc,nc75090506,2024-11-26T19:54:29.503Z,"4 km NE of Ukiah, CA",earthquake,0.2,0.78,0.247,14,reviewed,nc,nc
-2024-11-26T04:03:26.410Z,35.6946667,-117.5198333,10.55,0.57,ml,18,66,0.08363,0.15,ci,ci40800647,2024-11-26T15:02:10.490Z,"13 km SW of Searles Valley, CA",earthquake,0.31,0.59,0.173,5,reviewed,ci,ci
