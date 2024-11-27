@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-27T06:19:34.620Z,63.0704,-150.4511,108,1.4,ml,,,,0.18,ak,ak024f963yuu,2024-11-27T06:21:34.797Z,"65 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-27T06:13:25.784Z,60.1498,-153.0192,113,1.4,ml,,,,0.25,ak,ak024f962nvm,2024-11-27T06:15:52.108Z,"72 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-11-27T06:11:01.760Z,36.508834838867,-121.10366821289,6.4499998092651,0.97,md,9,109,0.06491,0.2,nc,nc75090981,2024-11-27T06:12:39.547Z,"4 km SE of Pinnacles, CA",earthquake,0.8,3.00999999,0.16,7,automatic,nc,nc
+2024-11-27T06:11:01.760Z,36.508834838867,-121.10366821289,6.4499998092651,0.97,md,9,109,0.06491,0.2,nc,nc75090981,2024-11-27T06:27:18.925Z,"4 km SE of Pinnacles, CA",earthquake,0.8,3.00999999,0.16,7,automatic,nc,nc
 2024-11-27T06:03:05.420Z,19.148500442505,-155.46282958984,31.120000839233,2.16000009,md,47,171,0.00691,0.129999995,hv,hv74542872,2024-11-27T06:04:49.690Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.6,0.680000007,0.479999989,9,automatic,hv,hv
 2024-11-27T05:54:41.690Z,19.381666183472,-155.23516845703,2.0099999904633,2.01,ml,32,62,0.009553,0.209999993,hv,hv74542852,2024-11-27T05:57:32.600Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.270000011,0.38,15,automatic,hv,hv
 2024-11-27T05:52:31.090Z,40.348499298096,-124.18250274658,29.309999465942,2.29,md,18,112,0.0561,0.08,nc,nc75090971,2024-11-27T06:09:30.901Z,"9 km E of Petrolia, CA",earthquake,0.62,1.23000002,0.1,14,automatic,nc,nc
@@ -169,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T12:33:09.199Z,-30.4512,-71.3548,51.195,5.1,mww,47,112,0.328,0.79,us,us7000nu8n,2024-11-26T18:22:07.906Z,"22 km NW of Ovalle, Chile",earthquake,5.31,5.952,0.093,11,reviewed,us,us
 2024-11-26T12:30:54.960Z,19.383,-155.24216666667,1.11,2.08,ml,33,68,0.008985,0.11,hv,hv74541712,2024-11-26T18:05:40.200Z,"6 km S of Volcano, Hawaii",earthquake,0.16,0.14,0.44755204302827,25,reviewed,hv,hv
 2024-11-26T12:30:49.642Z,64.6156,-147.3205,22,0.8,ml,,,,0.29,ak,ak024f7m7m10,2024-11-26T12:32:42.118Z,"13 km SW of Moose Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-11-26T12:30:45.350Z,58.111666666667,-155.2155,4.09,0.17,ml,11,137,0.03556,0.15,av,av93379723,2024-11-27T06:28:25.760Z,"75 km NW of Karluk, Alaska",earthquake,0.32,0.74,0.26482665878577,11,reviewed,av,av
 2024-11-26T12:30:24.146Z,58.0287,-157.6527,84.8,2.1,ml,,,,1.42,ak,ak024f7m7jwf,2024-11-26T12:38:26.997Z,"26 km SW of Egegik, Alaska",earthquake,,9,,,automatic,ak,ak
 2024-11-26T12:29:39.260Z,34.1371667,-117.4966667,3.7,1.89,ml,97,18,0.03851,0.22,ci,ci40800775,2024-11-26T20:31:11.586Z,"6 km NW of Fontana, CA",earthquake,0.13,0.34,0.224,26,reviewed,ci,ci
 2024-11-26T12:16:46.880Z,46.838166666667,-121.92516666667,11.1,0.06,ml,10,137,0.01665,0.08,uw,uw62061456,2024-11-26T20:36:38.050Z,"11 km NE of Ashford, Washington",earthquake,0.55,0.57,0.13843067680492,3,reviewed,uw,uw
