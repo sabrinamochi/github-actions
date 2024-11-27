@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-27T00:03:29.812Z,31.974,-103.801,8.0709,2.6,ml,10,96,0,0.2,tx,tx2024xgtr,2024-11-27T00:09:44.596Z,"35 km NNW of Mentone, Texas",earthquake,0,4.8731079101562,0.3,8,automatic,tx,tx
 2024-11-26T23:53:37.570Z,39.33483505249,-120.14366912842,5.6700000762939,2.55,md,8,168,0.0932,0.03,nc,nc75090886,2024-11-26T23:55:36.894Z,"3 km E of Truckee, CA",earthquake,0.42,1.55999994,0.21,10,automatic,nc,nc
 2024-11-26T23:45:28.450Z,38.846668243408,-122.82833099365,0.74000000953674,0.6,md,9,123,0.008878,0.04,nc,nc75090876,2024-11-26T23:47:07.323Z,"10 km WNW of Cobb, CA",earthquake,0.57,0.870000005,0.22,10,automatic,nc,nc
 2024-11-26T23:44:50.527Z,56.7528,-158.2963,77.6,1.5,ml,,,,0.16,ak,ak024f7sudrw,2024-11-26T23:46:02.001Z,"51 km N of Chignik, Alaska",earthquake,,3.7,,,automatic,ak,ak
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T20:36:59.440Z,38.819667816162,-122.84200286865,2.0299999713898,0.75,md,13,119,0.006444,0.01,nc,nc75090781,2024-11-26T21:09:36.032Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.579999983,0.12,15,automatic,nc,nc
 2024-11-26T20:30:54.760Z,38.798831939697,-122.75033569336,1.4199999570847,1.12,md,16,98,0.007542,0.02,nc,nc75090776,2024-11-26T20:52:18.915Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.419999987,0.14,16,automatic,nc,nc
 2024-11-26T20:24:14.420Z,19.249166488648,-155.42950439453,32.229999542236,2.05999994,md,47,89,0.03239,0.170000002,hv,hv74542227,2024-11-26T20:26:08.340Z,"7 km NE of Pāhala, Hawaii",earthquake,0.59,0.670000017,0.230000004,15,automatic,hv,hv
-2024-11-26T20:21:35.370Z,34.1348333,-117.4925,2.77,2.09,ml,80,19,0.041,0.2,ci,ci40987824,2024-11-26T22:00:36.800Z,"5 km NW of Fontana, CA",earthquake,0.13,0.23,0.158,20,reviewed,ci,ci
+2024-11-26T20:21:35.370Z,34.1348333,-117.4925,2.77,2.09,ml,80,19,0.041,0.2,ci,ci40987824,2024-11-27T00:03:53.773Z,"5 km NW of Fontana, CA",earthquake,0.13,0.23,0.158,20,reviewed,ci,ci
 2024-11-26T20:18:20.431Z,31.699,-104.487,4.7264,1.5,ml,18,119,0,0.2,tx,tx2024xgme,2024-11-26T20:56:25.019Z,"53 km S of Whites City, New Mexico",earthquake,0,1.3197064399719,0.2,14,automatic,tx,tx
 2024-11-26T20:12:33.530Z,46.324666666667,-111.62283333333,-2,1.46,ml,10,95,0.3169,0.11,mb,mb90067013,2024-11-26T20:43:35.340Z,"7 km SSW of The Silos, Montana",quarry blast,0.82,31.61,0.34682873895213,15,reviewed,mb,mb
 2024-11-26T20:11:31.470Z,38.819000244141,-122.75700378418,1.2000000476837,0.39,md,6,126,0.01526,0.01,nc,nc75090771,2024-11-26T20:13:07.134Z,"3 km W of Cobb, CA",earthquake,0.75,1.30999994,0.19,4,automatic,nc,nc
@@ -222,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-26T00:28:15.870Z,35.0545,-116.9058333,1.67,2.45,ml,35,46,0.1941,0.13,ci,ci40800551,2024-11-26T16:27:43.450Z,"20 km NNE of Barstow, CA",earthquake,0.13,0.62,0.11,112,reviewed,ci,ci
 2024-11-26T00:25:40.110Z,46.850666666667,-121.75983333333,2.04,0.29,ml,18,70,0.02273,0.07,uw,uw62061356,2024-11-26T19:17:19.440Z,"23 km ENE of Ashford, Washington",earthquake,0.17,0.37,0.13971164132897,8,reviewed,uw,uw
 2024-11-26T00:25:22.410Z,35.0326667,-117.6815,-0.81,1.42,ml,33,38,0.0988,0.22,ci,ci40800543,2024-11-26T00:28:56.748Z,"5 km NW of Boron, CA",earthquake,0.31,0.57,0.128,30,automatic,ci,ci
-2024-11-26T00:10:09.000Z,33.3236667,-116.3563333,6.5,0.96,ml,46,59,0.009551,0.18,ci,ci40800527,2024-11-26T15:03:20.290Z,"8 km NNE of Borrego Springs, CA",earthquake,0.21,0.35,0.188,24,reviewed,ci,ci
-2024-11-26T00:07:52.072Z,63.1212,-150.5388,115.9,2.2,ml,,,,0.46,ak,ak024f7exhhp,2024-11-26T00:32:46.040Z,"70 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
