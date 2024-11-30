@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-30T02:24:33.650Z,40.51216506958,-124.28067016602,24.459999084473,2.56,md,30,146,,0.12,nc,nc75092706,2024-11-30T02:32:19.297Z,"7 km SSW of Ferndale, CA",earthquake,0.74,1.12,0.09,24,automatic,nc,nc
 2024-11-30T02:06:55.270Z,19.246833801269,-155.39183044434,30.989999771118,1.99000001,md,33,134,0.01072,0.129999995,hv,hv74546887,2024-11-30T02:08:27.010Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.540000021,0.0500000007,4,automatic,hv,hv
-2024-11-30T02:06:04.670Z,38.791168212891,-122.76183319092,1.1799999475479,0.75,md,10,77,0.009587,0.04,nc,nc75092701,2024-11-30T02:07:43.827Z,"2 km  of The Geysers, CA",earthquake,0.37,0.610000014,0.07,11,automatic,nc,nc
+2024-11-30T02:06:04.670Z,38.791168212891,-122.76183319092,1.1799999475479,0.75,md,10,77,0.009587,0.04,nc,nc75092701,2024-11-30T02:24:28.240Z,"2 km  of The Geysers, CA",earthquake,0.37,0.610000014,0.07,11,automatic,nc,nc
 2024-11-30T02:01:52.430Z,35.8878333,-117.7118333,8.63,0.38,ml,21,66,0.07798,0.13,ci,ci40990352,2024-11-30T02:05:18.826Z,"18 km ESE of Little Lake, CA",earthquake,0.19,0.5,0.069,4,automatic,ci,ci
 2024-11-30T02:01:13.085Z,63.2616,-149.5721,82.1,1.9,ml,,,,0.48,ak,ak024fe28dd8,2024-11-30T02:03:16.425Z,"34 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-30T01:55:34.248Z,62.9976,-148.7553,67.2,1.7,ml,,,,0.42,ak,ak024fe1yk28,2024-11-30T01:57:11.033Z,"45 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -15,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T00:40:02.560Z,19.6165,-65.389333333333,38.57,3.28,md,11,306,1.306,0.38,pr,pr71467223,2024-11-30T01:22:09.620Z,"139 km NNE of Vieques, Puerto Rico",earthquake,3.63,25.38,0.057094980988035,4,reviewed,pr,pr
 2024-11-30T00:36:00.126Z,-8.8534,-81.1288,10,5.2,mb,78,156,5.242,0.91,us,us7000nv14,2024-11-30T00:53:06.040Z,"230 km WSW of Santiago de Cao, Peru",earthquake,8.48,1.894,0.027,456,reviewed,us,us
 2024-11-30T00:23:55.810Z,33.7458333,-117.5341667,5.36,0.91,ml,27,75,0.04993,0.2,ci,ci40990320,2024-11-30T01:13:36.649Z,"11 km NNE of Trabuco Canyon, CA",earthquake,0.25,0.49,0.16,14,reviewed,ci,ci
+2024-11-30T00:21:15.903Z,1.7674,128.398,59.851,4.4,mb,29,89,1.429,1.21,us,us7000nv11,2024-11-30T02:27:56.040Z,"43 km E of Tobelo, Indonesia",earthquake,9.08,6.986,0.12,20,reviewed,us,us
 2024-11-29T23:45:56.360Z,19.370166778564,-155.19667053223,1.8099999427795,1.74000001,md,25,116,0.01814,0.170000002,hv,hv74546722,2024-11-29T23:47:44.650Z,"8 km SSE of Volcano, Hawaii",earthquake,0.5,0.349999994,0.239999995,18,automatic,hv,hv
 2024-11-29T23:21:58.824Z,31.575,-102.161,3.3463,1.6,ml,40,81,0.1,0.4,tx,tx2024xmew,2024-11-29T23:32:52.359Z,"26 km NE of Crane, Texas",earthquake,0,1.0843787193298,0.1,24,automatic,tx,tx
 2024-11-29T22:52:07.840Z,33.6491667,-116.7811667,14.79,0.87,ml,37,68,0.05878,0.13,ci,ci40990264,2024-11-29T22:56:59.218Z,"12 km SSW of Idyllwild, CA",earthquake,0.17,0.3,0.18,27,automatic,ci,ci
@@ -26,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T21:51:14.750Z,38.837665557861,-122.79350280762,1.9700000286102,0.37,md,7,182,0.002576,0.01,nc,nc75092646,2024-11-29T23:57:18.215Z,"6 km WNW of Cobb, CA",earthquake,1.32,1.33000004,0.22,7,automatic,nc,nc
 2024-11-29T21:48:01.548Z,63.5359,-147.7532,17.4,1.5,ml,,,,0.45,ak,ak024fcqab4q,2024-11-29T21:49:46.915Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-29T21:44:30.020Z,17.934666666667,-66.799833333333,8.96,2.93,md,16,179,0.07521,0.08,pr,pr71467213,2024-11-29T22:25:22.940Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.35,0.58,0.077299771546744,11,reviewed,pr,pr
-2024-11-29T21:36:09.090Z,38.0255,-118.68983333333,5.59,1.33,md,19,223,0.294,0.05,nc,nc75092641,2024-11-29T23:37:17.069Z,"35 km SW of Qualeys Camp, NV",earthquake,0.87,4.86,0.183,13,reviewed,nc,nc
+2024-11-29T21:36:09.090Z,38.0255,-118.68983333333,5.59,1.33,md,19,223,0.294,0.05,nc,nc75092641,2024-11-30T02:17:18.191Z,"35 km SW of Qualeys Camp, NV",earthquake,0.87,4.86,0.183,13,reviewed,nc,nc
 2024-11-29T21:24:39.140Z,32.985,-116.3221667,5.32,1.34,ml,42,74,0.07552,0.18,ci,ci40990200,2024-11-29T21:28:54.221Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.2,0.9,0.174,28,automatic,ci,ci
 2024-11-29T21:23:24.183Z,61.9514,-150.2803,34.8,2.6,ml,,,,0.88,ak,ak024fcq4zyq,2024-11-30T00:24:13.040Z,"26 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-29T21:20:55.042Z,-12.4753,167.0786,249.124,4.5,mb,48,65,2.956,0.74,us,us7000nv0e,2024-11-30T00:09:11.040Z,"163 km NNW of Sola, Vanuatu",earthquake,12.75,7.919,0.085,40,reviewed,us,us
@@ -183,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T03:08:56.230Z,34.0348333,-117.2396667,14.11,0.88,ml,35,76,0.1201,0.13,ci,ci40989696,2024-11-29T03:13:41.744Z,"2 km SE of Loma Linda, CA",earthquake,0.18,0.4,0.237,24,automatic,ci,ci
 2024-11-29T03:07:01.310Z,38.835334777832,-122.80549621582,1.75,0.21,md,9,82,0.01223,0.01,nc,nc75092316,2024-11-29T03:37:17.702Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.30999994,0.08,8,automatic,nc,nc
 2024-11-29T03:05:39.562Z,-20.3601,-178.0355,539.595,4.4,mb,33,129,4.523,1.21,us,us7000nuv8,2024-11-29T03:19:20.040Z,"298 km WNW of Houma, Tonga",earthquake,13.07,9.513,0.072,56,reviewed,us,us
-2024-11-29T02:20:26.170Z,61.7353,-149.0559,22.6,1.2,ml,,,,0.18,ak,ak024fcet4hl,2024-11-29T02:22:36.128Z,"3 km NE of Buffalo Soapstone, Alaska",earthquake,,0.6,,,automatic,ak,ak
