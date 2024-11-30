@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-30T13:06:53.330Z,34.2208333,-116.9716667,1.71,0.83,ml,27,44,0.04552,0.2,ci,ci40990672,2024-11-30T13:11:53.020Z,"6 km WSW of Big Bear Lake, CA",earthquake,0.24,0.37,0.191,12,automatic,ci,ci
 2024-11-30T12:57:26.650Z,33.686,-116.788,2.6,1.19,ml,62,27,0.06647,0.17,ci,ci40990656,2024-11-30T13:02:05.046Z,"9 km SW of Idyllwild, CA",earthquake,0.13,0.51,0.184,27,automatic,ci,ci
 2024-11-30T12:51:55.760Z,33.685,-116.7903333,2.34,1.34,ml,71,22,0.06865,0.18,ci,ci40990648,2024-11-30T13:03:00.290Z,"9 km SW of Idyllwild, CA",earthquake,0.12,0.23,0.226,27,automatic,ci,ci
 2024-11-30T12:44:30.350Z,35.8996667,-117.6913333,3.7,0.35,ml,14,70,0.05849,0.11,ci,ci40990640,2024-11-30T12:47:56.976Z,"20 km ESE of Little Lake, CA",earthquake,0.16,0.68,0.073,4,automatic,ci,ci
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T11:35:23.601Z,62.2176,-152.9949,20,1.2,ml,,,,0.95,ak,ak024fe7slfq,2024-11-30T11:38:18.677Z,"87 km WNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-30T11:11:34.824Z,60.656,-150.7233,15.4,1.4,ml,,,,0.6,ak,ak024fe7ngne,2024-11-30T11:13:22.002Z,"13 km N of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-30T11:09:58.240Z,33.0311667,-116.4283333,10.32,0.79,ml,41,41,0.04675,0.2,ci,ci40990592,2024-11-30T11:13:39.489Z,"17 km ESE of Julian, CA",earthquake,0.22,0.45,0.146,13,automatic,ci,ci
+2024-11-30T10:53:22.568Z,13.7969,-91.9044,33.453,4.1,mb,33,164,1.548,0.72,us,us7000nv45,2024-11-30T13:15:19.040Z,"54 km S of Champerico, Guatemala",earthquake,7.32,8.019,0.088,35,reviewed,us,us
 2024-11-30T10:48:42.350Z,33.5115,-116.5496667,11.29,0.68,ml,39,65,0.04698,0.16,ci,ci40990584,2024-11-30T10:53:26.359Z,"12 km ESE of Anza, CA",earthquake,0.18,0.35,0.114,21,automatic,ci,ci
 2024-11-30T10:47:17.779Z,61.1385,-147.4497,0,1.4,ml,,,,1.3,ak,ak024fe79pfq,2024-11-30T10:50:05.604Z,"51 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-30T10:45:09.110Z,60.7044,-151.9457,34.3,1.5,ml,,,,1.67,ak,ak024fe799en,2024-11-30T10:47:07.223Z,"35 km WNW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -245,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T13:34:58.360Z,65.0439,-148.7656,17.2,0.7,ml,,,,0.41,ak,ak024fclfyng,2024-11-29T13:37:20.901Z,"29 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-29T13:26:12.590Z,34.0276667,-117.5921667,4.92,0.89,ml,37,41,0.03425,0.14,ci,ci40989952,2024-11-29T13:30:49.804Z,"4 km SE of Ontario, CA",earthquake,0.17,0.29,0.197,27,automatic,ci,ci
 2024-11-29T13:24:36.190Z,38.797832489014,-122.750831604,2.3399999141693,0.72,md,12,95,0.007478,0.02,nc,nc75092491,2024-11-29T15:09:31.567Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.779999971,0.04,12,automatic,nc,nc
-2024-11-29T13:13:43.680Z,35.8313333,-117.6503333,9.16,0.64,ml,22,89,0.04566,0.14,ci,ci40989944,2024-11-29T22:17:43.634Z,"23 km WNW of Searles Valley, CA",earthquake,0.2,0.53,0.093,4,reviewed,ci,ci
-2024-11-29T13:12:30.970Z,38.826168060303,-122.81233215332,1.0299999713898,0.76,md,9,84,0.003283,0.01,nc,nc75092486,2024-11-29T14:42:16.377Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.75999999,0.1,9,automatic,nc,nc
