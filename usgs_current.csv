@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-01T00:10:01.196Z,64.9965,-147.4065,1.1,1.5,ml,,,,0.62,ak,ak024ffomr6f,2024-12-01T00:11:49.539Z,"10 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-01T00:09:51.340Z,33.7758333,-116.0198333,9.77,0.78,ml,27,124,0.1229,0.16,ci,ci40991048,2024-12-01T00:14:00.562Z,"18 km NE of Coachella, CA",earthquake,0.23,0.77,0.171,11,automatic,ci,ci
+2024-12-01T00:06:58.520Z,19.383167266846,-155.25100708008,0.46000000834465,2.16,ml,26,55,0.002348,0.25999999,hv,hv74548927,2024-12-01T00:09:52.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.129999995,0.44,15,automatic,hv,hv
+2024-12-01T00:05:29.370Z,19.382499694824,-155.24183654785,1.3200000524521,2.13,ml,25,69,0.00896,0.239999995,hv,hv74548922,2024-12-01T00:08:21.630Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.209999993,0.34,15,automatic,hv,hv
+2024-12-01T00:05:07.650Z,19.386333465576,-155.24833679199,0.81000000238419,1.92,ml,13,93,0.002924,0.159999996,hv,hv74548912,2024-12-01T00:08:00.220Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.37,16,automatic,hv,hv
+2024-12-01T00:02:23.503Z,60.8494,-149.086,28.3,1.2,ml,,,,0.43,ak,ak024ffol366,2024-12-01T00:04:10.514Z,"11 km SSE of Girdwood, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-12-01T00:00:28.040Z,38.786666870117,-122.77266693115,1.0700000524521,1.22,md,19,83,0.01358,0.03,nc,nc75093361,2024-12-01T00:02:04.113Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.18,19,automatic,nc,nc
 2024-11-30T23:52:23.360Z,38.82500076294,-122.80149841309,3.0099999904633,0.71,md,11,71,0.006888,0.05,nc,nc75093351,2024-11-30T23:53:59.808Z,"7 km NNW of The Geysers, CA",earthquake,0.48,0.829999983,0.28,12,automatic,nc,nc
 2024-11-30T23:32:24.290Z,61.6899,-150.7762,55.7,1.6,ml,,,,0.31,ak,ak024feex54t,2024-11-30T23:34:11.839Z,"21 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-30T23:31:26.530Z,38.82483291626,-122.80533599853,2.3199999332428,1.31,md,27,34,0.00397,0.01,nc,nc75093336,2024-11-30T23:57:18.294Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.360000014,0.18,29,automatic,nc,nc
@@ -45,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T18:54:39.763Z,61.309,-152.2583,2.8,0.2,ml,,,,0.07,ak,ak024fec2q20,2024-11-30T18:56:05.387Z,"65 km WNW of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-11-30T18:46:23.234Z,60.92,-149.6244,21,2.4,ml,,,,0.76,ak,ak024fec0z17,2024-11-30T18:55:26.901Z,"0 km ENE of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-30T18:43:08.592Z,62.2387,-151.2085,81.4,1.6,ml,,,,0.5,ak,ak024fec0arv,2024-11-30T18:45:35.558Z,"29 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-11-30T18:40:35.900Z,19.479833333333,-155.3975,20.59,4.02,ml,63,34,0.01713,0.12,hv,hv74548332,2024-11-30T23:42:43.309Z,"17 km WNW of Volcano, Hawaii",earthquake,0.31,0.48,0.31970785712803,51,reviewed,hv,hv
+2024-11-30T18:40:35.900Z,19.479833333333,-155.3975,20.59,4.02,ml,63,34,0.01713,0.12,hv,hv74548332,2024-12-01T00:10:30.848Z,"17 km WNW of Volcano, Hawaii",earthquake,0.31,0.48,0.31970785712803,51,reviewed,hv,hv
 2024-11-30T18:37:24.607Z,61.9005,-151.2621,67.3,1.2,ml,,,,0.53,ak,ak024febz1po,2024-11-30T18:40:00.650Z,"12 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-30T18:34:56.546Z,-18.3012,-69.6103,111.387,4.8,mb,76,70,0.698,1.04,us,us7000nv60,2024-11-30T19:13:13.040Z,"69 km SSE of Palca, Peru",earthquake,6.91,6.16,0.039,204,reviewed,us,us
 2024-11-30T18:21:14.927Z,62.745,-148.7396,11.8,1.7,ml,,,,0.83,ak,ak024febvli1,2024-11-30T18:35:55.306Z,"72 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
