@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-03T20:58:42.320Z,33.2280006,-116.7320023,11.08,1.08,ml,28,44,0.0238,0.17,ci,ci40992944,2024-12-03T21:01:09.765Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.38,0.68,0.255,9,automatic,ci,ci
 2024-12-03T20:46:34.240Z,38.837333679199,-122.80766296387,2.210000038147,1.08,md,21,52,0.01357,0.02,nc,nc75094611,2024-12-03T20:57:15.755Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.49000001,0.13,22,automatic,nc,nc
 2024-12-03T20:43:01.677Z,59.6295,-153.1164,90.4,1.9,ml,,,,1.05,ak,ak024fjbt6xj,2024-12-03T20:44:57.441Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-03T20:32:32.540Z,19.391000747681,-155.13200378418,2.4100000858307,1.78,ml,23,125,0.008708,0.159999996,hv,hv74554707,2024-12-03T20:35:24.900Z,"8 km S of Fern Forest, Hawaii",earthquake,0.76,0.300000012,0.23,3,automatic,hv,hv
@@ -42,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T16:13:22.020Z,33.9711685,-117.1538315,7.95,1.26,ml,30,56,0.1426,0.19,ci,ci40992648,2024-12-03T16:23:57.880Z,"8 km NE of Moreno Valley, CA",earthquake,0.39,2.79,0.27,10,automatic,ci,ci
 2024-12-03T16:09:11.319Z,4.8191,126.4094,12.965,5.2,mww,141,35,2.383,0.85,us,us7000nvnb,2024-12-03T16:28:48.040Z,"123 km ESE of Sarangani, Philippines",earthquake,5.82,4.256,0.068,21,reviewed,us,us
 2024-12-03T15:48:42.300Z,17.895,-66.928666666667,12.55,3.14,md,23,212,0.07911,0.15,pr,pr71467663,2024-12-03T16:05:08.090Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.54,0.28,0.10504087102674,14,reviewed,pr,pr
+2024-12-03T15:47:45.860Z,35.77,-121.1905,8.34,0.97,md,12,181,0.09251,0.04,nc,nc75094511,2024-12-03T21:00:21.129Z,"14 km N of San Simeon, CA",earthquake,0.26,0.64,0.232,7,reviewed,nc,nc
 2024-12-03T15:46:07.745Z,62.0374,-150.0623,43.7,1.6,ml,,,,1.18,ak,ak024fj8unzh,2024-12-03T15:48:21.181Z,"17 km SW of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-03T15:36:15.360Z,38.507666666667,-112.8875,1.75,0.85,md,16,58,0.006116,0.12,uu,uu80094066,2024-12-03T18:53:21.860Z,"16 km NE of Milford, Utah",earthquake,0.31,0.43,0.42559909999753,6,reviewed,uu,uu
 2024-12-03T15:31:35.271Z,61.8135,-150.1698,8,1.8,ml,,,,0.52,ak,ak024fj8riwo,2024-12-03T15:33:13.854Z,"10 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -260,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T21:08:24.600Z,36.915668487549,-122.19000244141,4.4400000572205,1.81,md,7,192,0.1156,0.03,nc,nc75094186,2024-12-02T23:59:31.086Z,"14 km SSW of Bonny Doon, CA",earthquake,0.76,1.70000005,0.12,5,automatic,nc,nc
 2024-12-02T21:07:41.140Z,33.3316667,-117.1456667,3.65,1.07,ml,45,62,0.04873,0.2,ci,ci40992168,2024-12-03T17:01:16.308Z,"7 km WSW of Pala, CA",earthquake,0.23,0.81,0.113,21,reviewed,ci,ci
 2024-12-02T21:05:53.170Z,38.804332733154,-122.73516845703,1.8500000238419,1.2,md,17,116,0.01953,0.03,nc,nc75094181,2024-12-02T23:32:17.917Z,"2 km SW of Cobb, CA",earthquake,0.31,0.550000012,0.15,17,automatic,nc,nc
-2024-12-02T21:01:54.950Z,19.383333206177,-155.12399291992,2.0599999427795,1.83,ml,23,95,0.002036,0.119999997,hv,hv74552117,2024-12-02T21:04:47.670Z,"9 km S of Fern Forest, Hawaii",earthquake,0.55,0.230000004,0.19,3,automatic,hv,hv
-2024-12-02T21:00:20.950Z,32.5986667,-117.0028333,-0.43,1.36,ml,28,206,0.06197,0.24,ci,ci40992160,2024-12-03T16:42:00.914Z,"5 km SE of Chula Vista, CA",quarry blast,1.01,31.61,0.129,7,reviewed,ci,ci
