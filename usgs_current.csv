@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-03T02:44:48.944Z,60.9178,-150.8716,16.4,2,ml,,,,0.33,ak,ak024fj13pem,2024-12-03T02:46:21.750Z,"9 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-03T02:13:15.140Z,19.339500427246,-155.49366760254,6.5300002098083,2.30999994,md,28,48,0.04726,0.159999996,hv,hv74552687,2024-12-03T02:14:43.700Z,"15 km N of Pāhala, Hawaii",earthquake,0.36,0.920000017,0.25,6,automatic,hv,hv
 2024-12-03T02:12:59.730Z,38.799667358398,-122.77183532715,3.2300000190735,1.43,md,30,76,0.009521,0.03,nc,nc75094311,2024-12-03T02:16:21.490Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.419999987,0.21,30,automatic,nc,nc
 2024-12-03T02:11:19.446Z,63.0717,-151.0523,125.9,2,ml,,,,0.38,ak,ak024fj0wki0,2024-12-03T02:13:45.929Z,"62 km SSE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T17:25:01.080Z,38.786499023438,-122.76716613769,2.1199998855591,1.09,md,17,81,0.01526,0.03,nc,nc75094066,2024-12-02T17:54:29.962Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.540000021,0.18,16,automatic,nc,nc
 2024-12-02T17:21:25.335Z,61.6003,-151.676,86.4,2.1,ml,,,,0.5,ak,ak024fhmcvpl,2024-12-02T17:23:54.235Z,"45 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-02T17:17:51.831Z,31.66,-104.433,3.7423,1.9,ml,14,71,0.1,0.4,tx,tx2024xrfg,2024-12-02T17:31:26.640Z,"57 km S of Whites City, New Mexico",earthquake,0,2.1042931079865,0.2,8,automatic,tx,tx
-2024-12-02T17:04:56.010Z,19.371334075928,-155.88217163086,22.559999465942,2.41,ml,50,227,0.1082,0.189999998,hv,hv74551782,2024-12-02T17:21:38.166Z,"9 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.57,1.14999998,0.77,7,automatic,hv,hv
+2024-12-02T17:04:55.950Z,19.383,-155.89383333333,20.38,2.48,ml,30,169,0.1214,0.14,hv,hv74551782,2024-12-03T02:48:14.718Z,"8 km SSW of Honaunau-Napoopoo, Hawaii",earthquake,0.51,1.15,0.16869179536738,17,reviewed,hv,hv
 2024-12-02T16:57:44.724Z,64.9434,-148.6336,9.1,1.2,ml,,,,0.45,ak,ak024fhlz7d4,2024-12-02T16:59:15.878Z,"31 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-02T16:12:31.970Z,38.801998138428,-122.77233123779,1.5,0.72,md,9,94,0.009955,0.03,nc,nc75094046,2024-12-02T18:09:35.077Z,"3 km NNW of The Geysers, CA",earthquake,0.37,0.779999971,0.08,10,automatic,nc,nc
 2024-12-02T16:07:06.880Z,19.363,-155.29333333333,1.83,1.81,ml,30,59,0.02184,0.1,hv,hv74551722,2024-12-02T18:09:34.180Z,"10 km SW of Volcano, Hawaii",earthquake,0.19,0.26,0.37729278193009,21,reviewed,hv,hv
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T03:13:43.270Z,38.833666666667,-122.80966666667,2.17,0.41,md,14,61,0.01026,0.02,nc,nc75093861,2024-12-02T10:17:18.705Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.76,0.204,14,reviewed,nc,nc
 2024-12-02T02:57:58.150Z,36.12,-118.007,1.19,0.95,ml,17,101,0.1232,0.15,ci,ci40991648,2024-12-02T17:12:11.337Z,"10 km NNW of Coso Junction, CA",earthquake,0.24,0.46,0.437,10,reviewed,ci,ci
 2024-12-02T02:57:36.980Z,38.821833333333,-122.80883333333,2.89,0.4,md,20,43,0.001836,0.02,nc,nc75093856,2024-12-02T10:24:28.755Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.48,0.193,20,reviewed,nc,nc
-2024-12-02T02:47:50.750Z,31.751,-116.016,18.91,2.75,ml,9,65,0.2596,0.11,ci,ci40991640,2024-12-02T16:35:54.254Z,"52 km E of Maneadero, B.C., MX",earthquake,0.23,0.7,0.281,5,reviewed,ci,ci
-2024-12-02T02:47:48.780Z,33.3568333,-116.3621667,13.15,1.14,ml,48,52,0.03031,0.19,ci,ci40991632,2024-12-02T02:52:51.746Z,"11 km N of Borrego Springs, CA",earthquake,0.22,0.63,0.205,9,automatic,ci,ci
