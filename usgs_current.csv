@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-04T18:46:54.005Z,39.1554,-119.0387,10.4,3.8,ml,19,85.75,0.231,0.1685,nn,nn00888275,2024-12-04T18:56:51.730Z,"21 km NNE of Yerington, Nevada",earthquake,,1.1,0.19,8,automatic,nn,nn
+2024-12-04T18:46:54.507Z,39.1659,-119.0321,7.4,4,ml,14,43.62,0.243,0.1196,nn,nn00888275,2024-12-04T19:03:21.971Z,"22 km NNE of Yerington, Nevada",earthquake,,5.3,0.15,2,reviewed,nn,nn
 2024-12-04T18:38:32.051Z,61.8135,-150.194,2.7,1.4,ml,,,,0.23,ak,ak024fky4nz9,2024-12-04T18:40:03.688Z,"11 km NW of Willow, Alaska",earthquake,,9.7,,,automatic,ak,ak
 2024-12-04T18:36:12.800Z,36.42133333,-96.92,6.58,1.46,ml,71,44,0.02069593875,0.3,ok,ok2024xuyw,2024-12-04T18:53:59.115Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.24,31,reviewed,ok,ok
 2024-12-04T18:14:42.710Z,46.855499267578,-121.750831604,2.0699999332428,0.769999981,md,19,84,,0.0599999987,uw,uw62064131,2024-12-04T18:16:12.990Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.829999983,,1,automatic,uw,uw
@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T16:34:53.073Z,51.2951,-179.51,14.4,4.3,ml,,,,0.52,ak,ak024fkwwzhr,2024-12-04T17:06:13.040Z,"209 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-04T16:32:40.590Z,38.818832397461,-122.78849792481,1.6100000143051,0.24,md,9,81,0.00826,0.01,nc,nc75095076,2024-12-04T18:32:17.726Z,"5 km NNW of The Geysers, CA",earthquake,0.43,0.649999976,0.11,10,automatic,nc,nc
 2024-12-04T16:22:24.458Z,63.2379,-150.4417,108.3,1.5,ml,,,,0.14,ak,ak024fkwucq5,2024-12-04T16:24:21.018Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-04T16:16:24.020Z,38.507833333333,-112.88733333333,2.1,1.2,md,17,58,0.006268,0.13,uu,uu80094916,2024-12-04T19:02:21.240Z,"16 km NE of Milford, Utah",earthquake,0.27,0.48,0.41716708796226,9,reviewed,uu,uu
 2024-12-04T16:16:02.050Z,38.789001464844,-122.75966644287,13.75,0.95,md,7,107,0.01161,0.06,nc,nc75095066,2024-12-04T18:07:14.552Z,"1 km  of The Geysers, CA",earthquake,2.39,8.28999996,0.2,6,automatic,nc,nc
 2024-12-04T16:02:13.750Z,19.145999908447,-155.49249267578,31.35000038147,2.20000005,md,53,151,0.03021,0.119999997,hv,hv74555982,2024-12-04T16:03:58.010Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.45,0.560000002,0.319999993,18,automatic,hv,hv
 2024-12-04T15:59:47.940Z,38.822666168213,-122.84200286865,1.789999961853,1.09,md,17,102,0.005465,0.02,nc,nc75095061,2024-12-04T17:47:23.408Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.17,20,automatic,nc,nc
@@ -173,7 +174,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:33:12.400Z,33.7,-116.8233333,16.54,0.8,ml,45,48,0.07274,0.2,ci,ci40993288,2024-12-04T04:37:44.746Z,"8 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.222,23,automatic,ci,ci
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.500Z,33.6955,-116.8191667,14.99,1.38,ml,68,21,0.06956,0.2,ci,ci40993264,2024-12-04T04:23:28.130Z,"9 km SE of Valle Vista, CA",earthquake,0.15,0.34,0.268,26,automatic,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -288,4 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T19:40:37.600Z,34.6343333,-117.1136667,-1.11,1.48,ml,32,47,0.1927,0.18,ci,ci40992840,2024-12-04T02:08:41.396Z,"16 km NNE of Apple Valley, CA",earthquake,0.22,0.61,0.17,32,automatic,ci,ci
 2024-12-03T19:33:06.640Z,38.119333333333,-122.17883333333,-0.11,1.3,md,13,93,0.02362,0.11,nc,nc75094571,2024-12-03T21:26:58.354Z,"5 km E of Vallejo, CA",quarry blast,0.24,31.61,0.243,14,reviewed,nc,nc
 2024-12-03T19:22:39.160Z,33.1918333,-116.1795,6.81,2.73,ml,90,24,0.03734,0.2,ci,ci40992832,2024-12-04T16:07:02.733Z,"7 km NW of Ocotillo Wells, CA",earthquake,0.12,0.41,0.193,25,automatic,ci,ci
-2024-12-03T19:03:34.663Z,51.0248,-179.2933,25.8,3.7,ml,,,,0.55,ak,ak024fjaz909,2024-12-03T22:14:27.807Z,"207 km WSW of Adak, Alaska",earthquake,,2.8,,,reviewed,ak,ak
