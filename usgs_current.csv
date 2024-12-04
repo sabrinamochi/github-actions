@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-04T18:14:42.710Z,46.855499267578,-121.750831604,2.0699999332428,0.769999981,md,19,84,,0.0599999987,uw,uw62064131,2024-12-04T18:16:12.990Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.829999983,,1,automatic,uw,uw
 2024-12-04T18:13:36.940Z,35.6206667,-117.4475,8.43,0.77,ml,18,56,0.03614,0.15,ci,ci40993816,2024-12-04T18:20:53.584Z,"17 km SSW of Searles Valley, CA",earthquake,0.29,0.52,0.132,6,automatic,ci,ci
-2024-12-04T18:05:51.238Z,31.66,-104.149,2.2744,1.4,ml,16,87,0.1,0.6,tx,tx2024xuxw,2024-12-04T18:15:25.946Z,"51 km NW of Toyah, Texas",earthquake,0,1.2820996046066,0.2,12,automatic,tx,tx
+2024-12-04T18:05:50.913Z,31.667,-104.135,2.9189,1.5,ml,18,66,0.1,0.6,tx,tx2024xuxw,2024-12-04T18:29:43.065Z,"50 km NW of Toyah, Texas",earthquake,0,1.1858525276184,0.2,13,automatic,tx,tx
 2024-12-04T18:05:17.880Z,19.202833333333,-155.4885,30.89,1.51,md,26,190,0.09265,0.13,hv,hv74556082,2024-12-04T18:17:57.970Z,"1 km W of Pāhala, Hawaii",earthquake,0.73,0.65,0.062613687265669,11,reviewed,hv,hv
 2024-12-04T18:03:18.867Z,31.79,-102.157,0.2508,2.2,ml,5,227,0.4,0.5,tx,tx2024xuxu,2024-12-04T18:08:28.864Z,"20 km ESE of Odessa, Texas",earthquake,0,5.6244983673096,0.6,5,automatic,tx,tx
 2024-12-04T17:56:51.920Z,19.192167282104,-155.48483276367,29.790000915527,2.16000009,md,36,224,0.0424,0.170000002,hv,hv74556077,2024-12-04T17:58:33.310Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.81,0.629999995,0.469999999,5,automatic,hv,hv
@@ -164,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:33:12.400Z,33.7,-116.8233333,16.54,0.8,ml,45,48,0.07274,0.2,ci,ci40993288,2024-12-04T04:37:44.746Z,"8 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.222,23,automatic,ci,ci
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.500Z,33.6955,-116.8191667,14.99,1.38,ml,68,21,0.06956,0.2,ci,ci40993264,2024-12-04T04:23:28.130Z,"9 km SE of Valle Vista, CA",earthquake,0.15,0.34,0.268,26,automatic,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -198,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T01:17:42.370Z,19.328832626343,-155.19166564941,3.329999923706,1.77999997,md,45,110,0.05006,0.209999993,hv,hv74555137,2024-12-04T01:19:15.760Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,1.07000005,0.289999992,24,automatic,hv,hv
 2024-12-04T01:16:09.180Z,38.831665039062,-122.80750274658,2.5499999523163,0.44,md,8,98,0.008499,0.04,nc,nc75094726,2024-12-04T03:12:15.408Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.09000003,0.22,8,automatic,nc,nc
 2024-12-04T01:07:18.387Z,37.0203,-116.3878,7.5,0.6,ml,16,68.29,0.025,0.1118,nn,nn00888246,2024-12-04T18:11:12.841Z,"35 km ENE of Beatty, Nevada",earthquake,,1.1,0.4,9,reviewed,nn,nn
+2024-12-04T01:05:55.580Z,19.249,-155.41016666667,30.13,1.08,ml,23,75,0.01655,0.12,hv,hv74555127,2024-12-04T18:29:45.940Z,"8 km NE of Pāhala, Hawaii",earthquake,0.93,0.6,0.14077222790651,5,reviewed,hv,hv
 2024-12-04T01:03:56.321Z,37.0411,-116.3768,7.5,0.2,ml,10,83.31,0.047,0.2216,nn,nn00888244,2024-12-04T01:05:57.186Z,"37 km ENE of Beatty, Nevada",earthquake,,1,0.36,7,automatic,nn,nn
 2024-12-04T00:47:02.522Z,36.69,-116.0731,3.9,-0.3,ml,17,81.98,0.021,0.0529,nn,nn00888241,2024-12-04T03:10:17.360Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.13,7,reviewed,nn,nn
 2024-12-04T00:38:44.330Z,38.834499359131,-122.80999755859,2.0599999427795,0.22,md,13,55,0.01109,0.02,nc,nc75094711,2024-12-04T01:09:30.544Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.860000014,0.08,12,automatic,nc,nc
@@ -280,5 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T18:51:28.800Z,46.202666666667,-122.18883333333,-0.69,-0.23,mh,6,106,0.003211,0.11,uw,uw62063876,2024-12-04T04:48:09.640Z,"38 km NNE of Amboy, Washington",earthquake,0.67,0.47,,0,reviewed,uw,uw
 2024-12-03T18:48:30.390Z,37.136666666667,-121.61366666667,5.06,0.49,md,13,72,0.02863,0.13,nc,nc75094561,2024-12-03T21:34:30.017Z,"4 km E of Morgan Hill, CA",earthquake,0.49,0.99,0.346,11,reviewed,nc,nc
 2024-12-03T18:41:16.690Z,37.94416809082,-122.11116790772,9.579999923706,1.4,md,14,83,0.04115,0.1,nc,nc75094556,2024-12-03T19:29:29.135Z,"4 km W of Pleasant Hill, CA",earthquake,0.37,0.670000017,0.2,10,automatic,nc,nc
-2024-12-03T18:30:41.140Z,37.263500213623,-121.64099884033,5.0199999809265,1.31,md,12,86,0.02602,0.05,nc,nc75094546,2024-12-03T19:09:29.005Z,"15 km NNE of Morgan Hill, CA",earthquake,0.27,0.699999988,0.14,9,automatic,nc,nc
-2024-12-03T18:27:00.956Z,8.4949,126.8693,35,4.9,mb,57,111,1.908,0.78,us,us7000nvpv,2024-12-03T19:59:54.040Z,"60 km ENE of Hinatuan, Philippines",earthquake,6.53,1.873,0.085,43,reviewed,us,us
