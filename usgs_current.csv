@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-04T21:59:32.640Z,33.7374992,-117.1064987,8.95,1.56,ml,20,77,0.04171,0.33,ci,ci40994144,2024-12-04T22:01:48.194Z,"3 km W of Green Acres, CA",earthquake,0.73,1.39,0.209,7,automatic,ci,ci
 2024-12-04T21:49:09.470Z,33.2915,-116.7426667,13.12,0.68,ml,31,45,0.05699,0.14,ci,ci40994120,2024-12-04T21:54:06.141Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.23,0.48,0.093,18,automatic,ci,ci
 2024-12-04T21:42:34.720Z,19.391834259033,-155.26333618164,2.4100000858307,1.74000001,md,22,51,0.006863,0.129999995,hv,hv74556317,2024-12-04T21:45:25.260Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.5,19,automatic,hv,hv
 2024-12-04T21:42:28.000Z,38.788333892822,-122.76699829102,2.1800000667572,1.05,md,14,77,0.01353,0.02,nc,nc75095176,2024-12-04T21:44:05.131Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.50999999,0.27,14,automatic,nc,nc
@@ -171,7 +172,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T07:42:53.546Z,-15.7357,-174.3183,180.994,4.9,mb,52,53,3.052,0.66,us,us7000nvu1,2024-12-04T08:06:33.040Z,"60 km WNW of Hihifo, Tonga",earthquake,9.34,7.496,0.064,80,reviewed,us,us
 2024-12-04T07:36:34.230Z,38.509666666667,-112.88683333333,2.31,0.96,md,17,58,0.006089,0.12,uu,uu80094661,2024-12-04T14:50:44.880Z,"16 km NE of Milford, Utah",earthquake,0.27,0.44,0.62764321633435,7,reviewed,uu,uu
 2024-12-04T07:35:18.976Z,31.683,-104.099,5.4499,1.4,ml,23,84,0,0.3,tx,tx2024xudu,2024-12-04T08:06:06.933Z,"47 km W of Mentone, Texas",earthquake,0,1.6991951465607,0.2,17,automatic,tx,tx
-2024-12-04T07:35:15.323Z,37.4336,-115.1928,8.2,0.8,ml,8,210.42,0.116,0.1838,nn,nn00888259,2024-12-04T07:37:28.696Z,"8 km NNW of Alamo, Nevada",earthquake,,1.7,0.57,7,automatic,nn,nn
 2024-12-04T07:35:02.930Z,38.844665527344,-122.83233642578,1.3999999761581,0.72,md,14,125,0.006548,0.02,nc,nc75094826,2024-12-04T08:59:27.862Z,"10 km WNW of Cobb, CA",earthquake,0.25,0.550000012,0.15,14,automatic,nc,nc
 2024-12-04T07:19:01.107Z,31.681,-104.101,4.6896,1.4,ml,17,82,0,0.2,tx,tx2024xude,2024-12-04T07:33:35.606Z,"47 km W of Mentone, Texas",earthquake,0,1.2598036527634,0.2,13,automatic,tx,tx
 2024-12-04T07:15:00.892Z,60.312,-151.4499,34.1,1.9,ml,,,,0.59,ak,ak024fkrfwg9,2024-12-04T07:16:47.110Z,"9 km NNW of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -297,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T22:14:43.400Z,38.790668487549,-122.78266906738,2.5099999904633,0.72,md,9,127,0.004807,0.02,nc,nc75094626,2024-12-03T22:34:28.441Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.699999988,0.05,9,automatic,nc,nc
 2024-12-03T22:13:02.850Z,17.954,-67.000666666667,12.69,2.15,md,6,212,0.04421,0.08,pr,pr71467708,2024-12-03T22:32:01.620Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.72,0.56,0.031901720516604,5,reviewed,pr,pr
 2024-12-03T22:07:53.349Z,32.408,-101.914,6.7453,0.9,ml,11,78,0,0.3,tx,tx2024xtks,2024-12-03T22:15:27.876Z,"22 km SW of Ackerly, Texas",earthquake,0,3.5321655273438,0.2,7,automatic,tx,tx
-2024-12-03T22:00:35.590Z,17.953666666667,-66.8375,13.79,2.18,md,7,207,0.03474,0.06,pr,pr71467698,2024-12-03T22:11:17.390Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.68,0.18,0.016945846452078,2,reviewed,pr,pr
