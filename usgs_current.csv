@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-04T16:52:15.120Z,33.1899986,-115.6279984,5.31,1.75,ml,20,112,0.01623,0.25,ci,ci40993672,2024-12-04T16:54:20.637Z,"12 km WSW of Niland, CA",earthquake,0.44,0.72,0.572,5,automatic,ci,ci
+2024-12-04T16:52:15.630Z,33.1346667,-115.6403333,8.81,1.56,ml,5,294,0.7777,0.17,ci,ci40993672,2024-12-04T16:55:42.743Z,"11 km N of Westmorland, CA",earthquake,2.9,11.86,0.272,28,automatic,ci,ci
 2024-12-04T16:51:13.924Z,58.1876,-155.2567,0,0.4,ml,,,,0.3,ak,ak024fkx0jog,2024-12-04T16:53:34.874Z,"83 km NW of Karluk, Alaska",earthquake,,95,,,automatic,ak,ak
 2024-12-04T16:41:02.120Z,33.7201667,-116.7586667,22.43,0.91,ml,7,161,0.3306,0.09,ci,ci40993640,2024-12-04T16:46:21.539Z,"4 km WSW of Idyllwild, CA",earthquake,0.49,1.65,0.333,24,automatic,ci,ci
 2024-12-04T16:40:54.350Z,38.8313331604,-122.81749725342,1.8899999856949,0.72,md,16,67,0.009821,0.01,nc,nc75095091,2024-12-04T16:42:30.786Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.32,17,automatic,nc,nc
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T02:39:13.780Z,19.076,-66.5695,39,3.6,md,20,248,0.6002,0.41,pr,pr2024339000,2024-12-04T02:56:22.393Z,"68 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.36,5.77,0.07,18,reviewed,pr,pr
 2024-12-04T02:04:46.498Z,61.67,-149.4609,33.9,2.5,ml,,,,0.46,ak,ak024fkoeh2h,2024-12-04T02:17:21.040Z,"5 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-04T02:02:39.770Z,36.186,-118.0538333,1.8,0.87,ml,21,60,0.1749,0.19,ci,ci40993200,2024-12-04T02:20:38.216Z,"12 km SSW of Olancha, CA",earthquake,0.23,0.99,0.162,9,automatic,ci,ci
-2024-12-04T01:56:57.937Z,18.3418,80.4451,10,5,mb,63,52,9.886,0.79,us,us7000nvs3,2024-12-04T16:43:53.464Z,"55 km ENE of Mulugu, India",earthquake,10.44,1.894,0.064,77,reviewed,us,us
+2024-12-04T01:56:57.937Z,18.3418,80.4451,10,5,mb,63,52,9.886,0.79,us,us7000nvs3,2024-12-04T16:55:40.810Z,"55 km ENE of Mulugu, India",earthquake,10.44,1.894,0.064,77,reviewed,us,us
 2024-12-04T01:33:21.645Z,37.026,-116.3855,8.1,0,ml,8,78.92,0.031,0.0635,nn,nn00888249,2024-12-04T01:35:27.328Z,"35 km ENE of Beatty, Nevada",earthquake,,1,0.58,6,automatic,nn,nn
 2024-12-04T01:26:23.220Z,35.9226667,-117.676,3.18,1.13,ml,28,46,0.03265,0.13,ci,ci40993192,2024-12-04T01:29:50.875Z,"21 km E of Little Lake, CA",earthquake,0.14,0.34,0.138,18,automatic,ci,ci
 2024-12-04T01:17:42.370Z,19.328832626343,-155.19166564941,3.329999923706,1.77999997,md,45,110,0.05006,0.209999993,hv,hv74555137,2024-12-04T01:19:15.760Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,1.07000005,0.289999992,24,automatic,hv,hv
@@ -275,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T17:04:12.370Z,47.7785,-121.927,22.92,1.29,ml,23,62,0.08015,0.17,uw,uw62063846,2024-12-04T06:30:17.690Z,"5 km NE of Duvall, Washington",earthquake,0.37,0.43,0.14431014962196,13,reviewed,uw,uw
 2024-12-03T16:59:02.930Z,38.506166666667,-112.88733333333,2.13,0.93,md,14,58,0.004613,0.09,uu,uu80094126,2024-12-03T18:28:56.830Z,"16 km NE of Milford, Utah",earthquake,0.34,0.43,0.34375501933078,4,reviewed,uu,uu
 2024-12-03T16:57:07.019Z,53.8693,160.5518,62.77,4.9,mb,150,99,1.419,0.76,us,us7000nvpl,2024-12-03T19:17:33.040Z,"155 km SE of Mil’kovo, Russia",earthquake,7.69,6.272,0.031,329,reviewed,us,us
-2024-12-03T16:55:18.430Z,19.282,-65.124666666667,27.42,3.39,md,17,270,0.9383,0.28,pr,pr71467683,2024-12-03T17:20:28.080Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,18.89,0.061293206202889,9,reviewed,pr,pr
