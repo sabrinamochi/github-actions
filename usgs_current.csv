@@ -102,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T13:10:22.000Z,40.4705,-125.87183333333,10,4.23,mw,103,256,1.17,0.3,nc,nc75094976,2024-12-04T20:37:22.571Z,"135 km WNW of Petrolia, CA",earthquake,1.63,31.61,,19,reviewed,nc,nc
 2024-12-04T13:09:20.710Z,38.791831970215,-122.7773361206,1.3600000143051,1.08,md,21,79,0.008378,0.03,nc,nc75094971,2024-12-04T13:29:31.649Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.430000007,0.1,23,automatic,nc,nc
 2024-12-04T13:02:50.360Z,37.293334960938,-119.95433044434,19.829999923706,2.8,md,34,44,0.1743,0.21,nc,nc75094966,2024-12-04T16:00:15.432Z,"20 km SSW of Bootjack, CA",earthquake,0.36,0.400000006,0.22,31,automatic,nc,nc
+2024-12-04T12:57:10.510Z,47.8745,-112.98766666667,4.96,0.78,ml,9,107,0.275,0.14,mb,mb90067643,2024-12-04T23:13:15.270Z,"46 km SSW of Heart Butte, Montana",earthquake,1.29,9.47,0.25996788749852,5,reviewed,mb,mb
 2024-12-04T12:39:24.830Z,38.789001464844,-122.7679977417,1.6200000047684,0.76,md,10,124,0.01329,0.02,nc,nc75094961,2024-12-04T14:49:28.205Z,"2 km NNW of The Geysers, CA",earthquake,0.36,0.579999983,0.1,9,automatic,nc,nc
 2024-12-04T12:33:46.460Z,32.7716667,-115.8343333,6.16,1.36,ml,33,52,0.1189,0.23,ci,ci40993488,2024-12-04T12:50:26.214Z,"15 km ENE of Ocotillo, CA",earthquake,0.26,1.41,0.29,19,automatic,ci,ci
 2024-12-04T12:28:30.860Z,19.145833969116,-155.486328125,26.290000915527,2.02999997,md,18,262,0.1573,0.0700000003,hv,hv74555797,2024-12-04T12:30:04.220Z,"6 km S of Pāhala, Hawaii",earthquake,0.94,1.72000003,0.319999993,3,automatic,hv,hv
@@ -223,6 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:32:32.710Z,47.609333333333,-121.80833333333,17.56,0.86,ml,13,126,0.1001,0.13,uw,uw62063991,2024-12-04T19:54:24.950Z,"7 km NE of Fall City, Washington",earthquake,0.37,0.54,0.12493875700405,7,reviewed,uw,uw
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.520Z,33.6951667,-116.8145,14.75,1.34,ml,61,28,0.07068,0.18,ci,ci40993272,2024-12-04T20:48:45.420Z,"9 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.222,36,reviewed,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -289,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T23:32:54.480Z,38.822666168213,-122.81133270264,2.670000076294,0.74,md,14,62,0.001223,0.01,nc,nc75094661,2024-12-04T01:42:16.765Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.639999986,0.15,16,automatic,nc,nc
 2024-12-03T23:28:57.369Z,62.5515,-149.6293,11.6,1,ml,,,,0.38,ak,ak024fjdihzz,2024-12-04T00:13:51.724Z,"26 km ENE of Chase, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-12-03T23:28:51.770Z,53.3315,-165.1921,23,2.1,ml,,,,0.3,ak,ak024fjdihp3,2024-12-04T00:11:08.151Z,"97 km SSE of Akutan, Alaska",earthquake,,14.6,,,reviewed,ak,ak
-2024-12-03T23:14:32.630Z,32.922,-115.5068333,10.72,2.32,ml,37,43,0.04973,0.3,ci,ci40993112,2024-12-04T00:29:09.887Z,"7 km SSE of Brawley, CA",earthquake,0.33,0.65,0.319,27,automatic,ci,ci
