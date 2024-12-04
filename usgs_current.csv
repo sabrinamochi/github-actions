@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T17:02:28.060Z,17.852166666667,-66.957166666667,9.97,2.23,md,6,259,0.143,0.23,pr,pr71467818,2024-12-04T17:47:03.330Z,"14 km SSW of Guánica, Puerto Rico",earthquake,1.32,3.04,0.042113191185012,5,reviewed,pr,pr
 2024-12-04T17:01:13.360Z,19.354000091553,-155.27233886719,28.280000686646,2.48000002,md,15,134,0.01938,0.0900000036,hv,hv74556017,2024-12-04T17:02:47.420Z,"10 km SSW of Volcano, Hawaii",earthquake,0.74,0.790000021,0.389999986,3,automatic,hv,hv
 2024-12-04T16:56:42.626Z,59.878,-152.6607,80.5,1.9,ml,,,,0.19,ak,ak024fkx1oh2,2024-12-04T16:58:31.238Z,"47 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-04T16:52:15.630Z,33.1346667,-115.6403333,8.81,1.56,ml,5,294,0.7777,0.17,ci,ci40993672,2024-12-04T16:55:42.743Z,"11 km N of Westmorland, CA",earthquake,2.9,11.86,0.272,28,automatic,ci,ci
+2024-12-04T16:52:15.440Z,33.1515,-115.6483333,4.04,1.48,ml,28,71,0.03772,0.23,ci,ci40993672,2024-12-04T17:50:53.466Z,"13 km WNW of Calipatria, CA",earthquake,0.29,0.68,0.14,17,reviewed,ci,ci
 2024-12-04T16:41:02.120Z,33.7201667,-116.7586667,22.43,0.91,ml,7,161,0.3306,0.09,ci,ci40993640,2024-12-04T16:46:21.539Z,"4 km WSW of Idyllwild, CA",earthquake,0.49,1.65,0.333,24,automatic,ci,ci
 2024-12-04T16:40:54.350Z,38.8313331604,-122.81749725342,1.8899999856949,0.72,md,16,67,0.009821,0.01,nc,nc75095091,2024-12-04T17:07:22.137Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.32,17,automatic,nc,nc
 2024-12-04T16:38:14.650Z,39.382999420166,-122.15266418457,27.75,2.72,md,12,98,0.1197,0.16,nc,nc75095086,2024-12-04T17:21:15.186Z,"12 km NNE of Maxwell, CA",earthquake,0.75,1.87,0.18,9,automatic,nc,nc
@@ -154,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:33:12.400Z,33.7,-116.8233333,16.54,0.8,ml,45,48,0.07274,0.2,ci,ci40993288,2024-12-04T04:37:44.746Z,"8 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.222,23,automatic,ci,ci
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.500Z,33.6955,-116.8191667,14.99,1.38,ml,68,21,0.06956,0.2,ci,ci40993264,2024-12-04T04:23:28.130Z,"9 km SE of Valle Vista, CA",earthquake,0.15,0.34,0.268,26,automatic,ci,ci
 2024-12-04T04:12:07.420Z,19.385166168213,-155.17883300781,3.2200000286102,1.97,ml,38,74,0.01065,0.330000013,hv,hv74555302,2024-12-04T04:14:59.910Z,"8 km SE of Volcano, Hawaii",earthquake,0.65,1.15999997,0.2,7,automatic,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -271,7 +272,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T18:30:41.140Z,37.263500213623,-121.64099884033,5.0199999809265,1.31,md,12,86,0.02602,0.05,nc,nc75094546,2024-12-03T19:09:29.005Z,"15 km NNE of Morgan Hill, CA",earthquake,0.27,0.699999988,0.14,9,automatic,nc,nc
 2024-12-03T18:27:00.956Z,8.4949,126.8693,35,4.9,mb,57,111,1.908,0.78,us,us7000nvpv,2024-12-03T19:59:54.040Z,"60 km ENE of Hinatuan, Philippines",earthquake,6.53,1.873,0.085,43,reviewed,us,us
 2024-12-03T18:24:47.812Z,36.6415,-115.7402,10.9,0.7,ml,23,140.6,0.179,0.1291,nn,nn00888213,2024-12-03T20:34:44.745Z,"10 km NW of Indian Springs, Nevada",earthquake,,4.1,0.25,6,reviewed,nn,nn
-2024-12-03T18:14:32.119Z,32.411,-101.394,4.4599,1.1,ml,12,71,0,0.3,tx,tx2024xtcv,2024-12-03T18:24:33.581Z,"14 km NNW of Sand Springs, Texas",earthquake,0,1.5329163074493,0.2,9,automatic,tx,tx
+2024-12-03T18:14:32.712Z,32.411,-101.397,5.7861,1,ml,25,67,0,0.1,tx,tx2024xtcv,2024-12-04T17:50:07.687Z,"14 km NNW of Sand Springs, Texas",earthquake,0.46515320901601,0.86111954621177,0.2,12,reviewed,tx,tx
 2024-12-03T18:12:30.830Z,34.6681667,-119.5418333,9.5,1.09,ml,14,99,0.1308,0.15,ci,ci40992768,2024-12-03T18:53:25.151Z,"27 km NNE of Montecito, CA",earthquake,0.3,1.28,0.152,6,reviewed,ci,ci
 2024-12-03T18:03:49.845Z,60.4498,-150.9564,41.4,1.9,ml,,,,0.29,ak,ak024fjaduso,2024-12-03T18:05:24.319Z,"7 km SE of Soldotna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-12-03T18:02:46.970Z,45.925666666667,-111.44383333333,-2,1.14,ml,7,166,0.2766,0.09,mb,mb90067563,2024-12-04T15:44:05.020Z,"4 km NNW of Logan, Montana",quarry blast,0.73,31.61,0.2367336148196,6,reviewed,mb,mb
