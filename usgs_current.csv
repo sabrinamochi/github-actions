@@ -22,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T18:46:54.621Z,39.1604,-119.0411,11.1,3.8,ml,45,43.54,0.234,0.1283,nn,nn00888275,2024-12-04T20:50:18.569Z,"22 km NNE of Yerington, Nevada",earthquake,,0.8,0.32,12,reviewed,nn,nn
 2024-12-04T18:38:32.051Z,61.8135,-150.194,2.7,1.4,ml,,,,0.23,ak,ak024fky4nz9,2024-12-04T18:40:03.688Z,"11 km NW of Willow, Alaska",earthquake,,9.7,,,automatic,ak,ak
 2024-12-04T18:36:12.800Z,36.42133333,-96.92,6.58,1.46,ml,71,44,0.02069593875,0.3,ok,ok2024xuyw,2024-12-04T18:53:59.115Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.24,31,reviewed,ok,ok
+2024-12-04T18:31:26.830Z,33.157,-115.6455,4.23,1.58,ml,11,62,0.03231,0.22,ci,ci40993832,2024-12-04T21:16:41.940Z,"13 km WNW of Calipatria, CA",earthquake,0.44,0.99,0.348,7,reviewed,ci,ci
 2024-12-04T18:14:42.710Z,46.855499267578,-121.750831604,2.0699999332428,0.769999981,md,19,84,,0.0599999987,uw,uw62064131,2024-12-04T18:16:12.990Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.829999983,,1,automatic,uw,uw
 2024-12-04T18:13:36.940Z,35.6206667,-117.4475,8.43,0.77,ml,18,56,0.03614,0.15,ci,ci40993816,2024-12-04T18:20:53.584Z,"17 km SSW of Searles Valley, CA",earthquake,0.29,0.52,0.132,6,automatic,ci,ci
 2024-12-04T18:05:50.641Z,31.679,-104.1,6.0101,1.4,ml,30,45,0,0.1,tx,tx2024xuxw,2024-12-04T19:28:12.565Z,"47 km W of Mentone, Texas",earthquake,0.38299134578112,0.48883600789931,0.2,24,reviewed,tx,tx
@@ -126,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T10:11:44.788Z,36.078,139.8723,73.503,4.8,mb,42,125,1.421,0.57,us,us7000nvuq,2024-12-04T12:24:11.765Z,"3 km NW of Iwai, Japan",earthquake,6.76,7.264,0.125,20,reviewed,us,us
 2024-12-04T10:07:47.270Z,19.376167297363,-155.24349975586,0.25999999046326,1.87,md,19,78,0.00376,0.159999996,hv,hv74555662,2024-12-04T10:09:23.430Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.189999998,0.379999995,15,automatic,hv,hv
 2024-12-04T10:06:04.422Z,31.679,-104.096,5.5487,1.9,ml,23,78,0,0.2,tx,tx2024xuip,2024-12-04T13:21:29.955Z,"47 km W of Mentone, Texas",earthquake,0.53719290387301,0.51815623507398,0.1,20,reviewed,tx,tx
+2024-12-04T09:54:04.170Z,38.507666666667,-112.88483333333,1.93,1.11,md,17,57,0.006242,0.11,uu,uu80094726,2024-12-04T21:22:21.470Z,"16 km NE of Milford, Utah",earthquake,0.27,0.43,0.46604350477755,8,reviewed,uu,uu
 2024-12-04T09:50:25.710Z,38.666999816895,-122.75866699219,5.9200000762939,1.71,md,32,51,0.04368,0.08,nc,nc75094911,2024-12-04T12:09:32.108Z,"11 km ENE of Healdsburg, CA",earthquake,0.24,0.649999976,0.17,29,automatic,nc,nc
 2024-12-04T09:42:51.730Z,44.680833333333,-110.68133333333,7.74,0.13,md,12,85,0.03203,0.11,uu,uu80094711,2024-12-04T14:18:36.190Z,"32 km S of Mammoth, Wyoming",earthquake,0.56,0.88,0.56878192406279,8,reviewed,uu,uu
 2024-12-04T09:35:08.587Z,63.5501,-147.5854,0,1.7,ml,,,,0.91,ak,ak024fksr2kq,2024-12-04T09:36:56.839Z,"68 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -133,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T09:32:20.793Z,48.0132,146.3095,447.745,4.2,mb,89,140,2.628,0.5,us,us7000nvug,2024-12-04T11:55:31.040Z,"270 km ESE of Makarov, Russia",earthquake,13.78,10.727,0.064,68,reviewed,us,us
 2024-12-04T09:14:52.408Z,2.342,127.3682,114.931,4.2,mb,16,153,1.56,0.51,us,us7000nvue,2024-12-04T13:24:21.040Z,"98 km NW of Tobelo, Indonesia",earthquake,12.7,12.713,0.167,10,reviewed,us,us
 2024-12-04T09:12:02.671Z,31.682,-104.091,6.0999,2.2,ml,33,44,0,0.2,tx,tx2024xugr,2024-12-04T14:20:30.954Z,"46 km W of Mentone, Texas",earthquake,0.3377490683816,0.33610879680654,0.2,26,reviewed,tx,tx
-2024-12-04T09:09:09.980Z,35.9112,31.6536,46.593,4.6,mb,55,76,1.638,0.88,us,us7000nvuc,2024-12-04T19:12:36.976Z,"71 km SW of Gazipaşa, Turkey",earthquake,5.99,11.74,0.094,34,reviewed,us,us
+2024-12-04T09:09:09.980Z,35.9112,31.6536,46.593,4.6,mb,55,76,1.638,0.88,us,us7000nvuc,2024-12-04T21:18:48.171Z,"71 km SW of Gazipaşa, Turkey",earthquake,5.99,11.74,0.094,34,reviewed,us,us
 2024-12-04T09:06:22.500Z,38.510666666667,-112.889,2.22,0.9,md,11,107,0.007071,0.08,uu,uu80094701,2024-12-04T19:36:23.060Z,"16 km NE of Milford, Utah",earthquake,0.49,0.47,0.19731684875536,4,reviewed,uu,uu
 2024-12-04T09:05:00.540Z,35.6091667,-117.4743333,9.2,0.69,ml,22,49,0.02468,0.13,ci,ci40993424,2024-12-04T09:09:03.933Z,"18 km E of Ridgecrest, CA",earthquake,0.2,0.4,0.185,7,automatic,ci,ci
 2024-12-04T09:00:35.000Z,38.79033279419,-122.76816558838,2.7300000190735,0.67,md,9,156,0.0157,0.03,nc,nc75094896,2024-12-04T09:27:19.037Z,"2 km NNW of The Geysers, CA",earthquake,0.69,1.10000002,0.11,8,automatic,nc,nc
@@ -202,6 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:32:32.710Z,47.609333333333,-121.80833333333,17.56,0.86,ml,13,126,0.1001,0.13,uw,uw62063991,2024-12-04T19:54:24.950Z,"7 km NE of Fall City, Washington",earthquake,0.37,0.54,0.12493875700405,7,reviewed,uw,uw
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-04T04:13:56.860Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2024-12-04T04:12:15.520Z,33.6951667,-116.8145,14.75,1.34,ml,61,28,0.07068,0.18,ci,ci40993272,2024-12-04T20:48:45.420Z,"9 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.222,36,reviewed,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -295,5 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T21:29:59.969Z,36.244,-95.80766667,0,1.54,ml,49,112,0.3329346669,0.59,ok,ok2024xtjc,2024-12-04T13:20:46.249Z,"5 km SE of Owasso, Oklahoma",quarry blast,,0.6,0.18,23,reviewed,ok,ok
 2024-12-03T21:29:43.550Z,34.7948341,-116.9083328,4.53,1.43,ml,29,83,0.1081,0.19,ci,ci40992992,2024-12-04T07:05:09.506Z,"16 km SE of Barstow, CA",earthquake,0.36,1.13,0.21,10,automatic,ci,ci
 2024-12-03T21:24:50.740Z,31.67,-104.203,7.2534,1.7,ml,22,58,0.1,0.2,tx,tx2024xtiy,2024-12-04T13:43:22.114Z,"55 km NW of Toyah, Texas",earthquake,0.60445512155293,0.7125854373677,0.1,14,reviewed,tx,tx
-2024-12-03T21:24:39.560Z,19.149333953857,-155.48616027832,31.360000610352,1.83000004,md,35,234,0.02352,0.119999997,hv,hv74554812,2024-12-03T21:26:12.750Z,"5 km S of Pāhala, Hawaii",earthquake,0.63,0.899999976,0.300000012,5,automatic,hv,hv
-2024-12-03T21:20:38.350Z,38.509666666667,-112.897,2.39,1.58,ml,23,45,0.01146,0.09,uu,uu80094366,2024-12-03T22:04:10.930Z,"15 km NE of Milford, Utah",earthquake,0.21,0.35,0.080861920191438,2,reviewed,uu,uu
