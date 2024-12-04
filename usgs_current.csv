@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-04T12:39:24.830Z,38.789001464844,-122.7679977417,1.6200000047684,0.76,md,10,124,0.01329,0.02,nc,nc75094961,2024-12-04T12:40:58.743Z,"2 km NNW of The Geysers, CA",earthquake,0.36,0.579999983,0.1,9,automatic,nc,nc
+2024-12-04T12:33:46.460Z,32.7716667,-115.8343333,6.16,1.36,ml,33,52,0.1189,0.23,ci,ci40993488,2024-12-04T12:38:17.660Z,"15 km ENE of Ocotillo, CA",earthquake,0.26,1.41,0.29,19,automatic,ci,ci
 2024-12-04T12:28:30.860Z,19.145833969116,-155.486328125,26.290000915527,2.02999997,md,18,262,0.1573,0.0700000003,hv,hv74555797,2024-12-04T12:30:04.220Z,"6 km S of Pāhala, Hawaii",earthquake,0.94,1.72000003,0.319999993,3,automatic,hv,hv
 2024-12-04T12:19:10.810Z,19.375165939331,-155.12800598144,2.5099999904633,2.41,ml,36,96,0.009945,0.219999999,hv,hv74555777,2024-12-04T12:22:01.410Z,"10 km S of Fern Forest, Hawaii",earthquake,0.71,0.400000006,1.23,6,automatic,hv,hv
 2024-12-04T12:14:47.550Z,35.9005,-117.734,14.75,0.21,ml,12,69,0.08273,0.17,ci,ci40993480,2024-12-04T12:19:08.516Z,"16 km ESE of Little Lake, CA",earthquake,0.51,0.94,0.147,3,automatic,ci,ci
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T11:46:46.713Z,-56.0349,-27.6072,92.79,4.9,mb,23,67,5.385,0.78,us,us7000nvw6,2024-12-04T12:07:32.040Z,"South Sandwich Islands region",earthquake,11.83,8.587,0.119,22,reviewed,us,us
 2024-12-04T11:45:21.040Z,38.832000732422,-122.81749725342,1.5499999523163,0.94,md,13,82,0.01037,0.01,nc,nc75094941,2024-12-04T11:57:18.028Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.660000026,0.34,14,automatic,nc,nc
 2024-12-04T11:39:27.482Z,32.264,-102.237,3.3516,1.4,ml,40,62,0.1,0.5,tx,tx2024xulm,2024-12-04T11:51:47.187Z,"27 km E of McKinney Acres, Texas",earthquake,0,0.93208420276642,0.1,25,automatic,tx,tx
-2024-12-04T11:36:35.536Z,40.4093,-125.9961,10,4.2,mb,58,209,1.432,0.9,us,us7000nvw4,2024-12-04T12:18:38.306Z,"148 km W of Ferndale, California",earthquake,3.8,1.994,0.142,14,reviewed,us,us
+2024-12-04T11:36:35.536Z,40.4093,-125.9961,10,4.2,mb,58,209,1.432,0.9,us,us7000nvw4,2024-12-04T12:38:38.470Z,"148 km W of Ferndale, California",earthquake,3.8,1.994,0.142,14,reviewed,us,us
 2024-12-04T11:34:22.741Z,61.7991,-150.1963,0.1,1.9,ml,,,,0.26,ak,ak024fktxr5u,2024-12-04T11:36:00.080Z,"10 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-04T11:21:34.050Z,19.256500244141,-155.40466308594,33.419998168945,1.85000002,md,51,79,0.02007,0.119999997,hv,hv74555737,2024-12-04T11:23:27.770Z,"9 km NE of Pāhala, Hawaii",earthquake,0.44,0.529999971,0.170000002,10,automatic,hv,hv
 2024-12-04T10:55:13.170Z,34.0376667,-117.2478333,15.29,0.91,ml,52,59,0.1125,0.16,ci,ci40993440,2024-12-04T10:59:24.301Z,"2 km SE of Loma Linda, CA",earthquake,0.16,0.29,0.231,30,automatic,ci,ci
@@ -269,5 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T13:08:06.370Z,19.147666931152,-155.48550415039,35.119998931885,2.30999994,md,54,156,0.02342,0.159999996,hv,hv74553952,2024-12-03T13:10:17.020Z,"6 km S of Pāhala, Hawaii",earthquake,0.41,0.579999983,0.25,8,automatic,hv,hv
 2024-12-03T13:00:06.646Z,39.3677,-119.9865,4.2,0,ml,4,150.6,0.084,0.0565,nn,nn00888245,2024-12-04T01:10:59.766Z,"4 km SE of Floriston, California",earthquake,,7,0.19,2,reviewed,nn,nn
 2024-12-03T12:49:46.390Z,33.9391667,-116.8805,4.43,1.04,ml,64,21,0.08408,0.15,ci,ci40992536,2024-12-03T13:00:45.170Z,"2 km NNW of Banning, CA",earthquake,0.12,0.38,0.234,27,automatic,ci,ci
-2024-12-03T12:41:04.636Z,25.7238,142.6558,10,4.6,mb,41,123,1.43,0.91,us,us7000nvm9,2024-12-03T13:28:43.040Z,"Volcano Islands, Japan region",earthquake,11.47,1.568,0.087,39,reviewed,us,us
-2024-12-03T12:38:54.580Z,35.7135,-117.5296667,11.04,0.43,ml,20,71,0.09885,0.14,ci,ci40992528,2024-12-03T17:54:28.476Z,"13 km WSW of Searles Valley, CA",earthquake,0.23,0.44,0.091,8,reviewed,ci,ci
