@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-05T03:27:41.320Z,33.8141667,-117.6311667,3.58,1.19,ml,31,60,0.1059,0.2,ci,ci40994440,2024-12-05T03:31:51.426Z,"8 km SW of Corona, CA",earthquake,0.22,0.92,0.269,32,automatic,ci,ci
+2024-12-05T03:27:41.320Z,33.8141667,-117.6311667,3.58,1.19,ml,31,60,0.1059,0.2,ci,ci40994440,2024-12-05T03:32:35.303Z,"8 km SW of Corona, CA",earthquake,0.22,0.92,0.269,32,automatic,ci,ci
 2024-12-05T03:27:13.170Z,37.735500335693,-122.13616943359,4.3400001525879,1.35,md,10,106,0.01753,0.06,nc,nc75095326,2024-12-05T03:28:50.767Z,"2 km ENE of San Leandro, CA",earthquake,0.51,0.699999988,0.27,7,automatic,nc,nc
 2024-12-05T03:22:55.348Z,60.8706,-143.48,13.7,1.9,ml,,,,0.61,ak,ak024fmcn4qm,2024-12-05T03:25:06.236Z,"69 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-05T03:18:23.090Z,38.771999359131,-122.73650360107,1.1299999952316,1.05,md,9,69,0.01122,0.01,nc,nc75095321,2024-12-05T03:20:00.659Z,"2 km ESE of The Geysers, CA",earthquake,0.28,0.569999993,0.24,9,automatic,nc,nc
@@ -282,7 +282,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T04:32:32.710Z,47.609333333333,-121.80833333333,17.56,0.86,ml,13,126,0.1001,0.13,uw,uw62063991,2024-12-04T19:54:24.950Z,"7 km NE of Fall City, Washington",earthquake,0.37,0.54,0.12493875700405,7,reviewed,uw,uw
 2024-12-04T04:19:20.379Z,-17.6467,-178.7277,586.895,4.1,mb,35,181,2.159,0.73,us,us7000nvt1,2024-12-04T05:27:08.040Z,"212 km ENE of Levuka, Fiji",earthquake,20.88,7.441,0.068,59,reviewed,us,us
 2024-12-04T04:18:20.178Z,56.6625,-158.1949,101.5,1.5,ml,,,,0.49,ak,ak024fkpoa9t,2024-12-04T04:19:53.565Z,"42 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-04T04:12:44.615Z,58.2675,-154.9417,0,0.7,ml,,,,0.37,ak,ak024fkpn1v1,2024-12-05T02:24:29.200Z,"82 km NNW of Karluk, Alaska",earthquake,,24.2,,,automatic,ak,ak
+2024-12-04T04:12:44.030Z,58.269666666667,-154.93666666667,4.38,0.87,ml,11,157,0.07199,0.26,av,av93389058,2024-12-05T02:24:29.200Z,"83 km NNW of Karluk, Alaska",earthquake,0.53,0.99,0.36880381551488,11,reviewed,av,av
 2024-12-04T04:12:15.520Z,33.6951667,-116.8145,14.75,1.34,ml,61,28,0.07068,0.18,ci,ci40993272,2024-12-04T20:48:45.420Z,"9 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.222,36,reviewed,ci,ci
 2024-12-04T04:12:07.310Z,19.372166666667,-155.1745,2.54,1.42,ml,30,128,0.008751,0.09,hv,hv74555302,2024-12-04T17:56:02.410Z,"10 km SE of Volcano, Hawaii",earthquake,0.48,0.28,0.26799063260079,19,reviewed,hv,hv
 2024-12-04T04:06:57.540Z,31.892,-101.758,3.54,1.4,ml,33,51,0.1,0.5,tx,tx2024xtwf,2024-12-04T04:20:15.813Z,"26 km W of Garden City, Texas",earthquake,0,0.98916745185852,0.2,23,automatic,tx,tx
@@ -291,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T03:52:52.400Z,38.824001312256,-122.764503479,2,0.93,md,16,124,0.007719,0.03,nc,nc75094776,2024-12-04T05:44:29.478Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.50999999,0.19,16,automatic,nc,nc
 2024-12-04T03:44:25.432Z,31.596,-104.543,4.0941,1.5,ml,17,90,0.1,0.3,tx,tx2024xtvl,2024-12-04T04:20:24.807Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.7811802625656,0.1,12,automatic,tx,tx
 2024-12-04T03:41:57.415Z,64.2664,-149.9043,14.2,1.4,ml,,,,0.47,ak,ak024fkp7v0d,2024-12-04T03:43:32.503Z,"34 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-12-04T03:34:46.370Z,38.791831970215,-122.77833557129,2.2300000190735,0.85,md,10,127,0.007608,0.03,nc,nc75094766,2024-12-04T05:17:19.266Z,"2 km NW of The Geysers, CA",earthquake,0.45,0.75,0.34,12,automatic,nc,nc
