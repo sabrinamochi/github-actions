@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-05T16:24:27.110Z,34.0188332,-116.7463303,16.86,1.2,ml,27,89,0.05357,0.18,ci,ci40995048,2024-12-05T16:26:31.005Z,"12 km NNE of Cabazon, CA",earthquake,0.37,0.75,0.252,5,automatic,ci,ci
+2024-12-05T16:24:27.050Z,34.0181667,-116.7465,17.11,1.12,ml,33,47,0.05364,0.12,ci,ci40995048,2024-12-05T16:28:53.058Z,"12 km NNE of Cabazon, CA",earthquake,0.19,0.4,0.164,31,automatic,ci,ci
 2024-12-05T16:15:23.730Z,35.7943333,-117.6113333,10.94,0.84,ml,24,57,0.02414,0.15,ci,ci40995040,2024-12-05T16:18:50.966Z,"19 km W of Searles Valley, CA",earthquake,0.23,0.44,0.123,8,automatic,ci,ci
 2024-12-05T16:09:49.220Z,38.837501525879,-122.77866363525,0.74000000953674,0.7,md,12,88,0.005392,0.02,nc,nc75095581,2024-12-05T16:11:27.547Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.389999986,0.21,12,automatic,nc,nc
 2024-12-05T16:05:04.830Z,38.798831939697,-122.72833251953,0.81999999284744,0.99,md,12,111,0.0169,0.04,nc,nc75095576,2024-12-05T16:22:15.854Z,"3 km SSW of Cobb, CA",earthquake,0.26,0.579999983,0.26,12,automatic,nc,nc
@@ -132,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-05T06:47:05.881Z,61.2867,-142.3887,6.6,1.5,ml,,,,0.6,ak,ak024fmekon0,2024-12-05T06:48:46.524Z,"32 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-05T06:38:07.970Z,34.1285,-117.4826667,3.34,1.38,ml,68,20,0.04647,0.21,ci,ci40994584,2024-12-05T14:49:21.580Z,"4 km NNW of Fontana, CA",earthquake,0.16,0.41,0.144,24,reviewed,ci,ci
 2024-12-05T06:34:01.760Z,34.575,-119.3298333,6.72,0.72,ml,11,99,0.07883,0.16,ci,ci40994576,2024-12-05T06:38:25.340Z,"16 km NNW of Ojai, CA",earthquake,0.33,0.93,0.125,9,automatic,ci,ci
-2024-12-05T06:21:22.666Z,32.798,73.7417,10,5.2,mb,135,34,4.206,0.66,us,us7000nw1v,2024-12-05T10:45:37.286Z,"7 km W of Mehmand Chak, Pakistan",earthquake,8.43,1.85,0.055,108,reviewed,us,us
+2024-12-05T06:21:22.666Z,32.798,73.7417,10,5.2,mb,135,34,4.206,0.66,us,us7000nw1v,2024-12-05T16:27:12.767Z,"7 km W of Mehmand Chak, Pakistan",earthquake,8.43,1.85,0.055,108,reviewed,us,us
 2024-12-05T06:21:15.580Z,34.0363333,-117.257,14.42,1.01,ml,50,58,0.1073,0.17,ci,ci40994560,2024-12-05T14:49:15.442Z,"1 km SSE of Loma Linda, CA",earthquake,0.18,0.33,0.14,32,reviewed,ci,ci
 2024-12-05T06:21:09.272Z,65.0084,-148.0246,15.1,0.6,ml,,,,0.36,ak,ak024fmef4a7,2024-12-05T06:22:41.007Z,"17 km N of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-05T06:20:51.020Z,44.67,-111.88383333333,8.72,0.69,ml,12,103,0.1667,0.18,mb,mb90067678,2024-12-05T15:51:38.310Z,"41 km NE of Spencer, Idaho",earthquake,0.44,1.33,0.18997567667939,14,reviewed,mb,mb
@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-04T16:35:18.370Z,38.832000732422,-122.81983184815,1.7999999523163,0.45,md,13,57,0.01149,0.01,nc,nc75095081,2024-12-04T18:52:12.859Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.720000029,0.31,13,automatic,nc,nc
 2024-12-04T16:34:54.222Z,51.3178,-179.5155,25.069,4.4,mb,96,192,0.498,0.9,us,us7000nvxb,2024-12-04T22:15:00.040Z,"209 km WSW of Adak, Alaska",earthquake,4.38,6.731,0.067,64,reviewed,us,us
 2024-12-04T16:32:40.590Z,38.818832397461,-122.78849792481,1.6100000143051,0.24,md,9,81,0.00826,0.01,nc,nc75095076,2024-12-04T18:32:17.726Z,"5 km NNW of The Geysers, CA",earthquake,0.43,0.649999976,0.11,10,automatic,nc,nc
-2024-12-04T16:29:04.420Z,-6.5266,130.0385,160.721,4.4,mb,30,85,1.996,0.54,us,us7000nvx8,2024-12-04T22:27:37.040Z,"Banda Sea",earthquake,8.28,6.167,0.103,27,reviewed,us,us
