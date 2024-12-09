@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T16:36:18.730Z,31.4093333,-115.465,13.28,2.81,ml,5,186,0.2734,0.01,ci,ci40998256,2024-12-09T16:42:02.004Z,"95 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.45,1.31,0.229,19,automatic,ci,ci
 2024-12-09T16:34:25.500Z,33.409,-116.4,5.55,0.88,ml,36,60,0.1412,0.17,ci,ci40998248,2024-12-09T16:44:25.717Z,"17 km N of Borrego Springs, CA",earthquake,0.21,1.09,0.164,24,automatic,ci,ci
 2024-12-09T16:31:44.887Z,51.0366,-177.5501,18.783,5.7,mww,147,55,0.752,0.91,us,us7000nxbs,2024-12-09T18:38:44.507Z,"112 km SW of Adak, Alaska",earthquake,3.63,3.252,0.052,35,reviewed,us,us
-2024-12-09T16:26:59.697Z,-20.2478,-70.339,33.8,4.9,mwr,72,142,0.197,0.94,us,us7000nxbn,2024-12-09T18:41:26.976Z,"19 km W of Puerto, Chile",earthquake,4.16,4.695,0.051,37,reviewed,us,us
+2024-12-09T16:26:59.697Z,-20.2478,-70.339,33.8,4.9,mwr,72,142,0.197,0.94,us,us7000nxbn,2024-12-09T18:50:39.192Z,"19 km W of Puerto, Chile",earthquake,4.16,4.695,0.051,37,reviewed,us,us
 2024-12-09T16:15:24.270Z,46.741333333333,-112.906,4.99,0.81,ml,9,178,0.2939,0.1,mb,mb90067983,2024-12-09T17:16:21.540Z,"20 km ENE of Drummond, Montana",earthquake,0.67,7.99,0.23825208783509,5,reviewed,mb,mb
 2024-12-09T16:10:51.160Z,64.929,-147.4045,9,1.4,ml,,,,0.41,ak,ak024ft6gkel,2024-12-09T16:13:22.771Z,"10 km ESE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-09T16:08:50.570Z,38.5005,-112.896,2.83,1.47,ml,19,64,0.007422,0.12,uu,uu80097066,2024-12-09T18:41:13.980Z,"15 km NE of Milford, Utah",earthquake,0.24,0.41,0.34758464062926,3,reviewed,uu,uu
@@ -159,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T04:08:07.730Z,39.792999267578,-123.32566833496,5.8699998855591,1.68,md,8,137,0.1209,0.05,nc,nc75099886,2024-12-09T04:52:17.273Z,"7 km WNW of Covelo, CA",earthquake,0.37,1.45000005,0.1,7,automatic,nc,nc
 2024-12-09T04:01:43.578Z,62.3903,-151.6537,82.2,2,ml,,,,0.25,ak,ak024fsz9fdh,2024-12-09T04:03:27.902Z,"46 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-09T04:01:41.329Z,50.9115,-177.5326,13.1,3,ml,,,,0.54,ak,ak024fsz9ezk,2024-12-09T08:41:15.073Z,"124 km SSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-12-09T03:59:14.500Z,48.189666666667,-123.1815,15.98,1.08,ml,29,69,0.1503,0.13,uw,uw62066861,2024-12-09T18:50:07.540Z,"9 km NW of Jamestown, Washington",earthquake,0.22,0.61,0.1872423041782,7,reviewed,uw,uw
 2024-12-09T03:56:08.461Z,50.826,-177.4915,13.678,3.9,mb,29,204,1.05,0.51,us,us7000nx7r,2024-12-09T06:05:36.474Z,"131 km SSW of Adak, Alaska",earthquake,6.69,6.88,0.118,19,reviewed,us,us
 2024-12-09T03:50:29.734Z,13.2206,-87.875,15.366,5.6,mww,74,125,0.501,1.01,us,us7000nx79,2024-12-09T18:37:35.194Z,"9 km S of Conchagua, El Salvador",earthquake,6.13,5.342,0.046,45,reviewed,us,us
 2024-12-09T03:49:35.819Z,37.3607,-117.1266,2.1,0.5,ml,9,139.44,0.123,0.1666,nn,nn00888512,2024-12-09T03:51:45.038Z,"39 km SSE of Goldfield, Nevada",earthquake,,2,0.48,5,automatic,nn,nn
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T19:04:23.360Z,38.789333343506,-122.75099945068,3.6600000858307,0.72,md,8,138,0.01271,0.07,nc,nc75099631,2024-12-08T20:22:15.821Z,"1 km NNE of The Geysers, CA",earthquake,0.74,1.88999999,0.07,8,automatic,nc,nc
 2024-12-08T18:55:05.510Z,36.643,-116.0615,3.9,-0.2,ml,8,169.73,0.02,0.0484,nn,nn00888497,2024-12-09T02:04:08.250Z,"35 km WNW of Indian Springs, Nevada",earthquake,,2.3,0,2,reviewed,nn,nn
 2024-12-08T18:54:09.390Z,40.28450012207,-124.55283355713,10.539999961853,2.45,md,12,300,0.1609,0.11,nc,nc75099626,2024-12-08T19:57:16.636Z,"23 km W of Petrolia, CA",earthquake,3.09,1.11000001,0.09,10,automatic,nc,nc
-2024-12-08T18:51:29.535Z,2.9428,128.574,227.449,4.2,mb,34,94,2.471,0.84,us,us7000nx3x,2024-12-08T19:47:12.040Z,"148 km NNE of Tobelo, Indonesia",earthquake,12.44,8.042,0.102,27,reviewed,us,us
