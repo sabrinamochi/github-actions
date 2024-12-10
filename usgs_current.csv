@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-10T05:25:40.570Z,40.313667297363,-124.45516967773,7.6500000953674,2.1,md,16,269,,0.07,nc,nc75100676,2024-12-10T05:27:16.590Z,"14 km W of Petrolia, CA",earthquake,2.1,0.709999979,0.1,15,automatic,nc,nc
 2024-12-10T05:25:35.663Z,39.2009,-118.9714,2.8,2,ml,11,100.9,0.3,0.2535,nn,nn00888824,2024-12-10T05:28:06.914Z,"29 km NE of Yerington, Nevada",earthquake,,2.1,0.48,6,automatic,nn,nn
-2024-12-10T05:25:19.780Z,33.412,-116.6505,4.74,1.38,ml,70,45,0.04747,0.2,ci,ci40998816,2024-12-10T05:29:55.807Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.58,0.159,24,automatic,ci,ci
+2024-12-10T05:25:19.780Z,33.412,-116.6505,4.74,1.38,ml,70,45,0.04747,0.2,ci,ci40998816,2024-12-10T05:36:01.630Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.58,0.159,24,automatic,ci,ci
 2024-12-10T05:24:04.548Z,39.1578,-119.0628,7.8,1.4,ml,12,85.78,0.221,0.1681,nn,nn00888821,2024-12-10T05:26:16.920Z,"20 km NNE of Yerington, Nevada",earthquake,,1,0.3,6,automatic,nn,nn
 2024-12-10T05:12:45.658Z,39.1583,-119.0595,0.8,2.2,ml,17,102.14,0.223,0.1871,nn,nn00888818,2024-12-10T05:24:23.596Z,"21 km NNE of Yerington, Nevada",earthquake,,18.8,0.19,10,automatic,nn,nn
 2024-12-10T05:12:37.810Z,38.833667755127,-122.8184967041,2.079999923706,0.66,md,8,107,0.01219,0.01,nc,nc75100666,2024-12-10T05:14:11.336Z,"8 km NNW of The Geysers, CA",earthquake,0.54,1.23000002,0.16,11,automatic,nc,nc
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T03:10:31.256Z,39.1462,-119.0723,4.6,1.5,ml,8,122.04,0.207,0.102,nn,nn00888759,2024-12-10T03:19:10.295Z,"19 km NNE of Yerington, Nevada",earthquake,,1.9,0.13,4,automatic,nn,nn
 2024-12-10T02:53:51.990Z,38.832332611084,-122.82083129883,1.7300000190735,0.74,md,8,75,0.01226,0.04,nc,nc75100596,2024-12-10T02:55:29.626Z,"8 km NNW of The Geysers, CA",earthquake,0.41,1.11000001,0.15,9,automatic,nc,nc
 2024-12-10T02:53:44.920Z,60.3083,-147.2674,24.6,2,ml,,,,0.55,ak,ak024fulx1zw,2024-12-10T02:55:00.653Z,"49 km ENE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-12-10T02:50:07.000Z,39.1623,-119.0351,9.8,2.7,ml,13,152.7,0.519,0.3458,nn,nn00888747,2024-12-10T04:57:24.233Z,"22 km NNE of Yerington, Nevada",earthquake,,0.9,0.32,6,automatic,nn,nn
+2024-12-10T02:50:07.000Z,39.1623,-119.0351,9.8,2.7,ml,13,152.7,0.519,0.3458,nn,nn00888747,2024-12-10T05:35:16.648Z,"22 km NNE of Yerington, Nevada",earthquake,,0.9,0.32,6,automatic,nn,nn
 2024-12-10T02:49:50.946Z,39.1542,-119.0593,7.4,2.5,ml,8,85.52,0.22,0.2917,nn,nn00888748,2024-12-10T02:53:13.507Z,"20 km NNE of Yerington, Nevada",earthquake,,2.2,0.34,5,automatic,nn,nn
 2024-12-10T02:47:47.710Z,35.6701667,-117.4791667,8.1,0.72,ml,18,71,0.04544,0.14,ci,ci40998744,2024-12-10T02:51:12.299Z,"13 km SSW of Searles Valley, CA",earthquake,0.26,0.58,0.065,5,automatic,ci,ci
 2024-12-10T02:47:12.800Z,38.833499908447,-122.81649780273,1.9400000572205,1.11,md,20,71,0.01127,0.01,nc,nc75100586,2024-12-10T02:58:34.421Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.18,21,automatic,nc,nc
@@ -358,4 +358,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T05:56:48.518Z,50.9216,-177.4599,10,5.1,mb,77,129,0.953,0.82,us,us7000nx85,2024-12-09T09:12:30.546Z,"120 km SSW of Adak, Alaska",earthquake,6.53,1.884,0.031,341,reviewed,us,us
 2024-12-09T05:40:09.360Z,31.4935,-115.6256667,11.53,1.68,ml,8,142,0.1693,0.14,ci,ci40997984,2024-12-10T00:45:48.895Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.39,1.68,0.123,6,reviewed,ci,ci
 2024-12-09T05:37:10.530Z,58.3415,-154.80666666667,4.61,0.88,ml,8,186,0.04172,0.21,av,av93398941,2024-12-10T01:15:25.350Z,"88 km NNW of Karluk, Alaska",earthquake,0.73,0.88,0.34679425015784,8,reviewed,av,av
-2024-12-09T05:34:16.490Z,33.3946667,-116.392,13.87,0.72,ml,32,85,0.07088,0.17,ci,ci40997976,2024-12-09T21:40:08.425Z,"16 km N of Borrego Springs, CA",earthquake,0.28,0.53,0.133,11,reviewed,ci,ci
