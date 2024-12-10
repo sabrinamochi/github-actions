@@ -200,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T01:43:14.610Z,38.837501525879,-122.80916595459,2.2999999523163,0.22,md,10,126,0.0141,0.02,nc,nc75100546,2024-12-10T01:44:52.933Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.21000004,0.12,11,automatic,nc,nc
 2024-12-10T01:42:57.362Z,39.1435,-119.0759,1.8,1.5,ml,8,124.71,0.41,0.208,nn,nn00888702,2024-12-10T01:46:22.957Z,"19 km NNE of Yerington, Nevada",earthquake,,14.4,0.11,4,automatic,nn,nn
 2024-12-10T01:40:24.321Z,60.25,-150.8157,35.1,1.9,ml,,,,0.5,ak,ak024ful8shs,2024-12-10T01:42:22.280Z,"27 km ESE of Kasilof, Alaska",earthquake,,7.7,,,automatic,ak,ak
-2024-12-10T01:33:52.370Z,35.6671667,-117.5488333,6.34,0.8,ml,24,70,0.1019,0.13,ci,ci40998680,2024-12-10T01:37:29.956Z,"13 km ENE of Ridgecrest, CA",earthquake,0.21,0.72,0.068,8,automatic,ci,ci
+2024-12-10T01:33:52.370Z,35.6671667,-117.5488333,6.34,0.8,ml,24,70,0.1019,0.13,ci,ci40998680,2024-12-10T14:35:31.232Z,"13 km ENE of Ridgecrest, CA",earthquake,0.21,0.72,0.068,8,reviewed,ci,ci
 2024-12-10T01:31:59.004Z,39.1588,-119.047,0,1.4,ml,8,85.97,0.23,0.3458,nn,nn00888701,2024-12-10T01:35:32.781Z,"21 km NNE of Yerington, Nevada",earthquake,,25.4,0.2,5,automatic,nn,nn
 2024-12-10T01:28:24.510Z,39.1691,-119.0354,7.2,2.2,ml,15,102.01,0.243,0.1268,nn,nn00888697,2024-12-10T01:30:34.124Z,"23 km NNE of Yerington, Nevada",earthquake,,1,0.31,9,automatic,nn,nn
 2024-12-10T01:26:47.594Z,31.662,-104.251,6.0999,1.8,ml,34,65,0,0.1,tx,tx2024yepx,2024-12-10T13:48:31.809Z,"58 km NW of Toyah, Texas",earthquake,0.43656953194923,0.46774038580773,0.2,34,reviewed,tx,tx
@@ -232,7 +232,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T00:35:12.177Z,39.1692,-119.0629,7.3,1.9,ml,11,135.81,0.424,0.21,nn,nn00888657,2024-12-10T02:00:16.551Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.22,8,automatic,nn,nn
 2024-12-10T00:32:18.468Z,39.1661,-119.06,8.9,3,ml,39,72.21,0.229,0.1386,nn,nn00888654,2024-12-10T04:15:09.087Z,"21 km NNE of Yerington, Nevada",earthquake,,2.1,0.24,13,reviewed,nn,nn
 2024-12-10T00:29:15.224Z,39.1361,-119.0724,5.2,1.5,ml,10,124.6,0.2,0.193,nn,nn00888652,2024-12-10T00:31:32.129Z,"18 km NNE of Yerington, Nevada",earthquake,,3.6,0.38,6,automatic,nn,nn
-2024-12-10T00:25:28.560Z,34.0666667,-116.7696667,11.72,1.08,ml,34,98,0.04461,0.18,ci,ci40998640,2024-12-10T00:29:55.164Z,"17 km N of Cabazon, CA",earthquake,0.25,0.5,0.123,4,automatic,ci,ci
+2024-12-10T00:25:28.560Z,34.0666667,-116.7696667,11.72,0.91,ml,34,98,0.04461,0.18,ci,ci40998640,2024-12-10T14:35:49.267Z,"17 km N of Cabazon, CA",earthquake,0.25,0.5,0.118,21,reviewed,ci,ci
 2024-12-10T00:22:27.117Z,39.1746,-119.0333,7.1,2,ml,14,87.31,0.249,0.1357,nn,nn00888647,2024-12-10T03:35:44.887Z,"23 km NNE of Yerington, Nevada",earthquake,,1,0.15,8,automatic,nn,nn
 2024-12-10T00:20:20.619Z,39.1581,-119.0508,3.8,2.2,ml,14,102.52,0.227,0.2357,nn,nn00888646,2024-12-10T00:22:52.379Z,"21 km NNE of Yerington, Nevada",earthquake,,5.6,0.28,8,automatic,nn,nn
 2024-12-10T00:20:04.470Z,31.625,-104.362,6.0999,1.9,ml,27,63,0.1,0.1,tx,tx2024yens,2024-12-10T13:55:31.864Z,"61 km S of Whites City, New Mexico",earthquake,0.55372505431565,0.79888703083071,0.2,29,reviewed,tx,tx
@@ -251,6 +251,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T23:50:48.100Z,39.1747,-119.0405,6.2,2.5,ml,16,87.27,0.245,0.1752,nn,nn00888618,2024-12-09T23:53:03.228Z,"23 km NNE of Yerington, Nevada",earthquake,,1.1,0.18,7,automatic,nn,nn
 2024-12-09T23:49:05.491Z,39.1787,-119.0205,6.8,3.3,ml,27,75.02,0.258,0.1672,nn,nn00888613,2024-12-10T07:10:18.439Z,"24 km NNE of Yerington, Nevada",earthquake,,4.1,0.21,9,reviewed,nn,nn
 2024-12-09T23:48:10.810Z,39.1614,-119.0707,4.6,1.9,ml,13,86,0.22,0.1576,nn,nn00888612,2024-12-09T23:50:42.682Z,"21 km NNE of Yerington, Nevada",earthquake,,1.7,0.19,7,automatic,nn,nn
+2024-12-09T23:41:55.340Z,38.506166666667,-112.89283333333,2.91,1.66,md,14,56,0.006677,0.12,uu,uu80097121,2024-12-10T14:36:04.270Z,"15 km NE of Milford, Utah",earthquake,0.3,0.46,0.54063904398755,7,reviewed,uu,uu
 2024-12-09T23:41:07.277Z,39.1517,-119.0384,9.5,3,ml,17,103.65,0.229,0.2721,nn,nn00888610,2024-12-10T05:41:15.008Z,"21 km NNE of Yerington, Nevada",earthquake,,1.5,0.21,8,automatic,nn,nn
 2024-12-09T23:39:50.774Z,39.1714,-119.0294,12.1,3.6,ml,39,75.79,0.248,0.1447,nn,nn00888611,2024-12-10T06:11:12.797Z,"23 km NNE of Yerington, Nevada",earthquake,,1,0.42,12,reviewed,nn,nn
 2024-12-09T23:39:28.223Z,39.1677,-119.0519,11.5,1.9,ml,5,153.76,0.234,0.1455,nn,nn00888607,2024-12-10T07:10:52.142Z,"22 km NNE of Yerington, Nevada",earthquake,,9.4,0,1,reviewed,nn,nn
@@ -319,6 +320,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T19:25:23.026Z,-4.7926,130.2116,21.807,4.5,mb,23,114,0.407,0.55,us,us7000nxdk,2024-12-09T19:46:56.040Z,"215 km SE of Masohi, Indonesia",earthquake,7.6,0.988,0.128,18,reviewed,us,us
 2024-12-09T19:24:24.560Z,40.360500335693,-124.63899993897,16.389999389648,3.16,md,26,272,0.2378,0.35,nc,nc75100226,2024-12-09T19:29:28.040Z,"30 km WNW of Petrolia, CA",earthquake,5.75,2,0.11,22,automatic,nc,nc
 2024-12-09T19:21:50.660Z,19.211166381836,-155.47599792481,32.470001220703,2.01999998,md,25,94,0.05699,0.119999997,hv,hv74560877,2024-12-09T19:23:26.150Z,"0 km NNE of Pāhala, Hawaii",earthquake,0.56,0.629999995,0.200000003,5,automatic,hv,hv
+2024-12-09T19:20:11.990Z,36.25083333,-95.81533333,0,1.29,ml,78,179,0.3401332543,0.53,ok,ok2024yedv,2024-12-10T14:38:07.495Z,"4 km ESE of Owasso, Oklahoma",quarry blast,,0.5,0.19,35,reviewed,ok,ok
 2024-12-09T19:06:17.570Z,34.48916667,-97.272,0,1.33,ml,46,70,0.09538128294,0.49,ok,ok2024yedj,2024-12-10T14:24:06.540Z,"12 km SE of Katie, Oklahoma",quarry blast,,0.7,0.27,17,reviewed,ok,ok
 2024-12-09T19:04:07.580Z,48.993,-123.11116666667,8.9,1.31,ml,13,156,0.2667,0.14,uw,uw62066961,2024-12-10T00:43:54.010Z,"2 km WNW of Point Roberts, Washington",earthquake,0.39,14.14,0.14063717405615,6,reviewed,uw,uw
 2024-12-09T19:02:23.438Z,31.347,-103.722,7.7121,2.4,ml,9,103,0.1,0.3,tx,tx2024yedg,2024-12-09T19:09:15.945Z,"7 km ENE of Toyah, Texas",earthquake,0,4.5136480331421,0.2,7,automatic,tx,tx
@@ -377,4 +379,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-09T14:55:51.977Z,41.909,-119.5975,2.1,1.7,ml,4,216.24,0.525,0.0772,nn,nn00888560,2024-12-09T23:05:49.918Z,"46 km E of Fort Bidwell, California",earthquake,,11.5,0.24,2,reviewed,nn,nn
 2024-12-09T14:52:46.604Z,41.9203,-119.5782,0.2,1.8,ml,4,215.02,0.54,0.1041,nn,nn00888556,2024-12-09T21:46:19.898Z,"48 km E of Fort Bidwell, California",earthquake,,2.6,0.13,2,reviewed,nn,nn
 2024-12-09T14:44:03.870Z,61.316166666667,-152.26616666667,1.04,0.75,ml,10,124,0.07394,0.12,av,av93399866,2024-12-10T03:47:17.230Z,"66 km WNW of Beluga, Alaska",earthquake,0.29,0.87,0.24268884920421,10,reviewed,av,av
-2024-12-09T14:35:16.440Z,58.266666666667,-154.99233333333,2.8,0.17,ml,6,136,0.0478,0.09,av,av93399851,2024-12-10T03:35:18.850Z,"83 km NNW of Karluk, Alaska",earthquake,0.29,0.86,0.42832040664693,6,reviewed,av,av
