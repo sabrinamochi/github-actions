@@ -31,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T21:50:44.750Z,40.411998748779,-125.41283416748,4.7699999809265,3.24,ml,42,287,0.8231,0.58,nc,nc75101286,2024-12-10T23:47:18.149Z,"96 km WNW of Petrolia, CA",earthquake,12.53,35.1899986,0.248,5,automatic,nc,nc
 2024-12-10T21:48:50.612Z,39.1626,-119.04,10.6,1.2,ml,8,122.74,0.236,0.1528,nn,nn00889073,2024-12-10T21:51:16.074Z,"22 km NNE of Yerington, Nevada",earthquake,,3.7,0.2,3,automatic,nn,nn
 2024-12-10T21:44:16.040Z,35.9551667,-117.684,5.36,0.69,ml,16,92,0.02823,0.1,ci,ci40999288,2024-12-11T00:20:00.758Z,"20 km E of Little Lake, CA",earthquake,0.19,0.36,0.072,6,reviewed,ci,ci
+2024-12-10T21:40:24.008Z,39.128,-119.0551,6.9,2.9,ml,15,71.31,0.203,0.1365,nn,nn00889068,2024-12-11T02:18:34.368Z,"18 km NNE of Yerington, Nevada",earthquake,,3.8,0.11,2,reviewed,nn,nn
 2024-12-10T21:36:25.799Z,39.1212,-119.0496,9.9,1.4,ml,10,132.19,0.201,0.1034,nn,nn00889066,2024-12-10T21:38:36.242Z,"17 km NNE of Yerington, Nevada",earthquake,,3.1,0.19,5,automatic,nn,nn
 2024-12-10T21:28:06.780Z,36.641498565674,-121.28150177002,5.5799999237061,2.91,md,62,39,0.04058,0.26,nc,nc75101271,2024-12-10T22:57:16.789Z,"17 km S of Tres Pinos, CA",earthquake,0.31,0.939999998,0.08,74,automatic,nc,nc
 2024-12-10T21:26:39.376Z,5.6963,127.4169,39.222,4.7,mb,27,120,2.28,1.29,us,us7000nxpp,2024-12-10T22:02:08.040Z,"155 km ESE of Pondaguitan, Philippines",earthquake,9.82,6.604,0.085,42,reviewed,us,us
@@ -83,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T17:09:45.619Z,39.1412,-119.0726,13,1.6,ml,9,123.24,0.203,0.13,nn,nn00889021,2024-12-10T17:11:55.713Z,"18 km NNE of Yerington, Nevada",earthquake,,1.8,0.17,5,automatic,nn,nn
 2024-12-10T17:02:11.900Z,38.81233215332,-122.80883026123,4.8499999046326,0.23,md,8,186,0.01143,0.02,nc,nc75101116,2024-12-10T17:03:49.096Z,"6 km NW of The Geysers, CA",earthquake,1.13,2.26999998,0.13,8,automatic,nc,nc
 2024-12-10T16:59:39.017Z,39.1656,-119.0609,6.2,1.3,ml,9,135.5,0.228,0.1472,nn,nn00889020,2024-12-10T17:02:55.084Z,"21 km NNE of Yerington, Nevada",earthquake,,2,0.19,6,automatic,nn,nn
+2024-12-10T16:58:29.850Z,52.1025,-176.189,8.05,0.87,ml,5,290,0.01142,0.33,av,av93028174,2024-12-11T02:15:22.780Z,"39 km NE of Adak, Alaska",earthquake,1.79,2.54,0.2155576834244,5,reviewed,av,av
 2024-12-10T16:46:21.540Z,35.9855,-117.6696667,1.13,1.06,ml,22,63,0.04065,0.18,ci,ci40998960,2024-12-10T19:04:54.503Z,"22 km ENE of Little Lake, CA",earthquake,0.27,0.24,0.077,14,reviewed,ci,ci
 2024-12-10T16:45:12.140Z,19.226333333333,-156.238,30.61,3.65,ml,67,224,0.4662,0.19,hv,hv74561667,2024-12-11T00:16:57.716Z,"44 km SW of Captain Cook, Hawaii",earthquake,0.59,1.68,0.18766247490765,55,reviewed,hv,hv
 2024-12-10T16:34:22.690Z,38.839000701904,-122.75433349609,1.3999999761581,0.83,md,8,190,0.01485,0.03,nc,nc75101106,2024-12-10T16:35:59.344Z,"3 km NW of Cobb, CA",earthquake,0.54,0.819999993,0.14,9,automatic,nc,nc
@@ -337,4 +339,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T02:21:36.960Z,39.1672,-119.0673,9,1.5,ml,12,86.49,0.226,0.2712,nn,nn00888733,2024-12-10T02:25:03.903Z,"21 km NNE of Yerington, Nevada",earthquake,,1,0.17,4,automatic,nn,nn
 2024-12-10T02:20:38.825Z,39.1217,-119.0296,9.5,1.9,ml,14,107.11,0.213,0.3466,nn,nn00888731,2024-12-10T02:23:04.385Z,"19 km NE of Yerington, Nevada",earthquake,,0.7,0.14,7,automatic,nn,nn
 2024-12-10T02:19:25.964Z,39.1715,-119.0543,5.2,1.8,ml,11,118.73,0.236,0.1503,nn,nn00888730,2024-12-10T02:21:53.482Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.24,5,automatic,nn,nn
-2024-12-10T02:17:00.720Z,39.186,-119.0644,9.9,2,ml,14,85.53,0.243,0.3443,nn,nn00888727,2024-12-10T03:07:45.337Z,"23 km NNE of Yerington, Nevada",earthquake,,0.9,0.2,8,automatic,nn,nn
