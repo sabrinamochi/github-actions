@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-11T03:03:13.648Z,36.7425,-115.4629,0.9,0.1,ml,9,297.09,0.408,0.2867,nn,nn00889141,2024-12-11T03:05:15.313Z,"26 km NE of Indian Springs, Nevada",earthquake,,58.9,0.48,4,automatic,nn,nn
 2024-12-11T02:45:49.590Z,38.832332611084,-122.81517028809,0.97000002861023,0.38,md,7,88,0.009772,0.05,nc,nc75101471,2024-12-11T02:47:26.670Z,"8 km NNW of The Geysers, CA",earthquake,0.51,1.14999998,0.29,9,automatic,nc,nc
 2024-12-11T02:33:47.846Z,39.143,-119.0704,5,1.9,ml,15,84.58,0.206,0.1082,nn,nn00889137,2024-12-11T02:36:37.035Z,"19 km NNE of Yerington, Nevada",earthquake,,1.1,0.17,9,automatic,nn,nn
 2024-12-11T02:29:54.130Z,19.16233253479,-155.50816345215,30.479999542236,1.91999996,md,21,221,0.1286,0.129999995,hv,hv74562197,2024-12-11T02:31:31.750Z,"5 km SW of Pāhala, Hawaii",earthquake,0.74,0.910000026,0.370000005,4,automatic,hv,hv
@@ -186,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T10:35:47.157Z,39.1498,-119.0686,11.3,1.1,ml,9,85.12,0.212,0.2356,nn,nn00888910,2024-12-10T10:38:12.708Z,"19 km NNE of Yerington, Nevada",earthquake,,0.9,0.04,2,automatic,nn,nn
 2024-12-10T10:35:28.920Z,38.829666137695,-122.79949951172,2.170000076294,0.73,md,7,90,0.01037,0.01,nc,nc75100961,2024-12-10T10:37:03.785Z,"7 km WNW of Cobb, CA",earthquake,0.47,1.53999996,0.22,8,automatic,nc,nc
 2024-12-10T10:27:42.180Z,40.295333862305,-124.57216644287,-0.10999999940395,3.49,ml,41,262,,0.28,nc,nc75100956,2024-12-10T11:30:37.656Z,"25 km W of Petrolia, CA",earthquake,2.67,4.01999998,0.469,5,reviewed,nc,nc
-2024-12-10T10:25:57.520Z,40.295166666667,-124.50566666667,7.9,3.65,mw,49,252,0.1249,0.19,nc,nc75100951,2024-12-11T00:37:17.487Z,"19 km W of Petrolia, CA",earthquake,0.51,0.4,,7,reviewed,nc,nc
+2024-12-10T10:25:57.520Z,40.295166666667,-124.50566666667,7.9,3.65,mw,49,252,0.1249,0.19,nc,nc75100951,2024-12-11T02:57:17.495Z,"19 km W of Petrolia, CA",earthquake,0.51,0.4,,7,reviewed,nc,nc
 2024-12-10T10:25:07.054Z,39.1626,-119.0699,14.7,1.9,ml,13,118.48,0.221,0.1787,nn,nn00888904,2024-12-10T10:27:13.138Z,"21 km NNE of Yerington, Nevada",earthquake,,1.7,0.42,6,automatic,nn,nn
 2024-12-10T10:24:26.621Z,39.1805,-119.0357,6.2,2.1,ml,15,85.78,0.252,0.3723,nn,nn00888903,2024-12-10T10:27:04.064Z,"24 km NNE of Yerington, Nevada",earthquake,,1,0.18,7,automatic,nn,nn
 2024-12-10T10:21:56.455Z,39.1633,-119.0659,3,2.1,ml,16,86.19,0.224,0.1483,nn,nn00888898,2024-12-10T10:24:14.348Z,"21 km NNE of Yerington, Nevada",earthquake,,2.3,0.24,11,automatic,nn,nn
@@ -331,9 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T03:16:16.140Z,39.1704,-119.0185,9.6,2.7,ml,38,85.52,0.253,0.1595,nn,nn00888760,2024-12-10T07:15:09.733Z,"24 km NNE of Yerington, Nevada",earthquake,,1.6,0.25,13,reviewed,nn,nn
 2024-12-10T03:11:55.630Z,18.4378,-64.6275,134,3.58,md,6,344,0.6678,0.47,pr,pr2024345000,2024-12-10T03:38:02.941Z,"21 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.99,3.33,0.13,5,reviewed,pr,pr
 2024-12-10T03:10:31.256Z,39.1462,-119.0723,4.6,1.5,ml,8,122.04,0.207,0.102,nn,nn00888759,2024-12-10T03:19:10.295Z,"19 km NNE of Yerington, Nevada",earthquake,,1.9,0.13,4,automatic,nn,nn
-2024-12-10T02:58:49.580Z,38.512,-112.89366666667,1.78,1.27,md,13,111,0.01029,0.09,uu,uu80097141,2024-12-10T14:58:28.110Z,"16 km NE of Milford, Utah",earthquake,0.32,0.45,0.54154823079677,7,reviewed,uu,uu
-2024-12-10T02:56:46.010Z,38.505833333333,-112.8945,2.05,0.59,md,5,107,0.0362,0.03,uu,uu80097136,2024-12-10T14:46:27.850Z,"15 km NE of Milford, Utah",earthquake,0.44,1.85,0.64269555493105,3,reviewed,uu,uu
-2024-12-10T02:53:51.990Z,38.832332611084,-122.82083129883,1.7300000190735,0.74,md,8,75,0.01226,0.04,nc,nc75100596,2024-12-10T02:55:29.626Z,"8 km NNW of The Geysers, CA",earthquake,0.41,1.11000001,0.15,9,automatic,nc,nc
-2024-12-10T02:53:44.920Z,60.3083,-147.2674,24.6,2,ml,,,,0.55,ak,ak024fulx1zw,2024-12-10T02:55:00.653Z,"49 km ENE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-12-10T02:50:56.073Z,39.1737,-119.0503,6.5,2.5,ml,24,87.14,0.24,0.1761,nn,nn00888749,2024-12-10T19:19:25.642Z,"23 km NNE of Yerington, Nevada",earthquake,,3,0.36,6,reviewed,nn,nn
-2024-12-10T02:50:07.415Z,39.1702,-119.046,7.9,2.8,ml,22,84.97,0.239,0.1796,nn,nn00889047,2024-12-10T18:43:31.633Z,"22 km NNE of Yerington, Nevada",earthquake,,4.6,0.31,10,reviewed,nn,nn
