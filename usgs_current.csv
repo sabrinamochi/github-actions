@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-11T18:41:10.530Z,33.6606667,-116.7481667,12.91,1.15,ml,48,24,0.0578,0.15,ci,ci40999904,2024-12-11T18:46:24.387Z,"9 km SSW of Idyllwild, CA",earthquake,0.19,0.31,0.189,27,automatic,ci,ci
+2024-12-11T18:41:10.530Z,33.6606667,-116.7481667,12.91,1.15,ml,48,24,0.0578,0.15,ci,ci40999904,2024-12-11T18:51:49.990Z,"9 km SSW of Idyllwild, CA",earthquake,0.19,0.31,0.189,27,automatic,ci,ci
+2024-12-11T18:38:47.470Z,17.7135,-68.198666666667,65.43,3.33,md,4,272,0.8153,0.45,pr,pr71468318,2024-12-11T18:49:12.120Z,"85 km SSE of Boca de Yuma, Dominican Republic",earthquake,12.61,18.07,0.11891918001911,4,reviewed,pr,pr
 2024-12-11T18:36:51.520Z,38.113334655762,-122.16999816894,0.75,2.18,md,5,140,0.01893,0.05,nc,nc75101871,2024-12-11T18:47:19.049Z,"6 km E of Vallejo, CA",earthquake,0.62,1.33000004,0.11,6,automatic,nc,nc
 2024-12-11T18:26:12.350Z,10.7051,-62.3306,74.464,4.7,mb,69,84,1.566,1.05,us,us7000nxxb,2024-12-11T18:47:57.040Z,"14 km NNW of Güiria, Venezuela",earthquake,8.62,5.861,0.089,38,reviewed,us,us
 2024-12-11T18:22:17.080Z,38.835498809815,-122.81517028809,1.4500000476837,1.1,md,15,78,0.01272,0.01,nc,nc75101866,2024-12-11T18:42:14.010Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.610000014,0.29,17,automatic,nc,nc
@@ -98,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T07:57:32.850Z,44.993166666667,-111.82683333333,4.66,0.45,ml,5,181,0.1005,0.08,mb,mb90068223,2024-12-11T17:58:03.640Z,"34 km SSE of Virginia City, Montana",earthquake,1.71,2.84,0.082124705591949,4,reviewed,mb,mb
 2024-12-11T07:50:13.358Z,63.8598,-144.5819,10.3,0.8,ml,,,,0.33,ak,ak024fwceuxi,2024-12-11T08:01:51.362Z,"15 km SSE of Healy Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-11T07:49:40.520Z,38.814834594727,-122.80916595459,2.9900000095367,1.07,md,22,44,0.01282,0.02,nc,nc75101626,2024-12-11T08:07:17.622Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.600000024,0.11,22,automatic,nc,nc
+2024-12-11T07:39:18.170Z,46.598166666667,-119.80283333333,7.82,1.31,ml,17,79,0.03086,0.09,uw,uw62067261,2024-12-11T18:49:17.740Z,"12 km SE of Desert Aire, Washington",earthquake,0.25,0.13,0.11661334160766,15,reviewed,uw,uw
 2024-12-11T07:38:46.461Z,60.3642,-151.1108,49.3,3.2,ml,,,,0.81,ak,ak024fwcccup,2024-12-11T16:56:14.441Z,"9 km ENE of Kasilof, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-12-11T07:25:54.449Z,39.159,-119.0482,10.6,2.7,ml,36,74.06,0.229,0.1584,nn,nn00889181,2024-12-11T18:22:41.482Z,"21 km NNE of Yerington, Nevada",earthquake,,1.2,0.24,12,reviewed,nn,nn
 2024-12-11T07:13:34.530Z,40.280666351318,-124.50216674805,16.239999771118,2.18,md,19,266,,0.08,nc,nc75101616,2024-12-11T08:52:16.944Z,"19 km W of Petrolia, CA",earthquake,1.89,0.730000019,0.11,16,automatic,nc,nc
@@ -238,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T19:14:19.830Z,40.349834442139,-125.07516479492,0.090000003576279,2.79,md,26,288,0.5635,0.31,nc,nc75101206,2024-12-10T21:22:14.142Z,"67 km WNW of Petrolia, CA",earthquake,5.72,8.07999992,0.18,18,automatic,nc,nc
 2024-12-10T19:08:38.950Z,38.823833465576,-122.79666900635,2.6600000858307,0.54,md,10,110,0.01048,0.01,nc,nc75101201,2024-12-10T19:27:16.328Z,"6 km NNW of The Geysers, CA",earthquake,0.71,1.45000005,0.25,10,automatic,nc,nc
 2024-12-10T19:01:19.122Z,62.7084,-151.7976,3.1,2,ml,,,,0.48,ak,ak024fuvq820,2024-12-10T19:03:35.834Z,"58 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-10T18:49:53.600Z,38.827499389648,-122.85483551025,2.5499999523163,0.77,md,15,98,0.001592,0.01,nc,nc75101191,2024-12-10T19:17:18.256Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.550000012,0.25,16,automatic,nc,nc
-2024-12-10T18:49:01.520Z,38.504833333333,-112.893,2.74,1.04,md,12,54,0.005954,0.11,uu,uu80097181,2024-12-10T19:03:29.990Z,"15 km NE of Milford, Utah",earthquake,0.34,0.49,0.22150575154336,5,reviewed,uu,uu
