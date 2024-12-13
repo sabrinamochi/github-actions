@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-13T20:06:37.350Z,33.3426667,-116.8126667,9.09,0.85,ml,38,33,0.04324,0.19,ci,ci41001392,2024-12-13T20:11:08.192Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.19,0.54,0.121,26,automatic,ci,ci
 2024-12-13T20:02:17.210Z,36.41883333,-96.90966667,8.52,0.89,ml,29,71,0.05039011174,0.24,ok,ok2024ylnd,2024-12-13T20:12:29.118Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.8,0.2,13,reviewed,ok,ok
-2024-12-13T19:56:21.390Z,38.839668273926,-122.8245010376,2.0199999809265,1.09,md,17,89,0.008647,0.02,nc,nc75102856,2024-12-13T19:57:57.608Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.49000001,0.29,17,automatic,nc,nc
+2024-12-13T19:56:21.390Z,38.839668273926,-122.8245010376,2.0199999809265,1.09,md,17,89,0.008647,0.02,nc,nc75102856,2024-12-13T20:17:17.736Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.49000001,0.29,17,automatic,nc,nc
 2024-12-13T19:46:44.000Z,33.1736667,-115.9636667,6.87,2.2,ml,78,21,0.01181,0.21,ci,ci41001384,2024-12-13T19:57:40.400Z,"14 km S of Salton City, CA",earthquake,0.15,0.42,0.099,26,automatic,ci,ci
 2024-12-13T19:11:14.840Z,34.5171667,-116.5311667,2.99,1.39,ml,34,56,0.1479,0.13,ci,ci41001368,2024-12-13T19:37:18.307Z,"40 km NE of Big Bear City, CA",earthquake,0.16,0.58,0.12,29,reviewed,ci,ci
 2024-12-13T18:58:47.164Z,39.11,-119.0405,5.2,1.6,ml,9,130.27,0.199,0.18,nn,nn00889512,2024-12-13T19:01:17.188Z,"17 km NE of Yerington, Nevada",earthquake,,1.7,0.1,4,automatic,nn,nn
@@ -79,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T11:40:04.383Z,38.1485,-117.8884,12.5,1.6,ml,10,88.75,0.091,0.1819,nn,nn00889476,2024-12-13T20:02:19.369Z,"33 km SE of Mina, Nevada",earthquake,,1.5,0.09,5,reviewed,nn,nn
 2024-12-13T11:34:54.165Z,44.3212,-115.209,10,2.6,ml,26,63,0.821,0.67,us,us7000nyek,2024-12-13T15:03:59.440Z,"24 km WNW of Stanley, Idaho",earthquake,2.21,2.011,0.053,46,reviewed,us,us
 2024-12-13T11:33:43.380Z,33.9478333,-118.3413333,8.26,1.61,ml,29,86,0.006211,0.22,ci,ci41001152,2024-12-13T19:24:23.885Z,"1 km SSE of Inglewood, CA",earthquake,0.39,0.55,0.134,19,reviewed,ci,ci
+2024-12-13T11:18:51.790Z,61.248166666667,-152.092,35.99,-0.02,ml,10,128,0.03507,0.31,av,av93028339,2024-12-13T20:18:14.330Z,"55 km WNW of Tyonek, Alaska",earthquake,1.53,1.69,0.17208593324891,9,reviewed,av,av
 2024-12-13T11:09:46.340Z,36.657,-116.2718,7.1,0.4,ml,28,83.93,0.055,0.0868,nn,nn00889475,2024-12-13T16:44:51.373Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.27,12,reviewed,nn,nn
 2024-12-13T10:50:50.390Z,38.81600189209,-122.79316711426,2.2400000095367,1.38,md,29,31,0.008194,0.02,nc,nc75102706,2024-12-13T12:37:15.372Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.330000013,0.14,30,automatic,nc,nc
 2024-12-13T10:49:15.920Z,40.206665039062,-124.56716918945,15.189999580383,2.86,md,7,310,0.3006,0.05,nc,nc75102701,2024-12-13T12:12:16.214Z,"27 km WSW of Petrolia, CA",earthquake,6.53,2.6500001,0.12,4,automatic,nc,nc
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T20:46:17.615Z,61.6272,-150.2123,25.7,1.7,ml,,,,0.6,ak,ak024fy7nzr5,2024-12-12T20:47:53.254Z,"16 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T20:30:52.980Z,19.517666666667,-155.46216666667,2.35,1.92,ml,46,65,0.01323,0.12,hv,hv74563502,2024-12-12T20:41:32.550Z,"25 km WNW of Volcano, Hawaii",earthquake,0.23,0.63,0.29032924842229,17,reviewed,hv,hv
 2024-12-12T20:28:25.873Z,60.2388,-150.9951,60.7,1.7,ml,,,,0.25,ak,ak024fy7k5i3,2024-12-12T20:30:11.972Z,"18 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-12T20:18:48.890Z,40.30033493042,-124.53500366211,15.210000038147,2.52,md,25,273,0.1477,0.12,nc,nc75102451,2024-12-13T14:50:58.040Z,"21 km W of Petrolia, CA",earthquake,2.12,0.370000005,0.18,21,automatic,nc,nc
