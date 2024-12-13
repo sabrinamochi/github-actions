@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-13T06:39:31.301Z,39.1414,-119.045,16,1.5,ml,10,127.32,0.218,0.1753,nn,nn00889447,2024-12-13T06:42:01.337Z,"20 km NNE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
 2024-12-13T06:34:52.611Z,39.095,-119.05,4.1,1.9,ml,18,91.26,0.184,0.1972,nn,nn00889445,2024-12-13T06:37:23.002Z,"15 km NE of Yerington, Nevada",earthquake,,1.6,0.21,11,automatic,nn,nn
 2024-12-13T06:32:38.250Z,38.835498809815,-122.81600189209,1.8300000429153,0.91,md,16,48,0.01294,0.02,nc,nc75102631,2024-12-13T06:34:15.285Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.540000021,0.19,19,automatic,nc,nc
 2024-12-13T06:28:55.150Z,36.244499206543,-120.79582977295,6.289999961853,1.39,md,10,155,0.02887,0.07,nc,nc75102626,2024-12-13T06:30:30.587Z,"22 km SW of New Idria, CA",earthquake,0.64,0.449999988,0.27,8,automatic,nc,nc
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T05:36:19.373Z,60.8482,-149.1502,26.1,1.7,ml,,,,0.34,ak,ak024fzm7p5d,2024-12-13T05:38:03.173Z,"10 km S of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-13T05:33:57.870Z,33.2885,-116.2668333,6.79,0.81,ml,46,36,0.08191,0.21,ci,ci41001104,2024-12-13T05:38:46.023Z,"11 km ENE of Borrego Springs, CA",earthquake,0.22,0.6,0.104,16,automatic,ci,ci
 2024-12-13T05:33:42.001Z,31.631,-104.172,4.6004,1.5,ml,20,60,0.1,0.4,tx,tx2024ykko,2024-12-13T06:08:52.237Z,"50 km NW of Toyah, Texas",earthquake,0,1.1804918050766,0.2,15,automatic,tx,tx
-2024-12-13T05:32:11.030Z,38.825832366943,-122.79916381836,2.5699999332428,1.08,md,19,47,0.01432,0.02,nc,nc75102601,2024-12-13T05:47:18.497Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.49000001,0.07,18,automatic,nc,nc
+2024-12-13T05:32:11.030Z,38.825832366943,-122.79916381836,2.5699999332428,1.08,md,19,47,0.01432,0.02,nc,nc75102601,2024-12-13T06:42:16.885Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.49000001,0.07,18,automatic,nc,nc
 2024-12-13T05:23:05.126Z,39.1591,-119.0417,3.2,1.4,ml,8,86.03,0.233,0.0849,nn,nn00889437,2024-12-13T05:26:40.561Z,"21 km NNE of Yerington, Nevada",earthquake,,7.2,0.36,5,automatic,nn,nn
 2024-12-13T05:12:11.930Z,38.837665557861,-122.82883453369,0.72000002861023,1.05,md,16,92,0.005277,0.04,nc,nc75102596,2024-12-13T05:32:17.401Z,"9 km NNW of The Geysers, CA",earthquake,0.23,0.460000008,0.33,16,automatic,nc,nc
 2024-12-13T05:10:40.416Z,56.7781,-152.9,21.8,3.7,ml,,,,0.72,ak,ak024fzm268l,2024-12-13T05:16:23.941Z,"53 km SSE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -80,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T21:38:47.471Z,57.2782,-153.6344,30.9,2.3,ml,,,,0.34,ak,ak024fy87rxn,2024-12-12T21:41:30.572Z,"21 km WNW of Old Harbor, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-12T21:19:31.197Z,64.4591,-146.9218,0.2,1.6,ml,,,,0.55,ak,ak024fy83o2n,2024-12-12T21:25:50.239Z,"7 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T21:16:14.903Z,61.5778,-146.4789,30.6,1.8,ml,,,,0.38,ak,ak024fy82zo2,2024-12-12T21:17:35.886Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-12T21:06:52.080Z,60.3625,-152.82516666667,7.63,0.26,ml,7,319,0.06264,0.08,av,av93406616,2024-12-13T06:43:01.130Z,"72 km WNW of Ninilchik, Alaska",earthquake,0.71,0.71,0.16556076767332,7,reviewed,av,av
 2024-12-12T21:01:24.990Z,46.360668182373,-122.38400268555,-0.15999999642372,1.7796680927277,ml,21,95,,0.109999999,uw,uw62059157,2024-12-12T21:03:00.070Z,"20 km SSE of Mossyrock, Washington",earthquake,0.71,0.449999988,0.27621418237686,13,automatic,uw,uw
 2024-12-12T20:51:26.901Z,62.3912,-152.0694,104,1.4,ml,,,,0.27,ak,ak024fy7p31u,2024-12-12T20:53:16.102Z,"56 km NW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-12T20:51:18.400Z,56,-159.56583333333,13.42,0.2,ml,5,296,0.07159,0.3,av,av93028314,2024-12-13T06:27:25.460Z,"12 km NNW of Ivanof Bay, Alaska",earthquake,3.57,1.58,0.23528434620022,5,reviewed,av,av
