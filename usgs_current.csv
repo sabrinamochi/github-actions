@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-13T09:28:32.165Z,36.7468,-116.7073,8.3,0.1,ml,9,201.06,0.185,0.3674,nn,nn00889471,2024-12-13T09:30:31.920Z,"18 km SSE of Beatty, Nevada",earthquake,,3.2,0.89,5,automatic,nn,nn
+2024-12-13T09:28:19.534Z,39.1507,-119.0532,12.3,1.4,ml,8,123.8,0.22,0.1413,nn,nn00889472,2024-12-13T09:30:51.999Z,"20 km NNE of Yerington, Nevada",earthquake,,2.1,0,1,automatic,nn,nn
 2024-12-13T09:23:05.447Z,63.1723,-150.5259,112,2,ml,,,,0.43,ak,ak024fzoim6o,2024-12-13T09:25:41.934Z,"72 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-13T09:14:22.442Z,62.4326,-151.08,63,2,ml,,,,0.52,ak,ak024fzogq1w,2024-12-13T09:16:40.589Z,"17 km WSW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-13T09:10:08.300Z,36.6049,-117.1604,2.4,1.1,ml,19,191.89,0.38,0.3129,nn,nn00889470,2024-12-13T09:12:23.597Z,"32 km WNW of Furnace Creek, California",earthquake,,9,0.3,11,automatic,nn,nn
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T07:07:31.270Z,40.388832092285,-125.01650238037,0.93000000715256,2.96,md,28,277,0.5248,0.33,nc,nc75102641,2024-12-13T09:16:26.552Z,"62 km WNW of Petrolia, CA",earthquake,7.75,11.2200003,0.12,11,automatic,nc,nc
 2024-12-13T07:01:00.304Z,36.6694,-116.2622,7,0.7,ml,19,92.43,0.066,0.1858,nn,nn00889454,2024-12-13T07:03:02.741Z,"51 km ESE of Beatty, Nevada",earthquake,,0.6,0.21,13,automatic,nn,nn
 2024-12-13T06:57:17.260Z,18.043166666667,-66.7565,16.07,2.13,md,7,161,0.135,0.09,pr,pr71468468,2024-12-13T07:24:55.930Z,"2 km S of Santo Domingo, Puerto Rico",earthquake,0.45,1.07,0.21111961793324,7,reviewed,pr,pr
-2024-12-13T06:56:23.065Z,51.1056,-177.0888,40.85,4.9,mb,67,131,0.749,0.88,us,us7000nycy,2024-12-13T07:16:20.040Z,"91 km SSW of Adak, Alaska",earthquake,6.98,7.251,0.038,221,reviewed,us,us
+2024-12-13T06:56:23.065Z,51.1056,-177.0888,40.85,4.9,mb,67,131,0.749,0.88,us,us7000nycy,2024-12-13T09:32:58.426Z,"91 km SSW of Adak, Alaska",earthquake,6.98,7.251,0.038,221,reviewed,us,us
 2024-12-13T06:54:04.106Z,36.6629,-116.2718,3.7,1.5,ml,29,82.49,0.056,0.219,nn,nn00889451,2024-12-13T06:56:34.401Z,"51 km ESE of Beatty, Nevada",earthquake,,0.4,0.2,22,automatic,nn,nn
 2024-12-13T06:53:51.750Z,19.489833831787,-155.41732788086,6.6799998283386,1.76999998,md,27,73,0.02972,0.140000001,hv,hv74563862,2024-12-13T06:55:37.170Z,"19 km WNW of Volcano, Hawaii",earthquake,0.31,0.629999995,0.270000011,5,automatic,hv,hv
 2024-12-13T06:39:31.301Z,39.1414,-119.045,16,1.5,ml,10,127.32,0.218,0.1753,nn,nn00889447,2024-12-13T06:42:01.337Z,"20 km NNE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
@@ -265,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T09:42:54.455Z,61.6362,-149.7584,29.1,1.2,ml,,,,0.3,ak,ak024fy13jow,2024-12-12T18:59:30.125Z,"3 km ENE of Houston, Alaska",earthquake,,2.7,,,reviewed,ak,ak
 2024-12-12T09:33:29.730Z,44.801,-111.46883333333,10.51,-0.06,ml,5,205,0.04055,0.12,mb,mb90068338,2024-12-12T16:50:03.550Z,"22 km W of Hebgen Lake Estates, Montana",earthquake,1.86,2.06,0.33777109485713,3,reviewed,mb,mb
 2024-12-12T09:33:28.552Z,60.2647,-151.838,55.5,1.8,ml,,,,0.41,ak,ak024fy11gmv,2024-12-12T09:35:21.566Z,"24 km W of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-12-12T09:27:07.350Z,54.542666666667,-163.51483333333,10.77,2.15,ml,5,264,0.1675,0.05,av,av93028284,2024-12-13T00:49:46.490Z,"35 km S of False Pass, Alaska",earthquake,0.64,0.44,0.14983983043168,6,reviewed,av,av
