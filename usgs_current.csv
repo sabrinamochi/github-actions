@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-13T22:20:10.139Z,31.573,-104.56,3.4036,2.1,ml,7,167,0.1,0.2,tx,tx2024ylru,2024-12-13T22:32:36.567Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.3187658786774,0.2,7,automatic,tx,tx
 2024-12-13T22:19:52.500Z,35.6901667,-117.5248333,6.25,1.2,ml,31,47,0.08604,0.12,ci,ci41001464,2024-12-13T22:23:35.308Z,"14 km SW of Searles Valley, CA",earthquake,0.15,0.52,0.158,16,automatic,ci,ci
 2024-12-13T22:12:53.743Z,39.1724,-119.0514,5.5,1.7,ml,11,118.93,0.238,0.1063,nn,nn00889523,2024-12-13T22:15:19.753Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.46,6,automatic,nn,nn
 2024-12-13T22:03:18.730Z,19.310832977295,-155.24667358398,1.2200000286102,2.17,ml,55,87,0.03606,0.200000003,hv,hv74564237,2024-12-13T22:06:10.770Z,"14 km S of Volcano, Hawaii",earthquake,0.23,0.340000004,0.47,20,automatic,hv,hv
-2024-12-13T21:57:14.640Z,38.805999755859,-122.77200317383,1.5499999523163,0.96,md,13,114,0.009927,0.02,nc,nc75102891,2024-12-13T22:17:18.547Z,"3 km NNW of The Geysers, CA",earthquake,0.3,0.579999983,0.21,14,automatic,nc,nc
+2024-12-13T21:57:14.640Z,38.805999755859,-122.77200317383,1.5499999523163,0.96,md,13,114,0.009927,0.02,nc,nc75102891,2024-12-13T22:32:15.654Z,"3 km NNW of The Geysers, CA",earthquake,0.3,0.579999983,0.21,14,automatic,nc,nc
 2024-12-13T21:49:03.170Z,19.39999961853,-155.28266906738,1.3200000524521,1.71,ml,19,36,0.009686,0.109999999,hv,hv74564232,2024-12-13T21:51:56.910Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.200000003,0.14,9,automatic,hv,hv
 2024-12-13T21:43:14.100Z,19.401500701904,-155.26400756836,1.3700000047684,1.74,ml,19,61,0.003763,0.140000001,hv,hv74564222,2024-12-13T21:46:08.240Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.200000003,0.3,9,automatic,hv,hv
 2024-12-13T21:32:54.359Z,31.588,-104.489,4.2877,1.5,ml,7,144,0.1,0.2,tx,tx2024ylqf,2024-12-13T22:19:42.465Z,"66 km S of Whites City, New Mexico",earthquake,0,2.358124256134,0.1,7,automatic,tx,tx
@@ -88,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T12:31:40.442Z,60.454,-146.7844,20.1,1.5,ml,,,,0.62,ak,ak024fzqcpej,2024-12-13T12:33:18.924Z,"46 km S of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-13T12:31:00.850Z,34.518,-116.5321667,2.34,1.63,ml,38,46,0.1468,0.12,ci,ci41001168,2024-12-13T18:53:52.290Z,"40 km NE of Big Bear City, CA",earthquake,0.14,0.53,0.119,18,reviewed,ci,ci
 2024-12-13T12:18:26.610Z,36.952835083008,-121.05416870117,0.10999999940395,1.18,md,11,89,0.07835,0.25,nc,nc75102716,2024-12-13T13:27:17.710Z,"22 km WSW of Los Banos, CA",earthquake,0.72,11.2399998,0.08,5,automatic,nc,nc
-2024-12-13T12:08:58.149Z,39.1645,-119.0562,0.8,1.6,ml,8,86.35,0.229,0.0812,nn,nn00889481,2024-12-13T12:12:23.226Z,"21 km NNE of Yerington, Nevada",earthquake,,25.3,0.23,3,automatic,nn,nn
+2024-12-13T12:08:58.969Z,39.1712,-119.0555,7.5,1.5,ml,10,82.04,0.013,0.1048,nn,nn00889481,2024-12-13T22:27:18.967Z,"22 km NNE of Yerington, Nevada",earthquake,,1.3,0.2,2,reviewed,nn,nn
 2024-12-13T11:47:21.604Z,39.1319,-119.0511,8.2,1.7,ml,14,128.97,0.038,0.127,nn,nn00889479,2024-12-13T21:59:26.179Z,"18 km NNE of Yerington, Nevada",earthquake,,1.2,0.25,7,reviewed,nn,nn
 2024-12-13T11:40:04.383Z,38.1485,-117.8884,12.5,1.6,ml,10,88.75,0.091,0.1819,nn,nn00889476,2024-12-13T20:02:19.369Z,"33 km SE of Mina, Nevada",earthquake,,1.5,0.09,5,reviewed,nn,nn
 2024-12-13T11:34:54.165Z,44.3212,-115.209,10,2.6,ml,26,63,0.821,0.67,us,us7000nyek,2024-12-13T15:03:59.440Z,"24 km WNW of Stanley, Idaho",earthquake,2.21,2.011,0.053,46,reviewed,us,us
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T22:42:03.770Z,59.4164,-153.1298,76.8,1.7,ml,,,,0.53,ak,ak024fy8tz15,2024-12-12T22:44:04.127Z,"68 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-12T22:40:51.540Z,58.169333333333,-155.35683333333,2.29,0.06,ml,8,117,0.04353,0.11,av,av93406726,2024-12-13T07:26:59.440Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.48,0.16902166718163,9,reviewed,av,av
 2024-12-12T22:35:57.603Z,60.1968,-151.9923,33.4,1.5,ml,,,,1.16,ak,ak024fy8sl68,2024-12-12T22:37:53.252Z,"24 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-12T22:29:39.328Z,65.0103,-148.8027,18.1,1,ml,,,,0.22,ak,ak024fy8r9gs,2024-12-12T22:31:36.098Z,"30 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
