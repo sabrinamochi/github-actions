@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T04:11:44.040Z,33.091,-116.6251667,16.67,1.06,ml,58,26,0.02525,0.2,ci,ci41001624,2024-12-14T04:22:19.470Z,"3 km WNW of Julian, CA",earthquake,0.2,0.43,0.184,27,automatic,ci,ci
 2024-12-14T03:42:08.850Z,40.265167236328,-124.49749755859,15.140000343323,2.7,ml,8,297,0.1208,0.16,nc,nc75102986,2024-12-14T04:22:16.004Z,"19 km W of Petrolia, CA",earthquake,4.18,1.15999997,0.288,6,automatic,nc,nc
 2024-12-14T03:37:23.000Z,34.208,-116.8343333,6.95,0.99,ml,45,39,0.08978,0.13,ci,ci41001616,2024-12-14T03:42:18.198Z,"6 km S of Big Bear City, CA",earthquake,0.14,0.47,0.139,18,automatic,ci,ci
-2024-12-14T03:12:51.980Z,40.603000640869,-121.83083343506,13.819999694824,3.32,ml,50,33,0.09668,0.19,nc,nc75102976,2024-12-14T04:16:29.206Z,"13 km NNE of Shingletown, CA",earthquake,0.29,0.819999993,0.19,18,automatic,nc,nc
+2024-12-14T03:12:51.980Z,40.603000640869,-121.83083343506,13.819999694824,3.32,ml,50,33,0.09668,0.19,nc,nc75102976,2024-12-14T04:33:59.110Z,"13 km NNE of Shingletown, CA",earthquake,0.29,0.819999993,0.19,18,automatic,nc,nc
 2024-12-14T03:12:09.418Z,60.6671,-151.6506,87.9,1.3,ml,,,,0.64,ak,ak024g18f0h9,2024-12-14T03:13:54.429Z,"19 km WNW of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-14T03:10:00.306Z,31.533,-104.204,1.6359,1.6,ml,14,152,0.1,0.5,tx,tx2024ymbi,2024-12-14T03:14:52.754Z,"45 km WNW of Toyah, Texas",earthquake,0,1.5277386903763,0.2,12,automatic,tx,tx
 2024-12-14T03:08:57.680Z,31.551,-104.198,4.3627,1.6,ml,17,113,0.1,0.2,tx,tx2024ymbh,2024-12-14T03:25:03.335Z,"46 km NW of Toyah, Texas",earthquake,0,1.6032890081406,0.2,13,automatic,tx,tx
@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T20:54:02.837Z,39.1805,-118.9956,0.7,1.5,ml,8,87.95,0.273,0.1618,nn,nn00889520,2024-12-13T20:57:18.161Z,"26 km NE of Yerington, Nevada",earthquake,,21.4,0.01,2,automatic,nn,nn
 2024-12-13T20:49:54.337Z,39.0871,-119.0519,9.8,1.5,ml,8,142.55,0.179,0.1458,nn,nn00889519,2024-12-13T20:52:18.264Z,"14 km NE of Yerington, Nevada",earthquake,,3.2,0.21,4,automatic,nn,nn
 2024-12-13T20:25:50.658Z,62.0162,-148.8119,20,1.4,ml,,,,0.29,ak,ak024fzv2wrd,2024-12-13T20:27:26.665Z,"26 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-13T20:20:46.660Z,58.157,-154.72633333333,10.59,0.12,ml,8,259,0.135,0.2,av,av93028384,2024-12-14T04:33:53.390Z,"67 km NNW of Karluk, Alaska",earthquake,1.1,1.73,0.36557742303111,8,reviewed,av,av
 2024-12-13T20:06:37.350Z,33.3426667,-116.8126667,9.09,0.85,ml,38,33,0.04324,0.19,ci,ci41001392,2024-12-13T23:00:05.507Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.19,0.54,0.121,26,reviewed,ci,ci
 2024-12-13T20:04:56.860Z,46.014333333333,-112.457,-2,1.56,ml,10,90,0.06955,0.14,mb,mb90068578,2024-12-13T21:06:39.660Z,"6 km E of Butte, Montana",quarry blast,0.47,31.61,0.27569179807768,18,reviewed,mb,mb
 2024-12-13T20:02:17.210Z,36.41883333,-96.90966667,8.52,0.89,ml,29,71,0.05039011174,0.24,ok,ok2024ylnd,2024-12-13T20:12:29.118Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.8,0.2,13,reviewed,ok,ok
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T04:45:55.640Z,39.1652,-119.0336,4.7,3.3,ml,35,70.12,0.006,0.1419,nn,nn00889415,2024-12-13T17:22:24.297Z,"22 km NNE of Yerington, Nevada",earthquake,,0.6,0.25,11,reviewed,nn,nn
 2024-12-13T04:45:37.651Z,39.1735,-119.0211,5.5,3.1,ml,7,62.21,0.015,0.1063,nn,nn00889414,2024-12-13T05:43:14.550Z,"24 km NNE of Yerington, Nevada",earthquake,,2.1,0.15,2,reviewed,nn,nn
 2024-12-13T04:41:53.149Z,39.1748,-119.0406,5.4,1.8,ml,22,62.56,0.006,0.1884,nn,nn00889412,2024-12-13T21:50:02.892Z,"23 km NNE of Yerington, Nevada",earthquake,,0.8,0.26,12,reviewed,nn,nn
-2024-12-13T04:35:41.674Z,31.681,-104.421,5.6228,1.6,ml,16,61,0,0.3,tx,tx2024ykir,2024-12-13T04:41:56.353Z,"55 km S of Whites City, New Mexico",earthquake,0,2.524505853653,0.1,12,automatic,tx,tx
-2024-12-13T04:35:39.780Z,36.7037,-116.2762,5.4,-0.1,ml,19,106.67,0.035,0.0864,nn,nn00889490,2024-12-13T15:33:10.891Z,"48 km ESE of Beatty, Nevada",earthquake,,1.2,0.17,7,reviewed,nn,nn
