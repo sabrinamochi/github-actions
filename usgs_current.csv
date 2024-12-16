@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-16T20:41:34.290Z,32.6041679,-116.9803314,3.01,1.53,ml,47,200,0.04247,0.25,ci,ci41003056,2024-12-16T20:43:40.705Z,"7 km ESE of Chula Vista, CA",earthquake,0.97,0.53,0.172,10,automatic,ci,ci
 2024-12-16T20:33:47.805Z,60.0105,-142.7121,23.8,2.1,ml,,,,0.5,ak,ak024g4tqnr0,2024-12-16T20:35:53.140Z,"158 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-16T20:18:32.509Z,60.9111,-150.9181,14.2,2,ml,,,,0.36,ak,ak024g4tnetu,2024-12-16T20:20:12.357Z,"12 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-16T20:07:54.083Z,39.149,-119.0212,9,1.3,ml,11,90.32,0.024,0.1536,nn,nn00889776,2024-12-16T20:40:59.528Z,"21 km NE of Yerington, Nevada",earthquake,,1.5,0.58,4,reviewed,nn,nn
@@ -130,6 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T08:00:04.129Z,60.951,-150.9293,43.6,1.9,ml,,,,0.34,ak,ak024g4meaho,2024-12-16T08:01:33.954Z,"13 km WNW of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-16T07:59:06.990Z,33.8968333,-116.2851667,5.32,0.67,ml,32,79,0.09723,0.16,ci,ci41002576,2024-12-16T13:57:09.246Z,"13 km NE of Thousand Palms, CA",earthquake,0.21,1.02,0.083,9,reviewed,ci,ci
 2024-12-16T07:54:35.320Z,19.265333175659,-155.36517333984,32.189998626709,2.1400001,md,48,137,0.04122,0.140000001,hv,hv74567397,2024-12-16T07:56:09.120Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.5,0.519999981,0.230000004,6,automatic,hv,hv
+2024-12-16T07:47:56.960Z,39.701333333333,-110.838,-3.45,1.52,md,11,152,0.07918,0.19,uu,uu80097726,2024-12-16T20:42:10.840Z,"2 km NE of Helper, Utah",earthquake,0.84,1.35,0.19252008601262,6,reviewed,uu,uu
 2024-12-16T07:45:36.890Z,40.378833770752,-124.97133636475,1.8700000047684,3.12,ml,35,263,0.4962,0.18,nc,nc75103856,2024-12-16T09:42:15.439Z,"58 km WNW of Petrolia, CA",earthquake,2.67,4.32000017,0.239,6,automatic,nc,nc
 2024-12-16T07:28:58.320Z,33.9771667,-116.7366667,17.17,0.88,ml,52,36,0.08267,0.19,ci,ci41002568,2024-12-16T13:57:11.595Z,"8 km NE of Cabazon, CA",earthquake,0.2,0.5,0.143,26,reviewed,ci,ci
 2024-12-16T07:24:58.300Z,40.334999084473,-124.78900146484,-0.090000003576279,2.9,md,24,254,0.3445,0.51,nc,nc75103851,2024-12-16T09:27:14.329Z,"43 km WNW of Petrolia, CA",earthquake,8.72,15.0900002,0.14,18,automatic,nc,nc
@@ -251,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T20:51:32.930Z,38.847999572754,-122.74600219727,0.34999999403954,0.93,md,14,183,0.02434,0.06,nc,nc75103646,2024-12-15T21:07:13.962Z,"3 km NNW of Cobb, CA",earthquake,0.42,0.649999976,0.23,13,automatic,nc,nc
 2024-12-15T20:49:33.160Z,39.698833333333,-110.846,-3.49,1.39,md,8,210,0.08584,0.26,uu,uu80097686,2024-12-16T19:55:10.860Z,"1 km NNE of Helper, Utah",earthquake,1.2,1.55,0.14782134645523,6,reviewed,uu,uu
 2024-12-15T20:46:10.590Z,36.7543,-116.016,4.3,-0.1,ml,14,183.62,0.021,0.0891,nn,nn00889703,2024-12-16T02:05:28.532Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.28,6,reviewed,nn,nn
-2024-12-15T20:44:18.306Z,31.964,-102.274,8.374,1.4,ml,15,77,0,0.1,tx,tx2024ypfp,2024-12-16T17:01:31.692Z,"11 km ESE of Gardendale, Texas",earthquake,0.65157145127642,0.60342198784057,0.2,15,reviewed,tx,tx
