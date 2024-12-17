@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-17T09:09:10.520Z,38.817832946777,-122.79533386231,3.1900000572205,0.67,md,9,74,0.009851,0.02,nc,nc75104466,2024-12-17T09:10:46.507Z,"6 km NNW of The Geysers, CA",earthquake,0.61,1.41999996,0.36,10,automatic,nc,nc
 2024-12-17T08:48:59.455Z,32.13,-102.216,4.6031,2.4,ml,65,48,0,0.4,tx,tx2024yrzb,2024-12-17T09:01:14.340Z,"19 km NW of Midland, Texas",earthquake,0,0.72251063585281,0.1,40,automatic,tx,tx
 2024-12-17T08:47:42.360Z,36.0191667,-117.7781667,1.28,0.47,ml,15,60,0.01208,0.17,ci,ci41003392,2024-12-17T08:51:04.280Z,"15 km NE of Little Lake, CA",earthquake,0.23,0.33,0.069,5,automatic,ci,ci
 2024-12-17T08:44:16.254Z,62.2626,-149.3163,35.4,1.8,ml,,,,0.42,ak,ak024g6a73fd,2024-12-17T08:46:40.113Z,"30 km ENE of Susitna North, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T07:17:29.320Z,32.9166667,-116.2395,8.15,0.64,ml,33,45,0.1541,0.17,ci,ci41003368,2024-12-17T07:21:25.512Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.77,0.11,7,automatic,ci,ci
 2024-12-17T07:16:11.554Z,61.6248,-151.2417,66.2,1.8,ml,,,,0.5,ak,ak024g69fner,2024-12-17T07:18:06.831Z,"39 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-17T07:16:03.598Z,39.1227,-119.0448,0.8,2.3,ml,14,99.05,0.205,0.2533,nn,nn00889838,2024-12-17T07:18:15.576Z,"18 km NE of Yerington, Nevada",earthquake,,5.2,0.11,9,automatic,nn,nn
-2024-12-17T07:04:18.080Z,39.250667572021,-120.52300262451,13.170000076294,2.45,md,8,90,0.08747,0.02,nc,nc75104406,2024-12-17T07:17:19.389Z,"30 km W of Truckee, CA",earthquake,1.07,2.17000008,0.16,9,automatic,nc,nc
+2024-12-17T07:04:18.080Z,39.250667572021,-120.52300262451,13.170000076294,2.45,md,8,90,0.08747,0.02,nc,nc75104406,2024-12-17T09:12:15.162Z,"30 km W of Truckee, CA",earthquake,1.07,2.17000008,0.16,9,automatic,nc,nc
 2024-12-17T07:01:40.927Z,39.1504,-119.0598,0.1,2.2,ml,16,101.82,0.217,0.1408,nn,nn00889835,2024-12-17T07:05:15.538Z,"20 km NNE of Yerington, Nevada",earthquake,,16.3,0.2,9,automatic,nn,nn
 2024-12-17T06:57:05.223Z,53.0116,-166.7581,39.468,4.5,mb,68,169,0.786,1.14,us,us7000nzhd,2024-12-17T08:00:06.040Z,"97 km S of Unalaska, Alaska",earthquake,7.97,9.103,0.061,79,reviewed,us,us
 2024-12-17T06:56:15.290Z,38.82833480835,-122.81649780273,1.7799999713898,1.05,md,21,44,0.007036,0.01,nc,nc75104396,2024-12-17T07:17:17.486Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.370000005,0.12,22,automatic,nc,nc
@@ -264,7 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T09:24:55.980Z,33.8966667,-116.2845,5.11,0.67,ml,31,80,0.09675,0.14,ci,ci41002608,2024-12-16T13:54:31.678Z,"13 km NE of Thousand Palms, CA",earthquake,0.19,0.91,0.17,11,reviewed,ci,ci
 2024-12-16T09:24:32.280Z,39.01,-111.39633333333,-1.71,1.13,md,7,126,0.03172,0.11,uu,uu80097756,2024-12-16T17:21:35.680Z,"16 km NW of Emery, Utah",earthquake,0.62,0.68,0.23644936929462,7,reviewed,uu,uu
 2024-12-16T09:18:22.422Z,63.1373,-152.4359,10.2,1.9,ml,,,,0.52,ak,ak024g4n3mea,2024-12-16T09:20:23.556Z,"57 km SW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-12-16T09:12:06.180Z,39.704666666667,-110.83116666667,1.26,1.5,md,7,202,0.07307,0.23,uu,uu80097751,2024-12-16T19:19:08.710Z,"2 km NW of Kenilworth, Utah",earthquake,1.5,31.61,0.18587081099005,6,reviewed,uu,uu
-2024-12-16T09:11:04.427Z,61.7873,-149.6145,29,2,ml,,,,0.61,ak,ak024g4n22zu,2024-12-16T09:13:02.808Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-16T09:08:38.530Z,58.171666666667,-155.33033333333,1.1,-0.37,ml,4,175,0.03847,0.04,av,av93410941,2024-12-17T03:38:30.020Z,"84 km NW of Karluk, Alaska",earthquake,0.27,1.46,0.21914106107963,4,reviewed,av,av
-2024-12-16T09:06:02.030Z,38.8125,-122.76300048828,11.85000038147,1.05,md,10,183,0.01213,0.12,nc,nc75103876,2024-12-16T09:22:15.292Z,"4 km W of Cobb, CA",earthquake,2.65,9.97999954,0.27,11,automatic,nc,nc
