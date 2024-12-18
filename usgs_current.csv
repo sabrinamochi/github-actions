@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-18T08:32:51.774Z,38.1913,-117.7927,10.1,2,ml,20,100.85,0.463,0.275,nn,nn00889897,2024-12-18T08:35:44.493Z,"35 km SE of Mina, Nevada",earthquake,,0.6,0.16,8,automatic,nn,nn
+2024-12-18T08:32:30.270Z,38.84383392334,-122.82516479492,1.8500000238419,0.71,md,7,130,0.009613,0.01,nc,nc75104751,2024-12-18T08:34:05.106Z,"9 km WNW of Cobb, CA",earthquake,0.65,1.08000004,0.26,8,automatic,nc,nc
 2024-12-18T08:21:44.783Z,31.596,-104.264,3.9832,1.4,ml,16,72,0.1,0.2,tx,tx2024yttq,2024-12-18T08:29:04.150Z,"54 km NW of Toyah, Texas",earthquake,0,1.4173156023025,0.2,12,automatic,tx,tx
 2024-12-18T08:18:29.890Z,35.6645,-117.4711667,4.82,1.17,ml,34,42,0.03865,0.12,ci,ci41004272,2024-12-18T08:21:58.945Z,"13 km SSW of Searles Valley, CA",earthquake,0.14,0.3,0.18,22,automatic,ci,ci
 2024-12-18T08:10:04.200Z,40.260833740234,-121.38566589356,-1.9800000190735,1.79,md,9,215,0.1394,0.14,nc,nc75104746,2024-12-18T08:27:16.822Z,"14 km W of Chester, CA",earthquake,1.44,6.51000023,0.1,10,automatic,nc,nc
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T08:00:27.606Z,61.2598,-146.7332,27.4,1.9,ml,,,,0.31,ak,ak024g7xh1ag,2024-12-18T08:01:44.445Z,"25 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-18T08:00:10.328Z,62.892,-150.5718,84.4,1.8,ml,,,,0.33,ak,ak024g7xgzy5,2024-12-18T08:02:44.875Z,"45 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-18T07:56:48.917Z,60.8472,-148.9069,22.7,2.2,ml,,,,0.45,ak,ak024g7x7nff,2024-12-18T07:58:29.593Z,"14 km NW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-18T07:53:48.290Z,38.811832427979,-122.74349975586,35.349998474121,1.3,md,5,135,0.02779,0.03,nc,nc75104736,2024-12-18T08:17:18.751Z,"2 km WSW of Cobb, CA",earthquake,4.22,8.61999989,0.27,2,automatic,nc,nc
+2024-12-18T07:53:48.290Z,38.811832427979,-122.74349975586,35.349998474121,1.3,md,5,135,0.02779,0.03,nc,nc75104736,2024-12-18T08:32:15.858Z,"2 km WSW of Cobb, CA",earthquake,4.22,8.61999989,0.27,2,automatic,nc,nc
 2024-12-18T07:52:07.210Z,32.8581667,-116.1756667,11.25,0.89,ml,31,54,0.1761,0.19,ci,ci41004256,2024-12-18T07:55:58.983Z,"22 km NW of Ocotillo, CA",earthquake,0.25,0.68,0.149,13,automatic,ci,ci
 2024-12-18T07:43:15.720Z,18.7605,-65.2221,89,3.69,md,17,227,0.457,0.5,pr,pr2024353000,2024-12-18T08:13:20.823Z,"51 km N of Culebra, Puerto Rico",earthquake,6.54,4.33,0.13,14,reviewed,pr,pr
 2024-12-18T07:37:58.902Z,39.1734,-119.0257,4.7,1.4,ml,14,115.95,0.011,0.2554,nn,nn00889887,2024-12-18T07:40:11.068Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.19,5,automatic,nn,nn
@@ -273,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T08:49:00.089Z,32.137,-102.221,5.6152,2.4,ml,21,69,0,0.1,tx,tx2024yrzb,2024-12-18T06:48:39.040Z,"19 km NE of Gardendale, Texas",earthquake,0.67492282676502,1.6084636288762,0.2,25,reviewed,tx,tx
 2024-12-17T08:47:42.250Z,36.025,-117.7738333,2.13,0.48,ml,12,65,0.006953,0.08,ci,ci41003392,2024-12-17T15:37:58.749Z,"16 km NE of Little Lake, CA",earthquake,0.13,0.15,0.069,5,reviewed,ci,ci
 2024-12-17T08:44:16.254Z,62.2626,-149.3163,35.4,1.8,ml,,,,0.42,ak,ak024g6a73fd,2024-12-17T08:46:40.113Z,"30 km ENE of Susitna North, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2024-12-17T08:34:00.191Z,32.134,-102.207,6.6162,1.5,ml,22,86,0,0.1,tx,tx2024yryo,2024-12-17T12:43:46.828Z,"19 km NW of Midland, Texas",earthquake,0.57752465295887,1.2924070428499,0.2,22,reviewed,tx,tx
