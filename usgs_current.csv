@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11,1.12,ml,28,101,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18,reviewed,uw,uw
 2024-12-19T18:53:58.936Z,61.6669,-149.9869,28.1,1.8,ml,,,,0.21,ak,ak024g9ra579,2024-12-19T18:56:07.485Z,"9 km SSE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-19T18:50:26.851Z,61.6495,-149.9025,30.5,1.9,ml,,,,0.9,ak,ak024g9r9fkt,2024-12-19T18:52:30.141Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-19T18:48:13.364Z,31.577,-104.014,5.4293,1.8,ml,15,58,0,0.2,tx,tx2024ywju,2024-12-19T18:52:21.313Z,"35 km NW of Toyah, Texas",earthquake,0,3.0401556491852,0.1,13,automatic,tx,tx
 2024-12-19T18:36:16.772Z,-20.316,168.387,25.549,5.1,mww,47,66,2.448,1.19,us,us7000p04r,2024-12-19T19:00:14.040Z,"126 km SW of Isangel, Vanuatu",earthquake,8.92,5.192,0.083,14,reviewed,us,us
 2024-12-19T18:34:40.426Z,31.577,-104.01,5.9364,1.9,ml,16,50,0,0.3,tx,tx2024ywjj,2024-12-19T18:40:53.249Z,"35 km NW of Toyah, Texas",earthquake,0,2.5273191928863,0.1,13,automatic,tx,tx
 2024-12-19T18:16:56.670Z,40.525333333333,-112.15416666667,-2,1.37,md,16,64,0.06135,0.19,uu,uu80098121,2024-12-19T19:05:32.500Z,"4 km SSW of Bingham Canyon, Utah",quarry blast,0.4,31.61,0.37263996865,10,reviewed,uu,uu
+2024-12-19T18:10:23.463Z,32.6731,-94.1115,5,2.6,mb_lg,15,68,0.395,0.66,us,us7000p04m,2024-12-19T19:16:01.040Z,"4 km SSE of Uncertain, Texas",earthquake,2.37,1.956,0.102,26,reviewed,us,us
 2024-12-19T18:04:27.041Z,63.1084,-149.8715,91,1.6,ml,,,,0.61,ak,ak024g9qzknk,2024-12-19T18:06:41.685Z,"56 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-19T18:01:39.730Z,19.312000274658,-155.21299743652,-0.28000000119209,2.1,ml,53,129,0.03253,0.189999998,hv,hv74570942,2024-12-19T18:04:30.180Z,"14 km S of Volcano, Hawaii",earthquake,0.28,0.150000006,0.54,13,automatic,hv,hv
 2024-12-19T17:54:41.520Z,40.581,-111.37966666667,-2,1.84,ml,11,113,0.03369,0.23,uu,uu80098116,2024-12-19T19:12:01.680Z,"6 km SSE of Hideout, Utah",quarry blast,0.82,31.61,0.038574666741541,2,reviewed,uu,uu
@@ -218,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T19:50:27.500Z,40.261001586914,-124.67900085449,23.14999961853,2,md,8,322,0.2588,0.07,nc,nc75104976,2024-12-18T20:57:15.099Z,"34 km W of Petrolia, CA",earthquake,7.85,3.72000003,0.1,7,automatic,nc,nc
 2024-12-18T19:41:02.800Z,36.587665557861,-121.41549682617,1.6699999570847,1.27,md,8,90,0.01441,0.04,nc,nc75104966,2024-12-18T20:27:16.900Z,"9 km NNE of Gonzales, CA",earthquake,0.27,0.330000013,0.15,8,automatic,nc,nc
 2024-12-18T19:38:04.720Z,19.596333333333,-155.282,11.04,1.69,md,25,89,0.1356,0.17,hv,hv74570312,2024-12-19T00:21:13.280Z,"17 km NNW of Volcano, Hawaii",earthquake,0.36,0.98,0.071138838948121,5,reviewed,hv,hv
-2024-12-18T19:19:52.400Z,35.0595,-118.338,-0.93,1.18,ml,34,33,0.0688,0.19,ci,ci40824023,2024-12-18T21:27:31.652Z,"13 km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.155,23,reviewed,ci,ci
-2024-12-18T19:16:00.680Z,19.370166778564,-155.04116821289,0.9200000166893,1.91999996,md,7,236,0.04534,0.140000001,hv,hv74570292,2024-12-18T19:17:29.510Z,"14 km SE of Fern Forest, Hawaii",earthquake,1.13,0.769999981,0.689999998,4,automatic,hv,hv
