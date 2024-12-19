@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-19T21:17:05.360Z,33.4669991,-116.5003357,12.83,1.21,ml,36,54,0.08951,0.18,ci,ci40825199,2024-12-19T21:19:19.564Z,"19 km ESE of Anza, CA",earthquake,0.31,0.68,0.125,13,automatic,ci,ci
+2024-12-19T21:16:41.340Z,33.4728333,-116.5,12.41,0.63,ml,17,96,0.08833,0.08,ci,ci40825191,2024-12-19T21:23:12.378Z,"18 km ESE of Anza, CA",earthquake,0.21,0.36,0.084,17,automatic,ci,ci
 2024-12-19T21:16:16.240Z,33.482,-116.4976667,11.96,0.72,ml,17,136,0.08028,0.05,ci,ci40825183,2024-12-19T21:21:08.152Z,"18 km ESE of Anza, CA",earthquake,0.43,0.48,0.06,18,automatic,ci,ci
 2024-12-19T21:15:54.650Z,38.825832366943,-122.85583496094,2.3599998950958,0.79,md,20,96,0.001893,0.02,nc,nc75105481,2024-12-19T21:17:31.335Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.430000007,0.19,21,automatic,nc,nc
 2024-12-19T21:12:56.300Z,19.144166666667,-155.4925,34.53,1.83,md,15,207,0.03083,0.11,hv,hv74571047,2024-12-19T21:22:28.790Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.71,0.68,0.0444858390651,6,reviewed,hv,hv
@@ -19,9 +20,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T20:34:02.090Z,38.5105,-112.891,2.54,1.2,ml,20,44,0.008596,0.12,uu,uu80098131,2024-12-19T20:56:30.920Z,"16 km NE of Milford, Utah",earthquake,0.24,0.44,0.013680425515256,2,reviewed,uu,uu
 2024-12-19T20:30:42.329Z,36.7107,-115.694,10.9,0.7,ml,12,303.17,0.221,0.2274,nn,nn00890038,2024-12-19T20:33:02.204Z,"15 km N of Indian Springs, Nevada",earthquake,,2.4,0.37,9,automatic,nn,nn
 2024-12-19T20:30:07.102Z,-41.0822,-86.6001,10,5.3,mww,37,141,10.11,0.91,us,us7000p05e,2024-12-19T20:50:59.040Z,"West Chile Rise",earthquake,11.76,1.906,0.073,18,reviewed,us,us
-2024-12-19T20:18:45.030Z,32.5455,-115.22,21.35,2.89,ml,36,39,0.135,0.33,ci,ci40825079,2024-12-19T21:11:37.035Z,"13 km E of Puebla, B.C., MX",earthquake,0.4,1.14,0.174,87,reviewed,ci,ci
+2024-12-19T20:18:45.030Z,32.5455,-115.22,21.35,2.89,ml,36,39,0.135,0.33,ci,ci40825079,2024-12-19T21:23:50.022Z,"13 km E of Puebla, B.C., MX",earthquake,0.4,1.14,0.174,87,reviewed,ci,ci
 2024-12-19T20:17:48.186Z,36.752,-116.2773,8.5,-0.1,ml,13,86.54,0.057,0.1772,nn,nn00890036,2024-12-19T20:19:32.545Z,"46 km ESE of Beatty, Nevada",earthquake,,0.9,0.22,8,automatic,nn,nn
-2024-12-19T20:15:13.000Z,32.5483333,-115.226,18.59,2.84,ml,34,40,0.1406,0.28,ci,ci40825071,2024-12-19T20:38:43.522Z,"12 km E of Puebla, B.C., MX",earthquake,0.31,1.01,0.221,26,automatic,ci,ci
+2024-12-19T20:15:13.000Z,32.5483333,-115.226,18.59,2.84,ml,34,40,0.1406,0.28,ci,ci40825071,2024-12-19T21:24:07.590Z,"12 km E of Puebla, B.C., MX",earthquake,0.31,1.01,0.221,26,automatic,ci,ci
 2024-12-19T20:12:42.140Z,33.6168333,-116.8476667,14.67,0.78,ml,28,49,0.01313,0.11,ci,ci40825063,2024-12-19T20:53:52.185Z,"15 km SSE of Valle Vista, CA",earthquake,0.19,0.39,0.18,17,reviewed,ci,ci
 2024-12-19T20:10:15.081Z,36.7075,-116.3604,15.8,0.2,ml,9,207.68,0.064,0.1836,nn,nn00890035,2024-12-19T20:12:11.114Z,"42 km ESE of Beatty, Nevada",earthquake,,2.1,0.3,7,automatic,nn,nn
 2024-12-19T20:05:15.646Z,64.9073,-149.1773,15.8,1.2,ml,,,,0.32,ak,ak024g9s6mp8,2024-12-19T20:07:01.907Z,"28 km SSE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T18:36:16.772Z,-20.316,168.387,25.549,5.1,mww,47,66,2.448,1.19,us,us7000p04r,2024-12-19T19:00:14.040Z,"126 km SW of Isangel, Vanuatu",earthquake,8.92,5.192,0.083,14,reviewed,us,us
 2024-12-19T18:34:40.426Z,31.577,-104.01,5.9364,1.9,ml,16,50,0,0.3,tx,tx2024ywjj,2024-12-19T18:40:53.249Z,"35 km NW of Toyah, Texas",earthquake,0,2.5273191928863,0.1,13,automatic,tx,tx
 2024-12-19T18:16:56.670Z,40.525333333333,-112.15416666667,-2,1.37,md,16,64,0.06135,0.19,uu,uu80098121,2024-12-19T20:08:35.400Z,"4 km SSW of Bingham Canyon, Utah",quarry blast,0.4,31.61,0.37263996865,10,reviewed,uu,uu
-2024-12-19T18:10:23.463Z,32.6731,-94.1115,5,2.6,mb_lg,15,68,0.395,0.66,us,us7000p04m,2024-12-19T21:18:15.556Z,"4 km SSE of Uncertain, Texas",earthquake,2.37,1.956,0.102,26,reviewed,us,us
+2024-12-19T18:10:23.463Z,32.6731,-94.1115,5,2.6,mb_lg,15,68,0.395,0.66,us,us7000p04m,2024-12-19T21:23:28.676Z,"4 km SSE of Uncertain, Texas",earthquake,2.37,1.956,0.102,26,reviewed,us,us
 2024-12-19T18:04:27.041Z,63.1084,-149.8715,91,1.6,ml,,,,0.61,ak,ak024g9qzknk,2024-12-19T18:06:41.685Z,"56 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-19T18:01:39.730Z,19.312000274658,-155.21299743652,-0.28000000119209,2.1,ml,53,129,0.03253,0.189999998,hv,hv74570942,2024-12-19T18:04:30.180Z,"14 km S of Volcano, Hawaii",earthquake,0.28,0.150000006,0.54,13,automatic,hv,hv
 2024-12-19T17:54:41.520Z,40.581,-111.37966666667,-2,1.84,ml,11,113,0.03369,0.23,uu,uu80098116,2024-12-19T19:12:01.680Z,"6 km SSE of Hideout, Utah",quarry blast,0.82,31.61,0.038574666741541,2,reviewed,uu,uu
