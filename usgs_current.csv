@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-20T03:09:37.420Z,40.318332672119,-124.51699829102,20.559999465942,1.97,md,16,298,0.1367,0.03,nc,nc75105651,2024-12-20T03:11:13.086Z,"20 km W of Petrolia, CA",earthquake,2.27,0.569999993,0.04,10,automatic,nc,nc
+2024-12-20T03:18:19.250Z,38.798332214355,-122.75166320801,1.9400000572205,0.98,md,12,96,0.006693,0.02,nc,nc75105656,2024-12-20T03:19:56.688Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.660000026,0.27,12,automatic,nc,nc
+2024-12-20T03:09:37.420Z,40.318332672119,-124.51699829102,20.559999465942,1.97,md,16,298,0.1367,0.03,nc,nc75105651,2024-12-20T03:22:17.930Z,"20 km W of Petrolia, CA",earthquake,2.27,0.569999993,0.04,10,automatic,nc,nc
 2024-12-20T02:33:57.860Z,39.0712,-119.0174,0,1.1,ml,8,152.15,0.099,0.2451,nn,nn00890047,2024-12-20T02:36:13.277Z,"15 km NE of Yerington, Nevada",earthquake,,8.6,0.42,4,automatic,nn,nn
 2024-12-20T02:25:22.415Z,63.2882,-151.9772,5.2,2,ml,,,,0.77,ak,ak024gb54h5d,2024-12-20T02:27:42.042Z,"30 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-20T02:25:20.440Z,38.823833465576,-122.78433227539,0.070000000298023,1.07,md,14,47,0.01094,0.06,nc,nc75105646,2024-12-20T03:07:16.834Z,"5 km WNW of Cobb, CA",earthquake,0.22,0.550000012,0.17,16,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T00:48:56.810Z,33.8636667,-115.5263333,0.9,1.6,ml,26,50,0.1819,0.14,ci,ci40825391,2024-12-20T00:53:01.329Z,"20 km NW of Desert Center, CA",earthquake,0.2,0.52,0.128,26,automatic,ci,ci
 2024-12-20T00:31:03.300Z,35.9503333,-117.6766667,4.72,0.92,ml,23,61,0.02147,0.09,ci,ci40825383,2024-12-20T00:34:50.582Z,"21 km E of Little Lake, CA",earthquake,0.13,0.17,0.192,16,automatic,ci,ci
 2024-12-20T00:23:01.948Z,31.55,-104.199,4.1607,2.6,ml,21,76,0.1,0.2,tx,tx2024ywuv,2024-12-20T00:42:40.183Z,"46 km NW of Toyah, Texas",earthquake,0,1.3578559160232,0.2,17,automatic,tx,tx
-2024-12-20T00:19:24.690Z,33.8643333,-115.5308333,0.21,2.49,ml,42,43,0.1806,0.18,ci,ci40825375,2024-12-20T00:30:21.060Z,"20 km NW of Desert Center, CA",earthquake,0.2,0.54,0.161,26,automatic,ci,ci
+2024-12-20T00:19:24.690Z,33.8643333,-115.5308333,0.21,2.49,ml,42,43,0.1806,0.18,ci,ci40825375,2024-12-20T03:21:08.040Z,"20 km NW of Desert Center, CA",earthquake,0.2,0.54,0.161,26,automatic,ci,ci
 2024-12-20T00:15:31.517Z,-16.7069,28.9438,10,4.6,mb,32,123,1.596,0.96,us,us7000p06l,2024-12-20T01:43:17.040Z,"26 km SE of Kariba, Zimbabwe",earthquake,9.94,1.896,0.101,29,reviewed,us,us
 2024-12-20T00:08:14.500Z,38.809501647949,-122.82299804688,-0.31000000238419,0.65,md,6,133,0.00487,0.06,nc,nc75105586,2024-12-20T00:32:18.776Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.12,0.21,6,automatic,nc,nc
 2024-12-20T00:06:43.165Z,61.2557,-152.2337,6.9,1.2,ml,,,,0.44,ak,ak024gb3tkxo,2024-12-20T00:08:12.527Z,"62 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -186,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T09:08:08.760Z,36.550498962402,-121.11699676514,9.5100002288818,1.87,md,30,72,0.059,0.12,nc,nc75105241,2024-12-19T10:07:17.813Z,"3 km ENE of Pinnacles, CA",earthquake,0.3,0.730000019,0.18,22,automatic,nc,nc
 2024-12-19T09:06:16.410Z,46.199166666667,-122.18866666667,8.05,0.54,ml,10,99,0.00243,0.1,uw,uw62060012,2024-12-19T20:38:21.020Z,"37 km NNE of Amboy, Washington",earthquake,0.41,0.56,0.16082366913116,6,reviewed,uw,uw
 2024-12-19T09:04:14.120Z,46.213333333333,-122.17416666667,7.33,0.58,ml,13,98,0.002651,0.09,uw,uw62060007,2024-12-19T19:28:11.600Z,"39 km SSE of Morton, Washington",earthquake,0.47,0.34,0.12283765864498,8,reviewed,uw,uw
-2024-12-19T09:04:00.026Z,39.0806,-119.0441,5.3,0.9,ml,12,104.59,0.088,0.1825,nn,nn00890007,2024-12-19T09:06:31.758Z,"14 km NE of Yerington, Nevada",earthquake,,1,0.41,5,automatic,nn,nn
+2024-12-19T09:04:00.263Z,39.0688,-119.0187,8,1.2,ml,15,110.52,0.101,0.1406,nn,nn00890007,2024-12-20T03:18:03.238Z,"15 km NE of Yerington, Nevada",earthquake,,1.4,0.3,6,reviewed,nn,nn
 2024-12-19T08:59:22.264Z,39.1744,-119.0588,7.4,0.8,ml,11,107.41,0.017,0.1422,nn,nn00890006,2024-12-20T01:39:57.672Z,"22 km NNE of Yerington, Nevada",earthquake,,1.2,0.27,3,reviewed,nn,nn
 2024-12-19T08:55:57.150Z,19.178333282471,-155.47816467285,33.599998474121,2.11999989,md,40,163,0.09631,0.140000001,hv,hv74570747,2024-12-19T08:57:43.680Z,"2 km S of Pāhala, Hawaii",earthquake,0.64,0.689999998,0.129999995,4,automatic,hv,hv
 2024-12-19T08:42:05.450Z,46.912,-121.8875,6.96,0.48,ml,21,111,0.04002,0.09,uw,uw62060002,2024-12-19T22:40:10.220Z,"20 km NNE of Ashford, Washington",earthquake,0.22,0.57,0.20553128847468,6,reviewed,uw,uw
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T03:41:12.313Z,36.7707,-116.0885,3.2,-0.3,ml,10,111.97,0.017,0.0625,nn,nn00890049,2024-12-20T03:02:35.418Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.19,5,reviewed,nn,nn
 2024-12-19T03:39:34.465Z,61.3454,-146.5296,20.1,1.8,ml,,,,0.96,ak,ak024g9i9l7q,2024-12-19T03:42:00.405Z,"25 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-19T03:35:08.520Z,33.681,-116.7848333,13.87,0.47,ml,23,53,0.06615,0.11,ci,ci40824263,2024-12-19T16:32:24.999Z,"9 km SW of Idyllwild, CA",earthquake,0.22,0.41,0.092,4,reviewed,ci,ci
-2024-12-19T03:25:59.570Z,40.187831878662,-124.15299987793,3.1500000953674,2.06,md,7,133,0.01736,0.04,nc,nc75105151,2024-12-19T05:07:15.766Z,"19 km  of Shelter Cove, CA",earthquake,0.95,0.5,0.24,6,automatic,nc,nc
