@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-20T06:58:45.953Z,61.7755,-151.0162,62.9,2.1,ml,,,,0.32,ak,ak024gb7pc0j,2024-12-20T07:00:49.519Z,"31 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-20T06:57:54.040Z,40.16849899292,-124.18949890137,7.7600002288818,2.55,md,11,193,0.0212,0.21,nc,nc75105721,2024-12-20T06:59:33.302Z,"18 km NNW of Shelter Cove, CA",earthquake,1.53,1.13999999,0.07,10,automatic,nc,nc
-2024-12-20T06:56:48.120Z,33.1848335,-115.6273346,3.75,1.46,ml,21,88,0.01225,0.19,ci,ci40825599,2024-12-20T06:58:53.059Z,"12 km WSW of Niland, CA",earthquake,0.36,0.35,0.298,11,automatic,ci,ci
+2024-12-20T06:56:48.110Z,33.1801667,-115.6245,3.55,1.36,ml,24,79,0.007902,0.22,ci,ci40825599,2024-12-20T07:00:32.349Z,"12 km SW of Niland, CA",earthquake,0.33,0.36,0.252,28,automatic,ci,ci
 2024-12-20T06:54:22.650Z,33.3995,-116.376,7.02,1.88,ml,91,31,0.06677,0.18,ci,ci40825591,2024-12-20T06:59:32.344Z,"16 km N of Borrego Springs, CA",earthquake,0.13,0.4,0.178,26,automatic,ci,ci
 2024-12-20T06:50:59.199Z,32.398,-101.06,4.0483,1.9,ml,7,211,0.1,0,tx,tx2024yxhq,2024-12-20T06:53:33.006Z,"6 km NW of Westbrook, Texas",earthquake,0,3.6157670021057,0.2,7,automatic,tx,tx
-2024-12-20T06:50:28.720Z,33.1793327,-115.6263351,4.35,2.96,ml,80,42,0.00916,0.24,ci,ci40825583,2024-12-20T06:52:39.232Z,"12 km WNW of Calipatria, CA",earthquake,0.22,0.53,0.331,23,automatic,ci,ci
+2024-12-20T06:50:28.720Z,33.1793327,-115.6263351,4.35,2.96,ml,80,42,0.00916,0.24,ci,ci40825583,2024-12-20T07:01:07.740Z,"12 km WNW of Calipatria, CA",earthquake,0.22,0.53,0.331,23,automatic,ci,ci
 2024-12-20T06:46:23.520Z,63.194,-149.5082,87.1,1.5,ml,,,,0.41,ak,ak024gb7mpow,2024-12-20T06:48:20.708Z,"35 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-20T06:44:53.920Z,20.76549911499,-155.93800354004,15.729999542236,3.67,ml,68,209,0.4753,0.239999995,hv,hv74571437,2024-12-20T06:55:33.290Z,"5 km E of Hana, Hawaii",earthquake,0.8,2.82999992,0.31,14,automatic,hv,hv
+2024-12-20T06:44:53.630Z,20.741166666667,-155.97266666667,10.03,3.66,ml,68,205,0.452,0.19,hv,hv74571437,2024-12-20T07:01:39.800Z,"2 km SE of Hana, Hawaii",earthquake,0.82,1.1,0.15984397313173,51,reviewed,hv,hv
 2024-12-20T06:44:05.120Z,34.1251667,-117.4613333,9.2,0.83,ml,54,41,0.06513,0.19,ci,ci40825575,2024-12-20T06:50:21.288Z,"3 km N of Fontana, CA",earthquake,0.21,0.45,0.216,28,automatic,ci,ci
 2024-12-20T06:43:45.552Z,39.1735,-119.0137,6,1,ml,9,117.34,0.02,0.132,nn,nn00890057,2024-12-20T06:59:36.518Z,"24 km NNE of Yerington, Nevada",earthquake,,0.3,0.42,3,automatic,nn,nn
 2024-12-20T06:35:42.760Z,38.836334228516,-122.80100250244,2.2200000286102,1.36,md,26,41,0.008578,0.02,nc,nc75105706,2024-12-20T06:52:16.434Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.15,28,automatic,nc,nc
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T07:28:05.764Z,39.1554,-119.059,7.5,1.5,ml,14,84.92,0.021,0.1259,nn,nn00889999,2024-12-19T23:58:25.960Z,"20 km NNE of Yerington, Nevada",earthquake,,1.2,0.13,9,reviewed,nn,nn
 2024-12-19T07:09:48.982Z,39.1709,-119.0219,0,1,ml,8,86.07,0.013,0.1378,nn,nn00889997,2024-12-20T01:55:19.804Z,"23 km NNE of Yerington, Nevada",earthquake,,0,0.34,3,reviewed,nn,nn
 2024-12-19T07:04:54.130Z,38.1729,-117.9101,14.9,0.4,ml,7,110.47,0.065,0.1135,nn,nn00889995,2024-12-20T01:49:10.938Z,"29 km SE of Mina, Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
-2024-12-19T07:00:48.810Z,53.947666666667,-166.5645,7.96,0.41,ml,5,233,0.07195,0.06,av,av93417786,2024-12-19T22:32:40.970Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.49,0.76,0.17433431505764,5,reviewed,av,av
