@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-20T14:11:26.799Z,62.878,-151.1617,104.2,1.6,ml,,,,0.23,ak,ak024gbc6opz,2024-12-20T14:13:52.286Z,"47 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-20T14:06:13.843Z,60.8677,-151.7192,68,1.6,ml,,,,0.36,ak,ak024gbc5l54,2024-12-20T14:08:09.244Z,"30 km NW of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-12-20T13:43:31.438Z,63.1019,-144.3498,0.1,2.2,ml,,,,0.69,ak,ak024gbbs4dz,2024-12-20T13:45:37.160Z,"35 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-20T13:42:20.480Z,38.777168273926,-122.88200378418,2.0599999427795,1.1,md,11,218,0.02899,0.02,nc,nc75105826,2024-12-20T14:12:15.453Z,"11 km W of The Geysers, CA",earthquake,0.68,0.769999981,0.14,11,automatic,nc,nc
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T12:16:08.590Z,35.7098333,-117.573,6.01,0.69,ml,23,53,0.1295,0.18,ci,ci40825927,2024-12-20T13:54:44.890Z,"14 km NE of Ridgecrest, CA",earthquake,0.23,1.22,0.172,8,reviewed,ci,ci
 2024-12-20T12:14:09.257Z,31.349,-103.725,6.2778,2.3,ml,12,98,0.1,0.1,tx,tx2024yxsk,2024-12-20T12:21:44.970Z,"7 km ENE of Toyah, Texas",earthquake,0,3.9145061969757,0.2,10,automatic,tx,tx
 2024-12-20T12:10:41.560Z,64.0045,-147.9983,96.9,1.8,ml,,,,0.33,ak,ak024gbazmxo,2024-12-20T12:13:43.460Z,"50 km ENE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-12-20T12:08:36.478Z,31.614,-104.498,6.7664,4,ml,66,70,0.1,0.2,tx,tx2024yxse,2024-12-20T13:42:13.733Z,"63 km S of Whites City, New Mexico",earthquake,0.98892289642797,0.81090003301257,0.2,51,reviewed,tx,tx
+2024-12-20T12:08:36.478Z,31.614,-104.498,6.7664,4,ml,66,70,0.1,0.2,tx,tx2024yxse,2024-12-20T14:13:57.864Z,"63 km S of Whites City, New Mexico",earthquake,0.98892289642797,0.81090003301257,0.2,51,reviewed,tx,tx
 2024-12-20T12:03:36.925Z,61.6549,-150.9471,45.7,2.1,ml,,,,0.29,ak,ak024gbay4kc,2024-12-20T12:05:22.486Z,"26 km WNW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-20T12:01:43.260Z,33.181,-115.6221667,8.93,2.42,ml,52,42,0.06934,0.25,ci,ci40825919,2024-12-20T12:06:15.937Z,"12 km SW of Niland, CA",earthquake,0.25,0.84,0.23,28,automatic,ci,ci
 2024-12-20T12:01:22.620Z,33.1806667,-115.6268333,2.59,2.1,ml,37,42,0.009914,0.25,ci,ci40825911,2024-12-20T12:12:10.230Z,"12 km WSW of Niland, CA",earthquake,0.31,0.34,0.216,28,automatic,ci,ci
@@ -181,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T23:24:32.830Z,38.830665588379,-122.79983520508,1.4700000286102,0.27,md,7,95,0.01071,0.01,nc,nc75105556,2024-12-19T23:42:16.402Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.32000005,0.16,8,automatic,nc,nc
 2024-12-19T23:10:41.960Z,19.1655,-155.503,33.66,1.63,md,23,249,0.08253,0.12,hv,hv74571132,2024-12-20T00:57:20.290Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.54,0.071111310075248,12,reviewed,hv,hv
 2024-12-19T22:56:14.230Z,33.5378333,-116.717,3.16,0.55,ml,21,49,0.0323,0.1,ci,ci40825311,2024-12-19T23:56:14.761Z,"4 km WSW of Anza, CA",earthquake,0.16,0.41,0.12,15,reviewed,ci,ci
+2024-12-19T22:30:58.920Z,17.8995,-66.959833333333,13.21,1.86,md,6,243,0.1063,0.14,pr,pr71468973,2024-12-20T14:14:39.160Z,"9 km SW of Guánica, Puerto Rico",earthquake,1.07,0.64,0.16184741388752,5,reviewed,pr,pr
 2024-12-19T22:29:15.642Z,60.189,-150.1357,34.5,2,ml,,,,0.14,ak,ak024g9tin3g,2024-12-19T22:30:56.001Z,"37 km SSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-19T22:23:53.270Z,33.4705,-116.494,13.05,0.59,ml,21,60,0.09211,0.13,ci,ci40825263,2024-12-19T23:52:25.556Z,"19 km ESE of Anza, CA",earthquake,0.25,0.57,0.052,14,reviewed,ci,ci
 2024-12-19T22:22:28.292Z,60.4807,-151.0007,34.9,1.8,ml,,,,0.75,ak,ak024g9th625,2024-12-19T22:23:55.516Z,"3 km ESE of Soldotna, Alaska",earthquake,,2.4,,,automatic,ak,ak
