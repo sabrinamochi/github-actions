@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-20T14:19:25.710Z,19.114999771118,-155.49600219727,30.760000228882,2.05999994,md,26,176,0.05141,0.180000007,hv,hv74571627,2024-12-20T14:21:08.220Z,"9 km S of Pāhala, Hawaii",earthquake,0.87,0.99000001,0.239999995,4,automatic,hv,hv
 2024-12-20T14:11:26.799Z,62.878,-151.1617,104.2,1.6,ml,,,,0.23,ak,ak024gbc6opz,2024-12-20T14:13:52.286Z,"47 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-20T14:06:13.843Z,60.8677,-151.7192,68,1.6,ml,,,,0.36,ak,ak024gbc5l54,2024-12-20T14:08:09.244Z,"30 km NW of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-12-20T13:43:31.438Z,63.1019,-144.3498,0.1,2.2,ml,,,,0.69,ak,ak024gbbs4dz,2024-12-20T13:45:37.160Z,"35 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -17,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T12:14:09.257Z,31.349,-103.725,6.2778,2.3,ml,12,98,0.1,0.1,tx,tx2024yxsk,2024-12-20T12:21:44.970Z,"7 km ENE of Toyah, Texas",earthquake,0,3.9145061969757,0.2,10,automatic,tx,tx
 2024-12-20T12:10:41.560Z,64.0045,-147.9983,96.9,1.8,ml,,,,0.33,ak,ak024gbazmxo,2024-12-20T12:13:43.460Z,"50 km ENE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-20T12:08:36.478Z,31.614,-104.498,6.7664,4,ml,66,70,0.1,0.2,tx,tx2024yxse,2024-12-20T14:13:57.864Z,"63 km S of Whites City, New Mexico",earthquake,0.98892289642797,0.81090003301257,0.2,51,reviewed,tx,tx
+2024-12-20T12:03:49.241Z,31.612,-104.092,7.3944,1.7,ml,25,60,0,0.2,tx,tx2024yxsa,2024-12-20T14:20:52.756Z,"43 km NW of Toyah, Texas",earthquake,0.50739017210961,0.59654049356606,0.2,13,reviewed,tx,tx
 2024-12-20T12:03:36.925Z,61.6549,-150.9471,45.7,2.1,ml,,,,0.29,ak,ak024gbay4kc,2024-12-20T12:05:22.486Z,"26 km WNW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-20T12:01:43.260Z,33.181,-115.6221667,8.93,2.42,ml,52,42,0.06934,0.25,ci,ci40825919,2024-12-20T12:06:15.937Z,"12 km SW of Niland, CA",earthquake,0.25,0.84,0.23,28,automatic,ci,ci
 2024-12-20T12:01:22.620Z,33.1806667,-115.6268333,2.59,2.1,ml,37,42,0.009914,0.25,ci,ci40825911,2024-12-20T12:12:10.230Z,"12 km WSW of Niland, CA",earthquake,0.31,0.34,0.216,28,automatic,ci,ci
@@ -249,7 +251,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11,1.12,ml,28,101,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18,reviewed,uw,uw
 2024-12-19T18:53:58.936Z,61.6669,-149.9869,28.1,1.8,ml,,,,0.21,ak,ak024g9ra579,2024-12-19T18:56:07.485Z,"9 km SSE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-19T18:50:26.851Z,61.6495,-149.9025,30.5,1.9,ml,,,,0.9,ak,ak024g9r9fkt,2024-12-19T18:52:30.141Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-19T18:48:13.364Z,31.577,-104.014,5.4293,1.8,ml,15,58,0,0.2,tx,tx2024ywju,2024-12-19T18:52:21.313Z,"35 km NW of Toyah, Texas",earthquake,0,3.0401556491852,0.1,13,automatic,tx,tx
+2024-12-19T18:48:13.336Z,31.582,-104.023,7.2406,1.7,ml,27,58,0,0.1,tx,tx2024ywju,2024-12-20T14:19:02.754Z,"36 km NW of Toyah, Texas",earthquake,0.44473792370775,0.42331556581363,0.1,21,reviewed,tx,tx
 2024-12-19T18:39:46.180Z,61.357833333333,-152.30966666667,3,0.4,ml,10,145,0.1036,0.22,av,av93418676,2024-12-20T01:53:39.030Z,"70 km WNW of Beluga, Alaska",earthquake,0.55,0.79,,1,reviewed,av,av
 2024-12-19T18:39:17.620Z,61.3165,-152.24783333333,-2.37,-0.34,ml,7,203,0.06804,0.15,av,av93418671,2024-12-20T01:47:11.190Z,"65 km WNW of Beluga, Alaska",earthquake,0.55,1.9,0.23936896728491,7,reviewed,av,av
 2024-12-19T18:36:16.772Z,-20.316,168.387,25.549,5.1,mww,47,66,2.448,1.19,us,us7000p04r,2024-12-19T19:00:14.040Z,"126 km SW of Isangel, Vanuatu",earthquake,8.92,5.192,0.083,14,reviewed,us,us
@@ -289,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T14:47:32.030Z,46.21,-122.1865,-1.79,-0.07,mh,4,319,0.009827,0.06,uw,uw62060032,2024-12-19T19:48:38.780Z,"38 km NNE of Amboy, Washington",earthquake,0.58,8.56,,0,reviewed,uw,uw
 2024-12-19T14:45:55.857Z,39.1596,-119.0696,9.5,1.4,ml,15,112.89,0.026,0.1424,nn,nn00890022,2024-12-20T00:26:10.077Z,"20 km NNE of Yerington, Nevada",earthquake,,1,0.11,7,reviewed,nn,nn
 2024-12-19T14:43:29.051Z,39.1283,-119.0463,9.2,1.4,ml,13,123.55,0.041,0.1504,nn,nn00890020,2024-12-20T00:59:59.769Z,"18 km NNE of Yerington, Nevada",earthquake,,1.5,0.32,5,reviewed,nn,nn
-2024-12-19T14:21:21.980Z,39.1437,-119.069,4.2,1.1,ml,7,128.67,0.035,0.1403,nn,nn00890019,2024-12-20T00:16:56.136Z,"19 km NNE of Yerington, Nevada",earthquake,,3.3,0.28,3,reviewed,nn,nn
