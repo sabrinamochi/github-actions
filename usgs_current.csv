@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-24T13:52:23.320Z,38.830833435059,-122.8476638794,3.1099998950958,1.09,md,8,164,0.007907,0.03,nc,nc75107366,2024-12-24T13:54:01.144Z,"10 km NW of The Geysers, CA",earthquake,0.51,1.38,0.04,10,automatic,nc,nc
 2024-12-24T13:39:46.910Z,19.146165847778,-155.50566101074,36.520000457764,2.02999997,md,55,139,0.04218,0.159999996,hv,hv74575657,2024-12-24T13:43:10.160Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.44,0.610000014,0.0299999993,3,automatic,hv,hv
-2024-12-24T13:37:21.021Z,31.549,-104.198,4.1493,1.5,ml,21,76,0.1,0.4,tx,tx2024zfdb,2024-12-24T13:57:32.373Z,"46 km NW of Toyah, Texas",earthquake,0,1.4459228515625,0.2,15,automatic,tx,tx
+2024-12-24T13:37:21.142Z,31.566,-104.183,7.4841,1.6,ml,21,72,0.1,0.1,tx,tx2024zfdb,2024-12-24T14:17:26.154Z,"46 km NW of Toyah, Texas",earthquake,0.77030076596452,0.9052027791564,0.2,19,reviewed,tx,tx
 2024-12-24T13:18:23.830Z,32.979,-116.2818333,6.11,1.15,ml,43,52,0.1639,0.19,ci,ci40828007,2024-12-24T13:22:37.130Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.18,1.02,0.244,23,automatic,ci,ci
 2024-12-24T13:10:49.812Z,62.3564,-149.5162,43,1.8,ml,,,,0.64,ak,ak024ghxqh5h,2024-12-24T13:12:38.313Z,"27 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-12-24T13:08:11.688Z,62.1413,-151.2246,1.2,2.2,ml,,,,0.59,ak,ak024ghxpys0,2024-12-24T13:10:23.988Z,"19 km NNE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -55,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T06:01:37.200Z,37.249168395996,-121.63133239746,3.3499999046326,1.51,md,13,100,0.03475,0.07,nc,nc75107266,2024-12-24T06:42:14.666Z,"13 km NNE of Morgan Hill, CA",earthquake,0.29,1.49000001,0.08,7,automatic,nc,nc
 2024-12-24T05:56:23.630Z,18.251833333333,-66.411666666667,39.69,2.03,md,12,107,0.08111,0.08,pr,pr71469253,2024-12-24T06:09:46.790Z,"3 km NW of Orocovis, Puerto Rico",earthquake,0.56,0.64,0.11447538947175,6,reviewed,pr,pr
 2024-12-24T05:46:31.140Z,38.791999816895,-122.77716827393,2.1500000953674,1.1,md,19,78,0.008483,0.03,nc,nc75107261,2024-12-24T06:17:19.499Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.5,0.13,18,automatic,nc,nc
+2024-12-24T05:28:24.857Z,-20.3957,-69.7778,50.426,3.9,mb,16,177,0.55,0.99,us,us6000pfek,2024-12-24T14:22:11.246Z,"14 km WSW of La Tirana, Chile",earthquake,4.91,8.234,0.257,4,reviewed,us,us
 2024-12-24T05:21:24.250Z,33.4886667,-116.7856667,1.97,0.81,ml,42,29,0.02394,0.23,ci,ci40827911,2024-12-24T05:25:47.701Z,"9 km NE of Aguanga, CA",earthquake,0.2,0.43,0.118,27,automatic,ci,ci
 2024-12-24T05:17:47.696Z,37.366,-117.1319,0,0.8,ml,13,133.59,0.122,0.2219,nn,nn00890467,2024-12-24T05:19:58.744Z,"39 km SSE of Goldfield, Nevada",earthquake,,13.3,0.29,7,automatic,nn,nn
 2024-12-24T05:12:41.878Z,31.704,-104.161,8.0609,1.7,ml,32,51,0.1,0.2,tx,tx2024zemk,2024-12-24T11:41:12.486Z,"53 km W of Mentone, Texas",earthquake,0.44193465746749,0.70577991232602,0.1,16,reviewed,tx,tx
