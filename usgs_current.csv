@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-26T01:25:38.680Z,33.7825,-116.0618333,2.57,1.34,ml,49,38,0.1321,0.17,ci,ci40828319,2024-12-26T01:31:05.226Z,"15 km NE of Coachella, CA",earthquake,0.16,0.31,0.15,28,automatic,ci,ci
+2024-12-26T01:34:19.150Z,41.569667816162,-109.91000366211,-3.3599998950958,3.2,ml,37,124,0.1241,0.469999999,uu,uu80098561,2024-12-26T01:37:54.170Z,"5 km NW of Little America, Wyoming",earthquake,0.69,1.44000006,0.3,29,automatic,uu,uu
+2024-12-26T01:25:38.680Z,33.7825,-116.0618333,2.57,1.34,ml,49,38,0.1321,0.17,ci,ci40828319,2024-12-26T01:36:39.580Z,"15 km NE of Coachella, CA",earthquake,0.16,0.31,0.15,28,automatic,ci,ci
 2024-12-26T01:24:07.070Z,33.6988333,-116.8061667,17.43,0.85,ml,34,43,0.07694,0.16,ci,ci40828311,2024-12-26T01:29:21.218Z,"9 km WSW of Idyllwild, CA",earthquake,0.25,0.38,0.183,30,automatic,ci,ci
 2024-12-26T01:17:44.250Z,38.835498809815,-122.81632995606,1.7699999809265,0.89,md,20,63,0.01304,0.01,nc,nc75108001,2024-12-26T01:19:21.563Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.529999971,0.13,21,automatic,nc,nc
 2024-12-26T01:17:19.220Z,38.82149887085,-122.79166412353,0.81000000238419,1.09,md,16,39,0.01189,0.04,nc,nc75107996,2024-12-26T01:18:56.968Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.439999998,0.07,19,automatic,nc,nc
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T01:12:06.850Z,35.7724991,-117.6060028,9.99,1.31,ml,16,136,0.1341,0.12,ci,ci40828295,2024-12-26T01:14:21.138Z,"18 km NNE of Ridgecrest, CA",earthquake,0.45,1.49,0.049,3,automatic,ci,ci
 2024-12-26T01:06:30.737Z,61.4892,-149.7853,34.1,2,ml,,,,0.32,ak,ak024gl1n2jl,2024-12-26T01:08:48.685Z,"4 km NW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-26T01:01:03.837Z,32.295,-101.826,4.1804,1.5,ml,55,33,0,0.4,tx,tx2024zhvd,2024-12-26T01:15:54.502Z,"18 km N of Stanton, Texas",earthquake,0,0.75286859273911,0.2,33,automatic,tx,tx
-2024-12-26T00:52:42.394Z,7.4255,-75.3359,70,5,mww,69,43,1.751,1.15,us,us6000pfmi,2024-12-26T01:27:37.246Z,"15 km NNE of Valdivia, Colombia",earthquake,5.24,1.539,0.098,10,reviewed,us,us
+2024-12-26T00:52:42.394Z,7.4255,-75.3359,70,5,mww,69,43,1.751,1.15,us,us6000pfmi,2024-12-26T01:40:51.564Z,"15 km NNE of Valdivia, Colombia",earthquake,5.24,1.539,0.098,10,reviewed,us,us
 2024-12-26T00:45:28.300Z,61.9555,-147.8749,20,2.1,ml,,,,0.76,ak,ak024gl19zph,2024-12-26T00:59:54.226Z,"20 km NW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-26T00:45:06.840Z,38.791168212891,-122.75866699219,-0.20999999344349,0.27,md,7,150,0.02115,0.06,nc,nc75107991,2024-12-26T00:46:41.256Z,"2 km N of The Geysers, CA",earthquake,0.35,1.25999999,0.05,6,automatic,nc,nc
 2024-12-26T00:43:01.440Z,38.799331665039,-122.84066772461,1.4900000095367,0.75,md,9,130,0.005587,0.01,nc,nc75107986,2024-12-26T00:44:36.315Z,"8 km WNW of The Geysers, CA",earthquake,0.75,0.939999998,0.11,9,automatic,nc,nc
@@ -152,4 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T02:42:26.480Z,38.791000366211,-122.77916717529,2.5299999713898,1.06,md,20,80,0.007176,0.03,nc,nc75107591,2024-12-25T02:44:03.203Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.550000012,0.21,19,automatic,nc,nc
 2024-12-25T02:20:30.485Z,63.6574,-149.4441,4.4,1.5,ml,,,,0.54,ak,ak024gjes5ns,2024-12-25T02:22:25.107Z,"27 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-25T02:14:13.180Z,38.81583404541,-122.78182983398,1.7300000190735,0.77,md,10,128,0.002722,0.01,nc,nc75107586,2024-12-25T02:15:48.462Z,"5 km NNW of The Geysers, CA",earthquake,0.5,1.08000004,0.18,13,automatic,nc,nc
-2024-12-25T01:35:46.060Z,33.3568333,-116.364,11.18,0.85,ml,41,47,0.04586,0.21,ci,ci40828111,2024-12-25T01:39:34.923Z,"11 km N of Borrego Springs, CA",earthquake,0.23,0.39,0.12,24,automatic,ci,ci
