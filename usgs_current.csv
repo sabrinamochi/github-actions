@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-27T17:47:47.500Z,34.0255013,-117.5991669,2.96,1.59,ml,54,37,0.01023,0.18,ci,ci40829031,2024-12-27T17:49:53.130Z,"4 km SE of Ontario, CA",earthquake,0.19,0.22,0.234,27,automatic,ci,ci
 2024-12-27T17:14:07.640Z,38.814334869385,-122.81966400147,3.0099999904633,0.75,md,7,81,0.009222,0.01,nc,nc75108621,2024-12-27T17:15:43.219Z,"7 km NW of The Geysers, CA",earthquake,0.86,1.49000001,0.13,8,automatic,nc,nc
 2024-12-27T17:05:59.830Z,38.811668395996,-122.87666320801,-0.62999999523163,0.7,md,8,168,0.01674,0.33,nc,nc75108616,2024-12-27T17:07:34.205Z,"11 km WNW of The Geysers, CA",earthquake,1.22,5.09000015,0.54,8,automatic,nc,nc
 2024-12-27T17:05:53.450Z,33.5128333,-116.7536667,10,0.81,ml,33,40,0.04671,0.15,ci,ci40829023,2024-12-27T17:10:42.937Z,"9 km WSW of Anza, CA",earthquake,0.17,0.4,0.186,27,automatic,ci,ci
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T13:54:27.880Z,32.8056667,-115.454,9.15,1.7,ml,30,40,0.006082,0.28,ci,ci40828855,2024-12-27T13:58:33.955Z,"7 km W of Holtville, CA",earthquake,0.48,0.68,0.215,29,automatic,ci,ci
 2024-12-27T13:52:57.730Z,32.8076667,-115.4518333,10.4,2.09,ml,30,37,0.004849,0.28,ci,ci40828847,2024-12-27T13:57:29.434Z,"7 km W of Holtville, CA",earthquake,0.35,0.62,0.136,26,automatic,ci,ci
 2024-12-27T13:52:20.820Z,32.8116667,-115.4633333,10.69,1.86,ml,20,41,0.05506,0.27,ci,ci40828839,2024-12-27T13:56:25.428Z,"8 km W of Holtville, CA",earthquake,0.39,0.67,0.163,26,automatic,ci,ci
-2024-12-27T13:41:46.344Z,39.1607,-119.0506,1.6,2.1,ml,9,49.33,0.012,0.1705,nn,nn00890657,2024-12-27T17:33:15.164Z,"21 km NNE of Yerington, Nevada",earthquake,,4.3,0.13,2,reviewed,nn,nn
+2024-12-27T13:41:46.123Z,39.1625,-119.037,3.6,2,ml,15,63.18,0.007,0.156,nn,nn00890657,2024-12-27T17:48:40.307Z,"22 km NNE of Yerington, Nevada",earthquake,,1.5,0.08,7,reviewed,nn,nn
 2024-12-27T13:40:20.410Z,38.820331573486,-122.75700378418,1.1699999570847,1.23,md,18,114,0.01429,0.03,nc,nc75108586,2024-12-27T14:32:14.423Z,"3 km W of Cobb, CA",earthquake,0.26,0.439999998,0.17,16,automatic,nc,nc
 2024-12-27T13:38:53.570Z,32.915,-116.2623333,11.18,1.16,ml,48,46,0.1855,0.19,ci,ci40828831,2024-12-27T13:43:19.027Z,"27 km ENE of Pine Valley, CA",earthquake,0.18,0.53,0.163,29,automatic,ci,ci
 2024-12-27T13:38:33.330Z,38.73749923706,-122.77816772461,13.050000190735,1.09,md,6,174,0.05436,0.03,nc,nc75108576,2024-12-27T13:40:09.198Z,"5 km SW of The Geysers, CA",earthquake,3.7,3.38000011,0.51,2,automatic,nc,nc
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T18:12:40.580Z,33.4865,-116.8848333,11.1,0.73,ml,26,36,0.02269,0.13,ci,ci40828543,2024-12-26T18:17:16.380Z,"5 km NNW of Aguanga, CA",earthquake,0.2,0.43,0.163,25,automatic,ci,ci
 2024-12-26T18:10:09.431Z,61.1278,-152.2577,104.4,1.3,ml,,,,0.53,ak,ak024glbs579,2024-12-26T21:27:18.164Z,"60 km W of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-12-26T17:59:43.059Z,37.3606,-117.1807,0,1.3,ml,19,126.3,0.088,0.1482,nn,nn00890604,2024-12-27T02:08:19.593Z,"38 km S of Goldfield, Nevada",earthquake,,0,0.55,6,reviewed,nn,nn
-2024-12-26T17:45:45.692Z,59.3996,-154.1662,7.8,2.1,ml,,,,0.29,ak,ak024glbeeax,2024-12-26T17:47:21.982Z,"25 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
