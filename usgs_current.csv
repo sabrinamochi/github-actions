@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-27T21:03:20.540Z,38.794334411621,-122.75450134277,0.81000000238419,1.01,md,5,102,0.007486,0.01,nc,nc75108681,2024-12-27T21:04:55.804Z,"2 km NNE of The Geysers, CA",earthquake,0.4,0.910000026,0.26,8,automatic,nc,nc
 2024-12-27T20:56:18.465Z,61.1926,-149.3937,30.1,2.1,ml,,,,0.34,ak,ak024gn0scdy,2024-12-27T20:57:52.870Z,"14 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-12-27T20:50:51.121Z,39.1029,-119.0319,5.6,1.4,ml,8,132.28,0.066,0.0466,nn,nn00890671,2024-12-27T20:53:06.738Z,"17 km NE of Yerington, Nevada",earthquake,,0.9,0.24,3,automatic,nn,nn
 2024-12-27T20:43:57.729Z,60.2588,-152.2881,86.6,1.3,ml,,,,0.26,ak,ak024gn0pn3w,2024-12-27T20:46:31.525Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -145,6 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T05:30:06.690Z,31.719,-104.302,4.3151,1.8,ml,15,67,0.1,0.2,tx,tx2024zjzm,2024-12-27T05:47:32.444Z,"51 km S of Whites City, New Mexico",earthquake,0,1.3123785257339,0.2,13,automatic,tx,tx
 2024-12-27T05:24:45.559Z,59.7621,-151.7791,34.6,1.8,ml,,,,0.37,ak,ak024gmro1hn,2024-12-27T05:26:49.659Z,"3 km ESE of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-27T05:21:58.006Z,44.377,-116.1059,10,2.7,ml,24,61,0.365,0.93,us,us6000pfur,2024-12-27T15:55:00.890Z,"8 km N of Smiths Ferry, Idaho",earthquake,1.66,2,0.051,50,reviewed,us,us
+2024-12-27T05:10:42.130Z,58.037,-155.2675,7.48,0.17,ml,7,218,0.02427,0.16,av,av93427326,2024-12-27T21:03:18.900Z,"71 km NW of Karluk, Alaska",earthquake,0.53,0.71,0.22330268727857,7,reviewed,av,av
 2024-12-27T05:10:32.030Z,19.261999130249,-155.43966674805,0.81999999284744,2.26,ml,58,71,0.0467,0.370000005,hv,hv74577812,2024-12-27T05:13:51.480Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.31,0.430000007,0.66,11,automatic,hv,hv
 2024-12-27T05:10:20.100Z,37.833000183105,-121.9623336792,6.6999998092651,1.34,md,11,71,0.03523,0.1,nc,nc75108451,2024-12-27T06:07:16.901Z,"0 km WSW of Diablo, CA",earthquake,0.35,0.699999988,0.2,7,automatic,nc,nc
 2024-12-27T05:09:06.150Z,17.942833333333,-66.996833333333,11.53,2.25,md,6,227,0.05229,0.23,pr,pr71469493,2024-12-27T05:20:52.550Z,"6 km SE of La Parguera, Puerto Rico",earthquake,1.46,1.05,0.030895061374846,4,reviewed,pr,pr
@@ -227,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T21:24:06.810Z,44.361166666667,-116.10416666667,3.56,2.1,ml,9,134,0.4404,0.19,mb,mb90069658,2024-12-26T23:40:39.150Z,"6 km N of Smiths Ferry, Idaho",earthquake,0.6,2.97,0.20179123103661,8,reviewed,mb,mb
 2024-12-26T21:18:01.070Z,34.0096667,-116.7533333,15.81,1.17,ml,43,48,0.05188,0.16,ci,ci40828623,2024-12-26T21:22:06.323Z,"11 km NNE of Cabazon, CA",earthquake,0.2,0.55,0.209,28,automatic,ci,ci
 2024-12-26T21:17:57.634Z,32.411,-102.049,8.7646,1.5,ml,18,72,0.1,0.1,tx,tx2024zjji,2024-12-26T23:54:09.817Z,"33 km WSW of Ackerly, Texas",earthquake,0.45766384515307,0.66833111104268,0.2,22,reviewed,tx,tx
-2024-12-26T21:02:25.778Z,30.4847,141.8463,10,5.7,mww,103,92,3.142,0.86,us,us6000pfs7,2024-12-26T23:08:14.877Z,"Izu Islands, Japan region",earthquake,8.33,1.845,0.052,36,reviewed,us,us
