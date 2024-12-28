@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-28T01:22:46.800Z,38.818000793457,-122.82266998291,2.4100000858307,1.15,md,26,47,0.01044,0.02,nc,nc75108741,2024-12-28T01:24:21.343Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.349999994,0.17,26,automatic,nc,nc
+2024-12-28T01:22:46.800Z,38.818000793457,-122.82266998291,2.4100000858307,1.15,md,26,47,0.01044,0.02,nc,nc75108741,2024-12-28T01:42:17.007Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.349999994,0.17,26,automatic,nc,nc
 2024-12-28T01:14:00.246Z,31.601,-103.979,5.6272,2.1,ml,16,61,0,0.3,tx,tx2024zlms,2024-12-28T01:26:44.050Z,"36 km NNW of Toyah, Texas",earthquake,0,2.4255132675171,0.2,13,automatic,tx,tx
 2024-12-28T01:06:53.922Z,31.59,-103.924,4.0226,1.9,ml,16,89,0,0.5,tx,tx2024zlmo,2024-12-28T01:15:22.975Z,"32 km NNW of Toyah, Texas",earthquake,0,1.258802652359,0.2,12,automatic,tx,tx
 2024-12-28T01:03:43.862Z,38.1154,-118.0038,0.5,1.2,ml,10,177.29,0.085,0.2453,nn,nn00890688,2024-12-28T01:06:29.418Z,"31 km SSE of Mina, Nevada",earthquake,,3.7,0.27,7,automatic,nn,nn
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T22:05:50.899Z,37.3712,-117.1329,6.8,1.4,ml,21,115.02,0.124,0.1252,nn,nn00890675,2024-12-28T01:09:27.631Z,"38 km SSE of Goldfield, Nevada",earthquake,,2.1,0.2,8,reviewed,nn,nn
 2024-12-27T22:01:47.434Z,31.588,-103.922,5.5719,2.3,ml,16,89,0,0.1,tx,tx2024zlgf,2024-12-27T22:11:37.143Z,"32 km NNW of Toyah, Texas",earthquake,0,2.4963567256927,0.2,13,automatic,tx,tx
 2024-12-27T21:54:15.570Z,38.818832397461,-122.76399993897,1.6100000143051,0.78,md,11,115,0.01251,0.02,nc,nc75108686,2024-12-27T21:55:51.433Z,"4 km W of Cobb, CA",earthquake,0.45,0.610000014,0.15,13,automatic,nc,nc
-2024-12-27T21:48:36.050Z,36.6261,-115.8233,6.2,0.6,ml,11,287.47,0.117,0.0399,nn,nn00890674,2024-12-28T01:32:00.722Z,"15 km WNW of Indian Springs, Nevada",earthquake,,8.4,0,1,reviewed,nn,nn
+2024-12-27T21:48:34.191Z,36.5768,-115.7168,8.9,0.9,ml,15,314.2,0.215,0.0713,nn,nn00890674,2024-12-28T01:41:42.899Z,"4 km W of Indian Springs, Nevada",earthquake,,5.7,0.33,3,reviewed,nn,nn
 2024-12-27T21:43:07.918Z,31.585,-103.921,5.6496,1.5,ml,15,89,0,0.4,tx,tx2024zlfq,2024-12-27T21:49:12.998Z,"32 km NNW of Toyah, Texas",earthquake,0,2.5464160442352,0.2,13,automatic,tx,tx
 2024-12-27T21:24:19.216Z,52.1952,-170.3773,35,4,mb,29,179,0.659,0.78,us,us6000pg0f,2024-12-27T22:07:56.040Z,"131 km SW of Nikolski, Alaska",earthquake,6.33,1.949,0.126,17,reviewed,us,us
 2024-12-27T21:21:13.226Z,61.1073,-151.2951,57.6,1.8,ml,,,,0.63,ak,ak024gn169iy,2024-12-27T21:23:23.441Z,"9 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T02:00:50.598Z,9.165,39.9443,10,4.9,mb,32,139,3.698,0.5,us,us6000pfu2,2024-12-27T09:34:40.547Z,"29 km N of Metahāra, Ethiopia",earthquake,11.52,1.918,0.102,30,reviewed,us,us
 2024-12-27T01:51:25.200Z,38.786499023438,-122.76850128174,1.8300000429153,2.3,md,41,76,0.01569,0.06,nc,nc75108386,2024-12-27T02:17:17.417Z,"1 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.19,44,automatic,nc,nc
 2024-12-27T01:48:30.850Z,38.82500076294,-122.76716613769,2.0899999141693,1.05,md,14,186,0.005869,0.02,nc,nc75108381,2024-12-27T01:56:54.685Z,"4 km WNW of Cobb, CA",earthquake,0.51,0.519999981,0.17,12,automatic,nc,nc
-2024-12-27T01:42:40.680Z,18.217333333333,-65.0195,8.29,3.1,md,9,196,0.1471,0.39,pr,pr71469468,2024-12-27T02:00:11.190Z,"16 km SW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.71,1.41,0.14216485719546,5,reviewed,pr,pr
