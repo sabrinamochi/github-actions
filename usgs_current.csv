@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-29T00:07:13.227Z,61.4842,-150.3848,28.3,1.4,ml,,,,0.18,ak,ak024gpznusa,2024-12-29T00:08:13.822Z,"9 km SE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-29T00:05:44.305Z,32.407,-102.076,5.9506,1.3,ml,12,118,0,0.2,tx,tx2024znfv,2024-12-29T00:08:22.686Z,"36 km WSW of Ackerly, Texas",earthquake,0,3.487872838974,0.2,10,automatic,tx,tx
+2024-12-28T23:59:23.481Z,39.1203,-119.0482,6.1,1.3,ml,9,121.77,0.049,0.1238,nn,nn00890784,2024-12-29T00:01:57.965Z,"17 km NNE of Yerington, Nevada",earthquake,,0.7,0.22,3,automatic,nn,nn
 2024-12-28T23:38:41.448Z,37.4703,-117.302,7.5,0.5,ml,10,300.98,0.173,0.1933,nn,nn00890779,2024-12-28T23:40:57.667Z,"27 km SSW of Goldfield, Nevada",earthquake,,2,0.37,5,automatic,nn,nn
 2024-12-28T23:32:53.920Z,35.9455,-117.0285,3.08,2.12,ml,21,70,0.1308,0.15,ci,ci40829583,2024-12-28T23:36:23.113Z,"38 km ENE of Trona, CA",earthquake,0.24,0.9,0.208,26,automatic,ci,ci
 2024-12-28T23:30:40.816Z,61.3876,-147.4039,20,1.4,ml,,,,0.67,ak,ak024gopygsx,2024-12-28T23:32:44.457Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -6,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T23:24:25.230Z,34.0261667,-117.5998333,5.34,1.57,ml,71,25,0.009363,0.16,ci,ci40829567,2024-12-28T23:35:01.760Z,"4 km SE of Ontario, CA",earthquake,0.12,0.2,0.091,26,automatic,ci,ci
 2024-12-28T23:05:17.394Z,62.4601,-148.2853,33.6,2.3,ml,,,,0.6,ak,ak024gopt23f,2024-12-28T23:07:15.576Z,"74 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-28T22:52:25.530Z,33.2221667,-116.7348333,12.1,0.94,ml,42,27,0.02433,0.16,ci,ci40829559,2024-12-28T22:56:52.900Z,"3 km SE of Lake Henshaw, CA",earthquake,0.18,0.4,0.201,27,automatic,ci,ci
-2024-12-28T22:51:42.760Z,38.749332427979,-122.7063369751,1.2300000190735,1.74,md,14,85,0.01896,0.04,nc,nc75109081,2024-12-28T23:22:26.110Z,"3 km SW of Anderson Springs, CA",earthquake,0.25,0.360000014,0.13,16,automatic,nc,nc
+2024-12-28T22:51:42.760Z,38.749332427979,-122.7063369751,1.2300000190735,1.74,md,14,85,0.01896,0.04,nc,nc75109081,2024-12-29T00:07:16.442Z,"3 km SW of Anderson Springs, CA",earthquake,0.25,0.360000014,0.13,16,automatic,nc,nc
 2024-12-28T22:47:35.913Z,37.3543,-117.1998,7.4,2.1,ml,32,102.9,0.073,0.2272,nn,nn00890775,2024-12-28T22:50:27.766Z,"39 km S of Goldfield, Nevada",earthquake,,0.6,0.29,21,automatic,nn,nn
 2024-12-28T22:45:46.450Z,38.753665924072,-122.72883605957,0.89999997615814,1.28,md,9,114,0.008504,0.04,nc,nc75109076,2024-12-28T23:42:18.267Z,"4 km SSE of The Geysers, CA",earthquake,0.32,0.419999987,0.22,13,automatic,nc,nc
 2024-12-28T22:45:08.070Z,38.835166931152,-122.79666900635,1.9700000286102,1.21,md,22,58,0.005906,0.02,nc,nc75109071,2024-12-28T23:17:18.066Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.419999987,0.14,22,automatic,nc,nc
@@ -238,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T00:32:44.955Z,60.2195,-151.6811,53.5,1.6,ml,,,,0.45,ak,ak024goc9xn3,2024-12-28T00:34:36.282Z,"15 km W of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-28T00:18:24.991Z,31.586,-103.917,6.9714,2.3,ml,16,39,0.1,0.1,tx,tx2024zlle,2024-12-28T12:21:30.036Z,"32 km NNW of Toyah, Texas",earthquake,0.70398735298037,0.87474525134642,0.1,30,reviewed,tx,tx
 2024-12-28T00:17:45.143Z,32.402,-102.175,4.023,1.3,ml,45,57,0,0.5,tx,tx2024zllc,2024-12-28T00:27:07.540Z,"35 km ENE of McKinney Acres, Texas",earthquake,0,0.91706973314285,0.2,24,automatic,tx,tx
-2024-12-28T00:11:05.720Z,38.792499542236,-122.76049804688,0.18000000715256,1.13,md,14,66,0.008137,0.03,nc,nc75108736,2024-12-28T00:52:18.641Z,"2 km  of The Geysers, CA",earthquake,0.21,0.479999989,0.17,17,automatic,nc,nc
-2024-12-28T00:02:25.045Z,64.9954,-147.3768,2.3,1.5,ml,,,,0.52,ak,ak024goc3gn2,2024-12-28T00:04:42.591Z,"12 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
