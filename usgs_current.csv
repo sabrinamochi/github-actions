@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T16:42:01.842Z,60.0707,-139.6649,0,1.9,ml,,,,1.4,ak,ak024grwxm54,2024-12-30T16:44:05.330Z,"58 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-30T16:07:40.427Z,61.1878,-146.9248,13.8,1.7,ml,,,,0.1,ak,ak024grwq722,2024-12-30T16:10:02.129Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-30T16:01:44.995Z,61.6046,-149.6392,34.4,1.8,ml,,,,0.52,ak,ak024grwox43,2024-12-30T16:03:20.026Z,"3 km SW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-30T15:55:59.600Z,19.212165832519,-155.48550415039,29.360000610352,2.37,ml,59,81,0.03821,0.159999996,hv,hv74580412,2024-12-30T15:59:06.580Z,"1 km NW of Pāhala, Hawaii",earthquake,0.39,0.610000014,0.63,9,automatic,hv,hv
+2024-12-30T15:55:59.600Z,19.212165832519,-155.48550415039,29.360000610352,2.37,ml,59,81,0.03821,0.159999996,hv,hv74580412,2024-12-30T16:51:39.040Z,"1 km NW of Pāhala, Hawaii",earthquake,0.39,0.610000014,0.63,9,automatic,hv,hv
 2024-12-30T15:55:03.700Z,38.811164855957,-122.78600311279,1.1699999570847,1.07,md,8,106,0.004651,0.01,nc,nc75109771,2024-12-30T15:56:39.006Z,"5 km NNW of The Geysers, CA",earthquake,0.45,0.769999981,0.31,9,automatic,nc,nc
 2024-12-30T15:48:47.004Z,61.1785,-148.395,26,1.6,ml,,,,0.93,ak,ak024grwdkbg,2024-12-30T15:51:00.029Z,"41 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-30T15:37:33.830Z,38.798667907715,-122.75016784668,1.2799999713898,1.07,md,9,97,0.02794,0.02,nc,nc75109761,2024-12-30T15:39:09.844Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.860000014,0.14,10,automatic,nc,nc
@@ -26,7 +26,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T13:59:28.656Z,37.3809,-117.2038,2,1.2,ml,13,219.62,0.092,0.3568,nn,nn00890884,2024-12-30T14:01:58.307Z,"36 km S of Goldfield, Nevada",earthquake,,6.7,0.4,8,automatic,nn,nn
 2024-12-30T13:53:01.820Z,32.8101667,-115.4536667,10.33,1.38,ml,21,66,0.007543,0.3,ci,ci40830087,2024-12-30T13:57:00.051Z,"7 km W of Holtville, CA",earthquake,0.63,0.93,0.151,19,automatic,ci,ci
 2024-12-30T13:29:48.166Z,39.0753,-119.0245,8.3,1.1,ml,10,108.12,0.094,0.0524,nn,nn00890882,2024-12-30T13:32:17.146Z,"15 km NE of Yerington, Nevada",earthquake,,1,0.16,3,automatic,nn,nn
-2024-12-30T13:24:36.870Z,31.306,-103.026,6.7294,1.7,ml,8,124,0,0.5,tx,tx2024zqbr,2024-12-30T13:28:30.763Z,"7 km NNE of Coyanosa, Texas",earthquake,0,4.4220113754272,0.1,6,automatic,tx,tx
 2024-12-30T13:20:20.750Z,44.469,-115.21433333333,3.63,1.75,ml,9,74,0.4487,0.11,mb,mb90069748,2024-12-30T14:57:32.560Z,"35 km NW of Stanley, Idaho",earthquake,0.39,2.89,0.14048784672688,13,reviewed,mb,mb
 2024-12-30T13:00:03.509Z,61.1538,-148.2587,0,1.2,ml,,,,0.36,ak,ak024gruwbdq,2024-12-30T14:32:56.514Z,"48 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-30T12:56:10.290Z,19.186166763306,-155.49800109863,30.170000076294,1.83000004,md,47,75,0.04568,0.159999996,hv,hv74580307,2024-12-30T12:59:25.200Z,"2 km SW of Pāhala, Hawaii",earthquake,0.4,0.660000026,0.0299999993,6,automatic,hv,hv
@@ -62,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T09:09:43.765Z,39.1761,-119.0237,5.4,1.9,ml,15,65.04,0.014,0.1978,nn,nn00890866,2024-12-30T09:12:16.288Z,"24 km NNE of Yerington, Nevada",earthquake,,0.4,0.21,6,automatic,nn,nn
 2024-12-30T09:09:02.348Z,59.8924,-151.1019,48.4,2.2,ml,,,,0.11,ak,ak024grskibe,2024-12-30T09:10:10.141Z,"8 km WNW of Fox River, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-30T09:05:16.117Z,37.3358,-117.1964,1.9,0.5,ml,10,210.47,0.062,0.2795,nn,nn00890865,2024-12-30T09:07:44.304Z,"41 km S of Goldfield, Nevada",earthquake,,7.9,0.5,3,automatic,nn,nn
-2024-12-30T09:04:51.960Z,19.195333333333,-155.495,30.78,4.32,ml,67,67,0.05043,0.12,hv,hv74580042,2024-12-30T16:44:47.657Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.33,0.41,0.20248075635964,56,reviewed,hv,hv
+2024-12-30T09:04:51.960Z,19.195333333333,-155.495,30.78,4.32,ml,67,67,0.05043,0.12,hv,hv74580042,2024-12-30T16:50:04.783Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.33,0.41,0.20248075635964,56,reviewed,hv,hv
 2024-12-30T08:55:51.371Z,38.7505,-119.2149,7.8,1.9,ml,18,65.11,0.135,0.1602,nn,nn00890863,2024-12-30T16:49:10.656Z,"11 km ESE of Smith, Nevada",earthquake,,2.2,0.28,6,reviewed,nn,nn
 2024-12-30T08:49:12.546Z,39.1383,-119.0739,3.8,1.1,ml,12,85.83,0.041,0.1181,nn,nn00890861,2024-12-30T08:51:14.943Z,"18 km NNE of Yerington, Nevada",earthquake,,0.7,0.51,4,automatic,nn,nn
 2024-12-30T08:38:27.074Z,-1.1369,67.4882,10,4.7,mb,62,116,5.739,0.66,us,us6000pggd,2024-12-30T09:53:50.315Z,"Carlsberg Ridge",earthquake,10.4,1.898,0.078,50,reviewed,us,us
