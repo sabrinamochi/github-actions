@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-31T12:56:55.000Z,34.1663333,-117.3878333,16.7,2.4,ml,137,26,0.04201,0.2,ci,ci40830695,2024-12-31T13:04:38.690Z,"4 km WNW of Muscoy, CA",earthquake,0.12,0.24,0.18,25,automatic,ci,ci
+2024-12-31T12:53:22.449Z,31.699,-104.138,3.7607,1.9,ml,20,81,0.1,0.4,tx,tx2024zrwd,2024-12-31T13:04:31.240Z,"51 km W of Mentone, Texas",earthquake,0,1.2574163675308,0.2,15,automatic,tx,tx
 2024-12-31T12:48:04.290Z,38.383335113525,-122.5813369751,1.9099999666214,1.8,md,15,74,0.03457,0.06,nc,nc75110251,2024-12-31T12:49:38.861Z,"5 km SW of Kenwood, CA",earthquake,0.3,0.670000017,0.21,13,automatic,nc,nc
 2024-12-31T12:44:26.530Z,34.4515,-119.1855,0.95,1.27,ml,21,57,0.04225,0.24,ci,ci40830679,2024-12-31T12:49:29.356Z,"5 km E of Ojai, CA",earthquake,0.31,0.61,0.309,31,automatic,ci,ci
 2024-12-31T12:35:15.186Z,61.8673,-149.0407,0.1,1.6,ml,,,,0.84,ak,ak024gti1r7n,2024-12-31T12:37:59.459Z,"17 km N of Buffalo Soapstone, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T01:04:16.080Z,33.0656667,-116.5645,9.69,0.89,ml,39,30,0.03167,0.2,ci,ci40830487,2024-12-31T01:08:03.693Z,"4 km ESE of Julian, CA",earthquake,0.21,0.49,0.216,20,automatic,ci,ci
 2024-12-31T00:48:10.960Z,40.336334228516,-124.58666992188,21.14999961853,2.28,md,9,295,0.2038,0.07,nc,nc75110011,2024-12-31T01:12:17.793Z,"26 km WNW of Petrolia, CA",earthquake,3.77,0.769999981,0.11,7,automatic,nc,nc
 2024-12-31T00:45:45.792Z,39.0926,-118.972,8.5,1.2,ml,10,141.03,0.092,0.1598,nn,nn00890963,2024-12-31T00:48:03.537Z,"20 km NE of Yerington, Nevada",earthquake,,1.3,0.23,6,automatic,nn,nn
-2024-12-31T00:41:06.623Z,38.7518,-119.2059,0.3,1.3,ml,10,149.7,0.235,0.0909,nn,nn00890961,2024-12-31T00:43:12.994Z,"11 km ESE of Smith, Nevada",earthquake,,30.4,0.25,5,automatic,nn,nn
+2024-12-31T00:41:07.704Z,38.7505,-119.207,8,1.2,ml,14,121.66,0.236,0.182,nn,nn00890961,2024-12-31T12:57:54.413Z,"11 km ESE of Smith, Nevada",earthquake,,3,0.3,10,reviewed,nn,nn
 2024-12-31T00:37:54.809Z,36.7686,-116.0977,3.4,-0.2,ml,10,120.31,0.01,0.0437,nn,nn00891014,2024-12-31T12:51:39.212Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.12,3,reviewed,nn,nn
 2024-12-31T00:22:22.693Z,32.243,-101.946,4.6502,1.4,ml,48,29,0,0.4,tx,tx2024zqxj,2024-12-31T00:34:48.641Z,"19 km NW of Stanton, Texas",earthquake,0,0.7883415222168,0.1,31,automatic,tx,tx
 2024-12-31T00:14:01.690Z,35.0408333,-117.6703333,-0.77,1.47,ml,40,46,0.1083,0.21,ci,ci40830463,2024-12-31T00:18:01.428Z,"5 km NNW of Boron, CA",earthquake,0.3,0.55,0.14,33,automatic,ci,ci
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T13:13:55.550Z,37.067666666667,-112.90633333333,17.59,1.31,ml,10,117,0.08457,0.09,uu,uu80002528,2024-12-30T17:35:05.770Z,"8 km NE of Hildale, Utah",earthquake,0.4,0.73,0.32322057247028,4,reviewed,uu,uu
 2024-12-30T13:08:54.730Z,61.327333333333,-152.25966666667,3.05,-0.3,ml,7,159,0.08003,0.13,av,av93432941,2024-12-31T00:34:24.120Z,"66 km WNW of Beluga, Alaska",earthquake,0.76,0.98,0.099875183875199,7,reviewed,av,av
 2024-12-30T13:07:58.170Z,61.298666666667,-152.28866666667,-2.12,0.09,ml,8,138,0.05661,0.06,av,av93432936,2024-12-31T00:28:38.440Z,"67 km WNW of Tyonek, Alaska",earthquake,0.27,2.79,0.26047109446075,9,reviewed,av,av
-2024-12-30T13:00:03.509Z,61.1538,-148.2587,0,1.2,ml,,,,0.36,ak,ak024gruwbdq,2024-12-31T04:22:44.478Z,"48 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
