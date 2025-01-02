@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T14:50:42.631Z,61.7472,-151.3305,27.5,1.9,ml,,,,0.63,ak,ak0253jpkjr,2025-01-02T14:53:35.459Z,"27 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-02T14:43:15.890Z,38.829166412354,-122.77866363525,1.5099999904633,1.08,md,17,71,0.006958,0.03,nc,nc75112021,2025-01-02T14:44:51.250Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.400000006,0.18,18,automatic,nc,nc
 2025-01-02T14:41:15.611Z,61.1911,-152.2098,37.5,0.8,ml,,,,0.71,ak,ak0253jnlbx,2025-01-02T14:43:49.362Z,"59 km WNW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-01-02T14:38:32.677Z,61.7002,-151.8019,3.7,3.8,ml,,,,0.73,ak,ak0253jmz6r,2025-01-02T16:25:19.278Z,"38 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-01-02T14:38:32.677Z,61.7002,-151.8019,3.7,3.8,ml,,,,0.73,ak,ak0253jmz6r,2025-01-02T16:37:10.056Z,"38 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-02T14:37:09.164Z,61.3037,-152.2189,0,0.7,ml,,,,0.79,ak,ak0253jmpno,2025-01-02T14:39:07.476Z,"63 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-02T14:29:20.400Z,33.6838333,-116.6838333,15.8,0.65,ml,10,266,0.125,0.08,ci,ci40832247,2025-01-02T14:34:36.145Z,"7 km SSE of Idyllwild, CA",earthquake,0.67,0.43,0.37,13,automatic,ci,ci
 2025-01-02T14:21:35.770Z,61.542,-149.9657,33.1,1.7,ml,,,,0.45,ak,ak0253jjc95,2025-01-02T14:23:20.710Z,"2 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T04:23:07.340Z,38.838165283203,-122.81233215332,1.8200000524521,0.83,md,11,61,0.01485,0.01,nc,nc75111681,2025-01-02T04:24:45.185Z,"8 km WNW of Cobb, CA",earthquake,0.31,1.02999997,0.23,15,automatic,nc,nc
 2025-01-02T04:10:10.950Z,38.825332641602,-122.77266693115,13.199999809265,0.34,md,9,128,0.005564,0.07,nc,nc75111676,2025-01-02T04:11:48.535Z,"4 km WNW of Cobb, CA",earthquake,1.64,1.14999998,0.11,10,automatic,nc,nc
 2025-01-02T04:09:19.560Z,38.819332122803,-122.82233428955,2.5099999904633,1.62,md,29,63,0.0104,0.02,nc,nc75111666,2025-01-02T04:42:15.051Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.16,30,automatic,nc,nc
-2025-01-02T04:05:53.150Z,41.559833333333,-109.875,-2.63,3.1,ml,14,156,0.1098,0.18,uu,uu80099071,2025-01-02T04:22:14.810Z,"2 km NW of Little America, Wyoming",earthquake,0.48,1.15,0.22725906311426,20,reviewed,uu,uu
+2025-01-02T04:05:53.150Z,41.559833333333,-109.875,-2.63,3.1,ml,14,156,0.1098,0.18,uu,uu80099071,2025-01-02T16:36:27.280Z,"2 km NW of Little America, Wyoming",earthquake,0.48,1.15,0.23249404062779,19,reviewed,uu,uu
 2025-01-02T04:04:32.170Z,38.84700012207,-122.76933288574,1.0700000524521,1.02,md,13,161,0.007052,0.02,nc,nc75111661,2025-01-02T04:06:08.533Z,"5 km NW of Cobb, CA",earthquake,0.3,0.400000006,0.3,13,automatic,nc,nc
 2025-01-02T04:02:37.440Z,38.835666656494,-122.77616882324,3.960000038147,0.7,md,7,137,0.006928,0.03,nc,nc75111656,2025-01-02T04:04:13.756Z,"5 km WNW of Cobb, CA",earthquake,3.42,6.0999999,0.3,8,automatic,nc,nc
 2025-01-02T04:00:06.290Z,38.834999084473,-122.80149841309,2.6300001144409,0.44,md,7,200,0.009353,0.04,nc,nc75111651,2025-01-02T04:01:43.430Z,"7 km WNW of Cobb, CA",earthquake,1.14,1.37,0.19,8,automatic,nc,nc
@@ -341,4 +341,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T16:46:33.090Z,32.7721667,-115.4388333,10.82,1.97,ml,33,60,0.03373,0.28,ci,ci40831671,2025-01-01T16:50:41.087Z,"7 km SW of Holtville, CA",earthquake,0.37,0.52,0.156,26,automatic,ci,ci
 2025-01-01T16:43:20.020Z,18.057166666667,-66.475833333333,11.94,2.13,md,10,100,0.09986,0.27,pr,pr71469933,2025-01-01T17:24:15.750Z,"2 km NNW of Río Cañas Abajo, Puerto Rico",earthquake,0.51,1.2,0.068032160936698,4,reviewed,pr,pr
 2025-01-01T16:40:52.170Z,32.7815,-115.435,10.88,1.6,ml,31,59,0.02575,0.32,ci,ci40831663,2025-01-01T16:51:35.450Z,"6 km WSW of Holtville, CA",earthquake,0.52,0.64,0.193,27,automatic,ci,ci
-2025-01-01T16:38:16.743Z,37.4122,-117.1194,7.2,0.8,ml,9,203.37,0.415,0.2231,nn,nn00891136,2025-01-01T16:40:26.084Z,"34 km SSE of Goldfield, Nevada",earthquake,,111.2,0.43,6,automatic,nn,nn
