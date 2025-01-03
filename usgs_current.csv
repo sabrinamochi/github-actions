@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-03T18:33:54.000Z,34.2446671,-116.807663,1.2,1.48,ml,40,63,0.09531,0.16,ci,ci40833223,2025-01-03T18:35:58.928Z,"4 km ESE of Big Bear City, CA",earthquake,0.25,0.54,0.171,7,automatic,ci,ci
+2025-01-03T18:33:54.020Z,34.2426667,-116.8091667,1.46,1.53,ml,57,30,0.09448,0.15,ci,ci40833223,2025-01-03T18:37:57.572Z,"4 km ESE of Big Bear City, CA",earthquake,0.13,0.32,0.141,31,automatic,ci,ci
 2025-01-03T18:24:23.972Z,37.3769,-117.1365,4.3,1.6,ml,24,198.16,0.125,0.2402,nn,nn00891344,2025-01-03T18:26:53.590Z,"37 km SSE of Goldfield, Nevada",earthquake,,1.5,0.17,16,automatic,nn,nn
 2025-01-03T18:15:00.700Z,33.0396667,-116.3476667,13.51,1.18,ml,48,35,0.08479,0.19,ci,ci40833199,2025-01-03T18:18:46.569Z,"23 km WSW of Ocotillo Wells, CA",earthquake,0.18,0.42,0.185,27,automatic,ci,ci
 2025-01-03T18:14:56.969Z,37.3697,-117.1406,4.6,1.4,ml,23,105.14,0.118,0.1878,nn,nn00891341,2025-01-03T18:17:24.136Z,"38 km SSE of Goldfield, Nevada",earthquake,,1.4,0.22,16,automatic,nn,nn
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T05:35:22.450Z,37.3654,-117.1386,0,0.7,ml,14,196.49,0.117,0.2869,nn,nn00891307,2025-01-03T05:37:41.373Z,"39 km SSE of Goldfield, Nevada",earthquake,,14.6,0.51,9,automatic,nn,nn
 2025-01-03T05:20:51.400Z,35.8985,-117.7095,7.72,0.47,ml,16,47,0.06879,0.14,ci,ci40832871,2025-01-03T05:24:15.862Z,"18 km ESE of Little Lake, CA",earthquake,0.25,0.59,0.117,7,automatic,ci,ci
 2025-01-03T05:12:07.098Z,39.1833,-120.4786,0,1.4,ml,10,219.58,0.208,0.0564,nn,nn00891305,2025-01-03T05:14:20.693Z,"15 km SSW of Kingvale, California",earthquake,,15.4,0.29,5,automatic,nn,nn
-2025-01-03T04:55:11.926Z,36.3245,-114.9735,12.5,2.1,ml,15,100.96,0.136,0.2036,nn,nn00891303,2025-01-03T18:35:55.724Z,"11 km NE of Nellis Air Force Base, Nevada",earthquake,,1.2,0.12,3,reviewed,nn,nn
+2025-01-03T04:55:11.963Z,36.3284,-114.9728,11.5,2.1,ml,14,101.09,0.14,0.1382,nn,nn00891303,2025-01-03T18:38:48.239Z,"11 km NE of Nellis Air Force Base, Nevada",earthquake,,1.5,0.21,4,reviewed,nn,nn
 2025-01-03T04:51:25.610Z,38.822334289551,-122.81033325195,1.460000038147,0.77,md,15,59,0.01854,0.02,nc,nc75112321,2025-01-03T04:53:01.442Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.620000005,0.18,16,automatic,nc,nc
 2025-01-03T04:49:08.549Z,63.2381,-150.6567,127,1.5,ml,,,,0.37,ak,ak02551aana,2025-01-03T04:51:27.631Z,"63 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-03T04:47:40.010Z,38.821834564209,-122.80883026123,1.3200000524521,0.78,md,16,43,0.001836,0.05,nc,nc75112316,2025-01-03T04:49:16.467Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.649999976,0.3,16,automatic,nc,nc
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T18:48:31.250Z,61.307833333333,-152.27016666667,0.25,0.43,ml,9,121,0.06943,0.05,av,av93442016,2025-01-03T09:50:20.940Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,1.88,0.33165797527185,11,reviewed,av,av
 2025-01-02T18:45:50.190Z,45.321666666667,-121.6955,4.57,1.08,ml,12,89,0.01753,0.07,uw,uw62069531,2025-01-02T22:06:13.020Z,"5 km ENE of Government Camp, Oregon",earthquake,0.26,0.35,0.083244868372725,8,reviewed,uw,uw
 2025-01-02T18:42:25.030Z,37.476333618164,-118.84583282471,6.5799999237061,2.11,md,21,73,0.1143,0.08,nc,nc75112101,2025-01-02T19:37:17.270Z,"17 km WSW of Toms Place, CA",earthquake,0.25,1.52999997,0.27,23,automatic,nc,nc
-2025-01-02T18:37:28.695Z,61.2855,-152.3041,0.3,1.2,ml,,,,0.61,ak,ak0253m0hl1,2025-01-03T09:45:54.640Z,"67 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
