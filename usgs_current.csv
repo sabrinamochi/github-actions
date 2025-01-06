@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-06T15:37:08.670Z,38.825668334961,-122.85383605957,2.5199999809265,0.91,md,16,111,0.003023,0.03,nc,nc75113616,2025-01-06T15:38:44.719Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.5,0.27,16,automatic,nc,nc
+2025-01-06T15:32:33.138Z,60.8181,-151.6818,189.2,2.1,ml,,,,0.87,ak,ak025a6cii9,2025-01-06T15:35:13.706Z,"25 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-06T15:22:53.350Z,38.777500152588,-122.72750091553,1.3200000524521,1.73,md,32,45,0.009208,0.07,nc,nc75113611,2025-01-06T15:24:30.983Z,"3 km E of The Geysers, CA",earthquake,0.2,0.289999992,0.17,32,automatic,nc,nc
 2025-01-06T14:45:52.030Z,35.943,-117.661,3.18,1.21,ml,25,51,0.009908,0.13,ci,ci40834647,2025-01-06T14:50:23.936Z,"22 km E of Little Lake, CA",earthquake,0.16,0.26,0.143,26,automatic,ci,ci
 2025-01-06T14:42:39.430Z,33.3115,-116.2401667,3.69,0.63,ml,39,38,0.07715,0.21,ci,ci40834631,2025-01-06T14:49:35.358Z,"14 km ENE of Borrego Springs, CA",earthquake,0.26,0.42,0.108,14,automatic,ci,ci
@@ -73,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T05:35:14.600Z,38.801166534424,-122.77183532715,1.6900000572205,0.75,md,12,91,0.009488,0.02,nc,nc75113456,2025-01-06T05:36:52.608Z,"3 km NNW of The Geysers, CA",earthquake,0.31,0.589999974,0.03,11,automatic,nc,nc
 2025-01-06T05:19:52.855Z,36.9855,-116.2366,3.9,0.3,ml,12,176.77,0.038,0.1202,nn,nn00891465,2025-01-06T05:21:50.567Z,"47 km E of Beatty, Nevada",earthquake,,0.5,0.34,7,automatic,nn,nn
 2025-01-06T05:18:47.890Z,33.2438333,-116.367,3.4,1.44,ml,70,25,0.04855,0.21,ci,ci40834383,2025-01-06T14:33:09.500Z,"2 km SSE of Borrego Springs, CA",earthquake,0.15,0.28,0.155,27,reviewed,ci,ci
-2025-01-06T05:09:57.218Z,32.6417,-93.9155,5,3,mb_lg,22,155,0.439,0.53,us,us6000pi49,2025-01-06T14:53:01.873Z,"6 km SE of Mooringsport, Louisiana",earthquake,4.6,1.96,0.07,53,reviewed,us,us
+2025-01-06T05:09:57.218Z,32.6417,-93.9155,5,3,mb_lg,22,155,0.439,0.53,us,us6000pi49,2025-01-06T15:34:11.864Z,"6 km SE of Mooringsport, Louisiana",earthquake,4.6,1.96,0.07,53,reviewed,us,us
 2025-01-06T05:08:27.049Z,63.1973,-150.0158,84.4,1.7,ml,,,,0.4,ak,ak025a090sw,2025-01-06T05:10:23.166Z,"57 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-06T04:58:11.040Z,38.79683303833,-122.74933624268,1.9299999475479,0.82,md,7,207,0.008948,0.05,nc,nc75113446,2025-01-06T04:59:47.547Z,"2 km NNE of The Geysers, CA",earthquake,0.91,1.22000003,0.41,8,automatic,nc,nc
 2025-01-06T04:55:27.689Z,39.1677,-119.0182,10,1.1,ml,9,124.25,0.016,0.1076,nn,nn00891463,2025-01-06T04:57:39.948Z,"23 km NNE of Yerington, Nevada",earthquake,,0.5,0.37,4,automatic,nn,nn
@@ -151,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T20:42:33.180Z,34.0431667,-117.2206667,8.35,0.95,ml,36,46,0.09022,0.16,ci,ci40834215,2025-01-05T21:38:52.872Z,"4 km E of Loma Linda, CA",earthquake,0.17,0.52,0.234,29,reviewed,ci,ci
 2025-01-05T20:41:39.380Z,38.791500091553,-122.7748336792,0.43999999761581,0.75,md,10,102,0.01036,0.04,nc,nc75113256,2025-01-05T20:43:15.732Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.730000019,0.04,10,automatic,nc,nc
 2025-01-05T20:33:50.800Z,40.370834350586,-125.12283325195,6.0100002288818,2.88,md,22,271,0.6086,0.36,nc,nc75113251,2025-01-06T08:45:56.513Z,"71 km WNW of Petrolia, CA",earthquake,7.63,19.9899998,0.07,15,automatic,nc,nc
+2025-01-05T20:07:25.110Z,44.476666666667,-110.74683333333,4.12,1.08,md,18,52,0.06858,0.15,uu,uu80099266,2025-01-06T15:35:30.950Z,"35 km SE of West Yellowstone, Montana",earthquake,0.29,0.64,0.28953181633559,13,reviewed,uu,uu
 2025-01-05T20:03:10.110Z,33.6721667,-116.7661667,16.94,0.8,ml,30,66,0.06161,0.16,ci,ci40834207,2025-01-05T21:38:55.622Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.46,0.254,26,reviewed,ci,ci
 2025-01-05T19:53:02.960Z,35.3496667,-117.7926667,4.38,1.07,ml,33,70,0.09286,0.19,ci,ci40834199,2025-01-05T21:38:56.707Z,"15 km W of Johannesburg, CA",earthquake,0.21,0.56,0.192,28,reviewed,ci,ci
 2025-01-05T19:48:50.515Z,9.4181,39.9904,10,4.3,mb,18,232,3.507,0.42,us,us6000pi1v,2025-01-05T21:04:12.040Z,"51 km NNW of Āwash, Ethiopia",earthquake,15.7,2.004,0.178,9,reviewed,us,us
@@ -187,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T16:15:44.670Z,40.326499938965,-124.67849731445,21.569999694824,2.38,md,17,283,0.2747,0.11,nc,nc75113156,2025-01-05T16:37:15.944Z,"33 km WNW of Petrolia, CA",earthquake,4.93,0.75,0.08,13,automatic,nc,nc
 2025-01-05T15:58:03.620Z,38.0251,-116.014,14.4,1.9,ml,17,290.47,0.949,0.279,nn,nn00891426,2025-01-05T16:00:51.672Z,"48 km NNW of Rachel, Nevada",earthquake,,2.1,0.29,12,automatic,nn,nn
 2025-01-05T15:50:33.000Z,36.72216796875,-121.1044998169,5.6999998092651,1.6,md,16,56,0.05729,0.22,nc,nc75113151,2025-01-05T16:22:14.838Z,"21 km ESE of Tres Pinos, CA",earthquake,0.63,1.98000002,0.18,13,automatic,nc,nc
-2025-01-05T15:37:02.150Z,41.6186,81.8573,10,4.5,mb,32,114,2.449,0.71,us,us6000pi02,2025-01-05T16:25:57.040Z,"90 km W of Kuqa, China",earthquake,8.56,1.954,0.098,30,reviewed,us,us
