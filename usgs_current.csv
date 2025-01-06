@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-06T18:00:12.810Z,33.5136681,-116.5131683,14.66,1.01,ml,24,64,0.07676,0.19,ci,ci40834775,2025-01-06T18:02:19.257Z,"16 km ESE of Anza, CA",earthquake,0.36,0.78,0.195,7,automatic,ci,ci
+2025-01-06T17:59:03.710Z,33.1683333,-115.6496667,4.55,1.43,ml,40,40,0.02996,0.23,ci,ci40834767,2025-01-06T18:02:43.935Z,"14 km WNW of Calipatria, CA",earthquake,0.28,0.69,0.147,26,automatic,ci,ci
 2025-01-06T17:55:34.358Z,31.34,-103.644,11.9437,2,ml,7,137,0.1,0.3,tx,tx2025akmz,2025-01-06T17:59:18.008Z,"10 km WSW of Lindsay, Texas",earthquake,0,5.2381815910339,0.2,7,automatic,tx,tx
 2025-01-06T17:51:45.080Z,38.819999694824,-122.84216308594,1.9900000095367,0.72,md,12,82,0.006382,0.01,nc,nc75113681,2025-01-06T17:53:20.609Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.629999995,0.31,15,automatic,nc,nc
 2025-01-06T17:44:06.441Z,39.1009,-119.0342,9,1,ml,8,132.57,0.068,0.0978,nn,nn00891478,2025-01-06T17:47:04.067Z,"16 km NE of Yerington, Nevada",earthquake,,0.9,0.38,3,automatic,nn,nn
@@ -22,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T15:32:33.138Z,60.8181,-151.6818,189.2,2.1,ml,,,,0.87,ak,ak025a6cii9,2025-01-06T15:35:13.706Z,"25 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-06T15:26:46.724Z,33.3841,87.0763,10,5.2,mb,107,70,11.107,0.79,us,us6000pi67,2025-01-06T15:45:19.040Z,"western Xizang",earthquake,9.04,1.847,0.047,152,reviewed,us,us
 2025-01-06T15:22:53.350Z,38.777500152588,-122.72750091553,1.3200000524521,1.73,md,32,45,0.009208,0.07,nc,nc75113611,2025-01-06T15:57:16.699Z,"3 km E of The Geysers, CA",earthquake,0.2,0.289999992,0.17,32,automatic,nc,nc
+2025-01-06T15:16:07.714Z,-23.5544,-179.6274,549.465,4.6,mb,38,123,5.868,0.73,us,us6000pi65,2025-01-06T18:01:17.040Z,"south of the Fiji Islands",earthquake,9.74,9.58,0.1,30,reviewed,us,us
 2025-01-06T14:59:46.633Z,3.2934,95.2784,35,4.4,mb,20,201,2.543,0.48,us,us6000pi69,2025-01-06T17:30:00.040Z,"133 km SW of Meulaboh, Indonesia",earthquake,10.03,1.975,0.143,14,reviewed,us,us
 2025-01-06T14:45:52.030Z,35.943,-117.661,3.18,1.21,ml,25,51,0.009908,0.13,ci,ci40834647,2025-01-06T14:50:23.936Z,"22 km E of Little Lake, CA",earthquake,0.16,0.26,0.143,26,automatic,ci,ci
 2025-01-06T14:42:39.450Z,33.3125,-116.241,4.06,0.72,ml,34,58,0.07597,0.2,ci,ci40834631,2025-01-06T17:25:27.576Z,"14 km ENE of Borrego Springs, CA",earthquake,0.26,0.7,0.131,13,reviewed,ci,ci
@@ -192,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T19:48:50.515Z,9.4181,39.9904,10,4.3,mb,18,232,3.507,0.42,us,us6000pi1v,2025-01-05T21:04:12.040Z,"51 km NNW of Āwash, Ethiopia",earthquake,15.7,2.004,0.178,9,reviewed,us,us
 2025-01-05T19:30:14.965Z,62.0103,-151.3478,81,2.1,ml,,,,0.52,ak,ak0258l6flk,2025-01-05T19:32:06.351Z,"3 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-05T19:20:58.960Z,33.1645,-115.9593333,8.73,1.06,ml,31,64,0.1174,0.21,ci,ci40834191,2025-01-05T19:24:58.033Z,"15 km S of Salton City, CA",earthquake,0.23,1.13,0.154,28,automatic,ci,ci
+2025-01-05T19:06:42.550Z,35.6643333,-117.5238333,8.39,0.79,ml,18,78,0.08153,0.15,ci,ci40834183,2025-01-06T18:02:58.257Z,"15 km ENE of Ridgecrest, CA",earthquake,0.23,0.93,0.099,8,reviewed,ci,ci
 2025-01-05T18:59:04.420Z,33.2436667,-116.3633333,3.79,1.03,ml,58,27,0.05131,0.22,ci,ci40834167,2025-01-05T21:39:15.343Z,"2 km SE of Borrego Springs, CA",earthquake,0.17,0.58,0.125,27,reviewed,ci,ci
 2025-01-05T18:51:45.400Z,39.832333333333,-111.977,3.44,1.94,ml,29,44,0.1437,0.19,uu,uu80099261,2025-01-06T16:00:19.290Z,"10 km W of Mona, Utah",earthquake,0.34,2.91,0.078823284690658,11,reviewed,uu,uu
 2025-01-05T18:50:26.380Z,38.841999053955,-122.87633514404,2.2699999809265,1.12,md,17,85,0.006347,0.02,nc,nc75113241,2025-01-05T19:22:15.103Z,"13 km NW of The Geysers, CA",earthquake,0.33,0.49000001,0.1,19,automatic,nc,nc
