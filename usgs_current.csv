@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-08T14:13:17.010Z,36.510334014893,-121.0898361206,7.8899998664856,1.16,md,7,124,0.06065,0.04,nc,nc75114501,2025-01-08T14:14:56.180Z,"5 km SE of Pinnacles, CA",earthquake,0.47,1.37,0.31,8,automatic,nc,nc
+2025-01-08T14:15:20.521Z,62.2524,-150.5301,65.1,1.7,ml,,,,1.04,ak,ak025dgpy97,2025-01-08T14:17:52.964Z,"17 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-08T14:13:17.010Z,36.510334014893,-121.0898361206,7.8899998664856,1.16,md,7,124,0.06065,0.04,nc,nc75114501,2025-01-08T14:20:42.940Z,"5 km SE of Pinnacles, CA",earthquake,0.47,1.37,0.31,8,automatic,nc,nc
 2025-01-08T14:04:17.280Z,61.5293,-149.8442,41.7,1.6,ml,,,,0.42,ak,ak025dgnqm8,2025-01-08T14:07:05.640Z,"5 km E of Big Lake, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2025-01-08T13:54:37.448Z,62.3265,-151.2193,82.4,1.7,ml,,,,0.27,ak,ak025dgd2dc,2025-01-08T13:56:22.080Z,"30 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T13:51:24.280Z,38.840000152588,-122.81083679199,1.9800000190735,0.68,md,6,123,0.01659,0.01,nc,nc75114491,2025-01-08T13:53:02.143Z,"8 km WNW of Cobb, CA",earthquake,0.46,1.51999998,0.45,8,automatic,nc,nc
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T08:54:57.820Z,38.805000305176,-122.80500030518,2.210000038147,0.77,md,8,80,0.008136,0.02,nc,nc75114416,2025-01-08T08:56:35.070Z,"5 km NW of The Geysers, CA",earthquake,0.59,0.980000019,0.17,8,automatic,nc,nc
 2025-01-08T08:46:49.982Z,61.0156,-151.3593,19.8,1.6,ml,,,,0.17,ak,ak025ddc7l2,2025-01-08T08:48:08.958Z,"13 km WSW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-08T08:23:45.330Z,40.23099899292,-121.16549682617,-1.0499999523163,2.19,md,15,138,0.1903,0.21,nc,nc75114411,2025-01-08T09:17:20.922Z,"2 km NE of Almanor, CA",earthquake,0.72,14.5100002,0.08,10,automatic,nc,nc
-2025-01-08T08:20:18.950Z,40.23450088501,-121.16600036621,-1.4400000572205,3.23,ml,54,34,0.1869,0.22,nc,nc75114406,2025-01-08T13:56:41.558Z,"2 km NE of Almanor, CA",earthquake,0.3,3.61999989,0.271,20,automatic,nc,nc
+2025-01-08T08:20:18.950Z,40.23450088501,-121.16600036621,-1.4400000572205,3.23,ml,54,34,0.1869,0.22,nc,nc75114406,2025-01-08T14:18:06.241Z,"2 km NE of Almanor, CA",earthquake,0.3,3.61999989,0.271,20,automatic,nc,nc
 2025-01-08T08:19:57.647Z,58.6179,-155.2429,18,1.2,ml,,,,0.97,ak,ak025dd6fuc,2025-01-08T08:22:43.121Z,"82 km E of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T08:17:16.755Z,61.4178,-150.3519,35.3,1.7,ml,,,,0.46,ak,ak025dd5x97,2025-01-08T08:18:39.214Z,"16 km SSE of Susitna, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2025-01-08T08:15:51.102Z,39.0859,-119.0241,7.1,1.8,ml,13,124.86,0.084,0.1513,nn,nn00891581,2025-01-08T08:18:01.265Z,"16 km NE of Yerington, Nevada",earthquake,,1,0.31,5,automatic,nn,nn
@@ -160,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T15:00:53.230Z,38.833499908447,-122.81716918945,1.539999961853,0.71,md,10,106,0.01518,0.01,nc,nc75114066,2025-01-07T15:02:30.648Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.889999986,0.08,11,automatic,nc,nc
 2025-01-07T14:35:58.580Z,38.829833984375,-122.81866455078,1.8300000429153,0.72,md,8,124,0.01578,0.01,nc,nc75114061,2025-01-07T14:37:36.518Z,"8 km NNW of The Geysers, CA",earthquake,0.47,1.86000001,0.14,10,automatic,nc,nc
 2025-01-07T14:27:08.600Z,38.830165863037,-122.81816864014,1.5199999809265,0.69,md,7,100,0.009257,0.01,nc,nc75114056,2025-01-07T14:28:46.675Z,"8 km NNW of The Geysers, CA",earthquake,0.57,2.4000001,0.37,9,automatic,nc,nc
-2025-01-07T14:23:04.210Z,38.830165863037,-122.81883239746,1.7000000476837,0.76,md,9,76,0.009618,0.01,nc,nc75114051,2025-01-07T14:24:41.552Z,"8 km NNW of The Geysers, CA",earthquake,0.33,1.15999997,0.36,10,automatic,nc,nc
-2025-01-07T14:15:58.960Z,59.8218,-152.7363,80.5,1.9,ml,,,,0.42,ak,ak025bt6u7s,2025-01-07T14:17:28.432Z,"51 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
