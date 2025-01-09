@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-09T20:31:18.910Z,33.8563347,-117.5026703,0.7,1.35,ml,32,63,0.0523,0.23,ci,ci40836695,2025-01-09T20:33:24.349Z,"3 km SE of Home Gardens, CA",earthquake,0.51,0.74,0.47,17,automatic,ci,ci
+2025-01-09T20:29:28.012Z,39.084,-119.0256,7,1.4,ml,10,100.3,0.086,0.0943,nn,nn00891668,2025-01-09T20:31:39.462Z,"16 km NE of Yerington, Nevada",earthquake,,1.6,0.19,5,automatic,nn,nn
 2025-01-09T20:22:18.830Z,33.5093333,-116.505,12.77,0.64,ml,12,206,0.08252,0.08,ci,ci40836687,2025-01-09T20:26:23.344Z,"16 km ESE of Anza, CA",earthquake,0.54,0.7,0.091,14,automatic,ci,ci
 2025-01-09T20:09:15.676Z,32.009,-102.219,4.7055,1.8,ml,5,174,0,0.2,tx,tx2025aqdx,2025-01-09T20:18:15.681Z,"13 km W of Midland, Texas",earthquake,0,2.5107171535492,0.2,5,automatic,tx,tx
 2025-01-09T20:06:34.113Z,31.656,-104.348,4.1575,1.7,ml,17,70,0.1,0.3,tx,tx2025aqdv,2025-01-09T20:11:06.652Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3373178243637,0.2,13,automatic,tx,tx
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T19:44:06.640Z,38.787666320801,-122.74900054932,0.76999998092651,1.51,md,20,83,0.01056,0.06,nc,nc75114986,2025-01-09T20:07:19.351Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.409999996,0.21,22,automatic,nc,nc
 2025-01-09T19:35:55.150Z,38.833667755127,-122.81483459473,0.95999997854233,1.05,md,20,55,0.01686,0.01,nc,nc75114981,2025-01-09T19:37:32.534Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.550000012,0.1,20,automatic,nc,nc
 2025-01-09T19:32:21.666Z,31.715,-104.271,4.6893,1.6,ml,19,52,0,0.2,tx,tx2025aqcs,2025-01-09T20:04:49.601Z,"52 km S of Whites City, New Mexico",earthquake,0,1.1257528066635,0.2,15,automatic,tx,tx
-2025-01-09T19:27:35.160Z,34.2658348,-119.8040009,-0.64,2.99,ml,34,224,0.1503,0.38,ci,ci40836639,2025-01-09T20:29:43.538Z,"17 km SSE of Isla Vista, CA",earthquake,1.44,2.72,0.232,25,reviewed,ci,ci
+2025-01-09T19:27:35.160Z,34.2658348,-119.8040009,-0.64,2.99,ml,34,224,0.1503,0.38,ci,ci40836639,2025-01-09T20:29:44.737Z,"17 km SSE of Isla Vista, CA",earthquake,1.44,2.72,0.232,25,reviewed,ci,ci
 2025-01-09T19:27:32.290Z,34.3133333,-119.8186667,-0.53,1.44,ml,23,136,0.1014,0.25,ci,ci40836631,2025-01-09T20:18:51.040Z,"12 km SSE of Isla Vista, CA",earthquake,0.61,1.1,0.161,4,automatic,ci,ci
 2025-01-09T19:24:49.950Z,31.593,-104.523,3.8734,1.6,ml,12,152,0.1,0.1,tx,tx2025aqcl,2025-01-09T20:04:45.603Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.3398036956787,0.1,10,automatic,tx,tx
 2025-01-09T19:23:21.640Z,38.820167541504,-122.81649780273,1.710000038147,0.75,md,8,173,0.005964,0.11,nc,nc75114961,2025-01-09T19:24:57.392Z,"7 km NW of The Geysers, CA",earthquake,0.91,1.75,0.06,8,automatic,nc,nc
@@ -211,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T20:52:25.663Z,62.5274,-150.9095,69.6,1.6,ml,,,,0.77,ak,ak025dkin9i,2025-01-08T20:54:15.098Z,"8 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T20:45:54.539Z,36.25633333,-95.82316667,0,1.15,ml,22,207,0.3464320182,0.44,ok,ok2025aojq,2025-01-09T13:29:43.722Z,"3 km ESE of Owasso, Oklahoma",quarry blast,,0.5,0.22,12,reviewed,ok,ok
 2025-01-08T20:42:59.062Z,65.0061,-147.3842,1.6,1.5,ml,,,,0.61,ak,ak025dkgkoi,2025-01-08T20:44:54.773Z,"12 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-01-08T20:31:45.852Z,31.665,-104.178,5.3821,1.5,ml,17,65,0.1,0.1,tx,tx2025aojd,2025-01-09T14:29:16.971Z,"53 km NW of Toyah, Texas",earthquake,0.5492296319142,1.4033591869965,0.2,15,reviewed,tx,tx
