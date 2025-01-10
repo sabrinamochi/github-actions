@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-10T14:35:51.281Z,61.2077,-150.2297,39.9,1.7,ml,,,,0.88,ak,ak025grx5fc,2025-01-10T14:38:19.425Z,"17 km W of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-10T14:23:37.080Z,38.799667358398,-122.81016540527,2.1300001144409,0.73,md,7,139,0.01261,0.02,nc,nc75115406,2025-01-10T14:25:14.961Z,"5 km NW of The Geysers, CA",earthquake,0.48,0.920000017,0.43,8,automatic,nc,nc
 2025-01-10T14:17:14.680Z,38.799667358398,-122.80666351318,1.7300000190735,0.66,md,10,76,0.01167,0.03,nc,nc75115401,2025-01-10T14:18:50.032Z,"5 km NW of The Geysers, CA",earthquake,0.36,0.689999998,0.36,11,automatic,nc,nc
 2025-01-10T14:14:27.150Z,38.799499511719,-122.80683135986,1.9099999666214,0.76,md,14,62,0.01154,0.02,nc,nc75115396,2025-01-10T14:16:05.357Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.629999995,0.17,14,automatic,nc,nc
@@ -176,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T19:45:34.420Z,35.0875,-118.3053333,4.64,1.82,ml,40,32,0.1011,0.18,ci,ci40836655,2025-01-09T21:29:05.810Z,"13 km WNW of Mojave, CA",earthquake,0.16,0.5,0.161,24,reviewed,ci,ci
 2025-01-09T19:44:06.640Z,38.787666320801,-122.74900054932,0.76999998092651,1.51,md,20,83,0.01056,0.06,nc,nc75114986,2025-01-09T20:07:19.351Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.409999996,0.21,22,automatic,nc,nc
 2025-01-09T19:35:55.150Z,38.833667755127,-122.81483459473,0.95999997854233,1.05,md,20,55,0.01686,0.01,nc,nc75114981,2025-01-09T19:37:32.534Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.550000012,0.1,20,automatic,nc,nc
-2025-01-09T19:32:21.666Z,31.715,-104.271,4.6893,1.6,ml,19,52,0,0.2,tx,tx2025aqcs,2025-01-09T20:04:49.601Z,"52 km S of Whites City, New Mexico",earthquake,0,1.1257528066635,0.2,15,automatic,tx,tx
+2025-01-09T19:32:21.317Z,31.72,-104.272,7.0227,1.6,ml,19,52,0,0.3,tx,tx2025aqcs,2025-01-10T14:35:47.196Z,"51 km S of Whites City, New Mexico",earthquake,0.81508858794415,0.66014340592914,0.2,13,reviewed,tx,tx
 2025-01-09T19:27:35.040Z,34.2831667,-119.7956667,-0.05,2.91,ml,63,113,0.1352,0.26,ci,ci40836639,2025-01-10T04:23:54.435Z,"16 km SSE of Isla Vista, CA",earthquake,0.35,0.63,0.114,196,reviewed,ci,ci
 2025-01-09T19:27:32.130Z,34.3103333,-119.8085,-0.33,1.63,ml,29,122,0.1063,0.19,ci,ci40836631,2025-01-09T20:52:15.009Z,"12 km SSE of Isla Vista, CA",earthquake,0.36,0.74,0.294,5,reviewed,ci,ci
 2025-01-09T19:24:49.950Z,31.593,-104.523,3.8734,1.6,ml,12,152,0.1,0.1,tx,tx2025aqcl,2025-01-09T20:04:45.603Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.3398036956787,0.1,10,automatic,tx,tx
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T14:49:43.351Z,32.541,-101.135,6.7204,1.1,ml,7,123,0.1,0.5,tx,tx2025aptn,2025-01-09T14:58:19.139Z,"23 km NNW of Westbrook, Texas",earthquake,0,7.4394536018372,0.2,4,automatic,tx,tx
 2025-01-09T14:49:07.470Z,32.9455,-116.3368333,5.7,1.04,ml,32,57,0.1566,0.16,ci,ci40836463,2025-01-09T17:27:16.008Z,"23 km NE of Pine Valley, CA",earthquake,0.2,1.3,0.139,22,reviewed,ci,ci
 2025-01-09T14:43:38.830Z,38.840831756592,-122.82250213623,1.8799999952316,1.45,md,24,84,0.01038,0.03,nc,nc75114886,2025-01-09T15:37:15.394Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.370000005,0.19,26,automatic,nc,nc
-2025-01-09T14:38:04.160Z,32.9441667,-116.3366667,3.94,1.49,ml,50,82,0.1578,0.18,ci,ci40836455,2025-01-09T17:21:21.930Z,"23 km NE of Pine Valley, CA",earthquake,0.16,0.6,0.148,42,reviewed,ci,ci
