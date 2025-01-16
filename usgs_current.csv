@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T18:44:56.300Z,34.621666,-119.065834,7.27,1.86,ml,30,122,0.1156,0.28,ci,ci40841167,2025-01-16T18:49:59.787Z,"25 km SSW of Frazier Park, CA",earthquake,0.52,1.97,0.292,29,automatic,ci,ci
 2025-01-16T18:33:12.280Z,40.288333892822,-124.51416778565,24.319999694824,2.03,md,13,286,0.1645,0.06,nc,nc75118121,2025-01-16T18:34:47.275Z,"20 km W of Petrolia, CA",earthquake,3.63,1.47000003,0.14,12,automatic,nc,nc
 2025-01-16T17:58:36.308Z,63.0016,-150.5827,109.2,1.8,ml,,,,0.51,ak,ak025qr2fim,2025-01-16T18:00:56.429Z,"57 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-16T17:44:56.050Z,35.9518333,-117.6811667,3.94,1.14,ml,24,48,0.1001,0.17,ci,ci40841079,2025-01-16T17:48:21.453Z,"20 km E of Little Lake, CA",earthquake,0.2,0.72,0.128,20,automatic,ci,ci
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T04:50:00.480Z,60.3939,-150.2379,36.2,2.5,ml,,,,0.33,ak,ak025qja05s,2025-01-16T05:13:19.040Z,"25 km WSW of Cooper Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-16T04:43:15.631Z,63.2168,-150.5641,115.3,1.6,ml,,,,3.63,ak,ak025qj8j9y,2025-01-16T04:45:01.495Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-16T04:42:27.211Z,69.4876,-144.1717,5.4,3.6,ml,,,,0.74,ak,ak025qj8cjt,2025-01-16T17:01:13.578Z,"74 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2025-01-16T04:40:36.948Z,37.29,-117.6996,2.7,1.2,ml,10,158.32,0.071,0.2606,nn,nn00892052,2025-01-16T04:42:58.913Z,"51 km S of Silver Peak, Nevada",earthquake,,1.5,0.36,7,automatic,nn,nn
+2025-01-16T04:40:37.427Z,37.2902,-117.6967,0.1,1.2,ml,7,144.89,0.07,0.1251,nn,nn00892052,2025-01-16T18:46:44.899Z,"51 km S of Silver Peak, Nevada",earthquake,,13.3,0.65,3,reviewed,nn,nn
 2025-01-16T04:33:18.280Z,33.6478333,-117.8496667,8.24,1.25,ml,30,75,0.05599,0.2,ci,ci40840687,2025-01-16T16:29:38.715Z,"4 km NNW of San Joaquin Hills, CA",earthquake,0.25,0.63,0.173,35,reviewed,ci,ci
 2025-01-16T04:32:53.517Z,39.1088,-119.1113,8,1.4,ml,14,82.97,0.082,0.1411,nn,nn00892050,2025-01-16T15:40:16.382Z,"14 km NNE of Yerington, Nevada",earthquake,,1.4,0.19,7,reviewed,nn,nn
 2025-01-16T04:25:33.042Z,39.0933,-119.0221,8.2,1,ml,10,97.66,0.077,0.0766,nn,nn00892049,2025-01-16T15:34:05.143Z,"17 km NE of Yerington, Nevada",earthquake,,2.6,0.26,3,reviewed,nn,nn
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T19:12:11.720Z,18.108666666667,-67.0395,26.65,2.55,md,17,58,0.01756,0.1,pr,pr71470908,2025-01-15T19:25:09.990Z,"3 km N of San Germán, Puerto Rico",earthquake,0.3,0.53,0.057155655833665,9,reviewed,pr,pr
 2025-01-15T19:02:58.279Z,64.6298,-147.6226,9.7,0.9,ml,,,,0.29,ak,ak025p4dztv,2025-01-15T19:05:02.377Z,"18 km SW of North Pole, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-15T18:56:04.110Z,57.097,-135.77966666667,6.33,0.37,ml,4,296,0.03417,0.08,av,av93457341,2025-01-16T03:59:47.870Z,"27 km W of Sitka, Alaska",earthquake,0.94,0.65,0.3964779097276,4,reviewed,av,av
-2025-01-15T18:49:54.044Z,31.611,-104.505,8.5095,1.9,ml,45,110,0.1,0.3,tx,tx2025bbah,2025-01-16T10:43:15.893Z,"63 km S of Whites City, New Mexico",earthquake,1.0314983900262,0.90760279077844,0.1,27,reviewed,tx,tx
