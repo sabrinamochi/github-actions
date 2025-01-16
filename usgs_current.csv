@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T19:57:52.350Z,19.279666900635,-155.38932800293,31.569999694824,2.31,ml,61,102,0.04265,0.150000006,hv,hv74593422,2025-01-16T20:01:01.480Z,"12 km NE of Pāhala, Hawaii",earthquake,0.36,0.560000002,0.62,17,automatic,hv,hv
+2025-01-16T19:57:37.270Z,19.346834182739,-155.06083679199,3.0899999141693,2.7,ml,8,267,0.05692,0.270000011,hv,hv74593417,2025-01-16T20:00:39.740Z,"15 km SSE of Fern Forest, Hawaii",earthquake,2.19,4.5,0.78,13,automatic,hv,hv
 2025-01-16T19:40:50.030Z,36.893501281738,-121.63383483887,2.039999961853,2.16,md,7,84,0.04356,0.21,nc,nc75118141,2025-01-16T19:47:18.061Z,"1 km ENE of Aromas, CA",earthquake,0.67,3,0.2,7,automatic,nc,nc
 2025-01-16T19:39:19.735Z,32.191,-101.397,3.7396,1.4,ml,27,88,0.2,0.3,tx,tx2025bcxm,2025-01-16T19:49:57.316Z,"9 km NNW of Forsan, Texas",earthquake,0,1.2575603723526,0.1,14,automatic,tx,tx
 2025-01-16T19:31:21.110Z,40.535333333333,-111.62383333333,-0.29,1.17,md,15,137,0.1135,0.15,uu,uu80099701,2025-01-16T19:47:21.490Z,"5 km SSE of Snowbird, Utah",earthquake,0.35,0.93,0.15673627698968,9,reviewed,uu,uu
@@ -40,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T14:33:23.902Z,32.411,-101.399,5.9814,1.1,ml,18,58,0,0.1,tx,tx2025bcnl,2025-01-16T19:16:04.072Z,"14 km NNW of Sand Springs, Texas",earthquake,0.63529854746145,0.92609791270719,0.2,15,reviewed,tx,tx
 2025-01-16T14:22:59.770Z,35.9051667,-117.7078333,2.79,1.1,ml,23,48,0.06319,0.13,ci,ci40840927,2025-01-16T14:59:44.573Z,"18 km E of Little Lake, CA",earthquake,0.16,0.32,0.151,20,reviewed,ci,ci
 2025-01-16T14:21:24.138Z,29.2249,139.3492,423.297,4.1,mb,41,78,3.281,0.75,us,us6000pkfw,2025-01-16T15:53:00.040Z,"Izu Islands, Japan region",earthquake,12.76,8.806,0.069,58,reviewed,us,us
-2025-01-16T14:16:25.730Z,35.9061661,-117.7054977,2.69,2.08,ml,35,40,0.06112,0.17,ci,ci40840919,2025-01-16T14:27:25.040Z,"18 km E of Little Lake, CA",earthquake,0.23,0.47,0.269,25,automatic,ci,ci
+2025-01-16T14:16:25.740Z,35.9081667,-117.7046667,4.06,2.02,ml,29,46,0.05927,0.12,ci,ci40840919,2025-01-16T20:02:15.951Z,"18 km E of Little Lake, CA",earthquake,0.14,0.33,0.199,45,reviewed,ci,ci
 2025-01-16T14:14:05.975Z,60.3125,-153.1279,126.4,1.5,ml,,,,0.26,ak,ak025qp0mut,2025-01-16T14:16:22.370Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-16T13:54:54.579Z,62.1714,-144.8017,19.6,1.3,ml,,,,1.01,ak,ak025qonvmv,2025-01-16T13:57:24.403Z,"29 km ESE of Gakona, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-16T13:46:51.640Z,38.791168212891,-122.77683258057,1.4500000476837,0.81,md,6,107,0.008893,0.02,nc,nc75118021,2025-01-16T13:48:25.871Z,"2 km NW of The Geysers, CA",earthquake,0.48,2.18000007,0.08,8,automatic,nc,nc
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T07:35:45.439Z,61.2948,-149.4496,28.5,1.7,ml,,,,0.4,ak,ak025qkz6pb,2025-01-16T07:37:16.481Z,"6 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-16T07:31:15.050Z,35.7341667,-118.0571667,1.56,0.65,ml,14,122,0.1556,0.15,ci,ci40840759,2025-01-16T17:35:35.263Z,"24 km WNW of Inyokern, CA",earthquake,0.3,0.54,0.24,5,reviewed,ci,ci
 2025-01-16T07:26:56.290Z,38.787166595459,-122.77116394043,3.7799999713898,0.44,md,13,88,0.0144,0.02,nc,nc75117891,2025-01-16T07:28:33.446Z,"2 km NW of The Geysers, CA",earthquake,0.39,1.13,0.16,12,automatic,nc,nc
-2025-01-16T07:24:29.541Z,37.4029,-117.1309,0,0.9,ml,9,196.33,0.43,0.3787,nn,nn00892060,2025-01-16T07:26:40.154Z,"35 km SSE of Goldfield, Nevada",earthquake,,56,0.22,8,automatic,nn,nn
+2025-01-16T07:24:30.734Z,37.3859,-117.1278,6.1,0.9,ml,13,149.66,0.136,0.1695,nn,nn00892060,2025-01-16T20:00:25.734Z,"37 km SSE of Goldfield, Nevada",earthquake,,4.8,0.26,4,reviewed,nn,nn
 2025-01-16T06:55:59.194Z,65.9333,-150.4427,10.6,2.6,ml,,,,0.95,ak,ak025qki2ha,2025-01-16T07:57:37.040Z,"49 km NNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-16T06:42:10.506Z,31.284,-103.362,2.7673,2.1,ml,14,57,0,0.1,tx,tx2025bbxv,2025-01-16T13:52:23.151Z,"19 km ESE of Lindsay, Texas",earthquake,1.4090263626588,0.87633538730306,0.2,32,reviewed,tx,tx
 2025-01-16T06:32:33.966Z,59.903,-152.4251,82.8,1.2,ml,,,,0.13,ak,ak025qkd32c,2025-01-16T06:35:04.203Z,"36 km WNW of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T20:04:38.671Z,-22.5772,-179.1509,483.606,4.7,mb,25,87,5.478,0.71,us,us6000pk95,2025-01-15T20:25:56.040Z,"south of the Fiji Islands",earthquake,16.93,15.022,0.102,29,reviewed,us,us
 2025-01-15T20:03:43.930Z,46.010833333333,-112.46166666667,-2,1.56,ml,6,202,0.06621,0.14,mb,mb90071033,2025-01-15T21:18:23.420Z,"5 km E of Butte, Montana",quarry blast,1.08,31.61,0.29031012764589,17,reviewed,mb,mb
 2025-01-15T20:02:25.200Z,44.3035,-114.86116666667,3.79,1.68,ml,13,82,0.1975,0.2,mb,mb90071028,2025-01-15T21:50:07.110Z,"11 km NNE of Stanley, Idaho",earthquake,0.38,2.38,0.1247750742227,13,reviewed,mb,mb
-2025-01-15T20:01:47.990Z,34.47966667,-96.85166667,0,1.14,ml,19,180,0.2582493227,0.33,ok,ok2025bbcr,2025-01-16T13:50:36.971Z,"8 km S of Hickory, Oklahoma",quarry blast,,0.7,0.19,9,reviewed,ok,ok
