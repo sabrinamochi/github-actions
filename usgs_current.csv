@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-17T21:22:12.650Z,37.909999847412,-121.95899963379,1.0099999904633,1.95,md,6,158,0.04107,0.03,nc,nc75118716,2025-01-17T21:23:52.171Z,"4 km SW of Clayton, CA",earthquake,0.83,3.63000011,0.02,5,automatic,nc,nc
+2025-01-17T21:22:01.636Z,31.51,-103.93,6.5011,1.6,ml,12,100,0,0.6,tx,tx2025bewi,2025-01-17T21:31:11.930Z,"25 km NNW of Toyah, Texas",earthquake,0,3.008716583252,0.2,8,automatic,tx,tx
 2025-01-17T21:21:49.770Z,38.80916595459,-122.79299926758,1.210000038147,0.77,md,9,100,0.002161,0.02,nc,nc75118711,2025-01-17T21:23:27.339Z,"5 km NNW of The Geysers, CA",earthquake,0.44,0.860000014,0.14,9,automatic,nc,nc
 2025-01-17T21:16:25.900Z,38.833667755127,-122.83466339111,0.85000002384186,0.77,md,14,69,0.004956,0.01,nc,nc75118706,2025-01-17T21:18:01.391Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.519999981,0.25,15,automatic,nc,nc
 2025-01-17T21:10:46.630Z,19.133666992188,-155.36067199707,27.930000305176,2.48,ml,61,187,0.09831,0.140000001,hv,hv74593987,2025-01-17T21:14:14.140Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.51,0.610000014,0.46,15,automatic,hv,hv
@@ -44,6 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-17T16:50:17.880Z,45.865833333333,-111.46933333333,4.93,0.55,ml,7,171,0.287,0.04,mb,mb90071188,2025-01-17T18:02:19.790Z,"3 km WSW of Logan, Montana",earthquake,0.47,6.37,0.15242802678658,4,reviewed,mb,mb
 2025-01-17T16:46:21.457Z,61.6272,-147.9991,10.1,2.2,ml,,,,0.49,ak,ak025sdxqo1,2025-01-17T16:48:06.486Z,"27 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-17T16:30:39.325Z,31.617,-104.101,6.8304,1.9,ml,37,55,0,0.2,tx,tx2025bems,2025-01-17T19:50:52.134Z,"44 km NW of Toyah, Texas",earthquake,0.44211204096449,0.44643387907054,0.3,28,reviewed,tx,tx
+2025-01-17T16:30:24.208Z,36.7518,-116.1361,2.6,-0.3,ml,6,174.29,0.017,0.0712,nn,nn00892144,2025-01-17T21:30:36.759Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.4,0,1,reviewed,nn,nn
 2025-01-17T16:13:53.349Z,65.8248,-152.3776,8.2,3,ml,,,,0.56,ak,ak025sdqqhy,2025-01-17T17:14:03.959Z,"74 km N of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-17T16:11:21.167Z,63.5859,-147.9517,0,1.7,ml,,,,0.99,ak,ak025sdq8l0,2025-01-17T16:13:43.338Z,"50 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-17T16:05:04.490Z,38.836498260498,-122.81866455078,1.8500000238419,0.44,md,11,69,0.0133,0.01,nc,nc75118581,2025-01-17T16:06:41.356Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.800000012,0.31,12,automatic,nc,nc
@@ -239,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T21:41:21.830Z,60.044833333333,-153.0845,0.04,-0.32,ml,5,124,0.01636,0.07,av,av93458616,2025-01-17T08:05:26.330Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.22,0.69,0.35338448753251,5,reviewed,av,av
 2025-01-16T21:41:11.190Z,36.103168487549,-120.11399841309,8.039999961853,2.04,md,20,116,0.05383,0.18,nc,nc75118176,2025-01-16T21:42:47.488Z,"11 km NNE of Avenal, CA",earthquake,0.52,0.699999988,0.07,11,automatic,nc,nc
 2025-01-16T21:37:37.050Z,33.4905,-116.8855,10.93,0.58,ml,24,59,0.02332,0.14,ci,ci40841335,2025-01-17T20:35:14.785Z,"6 km NNW of Aguanga, CA",earthquake,0.24,0.55,0.128,15,reviewed,ci,ci
-2025-01-16T21:29:43.020Z,46.319833333333,-111.58433333333,-2,1.35,ml,9,96,0.3097,0.16,mb,mb90071123,2025-01-16T22:10:06.410Z,"4 km W of Townsend, Montana",quarry blast,0.61,31.61,0.2365338125295,13,reviewed,mb,mb
