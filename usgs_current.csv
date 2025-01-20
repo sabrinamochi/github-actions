@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-20T16:21:59.734Z,38.1516,-117.938,10.3,2,ml,11,85.55,0.06,0.3276,nn,nn00892281,2025-01-20T16:24:37.104Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.66,6,automatic,nn,nn
 2025-01-20T16:17:38.270Z,38.851333618164,-122.82716369629,2.6199998855591,0.91,md,12,117,0.004461,0.01,nc,nc75120251,2025-01-20T16:19:13.815Z,"10 km WNW of Cobb, CA",earthquake,0.31,0.819999993,0.18,12,automatic,nc,nc
+2025-01-20T16:17:26.031Z,23.2338,120.4749,10,6,mww,115,25,0.157,1.07,us,us6000pl8h,2025-01-20T16:33:34.313Z,"12 km N of Yujing, Taiwan",earthquake,5.34,1.845,0.044,50,reviewed,us,us
 2025-01-20T16:13:42.620Z,34.046,-117.1398333,6.22,0.95,ml,21,55,0.02508,0.18,ci,ci40843887,2025-01-20T16:17:56.963Z,"3 km S of Mentone, CA",earthquake,0.27,0.51,0.242,23,automatic,ci,ci
 2025-01-20T16:10:02.461Z,31.965,-103.389,4.9615,2,ml,8,128,0,0.5,tx,tx2025bjyo,2025-01-20T16:21:22.522Z,"24 km SW of Jal, New Mexico",earthquake,0,2.0823936462402,0.3,7,automatic,tx,tx
 2025-01-20T15:23:01.910Z,38.817832946777,-122.82216644287,2.9900000095367,1.02,md,14,81,0.01049,0.04,nc,nc75120231,2025-01-20T15:24:38.699Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.920000017,0.24,14,automatic,nc,nc
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T11:41:06.275Z,59.936,-149.2086,5.2,2.2,ml,,,,0.56,ak,ak025x9jidf,2025-01-20T11:42:56.076Z,"19 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-20T11:33:04.463Z,31.953,-103.352,6.4081,1.5,ml,6,155,0,0.1,tx,tx2025bjpm,2025-01-20T11:41:20.071Z,"23 km SW of Jal, New Mexico",earthquake,0,5.0354700088501,0.2,5,automatic,tx,tx
 2025-01-20T11:31:49.990Z,33.8753333,-116.794,14.95,0.99,ml,37,40,0.1443,0.31,ci,ci40843799,2025-01-20T11:36:08.886Z,"5 km S of Cabazon, CA",earthquake,0.36,1.05,0.101,29,automatic,ci,ci
-2025-01-20T11:24:16.989Z,31.959,-103.342,7.1252,2.9,ml,14,74,0,0.2,tx,tx2025bjpe,2025-01-20T11:53:22.152Z,"22 km SW of Jal, New Mexico",earthquake,0.95772177664904,0.855403012083,0.2,9,reviewed,tx,tx
+2025-01-20T11:24:17.070Z,31.956,-103.344,6.6638,2.8,ml,16,74,0,0.1,tx,tx2025bjpe,2025-01-20T16:34:05.611Z,"22 km SW of Jal, New Mexico",earthquake,0.87532793866202,0.67811085813266,0.2,38,reviewed,tx,tx
 2025-01-20T11:21:00.567Z,64.8564,-148.7001,19.2,3.1,ml,,,,0.66,ak,ak025x9f7lj,2025-01-20T16:15:38.221Z,"32 km W of Ester, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-01-20T11:20:45.683Z,59.9454,-152.8726,123,3,ml,,,,0.32,ak,ak025x9f3e9,2025-01-20T11:22:39.515Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-20T11:20:37.163Z,7.4395,91.6679,10,5.3,mww,76,65,5.688,0.76,us,us6000pl7f,2025-01-20T11:48:23.631Z,"Nicobar Islands, India region",earthquake,7.91,1.814,0.093,11,reviewed,us,us
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-19T16:50:41.154Z,64.2916,-149.8811,17.6,1.6,ml,,,,0.59,ak,ak025vp1c15,2025-01-19T16:53:00.566Z,"33 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-19T16:44:49.140Z,48.688166666667,-123.02866666667,16.89,1,ml,15,131,0.0662,0.09,uw,uw62071241,2025-01-20T05:17:35.890Z,"11 km NNW of Orcas, Washington",earthquake,0.31,0.42,0.28826980211267,7,reviewed,uw,uw
 2025-01-19T16:43:34.380Z,34.9495,-118.6073333,8.65,2.36,ml,75,18,0.06222,0.17,ci,ci40843319,2025-01-19T16:54:35.390Z,"19 km N of Neenach, CA",earthquake,0.12,0.4,0.198,26,automatic,ci,ci
-2025-01-19T16:34:18.970Z,37.433666229248,-118.86483001709,3.1400001049042,1.98,md,25,128,0.1297,0.07,nc,nc75119806,2025-01-19T16:35:55.944Z,"22 km WSW of Toms Place, CA",earthquake,0.33,1.40999997,0.15,24,automatic,nc,nc
