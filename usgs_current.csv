@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T15:58:24.590Z,40.23749923706,-125.19683074951,5.3400001525879,1.93,md,9,336,0.6805,0.08,nc,nc75120746,2025-01-21T16:00:12.991Z,"78 km W of Petrolia, CA",earthquake,5.51,7.19000006,0.07,7,automatic,nc,nc
 2025-01-21T15:47:38.210Z,56.2915,-158.1497,95.7,3,ml,,,,0.2,ak,ak025yzhy1p,2025-01-21T15:49:59.481Z,"15 km E of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-21T15:38:25.020Z,34.052,-118.3128333,11.73,1.53,ml,27,102,0.03945,0.21,ci,ci40844391,2025-01-21T15:42:50.413Z,"3 km W of MacArthur Park, CA",earthquake,0.34,0.39,0.218,35,automatic,ci,ci
-2025-01-21T15:35:09.710Z,37.178333282471,-118.264503479,5.75,2.72,md,28,164,0.05428,0.08,nc,nc75120741,2025-01-21T15:57:14.872Z,"3 km ENE of Big Pine, CA",earthquake,0.65,0.600000024,0.22,36,automatic,nc,nc
+2025-01-21T15:35:09.710Z,37.178333282471,-118.264503479,5.75,2.72,md,28,164,0.05428,0.08,nc,nc75120741,2025-01-21T18:14:42.982Z,"3 km ENE of Big Pine, CA",earthquake,0.65,0.600000024,0.22,36,automatic,nc,nc
 2025-01-21T15:26:45.233Z,-20.3151,-178.5518,602.031,4.2,mb,116,62,4.296,0.93,us,us6000plfj,2025-01-21T17:21:56.040Z,"Fiji region",earthquake,12.19,6.471,0.061,82,reviewed,us,us
 2025-01-21T15:15:59.416Z,61.934,-149.1821,19.7,1.4,ml,,,,0.22,ak,ak025yzb4rp,2025-01-21T15:18:15.728Z,"21 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-21T14:58:17.410Z,38.797164916992,-122.74883270264,2.9000000953674,0.75,md,6,171,0.009176,0.01,nc,nc75120736,2025-01-21T14:59:51.472Z,"2 km NNE of The Geysers, CA",earthquake,0.91,1.33000004,0.31,7,automatic,nc,nc
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T05:13:36.168Z,-27.8015,-13.1545,10,5.2,mww,36,77,27.821,1.08,us,us6000pld9,2025-01-21T05:55:36.040Z,"southern Mid-Atlantic Ridge",earthquake,9.11,1.853,0.11,8,reviewed,us,us
 2025-01-21T05:13:03.750Z,37.8355,-90.103666666667,16.22,2.35,md,23,94,0.2944,0.19,nm,nm60597021,2025-01-21T18:04:38.270Z,"6 km WSW of Ozora, Missouri",earthquake,0.79,1.06,0.050016472621734,19,reviewed,nm,nm
 2025-01-21T05:09:11.210Z,38.842834472656,-122.8253326416,2.079999923706,1.29,md,28,75,0.008992,0.02,nc,nc75120526,2025-01-21T05:10:46.146Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.400000006,0.17,28,automatic,nc,nc
-2025-01-21T05:08:29.267Z,32.406,-102.044,6.8435,1,ml,9,109,0.1,0.2,tx,tx2025bkyg,2025-01-21T05:16:57.371Z,"33 km WSW of Ackerly, Texas",earthquake,0,3.6170887947083,0.1,7,automatic,tx,tx
+2025-01-21T05:08:30.059Z,32.403,-102.051,7.9346,1,ml,12,82,0.1,0.1,tx,tx2025bkyg,2025-01-21T18:15:26.547Z,"34 km WSW of Ackerly, Texas",earthquake,0.92619042754527,1.4574073918293,0.1,6,reviewed,tx,tx
 2025-01-21T05:02:15.590Z,34.3216667,-117.0013333,6.56,1.11,ml,34,42,0.06475,0.18,ci,ci40844215,2025-01-21T05:07:06.113Z,"12 km NW of Big Bear Lake, CA",earthquake,0.18,0.54,0.202,29,automatic,ci,ci
 2025-01-21T04:54:25.660Z,36.022998809815,-120.92866516113,6.0599999427795,1.08,md,11,83,0.03199,0.05,nc,nc75120521,2025-01-21T04:56:01.312Z,"2 km WNW of San Ardo, CA",earthquake,0.4,0.5,0.12,6,automatic,nc,nc
 2025-01-21T04:35:04.480Z,32.401,-102.054,7.8613,1.1,ml,17,82,0,0.1,tx,tx2025bkxd,2025-01-21T17:42:12.346Z,"34 km WSW of Ackerly, Texas",earthquake,0.59796327729041,1.1214121476835,0.2,6,reviewed,tx,tx
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T18:38:59.781Z,61.2281,-152.2117,0.1,1.8,ml,,,,0.64,ak,ak025xdp0l6,2025-01-20T18:41:14.791Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-20T18:25:27.660Z,36.7425,-116.2891,14.3,0.2,ml,12,117.37,0.032,0.2112,nn,nn00892290,2025-01-20T18:27:28.671Z,"45 km ESE of Beatty, Nevada",earthquake,,0.8,0.14,4,automatic,nn,nn
 2025-01-20T18:21:03.020Z,34.0606667,-116.8003333,11.63,2.68,ml,111,18,0.02619,0.18,ci,ci40843951,2025-01-21T17:28:36.030Z,"16 km N of Cabazon, CA",earthquake,0.1,0.33,0.148,177,reviewed,ci,ci
-2025-01-20T18:14:38.752Z,38.9604,141.485,88.149,4.5,mb,40,97,1.855,0.93,us,us6000play,2025-01-20T21:50:12.040Z,"23 km WSW of Ōfunato, Japan",earthquake,4.54,7.213,0.082,44,reviewed,us,us
