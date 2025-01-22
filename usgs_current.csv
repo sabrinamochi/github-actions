@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-22T01:34:36.880Z,38.833999633789,-122.81517028809,1.8300000429153,0.77,md,11,90,0.01131,0.01,nc,nc75121056,2025-01-22T01:36:15.071Z,"8 km WNW of Cobb, CA",earthquake,0.33,1,0.16,12,automatic,nc,nc
 2025-01-22T01:14:16.030Z,17.907166666667,-66.936166666667,14.93,2.4,md,6,235,0.1201,0.09,pr,pr71471248,2025-01-22T01:28:48.790Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.78,1.43,0.098400753686434,4,reviewed,pr,pr
 2025-01-22T01:01:55.150Z,38.838832855225,-122.78433227539,1.0099999904633,1.02,md,13,89,0.00725,0.01,nc,nc75121051,2025-01-22T01:03:34.897Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.29,14,automatic,nc,nc
 2025-01-22T00:53:16.260Z,35.6595,-117.4941667,4.94,1.92,ml,36,37,0.05765,0.13,ci,ci40844887,2025-01-22T01:04:19.840Z,"14 km SW of Searles Valley, CA",earthquake,0.14,0.36,0.176,27,automatic,ci,ci
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T18:45:08.093Z,38.6702,-118.5454,5.8,1.5,ml,8,99.17,0.046,0.1459,nn,nn00892333,2025-01-21T23:10:10.529Z,"17 km NNE of Hawthorne, Nevada",earthquake,,1.9,0.03,4,reviewed,nn,nn
 2025-01-21T18:42:13.625Z,-31.4709,-178.0691,30.384,4.8,mb,32,175,2.205,1.28,us,us6000plh8,2025-01-21T19:01:34.040Z,"Kermadec Islands region",earthquake,10.12,7.486,0.104,29,reviewed,us,us
 2025-01-21T18:31:17.800Z,61.5926,-141.6902,36,1.4,ml,,,,0.79,ak,ak025z16rt5,2025-01-21T18:37:08.731Z,"67 km ENE of McCarthy, Alaska",earthquake,,10.2,,,automatic,ak,ak
-2025-01-21T18:25:06.581Z,37.3724,-117.1319,3.7,1.5,ml,14,142.19,0.125,0.2106,nn,nn00892331,2025-01-21T18:27:33.710Z,"38 km SSE of Goldfield, Nevada",earthquake,,3,0.33,8,automatic,nn,nn
+2025-01-21T18:25:07.184Z,37.3674,-117.1294,6.2,1.7,ml,17,138.02,0.124,0.1918,nn,nn00892331,2025-01-22T01:37:36.402Z,"39 km SSE of Goldfield, Nevada",earthquake,,3.6,0.27,7,reviewed,nn,nn
 2025-01-21T18:09:37.690Z,38.793998718262,-122.76033020019,0.87999999523163,0.78,md,9,71,0.006634,0.01,nc,nc75120831,2025-01-21T18:11:13.748Z,"2 km N of The Geysers, CA",earthquake,0.32,0.899999976,0.1,9,automatic,nc,nc
 2025-01-21T18:02:40.940Z,64.6914,-149.235,11.6,1.2,ml,,,,0.84,ak,ak025z10lum,2025-01-21T18:05:07.487Z,"11 km NNW of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-21T18:00:07.050Z,38.741500854492,-122.72416687012,0.69999998807907,1.23,md,7,185,0.01947,0.03,nc,nc75120826,2025-01-21T18:10:19.539Z,"5 km SW of Anderson Springs, CA",earthquake,0.4,0.680000007,0.29,7,automatic,nc,nc
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T02:09:53.410Z,34.0458333,-117.1296667,8.06,2.89,ml,124,16,0.01767,0.19,ci,ci40844079,2025-01-21T17:06:25.640Z,"3 km S of Mentone, CA",earthquake,0.1,0.36,0.165,223,reviewed,ci,ci
 2025-01-21T01:53:55.602Z,57.6014,-155.1295,83.2,2,ml,,,,0.08,ak,ak025yr777s,2025-01-21T01:56:09.955Z,"40 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-21T01:50:45.420Z,38.836166381836,-122.78350067139,2.0999999046326,1.08,md,12,67,0.005795,0.02,nc,nc75120456,2025-01-21T01:52:21.531Z,"5 km WNW of Cobb, CA",earthquake,0.35,0.50999999,0.18,14,automatic,nc,nc
-2025-01-21T01:39:52.732Z,62.104,-148.1587,25.8,1.8,ml,,,,0.59,ak,ak025yr46yx,2025-01-21T01:41:57.501Z,"37 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-21T01:37:51.450Z,17.965833333333,-66.194166666667,16.13,1.85,md,7,239,0.07357,0.08,pr,pr71471203,2025-01-21T01:50:00.300Z,"3 km WNW of Jobos, Puerto Rico",earthquake,0.62,0.54,0.045881156643133,5,reviewed,pr,pr
