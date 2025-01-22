@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T19:35:21.260Z,38.766998291016,-122.72699737549,3.1800000667572,0.73,md,7,138,0.01791,0.01,nc,nc75121376,2025-01-22T19:36:56.726Z,"3 km SE of The Geysers, CA",earthquake,0.61,1.47000003,0.09,8,automatic,nc,nc
 2025-01-22T19:19:20.760Z,38.8125,-122.82800292969,1.9299999475479,1.07,md,21,54,0.003741,0.03,nc,nc75121371,2025-01-22T19:20:57.506Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.430000007,0.13,22,automatic,nc,nc
 2025-01-22T19:14:51.030Z,38.775665283203,-122.72966766357,-0.83999997377396,0.59,md,8,143,0.009359,0.33,nc,nc75121366,2025-01-22T19:16:27.575Z,"2 km ESE of The Geysers, CA",earthquake,1.01,4.61000013,0.21,5,automatic,nc,nc
-2025-01-22T19:07:28.350Z,46.750166666667,-121.92,2.11,0.74,ml,33,79,0.03832,0.14,uw,uw62071746,2025-01-22T22:02:20.380Z,"8 km E of Ashford, Washington",earthquake,0.21,0.62,0.12818942737565,19,reviewed,uw,uw
+2025-01-22T19:07:28.360Z,46.750333333333,-121.9195,2.08,0.74,ml,33,79,0.03797,0.15,uw,uw62071746,2025-01-22T22:04:01.490Z,"8 km E of Ashford, Washington",earthquake,0.21,0.62,0.12818942737565,19,reviewed,uw,uw
 2025-01-22T19:07:01.550Z,38.4844,-118.4939,7.3,1.4,ml,10,100.34,0.146,0.1465,nn,nn00892393,2025-01-22T20:53:41.054Z,"12 km ESE of Hawthorne, Nevada",earthquake,,2.1,0.43,5,reviewed,nn,nn
 2025-01-22T19:06:33.163Z,11.8151,143.6963,10,4.7,mb,44,146,2.102,0.72,us,us6000plnt,2025-01-22T19:43:51.040Z,"192 km SSW of Merizo Village, Guam",earthquake,10.44,1.938,0.096,33,reviewed,us,us
 2025-01-22T19:06:01.330Z,62.3819,-152.2321,7.8,2,ml,,,,1.19,ak,ak02510p65r9,2025-01-22T19:07:48.745Z,"61 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T18:05:12.670Z,33.3505,-116.3353333,12.11,1,ml,30,70,0.02458,0.17,ci,ci41033248,2025-01-22T18:39:23.870Z,"11 km NNE of Borrego Springs, CA",earthquake,0.24,0.46,0.125,25,reviewed,ci,ci
 2025-01-22T18:03:49.700Z,33.3453333,-116.3451667,10.88,1.54,ml,59,28,0.02613,0.21,ci,ci41033240,2025-01-22T18:20:29.416Z,"10 km NNE of Borrego Springs, CA",earthquake,0.19,0.32,0.17,27,reviewed,ci,ci
 2025-01-22T18:03:16.645Z,61.4509,-146.4124,23.9,1.8,ml,,,,0.83,ak,ak02510ok46o,2025-01-22T18:05:37.494Z,"35 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-22T17:49:29.142Z,36.9576,139.3007,7.347,4.8,mww,116,68,0.97,0.68,us,us6000plms,2025-01-22T19:37:57.212Z,"13 km NNE of Katashina, Japan",earthquake,7.41,3.604,0.093,11,reviewed,us,us
+2025-01-22T17:49:29.142Z,36.9576,139.3007,7.347,4.8,mww,116,68,0.97,0.68,us,us6000plms,2025-01-22T22:10:13.529Z,"13 km NNE of Katashina, Japan",earthquake,7.41,3.604,0.093,11,reviewed,us,us
 2025-01-22T17:35:02.299Z,31.589,-104.494,3.4345,1.5,ml,11,139,0.1,0.2,tx,tx2025bnsj,2025-01-22T18:03:54.258Z,"65 km S of Whites City, New Mexico",earthquake,0,2.3523643016815,0.1,9,automatic,tx,tx
 2025-01-22T17:19:50.137Z,41.9486,-119.6244,1.3,2.3,ml,5,126.53,0.507,0.0734,nn,nn00892390,2025-01-22T17:49:51.487Z,"44 km ENE of Fort Bidwell, California",earthquake,,5.4,0.09,4,reviewed,nn,nn
 2025-01-22T16:57:01.680Z,38.824333190918,-122.79633331299,2.5299999713898,0.92,md,8,82,0.01077,0.01,nc,nc75121326,2025-01-22T16:58:37.468Z,"6 km NNW of The Geysers, CA",earthquake,0.39,0.870000005,0.2,8,automatic,nc,nc
@@ -135,8 +135,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T02:47:50.100Z,36.0316667,-117.815,-0.99,1.22,ml,24,91,0.04083,0.2,ci,ci40844943,2025-01-22T02:51:40.840Z,"12 km E of Coso Junction, CA",earthquake,0.23,0.41,0.16,25,automatic,ci,ci
 2025-01-22T02:35:55.710Z,38.813331604004,-122.82550048828,2.1500000953674,0.79,md,10,90,0.005303,0.01,nc,nc75121076,2025-01-22T02:37:30.399Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.75999999,0.08,12,automatic,nc,nc
 2025-01-22T02:34:59.490Z,33.6605,-116.7633333,11.36,1.14,ml,48,39,0.06854,0.18,ci,ci40844935,2025-01-22T02:45:49.040Z,"10 km SSW of Idyllwild, CA",earthquake,0.18,0.35,0.221,29,automatic,ci,ci
+2025-01-22T02:24:28.650Z,46.892,-112.5305,8.53,1.19,ml,9,120,0.06016,0.12,mb,mb90071503,2025-01-22T22:12:34.990Z,"13 km ESE of Lincoln, Montana",earthquake,0.64,0.8,0.15984196385556,8,reviewed,mb,mb
 2025-01-22T02:19:26.250Z,33.0335,-116.418,10.54,1.14,ml,45,51,0.06183,0.17,ci,ci40844927,2025-01-22T14:43:59.780Z,"18 km ESE of Julian, CA",earthquake,0.17,0.38,0.14,27,reviewed,ci,ci
 2025-01-22T02:16:54.961Z,61.8897,-151.9292,104.4,2.2,ml,,,,0.53,ak,ak02510f41sl,2025-01-22T02:25:41.947Z,"30 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-01-22T02:06:21.650Z,47.478333333333,-112.81683333333,4.97,0.9,ml,11,130,0.329,0.2,mb,mb90071498,2025-01-22T22:05:02.830Z,"32 km W of Augusta, Montana",earthquake,0.74,13.11,0.17007455658331,3,reviewed,mb,mb
 2025-01-22T02:06:18.868Z,60.0832,-151.4863,42.2,1.8,ml,,,,0.46,ak,ak02510f1ttq,2025-01-22T02:08:25.211Z,"10 km ENE of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-01-22T02:04:49.000Z,33.7641667,-115.9651667,-0.75,1.02,ml,33,65,0.1163,0.24,ci,ci40844919,2025-01-22T02:09:10.127Z,"21 km NE of Thermal, CA",earthquake,0.24,0.53,0.089,20,automatic,ci,ci
 2025-01-22T01:56:42.490Z,38.819667816162,-122.82116699219,2.2300000190735,1.07,md,22,75,0.009431,0.02,nc,nc75121066,2025-01-22T01:58:18.916Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.360000014,0.17,24,automatic,nc,nc
@@ -178,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T22:29:30.940Z,33.2346667,-116.1065,9.81,1.25,ml,49,72,0.0941,0.21,ci,ci40844759,2025-01-21T22:33:34.501Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.6,0.136,27,automatic,ci,ci
 2025-01-21T22:24:33.938Z,36.5906,-116.2442,6.6,0.3,ml,23,234.98,0.094,0.0495,nn,nn00892351,2025-01-22T03:00:19.380Z,"48 km NNW of Pahrump, Nevada",earthquake,,1.5,0.24,7,reviewed,nn,nn
 2025-01-21T22:23:41.220Z,35.6833344,-117.5336685,5.04,1.8,ml,33,53,0.09136,0.13,ci,ci40844743,2025-01-21T22:34:38.260Z,"15 km ENE of Ridgecrest, CA",earthquake,0.22,0.64,0.202,19,automatic,ci,ci
-2025-01-21T22:07:05.030Z,38.825668334961,-122.7636642456,2.25,0.74,md,9,202,0.006843,0.02,nc,nc75120931,2025-01-21T22:08:39.444Z,"4 km WNW of Cobb, CA",earthquake,0.93,1.04999995,0.45,9,automatic,nc,nc
