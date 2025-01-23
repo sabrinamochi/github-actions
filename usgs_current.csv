@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-23T14:05:21.890Z,40.191665649414,-122.10966491699,25.010000228882,2.74,md,27,57,0.0208,0.3,nc,nc75121701,2025-01-23T14:12:17.239Z,"11 km E of Red Bluff, CA",earthquake,0.74,1.00999999,0.12,26,automatic,nc,nc
 2025-01-23T13:22:57.397Z,61.2393,-152.2068,8.1,1.1,ml,,,,0.65,ak,ak0251298gej,2025-01-23T13:24:56.427Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T13:22:06.598Z,61.4431,-150.7915,3.4,1.7,ml,,,,0.48,ak,ak0251298cgn,2025-01-23T13:24:54.012Z,"18 km SW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-23T13:01:00.760Z,35.956665,-117.678833,4.51,1.48,ml,21,77,0.02469,0.13,ci,ci41034064,2025-01-23T13:03:22.765Z,"21 km E of Little Lake, CA",earthquake,0.3,0.47,0.147,11,automatic,ci,ci
@@ -47,7 +48,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T08:02:36.806Z,61.1513,-148.532,29.7,1.5,ml,,,,0.61,ak,ak0251264ygw,2025-01-23T08:04:20.042Z,"39 km SSE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T07:51:25.051Z,31.58,-104.543,3.2088,2.1,ml,8,159,0.1,0.2,tx,tx2025bouy,2025-01-23T08:03:41.519Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.2125129699707,0.2,6,automatic,tx,tx
 2025-01-23T07:51:18.080Z,61.4204,-146.5094,29.8,1.6,ml,,,,0.62,ak,ak025125tzi8,2025-01-23T07:54:26.493Z,"33 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-23T07:50:54.402Z,31.578,-104.527,3.5004,2.1,ml,8,153,0.1,0.2,tx,tx2025boup,2025-01-23T08:15:10.160Z,"66 km NNE of Van Horn, Texas",earthquake,0,3.1570179462433,0.2,6,automatic,tx,tx
 2025-01-23T07:47:56.335Z,63.0913,-149.4113,91.4,1.8,ml,,,,0.62,ak,ak025125t7ld,2025-01-23T07:50:27.719Z,"40 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-23T07:47:51.401Z,60.6765,-141.8016,15.8,1.8,ml,,,,0.93,ak,ak025125t77o,2025-01-23T07:49:57.583Z,"103 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-23T07:38:45.883Z,-32.0468,-71.2277,76.837,4.4,mb,33,145,0.215,0.54,us,us6000pls1,2025-01-23T08:20:09.154Z,"38 km SW of Salamanca, Chile",earthquake,5.2,8.68,0.143,14,reviewed,us,us
@@ -147,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T18:27:35.620Z,36.063999176025,-120.62533569336,4.7199997901917,1.51,md,17,133,0.0241,0.08,nc,nc75121356,2025-01-22T18:29:12.012Z,"25 km NNW of Parkfield, CA",earthquake,0.39,0.620000005,0.15,11,automatic,nc,nc
 2025-01-22T18:26:08.381Z,-42.1949,88.3017,10,5.1,mb,73,50,24.636,0.94,us,us6000plnf,2025-01-22T18:49:42.040Z,"southeast Indian Ridge",earthquake,11.64,1.79,0.069,67,reviewed,us,us
 2025-01-22T18:19:36.740Z,38.806667327881,-122.77700042725,1.960000038147,1.1,md,23,71,0.007184,0.02,nc,nc75121351,2025-01-22T18:21:12.175Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.349999994,0.12,21,automatic,nc,nc
+2025-01-22T18:17:48.780Z,36.73883333,-94.80633333,0,1.46,ml,45,206,0.4517113588,0.42,ok,ok2025bntu,2025-01-23T14:03:47.967Z,"3 km ESE of Fairland, Oklahoma",quarry blast,,0.3,0.15,8,reviewed,ok,ok
 2025-01-22T18:14:31.301Z,61.4771,-151.365,0,1.9,ml,,,,0.96,ak,ak02510omi6y,2025-01-22T18:16:27.926Z,"40 km NNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-22T18:13:51.810Z,38.795333333333,-122.778,1.81,0.43,md,24,75,0.008043,0.03,nc,nc75121341,2025-01-22T18:59:18.892Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.37,0.219,19,reviewed,nc,nc
 2025-01-22T18:12:43.580Z,38.259166666667,-122.248,-0.16,2,mh,25,70,0.03305,0.15,nc,nc75121346,2025-01-22T18:55:48.022Z,"5 km SSE of Napa, CA",quarry blast,0.27,31.61,,0,reviewed,nc,nc
@@ -181,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T15:05:51.875Z,39.1066,-118.9972,7.2,1.1,ml,14,95.2,0.07,0.1328,nn,nn00892380,2025-01-23T01:06:00.543Z,"19 km NE of Yerington, Nevada",earthquake,,1.7,0.16,8,reviewed,nn,nn
 2025-01-22T14:16:55.620Z,36.0265,-117.7746667,1.97,1,ml,19,66,0.007733,0.15,ci,ci40845215,2025-01-22T14:20:21.721Z,"16 km NE of Little Lake, CA",earthquake,0.23,0.18,0.148,19,automatic,ci,ci
 2025-01-22T14:15:19.340Z,33.9191667,-116.879,12.74,0.47,ml,22,131,0.1091,0.13,ci,ci40845207,2025-01-22T16:01:10.913Z,"1 km SSW of Banning, CA",earthquake,0.25,0.62,0.059,7,reviewed,ci,ci
-2025-01-22T14:07:39.890Z,38.823665618896,-122.80966949463,2.3599998950958,0.6,md,7,99,0.01928,0.01,nc,nc75121281,2025-01-22T14:09:17.315Z,"7 km NNW of The Geysers, CA",earthquake,0.66,2.6099999,0.32,9,automatic,nc,nc
