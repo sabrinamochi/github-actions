@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-23T18:17:49.680Z,32.4775,-115.4851667,10.6,2.2,ml,7,249,0.1012,0.11,ci,ci41034400,2025-01-23T18:28:57.487Z,"15 km SE of Progreso, B.C., MX",earthquake,1.18,0.86,0.285,23,automatic,ci,ci
-2025-01-23T18:14:38.800Z,33.2298333,-116.664,19.41,1.84,ml,11,117,0.1586,0.32,ci,ci41034392,2025-01-23T18:24:59.793Z,"6 km SSW of Warner Springs, CA",earthquake,1.41,3.9,0.321,25,automatic,ci,ci
-2025-01-23T18:08:47.700Z,32.3339996,-115.378334,15.52,4.24,mlr,46,55,0.1054,0.36,ci,ci41034376,2025-01-23T18:28:58.310Z,"18 km W of Delta, B.C., MX",earthquake,0.65,0.94,0.175,14,reviewed,ci,ci
+2025-01-23T18:17:49.680Z,32.4775,-115.4851667,10.6,2.2,ml,7,249,0.1012,0.11,ci,ci41034400,2025-01-23T18:29:35.002Z,"15 km SE of Progreso, B.C., MX",earthquake,1.18,0.86,0.285,23,automatic,ci,ci
+2025-01-23T18:14:38.800Z,33.2298333,-116.664,19.41,1.84,ml,11,117,0.1586,0.32,ci,ci41034392,2025-01-23T18:30:52.672Z,"6 km SSW of Warner Springs, CA",earthquake,1.41,3.9,0.321,25,automatic,ci,ci
+2025-01-23T18:08:47.700Z,32.3339996,-115.378334,15.52,4.24,mlr,46,55,0.1054,0.36,ci,ci41034376,2025-01-23T18:35:38.310Z,"18 km W of Delta, B.C., MX",earthquake,0.65,0.94,0.175,14,reviewed,ci,ci
 2025-01-23T18:04:06.963Z,62.8988,-150.8915,136.7,1.5,ml,,,,0.34,ak,ak02512c3nnc,2025-01-23T18:06:34.975Z,"45 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-23T17:50:05.890Z,38.829166412354,-122.79833221435,2.3199999332428,0.93,md,10,81,0.01083,0.03,nc,nc75121766,2025-01-23T17:51:39.487Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.09000003,0.28,10,automatic,nc,nc
 2025-01-23T17:47:20.370Z,33.48,-116.4876667,12.65,1.16,ml,16,211,0.09683,0.22,ci,ci41034336,2025-01-23T18:20:47.966Z,"19 km ESE of Anza, CA",earthquake,1.29,0.85,0.199,28,automatic,ci,ci
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T05:46:23.100Z,48.606333333333,-112.20933333333,11.79,1.57,ml,11,94,0.2645,0.29,mb,mb90071528,2025-01-23T15:22:23.630Z,"9 km ESE of Cut Bank, Montana",earthquake,0.8,0.98,0.24643791778988,9,reviewed,mb,mb
 2025-01-23T05:42:13.120Z,28.1866,52.3153,10,4.7,mb,98,74,4.748,0.65,us,us6000plru,2025-01-23T05:57:53.040Z,"77 km SSW of Fīrūzābād, Iran",earthquake,8.07,1.87,0.062,80,reviewed,us,us
 2025-01-23T05:37:58.000Z,33.4818333,-116.5826667,6.31,0.5,ml,25,45,0.02076,0.13,ci,ci41033912,2025-01-23T14:25:10.710Z,"12 km SE of Anza, CA",earthquake,0.17,0.33,0.169,14,reviewed,ci,ci
-2025-01-23T05:27:56.540Z,35.1581667,-117.353,4.44,3.46,mw,52,29,0.153,0.16,ci,ci41033904,2025-01-23T15:01:31.942Z,"32 km ENE of Boron, CA",earthquake,0.14,0.89,,4,reviewed,ci,ci
+2025-01-23T05:27:56.540Z,35.1581667,-117.353,4.44,3.46,mw,52,29,0.153,0.16,ci,ci41033904,2025-01-23T18:32:32.983Z,"32 km ENE of Boron, CA",earthquake,0.14,0.89,,4,reviewed,ci,ci
 2025-01-23T05:22:53.721Z,8.9934,39.9601,10,4.9,mb,69,90,3.798,0.54,us,us6000plrr,2025-01-23T05:37:53.040Z,"11 km NNE of Metahāra, Ethiopia",earthquake,8.76,1.789,0.076,55,reviewed,us,us
 2025-01-23T05:17:28.796Z,58.1331,-155.5237,2.3,1,ml,,,,0.83,ak,ak025124furz,2025-01-23T05:20:01.378Z,"89 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-23T05:11:02.550Z,38.779499053955,-122.69033050537,3.9800000190735,1.06,md,12,204,0.01329,0.02,nc,nc75121576,2025-01-23T05:12:38.696Z,"1 km NNE of Anderson Springs, CA",earthquake,1.05,1.58000004,0.23,13,automatic,nc,nc
@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T18:53:02.670Z,34.8413333,-118.7591667,-1.09,1.1,ml,21,77,0.06528,0.26,ci,ci41033312,2025-01-23T17:01:40.398Z,"10 km E of Lebec, CA",quarry blast,0.53,31.61,0.158,15,reviewed,ci,ci
 2025-01-22T18:49:10.780Z,28.974,-97.984,2.6123,1.8,ml,14,66,0,0.2,tx,tx2025bnuv,2025-01-23T13:26:24.133Z,"3 km ESE of Falls City, Texas",earthquake,1.1839958474659,1.3236963602169,0.1,16,reviewed,tx,tx
 2025-01-22T18:42:01.022Z,-22.652,-179.2125,542.679,4.6,mb,72,100,6.286,1.04,us,us6000plnj,2025-01-22T18:57:43.040Z,"south of the Fiji Islands",earthquake,11.65,8.94,0.066,72,reviewed,us,us
-2025-01-22T18:35:37.320Z,17.9825,-66.835333333333,16.54,2.19,md,7,187,0.04246,0.06,pr,pr71471273,2025-01-22T18:43:22.940Z,"2 km SW of Indios, Puerto Rico",earthquake,0.52,0.65,0.11561155406899,5,reviewed,pr,pr
