@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-26T22:29:31.280Z,40.29700088501,-124.42250061035,10.520000457764,1.82,md,6,302,0.06172,0.02,nc,nc75123581,2025-01-26T22:30:55.782Z,"12 km W of Petrolia, CA",earthquake,5.53,2.38000011,,1,automatic,nc,nc
+2025-01-26T22:28:12.550Z,17.958,-66.749666666667,15.03,2.37,md,6,219,0.1245,0.07,pr,pr71471588,2025-01-26T22:36:30.330Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.55,1.05,0.095425365437589,6,reviewed,pr,pr
 2025-01-26T22:20:29.620Z,38.834499359131,-122.81050109863,2.0099999904633,1.49,md,27,38,0.01109,0.03,nc,nc75123576,2025-01-26T22:23:33.210Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.360000014,0.16,28,automatic,nc,nc
 2025-01-26T22:17:24.460Z,33.8838333,-116.9898333,14.4,1.21,ml,57,24,0.0778,0.18,ci,ci40852111,2025-01-26T22:30:53.487Z,"5 km SSW of Beaumont, CA",earthquake,0.16,0.43,0.164,27,automatic,ci,ci
 2025-01-26T22:08:45.240Z,38.791332244873,-122.7748336792,0.050000000745058,0.71,md,8,109,0.01039,0.02,nc,nc75123571,2025-01-26T22:10:22.578Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.889999986,0.04,9,automatic,nc,nc
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T17:33:57.020Z,38.273498535156,-122.13816833496,11.239999771118,1.5,md,7,114,0.04402,0.04,nc,nc75123426,2025-01-26T17:35:34.725Z,"3 km NE of Green Valley, CA",earthquake,0.84,1.25999999,0.13,5,automatic,nc,nc
 2025-01-26T17:27:58.650Z,40.223999023438,-124.11333465576,14.470000267029,1.71,md,13,136,0.0231,0.06,nc,nc75123421,2025-01-26T17:29:34.750Z,"18 km SE of Petrolia, CA",earthquake,0.57,0.819999993,0.18,8,automatic,nc,nc
 2025-01-26T17:13:49.240Z,62.9923,-144.0579,0,1.7,ml,,,,0.73,ak,ak02517a6a75,2025-01-26T17:17:02.015Z,"16 km WNW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-01-26T17:07:06.143Z,31.265,-103.365,7.4072,3,ml,19,75,0.1,0.1,tx,tx2025buzn,2025-01-26T17:51:29.040Z,"20 km SE of Lindsay, Texas",earthquake,0.62941191678478,1.8908702186225,0.2,36,reviewed,tx,tx
+2025-01-26T17:07:06.153Z,31.265,-103.365,6.9971,3,ml,21,69,0,0.1,tx,tx2025buzn,2025-01-26T22:35:07.692Z,"20 km SE of Lindsay, Texas",earthquake,0.63270510037273,2.469470296646,0.2,48,reviewed,tx,tx
 2025-01-26T17:06:03.897Z,31.771,-102.006,3.9308,1.1,ml,11,81,0.1,0.5,tx,tx2025buzm,2025-01-26T17:15:09.341Z,"26 km SSE of Midland, Texas",earthquake,0,1.6742215156555,0.2,8,automatic,tx,tx
 2025-01-26T16:53:46.440Z,19.260499954224,-155.87066650391,3.6800000667572,2.69,ml,50,259,0.1494,0.349999994,hv,hv74601837,2025-01-26T20:10:46.203Z,"21 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.96,0.720000029,0.32,6,automatic,hv,hv
 2025-01-26T16:44:42.320Z,36.2145,-120.776,9.29,1.41,md,17,145,0.162,0.07,nc,nc75123411,2025-01-26T20:08:51.608Z,"24 km ENE of San Lucas, CA",earthquake,0.28,0.73,0.326,18,reviewed,nc,nc
@@ -176,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T03:25:58.590Z,38.839832305908,-122.87683105469,2.6199998855591,1.06,md,15,133,0.005415,0.02,nc,nc75123091,2025-01-26T03:27:35.541Z,"13 km NW of The Geysers, CA",earthquake,0.39,0.589999974,0.23,16,automatic,nc,nc
 2025-01-26T03:02:37.060Z,33.684,-116.8006667,16.44,1.41,ml,68,23,0.06668,0.2,ci,ci40851359,2025-01-26T16:28:11.020Z,"10 km SW of Idyllwild, CA",earthquake,0.16,0.34,0.207,26,reviewed,ci,ci
 2025-01-26T02:56:37.470Z,38.821998596191,-122.85216522217,2.3599998950958,0.8,md,11,129,0.006648,0.01,nc,nc75123081,2025-01-26T02:58:15.638Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.660000026,0.25,13,automatic,nc,nc
-2025-01-26T02:44:39.840Z,38.848499298096,-122.374168396,4.3299999237061,1.59,md,6,192,0.3096,0.07,nc,nc75123076,2025-01-26T02:46:15.280Z,"17 km E of Hidden Valley Lake, CA",earthquake,5.12,9.47000027,,1,automatic,nc,nc
+2025-01-26T02:44:45.610Z,38.822833333333,-122.763,2.3,0.74,md,22,153,0.009345,0.01,nc,nc75123076,2025-01-26T22:39:07.264Z,"3 km WNW of Cobb, CA",earthquake,0.39,0.42,0.178,20,reviewed,nc,nc
 2025-01-26T02:39:44.770Z,38.84049987793,-122.84033203125,1.4700000286102,0.45,md,6,128,0.004238,0.01,nc,nc75123071,2025-01-26T02:41:20.110Z,"10 km NW of The Geysers, CA",earthquake,0.7,0.860000014,0.19,8,automatic,nc,nc
 2025-01-26T02:39:38.460Z,55.7272,-157.6254,89.9,3.4,ml,,,,3.35,ak,ak025171ec24,2025-01-26T08:43:59.256Z,"79 km SE of Chignik, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2025-01-26T02:20:33.701Z,60.9911,-152.2809,88,1.2,ml,,,,0.07,ak,ak025171a8yy,2025-01-26T02:21:47.489Z,"62 km W of Tyonek, Alaska",earthquake,,3,,,automatic,ak,ak
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-25T22:57:21.342Z,57.6764,-156.0324,106.8,2.5,ml,,,,0.32,ak,ak02515pvh46,2025-01-25T23:07:04.040Z,"83 km ENE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-25T22:43:15.560Z,63.1854,-148.9972,75.6,2.1,ml,,,,0.33,ak,ak02515psgn8,2025-01-25T22:45:11.661Z,"23 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-25T22:41:51.810Z,38.830665588379,-122.81400299072,0.93000000715256,0.57,md,6,83,0.007882,0.03,nc,nc75123001,2025-01-25T22:43:29.735Z,"8 km NNW of The Geysers, CA",earthquake,0.39,2.36999989,0.34,7,automatic,nc,nc
-2025-01-25T22:38:07.194Z,31.717,-101.695,3.48,1.1,ml,16,60,0.1,0.5,tx,tx2025btox,2025-01-25T22:50:06.681Z,"25 km SW of Garden City, Texas",earthquake,0,1.5561797618866,0.2,9,automatic,tx,tx
-2025-01-25T22:37:38.449Z,64.4431,-146.2732,0,1.5,ml,,,,0.69,ak,ak02515pr844,2025-01-25T22:39:24.117Z,"17 km ENE of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
