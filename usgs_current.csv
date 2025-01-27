@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-27T04:19:35.690Z,33.4565,-116.614,10.18,0.5,ml,20,57,0.03935,0.14,ci,ci40852343,2025-01-27T04:23:34.015Z,"12 km SSE of Anza, CA",earthquake,0.23,0.44,0.114,9,automatic,ci,ci
+2025-01-27T04:16:28.430Z,38.785667419434,-122.76483154297,3.75,0.55,md,8,101,0.01494,0.01,nc,nc75123756,2025-01-27T04:18:07.299Z,"1 km NNW of The Geysers, CA",earthquake,0.64,2.00999999,0.22,7,automatic,nc,nc
 2025-01-27T04:07:50.438Z,65.215,-149.2557,8.7,1.5,ml,,,,0.46,ak,ak02518pxpnn,2025-01-27T04:09:40.369Z,"8 km NNE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-27T04:06:13.170Z,38.824333190918,-122.85283660889,2.4800000190735,1.23,md,20,98,0.004497,0.03,nc,nc75123751,2025-01-27T04:07:47.392Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.49000001,0.16,25,automatic,nc,nc
 2025-01-27T04:05:24.420Z,38.823665618896,-122.85399627685,2.5499999523163,0.76,md,13,114,0.004478,0.01,nc,nc75123746,2025-01-27T04:07:02.377Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.550000012,0.23,17,automatic,nc,nc
@@ -7,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T03:53:20.030Z,19.497499465942,-155.43850708008,2.0199999809265,2.23,ml,38,49,0.03634,0.189999998,hv,hv74602387,2025-01-27T03:56:34.260Z,"22 km WNW of Volcano, Hawaii",earthquake,0.32,1.66999996,0.27,7,automatic,hv,hv
 2025-01-27T03:53:03.390Z,19.333999633789,-155.16999816894,-0.46999999880791,2.36,ml,23,97,0.04521,0.230000004,hv,hv74602382,2025-01-27T03:56:15.320Z,"13 km SSE of Volcano, Hawaii",earthquake,0.55,0.25,0.38,8,automatic,hv,hv
 2025-01-27T03:51:45.680Z,36.0321667,-117.8121667,0.71,1.73,ml,27,84,0.03865,0.18,ci,ci40852327,2025-01-27T03:55:19.367Z,"12 km E of Coso Junction, CA",earthquake,0.18,0.26,0.18,26,automatic,ci,ci
+2025-01-27T03:39:34.160Z,18.5365,-68.7381,127,3.89,md,16,184,0.3574,0.44,pr,pr2025027000,2025-01-27T04:15:08.108Z,"9 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,5.86,1.71,0.09,10,reviewed,pr,pr
 2025-01-27T03:39:30.830Z,17.5628,-68.9293,10,2.8,ml,16,221,1.081,1.06,us,us6000pmi9,2025-01-27T04:05:10.040Z,"95 km S of La Romana, Dominican Republic",earthquake,3.71,1.989,0.066,30,reviewed,us,us
 2025-01-27T03:20:25.910Z,35.234,-119.742,6.49,0.74,ml,7,273,0.06933,0.09,ci,ci40852319,2025-01-27T03:23:47.212Z,"27 km ESE of Simmler, CA",earthquake,3.46,1.1,0.074,6,automatic,ci,ci
 2025-01-27T03:18:56.383Z,31.147,-103.32,6.8801,1.6,ml,15,80,0.1,0.6,tx,tx2025bvtq,2025-01-27T03:31:10.808Z,"26 km WSW of Coyanosa, Texas",earthquake,0,2.4786062240601,0.2,13,automatic,tx,tx
@@ -233,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T04:40:08.656Z,31.653,-104.297,4.6023,1.8,ml,20,59,0,0.3,tx,tx2025buav,2025-01-26T05:01:42.612Z,"58 km S of Whites City, New Mexico",earthquake,0,1.2548286914825,0.1,15,automatic,tx,tx
 2025-01-26T04:32:08.117Z,63.1333,-151.5183,6.7,1.6,ml,,,,0.63,ak,ak025172jmsr,2025-01-26T04:33:44.156Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-26T04:30:30.850Z,38.819831848145,-122.82183074951,2.25,1.08,md,19,61,0.009849,0.02,nc,nc75123131,2025-01-26T04:32:05.036Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.419999987,0.21,21,automatic,nc,nc
-2025-01-26T04:20:06.767Z,31.675,-104.305,6.8689,2.8,ml,16,84,0,0.1,tx,tx2025buae,2025-01-26T04:34:31.376Z,"55 km S of Whites City, New Mexico",earthquake,0.70202507357822,0.64192009953135,0.2,43,reviewed,tx,tx
-2025-01-26T04:18:02.340Z,34.3486667,-118.813,18.25,2.82,ml,102,21,0.09629,0.24,ci,ci40851383,2025-01-26T20:35:45.135Z,"8 km SSW of Piru, CA",earthquake,0.16,0.41,0.184,26,automatic,ci,ci
