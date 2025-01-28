@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-28T20:59:42.805Z,63.8126,-147.6566,9.8,1.4,ml,,,,0.28,ak,ak0251anb4h4,2025-01-28T21:01:03.624Z,"62 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-28T20:54:06.834Z,62.5287,-150.4749,147.1,1.8,ml,,,,0.61,ak,ak0251an9z4b,2025-01-28T20:56:35.076Z,"15 km ENE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-28T20:51:39.300Z,34.964,-119.2611667,0.55,1.62,ml,39,95,0.1191,0.24,ci,ci40170218,2025-01-28T20:55:20.734Z,"16 km SE of Maricopa, CA",earthquake,0.27,0.45,0.164,25,automatic,ci,ci
 2025-01-28T20:47:06.310Z,34.6353333,-117.1153333,-0.83,1.45,ml,38,45,0.1918,0.22,ci,ci40170210,2025-01-28T20:52:40.840Z,"16 km NNE of Apple Valley, CA",earthquake,0.23,0.74,0.099,28,automatic,ci,ci
@@ -199,6 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T00:20:45.790Z,39.1682,-119.0255,3.6,1.7,ml,13,136.65,0.01,0.1452,nn,nn00892609,2025-01-28T00:39:35.483Z,"23 km NNE of Yerington, Nevada",earthquake,,0.8,0.29,6,reviewed,nn,nn
 2025-01-28T00:19:39.769Z,59.2112,-135.4433,11.1,3,ml,,,,0.9,ak,ak0251ab5vi0,2025-01-28T20:14:05.306Z,"2 km S of Haines, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-01-28T00:13:14.530Z,38.8395,-122.83216666667,2.83,-0.02,md,12,110,0.002748,0.02,nc,nc75124221,2025-01-28T20:50:18.916Z,"10 km NNW of The Geysers, CA",earthquake,0.37,0.28,0.389,12,reviewed,nc,nc
+2025-01-28T00:12:39.150Z,61.270333333333,-152.24,2.98,-0.71,ml,5,195,0.04136,0.09,av,av93030949,2025-01-28T21:02:34.620Z,"63 km WNW of Tyonek, Alaska",earthquake,0.46,1.1,0.079492164927571,4,reviewed,av,av
 2025-01-27T23:57:05.220Z,35.2465,-118.524,7.46,1.41,ml,34,52,0.09555,0.13,ci,ci40853151,2025-01-28T15:00:03.718Z,"14 km NNW of Tehachapi, CA",earthquake,0.15,0.59,0.227,28,reviewed,ci,ci
 2025-01-27T23:56:24.898Z,31.656,-104.47,6.3562,1.8,ml,27,72,0,0.2,tx,tx2025bxim,2025-01-28T11:11:14.286Z,"58 km S of Whites City, New Mexico",earthquake,0.8970600897406,0.63892207694941,0.1,17,reviewed,tx,tx
 2025-01-27T23:47:59.272Z,60.1481,-142.6236,0,1.9,ml,,,,1.1,ak,ak025191hjh3,2025-01-27T23:49:55.816Z,"144 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -241,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T21:06:22.730Z,33.1753333,-115.5951667,6.27,1.54,ml,31,44,0.0173,0.25,ci,ci40852943,2025-01-27T21:09:50.926Z,"9 km NW of Calipatria, CA",earthquake,0.28,0.49,0.255,27,automatic,ci,ci
 2025-01-27T21:05:32.820Z,38.793167114258,-122.77966308594,2.5899999141693,1.99,md,48,43,0.006451,0.04,nc,nc75124121,2025-01-27T21:08:34.750Z,"3 km NW of The Geysers, CA",earthquake,0.16,0.25,0.14,45,automatic,nc,nc
 2025-01-27T21:03:41.030Z,38.833831787109,-122.81483459473,1.6799999475479,0.76,md,11,146,0.01107,0.02,nc,nc75124116,2025-01-27T21:05:15.461Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.75,0.11,13,automatic,nc,nc
-2025-01-27T21:00:39.640Z,47.161666666667,-121.806,-0.98,1.56,ml,19,159,0.1275,0.19,uw,uw62072596,2025-01-28T19:41:10.957Z,"11 km W of Greenwater, Washington",explosion,0.64,31.61,0.14592631147056,11,reviewed,uw,uw
