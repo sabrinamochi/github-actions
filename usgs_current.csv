@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-29T16:59:43.380Z,34.0638351,-117.8470001,9.94,1.35,ml,36,87,0.1046,0.22,ci,ci40173642,2025-01-29T17:01:47.630Z,"4 km S of Charter Oak, CA",earthquake,0.38,1.09,0.233,12,automatic,ci,ci
 2025-01-29T16:45:30.580Z,38.790000915527,-122.76116943359,2.3099999427795,0.54,md,10,77,0.01958,0.02,nc,nc75125246,2025-01-29T16:47:06.248Z,"1 km  of The Geysers, CA",earthquake,0.33,0.970000029,0.19,10,automatic,nc,nc
 2025-01-29T16:38:22.500Z,33.8585,-115.5261667,1.14,1.84,ml,25,51,0.1776,0.15,ci,ci40173498,2025-01-29T16:41:47.964Z,"20 km NW of Desert Center, CA",earthquake,0.26,0.59,0.122,26,automatic,ci,ci
 2025-01-29T16:31:47.359Z,60.9164,-151.1328,62.1,1.7,ml,,,,0.3,ak,ak0251c8aqun,2025-01-29T16:33:47.949Z,"16 km S of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-29T11:09:30.743Z,62.9716,-148.0391,0,1.7,ml,,,,1.01,ak,ak0251c56tsi,2025-01-29T11:11:48.249Z,"65 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-29T10:58:03.862Z,63.6325,-152.1645,9.7,3,ml,,,,0.78,ak,ak0251c4vu76,2025-01-29T12:15:13.040Z,"24 km WNW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-29T10:38:27.585Z,62.9493,-147.9807,0,2,ml,,,,0.94,ak,ak0251c4rlpi,2025-01-29T10:40:33.321Z,"69 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-29T10:32:41.282Z,31.711,-104.281,4.6262,1.7,ml,16,53,0,0.3,tx,tx2025bzyy,2025-01-29T10:39:27.983Z,"52 km S of Whites City, New Mexico",earthquake,0,1.2721018791199,0.2,12,automatic,tx,tx
+2025-01-29T10:32:41.405Z,31.716,-104.294,6.0999,1.8,ml,22,62,0.1,0.1,tx,tx2025bzyy,2025-01-29T17:02:03.958Z,"51 km S of Whites City, New Mexico",earthquake,0.73140518896577,0.6730784724893,0.1,12,reviewed,tx,tx
 2025-01-29T10:31:25.730Z,44.765333333333,-110.78066666667,4.55,0.49,md,13,88,0.05479,0.09,uu,uu80100266,2025-01-29T16:09:37.060Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.35,0.53,0.1359141541137,9,reviewed,uu,uu
 2025-01-29T10:13:38.550Z,33.5278333,-116.5163333,12.67,0.58,ml,27,55,0.07898,0.14,ci,ci40172202,2025-01-29T15:01:38.398Z,"15 km ESE of Anza, CA",earthquake,0.21,0.44,0.165,14,reviewed,ci,ci
 2025-01-29T10:13:15.479Z,32.931,-100.912,7.0557,3.1,ml,27,74,0,0.2,tx,tx2025bzyi,2025-01-29T16:43:19.534Z,"23 km N of Snyder, Texas",earthquake,0.77091095280052,0.82216314952271,0.1,21,reviewed,tx,tx
@@ -251,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T17:21:55.290Z,51.8605,-177.81833333333,3.45,1.41,ml,5,246,0.0463,0.1,av,av93475411,2025-01-29T06:14:53.890Z,"81 km W of Adak, Alaska",earthquake,0.52,0.47,0.23193763488014,5,reviewed,av,av
 2025-01-28T17:14:29.550Z,44.4475,-115.316,11.27,1.53,ml,10,130,0.4797,0.13,mb,mb90071758,2025-01-28T20:58:07.550Z,"39 km NW of Stanley, Idaho",earthquake,0.4,1.09,0.23464635163665,14,reviewed,mb,mb
 2025-01-28T17:07:13.295Z,32.376,-101.928,8.6182,1.7,ml,20,64,0,0.1,tx,tx2025byqm,2025-01-28T19:44:15.749Z,"26 km SW of Ackerly, Texas",earthquake,0.45931207659044,0.50339762804776,0.1,19,reviewed,tx,tx
-2025-01-28T17:01:11.120Z,44.56,-111.0125,11.27,0.69,ml,13,107,0.078,0.12,uu,uu80100176,2025-01-28T18:21:59.730Z,"13 km SSE of West Yellowstone, Montana",earthquake,0.33,0.71,0.24434148026929,3,reviewed,uu,uu
-2025-01-28T17:00:09.997Z,-4.0639,121.7865,13.519,4.8,mb,54,66,2.237,0.72,us,us7000p9n3,2025-01-28T18:14:04.040Z,"81 km W of Kendari, Indonesia",earthquake,6.61,5.007,0.098,32,reviewed,us,us
