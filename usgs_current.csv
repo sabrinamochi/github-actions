@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-30T09:59:19.970Z,33.4138333,-116.3896667,11.24,0.6,ml,35,87,0.08439,0.18,ci,ci40175250,2025-01-30T10:04:10.829Z,"18 km N of Borrego Springs, CA",earthquake,0.23,0.6,0.165,13,automatic,ci,ci
 2025-01-30T09:51:03.546Z,66.6355,-146.9763,0,1.7,ml,,,,0.73,ak,ak0251drs91u,2025-01-30T09:53:34.669Z,"36 km NNE of Beaver, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-30T09:48:18.220Z,38.823501586914,-122.8450012207,2.1600000858307,0.66,md,12,130,0.007798,0.01,nc,nc75125586,2025-01-30T09:49:53.346Z,"9 km NW of The Geysers, CA",earthquake,0.55,0.50999999,0.42,14,automatic,nc,nc
 2025-01-30T09:36:55.860Z,38.80933380127,-122.80950164795,2.4000000953674,1.46,md,28,50,0.01118,0.03,nc,nc75125576,2025-01-30T09:38:33.306Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.430000007,0.16,27,automatic,nc,nc
@@ -49,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T05:19:15.698Z,31.617,-104.471,3.2906,1.4,ml,18,126,0.1,0.3,tx,tx2025cbkg,2025-01-30T05:44:58.468Z,"62 km S of Whites City, New Mexico",earthquake,0,1.4512436389923,0.1,14,automatic,tx,tx
 2025-01-30T05:18:45.780Z,35.6676667,-117.5663333,7.95,0.57,ml,20,77,0.07999,0.14,ci,ci40174762,2025-01-30T05:22:16.501Z,"11 km ENE of Ridgecrest, CA",earthquake,0.21,0.9,0.143,8,automatic,ci,ci
 2025-01-30T05:16:39.750Z,38.827667236328,-122.80416870117,4.1500000953674,0.72,md,9,74,0.01522,0.01,nc,nc75125511,2025-01-30T05:18:16.657Z,"7 km NNW of The Geysers, CA",earthquake,0.62,6.73000002,0.07,9,automatic,nc,nc
-2025-01-30T05:12:21.530Z,31.642,-104.35,4.1471,2.4,ml,21,68,0.1,0.2,tx,tx2025cbke,2025-01-30T05:44:54.469Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2429256439209,0.2,17,automatic,tx,tx
+2025-01-30T05:12:21.487Z,31.654,-104.349,6.9202,2.3,ml,21,59,0.1,0.3,tx,tx2025cbke,2025-01-30T10:02:43.867Z,"57 km S of Whites City, New Mexico",earthquake,0.94471558450897,0.82346686106189,0.1,11,reviewed,tx,tx
 2025-01-30T05:03:43.207Z,6.7426,-73.0795,152.573,4.7,mb,80,38,0.845,0.57,us,us7000p9zc,2025-01-30T06:07:16.040Z,"2 km ENE of Jordán, Colombia",earthquake,8.54,5.74,0.066,71,reviewed,us,us
 2025-01-30T04:53:11.354Z,51.9315,178.3574,121.645,4.4,mb,61,150,0.135,0.73,us,us7000p9za,2025-01-30T05:54:06.575Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.14,11.044,0.064,71,reviewed,us,us
 2025-01-30T04:40:08.758Z,62.9214,-156.3276,8.8,5.2,mww,,,,1.11,ak,ak0251doqqfp,2025-01-30T08:50:20.462Z,"15 km WSW of Takotna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-29T10:13:38.550Z,33.5278333,-116.5163333,12.67,0.58,ml,27,55,0.07898,0.14,ci,ci40172202,2025-01-29T15:01:38.398Z,"15 km ESE of Anza, CA",earthquake,0.21,0.44,0.165,14,reviewed,ci,ci
 2025-01-29T10:13:15.479Z,32.931,-100.912,7.0557,3.1,ml,27,74,0,0.2,tx,tx2025bzyi,2025-01-30T03:45:08.956Z,"23 km N of Snyder, Texas",earthquake,0.77091095280052,0.82216314952271,0.1,21,reviewed,tx,tx
 2025-01-29T10:13:15.040Z,35.711,-90.308,10.69,1.38,md,16,100,0.02756,0.07,nm,nm60597531,2025-01-29T15:14:41.330Z,"5 km SSE of Caraway, Arkansas",earthquake,0.68,0.57,0.0097889146901623,8,reviewed,nm,nm
-2025-01-29T10:12:25.868Z,41.9276,-119.5818,1.5,1.2,ml,4,213.74,0.537,0.0728,nn,nn00892703,2025-01-29T18:30:23.068Z,"47 km E of Fort Bidwell, California",earthquake,,6.3,0.33,3,reviewed,nn,nn
