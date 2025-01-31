@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-31T19:01:01.370Z,38.792499542236,-122.76100158691,3.2200000286102,2.75,md,71,45,0.008176,0.09,nc,nc75126421,2025-01-31T19:07:24.068Z,"2 km  of The Geysers, CA",earthquake,0.14,0.25999999,0.14,84,automatic,nc,nc
+2025-01-31T19:01:01.370Z,38.792499542236,-122.76100158691,3.2200000286102,2.75,md,71,45,0.008176,0.09,nc,nc75126421,2025-01-31T19:13:28.050Z,"2 km  of The Geysers, CA",earthquake,0.14,0.25999999,0.14,84,automatic,nc,nc
 2025-01-31T19:00:14.500Z,38.795833587646,-122.76333618164,3.579999923706,0.72,md,6,193,0.01939,0.01,nc,nc75126416,2025-01-31T19:01:50.922Z,"2 km  of The Geysers, CA",earthquake,0.72,2.05999994,0.16,7,automatic,nc,nc
 2025-01-31T18:58:24.728Z,56.5679,-157.7844,83.2,2.2,ml,,,,0.62,ak,ak0251fkq1k4,2025-01-31T19:01:16.462Z,"48 km NE of Chignik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-01-31T18:16:04.137Z,-20.3009,-69.0196,100.282,4.1,mb,29,52,0.203,0.51,us,us7000pafd,2025-01-31T18:52:57.040Z,"66 km E of La Tirana, Chile",earthquake,4.57,4.196,0.145,14,reviewed,us,us
@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T13:38:12.748Z,-5.73,147.2687,158.607,4.4,mb,20,86,3.652,0.61,us,us7000paau,2025-01-31T15:31:22.040Z,"111 km NW of Finschhafen, Papua New Guinea",earthquake,9.2,4.899,0.13,17,reviewed,us,us
 2025-01-31T13:36:49.351Z,37.3565,-114.6026,1.7,1.4,ml,11,203.94,0.577,0.3235,nn,nn00892801,2025-01-31T13:39:33.448Z,"29 km SSW of Caliente, Nevada",earthquake,,13.5,0.19,6,automatic,nn,nn
 2025-01-31T13:08:31.780Z,35.2425,-118.525,7.07,0.94,ml,23,91,0.0982,0.14,ci,ci40176546,2025-01-31T18:01:01.385Z,"14 km NNW of Tehachapi, CA",earthquake,0.21,0.46,0.231,10,reviewed,ci,ci
+2025-01-31T12:58:57.570Z,38.820833333333,-122.825,2.57,-0.04,md,16,62,0.00816,0.02,nc,nc75126341,2025-01-31T19:13:35.798Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.41,0.353,16,reviewed,nc,nc
 2025-01-31T12:54:44.900Z,33.3306667,-116.3131667,10.3,0.63,ml,42,52,0.03176,0.2,ci,ci40176538,2025-01-31T18:56:22.767Z,"10 km NE of Borrego Springs, CA",earthquake,0.23,0.42,0.158,17,reviewed,ci,ci
 2025-01-31T12:54:04.828Z,63.2672,-151.0737,10,1.4,ml,,,,0.5,ak,ak0251fh4jlu,2025-01-31T12:55:50.530Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-31T12:37:25.740Z,38.834499359131,-122.81883239746,1.8899999856949,0.73,md,9,89,0.01303,0.02,nc,nc75126336,2025-01-31T12:39:04.190Z,"8 km NNW of The Geysers, CA",earthquake,0.34,1.11000001,0.1,12,automatic,nc,nc
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T19:17:44.040Z,37.3313331604,-121.69316864014,6.7199997901917,2.36,md,58,39,0.04162,0.07,nc,nc75125831,2025-01-30T19:42:16.902Z,"12 km ESE of Alum Rock, CA",earthquake,0.13,0.330000013,0.11,63,automatic,nc,nc
 2025-01-30T19:16:24.860Z,43.423333333333,-124.14583333333,17.94,1.35,ml,8,199,0.1878,0.46,uw,uw62064997,2025-01-30T20:28:54.280Z,"5 km ESE of Glasgow, Oregon",earthquake,1.94,3.96,0.20265108330342,5,reviewed,uw,uw
 2025-01-30T19:15:29.750Z,53.941,-166.57066666667,9.61,-0.05,ml,6,224,0.07072,0.08,av,av93031344,2025-01-31T07:40:32.090Z,"5 km NNW of Dutch Harbor, Alaska",earthquake,0.69,0.82,0.11153314307939,5,reviewed,av,av
-2025-01-30T19:13:07.290Z,35.3686667,-118.1128333,3.87,0.99,ml,26,61,0.1006,0.15,ci,ci40175802,2025-01-30T21:24:41.637Z,"29 km NNW of California City, CA",earthquake,0.18,0.56,0.186,18,reviewed,ci,ci
