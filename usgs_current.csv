@@ -38,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T22:38:23.170Z,40.498832702637,-123.34716796875,27.260000228882,2.44,md,18,57,0.091,0.07,nc,nc75126491,2025-01-31T23:07:18.038Z,"15 km WSW of Hayfork, CA",earthquake,0.41,0.930000007,0.1,16,automatic,nc,nc
 2025-01-31T22:22:56.188Z,62.4735,-149.2959,3.3,1.6,ml,,,,0.74,ak,ak0251fmw4pe,2025-01-31T22:25:24.936Z,"41 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-31T22:19:49.504Z,37.2232,-116.8103,7.9,1.1,ml,23,154.24,0.106,0.1048,nn,nn00892826,2025-02-01T03:27:30.394Z,"35 km N of Beatty, Nevada",earthquake,,1.5,0.2,6,reviewed,nn,nn
+2025-01-31T22:16:53.520Z,30.9631,130.3484,153.56,4.4,mb,43,122,0.552,0.37,us,us7000pahr,2025-02-01T04:07:03.040Z,"33 km S of Makurazaki, Japan",earthquake,9.32,4.416,0.093,34,reviewed,us,us
 2025-01-31T22:06:25.843Z,56.5899,-157.2545,57.1,2,ml,,,,0.25,ak,ak0251fmsmwo,2025-01-31T22:08:38.176Z,"78 km ENE of Chignik, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2025-01-31T21:58:11.920Z,32.8075,-116.155,9.88,0.91,ml,25,75,0.05114,0.17,ci,ci40176914,2025-01-31T22:25:43.621Z,"17 km WNW of Ocotillo, CA",earthquake,0.25,0.54,0.179,16,reviewed,ci,ci
 2025-01-31T21:51:25.430Z,38.791667938232,-122.77683258057,1.9299999475479,0.73,md,8,104,0.008793,0.01,nc,nc75126481,2025-01-31T21:53:00.622Z,"2 km NW of The Geysers, CA",earthquake,0.37,0.99000001,0.08,8,automatic,nc,nc
@@ -100,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T15:04:13.410Z,33.7046667,-116.8045,15.97,0.88,ml,33,85,0.07776,0.12,ci,ci40176610,2025-01-31T18:56:39.080Z,"9 km WSW of Idyllwild, CA",earthquake,0.18,0.31,0.248,29,reviewed,ci,ci
 2025-01-31T14:58:04.470Z,48.316,-124.47216666667,32.77,2.04,ml,19,64,0.01382,0.1,uw,uw62065082,2025-01-31T19:30:47.528Z,"12 km ESE of Neah Bay, Washington",earthquake,0.39,0.44,0.1589561633748,10,reviewed,uw,uw
 2025-01-31T14:52:23.400Z,35.2433333,-118.5235,7.11,1.12,ml,32,36,0.09672,0.14,ci,ci40176586,2025-01-31T18:56:04.905Z,"14 km NNW of Tehachapi, CA",earthquake,0.17,0.5,0.218,23,reviewed,ci,ci
+2025-01-31T14:41:51.800Z,54.193833333333,-166.02133333333,5.53,0.03,ml,6,231,0.0168,0.21,av,av93479191,2025-02-01T04:11:38.220Z,"17 km WNW of Akutan, Alaska",earthquake,0.8,0.93,0.44539791580832,6,reviewed,av,av
 2025-01-31T14:38:04.374Z,58.4735,-154.0202,80.4,1.9,ml,,,,0.25,ak,ak0251fi7zbp,2025-01-31T14:39:58.396Z,"79 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-31T14:30:04.630Z,38.825332641602,-122.80716705322,2.5299999713898,1.14,md,26,36,0.002983,0.02,nc,nc75126381,2025-01-31T14:31:39.203Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.17,29,automatic,nc,nc
 2025-01-31T14:26:37.890Z,38.802333831787,-122.80616760254,3.7400000095367,0.84,md,9,63,0.01018,0.01,nc,nc75126371,2025-01-31T14:28:14.133Z,"5 km NW of The Geysers, CA",earthquake,0.5,1.52999997,0.53,9,automatic,nc,nc
@@ -212,7 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T04:25:25.040Z,44.7595,-110.77716666667,5.16,0.95,ml,14,87,0.05966,0.2,uu,uu80100391,2025-01-31T17:05:57.000Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.52,1.34,0.29817764069391,2,reviewed,uu,uu
 2025-01-31T04:21:17.350Z,38.7835,-122.89166666667,5.37,0.51,md,30,79,0.02883,0.06,nc,nc75126136,2025-01-31T11:05:55.007Z,"11 km ESE of Cloverdale, CA",earthquake,0.24,0.4,0.142,27,reviewed,nc,nc
 2025-01-31T04:14:38.677Z,57.477,-156.2948,3,2.1,ml,,,,0.37,ak,ak0251fc4kqj,2025-01-31T22:02:22.520Z,"66 km E of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-31T04:07:58.610Z,33.6761667,-116.7601667,16.23,0.17,ml,13,126,0.05523,0.17,ci,ci37694684,2025-01-31T20:12:48.800Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.84,0.123,11,reviewed,ci,ci
-2025-01-31T04:07:36.640Z,33.668,-116.7516667,14.4,0.5,ml,23,67,0.05669,0.18,ci,ci40176330,2025-01-31T20:13:05.246Z,"9 km SSW of Idyllwild, CA",earthquake,0.3,0.47,0.135,11,reviewed,ci,ci
-2025-01-31T04:06:55.080Z,17.951333333333,-66.936666666667,7.98,2.51,md,7,209,0.05952,0.08,pr,pr71471858,2025-01-31T04:46:56.830Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.58,0.49,0.035589764613384,5,reviewed,pr,pr
-2025-01-31T04:05:06.970Z,33.6583333,-116.7606667,14.88,0.92,ml,40,56,0.0689,0.15,ci,ci40176322,2025-01-31T18:57:47.920Z,"10 km SSW of Idyllwild, CA",earthquake,0.17,0.31,0.229,26,reviewed,ci,ci
