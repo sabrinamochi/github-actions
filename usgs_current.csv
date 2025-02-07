@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T21:30:08.210Z,35.976833343506,-120.54016876221,6.9800000190735,1.28,md,14,65,0.009583,0.05,nc,nc75128756,2025-02-06T21:32:56.698Z,"13 km NW of Parkfield, CA",earthquake,0.36,0.479999989,0.25,8,automatic,nc,nc
 2025-02-06T21:28:01.261Z,62.9483,-156.3959,0.3,2.1,ml,,,,0.39,ak,ak0251pjjy4e,2025-02-06T21:30:37.950Z,"17 km WSW of Takotna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-06T21:03:22.930Z,6.7272,-73.0809,155.75,4.5,mb,43,63,0.829,0.47,us,us7000pbxz,2025-02-06T22:10:43.040Z,"1 km ESE of Jordán, Colombia",earthquake,7.18,5.95,0.077,49,reviewed,us,us
-2025-02-06T21:01:31.340Z,34.0696667,-118.4228333,6.56,1.44,ml,41,51,0.02328,0.21,ci,ci40181050,2025-02-06T21:05:53.623Z,"1 km NNW of Century City, CA",earthquake,0.24,0.45,0.164,28,automatic,ci,ci
+2025-02-06T21:01:31.140Z,34.064,-118.4248333,7.85,1.34,ml,33,53,0.02692,0.16,ci,ci40181050,2025-02-06T23:59:16.428Z,"1 km NW of Century City, CA",earthquake,0.22,0.27,0.175,28,reviewed,ci,ci
 2025-02-06T20:56:38.218Z,61.2071,-152.1883,32.9,0,ml,,,,0.84,ak,ak0251pj4lf1,2025-02-06T20:58:28.111Z,"58 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-06T20:47:05.532Z,59.8893,-153.2085,122.1,2.2,ml,,,,0.88,ak,ak0251pj2lge,2025-02-06T20:59:42.005Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-06T20:45:26.410Z,18.06,-65.415333333333,10.31,2.95,md,5,244,0.1358,0.13,pr,pr71472353,2025-02-06T21:01:46.740Z,"7 km SE of Esperanza, Puerto Rico",earthquake,1.82,0.79,0.096275789933082,3,reviewed,pr,pr
@@ -42,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T18:55:11.403Z,62.2395,-151.7483,86.7,1.5,ml,,,,0.27,ak,ak0251phxgg3,2025-02-06T18:57:32.884Z,"33 km NNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-06T18:52:57.350Z,38.770999908447,-122.73500061035,1.1000000238419,0.56,md,7,100,0.01229,0.01,nc,nc75128716,2025-02-06T18:55:37.462Z,"2 km ESE of The Geysers, CA",earthquake,0.34,0.680000007,0.25,4,automatic,nc,nc
 2025-02-06T18:51:26.250Z,33.0443333,-115.005,-0.24,1.52,ml,10,77,0.07539,0.28,ci,ci40180946,2025-02-06T20:45:34.379Z,"44 km NE of Holtville, CA",quarry blast,0.84,31.61,0.093,8,reviewed,ci,ci
+2025-02-06T18:34:45.480Z,38.813833333333,-122.82516666667,1.99,0.68,md,12,90,0.005865,0.01,nc,nc75128711,2025-02-06T23:55:11.427Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.84,0.293,12,reviewed,nc,nc
 2025-02-06T18:29:23.946Z,61.0884,-150.8054,72.3,1.1,ml,,,,0.88,ak,ak0251phrwwj,2025-02-06T18:32:02.059Z,"16 km ESE of Beluga, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-02-06T18:25:36.240Z,32.13,-101.632,4.1443,1.8,ml,53,60,0,0.4,tx,tx2025cpep,2025-02-06T18:36:48.061Z,"14 km E of Stanton, Texas",earthquake,0,0.79074889421463,0.2,37,automatic,tx,tx
 2025-02-06T18:23:30.370Z,32.13,-101.632,3.5563,1.3,ml,24,71,0,0.5,tx,tx2025cpen,2025-02-06T18:33:55.804Z,"14 km E of Stanton, Texas",earthquake,0,1.2930662631989,0.2,12,automatic,tx,tx
@@ -148,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T07:17:41.600Z,19.305999755859,-155.35600280762,28.889999389648,2.19,ml,55,109,0.03907,0.170000002,hv,hv74609887,2025-02-06T07:21:01.240Z,"17 km NE of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.17,6,automatic,hv,hv
 2025-02-06T07:08:54.983Z,61.2634,-152.2306,7.1,0.9,ml,,,,0.56,ak,ak0251pb3ph6,2025-02-06T20:03:54.690Z,"62 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-06T07:02:04.010Z,38.83716583252,-122.78067016602,2.5599999427795,0.69,md,10,96,0.006372,0.02,nc,nc75128561,2025-02-06T07:04:50.495Z,"5 km WNW of Cobb, CA",earthquake,1.06,1.73000002,0.11,11,automatic,nc,nc
+2025-02-06T07:01:24.260Z,61.273333333333,-152.25783333333,3.25,-0.66,ml,7,146,0.0503,0.07,av,av93485931,2025-02-06T23:57:40.160Z,"64 km WNW of Tyonek, Alaska",earthquake,0.27,0.42,0.066620422010602,8,reviewed,av,av
 2025-02-06T06:54:48.982Z,62.9087,-150.4524,82.2,1.9,ml,,,,0.47,ak,ak0251pas4ci,2025-02-06T06:56:55.739Z,"48 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-06T06:47:24.760Z,44.390666666667,-114.67483333333,4.74,1.68,ml,15,62,0.31,0.18,mb,mb90072223,2025-02-06T16:42:27.540Z,"26 km WNW of Clayton, Idaho",earthquake,0.48,3.1,0.15963345958271,16,reviewed,mb,mb
 2025-02-06T06:43:22.352Z,37.3661,-117.1308,0,1.1,ml,12,209.03,0.122,0.4294,nn,nn00892964,2025-02-06T06:45:51.010Z,"39 km SSE of Goldfield, Nevada",earthquake,,13.9,0.39,8,automatic,nn,nn
