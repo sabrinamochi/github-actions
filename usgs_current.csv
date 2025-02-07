@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-07T02:35:41.005Z,60.2097,-141.004,13.9,1.4,ml,,,,0.75,ak,ak0251qvtn78,2025-02-07T02:37:51.187Z,"102 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-07T02:23:32.859Z,59.96,-140.1671,7.4,1.8,ml,,,,0.78,ak,ak0251qvr1z9,2025-02-07T02:25:40.993Z,"52 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-07T02:04:26.390Z,38.812168121338,-122.82733154297,1.4700000286102,1.15,md,10,78,0.003597,0.01,nc,nc75128836,2025-02-07T02:07:06.210Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.660000026,0.37,10,automatic,nc,nc
 2025-02-07T02:02:59.400Z,33.3665,-116.3178333,11.3,2.32,ml,104,14,0.008028,0.19,ci,ci40181210,2025-02-07T02:13:54.700Z,"13 km NNE of Borrego Springs, CA",earthquake,0.12,0.24,0.165,26,automatic,ci,ci
@@ -142,6 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T10:38:16.812Z,60.2003,-151.5335,46.9,2.6,ml,,,,0.31,ak,ak0251pd2ctt,2025-02-06T10:39:49.843Z,"8 km WSW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-06T10:35:09.181Z,39.1784,-119.025,4.9,1.2,ml,14,63.46,0.014,0.1254,nn,nn00892966,2025-02-07T02:06:34.374Z,"24 km NNE of Yerington, Nevada",earthquake,,0.9,0.23,7,reviewed,nn,nn
 2025-02-06T10:32:23.480Z,60.019333333333,-153.10533333333,-0.38,-0.91,ml,4,174,0.04348,0.04,av,av93486106,2025-02-07T02:17:31.930Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.28,2.58,0.35190740221992,4,reviewed,av,av
+2025-02-06T10:27:55.250Z,58.230833333333,-155.11116666667,3.24,-0.52,ml,9,79,0.05704,0.18,av,av93032254,2025-02-07T02:33:38.680Z,"83 km NNW of Karluk, Alaska",earthquake,0.36,1.22,0.16635812663496,9,reviewed,av,av
 2025-02-06T10:27:47.287Z,39.8839,-119.4793,11.7,1.4,ml,13,127.91,0.188,0.1756,nn,nn00892965,2025-02-07T02:06:06.671Z,"11 km WNW of Nixon, Nevada",earthquake,,1.3,0.31,4,reviewed,nn,nn
 2025-02-06T10:26:37.290Z,33.2826667,-116.2385,10.71,0.81,ml,50,53,0.09067,0.18,ci,ci40180594,2025-02-06T18:58:29.983Z,"13 km ENE of Borrego Springs, CA",earthquake,0.21,0.5,0.126,25,reviewed,ci,ci
 2025-02-06T10:23:13.150Z,38.814498901367,-122.80366516113,2.4000000953674,0.9,md,13,78,0.009231,0.02,nc,nc75128611,2025-02-06T10:25:55.858Z,"6 km NNW of The Geysers, CA",earthquake,0.31,0.629999995,0.18,13,automatic,nc,nc
@@ -256,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T02:52:42.883Z,36.6133,25.6122,10,4.3,mb,40,103,1.447,0.92,us,us7000pbqf,2025-02-06T03:07:04.040Z,"26 km NE of Firá, Greece",earthquake,4.87,1.903,0.084,40,reviewed,us,us
 2025-02-06T02:48:36.854Z,36.5159,25.6251,10,4.4,mb,43,84,1.363,0.73,us,us7000pbqe,2025-02-06T03:01:38.040Z,"20 km ENE of Firá, Greece",earthquake,5.57,1.922,0.083,42,reviewed,us,us
 2025-02-06T02:45:53.650Z,36.5919,25.5667,10,4.2,mb,28,81,1.412,0.86,us,us7000pbqd,2025-02-06T02:57:12.040Z,"22 km NE of Oía, Greece",earthquake,4.8,1.926,0.098,29,reviewed,us,us
-2025-02-06T02:37:47.980Z,61.280166666667,-152.25616666667,2.8,-0.83,ml,7,151,0.05104,0.08,av,av93032149,2025-02-06T22:19:30.300Z,"64 km WNW of Tyonek, Alaska",earthquake,0.27,0.48,0.12562711728334,8,reviewed,av,av
-2025-02-06T02:36:39.790Z,54.5355,-164.64083333333,15.8,0.81,ml,4,165,0.0506,0.37,av,av93032154,2025-02-06T22:29:55.370Z,"86 km ENE of Akutan, Alaska",earthquake,2.86,1.97,0.16538480452105,3,reviewed,av,av
