@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-10T04:15:46.350Z,38.816501617432,-122.83032989502,1.0499999523163,0.55,md,6,157,0.007557,0.01,nc,nc75130957,2025-02-10T04:17:20.723Z,"8 km NW of The Geysers, CA",earthquake,0.48,0.920000017,0.42,8,automatic,nc,nc
-2025-02-10T04:05:57.080Z,40.052665710449,-122.00299835205,14.029999732971,2.25,md,12,81,0.1212,0.21,nc,nc75130947,2025-02-10T04:12:15.776Z,"9 km ENE of Los Molinos, CA",earthquake,0.63,2.17000008,0.14,10,automatic,nc,nc
+2025-02-10T04:05:57.080Z,40.052665710449,-122.00299835205,14.029999732971,2.25,md,12,81,0.1212,0.21,nc,nc75130947,2025-02-10T04:27:16.886Z,"9 km ENE of Los Molinos, CA",earthquake,0.63,2.17000008,0.14,10,automatic,nc,nc
 2025-02-10T04:04:17.020Z,38.828498840332,-122.81116485596,1.3099999427795,0.76,md,9,77,0.005167,0.01,nc,nc75130937,2025-02-10T04:05:55.727Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.75,0.18,10,automatic,nc,nc
 2025-02-10T04:03:27.150Z,38.828666687012,-122.81216430664,1.5599999427795,1.08,md,14,60,0.005511,0.03,nc,nc75130932,2025-02-10T04:05:05.934Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.610000014,0.06,14,automatic,nc,nc
 2025-02-10T04:00:13.870Z,38.787498474121,-122.76750183106,2.6800000667572,0.93,md,14,79,0.01445,0.04,nc,nc75130927,2025-02-10T04:01:51.108Z,"1 km NNW of The Geysers, CA",earthquake,0.31,0.720000029,0.18,17,automatic,nc,nc
@@ -22,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T01:54:15.610Z,45.068333333333,-122.59866666667,22.88,0.58,md,4,123,0.04957,0.2,uw,uw62066707,2025-02-10T02:40:59.810Z,"6 km ENE of Scotts Mills, Oregon",earthquake,2.18,1.82,0.22182675325956,4,reviewed,uw,uw
 2025-02-10T01:47:27.240Z,46.594,-119.79833333333,7.75,0.65,ml,9,117,0.03055,0.08,uw,uw62066702,2025-02-10T02:31:45.270Z,"13 km SE of Desert Aire, Washington",earthquake,0.28,0.22,0.13124394592071,9,reviewed,uw,uw
 2025-02-10T01:39:29.020Z,38.795665740967,-122.79000091553,-0.89999997615814,1.29,md,22,88,0.002969,0.12,nc,nc75130867,2025-02-10T01:41:05.854Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.550000012,0.15,22,automatic,nc,nc
+2025-02-10T01:15:08.660Z,47.396,-124.07066666667,25.23,0.87,ml,15,142,0.02831,0.15,uw,uw62066697,2025-02-10T04:28:37.710Z,"14 km W of Neilton, Washington",earthquake,0.6,0.66,0.088721108101615,5,reviewed,uw,uw
 2025-02-10T01:15:00.933Z,64.6647,-149.646,31.1,1.4,ml,,,,0.37,ak,ak0251vtpvnx,2025-02-10T01:17:18.778Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-10T01:00:00.958Z,36.6094,25.6436,10,4,mb,20,104,1.454,0.68,us,us7000pck7,2025-02-10T01:08:10.040Z,"28 km NE of Firá, Greece",earthquake,3.95,1.768,0.119,19,reviewed,us,us
 2025-02-10T00:52:52.176Z,36.6485,-116.2717,7.3,0.1,ml,23,171.57,0.054,0.0887,nn,nn00893135,2025-02-10T04:26:38.289Z,"52 km ESE of Beatty, Nevada",earthquake,,0.9,0.19,4,reviewed,nn,nn
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-09T04:43:55.828Z,63.155,-149.7924,77.1,1.9,ml,,,,0.64,ak,ak0251u84y9q,2025-02-09T04:46:40.658Z,"49 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-09T04:42:25.610Z,38.827499389648,-122.80583190918,0.75999999046326,0.86,md,9,74,0.00527,0.02,nc,nc75130382,2025-02-09T04:44:02.532Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.769999981,0.22,10,automatic,nc,nc
 2025-02-09T04:30:00.280Z,33.5106667,-116.7613333,6.91,0.68,ml,37,32,0.04,0.14,ci,ci40182642,2025-02-09T15:10:00.608Z,"10 km WSW of Anza, CA",earthquake,0.15,0.27,0.144,23,reviewed,ci,ci
-2025-02-09T04:27:48.299Z,59.0384,-153.1365,70.7,1.8,ml,,,,0.65,ak,ak0251u81i3o,2025-02-09T04:29:24.074Z,"77 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
