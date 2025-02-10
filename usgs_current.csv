@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-10T16:22:18.154Z,60.3801,-153.195,16.9,1.2,ml,,,,0.23,ak,ak0251w2ox2v,2025-02-10T16:23:56.307Z,"65 km ENE of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-10T16:16:22.665Z,31.658,-104.335,4.0871,1.7,ml,17,69,0.1,0.2,tx,tx2025cwii,2025-02-10T16:23:42.088Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3972238302231,0.1,13,automatic,tx,tx
 2025-02-10T15:48:29.665Z,37.9359,-118.5645,0,2.4,ml,12,81.44,0.374,0.3438,nn,nn00893189,2025-02-10T15:51:02.517Z,"15 km NNW of Benton, California",earthquake,,38.1,0.3,7,automatic,nn,nn
 2025-02-10T15:41:34.710Z,38.830501556396,-122.81533050537,1.6699999570847,0.25,md,8,82,0.008198,0.02,nc,nc75131232,2025-02-10T15:43:13.105Z,"8 km NNW of The Geysers, CA",earthquake,0.51,1.02999997,0.12,9,automatic,nc,nc
 2025-02-10T15:27:47.499Z,32.757,-100.634,7.3975,1.6,ml,13,80,0.1,0.2,tx,tx2025cwgt,2025-02-10T16:14:38.019Z,"17 km NE of Hermleigh, Texas",earthquake,0.85243108540858,1.7455426964659,0.1,11,reviewed,tx,tx
@@ -13,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T14:18:56.966Z,59.9091,-152.6431,102.3,1.8,ml,,,,0.05,ak,ak0251w1ha00,2025-02-10T14:20:02.274Z,"47 km WNW of Anchor Point, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2025-02-10T14:16:55.471Z,41.6723,141.34,89.873,4.9,mww,108,76,0.906,0.99,us,us7000pcn4,2025-02-10T14:39:10.612Z,"39 km ENE of Ōma, Japan",earthquake,5.9,5.862,0.086,13,reviewed,us,us
 2025-02-10T14:16:24.331Z,61.667,-147.4881,39.6,1.1,ml,,,,0.33,ak,ak0251w1gs1t,2025-02-10T14:17:40.337Z,"17 km SSE of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-10T14:00:16.247Z,-6.5041,149.2707,52.709,4.6,mb,34,66,3.56,0.69,us,us7000pcn1,2025-02-10T16:16:56.040Z,"44 km SW of Kandrian, Papua New Guinea",earthquake,8.61,6.625,0.106,27,reviewed,us,us
 2025-02-10T13:57:14.090Z,33.5856667,-116.8068333,8.32,0.52,ml,22,43,0.05589,0.18,ci,ci40183314,2025-02-10T15:30:44.111Z,"13 km WNW of Anza, CA",earthquake,0.31,0.55,0.196,14,reviewed,ci,ci
 2025-02-10T13:35:50.180Z,34.1681667,-117.263,7.36,1.57,ml,74,38,0.03802,0.17,ci,ci40183306,2025-02-10T13:40:52.514Z,"5 km NNE of San Bernardino, CA",earthquake,0.13,0.32,0.195,26,automatic,ci,ci
 2025-02-10T13:29:52.608Z,31.668,-104.287,8.1378,1.6,ml,17,85,0,0.1,tx,tx2025cwcw,2025-02-10T13:35:34.478Z,"56 km S of Whites City, New Mexico",earthquake,0.56316697954557,0.5401357071746,0.2,13,reviewed,tx,tx
@@ -225,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-09T16:38:56.481Z,36.5585,70.9165,209.334,4.2,mb,36,82,2.504,0.72,us,us7000pchv,2025-02-09T17:02:01.040Z,"34 km SSE of Jurm, Afghanistan",earthquake,9.62,11.617,0.153,12,reviewed,us,us
 2025-02-09T16:38:07.500Z,35.063,-118.3473333,3.62,1.45,ml,42,44,0.07239,0.19,ci,ci40182866,2025-02-10T00:52:09.585Z,"12 km SE of Tehachapi, CA",earthquake,0.17,0.56,0.189,26,reviewed,ci,ci
 2025-02-09T16:38:04.943Z,-49.3921,123.2739,10,4.7,mb,28,102,17.054,0.85,us,us7000pchw,2025-02-09T16:56:17.040Z,"western Indian-Antarctic Ridge",earthquake,14.27,1.915,0.118,27,reviewed,us,us
-2025-02-09T16:24:04.629Z,39.165,-119.048,6.4,1.2,ml,12,122.31,0.008,0.1031,nn,nn00893123,2025-02-09T16:26:06.880Z,"22 km NNE of Yerington, Nevada",earthquake,,0.5,0.27,4,automatic,nn,nn
-2025-02-09T16:16:26.859Z,31.625,-104.505,8.0481,1.6,ml,24,75,0,0.2,tx,tx2025cumy,2025-02-10T13:48:52.563Z,"62 km S of Whites City, New Mexico",earthquake,0.93175228736133,0.6093012703215,0.1,19,reviewed,tx,tx
