@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-11T01:35:47.980Z,36.01250076294,-120.57266998291,4.039999961853,1.97,md,27,47,0.0294,0.09,nc,nc75131452,2025-02-11T01:39:13.440Z,"18 km NNW of Parkfield, CA",earthquake,0.27,0.449999988,0.15,18,automatic,nc,nc
+2025-02-11T01:32:52.440Z,32.9515,-116.2965,10.44,0.81,ml,26,104,0.006559,0.32,ci,ci40183970,2025-02-11T01:36:43.229Z,"26 km ENE of Pine Valley, CA",earthquake,0.56,1.12,0.291,14,automatic,ci,ci
+2025-02-11T01:26:28.530Z,40.3646,-126.2586,10,2.8,ml,32,270,1.757,1.02,us,us7000pcss,2025-02-11T01:38:26.040Z,"170 km W of Ferndale, California",earthquake,4.4,2.021,0.046,62,reviewed,us,us
+2025-02-11T01:25:23.977Z,42.6871,145.4266,35.46,4.6,mb,63,135,1.811,1.01,us,us7000pcst,2025-02-11T01:43:23.040Z,"60 km SE of Akkeshi, Japan",earthquake,9.36,7.551,0.065,70,reviewed,us,us
 2025-02-11T01:19:36.440Z,35.932998657227,-120.51049804688,12.380000114441,1.51,md,18,99,0.005436,0.07,nc,nc75131437,2025-02-11T01:30:46.144Z,"8 km NW of Parkfield, CA",earthquake,0.49,0.730000019,0.32,7,automatic,nc,nc
 2025-02-11T01:16:00.440Z,34.364,-116.9005,4.4,1.4,ml,53,41,0.06248,0.17,ci,ci40183954,2025-02-11T01:26:56.660Z,"11 km SE of Lucerne Valley, CA",earthquake,0.16,0.57,0.173,27,automatic,ci,ci
 2025-02-11T01:15:08.610Z,36.1738,-116.3472,0,0.5,ml,9,294.53,0.532,0.4219,nn,nn00893260,2025-02-11T01:17:05.248Z,"23 km NNW of Shoshone, California",earthquake,,76.6,0.43,2,automatic,nn,nn
@@ -141,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T11:17:27.966Z,-7.092,155.062,10,5,mb,32,126,4.077,0.83,us,us7000pcmf,2025-02-10T12:05:02.040Z,"97 km SSW of Panguna, Papua New Guinea",earthquake,11.31,1.911,0.127,21,reviewed,us,us
 2025-02-10T11:13:16.870Z,38.820167541504,-122.84216308594,2.329999923706,0.75,md,15,77,0.006302,0.02,nc,nc75131127,2025-02-10T11:14:52.269Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.600000024,0.19,15,automatic,nc,nc
 2025-02-10T11:11:16.114Z,36.6429,-116.2737,9.3,-0.1,ml,12,179.86,0.052,0.1575,nn,nn00893175,2025-02-10T11:13:10.295Z,"52 km SE of Beatty, Nevada",earthquake,,1.1,0.3,4,automatic,nn,nn
-2025-02-10T11:05:49.191Z,64.8486,-149.0614,14.4,1.1,ml,,,,0.58,ak,ak0251vzm69z,2025-02-10T11:08:58.571Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-10T11:05:49.191Z,64.8486,-149.0614,14.4,1.1,ml,,,,0.58,ak,ak0251vzm69z,2025-02-11T01:37:17.749Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-10T11:04:17.040Z,38.821166666667,-122.85383333333,2.89,0.28,md,29,93,0.006797,0.02,nc,nc75131122,2025-02-10T21:50:20.912Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.36,0.221,27,reviewed,nc,nc
 2025-02-10T11:00:30.030Z,38.792835235596,-122.77799987793,1.460000038147,0.75,md,9,102,0.007758,0.03,nc,nc75131117,2025-02-10T11:02:07.262Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.74000001,0.07,10,automatic,nc,nc
 2025-02-10T10:55:17.070Z,38.838333129883,-122.80833435059,2.1400001049042,0.78,md,10,83,0.01405,0.01,nc,nc75131112,2025-02-10T10:56:52.077Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.63,0.37,12,automatic,nc,nc
@@ -255,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T01:54:15.610Z,45.068333333333,-122.59866666667,22.88,0.58,md,4,123,0.04957,0.2,uw,uw62066707,2025-02-10T02:40:59.810Z,"6 km ENE of Scotts Mills, Oregon",earthquake,2.18,1.82,0.22182675325956,4,reviewed,uw,uw
 2025-02-10T01:47:27.240Z,46.594,-119.79833333333,7.75,0.65,ml,9,117,0.03055,0.08,uw,uw62066702,2025-02-10T02:31:45.270Z,"13 km SE of Desert Aire, Washington",earthquake,0.28,0.22,0.13124394592071,9,reviewed,uw,uw
 2025-02-10T01:46:56.280Z,61.316666666667,-152.25416666667,1.36,-0.69,ml,7,178,0.07021,0.08,av,av93492736,2025-02-10T23:45:53.040Z,"65 km WNW of Beluga, Alaska",earthquake,0.38,1.54,0.24565025440637,8,reviewed,av,av
-2025-02-10T01:39:29.020Z,38.795665740967,-122.79000091553,-0.89999997615814,1.29,md,22,88,0.002969,0.12,nc,nc75130867,2025-02-10T01:41:05.854Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.550000012,0.15,22,automatic,nc,nc
