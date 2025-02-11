@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T17:59:31.370Z,34.1671667,-117.2671667,6.18,1.28,ml,58,41,0.035,0.19,ci,ci40184330,2025-02-11T18:07:38.946Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.41,0.151,28,automatic,ci,ci
 2025-02-11T17:56:06.926Z,63.1417,-144.444,3.5,1.9,ml,,,,0.6,ak,ak0251xr0yno,2025-02-11T17:57:54.300Z,"42 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-11T17:43:38.515Z,31.934,-102.335,6.7468,1.4,ml,5,127,0,0.4,tx,tx2025cygt,2025-02-11T17:49:11.735Z,"10 km NNE of Odessa, Texas",earthquake,0,7.7433505058289,0.3,5,automatic,tx,tx
-2025-02-11T17:43:01.156Z,44.333,15.5116,10,4.6,mww,145,30,1.266,0.72,us,us7000pcwq,2025-02-11T18:22:00.088Z,"7 km NE of Starigrad, Croatia",earthquake,4.87,1.848,0.059,28,reviewed,us,us
+2025-02-11T17:43:01.156Z,44.333,15.5116,10,4.6,mww,145,30,1.266,0.72,us,us7000pcwq,2025-02-11T18:27:09.387Z,"7 km NE of Starigrad, Croatia",earthquake,4.87,1.848,0.059,28,reviewed,us,us
 2025-02-11T17:40:19.187Z,36.6242,25.7895,10,4.5,mb,52,86,1.52,0.67,us,us7000pcwn,2025-02-11T18:10:08.040Z,"24 km SSW of Amorgós, Greece",earthquake,5.17,1.692,0.079,47,reviewed,us,us
 2025-02-11T17:37:09.520Z,38.849998474121,-122.77716827393,0.8299999833107,0.7,md,10,158,0.00741,0.03,nc,nc75131797,2025-02-11T17:38:46.490Z,"6 km NW of Cobb, CA",earthquake,0.42,0.519999981,0.24,10,automatic,nc,nc
 2025-02-11T17:29:07.229Z,31.619,-104.5,7.0227,1.7,ml,29,70,0,0.2,tx,tx2025cygf,2025-02-11T18:12:31.878Z,"62 km S of Whites City, New Mexico",earthquake,0.70068158234509,0.60711221823478,0.1,23,reviewed,tx,tx
@@ -190,7 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T23:38:33.590Z,33.704,-116.8151667,15.64,0.67,ml,17,171,0.07867,0.12,ci,ci40183874,2025-02-11T17:53:24.561Z,"9 km SE of Valle Vista, CA",earthquake,0.36,0.54,0.123,8,reviewed,ci,ci
 2025-02-10T23:38:00.890Z,46.850166666667,-121.76283333333,1.94,0.52,ml,20,70,0.02068,0.08,uw,uw62066847,2025-02-11T16:57:55.540Z,"22 km ENE of Ashford, Washington",earthquake,0.21,0.38,0.15013989309159,9,reviewed,uw,uw
 2025-02-10T23:35:58.171Z,61.4467,-147.7074,20.2,2.3,ml,,,,0.62,ak,ak0251w6xtpl,2025-02-11T06:49:47.344Z,"40 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-10T23:33:43.070Z,35.8696667,-117.7001667,7.71,1.14,ml,25,48,0.08052,0.17,ci,ci40183866,2025-02-10T23:37:07.579Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.61,0.226,23,automatic,ci,ci
+2025-02-10T23:33:43.040Z,35.8706667,-117.6985,8.09,1.23,ml,23,48,0.08216,0.14,ci,ci40183866,2025-02-11T18:27:58.114Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.52,0.192,14,reviewed,ci,ci
 2025-02-10T23:18:30.010Z,35.10216667,-97.58283333,6.03,1.91,ml,98,36,0.05308958201,0.25,ok,ok2025cwwg,2025-02-10T23:52:21.120Z,"0 km W of Cole, Oklahoma",earthquake,,0.4,0.18,45,reviewed,ok,ok
 2025-02-10T23:01:23.284Z,38.6009,-117.1198,4.7,1.8,ml,9,209.68,0.886,0.2834,nn,nn00893246,2025-02-10T23:04:05.051Z,"60 km N of Tonopah, Nevada",earthquake,,2.9,0.45,8,automatic,nn,nn
 2025-02-10T22:58:45.927Z,39.1995,-119.0166,4.3,1.6,ml,11,132.73,0.035,0.2175,nn,nn00893244,2025-02-10T23:00:55.361Z,"26 km NNE of Yerington, Nevada",earthquake,,0.6,0.23,6,automatic,nn,nn
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T19:07:24.620Z,37.919333333333,-121.95583333333,-0.28,1.51,md,20,59,0.03035,0.15,nc,nc75131322,2025-02-10T20:40:31.359Z,"3 km SW of Clayton, CA",quarry blast,0.26,31.61,0.412,16,reviewed,nc,nc
 2025-02-10T18:36:17.320Z,60.893666666667,-152.6195,7.36,0.27,ml,9,173,0.3054,0.1,av,av93494506,2025-02-11T03:51:59.140Z,"75 km WNW of Nikiski, Alaska",earthquake,0.7,3.3,0.10965596123541,9,reviewed,av,av
 2025-02-10T18:32:34.940Z,38.834167480469,-122.81517028809,0.97000002861023,0.78,md,18,56,0.01147,0.02,nc,nc75131307,2025-02-10T18:34:09.898Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.569999993,0.16,17,automatic,nc,nc
-2025-02-10T18:28:30.050Z,38.826332092285,-122.85399627685,2.039999961853,0.88,md,11,92,0.0241,0.02,nc,nc75131302,2025-02-10T18:30:04.638Z,"10 km NW of The Geysers, CA",earthquake,0.3,1.04999995,0.54,11,automatic,nc,nc
