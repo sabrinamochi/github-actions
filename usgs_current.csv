@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T04:12:04.190Z,38.788333892822,-122.74416351318,8.8699998855591,0.58,md,6,163,0.007727,0.05,nc,nc75132022,2025-02-12T04:13:38.486Z,"2 km NE of The Geysers, CA",earthquake,1.92,7.09000015,0.33,4,automatic,nc,nc
+2025-02-12T04:09:30.186Z,31.594,-104.547,3.538,2,ml,8,165,0.1,0.1,tx,tx2025czbj,2025-02-12T04:13:33.822Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.9720559120178,0.1,6,automatic,tx,tx
+2025-02-12T04:06:43.140Z,38.764331817627,-122.63366699219,5.5199999809265,1.05,md,6,166,0.05144,0.03,nc,nc75132017,2025-02-12T04:08:18.678Z,"2 km NW of Middletown, CA",earthquake,0.92,1.59000003,0.35,5,automatic,nc,nc
+2025-02-12T03:59:32.628Z,60.254,-152.8488,117.4,3.1,ml,,,,0.57,ak,ak0251z68xqk,2025-02-12T04:11:57.459Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-12T03:48:25.812Z,58.2822,-156.0074,14.9,1.4,ml,,,,0.96,ak,ak0251z66ket,2025-02-12T03:50:14.413Z,"59 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-12T03:42:39.740Z,38.795166015625,-122.76650238037,3.7999999523163,1.06,md,14,70,0.007607,0.02,nc,nc75132012,2025-02-12T03:44:18.486Z,"2 km NNW of The Geysers, CA",earthquake,0.36,0.839999974,0.13,15,automatic,nc,nc
 2025-02-12T03:28:57.690Z,38.771999359131,-122.73650360107,0.81999999284744,1.55,md,22,69,0.01122,0.04,nc,nc75132007,2025-02-12T03:30:33.414Z,"2 km ESE of The Geysers, CA",earthquake,0.22,0.349999994,0.12,24,automatic,nc,nc
@@ -25,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T01:43:48.673Z,63.3161,-150.6727,0,1.8,ml,,,,0.53,ak,ak0251z4yodv,2025-02-12T01:46:05.520Z,"58 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-12T01:35:07.731Z,36.4973,25.6316,10,4.3,mb,29,87,1.349,0.95,us,us7000pd1n,2025-02-12T02:07:19.040Z,"19 km ENE of Mesariá, Greece",earthquake,4.01,1.515,0.16,11,reviewed,us,us
 2025-02-12T01:26:25.719Z,30.0089,138.9703,399.052,4.7,mb,103,80,3.179,0.73,us,us7000pd1l,2025-02-12T01:43:56.040Z,"Izu Islands, Japan region",earthquake,8.88,7.08,0.031,308,reviewed,us,us
-2025-02-12T01:22:23.305Z,63.2752,-150.5276,126.5,2.3,ml,,,,0.32,ak,ak0251z4u4e2,2025-02-12T01:24:35.129Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-02-12T01:22:23.305Z,63.2752,-150.5276,126.5,2.3,ml,,,,0.32,ak,ak0251z4u4e2,2025-02-12T04:04:44.040Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-12T01:20:15.690Z,34.003,-116.7025,16.48,1.19,ml,42,67,0.05752,0.17,ci,ci40184586,2025-02-12T01:25:01.944Z,"12 km WSW of Morongo Valley, CA",earthquake,0.18,0.42,0.234,28,automatic,ci,ci
 2025-02-12T01:14:54.177Z,36.5596,25.5495,10,5.1,mww,95,39,1.377,1.02,us,us7000pd1i,2025-02-12T02:50:11.040Z,"18 km NE of Firá, Greece",earthquake,5.43,1.826,0.047,43,reviewed,us,us
 2025-02-12T01:12:40.921Z,36.6382,25.6917,10,4.2,mb,32,57,1.496,0.41,us,us7000pd1f,2025-02-12T01:28:21.040Z,"28 km SW of Amorgós, Greece",earthquake,3.85,1.906,0.105,25,reviewed,us,us
@@ -251,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T04:55:01.420Z,33.4133333,-118.0516667,2.72,2.3,ml,43,135,0.2334,0.24,ci,ci40184050,2025-02-11T21:43:40.548Z,"26 km SSW of Newport Beach, CA",earthquake,0.29,0.98,0.149,119,reviewed,ci,ci
 2025-02-11T04:54:26.490Z,35.2426667,-118.5231667,7.38,1.12,ml,25,51,0.09681,0.11,ci,ci40184042,2025-02-11T15:34:45.723Z,"14 km NNW of Tehachapi, CA",earthquake,0.17,0.56,0.214,21,reviewed,ci,ci
 2025-02-11T04:36:36.140Z,35.8708333,-117.6931667,7.84,1.81,ml,32,46,0.08438,0.19,ci,ci40184034,2025-02-11T18:49:29.350Z,"21 km ESE of Little Lake, CA",earthquake,0.19,0.58,0.188,24,reviewed,ci,ci
-2025-02-11T04:10:43.290Z,38.794998168945,-122.78099822998,3.4100000858307,1.29,md,30,76,0.005704,0.04,nc,nc75131542,2025-02-11T04:12:22.579Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.439999998,0.22,29,automatic,nc,nc
