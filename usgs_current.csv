@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T03:12:09.320Z,40.127334594727,-121.10916900635,-1.7999999523163,3.02,ml,53,72,0.2292,0.35,nc,nc75131997,2025-02-12T03:14:13.146Z,"6 km SW of Canyondam, CA",earthquake,0.4,2.45000005,0.262,14,automatic,nc,nc
 2025-02-12T02:59:45.227Z,36.5965,-116.267,7.8,0.3,ml,12,235.09,0.076,0.3105,nn,nn00893338,2025-02-12T03:01:31.862Z,"50 km NNW of Pahrump, Nevada",earthquake,,0.6,0.24,4,automatic,nn,nn
 2025-02-12T02:45:16.380Z,38.820331573486,-122.82183074951,2.0499999523163,0.75,md,7,127,0.00968,0.01,nc,nc75131987,2025-02-12T02:46:51.930Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.25999999,0.31,6,automatic,nc,nc
 2025-02-12T02:44:18.050Z,38.835334777832,-122.78500366211,1.8600000143051,0.85,md,7,95,0.005179,0.01,nc,nc75131982,2025-02-12T02:45:56.938Z,"6 km WNW of Cobb, CA",earthquake,0.69,1.91999996,0.18,7,automatic,nc,nc
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T02:34:39.157Z,59.9379,-152.6792,88.5,1.7,ml,,,,0.41,ak,ak0251z5i5t7,2025-02-12T02:36:42.325Z,"50 km WNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-12T02:29:31.720Z,38.854499816895,-122.6070022583,3.7999999523163,0.95,md,6,215,0.1295,0.08,nc,nc75131977,2025-02-12T02:31:06.935Z,"6 km S of Lower Lake, CA",earthquake,3.42,8.28999996,0.18,6,automatic,nc,nc
 2025-02-12T02:28:17.809Z,35.134,-97.5795,8.34,1.45,ml,48,78,0.07648499104,0.16,ok,ok2025cyxz,2025-02-12T03:08:42.756Z,"3 km N of Cole, Oklahoma",earthquake,,1,0.25,24,reviewed,ok,ok
-2025-02-12T02:23:11.063Z,36.4898,25.672,10,4.3,mb,48,86,1.357,1.13,us,us7000pd1v,2025-02-12T03:04:33.040Z,"22 km ENE of Mesariá, Greece",earthquake,4.82,1.892,0.089,36,reviewed,us,us
+2025-02-12T02:23:11.063Z,36.4898,25.672,10,4.3,mb,48,86,1.357,1.13,us,us7000pd1v,2025-02-12T03:15:14.164Z,"22 km ENE of Mesariá, Greece",earthquake,4.82,1.892,0.089,36,reviewed,us,us
 2025-02-12T02:14:20.402Z,36.5537,25.6297,10,4.5,mb,65,58,1.399,1.02,us,us7000pd1u,2025-02-12T02:44:45.040Z,"23 km NE of Firá, Greece",earthquake,5.14,1.728,0.077,49,reviewed,us,us
 2025-02-12T02:06:56.427Z,36.4722,25.6224,10,4.1,mb,32,105,1.323,1.22,us,us7000pd1t,2025-02-12T02:26:44.040Z,"17 km ENE of Mesariá, Greece",earthquake,3.53,1.938,0.117,20,reviewed,us,us
 2025-02-12T02:04:44.334Z,36.6572,-116.2653,7.8,0.8,ml,16,160.07,0.06,0.0682,nn,nn00893336,2025-02-12T02:06:42.092Z,"52 km ESE of Beatty, Nevada",earthquake,,0.7,0.14,10,automatic,nn,nn
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T03:36:28.093Z,39.1556,-119.048,5.8,1.1,ml,15,85.28,0.015,0.1458,nn,nn00893268,2025-02-11T19:47:42.949Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.42,5,reviewed,nn,nn
 2025-02-11T03:35:36.780Z,18.151,-66.821833333333,17.83,2.27,md,10,102,0.1399,0.25,pr,pr71472583,2025-02-11T03:51:57.080Z,"10 km W of Adjuntas, Puerto Rico",earthquake,0.61,0.98,0.10953658929663,6,reviewed,pr,pr
 2025-02-11T03:27:29.000Z,44.220666666667,-110.74516666667,1.81,0.88,md,10,96,0.06596,0.11,uu,uu80101991,2025-02-11T15:00:23.220Z,"47 km ENE of Warm River, Idaho",earthquake,0.52,31.61,0.29789667137115,9,reviewed,uu,uu
-2025-02-11T03:15:53.210Z,44.220166666667,-110.75616666667,2,0.97,md,10,95,0.06156,0.17,uu,uu80101986,2025-02-11T14:27:08.100Z,"46 km ENE of Warm River, Idaho",earthquake,0.56,31.61,0.23172841923731,10,reviewed,uu,uu
-2025-02-11T03:15:38.490Z,38.828498840332,-122.82150268555,1.75,0.27,md,8,115,0.01028,0.01,nc,nc75131517,2025-02-11T03:17:16.648Z,"8 km NNW of The Geysers, CA",earthquake,0.42,1.04999995,0.15,8,automatic,nc,nc
