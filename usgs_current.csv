@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-13T03:20:23.480Z,38.81600189209,-122.78366851807,1.1799999475479,1.03,md,16,93,0.003596,0.02,nc,nc75132607,2025-02-13T03:21:57.582Z,"5 km NNW of The Geysers, CA",earthquake,0.27,0.479999989,0.14,18,automatic,nc,nc
+2025-02-13T03:19:59.010Z,38.814167022705,-122.78333282471,1.1900000572205,2.15,md,52,45,0.002259,0.09,nc,nc75132602,2025-02-13T03:23:19.030Z,"5 km NNW of The Geysers, CA",earthquake,0.16,0.209999993,0.11,51,automatic,nc,nc
 2025-02-13T03:06:13.010Z,33.638,-116.6988333,13.29,0.76,ml,30,37,0.03723,0.16,ci,ci40185314,2025-02-13T03:11:34.710Z,"10 km NNW of Anza, CA",earthquake,0.22,0.39,0.204,21,automatic,ci,ci
 2025-02-13T03:02:12.247Z,59.8675,-152.2271,84.1,1.7,ml,,,,0.3,ak,ak02520tg0x4,2025-02-13T03:04:12.071Z,"24 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-13T02:53:39.170Z,38.824001312256,-122.78966522217,0.74000000953674,0.28,md,8,79,0.01282,0.01,nc,nc75132597,2025-02-13T02:55:13.449Z,"6 km WNW of Cobb, CA",earthquake,0.38,2.0999999,0.11,9,automatic,nc,nc
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T23:03:31.388Z,36.595,25.6504,9.847,4.3,mb,17,105,1.443,0.49,us,us7000pd9b,2025-02-12T23:14:26.040Z,"27 km NE of Firá, Greece",earthquake,6.51,5.448,0.129,17,reviewed,us,us
 2025-02-12T23:02:38.570Z,36.6469,25.662,10,4.3,mb,31,103,1.494,0.65,us,us7000pd9a,2025-02-12T23:12:52.040Z,"29 km SW of Amorgós, Greece",earthquake,5.56,1.925,0.099,29,reviewed,us,us
 2025-02-12T23:00:54.172Z,32.101,-101.477,4.1679,1.2,ml,10,80,0.1,0.4,tx,tx2025damr,2025-02-12T23:10:24.850Z,"10 km W of Forsan, Texas",earthquake,0,1.7998938560486,0.3,7,automatic,tx,tx
-2025-02-12T22:57:36.930Z,32.005,-102.22,4.9622,1.8,ml,7,142,0,0.3,tx,tx2025damo,2025-02-12T23:00:19.757Z,"13 km W of Midland, Texas",earthquake,0,2.4591422080994,0.2,6,automatic,tx,tx
+2025-02-12T22:57:36.930Z,32.005,-102.22,4.9622,1.8,ml,7,142,0,0.3,tx,tx2025damo,2025-02-13T03:25:24.843Z,"13 km W of Midland, Texas",earthquake,0,2.4591422080994,0.2,6,automatic,tx,tx
 2025-02-12T22:50:06.569Z,39.1553,-119.0421,6.6,1.2,ml,8,79.9,0.014,0.1007,nn,nn00893393,2025-02-12T22:52:27.622Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,4,automatic,nn,nn
 2025-02-12T22:14:25.580Z,33.4886667,-116.8898333,11.82,0.8,ml,23,56,0.01928,0.16,ci,ci40185170,2025-02-12T23:53:51.906Z,"6 km NNW of Aguanga, CA",earthquake,0.25,0.66,0.086,17,reviewed,ci,ci
 2025-02-12T22:11:11.990Z,35.908,-117.6946667,4.64,1.16,ml,23,41,0.05364,0.12,ci,ci40185162,2025-02-13T01:16:07.869Z,"19 km E of Little Lake, CA",earthquake,0.17,0.38,0.142,19,reviewed,ci,ci
@@ -246,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T03:34:34.920Z,57.037166666667,-135.74483333333,6.89,-0.29,ml,4,180,0.0206,0.13,av,av93497186,2025-02-12T20:59:13.600Z,"25 km W of Sitka, Alaska",earthquake,1.08,0.86,0.12739087182501,4,reviewed,av,av
 2025-02-12T03:28:57.690Z,38.771999359131,-122.73650360107,0.81999999284744,1.55,md,22,69,0.01122,0.04,nc,nc75132007,2025-02-12T03:30:33.414Z,"2 km ESE of The Geysers, CA",earthquake,0.22,0.349999994,0.12,24,automatic,nc,nc
 2025-02-12T03:28:37.290Z,38.768833333333,-122.732,0.87,0.26,md,10,72,0.009133,0.02,nc,nc75132002,2025-02-12T09:06:21.052Z,"2 km SE of The Geysers, CA",earthquake,0.31,0.56,0.17,6,reviewed,nc,nc
-2025-02-12T03:20:48.188Z,32.39,-101.609,7.9346,1.8,ml,32,63,0,0.1,tx,tx2025cyzt,2025-02-12T14:18:03.968Z,"18 km SSE of Ackerly, Texas",earthquake,0.36671234095622,0.80451619960074,0.2,25,reviewed,tx,tx
