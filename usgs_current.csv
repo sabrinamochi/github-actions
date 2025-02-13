@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-13T20:30:39.190Z,38.735832214355,-122.82466888428,29.760000228882,1.25,md,6,158,0.05507,0.05,nc,nc75132952,2025-02-13T20:32:13.905Z,"8 km WSW of The Geysers, CA",earthquake,2.91,3.96000004,0.17,5,automatic,nc,nc
 2025-02-13T20:25:31.377Z,62.7085,-151.5932,112.8,1.2,ml,,,,1.01,ak,ak025213pd5d,2025-02-13T20:27:35.391Z,"48 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-13T20:22:35.210Z,37.637832641602,-122.05899810791,-0.20999999344349,1.87,md,13,77,0.0807,0.1,nc,nc75132947,2025-02-13T20:24:14.757Z,"2 km ESE of Hayward, CA",earthquake,0.29,2.1500001,0.22,13,automatic,nc,nc
 2025-02-13T20:20:11.520Z,38.833999633789,-122.81300354004,2.1400001049042,0.88,md,8,147,0.01083,0.01,nc,nc75132942,2025-02-13T20:21:49.456Z,"8 km WNW of Cobb, CA",earthquake,0.53,1.30999994,0.23,8,automatic,nc,nc
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T20:00:59.519Z,64.5004,-146.8872,0.9,1.3,ml,,,,0.46,ak,ak025213k2f3,2025-02-13T20:02:36.717Z,"2 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-13T19:54:14.470Z,37.644832611084,-122.05850219727,6.1700000762939,3.19,ml,82,27,0.08318,0.21,nc,nc75132937,2025-02-13T20:30:42.598Z,"2 km E of Hayward, CA",earthquake,0.23,0.709999979,0.263,46,reviewed,nc,nc
 2025-02-13T19:52:13.840Z,37.649333953857,-122.05416870117,6.4099998474121,3.4,ml,82,27,0.08227,0.18,nc,nc75132932,2025-02-13T20:27:17.776Z,"2 km E of Hayward, CA",earthquake,0.19,0.639999986,0.249,69,reviewed,nc,nc
-2025-02-13T19:40:04.400Z,40.240833282471,-124.43116760254,17.889999389648,2.94,md,8,297,0.0828,0.12,nc,nc75132927,2025-02-13T20:07:17.646Z,"16 km WSW of Petrolia, CA",earthquake,2.93,0.949999988,0.16,6,automatic,nc,nc
+2025-02-13T19:40:04.400Z,40.240833282471,-124.43116760254,17.889999389648,2.94,md,8,297,0.0828,0.12,nc,nc75132927,2025-02-13T20:31:39.775Z,"16 km WSW of Petrolia, CA",earthquake,2.93,0.949999988,0.16,6,automatic,nc,nc
 2025-02-13T19:26:09.967Z,61.9576,-143.679,0,2.4,ml,,,,1.03,ak,ak02521343lw,2025-02-13T19:35:42.040Z,"57 km SW of Nabesna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-13T19:14:29.340Z,60.808,-152.0599,75.8,1.5,ml,,,,0.24,ak,ak0252131kie,2025-02-13T19:16:35.076Z,"44 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-13T19:13:57.437Z,31.675,-104.417,6.4331,1.9,ml,26,75,0,0.1,tx,tx2025dcax,2025-02-13T20:04:53.779Z,"55 km S of Whites City, New Mexico",earthquake,0.72963199763645,0.53162982915464,0.1,37,reviewed,tx,tx
@@ -215,7 +216,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T23:02:38.570Z,36.6469,25.662,10,4.3,mb,31,103,1.494,0.65,us,us7000pd9a,2025-02-12T23:12:52.040Z,"29 km SW of Amorgós, Greece",earthquake,5.56,1.925,0.099,29,reviewed,us,us
 2025-02-12T23:02:20.690Z,51.864,-177.92116666667,4.17,0.99,ml,5,174,0.05307,0.08,av,av93498031,2025-02-13T18:01:29.940Z,"88 km W of Adak, Alaska",earthquake,0.45,1.63,0.28508769562524,4,reviewed,av,av
 2025-02-12T23:00:54.560Z,32.096,-101.483,8.8623,1.1,ml,8,59,0.1,0.1,tx,tx2025damr,2025-02-13T13:54:01.896Z,"11 km W of Forsan, Texas",earthquake,1.7994435228885,2.1040085993545,0.1,6,reviewed,tx,tx
-2025-02-12T22:57:36.930Z,32.005,-102.22,4.9622,1.8,ml,7,142,0,0.3,tx,tx2025damo,2025-02-13T03:25:24.843Z,"13 km W of Midland, Texas",earthquake,0,2.4591422080994,0.2,6,automatic,tx,tx
 2025-02-12T22:50:06.569Z,39.1553,-119.0421,6.6,1.2,ml,8,79.9,0.014,0.1007,nn,nn00893393,2025-02-12T22:52:27.622Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,4,automatic,nn,nn
 2025-02-12T22:14:30.430Z,61.188,-152.25083333333,1.87,-0.9,ml,7,187,0.02366,0.08,av,av93032744,2025-02-13T17:47:21.050Z,"61 km WNW of Tyonek, Alaska",earthquake,0.4,0.67,0.20612258163598,7,reviewed,av,av
 2025-02-12T22:14:25.580Z,33.4886667,-116.8898333,11.82,0.8,ml,23,56,0.01928,0.16,ci,ci40185170,2025-02-12T23:53:51.906Z,"6 km NNW of Aguanga, CA",earthquake,0.25,0.66,0.086,17,reviewed,ci,ci
