@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-13T22:01:17.964Z,57.9715,-154.6443,59.1,1.4,ml,,,,0.22,ak,ak025214r250,2025-02-13T22:03:01.653Z,"46 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-13T21:59:16.690Z,37.648334503174,-122.05400085449,7.0300002098083,3.65,ml,98,27,0.08166,0.2,nc,nc75132987,2025-02-13T22:10:54.239Z,"2 km E of Hayward, CA",earthquake,0.19,0.689999998,0.245,84,reviewed,nc,nc
+2025-02-13T21:59:16.690Z,37.648334503174,-122.05400085449,7.0300002098083,3.65,ml,98,27,0.08166,0.2,nc,nc75132987,2025-02-13T22:12:58.040Z,"2 km E of Hayward, CA",earthquake,0.19,0.689999998,0.245,84,reviewed,nc,nc
 2025-02-13T21:20:55.491Z,-58.7595,-25.4745,57.816,4.8,mb,35,115,7.56,0.75,us,us7000pdi5,2025-02-13T21:59:31.040Z,"South Sandwich Islands region",earthquake,15.99,8.681,0.082,46,reviewed,us,us
 2025-02-13T21:13:03.845Z,61.9544,-143.4855,0,1.9,ml,,,,0.93,ak,ak025214861c,2025-02-13T21:15:01.587Z,"52 km SSW of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-13T21:10:31.001Z,61.9329,-143.7118,10,1.7,ml,,,,0.31,ak,ak0252147kzg,2025-02-13T21:12:34.626Z,"60 km NE of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T20:44:50.738Z,60.9651,-151.4303,61,1.4,ml,,,,0.26,ak,ak025213th8x,2025-02-13T20:46:24.923Z,"19 km SW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-13T20:30:39.190Z,38.735832214355,-122.82466888428,29.760000228882,1.25,md,6,158,0.05507,0.05,nc,nc75132952,2025-02-13T20:32:13.905Z,"8 km WSW of The Geysers, CA",earthquake,2.91,3.96000004,0.17,5,automatic,nc,nc
 2025-02-13T20:25:31.377Z,62.7085,-151.5932,112.8,1.2,ml,,,,1.01,ak,ak025213pd5d,2025-02-13T20:27:35.391Z,"48 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-13T20:22:35.210Z,37.637832641602,-122.05899810791,-0.20999999344349,1.87,md,13,77,0.0807,0.1,nc,nc75132947,2025-02-13T21:19:08.652Z,"2 km ESE of Hayward, CA",earthquake,0.29,2.1500001,0.22,13,automatic,nc,nc
+2025-02-13T20:22:35.210Z,37.637832641602,-122.05899810791,-0.20999999344349,1.87,md,13,77,0.0807,0.1,nc,nc75132947,2025-02-13T22:14:47.259Z,"2 km ESE of Hayward, CA",earthquake,0.29,2.1500001,0.22,13,automatic,nc,nc
 2025-02-13T20:20:11.520Z,38.833999633789,-122.81300354004,2.1400001049042,0.88,md,8,147,0.01083,0.01,nc,nc75132942,2025-02-13T20:21:49.456Z,"8 km WNW of Cobb, CA",earthquake,0.53,1.30999994,0.23,8,automatic,nc,nc
 2025-02-13T20:05:02.230Z,60.4507,-143.2609,10.3,1.8,ml,,,,0.84,ak,ak025213l0kv,2025-02-13T20:07:48.339Z,"111 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-13T20:02:00.280Z,46.0155,-112.46033333333,-2,1.88,ml,16,74,0.06547,0.14,mb,mb90072473,2025-02-13T20:49:15.210Z,"5 km ENE of Butte, Montana",quarry blast,0.35,31.61,0.26321209804116,32,reviewed,mb,mb
@@ -239,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T23:02:20.690Z,51.864,-177.92116666667,4.17,0.99,ml,5,174,0.05307,0.08,av,av93498031,2025-02-13T18:01:29.940Z,"88 km W of Adak, Alaska",earthquake,0.45,1.63,0.28508769562524,4,reviewed,av,av
 2025-02-12T23:00:54.560Z,32.096,-101.483,8.8623,1.1,ml,8,59,0.1,0.1,tx,tx2025damr,2025-02-13T13:54:01.896Z,"11 km W of Forsan, Texas",earthquake,1.7994435228885,2.1040085993545,0.1,6,reviewed,tx,tx
 2025-02-12T22:50:06.569Z,39.1553,-119.0421,6.6,1.2,ml,8,79.9,0.014,0.1007,nn,nn00893393,2025-02-12T22:52:27.622Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,4,automatic,nn,nn
-2025-02-12T22:14:30.430Z,61.188,-152.25083333333,1.87,-0.9,ml,7,187,0.02366,0.08,av,av93032744,2025-02-13T17:47:21.050Z,"61 km WNW of Tyonek, Alaska",earthquake,0.4,0.67,0.20612258163598,7,reviewed,av,av
-2025-02-12T22:14:25.580Z,33.4886667,-116.8898333,11.82,0.8,ml,23,56,0.01928,0.16,ci,ci40185170,2025-02-12T23:53:51.906Z,"6 km NNW of Aguanga, CA",earthquake,0.25,0.66,0.086,17,reviewed,ci,ci
