@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-14T22:09:31.860Z,38.777500152588,-122.7054977417,2.0699999332428,1.07,md,8,195,0.0105,0.02,nc,nc75133557,2025-02-14T22:11:06.779Z,"1 km WNW of Anderson Springs, CA",earthquake,0.72,1.04999995,0.1,8,automatic,nc,nc
+2025-02-14T22:03:47.430Z,38.74666595459,-122.71199798584,1.3700000047684,1.87,md,22,86,0.01798,0.05,nc,nc75133542,2025-02-14T22:05:22.972Z,"4 km SW of Anderson Springs, CA",earthquake,0.28,0.370000005,0.06,23,automatic,nc,nc
+2025-02-14T22:02:44.370Z,38.824333190918,-122.85099792481,2.210000038147,0.21,md,8,100,0.005599,0.01,nc,nc75133537,2025-02-14T22:04:22.765Z,"10 km NW of The Geysers, CA",earthquake,0.45,1.09000003,0.08,7,automatic,nc,nc
 2025-02-14T21:47:00.855Z,63.3338,-147.8333,36.6,1.5,ml,,,,1.3,ak,ak02522rysn9,2025-02-14T21:48:42.315Z,"56 km E of Cantwell, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-02-14T21:19:22.326Z,37.544,-117.873,2.9,1.1,ml,7,201.86,0.193,0.1189,nn,nn00893495,2025-02-14T21:50:16.947Z,"21 km SE of Dyer, Nevada",earthquake,,5.5,0.87,3,reviewed,nn,nn
 2025-02-14T21:06:41.250Z,34.1613333,-117.2661667,7.6,1.12,ml,32,42,0.0575,0.18,ci,ci40186090,2025-02-14T21:14:10.402Z,"4 km NE of San Bernardino, CA",earthquake,0.21,0.64,0.157,32,automatic,ci,ci
@@ -53,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T17:24:08.380Z,38.836166381836,-122.81700134277,1.8899999856949,0.23,md,11,65,0.01385,0.01,nc,nc75133342,2025-02-14T17:25:47.289Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.689999998,0.06,10,automatic,nc,nc
 2025-02-14T17:17:50.870Z,38.775665283203,-122.85250091553,14.989999771118,0.84,md,12,205,0.04065,0.1,nc,nc75133332,2025-02-14T17:19:27.401Z,"8 km W of The Geysers, CA",earthquake,1.5,1.77999997,0.12,12,automatic,nc,nc
 2025-02-14T17:11:46.890Z,36.1855,-118.0325,1.57,1.61,ml,19,56,0.1589,0.18,ci,ci40186026,2025-02-14T18:03:38.789Z,"11 km SSW of Olancha, CA",earthquake,0.25,1.08,0.182,28,reviewed,ci,ci
+2025-02-14T17:07:59.112Z,-39.8901,174.9615,73.85,4.5,mb,18,77,0.903,0.75,us,us7000pdpt,2025-02-14T22:03:20.040Z,"8 km WNW of Whanganui, New Zealand",earthquake,3.07,11.837,0.312,4,reviewed,us,us
 2025-02-14T17:05:53.612Z,32.418,-102.128,7.8857,1.2,ml,9,86,0,0.1,tx,tx2025ddsm,2025-02-14T17:42:12.085Z,"38 km SSW of Los Ybanez, Texas",earthquake,0.93205986837856,0.69194641891355,0.2,13,reviewed,tx,tx
 2025-02-14T17:05:03.180Z,38.729667663574,-122.81099700928,6.9299998283386,1.08,md,10,211,0.04604,0.08,nc,nc75133322,2025-02-14T17:06:41.333Z,"7 km SW of The Geysers, CA",earthquake,1.41,2.27999997,0.29,11,automatic,nc,nc
 2025-02-14T17:04:06.162Z,31.567,-104.182,6.792,1.8,ml,18,69,0,0.2,tx,tx2025ddry,2025-02-14T17:10:15.840Z,"46 km NW of Toyah, Texas",earthquake,0.62626334509083,0.61997444938402,0.2,7,reviewed,tx,tx
@@ -97,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T12:33:45.380Z,19.1635,-64.7141,28,3.61,md,15,302,0.8465,0.37,pr,pr2025045000,2025-02-14T13:06:58.259Z,"92 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.9,23.47,0.1,9,reviewed,pr,pr
 2025-02-14T12:33:31.119Z,61.7371,-149.7798,35,1.6,ml,,,,0.41,ak,ak02522miyif,2025-02-14T12:35:06.545Z,"12 km N of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-14T12:28:33.993Z,-7.3394,105.6007,56.324,5.1,mb,73,70,1.557,0.94,us,us7000pdl8,2025-02-14T13:21:15.028Z,"109 km SSW of Labuan, Indonesia",earthquake,7.82,6.35,0.073,60,reviewed,us,us
-2025-02-14T11:53:50.690Z,61.317833333333,-152.253,1.22,-0.17,ml,6,180,0.07069,0.07,av,av93499931,2025-02-14T22:01:58.240Z,"65 km WNW of Beluga, Alaska",earthquake,0.48,1.64,0.20881443133208,7,reviewed,av,av
+2025-02-14T11:53:50.780Z,61.313333333333,-152.2565,0.76,-0.37,ml,7,122,0.06861,0.09,av,av93499931,2025-02-14T22:10:56.960Z,"65 km WNW of Beluga, Alaska",earthquake,0.32,1.91,0.35874385119341,8,reviewed,av,av
 2025-02-14T11:51:34.360Z,18.062666666667,-66.254166666667,28.92,2.3,md,6,149,0.1703,0.21,pr,pr71472723,2025-02-14T12:31:42.390Z,"1 km WSW of Vázquez, Puerto Rico",earthquake,0.97,2.01,0.12648383472536,4,reviewed,pr,pr
 2025-02-14T11:27:33.048Z,68.7862,-145.3874,0,1.9,ml,,,,1.34,ak,ak02522lw8re,2025-02-14T11:30:43.654Z,"73 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-14T11:14:38.130Z,60.8917,-150.8065,54.1,1.4,ml,,,,0.15,ak,ak02522ltgud,2025-02-14T11:16:23.860Z,"7 km WSW of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
