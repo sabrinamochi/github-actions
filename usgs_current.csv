@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-17T22:10:07.220Z,37.3525,-117.1486,2.1,1.6,ml,21,188.36,0.103,0.3798,nn,nn00893606,2025-02-17T22:12:40.939Z,"40 km S of Goldfield, Nevada",earthquake,,1.6,0.2,15,automatic,nn,nn
+2025-02-17T22:07:23.637Z,31.623,-104.505,4.0771,1.9,ml,18,150,0,0.3,tx,tx2025djol,2025-02-17T22:14:03.134Z,"62 km S of Whites City, New Mexico",earthquake,0,1.6660500764847,0.1,13,automatic,tx,tx
 2025-02-17T22:03:29.140Z,38.840831756592,-122.82583618164,1.6499999761581,0.76,md,6,136,0.007863,0.01,nc,nc75135352,2025-02-17T22:05:08.273Z,"9 km WNW of Cobb, CA",earthquake,0.43,1.42999995,0.22,8,automatic,nc,nc
 2025-02-17T21:34:25.372Z,62.8425,-149.5865,63.1,1.7,ml,,,,0.94,ak,ak02527qi3pl,2025-02-17T21:36:23.559Z,"51 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-17T21:05:40.193Z,65.9792,-149.7915,6.8,1.6,ml,,,,0.59,ak,ak02527qbx37,2025-02-17T21:08:15.742Z,"31 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -180,6 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T03:51:15.410Z,38.8175,-122.823,2.82,0.23,md,14,64,0.009879,0.03,nc,nc75135007,2025-02-17T08:38:28.522Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.44,0.329,17,reviewed,nc,nc
 2025-02-17T03:50:41.140Z,38.841667175293,-122.82283020019,0.050000000745058,0.19,md,7,148,0.01035,0.03,nc,nc75135002,2025-02-17T03:52:16.297Z,"9 km WNW of Cobb, CA",earthquake,0.56,0.629999995,0.08,7,automatic,nc,nc
 2025-02-17T03:48:46.270Z,33.921,-118.6616667,11.03,2.66,ml,120,142,0.1466,0.25,ci,ci40187394,2025-02-17T18:43:40.454Z,"13 km S of Malibu Beach, CA",earthquake,0.24,0.39,0.195,26,automatic,ci,ci
+2025-02-17T03:39:36.850Z,61.3095,-152.2715,0.09,-0.31,ml,7,121,0.07017,0.07,av,av93502686,2025-02-17T22:14:39.360Z,"66 km WNW of Beluga, Alaska",earthquake,0.26,2.21,0.14085409224389,8,reviewed,av,av
 2025-02-17T03:31:28.670Z,61.310833333333,-152.30916666667,2.34,-0.28,ml,5,270,0.06019,0.15,av,av93502681,2025-02-17T22:10:28.140Z,"68 km WNW of Beluga, Alaska",earthquake,0.84,2.72,0.051965329222562,5,reviewed,av,av
 2025-02-17T03:25:49.890Z,38.820167541504,-122.82316589356,2,0.75,md,9,81,0.009724,0.01,nc,nc75134992,2025-02-17T03:27:28.230Z,"7 km NW of The Geysers, CA",earthquake,0.38,1.09000003,0.15,9,automatic,nc,nc
 2025-02-17T03:23:03.690Z,61.429666666667,-151.63133333333,15.11,0.24,ml,9,216,0.1195,0.23,av,av93502671,2025-02-17T21:59:09.960Z,"43 km NW of Beluga, Alaska",earthquake,2.65,2.5,0.26261305147032,9,reviewed,av,av
@@ -234,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T22:29:25.870Z,33.8865,-116.9091667,11.11,0.97,ml,38,36,0.06884,0.17,ci,ci40187242,2025-02-16T22:33:29.074Z,"5 km SW of Banning, CA",earthquake,0.2,0.74,0.202,29,automatic,ci,ci
 2025-02-16T22:26:04.360Z,38.796001434326,-122.77966308594,3.460000038147,0.71,md,18,80,0.00704,0.02,nc,nc75134882,2025-02-16T22:27:41.050Z,"3 km NNW of The Geysers, CA",earthquake,0.32,0.74000001,0.29,18,automatic,nc,nc
 2025-02-16T22:16:39.270Z,37.012,-104.9068,4.046,2.2,ml,9,74,0.148,0.69,us,us7000pe5k,2025-02-16T22:58:47.040Z,"14 km SSW of Weston, Colorado",earthquake,1.75,5.754,0.085,18,reviewed,us,us
-2025-02-16T22:14:12.710Z,38.817832946777,-122.76433563232,1.6900000572205,0.78,md,13,111,0.01335,0.02,nc,nc75134877,2025-02-16T22:15:50.872Z,"4 km W of Cobb, CA",earthquake,0.27,0.449999988,0.15,15,automatic,nc,nc
