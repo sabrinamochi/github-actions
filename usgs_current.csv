@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T20:01:20.600Z,17.959166666667,-66.835333333333,14.61,2.48,md,12,204,0.0447,0.11,pr,pr71472963,2025-02-17T20:27:22.130Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.54,0.51,0.1582409750979,6,reviewed,pr,pr
 2025-02-17T19:56:26.127Z,13.7486,-90.7645,80.799,4.4,mb,46,155,0.82,1.01,us,us7000pebq,2025-02-17T20:27:36.040Z,"20 km SSE of Puerto San José, Guatemala",earthquake,7.07,8.24,0.072,55,reviewed,us,us
 2025-02-17T19:45:31.244Z,31.59,-104.525,4.3613,1.4,ml,17,157,0.1,0.5,tx,tx2025djjr,2025-02-17T20:08:59.829Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.6925719976425,0.1,13,automatic,tx,tx
-2025-02-17T19:45:06.059Z,31.564,-104.526,3.5501,1.6,ml,5,166,0.1,0.1,tx,tx2025djjt,2025-02-17T20:09:50.827Z,"64 km NNE of Van Horn, Texas",earthquake,0,3.8112664222717,0.2,5,automatic,tx,tx
+2025-02-17T19:45:06.039Z,31.602,-104.569,3.5814,1.5,ml,5,190,0.1,0.1,tx,tx2025djjt,2025-02-17T20:31:43.049Z,"66 km SSW of Whites City, New Mexico",earthquake,0,4.2617878913879,0.2,5,automatic,tx,tx
 2025-02-17T19:32:15.996Z,55.3463,-161.8329,118.918,3.3,ml,26,180,1.035,1.05,us,us7000pebl,2025-02-17T19:46:11.295Z,"44 km NE of King Cove, Alaska",earthquake,9.2,13.795,0.074,24,reviewed,us,us
 2025-02-17T19:22:48.190Z,19.056999206543,-155.3561706543,32.389999389648,2.6,ml,58,208,0.1401,0.129999995,hv,hv74617917,2025-02-17T19:36:52.040Z,"20 km SE of Pāhala, Hawaii",earthquake,0.45,0.680000007,0.28,39,automatic,hv,hv
 2025-02-17T19:18:20.132Z,-17.6714,-178.6833,542.45,4.6,mb,65,77,2.208,0.8,us,us7000pebj,2025-02-17T19:34:03.040Z,"216 km ENE of Levuka, Fiji",earthquake,12.99,8.364,0.054,103,reviewed,us,us
@@ -20,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T18:40:42.020Z,60.8115,-150.7835,15.5,1.7,ml,,,,0.4,ak,ak02527or4h6,2025-02-17T18:42:45.702Z,"13 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T18:33:57.378Z,63.5435,-148.7788,8.5,1.7,ml,,,,0.5,ak,ak02527opnnd,2025-02-17T18:36:33.511Z,"18 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T18:29:43.339Z,60.5197,-145.3237,17.2,1.4,ml,,,,0.45,ak,ak02527oorp9,2025-02-17T18:32:07.909Z,"24 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-17T18:27:06.566Z,31.287,-103.354,4.1003,2,ml,13,79,0,0.1,tx,tx2025djhe,2025-02-17T20:32:47.956Z,"19 km S of Barstow, Texas",earthquake,0.9087751024604,1.632326177269,0.2,23,reviewed,tx,tx
 2025-02-17T18:25:51.807Z,72.1748,-159.4952,10,3.8,mb,29,100,3.086,0.54,us,us7000peb9,2025-02-17T19:35:10.740Z,"136 km NW of Barrow, Alaska",earthquake,9.02,1.93,0.228,5,reviewed,us,us
 2025-02-17T18:20:42.272Z,32.365,-101.984,0.2335,1.1,ml,6,265,0,0.3,tx,tx2025djgy,2025-02-17T18:30:17.242Z,"30 km SW of Ackerly, Texas",earthquake,0,9.0718364715576,0.2,8,automatic,tx,tx
 2025-02-17T18:03:29.068Z,-6.2738,128.361,338.534,4.2,mb,35,56,2.321,0.51,us,us7000peb1,2025-02-17T18:22:27.040Z,"285 km S of Ambon, Indonesia",earthquake,8.86,8.008,0.113,22,reviewed,us,us
@@ -186,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T01:57:30.710Z,35.3889999,-117.7519989,6.9,1.86,ml,31,42,0.1069,0.14,ci,ci40187362,2025-02-17T02:07:50.150Z,"11 km W of Johannesburg, CA",earthquake,0.23,0.83,0.259,25,automatic,ci,ci
 2025-02-17T01:56:54.836Z,45.8412,-69.0861,10.602,2.5,mb_lg,20,63,0.515,0.3,us,us7000pe69,2025-02-17T18:02:36.773Z,"35 km NW of Millinocket, Maine",earthquake,1.97,8.504,0.295,3,reviewed,us,us
 2025-02-17T01:44:28.300Z,38.783164978027,-122.76483154297,3.539999961853,1.09,md,26,75,0.01245,0.04,nc,nc75134967,2025-02-17T01:46:07.715Z,"1 km NW of The Geysers, CA",earthquake,0.3,0.600000024,0.11,25,automatic,nc,nc
+2025-02-17T01:27:26.380Z,58.193,-155.25883333333,2.72,1.03,ml,9,134,0.07855,0.06,av,av93502551,2025-02-17T20:31:40.180Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.39,0.35395008315233,9,reviewed,av,av
 2025-02-17T01:25:57.020Z,58.195666666667,-155.25883333333,2.5,0.15,ml,9,132,0.03939,0.07,av,av93502546,2025-02-17T20:27:19.920Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.5,0.30445733772863,9,reviewed,av,av
 2025-02-17T01:17:05.100Z,35.7061653,-117.5131683,4.23,1.45,ml,22,74,0.08356,0.12,ci,ci40187330,2025-02-17T01:27:36.690Z,"12 km SW of Searles Valley, CA",earthquake,0.36,1.11,0.382,10,automatic,ci,ci
 2025-02-17T00:53:10.520Z,36.4815,-115.7972,8.1,1.1,ml,23,160.22,0.224,0.1425,nn,nn00893579,2025-02-17T00:55:13.216Z,"14 km SW of Indian Springs, Nevada",earthquake,,2.3,0.32,13,automatic,nn,nn
