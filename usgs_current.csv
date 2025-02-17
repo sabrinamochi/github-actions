@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-17T10:20:11.490Z,35.6986667,-117.527,4.21,0.51,ml,14,127,0.09051,0.1,ci,ci40187490,2025-02-17T10:23:41.690Z,"14 km SW of Searles Valley, CA",earthquake,0.25,0.75,0.276,6,automatic,ci,ci
 2025-02-17T10:11:37.660Z,32.6198333,-117.1173333,11.87,0.97,ml,25,142,0.05141,0.16,ci,ci40187482,2025-02-17T10:15:51.454Z,"4 km N of Imperial Beach, CA",earthquake,0.33,0.49,0.162,11,automatic,ci,ci
-2025-02-17T10:10:32.635Z,31.665,-104.481,8.3743,2,ml,8,75,0,0.3,tx,tx2025diqu,2025-02-17T10:26:10.007Z,"57 km S of Whites City, New Mexico",earthquake,0,3.6681320667267,0.1,6,automatic,tx,tx
+2025-02-17T10:10:32.957Z,31.667,-104.511,3.7494,1.9,ml,15,153,0.1,0.4,tx,tx2025diqu,2025-02-17T10:35:24.065Z,"57 km SSW of Whites City, New Mexico",earthquake,0,1.7411246299744,0.1,13,automatic,tx,tx
 2025-02-17T10:10:03.644Z,63.1167,-150.6171,112.3,1.4,ml,,,,0.16,ak,ak02527jt570,2025-02-17T10:12:18.902Z,"69 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-17T10:06:13.910Z,35.6466675,-117.6126633,11.14,1.14,ml,12,111,0.1012,0.14,ci,ci40187474,2025-02-17T10:08:17.972Z,"6 km ENE of Ridgecrest, CA",earthquake,0.5,0.93,0.131,4,automatic,ci,ci
 2025-02-17T10:02:19.350Z,40.354999542236,-125.07233428955,2.2000000476837,2.76,md,23,288,0.5619,0.35,nc,nc75135122,2025-02-17T10:22:19.088Z,"67 km WNW of Petrolia, CA",earthquake,12.49,13.3500004,0.13,15,automatic,nc,nc
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T09:53:20.430Z,38.840167999268,-122.82483673096,2.2999999523163,0.28,md,9,104,0.008466,0.01,nc,nc75135117,2025-02-17T09:54:57.315Z,"9 km WNW of Cobb, CA",earthquake,0.51,1.09000003,0.15,10,automatic,nc,nc
 2025-02-17T09:52:33.370Z,36.018501281738,-120.0308303833,10.640000343323,2.08,md,22,136,0.09974,0.2,nc,nc75135112,2025-02-17T09:54:12.763Z,"6 km WNW of Kettleman City, CA",earthquake,0.56,0.75999999,0.13,12,automatic,nc,nc
 2025-02-17T09:31:11.900Z,60.0863,-152.6306,99.6,1.8,ml,,,,0.62,ak,ak02527jc89i,2025-02-17T09:34:14.619Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-17T09:25:48.900Z,38.761665344238,-122.79399871826,14.229999542236,0.44,md,7,217,0.02387,0.05,nc,nc75135097,2025-02-17T09:27:26.052Z,"4 km WSW of The Geysers, CA",earthquake,1.93,5.23000002,0.14,6,automatic,nc,nc
+2025-02-17T09:25:50.850Z,38.7935,-122.7525,1.48,0.43,md,21,89,0.009076,0.03,nc,nc75135097,2025-02-17T10:35:06.620Z,"2 km NNE of The Geysers, CA",earthquake,0.19,0.32,0.23,16,reviewed,nc,nc
 2025-02-17T09:25:08.180Z,38.817665100098,-122.82483673096,1.9700000286102,0.77,md,7,119,0.009416,0.01,nc,nc75135092,2025-02-17T09:26:47.218Z,"7 km NW of The Geysers, CA",earthquake,0.84,1.79999995,0.22,9,automatic,nc,nc
 2025-02-17T09:24:08.357Z,61.3103,-152.2513,0.1,0.3,ml,,,,0.19,ak,ak02527japz7,2025-02-17T09:26:03.079Z,"65 km WNW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-02-17T09:22:20.354Z,61.2926,-152.2785,5.3,1.3,ml,,,,0.23,ak,ak02527jabgz,2025-02-17T09:24:05.108Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T10:58:21.160Z,39.750833333333,-122.927,-1.04,2.41,md,57,30,0.1024,0.21,nc,nc75134612,2025-02-16T19:22:17.096Z,"20 km NW of Alder Springs, CA",earthquake,0.2,0.56,0.158,44,reviewed,nc,nc
 2025-02-16T10:50:06.770Z,18.572833333333,-66.830833333333,11.14,3,md,22,219,0.1329,0.23,pr,pr71472863,2025-02-16T11:22:27.440Z,"9 km N of Hatillo, Puerto Rico",earthquake,0.44,0.46,0.12223135098455,13,reviewed,pr,pr
 2025-02-16T10:38:08.920Z,35.7101669,-117.581337,9.62,1.1,ml,16,84,0.136,0.11,ci,ci40186914,2025-02-16T10:40:12.005Z,"13 km NE of Ridgecrest, CA",earthquake,0.44,1.22,0.199,7,automatic,ci,ci
-2025-02-16T10:36:23.460Z,38.818000793457,-122.76650238037,1.8999999761581,0.82,md,12,104,0.01205,0.02,nc,nc75134602,2025-02-16T10:38:00.218Z,"4 km W of Cobb, CA",earthquake,0.28,0.540000021,0.22,12,automatic,nc,nc
