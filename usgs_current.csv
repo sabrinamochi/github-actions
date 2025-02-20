@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-20T14:32:03.670Z,33.8256683,-116.7553329,15.65,2.26,ml,84,28,0.03587,0.18,ci,ci40189698,2025-02-20T14:34:10.863Z,"10 km NNW of Idyllwild, CA",earthquake,0.17,0.4,0.308,23,automatic,ci,ci
 2025-02-20T14:22:44.150Z,34.421,-119.438,9.3,1.46,ml,27,99,0.06785,0.21,ci,ci40189682,2025-02-20T14:26:52.236Z,"8 km ENE of Carpinteria, CA",earthquake,0.29,0.92,0.157,30,automatic,ci,ci
 2025-02-20T14:05:49.023Z,63.2204,-150.6823,126.9,1.9,ml,,,,0.16,ak,ak0252ckry0m,2025-02-20T14:08:19.919Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-20T14:02:16.905Z,60.9501,-151.2244,54.7,1.5,ml,,,,0.41,ak,ak0252ckr8d6,2025-02-20T14:04:24.658Z,"13 km SSW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T10:10:54.410Z,33.7331667,-115.9795,2.33,1.71,ml,57,37,0.0783,0.18,ci,ci40189610,2025-02-20T10:21:51.070Z,"18 km NE of Thermal, CA",earthquake,0.15,0.31,0.144,27,automatic,ci,ci
 2025-02-20T10:10:18.430Z,38.818000793457,-122.84366607666,2.3399999141693,0.44,md,9,95,0.008462,0.02,nc,nc75136502,2025-02-20T10:11:54.983Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.920000017,0.31,11,automatic,nc,nc
 2025-02-20T10:08:19.233Z,31.633,-104.483,6.1284,1.6,ml,15,129,0,0.3,tx,tx2025dodf,2025-02-20T10:17:09.014Z,"61 km S of Whites City, New Mexico",earthquake,0,4.3867001533508,0.1,13,automatic,tx,tx
-2025-02-20T10:06:34.248Z,32.401,-102.047,6.438,1.2,ml,33,81,0.1,0.3,tx,tx2025dode,2025-02-20T10:16:55.020Z,"34 km WSW of Ackerly, Texas",earthquake,0,1.5258702039719,0.1,23,automatic,tx,tx
+2025-02-20T10:06:34.930Z,32.404,-102.054,8.7402,1.3,ml,29,83,0,0.1,tx,tx2025dode,2025-02-20T14:33:52.989Z,"34 km WSW of Ackerly, Texas",earthquake,0.4336548612378,0.51026570236819,0.1,25,reviewed,tx,tx
 2025-02-20T10:03:58.890Z,0.3967,121.9649,148.828,4.9,mb,54,77,1.38,0.85,us,us7000pex6,2025-02-20T10:18:56.040Z,"123 km W of Gorontalo, Indonesia",earthquake,5.62,7.04,0.09,39,reviewed,us,us
 2025-02-20T10:00:52.641Z,32.09,-101.639,6.0791,2.3,ml,36,82,0,0.1,tx,tx2025docz,2025-02-20T13:27:42.244Z,"14 km ESE of Stanton, Texas",earthquake,0.31685516228332,1.3513364911152,0.2,36,reviewed,tx,tx
 2025-02-20T10:00:29.071Z,62.3928,-149.4957,49.1,1.6,ml,,,,0.48,ak,ak0252cid3h7,2025-02-20T10:03:00.898Z,"31 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T14:39:40.050Z,47.666666666667,-113.69016666667,0.01,0.91,ml,7,163,0.1312,0.06,mb,mb90072733,2025-02-19T15:20:33.190Z,"15 km N of Condon, Montana",earthquake,0.35,1.09,0.2664563250208,4,reviewed,mb,mb
 2025-02-19T14:38:22.710Z,38.785499572754,-122.77033233643,-0.81999999284744,0.97,md,6,120,0.01519,0.09,nc,nc75136122,2025-02-19T14:39:59.419Z,"2 km NW of The Geysers, CA",earthquake,0.44,4.51999998,0.13,8,automatic,nc,nc
 2025-02-19T14:36:03.321Z,60.8754,-151.5499,65.3,2.4,ml,,,,0.25,ak,ak0252axf570,2025-02-19T14:37:34.901Z,"25 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-19T14:35:15.760Z,33.4653333,-116.9375,13.24,1.03,ml,56,23,0.02731,0.21,ci,ci40188914,2025-02-19T18:19:45.980Z,"7 km WNW of Aguanga, CA",earthquake,0.2,0.44,0.218,27,reviewed,ci,ci
