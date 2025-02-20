@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-20T15:55:09.990Z,38.785831451416,-122.76599884033,3.25,1.06,md,14,76,0.01509,0.02,nc,nc75136617,2025-02-20T15:56:46.473Z,"1 km NNW of The Geysers, CA",earthquake,0.32,0.790000021,0.28,14,automatic,nc,nc
 2025-02-20T15:42:57.920Z,38.80583190918,-122.77966308594,2.5,0.77,md,8,91,0.007459,0.01,nc,nc75136612,2025-02-20T15:44:36.426Z,"4 km NNW of The Geysers, CA",earthquake,0.64,1.20000005,0.16,9,automatic,nc,nc
 2025-02-20T15:38:30.510Z,36.888668060303,-121.48683166504,7.4299998283386,1.49,md,14,84,0.006042,0.09,nc,nc75136607,2025-02-20T15:40:06.490Z,"7 km NE of San Juan Bautista, CA",earthquake,0.4,0.74000001,0.27,12,automatic,nc,nc
 2025-02-20T15:36:26.770Z,38.823665618896,-122.78649902344,0.77999997138977,1.1,md,20,41,0.01134,0.03,nc,nc75136602,2025-02-20T15:38:01.649Z,"5 km WNW of Cobb, CA",earthquake,0.18,0.330000013,0.17,19,automatic,nc,nc
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T14:22:44.150Z,34.421,-119.438,9.3,1.46,ml,27,99,0.06785,0.21,ci,ci40189682,2025-02-20T14:26:52.236Z,"8 km ENE of Carpinteria, CA",earthquake,0.29,0.92,0.157,30,automatic,ci,ci
 2025-02-20T14:05:49.023Z,63.2204,-150.6823,126.9,1.9,ml,,,,0.16,ak,ak0252ckry0m,2025-02-20T14:08:19.919Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-20T14:02:16.905Z,60.9501,-151.2244,54.7,1.5,ml,,,,0.41,ak,ak0252ckr8d6,2025-02-20T14:04:24.658Z,"13 km SSW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-02-20T13:58:54.702Z,32.437,-102.064,8.9497,1.1,ml,10,150,0,0.3,tx,tx2025dokv,2025-02-20T14:04:49.327Z,"34 km SSW of Los Ybanez, Texas",earthquake,0,3.2089972496033,0.2,8,automatic,tx,tx
+2025-02-20T13:58:56.045Z,32.437,-102.067,8.252,1.2,ml,11,75,0,0.1,tx,tx2025dokv,2025-02-20T15:56:26.505Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.80624064235098,1.0163697972703,0.1,8,reviewed,tx,tx
 2025-02-20T13:41:01.884Z,63.7643,-146.4518,19.1,1.4,ml,,,,0.6,ak,ak0252cke4jw,2025-02-20T13:43:03.013Z,"46 km SW of Delta Junction, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-20T13:31:06.350Z,38.414665222168,-122.57499694824,3.670000076294,1.75,md,19,79,0.06578,0.08,nc,nc75136572,2025-02-20T13:32:44.428Z,"3 km WNW of Kenwood, CA",earthquake,0.26,1.11000001,0.18,18,automatic,nc,nc
 2025-02-20T13:10:52.030Z,33.4688333,-116.4785,7.44,0.74,ml,37,63,0.1066,0.18,ci,ci40189666,2025-02-20T13:15:46.853Z,"20 km ESE of Anza, CA",earthquake,0.2,0.84,0.184,22,automatic,ci,ci
@@ -91,6 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T04:36:49.933Z,-33.4049,-178.9117,52.813,5,mb,27,166,4.216,1.27,us,us7000pew5,2025-02-20T04:56:46.040Z,"south of the Kermadec Islands",earthquake,12.84,10.876,0.118,23,reviewed,us,us
 2025-02-20T04:25:19.340Z,47.7915,-114.32183333333,1.56,0.52,ml,6,132,0.05212,0.06,mb,mb90072923,2025-02-20T15:21:18.170Z,"2 km WSW of Big Arm, Montana",earthquake,0.37,0.75,0.2661178944574,3,reviewed,mb,mb
 2025-02-20T04:06:04.513Z,63.9546,-145.6148,0,2,ml,,,,0.88,ak,ak0252cetq8z,2025-02-20T04:08:12.705Z,"2 km NW of Fort Greely, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-20T04:05:35.020Z,44.444166666667,-112.90483333333,7.06,0.77,ml,12,114,0.1168,0.17,mb,mb90072948,2025-02-20T15:52:57.180Z,"32 km SW of Lima, Montana",earthquake,0.64,1.63,0.29493767984314,8,reviewed,mb,mb
 2025-02-20T04:05:30.286Z,65.417,-148.235,10.4,3.1,ml,,,,0.65,ak,ak0252cetkis,2025-02-20T04:22:15.040Z,"18 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-20T04:04:35.710Z,41.8955,-112.48733333333,1.43,0.63,md,7,113,0.126,0.11,uu,uu80102396,2025-02-20T14:40:54.320Z,"11 km NNW of Howell, Utah",earthquake,0.49,7.47,0.15641520407747,5,reviewed,uu,uu
 2025-02-20T03:42:48.570Z,32.9275,-116.3023333,6.26,0.98,ml,43,42,0.02704,0.18,ci,ci40189458,2025-02-20T03:47:18.871Z,"24 km ENE of Pine Valley, CA",earthquake,0.19,0.4,0.291,21,automatic,ci,ci
