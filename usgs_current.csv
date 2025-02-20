@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-20T20:10:21.410Z,38.806667327881,-122.78116607666,3.2200000286102,0.77,md,7,141,0.006593,0.01,nc,nc75136692,2025-02-20T20:11:55.621Z,"4 km NNW of The Geysers, CA",earthquake,0.56,1.62,0.06,10,automatic,nc,nc
+2025-02-20T20:07:55.350Z,38.822666168213,-122.8424987793,1.9400000572205,0.76,md,12,80,0.005851,0.02,nc,nc75136687,2025-02-20T20:09:30.615Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.689999998,0.16,13,automatic,nc,nc
+2025-02-20T20:05:57.855Z,62.3668,-149.0437,0,1.8,ml,,,,0.79,ak,ak0252cockbt,2025-02-20T20:07:54.456Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-20T19:57:51.080Z,37.574001312256,-122.43116760254,8.1099996566772,1.65,md,14,108,0.01207,0.05,nc,nc75136682,2025-02-20T19:59:25.413Z,"5 km W of Hillsborough, CA",earthquake,0.31,0.540000021,0.39,7,automatic,nc,nc
 2025-02-20T19:43:19.643Z,-20.2454,67.9602,10,4.9,mb,87,86,4.344,0.48,us,us7000pf2m,2025-02-20T20:01:39.040Z,"Mid-Indian Ridge",earthquake,10.71,1.848,0.062,80,reviewed,us,us
 2025-02-20T19:17:01.802Z,-3.3876,145.6133,10,4.9,mb,50,82,4.98,0.39,us,us7000pf2i,2025-02-20T19:45:02.040Z,"187 km ENE of Angoram, Papua New Guinea",earthquake,9.99,1.899,0.092,37,reviewed,us,us
@@ -36,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T15:55:09.990Z,38.785831451416,-122.76599884033,3.25,1.06,md,14,76,0.01509,0.02,nc,nc75136617,2025-02-20T15:56:46.473Z,"1 km NNW of The Geysers, CA",earthquake,0.32,0.790000021,0.28,14,automatic,nc,nc
 2025-02-20T15:54:18.350Z,39.696666666667,-110.81566666667,-3.42,2.43,ml,17,58,0.06571,0.17,uu,uu80102441,2025-02-20T16:58:20.820Z,"1 km NW of Kenilworth, Utah",earthquake,0.35,0.92,0.10428805013148,7,reviewed,uu,uu
 2025-02-20T15:42:57.920Z,38.80583190918,-122.77966308594,2.5,0.77,md,8,91,0.007459,0.01,nc,nc75136612,2025-02-20T15:44:36.426Z,"4 km NNW of The Geysers, CA",earthquake,0.64,1.20000005,0.16,9,automatic,nc,nc
-2025-02-20T15:41:05.412Z,54.3779,-118.4885,10,4.7,mb,83,47,0.629,0.85,us,us7000peye,2025-02-20T19:59:39.344Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208,reviewed,us,us
+2025-02-20T15:41:05.412Z,54.3779,-118.4885,10,4.7,mb,83,47,0.629,0.85,us,us7000peye,2025-02-20T20:07:43.092Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208,reviewed,us,us
 2025-02-20T15:38:30.510Z,36.888668060303,-121.48683166504,7.4299998283386,1.49,md,14,84,0.006042,0.09,nc,nc75136607,2025-02-20T15:40:06.490Z,"7 km NE of San Juan Bautista, CA",earthquake,0.4,0.74000001,0.27,12,automatic,nc,nc
 2025-02-20T15:36:26.770Z,38.823665618896,-122.78649902344,0.77999997138977,1.1,md,20,41,0.01134,0.03,nc,nc75136602,2025-02-20T15:38:01.649Z,"5 km WNW of Cobb, CA",earthquake,0.18,0.330000013,0.17,19,automatic,nc,nc
 2025-02-20T15:26:20.298Z,64.619,-147.1607,14.2,1.1,ml,,,,0.15,ak,ak0252clhtfx,2025-02-20T15:27:40.886Z,"7 km SW of Eielson Air Force Base, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -155,7 +158,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T02:22:16.450Z,38.810501098633,-122.81983184815,2.670000076294,1.07,md,19,58,0.007482,0.02,nc,nc75136417,2025-02-20T02:23:52.238Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.569999993,0.18,22,automatic,nc,nc
 2025-02-20T02:11:03.060Z,19.283000946045,-155.36849975586,30.959999084473,1.85,ml,47,122,0.05268,0.119999997,hv,hv74619477,2025-02-20T02:14:11.500Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.779999971,0.88,4,automatic,hv,hv
 2025-02-20T02:10:19.308Z,31.282,-103.352,5.5103,1.6,ml,13,58,0,0.1,tx,tx2025dnnl,2025-02-20T17:11:18.937Z,"20 km ESE of Lindsay, Texas",earthquake,1.5025173747153,2.3865419501296,0.2,12,reviewed,tx,tx
+2025-02-20T02:05:08.660Z,53.950166666667,-166.60816666667,10.77,0.67,ml,4,278,0.04673,0.12,av,av93505831,2025-02-20T20:05:31.040Z,"7 km NNW of Dutch Harbor, Alaska",earthquake,1.05,0.8,0.14412564360899,4,reviewed,av,av
 2025-02-20T01:56:10.763Z,61.287,-152.1953,21.1,0.7,ml,,,,0.92,ak,ak0252cdc5pw,2025-02-20T01:58:02.385Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-20T01:43:33.100Z,53.867,-166.90766666667,6.12,0.44,ml,8,166,0.06214,0.19,av,av93505811,2025-02-20T20:09:52.380Z,"24 km W of Dutch Harbor, Alaska",earthquake,0.48,1.13,0.33044292386582,8,reviewed,av,av
 2025-02-20T01:38:05.686Z,31.629,-104.512,6.0999,2.5,ml,30,75,0,0.1,tx,tx2025dnmk,2025-02-20T13:37:47.154Z,"61 km SSW of Whites City, New Mexico",earthquake,1.083015702048,0.54762589200891,0.2,42,reviewed,tx,tx
 2025-02-20T01:37:58.500Z,39.916,-111.97733333333,8.47,1.74,ml,27,43,0.08452,0.23,uu,uu80102391,2025-02-20T14:45:41.530Z,"4 km SSW of Mount Nebo, Utah",earthquake,0.52,0.67,0.22511739842031,3,reviewed,uu,uu
 2025-02-20T01:32:18.320Z,33.41,-116.595,8.12,0.69,ml,27,40,0.06413,0.13,ci,ci40189410,2025-02-20T17:44:04.418Z,"15 km NNE of Warner Springs, CA",earthquake,0.17,0.44,0.148,17,reviewed,ci,ci
@@ -203,7 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T20:23:28.300Z,45.319833333333,-121.65666666667,6.42,1.45,ml,13,146,0.004719,0.05,uw,uw62076531,2025-02-19T22:25:22.670Z,"7 km ENE of Government Camp, Oregon",earthquake,0.27,0.32,0.12407903105808,6,reviewed,uw,uw
 2025-02-19T20:19:15.080Z,18.0575,-66.8395,11.95,2.62,md,13,112,0.09031,0.15,pr,pr71473043,2025-02-19T20:32:12.320Z,"2 km NNE of Yauco, Puerto Rico",earthquake,0.38,0.64,0.19224198701721,7,reviewed,pr,pr
 2025-02-19T20:17:38.979Z,58.2103,-156.3081,0,2,ml,,,,0.81,ak,ak0252b0vqyx,2025-02-19T20:19:24.732Z,"57 km SSE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-19T20:11:57.291Z,58.166,-156.322,8.5,3,ml,,,,0.56,ak,ak0252b0ui5s,2025-02-19T21:28:26.427Z,"61 km SSE of King Salmon, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2025-02-19T20:05:16.510Z,37.184666666667,-112.891,18.88,2.5,ml,22,78,0.1766,0.15,uu,uu80102376,2025-02-19T21:17:53.040Z,"9 km E of Springdale, Utah",earthquake,0.36,0.76,0.22990026557922,13,reviewed,uu,uu
-2025-02-19T20:04:49.829Z,36.41433333,-96.91016667,3.37,0.46,ml,15,91,0.01979611533,0.25,ok,ok2025dnbl,2025-02-20T13:57:48.647Z,"12 km NW of Pawnee, Oklahoma",earthquake,,1.4,0.22,7,reviewed,ok,ok
-2025-02-19T20:04:35.390Z,36.42133333,-96.91,2.3,0.7,ml,17,76,0.02519505587,0.11,ok,ok2025dnbk,2025-02-20T13:54:37.470Z,"13 km NW of Pawnee, Oklahoma",earthquake,,1.2,0.22,9,reviewed,ok,ok
