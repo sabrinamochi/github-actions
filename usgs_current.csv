@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-21T18:27:15.556Z,61.7729,-152.0143,110.8,2.1,ml,,,,0.27,ak,ak0252eato3n,2025-02-21T18:28:52.492Z,"40 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-21T18:21:05.460Z,33.555,-115.9126667,5.44,1.47,ml,51,48,0.02772,0.17,ci,ci40190674,2025-02-21T18:25:41.230Z,"4 km NE of North Shore, CA",earthquake,0.15,0.3,0.099,27,automatic,ci,ci
-2025-02-21T18:11:38.097Z,61.3449,-152.2402,0.4,1.9,ml,,,,0.74,ak,ak0252eaqadt,2025-02-21T18:13:39.819Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-21T18:11:38.097Z,61.3449,-152.2402,0.4,1.9,ml,,,,0.74,ak,ak0252eaqadt,2025-02-21T18:30:18.470Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-21T18:00:04.100Z,38.794666290283,-122.75966644287,0.87000000476837,0.87,md,14,71,0.00595,0.03,nc,nc75136771,2025-02-21T18:01:42.395Z,"2 km N of The Geysers, CA",earthquake,0.26,0.5,0.22,14,automatic,nc,nc
 2025-02-21T17:41:46.767Z,62.6135,-151.2644,84.1,1.7,ml,,,,0.89,ak,ak0252eabaxg,2025-02-21T17:44:51.059Z,"28 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-21T17:37:16.993Z,64.67,-146.8691,5.7,1,ml,,,,0.47,ak,ak0252eaadrn,2025-02-21T17:39:10.942Z,"8 km E of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -147,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T23:25:11.600Z,61.307,-152.22783333333,0.32,-0.42,ml,7,168,0.05451,0.05,av,av93506546,2025-02-21T02:18:48.320Z,"64 km WNW of Beluga, Alaska",earthquake,0.31,1.46,0.25306396562253,8,reviewed,av,av
 2025-02-20T23:18:19.960Z,39.701333333333,-110.83383333333,-3.48,1.23,md,8,204,0.0762,0.21,uu,uu80102471,2025-02-21T15:36:16.180Z,"2 km NE of Helper, Utah",earthquake,1.22,2.03,0.14797444561724,6,reviewed,uu,uu
 2025-02-20T23:08:30.350Z,59.3595,-153.43283333333,-0.64,0.59,ml,6,201,0.006827,0.07,av,av93506541,2025-02-21T02:07:55.290Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.26,0.13,0.14986751093569,5,reviewed,av,av
+2025-02-20T23:00:57.330Z,45.695666666667,-120.19466666667,-0.51,1.98,ml,26,81,0.2732,0.28,uw,uw62076721,2025-02-21T18:31:01.140Z,"2 km SSE of Arlington, Oregon",explosion,0.8,31.61,0.17665215107166,16,reviewed,uw,uw
 2025-02-20T22:39:33.442Z,-32.3435,-179.8595,263.08,4.4,mb,18,166,3.495,0.84,us,us7000pf48,2025-02-21T01:45:49.040Z,"south of the Kermadec Islands",earthquake,14.38,16.567,0.143,14,reviewed,us,us
 2025-02-20T22:32:37.170Z,46.8825,-123.80666666667,-0.12,1.5,ml,17,145,0.08405,0.1,uw,uw62076716,2025-02-21T00:37:22.606Z,"8 km SSW of Cosmopolis, Washington",explosion,0.42,31.61,0.19684982050319,13,reviewed,uw,uw
 2025-02-20T22:23:31.560Z,38.844833374023,-122.84366607666,18.670000076294,0.9,md,10,227,0.008926,0.12,nc,nc75136767,2025-02-20T22:25:06.700Z,"11 km NW of The Geysers, CA",earthquake,2.81,9.40999985,0.04,3,automatic,nc,nc
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T18:45:55.040Z,33.8663333,-116.7645,15.81,0.55,ml,12,116,0.158,0.1,ci,ci37541653,2025-02-20T22:01:12.954Z,"6 km SSE of Cabazon, CA",earthquake,0.27,0.76,0.143,11,reviewed,ci,ci
 2025-02-20T18:44:29.924Z,62.3468,-151.2759,80.8,1.5,ml,,,,0.3,ak,ak0252cndzw0,2025-02-20T18:46:25.825Z,"31 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-20T18:44:04.641Z,60.6591,-151.5359,31.1,1.6,ml,,,,0.4,ak,ak0252cndxnv,2025-02-20T18:46:15.982Z,"12 km WNW of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-20T18:34:42.485Z,38.7786,-119.6176,7.7,1.4,ml,14,62.38,0.08,0.1216,nn,nn00893756,2025-02-21T02:05:46.543Z,"9 km SSE of Carter Springs, Nevada",earthquake,,1.3,0.42,6,reviewed,nn,nn
