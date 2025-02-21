@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-21T20:00:29.540Z,35.3453331,-117.7968369,5.33,1.51,ml,15,99,0.08745,0.23,ci,ci40190770,2025-02-21T20:02:33.788Z,"15 km WSW of Johannesburg, CA",earthquake,0.55,1.81,0.248,5,automatic,ci,ci
 2025-02-21T19:24:48.497Z,63.6226,-149.0639,0,2.1,ml,,,,0.51,ak,ak0252ebej3l,2025-02-21T19:26:39.718Z,"14 km SSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-21T19:14:11.860Z,37.257833333333,-113.29666666667,4.25,2.01,ml,23,65,0.08388,0.22,uu,uu80102511,2025-02-21T19:30:49.440Z,"1 km WNW of Toquerville, Utah",earthquake,0.42,0.92,0.16069636880544,11,reviewed,uu,uu
 2025-02-21T19:13:41.060Z,33.044,-114.9865,3.1,1.58,ml,13,78,0.07193,0.2,ci,ci40190730,2025-02-21T19:20:06.547Z,"45 km NE of Holtville, CA",earthquake,0.42,0.76,0.185,18,automatic,ci,ci
@@ -136,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T02:54:18.180Z,19.3723,-68.3471,47,3.77,md,17,235,0.8591,0.46,pr,pr2025052000,2025-02-21T03:55:34.380Z,"85 km ENE of Miches, Dominican Republic",earthquake,3.75,13.68,0.06,10,reviewed,pr,pr
 2025-02-21T02:50:18.859Z,60.2729,-140.6707,20,1.5,ml,,,,0.33,ak,ak0252e1fo59,2025-02-21T02:52:07.206Z,"96 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-21T02:40:11.120Z,31.656,-104.282,6.7407,2.1,ml,36,67,0.1,0.1,tx,tx2025dpjy,2025-02-21T15:07:44.831Z,"58 km S of Whites City, New Mexico",earthquake,0.63847291173859,1.0547135209939,0.2,45,reviewed,tx,tx
+2025-02-21T02:24:56.580Z,58.2585,-155.00316666667,-2,-0.24,ml,5,229,0.04943,0.09,av,av93506661,2025-02-21T20:01:29.250Z,"83 km NNW of Karluk, Alaska",earthquake,0.59,2.71,0.37577007185463,5,reviewed,av,av
 2025-02-21T02:01:35.410Z,37.463166666667,-118.772,9.57,0.57,md,25,101,0.1345,0.09,nc,nc75136832,2025-02-21T07:01:22.543Z,"14 km SW of Toms Place, CA",earthquake,0.34,1.19,0.174,15,reviewed,nc,nc
 2025-02-21T01:53:02.656Z,60.1608,-151.1301,64.6,1.9,ml,,,,0.37,ak,ak0252e0uuft,2025-02-21T01:54:59.675Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-21T01:50:19.700Z,39.708333333333,-110.88466666667,5.28,1.58,md,6,232,0.1178,0.07,uu,uu80102486,2025-02-21T15:39:32.970Z,"3 km NW of Helper, Utah",earthquake,1.29,31.61,0.20101023649183,6,reviewed,uu,uu
@@ -201,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T20:10:21.410Z,38.806667327881,-122.78116607666,3.2200000286102,0.77,md,7,141,0.006593,0.01,nc,nc75136692,2025-02-20T20:11:55.621Z,"4 km NNW of The Geysers, CA",earthquake,0.56,1.62,0.06,10,automatic,nc,nc
 2025-02-20T20:07:55.350Z,38.822666168213,-122.8424987793,1.9400000572205,0.76,md,12,80,0.005851,0.02,nc,nc75136687,2025-02-20T20:09:30.615Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.689999998,0.16,13,automatic,nc,nc
 2025-02-20T20:05:57.855Z,62.3668,-149.0437,0,1.8,ml,,,,0.79,ak,ak0252cockbt,2025-02-20T20:07:54.456Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-20T20:01:03.500Z,19.131166666667,-66.3835,23.89,3.14,md,10,271,0.8083,0.23,pr,pr71473128,2025-02-20T20:17:38.490Z,"73 km N of Brenas, Puerto Rico",earthquake,1.38,18.43,0.073510824009879,8,reviewed,pr,pr
