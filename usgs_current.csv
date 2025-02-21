@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-21T12:00:40.463Z,60.8469,-151.806,74,1.4,ml,,,,0.67,ak,ak0252e73c26,2025-02-21T12:02:54.701Z,"33 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-21T11:57:03.786Z,61.8563,-153.5041,247.6,1.6,ml,,,,0.9,ak,ak0252e6u1fu,2025-02-21T12:00:10.186Z,"111 km W of Skwentna, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2025-02-21T11:49:54.980Z,38.836334228516,-122.84983062744,0.019999999552965,0.25,md,7,90,0.01036,0.05,nc,nc75137002,2025-02-21T11:51:30.017Z,"10 km NW of The Geysers, CA",earthquake,0.36,1.39999998,0.14,7,automatic,nc,nc
 2025-02-21T11:49:10.150Z,38.798500061035,-122.77016448975,1.2799999713898,1.92,md,31,71,0.008439,0.03,nc,nc75136997,2025-02-21T11:50:45.171Z,"3 km NNW of The Geysers, CA",earthquake,0.18,0.289999992,0.15,34,automatic,nc,nc
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T07:26:51.910Z,19.4445,-65.740666666667,37.94,3.39,md,16,279,1.175,0.36,pr,pr71473193,2025-02-21T07:48:36.100Z,"112 km N of Suárez, Puerto Rico",earthquake,2.9,18.41,0.13969055142517,7,reviewed,pr,pr
 2025-02-21T07:26:51.884Z,31.578,-104.565,0.6922,1.5,ml,12,169,0.1,0.5,tx,tx2025dptk,2025-02-21T07:42:40.136Z,"64 km NNE of Van Horn, Texas",earthquake,0,1.9710471630096,0.2,10,automatic,tx,tx
 2025-02-21T07:23:24.400Z,38.788333892822,-122.77283477783,0.76999998092651,1.06,md,11,90,0.01274,0.02,nc,nc75136947,2025-02-21T07:25:02.675Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.600000024,0.22,10,automatic,nc,nc
-2025-02-21T07:20:56.159Z,-19.5036,168.9379,43.738,5.1,mww,58,113,3.393,0.83,us,us7000pf62,2025-02-21T07:39:13.040Z,"36 km W of Isangel, Vanuatu",earthquake,9.62,6.983,0.08,15,reviewed,us,us
+2025-02-21T07:20:56.159Z,-19.5036,168.9379,43.738,5.1,mww,58,113,3.393,0.83,us,us7000pf62,2025-02-21T12:03:06.040Z,"36 km W of Isangel, Vanuatu",earthquake,9.62,6.983,0.08,15,reviewed,us,us
 2025-02-21T07:07:42.229Z,38.5016,-118.4936,4.8,1.8,ml,14,83.65,0.128,0.2455,nn,nn00893783,2025-02-21T07:10:03.743Z,"11 km ESE of Hawthorne, Nevada",earthquake,,1,0.31,8,automatic,nn,nn
 2025-02-21T07:07:09.377Z,51.531,178.1202,56.229,4.8,mb,83,118,0.483,0.67,us,us7000pf61,2025-02-21T07:27:42.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.54,5.606,0.029,374,reviewed,us,us
 2025-02-21T07:03:51.620Z,34.4745,-119.1925,7.27,1.55,ml,42,48,0.05891,0.23,ci,ci40190354,2025-02-21T07:07:57.672Z,"6 km ENE of Ojai, CA",earthquake,0.23,0.6,0.249,26,automatic,ci,ci
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T12:22:43.350Z,54.772333333333,-163.89033333333,11.51,0.69,ml,4,172,0.07392,0.2,av,av93506186,2025-02-20T19:07:59.910Z,"32 km WSW of False Pass, Alaska",earthquake,1.18,2.01,0.47983918455362,4,reviewed,av,av
 2025-02-20T12:11:16.694Z,65.4504,-148.2312,6.3,1.2,ml,,,,0.33,ak,ak0252cjmalx,2025-02-20T12:13:02.336Z,"16 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-20T12:07:24.140Z,60.5245,-152.82083333333,6.57,-0.76,ml,6,109,0.03947,0.03,av,av93506176,2025-02-20T22:53:24.830Z,"82 km NW of Ninilchik, Alaska",earthquake,0.31,0.67,0.26567193803916,6,reviewed,av,av
-2025-02-20T12:00:24.060Z,19.281665802002,-155.37550354004,31.989999771118,2.14,ml,51,116,0.0486,0.129999995,hv,hv74619637,2025-02-20T12:03:42.630Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.689999998,1.29,5,automatic,hv,hv
