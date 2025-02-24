@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-24T20:22:49.270Z,19.820667266846,-155.90283203125,11.550000190735,2.2,ml,36,214,0.1493,0.340000004,hv,hv74622592,2025-02-24T20:26:01.980Z,"13 km NE of Kalaoa, Hawaii",earthquake,1.3,1.63,0.52,7,automatic,hv,hv
 2025-02-24T20:08:37.924Z,17.5687,-82.7451,10,5.4,mww,72,45,5.004,0.76,us,us6000pv78,2025-02-24T20:22:03.040Z,"239 km SW of George Town, Cayman Islands",earthquake,7.1,1.879,0.041,57,reviewed,us,us
 2025-02-24T20:01:54.110Z,38.788665771484,-122.81066894531,5.2300000190735,0.78,md,9,139,0.005948,0.07,nc,nc75138476,2025-02-24T20:03:32.652Z,"5 km WNW of The Geysers, CA",earthquake,0.74,1.12,0.22,10,automatic,nc,nc
 2025-02-24T19:57:13.310Z,36.978168487549,-121.63800048828,5.9000000953674,1.75,md,23,48,0.05029,0.12,nc,nc75138471,2025-02-24T19:58:52.717Z,"7 km WSW of Gilroy, CA",earthquake,0.28,0.600000024,0.21,26,automatic,nc,nc
@@ -228,6 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-23T22:07:07.254Z,36.9384,136.3442,10,4.4,mb,59,61,1.544,0.48,us,us7000pfp4,2025-02-24T02:24:30.040Z,"39 km W of Hakui, Japan",earthquake,2.67,1.866,0.085,40,reviewed,us,us
 2025-02-23T22:03:15.573Z,60.5267,-152.1043,88.2,2.4,ml,,,,0.59,ak,ak0252ho4y9u,2025-02-24T02:06:39.040Z,"44 km WSW of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-23T21:55:16.130Z,18.39,-67.297,19.8,2.76,md,12,272,0.1925,0.21,pr,pr71473373,2025-02-23T22:56:59.060Z,"7 km NW of Rincón, Puerto Rico",earthquake,1.01,0.43,0.098677736981379,7,reviewed,pr,pr
+2025-02-23T21:49:36.890Z,35.2455,-97.76016667,5.72,1.15,ml,14,191,0.008098410816,0.07,ok,ok2025dumw,2025-02-24T20:27:37.043Z,"2 km WNW of Bridge Creek, Oklahoma",earthquake,,0.4,0.17,6,reviewed,ok,ok
 2025-02-23T21:43:50.162Z,31.61,-104.525,8.2019,2.3,ml,23,71,0.1,0.1,tx,tx2025dums,2025-02-24T13:42:33.356Z,"64 km SSW of Whites City, New Mexico",earthquake,1.2408419832321,0.68830187185191,0.2,25,reviewed,tx,tx
 2025-02-23T21:39:10.062Z,39.162,-119.0551,5.7,1.7,ml,14,106.47,0.014,0.1391,nn,nn00893932,2025-02-23T21:41:28.038Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.17,7,automatic,nn,nn
 2025-02-23T21:32:00.080Z,45.916166666667,-122.91933333333,22.23,1.4,ml,25,88,0.09772,0.14,uw,uw62077271,2025-02-24T19:23:43.400Z,"6 km WSW of Deer Island, Oregon",earthquake,0.29,0.53,0.20379343455237,10,reviewed,uw,uw
@@ -243,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-23T20:39:54.245Z,28.919,-98.203,5.249,1.9,ml,17,79,0.1,0.3,tx,tx2025duko,2025-02-24T18:34:16.666Z,"19 km WSW of Falls City, Texas",earthquake,1.4465415492406,2.1710423910661,0.1,9,reviewed,tx,tx
 2025-02-23T20:39:13.485Z,60.4381,-142.8729,0,1.3,ml,,,,0.33,ak,ak0252hn5sqc,2025-02-23T20:41:37.159Z,"110 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-23T20:35:03.713Z,60.6653,-150.4194,50.5,1.5,ml,,,,0.6,ak,ak0252hn4x43,2025-02-23T20:36:46.161Z,"23 km NE of Sterling, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-02-23T20:25:39.363Z,22.0042,94.408,93.211,4.3,mb,42,97,0.925,0.64,us,us7000pfnn,2025-02-23T21:17:40.040Z,"76 km W of Monywa, Myanmar",earthquake,10.97,8.269,0.099,29,reviewed,us,us
