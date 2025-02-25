@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-25T00:30:37.819Z,61.7281,-151.3527,67.5,1.3,ml,,,,0.19,ak,ak0252km9y1x,2025-02-25T00:32:40.023Z,"29 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-25T00:23:18.757Z,60.986,-146.7437,3.3,1.9,ml,,,,0.62,ak,ak0252km8eo2,2025-02-25T00:25:23.400Z,"13 km NNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-25T00:22:30.420Z,38.835498809815,-122.78333282471,1.9099999666214,0.45,md,10,68,0.006199,0.01,nc,nc75138601,2025-02-25T00:24:08.131Z,"5 km WNW of Cobb, CA",earthquake,0.5,1.00999999,0.25,12,automatic,nc,nc
 2025-02-25T00:14:16.020Z,38.835334777832,-122.88050079346,1.9900000095367,0.68,md,8,124,0.01038,0.06,nc,nc75138591,2025-02-25T00:15:52.286Z,"12 km E of Cloverdale, CA",earthquake,0.53,0.860000014,0.21,8,automatic,nc,nc
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T13:23:13.850Z,47.458166666667,-115.74033333333,0.02,1.05,ml,6,106,0.4022,0.13,mb,mb90073128,2025-02-24T22:02:00.870Z,"4 km ESE of Mullan, Idaho",earthquake,0.58,31.61,0.33179678797953,3,reviewed,mb,mb
 2025-02-24T13:17:20.005Z,62.3181,-149.9394,34.8,1.1,ml,,,,0.85,ak,ak0252j6eeqo,2025-02-24T13:18:59.596Z,"8 km E of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-24T13:17:00.470Z,35.2425,-97.7695,4.11,1.39,ml,49,53,0.01259752794,0.35,ok,ok2025dvrl,2025-02-24T13:53:55.043Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.27,24,reviewed,ok,ok
-2025-02-24T13:09:28.804Z,37.3573,-117.1284,3.8,1.1,ml,9,93.5,0.12,0.1292,nn,nn00893948,2025-02-25T00:26:18.818Z,"40 km SSE of Goldfield, Nevada",earthquake,,7.2,0.26,3,reviewed,nn,nn
+2025-02-24T13:09:28.722Z,37.3554,-117.1307,5.8,1.1,ml,12,93.16,0.117,0.1426,nn,nn00893948,2025-02-25T00:32:29.769Z,"40 km SSE of Goldfield, Nevada",earthquake,,2.9,0.26,4,reviewed,nn,nn
 2025-02-24T13:04:46.210Z,35.6725,-117.482,6.88,0.85,ml,27,39,0.04803,0.14,ci,ci40192898,2025-02-24T18:50:33.533Z,"13 km SW of Searles Valley, CA",earthquake,0.17,0.46,0.081,15,automatic,ci,ci
 2025-02-24T12:46:46.800Z,33.5208333,-116.5178333,13.6,0.56,ml,22,57,0.07515,0.1,ci,ci40192882,2025-02-24T13:56:50.952Z,"15 km ESE of Anza, CA",earthquake,0.17,0.38,0.196,13,reviewed,ci,ci
 2025-02-24T12:44:11.530Z,38.83150100708,-122.81816864014,1.8099999427795,0.7,md,11,69,0.01027,0.04,nc,nc75138657,2025-02-24T20:14:05.709Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.899999976,0.44,12,automatic,nc,nc
@@ -242,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T00:44:38.580Z,58.166666666667,-155.35766666667,0.76,-0.06,ml,9,187,0.0462,0.07,av,av93509946,2025-02-24T21:50:17.690Z,"85 km NW of Karluk, Alaska",earthquake,0.24,1.25,0.19551682402094,9,reviewed,av,av
 2025-02-24T00:38:41.630Z,46.8455,-121.76433333333,0.99,0.5,ml,8,188,0.02036,0.08,uw,uw62077321,2025-02-24T19:50:10.290Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.62,0.18727382107626,4,reviewed,uw,uw
 2025-02-24T00:37:29.320Z,46.845,-121.76466666667,0.77,0.85,ml,16,65,0.02028,0.07,uw,uw62077316,2025-02-24T19:42:30.680Z,"22 km ENE of Ashford, Washington",earthquake,0.21,0.44,0.078426669297196,8,reviewed,uw,uw
-2025-02-24T00:33:06.560Z,61.335666666667,-152.23966666667,1.73,-0.11,ml,10,130,0.08142,0.16,av,av93509931,2025-02-24T21:45:51.220Z,"65 km WNW of Beluga, Alaska",earthquake,0.37,1.48,0.16406203318702,10,reviewed,av,av
-2025-02-24T00:32:29.070Z,33.6203333,-116.6871667,13.4,1.49,ml,80,23,0.04971,0.2,ci,ci40192602,2025-02-24T00:43:09.840Z,"7 km N of Anza, CA",earthquake,0.14,0.25,0.216,26,automatic,ci,ci
-2025-02-24T00:32:08.860Z,33.6276667,-116.6793333,13.22,0.74,ml,13,70,0.04138,0.11,ci,ci40192586,2025-02-24T18:57:43.269Z,"8 km N of Anza, CA",earthquake,0.28,0.6,0.176,8,reviewed,ci,ci
