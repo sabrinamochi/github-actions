@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-25T22:30:30.213Z,59.7549,-153.1849,101.3,1.9,ml,,,,0.31,ak,ak0252kzdgrx,2025-02-25T22:32:17.182Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-25T22:29:06.540Z,35.24677277,-97.81747437,0.2204014063,2.67,ml,16,77.40794373,0.01971174218,0.9478056894,ok,ok2025dyfe,2025-02-25T22:32:17.452Z,"4 km S of Tuttle, Oklahoma",earthquake,2.861926186,2.51186334,0.27,15,automatic,ok,ok
+2025-02-25T22:29:06.540Z,35.24677277,-97.81747437,0.2204014063,2.67,ml,16,77.40794373,0.01971174218,0.9478056894,ok,ok2025dyfe,2025-02-25T22:33:17.442Z,"4 km S of Tuttle, Oklahoma",earthquake,2.861926186,2.51186334,0.27,15,automatic,ok,ok
 2025-02-25T22:24:46.110Z,33.0193333,-116.8506667,9.55,1.68,ml,7,161,0.3843,0.34,ci,ci40194338,2025-02-25T22:28:55.518Z,"3 km SSE of Ramona, CA",earthquake,1.93,22.92,0.441,20,automatic,ci,ci
 2025-02-25T22:20:47.195Z,35.25954437,-97.79537964,1.7367661,1.77,ml,11,69.49904251,0.002459519543,0.7195509357,ok,ok2025dyex,2025-02-25T22:24:27.907Z,"3 km SSE of Tuttle, Oklahoma",earthquake,4.715919938,4.23650565,0.28,9,automatic,ok,ok
 2025-02-25T22:17:15.310Z,35.24483333,-97.784,4.94,1.3,ml,16,107,0.01799646848,0.12,ok,ok2025dyet,2025-02-25T22:29:27.929Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.28,8,reviewed,ok,ok
@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T20:28:41.409Z,35.24733333,-97.77316667,6.23,-0.41,ml,10,180,0.01709664506,0.04,ok,ok2025dybf,2025-02-25T20:33:55.168Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.3,0.25,5,reviewed,ok,ok
 2025-02-25T20:20:08.710Z,38.827667236328,-122.79933166504,1.789999961853,0.78,md,7,115,0.009413,0.01,nc,nc75139096,2025-02-25T20:37:14.498Z,"7 km WNW of Cobb, CA",earthquake,0.77,1.46000004,0.37,8,automatic,nc,nc
 2025-02-25T20:11:19.127Z,59.9883,-152.5823,79,1.1,ml,,,,0.4,ak,ak0252ky2i3s,2025-02-25T20:13:21.754Z,"47 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-25T20:00:03.400Z,46.014,-112.45333333333,-2,1.69,ml,7,137,0.0703,0.07,mb,mb90073193,2025-02-25T22:33:33.840Z,"6 km E of Butte, Montana",quarry blast,0.39,31.61,0.35559385904363,19,reviewed,mb,mb
 2025-02-25T19:57:41.570Z,38.83150100708,-122.81483459473,1.289999961853,0.74,md,8,84,0.008907,0.01,nc,nc75139091,2025-02-25T20:27:16.429Z,"8 km NNW of The Geysers, CA",earthquake,0.39,1.02999997,0.19,11,automatic,nc,nc
 2025-02-25T19:44:28.180Z,35.0566667,-118.3401667,5.8,1.15,ml,28,43,0.06592,0.25,ci,ci40194210,2025-02-25T19:48:14.536Z,"13 km SE of Tehachapi, CA",earthquake,0.33,1.17,0.148,28,automatic,ci,ci
 2025-02-25T19:38:44.390Z,33.0086667,-115.5365,2.89,2.1,ml,21,147,0.08883,0.33,ci,ci40194202,2025-02-25T19:49:52.872Z,"3 km N of Brawley, CA",earthquake,0.57,0.81,0.238,27,automatic,ci,ci
@@ -276,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T23:04:57.299Z,35.23816667,-97.782,5.48,1.51,ml,66,109,0.02159576217,0.46,ok,ok2025dwku,2025-02-25T13:42:52.542Z,"4 km W of Bridge Creek, Oklahoma",earthquake,,0.6,0.27,28,reviewed,ok,ok
 2025-02-24T22:55:50.390Z,38.786334991455,-122.75800323486,1.9500000476837,0.82,md,16,77,0.01433,0.02,nc,nc75138566,2025-02-24T23:22:16.989Z,"1 km N of The Geysers, CA",earthquake,0.27,0.479999989,0.18,16,automatic,nc,nc
 2025-02-24T22:36:00.373Z,61.3398,-152.2262,1.2,0.2,ml,,,,0.26,ak,ak0252jbvc9x,2025-02-24T23:08:10.469Z,"65 km WNW of Beluga, Alaska",earthquake,,7.4,,,automatic,ak,ak
-2025-02-24T22:33:39.050Z,45.0715,-111.75183333333,-2,0.83,ml,7,164,0.1081,0.35,mb,mb90073138,2025-02-24T22:39:51.080Z,"29 km SSE of Virginia City, Montana",quarry blast,3.51,31.61,0.098239065290142,5,reviewed,mb,mb
-2025-02-24T22:33:06.724Z,59.3769,-152.4973,67.5,1.9,ml,,,,0.35,ak,ak0252jbupm8,2025-02-24T23:08:02.841Z,"32 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
