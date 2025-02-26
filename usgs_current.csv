@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-26T13:33:11.390Z,38.791500091553,-122.76049804688,2.170000076294,0.26,md,7,158,0.009132,0.02,nc,nc75139456,2025-02-26T13:34:47.482Z,"2 km  of The Geysers, CA",earthquake,0.55,1.20000005,0.11,8,automatic,nc,nc
+2025-02-26T13:29:41.430Z,36.071666717529,-120.18367004394,10.170000076294,3.31,ml,46,88,0.0312,0.1,nc,nc75139451,2025-02-26T13:33:42.821Z,"9 km NNW of Avenal, CA",earthquake,0.21,0.319999993,0.294,30,automatic,nc,nc
 2025-02-26T13:28:02.740Z,61.591,-150.55,27.4,1.8,ml,,,,0.25,ak,ak0252mhjf9u,2025-02-26T13:29:31.995Z,"5 km NNW of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-26T13:23:09.600Z,38.791667938232,-122.76183319092,2.1199998855591,0.75,md,9,76,0.009096,0.01,nc,nc75139446,2025-02-26T13:24:48.711Z,"2 km  of The Geysers, CA",earthquake,0.32,0.829999983,0.04,9,automatic,nc,nc
+2025-02-26T13:15:04.173Z,0.3245,124.9166,10,5.1,mb,61,45,1.115,1.11,us,us6000pvla,2025-02-26T13:31:20.040Z,"55 km ESE of Modisi, Indonesia",earthquake,5.37,1.757,0.084,47,reviewed,us,us
 2025-02-26T13:08:12.976Z,61.868,-150.8642,54.8,1.3,ml,,,,0.57,ak,ak0252mhf5q1,2025-02-26T13:10:41.730Z,"31 km ESE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-26T13:03:49.460Z,35.078,-119.0895,8.79,1.42,ml,36,81,0.1985,0.19,ci,ci40194770,2025-02-26T13:07:39.109Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.9,0.191,26,automatic,ci,ci
 2025-02-26T13:02:44.270Z,33.0363333,-116.3478333,5.02,0.42,ml,19,88,0.08322,0.15,ci,ci40194762,2025-02-26T13:06:15.708Z,"23 km WSW of Ocotillo Wells, CA",earthquake,0.21,0.47,0.233,5,automatic,ci,ci
@@ -118,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T03:05:44.420Z,37.634166717529,-119.37066650391,21.60000038147,1.96,md,14,121,0.2313,0.15,nc,nc75139186,2025-02-26T05:07:15.955Z,"22 km SE of Yosemite Valley, CA",earthquake,0.63,1.91999996,0.43,13,automatic,nc,nc
 2025-02-26T03:04:13.453Z,38.5013,-118.4818,2.5,2.2,ml,19,56.64,0.131,0.2239,nn,nn00894025,2025-02-26T03:07:00.832Z,"12 km ESE of Hawthorne, Nevada",earthquake,,1,0.37,10,automatic,nn,nn
 2025-02-26T03:02:08.935Z,31.72,-104.511,4.3321,1.7,ml,10,151,0,0.2,tx,tx2025dyof,2025-02-26T03:24:56.402Z,"52 km SSW of Whites City, New Mexico",earthquake,0,2.0284156799316,0.2,8,automatic,tx,tx
-2025-02-26T02:59:05.061Z,35.27091599,-97.81223297,2.380885839,1.8,ml,14,78.29532623,0.002789962105,0.9631605371,ok,ok2025dyob,2025-02-26T04:19:08.941Z,"2 km S of Tuttle, Oklahoma",earthquake,4.329980138,3.839042568,0.31,13,automatic,ok,ok
+2025-02-26T02:59:04.309Z,35.2555,-97.77483333,3.57,1.46,ml,65,30,0.0188962919,0.52,ok,ok2025dyob,2025-02-26T13:34:38.276Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.7,0.27,29,reviewed,ok,ok
 2025-02-26T02:42:17.060Z,38.828666687012,-122.85316467285,1.6799999475479,1.08,md,21,63,0.003106,0.02,nc,nc75139181,2025-02-26T03:07:18.167Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.349999994,0.14,23,automatic,nc,nc
 2025-02-26T02:35:34.340Z,38.8313331604,-122.81683349609,1.710000038147,0.82,md,12,68,0.009524,0.01,nc,nc75139176,2025-02-26T02:52:18.063Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.670000017,0.39,14,automatic,nc,nc
 2025-02-26T02:26:36.387Z,-6.0392,145.0195,125.421,4.2,mb,37,122,3.959,1.08,us,us6000pvia,2025-02-26T03:28:33.040Z,"5 km ESE of Kundiawa, Papua New Guinea",earthquake,4.87,8.02,0.124,24,reviewed,us,us
@@ -151,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T23:27:03.610Z,32.9725,-115.534,11.52,1.61,ml,37,57,0.1248,0.3,ci,ci40194386,2025-02-25T23:38:11.690Z,"1 km SSW of Brawley, CA",earthquake,0.33,0.66,0.254,28,automatic,ci,ci
 2025-02-25T23:22:53.441Z,39.9746,142.6828,35,4.5,mb,51,131,1.48,0.66,us,us6000pvha,2025-02-26T04:59:23.040Z,"73 km ENE of Miyako, Japan",earthquake,6.3,1.929,0.094,33,reviewed,us,us
 2025-02-25T23:15:29.080Z,33.5503333,-116.6263333,13.65,0.57,ml,15,49,0.01133,0.11,ci,ci40194370,2025-02-25T23:20:17.781Z,"4 km E of Anza, CA",earthquake,0.23,0.46,0.173,13,automatic,ci,ci
-2025-02-25T23:12:20.190Z,31.661,-104.575,3.0257,2.4,ml,23,187,0.1,0.2,tx,tx2025dygq,2025-02-26T04:46:53.040Z,"60 km SSW of Whites City, New Mexico",earthquake,0,1.6577394008636,0.2,19,automatic,tx,tx
+2025-02-25T23:12:20.739Z,31.686,-104.516,6.0999,2.3,ml,25,71,0,0.2,tx,tx2025dygq,2025-02-26T13:33:05.120Z,"55 km SSW of Whites City, New Mexico",earthquake,0.92164762160629,0.57370655751656,0.1,13,reviewed,tx,tx
 2025-02-25T23:11:13.426Z,0.3058,124.7868,21.947,4.9,mb,20,116,1.132,0.53,us,us6000pvh5,2025-02-26T00:03:16.040Z,"42 km ESE of Modisi, Indonesia",earthquake,9.04,5.167,0.14,16,reviewed,us,us
 2025-02-25T23:01:53.420Z,32.531,-83.4015,4.3,2.39,md,11,118,0.2621,0.23,se,se60503048,2025-02-26T04:35:47.040Z,"16 km NNW of Cochran, Georgia",earthquake,0.41,0.8,0.066371002408931,2,reviewed,se,se
 2025-02-25T23:01:36.810Z,32.9703333,-115.5331667,11.41,1.54,ml,29,77,0.07247,0.25,ci,ci40194354,2025-02-25T23:05:25.701Z,"1 km SSW of Brawley, CA",earthquake,0.29,0.58,0.268,28,automatic,ci,ci
