@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-27T17:18:37.150Z,32.9121667,-116.2436667,7.85,1.52,ml,50,46,0.06567,0.19,ci,ci40195594,2025-02-27T17:23:25.090Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.69,0.183,26,automatic,ci,ci
+2025-02-27T17:28:54.990Z,37.971168518066,-122.05899810791,14.239999771118,1.7,md,9,85,0.0652,0.03,nc,nc75140076,2025-02-27T17:30:32.621Z,"2 km SE of Pacheco, CA",earthquake,0.41,1.10000002,0.14,8,automatic,nc,nc
+2025-02-27T17:18:37.150Z,32.9121667,-116.2436667,7.85,1.52,ml,50,46,0.06567,0.19,ci,ci40195594,2025-02-27T17:29:24.860Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.69,0.183,26,automatic,ci,ci
 2025-02-27T17:12:23.175Z,61.1061,-150.8325,50.9,1.4,ml,,,,0.12,ak,ak0252o7d4b1,2025-02-27T17:14:41.156Z,"14 km ESE of Beluga, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-02-27T17:04:31.617Z,61.9313,-150.8474,60.7,1.6,ml,,,,0.32,ak,ak0252o7bf89,2025-02-27T17:13:24.257Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-27T16:54:40.709Z,61.7433,-149.5977,38,1.4,ml,,,,0.64,ak,ak0252o70q4m,2025-02-27T16:56:52.134Z,"13 km N of Meadow Lakes, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T09:15:41.430Z,38.840000152588,-122.81150054932,2.170000076294,0.72,md,15,54,0.0166,0.01,nc,nc75139946,2025-02-27T10:22:15.666Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.730000019,0.13,16,automatic,nc,nc
 2025-02-27T09:13:00.590Z,33.3741667,-116.8851667,6.2,0.55,ml,29,34,0.02785,0.19,ci,ci40195410,2025-02-27T17:04:55.371Z,"3 km NW of Palomar Observatory, CA",earthquake,0.24,0.47,0.217,14,reviewed,ci,ci
 2025-02-27T09:00:03.380Z,33.983,-116.9113333,17.68,1.83,ml,85,22,0.0842,0.17,ci,ci40195402,2025-02-27T17:06:01.180Z,"7 km NNW of Banning, CA",earthquake,0.12,0.28,0.158,28,reviewed,ci,ci
+2025-02-27T08:59:29.690Z,41.761,-112.37616666667,9.42,0.57,md,7,87,0.1725,0.12,uu,uu80102741,2025-02-27T17:29:34.260Z,"6 km SE of Howell, Utah",earthquake,0.43,2.84,0.065370435038447,6,reviewed,uu,uu
 2025-02-27T08:57:22.630Z,38.820835113525,-122.84283447266,2.2400000095367,0.76,md,15,103,0.006508,0.01,nc,nc75139936,2025-02-27T10:07:18.469Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.479999989,0.32,17,automatic,nc,nc
 2025-02-27T08:47:06.940Z,35.24733333,-97.76766667,4.32,1.49,ml,74,27,0.01349735136,0.47,ok,ok2025eavb,2025-02-27T13:25:50.197Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.22,27,reviewed,ok,ok
 2025-02-27T08:46:43.500Z,38.786499023438,-122.76683044434,2.9100000858307,0.68,md,10,98,0.01516,0.02,nc,nc75139926,2025-02-27T09:37:16.352Z,"1 km NNW of The Geysers, CA",earthquake,0.43,0.910000026,0.12,10,automatic,nc,nc
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T17:41:41.784Z,4.8038,127.4029,103.436,4.4,mb,52,102,1.919,0.81,us,us6000pvnl,2025-02-26T18:14:47.040Z,"219 km SE of Pondaguitan, Philippines",earthquake,8.25,6.203,0.086,39,reviewed,us,us
 2025-02-26T17:40:26.740Z,44.7935,-112.97616666667,1.81,0.74,ml,5,216,0.09688,0.06,mb,mb90073243,2025-02-26T22:05:42.050Z,"32 km ENE of Leadore, Idaho",earthquake,1.33,2.42,0.22231721571201,4,reviewed,mb,mb
 2025-02-26T17:35:00.471Z,1.3294,126.3199,47.588,5,mb,83,64,1.484,0.89,us,us6000pvnk,2025-02-26T18:07:43.040Z,"132 km WNW of Ternate, Indonesia",earthquake,6.45,7.111,0.063,80,reviewed,us,us
-2025-02-26T17:31:45.860Z,33.6695,-116.6896667,17.69,1.48,ml,60,26,0.01325,0.2,ci,ci40194898,2025-02-26T17:42:35.630Z,"8 km SSE of Idyllwild, CA",earthquake,0.17,0.3,0.276,26,automatic,ci,ci
-2025-02-26T17:28:51.140Z,38.826667785645,-122.81199645996,0.98000001907349,0.77,md,11,112,0.003597,0.02,nc,nc75139511,2025-02-26T19:07:16.539Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.689999998,0.19,11,automatic,nc,nc
