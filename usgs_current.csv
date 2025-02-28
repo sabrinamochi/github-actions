@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-28T16:39:05.601Z,31.615,-104.186,4.3225,1.9,ml,18,66,0.1,0.3,tx,tx2025edgc,2025-02-28T16:47:19.286Z,"50 km NW of Toyah, Texas",earthquake,0,1.2750074863434,0.2,14,automatic,tx,tx
 2025-02-28T16:32:21.410Z,33.9201667,-116.7211667,14.62,1.61,ml,63,22,0.05272,0.16,ci,ci41068656,2025-02-28T16:43:03.170Z,"6 km E of Cabazon, CA",earthquake,0.13,0.26,0.166,27,automatic,ci,ci
+2025-02-28T16:30:41.509Z,35.2545,-97.782,5.71,0.21,ml,14,144,0.01349735136,0.07,ok,ok2025edfw,2025-02-28T16:51:32.626Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.4,0.2,6,reviewed,ok,ok
 2025-02-28T16:29:00.160Z,33.1665,-116.3901667,5.2,0.89,ml,39,58,0.09766,0.23,ci,ci41068648,2025-02-28T16:33:13.178Z,"10 km S of Borrego Springs, CA",earthquake,0.28,0.7,0.197,24,automatic,ci,ci
 2025-02-28T16:27:30.060Z,37.4908,-114.6468,16,1.8,ml,19,208.83,0.332,0.4808,nn,nn00894172,2025-02-28T16:30:16.613Z,"18 km SW of Caliente, Nevada",earthquake,,0.5,0.28,15,automatic,nn,nn
 2025-02-28T16:25:45.289Z,35.25266667,-97.78366667,4.41,1.51,ml,16,136,0.01349735136,0.13,ok,ok2025edfs,2025-02-28T16:39:13.231Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.23,11,reviewed,ok,ok
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T11:09:14.280Z,35.043,-118.969,9.43,1.56,ml,47,63,0.09547,0.3,ci,ci41068528,2025-02-28T11:14:14.883Z,"12 km NNW of Grapevine, CA",earthquake,0.28,0.74,0.16,25,automatic,ci,ci
 2025-02-28T10:48:25.340Z,38.813499450684,-122.82233428955,2.1900000572205,1.31,md,24,50,0.007069,0.02,nc,nc75140431,2025-02-28T13:12:19.165Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.370000005,0.09,24,automatic,nc,nc
 2025-02-28T10:47:19.570Z,38.830001831055,-122.81733703613,1.7599999904633,0.76,md,15,50,0.008701,0.02,nc,nc75140426,2025-02-28T11:07:20.333Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.649999976,0.1,16,automatic,nc,nc
-2025-02-28T10:41:36.110Z,32.9106667,-116.2413333,8.01,0.99,ml,45,47,0.06813,0.19,ci,ci41068520,2025-02-28T10:46:15.743Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.69,0.123,20,automatic,ci,ci
+2025-02-28T10:41:36.110Z,32.9106667,-116.2413333,8.01,0.99,ml,45,47,0.06813,0.19,ci,ci41068520,2025-02-28T16:49:51.182Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.69,0.123,20,reviewed,ci,ci
 2025-02-28T10:37:46.850Z,38.833168029785,-122.81383514404,1.7699999809265,0.8,md,19,53,0.01019,0.03,nc,nc75140421,2025-02-28T10:57:17.267Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.460000008,0.17,21,automatic,nc,nc
 2025-02-28T10:34:36.070Z,40.11600112915,-124.54083251953,8.6800003051758,2.62,md,9,311,0.2873,0.12,nc,nc75140416,2025-02-28T12:47:20.004Z,"32 km SW of Petrolia, CA",earthquake,9.02,3.25,0.09,5,automatic,nc,nc
 2025-02-28T10:12:57.200Z,38.784999847412,-122.7363357544,1.8400000333786,0.86,md,10,104,0.001786,0.01,nc,nc75140411,2025-02-28T12:27:19.852Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.639999986,0.19,10,automatic,nc,nc
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T17:07:15.007Z,55.7481,-156.0313,35,2.9,ml,22,208,1.315,0.64,us,us6000pvvz,2025-02-28T15:09:07.040Z,"159 km ESE of Chignik, Alaska",earthquake,5.69,2.014,0.069,28,reviewed,us,us
 2025-02-27T17:04:31.617Z,61.9313,-150.8474,60.7,1.6,ml,,,,0.32,ak,ak0252o7bf89,2025-02-27T17:13:24.257Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-27T16:54:40.709Z,61.7433,-149.5977,38,1.4,ml,,,,0.64,ak,ak0252o70q4m,2025-02-27T16:56:52.134Z,"13 km N of Meadow Lakes, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-02-27T16:44:54.890Z,56.221,-159.376,2.49,0.32,ml,7,177,0.06296,0.2,av,av93515786,2025-02-28T07:35:04.530Z,"36 km N of Ivanof Bay, Alaska",earthquake,0.63,2.17,0.1673443631624,7,reviewed,av,av
