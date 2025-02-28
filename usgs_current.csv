@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-28T14:54:16.056Z,63.559,-147.7204,0,1.7,ml,,,,0.78,ak,ak0252ptd5id,2025-02-28T14:56:29.831Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-28T14:42:17.131Z,61.8019,-150.4591,6.2,1.8,ml,,,,0.33,ak,ak0252ptal01,2025-02-28T14:44:04.662Z,"23 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-28T14:41:03.580Z,38.826000213623,-122.84116363525,1.1599999666214,0.9,md,7,127,0.00559,0.05,nc,nc75140516,2025-02-28T14:42:39.578Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.10000002,0.13,8,automatic,nc,nc
+2025-02-28T14:41:03.580Z,38.826000213623,-122.84116363525,1.1599999666214,0.9,md,7,127,0.00559,0.05,nc,nc75140516,2025-02-28T14:57:14.904Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.10000002,0.13,8,automatic,nc,nc
 2025-02-28T14:35:24.690Z,34.1543333,-116.9926667,6.46,1.43,ml,59,28,0.07678,0.15,ci,ci41068592,2025-02-28T14:46:25.450Z,"12 km ESE of Running Springs, CA",earthquake,0.12,0.39,0.181,28,automatic,ci,ci
 2025-02-28T14:17:00.990Z,38.768665313721,-122.73016357422,0.81999999284744,1.04,md,8,110,0.008189,0.03,nc,nc75140506,2025-02-28T14:32:15.738Z,"2 km SE of The Geysers, CA",earthquake,0.33,0.680000007,0.17,7,automatic,nc,nc
 2025-02-28T14:10:43.640Z,33.9996667,-116.7983333,16.4,0.96,ml,43,61,0.03625,0.16,ci,ci41068576,2025-02-28T14:14:54.632Z,"9 km N of Cabazon, CA",earthquake,0.17,0.43,0.167,26,automatic,ci,ci
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T03:25:29.520Z,38.832668304443,-122.82466888428,5.8299999237061,0.77,md,6,159,0.01469,0.01,nc,nc75140291,2025-02-28T05:17:23.967Z,"9 km NNW of The Geysers, CA",earthquake,1.18,2.46000004,0.13,7,automatic,nc,nc
 2025-02-28T03:21:14.484Z,62.5782,-151.2607,86.2,2.2,ml,,,,0.61,ak,ak0252pmmb3s,2025-02-28T06:47:41.325Z,"27 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-28T03:16:06.170Z,19.068832397461,-155.36099243164,31.610000610352,2.15,ml,48,203,0.1287,0.150000006,hv,hv74624872,2025-02-28T03:19:26.600Z,"19 km SE of Pāhala, Hawaii",earthquake,0.47,0.75999999,1.08,4,automatic,hv,hv
-2025-02-28T02:54:13.087Z,31.647,-104.48,3.5895,1.6,ml,19,137,0,0.4,tx,tx2025ecey,2025-02-28T03:23:54.511Z,"59 km S of Whites City, New Mexico",earthquake,0,1.5600093603134,0.1,15,automatic,tx,tx
+2025-02-28T02:54:13.102Z,31.66,-104.447,6.7151,1.6,ml,20,73,0,0.2,tx,tx2025ecey,2025-02-28T14:59:42.416Z,"57 km S of Whites City, New Mexico",earthquake,0.80064608681668,0.48534210098266,0.2,16,reviewed,tx,tx
 2025-02-28T02:42:31.790Z,38.833831787109,-122.813331604,1.6299999952316,0.51,md,6,133,0.01073,0.01,nc,nc75140276,2025-02-28T03:07:17.090Z,"8 km WNW of Cobb, CA",earthquake,0.47,1.30999994,0.35,8,automatic,nc,nc
 2025-02-28T02:41:27.741Z,36.755,-116.2782,3.8,0,ml,27,51.33,0.017,0.1085,nn,nn00894151,2025-02-28T13:52:49.714Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.31,6,reviewed,nn,nn
 2025-02-28T02:35:39.230Z,64.7772,-150.8898,11.9,1.6,ml,,,,1.26,ak,ak0252pm3xfn,2025-02-28T06:47:18.822Z,"27 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T15:21:14.450Z,44.335833333333,-115.17733333333,10.21,1.54,ml,11,70,0.3305,0.2,mb,mb90073283,2025-02-27T16:03:25.720Z,"23 km NW of Stanley, Idaho",earthquake,0.46,0.97,0.14632731544069,13,reviewed,mb,mb
 2025-02-27T15:08:44.550Z,34.059,-117.254,12.36,2.05,ml,18,168,0.1377,0.14,ci,ci40195530,2025-02-27T16:09:17.842Z,"1 km NNE of Loma Linda, CA",earthquake,0.45,1.14,0.399,36,automatic,ci,ci
 2025-02-27T15:00:38.380Z,35.7855,-118.0128333,1.89,1.93,ml,33,64,0.1035,0.13,ci,ci40195506,2025-02-27T17:03:45.670Z,"19 km SSW of Little Lake, CA",earthquake,0.15,0.39,0.221,26,reviewed,ci,ci
-2025-02-27T14:59:33.450Z,38.505666666667,-112.90683333333,3.04,0.88,md,13,74,0.01636,0.09,uu,uu80102771,2025-02-27T17:14:53.010Z,"15 km NE of Milford, Utah",earthquake,0.32,0.61,0.61774461614241,7,reviewed,uu,uu
-2025-02-27T14:54:37.188Z,-58.0325,-10.3798,10,5.5,mww,69,44,14.043,0.73,us,us6000pvty,2025-02-27T22:37:01.113Z,"east of the South Sandwich Islands",earthquake,9.13,1.761,0.093,11,reviewed,us,us
-2025-02-27T14:54:00.420Z,19.291166305542,-155.24116516113,0.40000000596046,1.76,ml,52,146,0.01847,0.189999998,hv,hv74624362,2025-02-27T14:57:13.280Z,"16 km S of Volcano, Hawaii",earthquake,0.3,0.219999999,1.01,4,automatic,hv,hv
-2025-02-27T14:52:44.590Z,47.606666666667,-122.60833333333,22.94,1.53,ml,27,54,0.104,0.19,uw,uw62078401,2025-02-27T23:29:28.170Z,"2 km NNW of Enetai, Washington",earthquake,0.33,0.71,0.17567807606947,18,reviewed,uw,uw
