@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-28T08:26:24.290Z,33.6199989,-118.0175018,11.87,2.09,ml,78,163,0.07733,0.32,ci,ci41068456,2025-02-28T08:28:52.000Z,"8 km W of Newport Beach, CA",earthquake,0.41,0.42,0.344,27,automatic,ci,ci
 2025-02-28T08:03:32.380Z,34.0978333,-118.176,8.49,1.38,ml,18,85,0.06684,0.19,ci,ci41068448,2025-02-28T08:08:35.220Z,"3 km SW of South Pasadena, CA",earthquake,0.44,0.65,0.467,37,automatic,ci,ci
 2025-02-28T07:55:14.450Z,38.823001861572,-122.82966613769,2.3800001144409,0.68,md,5,234,0.01621,0,nc,nc75140366,2025-02-28T08:17:16.199Z,"8 km NW of The Geysers, CA",earthquake,1.62,2.6500001,0.41,8,automatic,nc,nc
 2025-02-28T07:51:23.147Z,65.1091,-149.4036,11.4,1.6,ml,,,,0.76,ak,ak0252pp6hoa,2025-02-28T07:53:11.239Z,"5 km SSW of Minto, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T06:06:09.540Z,17.9705,-66.851166666667,16.9,1.79,md,5,317,0.01643,0.08,pr,pr71473878,2025-02-28T06:19:22.110Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.84,0.54,0.037103731803561,3,reviewed,pr,pr
 2025-02-28T06:04:39.670Z,37.57816696167,-122.43350219727,8.170000076294,1.96,md,16,105,0.01143,0.03,nc,nc75140336,2025-02-28T06:35:02.114Z,"5 km WSW of Millbrae, CA",earthquake,0.33,0.479999989,0.19,10,automatic,nc,nc
 2025-02-28T06:03:00.910Z,19.013,-66.499666666667,44.48,2.89,md,11,281,0.5338,0.26,pr,pr71473868,2025-02-28T06:16:37.670Z,"61 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.57,3.72,0.067872260636657,5,reviewed,pr,pr
-2025-02-28T05:39:44.570Z,39.246833333333,-123.34766666667,-0.46,1.35,md,19,46,0.05469,0.15,nc,nc75140331,2025-02-28T08:10:59.879Z,"13 km W of Redwood Valley, CA",earthquake,0.25,0.61,0.111,12,reviewed,nc,nc
+2025-02-28T05:39:44.570Z,39.246833333333,-123.34766666667,-0.46,1.35,md,19,46,0.05469,0.15,nc,nc75140331,2025-02-28T08:27:19.259Z,"13 km W of Redwood Valley, CA",earthquake,0.25,0.61,0.111,12,reviewed,nc,nc
 2025-02-28T05:26:26.024Z,65.4095,-148.2167,10.8,1.2,ml,,,,0.8,ak,ak0252pnu9sa,2025-02-28T06:48:36.140Z,"19 km SE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-28T05:04:24.200Z,37.368,-117.1359,3.7,0.8,ml,10,193.29,0.396,0.3348,nn,nn00894153,2025-02-28T05:06:41.314Z,"38 km SSE of Goldfield, Nevada",earthquake,,11.1,0.38,5,automatic,nn,nn
 2025-02-28T05:03:26.580Z,38.791500091553,-122.77466583252,6.0100002288818,0.26,md,6,143,0.01482,0.03,nc,nc75140321,2025-02-28T06:47:18.592Z,"2 km NW of The Geysers, CA",earthquake,0.81,2.57999992,0.06,9,automatic,nc,nc
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T08:38:21.010Z,18.212166666667,-66.8185,14.19,2.27,md,12,71,0.1018,0.29,pr,pr71473793,2025-02-27T08:51:58.440Z,"11 km SE of Lares, Puerto Rico",earthquake,0.58,1.66,0.1076510342831,8,reviewed,pr,pr
 2025-02-27T08:32:38.630Z,38.824165344238,-122.76550292969,2.210000038147,0.76,md,10,122,0.007177,0.02,nc,nc75139921,2025-02-27T09:27:18.204Z,"4 km WNW of Cobb, CA",earthquake,0.35,0.670000017,0.04,11,automatic,nc,nc
 2025-02-27T08:30:24.890Z,62.1775,-154.1513,0,1.8,ml,,,,0.84,ak,ak0252o242vt,2025-02-27T08:32:14.035Z,"93 km S of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-02-27T08:27:47.775Z,9.1703,40.2964,10,4.7,mb,56,100,3.434,0.59,us,us6000pvs4,2025-02-27T19:15:15.007Z,"25 km NE of Āwash, Ethiopia",earthquake,8.82,1.913,0.08,47,reviewed,us,us
