@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-28T20:01:08.240Z,38.835498809815,-122.78366851807,2.0099999904633,0.75,md,11,96,0.005969,0.01,nc,nc75140616,2025-02-28T20:02:45.990Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.550000012,0.18,12,automatic,nc,nc
 2025-02-28T19:55:05.686Z,62.3603,-149.1682,0,2.9,ml,,,,1.06,ak,ak0252pwcic4,2025-02-28T19:57:08.981Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-28T19:51:51.910Z,32.9093333,-116.2431667,7.72,1.75,ml,58,46,0.06784,0.18,ci,ci41068840,2025-02-28T19:57:39.605Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.68,0.148,26,automatic,ci,ci
+2025-02-28T19:51:51.910Z,32.9093333,-116.2431667,7.72,1.75,ml,58,46,0.06784,0.18,ci,ci41068840,2025-02-28T20:02:51.550Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.68,0.148,26,automatic,ci,ci
 2025-02-28T19:51:23.480Z,32.9021667,-116.2416667,9.52,1.35,ml,28,118,0.07367,0.27,ci,ci41068832,2025-02-28T19:55:49.620Z,"28 km ENE of Pine Valley, CA",earthquake,0.41,0.73,0.142,29,automatic,ci,ci
 2025-02-28T19:45:08.897Z,32.368,-101.921,4.4209,1,ml,15,59,0,0.2,tx,tx2025ednb,2025-02-28T19:53:41.846Z,"26 km SW of Ackerly, Texas",earthquake,0,1.3213496208191,0.2,13,automatic,tx,tx
 2025-02-28T19:43:07.253Z,32.364,-101.925,4.6492,1.1,ml,12,88,0,0.1,tx,tx2025edna,2025-02-28T19:54:22.393Z,"26 km SW of Ackerly, Texas",earthquake,0,1.5118597745895,0.2,10,automatic,tx,tx
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T19:37:26.770Z,38.128833770752,-122.16466522217,2.2300000190735,1.87,md,8,140,0.01359,0.05,nc,nc75140601,2025-02-28T19:39:04.486Z,"6 km E of Vallejo, CA",earthquake,0.92,1.37,0.28,8,automatic,nc,nc
 2025-02-28T19:36:49.376Z,32.366,-101.922,4.8661,2.1,ml,9,114,0,0.1,tx,tx2025edmq,2025-02-28T19:56:35.120Z,"26 km SW of Ackerly, Texas",earthquake,0,1.794251203537,0.3,7,automatic,tx,tx
 2025-02-28T19:35:53.860Z,39.891834259033,-123.21966552734,7.7300000190735,2.51,md,31,63,0.01892,0.07,nc,nc75140596,2025-02-28T19:38:53.820Z,"11 km NNE of Covelo, CA",earthquake,0.17,0.330000013,0.09,34,automatic,nc,nc
-2025-02-28T19:33:24.297Z,32.37,-101.926,6.8115,4.8,ml,43,41,0,0,tx,tx2025edml,2025-02-28T19:59:00.500Z,"26 km SW of Ackerly, Texas",earthquake,0.48900832804111,1.4946286777463,0.2,45,reviewed,tx,tx
+2025-02-28T19:33:24.297Z,32.37,-101.926,6.8115,4.8,ml,43,41,0,0,tx,tx2025edml,2025-02-28T20:02:47.569Z,"26 km SW of Ackerly, Texas",earthquake,0.48900832804111,1.4946286777463,0.2,45,reviewed,tx,tx
 2025-02-28T19:32:08.994Z,63.5806,-150.7709,3.4,1.9,ml,,,,0.64,ak,ak0252pw7l8x,2025-02-28T19:34:45.948Z,"47 km E of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-28T19:29:55.170Z,32.9138333,-116.2406667,8.31,1.17,ml,40,45,0.06659,0.16,ci,ci41068824,2025-02-28T19:36:06.796Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.53,0.17,23,automatic,ci,ci
 2025-02-28T19:28:30.510Z,32.9095,-116.2451667,7.36,2.31,ml,72,46,0.06648,0.2,ci,ci41068816,2025-02-28T19:39:29.790Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.53,0.133,26,automatic,ci,ci
@@ -217,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-27T20:07:46.610Z,47.599333333333,-121.769,17.42,3.25,ml,106,48,0.1082,0.37,uw,uw62078461,2025-02-28T16:58:19.691Z,"8 km NNE of Snoqualmie, Washington",earthquake,0.27,0.43,0.15536805776394,133,reviewed,uw,uw
 2025-02-27T20:04:47.770Z,44.29,-115.17683333333,10.18,2.23,ml,16,68,0.3003,0.21,mb,mb90073288,2025-02-27T20:38:55.490Z,"20 km WNW of Stanley, Idaho",earthquake,0.49,1.22,0.2169865938352,17,reviewed,mb,mb
 2025-02-27T20:03:05.860Z,54.746333333333,-164.09933333333,3.56,0.39,ml,6,181,0.03004,0.09,av,av93034159,2025-02-28T10:22:36.480Z,"45 km WSW of False Pass, Alaska",earthquake,0.38,0.37,0.13258161220671,6,reviewed,av,av
-2025-02-27T20:02:45.528Z,61.5036,-153.6939,0,2.2,ml,,,,0.38,ak,ak0252o93boo,2025-02-28T15:17:48.040Z,"94 km E of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-27T20:02:17.569Z,38.7007,-117.1494,16,2,ml,8,182.91,0.494,0.3097,nn,nn00894127,2025-02-27T20:08:09.724Z,"56 km S of Kingston, Nevada",explosion,,2.2,0.69,4,automatic,nn,nn
-2025-02-27T20:00:42.970Z,-52.4605,26.0563,10,5,mb,63,38,20.426,0.85,us,us6000pvw6,2025-02-28T00:20:25.040Z,"south of Africa",earthquake,8.42,1.718,0.078,52,reviewed,us,us
