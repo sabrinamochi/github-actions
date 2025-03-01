@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-01T03:37:31.410Z,18.670333333333,-66.757166666667,17.27,2.69,md,10,253,0.322,0.17,pr,pr71474013,2025-03-01T03:49:47.850Z,"21 km N of Carrizales, Puerto Rico",earthquake,0.7,0.6,0.08182755841614,5,reviewed,pr,pr
 2025-03-01T03:30:16.360Z,38.816333770752,-122.79699707031,2.3900001049042,0.42,md,8,111,0.008458,0.01,nc,nc75140816,2025-03-01T03:47:23.025Z,"6 km NNW of The Geysers, CA",earthquake,0.7,1.33000004,0.16,8,automatic,nc,nc
 2025-03-01T03:06:59.828Z,31.648,-104.285,4.6404,1.7,ml,20,59,0,0.3,tx,tx2025eeaw,2025-03-01T03:40:48.585Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2968142032623,0.2,15,automatic,tx,tx
 2025-03-01T03:05:08.200Z,18.0285,-65.625666666667,19.67,2.49,md,14,200,0.09743,0.18,pr,pr71473998,2025-03-01T03:15:46.600Z,"18 km WSW of Esperanza, Puerto Rico",earthquake,0.82,0.37,0.11616742200331,11,reviewed,pr,pr
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T21:56:55.170Z,36.673000335693,-121.34266662598,0.75999999046326,1.76,md,19,56,0.03453,0.16,nc,nc75140691,2025-03-01T01:32:16.133Z,"13 km SSW of Tres Pinos, CA",earthquake,0.38,0.99000001,0.25,16,automatic,nc,nc
 2025-02-28T21:56:38.950Z,33.9731667,-116.9456667,18.26,1.86,ml,73,24,0.1204,0.18,ci,ci41068896,2025-02-28T22:18:29.850Z,"6 km NNE of Beaumont, CA",earthquake,0.13,0.3,0.199,22,reviewed,ci,ci
 2025-02-28T21:47:54.610Z,38.831001281738,-122.81466674805,1.7599999904633,1.06,md,19,65,0.0084,0.02,nc,nc75140676,2025-02-28T22:37:17.983Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.15,20,automatic,nc,nc
-2025-02-28T21:47:00.567Z,32.386,-101.631,4.1869,2.6,ml,64,39,0,0.4,tx,tx2025edqv,2025-03-01T03:18:25.040Z,"17 km SSE of Ackerly, Texas",earthquake,0,0.69369232654572,0.1,42,automatic,tx,tx
+2025-02-28T21:47:01.075Z,32.387,-101.635,6.8115,2.6,ml,41,54,0,0.1,tx,tx2025edqv,2025-03-01T03:49:46.764Z,"17 km SSE of Ackerly, Texas",earthquake,0.49038032641286,0.79431266006476,0.2,38,reviewed,tx,tx
 2025-02-28T21:46:43.950Z,33.8795,-116.6655,14.02,1.29,ml,50,28,0.09206,0.15,ci,ci41068888,2025-02-28T22:04:38.475Z,"11 km WSW of Garnet, CA",earthquake,0.14,0.38,0.177,23,reviewed,ci,ci
 2025-02-28T21:38:32.770Z,35.6008333,-117.4811667,9.71,0.92,ml,21,58,0.0794,0.17,ci,ci41068880,2025-02-28T21:56:37.423Z,"18 km E of Ridgecrest, CA",earthquake,0.29,0.72,0.18,8,reviewed,ci,ci
 2025-02-28T21:35:35.866Z,60.1371,-153.236,141.4,1.7,ml,,,,0.39,ak,ak0252pxf5o2,2025-02-28T21:37:36.360Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T04:11:06.860Z,61.287666666667,-152.24533333333,5.21,-0.87,ml,5,240,0.04898,0.1,av,av93516431,2025-02-28T22:13:03.640Z,"64 km WNW of Tyonek, Alaska",earthquake,0.89,1.01,0.19345086765112,4,reviewed,av,av
 2025-02-28T03:57:13.687Z,61.9715,-148.3427,1,1.9,ml,,,,0.73,ak,ak0252pmu0tk,2025-02-28T06:48:15.918Z,"20 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-28T03:56:50.620Z,56.222166666667,-159.13466666667,8.88,0.33,ml,4,190,0.09191,0.13,av,av93034269,2025-02-28T22:01:40.300Z,"23 km W of Chignik Lake, Alaska",earthquake,0.74,1.39,0.23131864071141,4,reviewed,av,av
-2025-02-28T03:48:25.300Z,64.4717,-148.0687,9.1,1,ml,,,,0.53,ak,ak0252pms49u,2025-02-28T06:48:03.699Z,"39 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
