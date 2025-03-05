@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-05T15:35:25.710Z,38.835166931152,-122.81749725342,1.6100000143051,1.07,md,18,62,0.01446,0.01,nc,nc75143326,2025-03-05T15:37:02.902Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.540000021,0.15,17,automatic,nc,nc
 2025-03-05T15:27:49.250Z,33.8683333,-117.8463333,6.29,1.9,ml,76,23,0.01769,0.22,ci,ci41071960,2025-03-05T15:35:39.259Z,"2 km E of Placentia, CA",earthquake,0.19,0.39,0.13,30,automatic,ci,ci
-2025-03-05T15:19:33.480Z,38.810333251953,-122.77266693115,1.3200000524521,0.78,md,10,80,0.006912,0.02,nc,nc75143316,2025-03-05T15:21:08.257Z,"4 km  of The Geysers, CA",earthquake,0.29,0.639999986,0.08,12,automatic,nc,nc
+2025-03-05T15:19:33.480Z,38.810333251953,-122.77266693115,1.3200000524521,0.78,md,10,80,0.006912,0.02,nc,nc75143316,2025-03-05T15:42:19.441Z,"4 km  of The Geysers, CA",earthquake,0.29,0.639999986,0.08,12,automatic,nc,nc
 2025-03-05T14:50:39.730Z,34.0271667,-117.038,15.61,0.89,ml,22,145,0.1914,0.35,ci,ci41071912,2025-03-05T14:55:03.854Z,"1 km SSE of Yucaipa, CA",earthquake,1.07,3.61,0.108,23,automatic,ci,ci
 2025-03-05T14:50:20.182Z,31.769,-104.147,4.6694,1.6,ml,17,94,0,0.2,tx,tx2025emgb,2025-03-05T15:02:40.757Z,"50 km SSE of Whites City, New Mexico",earthquake,0,1.3208876848221,0.2,12,automatic,tx,tx
 2025-03-05T14:50:10.690Z,38.829166412354,-122.83016967773,9.579999923706,0.8,md,7,124,0.007135,0.01,nc,nc75143306,2025-03-05T15:07:18.218Z,"9 km NW of The Geysers, CA",earthquake,2.05,8,0.1,8,automatic,nc,nc
@@ -105,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T04:16:38.923Z,63.1385,-151.3124,0,1.4,ml,,,,0.84,ak,ak0252xwvgg9,2025-03-05T04:20:04.433Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-05T04:12:59.320Z,18.9185,-67.117666666667,8.43,3.38,md,10,310,0.4486,0.29,pr,pr71474478,2025-03-05T04:29:38.930Z,"47 km N of San Antonio, Puerto Rico",earthquake,1.53,1.36,0.046475414324401,8,reviewed,pr,pr
 2025-03-05T04:06:01.765Z,-19.9375,-70.0947,44.314,4.3,mb,22,152,0.88,0.63,us,us6000pwyv,2025-03-05T13:47:08.762Z,"29 km N of Barrio Industrial, Chile",earthquake,4.49,11.173,0.128,17,reviewed,us,us
-2025-03-05T03:59:20.860Z,33.1663333,-116.385,6,0.61,ml,35,58,0.09938,0.18,ci,ci41071536,2025-03-05T04:03:21.937Z,"10 km S of Borrego Springs, CA",earthquake,0.22,0.93,0.194,11,automatic,ci,ci
+2025-03-05T03:59:20.860Z,33.1663333,-116.385,6,0.61,ml,35,58,0.09938,0.18,ci,ci41071536,2025-03-05T15:42:14.421Z,"10 km S of Borrego Springs, CA",earthquake,0.22,0.93,0.194,11,reviewed,ci,ci
 2025-03-05T03:51:58.960Z,35.26516667,-97.77283333,5.72,0.08,ml,14,202,0.01709664506,0.08,ok,ok2025elkj,2025-03-05T04:03:12.263Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.26,7,reviewed,ok,ok
 2025-03-05T03:51:27.690Z,38.839332580566,-122.81033325195,2.0199999809265,1.07,md,19,53,0.01564,0.01,nc,nc75143036,2025-03-05T04:22:18.960Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.560000002,0.19,19,automatic,nc,nc
 2025-03-05T03:51:08.250Z,35.26783333,-97.79133333,5.48,0.34,ml,14,133,0.003599293696,0.07,ok,ok2025elki,2025-03-05T04:02:50.087Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.17,6,reviewed,ok,ok
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T03:17:20.102Z,61.3128,-152.1149,32.1,0.8,ml,,,,0.68,ak,ak0252xwa67o,2025-03-05T03:19:11.268Z,"58 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-05T03:09:55.560Z,35.26933333,-97.78983333,5.45,0.38,ml,14,144,0.003599293696,0.08,ok,ok2025eliz,2025-03-05T03:16:48.074Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.16,6,reviewed,ok,ok
 2025-03-05T03:09:02.799Z,35.27,-97.78833333,5.42,0.82,ml,14,156,0.003599293696,0.07,ok,ok2025eliy,2025-03-05T03:16:25.866Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.12,6,reviewed,ok,ok
-2025-03-05T03:04:54.090Z,32.9125,-116.2386667,7.84,0.95,ml,39,71,0.06873,0.18,ci,ci41071480,2025-03-05T03:09:53.055Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.62,0.156,15,automatic,ci,ci
+2025-03-05T03:04:54.090Z,32.9125,-116.2386667,7.84,0.95,ml,39,71,0.06873,0.18,ci,ci41071480,2025-03-05T15:42:46.770Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.62,0.156,15,reviewed,ci,ci
 2025-03-05T03:04:44.320Z,35.25283333,-97.811,5.24,-0.04,ml,8,286,0.01169770451,0.03,ok,ok2025eliu,2025-03-05T03:12:50.482Z,"4 km S of Tuttle, Oklahoma",earthquake,,0.3,0.29,4,reviewed,ok,ok
 2025-03-05T03:03:38.689Z,35.24333333,-97.78633333,5.07,0.25,ml,10,324,0.01799646848,0.03,ok,ok2025elit,2025-03-05T03:08:04.993Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.3,0.24,5,reviewed,ok,ok
 2025-03-05T03:03:33.840Z,47.6,-113.254,5,0.83,ml,10,127,0.3908,0.09,mb,mb90073573,2025-03-05T15:20:32.630Z,"35 km ENE of Condon, Montana",earthquake,0.32,7.64,0.040860359059272,3,reviewed,mb,mb
