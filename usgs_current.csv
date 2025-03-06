@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-06T08:04:46.240Z,34.272,-116.5866667,8.51,1.45,ml,49,47,0.09642,0.13,ci,ci41072960,2025-03-06T08:09:55.104Z,"23 km NW of Yucca Valley, CA",earthquake,0.11,0.41,0.13,28,automatic,ci,ci
+2025-03-06T08:14:21.210Z,41.639167785645,-124.12349700928,8.4799995422363,2.65,md,17,182,0.09046,0.08,nc,nc75143741,2025-03-06T08:15:55.734Z,"13 km S of Bertsch-Oceanview, CA",earthquake,0.74,0.790000021,0.19,17,automatic,nc,nc
+2025-03-06T08:05:23.643Z,31.652,-104.36,4.335,1.7,ml,18,70,0.1,0.3,tx,tx2025enof,2025-03-06T08:15:15.680Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3029351234436,0.1,13,automatic,tx,tx
+2025-03-06T08:04:46.240Z,34.272,-116.5866667,8.51,1.45,ml,49,47,0.09642,0.13,ci,ci41072960,2025-03-06T08:15:39.820Z,"23 km NW of Yucca Valley, CA",earthquake,0.11,0.41,0.13,28,automatic,ci,ci
 2025-03-06T07:58:03.290Z,34.1426667,-117.3501667,5.53,1.07,ml,48,67,0.0391,0.2,ci,ci41072936,2025-03-06T08:03:45.076Z,"1 km SSW of Muscoy, CA",earthquake,0.17,0.33,0.204,29,automatic,ci,ci
 2025-03-06T07:43:45.840Z,38.821998596191,-122.76533508301,1.8899999856949,1.62,md,28,54,0.009185,0.04,nc,nc75143736,2025-03-06T07:45:20.241Z,"4 km W of Cobb, CA",earthquake,0.22,0.360000014,0.18,28,automatic,nc,nc
 2025-03-06T07:43:09.540Z,38.793334960938,-122.77666473389,2.079999923706,0.28,md,7,100,0.008795,0.02,nc,nc75143731,2025-03-06T08:07:17.079Z,"3 km NNW of The Geysers, CA",earthquake,0.76,1.38,0.07,8,automatic,nc,nc
@@ -11,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T06:49:00.452Z,61.336,-149.8904,33.5,2,ml,,,,0.3,ak,ak0252zlsnul,2025-03-06T06:50:31.391Z,"5 km ESE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-06T06:23:06.040Z,19.083833694458,-155.36016845703,31.620000839233,2.3,ml,49,253,0.1198,0.119999997,hv,hv74627957,2025-03-06T06:26:08.680Z,"18 km SE of Pāhala, Hawaii",earthquake,0.43,0.629999995,0.89,4,automatic,hv,hv
 2025-03-06T06:12:59.080Z,31.443,-103.555,4.139,1.6,ml,11,102,0,0.6,tx,tx2025enkn,2025-03-06T06:25:37.587Z,"6 km WNW of Pecos, Texas",earthquake,0,1.7048615217209,0.2,9,automatic,tx,tx
+2025-03-06T06:08:56.542Z,56.0748,-157.9453,41.8,1.9,ml,,,,0.34,ak,ak0252zljyjm,2025-03-06T08:14:07.113Z,"37 km SE of Chignik, Alaska",earthquake,,2,,,reviewed,ak,ak
 2025-03-06T06:00:52.700Z,38.830165863037,-122.8125,2.0699999332428,0.74,md,17,45,0.007022,0.02,nc,nc75143701,2025-03-06T06:42:17.488Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.639999986,0.12,16,automatic,nc,nc
 2025-03-06T05:54:54.880Z,38.829833984375,-122.82116699219,0.9200000166893,0.27,md,9,92,0.01079,0.05,nc,nc75143696,2025-03-06T06:32:19.497Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.839999974,0.14,10,automatic,nc,nc
 2025-03-06T05:53:45.100Z,38.830501556396,-122.81383514404,2.5699999332428,1.08,md,16,56,0.00768,0.01,nc,nc75143691,2025-03-06T06:22:17.358Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.680000007,0.16,19,automatic,nc,nc
@@ -46,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T02:43:48.980Z,34.0185,-117.59,5.17,0.92,ml,29,62,0.02735,0.17,ci,ci41072824,2025-03-06T02:50:45.403Z,"5 km SE of Ontario, CA",earthquake,0.2,0.4,0.295,28,automatic,ci,ci
 2025-03-06T02:34:29.295Z,61.9839,-149.8062,32.6,1.9,ml,,,,0.74,ak,ak0252zjbrwx,2025-03-06T02:37:04.942Z,"19 km S of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-06T02:30:14.580Z,38.832332611084,-122.81700134277,1.8300000429153,0.71,md,11,71,0.01044,0.01,nc,nc75143596,2025-03-06T02:47:18.873Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.850000024,0.5,14,automatic,nc,nc
-2025-03-06T02:28:19.064Z,51.5564,-177.1669,44.5,3.6,ml,,,,0.34,ak,ak0252zjah2f,2025-03-06T08:10:19.919Z,"51 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-03-06T02:28:19.064Z,51.5564,-177.1669,44.5,3.6,ml,,,,0.34,ak,ak0252zjah2f,2025-03-06T08:14:09.131Z,"51 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-03-06T02:27:54.607Z,59.5248,-152.0184,62.1,1.7,ml,,,,0.39,ak,ak0252zj9h1g,2025-03-06T08:06:54.094Z,"19 km NNW of Nanwalek, Alaska",earthquake,,3.9,,,reviewed,ak,ak
 2025-03-06T02:26:38.928Z,32.362,-102.063,3.9833,1.9,ml,64,41,0,0.5,tx,tx2025enda,2025-03-06T03:15:52.554Z,"36 km NW of Stanton, Texas",earthquake,0,0.66417628526688,0.1,45,automatic,tx,tx
 2025-03-06T02:24:13.431Z,62.6116,-142.8508,2,1.9,ml,,,,1.05,ak,ak0252zj9lj3,2025-03-06T02:36:44.244Z,"28 km NNE of Nabesna, Alaska",earthquake,,0.6,,,automatic,ak,ak
