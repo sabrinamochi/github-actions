@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-07T13:19:29.712Z,39.1384,-119.0551,0.9,1.1,ml,10,107.31,0.033,0.1935,nn,nn00894401,2025-03-07T13:21:35.059Z,"19 km NNE of Yerington, Nevada",earthquake,,0.3,0.39,4,automatic,nn,nn
 2025-03-07T13:14:20.740Z,38.832832336426,-122.83316802978,1.1799999475479,1.09,md,8,154,0.006027,0.01,nc,nc75144446,2025-03-07T13:15:55.819Z,"9 km NW of The Geysers, CA",earthquake,0.76,1.08000004,0.13,9,automatic,nc,nc
 2025-03-07T13:13:11.872Z,61.6979,-150.8493,48.3,1.9,ml,,,,0.21,ak,ak02531dacoj,2025-03-07T13:14:42.069Z,"24 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-03-07T13:11:51.730Z,38.835334777832,-122.80149841309,3.0299999713898,0.79,md,7,110,0.01368,0.01,nc,nc75144441,2025-03-07T13:13:26.011Z,"7 km WNW of Cobb, CA",earthquake,0.53,1.75999999,0.4,8,automatic,nc,nc
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T12:29:30.700Z,38.78450012207,-122.74183654785,1.0099999904633,1.07,md,7,169,0.004189,0.01,nc,nc75144421,2025-03-07T13:07:19.418Z,"1 km ENE of The Geysers, CA",earthquake,0.53,0.479999989,0.2,11,automatic,nc,nc
 2025-03-07T12:23:05.710Z,38.777000427246,-122.75849914551,1.460000038147,0.71,md,7,102,0.008451,0.01,nc,nc75144401,2025-03-07T12:42:16.248Z,"0 km W of The Geysers, CA",earthquake,0.4,0.680000007,0.16,7,automatic,nc,nc
 2025-03-07T12:18:51.740Z,32.098,-102.107,4.8415,1.6,ml,56,38,0.1,0.4,tx,tx2025epse,2025-03-07T12:31:03.034Z,"11 km NNW of Midland, Texas",earthquake,0,0.7076033949852,0.2,37,automatic,tx,tx
-2025-03-07T12:17:51.074Z,-14.6711,-72.081,106.829,5.4,mww,85,60,4.039,1.43,us,us6000pxeb,2025-03-07T13:12:22.244Z,"6 km W of Cayarani, Peru",earthquake,7.84,6.626,0.049,40,reviewed,us,us
+2025-03-07T12:17:51.074Z,-14.6711,-72.081,106.829,5.4,mww,85,60,4.039,1.43,us,us6000pxeb,2025-03-07T13:25:15.641Z,"6 km W of Cayarani, Peru",earthquake,7.84,6.626,0.049,40,reviewed,us,us
 2025-03-07T12:13:38.870Z,33.1775,-116.4371667,8.79,1.32,ml,61,52,0.092,0.21,ci,ci41073840,2025-03-07T12:28:28.726Z,"10 km SSW of Borrego Springs, CA",earthquake,0.17,0.59,0.178,27,automatic,ci,ci
 2025-03-07T12:05:57.083Z,60.7458,-152.0752,92.8,1.2,ml,,,,0.43,ak,ak02531cnevv,2025-03-07T12:08:36.645Z,"43 km W of Nikiski, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-03-07T11:58:24.222Z,61.3228,-152.2801,11,1.4,ml,,,,0.17,ak,ak02531cd5na,2025-03-07T11:59:43.010Z,"67 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,7 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T13:54:43.310Z,35.42933333,-98.01333333,4.64,0.94,ml,28,118,0.01349735136,0.28,ok,ok2025enzt,2025-03-06T14:20:52.211Z,"7 km WNW of Union City, Oklahoma",earthquake,,0.8,0.23,12,reviewed,ok,ok
 2025-03-06T13:40:24.894Z,7.6137,124.8114,10,4.6,mb,31,104,0.934,1,us,us6000px74,2025-03-06T14:01:10.040Z,"1 km NNW of Osias, Philippines",earthquake,8.1,1.891,0.107,30,reviewed,us,us
 2025-03-06T13:35:48.450Z,36.914333333333,-112.435,21.09,1.48,ml,8,156,0.1675,0.13,uu,uu80103341,2025-03-06T14:47:55.830Z,"8 km ESE of Fredonia, Arizona",earthquake,1.17,0.87,0.12742877759837,5,reviewed,uu,uu
-2025-03-06T13:25:04.820Z,32.9765,-116.3986667,4.48,0.98,ml,27,102,0.0111,0.15,ci,ci41073048,2025-03-06T18:44:55.396Z,"21 km NE of Pine Valley, CA",earthquake,0.19,0.31,0.146,11,reviewed,ci,ci
-2025-03-06T13:23:09.990Z,38.838665008545,-122.80883026123,2.2400000095367,0.7,md,11,62,0.01444,0.01,nc,nc75143841,2025-03-06T13:52:17.326Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.959999979,0.13,11,automatic,nc,nc
-2025-03-06T13:22:53.270Z,38.838165283203,-122.80783081055,1.9199999570847,1.04,md,20,53,0.01366,0.02,nc,nc75143836,2025-03-06T13:42:15.262Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.460000008,0.07,21,automatic,nc,nc
-2025-03-06T13:20:54.690Z,-40.777,174.2402,87.662,4.5,mb,30,58,0.637,0.51,us,us6000px70,2025-03-06T22:32:43.823Z,"56 km NNE of Waikawa, New Zealand",earthquake,4.6,8.026,0.181,9,reviewed,us,us
