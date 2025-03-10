@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-10T16:48:31.260Z,34.1518326,-118.3756638,17.58,1.55,ml,22,64,0.03692,0.15,ci,ci41076424,2025-03-10T16:50:35.714Z,"2 km ENE of Studio City, CA",earthquake,0.5,0.78,0.284,19,automatic,ci,ci
 2025-03-10T16:42:25.090Z,38.799331665039,-122.80666351318,1.4099999666214,1.08,md,16,61,0.01134,0.03,nc,nc75146356,2025-03-10T16:44:04.167Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.49000001,0.25,17,automatic,nc,nc
 2025-03-10T16:14:10.100Z,34.0605,-118.8988333,11.08,2.18,ml,66,129,0.06042,0.26,ci,ci41076384,2025-03-10T16:25:16.040Z,"10 km NW of Malibu, CA",earthquake,0.34,0.41,0.176,28,automatic,ci,ci
 2025-03-10T15:59:02.180Z,38.75316619873,-122.7174987793,1.6299999952316,1.38,md,14,77,0.01019,0.03,nc,nc75146341,2025-03-10T16:17:17.278Z,"3 km SW of Anderson Springs, CA",earthquake,0.31,0.289999992,0.14,13,automatic,nc,nc
@@ -166,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T21:59:11.754Z,-15.7748,-69.5876,258.648,4.5,mb,16,134,1.491,0.74,us,us6000pxus,2025-03-10T02:53:41.514Z,"10 km E of Taquile, Peru",earthquake,12.35,4.161,0.136,16,reviewed,us,us
 2025-03-09T21:54:45.930Z,34.9743333,-116.932,-0.27,1.83,ml,31,95,0.1125,0.17,ci,ci41075696,2025-03-09T22:06:45.445Z,"12 km NE of Barstow, CA",earthquake,0.19,0.41,0.128,26,automatic,ci,ci
 2025-03-09T21:51:05.250Z,33.976,-116.8215,17.22,1.51,ml,56,28,0.06009,0.23,ci,ci41075688,2025-03-09T22:02:18.290Z,"7 km NNW of Cabazon, CA",earthquake,0.22,0.52,0.103,27,automatic,ci,ci
-2025-03-09T21:38:15.479Z,46.619,-111.9859,10,2.7,ml,45,57,0.041,0.46,us,us6000pxuq,2025-03-10T16:20:33.277Z,"4 km NE of Helena, Montana",earthquake,1.18,1.898,0.046,62,reviewed,us,us
+2025-03-09T21:38:15.479Z,46.619,-111.9859,10,2.7,ml,45,57,0.041,0.46,us,us6000pxuq,2025-03-10T16:49:12.796Z,"4 km NE of Helena, Montana",earthquake,1.18,1.898,0.046,62,reviewed,us,us
 2025-03-09T21:36:02.900Z,38.796501159668,-122.75250244141,1.2400000095367,0.75,md,8,157,0.006978,0.02,nc,nc75145786,2025-03-09T21:52:15.998Z,"2 km NNE of The Geysers, CA",earthquake,0.47,0.970000029,0.04,8,automatic,nc,nc
 2025-03-09T21:35:50.530Z,18.053,-66.981833333333,9.58,1.92,md,6,149,0.07131,0.07,pr,pr71474928,2025-03-09T22:22:52.730Z,"3 km SW of Sabana Grande, Puerto Rico",earthquake,0.43,0.99,0.15112629349992,4,reviewed,pr,pr
 2025-03-09T21:35:29.680Z,17.984166666667,-66.817166666667,14.95,1.88,md,9,184,0.05007,0.12,pr,pr71474918,2025-03-09T21:56:06.020Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.51,0.59,0.093239262842629,7,reviewed,pr,pr
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T16:59:27.130Z,44.341166666667,-114.80866666667,7.93,2.21,ml,18,46,0.2365,0.19,mb,mb90073813,2025-03-10T15:51:15.010Z,"17 km NE of Stanley, Idaho",earthquake,0.47,1.09,0.20120441293947,16,reviewed,mb,mb
 2025-03-09T16:57:33.380Z,33.9415,-116.721,18.06,1.12,ml,46,29,0.1142,0.15,ci,ci41075432,2025-03-09T19:58:16.120Z,"7 km ENE of Cabazon, CA",earthquake,0.14,0.38,0.179,27,reviewed,ci,ci
 2025-03-09T16:53:25.410Z,38.829498291016,-122.85216522217,2.5299999713898,0.95,md,9,104,0.004162,0.02,nc,nc75145646,2025-03-09T17:12:18.133Z,"10 km NW of The Geysers, CA",earthquake,0.94,1.20000005,0.19,9,automatic,nc,nc
-2025-03-09T16:49:51.730Z,33.3681667,-116.8928333,4.97,2.47,ml,104,19,0.02914,0.25,ci,ci41075424,2025-03-09T20:08:23.340Z,"3 km WNW of Palomar Observatory, CA",earthquake,0.14,0.43,0.116,25,automatic,ci,ci
-2025-03-09T16:49:03.891Z,32.374,-101.92,7.0068,1.4,ml,31,49,0,0.1,tx,tx2025etrz,2025-03-10T12:19:59.357Z,"25 km SW of Ackerly, Texas",earthquake,0.44413789819686,0.99836619751741,0.1,28,reviewed,tx,tx
