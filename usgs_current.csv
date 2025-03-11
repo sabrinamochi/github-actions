@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-11T12:49:17.883Z,63.1851,-150.4471,45.5,1.9,ml,,,,0.89,ak,ak02537z21ac,2025-03-11T12:52:10.699Z,"75 km ESE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-03-11T12:40:47.910Z,38.834499359131,-122.79049682617,1.3400000333786,0.71,md,7,85,0.003906,0.01,nc,nc75146961,2025-03-11T12:42:25.349Z,"6 km WNW of Cobb, CA",earthquake,0.47,1.12,0.4,10,automatic,nc,nc
 2025-03-11T12:31:53.330Z,38.940334320068,-122.54850006103,1.8200000524521,2.01,md,10,165,0.09265,0.12,nc,nc75146946,2025-03-11T12:37:25.369Z,"6 km ENE of Lower Lake, CA",earthquake,0.6,11.1800003,0.1,12,automatic,nc,nc
 2025-03-11T11:50:33.000Z,38.81600189209,-122.82333374023,2,0.76,md,13,67,0.008461,0.02,nc,nc75146936,2025-03-11T12:07:24.167Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.579999983,0.17,12,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-11T11:19:27.085Z,39.1699,-119.0409,3.1,1.1,ml,8,136.25,0.002,0.0685,nn,nn00894562,2025-03-11T11:21:35.410Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.09,4,automatic,nn,nn
 2025-03-11T11:17:46.344Z,31.676,-104.395,6.1351,1.7,ml,18,98,0,0.5,tx,tx2025ewyb,2025-03-11T11:23:51.411Z,"55 km S of Whites City, New Mexico",earthquake,0,2.9052293300629,0.2,14,automatic,tx,tx
 2025-03-11T11:10:11.630Z,31.597,-103.929,5.7455,1.9,ml,16,87,0,0.2,tx,tx2025ewxv,2025-03-11T11:19:19.375Z,"33 km WSW of Mentone, Texas",earthquake,0,2.3397793769836,0.2,12,automatic,tx,tx
-2025-03-11T10:53:32.670Z,39.108165740967,-123.36083221435,0.15000000596046,1.25,md,7,116,0.08693,0.13,nc,nc75146916,2025-03-11T11:12:17.810Z,"11 km NNE of Boonville, CA",earthquake,0.71,4.13000011,0.12,4,automatic,nc,nc
+2025-03-11T10:53:32.670Z,39.108165740967,-123.36083221435,0.15000000596046,1.25,md,7,116,0.08693,0.13,nc,nc75146916,2025-03-11T12:52:18.472Z,"11 km NNE of Boonville, CA",earthquake,0.71,4.13000011,0.12,4,automatic,nc,nc
 2025-03-11T10:46:07.790Z,19.091667175293,-155.36199951172,32.04999923706,3.21,ml,57,230,0.1139,0.119999997,hv,hv74631727,2025-03-11T12:10:31.575Z,"17 km SE of Pāhala, Hawaii",earthquake,0.4,0.529999971,0.31,43,automatic,hv,hv
 2025-03-11T10:38:17.624Z,31.679,-104.402,7.106,2,ml,19,69,0,0.3,tx,tx2025ewwu,2025-03-11T10:49:05.089Z,"55 km S of Whites City, New Mexico",earthquake,0,2.4789326190948,0.1,15,automatic,tx,tx
 2025-03-11T10:37:58.075Z,31.714,-104.499,8.1886,2,ml,6,97,0,0.6,tx,tx2025ewwt,2025-03-11T11:29:06.458Z,"52 km SSW of Whites City, New Mexico",earthquake,0,4.7426791191101,0.2,6,automatic,tx,tx
@@ -228,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T12:57:39.000Z,35.8705,-117.0135,7.45,2.64,ml,41,36,0.1504,0.13,ci,ci41076224,2025-03-10T22:06:30.517Z,"35 km ENE of Trona, CA",earthquake,0.13,0.68,0.188,25,reviewed,ci,ci
 2025-03-10T12:56:29.000Z,33.4835,-116.8846667,12.33,0.73,ml,32,49,0.02241,0.22,ci,ci41076208,2025-03-10T13:02:46.931Z,"5 km NNW of Aguanga, CA",earthquake,0.27,0.62,0.14,26,automatic,ci,ci
 2025-03-10T12:53:34.180Z,38.758834838867,-122.7191696167,1.5199999809265,1.48,md,15,71,0.005233,0.03,nc,nc75146251,2025-03-10T15:47:20.076Z,"3 km WSW of Anderson Springs, CA",earthquake,0.27,0.330000013,0.18,15,automatic,nc,nc
-2025-03-10T12:53:07.320Z,38.760166168213,-122.72233581543,1.5099999904633,1.53,md,14,74,0.002435,0.03,nc,nc75146246,2025-03-10T15:27:18.946Z,"3 km WSW of Anderson Springs, CA",earthquake,0.24,0.370000005,0.2,15,automatic,nc,nc
-2025-03-10T12:50:48.730Z,33.6645,-116.7703333,12.4,0.75,ml,33,60,0.06943,0.16,ci,ci41076200,2025-03-10T14:30:36.395Z,"10 km SSW of Idyllwild, CA",earthquake,0.21,0.42,0.168,19,reviewed,ci,ci
