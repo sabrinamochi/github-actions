@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-12T02:36:49.910Z,38.831001281738,-122.8176651001,2.4300000667572,0.72,md,7,151,0.009636,0.01,nc,nc75147326,2025-03-12T02:38:26.265Z,"8 km NNW of The Geysers, CA",earthquake,0.77,1.19000006,0.24,8,automatic,nc,nc
+2025-03-12T02:35:31.290Z,38.82816696167,-122.81433105469,1.75,1.31,md,25,43,0.005811,0.02,nc,nc75147321,2025-03-12T02:37:06.778Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.340000004,0.09,26,automatic,nc,nc
+2025-03-12T02:34:27.670Z,38.829334259033,-122.81566619873,2.0499999523163,2.09,md,36,37,0.007366,0.03,nc,nc75147316,2025-03-12T02:42:17.750Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.289999992,0.14,44,automatic,nc,nc
 2025-03-12T02:25:28.330Z,38.940166473389,-122.52283477783,11.739999771118,2.82,md,58,62,0.09024,0.27,nc,nc75147311,2025-03-12T02:32:15.783Z,"8 km ENE of Lower Lake, CA",earthquake,0.36,0.529999971,0.13,67,automatic,nc,nc
 2025-03-12T01:49:11.480Z,38.823165893555,-122.84300231934,2.2200000286102,0.81,md,8,139,0.006228,0.01,nc,nc75147296,2025-03-12T02:07:24.567Z,"9 km NW of The Geysers, CA",earthquake,0.76,1.02999997,0.2,9,automatic,nc,nc
 2025-03-12T01:19:25.040Z,37.313331604004,-122.09133148193,4.4699997901917,2,md,25,66,0.02042,0.09,nc,nc75147291,2025-03-12T01:42:17.414Z,"4 km S of Loyola, CA",earthquake,0.22,0.330000013,0.16,23,automatic,nc,nc
@@ -69,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-11T16:23:00.169Z,71.7575,-1.2451,10,4.1,mb,42,85,6.098,0.59,us,us6000py59,2025-03-11T18:32:38.040Z,"282 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,5.5,1.897,0.107,26,reviewed,us,us
 2025-03-11T16:18:35.010Z,38.82149887085,-122.84116363525,2.0699999332428,1.91,md,40,65,0.005056,0.03,nc,nc75147076,2025-03-11T18:27:17.696Z,"9 km NW of The Geysers, CA",earthquake,0.17,0.239999995,0.12,38,automatic,nc,nc
 2025-03-11T16:17:28.880Z,35.8088333,-117.5573333,5.77,1.33,ml,22,77,0.158,0.14,ci,ci41077400,2025-03-11T20:11:27.869Z,"15 km WNW of Searles Valley, CA",earthquake,0.21,0.99,0.152,17,reviewed,ci,ci
+2025-03-11T16:03:45.130Z,61.174333333333,-152.3015,0.18,-0.76,ml,7,234,0.02831,0.09,av,av93035409,2025-03-12T02:37:47.300Z,"63 km W of Tyonek, Alaska",earthquake,0.52,1.37,0.28227846322782,7,reviewed,av,av
 2025-03-11T15:58:08.070Z,38.3777,-118.9202,6.8,1.5,ml,18,76.55,0.145,0.1321,nn,nn00894578,2025-03-12T02:11:29.395Z,"30 km ENE of Bridgeport, California",earthquake,,1.8,0.3,12,reviewed,nn,nn
 2025-03-11T15:50:06.913Z,64.3134,-159.1649,0,2.7,ml,,,,0.89,ak,ak025380uj0e,2025-03-11T18:02:07.040Z,"21 km W of Kaltag, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-11T15:48:21.300Z,38.781665802002,-122.71966552734,1.5199999809265,1.05,md,11,76,0.02086,0.03,nc,nc75147066,2025-03-11T16:07:16.805Z,"3 km WNW of Anderson Springs, CA",earthquake,0.24,0.660000026,0.17,12,automatic,nc,nc
@@ -209,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-11T02:58:03.036Z,63.2688,-150.6174,126.9,2.3,ml,,,,0.41,ak,ak02537t5ljj,2025-03-11T03:00:08.606Z,"63 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-03-11T02:47:54.320Z,18.002333333333,-66.820833333333,15.39,2.24,md,10,159,0.05412,0.1,pr,pr71475043,2025-03-11T03:10:02.930Z,"0 km N of Indios, Puerto Rico",earthquake,0.43,0.7,0.02741695580797,4,reviewed,pr,pr
 2025-03-11T02:46:05.380Z,41.7715,-112.636,0.51,-0.04,md,6,120,0.1043,0.09,uu,uu80002933,2025-03-11T17:43:04.810Z,"16 km W of Howell, Utah",earthquake,0.73,31.61,0.16170165218135,2,reviewed,uu,uu
-2025-03-11T02:41:23.692Z,42.4859,143.9385,73.466,4.9,mb,62,122,0.747,0.6,us,us6000py2f,2025-03-11T02:54:57.040Z,"43 km SSE of Honchō, Japan",earthquake,7.71,6.67,0.063,78,reviewed,us,us
-2025-03-11T02:39:01.104Z,32.768,-100.668,7.1533,1.1,ml,11,78,0.1,0.1,tx,tx2025ewhb,2025-03-11T11:26:08.427Z,"17 km NNE of Hermleigh, Texas",earthquake,0.74873902681822,1.3944988414323,0.2,9,reviewed,tx,tx
