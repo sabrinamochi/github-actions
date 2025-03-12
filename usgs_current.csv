@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-12T18:24:09.178Z,59.8581,-153.405,133.3,2.1,ml,,,,0.31,ak,ak02539q0lud,2025-03-12T18:26:41.342Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-03-12T18:23:29.240Z,34.3180008,-116.8603363,4.51,1.13,ml,16,77,0.04046,0.2,ci,ci41078376,2025-03-12T18:25:32.703Z,"6 km NNW of Big Bear City, CA",earthquake,0.54,0.58,0.224,8,automatic,ci,ci
+2025-03-12T18:23:29.310Z,34.3138333,-116.8533333,3.94,1.29,ml,26,91,0.04027,0.2,ci,ci41078376,2025-03-12T18:29:03.067Z,"6 km N of Big Bear City, CA",earthquake,0.25,0.4,0.377,31,automatic,ci,ci
 2025-03-12T18:21:00.410Z,38.83150100708,-122.78749847412,0.44999998807907,0.49,md,8,96,0.007247,0.19,nc,nc75147721,2025-03-12T18:22:36.215Z,"6 km WNW of Cobb, CA",earthquake,0.76,1.98000002,0.19,6,automatic,nc,nc
 2025-03-12T18:16:25.990Z,38.830333709717,-122.85099792481,1.2799999713898,0.94,md,7,146,0.005368,0.01,nc,nc75147716,2025-03-12T18:27:18.785Z,"10 km NW of The Geysers, CA",earthquake,0.47,1.07000005,0.11,9,automatic,nc,nc
 2025-03-12T18:10:18.420Z,33.0388333,-114.9851667,3.6,1.7,ml,10,64,0.0667,0.12,ci,ci41078360,2025-03-12T18:17:21.994Z,"44 km NNW of Los Algodones, B.C., MX",earthquake,0.32,0.51,0.244,16,automatic,ci,ci
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T10:54:17.950Z,36.986999511719,-119.66316986084,19.469999313354,2.27,md,5,205,0.1813,0.01,nc,nc75147541,2025-03-12T13:12:23.612Z,"5 km E of Friant, CA",earthquake,1.04,1.63,0.12,8,automatic,nc,nc
 2025-03-12T10:48:13.160Z,38.765167236328,-122.74116516113,1.9400000572205,1.05,md,13,88,0.0127,0.03,nc,nc75147536,2025-03-12T11:12:18.875Z,"2 km SSE of The Geysers, CA",earthquake,0.28,0.419999987,0.23,13,automatic,nc,nc
 2025-03-12T10:46:59.797Z,39.3341,71.6811,10,4.2,mb,16,128,0.17,1.26,us,us6000pyat,2025-03-12T12:02:11.040Z,"17 km NE of Karakenja, Tajikistan",earthquake,3.04,1.941,0.237,5,reviewed,us,us
-2025-03-12T10:46:31.229Z,38.1504,-117.9523,11.1,1.3,ml,9,135.74,0.055,0.1799,nn,nn00894604,2025-03-12T10:49:10.597Z,"29 km SSE of Mina, Nevada",earthquake,,0.4,0.51,6,automatic,nn,nn
+2025-03-12T10:46:31.172Z,38.1728,-117.8845,13.4,1.4,ml,11,103.41,0.083,0.116,nn,nn00894604,2025-03-12T18:29:35.895Z,"31 km SE of Mina, Nevada",earthquake,,1.5,0.22,7,reviewed,nn,nn
 2025-03-12T10:44:31.930Z,38.834499359131,-122.80916595459,2.0099999904633,0.74,md,7,100,0.01111,0.01,nc,nc75147531,2025-03-12T11:07:16.849Z,"8 km WNW of Cobb, CA",earthquake,0.41,2.50999999,0.19,9,automatic,nc,nc
 2025-03-12T10:41:37.713Z,61.4146,-150.0793,27.5,1.7,ml,,,,0.36,ak,ak02539lcudn,2025-03-12T10:43:30.519Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-12T10:23:28.949Z,35.475,-98.00666667,5.37,1.15,ml,47,75,0.05398940544,0.23,ok,ok2025eyrs,2025-03-12T15:15:04.766Z,"7 km SW of El Reno, Oklahoma",earthquake,,0.5,0.25,24,reviewed,ok,ok
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-11T18:42:30.190Z,38.829334259033,-122.78800201416,1.8500000238419,1.08,md,20,51,0.009244,0.03,nc,nc75147181,2025-03-11T19:07:18.036Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.349999994,0.18,20,automatic,nc,nc
 2025-03-11T18:41:55.416Z,60.7971,-147.2446,77.4,1.5,ml,,,,0.69,ak,ak025382l039,2025-03-11T18:43:32.075Z,"31 km WSW of Tatitlek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-03-11T18:31:16.240Z,38.826999664307,-122.79316711426,1.5499999523163,1.02,md,15,56,0.0116,0.01,nc,nc75147171,2025-03-11T18:52:20.861Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.649999976,0.24,15,automatic,nc,nc
-2025-03-11T18:28:34.979Z,34.29416667,-96.4565,0,1.31,ml,31,153,0.1628680397,0.76,ok,ok2025exmh,2025-03-12T15:43:02.290Z,"9 km SSW of Wapanucka, Oklahoma",quarry blast,,1.1,0.25,14,reviewed,ok,ok
