@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-13T01:42:12.580Z,37.285831451416,-121.66000366211,3.8599998950958,1.35,md,10,80,0.02877,0.03,nc,nc75147881,2025-03-13T01:43:51.474Z,"16 km ESE of Seven Trees, CA",earthquake,0.32,0.769999981,0.18,8,automatic,nc,nc
+2025-03-13T01:41:44.114Z,61.4358,-150.6652,53.3,1.4,ml,,,,0.42,ak,ak0253b3jax7,2025-03-13T01:43:01.086Z,"14 km SW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-03-13T01:38:34.310Z,64.9273,-148.6405,18.3,1.4,ml,,,,0.68,ak,ak0253b3in0n,2025-03-13T01:40:31.708Z,"30 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-13T01:33:22.090Z,38.817165374756,-122.82166290283,2.4000000953674,1.45,md,24,48,0.01015,0.02,nc,nc75147876,2025-03-13T01:34:56.790Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.370000005,0.14,24,automatic,nc,nc
-2025-03-13T01:27:21.560Z,38.83716583252,-122.84100341797,1.539999961853,1.03,md,13,117,0.004537,0.02,nc,nc75147871,2025-03-13T01:28:56.396Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.610000014,0.19,14,automatic,nc,nc
+2025-03-13T01:31:04.700Z,33.6291667,-116.7151667,15.1,0.77,ml,26,53,0.05255,0.15,ci,ci41078688,2025-03-13T01:36:18.585Z,"9 km NNW of Anza, CA",earthquake,0.23,0.39,0.199,22,automatic,ci,ci
+2025-03-13T01:27:21.560Z,38.83716583252,-122.84100341797,1.539999961853,1.03,md,13,117,0.004537,0.02,nc,nc75147871,2025-03-13T01:42:18.693Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.610000014,0.19,14,automatic,nc,nc
 2025-03-13T01:19:00.352Z,31.627,-104.453,4.6604,1.4,ml,14,107,0,0.3,tx,tx2025ezvj,2025-03-13T01:28:49.215Z,"61 km S of Whites City, New Mexico",earthquake,0,1.6288563013077,0.1,11,automatic,tx,tx
 2025-03-13T00:59:15.830Z,39.0703,-119.0182,9.4,1.9,ml,13,87.65,0.1,0.0847,nn,nn00894630,2025-03-13T01:01:39.450Z,"15 km NE of Yerington, Nevada",earthquake,,0.7,0.18,8,automatic,nn,nn
 2025-03-13T00:41:31.605Z,63.1333,-150.0992,74.8,1.3,ml,,,,0.28,ak,ak0253b2xuco,2025-03-13T00:43:36.518Z,"64 km WSW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -97,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T14:43:27.980Z,17.9555,-66.817833333333,16.32,2.26,md,6,212,0.06162,0.23,pr,pr71475403,2025-03-12T15:51:12.090Z,"4 km S of Indios, Puerto Rico",earthquake,0.94,1.28,0.11219538789263,6,reviewed,pr,pr
 2025-03-12T14:41:38.060Z,18.022666666667,-66.835166666667,11.05,2.15,md,8,136,0.05912,0.15,pr,pr71475258,2025-03-12T15:40:14.920Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.58,1.09,0.095782275586226,6,reviewed,pr,pr
 2025-03-12T14:40:06.760Z,17.996666666667,-66.847666666667,13.73,2.51,md,7,195,0.03113,0.11,pr,pr71475253,2025-03-12T15:24:20.960Z,"3 km W of Indios, Puerto Rico",earthquake,1.83,0.91,0.14566600652353,7,reviewed,pr,pr
-2025-03-12T14:34:44.680Z,17.96,-66.8091,14,3.85,md,19,168,0.0717,0.34,pr,pr2025071001,2025-03-12T18:51:38.529Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.76,1.35,0.1,13,reviewed,pr,pr
+2025-03-12T14:34:44.680Z,17.96,-66.8091,14,3.85,md,19,168,0.0717,0.34,pr,pr2025071001,2025-03-13T01:43:47.623Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.76,1.35,0.1,13,reviewed,pr,pr
 2025-03-12T14:32:27.518Z,65.3964,-150.0759,0,1.8,ml,,,,0.82,ak,ak02539nomkf,2025-03-12T14:35:28.850Z,"12 km SSE of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-12T14:31:42.521Z,61.6097,-146.5806,31.3,3,ml,,,,0.37,ak,ak02539nofyi,2025-03-12T14:32:53.618Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-12T14:20:58.450Z,19.408000946045,-155.29699707031,-1.1100000143051,1.87,ml,15,88,0.01403,0.349999994,hv,hv74632312,2025-03-12T14:24:09.160Z,"7 km WSW of Volcano, Hawaii",earthquake,0.36,0.400000006,0.21,5,automatic,hv,hv
@@ -248,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T01:49:11.480Z,38.823165893555,-122.84300231934,2.2200000286102,0.81,md,8,139,0.006228,0.01,nc,nc75147296,2025-03-12T02:07:24.567Z,"9 km NW of The Geysers, CA",earthquake,0.76,1.02999997,0.2,9,automatic,nc,nc
 2025-03-12T01:47:57.400Z,37.542833333333,-118.86816666667,7.68,0.43,md,16,134,0.05642,0.07,nc,nc75147301,2025-03-12T11:07:15.849Z,"14 km SSE of Mammoth Lakes, CA",earthquake,0.81,1.63,0.076,8,reviewed,nc,nc
 2025-03-12T01:45:51.570Z,56.125333333333,-159.44166666667,2.77,-0.02,ml,6,105,0.07323,0.27,av,av93035509,2025-03-12T21:02:59.750Z,"25 km N of Ivanof Bay, Alaska",earthquake,0.65,3.47,0.13193816815152,6,reviewed,av,av
-2025-03-12T01:41:03.760Z,44.387666666667,-114.67533333333,3.91,1.24,ml,11,82,0.3072,0.13,mb,mb90074188,2025-03-12T14:23:50.160Z,"26 km WNW of Clayton, Idaho",earthquake,0.41,6.96,0.18923485658057,12,reviewed,mb,mb
