@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-13T14:04:29.800Z,34.6096667,-118.6286667,6.81,1.47,ml,44,34,0.07837,0.24,ci,ci41078888,2025-03-13T14:11:51.443Z,"13 km N of Castaic, CA",earthquake,0.22,0.59,0.181,26,automatic,ci,ci
 2025-03-13T13:56:20.820Z,19.060667037964,-155.36332702637,31.60000038147,2.42,ml,54,206,0.1327,0.159999996,hv,hv74633117,2025-03-13T14:00:47.040Z,"19 km SE of Pāhala, Hawaii",earthquake,0.55,0.769999981,0.65,8,automatic,hv,hv
 2025-03-13T13:41:38.860Z,38.79666519165,-122.76599884033,1.6200000047684,0.71,md,8,80,0.006306,0.01,nc,nc75148116,2025-03-13T13:57:15.664Z,"2 km  of The Geysers, CA",earthquake,0.47,1.05999994,0.24,11,automatic,nc,nc
 2025-03-13T13:39:03.550Z,33.9751667,-117.1695,17.74,1.86,ml,94,21,0.02785,0.2,ci,ci41078856,2025-03-13T13:49:50.720Z,"8 km NE of Moreno Valley, CA",earthquake,0.14,0.3,0.182,25,automatic,ci,ci
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T11:36:54.404Z,39.1544,-119.0466,7.2,1.7,ml,13,79.7,0.016,0.1379,nn,nn00894633,2025-03-13T11:39:17.126Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.17,7,automatic,nn,nn
 2025-03-13T11:36:37.171Z,32.13,-102.179,7.6904,1.3,ml,8,72,0,0.1,tx,tx2025faps,2025-03-13T13:55:08.912Z,"17 km NNW of Midland, Texas",earthquake,2.0144565556845,0.7413697451351,0.1,24,reviewed,tx,tx
 2025-03-13T11:31:43.860Z,17.977833333333,-66.814833333333,14.97,1.99,md,7,193,0.05119,0.15,pr,pr71475733,2025-03-13T13:41:17.260Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.92,0.86,0.12950115998927,5,reviewed,pr,pr
-2025-03-13T11:31:36.680Z,37.434501647949,-119.02700042725,4.960000038147,1.75,md,18,142,0.1749,0.05,nc,nc75148091,2025-03-13T12:07:16.922Z,"23 km SSW of Mammoth Lakes, CA",earthquake,0.42,3,0.13,16,automatic,nc,nc
+2025-03-13T11:31:36.680Z,37.434501647949,-119.02700042725,4.960000038147,1.75,md,18,142,0.1749,0.05,nc,nc75148091,2025-03-13T14:07:17.728Z,"23 km SSW of Mammoth Lakes, CA",earthquake,0.42,3,0.13,16,automatic,nc,nc
 2025-03-13T11:28:25.140Z,17.9765,-66.821333333333,15.8,2.13,md,6,193,0.0449,0.09,pr,pr71475708,2025-03-13T11:40:22.340Z,"1 km S of Indios, Puerto Rico",earthquake,0.87,0.89,0.057685023630425,4,reviewed,pr,pr
 2025-03-13T11:27:46.679Z,39.5273,-98.3381,5,2.7,mb_lg,32,45,1.141,0.62,us,us6000pyjy,2025-03-13T12:10:35.390Z,"4 km NW of Glen Elder, Kansas",earthquake,2.09,1.988,0.058,78,reviewed,us,us
 2025-03-13T11:20:19.793Z,61.2977,-146.7883,29.1,1.5,ml,,,,0.21,ak,ak0253b9d323,2025-03-13T11:21:46.993Z,"30 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T10:51:47.383Z,64.9922,-148.0294,29.2,2,ml,,,,0.23,ak,ak0253b8ycs2,2025-03-13T10:53:06.895Z,"16 km N of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T10:51:14.050Z,17.993166666667,-66.817,15,2.36,md,9,171,0.05303,0.07,pr,pr71475683,2025-03-13T11:04:55.260Z,"0 km ESE of Indios, Puerto Rico",earthquake,0.66,0.55,0.056035573915038,4,reviewed,pr,pr
 2025-03-13T10:44:41.552Z,60.8454,-150.2741,38.7,1.8,ml,,,,0.25,ak,ak0253b8wubf,2025-03-13T10:45:56.778Z,"24 km ESE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2025-03-13T10:23:56.836Z,31.683,-104.406,4.6623,1.6,ml,13,79,0,0.2,tx,tx2025fani,2025-03-13T10:28:22.325Z,"54 km S of Whites City, New Mexico",earthquake,0,1.4693206548691,0.2,11,automatic,tx,tx
+2025-03-13T10:23:56.552Z,31.681,-104.41,6.1511,1.6,ml,13,77,0,0.2,tx,tx2025fani,2025-03-13T14:12:44.068Z,"54 km S of Whites City, New Mexico",earthquake,0.75866829392666,0.52410006202956,0.2,11,reviewed,tx,tx
 2025-03-13T10:18:13.720Z,19.200834274292,-155.37933349609,29.930000305176,1.96,ml,53,171,0.04031,0.129999995,hv,hv74633037,2025-03-13T10:29:25.240Z,"10 km E of Pāhala, Hawaii",earthquake,0.39,0.49000001,0.4,3,automatic,hv,hv
 2025-03-13T10:16:06.020Z,17.961666666667,-66.807,15.45,2.44,md,7,206,0.05932,0.09,pr,pr71475678,2025-03-13T10:35:03.690Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.93,0.67,0.067895944959732,6,reviewed,pr,pr
 2025-03-13T10:14:26.690Z,38.826831817627,-122.81433105469,1.539999961853,0.36,md,11,72,0.004779,0.01,nc,nc75148046,2025-03-13T10:37:18.338Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.779999971,0.22,12,automatic,nc,nc
@@ -244,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T14:32:27.518Z,65.3964,-150.0759,0,1.8,ml,,,,0.82,ak,ak02539nomkf,2025-03-12T14:35:28.850Z,"12 km SSE of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-12T14:31:42.521Z,61.6097,-146.5806,31.3,3,ml,,,,0.37,ak,ak02539nofyi,2025-03-12T14:32:53.618Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-12T14:20:58.450Z,19.408000946045,-155.29699707031,-1.1100000143051,1.87,ml,15,88,0.01403,0.349999994,hv,hv74632312,2025-03-12T14:24:09.160Z,"7 km WSW of Volcano, Hawaii",earthquake,0.36,0.400000006,0.21,5,automatic,hv,hv
-2025-03-12T14:09:11.155Z,60.2093,-139.2698,40,1.4,ml,,,,1.02,ak,ak02539njnu3,2025-03-12T14:11:39.488Z,"78 km NNE of Yakutat, Alaska",earthquake,,3.4,,,automatic,ak,ak
-2025-03-12T14:04:39.010Z,34.3515,-118.7611667,8.28,1.22,ml,33,61,0.1095,0.23,ci,ci41078128,2025-03-12T20:08:35.580Z,"8 km SSE of Piru, CA",earthquake,0.32,0.97,0.115,30,reviewed,ci,ci
-2025-03-12T14:02:15.103Z,62.2846,-151.6902,88.6,1.8,ml,,,,0.59,ak,ak02539ni64m,2025-03-12T14:05:19.530Z,"36 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
