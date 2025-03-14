@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-14T16:41:47.309Z,39.036,-119.0083,0,1.4,ml,9,90.56,0.135,0.3794,nn,nn00894674,2025-03-14T16:44:09.902Z,"14 km ENE of Yerington, Nevada",earthquake,,8.7,0.18,5,automatic,nn,nn
-2025-03-14T16:36:34.830Z,33.4571667,-116.6196667,9.4,1.34,ml,57,21,0.02065,0.19,ci,ci41079560,2025-03-14T16:43:27.082Z,"12 km SSE of Anza, CA",earthquake,0.16,0.35,0.233,25,automatic,ci,ci
+2025-03-14T16:36:34.830Z,33.4571667,-116.6196667,9.4,1.34,ml,57,21,0.02065,0.19,ci,ci41079560,2025-03-14T16:47:22.720Z,"12 km SSE of Anza, CA",earthquake,0.16,0.35,0.233,25,automatic,ci,ci
 2025-03-14T16:36:30.910Z,33.6803322,-116.7214966,13.49,1.65,ml,21,63,0.06611,0.25,ci,ci41079568,2025-03-14T16:38:39.123Z,"7 km S of Idyllwild, CA",earthquake,0.71,1.15,0.588,3,automatic,ci,ci
 2025-03-14T16:22:52.898Z,58.3004,-155.006,0,0.5,ml,,,,0.55,ak,ak0253czw3k9,2025-03-14T16:24:22.254Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-03-14T16:22:15.970Z,38.819499969482,-122.80683135986,2.460000038147,1.07,md,25,38,0.004641,0.03,nc,nc75148766,2025-03-14T16:33:27.489Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.18,26,automatic,nc,nc
+2025-03-14T16:22:15.970Z,38.819499969482,-122.80683135986,2.460000038147,1.07,md,25,38,0.004641,0.03,nc,nc75148766,2025-03-14T16:47:19.550Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.18,26,automatic,nc,nc
 2025-03-14T16:19:33.190Z,19.146667480469,-155.36233520508,29.35000038147,2.29,ml,56,184,0.09472,0.129999995,hv,hv74633807,2025-03-14T16:24:47.660Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.49,0.639999986,0.66,8,automatic,hv,hv
 2025-03-14T16:18:32.370Z,38.822498321533,-122.84466552734,2.2599999904633,1.16,md,26,104,0.007552,0.02,nc,nc75148761,2025-03-14T16:37:17.752Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.340000004,0.16,26,automatic,nc,nc
 2025-03-14T16:01:56.127Z,58.3463,-154.6878,8.3,1.2,ml,,,,0.46,ak,ak0253czrlrw,2025-03-14T16:03:10.255Z,"87 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-14T07:16:04.600Z,38.825500488281,-122.80433654785,7.6900000572205,0.45,md,8,106,0.0169,0.06,nc,nc75148471,2025-03-14T07:52:15.712Z,"7 km NNW of The Geysers, CA",earthquake,1.04,5.17999983,0.3,8,automatic,nc,nc
 2025-03-14T07:09:58.690Z,38.819999694824,-122.80183410644,3.039999961853,1.14,md,29,33,0.01305,0.02,nc,nc75148466,2025-03-14T09:37:15.425Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.409999996,0.17,28,automatic,nc,nc
 2025-03-14T07:09:31.560Z,38.818500518799,-122.80066680908,3.3199999332428,2.22,md,44,32,0.01132,0.06,nc,nc75148461,2025-03-14T09:12:20.258Z,"6 km NNW of The Geysers, CA",earthquake,0.18,0.270000011,0.12,49,automatic,nc,nc
-2025-03-14T06:49:56.410Z,33.5163333,-117.2153333,16.33,1.35,ml,27,82,0.06421,0.22,ci,ci41079328,2025-03-14T06:55:12.026Z,"4 km S of Murrieta, CA",earthquake,0.37,0.68,0.456,24,automatic,ci,ci
+2025-03-14T06:49:56.390Z,33.5185,-117.2168333,16.01,0.82,ml,19,92,0.07181,0.19,ci,ci41079328,2025-03-14T16:47:10.766Z,"4 km S of Murrieta, CA",earthquake,0.32,0.7,0.086,5,reviewed,ci,ci
 2025-03-14T06:48:24.261Z,67.843,-157.0335,0,2.1,ml,,,,0.27,ak,ak0253cu39x4,2025-03-14T06:54:46.238Z,"91 km NNE of Ambler, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-14T06:23:55.890Z,17.981,-66.812166666667,16.34,2.13,md,6,193,0.06413,0.08,pr,pr71475868,2025-03-14T07:27:07.568Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.51,0.73,0.16648115477947,4,reviewed,pr,pr
 2025-03-14T06:23:06.720Z,38.820499420166,-122.80016326904,2.7699999809265,0.77,md,20,54,0.01308,0.03,nc,nc75148436,2025-03-14T06:52:20.302Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.5,0.14,20,automatic,nc,nc
@@ -217,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T19:50:36.710Z,33.9918333,-116.8496667,12.66,1.54,ml,50,26,0.05547,0.17,ci,ci41079056,2025-03-13T21:29:47.623Z,"8 km NNE of Banning, CA",earthquake,0.16,0.49,0.131,24,reviewed,ci,ci
 2025-03-13T19:49:58.479Z,36.046,-97.83966667,6.48,1.29,ml,35,45,0.1448715713,0.15,ok,ok2025fbfz,2025-03-14T14:11:58.501Z,"8 km SE of Hennessey, Oklahoma",earthquake,,0.4,0.17,16,reviewed,ok,ok
 2025-03-13T19:44:57.570Z,38.8125,-122.8175,2.59,0.39,md,22,54,0.009818,0.01,nc,nc75148206,2025-03-14T06:42:17.224Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.54,0.119,22,reviewed,nc,nc
-2025-03-13T19:41:09.090Z,32.4078333,-115.263,11.47,3.33,ml,34,49,0.03738,0.34,ci,ci41079048,2025-03-13T20:43:26.068Z,"9 km NW of Delta, B.C., MX",earthquake,0.36,1.07,0.199,83,reviewed,ci,ci
+2025-03-13T19:41:09.090Z,32.4078333,-115.263,11.47,3.33,ml,34,49,0.03738,0.34,ci,ci41079048,2025-03-14T16:45:58.361Z,"9 km NW of Delta, B.C., MX",earthquake,0.36,1.07,0.199,83,reviewed,ci,ci
 2025-03-13T19:40:14.350Z,63.0689,-150.4645,29.1,1.7,ml,,,,1.01,ak,ak0253be8tsr,2025-03-13T19:42:12.791Z,"65 km NNE of Petersville, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2025-03-13T19:38:41.320Z,52.3235,-174.18233333333,5.64,0.3,ml,4,130,0.01227,0.14,av,av93035874,2025-03-14T04:10:08.790Z,"14 km N of Atka, Alaska",earthquake,0.88,0.67,0.52679219641123,4,reviewed,av,av
 2025-03-13T19:33:35.316Z,61.5794,-148.2088,15.5,1.6,ml,,,,0.69,ak,ak0253be7dej,2025-03-13T19:35:04.022Z,"27 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
