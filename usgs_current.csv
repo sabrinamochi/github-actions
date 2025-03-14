@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-14T21:53:52.001Z,60.219,-152.9245,113.7,1.5,ml,,,,0.34,ak,ak0253d31wps,2025-03-14T21:56:07.807Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-14T21:46:16.223Z,31.65,-104.28,6.5455,1.9,ml,16,87,0,0.7,tx,tx2025fdfi,2025-03-14T21:59:37.840Z,"59 km S of Whites City, New Mexico",earthquake,0,2.9081792831421,0.2,12,automatic,tx,tx
 2025-03-14T21:45:11.950Z,38.825832366943,-122.85683441162,11.689999580383,0.39,md,7,197,0.02608,0.01,nc,nc75148866,2025-03-14T21:46:47.045Z,"10 km NW of The Geysers, CA",earthquake,1.32,3.01999998,0.18,8,automatic,nc,nc
 2025-03-14T21:40:05.826Z,31.653,-104.291,5.7685,1.8,ml,15,87,0,0.4,tx,tx2025fdfc,2025-03-14T21:48:29.726Z,"58 km S of Whites City, New Mexico",earthquake,0,2.7893517017365,0.2,12,automatic,tx,tx
 2025-03-14T21:38:13.134Z,31.649,-104.29,6.409,1.6,ml,14,87,0,0.5,tx,tx2025fdfb,2025-03-14T21:47:45.719Z,"58 km S of Whites City, New Mexico",earthquake,0,2.8121705055237,0.2,12,automatic,tx,tx
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-14T19:31:24.050Z,37.622665405273,-119.00616455078,1.6599999666214,0.75,md,11,136,0.01688,0.02,nc,nc75148831,2025-03-14T19:47:21.174Z,"3 km WSW of Mammoth Lakes, CA",earthquake,0.39,0.860000014,0.24,11,automatic,nc,nc
 2025-03-14T19:18:37.859Z,59.7949,-153.3906,121.8,1.9,ml,,,,0.84,ak,ak0253d1nimv,2025-03-14T19:30:12.150Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-03-14T19:02:23.240Z,46.003,-112.466,-2,1.64,ml,10,113,0.06227,0.04,mb,mb90074358,2025-03-14T20:15:36.630Z,"5 km E of Butte, Montana",quarry blast,0.3,31.61,0.1945630177614,16,reviewed,mb,mb
-2025-03-14T18:59:27.470Z,33.3113333,-116.259,6.26,0.89,ml,38,41,0.06622,0.19,ci,ci41079648,2025-03-14T19:03:40.508Z,"12 km ENE of Borrego Springs, CA",earthquake,0.22,0.66,0.133,17,automatic,ci,ci
+2025-03-14T18:59:27.480Z,33.3095,-116.2591667,7.01,0.89,ml,39,36,0.06755,0.21,ci,ci41079648,2025-03-14T21:55:14.633Z,"12 km ENE of Borrego Springs, CA",earthquake,0.25,0.62,0.084,12,reviewed,ci,ci
 2025-03-14T18:46:57.587Z,60.2363,-140.3322,12.5,1.4,ml,,,,0.5,ak,ak0253d184bp,2025-03-14T18:57:06.497Z,"83 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-14T18:43:55.810Z,33.3083333,-116.262,7.46,1.04,ml,48,33,0.06702,0.22,ci,ci41079640,2025-03-14T18:48:48.554Z,"12 km ENE of Borrego Springs, CA",earthquake,0.19,0.57,0.137,24,automatic,ci,ci
 2025-03-14T18:41:45.820Z,33.007,-116.378,8.62,1.02,ml,26,68,0.04454,0.14,ci,ci41079632,2025-03-14T21:46:18.907Z,"22 km ESE of Julian, CA",earthquake,0.19,0.54,0.163,11,reviewed,ci,ci
@@ -240,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T22:04:45.475Z,67.8308,-157.0621,9.8,5.1,ml,,,,1.28,ak,ak0253bfth7a,2025-03-14T16:21:18.987Z,"89 km NNE of Ambler, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2025-03-13T22:02:30.150Z,17.971666666667,-66.820666666667,15.25,1.58,md,5,205,0.04535,0.07,pr,pr71475823,2025-03-13T22:51:51.140Z,"2 km S of Indios, Puerto Rico",earthquake,0.65,0.54,0.10118732306605,4,reviewed,pr,pr
 2025-03-13T22:01:03.620Z,17.968333333333,-66.822333333333,16.16,2.13,md,6,206,0.04395,0.08,pr,pr71475818,2025-03-13T22:27:29.910Z,"2 km S of Indios, Puerto Rico",earthquake,0.65,0.52,0.080594430340609,4,reviewed,pr,pr
-2025-03-13T21:59:39.640Z,56.9149,-154.0397,38.2,2,ml,,,,0.93,ak,ak0253bfjtkc,2025-03-13T22:02:00.758Z,"8 km ESE of Akhiok, Alaska",earthquake,,4.4,,,automatic,ak,ak
-2025-03-13T21:59:08.400Z,38.838165283203,-122.79783630371,1.5700000524521,0.7,md,7,124,0.005856,0.01,nc,nc75148236,2025-03-13T22:17:18.873Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.13999999,0.23,8,automatic,nc,nc
