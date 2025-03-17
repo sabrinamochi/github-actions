@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-17T01:27:03.450Z,33.7508333,-116.108,1.4,1.36,ml,52,34,0.1031,0.18,ci,ci41081376,2025-03-17T01:31:30.884Z,"10 km NE of Coachella, CA",earthquake,0.15,0.28,0.098,26,automatic,ci,ci
+2025-03-17T01:27:03.450Z,33.7508333,-116.108,1.4,1.36,ml,52,34,0.1031,0.18,ci,ci41081376,2025-03-17T01:38:17.220Z,"10 km NE of Coachella, CA",earthquake,0.15,0.28,0.098,26,automatic,ci,ci
 2025-03-17T01:20:02.850Z,32.256,-101.944,4.2858,1.2,ml,45,33,0,0.4,tx,tx2025fhdj,2025-03-17T01:30:15.587Z,"20 km NW of Stanton, Texas",earthquake,0,0.75541836023331,0.2,30,automatic,tx,tx
 2025-03-17T01:14:19.000Z,38.759498596191,-122.72833251953,2.2000000476837,2.02,md,21,71,0.003426,0.05,nc,nc75149811,2025-03-17T01:22:18.369Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.5,0.17,25,automatic,nc,nc
 2025-03-17T01:03:33.990Z,33.984,-116.4465,8.06,1.11,ml,49,33,0.05339,0.16,ci,ci41081368,2025-03-17T01:07:41.754Z,"6 km ENE of Desert Hot Springs, CA",earthquake,0.15,0.42,0.172,27,automatic,ci,ci
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-16T23:03:19.210Z,60.3398,-150.7911,41.9,1.5,ml,,,,0.31,ak,ak0253gf0okx,2025-03-16T23:05:06.023Z,"18 km S of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-03-16T22:56:48.580Z,38.833000183105,-122.79933166504,2.2300000190735,0.96,md,11,92,0.008857,0.01,nc,nc75149766,2025-03-17T00:52:16.159Z,"7 km WNW of Cobb, CA",earthquake,0.34,1.10000002,0.24,12,automatic,nc,nc
 2025-03-16T22:48:42.496Z,31.537,-104.151,3.5745,1.6,ml,16,73,0,0.3,tx,tx2025fgyj,2025-03-16T22:56:55.924Z,"41 km NW of Toyah, Texas",earthquake,0,1.6375743150711,0.2,13,automatic,tx,tx
-2025-03-16T22:46:22.223Z,51.9482,178.3494,106.272,4.4,mb,50,132,0.137,0.59,us,us6000pz88,2025-03-17T01:05:32.930Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.75,4.84,0.05,117,reviewed,us,us
+2025-03-16T22:46:21.647Z,51.8577,178.2681,107.977,4.4,mb,61,139,0.176,0.57,us,us6000pz88,2025-03-17T01:43:12.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.94,5.017,0.048,127,reviewed,us,us
 2025-03-16T22:41:54.010Z,38.767501831055,-122.70066833496,1.6599999666214,1.57,md,9,158,0.001278,0.04,nc,nc75149761,2025-03-17T00:32:16.007Z,"1 km SW of Anderson Springs, CA",earthquake,0.47,0.460000008,0.28,9,automatic,nc,nc
 2025-03-16T22:27:57.213Z,60.4973,-148.7813,19,2.9,ml,,,,0.8,ak,ak0253gekh37,2025-03-16T22:43:56.040Z,"31 km S of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-16T22:13:03.280Z,38.836833953857,-122.83283233643,1.9500000476837,1.09,md,11,82,0.002715,0.01,nc,nc75149741,2025-03-17T00:12:19.960Z,"9 km NNW of The Geysers, CA",earthquake,0.34,0.519999981,0.14,12,automatic,nc,nc
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-16T02:01:24.580Z,17.979833333333,-66.8065,15.14,1.85,md,6,192,0.05929,0.11,pr,pr71476088,2025-03-16T02:21:22.780Z,"2 km SE of Indios, Puerto Rico",earthquake,0.64,0.69,0.040411273729785,4,reviewed,pr,pr
 2025-03-16T01:54:27.640Z,35.9618333,-117.326,3.88,1.28,ml,19,86,0.07876,0.18,ci,ci41080552,2025-03-16T01:57:52.382Z,"22 km NNE of Trona, CA",earthquake,0.28,0.82,0.186,17,automatic,ci,ci
 2025-03-16T01:46:56.343Z,32.005,-101.736,3.9478,1,ml,14,67,0.1,0.3,tx,tx2025ffit,2025-03-16T01:59:23.477Z,"14 km SSE of Stanton, Texas",earthquake,0,1.4472335577011,0.1,10,automatic,tx,tx
-2025-03-16T01:42:16.460Z,33.8688333,-117.8136667,9.84,0.97,ml,40,111,0.04514,0.21,ci,ci41080536,2025-03-16T16:51:30.299Z,"2 km S of Yorba Linda, CA",earthquake,0.31,0.47,0.112,20,reviewed,ci,ci
