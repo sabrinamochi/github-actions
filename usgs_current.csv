@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-17T13:19:55.957Z,62.3734,-148.1896,23.3,1.6,ml,,,,0.99,ak,ak0253hwp7bf,2025-03-17T13:22:04.391Z,"65 km NNE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-17T13:08:27.841Z,60.2679,-152.1566,85,1.4,ml,,,,0.23,ak,ak0253hwms9s,2025-03-17T13:10:05.772Z,"36 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-03-17T13:02:35.420Z,38.820167541504,-122.82299804688,2.3199999332428,0.82,md,8,85,0.009849,0.01,nc,nc75150051,2025-03-17T13:04:13.479Z,"7 km NW of The Geysers, CA",earthquake,0.52,1.03999996,0.25,8,automatic,nc,nc
+2025-03-17T13:02:35.420Z,38.820167541504,-122.82299804688,2.3199999332428,0.82,md,8,85,0.009849,0.01,nc,nc75150051,2025-03-17T13:22:19.069Z,"7 km NW of The Geysers, CA",earthquake,0.52,1.03999996,0.25,8,automatic,nc,nc
 2025-03-17T12:55:38.450Z,33.4998333,-116.4388333,5.27,0.84,ml,41,74,0.1129,0.18,ci,ci41081744,2025-03-17T12:59:54.509Z,"22 km SSW of La Quinta, CA",earthquake,0.16,0.96,0.103,23,automatic,ci,ci
 2025-03-17T12:49:49.816Z,60.2304,-151.0039,60.7,1.7,ml,,,,0.32,ak,ak0253hwa6px,2025-03-17T12:51:41.371Z,"19 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-17T12:40:12.424Z,63.0874,-151.3528,0,1.5,ml,,,,0.53,ak,ak0253hw86e2,2025-03-17T12:42:19.495Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -184,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-16T16:18:48.333Z,31.679,-104.238,4.6635,1.5,ml,17,63,0,0.3,tx,tx2025fglp,2025-03-16T16:24:05.254Z,"56 km SSE of Whites City, New Mexico",earthquake,0,1.2727637290955,0.2,13,automatic,tx,tx
 2025-03-16T16:10:27.316Z,-20.375,-177.5898,495.425,4.6,mb,36,113,4.832,0.75,us,us6000pz6p,2025-03-16T16:32:21.040Z,"253 km WNW of Houma, Tonga",earthquake,15.99,8.635,0.1,30,reviewed,us,us
 2025-03-16T16:01:14.263Z,65.8483,-156.3959,0,2.4,ml,,,,0.59,ak,ak0253gau7j6,2025-03-16T16:03:56.272Z,"16 km N of Huslia, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-03-16T16:00:43.400Z,44.653666666667,-113.15266666667,8.9,1.47,ml,13,123,0.2778,0.09,mb,mb90074443,2025-03-17T13:28:05.400Z,"16 km E of Leadore, Idaho",earthquake,0.41,1.3,0.10519639417425,14,reviewed,mb,mb
 2025-03-16T15:55:55.490Z,35.54083333,-96.74583333,6.36,1.62,ml,71,46,0.008098410816,0.17,ok,ok2025fgkt,2025-03-17T12:18:14.584Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.21,30,reviewed,ok,ok
 2025-03-16T15:53:37.700Z,35.974,-117.8786667,1.91,0.88,ml,19,107,0.03499,0.15,ci,ci41080896,2025-03-16T17:09:10.230Z,"5 km NNE of Little Lake, CA",earthquake,0.2,0.26,0.177,16,reviewed,ci,ci
 2025-03-16T15:51:50.102Z,32.358,-102.086,3.9837,2.3,ml,60,45,0,0.5,tx,tx2025fgkq,2025-03-16T16:07:51.152Z,"37 km NW of Stanton, Texas",earthquake,0,0.66604715585709,0.2,41,automatic,tx,tx
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-16T13:34:05.026Z,19.8704,146.4402,10,4.5,mb,17,164,4.646,1.12,us,us6000pz66,2025-03-16T13:53:36.040Z,"Mariana Islands region",earthquake,12.39,1.953,0.14,15,reviewed,us,us
 2025-03-16T13:34:00.870Z,36.563499450684,-121.16750335693,1.9900000095367,2.03,md,22,70,0.01657,0.15,nc,nc75149556,2025-03-16T15:17:19.330Z,"4 km NNW of Pinnacles, CA",earthquake,0.37,0.649999976,0.13,22,automatic,nc,nc
 2025-03-16T13:31:37.536Z,60.5581,-151.0306,14.4,1.5,ml,,,,0.34,ak,ak0253g98dzt,2025-03-16T13:34:18.978Z,"4 km NE of Ridgeway, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-16T13:27:57.270Z,38.800998687744,-122.77983093262,2.9000000953674,1.08,md,12,77,0.01005,0.01,nc,nc75149551,2025-03-16T15:07:17.262Z,"3 km NNW of The Geysers, CA",earthquake,0.34,0.860000014,0.13,14,automatic,nc,nc
-2025-03-16T13:25:12.630Z,58.2392,-155.1854,2,1.8,ml,,,,0.98,ak,ak0253g971rz,2025-03-16T13:27:58.176Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
