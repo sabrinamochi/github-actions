@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-18T16:15:19.960Z,38.817665100098,-122.81950378418,2.2999999523163,0.77,md,9,117,0.009327,0.01,nc,nc75151117,2025-03-18T16:16:57.887Z,"7 km NW of The Geysers, CA",earthquake,0.43,0.870000005,0.15,11,automatic,nc,nc
 2025-03-18T16:14:57.826Z,58.1403,-156.3521,1.8,2.9,ml,,,,0.47,ak,ak0253jlzs7c,2025-03-18T16:16:53.406Z,"60 km E of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-18T15:40:49.970Z,18.867666666667,-65.164,21.79,3.43,md,18,259,0.549,0.25,pr,pr71476418,2025-03-18T16:17:06.620Z,"63 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.03,18.36,0.13570688993483,13,reviewed,pr,pr
+2025-03-18T15:40:49.970Z,18.867666666667,-65.164,21.79,3.43,md,18,259,0.549,0.25,pr,pr71476418,2025-03-18T16:27:16.040Z,"63 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.03,18.36,0.13570688993483,13,reviewed,pr,pr
 2025-03-18T15:29:04.300Z,38.509833333333,-112.906,3.2,1.08,md,12,116,0.01728,0.1,uu,uu80104056,2025-03-18T16:18:19.540Z,"15 km NE of Milford, Utah",earthquake,0.3,0.55,0.27563706950378,4,reviewed,uu,uu
 2025-03-18T15:20:09.132Z,57.0478,-157.8774,0,2.8,ml,,,,0.81,ak,ak0253jlfj4h,2025-03-18T15:57:20.057Z,"59 km SSW of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-18T14:58:07.089Z,36.9562,71.0628,115.117,4.3,mb,30,152,2.271,1.04,us,us6000pzkp,2025-03-18T15:35:31.040Z,"22 km ENE of Jurm, Afghanistan",earthquake,7.42,12.174,0.201,7,reviewed,us,us
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T13:06:30.450Z,18.7155,-65.746,42.05,3.43,md,21,215,0.5034,0.24,pr,pr71476398,2025-03-18T15:04:18.040Z,"33 km NNE of Vieques, Puerto Rico",earthquake,1.03,2.54,0.013101480859105,5,reviewed,pr,pr
 2025-03-18T12:50:53.240Z,62.1826,-149.6763,85.7,1.6,ml,,,,1.19,ak,ak0253jjtr70,2025-03-18T12:53:23.965Z,"9 km ENE of Susitna North, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-18T12:41:38.210Z,35.6606674,-117.4848328,4.01,1.52,ml,15,60,0.04997,0.17,ci,ci41082496,2025-03-18T12:43:48.490Z,"14 km SSW of Searles Valley, CA",earthquake,0.42,1.05,0.335,8,automatic,ci,ci
-2025-03-18T12:38:46.323Z,11.0173,142.4306,10,4.7,mb,42,116,3.494,0.58,us,us6000pzk6,2025-03-18T14:49:00.708Z,"250 km ENE of Fais, Micronesia",earthquake,11.37,1.887,0.096,33,reviewed,us,us
+2025-03-18T12:38:55.207Z,11.7957,141.4618,10,4.8,mb,45,97,3.772,0.67,us,us6000pzk6,2025-03-18T16:29:12.040Z,"247 km NNE of Fais, Micronesia",earthquake,10.82,1.894,0.094,35,reviewed,us,us
 2025-03-18T12:34:22.490Z,38.845664978027,-122.80683135986,10.140000343323,0.72,md,9,152,0.01477,0.06,nc,nc75151017,2025-03-18T13:12:17.522Z,"8 km WNW of Cobb, CA",earthquake,1.3,2.53999996,0.06,10,automatic,nc,nc
 2025-03-18T12:33:20.140Z,38.833831787109,-122.80750274658,2.210000038147,1.04,md,21,49,0.01061,0.02,nc,nc75151012,2025-03-18T13:07:18.487Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.49000001,0.12,22,automatic,nc,nc
 2025-03-18T12:32:43.560Z,38.834167480469,-122.80583190918,2.3900001049042,1.92,md,38,28,0.01126,0.05,nc,nc75151007,2025-03-18T15:07:19.409Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.289999992,0.11,38,automatic,nc,nc
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T06:31:12.601Z,-42.8609,42.5601,10,4.8,mb,25,86,19.929,0.9,us,us6000pzin,2025-03-18T06:49:36.040Z,"Prince Edward Islands region",earthquake,8.92,1.876,0.111,25,reviewed,us,us
 2025-03-18T06:31:10.860Z,33.8838348,-116.62117,19.32,1.42,ml,14,111,0.1579,0.07,ci,ci41082440,2025-03-18T06:33:25.450Z,"7 km WSW of Garnet, CA",earthquake,0.59,1.09,0.235,6,automatic,ci,ci
 2025-03-18T06:30:33.750Z,38.842166900635,-122.86533355713,3.5199999809265,0.69,md,7,154,0.02358,0.01,nc,nc75150877,2025-03-18T06:47:23.723Z,"12 km NW of The Geysers, CA",earthquake,1.1,1.94000006,0.1,8,automatic,nc,nc
-2025-03-18T06:10:50.280Z,47.387,-122.46516666667,21.73,3.24,ml,89,25,0.03694,0.15,uw,uw62074482,2025-03-18T16:21:57.434Z,"6 km S of Vashon, Washington",earthquake,0.18,0.43,0.17796914060501,128,reviewed,uw,uw
+2025-03-18T06:10:50.280Z,47.387,-122.46516666667,21.73,3.24,ml,89,25,0.03694,0.15,uw,uw62074482,2025-03-18T16:27:14.987Z,"6 km S of Vashon, Washington",earthquake,0.18,0.43,0.17796914060501,128,reviewed,uw,uw
 2025-03-18T06:07:26.980Z,38.833831787109,-122.83233642578,1.1900000572205,0.73,md,11,61,0.00535,0.01,nc,nc75150872,2025-03-18T06:27:15.585Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.589999974,0.31,12,automatic,nc,nc
 2025-03-18T06:05:53.834Z,55.7552,-158.474,25,2.5,ml,,,,0.59,ak,ak0253jfzidz,2025-03-18T06:07:48.925Z,"45 km ESE of Perryville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-03-18T06:02:43.990Z,34.0643349,-118.8864975,10.94,1.78,ml,28,141,0.07035,0.29,ci,ci41082432,2025-03-18T06:16:25.032Z,"10 km NW of Malibu, CA",earthquake,0.8,0.91,0.252,31,automatic,ci,ci
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T04:50:47.200Z,37.7063331604,-121.9871673584,10.439999580383,2.36,md,61,37,0.06919,0.13,nc,nc75150842,2025-03-18T08:27:21.441Z,"5 km WNW of Dublin, CA",earthquake,0.2,0.430000007,0.15,54,automatic,nc,nc
 2025-03-18T04:50:23.630Z,38.837333679199,-122.78199768066,1.789999961853,1.33,md,21,68,0.006606,0.03,nc,nc75150837,2025-03-18T08:12:24.335Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.389999986,0.17,23,automatic,nc,nc
 2025-03-18T04:47:24.930Z,33.2635002,-116.1309967,7.71,1.64,ml,50,42,0.1227,0.25,ci,ci41082408,2025-03-18T04:49:41.875Z,"13 km N of Ocotillo Wells, CA",earthquake,0.29,1.21,0.186,25,automatic,ci,ci
-2025-03-18T04:46:13.940Z,37.709331512451,-121.98650360107,11.140000343323,2.9,md,86,30,0.06835,0.16,nc,nc75150832,2025-03-18T16:21:32.497Z,"5 km WNW of Dublin, CA",earthquake,0.18,0.449999988,0.12,104,automatic,nc,nc
+2025-03-18T04:46:13.940Z,37.709331512451,-121.98650360107,11.140000343323,2.9,md,86,30,0.06835,0.16,nc,nc75150832,2025-03-18T16:27:45.196Z,"5 km WNW of Dublin, CA",earthquake,0.18,0.449999988,0.12,104,automatic,nc,nc
 2025-03-18T04:43:13.940Z,38.831165313721,-122.80899810791,2.539999961853,0.72,md,6,119,0.007804,0.01,nc,nc75150827,2025-03-18T05:17:17.098Z,"8 km WNW of Cobb, CA",earthquake,0.44,1.51999998,0.12,7,automatic,nc,nc
 2025-03-18T04:42:47.730Z,38.832164764404,-122.80850219727,2.3499999046326,1.26,md,26,45,0.008843,0.02,nc,nc75150822,2025-03-18T07:32:19.052Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.469999999,0.12,26,automatic,nc,nc
 2025-03-18T04:41:46.280Z,34.0018349,-117.1341629,14.96,1.18,ml,24,99,0.1508,0.16,ci,ci41082400,2025-03-18T04:43:48.783Z,"8 km SE of Redlands, CA",earthquake,0.33,0.76,0.299,11,automatic,ci,ci
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-17T16:37:42.670Z,33.0328333,-116.6956667,13.57,1.35,ml,51,27,0.09537,0.19,ci,ci41081952,2025-03-17T16:48:04.310Z,"9 km ENE of San Diego Country Estates, CA",earthquake,0.17,0.47,0.248,29,automatic,ci,ci
 2025-03-17T16:35:01.336Z,62.2028,-149.5375,34.5,1.3,ml,,,,0.91,ak,ak0253hyktdh,2025-03-17T16:37:15.125Z,"16 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-17T16:31:16.220Z,37.4795,-119.01083333333,0.52,0.36,md,9,123,0.1214,0.13,nc,nc75150121,2025-03-17T18:19:09.223Z,"18 km SSW of Mammoth Lakes, CA",earthquake,0.68,4.33,0.111,6,reviewed,nc,nc
-2025-03-17T16:27:56.953Z,60.7339,-150.6671,44.4,1.9,ml,,,,0.57,ak,ak0253hyj7uz,2025-03-17T16:37:57.933Z,"21 km S of Point Possession, Alaska",earthquake,,0.5,,,reviewed,ak,ak
