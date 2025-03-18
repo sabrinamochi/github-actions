@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T14:08:45.280Z,36.023,-117.7866667,0.96,1.26,ml,22,70,0.01749,0.23,ci,ci41082560,2025-03-18T17:40:50.087Z,"14 km NE of Little Lake, CA",earthquake,0.26,0.32,0.187,22,reviewed,ci,ci
 2025-03-18T14:03:46.900Z,35.6595,-117.4736667,6.62,1.07,ml,17,59,0.04106,0.14,ci,ci41082552,2025-03-18T18:20:15.814Z,"14 km SSW of Searles Valley, CA",earthquake,0.26,0.52,0.203,7,reviewed,ci,ci
 2025-03-18T14:01:26.280Z,38.824333190918,-122.84183502197,1.9299999475479,1.37,md,29,56,0.005453,0.02,nc,nc75151042,2025-03-18T16:07:23.723Z,"9 km NW of The Geysers, CA",earthquake,0.18,0.300000012,0.14,30,automatic,nc,nc
-2025-03-18T13:50:17.560Z,33.4783333,-116.8936667,13.51,1.1,ml,38,34,0.01522,0.21,ci,ci41082536,2025-03-18T17:23:56.996Z,"5 km NW of Aguanga, CA",earthquake,0.25,0.62,0.159,27,automatic,ci,ci
+2025-03-18T13:50:17.620Z,33.4801667,-116.8945,12.65,1.09,ml,31,29,0.01422,0.17,ci,ci41082536,2025-03-18T20:00:49.128Z,"5 km NNW of Aguanga, CA",earthquake,0.2,0.55,0.125,21,reviewed,ci,ci
 2025-03-18T13:42:53.879Z,32.116,-102.143,6.0539,1,ml,12,73,0,0.2,tx,tx2025fjxk,2025-03-18T13:53:56.722Z,"14 km NNW of Midland, Texas",earthquake,0,3.13458943367,0.2,9,automatic,tx,tx
 2025-03-18T13:36:50.760Z,32.9885,-116.3766667,5.69,1.57,ml,58,45,0.03305,0.17,ci,ci41082528,2025-03-18T17:42:15.670Z,"23 km ESE of Julian, CA",earthquake,0.13,0.4,0.178,27,reviewed,ci,ci
 2025-03-18T13:36:05.310Z,38.833499908447,-122.80899810791,2.4400000572205,0.76,md,13,50,0.01013,0.01,nc,nc75151037,2025-03-18T13:52:17.791Z,"8 km WNW of Cobb, CA",earthquake,0.32,1.24000001,0.16,13,automatic,nc,nc
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T06:31:11.010Z,33.8836667,-116.6233333,17.37,1,ml,33,53,0.08514,0.13,ci,ci41082440,2025-03-18T17:42:25.617Z,"8 km WSW of Garnet, CA",earthquake,0.17,0.46,0.193,27,reviewed,ci,ci
 2025-03-18T06:30:33.750Z,38.842166900635,-122.86533355713,3.5199999809265,0.69,md,7,154,0.02358,0.01,nc,nc75150877,2025-03-18T06:47:23.723Z,"12 km NW of The Geysers, CA",earthquake,1.1,1.94000006,0.1,8,automatic,nc,nc
 2025-03-18T06:23:26.220Z,45.334666666667,-121.71,5.17,0.76,ml,10,125,0.001083,0.06,uw,uw62074487,2025-03-18T17:30:12.840Z,"4 km NE of Government Camp, Oregon",earthquake,0.22,0.3,0.12989211051528,4,reviewed,uw,uw
-2025-03-18T06:10:50.330Z,47.3795,-122.47033333333,23.03,3.23,ml,168,11,0.04501,0.23,uw,uw62074482,2025-03-18T19:56:15.335Z,"7 km ESE of Maplewood, Washington",earthquake,0.16,0.35,0.17926366694904,167,reviewed,uw,uw
+2025-03-18T06:10:50.330Z,47.3795,-122.47033333333,23.03,3.23,ml,168,11,0.04501,0.23,uw,uw62074482,2025-03-18T20:01:34.635Z,"7 km ESE of Maplewood, Washington",earthquake,0.16,0.35,0.17926366694904,167,reviewed,uw,uw
 2025-03-18T06:07:26.980Z,38.833831787109,-122.83233642578,1.1900000572205,0.73,md,11,61,0.00535,0.01,nc,nc75150872,2025-03-18T06:27:15.585Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.589999974,0.31,12,automatic,nc,nc
 2025-03-18T06:05:53.834Z,55.7552,-158.474,25,2.5,ml,,,,0.59,ak,ak0253jfzidz,2025-03-18T06:07:48.925Z,"45 km ESE of Perryville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-03-18T06:02:43.830Z,34.0556667,-118.8891667,11.8,1.81,ml,61,132,0.06904,0.27,ci,ci41082432,2025-03-18T17:06:42.846Z,"9 km NW of Malibu, CA",earthquake,0.32,0.59,0.172,29,automatic,ci,ci
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-17T20:13:02.197Z,-5.6445,145.5116,124.617,4.7,mb,47,101,4.027,0.92,us,us6000pzen,2025-03-18T01:05:33.640Z,"50 km NNE of Goroka, Papua New Guinea",earthquake,9.87,8.58,0.066,69,reviewed,us,us
 2025-03-17T20:06:59.500Z,33.8751667,-117.5036667,10.25,1.07,ml,16,80,0.07549,0.22,ci,ci41082120,2025-03-17T21:26:59.578Z,"2 km ESE of Home Gardens, CA",earthquake,0.44,0.76,0.203,8,reviewed,ci,ci
 2025-03-17T20:06:48.505Z,60.6678,-149.3868,17.3,1.8,ml,,,,0.49,ak,ak0253i0sfo2,2025-03-17T20:08:26.804Z,"20 km N of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-17T20:00:37.794Z,32.3911,130.5894,26.229,4.8,mb,53,94,0.887,1.11,us,us6000pzej,2025-03-17T20:16:38.040Z,"12 km S of Honmachi, Japan",earthquake,4.24,5.339,0.071,61,reviewed,us,us
