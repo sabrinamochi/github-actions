@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-19T02:11:29.030Z,38.831665039062,-122.81616973877,1.6000000238419,0.74,md,11,54,0.009532,0.03,nc,nc75151357,2025-03-19T02:13:03.471Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.800000012,0.23,12,automatic,nc,nc
+2025-03-19T02:10:43.240Z,38.805332183838,-122.79083251953,3.0099999904633,1.1,md,27,41,0.004373,0.02,nc,nc75151352,2025-03-19T02:12:19.210Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.449999988,0.14,26,automatic,nc,nc
+2025-03-19T02:09:27.237Z,36.5322,-116.5834,2.9,1.6,ml,32,62.9,0.091,0.2485,nn,nn00894805,2025-03-19T02:13:32.809Z,"25 km ENE of Furnace Creek, California",earthquake,,1.1,0.2,20,automatic,nn,nn
+2025-03-19T02:09:11.380Z,33.9186668,-116.8748322,22.04,1.22,ml,16,196,0.245,0.33,ci,ci41083072,2025-03-19T02:11:24.966Z,"1 km S of Banning, CA",earthquake,1.65,3.68,0.179,11,automatic,ci,ci
 2025-03-19T02:05:15.090Z,36.601333618164,-121.20850372315,5.6100001335144,1.49,md,7,145,0.08595,0.03,nc,nc75151347,2025-03-19T02:06:53.517Z,"10 km NNW of Pinnacles, CA",earthquake,0.48,1.82000005,0.3,6,automatic,nc,nc
 2025-03-19T01:47:49.270Z,38.814998626709,-122.82483673096,2.2999999523163,0.78,md,14,88,0.006998,0.02,nc,nc75151337,2025-03-19T01:49:27.468Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.670000017,0.15,14,automatic,nc,nc
 2025-03-19T01:46:33.659Z,-6.7013,129.8905,162.48,4.9,mb,34,67,2.165,1.12,us,us6000pzp8,2025-03-19T02:02:09.040Z,"Banda Sea",earthquake,8.67,9.15,0.115,24,reviewed,us,us
@@ -50,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T20:06:56.399Z,35.25783333,-97.78233333,7.24,0.79,ml,14,151,0.01259752794,0.13,ok,ok2025fkkb,2025-03-18T20:19:11.783Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.7,0.16,6,reviewed,ok,ok
 2025-03-18T20:05:43.100Z,38.815166473389,-122.82283020019,2.2000000476837,2.05,md,45,39,0.008009,0.05,nc,nc75151192,2025-03-18T22:37:15.456Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.239999995,0.11,45,automatic,nc,nc
 2025-03-18T19:46:51.330Z,38.818500518799,-122.82050323486,2.3900001049042,0.87,md,9,116,0.0095,0.01,nc,nc75151187,2025-03-18T20:07:17.411Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.970000029,0.23,10,automatic,nc,nc
-2025-03-18T19:42:28.079Z,34.4665,-110.2237,5,3.2,ml,13,81,0.234,0.45,us,us6000pzms,2025-03-19T01:29:56.682Z,"12 km W of Taylor, Arizona",earthquake,1.41,1.852,0.045,64,reviewed,us,us
+2025-03-18T19:42:28.079Z,34.4665,-110.2237,5,3.2,ml,13,81,0.234,0.45,us,us6000pzms,2025-03-19T02:15:01.015Z,"12 km W of Taylor, Arizona",earthquake,1.41,1.852,0.045,64,reviewed,us,us
 2025-03-18T19:40:37.580Z,47.789666666667,-117.39,-0.75,1.74,ml,5,153,0.4099,0.18,uw,uw62074682,2025-03-18T22:19:19.266Z,"3 km NE of Fairwood, Washington",explosion,0.69,31.61,0.080956588387415,2,reviewed,uw,uw
 2025-03-18T19:35:49.860Z,34.8515,-118.786,-0.22,1.45,ml,40,55,0.0751,0.24,ci,ci41082736,2025-03-18T22:20:10.501Z,"7 km E of Lebec, CA",earthquake,0.29,0.6,0.234,28,automatic,ci,ci
 2025-03-18T19:31:45.200Z,35.5308333,-117.3756667,8.01,1.25,ml,15,82,0.01082,0.16,ci,ci41082712,2025-03-18T20:08:10.846Z,"26 km S of Trona, CA",earthquake,0.43,0.61,0.219,8,reviewed,ci,ci
@@ -234,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T02:46:33.330Z,37.707,-121.9935,10.99,3.86,mw,199,14,0.04779,0.18,nc,nc75150752,2025-03-19T02:01:24.112Z,"5 km WNW of Dublin, CA",earthquake,0.11,0.22,,6,reviewed,nc,nc
 2025-03-18T02:40:24.420Z,18.9911,-64.2766,24,3.65,md,18,317,0.9328,0.17,pr,pr2025077000,2025-03-18T03:23:28.439Z,"91 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.38,14.34,0.06,10,reviewed,pr,pr
 2025-03-18T02:27:35.634Z,-55.7834,-34.3935,10,5.1,mb,49,89,1.927,1.19,us,us6000pzhi,2025-03-18T02:48:33.040Z,"South Georgia Island region",earthquake,10.32,1.89,0.081,49,reviewed,us,us
-2025-03-18T02:16:09.970Z,37.248500823975,-122.06733703613,6.3299999237061,2.03,md,19,114,0.03796,0.11,nc,nc75150747,2025-03-18T04:37:13.574Z,"4 km WSW of Saratoga, CA",earthquake,0.33,0.579999983,0.14,21,automatic,nc,nc
