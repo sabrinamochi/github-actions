@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-20T13:15:47.820Z,33.9235,-116.0246667,3.18,0.95,ml,35,57,0.07999,0.16,ci,ci40904799,2025-03-20T13:19:12.008Z,"24 km S of Twentynine Palms, CA",earthquake,0.17,0.67,0.142,21,automatic,ci,ci
 2025-03-20T13:12:31.855Z,60.3699,-141.2334,5,2.2,ml,,,,0.82,ak,ak0253mv9oxd,2025-03-20T13:14:52.297Z,"124 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-20T13:06:08.250Z,33.3191667,-116.2675,9.37,0.56,ml,25,142,0.05566,0.19,ci,ci40904791,2025-03-20T13:11:01.139Z,"12 km NE of Borrego Springs, CA",earthquake,0.36,0.53,0.176,7,automatic,ci,ci
 2025-03-20T13:05:43.200Z,38.835166931152,-122.81133270264,2,0.37,md,8,73,0.01671,0.01,nc,nc75152087,2025-03-20T13:07:22.168Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.90999997,0.25,10,automatic,nc,nc
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T08:42:53.730Z,33.3081667,-116.265,7.65,1.07,ml,45,57,0.0657,0.18,ci,ci40904511,2025-03-20T09:05:18.452Z,"12 km ENE of Borrego Springs, CA",earthquake,0.21,0.66,0.171,14,automatic,ci,ci
 2025-03-20T08:41:19.640Z,33.3048333,-116.2675,9.51,1.97,ml,84,21,0.06734,0.19,ci,ci40904503,2025-03-20T09:12:32.728Z,"11 km ENE of Borrego Springs, CA",earthquake,0.13,0.36,0.14,31,reviewed,ci,ci
 2025-03-20T08:40:19.045Z,61.5779,-149.6057,29.3,1.8,ml,,,,0.66,ak,ak0253msghyo,2025-03-20T08:42:10.910Z,"5 km S of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-20T08:39:05.780Z,33.3016663,-116.2646637,10.72,3.72,mw,99,17,0.07128,0.21,ci,ci40904495,2025-03-20T13:08:07.668Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.57,,4,reviewed,ci,ci
+2025-03-20T08:39:05.780Z,33.3016663,-116.2646637,10.72,3.72,mw,99,17,0.07128,0.21,ci,ci40904495,2025-03-20T13:17:50.697Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.57,,4,reviewed,ci,ci
 2025-03-20T08:37:46.283Z,60.0384,-151.4558,61.5,2,ml,,,,0.35,ak,ak0253msfwx0,2025-03-20T08:39:43.269Z,"11 km E of Ninilchik, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-20T08:15:17.239Z,12.9316,-88.8536,55.725,5,mww,55,135,0.743,0.96,us,us6000pzy8,2025-03-20T08:40:34.732Z,"50 km SW of Puerto El Triunfo, El Salvador",earthquake,4.82,7.265,0.075,17,reviewed,us,us
 2025-03-20T08:12:38.216Z,32.121,-101.481,2.7068,1.4,ml,13,90,0.1,0.4,tx,tx2025fndt,2025-03-20T08:24:11.675Z,"10 km W of Forsan, Texas",earthquake,0,1.6174402236938,0.2,10,automatic,tx,tx
@@ -103,7 +104,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T07:19:03.787Z,-27.164,-69.5826,112.539,4.4,mb,23,96,0.714,1.18,us,us6000pzxw,2025-03-20T09:23:44.040Z,"77 km ENE of Copiapó, Chile",earthquake,7.28,6.598,0.143,14,reviewed,us,us
 2025-03-20T07:08:35.220Z,18.058,-66.9615,19.7,2.16,md,6,132,0.08742,0.08,pr,pr71476603,2025-03-20T07:31:50.690Z,"2 km S of Sabana Grande, Puerto Rico",earthquake,0.58,0.58,0.099185787417349,4,reviewed,pr,pr
 2025-03-20T07:07:06.700Z,38.838001251221,-122.80766296387,2.0199999809265,0.72,md,12,68,0.01353,0.02,nc,nc75151937,2025-03-20T07:22:14.799Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.839999974,0.57,12,automatic,nc,nc
-2025-03-20T07:03:35.184Z,31.712,-104.275,4.5155,1.5,ml,15,120,0,0.4,tx,tx2025fnbh,2025-03-20T07:17:03.255Z,"52 km S of Whites City, New Mexico",earthquake,0,1.6524541378021,0.2,13,automatic,tx,tx
 2025-03-20T06:51:38.590Z,33.6796667,-116.7133333,16.11,0.72,ml,28,59,0.03436,0.13,ci,ci40904455,2025-03-20T09:04:33.008Z,"7 km S of Idyllwild, CA",earthquake,0.22,0.37,0.111,17,reviewed,ci,ci
 2025-03-20T06:50:30.538Z,51.2224,-176.2208,35,4,mb,37,208,0.651,0.54,us,us6000pzzp,2025-03-20T12:24:24.040Z,"77 km SSE of Adak, Alaska",earthquake,4.43,2.005,0.099,27,reviewed,us,us
 2025-03-20T06:47:04.581Z,32.508,-104.6203,9.034,2.7,ml,26,96,0.665,0.49,us,us6000pzxn,2025-03-20T09:16:05.040Z,"35 km SSE of Hope, New Mexico",earthquake,3.16,8.508,0.056,42,reviewed,us,us
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T06:18:25.664Z,-18.8429,169.2978,258.785,4.4,mb,36,120,3.926,0.68,us,us6000pzxe,2025-03-20T06:33:55.040Z,"77 km N of Isangel, Vanuatu",earthquake,9.66,9.506,0.102,28,reviewed,us,us
 2025-03-20T06:14:50.786Z,31.674,-104.394,6.2758,1.7,ml,15,69,0,0.3,tx,tx2025fmzp,2025-03-20T06:27:15.958Z,"55 km S of Whites City, New Mexico",earthquake,0,2.6790764331818,0.2,13,automatic,tx,tx
 2025-03-20T06:10:33.884Z,59.7694,-153.2787,6.3,3,ml,,,,1.46,ak,ak0253mr38f0,2025-03-20T06:13:09.984Z,"46 km E of Pedro Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2025-03-20T06:07:10.959Z,51.3026,-176.2056,35,5.2,mww,92,145,0.798,0.71,us,us6000pzxa,2025-03-20T06:35:23.918Z,"70 km SSE of Adak, Alaska",earthquake,8.11,1.924,0.089,12,reviewed,us,us
+2025-03-20T06:07:10.959Z,51.3026,-176.2056,35,5.2,mww,92,145,0.798,0.71,us,us6000pzxa,2025-03-20T13:15:25.040Z,"70 km SSE of Adak, Alaska",earthquake,8.11,1.924,0.089,12,reviewed,us,us
 2025-03-20T06:05:12.210Z,38.788665771484,-122.7243347168,1.7300000190735,0.81,md,14,88,0.0111,0.02,nc,nc75151927,2025-03-20T06:27:18.404Z,"3 km ENE of The Geysers, CA",earthquake,0.26,0.519999981,0.16,15,automatic,nc,nc
 2025-03-20T05:51:31.556Z,31.67,-104.409,7.843,2.9,ml,44,58,0,0.2,tx,tx2025fmyy,2025-03-20T06:04:10.795Z,"56 km S of Whites City, New Mexico",earthquake,0.88749067683958,0.85326800315829,0.1,33,reviewed,tx,tx
 2025-03-20T05:42:31.600Z,38.567333221435,-122.34149932861,1.039999961853,1.33,md,10,98,0.07012,0.03,nc,nc75151922,2025-03-20T08:32:17.268Z,"9 km ESE of Angwin, CA",earthquake,0.26,1.36000001,0.13,7,automatic,nc,nc
@@ -276,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-19T13:43:42.045Z,61.4183,-150.0622,37,1.6,ml,,,,0.22,ak,ak0253l7x0f0,2025-03-19T13:44:52.960Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-03-19T13:40:51.980Z,33.6556667,-116.7158333,14.07,0.73,ml,25,61,0.03746,0.17,ci,ci41083312,2025-03-19T17:46:11.356Z,"9 km S of Idyllwild, CA",earthquake,0.25,0.43,0.11,10,reviewed,ci,ci
 2025-03-19T13:36:03.730Z,19.535,-68.0175,13,3.64,md,21,216,1.084,0.53,pr,pr2025078000,2025-03-19T14:08:50.834Z,"113 km NNE of Punta Cana, Dominican Republic",earthquake,3.03,3.52,0.15,10,reviewed,pr,pr
-2025-03-19T13:17:47.465Z,-8.6463,115.1629,150.168,4.6,mb,26,120,1.015,0.83,us,us6000pzr5,2025-03-20T07:31:43.316Z,"5 km W of Denpasar, Indonesia",earthquake,10.35,8.688,0.122,20,reviewed,us,us
-2025-03-19T13:16:24.287Z,41.6379,75.0059,10,4.2,mb,28,96,0.546,0.51,us,us6000pzr7,2025-03-20T11:28:41.040Z,"41 km N of Baetovo, Kyrgyzstan",earthquake,2.75,1.935,0.304,3,reviewed,us,us
