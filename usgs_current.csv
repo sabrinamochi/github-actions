@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-20T13:53:39.950Z,38.816333770752,-122.81883239746,2.3399999141693,1.15,md,22,51,0.009825,0.02,nc,nc75152117,2025-03-20T13:55:16.576Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.419999987,0.19,23,automatic,nc,nc
+2025-03-20T13:53:39.950Z,38.816333770752,-122.81883239746,2.3399999141693,1.15,md,22,51,0.009825,0.02,nc,nc75152117,2025-03-20T14:22:17.591Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.419999987,0.19,23,automatic,nc,nc
 2025-03-20T13:45:33.630Z,38.829334259033,-122.81683349609,2.2300000190735,0.77,md,12,77,0.00794,0.01,nc,nc75152097,2025-03-20T14:07:16.498Z,"8 km NNW of The Geysers, CA",earthquake,0.41,1.00999999,0.13,14,automatic,nc,nc
 2025-03-20T13:34:30.510Z,33.3085,-116.263,8.64,1.44,ml,67,21,0.0664,0.16,ci,ci40904831,2025-03-20T13:45:09.900Z,"12 km ENE of Borrego Springs, CA",earthquake,0.13,0.42,0.16,25,automatic,ci,ci
 2025-03-20T13:15:47.820Z,33.9235,-116.0246667,3.18,0.95,ml,35,57,0.07999,0.16,ci,ci40904799,2025-03-20T13:19:12.008Z,"24 km S of Twentynine Palms, CA",earthquake,0.17,0.67,0.142,21,automatic,ci,ci
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T10:14:28.970Z,36.1105003,-117.5916672,0.78,1.58,ml,16,88,0.1606,0.11,ci,ci40904663,2025-03-20T10:16:34.003Z,"33 km ENE of Coso Junction, CA",earthquake,0.33,0.45,0.233,11,automatic,ci,ci
 2025-03-20T10:08:30.260Z,33.5351667,-116.7223333,4.92,0.17,ml,18,49,0.03264,0.1,ci,ci40904655,2025-03-20T10:11:50.982Z,"5 km WSW of Anza, CA",earthquake,0.16,0.35,0.095,8,automatic,ci,ci
 2025-03-20T10:05:41.510Z,38.830501556396,-122.81517028809,2.1900000572205,0.76,md,12,77,0.008136,0.01,nc,nc75152047,2025-03-20T10:22:16.010Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.689999998,0.31,13,automatic,nc,nc
-2025-03-20T10:05:06.290Z,33.3051682,-116.2649994,10.16,3.09,ml,112,16,0.06818,0.2,ci,ci40904647,2025-03-20T14:13:44.187Z,"12 km ENE of Borrego Springs, CA",earthquake,0.17,0.5,0.302,19,automatic,ci,ci
+2025-03-20T10:05:06.290Z,33.3051682,-116.2649994,10.16,3.09,ml,112,16,0.06818,0.2,ci,ci40904647,2025-03-20T14:19:19.152Z,"12 km ENE of Borrego Springs, CA",earthquake,0.17,0.5,0.302,19,automatic,ci,ci
 2025-03-20T09:58:23.640Z,33.4885,-116.4436667,11.21,0.58,ml,30,82,0.1326,0.17,ci,ci40904639,2025-03-20T10:02:49.943Z,"23 km ESE of Anza, CA",earthquake,0.22,0.63,0.091,15,automatic,ci,ci
 2025-03-20T09:56:46.390Z,35.435,-97.96716667,4.1,1.1,ml,29,59,0.05218975859,0.3,ok,ok2025fngx,2025-03-20T12:28:53.267Z,"5 km NNW of Union City, Oklahoma",earthquake,,1.3,0.21,10,reviewed,ok,ok
 2025-03-20T09:54:06.833Z,51.1065,-176.1355,28.5,3.8,ml,,,,0.52,ak,ak0253mt4wl5,2025-03-20T10:46:32.118Z,"92 km SSE of Adak, Alaska",earthquake,,8.6,,,reviewed,ak,ak
@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T08:42:53.730Z,33.3081667,-116.265,7.65,1.07,ml,45,57,0.0657,0.18,ci,ci40904511,2025-03-20T09:05:18.452Z,"12 km ENE of Borrego Springs, CA",earthquake,0.21,0.66,0.171,14,automatic,ci,ci
 2025-03-20T08:41:19.640Z,33.3048333,-116.2675,9.51,1.97,ml,84,21,0.06734,0.19,ci,ci40904503,2025-03-20T09:12:32.728Z,"11 km ENE of Borrego Springs, CA",earthquake,0.13,0.36,0.14,31,reviewed,ci,ci
 2025-03-20T08:40:19.045Z,61.5779,-149.6057,29.3,1.8,ml,,,,0.66,ak,ak0253msghyo,2025-03-20T08:42:10.910Z,"5 km S of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-20T08:39:05.780Z,33.3016663,-116.2646637,10.72,3.72,mw,99,17,0.07128,0.21,ci,ci40904495,2025-03-20T14:13:23.272Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.57,,4,reviewed,ci,ci
+2025-03-20T08:39:05.780Z,33.3016663,-116.2646637,10.72,3.72,mw,99,17,0.07128,0.21,ci,ci40904495,2025-03-20T14:25:43.455Z,"11 km ENE of Borrego Springs, CA",earthquake,0.23,0.57,,4,reviewed,ci,ci
 2025-03-20T08:37:46.283Z,60.0384,-151.4558,61.5,2,ml,,,,0.35,ak,ak0253msfwx0,2025-03-20T08:39:43.269Z,"11 km E of Ninilchik, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-20T08:15:17.239Z,12.9316,-88.8536,55.725,5,mww,55,135,0.743,0.96,us,us6000pzy8,2025-03-20T14:04:55.307Z,"50 km SW of Puerto El Triunfo, El Salvador",earthquake,4.82,7.265,0.075,17,reviewed,us,us
 2025-03-20T08:12:38.485Z,32.125,-101.489,6.6162,1.3,ml,19,51,0.1,0.1,tx,tx2025fndt,2025-03-20T13:55:09.011Z,"11 km W of Forsan, Texas",earthquake,0.70982026084993,0.99574886255597,0.1,8,reviewed,tx,tx
@@ -120,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T06:38:26.440Z,39.489498138428,-122.95183563232,9.170000076294,2.11,md,20,37,0.02626,0.12,nc,nc75151932,2025-03-20T08:47:18.365Z,"9 km NNE of Lake Pillsbury, CA",earthquake,0.29,0.620000005,0.2,16,automatic,nc,nc
 2025-03-20T06:30:27.478Z,-60.4128,-27.2206,100.828,5.5,mb,87,49,7.923,0.49,us,us6000pzxi,2025-03-20T08:56:04.621Z,"South Sandwich Islands region",earthquake,5.32,7.118,0.062,89,reviewed,us,us
 2025-03-20T06:27:13.850Z,19.4831,-68.1601,69,3.74,md,13,238,0.9941,0.53,pr,pr2025079003,2025-03-20T08:38:39.040Z,"103 km NNE of Punta Cana, Dominican Republic",earthquake,5.76,12.74,0.07,8,reviewed,pr,pr
+2025-03-20T06:22:19.147Z,31.678,-104.397,6.0999,2.1,ml,18,69,0,0.2,tx,tx2025fmzw,2025-03-20T14:20:11.170Z,"55 km S of Whites City, New Mexico",earthquake,0.7659304224333,0.71175396827244,0.2,14,reviewed,tx,tx
 2025-03-20T06:21:45.769Z,31.748,-104.458,9.7358,2.2,ml,5,243,0,1,tx,tx2025fmzv,2025-03-20T06:36:53.998Z,"48 km S of Whites City, New Mexico",earthquake,0,3.9905867576599,0.7,4,automatic,tx,tx
 2025-03-20T06:18:25.664Z,-18.8429,169.2978,258.785,4.4,mb,36,120,3.926,0.68,us,us6000pzxe,2025-03-20T06:33:55.040Z,"77 km N of Isangel, Vanuatu",earthquake,9.66,9.506,0.102,28,reviewed,us,us
 2025-03-20T06:14:50.979Z,31.678,-104.397,6.5613,1.7,ml,21,69,0,0.2,tx,tx2025fmzp,2025-03-20T13:38:27.905Z,"55 km S of Whites City, New Mexico",earthquake,0.83139406691585,0.94953638606634,0.1,17,reviewed,tx,tx
@@ -173,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T02:16:33.782Z,59.6584,-153.774,153.6,2.3,ml,,,,0.34,ak,ak0253moqsd5,2025-03-20T02:24:43.040Z,"23 km SE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-20T02:09:34.578Z,40.769,-118.977,13.1,2.5,ml,8,144.53,0.83,0.3754,nn,nn00894836,2025-03-20T02:29:02.040Z,"20 km E of Black Rock City, Nevada",earthquake,,1.1,0.26,5,automatic,nn,nn
 2025-03-20T02:05:58.440Z,38.775501251221,-122.74617004394,2.5599999427795,1.04,md,13,65,0.01068,0.03,nc,nc75151837,2025-03-20T02:22:17.766Z,"1 km ESE of The Geysers, CA",earthquake,0.4,0.629999995,0.21,12,automatic,nc,nc
-2025-03-20T02:04:18.812Z,32.35,-102.094,3.9394,1.1,ml,20,77,0,0.5,tx,tx2025fmrq,2025-03-20T02:14:31.105Z,"37 km NW of Stanton, Texas",earthquake,0,1.1272597312927,0.3,15,automatic,tx,tx
+2025-03-20T02:04:18.966Z,32.348,-102.098,8.0811,1.2,ml,15,77,0,0.1,tx,tx2025fmrq,2025-03-20T14:25:09.206Z,"37 km NW of Stanton, Texas",earthquake,0.56917333760853,0.8378322016523,0.2,7,reviewed,tx,tx
 2025-03-20T01:59:37.850Z,19.3195,-65.465666666667,74.87,3.44,md,7,298,1.021,0.3,pr,pr71476548,2025-03-20T09:30:08.310Z,"106 km NNE of Vieques, Puerto Rico",earthquake,5.8,9.95,0.026685215804832,4,reviewed,pr,pr
 2025-03-20T01:50:22.969Z,64.7114,-146.9453,0.8,1.2,ml,,,,0.56,ak,ak0253mocm70,2025-03-20T01:52:37.685Z,"7 km NE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-20T01:49:10.693Z,32.119,-102.186,7.0031,1,ml,21,79,0,0.2,tx,tx2025fmrb,2025-03-20T02:02:42.013Z,"16 km NW of Midland, Texas",earthquake,0,2.056126832962,0.2,7,automatic,tx,tx
@@ -278,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-19T14:48:48.332Z,-10.6425,164.761,10,4.9,mb,32,122,4.889,0.64,us,us6000pzrh,2025-03-19T15:10:31.040Z,"113 km W of Lata, Solomon Islands",earthquake,10.25,1.822,0.097,33,reviewed,us,us
 2025-03-19T14:39:22.349Z,31.671,-104.395,6.0614,2,ml,13,69,0,0.1,tx,tx2025flut,2025-03-20T14:07:17.083Z,"55 km S of Whites City, New Mexico",earthquake,0.64454941178289,0.66269004089598,0.1,7,reviewed,tx,tx
 2025-03-19T14:26:06.170Z,19.357,-68.0681,53,3.65,md,17,210,0.8994,0.53,pr,pr2025078001,2025-03-19T15:26:21.040Z,"92 km NNE of Punta Cana, Dominican Republic",earthquake,3.23,9.23,0.1,13,reviewed,pr,pr
-2025-03-19T14:20:41.850Z,36.55899810791,-121.17082977295,4.8499999046326,1.39,md,9,74,0.01727,0.04,nc,nc75151622,2025-03-19T15:47:20.515Z,"4 km NNW of Pinnacles, CA",earthquake,0.31,0.709999979,0.2,9,automatic,nc,nc
-2025-03-19T14:19:42.810Z,56.1655,-159.31,12.32,0.37,ml,5,232,0.08797,0.17,av,av93536986,2025-03-20T00:10:05.130Z,"30 km NNW of Perryville, Alaska",earthquake,0.94,1.19,0.19346780050123,5,reviewed,av,av
