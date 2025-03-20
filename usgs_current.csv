@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-20T09:58:23.640Z,33.4885,-116.4436667,11.21,0.58,ml,30,82,0.1326,0.17,ci,ci40904639,2025-03-20T10:02:49.943Z,"23 km ESE of Anza, CA",earthquake,0.22,0.63,0.091,15,automatic,ci,ci
 2025-03-20T09:51:33.287Z,59.7792,-152.5306,94,2.9,ml,,,,0.23,ak,ak0253mt4bjk,2025-03-20T09:53:27.829Z,"39 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-20T09:49:33.490Z,33.3085,-116.24,5.08,1.26,ml,72,24,0.07926,0.21,ci,ci40904623,2025-03-20T09:59:55.450Z,"14 km ENE of Borrego Springs, CA",earthquake,0.15,0.49,0.185,27,automatic,ci,ci
 2025-03-20T09:47:50.270Z,33.3051667,-116.267,9.94,1.66,ml,83,21,0.06728,0.18,ci,ci40904615,2025-03-20T09:58:52.550Z,"11 km ENE of Borrego Springs, CA",earthquake,0.12,0.33,0.186,26,automatic,ci,ci
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T09:15:40.007Z,37.2339,138.8377,177.58,4.5,mb,37,135,0.854,0.82,us,us6000pzym,2025-03-20T09:40:02.040Z,"8 km SSE of Ojiya, Japan",earthquake,6.83,5.254,0.086,40,reviewed,us,us
 2025-03-20T09:13:45.830Z,37.564334869385,-118.90950012207,9.3000001907349,0.87,md,8,131,0.04791,0.05,nc,nc75152022,2025-03-20T09:15:22.512Z,"10 km SSE of Mammoth Lakes, CA",earthquake,0.94,3.24000001,0.22,9,automatic,nc,nc
 2025-03-20T09:07:43.500Z,17.989166666667,-66.812833333333,15.52,2.42,md,19,165,0.03676,0.23,pr,pr71476643,2025-03-20T09:30:29.740Z,"0 km SE of Indios, Puerto Rico",earthquake,0.46,0.68,0.11918190241476,7,reviewed,pr,pr
-2025-03-20T09:06:24.370Z,17.992,-66.809,13,4.4,ml,25,164,0.0722,0.16,pr,pr2025079004,2025-03-20T09:55:33.730Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.38,0.33,0,0,reviewed,pr,pr
+2025-03-20T09:06:24.370Z,17.992,-66.809,13,4.4,ml,25,164,0.0722,0.16,pr,pr2025079004,2025-03-20T10:00:39.767Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.38,0.33,0,0,reviewed,pr,pr
 2025-03-20T09:04:14.240Z,38.825832366943,-122.80616760254,1.3799999952316,1.18,md,22,54,0.003903,0.01,nc,nc75152017,2025-03-20T09:57:16.838Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.340000004,0.11,23,automatic,nc,nc
 2025-03-20T09:03:15.670Z,38.825832366943,-122.80533599853,1.3999999761581,1.52,md,26,35,0.004429,0.02,nc,nc75152012,2025-03-20T09:47:18.769Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.12,26,automatic,nc,nc
 2025-03-20T09:03:07.010Z,33.3053333,-116.2681667,8.05,0.67,ml,44,38,0.06663,0.2,ci,ci40904567,2025-03-20T09:33:09.122Z,"11 km ENE of Borrego Springs, CA",earthquake,0.22,0.63,0.12,13,reviewed,ci,ci
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-19T10:42:56.884Z,31.621,-104.442,7.2534,1.7,ml,17,69,0,0.2,tx,tx2025flmy,2025-03-19T14:12:43.571Z,"western Texas",earthquake,1.454121054164,1.0486808358319,0.1,14,reviewed,tx,tx
 2025-03-19T10:29:20.570Z,58.188,-154.76216666667,10.39,-0.23,ml,6,299,0.127,0.12,av,av93536861,2025-03-19T22:41:30.020Z,"71 km NNW of Karluk, Alaska",earthquake,0.89,1.22,0.38299177975679,6,reviewed,av,av
 2025-03-19T10:29:11.530Z,35.908,-118.4278333,3.01,0.95,ml,19,104,0.1335,0.15,ci,ci41083232,2025-03-19T17:00:29.493Z,"17 km N of Kernville, CA",earthquake,0.26,0.95,0.181,7,reviewed,ci,ci
-2025-03-19T10:00:42.450Z,32.9513333,-116.2746667,9.72,1.07,ml,47,41,0.02436,0.19,ci,ci41083224,2025-03-19T16:07:27.053Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.41,0.088,21,automatic,ci,ci
-2025-03-19T10:00:02.690Z,38.806331634521,-122.77649688721,1.5299999713898,0.32,md,8,101,0.007652,0.02,nc,nc75151522,2025-03-19T10:17:20.212Z,"4 km NNW of The Geysers, CA",earthquake,0.53,0.99000001,0.11,10,automatic,nc,nc
