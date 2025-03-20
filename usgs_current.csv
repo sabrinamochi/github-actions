@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-20T21:35:41.980Z,40.166332244873,-124.35500335693,0.44999998807907,2.59,md,8,307,0.1223,0.12,nc,nc75152262,2025-03-20T21:37:18.103Z,"19 km SSW of Petrolia, CA",earthquake,6.47,8.73999977,0.09,7,automatic,nc,nc
-2025-03-20T21:30:31.070Z,45.690833333333,-122.58483333333,14.89,2.16,ml,14,71,0.02511,0.14,uw,uw62075592,2025-03-20T21:38:32.050Z,"1 km NW of Five Corners, Washington",earthquake,0.32,0.59,0.14353694221281,46,reviewed,uw,uw
+2025-03-20T21:44:29.000Z,38.789333343506,-122.7696685791,4.3400001525879,0.79,md,14,82,0.0137,0.03,nc,nc75152267,2025-03-20T21:46:03.426Z,"2 km NNW of The Geysers, CA",earthquake,0.47,1.25999999,0.08,14,automatic,nc,nc
+2025-03-20T21:35:41.980Z,40.166332244873,-124.35500335693,0.44999998807907,2.59,md,8,307,0.1223,0.12,nc,nc75152262,2025-03-20T21:47:20.748Z,"19 km SSW of Petrolia, CA",earthquake,6.47,8.73999977,0.09,7,automatic,nc,nc
+2025-03-20T21:30:31.190Z,45.690166666667,-122.59483333333,14.02,2.16,ml,47,32,0.03152,0.15,uw,uw62075592,2025-03-20T21:44:48.290Z,"0 km SE of Barberton, Washington",earthquake,0.17,0.38,0.14332597794648,57,reviewed,uw,uw
 2025-03-20T21:26:01.100Z,19.261667251587,-155.39050292969,32.669998168945,2.42,ml,51,112,0.02493,0.129999995,hv,hv74637867,2025-03-20T21:29:05.870Z,"11 km NE of Pāhala, Hawaii",earthquake,0.4,0.529999971,0.63,11,automatic,hv,hv
 2025-03-20T21:00:09.168Z,-16.4564,66.5978,10,5.5,mww,77,41,4.493,0.75,us,us7000plf7,2025-03-20T21:23:08.263Z,"Mid-Indian Ridge",earthquake,10.1,1.846,0.11,8,reviewed,us,us
 2025-03-20T20:44:40.860Z,34.2951667,-117.1013333,7.02,1.87,ml,73,30,0.08814,0.15,ci,ci40905407,2025-03-20T20:55:40.180Z,"10 km ENE of Lake Arrowhead, CA",earthquake,0.11,0.41,0.137,26,automatic,ci,ci
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T13:15:47.820Z,33.9235,-116.0246667,3.18,0.95,ml,35,57,0.07999,0.16,ci,ci40904799,2025-03-20T14:59:18.660Z,"24 km S of Twentynine Palms, CA",earthquake,0.17,0.67,0.142,21,reviewed,ci,ci
 2025-03-20T13:13:32.680Z,31.4796667,-115.5965,3.54,2.35,ml,10,118,0.1828,0.13,ci,ci37708316,2025-03-20T19:22:30.196Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.34,1.64,0.124,40,reviewed,ci,ci
 2025-03-20T13:13:31.130Z,32.8991667,-116.269,8.95,0.2,ml,12,124,0.06239,0.14,ci,ci40904807,2025-03-20T19:28:24.577Z,"26 km ENE of Pine Valley, CA",earthquake,0.34,0.63,0.092,7,reviewed,ci,ci
-2025-03-20T13:12:59.190Z,39.4974,-98.3252,9.436,2.6,mb_lg,17,65,1.115,0.57,us,us6000q00s,2025-03-20T14:31:37.636Z,"1 km W of Glen Elder, Kansas",earthquake,2.64,7.192,0.09,32,reviewed,us,us
+2025-03-20T13:12:59.190Z,39.4974,-98.3252,9.436,2.6,mb_lg,17,65,1.115,0.57,us,us6000q00s,2025-03-20T21:45:56.986Z,"1 km W of Glen Elder, Kansas",earthquake,2.64,7.192,0.09,32,reviewed,us,us
 2025-03-20T13:12:31.855Z,60.3699,-141.2334,5,2.2,ml,,,,0.82,ak,ak0253mv9oxd,2025-03-20T13:14:52.297Z,"124 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-20T13:06:08.250Z,33.3191667,-116.2675,9.37,0.56,ml,25,142,0.05566,0.19,ci,ci40904791,2025-03-20T14:58:08.766Z,"12 km NE of Borrego Springs, CA",earthquake,0.36,0.53,0.176,7,reviewed,ci,ci
 2025-03-20T13:05:43.200Z,38.835166931152,-122.81133270264,2,0.37,md,8,73,0.01671,0.01,nc,nc75152087,2025-03-20T15:07:16.898Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.90999997,0.25,10,automatic,nc,nc
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T10:58:59.880Z,17.989333333333,-66.817166666667,14.19,2.07,md,5,188,0.06078,0.07,pr,pr71476713,2025-03-20T11:12:07.150Z,"0 km SSE of Indios, Puerto Rico",earthquake,0.88,0.5,0.11420854351564,4,reviewed,pr,pr
 2025-03-20T10:58:49.709Z,37.2888,-117.5907,4.8,1.3,ml,11,136.25,0.263,0.1184,nn,nn00894854,2025-03-20T18:08:05.197Z,"51 km S of Silver Peak, Nevada",earthquake,,3.2,0.62,6,reviewed,nn,nn
 2025-03-20T10:57:46.083Z,63.1862,-150.5418,99.6,2.2,ml,,,,0.67,ak,ak0253mtr2fk,2025-03-20T11:00:08.140Z,"71 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-03-20T10:51:44.331Z,64.5096,-147.422,12.3,1.1,ml,,,,0.45,ak,ak0253mtps01,2025-03-20T10:53:24.252Z,"24 km SW of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-20T10:51:44.331Z,64.5096,-147.422,12.3,1.1,ml,,,,0.45,ak,ak0253mtps01,2025-03-20T21:48:11.218Z,"24 km SW of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-20T10:40:41.980Z,37.929832458496,-122.7551651001,7.3400001525879,1.41,md,7,116,0.03052,0.02,nc,nc75152057,2025-03-20T13:42:17.330Z,"6 km WNW of Bolinas, CA",earthquake,0.47,0.560000002,0.45,5,automatic,nc,nc
 2025-03-20T10:39:27.460Z,17.993,-66.837166666667,16.94,1.92,md,5,176,0.04386,0.05,pr,pr71476708,2025-03-20T11:17:01.920Z,"1 km W of Indios, Puerto Rico",earthquake,0.62,0.71,0.054892603632196,4,reviewed,pr,pr
 2025-03-20T10:29:11.160Z,35.719,-117.5793333,7.03,1.04,ml,22,63,0.09688,0.15,ci,ci40904679,2025-03-20T17:59:04.429Z,"14 km NE of Ridgecrest, CA",earthquake,0.21,0.73,0.187,12,reviewed,ci,ci
