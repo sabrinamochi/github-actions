@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-21T19:29:45.050Z,36.761501312256,-121.28466796875,7.9499998092651,1.73,md,15,136,0.05982,0.06,nc,nc75152777,2025-03-21T19:31:20.902Z,"4 km SSE of Tres Pinos, CA",earthquake,0.36,0.689999998,0.2,14,automatic,nc,nc
 2025-03-21T19:24:35.290Z,38.776332855225,-122.71949768066,1.2000000476837,1.38,md,15,88,0.01513,0.04,nc,nc75152772,2025-03-21T19:26:10.734Z,"2 km WNW of Anderson Springs, CA",earthquake,0.26,0.449999988,0.17,16,automatic,nc,nc
 2025-03-21T19:21:25.786Z,32.12,-102.189,4.9888,1.1,ml,14,119,0,0.5,tx,tx2025fpvi,2025-03-21T19:26:56.201Z,"17 km NW of Midland, Texas",earthquake,0,1.3133370876312,0.2,11,automatic,tx,tx
 2025-03-21T19:18:10.270Z,38.835666656494,-122.83316802978,1.0499999523163,0.69,md,8,82,0.003434,0.01,nc,nc75152767,2025-03-21T19:19:45.465Z,"9 km NW of The Geysers, CA",earthquake,0.34,1.17999995,0.29,8,automatic,nc,nc
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T14:53:41.330Z,51.1704,-176.1424,17,6.2,mww,131,55,0.712,0.93,us,us7000pllu,2025-03-21T19:03:52.345Z,"85 km SSE of Adak, Alaska",earthquake,3.64,1.826,0.035,78,reviewed,us,us
 2025-03-21T14:53:32.430Z,33.4566667,-116.6213333,8.82,0.93,ml,47,39,0.01932,0.17,ci,ci40906223,2025-03-21T15:00:31.126Z,"12 km SSE of Anza, CA",earthquake,0.16,0.36,0.172,27,automatic,ci,ci
 2025-03-21T14:51:13.531Z,39.1412,-119.0599,7.6,1.3,ml,14,94.27,0.007,0.1119,nn,nn00894907,2025-03-21T17:24:41.494Z,"19 km NNE of Yerington, Nevada",earthquake,,0.9,0.3,6,reviewed,nn,nn
-2025-03-21T14:50:51.098Z,7.0486,-82.3966,10,6.2,mww,74,143,2.354,1.05,us,us7000pllt,2025-03-21T19:09:11.182Z,"120 km SSE of Burica, Panama",earthquake,7.07,1.881,0.034,83,reviewed,us,us
+2025-03-21T14:50:51.098Z,7.0486,-82.3966,10,6.2,mww,74,143,2.354,1.05,us,us7000pllt,2025-03-21T19:31:06.570Z,"120 km SSE of Burica, Panama",earthquake,7.07,1.881,0.034,83,reviewed,us,us
 2025-03-21T14:50:46.459Z,41.8729,-119.5496,4.7,2.9,ml,4,223.23,0.395,0.1448,nn,nn00894904,2025-03-21T16:23:23.883Z,"49 km E of Fort Bidwell, California",earthquake,,3.5,0.32,4,reviewed,nn,nn
 2025-03-21T14:39:43.240Z,38.835666656494,-122.82033538818,1.9900000095367,0.7,md,9,68,0.01219,0.01,nc,nc75152657,2025-03-21T15:12:17.194Z,"9 km NNW of The Geysers, CA",earthquake,0.43,1.57000005,0.19,9,automatic,nc,nc
 2025-03-21T14:39:32.080Z,17.9803,-66.817,14,3.45,md,20,174,0.0624,0.19,pr,pr2025080004,2025-03-21T17:19:51.581Z,"1 km S of Indios, Puerto Rico",earthquake,0.5,0.74,0.11,11,reviewed,pr,pr
@@ -301,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T19:37:41.990Z,54.15,-165.983,3,-0.23,ml,5,105,0.02048,0.25,av,av93036664,2025-03-21T02:09:45.870Z,"13 km W of Akutan, Alaska",earthquake,0.4,0.86,0.18192898056777,5,reviewed,av,av
 2025-03-20T19:36:04.359Z,-22.9465,172.3791,10,5.2,mww,36,134,4.564,1.29,us,us7000pled,2025-03-20T19:57:43.040Z,"southeast of the Loyalty Islands",earthquake,8.12,1.885,0.066,22,reviewed,us,us
 2025-03-20T19:35:11.726Z,39.1691,-119.0222,5.2,1.4,ml,12,118.43,0.013,0.1272,nn,nn00894860,2025-03-21T02:10:25.839Z,"23 km NNE of Yerington, Nevada",earthquake,,1.1,0.25,5,reviewed,nn,nn
-2025-03-20T19:30:56.805Z,36.7216,71.3072,188.832,4.8,mb,106,58,2.576,0.87,us,us7000plec,2025-03-20T21:54:48.579Z,"20 km WNW of Ashkāsham, Afghanistan",earthquake,6.47,6.485,0.039,201,reviewed,us,us
