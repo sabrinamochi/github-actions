@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-21T18:14:30.736Z,60.2561,-152.7446,98.5,1,ml,,,,0.24,ak,ak0253olsmsh,2025-03-21T18:15:52.376Z,"64 km WNW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-03-21T18:09:09.440Z,39.477500915527,-122.03600311279,31.079999923706,2.33,md,7,142,0.1286,0.05,nc,nc75152752,2025-03-21T18:10:44.910Z,"14 km ESE of Willows, CA",earthquake,0.66,1.40999997,0.07,4,automatic,nc,nc
 2025-03-21T17:57:22.650Z,38.788501739502,-122.76633453369,2.2200000286102,0.4,md,11,92,0.01317,0.02,nc,nc75152747,2025-03-21T17:58:59.877Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.709999979,0.18,11,automatic,nc,nc
 2025-03-21T17:55:24.582Z,31.557,-104.014,4.9322,1.6,ml,14,65,0,0.2,tx,tx2025fpsg,2025-03-21T18:08:57.708Z,"34 km NW of Toyah, Texas",earthquake,0,1.3681198358536,0.2,12,automatic,tx,tx
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T12:35:51.173Z,38.8944,-119.639,2.9,1.4,ml,15,166.61,0.023,0.1632,nn,nn00894890,2025-03-21T14:48:13.022Z,"3 km N of Carter Springs, Nevada",earthquake,,1.1,0.31,7,reviewed,nn,nn
 2025-03-21T12:29:04.987Z,31.069,-103.446,4.8181,2.2,ml,14,72,0.1,0.3,tx,tx2025fphl,2025-03-21T13:37:07.043Z,"30 km ENE of Balmorhea, Texas",earthquake,0.93668601574895,0.78712932783448,0.2,8,reviewed,tx,tx
 2025-03-21T12:26:24.397Z,57.0896,-157.1726,90.5,2.1,ml,,,,0.75,ak,ak0253oial9j,2025-03-21T12:28:44.247Z,"49 km SSE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-03-21T12:23:06.645Z,40.6898,-74.7403,8.077,1.8,ml,7,120,0.019,0.27,us,us7000pll0,2025-03-21T17:58:44.755Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.61,1.216,0.105,12,reviewed,us,us
+2025-03-21T12:23:06.645Z,40.6898,-74.7403,8.077,1.8,ml,7,120,0.019,0.27,us,us7000pll0,2025-03-21T18:15:48.545Z,"7 km WSW of Gladstone, New Jersey",earthquake,1.61,1.216,0.105,12,reviewed,us,us
 2025-03-21T12:21:45.390Z,38.842666625977,-122.83100128174,1.2799999713898,1.08,md,19,88,0.005371,0.01,nc,nc75152607,2025-03-21T13:07:18.339Z,"10 km WNW of Cobb, CA",earthquake,0.22,0.460000008,0.15,22,automatic,nc,nc
 2025-03-21T12:15:04.901Z,36.5126,-113.9766,10,2.5,ml,39,46,0.771,0.73,us,us7000plkx,2025-03-21T18:08:02.327Z,"31 km S of Scenic, Arizona",earthquake,1.65,1.999,0.034,114,reviewed,us,us
 2025-03-21T12:10:10.890Z,33.1306667,-116.4821667,13.31,0.87,ml,49,41,0.06476,0.19,ci,ci40906143,2025-03-21T12:14:40.076Z,"13 km ENE of Julian, CA",earthquake,0.19,0.52,0.097,23,automatic,ci,ci
@@ -299,4 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T18:33:50.469Z,39.5004,40.6433,10,4.2,mwr,41,77,1.438,0.52,us,us7000ple2,2025-03-20T19:30:00.040Z,"12 km NE of Yedisu, Turkey",earthquake,5.22,1.946,0.058,29,reviewed,us,us
 2025-03-20T18:29:10.370Z,61.310833333333,-152.2495,1.63,-0.38,ml,7,175,0.06444,0.06,av,av93538566,2025-03-21T01:40:06.930Z,"65 km WNW of Beluga, Alaska",earthquake,0.34,1.2,0.21301490067995,8,reviewed,av,av
 2025-03-20T18:18:06.420Z,38.824501037598,-122.78600311279,0.27000001072884,0.9,md,6,95,0.01197,0,nc,nc75152187,2025-03-20T19:57:16.936Z,"5 km WNW of Cobb, CA",earthquake,0.38,1.46000004,0.45,7,automatic,nc,nc
-2025-03-20T18:14:47.660Z,7.053,-82.7249,10,4.8,mww,87,160,2.255,0.37,us,us7000ple0,2025-03-21T15:11:19.432Z,"109 km S of Burica, Panama",earthquake,7.88,1.941,0.073,18,reviewed,us,us
