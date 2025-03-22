@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-22T18:06:59.820Z,38.816165924072,-122.82516479492,3.5499999523163,0.82,md,8,116,0.007933,0.02,nc,nc75153297,2025-03-22T18:08:37.385Z,"7 km NW of The Geysers, CA",earthquake,0.8,0.829999983,0.3,8,automatic,nc,nc
+2025-03-22T18:23:37.900Z,38.816501617432,-122.83333587647,3.789999961853,0.73,md,9,67,0.006736,0.05,nc,nc75153317,2025-03-22T18:25:16.547Z,"8 km NW of The Geysers, CA",earthquake,0.67,0.610000014,0.33,8,automatic,nc,nc
+2025-03-22T18:20:55.330Z,38.811164855957,-122.78600311279,1.2400000095367,0.77,md,8,69,0.004651,0.01,nc,nc75153312,2025-03-22T18:22:31.609Z,"5 km NNW of The Geysers, CA",earthquake,0.42,1.15999997,0.07,8,automatic,nc,nc
+2025-03-22T18:06:59.820Z,38.816165924072,-122.82516479492,3.5499999523163,0.82,md,8,116,0.007933,0.02,nc,nc75153297,2025-03-22T18:22:17.060Z,"7 km NW of The Geysers, CA",earthquake,0.8,0.829999983,0.3,8,automatic,nc,nc
 2025-03-22T18:04:44.364Z,31.647,-104.323,4.0623,1.9,ml,17,70,0.1,0.2,tx,tx2025frob,2025-03-22T18:13:31.269Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3359252214432,0.1,12,automatic,tx,tx
 2025-03-22T17:59:47.039Z,39.0726,-119.0073,2.1,1.4,ml,13,104.84,0.099,0.1305,nn,nn00894952,2025-03-22T18:02:00.094Z,"16 km NE of Yerington, Nevada",earthquake,,1.2,0.11,7,automatic,nn,nn
 2025-03-22T17:59:34.880Z,36.435165405273,-120.26950073242,5.9200000762939,2.16,md,16,110,0.1289,0.13,nc,nc75153292,2025-03-22T18:07:15.960Z,"9 km SSE of Cantua Creek, CA",earthquake,0.55,0.540000021,0.15,11,automatic,nc,nc
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T15:51:44.019Z,37.6021,-117.6553,10.1,1.7,ml,23,140.98,0.344,0.2948,nn,nn00894951,2025-03-22T15:54:33.288Z,"17 km S of Silver Peak, Nevada",earthquake,,0.5,0.25,14,automatic,nn,nn
 2025-03-22T15:34:37.702Z,63.3542,-144.8045,6.8,1,ml,,,,1.09,ak,ak0253q7nzac,2025-03-22T15:37:45.566Z,"34 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-22T15:33:08.846Z,-33.8235,-177.8566,10,4.8,mb,21,258,4.864,0.95,us,us7000plvm,2025-03-22T16:23:22.040Z,"south of the Kermadec Islands",earthquake,9.09,2.021,0.124,20,reviewed,us,us
-2025-03-22T15:31:22.050Z,40.41516494751,-125.06183624268,2.1500000953674,3.35,ml,76,273,0.5641,0.22,nc,nc75153247,2025-03-22T17:03:36.118Z,"67 km WNW of Petrolia, CA",earthquake,2.3,3.75,0.164,10,automatic,nc,nc
+2025-03-22T15:31:22.050Z,40.41516494751,-125.06183624268,2.1500000953674,3.35,ml,76,273,0.5641,0.22,nc,nc75153247,2025-03-22T18:24:29.625Z,"67 km WNW of Petrolia, CA",earthquake,2.3,3.75,0.164,10,automatic,nc,nc
 2025-03-22T15:25:16.780Z,39.743667602539,-122.92683410644,3.8900001049042,2.33,md,14,79,0.1007,0.15,nc,nc75153242,2025-03-22T16:07:15.119Z,"20 km NW of Alder Springs, CA",earthquake,0.58,3.54999995,0.11,11,automatic,nc,nc
 2025-03-22T15:19:15.350Z,35.3485,-117.8011667,6.26,1.08,ml,25,95,0.08876,0.15,ci,ci40907223,2025-03-22T15:22:54.660Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.52,0.149,21,automatic,ci,ci
 2025-03-22T15:14:29.260Z,38.749332427979,-122.7123336792,0.52999997138977,1.02,md,9,131,0.01568,0.05,nc,nc75153237,2025-03-22T15:47:18.974Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.610000014,0.3,7,automatic,nc,nc
@@ -187,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T18:53:28.840Z,35.0556667,-118.3421667,0.28,1.19,ml,32,58,0.06492,0.18,ci,ci40906415,2025-03-21T20:44:12.401Z,"13 km SE of Tehachapi, CA",earthquake,0.24,0.49,0.153,28,automatic,ci,ci
 2025-03-21T18:49:55.060Z,40.358666666667,-124.968,11.38,2.69,md,79,245,0.4833,0.2,nc,nc75152762,2025-03-22T11:17:20.183Z,"58 km WNW of Petrolia, CA",earthquake,1.64,1.44,0.232,45,reviewed,nc,nc
 2025-03-21T18:34:37.192Z,31.09,-103.432,5.7515,1.6,ml,11,76,0.1,0.7,tx,tx2025fptn,2025-03-21T18:40:42.893Z,"32 km ENE of Balmorhea, Texas",earthquake,0,3.5874125957489,0.2,9,automatic,tx,tx
-2025-03-21T18:17:40.618Z,51.0171,-176.1418,30.158,3.8,mb,28,205,0.862,0.5,us,us7000plqe,2025-03-21T20:11:47.040Z,"101 km SSE of Adak, Alaska",earthquake,5.93,7.903,0.161,10,reviewed,us,us
