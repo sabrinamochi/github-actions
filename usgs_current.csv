@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-25T14:45:04.527Z,61.5758,-146.3242,15.8,1.8,ml,,,,0.75,ak,ak0253v5qvis,2025-03-25T14:47:07.433Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-25T14:39:57.240Z,38.81266784668,-122.8193359375,2.8900001049042,0.76,md,11,61,0.008575,0.01,nc,nc75155042,2025-03-25T14:41:34.644Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.810000002,0.16,12,automatic,nc,nc
+2025-03-25T14:36:22.870Z,28.855,-98.213,6.7139,1.6,ml,13,65,0,0.2,tx,tx2025fwtr,2025-03-25T14:51:47.770Z,"23 km SW of Falls City, Texas",earthquake,1.1938270516427,1.7810309049571,0.1,12,reviewed,tx,tx
 2025-03-25T14:32:32.853Z,62.0515,-151.0286,62.1,1.8,ml,,,,0.54,ak,ak0253v5o5ed,2025-03-25T14:35:11.290Z,"20 km ENE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-25T14:30:04.080Z,33.53,-116.7243333,5.49,0.91,ml,37,35,0.03693,0.18,ci,ci40909711,2025-03-25T14:34:35.973Z,"6 km WSW of Anza, CA",earthquake,0.18,0.44,0.195,29,automatic,ci,ci
 2025-03-25T14:29:38.114Z,38.5031,-119.4884,11.4,1.3,ml,10,159.51,0.159,0.1364,nn,nn00895092,2025-03-25T14:32:04.394Z,"1 km SW of Walker, California",earthquake,,1,0.19,4,automatic,nn,nn
@@ -130,7 +131,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T00:04:09.660Z,38.295666666667,-122.75583333333,-0.13,1.53,md,30,63,0.03455,0.13,nc,nc75154712,2025-03-25T00:34:27.784Z,"5 km WSW of Cotati, CA",explosion,0.21,31.61,0.221,23,reviewed,nc,nc
 2025-03-24T23:53:21.270Z,34.9616661,-117.6868362,0.69,1.84,ml,26,212,0.0283,0.25,ci,ci40909215,2025-03-24T23:55:44.752Z,"5 km SW of Boron, CA",earthquake,1.74,0.78,0.194,28,automatic,ci,ci
 2025-03-24T23:46:16.583Z,63.2348,-150.6171,113.2,1.2,ml,,,,0.42,ak,ak0253tnko4a,2025-03-24T23:49:51.508Z,"64 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-03-24T23:20:57.529Z,32.392,-101.678,10.5419,1,ml,7,140,0.2,0.3,tx,tx2025fvpo,2025-03-24T23:34:01.705Z,"15 km SSE of Ackerly, Texas",earthquake,0,7.0916361808777,0.2,5,automatic,tx,tx
 2025-03-24T23:19:36.937Z,37.8552,141.7132,63.604,4.4,mb,31,159,2.973,0.38,us,us7000pme1,2025-03-25T00:10:13.040Z,"69 km E of Sōma, Japan",earthquake,6.17,9.276,0.12,20,reviewed,us,us
 2025-03-24T23:12:44.193Z,-18.8437,-177.7078,611.558,4.4,mb,73,91,3.646,0.68,us,us7000pmdz,2025-03-24T23:41:32.040Z,"Fiji region",earthquake,11.56,7.796,0.058,85,reviewed,us,us
 2025-03-24T23:11:58.240Z,19.558,-65.485,28.19,3.39,md,16,288,1.259,0.33,pr,pr71477363,2025-03-25T00:04:24.570Z,"130 km NNE of Vieques, Puerto Rico",earthquake,1.6,24.45,0.061447349401698,13,reviewed,pr,pr
@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T15:13:07.980Z,44.8195,-111.49083333333,16.54,-0.13,ml,7,117,0.04471,0.18,mb,mb90075733,2025-03-25T14:49:49.740Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.99,1.79,0.17789646277955,4,reviewed,mb,mb
 2025-03-24T15:02:08.732Z,62.0178,-147.9577,36.9,1.1,ml,,,,0.85,ak,ak0253tijr61,2025-03-24T15:04:44.973Z,"28 km NW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-24T14:54:35.720Z,38.791500091553,-122.77799987793,2.2300000190735,1.08,md,13,80,0.00793,0.03,nc,nc75154467,2025-03-24T16:52:16.632Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.600000024,0.06,15,automatic,nc,nc
-2025-03-24T14:50:46.465Z,61.6006,-146.306,31.6,1.2,ml,,,,0.51,ak,ak0253ti8oue,2025-03-24T14:52:06.086Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
