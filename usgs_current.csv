@@ -1,10 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-26T01:39:58.651Z,61.1425,-151.347,66.1,0.9,ml,,,,0.43,ak,ak0253wlif15,2025-03-26T01:41:36.917Z,"14 km NW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-03-26T01:38:34.918Z,61.6964,-146.335,26.3,1.5,ml,,,,0.5,ak,ak0253wli5hf,2025-03-26T01:40:23.505Z,"40 km SE of Nelchina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-26T01:37:15.242Z,63.8005,-147.0103,0,1.3,ml,,,,1,ak,ak0253wlhw90,2025-03-26T01:39:08.286Z,"66 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-03-26T01:35:47.330Z,35.7175,-117.5673333,5.43,0.72,ml,18,63,0.1029,0.15,ci,ci40910423,2025-03-26T01:39:16.531Z,"14 km NE of Ridgecrest, CA",earthquake,0.23,1.84,0.154,11,automatic,ci,ci
+2025-03-26T01:31:08.510Z,34.6303333,-119.1545,8.99,1.19,ml,10,167,0.1107,0.12,ci,ci40910415,2025-03-26T01:35:10.953Z,"22 km NNE of Ojai, CA",earthquake,0.89,1.48,0.183,32,automatic,ci,ci
 2025-03-26T01:28:12.232Z,60.5153,-151.6995,62.3,0.8,ml,,,,0.55,ak,ak0253wlfyzs,2025-03-26T01:30:15.095Z,"23 km WSW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-03-26T01:17:01.920Z,33.5336667,-116.7211667,4.98,0.39,ml,15,59,0.0344,0.1,ci,ci40910399,2025-03-26T01:21:32.515Z,"5 km WSW of Anza, CA",earthquake,0.18,0.4,0.128,8,automatic,ci,ci
-2025-03-26T01:14:26.470Z,38.838333129883,-122.8381652832,1.75,1.09,md,24,82,0.002107,0.02,nc,nc75155347,2025-03-26T01:16:05.046Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.379999995,0.07,24,automatic,nc,nc
+2025-03-26T01:14:26.470Z,38.838333129883,-122.8381652832,1.75,1.09,md,24,82,0.002107,0.02,nc,nc75155347,2025-03-26T01:42:18.814Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.379999995,0.07,24,automatic,nc,nc
 2025-03-26T00:38:52.420Z,34.163,-116.0498333,7.93,1.06,ml,26,45,0.06374,0.16,ci,ci40910375,2025-03-26T00:43:26.245Z,"3 km NE of Twentynine Palms, CA",earthquake,0.22,0.55,0.136,11,automatic,ci,ci
 2025-03-26T00:38:00.220Z,34.162,-116.0543333,6.56,1.32,ml,29,133,0.03801,0.22,ci,ci40910367,2025-03-26T00:42:21.241Z,"3 km NNE of Twentynine Palms, CA",earthquake,0.41,0.81,0.198,29,automatic,ci,ci
 2025-03-26T00:36:20.970Z,19.583666666667,-156.29366666667,30.15,3.18,md,48,266,0.2908,0.16,hv,hv74641437,2025-03-26T01:32:30.711Z,"31 km WSW of Kailua-Kona, Hawaii",earthquake,0.77,1.62,0.045272220511994,13,reviewed,hv,hv
+2025-03-26T00:36:01.170Z,19.385,-155.4855,8.49,1.01,md,10,116,0.02963,0.1,hv,hv74641432,2025-03-26T01:37:39.080Z,"20 km N of Pāhala, Hawaii",earthquake,0.63,0.63,0.20009860373041,7,reviewed,hv,hv
 2025-03-26T00:34:24.910Z,38.829833984375,-122.81433105469,2.579999923706,0.68,md,12,57,0.007239,0.01,nc,nc75155332,2025-03-26T00:35:59.241Z,"8 km NNW of The Geysers, CA",earthquake,0.38,1.08000004,0.39,14,automatic,nc,nc
 2025-03-26T00:29:44.240Z,38.820331573486,-122.84200286865,2.3499999046326,1.34,md,29,70,0.006115,0.02,nc,nc75155327,2025-03-26T01:07:17.579Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.340000004,0.1,30,automatic,nc,nc
 2025-03-26T00:13:33.368Z,63.0979,-151.1164,25,1.4,ml,,,,1.13,ak,ak0253wkrcxb,2025-03-26T00:16:03.524Z,"57 km SSE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
@@ -46,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T21:23:55.157Z,62.6735,-152.2152,0,2,ml,,,,1.15,ak,ak0253v9satb,2025-03-25T21:27:11.994Z,"77 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-25T21:06:09.050Z,38.814666748047,-122.81783294678,0.56000000238419,0.78,md,18,62,0.01059,0.03,nc,nc75155222,2025-03-25T21:22:17.058Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.479999989,0.16,19,automatic,nc,nc
 2025-03-25T21:05:04.530Z,41.724833333333,-109.8575,-0.52,2.22,ml,10,155,0.0161,0.09,uu,uu80104426,2025-03-25T21:51:51.350Z,"17 km NNE of Granger, Wyoming",earthquake,0.6,0.44,0.16309065505093,5,reviewed,uu,uu
-2025-03-25T21:00:07.370Z,-38.0749,175.8766,278.989,4.2,mb,20,69,0.454,0.86,us,us7000pml0,2025-03-25T21:12:49.040Z,"17 km N of Tokoroa, New Zealand",earthquake,8.31,6.614,0.199,7,reviewed,us,us
+2025-03-25T21:00:07.114Z,-38.0391,176.0195,275.847,4.1,mb,22,70,0.512,1.16,us,us7000pml0,2025-03-26T01:41:37.040Z,"16 km WNW of Ngongotaha, New Zealand",earthquake,8.3,5.579,0.174,9,reviewed,us,us
 2025-03-25T20:57:30.450Z,35.6301651,-118.0110016,9.39,1.19,ml,15,81,0.1408,0.09,ci,ci40910135,2025-03-25T20:59:32.919Z,"18 km W of Inyokern, CA",earthquake,0.38,1.91,0.225,7,automatic,ci,ci
 2025-03-25T20:56:21.180Z,38.815498352051,-122.82216644287,2.2300000190735,2.3,md,43,67,0.008593,0.07,nc,nc75155212,2025-03-25T22:52:15.629Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.189999998,0.15,48,automatic,nc,nc
 2025-03-25T20:52:58.654Z,31.676,-104.404,3.9012,1.9,ml,17,69,0,0.4,tx,tx2025fxge,2025-03-25T20:59:38.871Z,"55 km S of Whites City, New Mexico",earthquake,0,1.306438088417,0.1,13,automatic,tx,tx
@@ -120,10 +126,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T13:32:12.760Z,38.793167114258,-122.75466918945,1.2400000095367,0.27,md,8,86,0.008425,0.01,nc,nc75155017,2025-03-25T14:47:18.433Z,"2 km NNE of The Geysers, CA",earthquake,0.32,1.03999996,0.05,8,automatic,nc,nc
 2025-03-25T13:30:33.910Z,33.7876667,-116.0786667,1.14,1.3,ml,46,38,0.1193,0.19,ci,ci40909647,2025-03-25T13:34:19.338Z,"15 km ENE of Indio, CA",earthquake,0.16,0.33,0.146,27,automatic,ci,ci
 2025-03-25T13:25:11.685Z,6.7709,92.5324,10,4.9,mww,155,31,4.65,0.61,us,us7000pmhv,2025-03-25T14:28:26.040Z,"Nicobar Islands, India region",earthquake,7.96,1.765,0.103,9,reviewed,us,us
+2025-03-25T13:22:20.750Z,58.069833333333,-155.35333333333,8.43,0.02,ml,4,293,0.1197,0.04,av,av93037044,2025-03-26T01:41:44.600Z,"77 km NW of Karluk, Alaska",earthquake,0.61,1.45,0.22093102100116,4,reviewed,av,av
 2025-03-25T13:20:55.099Z,64.8334,-147.4336,16.1,0.7,ml,,,,0.24,ak,ak0253v506wy,2025-03-25T13:23:15.702Z,"6 km NE of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-25T13:20:21.954Z,31.526,-104.013,7.1509,1.8,ml,13,57,0,0.1,tx,tx2025fwre,2025-03-25T14:39:03.702Z,"31 km NW of Toyah, Texas",earthquake,1.112166107067,0.72638246937872,0.2,11,reviewed,tx,tx
 2025-03-25T13:15:22.034Z,60.3561,-143.6766,8,1.4,ml,,,,0.62,ak,ak0253v4z1sb,2025-03-25T13:17:17.737Z,"116 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-25T13:14:01.600Z,33.7876667,-116.0775,1.51,0.92,ml,37,47,0.1203,0.2,ci,ci40909631,2025-03-25T13:18:30.510Z,"15 km ENE of Indio, CA",earthquake,0.2,0.35,0.101,24,automatic,ci,ci
+2025-03-25T13:12:03.090Z,58.066833333333,-155.35033333333,5.96,-0.18,ml,5,293,0.12,0.11,av,av93037039,2025-03-26T01:38:18.590Z,"76 km NW of Karluk, Alaska",earthquake,0.86,2.11,0.33233749804506,5,reviewed,av,av
 2025-03-25T13:08:12.561Z,31.535,-104.009,6.1511,2.5,ml,16,56,0,0.1,tx,tx2025fwqt,2025-03-25T15:15:16.040Z,"31 km NW of Toyah, Texas",earthquake,1.1834318142373,0.78240046220579,0.1,12,reviewed,tx,tx
 2025-03-25T13:07:53.640Z,58.342833333333,-155.11166666667,3.03,0.34,ml,7,130,0.05322,0.13,av,av93545591,2025-03-26T01:31:03.560Z,"94 km NNW of Karluk, Alaska",earthquake,0.36,1.11,0.15136932353601,8,reviewed,av,av
 2025-03-25T12:58:41.380Z,33.2635,-116.1295,7.05,0.8,ml,46,43,0.1122,0.2,ci,ci40909607,2025-03-25T13:03:47.887Z,"13 km N of Ocotillo Wells, CA",earthquake,0.18,0.69,0.124,14,automatic,ci,ci
@@ -269,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T01:52:03.160Z,37.900001525879,-122.09516906738,7.4200000762939,1.77,md,22,59,0.04941,0.06,nc,nc75154767,2025-03-25T02:12:16.422Z,"3 km ENE of Lafayette, CA",earthquake,0.27,0.469999999,0.09,18,automatic,nc,nc
 2025-03-25T01:51:25.560Z,38.816165924072,-122.82150268555,2.1800000667572,1.1,md,20,55,0.009437,0.02,nc,nc75154762,2025-03-25T04:37:16.399Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.439999998,0.13,21,automatic,nc,nc
 2025-03-25T01:51:08.048Z,31.721,-104.331,7.4841,1.6,ml,17,67,0.1,0.3,tx,tx2025fvuk,2025-03-25T14:06:28.517Z,"50 km S of Whites City, New Mexico",earthquake,0.67576344598648,0.81419548946726,0.2,13,reviewed,tx,tx
-2025-03-25T01:43:12.205Z,-46.708,165.933,21,6.7,mww,103,58,0.749,0.51,us,us7000pmem,2025-03-25T23:50:23.411Z,"164 km WSW of Riverton, New Zealand",earthquake,8.54,1.776,0.045,47,reviewed,us,us
