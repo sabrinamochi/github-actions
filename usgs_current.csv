@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-26T12:52:23.662Z,60.7472,-147.2977,15,2.3,ml,,,,0.49,ak,ak0253ws4wam,2025-03-26T12:54:48.644Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-26T12:42:13.454Z,28.8511,86.4084,10,4.4,mb,37,86,1.445,0.9,us,us7000pmqt,2025-03-26T13:06:44.040Z,"107 km NNW of Lobuche, Nepal",earthquake,9.71,1.898,0.083,42,reviewed,us,us
 2025-03-26T12:29:25.830Z,35.7678333,-117.5991667,6.69,1.36,ml,29,53,0.129,0.14,ci,ci40910687,2025-03-26T12:32:58.162Z,"18 km W of Searles Valley, CA",earthquake,0.16,0.61,0.15,25,automatic,ci,ci
 2025-03-26T12:24:13.851Z,61.2455,-146.8157,37.2,1.3,ml,,,,0.36,ak,ak0253wryvhl,2025-03-26T12:26:13.431Z,"28 km WNW of Valdez, Alaska",earthquake,,9,,,automatic,ak,ak
 2025-03-26T12:22:37.747Z,36.7122,-114.5515,14,1.6,ml,21,169.97,0.528,0.3059,nn,nn00895157,2025-03-26T12:25:22.985Z,"5 km NE of Moapa Town, Nevada",earthquake,,0.7,0.34,12,automatic,nn,nn
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T11:47:37.959Z,60.749,-147.3207,14.6,1.6,ml,,,,0.65,ak,ak0253wrif7n,2025-03-26T11:50:19.833Z,"37 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-26T11:41:40.978Z,62.7026,-152.0947,10.9,1.4,ml,,,,0.45,ak,ak0253wrh55d,2025-03-26T11:43:15.221Z,"72 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-26T11:31:31.750Z,33.9636667,-116.8716667,17.15,0.91,ml,48,24,0.08889,0.16,ci,ci40910655,2025-03-26T11:35:50.771Z,"4 km N of Banning, CA",earthquake,0.15,0.43,0.25,28,automatic,ci,ci
-2025-03-26T11:25:05.450Z,36.564334869385,-121.10666656494,9.0100002288818,1.88,md,35,54,0.05583,0.18,nc,nc75155527,2025-03-26T11:47:17.848Z,"5 km NE of Pinnacles, CA",earthquake,0.32,0.75,0.16,30,automatic,nc,nc
+2025-03-26T11:25:05.450Z,36.564334869385,-121.10666656494,9.0100002288818,1.88,md,35,54,0.05583,0.18,nc,nc75155527,2025-03-26T13:07:18.394Z,"5 km NE of Pinnacles, CA",earthquake,0.32,0.75,0.16,30,automatic,nc,nc
 2025-03-26T11:20:47.530Z,38.793334960938,-122.78316497803,3.2999999523163,0.76,md,15,87,0.003718,0.03,nc,nc75155522,2025-03-26T12:37:24.194Z,"3 km NW of The Geysers, CA",earthquake,0.42,0.779999971,0.07,15,automatic,nc,nc
 2025-03-26T11:04:21.991Z,31.533,-104.014,6.792,1.9,ml,16,57,0,0.1,tx,tx2025fyig,2025-03-26T11:54:46.317Z,"32 km NW of Toyah, Texas",earthquake,0.98529884758803,0.65763529412845,0.1,12,reviewed,tx,tx
 2025-03-26T11:03:24.935Z,65.7389,-155.1615,0.4,1.4,ml,,,,0.61,ak,ak0253wr8yp9,2025-03-26T11:06:23.638Z,"53 km SW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T13:15:22.034Z,60.3561,-143.6766,8,1.4,ml,,,,0.62,ak,ak0253v4z1sb,2025-03-25T13:17:17.737Z,"116 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-25T13:14:01.600Z,33.7876667,-116.0775,1.51,0.92,ml,37,47,0.1203,0.2,ci,ci40909631,2025-03-25T13:18:30.510Z,"15 km ENE of Indio, CA",earthquake,0.2,0.35,0.101,24,automatic,ci,ci
 2025-03-25T13:12:03.090Z,58.066833333333,-155.35033333333,5.96,-0.18,ml,5,293,0.12,0.11,av,av93037039,2025-03-26T01:38:18.590Z,"76 km NW of Karluk, Alaska",earthquake,0.86,2.11,0.33233749804506,5,reviewed,av,av
-2025-03-25T13:08:12.561Z,31.535,-104.009,6.1511,2.5,ml,16,56,0,0.1,tx,tx2025fwqt,2025-03-25T15:15:16.040Z,"31 km NW of Toyah, Texas",earthquake,1.1834318142373,0.78240046220579,0.1,12,reviewed,tx,tx
-2025-03-25T13:07:53.640Z,58.342833333333,-155.11166666667,3.03,0.34,ml,7,130,0.05322,0.13,av,av93545591,2025-03-26T01:31:03.560Z,"94 km NNW of Karluk, Alaska",earthquake,0.36,1.11,0.15136932353601,8,reviewed,av,av
