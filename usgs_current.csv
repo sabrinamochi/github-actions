@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-27T18:00:18.037Z,36.7374,-116.2099,5.7,0.1,ml,14,45.41,0.01,0.158,nn,nn00895217,2025-03-27T18:02:19.146Z,"51 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.05,7,automatic,nn,nn
-2025-03-27T17:48:41.190Z,18.238833333333,-67.736166666667,93.09,3.28,md,12,178,0.6214,0.24,pr,pr71477678,2025-03-27T18:12:21.250Z,"52 km W of Stella, Puerto Rico",earthquake,1.84,1.42,0.061644014236462,9,reviewed,pr,pr
-2025-03-27T17:43:12.164Z,31.586,-104.541,4.3301,2,ml,8,162,0.1,0.2,tx,tx2025gaqz,2025-03-27T18:11:02.684Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.3498601913452,0.1,6,automatic,tx,tx
+2025-03-27T18:00:18.512Z,36.74,-116.2062,5.5,0.1,ml,23,45.74,0.013,0.0673,nn,nn00895217,2025-03-27T18:26:09.671Z,"51 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.09,7,reviewed,nn,nn
+2025-03-27T17:51:48.832Z,36.586,25.5444,10,4.5,mww,85,33,1.4,0.85,us,us7000pn53,2025-03-27T18:17:00.040Z,"20 km NE of Oía, Greece",earthquake,5.06,1.838,0.071,19,reviewed,us,us
+2025-03-27T17:48:41.190Z,18.238833333333,-67.736166666667,93.09,3.28,md,12,178,0.6214,0.24,pr,pr71477678,2025-03-27T18:19:29.040Z,"52 km W of Stella, Puerto Rico",earthquake,1.84,1.42,0.061644014236462,9,reviewed,pr,pr
+2025-03-27T17:43:12.117Z,31.584,-104.541,4.3531,2,ml,8,162,0.1,0.2,tx,tx2025gaqz,2025-03-27T18:22:14.747Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.351612329483,0.1,6,automatic,tx,tx
 2025-03-27T16:33:33.346Z,64.3893,-147.2055,9.1,1,ml,,,,0.3,ak,ak0253yhxxcm,2025-03-27T16:36:21.816Z,"20 km SW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-27T16:33:16.072Z,51.2934,-178.2722,35,3.7,ml,23,206,0.427,0.67,us,us7000pn36,2025-03-27T17:01:30.040Z,"130 km WSW of Adak, Alaska",earthquake,5.06,2.002,0.105,22,reviewed,us,us
 2025-03-27T16:32:41.709Z,31.618,-104.392,3.6566,1.7,ml,18,87,0.1,0.3,tx,tx2025gaou,2025-03-27T16:44:17.166Z,"61 km S of Whites City, New Mexico",earthquake,0,1.5665160417557,0.1,14,automatic,tx,tx
@@ -228,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T18:35:19.130Z,38.813833333333,-122.82366666667,2.56,0.41,md,23,53,0.006567,0.03,nc,nc75155717,2025-03-27T10:12:16.831Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.42,0.095,20,reviewed,nc,nc
 2025-03-26T18:27:55.280Z,38.796001434326,-122.79666900635,0.34000000357628,0.5,md,8,104,0.007396,0.02,nc,nc75155712,2025-03-26T18:29:30.846Z,"4 km NW of The Geysers, CA",earthquake,0.47,0.709999979,0.26,8,automatic,nc,nc
 2025-03-26T18:27:50.190Z,58.2305,-155.11133333333,2.92,0.03,ml,8,104,0.05692,0.13,av,av93547416,2025-03-27T04:56:05.660Z,"83 km NNW of Karluk, Alaska",earthquake,0.28,1.25,0.19087872636517,8,reviewed,av,av
-2025-03-26T18:26:59.120Z,38.795166666667,-122.79566666667,-0.02,-0.38,md,7,124,0.006372,0.02,nc,nc75155707,2025-03-27T09:41:38.495Z,"4 km NW of The Geysers, CA",earthquake,0.36,0.59,0.247,7,reviewed,nc,nc
-2025-03-26T18:21:52.810Z,45.931833333333,-111.4845,-2,1.51,ml,7,156,0.2894,0.02,mb,mb90075943,2025-03-26T20:10:11.130Z,"6 km NE of Three Forks, Montana",quarry blast,0.4,31.61,0.12193083147729,19,reviewed,mb,mb
-2025-03-26T18:19:23.230Z,37.446334838867,-118.81549835205,3.079999923706,1.73,md,22,156,0.1438,0.05,nc,nc75155697,2025-03-26T20:52:16.597Z,"18 km SW of Toms Place, CA",earthquake,0.44,1.92999995,0.1,20,automatic,nc,nc
