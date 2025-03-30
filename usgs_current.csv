@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-30T14:25:26.810Z,19.245832443237,-155.86250305176,5.1799998283386,3.1,ml,50,260,0.1343,0.25999999,hv,hv74645217,2025-03-30T14:28:40.400Z,"22 km NNW of Hawaiian Ocean View, Hawaii",earthquake,0.67,0.419999987,0.29,38,automatic,hv,hv
+2025-03-30T14:32:02.095Z,60.3795,-152.3398,85.4,1.5,ml,,,,0.39,ak,ak02543fctht,2025-03-30T14:34:13.151Z,"52 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-03-30T14:25:48.508Z,31.519,-104.008,6.0068,1.8,ml,14,64,0,0.2,tx,tx2025gfwv,2025-03-30T14:32:37.929Z,"30 km NW of Toyah, Texas",earthquake,0,2.534157037735,0.1,12,automatic,tx,tx
+2025-03-30T14:25:26.810Z,19.245832443237,-155.86250305176,5.1799998283386,3.1,ml,50,260,0.1343,0.25999999,hv,hv74645217,2025-03-30T14:34:07.904Z,"22 km NNW of Hawaiian Ocean View, Hawaii",earthquake,0.67,0.419999987,0.29,38,automatic,hv,hv
 2025-03-30T14:22:22.280Z,61.4682,-147.5049,32.4,2,ml,,,,0.45,ak,ak02543fapw4,2025-03-30T14:23:48.042Z,"38 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-30T14:18:03.323Z,62.4647,-150.7555,69.3,1.6,ml,,,,0.72,ak,ak02543f9tkc,2025-03-30T14:20:14.662Z,"3 km S of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-03-30T14:05:18.852Z,39.0429,-119.0087,1.7,1.5,ml,11,114.88,0.128,0.1825,nn,nn00895385,2025-03-30T14:07:25.043Z,"14 km ENE of Yerington, Nevada",earthquake,,3.6,0.26,6,automatic,nn,nn
+2025-03-30T14:05:19.028Z,39.048,-119.0131,2.8,1.5,ml,14,113,0.097,0.1747,nn,nn00895385,2025-03-30T14:34:05.128Z,"14 km ENE of Yerington, Nevada",earthquake,,1.7,0.17,7,reviewed,nn,nn
 2025-03-30T14:04:52.231Z,57.8297,-156.5092,10.3,1.8,ml,,,,0.08,ak,ak02543f6xbb,2025-03-30T14:06:32.525Z,"63 km ENE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-30T13:58:29.300Z,17.965166666667,-66.864166666667,11.69,2.42,md,11,200,0.01741,0.27,pr,pr71477993,2025-03-30T14:19:47.590Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.79,0.75,0.17163873776665,6,reviewed,pr,pr
 2025-03-30T13:55:57.885Z,42.0469,142.686,55.712,4.5,mb,49,84,0.352,0.5,us,us7000pnv5,2025-03-30T14:27:18.040Z,"14 km SSW of Urakawa, Japan",earthquake,6.92,7.386,0.057,90,reviewed,us,us
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T13:11:12.780Z,38.813667297363,-122.82366943359,2.0299999713898,0.75,md,13,89,0.006441,0.02,nc,nc75157737,2025-03-30T13:13:17.068Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.670000017,0.15,13,automatic,nc,nc
 2025-03-30T12:58:54.175Z,63.2147,-149.6363,42.2,2.9,ml,,,,1.05,ak,ak02543ebmx5,2025-03-30T13:01:03.126Z,"39 km WSW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-03-30T12:57:24.990Z,61.2643,-150.8346,66,2.1,ml,,,,0.48,ak,ak02543ebcyb,2025-03-30T12:59:31.655Z,"19 km NE of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-03-30T12:51:10.790Z,33.9816667,-116.9848333,13.86,1.55,ml,82,20,0.06023,0.2,ci,ci40913007,2025-03-30T13:02:22.950Z,"6 km N of Beaumont, CA",earthquake,0.13,0.31,0.192,26,automatic,ci,ci
+2025-03-30T12:51:10.790Z,33.9816667,-116.9848333,13.86,1.55,ml,82,20,0.06023,0.2,ci,ci40913007,2025-03-30T14:34:44.034Z,"6 km N of Beaumont, CA",earthquake,0.13,0.31,0.192,26,reviewed,ci,ci
 2025-03-30T12:44:14.098Z,31.65,-104.134,4.3961,2.2,ml,19,95,0.1,0.3,tx,tx2025gftm,2025-03-30T12:55:24.258Z,"49 km NW of Toyah, Texas",earthquake,0,1.459560751915,0.1,14,automatic,tx,tx
 2025-03-30T12:30:25.510Z,33.2173333,-116.7763333,4.39,2.6,ml,12,109,0.3828,0.34,ci,ci40912999,2025-03-30T12:40:42.131Z,"3 km SSW of Lake Henshaw, CA",earthquake,1.13,22.35,0.222,17,automatic,ci,ci
 2025-03-30T12:26:38.100Z,18.961833953857,-155.60249328613,94.919998168945,2.56,ml,31,306,0.3014,0.330000013,hv,hv74645157,2025-03-30T12:29:50.970Z,"11 km SSW of Naalehu, Hawaii",earthquake,4.47,6,0.24,29,automatic,hv,hv
@@ -218,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-29T15:01:58.900Z,44.1915,-115.11583333333,5.73,1.47,ml,14,74,0.2117,0.17,mb,mb90076183,2025-03-30T14:04:40.650Z,"14 km WSW of Stanley, Idaho",earthquake,0.43,2.28,0.20675489316869,13,reviewed,mb,mb
 2025-03-29T14:52:51.120Z,41.874166666667,-124.28433333333,8.11,1.91,ml,10,260,0.1505,0.17,uw,uw62078542,2025-03-30T00:14:22.940Z,"12 km WSW of Smith River, California",earthquake,0.75,0.64,0.11393627613379,7,reviewed,uw,uw
 2025-03-29T14:36:41.540Z,38.833000183105,-122.81133270264,2.2200000286102,1.05,md,19,70,0.009641,0.02,nc,nc75157237,2025-03-29T14:38:16.964Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.529999971,0.1,20,automatic,nc,nc
-2025-03-29T14:34:29.776Z,59.8284,-152.8102,100,2.1,ml,,,,0.24,ak,ak02541rtykh,2025-03-29T14:36:35.431Z,"55 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-29T14:32:08.290Z,17.989333333333,-66.812666666667,15.87,2.01,md,7,184,0.06495,0.12,pr,pr71477863,2025-03-29T15:36:49.060Z,"0 km SE of Indios, Puerto Rico",earthquake,0.53,0.91,0.0066403527136147,3,reviewed,pr,pr
