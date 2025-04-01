@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-01T03:51:02.997Z,61.6495,-146.4224,30.2,1.4,ml,,,,0.5,ak,ak02546jzti3,2025-04-01T03:53:32.266Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-01T03:47:36.385Z,62.2688,-149.632,54.9,1.5,ml,,,,0.4,ak,ak02546jz17q,2025-04-01T03:49:42.559Z,"16 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-01T03:21:50.360Z,38.7936668396,-122.77933502197,3.289999961853,1.51,md,33,77,0.006725,0.03,nc,nc75158327,2025-04-01T03:37:18.013Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.17,32,automatic,nc,nc
 2025-04-01T03:16:54.011Z,31.638,-104.312,4.1181,1.7,ml,17,70,0.1,0.3,tx,tx2025giru,2025-04-01T03:22:56.399Z,"59 km S of Whites City, New Mexico",earthquake,0,1.3336260318756,0.2,13,automatic,tx,tx
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T21:33:18.510Z,33.4718333,-116.4721667,7.79,1,ml,25,54,0.111,0.15,ci,ci40913911,2025-03-31T21:54:59.118Z,"21 km ESE of Anza, CA",earthquake,0.22,0.72,0.159,28,reviewed,ci,ci
 2025-03-31T21:21:58.130Z,44.353666666667,-116.091,9.52,1.14,ml,8,156,0.0507,0.13,mb,mb90076338,2025-03-31T21:38:20.100Z,"5 km N of Smiths Ferry, Idaho",earthquake,0.72,1.77,0.26121723585521,6,reviewed,mb,mb
 2025-03-31T20:51:15.771Z,63.074,-145.2655,7.7,1.6,ml,,,,0.37,ak,ak025456kva1,2025-03-31T20:53:40.408Z,"17 km E of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-31T20:42:24.673Z,24.4239,50.3108,10.678,4,mb,22,176,4.488,0.47,us,us7000pp4t,2025-04-01T01:42:40.589Z,"100 km SSW of Umm Bāb, Qatar",earthquake,15.22,7.558,0.111,22,reviewed,us,us
+2025-03-31T20:42:24.673Z,24.4239,50.3108,10.678,4,mb,22,176,4.488,0.47,us,us7000pp4t,2025-04-01T03:55:36.410Z,"100 km SSW of Umm Bāb, Qatar",earthquake,15.22,7.558,0.111,22,reviewed,us,us
 2025-03-31T20:27:39.490Z,19.340166666667,-155.11683333333,7.55,1.39,ml,26,145,0.04519,0.09,hv,hv74646142,2025-03-31T21:32:37.340Z,"14 km S of Fern Forest, Hawaii",earthquake,0.51,0.8,0.27142480450879,14,reviewed,hv,hv
 2025-03-31T20:23:12.020Z,35.3513333,-117.8043333,6.45,2.15,ml,38,61,0.09034,0.18,ci,ci40913879,2025-03-31T20:26:51.581Z,"16 km W of Johannesburg, CA",earthquake,0.19,0.62,0.147,26,automatic,ci,ci
 2025-03-31T20:22:08.686Z,59.9193,-153.0256,113.9,1.5,ml,,,,0.22,ak,ak025456emys,2025-03-31T20:23:42.737Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T04:07:58.010Z,60.0325,-153.09466666667,-0.45,0.16,ml,6,151,0.03483,0.06,av,av93554751,2025-03-31T22:18:01.880Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.28,0.45,0.28954594910693,7,reviewed,av,av
 2025-03-31T04:03:24.620Z,59.3565,-153.441,-0.63,-0.58,ml,6,130,0.006406,0.08,av,av93037464,2025-03-31T22:23:18.540Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.26,0.27,0.20371856460725,6,reviewed,av,av
 2025-03-31T04:03:05.750Z,19.2615,-67.128666666667,24.38,3.39,md,16,235,0.7756,0.38,pr,pr71478033,2025-03-31T04:25:14.140Z,"84 km N of Isabela, Puerto Rico",earthquake,1.42,24.06,0.09853768449803,11,reviewed,pr,pr
-2025-03-31T03:51:34.310Z,38.836334228516,-122.88033294678,2.289999961853,0.67,md,9,122,0.003081,0.02,nc,nc75157947,2025-03-31T03:53:11.300Z,"12 km E of Cloverdale, CA",earthquake,0.99,0.810000002,0.29,12,automatic,nc,nc
-2025-03-31T03:50:39.750Z,33.7768333,-118.745,15.18,2,ml,18,185,0.2328,0.17,ci,ci40913375,2025-03-31T21:42:06.834Z,"26 km SSE of Malibu, CA",earthquake,0.43,0.86,0.151,104,reviewed,ci,ci
