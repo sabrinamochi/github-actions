@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-01T12:24:21.650Z,61.4631,-146.541,35.2,1.5,ml,,,,0.62,ak,ak02546p6z1x,2025-04-01T12:25:56.086Z,"38 km NNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-04-01T12:19:13.337Z,64.4756,-146.9061,9.6,0.9,ml,,,,0.18,ak,ak02546p5vtx,2025-04-01T12:20:51.181Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T12:06:53.160Z,60.3065,-141.4587,0.1,1.4,ml,,,,1.07,ak,ak02546p36lg,2025-04-01T12:08:24.801Z,"128 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-04-01T11:56:19.730Z,38.819499969482,-122.84583282471,2.170000076294,0.79,md,6,170,0.009179,0.01,nc,nc75158452,2025-04-01T11:57:53.468Z,"9 km NW of The Geysers, CA",earthquake,0.73,1.52999997,0.32,7,automatic,nc,nc
+2025-04-01T11:56:19.730Z,38.819499969482,-122.84583282471,2.170000076294,0.79,md,6,170,0.009179,0.01,nc,nc75158452,2025-04-01T12:27:19.484Z,"9 km NW of The Geysers, CA",earthquake,0.73,1.52999997,0.32,7,automatic,nc,nc
 2025-04-01T11:38:52.293Z,31.945,-101.727,4.5544,1.6,ml,48,51,0.1,0.4,tx,tx2025gjii,2025-04-01T11:49:35.623Z,"21 km SSE of Stanton, Texas",earthquake,0,0.83940589427948,0.1,36,automatic,tx,tx
 2025-04-01T11:35:47.961Z,39.0457,-119.0096,1.5,1.2,ml,9,113.85,0.125,0.1416,nn,nn00895472,2025-04-01T11:37:55.321Z,"14 km ENE of Yerington, Nevada",earthquake,,4.1,0.33,5,automatic,nn,nn
 2025-04-01T11:25:47.170Z,38.793834686279,-122.74866485596,2.3499999046326,0.77,md,10,161,0.01098,0.02,nc,nc75158432,2025-04-01T11:42:15.183Z,"2 km NNE of The Geysers, CA",earthquake,0.46,0.920000017,0.03,10,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-01T11:09:47.291Z,58.1169,-156.414,20.1,1.4,ml,,,,0.5,ak,ak02546oidop,2025-04-01T11:11:52.647Z,"57 km ESE of Egegik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-04-01T11:01:47.640Z,22.05,95.9514,10,5,mb,68,68,1.278,0.7,us,us7000pp7z,2025-04-01T11:46:44.913Z,"15 km WNW of Mandalay, Burma (Myanmar)",earthquake,6.1,1.831,0.051,121,reviewed,us,us
 2025-04-01T10:43:38.550Z,38.831665039062,-122.83283233643,1.1699999570847,0.4,md,11,97,0.007218,0.02,nc,nc75158422,2025-04-01T11:07:18.980Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.74000001,0.28,13,automatic,nc,nc
-2025-04-01T10:34:25.860Z,38.814666748047,-122.81716918945,2.789999961853,1.28,md,25,50,0.01033,0.05,nc,nc75158417,2025-04-01T10:57:20.910Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.18,27,automatic,nc,nc
+2025-04-01T10:34:25.860Z,38.814666748047,-122.81716918945,2.789999961853,1.28,md,25,50,0.01033,0.05,nc,nc75158417,2025-04-01T12:22:15.445Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.18,27,automatic,nc,nc
 2025-04-01T10:28:37.003Z,60.8703,-149.3169,23.3,1.6,ml,,,,0.55,ak,ak02546o0zw4,2025-04-01T10:30:43.721Z,"6 km ESE of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T10:28:05.400Z,38.79349899292,-122.77416992188,2.079999923706,1.3,md,23,77,0.01075,0.03,nc,nc75158412,2025-04-01T11:57:16.289Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.340000004,0.14,26,automatic,nc,nc
 2025-04-01T10:20:22.918Z,58.2084,-156.305,0,2,ml,,,,0.66,ak,ak02546nz92r,2025-04-01T10:22:35.161Z,"57 km SSE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -214,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T13:06:09.220Z,58.240333333333,-155.15366666667,3.34,-0.48,ml,5,212,0.0439,0.1,av,av93555341,2025-03-31T20:06:16.120Z,"85 km NNW of Karluk, Alaska",earthquake,0.48,0.88,0.094354222835163,5,reviewed,av,av
 2025-03-31T12:31:34.080Z,41.8708,-119.549,4.2,2.2,ml,4,134.79,0.397,0.146,nn,nn00895450,2025-04-01T02:12:13.924Z,"50 km E of Fort Bidwell, California",earthquake,,2.9,0.44,4,reviewed,nn,nn
 2025-03-31T12:29:45.308Z,51.3188,-179.2022,22.5,2.1,ml,,,,0.6,ak,ak025451orq2,2025-03-31T17:32:38.666Z,"188 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2025-03-31T12:28:48.290Z,33.6578333,-116.7786667,15.24,1.15,ml,53,27,0.07905,0.21,ci,ci40913583,2025-03-31T13:47:12.910Z,"11 km SSW of Idyllwild, CA",earthquake,0.19,0.38,0.26,26,reviewed,ci,ci
