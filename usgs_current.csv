@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-01T03:02:23.764Z,62.0583,-150.0792,35.4,1.5,ml,,,,0.76,ak,ak02546jpd0o,2025-04-01T03:04:29.519Z,"16 km SW of Susitna North, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2025-04-01T02:59:18.664Z,60.2564,-150.9671,49.8,2.1,ml,,,,0.6,ak,ak02546jg4u2,2025-04-01T03:00:58.754Z,"19 km ESE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-01T02:53:43.917Z,65.4443,-148.2857,10.9,0.9,ml,,,,0.55,ak,ak02546jewhj,2025-04-01T02:55:56.048Z,"14 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-01T02:44:05.310Z,38.758834838867,-122.71700286865,1.6299999952316,1.48,md,7,105,0.006733,0.04,nc,nc75158317,2025-04-01T02:45:44.178Z,"3 km WSW of Anderson Springs, CA",earthquake,0.47,0.49000001,0.3,6,automatic,nc,nc
 2025-04-01T02:31:49.065Z,-5.0825,149.7947,391.056,4.5,mb,47,77,2.522,0.89,us,us7000pp5u,2025-04-01T02:48:10.040Z,"64 km NW of Kimbe, Papua New Guinea",earthquake,10.13,8.108,0.066,67,reviewed,us,us
@@ -52,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T19:35:27.395Z,41.2108,-116.7211,7.1,2,ml,5,160.9,0.324,0.1816,nn,nn00895457,2025-04-01T02:12:33.844Z,"57 km NE of Valmy, Nevada",earthquake,,3,0.12,3,reviewed,nn,nn
 2025-03-31T19:32:13.946Z,61.0643,-151.0736,64.1,1.4,ml,,,,0.22,ak,ak025455vcxe,2025-03-31T19:33:23.016Z,"3 km E of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-03-31T19:30:26.108Z,59.9465,-140.7581,8.6,1.8,ml,,,,0.84,ak,ak025455uyfm,2025-03-31T19:32:37.033Z,"73 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-03-31T19:27:52.650Z,61.319166666667,-152.261,-2.62,-0.57,ml,9,125,0.0743,0.1,av,av93555781,2025-04-01T03:00:16.980Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,1.47,0.23921011294812,9,reviewed,av,av
 2025-03-31T19:23:57.712Z,32.193,-101.398,3.4432,1.4,ml,30,88,0.2,0.3,tx,tx2025gich,2025-03-31T19:31:58.640Z,"9 km NNW of Forsan, Texas",earthquake,0,1.1195776462555,0.1,19,automatic,tx,tx
 2025-03-31T19:11:09.311Z,21.9068,96.0099,10,4.1,mb,14,167,4.4,0.33,us,us7000pp3w,2025-03-31T20:12:24.040Z,"4 km NE of Sagaing, Burma (Myanmar)",earthquake,10.73,1.982,0.197,7,reviewed,us,us
 2025-03-31T19:03:26.650Z,46.002,-112.46383333333,-2,1.62,ml,11,78,0.06392,0.06,mb,mb90076323,2025-03-31T21:31:43.380Z,"5 km E of Butte, Montana",quarry blast,0.32,31.61,0.21674462509267,14,reviewed,mb,mb
@@ -171,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T07:50:43.160Z,61.271,-152.24116666667,3.76,-0.81,ml,6,178,0.042,0.07,av,av93037514,2025-04-01T00:52:07.450Z,"63 km WNW of Tyonek, Alaska",earthquake,0.35,0.68,0.1913148257478,7,reviewed,av,av
 2025-03-31T07:48:38.020Z,51.876666666667,-176.55133333333,-1.76,1.32,ml,9,168,0.09153,0.11,av,av93554966,2025-04-01T00:45:25.500Z,"5 km E of Adak, Alaska",earthquake,0.56,0.41,0.28411940771551,10,reviewed,av,av
 2025-03-31T07:40:55.995Z,31.664,-104.29,8.894,2.2,ml,15,177,0,0.2,tx,tx2025ghey,2025-03-31T19:59:52.081Z,"57 km S of Whites City, New Mexico",earthquake,1.0966763611424,1.1424029944297,0.2,6,reviewed,tx,tx
-2025-03-31T07:40:43.871Z,31.673,-104.301,6.6125,2.8,ml,14,66,0,0.1,tx,tx2025ghez,2025-03-31T08:10:22.547Z,"56 km S of Whites City, New Mexico",earthquake,1.0086375989483,0.84789461692182,0.2,28,reviewed,tx,tx
+2025-03-31T07:40:43.871Z,31.673,-104.301,6.6125,2.8,ml,14,66,0,0.1,tx,tx2025ghez,2025-03-31T08:10:21.433Z,"56 km S of Whites City, New Mexico",earthquake,1.0086375989483,0.84789461692182,0.2,28,reviewed,tx,tx
 2025-03-31T07:40:15.200Z,40.215167999268,-124.14966583252,11.470000267029,2.83,md,28,154,0.03801,0.15,nc,nc75157992,2025-03-31T23:07:18.335Z,"17 km SSE of Petrolia, CA",earthquake,0.43,0.519999981,0.14,22,automatic,nc,nc
 2025-03-31T07:31:55.194Z,36.478,-116.5819,5.2,1,ml,11,109.78,0.122,0.1027,nn,nn00895423,2025-04-01T02:09:05.584Z,"24 km E of Furnace Creek, California",earthquake,,3.8,0.31,4,reviewed,nn,nn
 2025-03-31T07:13:26.965Z,60.8306,-151.0308,14.1,1.5,ml,,,,0.65,ak,ak02544ym42g,2025-03-31T07:15:03.552Z,"21 km NE of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
