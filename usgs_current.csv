@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-01T19:45:10.679Z,32.444,-101.705,7.8027,1,ml,5,230,0,0.5,tx,tx2025gjyj,2025-04-01T19:55:08.075Z,"9 km S of Ackerly, Texas",earthquake,0,7.1908206939697,0.3,5,automatic,tx,tx
-2025-04-01T19:44:57.890Z,35.3435,-117.803,6.58,2.57,ml,45,36,0.0836,0.2,ci,ci40914391,2025-04-01T19:53:06.730Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.64,0.174,25,automatic,ci,ci
+2025-04-01T19:44:57.890Z,35.3435,-117.803,6.58,2.57,ml,45,36,0.0836,0.2,ci,ci40914391,2025-04-01T20:02:57.333Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.64,0.174,25,reviewed,ci,ci
 2025-04-01T19:38:56.838Z,61.4452,-146.5371,8.4,2.2,ml,,,,0.82,ak,ak02546tg32l,2025-04-01T19:40:28.339Z,"36 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T19:30:35.469Z,58.1151,-156.3479,10.2,1.4,ml,,,,0.57,ak,ak02546tebne,2025-04-01T19:32:38.232Z,"61 km E of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-01T19:05:48.791Z,58.1513,-156.5132,31.1,1.4,ml,,,,0.15,ak,ak02546t8zrz,2025-04-01T19:06:59.400Z,"51 km E of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-31T20:14:39.450Z,38.829498291016,-122.85266876221,1.8700000047684,1.08,md,13,88,0.01518,0.02,nc,nc75158222,2025-03-31T21:12:16.450Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.569999993,0.13,16,automatic,nc,nc
 2025-03-31T20:07:27.110Z,19.483333333333,-65.888166666667,27.74,3.34,md,16,279,1.183,0.32,pr,pr71478093,2025-03-31T20:49:10.510Z,"114 km NNE of San Juan, Puerto Rico",earthquake,1.55,24.25,0.1560997955359,14,reviewed,pr,pr
 2025-03-31T20:07:00.650Z,38.760833740234,-122.84566497803,16.270000457764,1.18,md,8,205,0.03351,0.05,nc,nc75158217,2025-03-31T21:07:17.490Z,"8 km W of The Geysers, CA",earthquake,1.9,0.860000014,0.04,2,automatic,nc,nc
-2025-03-31T20:01:38.140Z,49.181166666667,-122.21916666667,-0.83,1.12,md,4,317,0.2031,0.28,uw,uw62079142,2025-04-01T18:21:56.110Z,"8 km NE of Mission, Canada",explosion,4.13,31.61,0.080994352911389,4,reviewed,uw,uw
