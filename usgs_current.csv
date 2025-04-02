@@ -12,10 +12,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T00:29:22.227Z,-56.9391,-142.224,10,6.3,mww,99,55,25.304,0.88,us,us7000ppd9,2025-04-02T01:22:48.737Z,"Pacific-Antarctic Ridge",earthquake,11.66,1.703,0.068,21,reviewed,us,us
 2025-04-02T00:01:49.123Z,41.1889,-116.7069,9.5,3.5,ml,8,159.83,0.302,0.1575,nn,nn00895512,2025-04-02T00:47:43.920Z,"56 km NE of Valmy, Nevada",earthquake,,3.3,0.21,6,reviewed,nn,nn
 2025-04-01T23:59:52.742Z,25.9471,128.5258,10,5,mww,54,65,0.914,0.91,us,us7000ppcu,2025-04-02T02:44:21.505Z,"77 km ESE of Katsuren-haebaru, Japan",earthquake,6.47,1.877,0.098,10,reviewed,us,us
-2025-04-01T23:58:54.200Z,37.704833333333,-121.99366666667,10.3,2.94,md,149,24,0.04806,0.15,nc,nc75158742,2025-04-02T03:02:29.535Z,"5 km WNW of Dublin, CA",earthquake,0.12,0.22,0.135,124,reviewed,nc,nc
+2025-04-01T23:58:54.200Z,37.704833333333,-121.99366666667,10.3,2.94,md,149,24,0.04806,0.15,nc,nc75158742,2025-04-02T03:08:25.971Z,"5 km WNW of Dublin, CA",earthquake,0.12,0.22,0.135,124,reviewed,nc,nc
 2025-04-01T23:34:33.011Z,39.0508,-119.0099,5.1,1.4,ml,13,89.19,0.095,0.1636,nn,nn00895509,2025-04-02T02:15:23.520Z,"15 km ENE of Yerington, Nevada",earthquake,,3.1,0.35,5,reviewed,nn,nn
 2025-04-01T23:23:04.342Z,36.541,70.6985,87.995,4.6,mb,77,52,2.39,1.11,us,us7000ppcq,2025-04-01T23:37:55.040Z,"37 km SSW of Jurm, Afghanistan",earthquake,7.08,6.902,0.057,91,reviewed,us,us
-2025-04-01T23:06:10.716Z,41.2079,-116.7153,7.4,3.5,mw,6,142.67,0.319,0.1037,nn,nn00895505,2025-04-02T03:00:35.040Z,"57 km NE of Valmy, Nevada",earthquake,,2.7,,,reviewed,nn,nn
+2025-04-01T23:06:10.716Z,41.2079,-116.7153,7.4,3.5,mw,6,142.67,0.319,0.1037,nn,nn00895505,2025-04-02T03:05:10.585Z,"57 km NE of Valmy, Nevada",earthquake,,2.7,,,reviewed,nn,nn
 2025-04-01T22:38:15.960Z,19.305833333333,-155.21433333333,1.21,1.97,ml,47,135,0.02634,0.12,hv,hv74646652,2025-04-01T23:40:20.220Z,"15 km S of Volcano, Hawaii",earthquake,0.21,0.28,0.24797245117566,19,reviewed,hv,hv
 2025-04-01T22:37:02.620Z,35.3598333,-117.8155,2.78,1.87,ml,26,139,0.09548,0.17,ci,ci40914463,2025-04-01T22:40:36.284Z,"16 km W of Johannesburg, CA",earthquake,0.29,1.16,0.164,26,automatic,ci,ci
 2025-04-01T22:10:41.100Z,18.809166666667,-66.0655,35.83,2.84,md,16,245,0.4977,0.15,pr,pr71478148,2025-04-01T22:31:36.680Z,"38 km N of San Juan, Puerto Rico",earthquake,0.72,2.38,0.05344971656464,6,reviewed,pr,pr
@@ -178,6 +178,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-01T06:35:47.155Z,64.909,-147.0882,7.6,0.8,ml,,,,0.53,ak,ak02546los9n,2025-04-01T06:38:01.537Z,"4 km NNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-01T06:34:43.990Z,54.76,-163.98616666667,0.33,0.44,ml,4,109,0.05105,0.33,av,av93556716,2025-04-01T19:35:43.250Z,"38 km WSW of False Pass, Alaska",earthquake,0.56,0.47,0.16631757890465,4,reviewed,av,av
 2025-04-01T06:28:33.776Z,61.2727,-149.4491,27.9,2.2,ml,,,,0.39,ak,ak02546ln981,2025-04-01T06:32:45.541Z,"8 km SE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-04-01T06:28:20.420Z,53.912166666667,-166.53366666667,9.41,-0.31,ml,7,222,0.06929,0.13,av,av93556701,2025-04-02T03:09:49.820Z,"2 km NNE of Dutch Harbor, Alaska",earthquake,0.58,0.92,0.32120522615022,7,reviewed,av,av
+2025-04-01T06:23:49.790Z,58.127333333333,-156.35966666667,4.08,0.56,ml,10,160,0.3059,0.29,av,av93556691,2025-04-02T03:07:28.050Z,"60 km E of Egegik, Alaska",earthquake,0.94,2.47,0.21476117221627,11,reviewed,av,av
 2025-04-01T06:17:18.230Z,58.0686,-156.2587,17.2,1.6,ml,,,,0.43,ak,ak02546lkv5b,2025-04-02T03:00:16.860Z,"67 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-01T06:15:45.160Z,58.114833333333,-156.40083333333,10.78,0.27,ml,6,160,0.2808,0.18,av,av93556671,2025-04-02T02:55:03.390Z,"58 km ESE of Egegik, Alaska",earthquake,0.69,3.7,0.14208978199236,6,reviewed,av,av
 2025-04-01T06:15:42.910Z,35.3581667,-117.8158333,6.8,0.98,ml,8,125,0.0938,0.12,ci,ci37542469,2025-04-01T19:12:07.029Z,"16 km W of Johannesburg, CA",earthquake,0.32,0.92,0.104,6,reviewed,ci,ci
