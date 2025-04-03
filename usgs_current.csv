@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-03T13:11:55.254Z,31.707,-101.718,2.9741,2.2,ml,48,59,0.1,0.4,tx,tx2025gnck,2025-04-03T13:21:39.607Z,"28 km SW of Garden City, Texas",earthquake,0,0.94239634275436,0.1,30,automatic,tx,tx
-2025-04-03T13:03:05.862Z,31.709,-101.724,4.0033,1.9,ml,37,59,0.1,0.3,tx,tx2025gncc,2025-04-03T13:19:06.826Z,"28 km SW of Garden City, Texas",earthquake,0,1.0228073596954,0.1,25,automatic,tx,tx
-2025-04-03T12:58:42.688Z,31.7217,-101.7255,4.484,3.5,mb_lg,36,57,0.263,0.5,us,us6000q3ne,2025-04-03T13:19:47.101Z,"28 km SW of Garden City, Texas",earthquake,1.45,4.584,0.057,136,reviewed,us,us
+2025-04-03T13:24:38.258Z,39.0453,-119.02,6.4,1.2,ml,10,113.78,0.124,0.0823,nn,nn00895595,2025-04-03T13:26:47.494Z,"14 km ENE of Yerington, Nevada",earthquake,,1.1,0.21,4,automatic,nn,nn
+2025-04-03T13:20:06.200Z,33.5343333,-116.7188333,5.52,0.5,ml,22,48,0.03461,0.15,ci,ci40915175,2025-04-03T13:23:38.806Z,"5 km WSW of Anza, CA",earthquake,0.18,0.46,0.104,10,automatic,ci,ci
+2025-04-03T13:14:23.083Z,32.36,-102.11,5.7772,1.7,ml,33,49,0,0.5,tx,tx2025gncm,2025-04-03T13:25:02.981Z,"39 km NW of Stanton, Texas",earthquake,0,1.2524996995926,0.1,24,automatic,tx,tx
+2025-04-03T13:11:55.254Z,31.707,-101.718,2.9741,2.2,ml,48,59,0.1,0.4,tx,tx2025gnck,2025-04-03T13:25:05.984Z,"28 km SW of Garden City, Texas",earthquake,0,0.94239634275436,0.1,30,automatic,tx,tx
+2025-04-03T13:03:05.862Z,31.709,-101.724,4.0033,1.9,ml,37,59,0.1,0.3,tx,tx2025gncc,2025-04-03T13:24:21.427Z,"28 km SW of Garden City, Texas",earthquake,0,1.0228073596954,0.1,25,automatic,tx,tx
+2025-04-03T12:58:42.688Z,31.7217,-101.7255,4.484,3.5,mb_lg,36,57,0.263,0.5,us,us6000q3ne,2025-04-03T13:26:40.674Z,"28 km SW of Garden City, Texas",earthquake,1.45,4.584,0.057,136,reviewed,us,us
 2025-04-03T12:58:22.120Z,38.837501525879,-122.78133392334,1.5800000429153,0.7,md,9,99,0.006387,0.01,nc,nc75159292,2025-04-03T13:17:18.945Z,"5 km WNW of Cobb, CA",earthquake,0.4,0.50999999,0.23,10,automatic,nc,nc
 2025-04-03T12:56:55.927Z,32.359,-102.167,6.8686,1.1,ml,12,112,0,0.3,tx,tx2025gnby,2025-04-03T13:08:55.566Z,"34 km E of McKinney Acres, Texas",earthquake,0,2.0057575702667,0.3,9,automatic,tx,tx
 2025-04-03T12:34:15.550Z,33.3111667,-116.2353333,3.46,0.87,ml,35,58,0.08046,0.2,ci,ci40915159,2025-04-03T12:37:50.970Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.46,0.06,11,automatic,ci,ci
@@ -151,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T23:25:26.461Z,61.3545,-146.6728,19.8,2.9,ml,,,,0.57,ak,ak02548jabb4,2025-04-02T23:54:34.040Z,"30 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-02T23:22:21.500Z,32.7048333,-115.5423333,2.92,1.9,ml,13,174,0.06457,0.27,ci,ci40914895,2025-04-03T00:05:03.380Z,"3 km SSW of Heber, CA",earthquake,1.26,0.88,0.156,12,reviewed,ci,ci
 2025-04-02T23:18:16.540Z,37.57833480835,-118.8681640625,9.6099996566772,0.59,md,9,137,0.03315,0.01,nc,nc75158962,2025-04-03T01:27:17.200Z,"12 km SE of Mammoth Lakes, CA",earthquake,1.22,2.41000009,0.12,7,automatic,nc,nc
+2025-04-02T23:13:16.890Z,21.9821,95.5267,10,3.8,ml,7,184,3.843,0.58,us,us6000q3nd,2025-04-03T13:23:51.764Z,"42 km ESE of Monywa, Burma (Myanmar)",earthquake,14.44,2.002,0.181,4,reviewed,us,us
 2025-04-02T22:50:42.976Z,61.1388,-150.223,39.5,1,ml,,,,0.41,ak,ak02548iu9ux,2025-04-02T22:53:18.656Z,"19 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-02T22:41:57.264Z,32.1,-101.921,4.5795,1.1,ml,12,99,0.1,0.2,tx,tx2025gmab,2025-04-02T22:54:23.508Z,"12 km WSW of Stanton, Texas",earthquake,0,1.7099007368088,0.4,8,automatic,tx,tx
 2025-04-02T22:41:36.710Z,38.832832336426,-122.81099700928,2.2000000476837,0.73,md,14,58,0.009451,0.01,nc,nc75158952,2025-04-02T23:32:19.467Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.959999979,0.19,15,automatic,nc,nc
@@ -171,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T20:23:16.647Z,60.9854,-148.6163,20,2.2,ml,,,,0.53,ak,ak02548hhka8,2025-04-02T20:25:08.998Z,"23 km N of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-02T20:18:29.890Z,49.3145,-121.72316666667,-0.71,1.31,md,6,211,0.2109,3.83,uw,uw62079642,2025-04-02T20:44:57.110Z,"9 km NNE of Agassiz, Canada",explosion,41.39,31.61,0.078189373261282,4,reviewed,uw,uw
 2025-04-02T20:16:10.620Z,35.967834472656,-120.72366333008,33.169998168945,2.84,ml,6,142,0.2752,0.2,nc,nc75158907,2025-04-03T07:35:05.939Z,"14 km NE of Bradley, CA",earthquake,1.99,5.0999999,0.074,4,automatic,nc,nc
+2025-04-02T19:47:54.810Z,34.36833333,-96.84733333,0,1.41,ml,41,124,0.2618486164,0.47,ok,ok2025gltz,2025-04-03T13:32:50.448Z,"4 km SSW of Mill Creek, Oklahoma",quarry blast,,0.7,0.19,18,reviewed,ok,ok
 2025-04-02T19:31:57.368Z,32.014,-102.223,4.4633,1.8,ml,5,218,0,0.2,tx,tx2025gltl,2025-04-02T19:42:53.762Z,"13 km W of Midland, Texas",earthquake,0,2.8289129734039,0.1,6,automatic,tx,tx
 2025-04-02T19:26:23.310Z,32.6015,-116.97,3.97,1.05,ml,13,251,0.03417,0.1,ci,ci40914807,2025-04-02T23:56:51.243Z,"8 km ESE of Chula Vista, CA",earthquake,0.32,0.43,0.086,4,reviewed,ci,ci
 2025-04-02T19:24:22.241Z,58.1509,-156.3802,6.5,1.6,ml,,,,0.45,ak,ak02548gwcts,2025-04-02T23:34:07.180Z,"59 km E of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -216,9 +221,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T14:35:21.767Z,58.0159,-156.3168,35.6,1.4,ml,,,,0.57,ak,ak02548dzjn4,2025-04-02T14:37:18.090Z,"66 km ESE of Egegik, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2025-04-02T14:34:44.470Z,47.574833333333,-122.76433333333,17.29,0.47,ml,8,228,0.04244,0.24,uw,uw62087601,2025-04-02T15:04:07.160Z,"5 km WSW of Erlands Point-Kitsap Lake, Washington",earthquake,1.02,1.03,0.092207553838162,2,reviewed,uw,uw
 2025-04-02T14:31:58.810Z,58.1512,-156.5957,37.6,1.2,ml,,,,0.76,ak,ak02548dyrmx,2025-04-02T14:33:31.840Z,"46 km E of Egegik, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2025-04-02T14:16:19.649Z,28.963,-97.99,1.001,1.7,ml,14,62,0,0.2,tx,tx2025gljb,2025-04-03T13:25:49.992Z,"3 km SE of Falls City, Texas",earthquake,1.0903016410972,1.1935845815913,0.2,15,reviewed,tx,tx
 2025-04-02T14:03:57.428Z,31.0017,131.4725,25.989,6.2,mww,177,65,1.009,0.7,us,us7000ppfy,2025-04-03T00:33:18.511Z,"54 km ENE of Nishinoomote, Japan",earthquake,4.57,4.406,0.051,37,reviewed,us,us
 2025-04-02T13:58:14.155Z,-18.2296,-174.9922,283.617,4.3,mb,34,79,4.875,0.45,us,us7000ppfz,2025-04-03T08:24:32.040Z,"116 km WNW of Neiafu, Tonga",earthquake,11.34,10.592,0.109,27,reviewed,us,us
 2025-04-02T13:52:17.672Z,36.118,-116.3122,7.5,1.6,ml,29,87.99,0.221,0.2318,nn,nn00895532,2025-04-02T13:56:09.471Z,"16 km NNW of Shoshone, California",earthquake,,6.7,0.23,19,automatic,nn,nn
 2025-04-02T13:51:22.738Z,59.335,-153.6086,99.3,1.8,ml,,,,0.56,ak,ak02548dhjkk,2025-04-02T13:54:12.213Z,"55 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-02T13:51:22.168Z,58.1264,-156.6053,50,1.1,ml,,,,1.16,ak,ak02548dhjiw,2025-04-02T13:53:05.580Z,"46 km ESE of Egegik, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-04-02T13:24:44.963Z,0.6752,-29.6337,10,5.2,mb,112,86,8.993,0.55,us,us7000ppfs,2025-04-02T13:42:44.040Z,"central Mid-Atlantic Ridge",earthquake,10.66,1.868,0.035,279,reviewed,us,us
