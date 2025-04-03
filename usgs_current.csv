@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T13:31:23.120Z,35.14666667,-97.81816667,6.62,1.52,ml,30,102,0.03779258381,0.31,ok,ok2025gncz,2025-04-03T13:40:44.405Z,"5 km ESE of Amber, Oklahoma",earthquake,,0.9,0.18,15,reviewed,ok,ok
 2025-04-03T13:30:17.940Z,38.837833404541,-122.82566833496,1.789999961853,1.02,md,12,90,0.007705,0,nc,nc75159302,2025-04-03T15:32:16.821Z,"9 km NNW of The Geysers, CA",earthquake,0.29,0.730000019,0.25,14,automatic,nc,nc
 2025-04-03T13:24:38.258Z,39.0453,-119.02,6.4,1.2,ml,10,113.78,0.124,0.0823,nn,nn00895595,2025-04-03T13:26:47.494Z,"14 km ENE of Yerington, Nevada",earthquake,,1.1,0.21,4,automatic,nn,nn
-2025-04-03T13:20:06.200Z,33.5343333,-116.7188333,5.52,0.5,ml,22,48,0.03461,0.15,ci,ci40915175,2025-04-03T13:23:38.806Z,"5 km WSW of Anza, CA",earthquake,0.18,0.46,0.104,10,automatic,ci,ci
+2025-04-03T13:20:06.190Z,33.534,-116.717,5.27,0.56,ml,20,45,0.03561,0.14,ci,ci40915175,2025-04-03T17:36:42.508Z,"5 km WSW of Anza, CA",earthquake,0.2,0.5,0.111,9,reviewed,ci,ci
 2025-04-03T13:14:23.737Z,32.367,-102.115,7.251,1.7,ml,22,55,0,0.1,tx,tx2025gncm,2025-04-03T14:55:10.550Z,"39 km E of McKinney Acres, Texas",earthquake,0.48563043035801,0.64475091241786,0.2,18,reviewed,tx,tx
 2025-04-03T13:11:55.503Z,31.71,-101.717,8.1055,2.1,ml,13,78,0.2,0.1,tx,tx2025gnck,2025-04-03T14:45:58.212Z,"28 km SW of Garden City, Texas",earthquake,1.1246446771949,3.4501210915814,0.1,19,reviewed,tx,tx
 2025-04-03T13:03:06.472Z,31.716,-101.737,8.6426,1.9,ml,7,78,0.1,0.1,tx,tx2025gncc,2025-04-03T14:48:47.506Z,"29 km SW of Garden City, Texas",earthquake,2.0354920319603,1.3817902033761,0.1,15,reviewed,tx,tx
@@ -52,6 +52,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T12:58:42.102Z,31.711,-101.725,9.5947,3.4,ml,9,82,0.1,0.1,tx,tx2025gnbz,2025-04-03T15:19:05.416Z,"28 km SW of Garden City, Texas",earthquake,1.2102153201594,1.2478236009379,0.1,7,reviewed,tx,tx
 2025-04-03T12:58:22.120Z,38.837501525879,-122.78133392334,1.5800000429153,0.7,md,9,99,0.006387,0.01,nc,nc75159292,2025-04-03T14:42:18.461Z,"5 km WNW of Cobb, CA",earthquake,0.4,0.50999999,0.23,10,automatic,nc,nc
 2025-04-03T12:56:56.350Z,32.374,-102.169,8.9111,1.2,ml,16,76,0,0.1,tx,tx2025gnby,2025-04-03T15:32:47.768Z,"34 km ENE of McKinney Acres, Texas",earthquake,0.69109358799945,0.55501938053495,0.1,6,reviewed,tx,tx
+2025-04-03T12:46:44.310Z,45.326666666667,-121.69766666667,5.22,0.8,ml,9,135,0.01273,0.06,uw,uw62079802,2025-04-03T17:35:20.690Z,"5 km ENE of Government Camp, Oregon",earthquake,0.31,0.38,0.058085971685611,6,reviewed,uw,uw
+2025-04-03T12:38:12.020Z,45.332666666667,-121.69083333333,5.49,0.92,ml,9,130,0.01411,0.08,uw,uw62079792,2025-04-03T17:37:47.380Z,"5 km ENE of Government Camp, Oregon",earthquake,0.29,0.36,0.098392070362149,6,reviewed,uw,uw
 2025-04-03T12:34:15.550Z,33.3111667,-116.2353333,3.46,0.87,ml,35,58,0.08046,0.2,ci,ci40915159,2025-04-03T12:37:50.970Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.46,0.06,11,automatic,ci,ci
 2025-04-03T12:16:33.810Z,35.3416667,-117.7971667,5.74,1.6,ml,39,36,0.08409,0.2,ci,ci40915151,2025-04-03T12:45:48.792Z,"15 km WSW of Johannesburg, CA",earthquake,0.19,0.68,0.188,24,reviewed,ci,ci
 2025-04-03T12:14:30.460Z,39.14,-111.97266666667,9.71,0.2,md,8,102,0.1288,0.21,uu,uu80003063,2025-04-03T16:33:55.910Z,"13 km W of Centerfield, Utah",earthquake,0.57,2.22,0.2055834782442,4,reviewed,uu,uu
@@ -252,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T18:32:52.860Z,44.824333333333,-111.50233333333,6.73,0.72,ml,15,123,0.04676,0.14,mb,mb90076553,2025-04-02T22:01:07.000Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.37,0.73,0.16753592657346,9,reviewed,mb,mb
 2025-04-02T18:01:33.433Z,24.1039,121.6213,35.761,4.3,mwr,64,37,0.074,0.7,us,us6000q3hm,2025-04-03T04:11:47.379Z,"14 km N of Hualien City, Taiwan",earthquake,4.61,5.816,0.06,27,reviewed,us,us
 2025-04-02T17:43:58.544Z,41.8909,-119.5847,5.7,2.4,ml,4,219.49,0.365,0.075,nn,nn00895554,2025-04-03T02:09:58.738Z,"47 km E of Fort Bidwell, California",earthquake,,4.2,0.41,4,reviewed,nn,nn
-2025-04-02T17:37:38.369Z,35.9185,-95.17,0,1.66,ml,35,124,0.2744461443,0.44,ok,ok2025glpr,2025-04-03T13:37:31.215Z,"3 km WSW of Hulbert, Oklahoma",quarry blast,,0.6,0.22,11,reviewed,ok,ok
