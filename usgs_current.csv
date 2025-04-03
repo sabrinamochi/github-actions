@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-03T17:21:39.500Z,35.3458328,-117.807663,3.57,1.69,ml,26,65,0.08423,0.23,ci,ci40915303,2025-04-03T17:23:48.431Z,"16 km W of Johannesburg, CA",earthquake,0.38,1.23,0.228,27,automatic,ci,ci
+2025-04-03T17:20:26.030Z,33.3059998,-116.2429962,9.3,1.1,ml,27,81,0.07918,0.22,ci,ci40915295,2025-04-03T17:22:50.425Z,"14 km ENE of Borrego Springs, CA",earthquake,0.35,0.89,0.274,4,automatic,ci,ci
+2025-04-03T17:17:06.113Z,39.4666,-119.472,11,1.6,ml,13,87.91,0.272,0.2015,nn,nn00895619,2025-04-03T17:19:31.326Z,"13 km NW of Stagecoach, Nevada",earthquake,,1.7,0.34,6,automatic,nn,nn
 2025-04-03T16:49:40.378Z,61.6358,-145.7935,34.4,1.2,ml,,,,0.93,ak,ak0254a2sst1,2025-04-03T16:51:50.531Z,"32 km W of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-03T16:40:29.970Z,36.0523333,-118.8666667,12.79,1.84,ml,17,74,0.1221,0.18,ci,ci40915263,2025-04-03T16:44:00.235Z,"14 km E of Porterville, CA",earthquake,0.28,1.04,0.22,26,automatic,ci,ci
 2025-04-03T16:25:47.960Z,35.12583333,-97.829,6.48,1.41,ml,24,109,0.05938834598,0.13,ok,ok2025gniu,2025-04-03T16:38:29.645Z,"5 km SE of Amber, Oklahoma",earthquake,,0.6,0.17,13,reviewed,ok,ok
@@ -61,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T11:22:59.650Z,38.813667297363,-122.76183319092,1.7200000286102,0.97,md,11,109,0.01313,0.02,nc,nc75159262,2025-04-03T12:12:15.521Z,"3 km W of Cobb, CA",earthquake,0.31,0.860000014,0.2,13,automatic,nc,nc
 2025-04-03T11:20:02.409Z,60.8738,-149.8476,34,1.1,ml,,,,0.77,ak,ak02549znc34,2025-04-03T11:21:44.734Z,"12 km WSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-03T11:10:53.880Z,33.3045,-116.267,10.2,1.98,ml,88,21,0.06784,0.19,ci,ci40915127,2025-04-03T12:47:23.480Z,"11 km ENE of Borrego Springs, CA",earthquake,0.13,0.31,0.129,27,reviewed,ci,ci
-2025-04-03T11:07:52.479Z,38.7071,-108.4642,5,3.2,ml,25,54,0.365,0.92,us,us6000q3mr,2025-04-03T16:39:01.570Z,"34 km W of Delta, Colorado",earthquake,1.08,1.797,0.039,88,reviewed,us,us
+2025-04-03T11:07:52.479Z,38.7071,-108.4642,5,3.2,ml,25,54,0.365,0.92,us,us6000q3mr,2025-04-03T17:16:07.893Z,"34 km W of Delta, Colorado",earthquake,1.08,1.797,0.039,88,reviewed,us,us
 2025-04-03T11:03:45.330Z,37.658164978027,-119.04183197022,-0.12999999523163,0.59,md,8,105,0.01578,0.02,nc,nc75159252,2025-04-03T11:05:19.825Z,"6 km NW of Mammoth Lakes, CA",earthquake,0.36,0.460000008,0.06,8,automatic,nc,nc
 2025-04-03T10:54:41.734Z,36.601,-116.2823,7.4,0,ml,12,134.58,0.064,0.1105,nn,nn00895602,2025-04-03T14:24:45.710Z,"51 km NNW of Pahrump, Nevada",earthquake,,1.9,0.17,2,reviewed,nn,nn
 2025-04-03T10:50:40.461Z,63.2463,-151.3371,0,1.6,ml,,,,0.35,ak,ak02549z8ewe,2025-04-03T10:52:33.917Z,"38 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -185,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T01:21:49.840Z,37.460998535156,-118.81383514404,3.4000000953674,1.44,md,18,163,0.1294,0.04,nc,nc75159027,2025-04-03T04:47:22.525Z,"16 km WSW of Toms Place, CA",earthquake,0.57,1.52999997,0.16,15,automatic,nc,nc
 2025-04-03T01:20:16.990Z,37.292499542236,-121.66566467285,3.5999999046326,1.6,md,18,52,0.03398,0.05,nc,nc75159022,2025-04-03T04:22:19.367Z,"15 km E of Seven Trees, CA",earthquake,0.22,0.620000005,0.18,13,automatic,nc,nc
 2025-04-03T01:19:33.620Z,33.544666666667,-82.301833333333,5.59,1.98,md,9,110,0.607,0.35,se,se60503448,2025-04-03T14:30:01.569Z,"14 km NW of Grovetown, Georgia",earthquake,0.98,9.61,0.03893545627601,8,reviewed,se,se
-2025-04-03T01:14:54.930Z,37.45966720581,-118.81316375732,5.5799999237061,1.85,md,27,84,0.1307,0.06,nc,nc75159017,2025-04-03T03:57:16.181Z,"16 km WSW of Toms Place, CA",earthquake,0.3,1.60000002,0.16,23,automatic,nc,nc
+2025-04-03T01:14:54.930Z,37.45966720581,-118.81316375732,5.5799999237061,1.85,md,27,84,0.1307,0.06,nc,nc75159017,2025-04-03T17:20:20.166Z,"16 km WSW of Toms Place, CA",earthquake,0.3,1.60000002,0.16,23,automatic,nc,nc
 2025-04-03T01:13:19.261Z,61.9752,-147.578,34.5,1.6,ml,,,,1.05,ak,ak02549tnjbq,2025-04-03T01:15:18.868Z,"19 km NNE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-04-03T01:11:29.982Z,65.0956,-150.0417,1.1,1.7,ml,,,,0.41,ak,ak02549tn4py,2025-04-03T01:13:07.095Z,"29 km ENE of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-03T01:11:15.812Z,63.0372,-150.0775,66.6,2.3,ml,,,,1.04,ak,ak02549tn3ml,2025-04-03T01:13:34.421Z,"65 km N of Chase, Alaska",earthquake,,6.8,,,automatic,ak,ak
