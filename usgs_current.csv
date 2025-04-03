@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-03T15:22:44.550Z,35.3076667,-118.5923333,4.04,2.43,ml,43,51,0.1099,0.18,ci,ci40915231,2025-04-03T15:26:44.758Z,"24 km NNW of Tehachapi, CA",earthquake,0.17,0.7,0.192,25,automatic,ci,ci
+2025-04-03T15:31:12.800Z,33.9938316,-116.8171692,20.2,1.44,ml,30,54,0.04195,0.19,ci,ci40915239,2025-04-03T15:33:29.991Z,"9 km NNW of Cabazon, CA",earthquake,0.33,0.72,0.224,9,automatic,ci,ci
+2025-04-03T15:30:59.148Z,60.4557,-151.9537,80.8,1.2,ml,,,,0.13,ak,ak0254a23f8k,2025-04-03T15:33:20.715Z,"36 km W of Kalifornsky, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-04-03T15:22:44.550Z,35.3076667,-118.5923333,4.04,2.43,ml,43,51,0.1099,0.18,ci,ci40915231,2025-04-03T15:33:25.590Z,"24 km NNW of Tehachapi, CA",earthquake,0.17,0.7,0.192,25,automatic,ci,ci
 2025-04-03T15:17:10.038Z,31.548,-104.041,8.407,1.6,ml,20,80,0.1,0.3,tx,tx2025gngo,2025-04-03T15:23:49.714Z,"34 km NW of Toyah, Texas",earthquake,2.5315681531833,1.0118571674669,0.2,11,reviewed,tx,tx
 2025-04-03T15:10:22.940Z,38.790832519531,-122.76049804688,0.93999999761581,0.3,md,9,202,0.0205,0.02,nc,nc75159342,2025-04-03T15:32:17.822Z,"2 km  of The Geysers, CA",earthquake,0.53,1,0.16,9,automatic,nc,nc
 2025-04-03T14:54:14.050Z,31.52,-104.011,7.4329,1.8,ml,19,64,0,0.1,tx,tx2025gnfu,2025-04-03T15:03:41.598Z,"30 km NW of Toyah, Texas",earthquake,0.66141816672506,0.55285092684371,0.1,18,reviewed,tx,tx
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T13:03:06.472Z,31.716,-101.737,8.6426,1.9,ml,7,78,0.1,0.1,tx,tx2025gncc,2025-04-03T14:48:47.506Z,"29 km SW of Garden City, Texas",earthquake,2.0354920319603,1.3817902033761,0.1,15,reviewed,tx,tx
 2025-04-03T12:58:42.102Z,31.711,-101.725,9.5947,3.4,ml,9,82,0.1,0.1,tx,tx2025gnbz,2025-04-03T15:19:05.416Z,"28 km SW of Garden City, Texas",earthquake,1.2102153201594,1.2478236009379,0.1,7,reviewed,tx,tx
 2025-04-03T12:58:22.120Z,38.837501525879,-122.78133392334,1.5800000429153,0.7,md,9,99,0.006387,0.01,nc,nc75159292,2025-04-03T14:42:18.461Z,"5 km WNW of Cobb, CA",earthquake,0.4,0.50999999,0.23,10,automatic,nc,nc
-2025-04-03T12:56:55.927Z,32.359,-102.167,6.8686,1.1,ml,12,112,0,0.3,tx,tx2025gnby,2025-04-03T13:08:55.566Z,"34 km E of McKinney Acres, Texas",earthquake,0,2.0057575702667,0.3,9,automatic,tx,tx
+2025-04-03T12:56:56.350Z,32.374,-102.169,8.9111,1.2,ml,16,76,0,0.1,tx,tx2025gnby,2025-04-03T15:32:47.768Z,"34 km ENE of McKinney Acres, Texas",earthquake,0.69109358799945,0.55501938053495,0.1,6,reviewed,tx,tx
 2025-04-03T12:34:15.550Z,33.3111667,-116.2353333,3.46,0.87,ml,35,58,0.08046,0.2,ci,ci40915159,2025-04-03T12:37:50.970Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.46,0.06,11,automatic,ci,ci
 2025-04-03T12:16:33.810Z,35.3416667,-117.7971667,5.74,1.6,ml,39,36,0.08409,0.2,ci,ci40915151,2025-04-03T12:45:48.792Z,"15 km WSW of Johannesburg, CA",earthquake,0.19,0.68,0.188,24,reviewed,ci,ci
 2025-04-03T12:00:04.650Z,38.833999633789,-122.81566619873,1.8200000524521,1.06,md,20,57,0.01145,0.01,nc,nc75159272,2025-04-03T14:07:17.233Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.430000007,0.21,21,automatic,nc,nc
@@ -247,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T15:46:47.260Z,35.999332427979,-120.5625,1.3400000333786,1.23,md,14,84,0.02328,0.06,nc,nc75158827,2025-04-02T16:17:23.534Z,"16 km NW of Parkfield, CA",earthquake,0.29,0.600000024,0.31,7,automatic,nc,nc
 2025-04-02T15:45:26.667Z,-6.522,127.9999,341.857,4.3,mb,49,32,2.746,0.53,us,us7000ppg8,2025-04-02T16:16:50.040Z,"247 km NNE of Lospalos, Timor Leste",earthquake,8.8,7.694,0.106,25,reviewed,us,us
 2025-04-02T15:35:32.864Z,-22.9027,-66.5814,219.919,4.3,mb,70,60,1.473,1.14,us,us7000ppg5,2025-04-02T16:03:51.040Z,"93 km WSW of Abra Pampa, Argentina",earthquake,8.8,7.406,0.086,38,reviewed,us,us
-2025-04-02T15:33:07.487Z,28.985,-98.021,5.0537,1.8,ml,13,78,0,0.2,tx,tx2025gllo,2025-04-03T14:34:57.441Z,"0 km NW of Falls City, Texas",earthquake,1.3358333734603,1.7778395939218,0.1,17,reviewed,tx,tx
-2025-04-02T15:33:06.550Z,34.523,-118.1051667,10.05,1.09,ml,12,110,0.03317,0.12,ci,ci40914719,2025-04-02T18:11:22.078Z,"3 km NNE of Vincent, CA",earthquake,0.26,0.46,0.118,8,reviewed,ci,ci
