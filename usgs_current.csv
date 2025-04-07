@@ -96,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T03:06:30.730Z,33.6401667,-116.7101667,14.02,0.91,ml,50,35,0.04173,0.16,ci,ci40918399,2025-04-07T03:13:41.581Z,"10 km NNW of Anza, CA",earthquake,0.15,0.26,0.207,26,automatic,ci,ci
 2025-04-07T03:04:32.040Z,33.9798333,-116.9751667,13.4,0.74,ml,29,77,0.118,0.17,ci,ci40918391,2025-04-07T13:53:24.277Z,"6 km N of Beaumont, CA",earthquake,0.22,0.62,0.13,23,reviewed,ci,ci
 2025-04-07T02:59:30.060Z,49.394,155.459,51.259,5.4,mww,90,104,3.976,0.63,us,us6000q4gt,2025-04-07T05:21:29.878Z,"150 km SSW of Severo-Kuril’sk, Russia",earthquake,9.1,6.757,0.093,11,reviewed,us,us
+2025-04-07T02:57:39.150Z,37.564333333333,-113.05866666667,12.52,1.69,ml,17,57,0.03857,0.14,uu,uu80105526,2025-04-07T14:30:51.250Z,"11 km ENE of Kanarraville, Utah",earthquake,0.37,0.62,0.15794656579861,8,reviewed,uu,uu
 2025-04-07T02:55:15.450Z,33.8255,-116.7718333,11.3,1.02,ml,54,27,0.02274,0.16,ci,ci40918383,2025-04-07T13:54:10.920Z,"10 km S of Cabazon, CA",earthquake,0.15,0.36,0.199,27,reviewed,ci,ci
 2025-04-07T02:50:12.880Z,36.5525,-89.647666666667,7.38,1.93,md,34,47,0.02827,0.02,nm,nm60603046,2025-04-07T12:33:30.210Z,"4 km WSW of Howardville, Missouri",earthquake,0.35,0.58,0.18674713833814,28,reviewed,nm,nm
 2025-04-07T02:47:11.920Z,17.905666666667,-66.889166666667,15,2.45,md,7,234,0.06872,0.11,pr,pr71478548,2025-04-07T03:11:58.110Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.95,0.5,0.088561205802541,4,reviewed,pr,pr
@@ -181,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-06T17:45:08.130Z,35.1005,-119.0763333,8.02,1.72,ml,26,76,0.3194,0.22,ci,ci40918055,2025-04-06T17:49:10.623Z,"22 km NW of Grapevine, CA",earthquake,0.31,1.83,0.207,26,automatic,ci,ci
 2025-04-06T17:33:17.804Z,39.0467,-119.0179,4.1,1.6,ml,14,113.33,0.123,0.1333,nn,nn00895790,2025-04-06T17:35:31.808Z,"14 km ENE of Yerington, Nevada",earthquake,,1.8,0.14,8,automatic,nn,nn
 2025-04-06T17:32:30.038Z,36.648,-116.2729,6.4,-0.2,ml,16,172.28,0.053,0.0426,nn,nn00895848,2025-04-07T13:51:01.966Z,"52 km SE of Beatty, Nevada",earthquake,,1.3,0.01,2,reviewed,nn,nn
-2025-04-06T17:28:24.710Z,31.431,-103.526,3.7377,1.9,ml,11,107,0,0.5,tx,tx2025gsxj,2025-04-06T17:39:49.310Z,"3 km WNW of Pecos, Texas",earthquake,0,1.7995661497116,0.2,9,automatic,tx,tx
+2025-04-06T17:28:23.900Z,31.444,-103.544,3.6261,1.8,ml,10,84,0,0.1,tx,tx2025gsxj,2025-04-07T14:33:51.259Z,"5 km WNW of Pecos, Texas",earthquake,0.72943392126799,0.74813500196449,0.2,13,reviewed,tx,tx
 2025-04-06T17:26:06.930Z,38.786998748779,-122.76683044434,2.5599999427795,1.1,md,19,77,0.0147,0.03,nc,nc75161407,2025-04-06T19:57:17.293Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.07,20,automatic,nc,nc
 2025-04-06T17:19:45.710Z,38.832332611084,-122.81632995606,1.4700000286102,0.66,md,8,86,0.01017,0.01,nc,nc75161402,2025-04-06T19:32:18.130Z,"8 km NNW of The Geysers, CA",earthquake,0.38,1.22000003,0.36,9,automatic,nc,nc
 2025-04-06T17:16:05.560Z,47.7185,-113.78566666667,10.64,1.61,ml,16,72,0.07248,0.11,mb,mb90077278,2025-04-06T17:42:16.710Z,"20 km E of Finley Point, Montana",earthquake,0.31,0.91,0.32425184838853,13,reviewed,mb,mb
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-06T14:41:44.448Z,18.9847,-80.4946,10,4.1,mb,17,85,2.907,0.85,us,us6000q4ee,2025-04-06T20:07:14.916Z,"74 km ESE of East End, Cayman Islands",earthquake,5.73,1.918,0.174,10,reviewed,us,us
 2025-04-06T14:41:42.718Z,39.4692,-119.4885,12.9,1.1,ml,10,139.42,0.262,0.1498,nn,nn00895781,2025-04-06T14:44:07.326Z,"14 km NW of Stagecoach, Nevada",earthquake,,1.8,0.2,3,automatic,nn,nn
 2025-04-06T14:37:53.370Z,37.065498352051,-121.50883483887,5.8499999046326,1.06,md,7,96,0.04452,0.05,nc,nc75161317,2025-04-06T15:07:17.516Z,"8 km NE of Gilroy, CA",earthquake,0.57,1.42999995,0.07,3,automatic,nc,nc
-2025-04-06T14:33:22.793Z,39.4644,-119.4833,6.9,1.1,ml,8,139.4,0.386,0.1705,nn,nn00895780,2025-04-06T14:35:46.567Z,"13 km NW of Stagecoach, Nevada",earthquake,,0,0.29,4,automatic,nn,nn
-2025-04-06T14:32:11.427Z,39.4696,-119.4708,7.9,1.3,ml,15,88.19,0.223,0.1479,nn,nn00895778,2025-04-06T14:34:09.506Z,"13 km NW of Stagecoach, Nevada",earthquake,,2.1,0.17,7,automatic,nn,nn
