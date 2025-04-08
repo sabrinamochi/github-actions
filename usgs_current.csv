@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-08T17:33:13.500Z,35.0481682,-118.3284988,0.3,1.39,ml,20,58,0.05843,0.14,ci,ci40919487,2025-04-08T17:35:23.800Z,"14 km W of Mojave, CA",earthquake,0.43,0.77,0.178,6,automatic,ci,ci
+2025-04-08T17:36:49.460Z,38.1876,-117.8656,0,1.7,ml,10,116.86,0.094,0.1987,nn,nn00895915,2025-04-08T17:39:44.911Z,"30 km SE of Mina, Nevada",earthquake,,5.6,0.52,6,automatic,nn,nn
+2025-04-08T17:33:13.520Z,35.048,-118.325,0.51,1.45,ml,42,46,0.05886,0.17,ci,ci40919487,2025-04-08T17:38:02.057Z,"14 km W of Mojave, CA",earthquake,0.23,0.46,0.155,28,automatic,ci,ci
 2025-04-08T17:30:48.430Z,38.824501037598,-122.79983520508,3.1400001049042,0.72,md,10,120,0.008074,0.01,nc,nc75162622,2025-04-08T17:32:26.507Z,"6 km NNW of The Geysers, CA",earthquake,0.54,1.32000005,0.21,10,automatic,nc,nc
 2025-04-08T17:27:06.250Z,38.786499023438,-122.72866821289,0.81000000238419,0.61,md,6,134,0.007089,0.01,nc,nc75162617,2025-04-08T17:28:41.498Z,"3 km ENE of The Geysers, CA",earthquake,0.34,0.600000024,0.15,5,automatic,nc,nc
 2025-04-08T17:18:50.140Z,35.3378333,-117.808,7.98,1.4,ml,31,35,0.07676,0.17,ci,ci40919471,2025-04-08T17:22:51.967Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.55,0.181,26,automatic,ci,ci
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-08T02:55:02.340Z,40.271833333333,-123.6075,28.29,1.63,md,36,86,0.07664,0.1,nc,nc75162232,2025-04-08T09:17:19.403Z,"25 km ENE of Redway, CA",earthquake,0.51,0.7,0.256,16,reviewed,nc,nc
 2025-04-08T02:52:21.161Z,66.2327,-135.4231,66.8,3.4,ml,,,,1.21,ak,ak0254i4626s,2025-04-08T07:22:56.298Z,"248 km SSW of Inuvik, Canada",earthquake,,2.1,,,reviewed,ak,ak
 2025-04-08T02:47:54.425Z,39.4756,-119.4701,5.9,1.2,ml,11,102.66,0.278,0.2662,nn,nn00895893,2025-04-08T02:50:17.347Z,"14 km NW of Stagecoach, Nevada",earthquake,,1.9,0.26,4,automatic,nn,nn
-2025-04-08T02:40:01.184Z,39.4829,-119.4638,6.4,1.2,ml,11,142.88,0.286,0.1927,nn,nn00895892,2025-04-08T02:42:17.207Z,"14 km NNW of Stagecoach, Nevada",earthquake,,2.2,0.22,5,automatic,nn,nn
+2025-04-08T02:40:01.892Z,39.4772,-119.4757,8,1.2,ml,10,141.31,0.275,0.1761,nn,nn00895892,2025-04-08T17:38:34.863Z,"14 km NW of Stagecoach, Nevada",earthquake,,3.3,0.2,7,reviewed,nn,nn
 2025-04-08T02:38:12.580Z,38.840000152588,-122.87850189209,2.539999961853,0.29,md,9,115,0.007716,0.02,nc,nc75162227,2025-04-08T04:47:19.492Z,"13 km E of Cloverdale, CA",earthquake,0.4,0.610000014,0.16,13,automatic,nc,nc
 2025-04-08T02:37:08.111Z,36.4983,-114.0083,5.2,1.1,ml,7,208.21,0.655,0.2063,nn,nn00895890,2025-04-08T17:26:14.074Z,"32 km SSE of Bunkerville, Nevada",earthquake,,7.1,0.31,6,reviewed,nn,nn
 2025-04-08T02:34:15.080Z,36.0135,-117.788,0.91,1.23,ml,24,65,0.02183,0.21,ci,ci40919135,2025-04-08T02:37:44.216Z,"14 km NE of Little Lake, CA",earthquake,0.22,0.32,0.178,23,automatic,ci,ci
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T18:01:13.940Z,51.9675,178.53016666667,4.02,0.37,ml,4,193,0.009666,0.13,av,av93565061,2025-04-08T17:27:20.050Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.85,0.99,0.27559687662899,3,reviewed,av,av
 2025-04-07T17:58:43.530Z,51.884166666667,179.50266666667,14.92,1,ml,5,290,0.03962,0.14,av,av93565056,2025-04-08T17:19:37.930Z,"266 km W of Adak, Alaska",earthquake,1.22,0.84,0.26448011421898,5,reviewed,av,av
 2025-04-07T17:41:23.660Z,38.779666900635,-122.75816345215,1.2000000476837,0.76,md,11,70,0.01072,0.02,nc,nc75162017,2025-04-07T18:57:17.581Z,"0 km NNW of The Geysers, CA",earthquake,0.25,0.529999971,0.39,9,automatic,nc,nc
-2025-04-07T17:40:30.930Z,33.5303333,-116.7298333,3.83,0.47,ml,15,45,0.03553,0.11,ci,ci40918791,2025-04-08T15:16:07.084Z,"6 km WSW of Anza, CA",earthquake,0.19,0.34,0.164,7,reviewed,ci,ci
