@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-08T18:54:33.770Z,33.288,-116.119,1.96,0.65,ml,24,91,0.1118,0.22,ci,ci40919559,2025-04-08T18:58:35.377Z,"15 km W of Salton City, CA",earthquake,0.27,0.52,0.131,11,automatic,ci,ci
 2025-04-08T18:45:48.010Z,38.776500701904,-122.75749969482,1.1799999475479,0.82,md,9,110,0.01758,0.01,nc,nc75162642,2025-04-08T18:47:26.095Z,"0 km WSW of The Geysers, CA",earthquake,0.33,0.569999993,0.28,9,automatic,nc,nc
 2025-04-08T18:40:44.930Z,38.803665161133,-122.77083587647,2.1900000572205,0.8,md,14,80,0.009207,0.02,nc,nc75162637,2025-04-08T18:42:22.012Z,"3 km NNW of The Geysers, CA",earthquake,0.26,0.519999981,0.13,14,automatic,nc,nc
 2025-04-08T18:37:50.920Z,39.8559,-118.6427,9.7,1.6,ml,9,130.63,0.433,0.366,nn,nn00895922,2025-04-08T18:40:24.852Z,"38 km SSW of Lovelock, Nevada",earthquake,,1.9,0.06,3,automatic,nn,nn
@@ -82,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-08T11:10:00.473Z,61.3044,-147.2074,0.9,1.7,ml,,,,1.03,ak,ak0254i99x8v,2025-04-08T11:12:08.975Z,"50 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-08T10:52:23.860Z,19.168832778931,-155.48350524902,29.10000038147,1.82000005,md,56,100,0.02423,0.150000006,hv,hv74649692,2025-04-08T14:33:40.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.46,0.699999988,,6,automatic,hv,hv
 2025-04-08T10:51:23.820Z,34.0835,-118.1815,10.02,1.01,ml,23,73,0.04646,0.15,ci,ci40919223,2025-04-08T10:58:25.578Z,"4 km SSE of Highland Park, CA",earthquake,0.27,0.45,0.359,28,automatic,ci,ci
-2025-04-08T10:30:39.683Z,39.2533,-119.6915,0.2,1,ml,10,62,0.053,0.1317,nn,nn00895902,2025-04-08T10:32:30.546Z,"7 km SSW of Virginia City, Nevada",earthquake,,0.4,0.4,5,automatic,nn,nn
+2025-04-08T10:30:40.722Z,39.2675,-119.6906,2.5,0.9,ml,19,56.63,0.042,0.1278,nn,nn00895902,2025-04-08T18:54:00.404Z,"5 km SW of Virginia City, Nevada",earthquake,,1.9,0.34,9,reviewed,nn,nn
 2025-04-08T10:28:42.738Z,-17.9277,-69.6708,135.179,4.8,mb,130,79,0.775,0.7,us,us6000q4q9,2025-04-08T11:07:38.040Z,"35 km ESE of Palca, Peru",earthquake,7.16,6.09,0.033,284,reviewed,us,us
 2025-04-08T10:20:24.585Z,61.4884,-147.7105,34.3,1.6,ml,,,,0.19,ak,ak0254i8qonu,2025-04-08T10:21:37.446Z,"35 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-08T09:51:49.650Z,34.0226667,-117.5831667,5.03,0.98,ml,34,50,0.08424,0.16,ci,ci40919215,2025-04-08T09:58:03.001Z,"5 km SE of Ontario, CA",earthquake,0.19,0.41,0.289,35,automatic,ci,ci
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T19:05:06.120Z,52.231666666667,-173.89533333333,18.12,0.62,ml,4,319,0.1323,0.23,av,av93038264,2025-04-08T17:44:12.210Z,"21 km E of Atka, Alaska",earthquake,4.36,3,0.36819200127574,4,reviewed,av,av
 2025-04-07T19:04:30.130Z,18.964,-155.57283333333,40.84,2.59,ml,38,227,0.09125,0.13,hv,hv74649337,2025-04-08T00:55:16.650Z,"11 km S of Naalehu, Hawaii",earthquake,0.56,0.79,0.19443848875217,21,reviewed,hv,hv
 2025-04-07T19:00:52.630Z,33.8683333,-117.5031667,3.17,1.16,ml,9,128,0.04873,0.08,ci,ci40918831,2025-04-07T19:05:54.466Z,"2 km ESE of Home Gardens, CA",earthquake,0.43,0.5,0.205,37,automatic,ci,ci
-2025-04-07T18:55:42.510Z,39.0451,-119.0137,5,1.2,ml,9,114.02,0.125,0.123,nn,nn00895877,2025-04-07T18:57:57.420Z,"14 km ENE of Yerington, Nevada",earthquake,,1.7,0.22,5,automatic,nn,nn
-2025-04-07T18:54:17.170Z,18.019,-66.752333333333,13.79,2.35,md,12,171,0.03731,0.07,pr,pr71478613,2025-04-07T19:13:12.450Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.34,0.25,0.10898123902534,9,reviewed,pr,pr
