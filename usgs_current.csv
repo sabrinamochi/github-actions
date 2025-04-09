@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-09T00:57:23.710Z,37.74433517456,-122.55333709717,7.9099998474121,1.61,md,14,102,0.08027,0.13,nc,nc75162887,2025-04-09T00:59:02.215Z,"5 km WNW of San Francisco Zoo, CA",earthquake,0.63,1.04999995,0.32,9,automatic,nc,nc
 2025-04-09T00:52:55.380Z,33.5436667,-116.7275,6.6,0.49,ml,20,50,0.02317,0.15,ci,ci40919727,2025-04-09T00:57:55.927Z,"5 km WSW of Anza, CA",earthquake,0.21,0.38,0.128,13,automatic,ci,ci
 2025-04-09T00:26:07.150Z,34.0133333,-117.0185,16.37,1.08,ml,44,52,0.1054,0.18,ci,ci40919719,2025-04-09T00:30:55.533Z,"3 km SE of Yucaipa, CA",earthquake,0.19,0.49,0.279,31,automatic,ci,ci
 2025-04-09T00:10:19.512Z,39.2312,142.2743,50.382,4.1,mb,31,188,1.813,0.7,us,us6000q4us,2025-04-09T00:50:49.040Z,"35 km E of Kamaishi, Japan",earthquake,10.15,11.325,0.115,21,reviewed,us,us
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-08T20:45:56.440Z,33.2863333,-116.1338333,4.36,1.42,ml,62,30,0.1241,0.21,ci,ci40919631,2025-04-08T20:56:43.610Z,"16 km N of Ocotillo Wells, CA",earthquake,0.16,0.63,0.148,26,automatic,ci,ci
 2025-04-08T20:40:36.800Z,38.785331726074,-122.73266601562,1.7000000476837,0.83,md,13,83,0.0038,0.03,nc,nc75162747,2025-04-08T20:42:10.991Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.639999986,0.15,14,automatic,nc,nc
 2025-04-08T20:28:26.170Z,38.787498474121,-122.73300170898,1.7000000476837,0.53,md,7,87,0.005155,0.01,nc,nc75162727,2025-04-08T21:22:18.193Z,"2 km ENE of The Geysers, CA",earthquake,0.38,0.790000021,0.32,8,automatic,nc,nc
-2025-04-08T20:28:01.375Z,61.3541,-151.4529,73,2.5,ml,,,,0.14,ak,ak0254ieqond,2025-04-09T00:19:48.775Z,"30 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-04-08T20:28:01.941Z,61.3569,-151.4516,71.5,2.8,ml,,,,0.46,ak,ak0254ieqond,2025-04-09T00:59:19.254Z,"31 km NW of Beluga, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-04-08T20:23:43.980Z,38.832000732422,-122.811668396,1.7999999523163,1.91,md,37,42,0.01784,0.02,nc,nc75162722,2025-04-08T23:42:19.095Z,"8 km NNW of The Geysers, CA",earthquake,0.15,0.270000011,0.15,38,automatic,nc,nc
 2025-04-08T20:19:55.960Z,38.830001831055,-122.81549835205,1.210000038147,0.76,md,8,127,0.007841,0.02,nc,nc75162717,2025-04-08T21:07:17.091Z,"8 km NNW of The Geysers, CA",earthquake,0.39,0.970000029,0.24,8,automatic,nc,nc
 2025-04-08T20:12:32.060Z,38.779834747315,-122.7440032959,0.079999998211861,0.81,md,9,94,0.006626,0.04,nc,nc75162712,2025-04-08T20:14:10.632Z,"1 km E of The Geysers, CA",earthquake,0.35,0.50999999,0.14,8,automatic,nc,nc
@@ -131,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-08T11:54:58.820Z,38.77799987793,-122.75716400147,0.69999998807907,0.74,md,9,65,0.009891,0.02,nc,nc75162407,2025-04-08T12:32:16.661Z,"0 km NNW of The Geysers, CA",earthquake,0.35,1.03999996,0.05,8,automatic,nc,nc
 2025-04-08T11:52:17.339Z,35.145,-97.54283333,6.07,1.35,ml,66,49,0.07828463788,0.28,ok,ok2025gwdh,2025-04-08T12:08:47.132Z,"5 km NNE of Cole, Oklahoma",earthquake,,0.5,0.18,31,reviewed,ok,ok
 2025-04-08T11:48:43.848Z,36.7716,-116.2535,9.3,-0.1,ml,19,73.04,0.036,0.0523,nn,nn00895908,2025-04-08T15:33:25.663Z,"47 km ESE of Beatty, Nevada",earthquake,,1.1,0.18,6,reviewed,nn,nn
+2025-04-08T11:48:31.050Z,57.0595,-135.6625,7.86,-0.28,ml,4,176,0.02996,0.32,av,av93565931,2025-04-09T00:59:28.590Z,"20 km W of Sitka, Alaska",earthquake,3.48,2.17,0.34383252529797,4,reviewed,av,av
 2025-04-08T11:35:07.040Z,38.819166666667,-122.82433333333,2.31,0.25,md,8,78,0.01096,0.02,nc,nc75162397,2025-04-09T00:07:31.273Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.63,0.462,8,reviewed,nc,nc
 2025-04-08T11:30:25.544Z,-20.3146,-105.2336,10,5.2,mb,66,111,7.751,0.65,us,us6000q4ql,2025-04-08T11:50:52.040Z,"southeast central Pacific Ocean",earthquake,12.39,1.881,0.027,445,reviewed,us,us
 2025-04-08T11:29:39.242Z,-6.2896,152.258,10,4.9,mb,42,137,2.087,0.61,us,us6000q4qj,2025-04-08T12:46:37.040Z,"215 km S of Kokopo, Papua New Guinea",earthquake,12.13,1.914,0.074,57,reviewed,us,us
@@ -233,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-08T01:12:39.270Z,60.500833333333,-152.77016666667,1.05,-0.91,ml,4,218,0.039,0.07,av,av93565491,2025-04-08T21:07:36.990Z,"78 km NW of Ninilchik, Alaska",earthquake,0.64,0.44,0.15385172645078,4,reviewed,av,av
 2025-04-08T01:08:26.667Z,37.1742,-117.2507,9.5,1.1,ml,22,134.28,0.127,0.1438,nn,nn00895887,2025-04-08T17:16:54.704Z,"52 km NW of Beatty, Nevada",earthquake,,2.3,0.32,5,reviewed,nn,nn
 2025-04-08T01:07:20.970Z,17.9755,-66.920166666667,8.94,2.41,md,8,178,0.03894,0.19,pr,pr71478653,2025-04-08T01:38:39.670Z,"1 km WNW of Guánica, Puerto Rico",earthquake,0.81,0.79,0.18075421973031,6,reviewed,pr,pr
-2025-04-08T01:02:07.630Z,38.836833953857,-122.81150054932,1.9199999570847,1.04,md,24,47,0.01347,0.02,nc,nc75162187,2025-04-08T01:47:18.313Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.439999998,0.22,23,automatic,nc,nc
-2025-04-08T01:01:12.370Z,17.948166666667,-66.914333333333,9.89,2.71,md,11,208,0.02451,0.05,pr,pr71478643,2025-04-08T01:17:31.790Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.45,0.26,0.13697170211547,8,reviewed,pr,pr
-2025-04-08T00:59:28.019Z,35.1385,-97.81216667,7.34,1.32,ml,61,55,0.04679081805,0.25,ok,ok2025gvhp,2025-04-08T12:20:05.796Z,"6 km ESE of Amber, Oklahoma",earthquake,,0.4,0.19,25,reviewed,ok,ok
