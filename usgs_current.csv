@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-10T18:47:10.150Z,34.122,-117.538,15.36,1.18,ml,49,53,0.001742,0.15,ci,ci40921527,2025-04-10T18:50:38.680Z,"4 km E of Rancho Cucamonga, CA",earthquake,0.19,0.27,0.191,2,automatic,ci,ci
 2025-04-10T18:33:45.980Z,47.865,-122.80283333333,21.68,1.63,ml,11,130,0.04564,0.16,uw,uw62089751,2025-04-10T18:45:16.961Z,"7 km NE of Quilcene, Washington",earthquake,0.72,0.68,0.17767576980313,9,reviewed,uw,uw
 2025-04-10T18:23:11.650Z,33.3671667,-116.7,9.68,1.12,ml,53,28,0.1169,0.2,ci,ci40921495,2025-04-10T18:33:36.660Z,"11 km NNW of Warner Springs, CA",earthquake,0.17,0.48,0.136,26,automatic,ci,ci
 2025-04-10T18:13:23.710Z,36.895500183105,-121.62333679199,0.79000002145767,2.1,md,11,88,0.04692,0.2,nc,nc75163091,2025-04-10T18:14:58.036Z,"2 km ENE of Aromas, CA",earthquake,0.49,2.5,0.07,9,automatic,nc,nc
@@ -97,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T11:35:53.920Z,39.49683380127,-123.00666809082,5.3699998855591,1.41,md,7,135,0.05399,0.04,nc,nc75162896,2025-04-10T13:57:18.369Z,"11 km NNW of Lake Pillsbury, CA",earthquake,0.71,1.19000006,0.13,5,automatic,nc,nc
 2025-04-10T11:30:39.100Z,38.815166473389,-122.81449890137,2.7599999904633,0.75,md,15,56,0.008914,0.02,nc,nc75162891,2025-04-10T13:32:19.185Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.660000026,0.17,17,automatic,nc,nc
 2025-04-10T11:29:46.500Z,46.615,-112.50683333333,11.42,0.96,ml,14,62,0.09325,0.06,mb,mb90077818,2025-04-10T17:14:16.700Z,"7 km ENE of Avon, Montana",earthquake,0.24,0.57,0.14612932966312,10,reviewed,mb,mb
+2025-04-10T11:12:01.420Z,51.820666666667,-178.76466666667,8.87,0.73,ml,5,258,0.009111,0.17,av,av93569006,2025-04-10T18:47:44.130Z,"146 km W of Adak, Alaska",earthquake,1.17,0.82,0.20371711854736,5,reviewed,av,av
 2025-04-10T10:59:57.180Z,38.7845,-122.75116666667,0.33,0.26,md,23,77,0.01136,0.02,nc,nc75162886,2025-04-10T18:07:18.020Z,"1 km NE of The Geysers, CA",earthquake,0.15,0.29,0.263,17,reviewed,nc,nc
 2025-04-10T10:51:49.590Z,45.986666666667,-111.49966666667,5.03,0.58,ml,7,116,0.07883,0.03,mb,mb90077803,2025-04-10T14:55:35.640Z,"11 km NNE of Three Forks, Montana",earthquake,0.35,1.31,0.14284815161482,3,reviewed,mb,mb
 2025-04-10T10:48:42.140Z,35.3521667,-117.7968333,5.36,1,ml,35,95,0.09356,0.18,ci,ci40920863,2025-04-10T13:49:02.249Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.76,0.134,21,reviewed,ci,ci
@@ -295,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-09T18:56:50.100Z,58.1205,-156.3865,4.59,0.87,ml,12,161,0.2901,0.18,av,av93567991,2025-04-10T00:37:52.450Z,"59 km E of Egegik, Alaska",earthquake,0.56,1.51,0.27884200960539,12,reviewed,av,av
 2025-04-09T18:56:44.300Z,65.4464,-148.2511,11.3,0.9,ml,,,,0.26,ak,ak0254k199am,2025-04-09T18:58:50.012Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-09T18:55:34.050Z,33.9843333,-116.755,12.41,0.84,ml,34,85,0.06702,0.15,ci,ci40920327,2025-04-09T20:05:40.158Z,"8 km NNE of Cabazon, CA",earthquake,0.21,0.49,0.155,24,reviewed,ci,ci
-2025-04-09T18:50:38.180Z,33.2298333,-116.7348333,10.98,1.04,ml,46,33,0.02097,0.18,ci,ci40920311,2025-04-09T18:55:02.119Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.17,0.49,0.186,28,automatic,ci,ci
-2025-04-09T18:46:28.540Z,49.112333333333,-122.00366666667,-0.71,1.57,ml,5,208,0.06559,0.17,uw,uw62089516,2025-04-10T04:31:24.781Z,"7 km SSW of Chilliwack, Canada",explosion,1.91,31.61,0.15926113455209,4,reviewed,uw,uw
