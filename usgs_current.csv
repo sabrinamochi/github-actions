@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-10T18:33:46.270Z,47.858501434326,-122.77899932861,18.290000915527,2.0028269290924,ml,12,115,,0.0700000003,uw,uw62089751,2025-04-10T18:36:16.670Z,"8 km ENE of Quilcene, Washington",earthquake,0.65,1.33000004,0.19248935580254,11,automatic,uw,uw
+2025-04-10T18:33:46.270Z,47.858501434326,-122.77899932861,18.290000915527,2.0028269290924,ml,12,115,,0.0700000003,uw,uw62089751,2025-04-10T18:43:03.668Z,"8 km ENE of Quilcene, Washington",earthquake,0.65,1.33000004,0.19248935580254,11,automatic,uw,uw
 2025-04-10T18:23:11.650Z,33.3671667,-116.7,9.68,1.12,ml,53,28,0.1169,0.2,ci,ci40921495,2025-04-10T18:33:36.660Z,"11 km NNW of Warner Springs, CA",earthquake,0.17,0.48,0.136,26,automatic,ci,ci
 2025-04-10T18:13:23.710Z,36.895500183105,-121.62333679199,0.79000002145767,2.1,md,11,88,0.04692,0.2,nc,nc75163091,2025-04-10T18:14:58.036Z,"2 km ENE of Aromas, CA",earthquake,0.49,2.5,0.07,9,automatic,nc,nc
 2025-04-10T18:07:33.560Z,38.791667938232,-122.76866912842,1.6599999666214,0.75,md,7,102,0.01136,0.02,nc,nc75163086,2025-04-10T18:09:08.274Z,"2 km NNW of The Geysers, CA",earthquake,0.38,0.860000014,0.04,8,automatic,nc,nc
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T15:42:58.738Z,1.6033,127.1055,126.577,4.3,mb,24,84,0.866,0.7,us,us6000q54r,2025-04-10T16:00:36.040Z,"95 km NNW of Ternate, Indonesia",earthquake,9.74,8.447,0.137,15,reviewed,us,us
 2025-04-10T15:40:25.926Z,-22.2795,-71.6058,41.074,4.3,mb,19,145,1.565,0.88,us,us6000q54q,2025-04-10T16:49:00.040Z,"146 km W of Tocopilla, Chile",earthquake,6.17,10.936,0.189,8,reviewed,us,us
 2025-04-10T15:32:43.701Z,61.0695,-150.8673,40.2,1.4,ml,,,,0.49,ak,ak0254lmv5qq,2025-04-10T15:35:11.689Z,"14 km SE of Beluga, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-04-10T15:27:59.180Z,38.831166666667,-122.85333333333,1.96,0.65,md,33,66,0.004552,0.02,nc,nc75162986,2025-04-10T17:55:44.051Z,"10 km NW of The Geysers, CA",earthquake,0.15,0.26,0.14,29,reviewed,nc,nc
+2025-04-10T15:27:59.180Z,38.831166666667,-122.85333333333,1.96,0.65,md,33,66,0.004552,0.02,nc,nc75162986,2025-04-10T18:37:16.198Z,"10 km NW of The Geysers, CA",earthquake,0.15,0.26,0.14,29,reviewed,nc,nc
 2025-04-10T15:22:44.567Z,56.308,-159.8883,10.9,2.2,ml,,,,0.61,ak,ak0254lmt0nc,2025-04-10T15:25:15.756Z,"51 km NNW of Ivanof Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-10T15:15:08.600Z,34.1595,-117.4165,9.55,1.51,ml,68,29,0.03424,0.19,ci,ci40921231,2025-04-10T15:25:27.480Z,"7 km W of Muscoy, CA",earthquake,0.16,0.32,0.18,28,automatic,ci,ci
 2025-04-10T15:07:14.343Z,61.7556,-151.2982,72.9,1.2,ml,,,,0.59,ak,ak0254lmpqkq,2025-04-10T15:09:57.302Z,"26 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T12:55:43.430Z,34.0033333,-116.2856667,7.24,0.96,ml,41,33,0.1088,0.15,ci,ci40920975,2025-04-10T12:59:27.571Z,"15 km S of Joshua Tree, CA",earthquake,0.15,0.62,0.157,23,automatic,ci,ci
 2025-04-10T12:54:13.190Z,35.3366667,-117.8091667,8.3,1.39,ml,37,36,0.07531,0.15,ci,ci40920967,2025-04-10T12:57:54.307Z,"16 km WSW of Johannesburg, CA",earthquake,0.18,0.45,0.221,26,automatic,ci,ci
 2025-04-10T12:53:05.150Z,47.713,-113.8075,6.6,0.52,ml,7,133,0.08234,0.04,mb,mb90077853,2025-04-10T17:54:08.880Z,"19 km E of Finley Point, Montana",earthquake,0.52,1.56,0.32383426861085,3,reviewed,mb,mb
-2025-04-10T12:49:27.990Z,33.1783333,-115.6096667,2.81,3.14,ml,55,43,0.005083,0.21,ci,ci40920959,2025-04-10T15:45:18.381Z,"11 km WNW of Calipatria, CA",earthquake,0.18,0.22,0.189,77,reviewed,ci,ci
+2025-04-10T12:49:27.990Z,33.1783333,-115.6096667,2.81,3.14,ml,55,43,0.005083,0.21,ci,ci40920959,2025-04-10T18:42:13.417Z,"11 km WNW of Calipatria, CA",earthquake,0.18,0.22,0.189,77,reviewed,ci,ci
 2025-04-10T12:40:18.750Z,33.177,-115.6028333,2.96,1.22,ml,33,43,0.01075,0.15,ci,ci40920935,2025-04-10T12:45:38.439Z,"10 km NW of Calipatria, CA",earthquake,0.18,0.19,0.15,21,automatic,ci,ci
 2025-04-10T12:39:14.450Z,33.18,-115.6035,2.54,1.38,ml,30,46,0.01049,0.17,ci,ci40920927,2025-04-10T12:44:21.420Z,"10 km NW of Calipatria, CA",earthquake,0.21,0.15,0.17,27,automatic,ci,ci
 2025-04-10T12:38:50.870Z,33.1455,-115.6925,1.2,1.32,ml,8,101,0.06963,0.26,ci,ci40920919,2025-04-10T17:11:31.082Z,"14 km NNW of Westmorland, CA",earthquake,1.33,1.97,0.357,4,reviewed,ci,ci
@@ -297,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-09T18:50:38.180Z,33.2298333,-116.7348333,10.98,1.04,ml,46,33,0.02097,0.18,ci,ci40920311,2025-04-09T18:55:02.119Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.17,0.49,0.186,28,automatic,ci,ci
 2025-04-09T18:46:28.540Z,49.112333333333,-122.00366666667,-0.71,1.57,ml,5,208,0.06559,0.17,uw,uw62089516,2025-04-10T04:31:24.781Z,"7 km SSW of Chilliwack, Canada",explosion,1.91,31.61,0.15926113455209,4,reviewed,uw,uw
 2025-04-09T18:44:59.610Z,32.8781667,-115.8808333,5.29,0.87,ml,22,57,0.07484,0.14,ci,ci40920295,2025-04-09T18:48:48.050Z,"19 km NNE of Ocotillo, CA",earthquake,0.21,0.47,0.341,7,automatic,ci,ci
-2025-04-09T18:37:55.280Z,62.037333333333,-144.1365,15.96,0.09,ml,6,110,0.03835,0.22,av,av93038689,2025-04-10T01:42:42.920Z,"55 km NE of Kenny Lake, Alaska",earthquake,1.4,0.92,0.181931218082,6,reviewed,av,av
