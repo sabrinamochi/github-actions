@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-10T00:05:17.627Z,57.9675,-154.7843,70.3,1.4,ml,,,,0.23,ak,ak0254ldrtbm,2025-04-10T00:07:09.484Z,"48 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-04-09T23:59:27.970Z,33.9851667,-117.1468333,12.04,0.96,ml,28,51,0.1276,0.16,ci,ci40920519,2025-04-10T00:04:58.153Z,"8 km SSE of Redlands, CA",earthquake,0.21,0.72,0.271,31,automatic,ci,ci
 2025-04-09T23:47:52.723Z,39.0757,-119.023,11.2,1,ml,10,141.5,0.094,0.3197,nn,nn00895986,2025-04-09T23:49:46.793Z,"15 km NE of Yerington, Nevada",earthquake,,0.6,0.26,4,automatic,nn,nn
 2025-04-09T23:44:59.170Z,38.824001312256,-122.79149627685,1.8799999952316,0.24,md,8,73,0.01365,0.01,nc,nc75162641,2025-04-09T23:46:35.526Z,"6 km WNW of Cobb, CA",earthquake,0.52,2.95000005,0.05,8,automatic,nc,nc
 2025-04-09T23:40:16.090Z,35.0303333,-117.6813333,-0.08,1.67,ml,39,40,0.09651,0.19,ci,ci40920511,2025-04-09T23:44:16.343Z,"4 km NW of Boron, CA",earthquake,0.29,0.71,0.109,28,automatic,ci,ci
@@ -13,7 +15,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-09T22:40:23.570Z,38.809833526611,-122.73883056641,1.3500000238419,0.78,md,7,125,0.01873,0.02,nc,nc75162621,2025-04-09T23:07:18.551Z,"2 km SW of Cobb, CA",earthquake,0.41,1.5,0.12,9,automatic,nc,nc
 2025-04-09T22:38:21.592Z,39.0578,-119.043,8.6,0.8,ml,8,145.5,0.111,0.2512,nn,nn00895982,2025-04-09T23:35:05.071Z,"13 km NE of Yerington, Nevada",earthquake,,0.9,0.27,2,automatic,nn,nn
 2025-04-09T22:37:19.966Z,62.6894,-149.6739,62.8,1.5,ml,,,,0.95,ak,ak0254k3iv8c,2025-04-09T22:40:17.519Z,"34 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-04-09T22:05:02.690Z,38.7369,-116.9335,0,1.8,ml,9,196.66,0.644,0.3139,nn,nn00895980,2025-04-09T22:07:56.174Z,"53 km SSE of Kingston, Nevada",earthquake,,5.8,0.71,5,automatic,nn,nn
 2025-04-09T21:54:19.900Z,38.834499359131,-122.81133270264,1.3999999761581,1.04,md,7,96,0.01113,0.02,nc,nc75162616,2025-04-09T21:55:55.684Z,"8 km WNW of Cobb, CA",earthquake,0.46,1.84000003,0.14,8,automatic,nc,nc
 2025-04-09T21:53:11.750Z,34.1686668,-117.5998306,19.21,1.77,ml,17,100,0.1171,0.29,ci,ci40920455,2025-04-09T22:00:16.348Z,"5 km NNW of Rancho Cucamonga, CA",earthquake,0.75,1.57,0.783,3,automatic,ci,ci
 2025-04-09T21:49:16.310Z,18.002666666667,-66.808666666667,14.99,2.32,md,7,165,0.06426,0.08,pr,pr71478748,2025-04-09T22:03:41.390Z,"1 km NE of Indios, Puerto Rico",earthquake,0.46,0.6,0.18450364411264,5,reviewed,pr,pr
@@ -249,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-09T00:29:45.010Z,47.920333333333,-114.11466666667,4.82,0.16,ml,6,216,0.08986,0.17,mb,mb90077713,2025-04-09T14:32:52.360Z,"6 km W of Bear Dance, Montana",earthquake,1.05,2.59,0.015748449961245,2,reviewed,mb,mb
 2025-04-09T00:26:07.150Z,34.0133333,-117.0185,16.37,1.08,ml,44,52,0.1054,0.18,ci,ci40919719,2025-04-09T13:55:34.247Z,"3 km SE of Yucaipa, CA",earthquake,0.19,0.49,0.279,31,reviewed,ci,ci
 2025-04-09T00:22:34.259Z,35.136,-97.82183333,7.06,1.1,ml,41,105,0.04859046489,0.29,ok,ok2025gxca,2025-04-09T14:46:04.817Z,"5 km ESE of Amber, Oklahoma",earthquake,,0.6,0.21,21,reviewed,ok,ok
-2025-04-09T00:10:19.512Z,39.2312,142.2743,50.382,4.1,mb,31,188,1.813,0.7,us,us6000q4us,2025-04-09T00:50:49.040Z,"35 km E of Kamaishi, Japan",earthquake,10.15,11.325,0.115,21,reviewed,us,us
