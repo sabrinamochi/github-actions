@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-10T16:31:22.516Z,63.5724,-148.9405,8.3,1.1,ml,,,,0.58,ak,ak0254lngbzv,2025-04-10T16:34:08.597Z,"17 km S of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-10T16:25:59.620Z,36.490333557129,-121.08516693115,5.1300001144409,2,md,25,40,0.04128,0.2,nc,nc75163041,2025-04-10T16:27:37.807Z,"7 km SE of Pinnacles, CA",earthquake,0.41,1.30999994,0.16,26,automatic,nc,nc
 2025-04-10T16:24:37.550Z,35.34,-117.8086667,7.2,1.21,ml,31,36,0.07853,0.19,ci,ci40921335,2025-04-10T16:28:04.813Z,"16 km WSW of Johannesburg, CA",earthquake,0.21,0.71,0.225,26,automatic,ci,ci
 2025-04-10T16:22:45.370Z,38.894664764404,-123.26466369629,0.37999999523163,2.1,md,22,108,0.07252,0.09,nc,nc75163036,2025-04-10T16:24:22.499Z,"15 km SSE of Boonville, CA",earthquake,0.25,2.74000001,0.13,20,automatic,nc,nc
@@ -125,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T06:43:00.070Z,38.7905,-122.77733333333,0.99,0.2,md,14,81,0.008693,0.02,nc,nc75162806,2025-04-10T10:07:18.849Z,"2 km NW of The Geysers, CA",earthquake,0.42,0.22,0.216,13,reviewed,nc,nc
 2025-04-10T06:36:14.820Z,17.913666666667,-68.505666666667,56.31,3.36,md,13,230,0.6092,0.3,pr,pr71478783,2025-04-10T07:52:41.340Z,"52 km SSE of Boca de Yuma, Dominican Republic",earthquake,2.52,4.21,0.033699518461174,7,reviewed,pr,pr
 2025-04-10T06:35:49.489Z,31.678,-104.39,6.4075,2.3,ml,15,85,0,0.1,tx,tx2025gzjx,2025-04-10T16:15:45.273Z,"55 km S of Whites City, New Mexico",earthquake,0.975119235041,0.89599355492046,0.2,18,reviewed,tx,tx
+2025-04-10T06:35:27.754Z,31.675,-104.388,7.356,2.4,ml,45,69,0,0.1,tx,tx2025gzjy,2025-04-10T16:31:56.387Z,"55 km S of Whites City, New Mexico",earthquake,0.68763690545581,0.73713285103374,0.2,66,reviewed,tx,tx
 2025-04-10T06:27:19.690Z,38.824166666667,-122.7875,0.78,0.31,md,15,88,0.01212,0.02,nc,nc75162801,2025-04-10T09:23:27.706Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.52,0.263,15,reviewed,nc,nc
 2025-04-10T06:24:03.428Z,-6.0664,-75.761,10,4.3,mb,11,159,3.455,0.77,us,us6000q52a,2025-04-10T06:36:05.040Z,"29 km N of Navarro, Peru",earthquake,14.91,1.972,0.168,10,reviewed,us,us
 2025-04-10T06:23:14.116Z,39.1148,-119.0375,8.6,0.6,ml,8,135.71,0.054,0.0975,nn,nn00896000,2025-04-10T06:25:27.177Z,"17 km NE of Yerington, Nevada",earthquake,,0.7,0.18,3,automatic,nn,nn
@@ -174,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T01:40:39.576Z,31.676,-104.391,5.946,2.1,ml,33,69,0,0.1,tx,tx2025gzaj,2025-04-10T16:03:20.207Z,"55 km S of Whites City, New Mexico",earthquake,0.67774113002463,0.57386991724861,0.2,49,reviewed,tx,tx
 2025-04-10T01:39:21.474Z,-20.009,-69.8513,49.792,3.3,ml,9,144,0.669,0.78,us,us6000q510,2025-04-10T04:59:43.841Z,"8 km W of Huara, Chile",earthquake,4.46,16.018,0.085,18,reviewed,us,us
 2025-04-10T01:34:04.308Z,61.5283,-149.9249,32.3,1.4,ml,,,,0.6,ak,ak0254lejfny,2025-04-10T01:36:01.995Z,"1 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-10T01:28:05.960Z,33.3711667,-116.6875,11.2,2.07,ml,19,60,0.1072,0.09,ci,ci40920543,2025-04-10T01:34:08.388Z,"11 km NNW of Warner Springs, CA",earthquake,0.18,0.47,0.097,11,automatic,ci,ci
+2025-04-10T01:28:05.920Z,33.3706667,-116.6876667,11.53,0.21,ml,18,60,0.1073,0.09,ci,ci40920543,2025-04-10T16:33:51.058Z,"11 km NNW of Warner Springs, CA",earthquake,0.18,0.46,0.135,10,reviewed,ci,ci
 2025-04-10T01:15:19.160Z,33.5198333,-116.57,13.51,0.77,ml,31,47,0.03677,0.14,ci,ci40920527,2025-04-10T13:53:15.580Z,"10 km ESE of Anza, CA",earthquake,0.18,0.36,0.12,19,reviewed,ci,ci
 2025-04-10T01:13:10.253Z,36.8896,141.2789,58.42,4.3,mb,39,159,2.491,1.06,us,us6000q50x,2025-04-10T03:41:29.191Z,"39 km ESE of Iwaki, Japan",earthquake,8.23,10.664,0.111,23,reviewed,us,us
 2025-04-10T01:11:34.070Z,38.818166666667,-122.78816666667,1.75,0.37,md,28,43,0.007627,0.02,nc,nc75162691,2025-04-10T09:42:19.712Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.26,0.181,25,reviewed,nc,nc
@@ -286,6 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-09T16:42:58.990Z,38.797832489014,-122.75133514404,2.1300001144409,0.79,md,12,95,0.007115,0.02,nc,nc75163232,2025-04-09T16:44:35.464Z,"2 km NNE of The Geysers, CA",earthquake,0.31,1.01999998,0.15,13,automatic,nc,nc
 2025-04-09T16:42:50.400Z,58.301666666667,-155.0025,2.8,-0.55,ml,5,305,0.0325,0.04,av,av93038609,2025-04-09T23:21:54.840Z,"87 km NNW of Karluk, Alaska",earthquake,0.56,0.26,0.2126636597533,5,reviewed,av,av
 2025-04-09T16:38:28.530Z,38.837333679199,-122.80899810791,2.1300001144409,1.1,md,16,51,0.01461,0.01,nc,nc75163217,2025-04-09T19:47:18.170Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.699999988,0.14,17,automatic,nc,nc
-2025-04-09T16:37:48.720Z,38.837001800537,-122.80850219727,2.0899999141693,2.18,md,46,31,0.01425,0.04,nc,nc75163212,2025-04-09T19:22:18.992Z,"8 km WNW of Cobb, CA",earthquake,0.15,0.25999999,0.11,49,automatic,nc,nc
-2025-04-09T16:37:07.240Z,32.8801667,-115.8826667,5.44,0.85,ml,17,142,0.0731,0.17,ci,ci40920151,2025-04-09T18:21:54.713Z,"19 km NNE of Ocotillo, CA",earthquake,0.31,0.48,0.163,6,reviewed,ci,ci
-2025-04-09T16:34:49.290Z,38.778833333333,-122.757,1.08,0.39,md,18,63,0.0106,0.03,nc,nc75163207,2025-04-10T09:13:24.548Z,"0 km  of The Geysers, CA",earthquake,0.16,0.34,0.289,14,reviewed,nc,nc
