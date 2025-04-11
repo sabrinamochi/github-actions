@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-11T17:07:01.210Z,35.883,-117.4748333,9.96,0.68,ml,9,258,0.2214,0.14,ci,ci40922903,2025-04-11T17:10:25.120Z,"14 km NNW of Searles Valley, CA",earthquake,1.09,1.47,0.149,10,automatic,ci,ci
 2025-04-11T17:02:12.440Z,38.787666320801,-122.76750183106,2.4700000286102,0.25,md,8,154,0.01688,0.02,nc,nc75163746,2025-04-11T17:03:48.886Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.39999998,0.03,8,automatic,nc,nc
+2025-04-11T17:00:58.350Z,35.13733333,-97.81166667,7.28,1.11,ml,28,102,0.04769064147,0.23,ok,ok2025hbzz,2025-04-11T17:17:28.181Z,"6 km ESE of Amber, Oklahoma",earthquake,,0.8,0.23,12,reviewed,ok,ok
 2025-04-11T16:44:33.620Z,38.821334838867,-122.82216644287,1.8500000238419,0.98,md,7,89,0.009667,0.01,nc,nc75163741,2025-04-11T17:07:19.241Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.16999996,0.22,8,automatic,nc,nc
 2025-04-11T16:35:35.237Z,61.4298,-149.9053,33.7,1.6,ml,,,,0.61,ak,ak0254nb0kc3,2025-04-11T16:38:29.345Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-11T16:22:37.510Z,38.79349899292,-122.76000213623,2.75,0.74,md,7,161,0.007119,0.01,nc,nc75163721,2025-04-11T16:47:19.105Z,"2 km N of The Geysers, CA",earthquake,0.56,1.09000003,0.12,9,automatic,nc,nc
@@ -150,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T03:23:02.780Z,33.9245,-116.9481667,13.63,1.15,ml,58,19,0.1548,0.14,ci,ci40922103,2025-04-11T03:34:13.330Z,"3 km ESE of Beaumont, CA",earthquake,0.12,0.38,0.163,27,automatic,ci,ci
 2025-04-11T03:18:18.071Z,18.8695,145.4597,246.863,4.9,mb,80,81,3.622,0.94,us,us6000q5aq,2025-04-11T04:04:07.099Z,"Pagan region, Northern Mariana Islands",earthquake,10.16,7.378,0.028,416,reviewed,us,us
 2025-04-11T03:18:08.711Z,31.659,-104.458,6.2024,1.5,ml,21,71,0,0.1,tx,tx2025hayw,2025-04-11T14:12:22.993Z,"57 km S of Whites City, New Mexico",earthquake,0.81582303310207,0.50141320838707,0.2,28,reviewed,tx,tx
-2025-04-11T03:14:04.540Z,33.483,-116.401,10.93,0.51,ml,17,90,0.1425,0.13,ci,ci40922095,2025-04-11T03:17:43.400Z,"22 km SSW of La Quinta, CA",earthquake,0.23,0.89,0.091,10,automatic,ci,ci
+2025-04-11T03:14:04.440Z,33.4816667,-116.3988333,12.24,0.54,ml,15,90,0.1404,0.12,ci,ci40922095,2025-04-11T17:14:30.482Z,"22 km SSW of La Quinta, CA",earthquake,0.23,0.89,0.083,9,reviewed,ci,ci
 2025-04-11T03:09:01.340Z,33.178,-115.6095,2.64,1.13,ml,27,85,0.005176,0.17,ci,ci40922087,2025-04-11T03:12:24.516Z,"11 km WNW of Calipatria, CA",earthquake,0.22,0.13,0.162,19,automatic,ci,ci
 2025-04-11T02:59:34.550Z,33.9005,-116.214,6.95,1.01,ml,36,50,0.04194,0.18,ci,ci40922079,2025-04-11T03:13:27.128Z,"19 km ENE of Thousand Palms, CA",earthquake,0.19,0.6,0.072,25,automatic,ci,ci
 2025-04-11T02:55:25.390Z,33.1743333,-115.6031667,7.99,1.89,ml,43,43,0.01092,0.22,ci,ci40922071,2025-04-11T02:59:05.874Z,"10 km WNW of Calipatria, CA",earthquake,0.23,0.6,0.22,30,automatic,ci,ci
@@ -283,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T17:17:45.079Z,59.5793,-152.4353,61,1.4,ml,,,,0.41,ak,ak0254lnytbf,2025-04-10T17:20:12.037Z,"38 km NW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-04-10T17:16:35.998Z,-7.968,158.5264,75.985,4.9,mb,67,60,2.027,0.65,us,us6000q56i,2025-04-10T17:38:12.040Z,"119 km W of Buala, Solomon Islands",earthquake,9.94,7.725,0.049,130,reviewed,us,us
 2025-04-10T17:16:21.090Z,56.265333333333,-159.52566666667,6.8,0.03,ml,5,131,0.02483,0.33,av,av93569466,2025-04-11T05:13:58.620Z,"40 km N of Ivanof Bay, Alaska",earthquake,1.53,1.48,0.21398907702271,5,reviewed,av,av
-2025-04-10T17:13:52.880Z,38.328666687012,-122.34850311279,0.93000000715256,1.37,md,7,82,0.06471,0.17,nc,nc75163061,2025-04-10T17:27:17.762Z,"7 km NW of Napa, CA",earthquake,1.05,4.94999981,0.25,8,automatic,nc,nc
