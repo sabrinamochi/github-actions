@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-11T17:56:50.460Z,35.3416672,-117.8125,7.94,1.15,ml,18,98,0.07893,0.14,ci,ci40923047,2025-04-11T17:58:55.908Z,"16 km WSW of Johannesburg, CA",earthquake,0.31,1.6,0.255,4,automatic,ci,ci
+2025-04-11T17:56:50.470Z,35.3423333,-117.8118333,7.88,1.01,ml,24,98,0.07974,0.17,ci,ci40923047,2025-04-11T18:00:25.390Z,"16 km WSW of Johannesburg, CA",earthquake,0.27,0.76,0.209,22,automatic,ci,ci
 2025-04-11T17:54:10.130Z,33.2296667,-116.7323333,11.72,0.67,ml,24,56,0.02303,0.14,ci,ci40923039,2025-04-11T17:58:27.573Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.2,0.47,0.136,14,automatic,ci,ci
-2025-04-11T17:48:28.357Z,31.686,-104.409,4.3287,1.8,ml,17,68,0,0.2,tx,tx2025hcbp,2025-04-11T17:59:14.672Z,"54 km S of Whites City, New Mexico",earthquake,0,1.2902699708939,0.1,12,automatic,tx,tx
+2025-04-11T17:48:28.208Z,31.687,-104.404,5.1257,2,ml,32,73,0,0.3,tx,tx2025hcbp,2025-04-11T18:03:49.699Z,"54 km S of Whites City, New Mexico",earthquake,0.69090743257358,1.097328629188,0.2,28,reviewed,tx,tx
 2025-04-11T17:43:56.764Z,31.63,-104.437,6.1255,2.2,ml,18,96,0,0.4,tx,tx2025hcbm,2025-04-11T17:51:43.616Z,"60 km S of Whites City, New Mexico",earthquake,1.470263705093,1.1642549518321,0.2,14,reviewed,tx,tx
 2025-04-11T17:30:41.590Z,35.3381667,-117.7991667,8.97,0.88,ml,21,96,0.1597,0.19,ci,ci40922983,2025-04-11T17:34:11.949Z,"15 km WSW of Johannesburg, CA",earthquake,0.29,1.03,0.154,17,automatic,ci,ci
 2025-04-11T17:27:41.700Z,35.13333333,-97.81233333,7.19,1.14,ml,22,102,0.05128993517,0.19,ok,ok2025hcaw,2025-04-11T18:02:40.875Z,"6 km ESE of Amber, Oklahoma",earthquake,,1.2,0.22,11,reviewed,ok,ok
@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T16:44:33.620Z,38.821334838867,-122.82216644287,1.8500000238419,0.98,md,7,89,0.009667,0.01,nc,nc75163741,2025-04-11T17:07:19.241Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.16999996,0.22,8,automatic,nc,nc
 2025-04-11T16:35:35.237Z,61.4298,-149.9053,33.7,1.6,ml,,,,0.61,ak,ak0254nb0kc3,2025-04-11T16:38:29.345Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-11T16:22:37.510Z,38.79349899292,-122.76000213623,2.75,0.74,md,7,161,0.007119,0.01,nc,nc75163721,2025-04-11T16:47:19.105Z,"2 km N of The Geysers, CA",earthquake,0.56,1.09000003,0.12,9,automatic,nc,nc
+2025-04-11T16:15:01.140Z,46.801833333333,-112.18816666667,9,0.42,ml,8,132,0.1112,0.09,mb,mb90078063,2025-04-11T18:01:21.100Z,"10 km ENE of Marysville, Montana",earthquake,0.33,1.07,0.10259400936746,3,reviewed,mb,mb
 2025-04-11T15:54:55.039Z,61.6039,-150.3752,46,0.9,ml,,,,0.78,ak,ak0254naj7hg,2025-04-11T17:20:37.596Z,"9 km NE of Susitna, Alaska",earthquake,,20.3,,,reviewed,ak,ak
 2025-04-11T15:27:38.780Z,35.3463333,-117.8086667,7.29,0.98,ml,29,65,0.08439,0.17,ci,ci40922735,2025-04-11T17:21:40.418Z,"16 km W of Johannesburg, CA",earthquake,0.22,0.69,0.157,19,reviewed,ci,ci
 2025-04-11T15:27:17.325Z,59.8031,-153.3287,130.2,2.2,ml,,,,0.44,ak,ak0254naddnz,2025-04-11T15:49:01.040Z,"43 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -132,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T06:09:32.740Z,35.3565,-117.8063333,6.23,1.52,ml,38,37,0.09456,0.21,ci,ci40922231,2025-04-11T17:30:42.357Z,"16 km W of Johannesburg, CA",earthquake,0.22,0.72,0.168,26,reviewed,ci,ci
 2025-04-11T05:50:33.850Z,38.830833435059,-122.80950164795,1.8200000524521,1.1,md,23,42,0.01677,0.01,nc,nc75163451,2025-04-11T08:37:17.873Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.469999999,0.2,24,automatic,nc,nc
 2025-04-11T05:49:08.290Z,33.429,-116.4651667,6.7,0.38,ml,8,240,0.174,0.13,ci,ci40922223,2025-04-11T05:52:30.970Z,"21 km NNW of Borrego Springs, CA",earthquake,1.74,11.52,0.088,4,automatic,ci,ci
+2025-04-11T05:48:17.250Z,35.3406667,-117.8038333,7.78,0.7,ml,10,98,0.08075,0.21,ci,ci37542845,2025-04-11T18:02:31.822Z,"16 km WSW of Johannesburg, CA",earthquake,0.57,1.43,0.301,5,reviewed,ci,ci
 2025-04-11T05:47:38.650Z,35.3475,-117.8045,5.17,1.23,ml,22,114,0.08675,0.15,ci,ci40922215,2025-04-11T17:57:35.112Z,"16 km W of Johannesburg, CA",earthquake,0.25,0.97,0.058,6,reviewed,ci,ci
 2025-04-11T05:47:11.110Z,35.3485,-117.8163333,0.5,1.54,ml,28,65,0.2396,0.23,ci,ci40922207,2025-04-11T05:50:54.960Z,"17 km W of Johannesburg, CA",earthquake,0.31,1.31,0.148,25,automatic,ci,ci
 2025-04-11T05:46:45.713Z,29.253,130.4722,48.999,4.5,mb,31,136,2.249,0.72,us,us6000q5bn,2025-04-11T06:31:34.040Z,"108 km S of Yudomari, Japan",earthquake,8.74,3.487,0.125,19,reviewed,us,us
