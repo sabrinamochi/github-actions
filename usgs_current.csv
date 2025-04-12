@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-12T07:18:25.826Z,59.7089,-152.5757,97,2.8,ml,,,,0.37,ak,ak0254ot3cgs,2025-04-12T07:20:02.527Z,"42 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-12T07:05:47.010Z,64.1572,-148.2334,10.1,1.1,ml,,,,0.45,ak,ak0254ot0lt9,2025-04-12T07:07:26.345Z,"45 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-12T07:03:07.880Z,36.024,-117.7761667,1.57,0.94,ml,18,65,0.008923,0.12,ci,ci40923791,2025-04-12T07:06:37.467Z,"15 km NE of Little Lake, CA",earthquake,0.16,0.17,0.187,17,automatic,ci,ci
 2025-04-12T06:59:27.390Z,33.8716667,-117.7663333,10.25,1.73,ml,97,23,0.04728,0.19,ci,ci40923783,2025-04-12T07:09:59.900Z,"5 km ESE of Yorba Linda, CA",earthquake,0.13,0.25,0.143,27,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-12T04:25:13.120Z,33.8835,-116.8461667,15.75,0.67,ml,19,96,0.06424,0.15,ci,ci40923671,2025-04-12T04:29:51.473Z,"5 km SSE of Banning, CA",earthquake,0.3,0.64,0.225,16,automatic,ci,ci
 2025-04-12T04:10:47.930Z,38.82500076294,-122.80850219727,2.8099999427795,1.04,md,19,36,0.00202,0.01,nc,nc75163981,2025-04-12T04:47:18.941Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.620000005,0.2,21,automatic,nc,nc
 2025-04-12T04:02:41.900Z,38.806499481201,-122.77899932861,2.4300000667572,1.07,md,14,94,0.006877,0.01,nc,nc75163976,2025-04-12T05:57:17.395Z,"4 km NNW of The Geysers, CA",earthquake,0.32,0.660000026,0.07,17,automatic,nc,nc
-2025-04-12T03:47:10.617Z,-4.7144,153.2351,72.502,6.2,mww,100,53,1.188,1.25,us,us6000q5ka,2025-04-12T06:16:06.938Z,"114 km ESE of Kokopo, Papua New Guinea",earthquake,7.68,6.279,0.045,47,reviewed,us,us
+2025-04-12T03:47:09.665Z,-4.6911,153.1544,61.957,6.1,mww,127,24,1.106,1.02,us,us6000q5ka,2025-04-12T07:19:47.451Z,"105 km ESE of Kokopo, Papua New Guinea",earthquake,7.27,3.978,0.047,43,reviewed,us,us
 2025-04-12T03:41:27.990Z,19.408333333333,-155.48216666667,7.65,1.64,ml,44,37,0.04308,0.12,hv,hv74651607,2025-04-12T04:01:05.020Z,"22 km N of Pāhala, Hawaii",earthquake,0.23,0.42,0.14754009029485,18,reviewed,hv,hv
 2025-04-12T03:33:38.655Z,39.1526,-119.0722,0.9,1.2,ml,12,118.94,0.031,0.1484,nn,nn00896115,2025-04-12T03:35:39.027Z,"20 km NNE of Yerington, Nevada",earthquake,,0.2,0.12,3,automatic,nn,nn
 2025-04-12T03:32:54.090Z,33.5046667,-116.4523333,5.55,1.1,ml,55,41,0.1256,0.18,ci,ci40923647,2025-04-12T03:44:03.520Z,"21 km ESE of Anza, CA",earthquake,0.15,0.7,0.164,27,automatic,ci,ci
@@ -246,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T07:33:24.739Z,35.137,-97.82133333,6.77,0.65,ml,24,105,0.04769064147,0.21,ok,ok2025hbhg,2025-04-11T12:49:48.933Z,"5 km ESE of Amber, Oklahoma",earthquake,,0.8,0.19,11,reviewed,ok,ok
 2025-04-11T07:30:56.370Z,47.7165,-113.81433333333,7.53,-0.03,ml,4,186,0.08108,0.06,mb,mb90078018,2025-04-11T14:32:24.150Z,"18 km E of Finley Point, Montana",earthquake,0.71,2,0.43119143879112,2,reviewed,mb,mb
 2025-04-11T07:29:33.550Z,38.792167663574,-122.76166534424,2.2400000095367,0.99,md,7,119,0.008582,0.01,nc,nc75163486,2025-04-11T07:47:19.544Z,"2 km  of The Geysers, CA",earthquake,0.48,1.38999999,0.15,8,automatic,nc,nc
-2025-04-11T07:20:17.314Z,61.1289,-152.6989,36.7,0.6,ml,,,,2.21,ak,ak0254n5k9dj,2025-04-11T23:22:55.280Z,"84 km W of Tyonek, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2025-04-11T07:18:46.200Z,47.714,-113.81033333333,7.11,-0.16,ml,5,173,0.08218,0.03,mb,mb90078013,2025-04-11T14:29:23.290Z,"19 km E of Finley Point, Montana",earthquake,0.67,1.71,0.20477008678195,2,reviewed,mb,mb
-2025-04-11T07:16:06.810Z,47.718,-113.79333333333,9.52,-0.04,ml,6,139,0.07435,0.03,mb,mb90078008,2025-04-11T15:12:35.310Z,"20 km E of Finley Point, Montana",earthquake,0.59,1.57,0.050005811873107,2,reviewed,mb,mb
