@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-14T19:56:47.760Z,33.0496674,-116.6031647,13.02,1.04,ml,30,75,0.03158,0.21,ci,ci40927039,2025-04-14T19:58:50.231Z,"3 km S of Julian, CA",earthquake,0.33,0.81,0.359,9,automatic,ci,ci
+2025-04-14T19:59:27.700Z,33.0453339,-116.600502,13.06,1.25,ml,45,33,0.03563,0.23,ci,ci40927047,2025-04-14T20:02:51.544Z,"4 km S of Julian, CA",earthquake,0.29,0.76,0.515,10,automatic,ci,ci
+2025-04-14T19:56:47.850Z,33.0476667,-116.6121667,12.3,0.9,ml,39,36,0.03542,0.21,ci,ci40927039,2025-04-14T20:00:13.529Z,"4 km SSW of Julian, CA",earthquake,0.22,0.6,0.121,23,automatic,ci,ci
 2025-04-14T19:55:51.760Z,33.0566667,-116.6148333,11.96,1.89,ml,66,21,0.02826,0.19,ci,ci40927031,2025-04-14T19:59:20.524Z,"3 km SSW of Julian, CA",earthquake,0.16,0.41,0.209,27,automatic,ci,ci
 2025-04-14T19:54:40.360Z,33.0391667,-116.5985,17.1,0.81,ml,24,47,0.1399,0.2,ci,ci40927023,2025-04-14T19:58:32.158Z,"4 km S of Julian, CA",earthquake,0.37,1.03,0.127,17,automatic,ci,ci
 2025-04-14T19:34:30.230Z,33.0381667,-116.5933333,12.33,2.8,ml,94,20,0.04284,0.21,ci,ci40927015,2025-04-14T19:56:32.851Z,"5 km S of Julian, CA",earthquake,0.13,0.39,0.269,25,automatic,ci,ci
@@ -23,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-14T19:06:30.260Z,36.04033279419,-120.59799957275,4.0700001716614,2.02,md,28,45,0.02845,0.08,nc,nc75165356,2025-04-14T19:22:20.872Z,"22 km NNW of Parkfield, CA",earthquake,0.25,0.469999999,0.14,20,automatic,nc,nc
 2025-04-14T19:05:42.680Z,33.7091675,-117.3653336,5.55,1.37,ml,19,61,0.04111,0.23,ci,ci40926863,2025-04-14T19:07:49.594Z,"6 km NW of Lake Elsinore, CA",earthquake,0.61,1.24,0.287,12,automatic,ci,ci
 2025-04-14T19:02:25.250Z,33.0503349,-116.5858307,14.3,1.24,ml,31,75,0.03211,0.2,ci,ci40926855,2025-04-14T19:04:31.671Z,"4 km SSE of Julian, CA",earthquake,0.37,0.72,0.358,9,automatic,ci,ci
+2025-04-14T19:01:21.160Z,44.516,-115.213,9.93,2.18,ml,15,85,0.4869,0.13,mb,mb90078668,2025-04-14T20:02:11.090Z,"39 km NNW of Stanley, Idaho",earthquake,0.37,0.7,0.18466197088039,17,reviewed,mb,mb
 2025-04-14T18:57:52.590Z,33.048,-116.5883333,14.03,1.28,ml,57,22,0.03379,0.21,ci,ci40926831,2025-04-14T19:23:16.697Z,"4 km SSE of Julian, CA",earthquake,0.2,0.46,0.248,27,automatic,ci,ci
 2025-04-14T18:56:48.590Z,34.8481667,-118.7601667,-0.42,1.38,ml,16,198,0.07187,0.21,ci,ci40926823,2025-04-14T19:22:19.691Z,"10 km E of Lebec, CA",earthquake,0.8,0.63,0.21,28,automatic,ci,ci
 2025-04-14T18:55:06.170Z,33.0558333,-116.6146667,12.03,2.13,ml,75,19,0.0289,0.19,ci,ci40926815,2025-04-14T19:23:48.408Z,"3 km SSW of Julian, CA",earthquake,0.13,0.41,0.198,26,automatic,ci,ci
@@ -352,6 +354,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-13T20:08:16.271Z,31.723,-104.364,7.3944,1.7,ml,16,85,0.1,0.3,tx,tx2025hfxe,2025-04-14T13:39:31.140Z,"50 km S of Whites City, New Mexico",earthquake,0.545637479363,0.89266594953845,0.1,13,reviewed,tx,tx
 2025-04-13T20:07:35.200Z,36.717166900635,-121.14666748047,-0.5799999833107,1.96,md,29,67,0.06047,0.2,nc,nc75164781,2025-04-13T21:57:16.352Z,"17 km SE of Tres Pinos, CA",earthquake,0.33,1.84000003,0.22,28,automatic,nc,nc
 2025-04-13T20:03:22.700Z,-26.0294,-178.3209,271,6.5,mww,98,27,3.222,0.95,us,us6000q5tp,2025-04-14T19:23:43.040Z,"south of the Fiji Islands",earthquake,9.71,1.94,0.045,48,reviewed,us,us
-2025-04-13T20:02:39.130Z,38.793998718262,-122.75783538818,2.9300000667572,0.58,md,7,135,0.006777,0.01,nc,nc75164776,2025-04-13T21:37:16.219Z,"2 km N of The Geysers, CA",earthquake,0.55,2.01999998,0.24,7,automatic,nc,nc
-2025-04-13T20:02:29.685Z,19.8059,95.5564,7.649,4.7,mwr,48,91,1.516,0.98,us,us6000q5tq,2025-04-13T20:38:09.040Z,"22 km S of Taungdwingyi, Burma (Myanmar)",earthquake,5.31,4.359,0.073,18,reviewed,us,us
-2025-04-13T20:02:24.420Z,32.7143333,-115.4516667,14.06,1.52,ml,9,250,0.09083,0.21,ci,ci40925199,2025-04-14T16:01:03.462Z,"6 km NE of Calexico, CA",earthquake,0.88,1.55,0.244,9,reviewed,ci,ci
