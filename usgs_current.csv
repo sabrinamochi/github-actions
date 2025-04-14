@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-14T21:39:22.360Z,38.777332305908,-122.75949859619,1.1900000572205,0.74,md,9,83,0.008212,0.02,nc,nc75165411,2025-04-14T21:40:58.005Z,"0 km WNW of The Geysers, CA",earthquake,0.32,0.569999993,0.34,10,automatic,nc,nc
 2025-04-14T21:32:05.420Z,33.1596667,-116.7065,13.47,0.79,ml,4,216,0.1205,0.1,ci,ci40927231,2025-04-14T21:36:44.139Z,"10 km SSE of Lake Henshaw, CA",earthquake,5.32,5.09,0.21,16,automatic,ci,ci
 2025-04-14T21:31:04.145Z,36.2579,-115.0506,2,1.6,ml,14,300.53,0.261,0.2999,nn,nn00896223,2025-04-14T21:33:43.995Z,"1 km NNE of Nellis Air Force Base, Nevada",earthquake,,17.8,0.33,11,automatic,nn,nn
 2025-04-14T21:26:01.390Z,34.068,-117.2995,14.2,1.11,ml,19,231,0.09746,0.17,ci,ci40927223,2025-04-14T21:29:45.101Z,"2 km ESE of Colton, CA",earthquake,0.55,0.88,0.273,34,automatic,ci,ci
@@ -54,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-14T19:02:52.170Z,46.0135,-112.45566666667,-2,1.28,ml,6,137,0.06867,0.08,mb,mb90078673,2025-04-14T20:15:25.650Z,"6 km E of Butte, Montana",quarry blast,0.43,31.61,0.22864757721803,12,reviewed,mb,mb
 2025-04-14T19:02:25.250Z,33.0503349,-116.5858307,14.3,1.24,ml,31,75,0.03211,0.2,ci,ci40926855,2025-04-14T19:04:31.671Z,"4 km SSE of Julian, CA",earthquake,0.37,0.72,0.358,9,automatic,ci,ci
 2025-04-14T19:01:21.160Z,44.516,-115.213,9.93,2.18,ml,15,85,0.4869,0.13,mb,mb90078668,2025-04-14T20:02:11.090Z,"39 km NNW of Stanley, Idaho",earthquake,0.37,0.7,0.18466197088039,17,reviewed,mb,mb
+2025-04-14T19:00:32.360Z,33.0863333,-116.5215,8.92,0.55,ml,18,105,0.06407,0.2,ci,ci40926847,2025-04-14T21:41:29.619Z,"8 km E of Julian, CA",earthquake,0.37,0.99,0.105,9,automatic,ci,ci
 2025-04-14T18:59:46.130Z,33.0396667,-116.5836667,13.4,0.71,ml,38,45,0.04282,0.18,ci,ci40926839,2025-04-14T21:40:43.159Z,"5 km SSE of Julian, CA",earthquake,0.2,0.46,0.143,13,automatic,ci,ci
 2025-04-14T18:57:52.590Z,33.048,-116.5883333,14.03,1.28,ml,57,22,0.03379,0.21,ci,ci40926831,2025-04-14T20:26:28.766Z,"4 km SSE of Julian, CA",earthquake,0.2,0.46,0.248,27,automatic,ci,ci
 2025-04-14T18:56:48.590Z,34.8481667,-118.7601667,-0.42,1.38,ml,16,198,0.07187,0.21,ci,ci40926823,2025-04-14T19:22:19.691Z,"10 km E of Lebec, CA",earthquake,0.8,0.63,0.21,28,automatic,ci,ci
@@ -75,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-14T18:31:40.470Z,33.0541667,-116.604,13.51,0.96,ml,26,71,0.02728,0.19,ci,ci40926695,2025-04-14T20:41:49.838Z,"3 km S of Julian, CA",earthquake,0.28,0.56,0.213,21,automatic,ci,ci
 2025-04-14T18:30:27.340Z,33.0558319,-116.5978317,13.05,0.96,ml,20,79,0.02508,0.18,ci,ci40926687,2025-04-14T19:39:28.526Z,"3 km S of Julian, CA",earthquake,0.39,0.82,0.347,8,automatic,ci,ci
 2025-04-14T18:28:48.180Z,33.0643333,-116.6048333,16.35,0.92,ml,8,263,0.1076,0.14,ci,ci40926679,2025-04-14T18:49:04.157Z,"2 km S of Julian, CA",earthquake,0.96,1.01,0.114,10,automatic,ci,ci
-2025-04-14T18:28:26.340Z,33.0641667,-116.6283333,10.83,1.05,ml,37,34,0.113,0.23,ci,ci40926671,2025-04-14T18:48:18.154Z,"3 km WSW of Julian, CA",earthquake,0.28,0.67,0.152,21,automatic,ci,ci
+2025-04-14T18:28:26.340Z,33.0641667,-116.6283333,10.83,1.05,ml,37,34,0.113,0.23,ci,ci40926671,2025-04-14T21:41:20.033Z,"3 km WSW of Julian, CA",earthquake,0.28,0.67,0.152,21,automatic,ci,ci
 2025-04-14T18:27:46.226Z,60.7807,-151.7982,84.1,1.5,ml,,,,0.38,ak,ak0254sars5a,2025-04-14T18:29:57.528Z,"29 km WNW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-04-14T18:27:38.020Z,33.0211667,-116.5823333,14.04,2.11,ml,78,22,0.061,0.21,ci,ci40926663,2025-04-14T20:35:34.660Z,"7 km SSE of Julian, CA",earthquake,0.15,0.34,0.159,26,reviewed,ci,ci
 2025-04-14T18:26:07.210Z,33.0393333,-116.5905,12.35,1.92,ml,73,22,0.04195,0.19,ci,ci40926647,2025-04-14T18:47:02.535Z,"4 km SSE of Julian, CA",earthquake,0.13,0.52,0.209,26,automatic,ci,ci
