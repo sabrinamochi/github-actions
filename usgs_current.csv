@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-15T17:46:09.670Z,33.0890007,-116.1466675,17.45,0.99,ml,13,119,0.1879,0.28,ci,ci40928743,2025-04-15T17:48:30.711Z,"6 km SSW of Ocotillo Wells, CA",earthquake,0.93,1.98,0.394,4,automatic,ci,ci
+2025-04-15T17:46:10.290Z,33.0728333,-116.1376667,9.23,0.82,ml,16,118,0.1825,0.36,ci,ci40928743,2025-04-15T17:50:55.269Z,"8 km S of Ocotillo Wells, CA",earthquake,1.19,3.34,0.194,11,automatic,ci,ci
 2025-04-15T17:33:15.760Z,35.0788333,-119.0243333,10.07,1.16,ml,26,71,0.1712,0.19,ci,ci40928727,2025-04-15T17:36:47.492Z,"17 km NNW of Grapevine, CA",earthquake,0.27,0.8,0.166,20,automatic,ci,ci
 2025-04-15T17:19:34.641Z,59.5498,-152.976,91.2,1.7,ml,,,,0.31,ak,ak0254txnyew,2025-04-15T17:21:22.125Z,"63 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-15T17:19:01.696Z,61.8445,-149.6713,26.6,1.2,ml,,,,0.98,ak,ak0254txnvvn,2025-04-15T17:21:04.890Z,"22 km ENE of Willow, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T11:42:32.818Z,60.0468,-140.3657,5.3,2.4,ml,,,,1.03,ak,ak0254tu8a41,2025-04-15T11:44:46.552Z,"66 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-15T11:42:10.376Z,37.272,-117.4021,3.6,1.2,ml,14,301.16,0.116,0.3372,nn,nn00896254,2025-04-15T11:44:25.397Z,"50 km SSW of Goldfield, Nevada",earthquake,,22.4,0.14,8,automatic,nn,nn
 2025-04-15T11:41:10.280Z,37.587001800537,-121.70266723633,1.6100000143051,1.63,md,15,65,0.08763,0.09,nc,nc75165736,2025-04-15T16:05:18.636Z,"12 km SSE of Livermore, CA",earthquake,0.3,1.37,0.11,11,automatic,nc,nc
-2025-04-15T11:36:38.760Z,46.618499755859,-119.79550170898,7.0300002098083,1.5741372108459,ml,13,105,0.02279,0.0599999987,uw,uw62091601,2025-04-15T15:48:14.970Z,"11 km SE of Desert Aire, Washington",earthquake,0.26,0.270000011,0.32443258166313,8,reviewed,uw,uw
+2025-04-15T11:36:38.730Z,46.614333333333,-119.795,7.74,1.4,ml,19,70,0.02179,0.07,uw,uw62091601,2025-04-15T17:50:49.920Z,"11 km SE of Desert Aire, Washington",earthquake,0.18,0.1,0.1243144232219,18,reviewed,uw,uw
 2025-04-15T11:29:49.530Z,39.193668365479,-123.07683563232,7.7699999809265,2.33,md,28,43,0.06361,0.07,nc,nc75165726,2025-04-15T12:32:15.735Z,"10 km ENE of Talmage, CA",earthquake,0.19,0.649999976,0.12,27,automatic,nc,nc
 2025-04-15T11:25:30.960Z,61.3774,-147.3167,14.3,1.8,ml,,,,0.65,ak,ak0254tu4mso,2025-04-15T11:27:26.496Z,"51 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-15T11:23:55.510Z,33.0318333,-116.4083333,10.05,0.41,ml,25,51,0.05182,0.17,ci,ci40928223,2025-04-15T13:52:34.239Z,"19 km ESE of Julian, CA",earthquake,0.28,0.55,0.149,6,reviewed,ci,ci
@@ -387,4 +387,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-14T17:53:27.220Z,33.05,-116.5725,15.64,0.96,ml,28,58,0.03738,0.17,ci,ci40926447,2025-04-14T18:15:58.430Z,"4 km SE of Julian, CA",earthquake,0.24,0.57,0.263,18,automatic,ci,ci
 2025-04-14T17:52:46.480Z,33.0383333,-116.5943333,13.17,1.89,ml,68,22,0.04262,0.21,ci,ci40926439,2025-04-14T22:48:37.304Z,"4 km S of Julian, CA",earthquake,0.15,0.42,0.24,25,automatic,ci,ci
 2025-04-14T17:51:51.230Z,33.0365,-116.5813333,13.57,1.13,ml,50,44,0.0464,0.2,ci,ci40926431,2025-04-14T18:14:27.944Z,"5 km SSE of Julian, CA",earthquake,0.18,0.43,0.176,27,automatic,ci,ci
-2025-04-14T17:51:04.240Z,33.0523333,-116.6153333,10.15,0.63,ml,24,61,0.09823,0.22,ci,ci40926423,2025-04-14T18:13:39.936Z,"3 km SSW of Julian, CA",earthquake,0.33,0.81,0.195,12,automatic,ci,ci
