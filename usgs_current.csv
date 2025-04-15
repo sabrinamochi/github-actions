@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-15T12:09:09.570Z,35.3363333,-117.8123333,7.96,2.18,ml,50,36,0.07401,0.2,ci,ci40928279,2025-04-15T12:12:41.477Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.5,0.169,26,automatic,ci,ci
 2025-04-15T11:58:46.790Z,36.0311667,-117.779,1.65,1.32,ml,21,77,0.01262,0.16,ci,ci40928271,2025-04-15T12:02:19.414Z,"15 km E of Coso Junction, CA",earthquake,0.2,0.2,0.168,22,automatic,ci,ci
 2025-04-15T11:50:51.250Z,33.0481667,-116.5893333,14.37,1.29,ml,68,21,0.03344,0.19,ci,ci40928255,2025-04-15T12:01:34.890Z,"4 km SSE of Julian, CA",earthquake,0.15,0.33,0.294,27,automatic,ci,ci
 2025-04-15T11:49:30.810Z,33.0505,-116.6005,13.37,0.53,ml,22,47,0.09334,0.17,ci,ci40928239,2025-04-15T11:52:57.479Z,"3 km S of Julian, CA",earthquake,0.29,0.75,0.13,10,automatic,ci,ci
@@ -50,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T07:37:12.800Z,33.0341667,-116.5818333,12.99,0.16,ml,22,48,0.04852,0.17,ci,ci40927999,2025-04-15T07:51:57.077Z,"5 km SSE of Julian, CA",earthquake,0.26,0.53,0.097,4,automatic,ci,ci
 2025-04-15T07:19:55.554Z,61.8104,-146.0445,34.7,2.1,ml,,,,0.71,ak,ak0254trpnz7,2025-04-15T07:21:41.771Z,"30 km S of Tolsona, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-15T07:18:59.340Z,33.3636667,-116.7028333,10.11,1.39,ml,84,18,0.1072,0.21,ci,ci40927991,2025-04-15T07:30:24.542Z,"11 km NW of Warner Springs, CA",earthquake,0.14,0.33,0.208,25,automatic,ci,ci
+2025-04-15T06:59:00.900Z,35.22583333,-97.7985,25.72,1.45,ml,43,55,0.03239364326,0.15,ok,ok2025hiod,2025-04-15T12:17:21.046Z,"5 km W of Bridge Creek, Oklahoma",earthquake,,0.3,0.25,13,reviewed,ok,ok
 2025-04-15T06:53:26.360Z,33.0435,-116.5915,13.26,0.69,ml,43,33,0.03772,0.18,ci,ci40927975,2025-04-15T06:56:48.859Z,"4 km SSE of Julian, CA",earthquake,0.18,0.44,0.142,15,automatic,ci,ci
 2025-04-15T06:50:19.780Z,35.3356667,-117.8091667,7.16,1.11,ml,34,65,0.0744,0.19,ci,ci40927967,2025-04-15T06:53:49.664Z,"16 km WSW of Johannesburg, CA",earthquake,0.24,0.7,0.265,24,automatic,ci,ci
 2025-04-15T06:49:03.510Z,33.049,-116.5928333,13.3,0.25,ml,21,83,0.03214,0.17,ci,ci40927959,2025-04-15T06:52:25.707Z,"3 km SSE of Julian, CA",earthquake,0.26,0.56,0.07,4,automatic,ci,ci
@@ -361,7 +363,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-14T17:10:38.100Z,33.0746667,-116.6148333,14.26,2.47,ml,8,104,0.01582,0.12,ci,ci37715564,2025-04-14T23:48:39.002Z,"1 km WSW of Julian, CA",earthquake,0.41,0.7,0.21,6,reviewed,ci,ci
 2025-04-14T17:10:21.560Z,33.0736667,-116.6095,16.08,2.77,ml,17,65,0.0124,0.13,ci,ci40926023,2025-04-15T09:37:46.175Z,"1 km SW of Julian, CA",earthquake,0.24,0.53,0.107,16,reviewed,ci,ci
 2025-04-14T17:10:17.560Z,33.0535,-116.6088333,15.08,2.83,ml,37,44,0.029,0.17,ci,ci40926015,2025-04-14T22:17:44.456Z,"3 km SSW of Julian, CA",earthquake,0.21,0.47,0.198,19,reviewed,ci,ci
-2025-04-14T17:08:28.110Z,33.0358333,-116.5948333,14.29,5.21,mw,119,20,0.04508,0.21,ci,ci40925991,2025-04-15T12:02:19.573Z,"5 km S of Julian, CA",earthquake,0.12,0.3,,6,reviewed,ci,ci
+2025-04-14T17:08:28.110Z,33.0358333,-116.5948333,14.29,5.21,mw,119,20,0.04508,0.21,ci,ci40925991,2025-04-15T12:13:23.359Z,"5 km S of Julian, CA",earthquake,0.12,0.3,,6,reviewed,ci,ci
 2025-04-14T17:03:31.110Z,33.299,-116.1421667,2.14,0.79,ml,12,57,0.1323,0.13,ci,ci40925983,2025-04-14T23:13:40.818Z,"17 km W of Salton City, CA",earthquake,0.32,0.7,0.206,16,reviewed,ci,ci
 2025-04-14T16:57:47.110Z,54.145,-165.89883333333,3.83,0.14,ml,10,86,0.01092,0.26,av,av93573986,2025-04-15T01:45:15.740Z,"8 km W of Akutan, Alaska",earthquake,0.34,0.5,0.27157275315204,10,reviewed,av,av
 2025-04-14T16:57:00.100Z,33.0608333,-116.455,13.03,0.78,ml,38,49,0.09629,0.18,ci,ci40925975,2025-04-14T17:00:55.195Z,"14 km E of Julian, CA",earthquake,0.19,0.56,0.116,12,automatic,ci,ci
