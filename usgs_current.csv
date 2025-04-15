@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-15T12:19:54.100Z,35.3341667,-117.8116667,7.95,1.59,ml,40,45,0.07222,0.18,ci,ci40928287,2025-04-15T12:23:49.680Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.54,0.205,25,automatic,ci,ci
+2025-04-15T12:19:54.100Z,35.3341667,-117.8116667,7.95,1.59,ml,40,45,0.07222,0.18,ci,ci40928287,2025-04-15T12:30:47.040Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.54,0.205,25,automatic,ci,ci
 2025-04-15T12:09:09.570Z,35.3363333,-117.8123333,7.96,2.18,ml,50,36,0.07401,0.2,ci,ci40928279,2025-04-15T12:20:03.140Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.5,0.169,26,automatic,ci,ci
 2025-04-15T11:58:46.790Z,36.0311667,-117.779,1.65,1.32,ml,21,77,0.01262,0.16,ci,ci40928271,2025-04-15T12:02:19.414Z,"15 km E of Coso Junction, CA",earthquake,0.2,0.2,0.168,22,automatic,ci,ci
 2025-04-15T11:50:51.250Z,33.0481667,-116.5893333,14.37,1.29,ml,68,21,0.03344,0.19,ci,ci40928255,2025-04-15T12:01:34.890Z,"4 km SSE of Julian, CA",earthquake,0.15,0.33,0.294,27,automatic,ci,ci
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T11:42:32.818Z,60.0468,-140.3657,5.3,2.4,ml,,,,1.03,ak,ak0254tu8a41,2025-04-15T11:44:46.552Z,"66 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-15T11:42:10.376Z,37.272,-117.4021,3.6,1.2,ml,14,301.16,0.116,0.3372,nn,nn00896254,2025-04-15T11:44:25.397Z,"50 km SSW of Goldfield, Nevada",earthquake,,22.4,0.14,8,automatic,nn,nn
 2025-04-15T11:41:10.280Z,37.587001800537,-121.70266723633,1.6100000143051,1.63,md,15,65,0.08763,0.09,nc,nc75165736,2025-04-15T11:57:18.507Z,"12 km SSE of Livermore, CA",earthquake,0.3,1.37,0.11,11,automatic,nc,nc
-2025-04-15T11:29:49.530Z,39.193668365479,-123.07683563232,7.7699999809265,2.33,md,28,43,0.06361,0.07,nc,nc75165726,2025-04-15T11:37:18.358Z,"10 km ENE of Talmage, CA",earthquake,0.19,0.649999976,0.12,27,automatic,nc,nc
+2025-04-15T11:29:49.530Z,39.193668365479,-123.07683563232,7.7699999809265,2.33,md,28,43,0.06361,0.07,nc,nc75165726,2025-04-15T12:32:15.735Z,"10 km ENE of Talmage, CA",earthquake,0.19,0.649999976,0.12,27,automatic,nc,nc
 2025-04-15T11:25:30.960Z,61.3774,-147.3167,14.3,1.8,ml,,,,0.65,ak,ak0254tu4mso,2025-04-15T11:27:26.496Z,"51 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-15T11:23:55.510Z,33.0318333,-116.4083333,10.05,0.41,ml,25,51,0.05182,0.17,ci,ci40928223,2025-04-15T11:28:40.329Z,"19 km ESE of Julian, CA",earthquake,0.28,0.55,0.149,6,automatic,ci,ci
 2025-04-15T11:22:33.624Z,-16.7724,-23.4304,10,5.1,mb,74,62,12.472,0.71,us,us6000q64r,2025-04-15T11:42:00.040Z,"South Atlantic Ocean",earthquake,10.26,1.863,0.049,135,reviewed,us,us
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T06:04:48.340Z,33.6545,-116.7506667,13.86,0.83,ml,46,38,0.0657,0.18,ci,ci40927919,2025-04-15T06:19:05.686Z,"10 km SSW of Idyllwild, CA",earthquake,0.17,0.33,0.214,29,automatic,ci,ci
 2025-04-15T05:50:55.160Z,35.3335,-117.8101667,7,1.11,ml,32,66,0.07209,0.19,ci,ci40927911,2025-04-15T05:54:27.797Z,"16 km WSW of Johannesburg, CA",earthquake,0.26,0.53,0.215,22,automatic,ci,ci
 2025-04-15T05:41:53.390Z,34.0091667,-117.194,14.3,0.65,ml,29,53,0.07267,0.21,ci,ci40927903,2025-04-15T05:45:20.247Z,"5 km SSW of Redlands, CA",earthquake,0.31,0.58,0.099,14,automatic,ci,ci
-2025-04-15T05:36:35.036Z,32.1478,-101.0567,4.42,2.6,mb_lg,38,44,0.24,0.58,us,us6000q643,2025-04-15T09:24:23.588Z,"23 km S of Westbrook, Texas",earthquake,1.38,4.04,0.095,50,reviewed,us,us
+2025-04-15T05:36:34.411Z,32.143,-101.065,6.6162,2.6,ml,37,69,0.2,0.1,tx,tx2025hill,2025-04-15T12:32:53.910Z,"24 km SSW of Westbrook, Texas",earthquake,0.70927765469605,1.8598966351058,0.1,47,reviewed,tx,tx
 2025-04-15T05:29:45.050Z,33.1195,-116.7503333,18.36,0.94,ml,17,230,0.1164,0.17,ci,ci40927895,2025-04-15T05:34:17.500Z,"13 km NNE of San Diego Country Estates, CA",earthquake,2.18,1.07,0.12,26,automatic,ci,ci
 2025-04-15T05:22:27.950Z,38.843334197998,-122.8245010376,2.25,1.84,md,38,56,0.009801,0.04,nc,nc75165681,2025-04-15T08:37:18.148Z,"9 km WNW of Cobb, CA",earthquake,0.18,0.280000001,0.11,37,automatic,nc,nc
 2025-04-15T05:16:54.790Z,33.0796667,-116.5746667,14.2,0.64,ml,26,55,0.01926,0.21,ci,ci40927879,2025-04-15T05:21:09.579Z,"2 km E of Julian, CA",earthquake,0.31,0.54,0.162,10,automatic,ci,ci
