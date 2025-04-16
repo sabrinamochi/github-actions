@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-16T16:14:22.060Z,38.809665679932,-122.79266357422,8.5200004577637,0.32,md,7,140,0.002669,0.03,nc,nc75166356,2025-04-16T16:16:01.646Z,"5 km NNW of The Geysers, CA",earthquake,1.43,4.07999992,0.1,9,automatic,nc,nc
 2025-04-16T16:10:10.530Z,38.812000274658,-122.8304977417,1.039999961853,0.62,md,8,71,0.003293,0.02,nc,nc75166351,2025-04-16T16:11:46.528Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.899999976,0.18,7,automatic,nc,nc
 2025-04-16T15:52:06.760Z,38.792499542236,-122.75616455078,0.43000000715256,0.75,md,8,138,0.008574,0.03,nc,nc75166336,2025-04-16T15:53:40.512Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.689999998,0.15,8,automatic,nc,nc
 2025-04-16T15:44:03.210Z,40.361667633057,-125.12266540527,-0.15000000596046,2.96,ml,44,262,0.6009,0.49,nc,nc75166331,2025-04-16T16:01:51.638Z,"71 km WNW of Petrolia, CA",earthquake,5.02,11.2399998,0.139,4,automatic,nc,nc
@@ -155,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T01:30:54.200Z,33.0338333,-116.5881667,14,1.04,ml,54,33,0.04767,0.19,ci,ci40929447,2025-04-16T14:03:31.950Z,"5 km SSE of Julian, CA",earthquake,0.17,0.35,0.147,25,reviewed,ci,ci
 2025-04-16T01:27:49.181Z,61.1711,-151.5562,71.4,1.1,ml,,,,0.17,ak,ak0254vbq42u,2025-04-16T01:29:05.693Z,"25 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-16T01:26:17.070Z,38.79666519165,-122.77549743652,3.079999923706,1.1,md,20,74,0.01031,0.02,nc,nc75165986,2025-04-16T04:47:19.142Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.589999974,0.14,20,automatic,nc,nc
-2025-04-16T01:26:09.783Z,37.6137,16.1457,48.482,4.7,mb,97,111,2.2,0.89,us,us6000q6cn,2025-04-16T16:11:03.974Z,"37 km SSE of Palizzi Marina, Italy",earthquake,6.85,7.963,0.063,77,reviewed,us,us
+2025-04-16T01:26:09.783Z,37.6137,16.1457,48.482,4.7,mb,97,111,2.2,0.89,us,us6000q6cn,2025-04-16T16:16:14.785Z,"37 km SSE of Palizzi Marina, Italy",earthquake,6.85,7.963,0.063,77,reviewed,us,us
 2025-04-16T01:16:33.680Z,34.2241667,-117.4613333,9.92,0.81,ml,31,51,0.02003,0.16,ci,ci40929431,2025-04-16T01:20:16.053Z,"5 km SE of Lytle Creek, CA",earthquake,0.3,0.34,0.139,22,automatic,ci,ci
 2025-04-16T01:15:49.670Z,36.0095,-117.9121667,2.46,0.22,ml,8,181,0.01774,0.14,ci,ci40929439,2025-04-16T16:12:05.944Z,"5 km SE of Coso Junction, CA",earthquake,0.49,0.28,0.165,4,reviewed,ci,ci
 2025-04-16T01:15:01.530Z,38.787334442139,-122.7679977417,1.8300000429153,0.74,md,11,81,0.01477,0.02,nc,nc75165976,2025-04-16T01:42:18.880Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.620000005,0.09,10,automatic,nc,nc
@@ -259,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T16:23:04.600Z,40.569332122803,-122.13449859619,16.229999542236,2.02,md,6,129,0.05821,0.03,nc,nc75165816,2025-04-15T16:57:20.487Z,"5 km E of Millville, CA",earthquake,0.79,1.17999995,0.08,9,automatic,nc,nc
 2025-04-15T16:19:29.370Z,33.2675,-116.4465,2.09,1.06,ml,63,28,0.02459,0.2,ci,ci40928623,2025-04-15T18:20:29.090Z,"7 km W of Borrego Springs, CA",earthquake,0.13,0.26,0.148,26,reviewed,ci,ci
 2025-04-15T16:17:14.180Z,33.0951667,-116.6218333,14.47,0.7,ml,32,52,0.02481,0.18,ci,ci40928615,2025-04-15T16:33:08.398Z,"3 km NW of Julian, CA",earthquake,0.24,0.48,0.211,16,automatic,ci,ci
-2025-04-15T16:15:35.680Z,33.0521667,-116.6041667,12.49,1.28,ml,53,27,0.02927,0.18,ci,ci40928607,2025-04-15T18:19:03.734Z,"3 km S of Julian, CA",earthquake,0.15,0.39,0.189,26,reviewed,ci,ci
-2025-04-15T16:15:02.410Z,33.7623333,-116.0881667,1.54,0.98,ml,9,113,0.1117,0.1,ci,ci40928599,2025-04-15T16:18:32.459Z,"12 km NE of Coachella, CA",earthquake,0.27,0.43,0.119,17,automatic,ci,ci
