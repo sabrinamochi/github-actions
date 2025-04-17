@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T21:30:20.440Z,33.0531667,-116.5891667,14.62,0.82,ml,9,261,0.1501,0.18,ci,ci40931543,2025-04-17T21:34:08.718Z,"3 km SSE of Julian, CA",earthquake,2.53,1.35,0.216,13,automatic,ci,ci
+2025-04-17T21:29:09.070Z,33.0271667,-116.5555,21.89,1.76,ml,8,146,0.1847,0.17,ci,ci40931535,2025-04-17T21:32:42.714Z,"7 km SE of Julian, CA",earthquake,0.76,3.07,0.431,20,automatic,ci,ci
 2025-04-17T21:26:08.669Z,64.8948,-148.9715,13.4,1.3,ml,,,,0.76,ak,ak0254xb5ttu,2025-04-17T21:28:16.590Z,"33 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-17T21:24:47.800Z,38.82149887085,-122.80016326904,3.2200000286102,0.76,md,6,111,0.01403,0.01,nc,nc75167251,2025-04-17T21:26:26.070Z,"6 km NNW of The Geysers, CA",earthquake,0.58,2.19000006,0.06,7,automatic,nc,nc
 2025-04-17T21:19:49.843Z,38.7139,-117.1447,8.3,1.8,ml,8,160.46,0.493,0.4462,nn,nn00896385,2025-04-17T21:22:46.519Z,"55 km S of Kingston, Nevada",earthquake,,1.9,0.62,4,automatic,nn,nn
@@ -6,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T20:52:00.560Z,33.5321667,-116.7221667,6.06,0.8,ml,20,41,0.03547,0.18,ci,ci40931487,2025-04-17T20:55:35.612Z,"5 km WSW of Anza, CA",earthquake,0.25,0.54,0.293,21,automatic,ci,ci
 2025-04-17T20:31:06.860Z,19.4235,-156.2735,36.81,2.82,ml,55,257,0.333,0.15,hv,hv74655337,2025-04-17T20:59:11.950Z,"36 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,0.53,1.2,0.1660845528215,26,reviewed,hv,hv
 2025-04-17T20:23:07.540Z,38.835498809815,-122.80816650391,2.2799999713898,1.59,md,33,35,0.01218,0.02,nc,nc75167241,2025-04-17T21:12:17.164Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.1,34,automatic,nc,nc
+2025-04-17T20:09:36.764Z,-7.0193,130.5309,80.933,4.4,mb,29,48,2.558,0.55,us,us6000q6vn,2025-04-17T21:38:32.040Z,"289 km WSW of Tual, Indonesia",earthquake,9.53,7.898,0.143,14,reviewed,us,us
 2025-04-17T20:03:55.260Z,33.195,-115.601,1.64,1.97,ml,28,88,0.02136,0.28,ci,ci40931455,2025-04-17T20:10:47.151Z,"9 km WSW of Niland, CA",earthquake,0.36,0.51,0.188,28,automatic,ci,ci
 2025-04-17T20:03:52.110Z,40.316665649414,-124.82416534424,8.1899995803833,2.28,md,12,309,0.3694,0.05,nc,nc75167231,2025-04-17T21:07:19.139Z,"46 km W of Petrolia, CA",earthquake,6.48,4.94999981,0.03,10,automatic,nc,nc
 2025-04-17T20:03:34.290Z,38.835834503174,-122.80816650391,2.2200000286102,0.22,md,7,156,0.01251,0.02,nc,nc75167226,2025-04-17T21:07:18.138Z,"8 km WNW of Cobb, CA",earthquake,0.86,1.45000005,0.04,7,automatic,nc,nc
@@ -201,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T02:11:51.132Z,52.3872,-174.533,215.192,4,mb,32,117,0.173,0.7,us,us6000q6va,2025-04-17T21:30:29.040Z,"31 km NW of Atka, Alaska",earthquake,13.08,6.758,0.212,6,reviewed,us,us
 2025-04-17T02:01:24.270Z,33.2531667,-116.267,11.52,1.34,ml,55,36,0.06129,0.22,ci,ci40930727,2025-04-17T13:52:19.110Z,"10 km E of Borrego Springs, CA",earthquake,0.21,0.39,0.136,26,reviewed,ci,ci
 2025-04-17T02:01:06.197Z,61.0302,-151.2107,69.2,1.8,ml,,,,0.32,ak,ak0254wzp8bl,2025-04-17T20:08:45.065Z,"5 km SW of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2025-04-17T01:50:25.360Z,47.401,-113.0035,8.07,2.8,ml,35,86,0.3369,0.1,mb,mb90079043,2025-04-17T14:08:51.810Z,"43 km NNE of Ovando, Montana",earthquake,0.21,0.71,0.2495979903496,56,reviewed,mb,mb
+2025-04-17T01:50:24.955Z,47.3924,-113.0113,6.561,2.5,ml,40,48,0.328,0.43,us,us6000q6n9,2025-04-17T21:32:23.040Z,"42 km NNE of Ovando, Montana",earthquake,1.39,5.109,0.05,52,reviewed,us,us
 2025-04-17T01:49:30.070Z,38.836334228516,-122.81883239746,2.4400000572205,0.65,md,9,84,0.0132,0.01,nc,nc75166586,2025-04-17T03:32:19.077Z,"8 km WNW of Cobb, CA",earthquake,0.54,1.35000002,0.38,10,automatic,nc,nc
 2025-04-17T01:38:06.710Z,38.808834075928,-122.7748336792,0.12999999523163,0.36,md,7,114,0.006358,0.02,nc,nc75166581,2025-04-17T01:57:17.556Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.769999981,0.15,9,automatic,nc,nc
 2025-04-17T01:31:46.933Z,38.1693,-117.8933,11.7,1.5,ml,13,107.95,0.078,0.1099,nn,nn00896332,2025-04-17T17:34:33.006Z,"30 km SE of Mina, Nevada",earthquake,,1.3,0.44,6,reviewed,nn,nn
