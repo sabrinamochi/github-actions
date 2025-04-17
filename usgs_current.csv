@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T12:30:53.480Z,38.779998779297,-122.75849914551,0.73000001907349,1.1,md,18,61,0.01086,0.05,nc,nc75166971,2025-04-17T12:32:29.281Z,"0 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.15,19,automatic,nc,nc
 2025-04-17T12:11:23.753Z,39.0672,-119.0233,9.2,1.3,ml,12,144.25,0.102,0.1303,nn,nn00896347,2025-04-17T12:13:55.113Z,"15 km NE of Yerington, Nevada",earthquake,,0.7,0.12,5,automatic,nn,nn
 2025-04-17T12:02:31.080Z,40.306667327881,-124.42400360107,11.090000152588,1.87,md,9,309,0.06488,0.01,nc,nc75166961,2025-04-17T12:04:09.761Z,"12 km W of Petrolia, CA",earthquake,2.95,0.980000019,0.21,8,automatic,nc,nc
 2025-04-17T12:00:02.890Z,38.833667755127,-122.78283691406,-0.03999999910593,0.28,md,8,74,0.01024,0.02,nc,nc75166951,2025-04-17T12:01:39.671Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.910000026,0.12,8,automatic,nc,nc
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T11:03:44.920Z,35.3285,-117.8118333,9.13,1.05,ml,21,113,0.06698,0.13,ci,ci40931063,2025-04-17T11:07:08.746Z,"17 km WSW of Johannesburg, CA",earthquake,0.23,0.43,0.242,16,automatic,ci,ci
 2025-04-17T11:01:24.864Z,62.6417,-151.3267,89.4,2.2,ml,,,,0.67,ak,ak0254x5264m,2025-04-17T11:03:54.188Z,"33 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-17T10:49:40.176Z,61.9531,-150.5697,42,2,ml,,,,0.57,ak,ak0254x4r22p,2025-04-17T10:51:55.291Z,"36 km NW of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-04-17T10:37:31.290Z,38.792999267578,-122.77833557129,2.9100000858307,0.81,md,22,78,0.00749,0.04,nc,nc75166896,2025-04-17T11:32:17.211Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.50999999,0.27,21,automatic,nc,nc
+2025-04-17T10:37:31.290Z,38.792999267578,-122.77833557129,2.9100000858307,0.81,md,22,78,0.00749,0.04,nc,nc75166896,2025-04-17T12:32:17.639Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.50999999,0.27,21,automatic,nc,nc
 2025-04-17T10:31:41.000Z,33.0465,-116.588,14.38,1.66,ml,62,29,0.03531,0.2,ci,ci40931039,2025-04-17T10:42:41.350Z,"4 km SSE of Julian, CA",earthquake,0.18,0.36,0.333,27,automatic,ci,ci
 2025-04-17T10:30:57.860Z,33.8246667,-117.6775,3.1,1.48,ml,68,47,0.05141,0.19,ci,ci40931031,2025-04-17T10:34:55.289Z,"11 km WSW of Corona, CA",earthquake,0.13,0.2,0.112,29,automatic,ci,ci
 2025-04-17T10:27:46.250Z,38.848499298096,-122.84649658203,1.3799999952316,0.85,md,18,108,0.01311,0.02,nc,nc75166891,2025-04-17T11:22:24.144Z,"11 km WNW of Cobb, CA",earthquake,0.25,0.430000007,0.1,19,automatic,nc,nc
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T12:41:01.967Z,-32.4632,-14.187,10,5.6,mb,52,66,4.845,1.07,us,us6000q6fi,2025-04-16T15:05:07.589Z,"southern Mid-Atlantic Ridge",earthquake,10.78,1.865,0.06,99,reviewed,us,us
 2025-04-16T12:39:30.530Z,36.038,-117.774,1.34,1.61,ml,26,39,0.0146,0.15,ci,ci40929943,2025-04-16T13:45:45.313Z,"16 km E of Coso Junction, CA",earthquake,0.19,0.23,0.186,26,reviewed,ci,ci
 2025-04-16T12:38:47.070Z,36.0393333,-117.7813333,1.48,0.91,ml,17,70,0.01919,0.12,ci,ci40929935,2025-04-16T12:42:15.947Z,"15 km E of Coso Junction, CA",earthquake,0.22,0.26,0.147,16,automatic,ci,ci
-2025-04-16T12:29:24.210Z,33.447,-116.5928333,7.85,0.79,ml,39,42,0.04469,0.16,ci,ci40929919,2025-04-16T12:33:10.174Z,"14 km SSE of Anza, CA",earthquake,0.19,0.35,0.125,24,automatic,ci,ci
