@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-21T20:44:57.790Z,38.81816482544,-122.76533508301,2.4100000858307,0.99,md,10,108,0.0128,0.03,nc,nc75169396,2025-04-21T20:46:34.540Z,"4 km W of Cobb, CA",earthquake,0.38,0.810000002,0.2,11,automatic,nc,nc
+2025-04-21T21:05:01.033Z,62.9349,-150.6782,91.8,2.2,ml,,,,0.66,ak,ak02553x6p4q,2025-04-21T21:07:03.097Z,"49 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-04-21T20:44:57.790Z,38.81816482544,-122.76533508301,2.4100000858307,0.99,md,10,108,0.0128,0.03,nc,nc75169396,2025-04-21T21:07:18.454Z,"4 km W of Cobb, CA",earthquake,0.38,0.810000002,0.2,11,automatic,nc,nc
 2025-04-21T20:41:49.719Z,37.4269,-116.2898,16,0.9,ml,10,227.51,0.219,0.4129,nn,nn00896641,2025-04-21T20:43:54.736Z,"53 km WSW of Rachel, Nevada",earthquake,,1.1,1.27,6,automatic,nn,nn
 2025-04-21T20:37:03.203Z,39.074,-119.0138,8.8,1.7,ml,12,125.97,0.097,0.149,nn,nn00896640,2025-04-21T20:39:35.172Z,"16 km NE of Yerington, Nevada",earthquake,,0.7,0.34,5,automatic,nn,nn
 2025-04-21T20:33:34.594Z,60.642,-151.8918,76.6,1.7,ml,,,,0.13,ak,ak02553wrc7n,2025-04-21T20:34:51.668Z,"31 km W of Salamatof, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -108,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T08:39:55.610Z,33.762,-116.073,6.68,0.85,ml,39,87,0.1111,0.14,ci,ci40935255,2025-04-21T14:37:54.660Z,"13 km NE of Coachella, CA",earthquake,0.15,0.56,0.089,16,reviewed,ci,ci
 2025-04-21T08:38:10.010Z,33.7975,-116.4373333,12.08,1.01,ml,58,39,0.0608,0.16,ci,ci40935247,2025-04-21T08:41:46.663Z,"3 km NE of Cathedral City, CA",earthquake,0.14,0.46,0.141,25,automatic,ci,ci
 2025-04-21T08:38:05.056Z,32.129,-102.203,7.0068,1,ml,21,84,0,0.1,tx,tx2025htql,2025-04-21T19:11:23.885Z,"18 km NW of Midland, Texas",earthquake,0.61598923029599,1.1811119652311,0.2,22,reviewed,tx,tx
+2025-04-21T08:34:59.500Z,61.309166666667,-152.24433333333,5.35,-0.64,ml,7,120,0.06149,0.18,av,av93582181,2025-04-21T21:07:57.600Z,"65 km WNW of Beluga, Alaska",earthquake,0.66,1.83,0.25874220829377,7,reviewed,av,av
 2025-04-21T08:30:18.560Z,37.161,-121.5725,5.69,0.53,md,17,48,0.04317,0.13,nc,nc75169136,2025-04-21T18:57:23.592Z,"8 km ENE of Morgan Hill, CA",earthquake,0.35,0.76,0.176,11,reviewed,nc,nc
 2025-04-21T08:25:29.760Z,38.795501708984,-122.81016540527,3.1800000667572,0.97,md,15,86,0.00906,0.02,nc,nc75169126,2025-04-21T08:42:19.447Z,"5 km NW of The Geysers, CA",earthquake,0.32,0.800000012,0.21,17,automatic,nc,nc
 2025-04-21T08:21:05.450Z,33.587,-116.8228333,13.55,0.83,ml,44,26,0.04768,0.16,ci,ci40935231,2025-04-21T14:37:58.220Z,"14 km WNW of Anza, CA",earthquake,0.16,0.34,0.243,24,reviewed,ci,ci
@@ -225,6 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-20T21:19:27.601Z,37.3482,-117.1947,4.2,1,ml,18,187.17,0.071,0.2027,nn,nn00896574,2025-04-20T21:21:57.442Z,"40 km S of Goldfield, Nevada",earthquake,,2.2,0.44,11,automatic,nn,nn
 2025-04-20T21:15:27.550Z,34.0111667,-117.1243333,16.95,1.23,ml,48,40,0.02619,0.16,ci,ci40934695,2025-04-21T14:47:23.770Z,"7 km S of Mentone, CA",earthquake,0.17,0.4,0.297,30,reviewed,ci,ci
 2025-04-20T21:14:46.387Z,43.4726,-110.5874,6.224,2.9,ml,78,38,0.122,0.39,us,us6000q7fp,2025-04-21T17:26:12.660Z,"14 km E of Jackson, Wyoming",earthquake,2.84,5.457,0.03,143,reviewed,us,us
-2025-04-20T21:08:21.310Z,44.569333333333,-112.48466666667,8,1.8,ml,13,106,0.06889,0.06,mb,mb90079398,2025-04-21T17:07:12.430Z,"11 km SE of Lima, Montana",earthquake,0.3,0.62,0.16937390529955,29,reviewed,mb,mb
-2025-04-20T21:06:43.240Z,34.0121667,-117.1218333,17.39,2.01,ml,113,16,0.02453,0.18,ci,ci40934687,2025-04-21T14:48:27.450Z,"6 km S of Mentone, CA",earthquake,0.12,0.28,0.202,24,reviewed,ci,ci
-2025-04-20T21:02:50.670Z,38.840000152588,-122.82399749756,1.7300000190735,0.76,md,16,67,0.009083,0.02,nc,nc75168956,2025-04-20T23:17:19.726Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.550000012,0.09,17,automatic,nc,nc
