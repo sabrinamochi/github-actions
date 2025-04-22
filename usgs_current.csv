@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-22T00:15:19.610Z,33.2470016,-116.5228348,21.15,0.99,ml,16,100,0.09103,0.3,ci,ci40936511,2025-04-22T00:18:49.016Z,"11 km ESE of Warner Springs, CA",earthquake,0.89,2.24,0.254,3,automatic,ci,ci
 2025-04-21T23:51:43.889Z,64.9782,-147.3994,0.1,1.3,ml,,,,0.3,ak,ak02553ynims,2025-04-21T23:53:45.835Z,"10 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-21T23:46:38.736Z,39.5451,-119.5168,15.9,1.5,ml,12,107.03,0.216,0.3069,nn,nn00896649,2025-04-22T00:07:41.659Z,"20 km SE of Spanish Springs, Nevada",explosion,,1.5,0.34,5,automatic,nn,nn
 2025-04-21T23:39:50.660Z,34.6471667,-117.4268333,3.95,1.29,ml,34,45,0.09665,0.19,ci,ci40936471,2025-04-21T23:43:48.526Z,"7 km NNW of Adelanto, CA",earthquake,0.2,0.88,0.21,29,automatic,ci,ci
@@ -197,7 +198,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T04:01:25.252Z,36.7847,-115.9701,3,-0.5,ml,14,124,0.026,0.0747,nn,nn00896625,2025-04-21T14:18:35.496Z,"35 km NW of Indian Springs, Nevada",earthquake,,2.5,0.2,3,reviewed,nn,nn
 2025-04-21T04:00:44.964Z,39.4702,-119.4612,4.3,1.2,ml,12,102.62,0.281,0.2779,nn,nn00896592,2025-04-21T04:02:49.490Z,"13 km NW of Stagecoach, Nevada",earthquake,,2,0.16,5,automatic,nn,nn
 2025-04-21T03:59:36.180Z,38.840831756592,-122.82366943359,2.2000000476837,1.37,md,25,67,0.009497,0.02,nc,nc75169086,2025-04-21T05:47:16.309Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.370000005,0.09,26,automatic,nc,nc
-2025-04-21T03:59:21.014Z,38.6366,-117.2102,4.3,1.5,ml,9,178.63,0.481,0.3451,nn,nn00896591,2025-04-21T04:02:08.223Z,"63 km N of Tonopah, Nevada",earthquake,,1.3,0.4,7,automatic,nn,nn
 2025-04-21T03:55:56.066Z,39.4669,-119.4727,13.5,1.1,ml,18,127.56,0.193,0.1793,nn,nn00896624,2025-04-21T14:15:28.434Z,"13 km NW of Stagecoach, Nevada",earthquake,,1.8,0.2,9,reviewed,nn,nn
 2025-04-21T03:55:04.754Z,39.4667,-119.4718,12.6,1.6,ml,20,127.6,0.194,0.1889,nn,nn00896623,2025-04-21T14:09:17.262Z,"13 km NW of Stagecoach, Nevada",earthquake,,1.9,0.25,10,reviewed,nn,nn
 2025-04-21T03:54:48.619Z,39.4772,-119.4516,6.6,1.4,ml,13,144.95,0.238,0.2269,nn,nn00896589,2025-04-21T03:56:59.575Z,"13 km NNW of Stagecoach, Nevada",earthquake,,1.5,0.16,7,automatic,nn,nn
@@ -244,7 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T01:07:51.272Z,32.5602,93.3544,10,4.7,mb,88,64,8.445,0.8,us,us6000q7ge,2025-04-21T01:52:50.040Z,"171 km NE of Nagqu, China",earthquake,7.16,1.808,0.042,174,reviewed,us,us
 2025-04-21T00:55:46.010Z,35.6853333,-117.5335,7.94,1.03,ml,26,44,0.09164,0.19,ci,ci40934927,2025-04-21T19:13:00.132Z,"15 km ENE of Ridgecrest, CA",earthquake,0.23,0.9,0.16,17,reviewed,ci,ci
 2025-04-21T00:55:23.240Z,38.78783416748,-122.76983642578,3.170000076294,0.78,md,9,100,0.0151,0.01,nc,nc75169026,2025-04-21T02:52:18.206Z,"2 km NNW of The Geysers, CA",earthquake,0.49,1.33000004,0.13,11,automatic,nc,nc
-2025-04-21T00:32:59.800Z,32.8308333,-116.1316667,8.68,1.08,ml,36,48,0.04853,0.21,ci,ci40934903,2025-04-21T00:36:27.463Z,"17 km NW of Ocotillo, CA",earthquake,0.2,0.67,0.191,22,automatic,ci,ci
-2025-04-21T00:31:56.460Z,37.456333333333,-121.23266666667,7.59,1.26,md,19,74,0.08154,0.12,nc,nc75169016,2025-04-21T07:07:16.812Z,"9 km W of Patterson, CA",earthquake,0.38,0.54,0.168,13,reviewed,nc,nc
-2025-04-21T00:28:22.700Z,58.117833333333,-156.33966666667,4.24,1.03,ml,12,156,0.3118,0.29,av,av93581881,2025-04-21T16:53:25.810Z,"61 km E of Egegik, Alaska",earthquake,0.89,1.54,0.27736066756725,12,reviewed,av,av
-2025-04-21T00:27:44.600Z,33.0358333,-116.5838333,12.65,1.01,ml,44,34,0.04647,0.19,ci,ci40934895,2025-04-21T14:43:34.914Z,"5 km SSE of Julian, CA",earthquake,0.2,0.47,0.173,26,reviewed,ci,ci
