@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-22T16:34:43.823Z,35.67368698,-97.40330505,5.030457497,1.73,ml,12,79.38851929,0.1270049065,0.2569673407,ok,ok2025hwbr,2025-04-22T16:41:03.231Z,"6 km W of Arcadia, Oklahoma",earthquake,3.336940956,4.9301967,0.24,5,automatic,ok,ok
-2025-04-22T16:34:05.610Z,33.9905,-116.434,7.76,1.06,ml,47,34,0.05394,0.2,ci,ci40937279,2025-04-22T16:44:31.610Z,"7 km ENE of Desert Hot Springs, CA",earthquake,0.19,0.55,0.136,25,automatic,ci,ci
+2025-04-22T16:34:05.610Z,33.9905,-116.434,7.76,1.06,ml,47,34,0.05394,0.2,ci,ci40937279,2025-04-22T16:45:19.340Z,"7 km ENE of Desert Hot Springs, CA",earthquake,0.19,0.55,0.136,25,automatic,ci,ci
 2025-04-22T15:38:15.677Z,59.5333,-152.624,72.6,1.9,ml,,,,0.32,ak,ak02555hcjsv,2025-04-22T15:40:16.855Z,"44 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-22T15:35:58.980Z,36.655834197998,-121.07416534424,9.8999996185303,1.42,md,24,104,0.02919,0.19,nc,nc75169791,2025-04-22T16:17:19.025Z,"15 km NE of Pinnacles, CA",earthquake,0.45,0.910000026,0.15,15,automatic,nc,nc
 2025-04-22T15:33:28.010Z,37.531665802002,-118.87599945068,5.4299998283386,0.76,md,8,206,0.06916,0.03,nc,nc75169786,2025-04-22T16:07:17.960Z,"15 km SSE of Mammoth Lakes, CA",earthquake,1.18,3.30999994,0.14,7,automatic,nc,nc
@@ -87,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-22T06:53:36.118Z,31.624,-104.503,7.8174,2.2,ml,27,75,0,0.1,tx,tx2025hvin,2025-04-22T15:08:56.379Z,"62 km S of Whites City, New Mexico",earthquake,0.7266632670727,0.50278948916447,0.1,24,reviewed,tx,tx
 2025-04-22T06:49:58.338Z,62.9865,-150.8912,40.2,1.8,ml,,,,1.38,ak,ak02555c23ix,2025-04-22T06:52:23.717Z,"55 km N of Petersville, Alaska",earthquake,,8.6,,,automatic,ak,ak
 2025-04-22T06:42:10.810Z,32.105,-101.931,7.4463,1.2,ml,19,68,0.1,0.1,tx,tx2025hvic,2025-04-22T16:31:45.966Z,"13 km WSW of Stanton, Texas",earthquake,1.2315584080087,1.5006897687106,0.2,21,reviewed,tx,tx
+2025-04-22T06:40:56.120Z,39.243166666667,-111.00816666667,8.6,0.52,md,8,112,0.1641,0.08,uu,uu80003153,2025-04-22T16:47:01.000Z,"3 km NNE of Castle Dale, Utah",earthquake,0.33,1.66,0.19743875438228,7,reviewed,uu,uu
 2025-04-22T06:39:33.620Z,38.809833526611,-122.7748336792,1.6599999666214,1.08,md,15,76,0.005709,0.02,nc,nc75169601,2025-04-22T07:47:19.614Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.430000007,0.05,17,automatic,nc,nc
 2025-04-22T06:34:23.113Z,36.6587,-116.3636,4.2,-0.1,ml,25,185.91,0.02,0.1073,nn,nn00896659,2025-04-22T14:20:23.702Z,"44 km SE of Beatty, Nevada",earthquake,,1.8,0.24,8,reviewed,nn,nn
 2025-04-22T06:33:30.930Z,38.789001464844,-122.76866912842,2.2799999713898,0.24,md,9,97,0.01355,0.01,nc,nc75169596,2025-04-22T06:35:07.302Z,"2 km NNW of The Geysers, CA",earthquake,0.42,1.09000003,0.04,8,automatic,nc,nc
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T17:13:02.403Z,63.9775,-148.8324,111.7,1.6,ml,,,,0.47,ak,ak02553uuolc,2025-04-21T17:14:59.794Z,"14 km ESE of Ferry, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-21T16:56:29.056Z,32.107,-101.926,5.3955,1.4,ml,10,69,0.1,0.1,tx,tx2025huhh,2025-04-21T18:50:57.729Z,"13 km W of Stanton, Texas",earthquake,0.56706386023945,1.3993846775451,0.2,25,reviewed,tx,tx
 2025-04-21T16:48:06.004Z,37.4464,141.6208,44.978,4.5,mb,84,94,2.877,0.9,us,us7000pu18,2025-04-21T17:39:21.040Z,"54 km ENE of Tomioka, Japan",earthquake,6.49,5.95,0.056,93,reviewed,us,us
-2025-04-21T16:46:29.813Z,31.654,-104.028,4.8053,1.5,ml,12,56,0,0.1,tx,tx2025hugw,2025-04-22T14:01:25.951Z,"41 km W of Mentone, Texas",earthquake,0.37525943912293,0.48987089078281,0.2,10,reviewed,tx,tx
