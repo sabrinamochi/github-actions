@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-23T12:12:57.020Z,40.8591,28.2296,10,5,mww,59,33,1.167,0.59,us,us7000pugj,2025-04-23T12:28:46.040Z,"23 km S of Silivri, Turkey",earthquake,5.8,1.856,0.103,9,reviewed,us,us
+2025-04-23T12:12:57.020Z,40.8591,28.2296,10,5,mww,59,33,1.167,0.59,us,us7000pugj,2025-04-23T12:29:34.723Z,"23 km S of Silivri, Turkey",earthquake,5.8,1.856,0.103,9,reviewed,us,us
 2025-04-23T12:06:36.554Z,60.3672,-151.834,88.2,1.1,ml,,,,0.34,ak,ak025572ws6f,2025-04-23T12:08:52.011Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-23T12:05:46.350Z,38.822834014893,-122.76566314697,2.2300000190735,0.22,md,10,119,0.008317,0.02,nc,nc75170231,2025-04-23T12:22:18.061Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.579999983,0.06,10,automatic,nc,nc
 2025-04-23T11:55:37.549Z,60.633,-151.441,63.9,1,ml,,,,0.25,ak,ak025572luqi,2025-04-23T12:01:27.429Z,"6 km WNW of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-23T10:00:37.935Z,61.6892,-145.203,249.9,2.6,ml,,,,1.26,ak,ak025571omfc,2025-04-23T10:09:52.714Z,"3 km NNW of Tonsina, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2025-04-23T09:59:36.810Z,38.78466796875,-122.77716827393,3.5299999713898,0.81,md,12,86,0.01195,0.02,nc,nc75170201,2025-04-23T11:22:21.679Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.899999976,0.17,14,automatic,nc,nc
 2025-04-23T09:59:30.260Z,19.460833333333,-64.5945,35.05,3.43,md,10,300,1.035,0.14,pr,pr71479828,2025-04-23T10:41:38.040Z,"126 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.95,11.88,0.12660331456247,6,reviewed,pr,pr
-2025-04-23T09:49:10.874Z,40.8395,28.142,10,6.2,mww,71,23,1.11,0.87,us,us7000pufs,2025-04-23T12:25:57.983Z,"21 km SE of Marmara Ereğlisi, Turkey",earthquake,4.63,1.72,0.032,91,reviewed,us,us
+2025-04-23T09:49:10.874Z,40.8395,28.142,10,6.2,mww,71,23,1.11,0.87,us,us7000pufs,2025-04-23T12:31:16.536Z,"21 km SE of Marmara Ereğlisi, Turkey",earthquake,4.63,1.72,0.032,91,reviewed,us,us
 2025-04-23T09:46:12.940Z,33.0728333,-116.6003333,11.93,0.61,ml,25,88,0.008454,0.17,ci,ci40938463,2025-04-23T09:49:44.597Z,"1 km SSE of Julian, CA",earthquake,0.29,0.49,0.104,9,automatic,ci,ci
 2025-04-23T09:40:16.120Z,33.0948334,-116.6165009,15.1,1.39,ml,26,87,0.02107,0.16,ci,ci40938447,2025-04-23T09:42:33.702Z,"2 km NW of Julian, CA",earthquake,0.34,0.65,0.476,11,automatic,ci,ci
 2025-04-23T09:35:42.610Z,38.826332092285,-122.76416778565,1.9500000476837,0.78,md,11,130,0.006101,0.02,nc,nc75170196,2025-04-23T10:57:18.504Z,"4 km WNW of Cobb, CA",earthquake,0.36,0.75999999,0.09,13,automatic,nc,nc
@@ -235,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-22T12:37:28.900Z,33.1836667,-115.6105,3.08,1.6,ml,41,43,0.007535,0.19,ci,ci40936903,2025-04-22T12:54:41.588Z,"11 km SW of Niland, CA",earthquake,0.22,0.18,0.193,28,automatic,ci,ci
 2025-04-22T12:36:08.484Z,57.6547,-154.3367,55.9,1.6,ml,,,,0.3,ak,ak02555fjt00,2025-04-22T12:39:53.071Z,"11 km NE of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-22T12:35:06.500Z,39.4563331604,-122.93699645996,10.810000419617,1.47,md,6,128,0.05798,0.01,nc,nc75169711,2025-04-22T15:07:16.564Z,"6 km NNE of Lake Pillsbury, CA",earthquake,0.45,1.15999997,0.29,3,automatic,nc,nc
-2025-04-22T12:32:07.420Z,36.687333333333,-121.31333333333,3.86,1.84,md,42,107,0.03338,0.08,nc,nc75169706,2025-04-23T01:52:20.889Z,"11 km S of Tres Pinos, CA",earthquake,0.22,0.56,0.193,52,reviewed,nc,nc
-2025-04-22T12:31:02.680Z,45.927666666667,-111.48366666667,5.71,1.33,ml,11,96,0.1116,0.09,mb,mb90079733,2025-04-22T22:01:11.620Z,"6 km NW of Logan, Montana",earthquake,0.34,1.62,0.23210385469882,19,reviewed,mb,mb
-2025-04-22T12:29:21.592Z,59.611,-153.1059,86.3,1.7,ml,,,,0.45,ak,ak02555fibzz,2025-04-22T12:31:07.206Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
