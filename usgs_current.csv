@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-24T15:28:53.730Z,33.4843333,-116.4208333,4.01,0.75,ml,29,82,0.1519,0.15,ci,ci40940119,2025-04-24T15:32:33.976Z,"22 km SSW of La Quinta, CA",earthquake,0.18,0.58,0.112,15,automatic,ci,ci
 2025-04-24T15:18:23.490Z,33.245,-116.2626667,10.92,0.99,ml,43,69,0.05267,0.18,ci,ci40940095,2025-04-24T15:26:27.431Z,"10 km E of Borrego Springs, CA",earthquake,0.19,0.32,0.198,21,automatic,ci,ci
-2025-04-24T15:14:16.024Z,58.1286,-151.4604,21.8,4.6,ml,,,,0.43,ak,ak02558sa3g9,2025-04-24T15:24:53.658Z,"65 km ENE of Ouzinkie, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-04-24T15:14:17.676Z,57.995,-151.2889,25.3,4.5,ml,,,,0.74,ak,ak02558sa3g9,2025-04-24T15:32:14.040Z,"70 km ENE of Kodiak, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2025-04-24T14:55:11.336Z,63.1968,-150.581,120.4,2.1,ml,,,,0.38,ak,ak02558rxg0t,2025-04-24T14:57:23.399Z,"68 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-24T14:52:19.670Z,37.651500701904,-122.0488357544,6.710000038147,1.48,md,7,118,0.07979,0.09,nc,nc75170826,2025-04-24T15:17:21.689Z,"3 km E of Hayward, CA",earthquake,0.83,1.03999996,0.05,4,automatic,nc,nc
 2025-04-24T14:52:18.752Z,62.9255,-156.3871,0,2.3,ml,,,,0.99,ak,ak02558rwtg3,2025-04-24T14:55:02.216Z,"17 km WSW of Takotna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -92,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-24T05:30:01.210Z,38.798500061035,-122.77833557129,2.25,0.29,md,7,149,0.009182,0.02,nc,nc75170636,2025-04-24T07:22:17.545Z,"3 km NNW of The Geysers, CA",earthquake,0.56,1.53999996,0.08,8,automatic,nc,nc
 2025-04-24T05:26:56.210Z,37.789166666667,-112.86916666667,3.65,1.45,md,8,193,0.2596,0.27,uu,uu80106236,2025-04-24T14:29:38.930Z,"6 km ESE of Summit, Utah",earthquake,1.73,31.61,0.35709479555501,5,reviewed,uu,uu
 2025-04-24T05:21:33.727Z,62.4089,-149.7216,2.5,1.7,ml,,,,0.85,ak,ak02558mdayk,2025-04-24T05:24:07.967Z,"20 km ESE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-24T05:16:27.010Z,34.160666666667,-80.728166666667,2.38,2.3,md,16,63,0.03628,0.36,se,se60503508,2025-04-24T15:23:53.059Z,"6 km E of Elgin, South Carolina",earthquake,0.77,1.04,0.053332759565388,10,reviewed,se,se
+2025-04-24T05:16:27.010Z,34.160666666667,-80.728166666667,2.38,2.3,md,16,63,0.03628,0.36,se,se60503508,2025-04-24T15:34:13.146Z,"6 km E of Elgin, South Carolina",earthquake,0.77,1.04,0.053332759565388,10,reviewed,se,se
 2025-04-24T05:14:50.590Z,38.80016708374,-122.77149963379,2.0299999713898,1.09,md,21,76,0.009222,0.02,nc,nc75170631,2025-04-24T05:32:18.806Z,"3 km NNW of The Geysers, CA",earthquake,0.23,0.430000007,0.22,20,automatic,nc,nc
 2025-04-24T05:03:00.471Z,69.5813,-144.2365,0,1.7,ml,,,,0.88,ak,ak02558m9di7,2025-04-24T05:05:37.048Z,"65 km SSW of Kaktovik, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-04-24T04:59:58.680Z,38.33716583252,-119.39150238037,3.7000000476837,2.81,md,41,134,0.03995,0.31,nc,nc75170626,2025-04-24T06:57:18.380Z,"17 km NW of Bridgeport, CA",earthquake,0.66,1.10000002,0.13,25,automatic,nc,nc
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-23T15:40:58.900Z,38.789165496826,-122.76650238037,2.210000038147,0.68,md,10,92,0.01261,0.02,nc,nc75170306,2025-04-23T16:42:15.845Z,"2 km NNW of The Geysers, CA",earthquake,0.34,1.03999996,0.2,11,automatic,nc,nc
 2025-04-23T15:40:12.330Z,38.821834564209,-122.764503479,1.8999999761581,1.62,md,27,105,0.009603,0.04,nc,nc75170301,2025-04-23T18:12:18.307Z,"4 km W of Cobb, CA",earthquake,0.24,0.340000004,0.13,28,automatic,nc,nc
 2025-04-23T15:36:39.720Z,38.795833333333,-122.7895,0.74,-0.03,md,11,80,0.002925,0.01,nc,nc75170296,2025-04-24T09:26:09.542Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.33,0.329,11,reviewed,nc,nc
-2025-04-23T15:28:26.059Z,34.63833333,-97.51666667,14.21,1.21,ml,16,89,0.1556694523,0.18,ok,ok2025hxuz,2025-04-24T13:22:03.315Z,"3 km NW of Foster, Oklahoma",earthquake,,1.4,0.19,7,reviewed,ok,ok
