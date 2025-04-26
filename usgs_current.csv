@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-26T05:46:49.120Z,33.5449982,-116.7103348,2.64,1.34,ml,22,125,0.03035,0.2,ci,ci41134768,2025-04-26T05:48:55.603Z,"4 km WSW of Anza, CA",earthquake,0.65,0.41,0.371,19,automatic,ci,ci
+2025-04-26T05:46:49.150Z,33.5481667,-116.714,2.45,1.16,ml,56,31,0.02596,0.19,ci,ci41134768,2025-04-26T05:57:23.670Z,"4 km WSW of Anza, CA",earthquake,0.15,0.22,0.13,26,automatic,ci,ci
 2025-04-26T05:30:01.380Z,38.761501312256,-122.73049926758,1.6699999570847,1.1,md,10,116,0.004409,0.03,nc,nc75171686,2025-04-26T05:47:17.162Z,"3 km SE of The Geysers, CA",earthquake,0.54,0.720000029,0.3,11,automatic,nc,nc
 2025-04-26T05:27:01.970Z,33.92,-116.0338333,4.75,1.13,ml,35,76,0.08568,0.16,ci,ci41134760,2025-04-26T05:30:32.775Z,"24 km S of Twentynine Palms, CA",earthquake,0.21,0.57,0.117,26,automatic,ci,ci
 2025-04-26T04:58:02.330Z,17.9875,-66.814,14.62,2.87,md,30,163,0.05383,0.23,pr,pr71480258,2025-04-26T05:28:42.110Z,"0 km SE of Indios, Puerto Rico",earthquake,0.38,0.6,0.06924690637341,8,reviewed,pr,pr
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-26T04:17:58.731Z,12.0514,45.9327,10,4.4,mb,29,94,2.913,0.86,us,us7000pv6g,2025-04-26T04:52:17.040Z,"126 km SE of Aden, Yemen",earthquake,9.88,1.924,0.117,21,reviewed,us,us
 2025-04-26T04:11:26.510Z,35.9503333,-117.6833333,4.34,0.98,ml,13,83,0.02685,0.11,ci,ci41134592,2025-04-26T05:47:35.842Z,"20 km E of Little Lake, CA",earthquake,0.21,0.35,0.071,8,reviewed,ci,ci
 2025-04-26T03:49:47.398Z,12.0218,46.0462,10,4.6,mb,39,104,2.997,0.9,us,us7000pv6b,2025-04-26T04:12:26.040Z,"138 km SE of Aden, Yemen",earthquake,8.64,1.908,0.083,43,reviewed,us,us
-2025-04-26T03:46:18.060Z,33.7018333,-116.7173333,17.59,0.85,ml,34,40,0.01305,0.18,ci,ci41134568,2025-04-26T03:49:47.062Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.41,0.207,27,automatic,ci,ci
+2025-04-26T03:46:18.040Z,33.7016667,-116.7206667,17.47,0.8,ml,32,60,0.01439,0.18,ci,ci41134568,2025-04-26T05:54:28.898Z,"4 km S of Idyllwild, CA",earthquake,0.27,0.43,0.191,20,reviewed,ci,ci
 2025-04-26T03:26:57.790Z,58.1252,-153.1558,43.9,2.1,ml,,,,0.28,ak,ak0255bwa96b,2025-04-26T03:29:05.964Z,"16 km WNW of Aleneva, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2025-04-26T03:20:59.740Z,38.784999847412,-122.76683044434,2.0099999904633,2.35,md,68,41,0.01428,0.07,nc,nc75171646,2025-04-26T05:27:17.022Z,"1 km NW of The Geysers, CA",earthquake,0.13,0.239999995,0.14,70,automatic,nc,nc
 2025-04-26T03:16:21.470Z,38.84049987793,-122.87650299072,2.7000000476837,0.72,md,10,145,0.006175,0.01,nc,nc75171636,2025-04-26T04:47:21.763Z,"13 km NW of The Geysers, CA",earthquake,0.47,0.639999986,0.13,11,automatic,nc,nc
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T06:16:01.530Z,35.270000457764,-120.41583251953,2.8800001144409,1.65,md,13,98,0.02278,0.07,nc,nc75171121,2025-04-25T08:07:18.481Z,"22 km SE of Santa Margarita, CA",earthquake,0.28,0.430000007,0.09,9,automatic,nc,nc
 2025-04-25T06:09:32.376Z,0.6189,120.5662,10,4.5,mb,28,131,0.534,0.84,us,us7000puz1,2025-04-26T05:31:54.040Z,"185 km NNE of Palu, Indonesia",earthquake,6.26,1.902,0.124,19,reviewed,us,us
 2025-04-25T06:04:28.370Z,47.111,-124.02933333333,28.42,1.06,ml,22,165,0.05818,0.19,uw,uw62088467,2025-04-25T18:37:56.310Z,"10 km E of Copalis Beach, Washington",earthquake,0.48,0.56,0.10392974082794,10,reviewed,uw,uw
-2025-04-25T05:56:51.888Z,62.2638,-148.4352,15.8,2.3,ml,,,,0.78,ak,ak0255aa46xe,2025-04-25T05:58:46.680Z,"52 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
