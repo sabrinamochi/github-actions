@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-26T04:22:15.242Z,63.5822,-150.8718,0,2.2,ml,,,,0.82,ak,ak0255bwuqms,2025-04-26T04:24:51.605Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-04-26T04:19:02.130Z,60.6734,-151.3633,42.6,0.9,ml,,,,0.46,ak,ak0255bwu2h1,2025-04-26T04:21:15.172Z,"4 km WSW of Nikiski, Alaska",earthquake,,3,,,automatic,ak,ak
 2025-04-26T04:11:26.630Z,35.9506667,-117.6911667,2.98,0.9,ml,15,59,0.03321,0.18,ci,ci41134592,2025-04-26T04:14:57.386Z,"20 km E of Little Lake, CA",earthquake,0.3,0.69,0.107,11,automatic,ci,ci
 2025-04-26T03:54:25.671Z,59.6855,-150.9786,1,1.5,ml,,,,0.28,ak,ak0255bwg6qv,2025-04-26T03:56:12.879Z,"17 km NE of Halibut Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-26T03:49:47.398Z,12.0218,46.0462,10,4.6,mb,39,104,2.997,0.9,us,us7000pv6b,2025-04-26T04:12:26.040Z,"138 km SE of Aden, Yemen",earthquake,8.64,1.908,0.083,43,reviewed,us,us
@@ -56,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T22:03:17.136Z,60.8963,-150.5273,63.7,1.3,ml,,,,0.33,ak,ak0255ajx4kh,2025-04-25T22:05:47.054Z,"9 km ESE of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-25T21:58:30.041Z,68.7895,-145.4042,0,2,ml,,,,0.8,ak,ak0255ajnicc,2025-04-25T22:01:58.747Z,"74 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-25T21:44:22.880Z,37.307498931885,-119.68800354004,26.680000305176,2.1,md,4,188,0.1204,0,nc,nc75171546,2025-04-25T23:07:19.495Z,"4 km WSW of Oakhurst, CA",earthquake,1.1,2.3499999,0.04,5,automatic,nc,nc
+2025-04-25T21:20:36.870Z,49.386833333333,-120.47966666667,-0.37,2.03,ml,16,185,0.5623,0.38,uw,uw62088757,2025-04-26T04:18:41.600Z,"8 km SSE of Princeton, Canada",explosion,1.97,31.61,0.21819556108998,10,reviewed,uw,uw
 2025-04-25T21:19:50.067Z,0.3772,122.175,136.523,4.5,mb,51,38,1.53,0.85,us,us7000pv4p,2025-04-26T01:01:59.040Z,"100 km W of Gorontalo, Indonesia",earthquake,5.77,3.749,0.074,53,reviewed,us,us
 2025-04-25T21:10:39.574Z,61.2848,-146.5362,25.2,1.6,ml,,,,0.53,ak,ak0255ajd8ph,2025-04-25T21:12:26.913Z,"19 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-25T21:08:19.210Z,36.44316667,-96.748,0,0.56,ml,12,127,0.06478728652,0.72,ok,ok2025ibxe,2025-04-25T21:58:41.749Z,"6 km SSW of Ralston, Oklahoma",quarry blast,,1.3,0.24,4,reviewed,ok,ok
@@ -243,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T04:35:55.910Z,40.36249923706,-124.87433624268,12.5,2.81,md,40,264,0.4132,0.14,nc,nc75171096,2025-04-25T07:28:55.633Z,"50 km WNW of Petrolia, CA",earthquake,1.85,1.60000002,0.14,19,automatic,nc,nc
 2025-04-25T04:28:27.610Z,40.305332183838,-124.45300292969,10.390000343323,2.35,md,18,267,0.08612,0.09,nc,nc75171091,2025-04-25T06:32:15.768Z,"14 km W of Petrolia, CA",earthquake,1.87,0.540000021,0.12,17,automatic,nc,nc
 2025-04-25T04:27:16.280Z,61.3205,-152.29866666667,4.07,-0.84,ml,6,178,0.07112,0.06,av,av93586026,2025-04-26T01:12:36.110Z,"68 km WNW of Beluga, Alaska",earthquake,0.38,1.56,0.15766933581685,6,reviewed,av,av
-2025-04-25T04:23:44.604Z,39.3125,28.9654,10,4.5,mb,45,57,1.282,1.1,us,us7000puyk,2025-04-25T07:47:15.789Z,"24 km N of Simav, Turkey",earthquake,4.27,1.876,0.11,24,reviewed,us,us
-2025-04-25T04:20:10.100Z,19.2255,-67.661833333333,24.74,3.36,md,10,261,0.9168,0.13,pr,pr71479998,2025-04-25T04:41:22.370Z,"100 km NW of San Antonio, Puerto Rico",earthquake,0.9,12.28,0.077667711104809,7,reviewed,pr,pr
-2025-04-25T04:16:38.917Z,-21.6672,-66.9529,246.809,4.7,mb,28,101,1.71,0.74,us,us7000puyi,2025-04-25T05:02:56.040Z,"111 km SW of Atocha, Bolivia",earthquake,11.28,8.654,0.174,10,reviewed,us,us
