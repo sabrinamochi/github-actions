@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-28T19:21:11.130Z,35.5086667,-118.5656667,5.86,2.02,ml,6,229,0.3228,0.19,ci,ci41138488,2025-04-28T19:28:59.957Z,"11 km SW of Bodfish, CA",earthquake,2.8,13.84,0.341,27,automatic,ci,ci
 2025-04-28T19:13:02.565Z,61.9025,-150.0774,55,1.4,ml,,,,0.29,ak,ak0255fgsz9s,2025-04-28T19:14:58.358Z,"17 km N of Willow, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-04-28T19:09:43.433Z,31.579,-104.558,3.735,1.6,ml,7,167,0.1,0.1,tx,tx2025ihfu,2025-04-28T19:22:41.994Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.4412043094635,0.1,7,automatic,tx,tx
 2025-04-28T18:32:02.538Z,31.629,-104.294,3.7791,1.5,ml,18,70,0,0.4,tx,tx2025iheo,2025-04-28T18:45:28.780Z,"58 km NW of Toyah, Texas",earthquake,0,1.3557395935059,0.1,13,automatic,tx,tx
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T17:56:50.570Z,38.823333740234,-122.85050201416,1.9900000095367,0.29,md,11,134,0.006515,0.01,nc,nc75173296,2025-04-28T18:27:21.142Z,"10 km NW of The Geysers, CA",earthquake,0.42,0.810000002,0.17,12,automatic,nc,nc
 2025-04-28T17:55:17.906Z,41.9434,-119.5559,0,1.7,ml,3,237.1,0.558,0.0753,nn,nn00896903,2025-04-28T18:53:21.052Z,"50 km E of Fort Bidwell, California",earthquake,,0,0,1,reviewed,nn,nn
 2025-04-28T17:51:02.230Z,35.355,-117.84,8.74,1.28,ml,9,175,0.1238,0.18,ci,ci41138352,2025-04-28T17:54:23.285Z,"19 km W of Johannesburg, CA",earthquake,1.35,2.49,0.39,4,automatic,ci,ci
+2025-04-28T17:29:08.500Z,44.522333333333,-110.58233333333,2.45,0.78,md,7,105,0.08542,0.12,uu,uu80106466,2025-04-28T19:23:42.290Z,"44 km ESE of West Yellowstone, Montana",earthquake,0.36,8.58,0.21873260412561,4,reviewed,uu,uu
 2025-04-28T17:22:01.941Z,-17.3462,-175.3517,254.314,4.6,mb,51,85,4.848,0.76,us,us7000pvl5,2025-04-28T17:40:49.040Z,"204 km NW of Neiafu, Tonga",earthquake,11.9,8.33,0.061,79,reviewed,us,us
 2025-04-28T17:21:48.967Z,-6.3011,151.6993,10,4.9,mb,43,85,2.146,0.98,us,us7000pvl4,2025-04-28T17:48:32.040Z,"191 km ESE of Kimbe, Papua New Guinea",earthquake,7.75,1.877,0.063,79,reviewed,us,us
 2025-04-28T17:13:00.610Z,34.4318333,-117.7216667,2.66,1.08,ml,21,90,0.06131,0.15,ci,ci41138296,2025-04-28T17:16:31.027Z,"7 km W of Pinon Hills, CA",earthquake,0.2,0.73,0.292,30,automatic,ci,ci
@@ -145,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T03:15:36.963Z,61.8215,-151.2807,71.6,1.3,ml,,,,0.07,ak,ak0255f7ajog,2025-04-28T03:16:39.132Z,"19 km SSE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-28T02:54:52.057Z,36.8143,-115.9752,5.7,-0.3,ml,9,214.32,0.03,0.0911,nn,nn00896894,2025-04-28T15:18:05.929Z,"38 km NW of Indian Springs, Nevada",earthquake,,3,0.22,4,reviewed,nn,nn
 2025-04-28T02:43:48.130Z,33.531,-116.7285,4.96,0.37,ml,23,45,0.03509,0.11,ci,ci41137688,2025-04-28T13:52:34.228Z,"6 km WSW of Anza, CA",earthquake,0.18,0.37,0.162,10,reviewed,ci,ci
-2025-04-28T02:34:58.415Z,52.1773,-168.556,10,5,mww,118,129,0.817,1.13,us,us7000pvhf,2025-04-28T14:45:02.038Z,"87 km SSE of Nikolski, Alaska",earthquake,4.15,1.815,0.071,19,reviewed,us,us
+2025-04-28T02:34:58.415Z,52.1773,-168.556,10,5,mww,118,129,0.817,1.13,us,us7000pvhf,2025-04-28T19:29:50.040Z,"87 km SSE of Nikolski, Alaska",earthquake,4.15,1.815,0.071,19,reviewed,us,us
 2025-04-28T02:18:32.914Z,-21.5896,-66.9373,235.272,4.6,mb,26,95,1.778,1,us,us7000pvhc,2025-04-28T02:34:14.040Z,"103 km SW of Atocha, Bolivia",earthquake,6.94,14.839,0.151,13,reviewed,us,us
 2025-04-28T02:16:24.260Z,38.835998535156,-122.80316925049,2.1900000572205,0.79,md,18,58,0.0103,0.02,nc,nc75172956,2025-04-28T02:32:16.959Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.49000001,0.12,19,automatic,nc,nc
 2025-04-28T01:56:12.180Z,36.083,-117.8615,2.59,1.73,ml,26,41,0.03492,0.14,ci,ci41137672,2025-04-28T13:52:58.699Z,"9 km ENE of Coso Junction, CA",earthquake,0.15,0.19,0.251,26,reviewed,ci,ci
