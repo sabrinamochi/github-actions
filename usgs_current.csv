@@ -14,8 +14,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T12:11:53.020Z,64.9048,-147.2875,14.2,1,ml,,,,0.18,ak,ak0255fcmmhy,2025-04-28T12:13:12.144Z,"12 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-28T12:09:33.146Z,31.653,-104.28,7.2791,1.8,ml,19,58,0,0.3,tx,tx2025igrz,2025-04-28T13:36:24.891Z,"58 km S of Whites City, New Mexico",earthquake,0.83525644403614,0.80924689275688,0.2,15,reviewed,tx,tx
 2025-04-28T12:08:59.466Z,61.7153,-149.4674,37.5,1.5,ml,,,,0.66,ak,ak0255fclzui,2025-04-28T12:11:06.536Z,"10 km NNW of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-04-28T12:07:44.140Z,33.5285,-116.7298333,4.29,0.47,ml,22,45,0.03733,0.13,ci,ci41137992,2025-04-28T12:11:14.070Z,"6 km WSW of Anza, CA",earthquake,0.19,0.34,0.143,11,automatic,ci,ci
-2025-04-28T11:57:44.530Z,33.9425,-116.0075,6.98,1.28,ml,40,48,0.05847,0.16,ci,ci41137976,2025-04-28T12:01:17.593Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.18,0.43,0.124,26,automatic,ci,ci
+2025-04-28T12:07:44.140Z,33.5285,-116.7298333,4.29,0.47,ml,22,45,0.03733,0.13,ci,ci41137992,2025-04-28T13:44:00.768Z,"6 km WSW of Anza, CA",earthquake,0.19,0.34,0.143,11,reviewed,ci,ci
+2025-04-28T11:57:44.530Z,33.9425,-116.0075,6.98,1.28,ml,40,48,0.05847,0.16,ci,ci41137976,2025-04-28T13:44:19.783Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.18,0.43,0.124,26,reviewed,ci,ci
 2025-04-28T11:52:32.090Z,38.84383392334,-122.88050079346,2.6199998855591,0.74,md,7,101,0.006059,0.01,nc,nc75173166,2025-04-28T12:32:16.826Z,"13 km E of Cloverdale, CA",earthquake,0.61,1.05999994,0.13,8,automatic,nc,nc
 2025-04-28T11:47:53.980Z,33.2148333,-116.742,12.1,0.45,ml,25,36,0.02534,0.16,ci,ci41137952,2025-04-28T11:52:11.946Z,"4 km SSE of Lake Henshaw, CA",earthquake,0.23,0.57,0.358,5,automatic,ci,ci
 2025-04-28T11:43:59.763Z,65.4386,-148.252,12.7,0.6,ml,,,,0.47,ak,ak0255fc82bs,2025-04-28T11:45:39.307Z,"16 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -196,6 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-27T16:20:15.162Z,60.0922,-152.803,101.7,1.6,ml,,,,0.07,ak,ak0255driuy4,2025-04-27T16:21:30.546Z,"61 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-04-27T15:55:42.461Z,58.116,-156.3625,16.3,1.3,ml,,,,0.15,ak,ak0255dr4zie,2025-04-27T15:57:12.483Z,"60 km E of Egegik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-04-27T15:55:41.180Z,36.634834289551,-121.2748336792,6.4400000572205,1.47,md,11,96,0.03999,0.21,nc,nc75172636,2025-04-27T16:22:19.891Z,"16 km NW of Pinnacles, CA",earthquake,0.72,1.85000002,0.17,7,automatic,nc,nc
+2025-04-27T15:49:12.130Z,44.8245,-110.94833333333,7.91,0.67,md,12,130,0.07708,0.09,uu,uu80106401,2025-04-28T13:43:33.700Z,"20 km ENE of Hebgen Lake Estates, Montana",earthquake,0.74,0.54,0.16857501474825,8,reviewed,uu,uu
 2025-04-27T15:39:57.170Z,33.6416667,-116.7003333,12.2,0.36,ml,13,53,0.03504,0.14,ci,ci41136832,2025-04-28T00:11:34.203Z,"10 km NNW of Anza, CA",earthquake,0.39,0.59,0.185,8,reviewed,ci,ci
 2025-04-27T15:09:44.042Z,63.7155,-145.7292,16.8,0.8,ml,,,,0.35,ak,ak0255dqv4p0,2025-04-27T15:11:19.067Z,"26 km SSW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-27T15:03:36.110Z,34.0196667,-117.119,6.71,0.76,ml,35,67,0.01669,0.23,ci,ci41136792,2025-04-27T15:09:27.667Z,"6 km SSE of Mentone, CA",earthquake,0.23,0.52,0.084,5,automatic,ci,ci
