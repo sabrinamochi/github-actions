@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-29T08:59:12.440Z,38.78116607666,-122.73600006103,2.2000000476837,0.79,md,8,195,0.002144,0.04,nc,nc75173576,2025-04-29T09:37:16.186Z,"2 km E of The Geysers, CA",earthquake,0.59,0.730000019,0.28,11,automatic,nc,nc
 2025-04-29T08:56:48.101Z,61.3147,-146.7155,4.9,1.2,ml,,,,0.23,ak,ak0255gy1vey,2025-04-29T08:58:25.447Z,"28 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-29T08:17:23.369Z,33.4831,81.902,10,5.2,mb,110,47,7.948,0.82,us,us7000pvry,2025-04-29T09:06:11.918Z,"western Xizang",earthquake,8.76,1.845,0.04,206,reviewed,us,us
-2025-04-29T08:03:40.782Z,60.7454,-150.0185,40.5,4.7,ml,,,,0.7,ak,ak0255gxqhup,2025-04-29T13:56:13.771Z,"28 km SW of Hope, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-04-29T08:03:40.782Z,60.7454,-150.0185,40.5,4.7,ml,,,,0.7,ak,ak0255gxqhup,2025-04-29T14:01:15.495Z,"28 km SW of Hope, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-04-29T08:01:12.850Z,38.831832885742,-122.87566375732,2.9400000572205,1.68,md,35,68,0.008816,0.03,nc,nc75173551,2025-04-29T09:47:18.175Z,"12 km NW of The Geysers, CA",earthquake,0.23,0.340000004,0.14,34,automatic,nc,nc
 2025-04-29T07:51:22.625Z,-20.7739,-68.7931,91.349,4.8,mb,64,51,0.702,0.97,us,us7000pvrq,2025-04-29T13:48:57.905Z,"75 km NW of Ollagüe, Chile",earthquake,5.14,4.997,0.034,267,reviewed,us,us
 2025-04-29T07:43:07.230Z,41.887166666667,-112.48533333333,3.47,2,ml,21,111,0.1271,0.15,uu,uu80106536,2025-04-29T13:33:00.360Z,"10 km NNW of Howell, Utah",earthquake,0.39,1.2,0.1516107702733,7,reviewed,uu,uu
@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T21:46:54.908Z,62.2103,-151.5401,93.9,2.3,ml,,,,0.35,ak,ak0255fi715e,2025-04-28T21:49:10.424Z,"25 km NNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-28T21:30:08.470Z,38.825332641602,-122.81366729736,2,0.75,md,19,53,0.003409,0.02,nc,nc75173346,2025-04-28T22:57:19.867Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.449999988,0.23,19,automatic,nc,nc
 2025-04-28T21:25:00.270Z,45.088333333333,-111.70183333333,-2,1.41,ml,11,127,0.1154,0.12,mb,mb90080673,2025-04-28T22:24:43.650Z,"29 km S of Ennis, Montana",quarry blast,0.68,31.61,0.10115743429446,12,reviewed,mb,mb
-2025-04-28T21:17:51.361Z,31.507,-103.986,4.735,1.6,ml,14,91,0,0.4,tx,tx2025ihka,2025-04-28T21:31:28.632Z,"28 km NW of Toyah, Texas",earthquake,0,1.4092901945114,0.2,12,automatic,tx,tx
+2025-04-28T21:17:51.170Z,31.498,-104.002,0.8191,1.6,ml,14,84,0.1,0.2,tx,tx2025ihka,2025-04-29T14:02:30.162Z,"28 km NW of Toyah, Texas",earthquake,0.80324866707818,1.3215256792163,0.2,10,reviewed,tx,tx
 2025-04-28T21:13:28.550Z,35.3558333,-117.7931667,4.98,1.56,ml,32,41,0.09816,0.21,ci,ci41138640,2025-04-28T21:16:56.703Z,"14 km W of Johannesburg, CA",earthquake,0.22,0.83,0.17,27,automatic,ci,ci
 2025-04-28T21:05:40.120Z,37.494834899902,-118.98950195312,4.5799999237061,1.26,md,9,130,0.1188,0.02,nc,nc75173326,2025-04-28T22:37:23.739Z,"16 km SSW of Mammoth Lakes, CA",earthquake,0.52,3.68000007,0.33,9,automatic,nc,nc
 2025-04-28T20:46:19.493Z,62.2775,-149.2119,35.4,1.7,ml,,,,0.48,ak,ak0255fhlit9,2025-04-28T20:48:52.397Z,"35 km ENE of Susitna North, Alaska",earthquake,,3.7,,,automatic,ak,ak
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T15:22:40.638Z,41.9202,-119.5692,1.5,1.8,ml,5,131,0.351,0.1754,nn,nn00896901,2025-04-29T02:04:36.233Z,"48 km E of Fort Bidwell, California",earthquake,,3,0.34,3,reviewed,nn,nn
 2025-04-28T15:13:40.080Z,19.351833333333,-155.09933333333,6.49,1.91,ml,43,129,0.04107,0.15,hv,hv74661982,2025-04-28T18:10:53.050Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.36,0.47,0.18164707473209,31,reviewed,hv,hv
 2025-04-28T14:54:47.410Z,38.840831756592,-122.82316589356,1.9800000190735,0.99,md,20,66,0.009879,0.02,nc,nc75173236,2025-04-28T15:17:24.893Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.519999981,0.24,21,automatic,nc,nc
-2025-04-28T14:48:24.890Z,31.596,-103.93,4.8484,1.6,ml,15,86,0,0.2,tx,tx2025igxn,2025-04-28T14:58:07.262Z,"33 km WSW of Mentone, Texas",earthquake,0,1.2671248912811,0.2,13,automatic,tx,tx
+2025-04-28T14:48:24.774Z,31.601,-103.934,7.2406,1.7,ml,14,85,0,0.1,tx,tx2025igxn,2025-04-29T14:00:27.128Z,"33 km WSW of Mentone, Texas",earthquake,0.40523849086798,0.60973922248061,0.2,8,reviewed,tx,tx
 2025-04-28T14:39:51.219Z,60.9752,-148.1971,14.6,1.4,ml,,,,1.08,ak,ak0255fdzhm9,2025-04-28T14:41:37.011Z,"34 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-28T14:33:31.145Z,42.6861,-111.5047,11.808,2.5,ml,34,66,0.308,1,us,us7000pvjd,2025-04-28T16:19:12.130Z,"8 km ENE of Soda Springs, Idaho",earthquake,2.21,7.974,0.038,92,reviewed,us,us
 2025-04-28T14:32:47.180Z,38.830001831055,-122.85250091553,1.710000038147,1.07,md,19,65,0.004205,0.01,nc,nc75173226,2025-04-28T16:12:18.286Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.409999996,0.23,21,automatic,nc,nc
