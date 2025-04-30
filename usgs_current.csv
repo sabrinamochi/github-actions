@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-30T00:39:49.005Z,11.3241,-62.2655,131.605,4.8,mb,36,88,1.002,0.71,us,us7000pw07,2025-04-30T00:56:31.607Z,"82 km N of Güiria, Venezuela",earthquake,12.31,10.586,0.077,52,reviewed,us,us
+2025-04-30T00:39:49.005Z,11.3241,-62.2655,131.605,4.8,mb,36,88,1.002,0.71,us,us7000pw07,2025-04-30T01:01:58.750Z,"82 km N of Güiria, Venezuela",earthquake,12.31,10.586,0.077,52,reviewed,us,us
 2025-04-30T00:25:53.780Z,37.971000671387,-122.34967041016,5.2300000190735,1.55,md,13,58,0.04102,0.06,nc,nc75173901,2025-04-30T00:37:17.102Z,"1 km  of San Pablo, CA",earthquake,0.29,0.74000001,0.18,10,automatic,nc,nc
 2025-04-30T00:01:27.290Z,38.771999359131,-122.72333526611,1.1399999856949,0.97,md,8,86,0.01046,0.03,nc,nc75173896,2025-04-30T00:12:17.962Z,"3 km W of Anderson Springs, CA",earthquake,0.39,0.660000026,0.11,8,automatic,nc,nc
 2025-04-29T23:39:10.330Z,62.793,-150.4325,78.7,1.9,ml,,,,0.78,ak,ak0255h6vneh,2025-04-29T23:41:45.156Z,"37 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-29T16:11:25.750Z,18.2983,-68.28,96,4.55,md,28,191,0.2383,0.1,pr,pr2025119001,2025-04-29T20:11:26.088Z,"34 km SSE of Punta Cana, Dominican Republic",earthquake,2.02,0.73,0.09,18,reviewed,pr,pr
 2025-04-29T16:06:06.450Z,19.505167007446,-155.61883544922,7.5700001716614,1.77,ml,38,70,0.02858,0.209999993,hv,hv74662632,2025-04-29T16:09:50.470Z,"26 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.419999987,0.45,3,automatic,hv,hv
 2025-04-29T15:46:40.995Z,47.8794,152.8453,131.184,4.1,mb,62,136,6.081,0.35,us,us7000pvvt,2025-04-29T18:13:02.040Z,"Kuril Islands",earthquake,9.48,8.769,0.075,49,reviewed,us,us
-2025-04-29T15:39:41.960Z,33.0846667,-117.919,10.44,2.46,ml,36,120,0.5044,0.26,ci,ci41139544,2025-04-29T21:33:22.424Z,"47 km SSW of Dana Point, CA",earthquake,0.43,2.64,0.125,27,automatic,ci,ci
+2025-04-29T15:39:41.520Z,33.0828333,-117.9178333,2.39,2.45,ml,34,121,0.43,0.26,ci,ci41139544,2025-04-30T01:01:38.656Z,"47 km SSW of Dana Point, CA",earthquake,0.39,1.17,0.108,21,reviewed,ci,ci
 2025-04-29T15:35:18.380Z,34.0836667,-117.28,13.05,0.92,ml,39,64,0.1199,0.15,ci,ci41139528,2025-04-29T20:16:08.824Z,"3 km ENE of Colton, CA",earthquake,0.19,0.52,0.181,14,reviewed,ci,ci
 2025-04-29T15:27:01.241Z,32.429,-102.13,6.2744,2.8,ml,32,50,0,0.1,tx,tx2025iitz,2025-04-29T17:29:25.040Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.47133547742507,0.62280854180899,0.1,24,reviewed,tx,tx
 2025-04-29T15:25:41.210Z,34.0045,-116.8111667,13.86,0.81,ml,21,75,0.0307,0.15,ci,ci41139512,2025-04-29T15:30:32.511Z,"10 km NNW of Cabazon, CA",earthquake,0.33,0.68,0.089,16,automatic,ci,ci
@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-29T01:12:55.926Z,31.245,-103.484,5.2026,2.1,ml,27,54,0.1,0.1,tx,tx2025ihrt,2025-04-29T15:26:10.528Z,"14 km SSE of Lindsay, Texas",earthquake,0.71462657053761,1.2564095490587,0.2,30,reviewed,tx,tx
 2025-04-29T01:12:08.750Z,60.538833333333,-152.53583333333,10.2,-0.2,ml,6,280,0.09183,0.09,av,av93590601,2025-04-29T23:44:33.810Z,"67 km W of Salamatof, Alaska",earthquake,0.92,1.07,0.16153520908706,6,reviewed,av,av
 2025-04-29T01:08:31.760Z,61.279,-152.24866666667,2.73,-0.5,ml,7,108,0.04724,0.06,av,av93590596,2025-04-29T23:41:28.730Z,"64 km WNW of Tyonek, Alaska",earthquake,0.46,0.47,0.20154426308872,7,reviewed,av,av
-2025-04-29T01:02:56.160Z,61.2755,-152.2465,3.29,-0.73,ml,6,148,0.04533,0.05,av,av93590591,2025-04-29T23:34:51.770Z,"64 km WNW of Tyonek, Alaska",earthquake,0.44,0.49,0.15770878351341,6,reviewed,av,av
-2025-04-29T01:00:31.180Z,59.5363,-153.0489,79.8,1.7,ml,,,,0.35,ak,ak0255gtjsry,2025-04-29T01:02:38.912Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-04-29T01:00:27.920Z,35.0396667,-117.6728333,-0.79,1.41,ml,18,88,0.1068,0.11,ci,ci41138920,2025-04-29T21:37:24.505Z,"5 km NNW of Boron, CA",quarry blast,0.26,31.61,0.136,27,reviewed,ci,ci
