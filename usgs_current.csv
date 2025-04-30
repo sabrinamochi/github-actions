@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-30T13:10:40.160Z,35.6491667,-117.5648333,5.84,1.02,ml,26,54,0.116,0.17,ci,ci41140424,2025-04-30T13:14:04.515Z,"10 km ENE of Ridgecrest, CA",earthquake,0.21,0.89,0.21,16,automatic,ci,ci
 2025-04-30T12:59:31.870Z,33.9766667,-116.9873333,15.92,0.89,ml,34,48,0.1242,0.18,ci,ci41140416,2025-04-30T13:03:32.448Z,"5 km N of Beaumont, CA",earthquake,0.23,0.66,0.171,28,automatic,ci,ci
 2025-04-30T12:38:50.035Z,36.5037,-113.9951,5,2.9,ml,25,54,0.788,0.65,us,us7000pw37,2025-04-30T12:44:45.040Z,"32 km SSE of Bunkerville, Nevada",earthquake,1.02,1.939,0.052,48,reviewed,us,us
 2025-04-30T12:37:08.292Z,36.5014,-114.0093,5,2.7,ml,32,45,0.798,0.66,us,us7000pw33,2025-04-30T12:51:42.040Z,"31 km SSE of Bunkerville, Nevada",earthquake,1.76,1.938,0.046,62,reviewed,us,us
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-30T09:19:32.340Z,38.812000274658,-122.8184967041,2.75,0.78,md,19,55,0.008912,0.02,nc,nc75174021,2025-04-30T09:47:18.772Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.550000012,0.08,19,automatic,nc,nc
 2025-04-30T09:18:32.710Z,31.5253333,-115.667,10.25,2.52,ml,9,157,0.1668,0.18,ci,ci41140288,2025-04-30T09:22:10.054Z,"88 km ESE of Maneadero, B.C., MX",earthquake,0.6,2.8,0.163,14,automatic,ci,ci
 2025-04-30T09:16:52.860Z,31.5041667,-115.6211667,3.22,2.84,ml,11,108,0.1789,0.2,ci,ci41140280,2025-04-30T09:20:35.039Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.35,2.03,0.116,17,automatic,ci,ci
-2025-04-30T09:13:39.807Z,31.4499,-115.6689,10,4.1,mb,37,167,0.528,1.06,us,us7000pw1r,2025-04-30T10:15:53.241Z,"56 km ENE of San Vicente, Mexico",earthquake,2.08,1.992,0.158,11,reviewed,us,us
+2025-04-30T09:13:39.807Z,31.4499,-115.6689,10,4.1,mb,37,167,0.528,1.06,us,us7000pw1r,2025-04-30T13:13:32.027Z,"56 km ENE of San Vicente, Mexico",earthquake,2.08,1.992,0.158,11,reviewed,us,us
 2025-04-30T09:00:13.341Z,9.9745,-104.5699,10,5.2,mww,101,187,9.532,0.74,us,us7000pw1p,2025-04-30T09:17:27.040Z,"northern East Pacific Rise",earthquake,12.32,1.94,0.063,24,reviewed,us,us
 2025-04-30T08:52:00.860Z,33.3838333,-116.2883333,11.85,0.47,ml,37,54,0.02784,0.22,ci,ci41140264,2025-04-30T08:55:30.852Z,"16 km NNE of Borrego Springs, CA",earthquake,0.27,0.9,0.101,7,automatic,ci,ci
 2025-04-30T08:43:29.148Z,-7.4526,128.7458,127.875,4.6,mb,48,37,4.984,1.01,us,us7000pw1n,2025-04-30T09:12:05.040Z,"226 km ENE of Lospalos, Timor Leste",earthquake,7.87,6.988,0.095,33,reviewed,us,us
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-29T13:30:29.802Z,-27.9266,-175.1849,10,5.4,mb,100,79,2.747,1.15,us,us7000pvta,2025-04-29T15:58:46.562Z,"Kermadec Islands region",earthquake,9.6,1.851,0.057,106,reviewed,us,us
 2025-04-29T13:29:18.540Z,35.6975,-117.6111667,8.95,2.45,ml,35,38,0.06357,0.14,ci,ci41139432,2025-04-29T20:50:36.700Z,"10 km NE of Ridgecrest, CA",earthquake,0.14,0.37,0.131,106,reviewed,ci,ci
 2025-04-29T13:20:37.671Z,61.7629,-150.136,29.7,1.1,ml,,,,0.51,ak,ak0255h0tauv,2025-04-29T13:23:09.473Z,"5 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-04-29T13:16:32.432Z,-48.1826,165.342,10,6.2,mww,114,52,2.214,0.74,us,us7000pvt7,2025-04-29T15:48:11.909Z,"286 km SW of Bluff, New Zealand",earthquake,8.16,1.847,0.041,58,reviewed,us,us
-2025-04-29T13:12:31.961Z,61.8268,-150.0393,31.6,2.4,ml,,,,0.49,ak,ak0255h0rkos,2025-04-29T16:53:31.040Z,"8 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
