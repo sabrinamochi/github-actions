@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-01T04:15:58.700Z,33.4776667,-116.5195,13.37,0.75,ml,34,55,0.07117,0.13,ci,ci41141216,2025-05-01T04:19:52.075Z,"17 km ESE of Anza, CA",earthquake,0.17,0.37,0.136,23,automatic,ci,ci
 2025-05-01T04:11:35.150Z,33.032,-116.577,13.11,0.62,ml,24,58,0.05181,0.18,ci,ci41141208,2025-05-01T04:15:57.473Z,"6 km SSE of Julian, CA",earthquake,0.26,0.54,0.163,10,automatic,ci,ci
 2025-05-01T04:10:48.286Z,60.3757,-151.5714,37,1.9,ml,,,,0.76,ak,ak0255k6gz24,2025-05-01T04:12:28.550Z,"14 km W of Cohoe, Alaska",earthquake,,5.6,,,automatic,ak,ak
 2025-05-01T04:05:20.640Z,34.333,-116.726,1.08,1.16,ml,46,41,0.08529,0.13,ci,ci41141184,2025-05-01T04:09:02.223Z,"14 km NE of Big Bear City, CA",earthquake,0.12,0.28,0.166,29,automatic,ci,ci
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T03:26:45.690Z,33.3665,-116.693,11.84,0.99,ml,48,29,0.1111,0.19,ci,ci41141160,2025-05-01T03:30:52.251Z,"11 km NNW of Warner Springs, CA",earthquake,0.17,0.55,0.11,26,automatic,ci,ci
 2025-05-01T03:25:10.347Z,62.9072,-151.0163,31,2.1,ml,,,,0.85,ak,ak0255k5yo9m,2025-05-01T03:27:44.236Z,"47 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-01T03:18:49.720Z,33.503,-116.9016667,11.81,0.99,ml,49,29,0.02265,0.2,ci,ci41141152,2025-05-01T03:22:18.689Z,"8 km NNW of Aguanga, CA",earthquake,0.19,0.48,0.231,27,automatic,ci,ci
-2025-05-01T03:17:41.510Z,38.79033279419,-122.77899932861,3.4700000286102,2.67,md,71,26,0.007527,0.08,nc,nc75174361,2025-05-01T03:39:40.351Z,"2 km NW of The Geysers, CA",earthquake,0.12,0.230000004,0.14,90,automatic,nc,nc
+2025-05-01T03:17:41.510Z,38.79033279419,-122.77899932861,3.4700000286102,2.67,md,71,26,0.007527,0.08,nc,nc75174361,2025-05-01T04:20:49.132Z,"2 km NW of The Geysers, CA",earthquake,0.12,0.230000004,0.14,90,automatic,nc,nc
 2025-05-01T03:13:04.910Z,38.837333679199,-122.78233337402,0.86000001430511,1.32,md,19,69,0.006348,0.07,nc,nc75174356,2025-05-01T03:27:18.038Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.340000004,0.06,21,automatic,nc,nc
 2025-05-01T03:01:53.580Z,17.995833333333,-66.842166666667,16.11,2.27,md,11,149,0.0341,0.1,pr,pr71481018,2025-05-01T03:11:38.290Z,"2 km W of Indios, Puerto Rico",earthquake,0.37,0.68,0.028995151593866,3,reviewed,pr,pr
 2025-05-01T02:51:27.050Z,38.831165313721,-122.81483459473,1.5800000429153,0.77,md,15,66,0.008604,0.01,nc,nc75174341,2025-05-01T04:12:17.319Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.629999995,0.16,15,automatic,nc,nc
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-30T04:58:06.380Z,38.829498291016,-122.83583068848,10.609999656677,0.72,md,9,187,0.006404,0.04,nc,nc75173971,2025-04-30T05:52:16.185Z,"9 km NW of The Geysers, CA",earthquake,1.81,7.94999981,0.31,10,automatic,nc,nc
 2025-04-30T04:44:36.410Z,31.572,-104.014,6.651,1.9,ml,16,56,0,0.1,tx,tx2025ijug,2025-04-30T11:29:41.772Z,"35 km NW of Toyah, Texas",earthquake,0.46087424320495,0.48780503810382,0.2,12,reviewed,tx,tx
 2025-04-30T04:43:25.570Z,33.2958333,-116.1528333,5.75,0.87,ml,34,33,0.1333,0.19,ci,ci41140072,2025-04-30T18:29:14.421Z,"17 km N of Ocotillo Wells, CA",earthquake,0.24,0.83,0.215,20,reviewed,ci,ci
-2025-04-30T04:24:10.450Z,33.5316667,-116.7241667,5.85,0.14,ml,12,80,0.03539,0.07,ci,ci41140048,2025-04-30T18:06:19.391Z,"5 km WSW of Anza, CA",earthquake,0.18,0.36,0.087,9,reviewed,ci,ci
