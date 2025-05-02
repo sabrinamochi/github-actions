@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-02T18:37:55.190Z,38.840167999268,-122.81066894531,2.1800000667572,0.58,md,6,124,0.01676,0.01,nc,nc75175436,2025-05-02T18:39:28.933Z,"8 km WNW of Cobb, CA",earthquake,0.79,1.23000002,0.37,7,automatic,nc,nc
+2025-05-02T18:37:55.190Z,38.840167999268,-122.81066894531,2.1800000667572,0.58,md,6,124,0.01676,0.01,nc,nc75175436,2025-05-02T18:52:19.674Z,"8 km WNW of Cobb, CA",earthquake,0.79,1.23000002,0.37,7,automatic,nc,nc
 2025-05-02T18:34:17.030Z,38.797332763672,-122.76300048828,3.579999923706,0.33,md,10,70,0.004173,0.02,nc,nc75175431,2025-05-02T18:47:20.639Z,"2 km  of The Geysers, CA",earthquake,0.36,1.11000001,0.12,9,automatic,nc,nc
+2025-05-02T18:25:32.375Z,-57.3684,-67.0252,10,4.6,mb,33,146,4.031,1.01,us,us7000pwq7,2025-05-02T18:50:53.040Z,"295 km SSE of Ushuaia, Argentina",earthquake,14.25,1.941,0.101,29,reviewed,us,us
 2025-05-02T18:20:31.489Z,-57.3501,-67.093,10,5.1,mb,77,102,3.996,0.6,us,us7000pwq4,2025-05-02T18:37:35.040Z,"292 km SSE of Ushuaia, Argentina",earthquake,6.91,1.862,0.068,70,reviewed,us,us
 2025-05-02T18:05:37.570Z,33.5341667,-116.722,5.58,0.8,ml,13,144,0.03367,0.12,ci,ci41143072,2025-05-02T18:09:18.459Z,"5 km WSW of Anza, CA",earthquake,0.44,0.82,0.132,16,automatic,ci,ci
 2025-05-02T17:59:08.153Z,-57.3028,-67.075,10,6.4,mww,220,30,3.96,0.61,us,us7000pwpu,2025-05-02T18:40:44.910Z,"288 km SSE of Ushuaia, Argentina",earthquake,7.85,1.808,0.071,19,reviewed,us,us
@@ -218,7 +219,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T21:32:34.510Z,38.820667266846,-122.76249694824,2.1800000667572,0.46,md,11,121,0.01137,0.02,nc,nc75174826,2025-05-01T21:47:21.378Z,"3 km W of Cobb, CA",earthquake,0.32,0.779999971,0.27,13,automatic,nc,nc
 2025-05-01T21:28:40.044Z,38.684,-117.1943,16,1.8,ml,8,219.47,0.469,0.2683,nn,nn00897080,2025-05-01T21:31:34.265Z,"59 km S of Kingston, Nevada",earthquake,,4.8,0.39,7,automatic,nn,nn
 2025-05-01T21:22:25.710Z,39.414001464844,-123.3621673584,0.9200000166893,2.9,md,37,72,0.05816,0.09,nc,nc75174816,2025-05-02T14:50:43.373Z,"1 km NW of Willits, CA",earthquake,0.2,1.01999998,0.13,42,automatic,nc,nc
-2025-05-01T21:20:42.400Z,39.416166666667,-123.36283333333,3.64,3.6,mw,54,61,0.0296,0.11,nc,nc75174811,2025-05-02T16:13:38.492Z,"1 km NNW of Willits, CA",earthquake,0.13,0.46,,7,reviewed,nc,nc
+2025-05-01T21:20:42.400Z,39.416166666667,-123.36283333333,3.64,3.6,mw,54,61,0.0296,0.11,nc,nc75174811,2025-05-02T18:48:00.420Z,"1 km NNW of Willits, CA",earthquake,0.13,0.46,,7,reviewed,nc,nc
 2025-05-01T21:05:19.700Z,17.915333333333,-66.800333333333,14.01,1.93,md,5,232,0.09577,0.2,pr,pr71481078,2025-05-01T21:25:42.590Z,"8 km SSE of Indios, Puerto Rico",earthquake,1.35,1.2,0.10884796550206,4,reviewed,pr,pr
 2025-05-01T21:01:53.170Z,32.8008333,-117.0826667,4.79,2.21,ml,15,217,0.1349,0.23,ci,ci41142240,2025-05-02T11:44:51.737Z,"6 km ENE of San Diego, CA",earthquake,0.77,1.43,0.342,28,automatic,ci,ci
 2025-05-01T20:50:29.880Z,38.756500244141,-122.72833251953,0.95999997854233,0.86,md,10,112,0.005764,0.04,nc,nc75174791,2025-05-01T21:32:19.273Z,"3 km SE of The Geysers, CA",earthquake,0.4,0.310000002,0.35,9,automatic,nc,nc
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T18:57:29.850Z,46.004333333333,-112.465,-2,1.64,ml,9,80,0.06276,0.05,mb,mb90081118,2025-05-02T14:54:12.460Z,"5 km E of Butte, Montana",quarry blast,0.31,31.61,0.20701827074425,23,reviewed,mb,mb
 2025-05-01T18:54:33.680Z,35.0586667,-118.348,-1.11,1.09,ml,14,69,0.06811,0.22,ci,ci41142104,2025-05-01T23:34:17.669Z,"12 km SE of Tehachapi, CA",quarry blast,0.55,31.61,0.132,18,reviewed,ci,ci
 2025-05-01T18:53:18.357Z,62.8337,-144.8007,12.3,1.9,ml,,,,0.65,ak,ak0255kf270b,2025-05-01T18:55:43.491Z,"30 km NNW of Chistochina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-05-01T18:52:12.060Z,31.652,-104.461,7.0483,1.6,ml,12,89,0,0.2,tx,tx2025imrs,2025-05-02T14:25:16.639Z,"58 km S of Whites City, New Mexico",earthquake,1.082625060485,0.58345534631768,0.1,10,reviewed,tx,tx
-2025-05-01T18:49:41.169Z,48.9769,-125.2289,30.941,3,ml,49,63,0.156,0.8,us,us7000pwet,2025-05-02T17:01:58.255Z,"23 km E of Ucluelet, Canada",earthquake,2.35,8.196,0.047,60,reviewed,us,us
