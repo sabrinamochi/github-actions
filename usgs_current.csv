@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-02T19:35:05.800Z,38.834999084473,-122.79216766357,2.2200000286102,1.09,md,21,45,0.003691,0.02,nc,nc75175456,2025-05-02T19:36:44.213Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.379999995,0.18,21,automatic,nc,nc
+2025-05-02T19:35:05.800Z,38.834999084473,-122.79216766357,2.2200000286102,1.09,md,21,45,0.003691,0.02,nc,nc75175456,2025-05-02T19:47:21.051Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.379999995,0.18,21,automatic,nc,nc
 2025-05-02T19:33:31.260Z,35.3493333,-117.8018333,6.42,0.95,ml,23,69,0.08929,0.14,ci,ci41143112,2025-05-02T19:37:07.814Z,"15 km W of Johannesburg, CA",earthquake,0.22,0.52,0.137,18,automatic,ci,ci
 2025-05-02T19:25:12.190Z,38.836166381836,-122.79833221435,2.0599999427795,1.08,md,21,82,0.0183,0.02,nc,nc75175446,2025-05-02T19:37:19.087Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.5,0.15,21,automatic,nc,nc
 2025-05-02T18:37:55.190Z,38.840167999268,-122.81066894531,2.1800000667572,0.58,md,6,124,0.01676,0.01,nc,nc75175436,2025-05-02T18:52:19.674Z,"8 km WNW of Cobb, CA",earthquake,0.79,1.23000002,0.37,7,automatic,nc,nc
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T17:11:31.900Z,48.106666666667,-117.32283333333,11.58,1.83,md,6,141,0.1438,0.19,uw,uw62091852,2025-05-02T19:29:17.840Z,"20 km NE of Deer Park, Washington",earthquake,0.76,0.75,0.33223053586646,5,reviewed,uw,uw
 2025-05-02T16:52:20.380Z,33.8528333,-116.9376667,11.02,1.93,ml,88,17,,0.17,ci,ci41143000,2025-05-02T17:03:03.400Z,"8 km NNE of San Jacinto, CA",earthquake,0.11,0.25,0.124,27,automatic,ci,ci
 2025-05-02T16:48:33.703Z,-57.3339,-67.3182,10,5.3,mb,62,123,3.923,0.7,us,us7000pwp8,2025-05-02T17:03:25.040Z,"287 km SSE of Ushuaia, Argentina",earthquake,10.12,1.865,0.061,91,reviewed,us,us
-2025-05-02T16:47:08.840Z,33.5295,-116.7285,4.28,0.73,ml,15,81,0.03655,0.06,ci,ci41142976,2025-05-02T16:50:34.969Z,"6 km WSW of Anza, CA",earthquake,0.15,0.34,0.192,19,automatic,ci,ci
+2025-05-02T16:47:08.840Z,33.5328333,-116.7278333,4.41,0.68,ml,20,45,0.03343,0.11,ci,ci41142976,2025-05-02T19:46:29.820Z,"6 km WSW of Anza, CA",earthquake,0.17,0.27,0.196,15,reviewed,ci,ci
 2025-05-02T16:45:57.880Z,38.840167999268,-122.81150054932,2.0199999809265,0.67,md,6,108,0.01662,0,nc,nc75175361,2025-05-02T17:52:19.294Z,"8 km WNW of Cobb, CA",earthquake,0.55,3.04999995,0.37,8,automatic,nc,nc
 2025-05-02T16:43:47.261Z,-56.998,-67.0382,10,4.7,mb,38,74,3.711,0.64,us,us7000pwp6,2025-05-02T17:00:49.040Z,"256 km SSE of Ushuaia, Argentina",earthquake,10.44,1.875,0.099,38,reviewed,us,us
 2025-05-02T16:38:29.481Z,-56.9984,-68.3772,10,4.2,mb,13,144,3.374,0.52,us,us7000pwp5,2025-05-02T17:45:48.040Z,"243 km S of Ushuaia, Argentina",earthquake,15.07,1.936,0.199,7,reviewed,us,us
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T19:57:36.810Z,44.615,-115.0975,6.6,1.18,ml,8,95,0.5174,0.22,mb,mb90081128,2025-05-02T16:24:16.820Z,"45 km NNW of Stanley, Idaho",earthquake,0.65,1.47,0.13081194616097,12,reviewed,mb,mb
 2025-05-01T19:56:06.970Z,33.7191667,-117.3243333,-0.53,1.01,ml,20,106,0.04414,0.19,ci,ci41142168,2025-05-02T00:01:29.893Z,"6 km N of Lake Elsinore, CA",quarry blast,0.45,31.61,0.103,15,reviewed,ci,ci
 2025-05-01T19:52:11.450Z,17.9725,-66.8415,16.76,2.31,md,7,203,0.02552,0.08,pr,pr71481073,2025-05-01T20:09:02.800Z,"3 km SW of Indios, Puerto Rico",earthquake,0.6,0.61,0.14742093342496,4,reviewed,pr,pr
-2025-05-01T19:47:59.760Z,35.3535,-117.8016667,8.04,1.14,ml,24,98,0.09317,0.17,ci,ci41142160,2025-05-01T20:09:17.482Z,"15 km W of Johannesburg, CA",earthquake,0.28,0.76,0.165,23,reviewed,ci,ci
