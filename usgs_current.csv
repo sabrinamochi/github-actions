@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-05T16:20:51.380Z,38.827499389648,-122.81583404541,1.7599999904633,1.02,md,21,56,0.006086,0.01,nc,nc75176881,2025-05-05T16:22:25.898Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.419999987,0.22,22,automatic,nc,nc
+2025-05-05T16:31:04.110Z,38.750831604004,-122.80899810791,14.779999732971,1.92,md,6,153,0.05805,0.06,nc,nc75176886,2025-05-05T16:32:41.972Z,"5 km WSW of The Geysers, CA",earthquake,0.94,0.949999988,0.24,3,automatic,nc,nc
+2025-05-05T16:20:51.380Z,38.827499389648,-122.81583404541,1.7599999904633,1.02,md,21,56,0.006086,0.01,nc,nc75176881,2025-05-05T16:32:17.495Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.419999987,0.22,22,automatic,nc,nc
 2025-05-05T16:12:26.664Z,61.2844,-149.8942,37.6,1.8,ml,,,,0.67,ak,ak0255qzry1v,2025-05-05T16:14:46.645Z,"7 km N of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-05T15:59:31.280Z,18.237833333333,-66.577666666667,41.46,2.14,md,4,122,0.1621,0.1,pr,pr71481478,2025-05-05T16:17:17.550Z,"2 km NE of Jayuya, Puerto Rico",earthquake,0.79,1.16,0.052113148444826,4,reviewed,pr,pr
 2025-05-05T15:20:09.900Z,38.829334259033,-122.81783294678,1.7999999523163,1.34,md,22,46,0.00848,0.02,nc,nc75176841,2025-05-05T15:37:16.117Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.400000006,0.18,23,automatic,nc,nc
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-05T09:56:27.250Z,33.913,-117.6016667,5.81,2.08,ml,114,23,,0.19,ci,ci41145000,2025-05-05T10:28:40.306Z,"5 km WSW of Norco, CA",earthquake,0.1,0.36,0.176,25,automatic,ci,ci
 2025-05-05T09:49:17.376Z,63.0433,-149.3615,81.7,3.4,ml,,,,0.8,ak,ak0255qvttm6,2025-05-05T15:02:42.062Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-05-05T09:48:20.813Z,32.0147,-103.7743,7.639,2.8,ml,46,35,0.105,0.69,us,us7000px86,2025-05-05T12:44:37.338Z,"36 km SE of Malaga, New Mexico",earthquake,1.66,3.697,0.066,30,reviewed,us,us
-2025-05-05T09:46:46.005Z,-29.4337,-71.979,16.981,5.3,mb,115,89,0.805,1.39,us,us7000px85,2025-05-05T14:40:52.543Z,"84 km NW of Coquimbo, Chile",earthquake,3.74,4.032,0.026,486,reviewed,us,us
+2025-05-05T09:46:46.005Z,-29.4337,-71.979,16.981,5.3,mb,115,89,0.805,1.39,us,us7000px85,2025-05-05T16:32:53.433Z,"84 km NW of Coquimbo, Chile",earthquake,3.74,4.032,0.026,486,reviewed,us,us
 2025-05-05T09:42:31.702Z,31.655,-104.458,6.7664,3.6,ml,10,72,0,0.1,tx,tx2025ithp,2025-05-05T12:03:11.589Z,"58 km S of Whites City, New Mexico",earthquake,0.89445324948481,0.60777517528606,0.2,14,reviewed,tx,tx
 2025-05-05T09:33:57.761Z,52.1425,-168.0338,19.9,2.6,ml,,,,0.26,ak,ak0255qvqh9c,2025-05-05T15:02:43.156Z,"104 km SSE of Nikolski, Alaska",earthquake,,4.4,,,reviewed,ak,ak
 2025-05-05T09:22:59.310Z,38.821334838867,-122.84133148193,2.0199999809265,0.76,md,11,156,0.005234,0.02,nc,nc75176671,2025-05-05T10:37:18.092Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.74000001,0.19,12,automatic,nc,nc
@@ -166,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T17:14:46.381Z,31.657,-104.447,5.7922,2.5,ml,18,77,0,0.2,tx,tx2025isbs,2025-05-05T13:52:12.332Z,"57 km S of Whites City, New Mexico",earthquake,1.2647080973314,0.65492872289688,0.1,12,reviewed,tx,tx
 2025-05-04T16:56:13.670Z,38.837833404541,-122.79566955566,1.8999999761581,0.68,md,9,75,0.004199,0.01,nc,nc75176391,2025-05-04T17:27:18.277Z,"7 km WNW of Cobb, CA",earthquake,0.62,1.25,0.47,10,automatic,nc,nc
 2025-05-04T16:46:12.760Z,33.8646667,-117.819,6.08,1.55,ml,70,28,,0.24,ci,ci41144712,2025-05-05T02:28:33.322Z,"3 km SSW of Yorba Linda, CA",earthquake,0.19,0.45,0.151,29,automatic,ci,ci
-2025-05-04T16:34:53.979Z,36.4314,140.9534,45.961,4.5,mb,38,129,2.214,0.72,us,us7000px43,2025-05-04T17:25:06.040Z,"32 km SE of Hitachi, Japan",earthquake,7.85,7.803,0.074,53,reviewed,us,us
-2025-05-04T16:33:50.010Z,33.059,-116.6051667,12.73,1.15,ml,41,75,0.02283,0.18,ci,ci41144696,2025-05-04T18:57:55.260Z,"2 km S of Julian, CA",earthquake,0.21,0.42,0.207,28,reviewed,ci,ci
