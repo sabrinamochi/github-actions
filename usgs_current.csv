@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-06T22:26:25.750Z,34.0471667,-117.585,13.32,1.29,ml,41,61,0.08556,0.17,ci,ci41146272,2025-05-06T22:29:52.705Z,"4 km E of Ontario, CA",earthquake,0.24,0.47,0.273,11,automatic,ci,ci
 2025-05-06T22:03:08.393Z,39.1699,-119.0409,3,1.2,ml,10,64.72,0.002,0.1717,nn,nn00897304,2025-05-06T22:05:21.352Z,"23 km NNE of Yerington, Nevada",earthquake,,0.3,0.18,4,automatic,nn,nn
 2025-05-06T21:52:10.320Z,38.776000976562,-122.72149658203,0.0099999997764826,0.97,md,6,104,0.01392,0.06,nc,nc75177451,2025-05-06T22:17:19.473Z,"3 km WNW of Anderson Springs, CA",earthquake,0.36,0.860000014,0.23,9,automatic,nc,nc
 2025-05-06T21:48:02.970Z,37.80016708374,-122.2054977417,10.229999542236,1.39,md,20,100,0.02965,0.07,nc,nc75177446,2025-05-06T22:17:20.474Z,"2 km E of Oakland, CA",earthquake,0.23,0.889999986,0.36,14,automatic,nc,nc
@@ -48,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-06T16:25:30.697Z,-21.0305,-69.6372,61.085,4.4,mb,25,73,0.141,0.44,us,us7000pxi5,2025-05-06T18:16:00.618Z,"76 km S of La Tirana, Chile",earthquake,4.12,4.905,0.134,16,reviewed,us,us
 2025-05-06T16:08:19.940Z,38.836166381836,-122.80283355713,2.1900000572205,1.1,md,20,59,0.01001,0.02,nc,nc75177336,2025-05-06T16:47:19.319Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.560000002,0.18,22,automatic,nc,nc
 2025-05-06T15:59:53.370Z,63.1758,-150.4392,119,2.1,ml,,,,0.5,ak,ak0255smzznt,2025-05-06T16:02:15.605Z,"76 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-05-06T15:49:21.250Z,48.102666666667,-122.617,-0.62,0.65,md,3,224,0.2229,0.01,uw,uw62094732,2025-05-06T22:27:56.140Z,"7 km NE of Marrowstone, Washington",explosion,0.53,31.61,0.24582132865176,2,reviewed,uw,uw
 2025-05-06T15:22:05.111Z,63.1644,-150.5792,103,2,ml,,,,0.34,ak,ak0255smryfz,2025-05-06T15:24:36.724Z,"71 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-05-06T15:21:43.460Z,38.77466583252,-122.74766540527,2.1099998950958,0.87,md,9,82,0.0121,0.03,nc,nc75177331,2025-05-06T16:27:19.184Z,"1 km ESE of The Geysers, CA",earthquake,0.5,0.889999986,0.3,10,automatic,nc,nc
 2025-05-06T15:11:09.340Z,33.7205,-116.8375,14.61,0.75,ml,21,90,0.09067,0.16,ci,ci41145824,2025-05-06T16:05:42.623Z,"6 km ESE of Valle Vista, CA",earthquake,0.36,0.52,0.273,16,reviewed,ci,ci
@@ -209,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-05T22:52:58.010Z,37.428333333333,-113.39483333333,5.1,1.61,ml,14,74,0.1247,0.12,uu,uu80107041,2025-05-06T13:33:35.610Z,"9 km SW of New Harmony, Utah",earthquake,0.35,0.8,0.20554396696195,7,reviewed,uu,uu
 2025-05-05T22:45:05.774Z,61.858,-151.8685,86.7,1.6,ml,,,,0.82,ak,ak0255r3jkpd,2025-05-05T22:47:44.219Z,"28 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-05T22:43:11.627Z,-57.3658,-68.3058,10,4.5,mb,23,141,3.732,0.47,us,us7000pxdq,2025-05-06T00:54:05.040Z,"284 km S of Ushuaia, Argentina",earthquake,14.38,1.945,0.127,18,reviewed,us,us
-2025-05-05T22:31:17.590Z,36.43183517456,-121.02349853516,8.3500003814697,1.32,md,14,63,0.03634,0.17,nc,nc75177036,2025-05-06T00:17:20.608Z,"15 km SSE of Pinnacles, CA",earthquake,0.53,1.42999995,0.2,11,automatic,nc,nc
-2025-05-05T22:30:23.480Z,37.422,-113.40816666667,1.82,1.19,ml,7,80,0.1334,0.11,uu,uu80107036,2025-05-06T14:15:33.050Z,"9 km ENE of Pine Valley, Utah",earthquake,0.44,6.7,0.25535703170711,4,reviewed,uu,uu
-2025-05-05T22:28:24.920Z,37.444166666667,-113.39,12.17,1.16,ml,9,81,0.1084,0.12,uu,uu80003273,2025-05-06T14:13:45.730Z,"8 km WSW of New Harmony, Utah",earthquake,0.44,0.94,0.29680393251683,4,reviewed,uu,uu
