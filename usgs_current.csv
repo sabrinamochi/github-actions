@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-07T17:28:07.983Z,60.8127,-152.3775,14.5,1.2,ml,,,,0.33,ak,ak0255ubjgny,2025-05-07T17:29:36.127Z,"60 km WNW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-07T17:28:06.035Z,31.698,-104.464,6.1677,2,ml,7,94,0,0.3,tx,tx2025ixny,2025-05-07T17:35:19.092Z,"53 km S of Whites City, New Mexico",earthquake,0,3.1622807979584,0.1,7,automatic,tx,tx
+2025-05-07T17:28:06.301Z,31.691,-104.46,4.7018,1.7,ml,13,86,0,0.2,tx,tx2025ixny,2025-05-07T17:40:30.150Z,"54 km S of Whites City, New Mexico",earthquake,0,1.348433971405,0.2,11,automatic,tx,tx
 2025-05-07T17:25:34.210Z,35.3245,-117.8075,5.86,0.93,ml,22,96,0.065,0.21,ci,ci41146864,2025-05-07T17:29:02.974Z,"17 km WSW of Johannesburg, CA",earthquake,0.26,0.63,0.105,16,automatic,ci,ci
 2025-05-07T17:13:54.240Z,38.839500427246,-122.79049682617,3.0299999713898,0.4,md,7,210,0.001096,0.03,nc,nc75177971,2025-05-07T17:32:20.120Z,"6 km WNW of Cobb, CA",earthquake,1.91,2.1400001,0.18,8,automatic,nc,nc
 2025-05-07T17:07:53.900Z,33.7398333,-117.4336667,2.06,1.17,ml,9,116,0.03553,0.14,ci,ci41146832,2025-05-07T17:15:08.882Z,"13 km NW of Lake Elsinore, CA",earthquake,0.44,0.52,0.329,38,automatic,ci,ci
@@ -244,6 +244,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-06T20:33:40.678Z,-1.7618,-77.9397,161.307,4.2,mb,65,100,0.28,0.77,us,us7000pxkc,2025-05-06T21:03:50.040Z,"7 km SSE of Palora, Ecuador",earthquake,9.4,6.568,0.074,51,reviewed,us,us
 2025-05-06T20:23:19.610Z,38.817501068115,-122.82266998291,2.4300000667572,1.11,md,20,48,0.01001,0.01,nc,nc75177431,2025-05-06T20:57:18.957Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.18,24,automatic,nc,nc
 2025-05-06T20:09:21.980Z,62.3615,-150.8044,9.9,1.7,ml,,,,0.61,ak,ak0255spodgm,2025-05-06T20:11:42.677Z,"15 km S of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-05-06T20:08:57.330Z,49.101,-122.15533333333,-0.66,1.3,ml,10,257,0.07818,0.22,uw,uw62094887,2025-05-07T17:36:47.310Z,"8 km NE of Abbotsford, Canada",explosion,1.25,31.61,0.18510693596103,7,reviewed,uw,uw
 2025-05-06T20:00:10.890Z,38.834331512451,-122.81632995606,1.789999961853,0.79,md,11,58,0.01196,0.01,nc,nc75177426,2025-05-06T20:32:19.794Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.03999996,0.33,13,automatic,nc,nc
 2025-05-06T19:34:44.523Z,31.634,-104.03,6.6766,1.7,ml,33,30,0,0.1,tx,tx2025ivwt,2025-05-07T16:01:53.443Z,"41 km W of Mentone, Texas",earthquake,0.36840410169903,0.37051790255057,0.1,21,reviewed,tx,tx
 2025-05-06T19:33:15.000Z,34.221,-117.0416667,6.46,0.64,ml,6,148,0.04668,0.07,ci,ci41146064,2025-05-06T20:04:35.582Z,"6 km ENE of Running Springs, CA",earthquake,0.46,0.88,0.145,5,reviewed,ci,ci
@@ -260,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-06T18:10:52.014Z,31.604,-103.956,7.8046,2,ml,13,72,0,0,tx,tx2025ivtw,2025-05-07T13:34:07.360Z,"35 km NNW of Toyah, Texas",earthquake,0.34590865954798,0.47964028496714,0.2,12,reviewed,tx,tx
 2025-05-06T17:47:21.600Z,32.904,-116.9451667,4.71,1.16,ml,43,63,0.0684,0.22,ci,ci41145976,2025-05-06T18:13:11.328Z,"6 km NNW of Lakeside, CA",earthquake,0.22,0.63,0.184,27,automatic,ci,ci
 2025-05-06T17:45:32.888Z,-19.9786,169.3572,109.388,5.5,mww,62,64,3.169,0.91,us,us7000pxj7,2025-05-06T20:46:33.040Z,"49 km S of Isangel, Vanuatu",earthquake,8.08,7.246,0.066,22,reviewed,us,us
-2025-05-06T17:39:04.310Z,38.84033203125,-122.87767028809,2.5499999523163,0.44,md,8,132,0.007074,0.01,nc,nc75177396,2025-05-06T17:57:18.756Z,"13 km NW of The Geysers, CA",earthquake,0.45,0.699999988,0.26,10,automatic,nc,nc
