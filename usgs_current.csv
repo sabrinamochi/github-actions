@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-09T14:12:08.760Z,33.5999985,-117.3744965,19.94,1.26,ml,17,143,0.1812,0.4,ci,ci41148936,2025-05-09T14:14:30.120Z,"5 km SSW of Lakeland Village, CA",earthquake,2.3,9.46,0.62,10,automatic,ci,ci
+2025-05-09T14:12:08.760Z,33.5999985,-117.3744965,19.94,1.26,ml,17,143,0.1812,0.4,ci,ci41148936,2025-05-09T14:16:23.991Z,"5 km SSW of Lakeland Village, CA",earthquake,2.3,9.46,0.62,10,automatic,ci,ci
 2025-05-09T14:09:33.768Z,60.7367,-150.3798,39.5,1.1,ml,,,,0.5,ak,ak0255xkpu80,2025-05-09T14:11:34.515Z,"26 km SE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-09T14:06:01.801Z,61.8689,-149.6357,16.9,1.1,ml,,,,0.38,ak,ak0255xkp4lw,2025-05-09T14:08:44.689Z,"25 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-09T13:51:16.534Z,59.995,-152.8303,119.1,1.9,ml,,,,0.22,ak,ak0255xkddd1,2025-05-09T13:53:13.651Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-05-09T13:41:49.890Z,34.0056667,-117.5833333,4.34,2.24,ml,114,18,,0.19,ci,ci41148880,2025-05-09T14:10:15.509Z,"6 km WNW of Mira Loma, CA",earthquake,0.1,0.24,0.202,25,automatic,ci,ci
+2025-05-09T13:41:49.890Z,34.0056667,-117.5833333,4.34,2.24,ml,114,18,,0.19,ci,ci41148880,2025-05-09T14:23:09.322Z,"6 km WNW of Mira Loma, CA",earthquake,0.1,0.24,0.202,25,automatic,ci,ci
 2025-05-09T13:35:37.872Z,62.5536,-149.6818,61.3,1.4,ml,,,,0.54,ak,ak0255xk9zjv,2025-05-09T13:37:36.668Z,"24 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-09T13:31:59.500Z,17.987833333333,-66.809166666667,14.19,2.09,md,8,150,0.06791,0.14,pr,pr71481773,2025-05-09T13:53:40.980Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.51,0.99,0.12912076919942,5,reviewed,pr,pr
-2025-05-09T13:29:54.130Z,38.798000335693,-122.75066375732,1.4800000190735,1.32,md,20,96,0.00754,0.03,nc,nc75178921,2025-05-09T13:47:21.633Z,"2 km NNE of The Geysers, CA",earthquake,0.23,0.379999995,0.2,23,automatic,nc,nc
+2025-05-09T13:29:54.130Z,38.798000335693,-122.75066375732,1.4800000190735,1.32,md,20,96,0.00754,0.03,nc,nc75178921,2025-05-09T14:17:19.831Z,"2 km NNE of The Geysers, CA",earthquake,0.23,0.379999995,0.2,23,automatic,nc,nc
 2025-05-09T13:25:08.650Z,35.5986667,-117.4856667,10.52,0.71,ml,21,60,0.08332,0.16,ci,ci41148856,2025-05-09T13:28:43.544Z,"17 km E of Ridgecrest, CA",earthquake,0.26,0.54,0.186,10,automatic,ci,ci
 2025-05-09T13:21:48.341Z,60.0344,-152.4994,80.2,1.6,ml,,,,0.46,ak,ak0255xk70c2,2025-05-09T13:24:08.141Z,"43 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-09T13:14:58.819Z,63.2373,-151.538,0.8,1.4,ml,,,,0.86,ak,ak0255xk5j4p,2025-05-09T13:17:09.749Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -124,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-08T23:43:45.043Z,61.2488,-150.9496,19.1,1,ml,,,,0.18,ak,ak0255w2qpe0,2025-05-08T23:45:23.082Z,"13 km NNE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-08T23:41:57.180Z,38.801498413086,-122.73850250244,2.4800000190735,0.72,md,8,108,0.0166,0.01,nc,nc75178696,2025-05-09T00:07:20.235Z,"3 km SW of Cobb, CA",earthquake,0.36,1.38999999,0.11,10,automatic,nc,nc
 2025-05-08T23:14:21.510Z,66.8104,-147.5783,4.2,2.2,ml,,,,0.83,ak,ak0255w2kfsm,2025-05-08T23:17:16.630Z,"50 km N of Beaver, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-05-08T23:06:03.940Z,40.331833333333,-111.44266666667,10.47,2.29,ml,39,71,0.1445,0.23,uu,uu80107386,2025-05-09T14:23:13.210Z,"6 km SSW of Wallsburg, Utah",earthquake,0.34,0.45,0.091308340762048,17,reviewed,uu,uu
 2025-05-08T23:04:41.770Z,34.3018333,-118.4138333,12.17,0.89,ml,14,172,0.0322,0.11,ci,ci41148512,2025-05-08T23:42:43.132Z,"3 km NE of San Fernando, CA",earthquake,0.35,0.45,0.189,8,reviewed,ci,ci
 2025-05-08T23:02:26.080Z,33.7786667,-115.9396667,1.62,0.89,ml,15,116,0.1157,0.19,ci,ci41148520,2025-05-09T00:58:29.394Z,"24 km NE of Thermal, CA",earthquake,0.37,0.57,0.111,14,reviewed,ci,ci
 2025-05-08T23:01:08.734Z,64.6439,-149.3281,16.1,1,ml,,,,0.77,ak,ak0255w2hmic,2025-05-08T23:03:47.633Z,"10 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
