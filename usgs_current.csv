@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-09T15:34:07.710Z,38.824001312256,-122.78500366211,0.64999997615814,0.78,md,13,66,0.01124,0.02,nc,nc75178951,2025-05-09T15:35:43.412Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.449999988,0.2,14,automatic,nc,nc
-2025-05-09T15:33:20.695Z,32.113,-101.056,2.3796,2.5,ml,57,104,0.2,0.5,tx,tx2025jbbe,2025-05-09T15:36:57.001Z,"27 km S of Westbrook, Texas",earthquake,0,0.96443140506744,0.1,37,automatic,tx,tx
+2025-05-09T15:33:20.695Z,32.113,-101.056,2.3796,2.5,ml,57,104,0.2,0.5,tx,tx2025jbbe,2025-05-09T15:40:32.421Z,"27 km S of Westbrook, Texas",earthquake,0,0.96443140506744,0.1,37,automatic,tx,tx
 2025-05-09T15:21:05.372Z,61.2218,-147.5289,0,1.3,ml,,,,0.58,ak,ak0255xlds89,2025-05-09T15:23:05.283Z,"60 km NW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-09T15:18:29.350Z,38.835998535156,-122.7988357544,1.6699999570847,1.09,md,22,65,0.007055,0.01,nc,nc75178946,2025-05-09T15:20:08.066Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.330000013,0.26,22,automatic,nc,nc
 2025-05-09T15:17:29.277Z,-12.3737,166.8435,237.255,5.1,mww,46,84,3.075,0.92,us,us7000py8y,2025-05-09T15:33:09.040Z,"183 km NNW of Sola, Vanuatu",earthquake,5.92,7.929,0.103,9,reviewed,us,us
@@ -63,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-09T08:19:03.430Z,34.0071667,-116.788,16.67,0.62,ml,34,72,0.03239,0.17,ci,ci41148720,2025-05-09T08:23:30.238Z,"10 km N of Cabazon, CA",earthquake,0.2,0.5,0.197,18,automatic,ci,ci
 2025-05-09T08:18:48.300Z,38.780166625977,-122.7131652832,31.479999542236,1.34,md,12,113,0.06993,0.18,nc,nc75178841,2025-05-09T09:32:19.011Z,"2 km WNW of Anderson Springs, CA",earthquake,5.05,7.30000019,0.21,3,automatic,nc,nc
 2025-05-09T08:12:51.982Z,62.4767,-149.0863,50.2,1.4,ml,,,,0.84,ak,ak0255xh5x5a,2025-05-09T08:14:55.104Z,"52 km E of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-05-09T08:06:45.210Z,36.535666666667,-89.589166666667,8.51,1.96,md,26,43,0.03813,0.04,nm,nm60605861,2025-05-09T15:38:56.830Z,"2 km NE of Marston, Missouri",earthquake,0.24,0.58,0.061916780110086,23,reviewed,nm,nm
 2025-05-09T07:51:38.070Z,38.826999664307,-122.81983184815,5.0799999237061,0.79,md,6,89,0.008429,0.01,nc,nc75178836,2025-05-09T08:12:18.447Z,"8 km NNW of The Geysers, CA",earthquake,1.54,7.01999998,0.53,9,automatic,nc,nc
 2025-05-09T07:38:15.276Z,61.4894,-150.2748,48.6,1.2,ml,,,,0.54,ak,ak0255xgpzbr,2025-05-09T07:39:59.889Z,"14 km ESE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-09T07:36:17.700Z,35.8051667,-118.0271667,3.65,0.46,ml,16,80,0.1051,0.08,ci,ci41148712,2025-05-09T07:39:42.452Z,"18 km SW of Little Lake, CA",earthquake,0.16,0.47,0.11,7,automatic,ci,ci
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-08T15:47:50.770Z,33.0685,-116.4128333,14.2,0.48,ml,22,68,0.02304,0.13,ci,ci41147928,2025-05-08T17:28:26.607Z,"18 km E of Julian, CA",earthquake,0.22,0.5,0.085,8,reviewed,ci,ci
 2025-05-08T15:45:18.330Z,37.584499359131,-122.00350189209,7.039999961853,2.16,md,38,31,0.03879,0.21,nc,nc75178536,2025-05-08T19:20:15.010Z,"2 km SE of Union City, CA",earthquake,0.35,0.779999971,0.12,31,automatic,nc,nc
 2025-05-08T15:42:31.727Z,60.5096,-143.0174,7.7,2.2,ml,,,,0.51,ak,ak0255vxyzt0,2025-05-08T15:44:18.615Z,"103 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-05-08T15:37:25.143Z,36.7833,-115.9994,7.2,-0.1,ml,4,141.48,0.04,0.1367,nn,nn00897412,2025-05-09T13:17:52.760Z,"37 km NW of Indian Springs, Nevada",earthquake,,4.4,0.21,2,reviewed,nn,nn
