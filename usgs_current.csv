@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-10T04:30:50.110Z,35.8595,-117.69,7.99,0.63,ml,21,46,0.07928,0.13,ci,ci41149856,2025-05-10T04:34:19.595Z,"21 km ESE of Little Lake, CA",earthquake,0.2,0.58,0.121,11,automatic,ci,ci
+2025-05-10T04:29:36.078Z,59.815,-153.2645,34.1,1.8,ml,,,,0.8,ak,ak0255z2f55z,2025-05-10T04:31:46.653Z,"47 km E of Pedro Bay, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2025-05-10T04:18:41.558Z,60.5029,-143.0384,16,1.6,ml,,,,0.35,ak,ak0255z2cspn,2025-05-10T04:19:55.479Z,"103 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-10T04:09:48.010Z,35.3565,-117.809,8.08,1.25,ml,34,37,0.09384,0.16,ci,ci41149840,2025-05-10T04:13:32.354Z,"16 km W of Johannesburg, CA",earthquake,0.17,0.6,0.175,26,automatic,ci,ci
 2025-05-10T04:07:52.823Z,58.711,-147.6636,35.8,2.5,ml,,,,0.41,ak,ak0255z2agpe,2025-05-10T04:11:19.492Z,"152 km S of Chenega, Alaska",earthquake,,24.4,,,automatic,ak,ak
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-10T01:55:35.660Z,38.817665100098,-122.76349639893,1.4099999666214,1.06,md,19,113,0.01373,0.04,nc,nc75179146,2025-05-10T02:42:19.838Z,"4 km W of Cobb, CA",earthquake,0.26,0.389999986,0.09,20,automatic,nc,nc
 2025-05-10T01:53:57.387Z,66.208,-150.2712,3.8,1.1,ml,,,,0.62,ak,ak0255z0s16r,2025-05-10T02:05:10.350Z,"57 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-10T01:50:31.748Z,62.2368,-149.1683,20.6,1.2,ml,,,,0.24,ak,ak0255z0rc1y,2025-05-10T01:52:26.620Z,"36 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-05-10T01:46:35.640Z,33.4483333,-116.6413333,7.21,0.53,ml,30,38,0.05664,0.12,ci,ci41149728,2025-05-10T01:50:41.085Z,"12 km SSE of Anza, CA",earthquake,0.15,0.44,0.079,13,automatic,ci,ci
+2025-05-10T01:46:35.640Z,33.4488333,-116.6411667,7.17,0.56,ml,23,38,0.05616,0.11,ci,ci41149728,2025-05-10T04:33:32.159Z,"12 km SSE of Anza, CA",earthquake,0.17,0.45,0.052,9,reviewed,ci,ci
 2025-05-10T01:42:36.959Z,61.74,-150.4335,46.4,2,ml,,,,0.33,ak,ak0255z0pmq7,2025-05-10T01:44:05.425Z,"20 km W of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-10T01:29:19.620Z,61.9115,-147.6071,33.5,1.4,ml,,,,1,ak,ak0255z0mt2y,2025-05-10T01:31:06.724Z,"11 km NNE of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-05-10T01:06:49.727Z,39.1678,-119.0219,9.8,1.4,ml,15,66.91,0.013,0.091,nn,nn00897448,2025-05-10T01:08:56.007Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.15,7,automatic,nn,nn
@@ -227,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-09T04:49:11.470Z,38.820999145508,-122.78366851807,2.3199999332428,1.04,md,8,97,0.008073,0.01,nc,nc75178761,2025-05-09T05:12:17.195Z,"5 km W of Cobb, CA",earthquake,0.58,0.810000002,0.28,11,automatic,nc,nc
 2025-05-09T04:47:11.010Z,33.536,-116.7213333,5.5,0.55,ml,23,37,0.03221,0.12,ci,ci41148696,2025-05-09T18:35:47.329Z,"5 km WSW of Anza, CA",earthquake,0.16,0.36,0.114,13,reviewed,ci,ci
 2025-05-09T04:36:38.920Z,35.891,-117.7121667,4.59,0.68,ml,20,56,0.07576,0.18,ci,ci41148688,2025-05-09T18:43:46.397Z,"18 km ESE of Little Lake, CA",earthquake,0.24,0.52,0.157,9,reviewed,ci,ci
-2025-05-09T04:34:51.674Z,36.9082,136.4368,10,4.5,mb,42,56,1.465,1.21,us,us7000py5i,2025-05-09T21:52:09.040Z,"31 km W of Hakui, Japan",earthquake,6.32,1.87,0.083,42,reviewed,us,us
-2025-05-09T04:34:39.990Z,36.0365,-117.7621667,1.65,0.93,ml,23,41,0.01154,0.17,ci,ci41148680,2025-05-09T18:44:03.966Z,"17 km E of Coso Junction, CA",earthquake,0.22,0.19,0.161,14,reviewed,ci,ci
-2025-05-09T04:31:40.380Z,61.291,-152.34166666667,1.24,-0.74,ml,6,155,0.03525,0.08,av,av93601076,2025-05-09T18:45:38.210Z,"69 km WNW of Tyonek, Alaska",earthquake,0.34,1.48,0.14916069790789,5,reviewed,av,av
