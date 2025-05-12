@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-12T18:16:28.631Z,32.001,-102.218,7.541,2,ml,10,162,0,0.5,tx,tx2025jgtk,2025-05-12T18:27:27.982Z,"13 km W of Midland, Texas",earthquake,0,3.9413776397705,0.3,7,automatic,tx,tx
+2025-05-12T18:16:28.631Z,32.001,-102.218,7.541,2,ml,10,162,0,0.5,tx,tx2025jgtk,2025-05-12T18:27:29.983Z,"13 km W of Midland, Texas",earthquake,0,3.9413776397705,0.3,7,automatic,tx,tx
 2025-05-12T18:16:11.780Z,34.1753333,-117.4296667,6.34,1.15,ml,35,71,0.01732,0.16,ci,ci41151656,2025-05-12T18:20:10.610Z,"6 km SSW of Devore, CA",earthquake,0.24,0.39,0.213,31,automatic,ci,ci
 2025-05-12T17:58:07.670Z,38.840000152588,-122.87666320801,2.4100000858307,1.01,md,18,88,0.005592,0.02,nc,nc75181172,2025-05-12T18:00:14.530Z,"13 km NW of The Geysers, CA",earthquake,0.31,0.50999999,0.12,19,automatic,nc,nc
 2025-05-12T17:53:35.000Z,38.838832855225,-122.81033325195,1.8600000143051,0.72,md,12,64,0.01542,0.01,nc,nc75181157,2025-05-12T18:17:20.200Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.699999988,0.21,13,automatic,nc,nc
@@ -187,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T20:25:41.007Z,60.9264,-150.2546,41,1,ml,,,,0.19,ak,ak02560zgkus,2025-05-11T20:27:09.712Z,"23 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-11T20:15:17.790Z,38.805999755859,-122.81716918945,2.9800000190735,1.35,md,24,59,0.00981,0.02,nc,nc75179916,2025-05-11T21:37:20.867Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.479999989,0.2,25,automatic,nc,nc
 2025-05-11T20:15:13.200Z,56.8283,-154.9668,3.8,2,ml,,,,0.46,ak,ak02560zeed5,2025-05-12T12:47:46.040Z,"50 km WSW of Akhiok, Alaska",earthquake,,1.2,,,reviewed,ak,ak
-2025-05-11T20:14:42.200Z,34.9593333,-118.6858333,3.38,1.62,ml,54,55,0.05365,0.23,ci,ci41151008,2025-05-11T20:25:27.370Z,"21 km NE of Lebec, CA",earthquake,0.21,0.57,0.188,26,automatic,ci,ci
+2025-05-11T20:14:42.210Z,34.9583333,-118.6835,4.46,1.73,ml,48,71,0.0521,0.19,ci,ci41151008,2025-05-12T18:30:43.630Z,"21 km NE of Lebec, CA",earthquake,0.19,0.44,0.141,45,reviewed,ci,ci
 2025-05-11T19:47:11.380Z,19.4186668396,-155.26016235352,2.3900001049042,1.73,ml,13,176,0.006551,0.150000006,hv,hv74670777,2025-05-11T19:50:03.040Z,"3 km SW of Volcano, Hawaii",earthquake,0.49,0.319999993,0.31,15,automatic,hv,hv
 2025-05-11T19:44:43.872Z,32.006,-103.801,7.9327,2,ml,24,43,0,0.2,tx,tx2025jfam,2025-05-12T14:22:59.005Z,"35 km SE of Malaga, New Mexico",earthquake,0.54076131684271,0.52526427436048,0.2,19,reviewed,tx,tx
 2025-05-11T19:33:07.170Z,38.745666503906,-122.68949890137,-0.28999999165535,0.95,md,8,146,0.02374,0.06,nc,nc75179901,2025-05-11T20:22:19.361Z,"3 km S of Anderson Springs, CA",earthquake,0.46,1.38999999,0.31,7,automatic,nc,nc
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T18:48:45.779Z,-6.179,151.4615,10,4.7,mb,33,149,2.095,0.79,us,us7000pypr,2025-05-11T19:11:59.040Z,"162 km ESE of Kimbe, Papua New Guinea",earthquake,11.25,1.923,0.071,59,reviewed,us,us
 2025-05-11T18:43:36.644Z,64.1555,-147.5502,2.7,1.2,ml,,,,0.55,ak,ak02560ydk74,2025-05-11T18:45:47.659Z,"51 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-11T18:34:57.990Z,45.6036,26.4613,136.158,4.2,mb,41,50,0.38,1.01,us,us7000pypm,2025-05-11T19:09:22.286Z,"13 km NNE of Gura Teghii, Romania",earthquake,7.56,5.457,0.108,24,reviewed,us,us
-2025-05-11T18:27:50.270Z,38.838665008545,-122.82050323486,2.8399999141693,0.68,md,7,136,0.0117,0.01,nc,nc75179891,2025-05-11T19:22:18.976Z,"9 km WNW of Cobb, CA",earthquake,1.38,4.44999981,,1,automatic,nc,nc
