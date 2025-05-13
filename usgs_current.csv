@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-13T01:38:18.040Z,36.276000976562,-120.86416625977,9.3599996566772,2.56,md,61,94,0.07863,0.18,nc,nc75181332,2025-05-13T01:40:15.358Z,"21 km NE of San Lucas, CA",earthquake,0.31,0.689999998,0.13,59,automatic,nc,nc
+2025-05-13T01:38:18.040Z,36.276000976562,-120.86416625977,9.3599996566772,2.56,md,61,94,0.07863,0.18,nc,nc75181332,2025-05-13T01:42:27.600Z,"21 km NE of San Lucas, CA",earthquake,0.31,0.689999998,0.13,59,automatic,nc,nc
 2025-05-13T01:28:29.861Z,46.6304,-161.448,12.9,2.2,ml,,,,0.76,ak,ak02563z8nmy,2025-05-13T01:34:37.449Z,"south of Alaska",earthquake,,654.5,,,automatic,ak,ak
 2025-05-13T01:19:41.650Z,36.366500854492,-120.94633483887,13.369999885559,1.14,md,6,131,0.04658,0.02,nc,nc75181322,2025-05-13T01:21:20.244Z,"24 km NE of King City, CA",earthquake,0.53,1.76999998,0.27,5,automatic,nc,nc
 2025-05-13T01:17:59.230Z,36.377834320068,-120.95850372315,9.5600004196167,1.96,md,27,67,0.05757,0.09,nc,nc75181317,2025-05-13T01:37:19.442Z,"24 km SSE of Pinnacles, CA",earthquake,0.25,0.689999998,0.18,27,automatic,nc,nc
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-12T23:33:19.904Z,31.648,-104.105,3.8087,1.6,ml,16,79,0,0.5,tx,tx2025jhdo,2025-05-12T23:41:12.767Z,"47 km NW of Toyah, Texas",earthquake,0,1.2614340782166,0.1,12,automatic,tx,tx
 2025-05-12T23:30:41.240Z,35.911,-117.74,8.53,1.27,ml,14,120,0.07378,0.09,ci,ci41151904,2025-05-12T23:34:25.556Z,"15 km E of Little Lake, CA",earthquake,0.2,0.48,0.209,19,automatic,ci,ci
 2025-05-12T23:30:11.690Z,36.6203,25.6441,16.247,4.9,mww,98,56,1.464,0.84,us,us7000pyx9,2025-05-13T00:54:09.141Z,"29 km NE of Firá, Greece",earthquake,3.93,3.63,0.057,30,reviewed,us,us
-2025-05-12T23:26:06.136Z,60.7376,-151.476,67.2,2.4,ml,,,,0.24,ak,ak02562osd6t,2025-05-12T23:27:36.393Z,"11 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-05-12T23:26:06.136Z,60.7376,-151.476,67.2,2.4,ml,,,,0.24,ak,ak02562osd6t,2025-05-13T01:45:33.040Z,"11 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-05-12T23:20:36.477Z,38.1591,-117.8833,8.6,2.2,ml,11,50.07,0.089,0.1329,nn,nn00897520,2025-05-12T23:42:19.702Z,"32 km SE of Mina, Nevada",earthquake,,3.2,0.44,6,reviewed,nn,nn
 2025-05-12T23:17:58.144Z,31.654,-104.367,4.008,2.1,ml,18,70,0.1,0.3,tx,tx2025jhdd,2025-05-12T23:29:27.669Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3392134904861,0.2,12,automatic,tx,tx
 2025-05-12T23:16:33.340Z,60.9637,-152.0817,93.2,1.3,ml,,,,0.16,ak,ak02562oqa4m,2025-05-12T23:17:48.675Z,"52 km WSW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -23,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-12T23:09:25.270Z,62.1913,-150.0805,15.7,1.8,ml,,,,0.46,ak,ak02562oorhr,2025-05-12T23:11:00.303Z,"12 km WNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-12T23:08:02.974Z,-32.5408,-71.399,67.451,4,mb,31,150,0.524,0.63,us,us7000pyx1,2025-05-13T00:47:05.040Z,"18 km WSW of La Ligua, Chile",earthquake,4.75,4.682,0.195,7,reviewed,us,us
 2025-05-12T23:00:17.890Z,61.353,-152.0335,3.95,-0.23,ml,4,321,0.1056,0.15,av,av93041189,2025-05-13T01:35:14.340Z,"56 km WNW of Beluga, Alaska",earthquake,1.59,0.72,0.15833900847164,4,reviewed,av,av
+2025-05-12T22:58:42.790Z,61.277666666667,-152.246,3.37,-0.15,ml,5,172,0.04563,0.04,av,av93041194,2025-05-13T01:45:04.430Z,"64 km WNW of Tyonek, Alaska",earthquake,0.36,0.48,0.1577017138595,5,reviewed,av,av
 2025-05-12T22:57:20.007Z,31.673,-104.463,14.2419,1.8,ml,8,70,0,0.9,tx,tx2025jhci,2025-05-12T23:26:54.643Z,"56 km S of Whites City, New Mexico",earthquake,0,3.5059862136841,0.4,6,automatic,tx,tx
 2025-05-12T22:56:31.544Z,59.3112,-153.3721,86.3,1.6,ml,,,,0.52,ak,ak02562odf0y,2025-05-12T22:58:27.120Z,"67 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-12T22:43:08.220Z,44.183166666667,-115.11166666667,5.66,1.46,ml,9,109,0.2057,0.18,mb,mb90084878,2025-05-12T23:05:46.790Z,"14 km WSW of Stanley, Idaho",earthquake,0.59,2.27,0.20625459504456,9,reviewed,mb,mb
