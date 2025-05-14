@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-14T21:59:31.850Z,38.820167541504,-122.76650238037,1.8899999856949,1.22,md,17,113,0.01063,0.02,nc,nc75182097,2025-05-14T22:01:10.621Z,"4 km W of Cobb, CA",earthquake,0.27,0.439999998,0.21,19,automatic,nc,nc
 2025-05-14T21:38:47.070Z,31.637,-104.439,4.884,1.7,ml,15,92,0,0.4,tx,tx2025jkqt,2025-05-14T21:51:46.552Z,"60 km S of Whites City, New Mexico",earthquake,0,1.610199213028,0.1,12,automatic,tx,tx
 2025-05-14T21:30:31.580Z,38.840831756592,-122.82216644287,1.5700000524521,0.76,md,14,64,0.01064,0.02,nc,nc75182092,2025-05-14T21:57:15.307Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.709999979,0.17,15,automatic,nc,nc
 2025-05-14T21:22:25.942Z,-6.0955,147.8939,62.567,4.5,mb,26,110,3.367,0.55,us,us7000pz99,2025-05-14T21:44:35.040Z,"51 km N of Finschhafen, Papua New Guinea",earthquake,8.21,9.928,0.115,22,reviewed,us,us
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T20:00:20.480Z,38.812000274658,-122.8048324585,2.2000000476837,0.92,md,24,42,0.008464,0.02,nc,nc75182052,2025-05-14T20:52:15.879Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.389999986,0.18,25,automatic,nc,nc
 2025-05-14T19:48:00.650Z,34.1508333,-118.349,16.7,1.44,ml,34,73,0.02702,0.17,ci,ci41152936,2025-05-14T19:52:12.431Z,"1 km NNE of Universal City, CA",earthquake,0.29,0.42,0.229,30,automatic,ci,ci
 2025-05-14T19:46:59.510Z,33.0623333,-116.6075,12.89,1,ml,35,33,0.02039,0.23,ci,ci41152928,2025-05-14T20:20:20.060Z,"2 km SSW of Julian, CA",earthquake,0.25,0.64,0.169,24,reviewed,ci,ci
-2025-05-14T19:41:53.080Z,18.3505,-66.2521,67,3.65,md,26,167,0.1735,0.19,pr,pr2025134001,2025-05-14T21:26:30.594Z,"1 km SSE of Galateo, Puerto Rico",earthquake,0.75,0.57,0.1,20,reviewed,pr,pr
+2025-05-14T19:41:53.080Z,18.3505,-66.2521,67,3.65,md,26,167,0.1735,0.19,pr,pr2025134001,2025-05-14T22:01:32.975Z,"1 km SSE of Galateo, Puerto Rico",earthquake,0.75,0.57,0.1,20,reviewed,pr,pr
 2025-05-14T19:31:41.284Z,62.6291,-149.7832,61.4,1.6,ml,,,,0.42,ak,ak02565xih1s,2025-05-14T19:33:37.680Z,"25 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-14T19:27:42.240Z,33.9263333,-116.9216667,9.71,0.87,ml,30,45,0.1387,0.19,ci,ci41152888,2025-05-14T20:20:34.061Z,"4 km W of Banning, CA",earthquake,0.25,0.66,0.215,25,reviewed,ci,ci
 2025-05-14T18:55:23.241Z,31.615,-104.433,4.4765,1.6,ml,14,103,0,0.4,tx,tx2025jklj,2025-05-14T19:03:57.087Z,"62 km S of Whites City, New Mexico",earthquake,0,1.7895138263702,0.2,9,automatic,tx,tx
@@ -52,7 +53,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T16:08:17.310Z,36.641498565674,-121.30766296387,7.0300002098083,1.45,md,11,56,0.03109,0.17,nc,nc75181982,2025-05-14T17:47:19.654Z,"17 km S of Tres Pinos, CA",earthquake,0.58,1.39999998,0.32,10,automatic,nc,nc
 2025-05-14T16:01:36.789Z,36.01016667,-97.9305,5.98,2.74,ml,97,39,0,0.16,ok,ok2025jkfq,2025-05-14T19:33:05.822Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.3,0.27,39,reviewed,ok,ok
 2025-05-14T15:35:29.790Z,35.2543333,-119.4361667,5.59,1.95,ml,32,91,0.09849,0.23,ci,ci41152672,2025-05-14T15:39:08.557Z,"13 km N of Taft, CA",earthquake,0.3,1.47,0.2,27,automatic,ci,ci
-2025-05-14T15:26:54.944Z,37.4821,-115.4621,9.6,1.1,ml,11,214.29,0.335,0.2375,nn,nn00897594,2025-05-14T15:29:35.914Z,"24 km WSW of Hiko, Nevada",earthquake,,1.5,0.21,8,automatic,nn,nn
 2025-05-14T15:18:02.630Z,33.997,-118.2133333,10.37,1.66,ml,24,240,0.03442,0.16,ci,ci41152656,2025-05-14T15:22:33.117Z,"2 km NNE of Huntington Park, CA",earthquake,1.58,1.19,0.275,30,automatic,ci,ci
 2025-05-14T15:09:33.747Z,41.2083,-116.7162,7.8,2,ml,7,255.17,0.32,0.1844,nn,nn00897610,2025-05-14T19:47:07.039Z,"57 km NE of Valmy, Nevada",earthquake,,3.4,0.24,5,reviewed,nn,nn
 2025-05-14T15:07:32.150Z,38.796165466309,-122.77883148193,3.3800001144409,1.29,md,31,75,0.007701,0.02,nc,nc75181977,2025-05-14T17:12:18.409Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.439999998,0.09,32,automatic,nc,nc
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T07:08:30.140Z,38.817665100098,-122.80867004394,3.1800000667572,0.57,md,13,71,0.005826,0.01,nc,nc75181822,2025-05-14T08:07:16.774Z,"6 km NW of The Geysers, CA",earthquake,0.35,1.07000005,0.35,13,automatic,nc,nc
 2025-05-14T07:08:01.130Z,38.818832397461,-122.80683135986,2.9300000667572,1.77,md,31,38,0.0141,0.03,nc,nc75181817,2025-05-14T07:42:17.523Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.13,36,automatic,nc,nc
 2025-05-14T06:58:07.466Z,39.1536,-119.0655,7.5,1.2,ml,17,77.96,0.018,0.136,nn,nn00897581,2025-05-14T18:06:10.227Z,"20 km NNE of Yerington, Nevada",earthquake,,0.7,0.2,7,reviewed,nn,nn
+2025-05-14T06:57:32.940Z,61.315,-152.243,-2.27,-1.07,ml,6,207,0.06537,0.16,av,av93606156,2025-05-14T22:02:03.100Z,"65 km WNW of Beluga, Alaska",earthquake,0.71,2.13,0.27016266796971,5,reviewed,av,av
 2025-05-14T06:53:28.300Z,36.01166667,-97.92916667,5.77,1.98,ml,87,47,0.07468534419,0.17,ok,ok2025jjno,2025-05-14T12:30:23.934Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.3,0.25,36,reviewed,ok,ok
 2025-05-14T06:51:59.759Z,36.01583333,-97.92816667,5.39,1.24,ml,71,48,0.07828463788,0.29,ok,ok2025jjnm,2025-05-14T13:27:00.150Z,"4 km NNW of Dover, Oklahoma",earthquake,,0.6,0.26,26,reviewed,ok,ok
 2025-05-14T06:39:16.519Z,36.01183333,-97.92866667,5.97,2.01,ml,72,39,0.07468534419,0.17,ok,ok2025jjnc,2025-05-14T21:48:37.818Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.4,0.27,31,reviewed,ok,ok
