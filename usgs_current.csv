@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-13T23:49:26.992Z,39.5303,-119.629,1.8,1.6,ml,11,158.01,0.134,0.2277,nn,nn00897571,2025-05-13T23:51:22.798Z,"10 km E of Sparks, Nevada",earthquake,,4.8,0.09,7,automatic,nn,nn
+2025-05-13T23:45:00.690Z,17.954,-66.925,10.76,2.03,md,5,209,0.04831,0.05,pr,pr71482353,2025-05-13T23:52:29.180Z,"2 km SW of Guánica, Puerto Rico",earthquake,1.19,0.48,0.11450083066651,5,reviewed,pr,pr
 2025-05-13T23:22:35.474Z,60.4861,-151.5486,30.8,1.4,ml,,,,0.66,ak,ak02564cax2z,2025-05-13T23:24:24.779Z,"16 km WNW of Kalifornsky, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-13T23:17:13.850Z,38.787166595459,-122.76699829102,2.6300001144409,0.95,md,12,78,0.0146,0.01,nc,nc75181667,2025-05-13T23:32:20.240Z,"1 km NNW of The Geysers, CA",earthquake,0.31,0.74000001,0.16,12,automatic,nc,nc
 2025-05-13T23:07:48.712Z,62.3424,-149.1551,0,1.9,ml,,,,0.61,ak,ak02564c7qd3,2025-05-13T23:09:47.062Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-13T22:51:16.192Z,35.2779,26.9423,78.42,6.1,mww,70,51,1.338,0.9,us,us7000pz2p,2025-05-13T23:49:59.156Z,"15 km S of Fry, Greece",earthquake,4.06,6.77,0.039,63,reviewed,us,us
+2025-05-13T22:51:16.192Z,35.2779,26.9423,78.42,6.1,mww,70,51,1.338,0.9,us,us7000pz2p,2025-05-14T00:00:33.195Z,"15 km S of Fry, Greece",earthquake,4.06,6.77,0.039,63,reviewed,us,us
 2025-05-13T22:43:48.370Z,33.4741667,-116.5043333,12.14,1.29,ml,49,27,0.08432,0.18,ci,ci41152408,2025-05-13T22:47:50.077Z,"18 km ESE of Anza, CA",earthquake,0.16,0.42,0.169,28,automatic,ci,ci
 2025-05-13T22:38:10.238Z,39.5616,-119.5034,5.4,1.3,ml,9,93.16,0.356,0.3199,nn,nn00897560,2025-05-13T23:33:28.959Z,"20 km ESE of Spanish Springs, Nevada",explosion,,2.3,0.31,5,automatic,nn,nn
 2025-05-13T22:34:02.605Z,63.5578,-150.8551,0,1.6,ml,,,,0.97,ak,ak02564brzj8,2025-05-13T22:36:44.330Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -42,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T17:46:07.330Z,48.321333333333,-122.7315,29.32,2.07,ml,41,29,0.04083,0.06,uw,uw62098547,2025-05-13T17:59:43.930Z,"4 km WSW of Ault Field, Washington",earthquake,0.19,0.38,0.15965159840795,42,reviewed,uw,uw
 2025-05-13T17:44:36.328Z,63.0717,-151.2149,109,1.6,ml,,,,0.22,ak,ak025648v1v7,2025-05-13T21:12:30.910Z,"58 km SSE of Denali National Park, Alaska",earthquake,,1,,,reviewed,ak,ak
 2025-05-13T17:30:59.115Z,39.0551,-118.5598,14.1,1.6,ml,14,94.69,0.356,0.1233,nn,nn00897541,2025-05-13T18:33:26.915Z,"24 km ENE of Schurz, Nevada",earthquake,,2.9,0.4,5,reviewed,nn,nn
+2025-05-13T17:30:17.290Z,58.154333333333,-155.327,1.36,-0.45,ml,7,201,0.05583,0.11,av,av93605586,2025-05-13T23:58:11.330Z,"83 km NW of Karluk, Alaska",earthquake,0.36,0.67,0.14460482612328,7,reviewed,av,av
 2025-05-13T17:17:27.210Z,19.171166666667,-67.774,20.79,3.33,md,13,223,0.8701,0.25,pr,pr71482318,2025-05-13T18:28:25.040Z,"93 km NE of Punta Cana, Dominican Republic",earthquake,1.32,22.82,0.099231583488647,7,reviewed,pr,pr
 2025-05-13T16:54:31.550Z,19.263334274292,-155.34066772461,31.069999694824,2.09,ml,51,144,0.04533,0.180000007,hv,hv74672127,2025-05-13T16:57:46.330Z,"15 km ENE of Pāhala, Hawaii",earthquake,0.51,0.400000006,1,5,automatic,hv,hv
 2025-05-13T16:52:35.616Z,27.3434,140.0725,453.96,5.5,mww,205,47,1.897,0.9,us,us7000pyzs,2025-05-13T19:19:17.629Z,"Bonin Islands, Japan region",earthquake,8.44,3.668,0.062,25,reviewed,us,us
@@ -197,10 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T01:09:46.927Z,32.088,-102.083,8.0322,1.3,ml,17,60,0,0.2,tx,tx2025jhgs,2025-05-13T15:17:53.394Z,"10 km N of Midland, Texas",earthquake,0.65085729624095,0.93788272595465,0.2,13,reviewed,tx,tx
 2025-05-13T00:48:00.545Z,-51.4209,-71.859,10,5.1,mww,80,100,1.45,0.68,us,us7000pyxf,2025-05-13T11:35:20.998Z,"30 km NE of 28 de Noviembre, Argentina",earthquake,7.31,1.682,0.078,16,reviewed,us,us
 2025-05-13T00:41:13.820Z,54.107,-166.00516666667,19.38,1.9,ml,18,64,0.0173,0.27,av,av93605066,2025-05-13T18:03:00.860Z,"15 km WSW of Akutan, Alaska",earthquake,1.16,0.7,0.37370584130026,18,reviewed,av,av
+2025-05-13T00:29:08.160Z,47.306,-122.73783333333,23,1.08,ml,34,82,0.04788,0.2,uw,uw62098282,2025-05-14T00:01:06.110Z,"3 km S of Key Center, Washington",earthquake,0.28,0.56,0.23496663631338,11,reviewed,uw,uw
 2025-05-13T00:28:03.950Z,44.6365,-111.0245,11.77,1.94,ml,17,55,0.05327,0.18,uu,uu80108071,2025-05-13T13:18:01.280Z,"6 km ESE of West Yellowstone, Montana",earthquake,0.32,0.45,0.24738711095844,4,reviewed,uu,uu
 2025-05-13T00:21:48.905Z,62.1096,-149.4714,36.1,1.6,ml,,,,0.69,ak,ak02563ylrhm,2025-05-13T00:24:24.414Z,"20 km ESE of Susitna North, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-05-13T00:01:57.863Z,30.9375,99.0782,10,4.3,mb,39,89,6.982,0.46,us,us7000pyxb,2025-05-13T03:28:26.040Z,"182 km E of Qamdo, China",earthquake,11.21,1.72,0.097,30,reviewed,us,us
-2025-05-12T23:59:27.620Z,61.257,-146.6859,25.5,1.5,ml,,,,1.01,ak,ak02562ozhh6,2025-05-13T00:01:27.771Z,"22 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-12T23:55:56.630Z,35.9103333,-117.7411667,8.14,1.09,ml,11,119,0.07332,0.08,ci,ci41151944,2025-05-13T13:14:03.134Z,"15 km E of Little Lake, CA",earthquake,0.27,0.54,0.205,15,reviewed,ci,ci
-2025-05-12T23:54:45.660Z,35.9093333,-117.7426667,7.92,1.07,ml,8,129,0.07284,0.07,ci,ci41151952,2025-05-13T13:14:19.770Z,"15 km ESE of Little Lake, CA",earthquake,0.24,0.57,0.227,15,reviewed,ci,ci
-2025-05-12T23:52:46.141Z,56.9105,-154.8957,12.2,3.6,ml,,,,1.19,ak,ak02562oy117,2025-05-13T19:21:12.040Z,"44 km W of Akhiok, Alaska",earthquake,,0.6,,,reviewed,ak,ak
