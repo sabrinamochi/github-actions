@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-15T10:48:35.550Z,38.816333770752,-122.82516479492,2.6500000953674,0.76,md,12,75,0.008087,0.03,nc,nc75182377,2025-05-15T10:50:09.815Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.850000024,0.09,14,automatic,nc,nc
+2025-05-15T10:45:34.520Z,38.841331481934,-122.83950042725,1.8500000238419,0.67,md,16,101,0.004162,0.02,nc,nc75182372,2025-05-15T10:47:09.701Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.430000007,0.44,17,automatic,nc,nc
 2025-05-15T10:43:31.730Z,38.840667724609,-122.83950042725,1.9199999570847,1.06,md,27,87,0.003759,0.02,nc,nc75182367,2025-05-15T10:45:09.773Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.370000005,0.13,28,automatic,nc,nc
-2025-05-15T10:16:25.860Z,38.823333740234,-122.80066680908,2.6099998950958,1.1,md,27,31,0.007349,0.02,nc,nc75182362,2025-05-15T10:19:43.560Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.22,27,automatic,nc,nc
+2025-05-15T10:16:25.860Z,38.823333740234,-122.80066680908,2.6099998950958,1.1,md,27,31,0.007349,0.02,nc,nc75182362,2025-05-15T10:47:18.352Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.22,27,automatic,nc,nc
 2025-05-15T10:04:45.758Z,61.5698,-151.0067,74,1.7,ml,,,,0.35,ak,ak02567fj53z,2025-05-15T10:06:53.907Z,"26 km W of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-05-15T09:54:09.600Z,33.2708333,-116.4266667,5.32,0.79,ml,43,31,0.008386,0.2,ci,ci41153352,2025-05-15T09:58:04.649Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.41,0.145,19,automatic,ci,ci
 2025-05-15T09:51:52.066Z,31.696,-101.971,3.1578,2.1,ml,65,56,0.1,0.4,tx,tx2025jloy,2025-05-15T10:05:13.471Z,"34 km SSE of Midland, Texas",earthquake,0,0.78069692850113,0.2,43,automatic,tx,tx
@@ -150,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T18:14:20.050Z,36.01216667,-97.92916667,5.94,1.71,ml,68,39,0.07468534419,0.17,ok,ok2025jkka,2025-05-14T18:27:08.139Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.4,0.23,26,reviewed,ok,ok
 2025-05-14T18:14:05.620Z,38.82799911499,-122.80117034912,2.1800000667572,0.71,md,9,71,0.008337,0.01,nc,nc75182032,2025-05-14T18:52:19.099Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.53999996,0.12,11,automatic,nc,nc
 2025-05-14T18:14:03.071Z,62.1635,-150.6761,74.7,1.3,ml,,,,1,ak,ak02565wtbbn,2025-05-14T18:15:33.728Z,"28 km SW of Trapper Creek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2025-05-14T18:06:02.790Z,38.7835,-122.73233333333,1.84,0.47,md,25,73,0.003442,0.02,nc,nc75182027,2025-05-15T10:17:20.148Z,"2 km E of The Geysers, CA",earthquake,0.15,0.32,0.215,19,reviewed,nc,nc
+2025-05-14T18:06:02.790Z,38.7835,-122.73233333333,1.84,0.47,md,25,73,0.003442,0.02,nc,nc75182027,2025-05-15T10:52:21.389Z,"2 km E of The Geysers, CA",earthquake,0.15,0.32,0.215,19,reviewed,nc,nc
 2025-05-14T17:58:17.670Z,36.14966583252,-120.29900360107,12.380000114441,1.48,md,12,135,0.04163,0.08,nc,nc75182017,2025-05-14T20:07:16.591Z,"5 km E of Coalinga, CA",earthquake,0.6,0.709999979,0.12,5,automatic,nc,nc
 2025-05-14T17:47:02.400Z,38.7936668396,-122.77116394043,3.8900001049042,0.77,md,20,76,0.01133,0.02,nc,nc75182012,2025-05-14T18:17:17.869Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.720000029,0.05,19,automatic,nc,nc
 2025-05-14T17:46:55.526Z,61.5893,-149.9115,43.3,1.1,ml,,,,0.58,ak,ak02565weuog,2025-05-14T17:49:23.330Z,"6 km SW of Houston, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -220,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T11:04:31.890Z,58.175333333333,-155.282,-0.15,-0.48,ml,5,159,0.04249,0.03,av,av93041569,2025-05-15T00:14:10.020Z,"83 km NW of Karluk, Alaska",earthquake,0.26,2.47,0.27436385952942,5,reviewed,av,av
 2025-05-14T11:01:22.211Z,61.6712,-148.3624,26.1,1.4,ml,,,,0.8,ak,ak02565skj99,2025-05-14T11:03:35.426Z,"14 km SSE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-05-14T10:53:23.720Z,18.302666666667,-66.192,55.15,2.83,md,12,192,0.1631,0.33,pr,pr71482418,2025-05-14T19:57:55.390Z,"5 km E of Naranjito, Puerto Rico",earthquake,1.83,1.28,0.20492704335623,3,reviewed,pr,pr
-2025-05-14T10:47:56.125Z,-23.9113,70.209,10,4.9,mb,46,98,13.645,0.58,us,us7000pz5p,2025-05-14T11:05:51.040Z,"Mid-Indian Ridge",earthquake,7.77,1.877,0.095,35,reviewed,us,us
