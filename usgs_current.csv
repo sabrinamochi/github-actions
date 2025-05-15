@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-15T08:22:13.780Z,33.269,-116.4185,5.13,0.55,ml,31,74,0.001377,0.18,ci,ci41153288,2025-05-15T08:25:36.962Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.32,0.093,6,automatic,ci,ci
 2025-05-15T08:15:01.090Z,38.814167022705,-122.81833648682,1.4199999570847,0.77,md,21,52,0.009987,0.02,nc,nc75182297,2025-05-15T08:32:17.503Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.430000007,0.14,21,automatic,nc,nc
 2025-05-15T08:13:23.450Z,31.629,-104.461,4.278,1.7,ml,16,111,0,0.3,tx,tx2025jllt,2025-05-15T08:28:03.456Z,"61 km S of Whites City, New Mexico",earthquake,0,1.5330617427826,0.1,12,automatic,tx,tx
-2025-05-15T08:10:57.613Z,32.439,-101.737,4.2806,1.5,ml,51,37,0,0.3,tx,tx2025jllr,2025-05-15T08:25:51.453Z,"9 km SSW of Ackerly, Texas",earthquake,0,0.7635897397995,0.2,37,automatic,tx,tx
+2025-05-15T08:10:57.879Z,32.442,-101.742,9.0088,1.6,ml,8,88,0,0.1,tx,tx2025jllr,2025-05-15T12:02:04.285Z,"9 km SSW of Ackerly, Texas",earthquake,0.7643232066235,0.89288755091163,0.2,32,reviewed,tx,tx
 2025-05-15T08:06:32.154Z,32.438,-101.733,8.4229,2,ml,31,66,0,0.1,tx,tx2025jlll,2025-05-15T11:46:42.168Z,"9 km S of Ackerly, Texas",earthquake,0.34051148658954,0.66997143163867,0.1,15,reviewed,tx,tx
 2025-05-15T07:56:29.169Z,63.4179,-145.9413,10.8,1.2,ml,,,,0.16,ak,ak02567e1y90,2025-05-15T07:58:46.699Z,"40 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-15T07:49:25.670Z,38.836833953857,-122.78983306885,1.9500000476837,0.7,md,12,78,0.001623,0.02,nc,nc75182292,2025-05-15T08:57:19.660Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.5,0.09,11,automatic,nc,nc
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T17:45:37.910Z,38.802501678467,-122.78050231934,-0.54000002145767,1.16,md,15,69,0.01074,0.05,nc,nc75182007,2025-05-14T19:22:17.304Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.560000002,0.16,17,automatic,nc,nc
 2025-05-14T17:35:38.017Z,38.2456,-118.508,7.3,1.3,ml,12,267.29,0.006,0.1608,nn,nn00897618,2025-05-15T02:04:36.033Z,"32 km SSE of Hawthorne, Nevada",earthquake,,1.2,0.17,7,reviewed,nn,nn
 2025-05-14T17:34:39.730Z,38.739665985107,-122.69616699219,-0.75,1.36,md,12,151,0.02857,0.12,nc,nc75181997,2025-05-14T18:37:19.001Z,"4 km SSW of Anderson Springs, CA",earthquake,0.34,1.26999998,0.06,11,automatic,nc,nc
-2025-05-14T17:29:20.256Z,32.422,-102.135,3.878,1.9,ml,44,75,0,0.4,tx,tx2025jkin,2025-05-14T17:41:18.018Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,0.80962085723877,0.1,30,automatic,tx,tx
+2025-05-14T17:29:20.523Z,32.427,-102.132,6.1768,1.9,ml,29,79,0,0.1,tx,tx2025jkin,2025-05-15T12:02:34.298Z,"38 km SSW of Los Ybanez, Texas",earthquake,0.80365972970004,0.53811101920538,0,7,reviewed,tx,tx
 2025-05-14T16:55:36.770Z,58.227,-154.9565,4.5,0.9,ml,,,,0.8,ak,ak02565vvawy,2025-05-15T02:06:39.290Z,"79 km NNW of Karluk, Alaska",earthquake,,5.4,,,reviewed,ak,ak
 2025-05-14T16:41:45.751Z,32.263,-101.838,4.9092,1.2,ml,8,86,0,0.5,tx,tx2025jkgz,2025-05-14T16:47:33.461Z,"15 km NNW of Stanton, Texas",earthquake,0,1.9566576480865,0.1,6,automatic,tx,tx
 2025-05-14T16:33:15.240Z,33.5992,140.5553,54.88,4.5,mb,62,114,0.786,0.7,us,us7000pz7x,2025-05-14T21:56:27.040Z,"166 km SSE of Tateyama, Japan",earthquake,7.24,7.344,0.087,39,reviewed,us,us
@@ -214,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T12:24:06.120Z,38.835998535156,-122.78916931152,1.75,0.68,md,12,74,0.002576,0.01,nc,nc75181897,2025-05-14T13:07:18.730Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.419999987,0.25,14,automatic,nc,nc
 2025-05-14T12:15:30.914Z,32.434,-102.117,8.1299,1.2,ml,16,75,0.1,0.2,tx,tx2025jjye,2025-05-14T13:28:00.938Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.6621954654086,0.90089333282588,0.2,9,reviewed,tx,tx
 2025-05-14T12:06:15.530Z,34.0888333,-118.1928333,10.79,1.06,ml,21,109,0.05309,0.15,ci,ci41152568,2025-05-14T21:46:27.619Z,"4 km S of Highland Park, CA",earthquake,0.27,0.46,0.189,11,reviewed,ci,ci
-2025-05-14T12:03:23.720Z,38.790832519531,-122.73416900635,1.4299999475479,1.52,md,22,91,0.007843,0.03,nc,nc75181892,2025-05-14T12:37:20.515Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.419999987,0.13,26,automatic,nc,nc
-2025-05-14T12:02:09.568Z,41.217,-116.6817,0,3,ml,4,358.18,0.306,0.1601,nn,nn00897599,2025-05-15T04:23:02.040Z,"60 km NE of Valmy, Nevada",earthquake,,0,0.13,3,reviewed,nn,nn
-2025-05-14T12:01:21.644Z,41.1797,-116.7457,5.9,3,ml,10,75.33,0.32,0.1508,nn,nn00897583,2025-05-15T04:20:12.040Z,"53 km NE of Valmy, Nevada",earthquake,,3.7,0.18,8,reviewed,nn,nn
