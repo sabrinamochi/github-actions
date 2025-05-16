@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-16T21:23:10.170Z,39.724998474121,-123.50166320801,10.60000038147,1.98,md,25,60,0.07333,0.15,nc,nc75183087,2025-05-16T21:24:47.361Z,"4 km  of Laytonville, CA",earthquake,0.34,0.660000026,0.05,11,automatic,nc,nc
 2025-05-16T21:11:15.625Z,67.3398,-153.794,0,1.4,ml,,,,0.59,ak,ak025699noy2,2025-05-16T21:14:17.402Z,"99 km NNW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-16T20:58:14.240Z,38.791667938232,-122.7773361206,1.4299999475479,1.11,md,13,79,0.008406,0.03,nc,nc75183082,2025-05-16T20:59:53.077Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.49000001,0.38,16,automatic,nc,nc
+2025-05-16T20:58:14.240Z,38.791667938232,-122.7773361206,1.4299999475479,1.11,md,13,79,0.008406,0.03,nc,nc75183082,2025-05-16T21:17:21.125Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.49000001,0.38,16,automatic,nc,nc
 2025-05-16T20:56:03.770Z,33.0303333,-116.0168333,4.04,0.79,ml,18,74,0.1465,0.24,ci,ci41154616,2025-05-16T20:59:34.578Z,"16 km SE of Ocotillo Wells, CA",earthquake,0.5,1.39,0.159,6,automatic,ci,ci
 2025-05-16T20:32:31.648Z,60.9187,-150.3531,134.2,1.4,ml,,,,0.53,ak,ak0256996sm4,2025-05-16T20:33:59.455Z,"18 km E of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-16T20:16:25.830Z,38.833332061768,-122.81500244141,1.960000038147,0.72,md,10,128,0.01991,0.02,nc,nc75183072,2025-05-16T20:37:17.875Z,"8 km NNW of The Geysers, CA",earthquake,0.35,1.12,0.21,11,automatic,nc,nc
@@ -113,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T09:03:16.640Z,38.793834686279,-122.74166870117,1.9700000286102,0.46,md,5,218,0.01127,0.01,nc,nc75182762,2025-05-16T09:37:16.450Z,"2 km NE of The Geysers, CA",earthquake,1.1,1.66999996,0.27,8,automatic,nc,nc
 2025-05-16T08:40:56.580Z,44.532166666667,-111.11583333333,8.52,0.53,ml,10,146,0.07443,0.12,uu,uu80108496,2025-05-16T14:07:21.050Z,"14 km S of West Yellowstone, Montana",earthquake,0.57,1.35,0.46651104336136,3,reviewed,uu,uu
 2025-05-16T08:36:27.480Z,44.698,-110.67933333333,7.9,1.44,ml,13,107,0.03338,0.1,uu,uu80108491,2025-05-16T14:12:15.320Z,"31 km S of Mammoth, Wyoming",earthquake,0.45,0.4,0.58779509989024,3,reviewed,uu,uu
+2025-05-16T08:34:26.680Z,61.283333333333,-152.2605,0.63,-1.01,ml,7,153,0.05402,0.07,av,av93607936,2025-05-16T21:19:25.680Z,"65 km WNW of Tyonek, Alaska",earthquake,0.35,1.91,0.18140422386085,6,reviewed,av,av
 2025-05-16T08:22:44.504Z,61.3497,-151.9628,98.7,1.7,ml,,,,0.57,ak,ak025691zh7e,2025-05-16T17:45:22.592Z,"52 km WNW of Beluga, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-05-16T08:19:31.520Z,61.267,-152.25083333333,2.35,0.32,ml,9,105,0.04633,0.25,av,av93607916,2025-05-16T17:12:26.240Z,"63 km WNW of Tyonek, Alaska",earthquake,0.66,0.8,0.28198379900407,9,reviewed,av,av
 2025-05-16T08:17:13.286Z,36.7622,-115.9705,0.5,1.2,ml,22,64.98,0.036,0.3698,nn,nn00897683,2025-05-16T08:19:17.088Z,"34 km NW of Indian Springs, Nevada",earthquake,,0.3,0.19,14,automatic,nn,nn
@@ -241,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-15T21:43:35.240Z,38.817832946777,-122.76566314697,1.8700000047684,1.1,md,12,111,0.01259,0.02,nc,nc75182567,2025-05-15T22:27:18.991Z,"4 km W of Cobb, CA",earthquake,0.28,0.649999976,0.32,15,automatic,nc,nc
 2025-05-15T21:33:24.617Z,38.7154,-96.964,9.271,3.6,mb_lg,45,68,1.029,0.35,us,us7000pzh7,2025-05-16T20:28:40.014Z,"5 km NNW of Herington, Kansas",earthquake,3.71,7.791,0.04,164,reviewed,us,us
 2025-05-15T21:32:07.150Z,34.4875,-97.21233333,0,1.27,ml,43,82,0.1394726307,0.64,ok,ok2025jmma,2025-05-16T12:30:51.991Z,"8 km WSW of Davis, Oklahoma",quarry blast,,0.9,0.23,18,reviewed,ok,ok
-2025-05-15T21:22:48.880Z,33.8663333,-116.887,9.22,0.91,ml,24,47,0.1808,0.14,ci,ci41153776,2025-05-16T19:04:24.862Z,"7 km S of Banning, CA",earthquake,0.21,0.74,0.219,26,reviewed,ci,ci
-2025-05-15T21:21:07.090Z,48.552,-123.6035,-0.22,0.11,md,5,148,0.13,0.34,uw,uw62101247,2025-05-16T16:24:49.780Z,"13 km NNW of Langford, Canada",explosion,2.62,31.61,0.29572645355122,4,reviewed,uw,uw
