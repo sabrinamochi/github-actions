@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-16T23:37:57.810Z,61.4066,-146.5012,8.8,3.1,ml,,,,0.63,ak,ak02569b082v,2025-05-16T23:46:51.102Z,"31 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-16T23:35:05.310Z,38.828498840332,-122.8004989624,2.289999961853,0.76,md,8,73,0.00905,0.01,nc,nc75183167,2025-05-16T23:36:42.310Z,"7 km WNW of Cobb, CA",earthquake,0.41,0.920000017,0.23,10,automatic,nc,nc
+2025-05-16T23:37:57.810Z,61.4066,-146.5012,8.8,3.1,ml,,,,0.63,ak,ak02569b082v,2025-05-17T00:03:16.040Z,"31 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-05-16T23:35:05.310Z,38.828498840332,-122.8004989624,2.289999961853,0.76,md,8,73,0.00905,0.01,nc,nc75183167,2025-05-17T00:07:16.249Z,"7 km WNW of Cobb, CA",earthquake,0.41,0.920000017,0.23,10,automatic,nc,nc
 2025-05-16T23:34:21.520Z,38.838333129883,-122.78416442871,1.7400000095367,1.04,md,15,81,0.004827,0.03,nc,nc75183162,2025-05-16T23:52:19.146Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.419999987,0.1,18,automatic,nc,nc
 2025-05-16T23:25:41.785Z,57.7575,-154.5583,60.9,1.7,ml,,,,0.28,ak,ak02569axm76,2025-05-16T23:28:22.078Z,"21 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-05-16T23:09:50.713Z,64.9934,-147.3853,3.3,1.4,ml,,,,0.9,ak,ak02569au7fj,2025-05-16T23:11:55.243Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T20:16:25.830Z,38.833332061768,-122.81500244141,1.960000038147,0.72,md,10,128,0.01991,0.02,nc,nc75183072,2025-05-16T21:27:19.191Z,"8 km NNW of The Geysers, CA",earthquake,0.35,1.12,0.21,11,automatic,nc,nc
 2025-05-16T20:11:37.414Z,64.7271,-148.1046,13.9,1.1,ml,,,,1.04,ak,ak0256992b0t,2025-05-16T23:05:46.047Z,"14 km SSW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-16T20:10:07.112Z,63.0201,-150.9939,124.5,1.6,ml,,,,0.26,ak,ak02569920yv,2025-05-16T20:12:48.281Z,"59 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-05-16T20:07:45.070Z,40.329833333333,-124.80316666667,7.19,2.05,md,34,285,0.3546,0.23,nc,nc75183067,2025-05-16T23:44:27.896Z,"44 km WNW of Petrolia, CA",earthquake,1,1.18,0.174,14,reviewed,nc,nc
+2025-05-16T20:07:45.070Z,40.329833333333,-124.80316666667,7.19,2.05,md,34,285,0.3546,0.23,nc,nc75183067,2025-05-17T00:07:17.249Z,"44 km WNW of Petrolia, CA",earthquake,1,1.18,0.174,14,reviewed,nc,nc
 2025-05-16T19:54:31.984Z,61.3474,-150.0364,24,1.5,ml,,,,0.5,ak,ak025698q2se,2025-05-16T19:57:00.662Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-16T19:48:50.750Z,33.5758333,-116.7235,3.87,0.33,ml,8,136,0.01553,0.12,ci,ci41154568,2025-05-17T00:00:10.891Z,"5 km WNW of Anza, CA",earthquake,0.33,0.62,0.061,6,reviewed,ci,ci
 2025-05-16T19:43:54.230Z,57.709,-152.4806,31,3.4,ml,,,,0.53,ak,ak025698nrkl,2025-05-16T23:41:25.807Z,"9 km SE of Kodiak Station, Alaska",earthquake,,0.2,,,reviewed,ak,ak
@@ -48,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T18:06:29.851Z,61.1731,-147.6737,28.8,1.4,ml,,,,0.78,ak,ak025697ucnd,2025-05-16T18:08:54.231Z,"63 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-16T17:57:29.580Z,38.786167144775,-122.76349639893,2.8900001049042,0.75,md,7,113,0.01474,0.07,nc,nc75183002,2025-05-16T19:12:17.298Z,"1 km NNW of The Geysers, CA",earthquake,0.85,1.53999996,0.05,7,automatic,nc,nc
 2025-05-16T17:51:22.490Z,38.573501586914,-122.68166351318,5.6599998474121,0.89,md,7,215,0.1908,0.08,nc,nc75182997,2025-05-16T18:47:23.127Z,"9 km W of Calistoga, CA",earthquake,3.52,9.27999973,0.05,2,automatic,nc,nc
+2025-05-16T17:49:10.690Z,61.3125,-152.25866666667,-2.34,-0.46,ml,8,122,0.06878,0.16,av,av93608266,2025-05-17T00:11:19.920Z,"65 km WNW of Beluga, Alaska",earthquake,0.36,1.82,0.22801390317924,8,reviewed,av,av
 2025-05-16T17:46:30.654Z,61.5277,-148.3782,8.8,1.6,ml,,,,0.64,ak,ak025697hhqx,2025-05-16T17:48:39.838Z,"29 km ENE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-16T17:39:11.402Z,61.5376,-148.3776,24.9,0.4,ml,,,,0.2,ak,ak025697fy90,2025-05-16T17:40:56.122Z,"29 km S of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-16T17:34:25.454Z,61.5418,-148.3214,13.7,2,ml,,,,0.73,ak,ak025697ewr5,2025-05-16T17:36:01.102Z,"29 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T00:25:53.650Z,46.585,-112.825,5.01,1.07,ml,15,55,0.2366,0.13,mb,mb90086273,2025-05-16T20:27:24.280Z,"6 km N of Garrison, Montana",earthquake,0.3,7.96,0.12316085597922,10,reviewed,mb,mb
 2025-05-16T00:23:46.180Z,38.813499450684,-122.82266998291,1.8799999952316,1.05,md,18,55,0.01362,0.03,nc,nc75182622,2025-05-16T00:57:18.102Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.579999983,0.32,19,automatic,nc,nc
 2025-05-16T00:20:30.900Z,38.836166381836,-122.78566741943,1.2000000476837,0.33,md,7,107,0.004284,0,nc,nc75182617,2025-05-16T00:47:19.940Z,"6 km WNW of Cobb, CA",earthquake,0.51,1.20000005,0.16,8,automatic,nc,nc
-2025-05-16T00:09:28.661Z,60.5036,-153.4821,161.7,2.3,ml,,,,0.66,ak,ak02568x56r0,2025-05-16T17:45:20.717Z,"56 km NE of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2025-05-16T00:02:16.960Z,47.578,-122.77533333333,20.45,0.38,ml,7,185,0.03637,0.22,uw,uw62101402,2025-05-16T17:49:14.900Z,"5 km WSW of Erlands Point-Kitsap Lake, Washington",earthquake,1.01,1.36,0.14307307615778,3,reviewed,uw,uw
