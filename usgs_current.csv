@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-18T03:24:03.832Z,-20.9349,-68.9681,109.406,4.2,mb,26,62,0.497,0.75,us,us7000pzyb,2025-05-18T03:48:51.040Z,"80 km WNW of Ollagüe, Chile",earthquake,3.3,6.235,0.146,13,reviewed,us,us
 2025-05-18T03:20:08.916Z,32.224,-102.485,1.7633,1.6,ml,7,152,0.1,0.5,tx,tx2025jqpe,2025-05-18T03:28:43.507Z,"9 km SSE of McKinney Acres, Texas",earthquake,0,4.015615940094,0.3,4,automatic,tx,tx
 2025-05-18T03:19:23.511Z,31.659,-104.329,4.7121,1.7,ml,18,69,0.1,0.2,tx,tx2025jqou,2025-05-18T03:29:44.535Z,"57 km S of Whites City, New Mexico",earthquake,0,1.4169565439224,0.2,14,automatic,tx,tx
-2025-05-18T03:17:35.020Z,38.775833129883,-122.72250366211,-0.14000000059605,0.84,md,9,159,0.01335,0.04,nc,nc75183842,2025-05-18T03:19:10.306Z,"3 km WNW of Anderson Springs, CA",earthquake,0.28,0.529999971,0.24,7,automatic,nc,nc
+2025-05-18T03:17:35.020Z,38.775833129883,-122.72250366211,-0.14000000059605,0.84,md,9,159,0.01335,0.04,nc,nc75183842,2025-05-18T04:07:19.448Z,"3 km WNW of Anderson Springs, CA",earthquake,0.28,0.529999971,0.24,7,automatic,nc,nc
 2025-05-18T03:17:08.330Z,38.775333404541,-122.72233581543,-0.17000000178814,1.14,md,12,78,0.01374,0.04,nc,nc75183837,2025-05-18T03:57:21.318Z,"3 km WNW of Anderson Springs, CA",earthquake,0.25,0.419999987,0.21,13,automatic,nc,nc
 2025-05-18T03:07:06.710Z,36.553665161133,-121.08583068848,2.6300001144409,0.96,md,9,66,0.04473,0.17,nc,nc75183827,2025-05-18T03:08:45.401Z,"6 km ENE of Pinnacles, CA",earthquake,0.56,1.69000006,0.26,7,automatic,nc,nc
 2025-05-18T03:06:33.300Z,38.821998596191,-122.82250213623,1.8400000333786,0.89,md,6,139,0.009808,0,nc,nc75183822,2025-05-18T03:47:19.255Z,"8 km NW of The Geysers, CA",earthquake,0.7,1.59000003,0.08,7,automatic,nc,nc
@@ -114,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-17T16:11:48.410Z,34.1731667,-116.8241667,8.38,1.01,ml,31,42,0.1196,0.14,ci,ci41155120,2025-05-17T16:15:18.436Z,"10 km S of Big Bear City, CA",earthquake,0.16,0.43,0.185,25,automatic,ci,ci
 2025-05-17T16:10:59.976Z,62.0206,-152.4432,0,1.7,ml,,,,0.88,ak,ak0256au7r4d,2025-05-17T16:14:27.420Z,"54 km W of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-17T15:56:31.320Z,38.819499969482,-122.84166717529,1.9400000572205,1.09,md,20,103,0.01434,0.03,nc,nc75183567,2025-05-17T16:27:18.787Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.15,21,automatic,nc,nc
-2025-05-17T15:54:47.317Z,21.4274,96.0541,10,5.2,mww,171,42,1.083,0.58,us,us7000pzv3,2025-05-18T02:38:35.649Z,"21 km SSW of Kyaukse, Burma (Myanmar)",earthquake,5.85,1.824,0.103,9,reviewed,us,us
+2025-05-17T15:54:47.317Z,21.4274,96.0541,10,5.2,mww,171,42,1.083,0.58,us,us7000pzv3,2025-05-18T04:11:35.022Z,"21 km SSW of Kyaukse, Burma (Myanmar)",earthquake,5.85,1.824,0.103,9,reviewed,us,us
 2025-05-17T15:43:14.670Z,38.7965,-122.78166666667,3.42,0.32,md,9,82,0.005904,0.01,nc,nc75183562,2025-05-18T00:42:19.083Z,"3 km NW of The Geysers, CA",earthquake,0.65,1.46,0.326,9,reviewed,nc,nc
 2025-05-17T15:40:35.810Z,17.9845,-66.800333333333,15.11,1.53,md,6,197,0.0757,0.2,pr,pr71482693,2025-05-17T16:03:18.740Z,"2 km ESE of Indios, Puerto Rico",earthquake,0.84,1.45,0.022993963695936,3,reviewed,pr,pr
 2025-05-17T15:39:35.460Z,38.81816482544,-122.84616851807,5.0500001907349,0.76,md,4,225,0.01415,0,nc,nc75183557,2025-05-17T16:07:18.672Z,"9 km NW of The Geysers, CA",earthquake,2.42,5.21999979,0.21,6,automatic,nc,nc
@@ -231,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-17T04:34:26.120Z,34.3191667,-117.7146667,7.34,1.13,ml,40,76,0.06958,0.17,ci,ci41154848,2025-05-17T04:49:52.653Z,"9 km WSW of Wrightwood, CA",earthquake,0.21,0.48,0.175,10,automatic,ci,ci
 2025-05-17T04:34:23.602Z,31.674,-104.396,7.843,3.2,ml,16,69,0,0.2,tx,tx2025jovq,2025-05-17T07:21:20.258Z,"55 km S of Whites City, New Mexico",earthquake,0.8743473993141,0.72458532283737,0.2,17,reviewed,tx,tx
 2025-05-17T04:33:27.844Z,31.669,-104.393,4.2189,1.6,ml,15,70,0,0.2,tx,tx2025jovp,2025-05-17T05:44:33.759Z,"56 km S of Whites City, New Mexico",earthquake,0,1.5274657011032,0.2,11,automatic,tx,tx
-2025-05-17T04:12:05.360Z,33.37,-116.39,12.62,0.83,ml,46,44,0.04721,0.21,ci,ci41154832,2025-05-17T04:15:37.131Z,"13 km N of Borrego Springs, CA",earthquake,0.22,0.55,0.132,22,automatic,ci,ci
-2025-05-17T04:11:46.441Z,39.8321,-99.1265,10,2.4,mb_lg,10,100,1.122,0.46,us,us7000pzs7,2025-05-17T04:52:54.040Z,"7 km N of Agra, Kansas",earthquake,3.38,1.994,0.088,34,reviewed,us,us
-2025-05-17T04:06:51.703Z,37.121,-117.3152,6.5,1.6,ml,28,97.4,0.131,0.2962,nn,nn00897701,2025-05-17T04:09:22.026Z,"54 km WNW of Beatty, Nevada",earthquake,,0.8,0.29,19,automatic,nn,nn
