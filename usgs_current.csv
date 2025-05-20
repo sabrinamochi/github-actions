@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-20T19:57:25.930Z,32.6998329,-115.4078369,13.19,1.9,ml,21,151,0.05909,0.27,ci,ci40971175,2025-05-20T19:59:44.436Z,"8 km NE of Mexicali, B.C., MX",earthquake,0.73,0.95,0.311,20,automatic,ci,ci
+2025-05-20T19:57:25.820Z,32.717,-115.4183333,15.35,1.74,ml,24,86,0.07161,0.24,ci,ci40971175,2025-05-20T20:01:07.820Z,"9 km NNE of Mexicali, B.C., MX",earthquake,0.37,0.39,0.275,28,automatic,ci,ci
 2025-05-20T19:41:30.658Z,61.4139,-150.0987,40.2,1,ml,,,,0.47,ak,ak0256fusocp,2025-05-20T19:43:15.387Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-20T19:57:55.952Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
+2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-20T20:02:56.604Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
 2025-05-20T19:36:31.207Z,59.9965,-150.9381,60.1,1.6,ml,,,,0.37,ak,ak0256furltc,2025-05-20T19:38:04.596Z,"15 km N of Fox River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-20T19:28:23.533Z,31.717,-104.295,4.5591,1.6,ml,31,62,0.1,0.4,tx,tx2025jvmd,2025-05-20T19:31:04.685Z,"51 km S of Whites City, New Mexico",earthquake,0,0.94221615791321,0.2,25,automatic,tx,tx
 2025-05-20T19:24:23.610Z,38.813999176025,-122.82766723633,2.6900000572205,1.06,md,20,62,0.005258,0.02,nc,nc75184176,2025-05-20T19:57:16.977Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.550000012,0.21,21,automatic,nc,nc
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T16:09:11.870Z,38.83716583252,-122.79933166504,1.9700000286102,0.63,md,8,167,0.007128,0.02,nc,nc75184136,2025-05-20T16:37:20.680Z,"7 km WNW of Cobb, CA",earthquake,0.66,1.37,0.06,8,automatic,nc,nc
 2025-05-20T16:08:43.460Z,38.8125,-122.8253326416,1.960000038147,1.84,md,37,49,0.01303,0.04,nc,nc75184131,2025-05-20T17:22:19.952Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.270000011,0.14,35,automatic,nc,nc
 2025-05-20T16:04:27.500Z,34.09,-117.2903333,13.53,1.43,ml,72,24,0.01655,0.2,ci,ci41157344,2025-05-20T16:15:34.370Z,"3 km NE of Colton, CA",earthquake,0.16,0.38,0.129,28,automatic,ci,ci
-2025-05-20T15:51:22.904Z,61.7873,-150.0833,30.124,3.3,ml,63,29,0.454,0.55,us,us7000q0c9,2025-05-20T18:38:55.298Z,"5 km NNW of Willow, Alaska",earthquake,2.35,6.454,0.032,132,reviewed,us,us
+2025-05-20T15:51:24.042Z,61.7858,-150.0715,24.9,3.1,ml,,,,0.9,ak,ak0256fsh2di,2025-05-20T20:02:13.934Z,"4 km NNW of Willow, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-05-20T15:48:32.670Z,38.822498321533,-122.79716491699,2.6400001049042,0.77,md,16,51,0.01012,0.02,nc,nc75184121,2025-05-20T16:37:19.679Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.610000014,0.15,18,automatic,nc,nc
 2025-05-20T15:16:33.569Z,61.8118,-150.1859,11.2,1.3,ml,,,,0.52,ak,ak0256fs9l98,2025-05-20T15:18:21.863Z,"10 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-20T15:10:50.907Z,60.8726,-151.8356,79,1,ml,,,,0.28,ak,ak0256fs8caq,2025-05-20T15:13:04.077Z,"36 km NW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T20:27:59.600Z,35.715831756592,-121.08933258057,4.7600002288818,1.28,md,10,113,0.06215,0.05,nc,nc75183781,2025-05-19T23:07:19.632Z,"12 km ENE of San Simeon, CA",earthquake,0.53,1.11000001,0.37,6,automatic,nc,nc
 2025-05-19T20:17:14.840Z,35.9435,-117.5038333,2.52,1.18,ml,24,82,0.119,0.15,ci,ci41156648,2025-05-20T17:47:25.503Z,"22 km NNW of Searles Valley, CA",earthquake,0.25,0.59,0.133,13,reviewed,ci,ci
 2025-05-19T20:08:13.630Z,33.1941667,-115.63,6.39,1.25,ml,15,86,0.01265,0.23,ci,ci41156632,2025-05-20T14:37:24.099Z,"12 km WSW of Niland, CA",earthquake,0.4,0.45,0.223,5,reviewed,ci,ci
-2025-05-19T20:00:43.310Z,38.835834503174,-122.78483581543,1.6900000572205,1.1,md,17,130,0.005011,0.03,nc,nc75183766,2025-05-19T22:42:20.481Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.449999988,0.16,22,automatic,nc,nc
