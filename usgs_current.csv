@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-21T13:16:58.341Z,28.73,-98.009,5,1.8,ml,4,185,0.4,0.6,tx,tx2025jwve,2025-05-21T13:19:02.023Z,"8 km N of Pawnee, Texas",earthquake,0,,0.4,4,automatic,tx,tx
+2025-05-21T13:13:14.547Z,65.4471,-148.2195,0.6,1.4,ml,,,,0.32,ak,ak0256heldxa,2025-05-21T13:14:57.827Z,"17 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-21T12:47:52.277Z,31.664,-104.397,4.2231,2.5,ml,33,70,0,0.4,tx,tx2025jwty,2025-05-21T12:52:20.687Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0307821035385,0.1,22,automatic,tx,tx
 2025-05-21T12:34:33.435Z,38.7545,-117.9481,14.4,2,ml,18,68.34,0.209,0.2861,nn,nn00897826,2025-05-21T12:36:51.500Z,"12 km S of Gabbs, Nevada",earthquake,,0.5,0.36,10,automatic,nn,nn
 2025-05-21T12:24:23.458Z,63.1099,-151.3444,0,1.4,ml,,,,0.77,ak,ak0256he2bvt,2025-05-21T12:26:20.824Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -71,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-21T03:03:11.939Z,64.7834,-146.7026,11.6,1.2,ml,,,,0.89,ak,ak0256h8kwih,2025-05-21T03:05:08.754Z,"13 km SE of Pleasant Valley, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-21T03:02:31.774Z,32.006,-101.36,11.499,1.2,ml,17,68,0.2,0.1,tx,tx2025jwaz,2025-05-21T12:21:46.353Z,"11 km S of Forsan, Texas",earthquake,0.49290263272523,0.96050474882164,0.2,19,reviewed,tx,tx
 2025-05-21T02:59:53.438Z,35.55083847,-96.74886322,3.004356384,1.8,ml,35,48.54332352,0.01725420915,0.4237520925,ok,ok2025jwaj,2025-05-21T03:09:12.944Z,"9 km SE of Sparks, Oklahoma",earthquake,2.09723618,1.850554666,0.25,13,automatic,ok,ok
+2025-05-21T02:59:23.430Z,40.688333333333,-111.6065,7.29,0.39,md,12,111,0.08551,0.12,uu,uu80108806,2025-05-21T13:14:27.750Z,"5 km W of Snyderville, Utah",earthquake,0.45,1.09,0.16971069446497,7,reviewed,uu,uu
 2025-05-21T02:57:36.195Z,40.7271,-108.2454,18.282,2.3,ml,18,71,0.592,0.72,us,us7000q0h6,2025-05-21T03:11:03.040Z,"26 km NNW of Maybell, Colorado",earthquake,2.26,7.312,0.061,35,reviewed,us,us
 2025-05-21T02:53:45.160Z,38.835834503174,-122.80783081055,1.8300000429153,0.71,md,11,106,0.01254,0.01,nc,nc75184321,2025-05-21T03:47:22.062Z,"7 km WNW of Cobb, CA",earthquake,0.4,0.730000019,0.24,10,automatic,nc,nc
 2025-05-21T02:35:40.760Z,61.309,-151.985,16.8,0.9,ml,,,,0.44,ak,ak0256h86e1o,2025-05-21T02:37:24.052Z,"51 km WNW of Beluga, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -186,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T13:29:02.422Z,63.1274,-151.4754,8,3.4,ml,,,,0.87,ak,ak0256fr5fxe,2025-05-20T20:33:44.662Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-05-20T13:24:32.540Z,61.274833333333,-152.23666666667,3.78,-0.5,ml,6,183,0.04056,0.1,av,av93042149,2025-05-21T03:34:42.320Z,"63 km WNW of Tyonek, Alaska",earthquake,0.77,0.4,0.23679309653714,6,reviewed,av,av
 2025-05-20T13:24:28.110Z,61.316333333333,-152.249,-0.48,-0.42,ml,7,178,0.06828,0.09,av,av93613161,2025-05-21T03:32:06.500Z,"65 km WNW of Beluga, Alaska",earthquake,0.35,3.63,0.13942352874782,8,reviewed,av,av
-2025-05-20T13:18:45.920Z,61.328166666667,-152.24133333333,2.25,-0.2,ml,7,189,0.07545,0.14,av,av93613156,2025-05-21T03:25:05.440Z,"65 km WNW of Beluga, Alaska",earthquake,0.47,1.92,0.21971964410122,7,reviewed,av,av
