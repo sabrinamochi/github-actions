@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-24T10:34:37.240Z,33.2025,-116.1726667,5.72,0.6,ml,37,89,0.04685,0.2,ci,ci40974471,2025-05-24T10:38:08.800Z,"8 km NNW of Ocotillo Wells, CA",earthquake,0.28,0.4,0.191,8,automatic,ci,ci
 2025-05-24T10:17:27.250Z,34.7965,-116.2848333,5.66,1.62,ml,17,152,0.05274,0.21,ci,ci40974463,2025-05-24T10:23:48.465Z,"14 km NW of Ludlow, CA",earthquake,0.72,1.08,0.181,26,automatic,ci,ci
-2025-05-24T10:06:25.208Z,31.644,-104.276,4.142,1.7,ml,28,68,0,0.2,tx,tx2025kcay,2025-05-24T10:10:46.940Z,"58 km NW of Toyah, Texas",earthquake,0,1.0634822845459,0.2,19,automatic,tx,tx
+2025-05-24T10:06:25.184Z,31.644,-104.276,4.2104,1.6,ml,29,68,0,0.2,tx,tx2025kcay,2025-05-24T11:00:23.095Z,"58 km NW of Toyah, Texas",earthquake,0,1.059369802475,0.2,19,automatic,tx,tx
 2025-05-24T10:00:02.170Z,34.0326667,-117.2406667,16.16,0.96,ml,50,48,0.09326,0.18,ci,ci40974455,2025-05-24T10:04:01.311Z,"3 km SE of Loma Linda, CA",earthquake,0.2,0.43,0.204,28,automatic,ci,ci
 2025-05-24T09:50:25.770Z,17.971833333333,-66.351833333333,16.89,2.1,md,7,205,0.1252,0.16,pr,pr71483523,2025-05-24T09:59:42.300Z,"1 km ENE of Jauca, Puerto Rico",earthquake,0.91,0.64,0.23080391007252,7,reviewed,pr,pr
 2025-05-24T09:35:22.370Z,38.822666168213,-122.79949951172,2.7599999904633,1.08,md,29,30,0.008292,0.02,nc,nc75185841,2025-05-24T09:38:34.410Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.419999987,0.06,30,automatic,nc,nc
@@ -221,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T11:07:38.240Z,38.796166666667,-122.785,3.53,0.35,md,28,58,0.003755,0.03,nc,nc75185416,2025-05-23T19:22:18.430Z,"3 km NW of The Geysers, CA",earthquake,0.21,0.29,0.202,23,reviewed,nc,nc
 2025-05-23T11:05:26.586Z,56.7983,-153.2941,46.6,2.4,ml,,,,1.09,ak,ak0256kofiwi,2025-05-23T11:07:32.712Z,"45 km S of Old Harbor, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-05-23T11:03:58.400Z,34.2803333,-117.8021667,8.04,0.77,ml,16,64,0.05232,0.1,ci,ci40973479,2025-05-23T17:52:27.821Z,"17 km NNE of Glendora, CA",earthquake,0.2,0.4,0.11,7,reviewed,ci,ci
-2025-05-23T10:58:50.133Z,45.1668,78.3486,10,4.3,mb,49,94,2.012,1.1,us,us7000q11r,2025-05-23T11:43:23.040Z,"16 km N of Taldykorgan, Kazakhstan",earthquake,6.32,1.906,0.105,27,reviewed,us,us
-2025-05-23T10:57:55.600Z,38.8345,-122.798,2.02,0.43,md,22,56,0.007141,0.03,nc,nc75185411,2025-05-23T19:20:09.719Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.36,0.113,22,reviewed,nc,nc
-2025-05-23T10:54:16.660Z,33.6668333,-116.7276667,14.61,0.9,ml,39,53,0.04497,0.14,ci,ci40973471,2025-05-23T16:55:29.860Z,"8 km S of Idyllwild, CA",earthquake,0.17,0.27,0.242,28,reviewed,ci,ci
