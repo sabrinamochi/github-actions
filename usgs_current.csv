@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-27T05:54:13.520Z,38.805500030518,-122.81199645996,2.8099999427795,0.81,md,13,79,0.01327,0.02,nc,nc75187096,2025-05-27T05:55:50.862Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.75999999,0.12,15,automatic,nc,nc
-2025-05-27T05:41:44.850Z,38.822334289551,-122.80316925049,3.1300001144409,0.4,md,7,150,0.005497,0.01,nc,nc75187091,2025-05-27T05:43:19.340Z,"6 km NNW of The Geysers, CA",earthquake,0.71,2.16000009,0.18,7,automatic,nc,nc
+2025-05-27T05:41:44.850Z,38.822334289551,-122.80316925049,3.1300001144409,0.4,md,7,150,0.005497,0.01,nc,nc75187091,2025-05-27T06:07:16.822Z,"6 km NNW of The Geysers, CA",earthquake,0.71,2.16000009,0.18,7,automatic,nc,nc
 2025-05-27T05:33:02.560Z,38.835166931152,-122.81916809082,2.0199999809265,0.34,md,6,138,0.01319,0.01,nc,nc75187086,2025-05-27T05:52:15.712Z,"8 km NNW of The Geysers, CA",earthquake,0.62,1.40999997,0.21,8,automatic,nc,nc
 2025-05-27T05:31:10.090Z,33.152,-116.2276667,9.58,0.52,ml,31,84,0.0462,0.18,ci,ci40977247,2025-05-27T05:34:42.098Z,"9 km W of Ocotillo Wells, CA",earthquake,0.21,0.57,0.092,7,automatic,ci,ci
 2025-05-27T05:27:16.040Z,38.817832946777,-122.76316833496,1.789999961853,1.01,md,11,115,0.01368,0.02,nc,nc75187081,2025-05-27T05:57:18.752Z,"4 km W of Cobb, CA",earthquake,0.35,0.560000002,0.24,14,automatic,nc,nc
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-27T00:39:24.720Z,44.6555,-110.42283333333,4.87,2.67,ml,23,115,0.08531,0.09,uu,uu80109071,2025-05-27T00:53:24.060Z,"41 km SSE of Mammoth, Wyoming",earthquake,0.25,0.52,0.20179138328784,5,reviewed,uu,uu
 2025-05-27T00:21:27.076Z,32.216,-101.419,9.2547,1.3,ml,14,171,0.3,0.7,tx,tx2025kgun,2025-05-27T00:27:39.348Z,"6 km SE of Big Spring, Texas",earthquake,0,12.233364105225,0.2,12,automatic,tx,tx
 2025-05-27T00:14:46.136Z,63.362,-145.3341,6.5,2,ml,,,,0.52,ak,ak0256r4346d,2025-05-27T00:16:41.649Z,"33 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-27T00:06:31.411Z,38.2736,22.6521,10,5,mww,73,50,1.236,0.49,us,us7000q1nc,2025-05-27T05:40:24.732Z,"12 km S of Antikyra, Greece",earthquake,5.26,1.765,0.054,33,reviewed,us,us
+2025-05-27T00:06:31.411Z,38.2736,22.6521,10,5,mww,73,50,1.236,0.49,us,us7000q1nc,2025-05-27T06:05:29.901Z,"12 km S of Antikyra, Greece",earthquake,5.26,1.765,0.054,33,reviewed,us,us
 2025-05-26T23:49:33.272Z,61.6172,-150.9207,91.1,0.9,ml,,,,0.92,ak,ak0256pug7nz,2025-05-26T23:51:54.842Z,"23 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-26T23:47:49.093Z,60.5767,-147.6885,17.6,1.5,ml,,,,0.52,ak,ak0256puftgd,2025-05-26T23:49:39.565Z,"58 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-26T23:20:01.715Z,31.559,-104.207,4.235,1.5,ml,32,73,0.1,0.4,tx,tx2025kgsu,2025-05-26T23:23:55.869Z,"47 km NW of Toyah, Texas",earthquake,0,1.0420551300049,0.2,25,automatic,tx,tx
@@ -192,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-26T06:48:13.781Z,62.9313,-151.3197,114.6,2.1,ml,,,,0.2,ak,ak0256pkbl5u,2025-05-26T06:50:19.828Z,"56 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-26T06:28:22.690Z,33.71,-116.7135,18.29,0.57,ml,20,66,0.004301,0.13,ci,ci40976655,2025-05-26T06:31:45.811Z,"3 km S of Idyllwild, CA",earthquake,0.29,0.41,0.152,9,automatic,ci,ci
 2025-05-26T06:19:41.792Z,64.8015,-149.1476,17,0.8,ml,,,,0.4,ak,ak0256pk5fk3,2025-05-26T06:21:19.432Z,"22 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-26T06:11:06.510Z,33.9118333,-117.664,11.58,1.19,ml,37,60,0.04081,0.13,ci,ci40976647,2025-05-26T06:14:40.010Z,"10 km WNW of Corona, CA",earthquake,0.21,0.24,0.328,34,automatic,ci,ci
-2025-05-26T06:08:58.125Z,13.6525,-89.7797,70.686,4.1,mb,72,165,0.248,0.73,us,us7000q1hl,2025-05-26T12:58:15.712Z,"8 km SSW of San Antonio del Monte, El Salvador",earthquake,5.49,5.251,0.056,87,reviewed,us,us
-2025-05-26T06:06:00.843Z,59.8536,-152.4353,89.2,1.7,ml,,,,0.25,ak,ak0256pk2k38,2025-05-26T06:07:43.158Z,"34 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
