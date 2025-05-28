@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-28T20:38:02.839Z,31.651,-104.346,3.812,2.1,ml,36,70,0.1,0.3,tx,tx2025kken,2025-05-28T20:40:31.458Z,"58 km S of Whites City, New Mexico",earthquake,0,0.97181528806686,0.2,24,automatic,tx,tx
+2025-05-28T20:38:02.839Z,31.651,-104.346,3.812,2.1,ml,36,70,0.1,0.3,tx,tx2025kken,2025-05-28T20:42:12.464Z,"58 km S of Whites City, New Mexico",earthquake,0,0.97181528806686,0.2,24,automatic,tx,tx
 2025-05-28T20:28:36.606Z,32.747,-100.665,2.891,1.8,ml,22,126,0.1,0.4,tx,tx2025kkec,2025-05-28T20:34:45.868Z,"15 km NE of Hermleigh, Texas",earthquake,0,1.3640372753143,0.1,14,automatic,tx,tx
 2025-05-28T20:13:38.960Z,35.345,-117.8053333,8,1.68,ml,45,36,0.08419,0.15,ci,ci40978999,2025-05-28T20:40:40.570Z,"16 km W of Johannesburg, CA",earthquake,0.15,0.47,0.193,25,reviewed,ci,ci
 2025-05-28T20:09:07.000Z,38.784999847412,-122.77016448975,2.2000000476837,1.29,md,26,83,0.01467,0.05,nc,nc75187876,2025-05-28T20:27:19.116Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.16,25,automatic,nc,nc
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T09:14:30.310Z,34.22,-118.6756667,5.81,1.25,ml,37,40,0.0236,0.27,ci,ci40978263,2025-05-28T20:10:01.282Z,"4 km NW of West Hills, CA",earthquake,0.28,0.64,0.156,24,reviewed,ci,ci
 2025-05-28T09:01:40.046Z,19.817,-109.2787,10,5.4,mww,82,91,6.912,1.1,us,us6000qgdb,2025-05-28T09:56:07.040Z,"Revilla Gigedo Islands region",earthquake,9.87,1.873,0.061,26,reviewed,us,us
 2025-05-28T08:57:48.816Z,-14.2672,167.2762,202.438,5.9,mww,81,50,1.175,0.76,us,us6000qgd9,2025-05-28T20:11:21.040Z,"52 km SW of Sola, Vanuatu",earthquake,8.81,6.092,0.047,43,reviewed,us,us
-2025-05-28T08:57:48.005Z,32.349,-102.198,4.6972,1,ml,22,113,0.1,0.5,tx,tx2025kjhi,2025-05-28T09:02:42.661Z,"31 km E of McKinney Acres, Texas",earthquake,0,1.1655179262161,0.2,15,automatic,tx,tx
+2025-05-28T08:57:48.340Z,32.356,-102.201,8.7646,1.1,ml,15,80,0,0.1,tx,tx2025kjhi,2025-05-28T20:45:18.480Z,"31 km E of McKinney Acres, Texas",earthquake,0.6812409951481,0.6893715724237,0.1,17,reviewed,tx,tx
 2025-05-28T08:52:59.960Z,35.708,-117.5076667,6.51,1.29,ml,36,58,0.08064,0.15,ci,ci40978255,2025-05-28T19:59:24.217Z,"12 km SW of Searles Valley, CA",earthquake,0.15,0.57,0.188,27,reviewed,ci,ci
 2025-05-28T08:48:35.820Z,35.9085,-117.7438333,8.18,0.69,ml,16,68,0.07251,0.09,ci,ci40978247,2025-05-28T13:31:33.215Z,"15 km ESE of Little Lake, CA",earthquake,0.18,0.44,0.159,8,reviewed,ci,ci
 2025-05-28T08:48:05.140Z,40.289333343506,-124.36116790772,14.279999732971,2.17,md,19,247,0.06722,0.07,nc,nc75187531,2025-05-28T16:31:37.613Z,"8 km WSW of Petrolia, CA",earthquake,1.16,0.449999988,0.11,14,automatic,nc,nc
@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-27T20:53:54.510Z,33.1678333,-116.3896667,4.08,0.74,ml,25,58,0.09905,0.17,ci,ci40977879,2025-05-27T20:57:25.316Z,"10 km S of Borrego Springs, CA",earthquake,0.22,0.71,0.105,14,automatic,ci,ci
 2025-05-27T20:48:51.220Z,33.8793333,-117.0348333,2.6,1.07,ml,35,53,0.06161,0.2,ci,ci40977871,2025-05-27T20:52:19.270Z,"8 km SW of Beaumont, CA",earthquake,0.25,0.8,0.153,31,automatic,ci,ci
 2025-05-27T20:47:06.933Z,62.8499,-150.5672,78.9,1.6,ml,,,,0.44,ak,ak0256rg6rvp,2025-05-27T20:49:17.365Z,"40 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-05-27T20:45:31.524Z,62.8638,-150.0742,73.2,1.4,ml,,,,0.51,ak,ak0256rg6ecg,2025-05-27T20:48:11.304Z,"46 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
