@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-29T16:02:49.200Z,38.787166595459,-122.74716949463,1.8999999761581,0.76,md,13,83,0.009057,0.01,nc,nc75188241,2025-05-29T16:04:27.546Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.610000014,0.06,12,automatic,nc,nc
 2025-05-29T15:41:58.474Z,31.938,-103.371,7.9834,2.7,ml,16,72,0,0.1,tx,tx2025klpu,2025-05-29T15:50:29.029Z,"25 km SW of Jal, New Mexico",earthquake,0.91770794744961,0.65936308122507,0.2,19,reviewed,tx,tx
 2025-05-29T15:33:06.149Z,32.127,-101.103,2.8836,1.7,ml,25,84,0.2,0.4,tx,tx2025klpj,2025-05-29T15:39:34.950Z,"24 km E of Forsan, Texas",earthquake,0,1.2672516107559,0.2,15,automatic,tx,tx
 2025-05-29T15:28:19.498Z,31.926,-103.382,7.1358,2.2,ml,6,149,0,0.1,tx,tx2025klpf,2025-05-29T15:32:50.058Z,"27 km SW of Jal, New Mexico",earthquake,0,4.5600409507752,0.2,6,automatic,tx,tx
@@ -57,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T09:30:50.580Z,38.823165893555,-122.75633239746,3.1800000667572,0.27,md,7,226,0.01287,0.03,nc,nc75188121,2025-05-29T09:47:20.349Z,"3 km WNW of Cobb, CA",earthquake,1.12,1.24000001,0.16,8,automatic,nc,nc
 2025-05-29T09:24:12.840Z,19.191499710083,-155.49166870117,34.810001373291,2.04,ml,58,77,0.04549,0.150000006,hv,hv74683197,2025-05-29T09:28:16.640Z,"1 km SW of Pāhala, Hawaii",earthquake,0.43,0.550000012,0.54,12,automatic,hv,hv
 2025-05-29T09:23:41.999Z,60.0622,-152.9449,107.1,1.6,ml,,,,0.36,ak,ak0256ukkmqf,2025-05-29T09:25:39.115Z,"68 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-05-29T09:23:05.500Z,33.714,-116.7693333,16.42,0.48,ml,31,52,0.04787,0.16,ci,ci40979471,2025-05-29T16:11:04.744Z,"6 km WSW of Idyllwild, CA",earthquake,0.24,0.4,0.137,6,reviewed,ci,ci
 2025-05-29T09:21:12.690Z,38.761166666667,-122.72766666667,2.21,0.3,md,13,69,0.002234,0.03,nc,nc75188111,2025-05-29T11:15:23.708Z,"3 km SE of The Geysers, CA",earthquake,0.28,0.24,0.089,8,reviewed,nc,nc
 2025-05-29T09:02:12.500Z,35.8726667,-117.6326667,7.68,0.67,ml,17,77,0.07644,0.11,ci,ci40979463,2025-05-29T13:26:15.206Z,"24 km WNW of Searles Valley, CA",earthquake,0.23,0.52,0.14,12,reviewed,ci,ci
 2025-05-29T09:00:58.340Z,38.813499450684,-122.764503479,1.5700000524521,1.47,md,22,92,0.01264,0.04,nc,nc75188106,2025-05-29T09:57:22.413Z,"4 km W of Cobb, CA",earthquake,0.22,0.330000013,0.24,25,automatic,nc,nc
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T16:31:24.970Z,33.1616667,-116.398,6.36,3.25,ml,111,18,0.09065,0.2,ci,ci40978623,2025-05-29T05:36:45.337Z,"11 km SSW of Borrego Springs, CA",earthquake,0.11,0.52,0.137,253,reviewed,ci,ci
 2025-05-28T16:27:47.409Z,34.538,-97.26366667,3,1.55,ml,54,73,0.08458340185,0.29,ok,ok2025kjvn,2025-05-28T16:42:03.517Z,"9 km ESE of Katie, Oklahoma",earthquake,,1.1,0.23,22,reviewed,ok,ok
 2025-05-28T16:24:12.160Z,44.78,-111.0595,8.16,0.88,ml,11,126,0.03717,0.17,uu,uu80109206,2025-05-28T17:37:08.560Z,"10 km E of Hebgen Lake Estates, Montana",earthquake,0.64,0.78,0.30313509414833,2,reviewed,uu,uu
-2025-05-28T16:14:10.230Z,43.729,-122.784,1.77,1.47,ml,11,133,0.2424,0.08,uw,uw62117311,2025-05-29T00:50:45.490Z,"5 km ENE of Culp Creek, Oregon",earthquake,0.28,0.63,0.17350026589001,8,reviewed,uw,uw
