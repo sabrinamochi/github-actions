@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-29T13:27:29.350Z,38.786334991455,-122.77183532715,1.6200000047684,0.76,md,6,113,0.01431,0.02,nc,nc75188206,2025-05-29T13:29:07.603Z,"2 km NW of The Geysers, CA",earthquake,0.84,1.70000005,0.05,8,automatic,nc,nc
 2025-05-29T13:19:18.141Z,31.659,-104.298,4.1175,1.6,ml,32,68,0,0.3,tx,tx2025kllc,2025-05-29T13:22:37.079Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0368236303329,0.2,18,automatic,tx,tx
 2025-05-29T13:18:16.182Z,32.401,-102.058,8.1971,1,ml,13,106,0,0.5,tx,tx2025kllb,2025-05-29T13:28:43.612Z,"35 km WSW of Ackerly, Texas",earthquake,0,2.2995319366455,0.1,10,automatic,tx,tx
 2025-05-29T12:55:54.180Z,40.777333333333,-112.14616666667,3.45,0.9,md,17,72,0.08193,0.16,uu,uu80109266,2025-05-29T13:15:04.650Z,"8 km NNW of Magna, Utah",earthquake,0.45,1.73,0.31715180088883,10,reviewed,uu,uu
@@ -35,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T08:20:40.754Z,60.6883,-147.0835,25.3,1.9,ml,,,,0.88,ak,ak0256ujyjvv,2025-05-29T08:22:42.071Z,"29 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-29T08:17:31.644Z,57.5623,-33.1099,10,4.5,mb,105,127,9.17,0.51,us,us6000qglh,2025-05-29T12:53:47.040Z,"Reykjanes Ridge",earthquake,10.52,1.915,0.055,95,reviewed,us,us
 2025-05-29T08:15:16.920Z,33.9296667,-117.0828333,13.14,0.73,ml,37,58,0.1084,0.17,ci,ci40979447,2025-05-29T08:18:53.700Z,"7 km SSW of Calimesa, CA",earthquake,0.18,0.61,0.087,20,automatic,ci,ci
+2025-05-29T08:08:00.432Z,28.976,-97.947,5.5176,1.6,ml,11,56,0,0.1,tx,tx2025klao,2025-05-29T13:29:22.376Z,"6 km E of Falls City, Texas",earthquake,1.3639959874406,1.3067053541291,0.2,9,reviewed,tx,tx
 2025-05-29T08:03:07.058Z,31.68,-104.401,6.0999,1.7,ml,23,87,0,0.2,tx,tx2025klak,2025-05-29T12:26:38.479Z,"55 km S of Whites City, New Mexico",earthquake,0.80170926297395,0.55177169434251,0.1,19,reviewed,tx,tx
 2025-05-29T07:42:23.040Z,34.0726667,-117.117,17.23,0.98,ml,17,141,0.1415,0.45,ci,ci40979439,2025-05-29T07:45:56.467Z,"2 km E of Mentone, CA",earthquake,1.53,2.72,0.185,31,automatic,ci,ci
 2025-05-29T07:35:24.250Z,38.832166666667,-122.80883333333,2.32,0.29,md,13,63,0.008812,0.01,nc,nc75188091,2025-05-29T11:45:05.184Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.91,0.133,13,reviewed,nc,nc
@@ -122,13 +124,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T22:05:55.340Z,62.1281,-150.8999,70.3,1.4,ml,,,,0.25,ak,ak0256t4o38u,2025-05-28T22:08:34.785Z,"30 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-28T22:04:54.850Z,38.821666717529,-122.79133605957,0.68000000715256,0.66,md,11,58,0.01182,0.02,nc,nc75187906,2025-05-28T22:27:19.917Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.660000026,0.21,11,automatic,nc,nc
 2025-05-28T22:00:07.189Z,32.177,-101.686,3.663,1.2,ml,34,51,0,0.5,tx,tx2025kkhd,2025-05-28T22:05:39.589Z,"11 km ENE of Stanton, Texas",earthquake,0,0.9058284163475,0.2,25,automatic,tx,tx
-2025-05-28T21:57:39.010Z,33.8743333,-116.5445,11.97,1.2,ml,41,57,0.0505,0.16,ci,ci40979159,2025-05-28T22:01:08.823Z,"3 km S of Garnet, CA",earthquake,0.17,0.44,0.207,28,automatic,ci,ci
+2025-05-28T21:57:39.010Z,33.8743333,-116.5445,11.97,1.2,ml,41,57,0.0505,0.16,ci,ci40979159,2025-05-29T13:29:06.932Z,"3 km S of Garnet, CA",earthquake,0.17,0.44,0.207,28,reviewed,ci,ci
 2025-05-28T21:54:16.501Z,64.7156,-147.7116,15.4,0.3,ml,,,,0.69,ak,ak0256t4d2qa,2025-05-28T21:56:51.661Z,"11 km SSE of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-28T21:51:14.549Z,59.6858,-153.4122,125.1,1.9,ml,,,,0.5,ak,ak0256t4cffi,2025-05-28T21:53:51.879Z,"40 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-28T21:38:22.444Z,44.4017,149.3834,35,4.7,mb,62,137,4.886,0.63,us,us6000qgie,2025-05-28T21:57:50.040Z,"150 km SE of Kuril’sk, Russia",earthquake,10.65,1.91,0.052,111,reviewed,us,us
 2025-05-28T21:33:45.140Z,48.090666666667,-121.916,-1.24,1.35,ml,5,249,0.105,0.18,uw,uw62117416,2025-05-29T01:02:38.550Z,"3 km E of Granite Falls, Washington",explosion,1.04,31.61,0.023232436901674,2,reviewed,uw,uw
 2025-05-28T21:30:02.184Z,28.2571,57.3423,10,5.2,mb,125,64,3.452,0.67,us,us6000qgic,2025-05-28T22:20:37.722Z,"124 km SSE of Kūh Sefīd, Iran",earthquake,8.93,1.841,0.043,181,reviewed,us,us
-2025-05-28T21:27:06.670Z,35.3421667,-117.8053333,7.07,1.28,ml,38,42,0.0816,0.18,ci,ci40979119,2025-05-28T21:30:44.594Z,"16 km WSW of Johannesburg, CA",earthquake,0.18,0.68,0.263,27,automatic,ci,ci
+2025-05-28T21:27:06.670Z,35.3421667,-117.8053333,7.07,1.28,ml,38,42,0.0816,0.18,ci,ci40979119,2025-05-29T13:29:08.978Z,"16 km WSW of Johannesburg, CA",earthquake,0.18,0.68,0.263,27,reviewed,ci,ci
 2025-05-28T21:24:14.750Z,38.8335,-122.811,2.23,-0.07,md,11,59,0.01012,0.01,nc,nc75187896,2025-05-29T11:39:02.868Z,"8 km WNW of Cobb, CA",earthquake,0.36,2,0.308,10,reviewed,nc,nc
 2025-05-28T21:22:48.171Z,-15.8279,166.985,10,5.1,mb,51,113,0.433,0.62,us,us6000qgib,2025-05-28T21:39:03.040Z,"39 km SSW of Luganville, Vanuatu",earthquake,6.66,1.868,0.098,34,reviewed,us,us
 2025-05-28T21:15:09.358Z,-29.3928,-178.7022,200.16,4.8,mb,54,55,0.691,0.93,us,us6000qgi9,2025-05-28T21:30:52.040Z,"Kermadec Islands, New Zealand",earthquake,12.87,6.101,0.097,33,reviewed,us,us
