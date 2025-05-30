@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-30T14:23:43.810Z,38.833667755127,-122.8801651001,2.2799999713898,2.01,md,42,62,0.005223,0.03,nc,nc75188621,2025-05-30T14:27:01.070Z,"12 km E of Cloverdale, CA",earthquake,0.2,0.25999999,0.13,40,automatic,nc,nc
+2025-05-30T14:28:56.559Z,36.6176,-116.4614,5,0.3,ml,12,178.59,0.102,0.1052,nn,nn00898225,2025-05-30T14:30:46.148Z,"39 km ENE of Furnace Creek, California",earthquake,,4,0.32,10,automatic,nn,nn
+2025-05-30T14:23:43.810Z,38.833667755127,-122.8801651001,2.2799999713898,2.01,md,42,62,0.005223,0.03,nc,nc75188621,2025-05-30T14:32:17.786Z,"12 km E of Cloverdale, CA",earthquake,0.2,0.25999999,0.13,40,automatic,nc,nc
 2025-05-30T14:09:32.360Z,33.4216667,-116.4431667,12.58,0.97,ml,54,35,0.1141,0.2,ci,ci40980967,2025-05-30T14:14:04.188Z,"20 km NNW of Borrego Springs, CA",earthquake,0.18,0.52,0.146,25,automatic,ci,ci
 2025-05-30T14:08:37.540Z,33.2805,-116.2298333,11.36,1.43,ml,31,112,0.08988,0.18,ci,ci40980951,2025-05-30T14:13:19.181Z,"14 km ENE of Borrego Springs, CA",earthquake,0.27,0.46,0.441,23,automatic,ci,ci
 2025-05-30T14:08:11.610Z,33.2536667,-117.0658333,19.73,1.31,ml,12,135,0.2746,0.31,ci,ci40980959,2025-05-30T14:11:43.474Z,"5 km NW of Valley Center, CA",earthquake,0.93,5.02,0.331,31,automatic,ci,ci
@@ -79,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T07:12:23.460Z,35.145166666667,-82.905666666667,4.76,2.43,md,14,81,0.06308,0.2,se,se60607286,2025-05-30T13:37:20.084Z,"7 km W of Rosman, North Carolina",earthquake,0.97,1.42,0.043483242561858,12,reviewed,se,se
 2025-05-30T07:10:23.162Z,28.315,-99.848,4.0607,2.3,ml,10,199,0.4,0.4,tx,tx2025kmup,2025-05-30T07:13:21.806Z,"16 km SSW of Asherton, Texas",earthquake,0,2.26278424263,0.2,6,automatic,tx,tx
 2025-05-30T07:10:02.490Z,17.97,-66.713333333333,14.73,2.24,md,9,216,0.125,0.2,pr,pr71483948,2025-05-30T07:21:39.190Z,"2 km S of Tallaboa, Puerto Rico",earthquake,0.74,1.37,0.063674312491385,3,reviewed,pr,pr
+2025-05-30T07:05:34.570Z,44.801166666667,-110.9875,9.1,0.63,ml,10,143,0.04389,0.09,uu,uu80109311,2025-05-30T14:28:01.170Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.53,0.73,0.1540811811803,2,reviewed,uu,uu
 2025-05-30T07:02:10.120Z,35.9565,-117.3685,2.2,1.44,ml,28,67,0.09518,0.15,ci,ci40980671,2025-05-30T07:05:32.612Z,"21 km N of Searles Valley, CA",earthquake,0.19,0.44,0.163,26,automatic,ci,ci
 2025-05-30T06:56:27.580Z,60.0623,-152.5627,80.2,1.4,ml,,,,0.48,ak,ak0256w6ipxi,2025-05-30T06:58:47.574Z,"48 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-30T06:46:29.079Z,31.936,-103.368,4.0619,2,ml,10,134,0,0.5,tx,tx2025kmty,2025-05-30T06:58:39.694Z,"25 km SW of Jal, New Mexico",earthquake,0,1.7148473262787,0.2,7,automatic,tx,tx
@@ -203,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T15:03:37.380Z,33.6988333,-117.4375,9.58,1.8,ml,80,35,0.05055,0.26,ci,ci40979767,2025-05-29T15:14:21.360Z,"11 km WNW of Lake Elsinore, CA",earthquake,0.21,0.4,0.169,27,automatic,ci,ci
 2025-05-29T14:53:49.378Z,62.5587,-151.147,209.2,1.7,ml,,,,0.94,ak,ak0256unq8st,2025-05-29T14:57:29.915Z,"20 km WNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-05-29T14:38:52.870Z,32.9826667,-116.3913333,4.55,0.89,ml,34,66,0.01951,0.18,ci,ci40979735,2025-05-29T14:42:18.732Z,"22 km NE of Pine Valley, CA",earthquake,0.2,0.32,0.087,16,automatic,ci,ci
-2025-05-29T14:35:51.033Z,59.6757,-151.2069,6.2,1.6,ml,,,,0.47,ak,ak0256unme1r,2025-05-29T14:38:06.137Z,"8 km SE of Fritz Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-29T14:31:31.840Z,38.758666666667,-122.737,1.66,0.61,md,22,67,0.008359,0.04,nc,nc75188231,2025-05-30T01:52:16.727Z,"3 km SSE of The Geysers, CA",earthquake,0.24,0.28,0.24,16,reviewed,nc,nc
-2025-05-29T14:30:05.220Z,40.6743,-74.7121,5,1.9,ml,10,146,0.034,0.34,us,us6000qgng,2025-05-30T13:54:17.636Z,"5 km W of Bedminster, New Jersey",earthquake,2.87,1.718,0.115,10,reviewed,us,us
-2025-05-29T14:28:47.331Z,31.664,-104.301,4.2977,1.8,ml,35,67,0,0.3,tx,tx2025klnk,2025-05-29T15:01:05.855Z,"57 km S of Whites City, New Mexico",earthquake,0,0.96643704175949,0.2,25,automatic,tx,tx
