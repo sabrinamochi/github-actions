@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T15:28:33.150Z,33.5375,-116.7211667,5.3,0.64,ml,31,29,0.03092,0.12,ci,ci40981015,2025-05-30T15:32:01.189Z,"5 km WSW of Anza, CA",earthquake,0.14,0.34,0.166,19,automatic,ci,ci
 2025-05-30T15:19:07.270Z,35.0985,-118.272,2.81,0.98,ml,20,54,0.07998,0.12,ci,ci40981007,2025-05-30T15:22:37.640Z,"10 km WNW of Mojave, CA",earthquake,0.17,0.29,0.226,21,automatic,ci,ci
 2025-05-30T15:11:58.602Z,63.3259,-145.4884,11.1,1.4,ml,,,,0.58,ak,ak0256wbm1jo,2025-05-30T15:14:12.776Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-30T15:11:41.829Z,31.529,-104.017,4.4426,1.7,ml,34,58,0,0.3,tx,tx2025knko,2025-05-30T15:15:31.598Z,"31 km NW of Toyah, Texas",earthquake,0,0.97600853443146,0.2,25,automatic,tx,tx
+2025-05-30T15:11:41.829Z,31.529,-104.017,4.4422,1.7,ml,34,58,0,0.3,tx,tx2025knko,2025-05-30T16:00:44.801Z,"31 km NW of Toyah, Texas",earthquake,0,0.97602289915085,0.2,25,automatic,tx,tx
 2025-05-30T15:01:56.882Z,32.8764,136.9273,408.407,4.2,mb,63,149,2.437,0.68,us,us6000qgx4,2025-05-30T15:17:45.040Z,"125 km ESE of Kushimoto, Japan",earthquake,11.2,9.073,0.064,68,reviewed,us,us
 2025-05-30T14:46:18.000Z,38.800498962402,-122.78133392334,2.8199999332428,0.53,md,8,100,0.01275,0.01,nc,nc75188636,2025-05-30T15:12:18.058Z,"3 km NNW of The Geysers, CA",earthquake,0.51,0.959999979,0.25,9,automatic,nc,nc
 2025-05-30T14:28:57.085Z,36.6132,-116.465,3.6,0.3,ml,22,117.07,0.106,0.1098,nn,nn00898225,2025-05-30T15:05:32.491Z,"39 km ENE of Furnace Creek, California",earthquake,,3.3,0.37,4,reviewed,nn,nn
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T14:04:47.098Z,60.1736,-152.5749,102.1,1.5,ml,,,,0.53,ak,ak0256waz31h,2025-05-30T14:06:52.314Z,"52 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-30T13:57:59.954Z,31.641,-104.364,4.2153,1.5,ml,27,71,0.1,0.5,tx,tx2025knih,2025-05-30T14:02:29.272Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0917446613312,0.1,21,automatic,tx,tx
 2025-05-30T13:55:26.297Z,32.356,-102.112,3.8927,1.3,ml,31,51,0.1,0.6,tx,tx2025knie,2025-05-30T15:00:13.617Z,"39 km NW of Stanton, Texas",earthquake,0,0.93837177753448,0.1,21,automatic,tx,tx
-2025-05-30T13:51:21.759Z,54.4053,-163.3145,10,4.2,mb,42,146,0.456,0.69,us,us6000qgw0,2025-05-30T14:26:14.893Z,"50 km S of False Pass, Alaska",earthquake,4.95,1.922,0.104,26,reviewed,us,us
+2025-05-30T13:51:21.759Z,54.4053,-163.3145,10,4.2,mb,42,146,0.456,0.69,us,us6000qgw0,2025-05-30T16:02:15.709Z,"50 km S of False Pass, Alaska",earthquake,4.95,1.922,0.104,26,reviewed,us,us
 2025-05-30T13:50:08.320Z,37.302333333333,-114.19366666667,10.13,1.89,ml,9,131,0.2627,0.15,uu,uu80109356,2025-05-30T14:17:39.260Z,"44 km W of Veyo, Utah",earthquake,0.7,1.61,0.095292660822173,8,reviewed,uu,uu
 2025-05-30T13:38:27.079Z,36.27616667,-97.49933333,6.61,1.09,ml,55,62,0.06658693337,0.27,ok,ok2025kngy,2025-05-30T13:59:34.611Z,"4 km W of Lucien, Oklahoma",earthquake,,0.6,0.26,20,reviewed,ok,ok
 2025-05-30T13:33:50.000Z,65.4468,-148.2529,11.3,1,ml,,,,0.48,ak,ak0256wajvfc,2025-05-30T13:53:48.370Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T16:25:14.120Z,19.1935,-155.49116666667,35.16,2.71,ml,60,75,0.04679,0.11,hv,hv74683547,2025-05-29T19:51:18.129Z,"1 km SW of Pāhala, Hawaii",earthquake,0.4,0.42,0.2024133514508,46,reviewed,hv,hv
 2025-05-29T16:24:29.883Z,31.936,-103.388,8.6216,1.4,ml,10,97,0,0.3,tx,tx2025klqz,2025-05-29T16:28:52.064Z,"26 km SW of Jal, New Mexico",earthquake,0,2.7193009853363,0.2,7,automatic,tx,tx
 2025-05-29T16:23:14.390Z,38.829498291016,-122.80366516113,1.4299999475479,1.1,md,23,38,0.007887,0.02,nc,nc75188251,2025-05-29T17:22:15.362Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.360000014,0.07,24,automatic,nc,nc
-2025-05-29T16:02:49.200Z,38.787166595459,-122.74716949463,1.8999999761581,0.76,md,13,83,0.009057,0.01,nc,nc75188241,2025-05-29T16:37:16.054Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.610000014,0.06,12,automatic,nc,nc
