@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-30T03:41:51.760Z,37.294334411621,-121.61483001709,5.210000038147,0.82,md,9,96,0.05214,0.07,nc,nc75188496,2025-05-30T03:43:26.567Z,"19 km NNE of Morgan Hill, CA",earthquake,0.47,1.25,0.24,4,automatic,nc,nc
 2025-05-30T03:24:16.360Z,33.4721667,-116.5061667,14.77,0.55,ml,27,57,0.08335,0.17,ci,ci40980559,2025-05-30T03:29:01.942Z,"18 km ESE of Anza, CA",earthquake,0.27,0.45,0.165,17,automatic,ci,ci
 2025-05-30T03:23:23.060Z,34.1485,-116.4505,9.34,0.68,ml,26,52,0.06077,0.19,ci,ci40980551,2025-05-30T03:27:10.654Z,"4 km NNW of Yucca Valley, CA",earthquake,0.23,0.64,0.155,12,automatic,ci,ci
 2025-05-30T03:15:54.370Z,35.5968333,-117.6006667,6.9,1.57,ml,38,61,0.06973,0.13,ci,ci40980535,2025-05-30T03:19:29.880Z,"7 km ESE of Ridgecrest, CA",earthquake,0.13,0.31,0.215,25,automatic,ci,ci
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T01:04:34.710Z,38.836166381836,-122.79933166504,2.289999961853,1.07,md,16,65,0.007368,0.02,nc,nc75188436,2025-05-30T01:10:00.680Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.540000021,0.3,18,automatic,nc,nc
 2025-05-30T00:38:36.893Z,38.654,-119.7837,7.6,1.7,ml,13,116.88,0.276,0.2891,nn,nn00898196,2025-05-30T00:41:04.142Z,"4 km S of Markleeville, California",earthquake,,1.7,0.2,8,automatic,nn,nn
 2025-05-30T00:07:56.210Z,38.839500427246,-122.80799865723,1.9900000095367,0.75,md,6,120,0.01383,0.02,nc,nc75188416,2025-05-30T00:52:16.339Z,"8 km WNW of Cobb, CA",earthquake,0.76,2.1500001,0.18,8,automatic,nc,nc
+2025-05-30T00:02:23.415Z,24.9408,122.9026,130.34,4.6,mww,73,46,0.482,0.93,us,us6000qgss,2025-05-30T03:42:38.040Z,"53 km N of Yonakuni, Japan",earthquake,5.85,4.868,0.11,8,reviewed,us,us
 2025-05-29T23:58:44.390Z,62.4823,-149.3259,1.6,1.7,ml,,,,0.74,ak,ak0256ut47g7,2025-05-30T00:01:03.853Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-29T23:40:59.615Z,47.9877,154.0973,55.314,5,mww,107,95,5.616,0.69,us,us6000qgsq,2025-05-30T00:47:57.040Z,"Kuril Islands",earthquake,9.18,6.047,0.103,9,reviewed,us,us
 2025-05-29T23:32:47.240Z,47.940333333333,-124.41883333333,36.71,1.63,ml,25,98,0.09934,0.22,uw,uw62118086,2025-05-29T23:59:59.210Z,"2 km WSW of Forks, Washington",earthquake,0.57,0.75,0.10191575160797,8,reviewed,uw,uw
@@ -194,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T04:03:23.746Z,64.9245,-149.1588,0,1.3,ml,,,,0.76,ak,ak0256uhh4za,2025-05-29T04:06:23.302Z,"26 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-29T04:00:10.890Z,46.099833333333,-122.441,5.84,0.52,ml,10,164,0.1072,0.18,uw,uw62117491,2025-05-29T17:21:30.030Z,"21 km N of Amboy, Washington",earthquake,0.78,2.49,0.23457636093219,6,reviewed,uw,uw
 2025-05-29T03:45:53.750Z,38.820999145508,-122.7876663208,1.9299999475479,1.26,md,19,50,0.009459,0.02,nc,nc75188016,2025-05-29T04:37:16.309Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.430000007,0.23,20,automatic,nc,nc
-2025-05-29T03:43:08.022Z,59.0552,-151.9167,51.1,1.8,ml,,,,0.33,ak,ak0256uh48sy,2025-05-29T03:44:49.614Z,"33 km S of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-05-29T03:42:49.510Z,33.1426667,-116.0676667,11.64,1.21,ml,41,64,0.08145,0.22,ci,ci40979343,2025-05-29T19:34:29.357Z,"6 km E of Ocotillo Wells, CA",earthquake,0.22,0.46,0.196,26,reviewed,ci,ci
