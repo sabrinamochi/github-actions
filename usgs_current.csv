@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-31T03:53:18.090Z,33.9338333,-117.0741667,7.8,0.68,ml,28,55,0.0788,0.2,ci,ci40981607,2025-05-31T03:56:47.047Z,"6 km SSW of Calimesa, CA",earthquake,0.23,1.01,0.117,13,automatic,ci,ci
+2025-05-31T03:48:25.709Z,-0.3434,125.2871,46.66,4.8,mb,39,66,1.831,1.16,us,us6000qh0w,2025-05-31T04:14:29.040Z,"129 km SE of Modisi, Indonesia",earthquake,6.17,8.132,0.085,43,reviewed,us,us
 2025-05-31T03:37:19.960Z,38.817832946777,-122.76633453369,1.8700000047684,1.04,md,11,110,0.01211,0.02,nc,nc75188941,2025-05-31T04:07:20.203Z,"4 km W of Cobb, CA",earthquake,0.33,0.620000005,0.14,12,automatic,nc,nc
 2025-05-31T03:35:51.740Z,39.673667907715,-123.75633239746,0.81000000238419,1.75,md,14,165,0.1352,0.12,nc,nc75188936,2025-05-31T04:07:20.309Z,"9 km SE of Cape Vizcaino, CA",earthquake,0.68,6.23000002,0.11,6,automatic,nc,nc
 2025-05-31T03:35:37.040Z,34.4125,-119.3936667,1.41,1.29,ml,22,155,0.06154,0.21,ci,ci40981599,2025-05-31T03:39:08.556Z,"12 km E of Carpinteria, CA",earthquake,0.32,0.6,0.297,24,automatic,ci,ci
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T19:19:45.580Z,46.004333333333,-112.463,-2,1.42,ml,10,80,0.06414,0.05,mb,mb90090638,2025-05-30T19:59:21.720Z,"5 km E of Butte, Montana",quarry blast,0.28,31.61,0.2592940397554,15,reviewed,mb,mb
 2025-05-30T19:19:44.379Z,60.0726,-148.029,21.3,2.3,ml,,,,0.54,ak,ak0256we1glh,2025-05-30T22:07:26.040Z,"1 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-30T19:16:22.983Z,31.611,-104.142,3.9571,1.5,ml,30,63,0,0.4,tx,tx2025knss,2025-05-30T19:19:48.325Z,"46 km NW of Toyah, Texas",earthquake,0,0.99404829740524,0.1,23,automatic,tx,tx
-2025-05-30T19:11:42.630Z,37.949333333333,-122.03083333333,14.81,3.06,ml,175,17,0.02369,0.24,nc,nc75188731,2025-05-31T03:55:05.350Z,"2 km SW of Concord, CA",earthquake,0.15,0.29,0.182,122,reviewed,nc,nc
+2025-05-30T19:11:42.630Z,37.949333333333,-122.03083333333,14.81,3.06,ml,175,17,0.02369,0.24,nc,nc75188731,2025-05-31T04:14:10.361Z,"2 km SW of Concord, CA",earthquake,0.15,0.29,0.182,122,reviewed,nc,nc
 2025-05-30T19:09:42.829Z,34.64416667,-96.79816667,0,1.64,ml,86,72,0.2924426128,0.28,ok,ok2025knrw,2025-05-30T19:24:18.638Z,"3 km SW of Fitzhugh, Oklahoma",quarry blast,,0.3,0.21,31,reviewed,ok,ok
 2025-05-30T19:05:51.530Z,38.785499572754,-122.74449920654,1.0800000429153,0.47,md,6,96,0.006482,0.01,nc,nc75188721,2025-05-30T19:07:27.168Z,"1 km ENE of The Geysers, CA",earthquake,0.5,1.53999996,0.26,7,automatic,nc,nc
 2025-05-30T19:05:36.950Z,33.8253333,-117.4841667,-0.51,1.5,ml,28,54,0.03354,0.24,ci,ci40981239,2025-05-30T21:49:15.039Z,"7 km SSE of Home Gardens, CA",quarry blast,0.41,31.61,0.195,54,reviewed,ci,ci
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-30T04:27:09.220Z,38.825500488281,-122.84449768066,1.8899999856949,0.76,md,19,101,0.007769,0.01,nc,nc75188506,2025-05-30T05:12:18.046Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.370000005,0.14,18,automatic,nc,nc
 2025-05-30T04:22:34.726Z,-37.2993,177.0479,160.78,4.3,mb,18,121,1.036,0.85,us,us6000qgth,2025-05-30T04:57:02.040Z,"73 km N of Whakatane, New Zealand",earthquake,6.34,7.759,0.202,7,reviewed,us,us
 2025-05-30T04:19:40.720Z,18.938666666667,-64.7775,13.71,3.18,md,10,275,0.5368,0.24,pr,pr71483938,2025-05-30T04:47:39.040Z,"67 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.72,4.23,0.10325042089833,5,reviewed,pr,pr
-2025-05-30T04:14:48.920Z,38.837001800537,-122.83666992188,1.3300000429153,0.73,md,12,83,0.001834,0.01,nc,nc75188501,2025-05-30T04:47:18.867Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.560000002,0.16,13,automatic,nc,nc
