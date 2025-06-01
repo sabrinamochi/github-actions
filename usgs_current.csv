@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-01T13:37:53.871Z,63.8113,-150.5763,9.4,1.7,ml,,,,0.62,ak,ak0256zlnfkr,2025-06-01T13:39:37.670Z,"64 km ENE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-01T13:36:15.308Z,39.1015,-119.0392,7.8,1.2,ml,14,71.36,0.067,0.136,nn,nn00898354,2025-06-01T13:38:39.965Z,"16 km NE of Yerington, Nevada",earthquake,,0.6,0.26,5,automatic,nn,nn
 2025-06-01T13:34:35.990Z,38.794666290283,-122.72616577148,2.2400000095367,0.99,md,8,135,0.01408,0.01,nc,nc75189536,2025-06-01T13:36:10.319Z,"3 km SSW of Cobb, CA",earthquake,0.37,0.99000001,0.23,8,automatic,nc,nc
 2025-06-01T13:22:30.992Z,39.0957,-119.0367,7.8,1.2,ml,13,71.62,0.073,0.1685,nn,nn00898351,2025-06-01T13:24:59.910Z,"16 km NE of Yerington, Nevada",earthquake,,0.8,0.4,6,automatic,nn,nn
 2025-06-01T13:04:55.943Z,36.7934,-116.0712,6.7,-0.2,ml,14,104.63,0.041,0.1782,nn,nn00898348,2025-06-01T13:06:39.359Z,"43 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,10,automatic,nn,nn
 2025-06-01T13:03:13.205Z,36.8086,-116.0624,0.1,0.2,ml,23,113.27,0.051,0.322,nn,nn00898346,2025-06-01T13:05:01.531Z,"43 km NW of Indian Springs, Nevada",earthquake,,0.2,0.38,15,automatic,nn,nn
+2025-06-01T12:55:54.182Z,37.7253,144.0331,10,4.6,mb,101,121,3.83,0.73,us,us6000qh96,2025-06-01T13:38:08.040Z,"240 km ESE of Onagawa Chō, Japan",earthquake,8.69,1.884,0.057,91,reviewed,us,us
 2025-06-01T12:51:54.118Z,14.9138,146.2877,84.157,4.5,mb,95,87,0.575,1.12,us,us6000qh97,2025-06-01T13:26:38.040Z,"66 km ESE of Saipan, Northern Mariana Islands",earthquake,6.62,6.064,0.061,80,reviewed,us,us
 2025-06-01T12:49:13.540Z,17.905,-66.953,14.58,2,md,7,241,0.09891,0.08,pr,pr71484108,2025-06-01T12:59:34.150Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.85,0.63,0.16451837892108,4,reviewed,pr,pr
 2025-06-01T12:41:40.410Z,38.821166992188,-122.79816436768,3.289999961853,0.76,md,8,97,0.009565,0.01,nc,nc75189531,2025-06-01T12:57:18.383Z,"6 km NNW of The Geysers, CA",earthquake,0.5,1.05999994,0.47,9,automatic,nc,nc
@@ -66,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-01T06:51:40.050Z,35.083,-119.0771667,11.34,2.11,ml,64,21,0.02494,0.33,ci,ci40982255,2025-06-01T06:55:13.711Z,"20 km NW of Grapevine, CA",earthquake,0.27,0.59,0.159,26,automatic,ci,ci
 2025-06-01T06:49:28.600Z,35.0863333,-119.0833333,7.88,1.65,ml,48,39,0.2021,0.32,ci,ci40982247,2025-06-01T06:53:07.683Z,"21 km NW of Grapevine, CA",earthquake,0.29,2.04,0.166,26,automatic,ci,ci
 2025-06-01T06:38:08.770Z,35.3238333,-117.8078333,7.26,1.04,ml,24,83,0.06429,0.22,ci,ci40982239,2025-06-01T13:30:34.018Z,"17 km WSW of Johannesburg, CA",earthquake,0.31,0.84,0.135,17,reviewed,ci,ci
-2025-06-01T06:25:59.728Z,36.7896,-116.0916,6,-0.3,ml,11,107.27,0.031,0.2366,nn,nn00898338,2025-06-01T06:27:37.448Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1,0.53,5,automatic,nn,nn
+2025-06-01T06:26:00.268Z,36.7772,-116.0937,5.4,-0.4,ml,18,93.63,0.019,0.0648,nn,nn00898338,2025-06-01T13:39:33.015Z,"44 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.17,5,reviewed,nn,nn
 2025-06-01T06:23:17.575Z,36.7765,-116.0968,4.7,-0.4,ml,14,124.44,0.017,0.0617,nn,nn00898353,2025-06-01T13:30:18.447Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1,0.06,3,reviewed,nn,nn
 2025-06-01T06:17:19.719Z,36.014,-97.92533333,5.76,1.72,ml,91,48,0,0.16,ok,ok2025kqjk,2025-06-01T07:22:05.714Z,"3 km NNW of Dover, Oklahoma",earthquake,,0.3,0.37,44,reviewed,ok,ok
 2025-06-01T06:11:40.500Z,38.829666137695,-122.81716918945,1.7300000190735,0.79,md,15,65,0.008362,0.01,nc,nc75189436,2025-06-01T06:27:17.723Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.699999988,0.2,17,automatic,nc,nc
@@ -142,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-31T22:14:28.811Z,31.67,-104.383,4.6335,1.9,ml,25,69,0,0.3,tx,tx2025kpui,2025-05-31T23:00:30.229Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1275185346603,0.1,19,automatic,tx,tx
 2025-05-31T22:10:09.361Z,36.7497,-116.1524,3.9,-0.2,ml,11,153.17,0.03,0.0702,nn,nn00898322,2025-05-31T23:54:57.429Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.05,2,reviewed,nn,nn
 2025-05-31T22:08:30.780Z,33.6411667,-116.8965,16.02,2,ml,94,14,0.04213,0.21,ci,ci40982039,2025-05-31T22:19:25.550Z,"12 km S of Valle Vista, CA",earthquake,0.13,0.3,0.246,26,automatic,ci,ci
-2025-05-31T22:06:10.180Z,35.7446667,-117.5663333,6.2,0.85,ml,22,56,0.1406,0.16,ci,ci40982031,2025-05-31T22:09:36.847Z,"15 km W of Searles Valley, CA",earthquake,0.23,0.94,0.143,15,automatic,ci,ci
+2025-05-31T22:06:10.180Z,35.7446667,-117.5663333,6.2,0.85,ml,22,56,0.1406,0.16,ci,ci40982031,2025-06-01T13:38:24.207Z,"15 km W of Searles Valley, CA",earthquake,0.23,0.94,0.143,15,reviewed,ci,ci
 2025-05-31T21:53:07.050Z,34.1995,-117.0451667,1.96,1.02,ml,34,46,0.066,0.16,ci,ci40982023,2025-05-31T21:56:43.747Z,"6 km E of Running Springs, CA",earthquake,0.16,0.31,0.255,30,automatic,ci,ci
 2025-05-31T21:46:50.260Z,38.824501037598,-122.80149841309,2.6099998950958,0.76,md,22,39,0.006789,0.02,nc,nc75189341,2025-05-31T22:07:22.381Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.439999998,0.1,21,automatic,nc,nc
 2025-05-31T21:46:37.559Z,39.3552,-119.9664,5,0.4,ml,6,121.68,0.083,0.101,nn,nn00898327,2025-06-01T00:19:32.224Z,"6 km SE of Floriston, California",earthquake,,4.1,0.21,5,reviewed,nn,nn
@@ -155,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-31T21:23:12.330Z,46.796,-121.55566666667,3.3,2.06,ml,24,102,0.06558,0.11,uw,uw62118931,2025-05-31T21:38:32.474Z,"22 km NNE of Packwood, Washington",earthquake,0.28,0.73,0.1956567286559,16,reviewed,uw,uw
 2025-05-31T21:22:00.090Z,33.493,-116.7825,7.49,0.8,ml,36,31,0.02394,0.17,ci,ci40982007,2025-05-31T21:25:40.352Z,"10 km NE of Aguanga, CA",earthquake,0.17,0.41,0.102,24,automatic,ci,ci
 2025-05-31T21:21:11.179Z,-28.1234,-178.3931,10,6,mww,58,80,1.19,1.78,us,us6000qh59,2025-05-31T23:50:51.840Z,"Kermadec Islands region",earthquake,9.27,1.845,0.066,22,reviewed,us,us
-2025-05-31T21:17:46.770Z,33.9513333,-116.629,13.93,1.02,ml,43,35,0.04513,0.16,ci,ci40981999,2025-05-31T21:21:10.519Z,"10 km NW of Garnet, CA",earthquake,0.17,0.37,0.197,29,automatic,ci,ci
+2025-05-31T21:17:46.770Z,33.9513333,-116.629,13.93,1.02,ml,43,35,0.04513,0.16,ci,ci40981999,2025-06-01T13:39:26.693Z,"10 km NW of Garnet, CA",earthquake,0.17,0.37,0.197,29,reviewed,ci,ci
 2025-05-31T21:13:11.391Z,31.685,-104.389,6.0101,2.8,ml,34,65,0,0.1,tx,tx2025kpsj,2025-05-31T21:27:30.040Z,"54 km S of Whites City, New Mexico",earthquake,0.56752959916196,0.62637217937419,0.1,30,reviewed,tx,tx
 2025-05-31T21:08:35.089Z,32.1,-101.928,3.9652,1.4,ml,66,34,0.1,0.4,tx,tx2025kpsg,2025-05-31T23:14:17.618Z,"13 km WSW of Stanton, Texas",earthquake,0,0.67307674884796,0.1,47,automatic,tx,tx
 2025-05-31T21:02:43.470Z,38.78783416748,-122.76766967773,2.8699998855591,0.75,md,12,98,0.01421,0.02,nc,nc75189326,2025-05-31T21:32:17.166Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.720000029,0.06,12,automatic,nc,nc
