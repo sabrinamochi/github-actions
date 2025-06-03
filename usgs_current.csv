@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-03T22:24:54.387Z,17.9291,-66.7304,10.255,3.5,ml,22,182,0.204,0.52,us,us6000qhsu,2025-06-03T22:34:08.951Z,"7 km SSW of Tallaboa, Puerto Rico",earthquake,1.71,5.436,0.058,39,reviewed,us,us
+2025-06-03T22:24:54.387Z,17.9291,-66.7304,10.255,3.5,ml,22,182,0.204,0.52,us,us6000qhsu,2025-06-03T22:37:31.998Z,"7 km SSW of Tallaboa, Puerto Rico",earthquake,1.71,5.436,0.058,39,reviewed,us,us
 2025-06-03T22:19:34.810Z,38.814666748047,-122.81783294678,2.5499999523163,0.75,md,11,57,0.01059,0.03,nc,nc75190651,2025-06-03T22:21:08.769Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.35000002,0.13,12,automatic,nc,nc
 2025-06-03T22:18:54.230Z,38.81566619873,-122.81749725342,2.75,1.08,md,25,49,0.009653,0.02,nc,nc75190646,2025-06-03T22:20:29.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.17,27,automatic,nc,nc
 2025-06-03T22:12:19.064Z,32.426,-102.138,3.478,1.6,ml,42,58,0,0.5,tx,tx2025kvgf,2025-06-03T22:17:07.682Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,0.8769742846489,0.2,24,automatic,tx,tx
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T14:00:10.863Z,63.0255,-150.6247,108.9,2.1,ml,,,,0.43,ak,ak02572x3jcu,2025-06-03T14:02:12.257Z,"59 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-03T13:58:40.680Z,44.328333333333,-115.00183333333,5.84,2.49,ml,17,61,0.2485,0.11,mb,mb90092703,2025-06-03T14:41:19.640Z,"13 km NNW of Stanley, Idaho",earthquake,0.35,1.73,0.14414875129764,40,reviewed,mb,mb
 2025-06-03T13:54:48.820Z,38.822498321533,-122.8424987793,2.2699999809265,0.7,md,10,81,0.005867,0.01,nc,nc75190466,2025-06-03T14:17:20.848Z,"9 km NW of The Geysers, CA",earthquake,0.41,0.730000019,0.27,12,automatic,nc,nc
-2025-06-03T13:39:56.400Z,38.837833333333,-122.8095,2.03,0.39,md,19,50,0.01442,0.02,nc,nc75190461,2025-06-03T21:52:03.896Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.56,0.166,19,reviewed,nc,nc
+2025-06-03T13:39:56.400Z,38.837833333333,-122.8095,2.03,0.39,md,19,50,0.01442,0.02,nc,nc75190461,2025-06-03T22:37:19.051Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.56,0.166,19,reviewed,nc,nc
 2025-06-03T13:37:15.030Z,44.343666666667,-115.021,5.62,1.96,ml,14,78,0.2685,0.11,mb,mb90092698,2025-06-03T14:47:26.300Z,"15 km NNW of Stanley, Idaho",earthquake,0.4,2.73,0.15053601014551,18,reviewed,mb,mb
 2025-06-03T13:35:21.100Z,38.827331542969,-122.80216979981,1.6000000238419,1.22,md,20,58,0.007319,0.02,nc,nc75190456,2025-06-03T14:07:18.775Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.17,24,automatic,nc,nc
 2025-06-03T13:28:56.911Z,21.3115,99.669,10.694,4.4,mb,46,97,0.078,0.53,us,us6000qhnw,2025-06-03T16:15:36.040Z,"44 km SW of Kēng Tung, Burma (Myanmar)",earthquake,6.53,3.956,0.092,34,reviewed,us,us
@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T22:39:58.531Z,31.942,-103.379,6.1383,1.7,ml,19,64,0,0.2,tx,tx2025ktlv,2025-06-03T16:38:33.798Z,"25 km SW of Jal, New Mexico",earthquake,0.49984772633812,0.43456691015335,0.1,6,reviewed,tx,tx
 2025-06-02T22:39:58.528Z,31.942,-103.377,6.1127,1.6,ml,13,72,0,0.3,tx,tx2025ktlw,2025-06-03T13:48:05.378Z,"25 km SW of Jal, New Mexico",earthquake,1.8464006048335,1.2557122048526,0.2,7,reviewed,tx,tx
 2025-06-02T22:38:23.310Z,36.973667144775,-121.62933349609,4.4299998283386,1.93,md,19,55,0.04208,0.11,nc,nc75190246,2025-06-02T23:47:17.004Z,"6 km WSW of Gilroy, CA",earthquake,0.32,0.589999974,0.27,21,automatic,nc,nc
-2025-06-02T22:37:56.154Z,31.667,-104.43,4.5105,1.6,ml,22,80,0,0.2,tx,tx2025ktlu,2025-06-03T13:06:04.404Z,"56 km S of Whites City, New Mexico",earthquake,0.93840241487038,0.6300191538671,0.1,6,reviewed,tx,tx
