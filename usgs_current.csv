@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T12:34:43.552Z,62.3152,-151.0906,14.4,1.7,ml,,,,0.6,ak,ak02572w410j,2025-06-03T12:36:32.521Z,"26 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-03T12:32:28.259Z,65.0628,-148.1657,20.9,0.8,ml,,,,1.01,ak,ak02572w3keh,2025-06-03T12:35:07.595Z,"25 km NNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-03T12:27:27.762Z,31.672,-104.382,5.127,1.7,ml,29,86,0,0.1,tx,tx2025kund,2025-06-03T12:43:24.810Z,"55 km S of Whites City, New Mexico",earthquake,0.51813753169923,0.62384750923235,0.1,17,reviewed,tx,tx
-2025-06-03T11:59:34.574Z,44.3427,-115.0139,12.354,3.9,mb,41,45,0.265,0.44,us,us6000qhmg,2025-06-03T12:46:25.842Z,"15 km NNW of Stanley, Idaho",earthquake,2.52,6.637,0.142,13,reviewed,us,us
+2025-06-03T11:59:34.574Z,44.3427,-115.0139,12.354,3.9,mb,41,45,0.265,0.44,us,us6000qhmg,2025-06-03T12:55:21.169Z,"15 km NNW of Stanley, Idaho",earthquake,2.52,6.637,0.142,13,reviewed,us,us
 2025-06-03T11:57:52.361Z,44.3502,-115.0143,15.416,3.5,ml,29,58,0.272,0.37,us,us6000qhmf,2025-06-03T12:44:51.887Z,"15 km NNW of Stanley, Idaho",earthquake,1.89,8.242,0.03,144,reviewed,us,us
 2025-06-03T11:30:35.198Z,32.011,-101.695,7.9346,2.2,ml,31,83,0.1,0.1,tx,tx2025kuky,2025-06-03T12:18:18.119Z,"15 km SE of Stanton, Texas",earthquake,0.54812619759326,1.6550137621807,0.1,24,reviewed,tx,tx
 2025-06-03T11:26:31.613Z,34.9311,25.7887,10,4.9,mww,111,38,2.292,0.78,us,us6000qhma,2025-06-03T12:26:39.506Z,"9 km SSE of Ierápetra, Greece",earthquake,7.31,1.776,0.066,22,reviewed,us,us
@@ -61,9 +61,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T03:27:08.961Z,59.514,-153.4493,113.722,2.5,ml,20,137,0.596,0.63,us,us6000qhju,2025-06-03T03:40:45.040Z,"47 km SE of Pedro Bay, Alaska",earthquake,5.55,8.26,0.057,40,reviewed,us,us
 2025-06-03T03:16:45.122Z,52.7581,-170.5645,121.4,3.7,ml,,,,0.59,ak,ak02572qn9wd,2025-06-03T08:24:44.486Z,"116 km W of Nikolski, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2025-06-03T03:00:26.000Z,38.840667724609,-122.87599945068,2.4100000858307,0.64,md,8,117,0.0058,0.02,nc,nc75190306,2025-06-03T03:02:01.478Z,"13 km NW of The Geysers, CA",earthquake,0.44,0.600000024,0.06,7,automatic,nc,nc
-2025-06-03T02:59:57.779Z,36.6658,-116.2475,12.7,0,ml,12,111.54,0.06,0.2402,nn,nn00898428,2025-06-03T03:01:47.275Z,"52 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.26,6,automatic,nn,nn
+2025-06-03T02:59:58.524Z,36.6541,-116.2717,6.7,0,ml,22,111.75,0.055,0.0725,nn,nn00898428,2025-06-03T12:55:06.274Z,"51 km ESE of Beatty, Nevada",earthquake,,0.9,0.1,4,reviewed,nn,nn
 2025-06-03T02:56:22.770Z,38.81583404541,-122.82466888428,2.0999999046326,0.44,md,8,76,0.007797,0.01,nc,nc75190301,2025-06-03T03:17:20.423Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.15999997,0.18,9,automatic,nc,nc
 2025-06-03T02:54:48.078Z,32.107,-101.928,7.1533,1.3,ml,19,53,0.1,0.1,tx,tx2025ktua,2025-06-03T12:21:25.691Z,"13 km W of Stanton, Texas",earthquake,0.41181548922744,1.4747779123707,0.2,15,reviewed,tx,tx
+2025-06-03T02:44:52.933Z,36.6561,-116.2683,6.5,-0.1,ml,6,188.07,0.058,0.0476,nn,nn00898433,2025-06-03T12:48:54.437Z,"52 km ESE of Beatty, Nevada",earthquake,,2.9,0.09,2,reviewed,nn,nn
 2025-06-03T02:30:47.913Z,-5.4937,-80.4584,103.951,4.4,mb,43,134,3.237,0.76,us,us6000qhjm,2025-06-03T02:52:05.040Z,"32 km E of Bernal, Peru",earthquake,12.28,8.382,0.084,41,reviewed,us,us
 2025-06-03T02:26:38.999Z,44.3365,-115.0355,9.065,3.6,ml,23,62,0.267,0.49,us,us6000qhjl,2025-06-03T04:41:57.335Z,"15 km NNW of Stanley, Idaho",earthquake,1.57,6.317,0.04,84,reviewed,us,us
 2025-06-03T02:23:47.914Z,44.3392,-115.0117,15.529,3.6,ml,28,59,0.261,0.53,us,us6000qhjk,2025-06-03T04:35:58.548Z,"14 km NNW of Stanley, Idaho",earthquake,1.88,8.171,0.026,194,reviewed,us,us
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T23:41:13.020Z,36.011165618896,-120.57583618164,1.6399999856949,1.88,md,21,77,0.03185,0.08,nc,nc75190261,2025-06-03T00:42:18.371Z,"18 km NW of Parkfield, CA",earthquake,0.29,1.25,0.2,10,automatic,nc,nc
 2025-06-02T23:38:10.540Z,35.456001281738,-120.73850250244,5.4299998283386,2.93,ml,43,53,0.1162,0.04,nc,nc75190256,2025-06-03T10:33:34.645Z,"7 km WSW of Atascadero, CA",earthquake,0.21,0.899999976,0.192,12,automatic,nc,nc
 2025-06-02T23:30:23.420Z,19.558333333333,-65.4695,68.92,3.43,md,17,275,1.294,0.26,pr,pr71484203,2025-06-03T00:53:41.040Z,"131 km NNE of Vieques, Puerto Rico",earthquake,2.49,6.83,0.11295166414026,12,reviewed,pr,pr
-2025-06-02T23:17:28.423Z,36.7471,28.2323,74.036,5.8,mww,116,28,0.54,0.88,us,us6000qhiq,2025-06-03T12:42:33.866Z,"5 km S of İçmeler, Turkey",earthquake,4.72,4.818,0.031,103,reviewed,us,us
+2025-06-02T23:17:28.423Z,36.7471,28.2323,74.036,5.8,mww,116,28,0.54,0.88,us,us6000qhiq,2025-06-03T12:53:47.723Z,"5 km S of İçmeler, Turkey",earthquake,4.72,4.818,0.031,103,reviewed,us,us
 2025-06-02T23:16:47.168Z,44.3186,-115.0082,14.516,2.6,ml,20,62,0.242,0.34,us,us6000qhip,2025-06-03T02:01:50.936Z,"12 km NNW of Stanley, Idaho",earthquake,1.81,7.155,0.051,50,reviewed,us,us
 2025-06-02T23:12:27.930Z,57.0495,-135.75916666667,7.5,0.38,ml,4,115,0.01909,0.06,av,av93625856,2025-06-02T23:54:15.990Z,"25 km W of Sitka, Alaska",earthquake,0.9,0.7,0.28858997936332,4,reviewed,av,av
 2025-06-02T22:57:06.336Z,63.2702,-151.1039,0,1.7,ml,,,,0.62,ak,ak02571env61,2025-06-02T22:59:39.610Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -169,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T17:47:26.910Z,61.332833333333,-152.24383333333,-2.55,0.2,ml,9,108,0.08003,0.22,av,av93625706,2025-06-02T22:22:07.850Z,"65 km WNW of Beluga, Alaska",earthquake,0.4,2,0.16166461368305,8,reviewed,av,av
 2025-06-02T17:47:05.388Z,31.531,-104.019,6.7151,2.2,ml,24,58,0,0.1,tx,tx2025ktby,2025-06-02T19:07:42.635Z,"32 km NW of Toyah, Texas",earthquake,0.70315699189523,0.53603532129965,0.2,22,reviewed,tx,tx
 2025-06-02T17:45:16.060Z,61.335166666667,-152.25166666667,-2.59,0.82,ml,8,131,0.08406,0.15,av,av93625696,2025-06-02T22:19:02.920Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,1.58,0.21553269012247,7,reviewed,av,av
-2025-06-02T17:34:38.164Z,31.653,-104.412,4.0322,1.9,ml,23,158,0,0.7,tx,tx2025ktbp,2025-06-02T18:00:29.656Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1878643035889,0.1,19,automatic,tx,tx
+2025-06-02T17:34:38.164Z,31.653,-104.412,4.0322,1.9,ml,23,158,0,0.7,tx,tx2025ktbp,2025-06-03T12:56:29.883Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1878643035889,0.1,19,automatic,tx,tx
 2025-06-02T17:33:29.474Z,31.942,-103.382,6.1383,2.5,ml,21,55,0,0.1,tx,tx2025ktbo,2025-06-02T17:54:53.040Z,"26 km SW of Jal, New Mexico",earthquake,0.56306758043352,0.44928548228696,0.2,7,reviewed,tx,tx
 2025-06-02T17:09:02.030Z,47.448166666667,-112.7335,24.84,1.5,ml,18,125,0.338,0.08,mb,mb90091913,2025-06-02T22:29:59.510Z,"26 km W of Augusta, Montana",earthquake,0.3,0.96,0.2180576448393,15,reviewed,mb,mb
 2025-06-02T17:08:38.180Z,38.263,-122.24233333333,-0.16,1.7,md,23,61,0.02717,0.09,nc,nc75190111,2025-06-02T17:42:50.257Z,"5 km SSE of Napa, CA",quarry blast,0.23,31.61,0.372,19,reviewed,nc,nc
@@ -218,8 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T13:01:02.144Z,62.1553,-150.815,58.5,2.6,ml,,,,0.5,ak,ak025718yyb1,2025-06-02T14:50:13.040Z,"35 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-02T13:00:17.010Z,19.018333333333,-64.600666666667,52.69,3.41,md,11,289,0.5953,0.31,pr,pr71484158,2025-06-02T14:54:55.040Z,"78 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.19,8.22,0.083447943667363,6,reviewed,pr,pr
 2025-06-02T12:57:40.220Z,38.84049987793,-122.81066894531,2.1900000572205,0.93,md,17,52,0.01601,0.01,nc,nc75190016,2025-06-02T13:17:18.980Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.649999976,0.16,19,automatic,nc,nc
-2025-06-02T12:55:26.419Z,36.4829,-116.2164,5.6,0.2,ml,20,203.09,0.061,0.0704,nn,nn00898383,2025-06-02T13:51:16.080Z,"36 km NW of Pahrump, Nevada",earthquake,,2.2,0.46,4,reviewed,nn,nn
-2025-06-02T12:55:21.420Z,31.679,-104.394,4.8239,1.6,ml,23,69,0,0.4,tx,tx2025kssy,2025-06-02T14:00:22.175Z,"55 km S of Whites City, New Mexico",earthquake,0,1.1375805139542,0.1,18,automatic,tx,tx
-2025-06-02T12:54:56.898Z,36.7966,-116.0732,6.2,0,ml,9,186.96,0.044,0.0523,nn,nn00898396,2025-06-02T13:48:08.395Z,"43 km NW of Indian Springs, Nevada",earthquake,,1.3,0.01,2,reviewed,nn,nn
-2025-06-02T12:53:52.560Z,53.741,-166.76266666667,8.73,-0.15,ml,6,286,0.06914,0.11,av,av93043304,2025-06-02T21:25:47.350Z,"21 km SW of Unalaska, Alaska",earthquake,0.7,0.89,0.20728818543203,6,reviewed,av,av
-2025-06-02T12:49:06.013Z,31.683,-104.384,6.0999,1.8,ml,23,68,0,0.1,tx,tx2025ksst,2025-06-02T20:17:36.869Z,"54 km S of Whites City, New Mexico",earthquake,0.82334022904611,0.87861728916938,0.1,31,reviewed,tx,tx
