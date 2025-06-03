@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T12:27:27.762Z,31.672,-104.382,5.127,1.7,ml,29,86,0,0.1,tx,tx2025kund,2025-06-03T12:43:24.810Z,"55 km S of Whites City, New Mexico",earthquake,0.51813753169923,0.62384750923235,0.1,17,reviewed,tx,tx
 2025-06-03T11:59:34.574Z,44.3427,-115.0139,12.354,3.9,mb,41,45,0.265,0.44,us,us6000qhmg,2025-06-03T14:50:13.427Z,"15 km NNW of Stanley, Idaho",earthquake,2.52,6.637,0.142,13,reviewed,us,us
 2025-06-03T11:57:52.361Z,44.3502,-115.0143,15.416,3.5,ml,29,58,0.272,0.37,us,us6000qhmf,2025-06-03T14:45:25.615Z,"15 km NNW of Stanley, Idaho",earthquake,1.89,8.242,0.03,144,reviewed,us,us
+2025-06-03T11:35:07.960Z,39.003,-111.40566666667,-0.69,1.38,ml,21,61,0.03685,0.11,uu,uu80003578,2025-06-03T15:44:48.520Z,"16 km WNW of Emery, Utah",earthquake,0.26,0.31,0.38613355852557,3,reviewed,uu,uu
 2025-06-03T11:30:35.198Z,32.011,-101.695,7.9346,2.2,ml,31,83,0.1,0.1,tx,tx2025kuky,2025-06-03T12:18:18.119Z,"15 km SE of Stanton, Texas",earthquake,0.54812619759326,1.6550137621807,0.1,24,reviewed,tx,tx
 2025-06-03T11:26:36.034Z,35.022,25.8319,39.887,4.9,mww,111,31,2.212,0.67,us,us6000qhma,2025-06-03T14:44:23.222Z,"7 km E of Kentrí, Greece",earthquake,6.26,6.335,0.066,22,reviewed,us,us
 2025-06-03T11:05:51.940Z,33.6808333,-117.3973333,8.75,1.67,ml,80,34,0.03971,0.24,ci,ci40983247,2025-06-03T13:11:35.810Z,"7 km WNW of Lake Elsinore, CA",earthquake,0.18,0.4,0.185,28,reviewed,ci,ci
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T09:19:03.130Z,44.344,-115.01283333333,11.13,1.81,ml,14,78,0.2661,0.21,mb,mb90092528,2025-06-03T12:59:22.480Z,"15 km NNW of Stanley, Idaho",earthquake,0.5,0.96,0.21763102841362,16,reviewed,mb,mb
 2025-06-03T09:13:19.095Z,59.327,-152.6778,63.9,1.8,ml,,,,0.37,ak,ak02572u769x,2025-06-03T09:15:20.102Z,"43 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-03T09:11:56.563Z,1.3538,126.2067,56.411,4.9,mb,64,79,1.296,0.8,us,us6000qhlq,2025-06-03T09:32:19.040Z,"120 km E of Bitung, Indonesia",earthquake,4.65,6.824,0.055,105,reviewed,us,us
-2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T15:29:29.500Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
+2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T15:43:27.191Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
 2025-06-03T08:40:00.900Z,34.4231667,-118.9086667,6.12,1.79,ml,58,32,0.01714,0.31,ci,ci40983231,2025-06-03T08:50:57.570Z,"3 km NNE of Fillmore, CA",earthquake,0.3,0.63,0.115,27,automatic,ci,ci
 2025-06-03T08:32:51.440Z,38.788166046143,-122.76599884033,1.2699999809265,1.39,md,23,78,0.01338,0.04,nc,nc75190391,2025-06-03T09:07:17.772Z,"1 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.19,23,automatic,nc,nc
 2025-06-03T08:25:36.050Z,17.995166666667,-66.826,15.78,2.5,md,13,172,0.05449,0.15,pr,pr71484273,2025-06-03T08:37:03.030Z,"0 km W of Indios, Puerto Rico",earthquake,0.4,0.72,0.0070449581017813,4,reviewed,pr,pr
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T15:51:45.726Z,61.6193,-150.5917,46.5,2.8,ml,,,,0.32,ak,ak02571agmoc,2025-06-02T16:41:32.040Z,"9 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-02T15:47:14.000Z,34.2735,-118.4495,11.36,1.83,ml,16,196,0.06514,0.08,ci,ci40982943,2025-06-02T15:50:47.223Z,"2 km SSW of San Fernando, CA",earthquake,0.23,0.23,0.392,36,automatic,ci,ci
 2025-06-02T15:46:23.630Z,34.2671667,-118.4255,10.51,1.63,ml,68,26,0.04689,0.19,ci,ci40982935,2025-06-02T15:57:16.320Z,"1 km WNW of Pacoima, CA",earthquake,0.16,0.32,0.209,27,automatic,ci,ci
-2025-06-02T15:42:03.760Z,34.2718333,-117.565,1.87,0.78,ml,15,90,0.08378,0.16,ci,ci40982927,2025-06-03T13:30:18.815Z,"6 km WNW of Lytle Creek, CA",earthquake,0.25,0.39,0.129,6,reviewed,ci,ci
-2025-06-02T15:40:20.230Z,38.829334259033,-122.81866455078,2.3900001049042,0.84,md,9,87,0.008955,0.01,nc,nc75190056,2025-06-02T16:07:17.988Z,"8 km NNW of The Geysers, CA",earthquake,0.48,1.5,0.46,11,automatic,nc,nc
