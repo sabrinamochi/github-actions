@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-04T20:26:26.269Z,32.406,-102.043,3.1526,1.3,ml,40,109,0.1,0.5,tx,tx2025kwxz,2025-06-04T20:30:08.482Z,"33 km WSW of Ackerly, Texas",earthquake,0,0.8414865732193,0.2,22,automatic,tx,tx
+2025-06-04T20:26:26.270Z,32.406,-102.044,3.1326,1.3,ml,40,109,0.1,0.5,tx,tx2025kwxz,2025-06-04T20:30:44.949Z,"33 km WSW of Ackerly, Texas",earthquake,0,0.839151263237,0.2,22,automatic,tx,tx
 2025-06-04T20:18:55.992Z,31.997,-102.227,4.9856,2,ml,11,107,0,0.5,tx,tx2025kwxu,2025-06-04T20:22:24.148Z,"14 km W of Midland, Texas",earthquake,0,1.4896152019501,0.2,9,automatic,tx,tx
 2025-06-04T20:13:23.450Z,40.266334533691,-124.66683197022,-0.38999998569488,2.66,md,13,291,0.2806,0.16,nc,nc75190966,2025-06-04T20:15:06.977Z,"33 km W of Petrolia, CA",earthquake,4.98,7,0.1,9,automatic,nc,nc
 2025-06-04T20:12:54.960Z,40.291500091553,-124.33750152588,5.9299998283386,1.6,md,6,180,0.004949,0.06,nc,nc75190961,2025-06-04T20:14:36.943Z,"6 km WSW of Petrolia, CA",earthquake,2.23,2.4000001,0.14,5,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T19:33:07.740Z,38.836498260498,-122.80833435059,1.8700000047684,0.79,md,12,57,0.01315,0.01,nc,nc75190946,2025-06-04T19:57:18.660Z,"8 km WNW of Cobb, CA",earthquake,0.33,1.08000004,0.21,14,automatic,nc,nc
 2025-06-04T19:32:09.269Z,34.37366667,-96.8605,0,1.28,ml,53,88,0.2708468506,0.41,ok,ok2025kwwd,2025-06-04T19:43:45.301Z,"4 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.2,22,reviewed,ok,ok
 2025-06-04T19:28:47.368Z,32.124,-101.494,3.6027,1.5,ml,32,73,0.1,0.4,tx,tx2025kwwi,2025-06-04T20:00:39.504Z,"12 km W of Forsan, Texas",earthquake,0,1.0504679679871,0.1,23,automatic,tx,tx
-2025-06-04T19:27:08.450Z,33.6768333,-116.7641667,15.78,3.19,ml,135,13,0.05727,0.19,ci,ci41173792,2025-06-04T20:29:55.795Z,"8 km SSW of Idyllwild, CA",earthquake,0.1,0.25,0.143,363,reviewed,ci,ci
+2025-06-04T19:27:08.450Z,33.6768333,-116.7641667,15.78,3.19,ml,135,13,0.05727,0.19,ci,ci41173792,2025-06-04T20:31:05.499Z,"8 km SSW of Idyllwild, CA",earthquake,0.1,0.25,0.143,363,reviewed,ci,ci
 2025-06-04T19:11:40.951Z,15.9105,-97.9776,10,4.2,mb,87,257,1.737,0.73,us,us6000qhye,2025-06-04T19:57:05.106Z,"29 km S of Santa María Chicometepec, Mexico",earthquake,10.51,1.925,0.055,93,reviewed,us,us
 2025-06-04T19:11:28.399Z,31.528,-104.023,5.2455,1.4,ml,26,59,0,0.4,tx,tx2025kwvy,2025-06-04T20:03:44.322Z,"32 km NW of Toyah, Texas",earthquake,0,2.1832172870636,0.1,20,automatic,tx,tx
 2025-06-04T19:09:10.270Z,35.045,-118.323,1.07,1.45,ml,43,35,0.05637,0.18,ci,ci41173632,2025-06-04T19:12:47.566Z,"14 km W of Mojave, CA",earthquake,0.2,0.47,0.2,28,automatic,ci,ci
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T20:58:12.080Z,58.307,-155.73933333333,9.6,-0.19,ml,4,262,0.1334,0.09,av,av93043544,2025-06-04T02:21:58.810Z,"68 km SE of King Salmon, Alaska",earthquake,1.24,0.75,0.20109753091612,4,reviewed,av,av
 2025-06-03T20:57:32.289Z,60.0952,-150.3799,53,1.9,ml,,,,0.4,ak,ak0257310egc,2025-06-03T20:59:35.774Z,"41 km NE of Fox River, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-06-03T20:57:18.710Z,46.614333333333,-119.7925,7.74,0.21,ml,4,234,0.02007,0.04,uw,uw62122501,2025-06-03T22:42:26.740Z,"11 km SE of Desert Aire, Washington",earthquake,0.88,0.54,0.21182211068144,3,reviewed,uw,uw
-2025-06-03T20:31:26.550Z,35.04633333,-97.849,14.6,0.93,ml,32,156,0.1403724541,0.18,ok,ok2025kvcp,2025-06-03T20:54:55.527Z,"8 km E of Chickasha, Oklahoma",earthquake,,1,0.24,16,reviewed,ok,ok
