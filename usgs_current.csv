@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-05T13:10:58.206Z,61.0253,-150.5473,46.6,1.4,ml,,,,0.27,ak,ak025767n1jw,2025-06-05T13:12:54.545Z,"13 km NE of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-06-05T13:07:41.200Z,35.4253333,-118.2435,9.06,1.27,ml,6,172,0.2697,0.34,ci,ci41176072,2025-06-05T13:11:06.468Z,"29 km SE of Bodfish, CA",earthquake,3.15,22.66,0.334,20,automatic,ci,ci
+2025-06-05T13:06:50.208Z,63.2868,-151.526,0,2.2,ml,,,,1.17,ak,ak025767m62k,2025-06-05T13:09:03.501Z,"29 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-05T13:01:27.050Z,38.816833496094,-122.86399841309,-0.5,0.27,md,5,203,0.01206,0.11,nc,nc75191306,2025-06-05T13:03:02.117Z,"10 km NW of The Geysers, CA",earthquake,1.29,4.6500001,0.1,8,automatic,nc,nc
 2025-06-05T12:54:47.228Z,60.6947,-152.7914,142.4,1.9,ml,,,,0.32,ak,ak025767b0lu,2025-06-05T12:56:52.750Z,"80 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-05T12:43:28.800Z,33.5648333,-116.7226667,2.85,1.53,ml,79,22,0.01223,0.2,ci,ci41176064,2025-06-05T12:54:07.860Z,"5 km WNW of Anza, CA",earthquake,0.13,0.36,0.207,27,automatic,ci,ci
@@ -44,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T05:58:53.360Z,38.817501068115,-122.81983184815,2.460000038147,0.35,md,8,82,0.00963,0.01,nc,nc75191186,2025-06-05T06:17:19.091Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.13,0.18,9,automatic,nc,nc
 2025-06-05T05:45:46.170Z,38.2152,-117.8725,4,1.6,ml,15,96.26,0.09,0.185,nn,nn00898531,2025-06-05T05:48:27.894Z,"28 km SE of Mina, Nevada",earthquake,,0.6,0.31,9,automatic,nn,nn
 2025-06-05T05:44:25.260Z,35.3371667,-117.8085,7.42,0.96,ml,28,80,0.07599,0.16,ci,ci41175880,2025-06-05T05:48:45.400Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.58,0.189,16,automatic,ci,ci
-2025-06-05T05:44:12.020Z,38.744,-122.96733333333,2.47,1.28,md,49,40,0.04492,0.07,nc,nc75191181,2025-06-05T11:17:25.284Z,"8 km SSE of Cloverdale, CA",earthquake,0.17,0.74,0.163,43,reviewed,nc,nc
+2025-06-05T05:44:12.020Z,38.744,-122.96733333333,2.47,1.28,md,49,40,0.04492,0.07,nc,nc75191181,2025-06-05T13:07:24.095Z,"8 km SSE of Cloverdale, CA",earthquake,0.17,0.74,0.163,43,reviewed,nc,nc
 2025-06-05T05:43:55.210Z,34.1528333,-117.4346667,10.36,0.99,ml,65,42,0.07682,0.18,ci,ci41175872,2025-06-05T05:48:12.542Z,"6 km NNE of Fontana, CA",earthquake,0.17,0.28,0.147,29,automatic,ci,ci
 2025-06-05T05:40:38.480Z,40.28783416748,-124.45216369629,18.920000076294,1.54,md,7,284,0.08382,0.04,nc,nc75191176,2025-06-05T08:22:19.019Z,"15 km W of Petrolia, CA",earthquake,2.27,0.709999979,0.09,3,automatic,nc,nc
 2025-06-05T05:35:40.640Z,47.916,-121.66866666667,12.26,1.07,ml,16,74,0.1308,0.21,uw,uw62123506,2025-06-05T12:55:37.050Z,"6 km N of May Creek, Washington",earthquake,0.46,1.17,0.064245565049639,3,reviewed,uw,uw
@@ -213,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T13:22:35.790Z,17.936833333333,-66.941833333333,9.93,3.02,md,23,207,0.07066,0.19,pr,pr71484463,2025-06-04T13:46:43.500Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.41,0.47,0.11922330865026,12,reviewed,pr,pr
 2025-06-04T13:20:37.050Z,17.967666666667,-66.948,8.73,2.09,md,4,189,0.06584,0.08,pr,pr71484458,2025-06-04T13:41:56.570Z,"4 km WSW of Fuig, Puerto Rico",earthquake,2.55,0.84,0.016968644472328,4,reviewed,pr,pr
 2025-06-04T13:16:39.000Z,52.060666666667,-176.12116666667,-1.77,-0.24,ml,6,94,0.01536,0.33,av,av93627366,2025-06-05T01:18:45.940Z,"40 km ENE of Adak, Alaska",earthquake,0.95,1.43,0.2528489768627,6,reviewed,av,av
-2025-06-04T13:10:57.971Z,31.534,-104.014,5.946,1.9,ml,27,57,0,0.1,tx,tx2025kwkf,2025-06-04T15:37:05.121Z,"32 km NW of Toyah, Texas",earthquake,0.69874761008403,0.60836668885258,0.1,13,reviewed,tx,tx
